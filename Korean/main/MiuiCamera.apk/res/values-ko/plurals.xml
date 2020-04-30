@@ -18,4 +18,7 @@
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">버스트 샷 촬영완료, %1$s장의 사진 촬영됨</item>
     </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">You can create up to %d clones at a time.</item>
+    </plurals>
 </resources>
