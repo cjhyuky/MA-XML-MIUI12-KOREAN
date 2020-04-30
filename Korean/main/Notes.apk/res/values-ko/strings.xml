@@ -386,4 +386,9 @@
     <string name="todo_schedule_time_repeat_normal_workday">월요일부터 금요일까지</string>
     <string name="todo_schedule_time_repeat_week">, 매주</string>
     <string name="todo_schedule_time_repeat_year">, 매년</string>
+    <string name="todo_list">할 일 체크리스트</string>
+    <string name="todo_list_edit_text_hint">\"확인\"을 탭하여 체크리스트 생성하기</string>
+    <string name="todo_list_new_finish_all_tip">체크리스트에 최소 한 개 이상의 할 일을 적어주십시오.</string>
+    <string name="todo_list_overflow_tip">"체크리스트를 추가할 수 없습니다."</string>
+    <string name="todo_user_guide_tip6">\"확인\"을 탭하여 체크리스트 생성하기</string>
 </resources>
