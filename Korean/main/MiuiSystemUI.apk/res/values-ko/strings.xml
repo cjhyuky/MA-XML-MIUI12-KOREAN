@@ -1966,4 +1966,7 @@
   <string name="how_to_use_app_quick">앱을 전환하는 방법</string>
   <string name="how_to_use_app_quick_hide_line_summary">화면 하단에서 위로 쓸어 올리신 후 왼쪽이나 오른쪽으로 스와이프하세요</string>
   <string name="how_to_use_app_quick_summary">전체 화면 표시기 또는 화면 하단에서 왼쪽 또는 오른쪽으로 미세요</string>
+  <string name="service_name_fast_pairing">Mi 링크</string>
+  <string name="fast_pairing_introduction">Mi 링크를 사용하면 기기가 근처의 블루투스 기기에 연결할 수 있습니다. 근처에 있는 기기를 찾으려면 Mi 링크가 인터넷에 연결할 수 있도록 권한을 부여하십시오.</string>
+  <string name="disagreement_abnormal_running_fast_pairing">"권한 부여를 하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 권한을 제한하도록 선택할 수 있습니다."</string>
 </resources>
