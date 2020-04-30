@@ -527,4 +527,7 @@
     <string name="accessibility_recent_task_memory_info">총 메모리: %2$s | 사용가능한 메모리: %1$s. 정리하려면 더블 탭하세요.</string>
     <string name="accessibility_recent_task_unlocked_state">잠금 해제됨</string>
     <string name="recents_incompatible_app_message">"이 앱은 분할화면을 지원하지 않습니다"</string>
+    <string name="content_description_button_add">탭하여 앱 추가</string>
+    <string name="content_description_button_disable">"앱을 추가할 수 없습니다"</string>
+    <string name="content_description_button_remove">탭하여 앱 제거</string>
 </resources>
