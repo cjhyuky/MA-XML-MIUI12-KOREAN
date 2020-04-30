@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="steady_on_screen_notification_title">휴대 전화를 내려 놓고 휴식을 취하십시오</string>
     <string name="steady_on_screen_notify">사용 중단에 대한 알림</string>
     <string name="steady_on_screen_setting">중단 세션 시간 제한</string>
