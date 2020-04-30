@@ -440,4 +440,6 @@
      <string name="wednesday_short">수요일</string>
      <string name="wednesday_shortest">수</string>
      <string name="yesterday">어제</string>
+     <string name="control_center_title_new">오늘 사용됨</string>
+     <string name="focus_mode_custom_time">기간 설정</string>
 </resources>
