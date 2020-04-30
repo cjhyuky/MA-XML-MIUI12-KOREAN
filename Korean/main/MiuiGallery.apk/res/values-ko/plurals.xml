@@ -333,4 +333,10 @@
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d개 파일 (%2$dMB)이 아직 다운로드되지 않았습니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"</item>
     </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s명이 이 앨범을 볼 수 있음</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">%d개 항목 다운로드 중</item>
+    </plurals>
 </resources>
