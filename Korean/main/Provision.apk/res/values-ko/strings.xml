@@ -93,7 +93,7 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
     <string name="other_settings_user_experience_summary_index"></string>
     <string name="sim_card_detection_mobile_not_available">"SIM카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결해주세요."</string>
-    <string name="start_up_slogan">샤오미 기기로 생산성을 높여보세요</string>
+    <string name="start_up_slogan">당신만을 위한 서비스</string>
     <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인 정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="agree_terms_input_method_kika">"나는 Kika 개인 정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
