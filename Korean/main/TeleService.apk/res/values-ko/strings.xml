@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant_not_installed">먼저 AI 통화 어시스턴트 설치</string>
+    <string name="ai_assistant_setting_title">AI 통화 어시스턴트</string>
+    <string name="fiveg_sa_switch_warning_toast">전화를 재부팅하여 적용하십시오.</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">데이터 없음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">그렇지 않습니다</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="notification_channel_demo">데모 기기</string>
     <string name="livetalk_setting">충전 패키지</string>
     <string name="purchase_list">구매 기록</string>
