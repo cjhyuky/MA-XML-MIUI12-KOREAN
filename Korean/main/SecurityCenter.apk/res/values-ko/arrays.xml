@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="debug_open_intercept">
+        <item>컴퓨터를 사용하여 기기의 파일에 액세스하고 편집 할 수 있습니다.</item>
+        <item>명시적인 허가없이 기기에 앱을 설치할 수 있습니다.</item>
+        <item>"화면 내용을 원격으로 모니터링하고 기록 할 수 있습니다."</item>
+        <item>기기에 대한 자세한 정보에 액세스 할 수 있습니다.</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>중요: 여러 시스템 앱이 제대로 작동하지 않을 수 있습니다.</item>
+        <item>텍스트 레이아웃, 계정 및 컨텐츠가 올바르게 표시되지 않을 수 있습니다.</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>문자 메시지 내용 및 개인 정보를 포함 할 수 있는 기타 항목을 포함한 모든 알림을 읽으십시오</item>
+        <item>일부 앱에 대한 알림 권한 제한</item>
+        <item>탭핑 알림 시뮬레이션 및 앱 열기</item>
+        <item>방해금지모드 켜고 끄기</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>사용하는 앱과 사용 빈도를 파악하여 관심사 및 행동에 대한 데이터를 수집합니다</item>
+        <item>이동 통신사 관련 및 언어 설정과 기타 세부 정보에 액세스</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"GetApps에서 확인하지 않은 타사 앱은 여러 문제를 유발하고 시스템 안정성을 저하시킬 수 있습니다."</item>
+        <item>일부 타사 앱에는 개인 데이터를 위험에 빠뜨리는 맬웨어가 포함되어있을 수 있습니다.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>내부 저장소</item>
+        <item>외부 저장소</item>
+    </string-array>
     <string-array name="date_of_traffic_cmcc">
         <item>"이번 주 "</item>
         <item>"오늘 "</item>
