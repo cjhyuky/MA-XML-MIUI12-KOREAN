@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">데이터 없음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">그렇지 않습니다</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
+    <string name="secondspace_homepage">"두번째 공백에 대해 지정된 화면 잠금을 설정하십시오.
+데이터를 분리하고 보호하십시오."</string>
     <string name="greenguard_install_cancle">괜찮습니다</string>
     <string name="greenguard_install_confirm">설치</string>
     <string name="greenguard_install_message">"패밀리 가드는 시스템 앱입니다. 인터넷을 통해 설치할 필요가 없습니다."</string>
