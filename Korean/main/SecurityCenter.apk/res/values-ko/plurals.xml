@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="app_behavior_desc_allow_minute">
+        <item quantity="other">%1$s에서 %2$d회 허용</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny_minute">
+        <item quantity="other">%1$s에서 %2$d회 거부됨</item>
+    </plurals>
+    <plurals name="app_behavior_desc_virtual_minute">
+        <item quantity="other">%1$s에 빈 메시지 %2$d개를 반환했습니다</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple">
+        <item quantity="other">%1$1s %2$d개의 앱을 시작했습니다</item>
+    </plurals>
+    <plurals name="app_behavior_wakepath_multiple_single">
+        <item quantity="other">이 앱은 다른 앱 %1$d개를 출시</item>
+    </plurals>
+    <plurals name="pc_battery_history_hour">
+        <item quantity="other">"시간"</item>
+    </plurals>
+    <plurals name="pc_battery_history_minute">
+        <item quantity="other">"분"</item>
+    </plurals>
+    <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">확인(%d초)</item>
+    </plurals>
+    <plurals name="power_off_warning_notification_message">
+        <item quantity="other">기기가 %d초 후에 종료됩니다. 충전기를 연결하세요.</item>
+    </plurals>
+    <plurals name="privacy_permission_summary">
+        <item quantity="other">%s개의 앱에 영구적으로 액세스할 수 있음</item>
+    </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s회</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
          <item quantity="other">%1$s-%2$s 빈 메시지가 %3$d회 반환되었습니다</item>
     </plurals>
