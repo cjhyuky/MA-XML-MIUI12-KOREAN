@@ -3223,11 +3223,9 @@
     <string name="abc_shareactionprovider_share_with">공유</string>
     <string name="abc_shareactionprovider_share_with_application">%s와 공유</string>
     <string name="abc_toolbar_collapse_description">축소</string>
-    <string name="app_behavior_desc_virtual_once">%1$s에서 빈 메시지를 반환했습니다.</string>
     <string name="app_behavior_get_install">%1s가 앱 목록에 액세스했습니다</string>
     <string name="app_behavior_get_install_single">이 앱이 앱 목록에 액세스했습니다</string>
     <string name="app_behavior_now_running">실행 중</string>
-    <string name="app_behavior_perm_change_tip_virtual">\"%1s\"가 \"빈 메시지 반환\"으로 변경되었습니다.</string>
     <string name="app_behavior_start_from_app" formatted="false">%1s이(가) %2s에 의해 시작되었습니다</string>
     <string name="app_behavior_this_run">한번만</string>
     <string name="cd_back">뒤로</string>
@@ -3266,10 +3264,9 @@
     <string name="perm_intercept_notification_title">%1s가 알림을 사용하도록 허용하면이 앱에서 다음 작업을 수행 할 수 있습니다.</string>
     <string name="perm_intercept_privacy_content">이러한 조치로 인해 개인 데이터가 노출 될 수 있습니다. 어쨌든 권한 (%1s)을 부여 하시겠습니까?</string>
     <string name="perm_intercept_title">사용 데이터에 %1s에 액세스 할 수있는 권한을 부여하면이 앱이 다음 작업을 수행 할 수 있습니다.</string>
-    <string name="perm_intercept_unknown_title">알 수없는 출처에서 앱을 설치하도록 %1s을 허용하면 다음과 같은 위험이 발생할 수 있습니다.</string>
-    <string name="permission_action_desc">개인 정보 보호를 위해 권한을 부여하지만 빈 메시지를 앱에 반환</string>
+    <string name="perm_intercept_unknown_title">알 수 없는 출처에서 앱을 설치하도록 %1s을 허용하면 다음과 같은 위험이 발생할 수 있습니다.</string>
     <string name="permission_action_desc_always">이 권한은 언제든지 사용할 수 있습니다</string>
-    <string name="permission_action_desc_foreground">​​"이 권한은 앱을 사용하는 동안에 만 사용할 수 있습니다"</string>
+    <string name="permission_action_desc_foreground">"이 권한은 앱을 사용하는 동안에 만 사용할 수 있습니다"</string>
     <string name="permission_action_desc_prompt">이 권한은 허용 할 때만 사용할 수 있습니다</string>
     <string name="permission_action_desc_reject">"이 권한은 사용할 수 없습니다"</string>
     <string name="power_off_warning_button_ok">알았다</string>
