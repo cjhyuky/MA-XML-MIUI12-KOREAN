@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">사용 가능한 장치 %d개</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">선택한 %d개의 항목</item>
+    </plurals>
     <plurals name="lockpassword_password_too_long">
         <item quantity="other">%d자 까지 입력할 수 있습니다</item>
     </plurals>
