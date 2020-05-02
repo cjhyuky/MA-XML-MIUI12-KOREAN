@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="apply_choosen_type_resource">선택된 항목 적용</string>
+    <string name="gallery_wallpaper_theme">필수 배경화면</string>
+    <string name="theme_not_include_module_desc">이 테마는 아래의 항목이 포함되어있지 않습니다: %s</string>
+    <string name="gallery_wallpaper">램덤 배경화면</string>
     <string name="community_cta_dialog_cancel">취소</string>
     <string name="community_cta_dialog_des">이 테마에는 Mi 계정 ID 및 Mi 커뮤니티 상태를 표시하는 시계 바로 가기가 포함되어 있습니다. 다른 테마로 전환하거나 시계 위젯을 제거하여이 기능을 끌 수 있습니다.</string>
     <string name="community_cta_dialog_ok">확인</string>
