@@ -381,4 +381,18 @@
   <string name="manager_city_option_add_city_title">추가 완료</string>
   <string name="manager_city_option_add_home">시작 페이지에 추가</string>
   <string name="manager_city_option_view_on_home">시작 페이지에서 보기</string>
+    <string name="dislike_alert_dialog_title">이 콘텐츠의 어떤 부분이 싫으신가요?</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
+    <string name="miuix_sbl_trackin g_progress_labe_refreshing">새로고침…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을로드 할 수 없습니다"</string>
+    <string name="not_set">설정되지 않음</string>
+    <string name="preference_copied">\"%1$s\"가 클립 보드에 복사되었습니다.</string>
+    <string name="thanku_for_feedback">의견 감사드립니다. 설정 페이지에서 날씨 비디오를 다시 열 수 있습니다.</string>
+    <string name="v7_preference_off">꺼짐</string>
+    <string name="v7_preference_on">켜짐</string>
 </resources>
