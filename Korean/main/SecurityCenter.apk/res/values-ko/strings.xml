@@ -1474,7 +1474,7 @@
   <string name="main_daily_package">일일 데이터 플랜</string>
   <string name="main_indicator_title">활성화 대기중</string>
   <string name="main_leisure_remained">오프 피크 데이터 잔량</string>
-  <string name="main_month_total_used">이번 달에 사용됨</string>
+  <string name="main_month_total_used">이번달 사용량</string>
   <string name="main_month_used">데이터플랜</string>
   <string name="main_no_info">데이터 없음</string>
   <string name="main_normal_data_usage">사용된 모바일 데이터</string>
