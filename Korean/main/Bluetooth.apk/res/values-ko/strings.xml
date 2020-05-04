@@ -231,4 +231,8 @@
     <string name="repair_for_phonebook_access_version_comp">전화번호부 액세스 버전 호환성을 위한 재 페어링</string>
     <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD카드를 삽입하세요.</string>
     <string name="status_no_sd_card_nosdcard">USB 저장소가 없습니다.</string>
+    <string name="switch_audio_device_bt">Bluetooth</string>
+    <string name="switch_audio_device_phone">이 장치</string>
+    <string name="switch_audio_notification_content">현재 오디오 출력 장치:</string>
+    <string name="switch_audio_notification_title">장치 연결성</string>
 </resources>
