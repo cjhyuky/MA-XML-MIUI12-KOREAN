@@ -148,4 +148,23 @@
   <string name="miservice_notification_scan_title">순간 번역</string>
   <string name="miservice_notification_boot_sub_title">MIUI의 로컬 기능 및 재미 소개</string>
   <string name="miservice_notification_boot_title">새로운 기계를 빨리 알아 가십시오</string>
+    <string name="miui_main_update_success_title_12">없음</string>
+    <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화가 꺼져 있습니다</string>
+    <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
+    <string name="miuix_appcompat_cloud_state_syncing">클라우드 동기화 중…</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금은 여기까지입니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금은 여기까지입니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드 할 수 없습니다"</string>
+    <string name="share_cancel">공유 취소</string>
+    <string name="share_failed">"공유 할 수 없습니다"</string>
+    <string name="share_no_network">"네트워크에 연결할 수 없습니다"</string>
+    <string name="share_not_install_wechat">WeChat을 먼저 설치하세요</string>
+    <string name="share_not_install_weibo">Weibo를 먼저 설치하세요</string>
+    <string name="share_success">공유 완료</string>
+    <string name="share_title">공유</string>
 </resources>
