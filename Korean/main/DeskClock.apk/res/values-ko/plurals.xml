@@ -72,4 +72,16 @@
      <plurals name="sleep_duration_min_avg">
          <item quantity="other">%1$s 분</item>
      </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">" 분"</item>
+        <item quantity="one">" 분"</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s시간 전</item>
+        <item quantity="one">%s시간 전</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s시간 뒤</item>
+        <item quantity="one">%s시간 뒤</item>
+    </plurals>
 </resources>
