@@ -27,4 +27,116 @@
     <string name="earth_title">홈</string>
     <string name="game_view_content_description">게임 보기</string>
     <string name="mars_position_content_0">"이 지역에는 벼랑, 암석 및 넓은 평평한 계곡이 있으며, 이 계곡은 잔해로 덮인 빙하로 인해 발생한 것으로 알려져 있습니다. 점토 광물도 여기에서 발견되었으며, 이는 고대 화성에서의 생명의 증거를 찾도록 큰 흥미를 유발하고 있습니다.
+
+
+미항공우주국/제트추진연구소/애리조나대학교"</string>
+    <string name="mars_position_content_1">"RSL (Recurring Slope Lineae)은 물이 스며들어 생길 수 있는 따뜻한 화성 경사면에서의 흐름입니다. Hale Crater의 RSL은 녹과 같은 산화된 철 화합물로 인해 대부분의 RSL에 비해 비정상적으로 붉은색을 가집니다.
+
+미항공우주국/제트추진연구소/애리조나대학교"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis는 밝은 색의 점토가 풍부한 암석이있는 고대 물 유출 채널입니다. 점토 광물은 지구상의 미세한 생명체를 쉽게 보존하므로 아마도 Mawrth에서 고대 생명의 흔적을 찾을 수 있을 것입니다.
+
+미항공우주국/제트추진연구소/애리조나대학교"</string>
+    <string name="mars_position_title_0">"닐로 시르티스
+멘세 지역"</string>
+    <string name="mars_position_title_1">"헤일 분화구의
+중앙
+산맥"</string>
+    <string name="mars_position_title_2">"맥스 밸리스의
+분화구"</string>
+    <string name="mars_summary">광대한 화성의 사막은 항상 인류를 경외롭게 해왔습니다</string>
+    <string name="mars_title">레드 플래닛</string>
+    <string name="miui_clock_city_name_local">로컬</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">정보 없음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
+    <string name="not_set">설정 안함</string>
+    <string name="password_toggle_content_description">암호 보기</string>
+    <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
+    <string name="saturn_summary">토성의 고리는 태양계에서 가장 놀라운 광경을 만듭니다</string>
+    <string name="saturn_title">파어웨이 링</string>
+    <string name="search_menu_title">검색</string>
+    <string name="super_wallpaper_list_label">슈퍼 배경화면</string>
+    <string name="super_wallpaper_setting_apply_success_toast">적용 완료</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">적용</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">지역 선택</string>
+    <string name="super_wallpaper_setting_coordinate_title">좌표</string>
+    <string name="super_wallpaper_setting_view_height_title">고도</string>
+    <string name="time_picker_dialog_title">시간 설정</string>
+    <string name="time_picker_label_hour">시간</string>
+    <string name="time_picker_label_minute">분</string>
+    <string name="v7_preference_off">끔</string>
+    <string name="v7_preference_on">켬</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">온라인 배경화면 더보기</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">홈화면</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">잠금화면</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">온라인 배경화면</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">배경화면 탐색</string>
+    <string name="wallpaper_setting_online_wallpaper_title">온라인 배경화면</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">슈퍼 배경화면</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">더 보기</string>
+    <string name="wallpaper_setting_title">배경화면</string>
+
+convert to your format!!!
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+MMMM d"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+MMMM d"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+M/dd"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+M/dd"</string>
+
+new apk - MiuiAccessibility!!!! i will send it to you later!
+
+ignore MiuiBluetooth changes for now!
+
+MiuiBugReport
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="copy">Copy</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="not_set">Not set</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="search_menu_title">Search</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="feedback_answer_detail_feedback_resolved">Yes</string>
+    <string name="feedback_answer_detail_feedback_result">Thanks for your feedback!</string>
+    <string name="feedback_answer_detail_feedback_title">Was this helpful?</string>
+    <string name="feedback_answer_detail_feedback_unresolved">No</string>
+    <string name="feedback_answer_detail_relative_question">This might be relevant</string>
+    <string name="feedback_answer_detail_submit_dialog_confirm">Submit</string>
+    <string name="feedback_answer_detail_submit_dialog_content">"You can describe the issue you've encountered and we'll try to fix it. Submit feedback?"</string>
+    <string name="feedback_answer_detail_submit_dialog_title">Submit feedback?</string>
+    <string name="feedback_edit_popup_window_related_title">This might be relevant</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>  
 </resources>
