@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="error_ap_in_use">"핫스팟이 켜져있을 때 다른 장치로 파일을 보낼 수 없습니다"</string>
-     <string name="error_slave_wifi_in_use">"이중 Wi-Fi가 켜져 있으면 Mi Share가 작동하지 않습니다. 설정에서 이중 Wi-Fi를 끄고 다시 시도하십시오."</string>
-     <string name="error_wifi_display_in_use">"캐스팅 중에 다른 장치로 파일을 보낼 수 없습니다"</string>
-     <string name="go_to_settings">설정</string>
+  <string name="error_ap_in_use">"핫스팟이 켜져있을 때 다른 장치로 파일을 보낼 수 없습니다"</string>
+  <string name="error_slave_wifi_in_use">"이중 Wi-Fi가 켜져 있으면 Mi Share가 작동하지 않습니다. 설정에서 이중 Wi-Fi를 끄고 다시 시도하십시오."</string>
+  <string name="error_wifi_display_in_use">"캐스팅 중에 다른 장치로 파일을 보낼 수 없습니다"</string>
+  <string name="go_to_settings">설정</string>
   <string name="abc_action_bar_home_description">홈 탐색</string>
   <string name="abc_action_bar_up_description">위로 탐색</string>
   <string name="abc_action_menu_overflow_description">옵션 더보기</string>
@@ -134,23 +134,6 @@
     <string name="some_files_receive_completed">"%1$s의 수신 완료된 파일 보기"</string>
     <string name="to_feedback">리포트</string>
     <string name="view_file">보기</string>
-    <string name="abc_action_bar_home_description">홈으로 이동</string>
-    <string name="abc_action_bar_up_description">위로 이동</string>
-    <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
-    <string name="abc_action_mode_done">완료</string>
-    <string name="abc_activity_chooser_view_see_all">전체보기</string>
-    <string name="abc_activitychooserview_choose_application">앱 선택</string>
-    <string name="abc_capital_off">끔</string>
-    <string name="abc_capital_on">켬</string>
-    <string name="abc_search_hint">검색 중…</string>
-    <string name="abc_searchview_description_clear">쿼리 비우기</string>
-    <string name="abc_searchview_description_query">쿼리 검색</string>
-    <string name="abc_searchview_description_search">검색</string>
-    <string name="abc_searchview_description_submit">쿼리 제출</string>
-    <string name="abc_searchview_description_voice">음성 검색</string>
-    <string name="abc_shareactionprovider_share_with">공유</string>
-    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
-    <string name="abc_toolbar_collapse_description">컬랩스</string>
     <string name="agree_desc">위에 나열된 필수 권한 부여.</string>
     <string name="btn_cancel_send">이 전송 취소</string>
     <string name="btn_exit_send">종료</string>
@@ -171,7 +154,6 @@
     <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
     <string name="purpose_v12">Mi Share에 오신 것을 환영합니다! 이 앱을 사용하여 장치간에 파일을 전송할 수 있습니다.</string>
-    <string name="search_menu_title">검색</string>
     <string name="user_instructions">주의</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>

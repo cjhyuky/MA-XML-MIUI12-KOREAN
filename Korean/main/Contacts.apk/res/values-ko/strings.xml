@@ -1417,7 +1417,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
     <string name="abc_toolbar_collapse_description">컬랩스</string>
     <string name="actionbar_button_up_description">이전</string>
-    <string name="ai_calllog_call_record_menu">AI 통화 녹음</string>
     <string name="callrecordview_menu_aiphone">AI 통화</string>
     <string name="clearable_edittext_clear_description">비우기</string>
     <string name="copy">복사</string>
@@ -1492,7 +1491,6 @@
     <string name="time_picker_dialog_title">시간 설정</string>
     <string name="time_picker_label_hour">시</string>
     <string name="time_picker_label_minute">분</string>
-    <string name="tomorrow">내일</string>
     <string name="tuesday">화요일</string>
     <string name="tuesday_short">화요일</string>
     <string name="tuesday_shortest">화</string>
@@ -1501,5 +1499,4 @@
     <string name="wednesday">수요일</string>
     <string name="wednesday_short">수요일</string>
     <string name="wednesday_shortest">수</string>
-    <string name="yesterday">어제</string>
 </resources>

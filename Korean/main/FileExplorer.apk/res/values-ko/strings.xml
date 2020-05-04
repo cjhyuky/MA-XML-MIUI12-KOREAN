@@ -840,7 +840,6 @@
     <string name="text_select_nothing">전체해제</string>
     <string name="hint_switch_to_grid_mode">격자보기로 전환</string>
     <string name="hint_switch_to_list_mode">목록보기로 전환</string>
-    <string name="app_all_purpose">파일 관리자를 사용해주셔서 감사합니다. 이 앱을 사용하여 휴대전화의 파일을 관리할 수 있습니다.</string>
     <string name="app_function">기기의 파일 관리</string>
     <string name="doc_all">모든</string>
     <string name="error_file_already_exists">파일이 이미 존재합니다</string>

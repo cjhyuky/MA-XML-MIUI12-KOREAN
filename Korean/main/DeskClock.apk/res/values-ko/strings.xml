@@ -451,7 +451,6 @@
     <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
     <string name="reach_upper_limit">"타이머를 추가할 수 없습니다"</string>
-    <string name="search_menu_title">검색</string>
     <string name="system_permission_agree_desc">이 앱을 인터넷에 연결하여 모든 기능에 접근하도록 허용.</string>
     <string name="system_permission_main_purpose">스톱워치를 사용하여 시간보기, 알람 및 타이머 설정</string>
     <string name="timer_item_delete">삭제</string>
