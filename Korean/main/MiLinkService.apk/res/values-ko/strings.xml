@@ -139,4 +139,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="help_page_text_55_global">"네트워크에 연결할 수없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하십시오. 일부 모델에서는이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다.
 4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보하실 수 있습니다."</string>
     <string name="actionbar_button_up_description">뒤로</string>
+    <string name="dialog_nfc_cast_wifi_off">NFC를 사용하여 전송할 수 있도록 Wi-Fi를 켭니다. 지금 켜시겠습니까?</string>
+    <string name="toast_nfc_dont_move">"휴대 전화를 멀리 옮기지 마십시오"</string>
+    <string name="toast_turn_off_hotspot_before_cast">전송하기 전에 휴대용 핫스팟을 끄십시오</string>
 </resources>
