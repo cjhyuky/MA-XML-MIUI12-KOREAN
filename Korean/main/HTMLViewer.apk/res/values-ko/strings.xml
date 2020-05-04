@@ -28,5 +28,14 @@
     <string name="open_wifi_connect_and_use_data_summary">모바일 데이터 사용중. 탭하여 Wi-Fi로 전환하십시오.</string>
     <string name="poco_privacy_policy">포코 런쳐 개인정보 보호 정책 &amp; 포코 런쳐 사용자 동의</string>
     <string name="poco_launcher_privacy_policy">포코 런쳐 개인정보 보호정책</string>
-    <string name="poco_launcher_user_agreement">포코 런쳐 사용자 약관</string>     
+    <string name="poco_launcher_user_agreement">포코 런쳐 사용자 약관</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">정보 없음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
+    <string name="privacy_station_title">Xiaomi의 개인 정보 보호</string>
 </resources>
