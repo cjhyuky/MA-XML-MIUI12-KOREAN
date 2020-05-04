@@ -162,4 +162,23 @@
     <string name="virtual_reject_notice_title_contacts">%1$s 앱이 연락처에 액세스하려고 합니다</string>
     <string name="virtual_reject_notice_title_phonestate">%1$s 앱이 장치정보에 액세스하려고 합니다</string>
     <string name="virtual_reject_notice_title_sms">%1$s 앱이 메시지에 액세스하려고 합니다</string>
+    <string name="HIPS_Perm_Intl_group_desc_audio_recorder">오디오 녹음 및 전화 걸기</string>
+    <string name="HIPS_Perm_Intl_group_desc_auto_start">백그라운드에서 자동으로 앱 시작</string>
+    <string name="HIPS_Perm_Intl_group_desc_calendar">캘린더 일정에 접근</string>
+    <string name="HIPS_Perm_Intl_group_desc_call_log">통화 기록 접근 및 편집</string>
+    <string name="HIPS_Perm_Intl_group_desc_camera">사진 촬영 및 비디오 제작</string>
+    <string name="HIPS_Perm_Intl_group_desc_contact">연락처 편집 및 삭제</string>
+    <string name="HIPS_Perm_Intl_group_desc_location">정확한 위치에 접근 (GPS 및 네트워크 기반)</string>
+    <string name="HIPS_Perm_Intl_group_desc_storage">"장치의 내부 저장소에 파일 추가 및 삭제"</string>
+    <string name="HIPS_Perm_Intl_group_name_audio_recorder">마이크</string>
+    <string name="HIPS_Perm_Intl_group_name_auto_start">자동시작</string>
+    <string name="HIPS_Perm_Intl_group_name_calendar">캘린더</string>
+    <string name="HIPS_Perm_Intl_group_name_call_log">통화기록</string>
+    <string name="HIPS_Perm_Intl_group_name_camera">카메라</string>
+    <string name="HIPS_Perm_Intl_group_name_contact">연락처</string>
+    <string name="HIPS_Perm_Intl_group_name_location">위치</string>
+    <string name="HIPS_Perm_Intl_group_name_storage">저장소</string>
+    <string name="permission_group_title_sensitive_privacy_related">민감한 위치정보</string>
+    <string name="permission_list_include">"다음을 포함합니다:
+"</string>
 </resources>
