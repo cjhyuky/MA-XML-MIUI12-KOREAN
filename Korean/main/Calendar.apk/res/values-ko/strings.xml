@@ -930,4 +930,12 @@
     <string name="wednesday_short">수요일</string>
     <string name="wednesday_shortest">수</string>
     <string name="yesterday">어제</string>
+    <string name="accessibility_month_page_selected_prefix">%1$d중 %2$d 표시. 선택된 날짜: %4$d/%5$d/%3$d.</string>
+    <string name="accessibility_year_item_selected">Selected month: %d. Tap to open month view.</string>
+    <string name="accessibility_year_page_selected">Year view for %d. Swipe left or right to switch between years, tap to select months.</string>
+    <string name="action_bar_cancel">취소</string>
+    <string name="action_bar_confirm">확인</string>
+    <string name="action_text_card_manager">채널</string>
+    <string name="lunar_date_content_desc">중국 달력에 따른 날짜</string>
+    <string name="solar_date_content_desc">그레고리력에 따른 날짜</string>
 </resources>
