@@ -3468,6 +3468,4 @@
     <string name="usb_mount">USB 장치 마운트</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
-    <string name="privacy_mask_summary">MIUI는 실제 ID 대신 타사 앱에 가상 ID를 제공합니다. 앱이 사용자의 행동 및 환경 설정을 추적하지 못하도록 하고 개인 정보를 보호합니다.</string>
-    <string name="privacy_mask_title">가상 ID 켜짐</string>
 </resources>
