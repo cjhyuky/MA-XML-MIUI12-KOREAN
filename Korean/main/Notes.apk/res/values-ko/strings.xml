@@ -391,4 +391,8 @@
     <string name="todo_list_new_finish_all_tip">체크리스트에 최소 한 개 이상의 할 일을 적어주십시오.</string>
     <string name="todo_list_overflow_tip">"체크리스트를 추가할 수 없습니다."</string>
     <string name="todo_user_guide_tip6">\"확인\"을 탭하여 체크리스트 생성하기</string>
+    <string name="btn_next">다음</string>
+    <string name="note_gesture_guide_step1">음성 메모를 남기시려면 플러스 버튼을 누르고 계세요</string>
+    <string name="note_gesture_guide_step2">폴더를 생성하시려면 하나의 메모를 누르고 계신후 다른 메모에 드래그하세요</string>
+    <string name="note_gesture_guide_step3">하나의 메모를 누르고 계신 후 폴더로 드래그하시면 메모가 이동됩니다</string>
 </resources>
