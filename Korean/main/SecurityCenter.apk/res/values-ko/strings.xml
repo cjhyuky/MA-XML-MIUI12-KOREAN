@@ -3410,7 +3410,7 @@
     <string name="storage_app_manager_factory_reset_dlg_msg">이 Android 시스템 앱의 모든 업데이트가 제거됩니다.</string>
     <string name="storage_app_manager_factory_reset_dlg_title">업데이트를 제거 하시겠습니까?</string>
     <string name="storage_app_manager_uninstall_application">제거</string>
-    <string name="storage_app_manager_uninstall_protected_dlg_msg">시스템 플러그인을 제거하면 일부 기능이 제대로 작동하지 않을 수 있습니다. 어쨌든 제거 하시겠습니까?</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_msg">시스템 플러그인을 제거하면 일부 기능이 제대로 작동하지 않을 수 있습니다. 어쨌든 제거하시겠습니까?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">주의</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"이 앱의 이중 앱도 제거됩니다."</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">앱을 제거하면 모든 앱 데이터도 삭제됩니다.</string>
@@ -3453,9 +3453,9 @@
 포맷하면 ^2의 기존 내용이 지워집니다. 콘텐츠 손실을 방지하려면 다른 ^3 또는 기기에 백업하세요."</string>
     <string name="storage_wizard_format_confirm_v2_title">지금 ^1을 포맷하시겠습니까?</string>
     <string name="superpower_savemode_description_title">울트라 배터리 절약 기능은 다음 제한 사항을 활성화합니다.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data> 동시에 사용자로서의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href = \ "% 1을 읽고 동의하십시오. $ s \ ">이용 약관 &lt;/ a> 및 &lt;a href = \"%2$s \ ">개인 정보 취급 방침 &lt;/ a>. </Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data> 동시에 사용자로서의 권리와 데이터 사용 방법을 완전히 이해하려면 &lt;a href = \ "% 1을 읽고 동의하십시오. $ s \ ">개인 정보 취급 방침 &lt;/ a>. </Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data> 동시에 사용자로서의 권리와 데이터를 사용하는 방법을 완전히 이해하기 위해 &lt;a href = \ "% 1을 읽고 동의합니다. $ s \ ">이용 약관 &lt;/ a>. </Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>동시에 사용자로서의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s">이용 약관&lt;/a> 및 &lt;a href=\"%2$s">개인정보 보호정책&lt;/a>을 읽고 동의하십시오.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>동시에 사용자로서의 권리와 데이터 사용 방법을 완전히 이해하려면 &lt;a href=\"%1$s">이용 약관&lt;/a> 및 &lt;a href=\"%2$s">개인정보 보호정책&lt;/a>을 읽고 동의하십시오.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>동시에 사용자로서의 권리와 데이터를 사용하는 방법을 완전히 이해하기 위해 &lt;a href=\"%1$s">이용 약관&lt;/a> 및 &lt;a href=\"%2$s">개인정보 보호정책&lt;/a>을 읽고 동의하십시오.</Data></string>
     <string name="system_permission_declare_privacy_no_network">이 앱이 정상적으로 작동하려면 다음과 같은 권한이 필요합니다.</string>
     <string name="system_permission_declare_title">주의</string>
     <string name="tab_sort_all">전체</string>
