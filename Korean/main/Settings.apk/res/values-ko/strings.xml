@@ -9556,4 +9556,5 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="use_control_panel">제어 센터 사용</string>
     <string name="wifi_security_none_owe">없음/확장 오픈</string>
     <string name="wifi_security_short_none_owe">없음/OWE</string>
+    <string name="control_panel_switch_side">컨트롤 센터 측면으로 전환</string>
 </resources>
