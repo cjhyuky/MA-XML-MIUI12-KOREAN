@@ -111,14 +111,12 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>낮은 대기 시간에 최적화</item>
-        <item>낮은 대기 시간에 최적화</item>
         <item>연결 품질에 최적화</item>
         <item>평균 오디오 및 연결 품질</item>
         <item>오디오 품질에 최적화</item>
         <item>최선의 노력(자동 비트 전송률)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>낮은 대기 시간 (192kbps)에 최적화</item>
         <item>낮은 대기 시간(256kbps)에 최적화</item>
         <item>연결 품질(400kbps)에 최적화</item>
         <item>균형 오디오 및 연결 품질(500/560kbps)</item>
@@ -183,8 +181,12 @@
     <item>Qualcomm® aptX ™ HD 오디오</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX ™ 적응형 오디오</item>
-    <item>선택 코덱 활성화</item>
-    <item>선택 코덱 비활성화</item>
+    <item>Qualcomm® aptX™ TWS+ 오디오</item>
+    <item>LHDC_V3</item>
+    <item>LHDC_V2</item>
+    <item>LHDC_V1</item>
+    <item>외부코덱 활성화</item>
+    <item>외부코덱 비활성화</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_titles">
     <item>시스템 환경 설정 사용 (기본값)</item>
@@ -194,8 +196,12 @@
     <item>Qualcomm® aptX ™ HD 오디오</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX ™ 적응형 오디오</item>
-    <item>선택 코덱 활성화</item>
-    <item>선택 코덱 비활성화</item>
+    <item>Qualcomm® aptX™ TWS+ 오디오</item>
+    <item>LHDC_V3</item>
+    <item>LHDC_V2</item>
+    <item>LHDC_V1</item>
+    <item>외부코덱 활성화</item>
+    <item>외부코덱 비활성화</item>
   </string-array>
   <string-array name="bluetooth_audio_active_device_summaries">
     <item />
