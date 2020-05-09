@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="aod_name_wanxiang">항상 켜짐 표시</string>
+    <string name="band_5G">"(5GHz 대역)"</string>
+    <string name="band_24G">"(2.4 GHz 대역)"</string>
+    <string name="keywords_ambient_display">수신 알림</string>
+    <string name="keywords_ambient_display_screen">주변 디스플레이, 잠금 화면 디스플레이</string>
+    <string name="keywords_android_version">안드로이드 보안 패치 수준,베이스 밴드 버전, 커널 버전</string>
+    <string name="keywords_assist_gesture_launch">제스처</string>
+    <string name="keywords_assist_input">기본 어시스턴트</string>
+    <string name="keywords_bluetooth_settings">연결됨, 장치, 헤드폰, 헤드셋, 스피커, 무선, 페어, 이어 버드, 음악, 미디어</string>
+    <string name="keywords_default_browser">기본, 기본 브라우저</string>
+    <string name="keywords_default_links">기본</string>
+    <string name="keywords_default_payment_app">지급, 기본값</string>
+    <string name="keywords_fingerprint_settings">지문, 지문 추가</string>
+    <string name="keywords_hotspot_tethering">USB 테더, 블루투스 테더, 와이파이 핫스팟</string>
+    <string name="keywords_imei_info">IMEI, MEID, MIN, PRL 버전, IMEI SV</string>
+    <string name="keywords_model_and_hardware">일련 번호, 하드웨어 버전</string>
+    <string name="keywords_ring_vibration">햅틱, 진동, 전화, 전화, 감도, 벨소리</string>
+    <string name="keywords_screen_timeout">화면, 잠금 시간, 시간 초과, 잠금 화면</string>
+    <string name="keywords_storage_settings">메모리, 캐시, 데이터, 삭제, 지우기, 여유 공간</string>
+    <string name="keywords_system_update_settings">업그레이드, 안드로이드</string>
+    <string name="keywords_touch_vibration">햅틱, 진동, 화면, 감도</string>
+    <string name="keywords_wallpaper">배경, 화면, 잠금 화면, 테마</string>
+    <string name="keywords_zen_mode_settings">DND, 일정, 알림, 차단, 무음, 진동, 수면, 작업, 초점, 소리, 음소거, 요일, 주중, 주말, 주야, 이벤트</string>
+    <string name="kilobyte_per_second">KB/s</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="megabyte_per_second">MB/s</string>
+    <string name="megabyteShort">"MB"</string>
+    <string name="search_add_facerecoginition_text">얼굴 잠금 해제; 얼굴 인식</string>
+    <string name="search_manage_facerecoginition_text">얼굴 잠금 해제; 얼굴 인식</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">16진수</string>
     <string name="ring_to_you">필링</string>
     <string name="ring_to_you_info">전화 연결음을 지정하고 싶은 멜로디로 설정</string>
     <string name="input_method_clipboard_settings">클립보드 설정</string>
