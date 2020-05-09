@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">최소 %s개 앱을 보호할 수 있습니다</item>
+    </plurals>
+    <plurals name="ew_alert_second_after">
+        <item quantity="other">%d초 후</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">최소 %d개 지점을 연결하세요</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">최소 %d자를 입력하세요</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">최소 %d자리 숫자를 입력하세요</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d시간 남음</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d분 남음</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">마지막 충전 후 %d분 지남</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">마지막 충전 후 %d초 지남</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d개 앱</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow_minute">
         <item quantity="other">%1$s에서 %2$d회 허용</item>
     </plurals>
