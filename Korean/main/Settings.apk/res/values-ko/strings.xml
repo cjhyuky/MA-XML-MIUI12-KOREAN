@@ -9494,9 +9494,9 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="nfc_repair_btn_retry">다시 시도</string>
     <string name="nfc_repair_btn_yes">예</string>
     <string name="nfc_repair_confirm_desc" formatted="false">"이러한 문제가 있습니까?
-%디. NFC 카드를 추가하거나 충전 할 수 없습니다.
-%디. NFC 카드가 작동하지 않았습니다.
-%디. 다른 NFC 기능은 로드되지 않습니다."</string>
+%d. NFC 카드를 추가하거나 충전할 수 없습니다.
+%d. NFC 카드가 작동하지 않았습니다.
+%d. 다른 NFC기능이 로드되지 않습니다."</string>
     <string name="nfc_repair_fail_desc">NFC 기능이 복원되지 못하게하는 오류가 발생했습니다. 다시 시도하십시오.</string>
     <string name="nfc_repair_fail_title">"복원 할 수 없습니다"</string>
     <string name="nfc_repair_ongoing">"복원…이 페이지를 떠나지 마십시오."</string>
