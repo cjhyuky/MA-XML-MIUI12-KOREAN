@@ -414,7 +414,6 @@
     <string name="collapse">숨김</string>
     <string name="dialog_request_network">앱의 인터넷 접근을 허가하십시오.</string>
     <string name="enable_go_now">켜기</string>
-    <string name="enable_not_now">지금은 안됨</string>
     <string name="enable_right_now">켜기</string>
     <string name="exercise_duration_consume">지속: %1$s | 소모: %2$s</string>
     <string name="exercise_motor_perception">운동 자동기록</string>
