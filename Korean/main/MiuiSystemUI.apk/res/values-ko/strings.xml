@@ -96,7 +96,7 @@
   <string name="wireless_charging_tips_disable">다시 표시하지 않음</string>
   <string name="wireless_charging_tips_message">이 장치 뒷면에서 Qi 무선 충전 (전화, 액세서리 등)을 지원하는 장치를 배치하십시오.</string>
   <string name="wireless_charging_tips_title">역 무선 충전</string>
-  <string name="qs_control_header_tiles_title">컨트롤 </string>
+  <string name="qs_control_header_tiles_title">컨트롤 센터</string>
   <string name="screenshot_failed_in_landscape_mode">"가로 모드에서는 스크롤 스크린 샷을 만들 수 없습니다"</string>
   <string name="abc_action_bar_home_description">홈으로 이동</string>
   <string name="abc_action_bar_up_description">위로 이동</string>
