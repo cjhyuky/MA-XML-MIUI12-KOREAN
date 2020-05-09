@@ -48,7 +48,7 @@
     <string name="cancel_authorize_watch_on_tv_failed">"TV 시청을위한 승인을 취소 할 수 없습니다"</string>
     <string name="can_authorize_owner_albums_share_to_tv">TV에서 앨범보기 권한 부여</string>
     <string name="choose_video_compress_quality">해상도 선택</string>
-    <string name="cleaner_raw_action">지우기</string>
+    <string name="cleaner_raw_action">보기</string>
     <string name="cleaner_raw_description">큰 RAW 이미지를 삭제하여 저장 공간 확보</string>
     <string name="cleaner_raw_title">RAW 파일 지우기</string>
     <string name="cloud_authorize_to_share_to_device">내 계정과 연결된 TV에서 항목보기 권한 부여</string>
@@ -630,10 +630,10 @@
   <string name="cleaner_scan_no_result">더 많은 저장 공간을 지금 확보 할 수 없습니다</string>
   <string name="cleaner_scan_ok">확인</string>
   <string name="cleaner_scan_title">앨범 스캔중…</string>
-  <string name="cleaner_screen_shot_action">삭제</string>
+  <string name="cleaner_screen_shot_action">보기</string>
   <string name="cleaner_screen_shot_description">더이상 필요하지 않은 스크린샷을 삭제하십시오.</string>
   <string name="cleaner_screen_shot_title">스크린샷 삭제</string>
-  <string name="cleaner_similar_action">바로 삭제</string>
+  <string name="cleaner_similar_action">보기</string>
   <string name="cleaner_similar_description">복제된 사진 삭제</string>
   <string name="cleaner_similar_title">사진 복제</string>
   <string name="cleaner_slim_action">최적화 시작중…</string>
@@ -643,7 +643,7 @@
   <string name="cleaner_space_description">해제 가능</string>
   <string name="cleaner_space_detail_description">저장공간을 확보하기 위해 갤러리의 사진을 지우십시오</string>
   <string name="cleaner_stop_scan">검색 중지</string>
-  <string name="cleaner_video_action">바로 삭제</string>
+  <string name="cleaner_video_action">보기</string>
   <string name="cleaner_video_description">저장공간을 차지하고 있는 비디오 삭제</string>
   <string name="cleaner_video_pick_delete_selected">선택된 비디오 삭제</string>
   <string name="cleaner_video_title">비디오 삭제</string>
@@ -1972,8 +1972,8 @@
     <string name="photo_portrait_color_no_face">컬러 포커스는 여러 사람들이 있는 사진에서만 작동합니다</string>
     <string name="photo_portrait_download_sdk_without_wifi_msg">"현재 기기가 Wi-Fi에 연결되지 않은 것 같습니다. 모바일 데이터를 사용하여 필터(%1$dMB)를 다운로드 할 수 있습니다."</string>
     <string name="photo_portrait_download_sdk_without_wifi_title">필터 다운로드</string>
-    <string name="send_heif_summary">호환성을 위해 보내기 전에 이미지 변환</string>
-    <string name="send_heif_title">전송하기 전에 HEIF를 JPG로 변환</string>
+    <string name="send_heif_summary">호환성을 보장하기 위해 HEIF 이미지를 JPEG로 변환</string>
+    <string name="send_heif_title">전송하기 전에 HEIF를 JPEG로 변환</string>
     <string name="unsupported_media_downloading_tip_common">"이 안드로이드 버전에서는 이 형식으로 원본 이미지를 볼 수 없습니다. 어쨌든 다운로드하시겠습니까?"</string>
     <string name="unsupported_media_downloading_tip_format">"이 Android 버전에서는 원본 %s 이미지를 볼 수 없습니다. 다운로드 하시겠습니까?"</string>
     <string name="unsupported_media_scanned_tip">"%1$s 이미지가 감지되었습니다.이 버전의 안드로이드에서는 %2$s 이미지보기가 지원되지 않습니다."</string>
@@ -1985,4 +1985,21 @@
     <string name="drag_view_tip_sub_title">앨범을 길게 눌러 재정렬</string>
     <string name="drag_view_tip_title">앨범 재정렬</string>
     <string name="vlog_clip_cut_fail_min_time">클립 길이는 %1$s초이상이어야 합니다</string>
+    <string name="album_tab_page_switch_view_style_to_grid">그리드 보기</string>
+    <string name="album_tab_page_switch_view_style_to_linear">목록 보기</string>
+    <string name="continue_feedback">추가 의견</string>
+    <string name="macarons_download_later">1~2분 기다렸다가 다시 시도하십시오</string>
+    <string name="macarons_download_network_fail">"플러그인을 다운로드할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하십시오."</string>
+    <string name="macarons_download_other_fail">"오류로 인해 다운로드할 수 없습니다"</string>
+    <string name="macarons_download_sdscard_fail">"다운로드할 수 없습니다. SD카드를 사용할 수 없습니다."</string>
+    <string name="macarons_download_storage_fail">"다운로드할 수 없습니다. 저장 공간이 부족합니다."</string>
+    <string name="macarons_downloading">플러그인 다운로드중…</string>
+    <string name="problem_feedback">피드백</string>
+    <string name="vlog_clip_zoom">두 손가락을 사용하여 미리보기에서 프레임 수를 늘리거나 줄입니다</string>
+    <string name="vlog_exit_message">저장되지 않은 모든 변경 사항이 손실됩니다. 어쨌든 돌아가시겠습니까?</string>
+    <string name="vlog_exit_title">변경 사항 취소</string>
+    <string name="vlog_float_view_original_ratio">원본</string>
+    <string name="vlog_improt_encode_video_error">인코딩 오류가 발생했습니다. 다시 시도하십시오.</string>
+    <string name="vlog_photo_edit_not_support">"이미지를 편집할 수 없습니다"</string>
+    <string name="vlog_video_trans_code_cons">고해상도 파일 처리중…</string>
 </resources>
