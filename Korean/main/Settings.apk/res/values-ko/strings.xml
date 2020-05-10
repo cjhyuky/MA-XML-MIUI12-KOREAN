@@ -9538,7 +9538,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
 서비스를 사용하기 전에 %s을 읽고 동의하십시오. "</string>
     <string name="sound_assist_summary">사운드 설정 사용자 정의</string>
     <string name="sound_assist_title">사운드 어시스턴트</string>
-    <string name="storage_use_title">점유</string>
+    <string name="storage_use_title">사용중</string>
     <string name="structure_face_data_delete_fail">"3D 얼굴 데이터를 삭제할 수 없습니다. 다시 시도하십시오."</string>
     <string name="structure_face_data_input_down">머리를 내립니다</string>
     <string name="structure_face_data_input_error_away_screen">얼굴에서 조금 더 떨어진 곳으로 휴대 전화를 가져옵니다</string>
