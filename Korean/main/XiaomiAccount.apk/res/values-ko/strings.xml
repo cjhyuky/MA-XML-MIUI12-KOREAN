@@ -574,8 +574,8 @@ ID:%s
     <string name="passport_can_not_receive_verification_code">"인증 코드를 받지 못하시나요?"</string>
     <string name="account_user_id_show">내 계정: %s</string>
     <string name="action_retry">다시 시도</string>
-    <string name="cloud_description_closed">점유 | 동기화가 꺼져 있습니다</string>
-    <string name="cloud_description_normal">점유</string>
+    <string name="cloud_description_closed">사용됨 | 동기화가 꺼져 있습니다</string>
+    <string name="cloud_description_normal">사용됨</string>
     <string name="copy">복사</string>
     <string name="expand_button_title">고급</string>
     <string name="health_action_activate">활성화</string>
