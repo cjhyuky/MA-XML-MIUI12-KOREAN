@@ -51,7 +51,7 @@
   <string name="notification_info_disabled_text">%1$s에서 차단 된 알림</string>
   <string name="notification_info_enabled_text">%1$s의 알림</string>
   <string name="notification_menu_aggregate_description">그룹화 옵션</string>
-  <string name="owner_info_settings_edit_text_hint">예 : Joe의 Android </string>
+  <string name="owner_info_settings_edit_text_hint">예:Joe의 안드로이드</string>
   <string name="password_toggle_content_description">비밀번호 표시</string>
   <string name="pref_show_lunar_calendar_title">잠금 화면에 중국어 번체 달력 표시</string>
   <string name="qs_control_big_tile_state_closed">끄기</string>
