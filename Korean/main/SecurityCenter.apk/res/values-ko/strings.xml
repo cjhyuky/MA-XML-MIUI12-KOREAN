@@ -1725,8 +1725,8 @@
   <string name="om_settings_lock_app_manage">앱 잠금</string>
   <string name="om_settings_memocy_occupy_too_large_summary">캐시의 크기가 너무 클 때 알림</string>
   <string name="om_settings_memory_clean_lock_screen">화면이 꺼져있을 때 캐시 지우기</string>
-  <string name="om_settings_memory_occupy_notify">메모리 점유 알림</string>
-  <string name="om_settings_memory_occupy_notify_never">안 함</string>
+  <string name="om_settings_memory_occupy_notify">메모리 사용 알림</string>
+  <string name="om_settings_memory_occupy_notify_never">알리지 않음</string>
   <string name="om_settings_notify_manage">알림</string>
   <string name="om_settings_speed_up_auto">자동 스피드 부스트</string>
   <string name="om_settings_title">최적화 설정</string>
@@ -3419,7 +3419,7 @@
     <string name="storage_app_uninstall_app_dialog_msg">앱을 제거하면 모든 앱 데이터도 삭제됩니다.</string>
     <string name="storage_app_uninstall_app_dialog_title">앱 제거</string>
     <string name="storage_available_total_size">사용 가능한 %2$s 중 %1$s</string>
-    <string name="storage_available_total_size1">점유 : %1$s | 총계 : %2$s</string>
+    <string name="storage_available_total_size1">사용중: %1$s | 전체크기: %2$s</string>
     <string name="storage_deepclean_entry">정밀 청소</string>
     <string name="storage_dialog_unmountable">"이 ^1이 손상되었습니다.
 
