@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="bluetooth_paired">저장됨</string>
     <string name="mi_home_device_find">장치 검색</string>
     <string name="mi_home_device_ignore">무시</string>
     <string name="mi_home_device_start_binding">지금 페어링</string>
