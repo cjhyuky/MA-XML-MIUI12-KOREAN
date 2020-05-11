@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ambilight_description_title">장시간 노출 정보</string>
+    <string name="ambilight_intro_crowd_moving_part1">붐비는 거리에서 촬영할 때는 피사체가 움직이지 않도록 요청하십시오. 다른 사람들은 흐릿한 길로 나타납니다.</string>
+    <string name="ambilight_intro_crowd_moving_part2">또한 바쁜 교통량과 움직이는 군중의 사진을 찍을 수 있습니다. 장 노출은 건물을 선명하게 유지하지만 움직이는 모든 물체가 흐릿합니다.</string>
+    <string name="ambilight_intro_light_track">어두운 장면에서 광원을 사용하여 \"페인트\"하여 모든 조명 된 조각을 하나의 이미지로 모으십시오.</string>
+    <string name="ambilight_intro_magic_star">빛 오염이 적은 곳에서이 모드를 사용하십시오.  노출은 %d초로 설정되므로 삼각대를 사용하는 것이 좋습니다.</string>
+    <string name="ambilight_intro_silky_water_part1">움직이는 구름을 촬영할 때 이 모드를 사용하십시오. 하늘에 "오일 페인팅" 효과를줍니다.</string>
+    <string name="ambilight_intro_silky_water_part2">이 모드는 움직이는 물 (강, 폭포 및 호수)을 새틴처럼 보이게합니다.</string>
+    <string name="ambilight_intro_star_track">"별이 빛나는 하늘을 오랫동안 촬영하면 별의 궤적을 포착 할 수 있습니다. 삼각대를 사용하고 최소 %d분 동안 연속 촬영하는 것을 잊지 마십시오."</string>
+    <string name="ambilight_intro_traffic_light">밤에는 밝은 이동 조명(예 : 자동차 및 선박)의 궤도를 캡처 할 수 있습니다. 이 모드에서는 화면에서 최종 결과를 실시간으로 미리 볼 수 있습니다.</string>
+    <string name="ambilight_scene_crowd_moving">움직이는 군중</string>
+    <string name="ambilight_scene_light_track">라이트 페인팅</string>
+    <string name="ambilight_scene_magic_star">별이 빛나는 하늘</string>
+    <string name="ambilight_scene_silky_water">실키 워터</string>
+    <string name="ambilight_scene_star_track">스타 트레일</string>
+    <string name="ambilight_scene_traffic_light">네온 트레일</string>
+    <string name="ambilight_tips_for_using_tripod">삼각대 사용</string>
+    <string name="more_mode_style">"모든 카메라 모드 정렬 방법 선택"</string>
+    <string name="more_mode_style_popup">\"기타\"패널</string>
+    <string name="more_mode_style_tab">\"기타\"탭</string>
+    <string name="parameter_ambilight_title">장 노출</string>
+    <string name="pref_more_mode_style_title">카메라 모드</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">추가 옵션</string>
