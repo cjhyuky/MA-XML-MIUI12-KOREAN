@@ -8213,7 +8213,7 @@
   <string name="bluetooth_unlock_confirm_device_text_for_huami_band">밴드에서 확인하십시오.</string>
   <string name="miui_touch_filtered_touchassistant_warning">사용 권한 대화 상자는 퀵볼의 적용을 받습니다. 퀵볼을 멀리 이동시키거나 이 기능을 해제하십시오.</string>
   <string name="screen_paper_mode_hdr_toast_new">HDR 비디오 재생 및 지문인식 중에 독서모드가 자동으로 꺼집니다. 이 작업이 완료되면 기기는 다시 독서모드로 전환됩니다.</string>
-  <string name="allow_oaid_used">모든 ID에 대한 액세스 제한</string>
+  <string name="allow_oaid_used">가상 ID 사용</string>
   <string name="device_oaid">가상 ID 관리</string>
   <string name="restore_oaid_content">행동 및 환경 설정 레코드를 지우려면 가상 ID를 재설정</string>
   <string name="restore_oaid_positive">리셋</string>
@@ -9368,7 +9368,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">타사 앱</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">다크 모드에서 일부 앱이 잘못 표시 될 수 있습니다.  여기에서 개별 앱에 다크 모드 사용을 제한 할 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">개별 앱</string>
-    <string name="restore_oaid_positive_step">초기화 (%1$d)</string>
+    <string name="restore_oaid_positive_step">재설정(%1$d)</string>
     <string name="restore_oaid_dialog_content">가상 ID를 현재 여러 프로그램에서 사용되고 있습니다. ID를 재설정하면 일부 프로그램 사용자 데이터가 잘못되거나 손실 될 수 있습니다. 가상 ID를 재설정 하시겠습니까?</string>
     <string name="allow_oaid_used_desc">"사용자가 명시 적으로 허용하지 않으면 앱이 ID에 액세스 할 수 없습니다.이 기능이 켜져 있으면 일부 개인 추천 기능이 제대로 작동하지 않을 수 있습니다."</string>
     <string name="backup_at_once">백업</string>
@@ -9461,7 +9461,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="freeform_guide_slide_up_to_close_title">플로팅 창 닫기</string>
     <string name="freeform_vedio_description">"· 누른 다음 알림을 아래로 당겨 플로팅 창에서 엽니 다.
 · 최근에 \"플로팅 창\"을 탭하여 앱을 선택하십시오. "</string>
-    <string name="gps_description_global">여러 위성 항법 시스템 (%s)이 지원됩니다</string>
+    <string name="gps_description_global">샤오미 기기는 GPS, NavIC, BeiDou, GLONASS 및 Galileo를 포함한 여러 내비게이션 시스템과 호환됩니다.</string>
     <string name="help_and_feedback_title">도움말 및 피드백</string>
     <string name="micloud_service_summary">앱 목록 동기화, 시스템 설정 및 홈 화면 레이아웃 백업</string>
     <string name="micloud_service_title">샤오미 클라우드</string>
@@ -9587,4 +9587,8 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="wifi_security_none_owe">없음/확장 오픈</string>
     <string name="wifi_security_short_none_owe">없음/OWE</string>
     <string name="control_panel_switch_side">컨트롤 센터 측면으로 전환</string>
+    <string name="bluetooth_paired">저장됨</string>
+    <string name="reset_confirm_directory">"참고: 항목을 복원하기 전에 \"MIUI-Backup-AllBackup\"폴더가 모바일 장치에 있는지 확인하십시오. 없는 경우 폴더를 만드십시오."</string>
+    <string name="reset_remove_data_hint">위에 나열된 모든 항목이 영구적으로 지워집니다. 계속하기 전에 중요한 모든 항목을 컴퓨터나 샤오미 클라우드에 백업하십시오.</string>
+    <string name="restore_oaid_dialog_content">여러 앱이 가상 ID를 사용하고 있습니다. 지금 재설정하면 앱 데이터의 일부가 손실되거나 사용할 수 없게 될 수 있습니다. 어쨌든 가상 ID를 재설정하시겠습니까?</string>
 </resources>
