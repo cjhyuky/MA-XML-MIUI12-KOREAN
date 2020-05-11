@@ -3198,7 +3198,7 @@
   <string name="wifi_danger_dialog_messgae">현재 Wi-Fi 네트워크는 보안 위험을 초래할 수 있습니다. 주의해서 사용하십시오.</string>
   <string name="wifi_danger_dialog_tips">보안>보안 검색>설정>Wi-Fi에서 Wi-Fi 보안을 관리 할 수 있습니다.</string>
   <string name="wifi_danger_dialog_title">"Wi-Fi 네트워크가 안전하지 않습니다"</string>
-  <string name="app_manager_anomaly_analysis">앱 분석</string>
+  <string name="app_manager_anomaly_analysis">써드파티 앱 문제 분석</string>
   <string name="oaid_reset_content_tip">가상 ID를 현재 여러 프로그램에서 사용되고 있습니다. ID를 재설정하면 일부 프로그램 사용자 데이터가 잘못되거나 손실 될 수 있습니다.</string>
   <string name="oaid_reset_final_tip">가상 ID를 끄시겠습니까?</string>
   <string name="privacy_mask_summary">MIUI는 타사 응용 프로그램에 OAID (가상 자격 증명 ID)를 제공하여 실제 자격 증명을 대체하고 응용 프로그램이 동작 및 기본 설정을 추적하지 못하게 하며 개인 정보를 보호합니다.</string>
@@ -3468,4 +3468,6 @@
     <string name="usb_mount">USB 장치 마운트</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
+    <string name="oaid_reset_content_tip">지금 가상 ID를 끄면 일부 앱이 제대로 작동하지 않을 수 있으며 일부 앱 데이터가 손실되거나 사용할 수 없게 됩니다.</string>
+    <string name="oaid_reset_final_tip">그래도 가상 ID를 끄시겠습니까</string>
 </resources>
