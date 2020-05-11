@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="des_hide_pwd">비번 숨기기</string>
+    <string name="des_show_pwd">비번 표시</string>
     <string name="error_hint_copy_folder_to_self_or_sub">"자체의 폴더나 하부 폴더로의 이동 또는 복사는 불가능합니다"</string>
     <string name="path_name_email">이메일</string>
     <string name="delete_folder">이 폴더를 삭제하시겠습니까?</string>
