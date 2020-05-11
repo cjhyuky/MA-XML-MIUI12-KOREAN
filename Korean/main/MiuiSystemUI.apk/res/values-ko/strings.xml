@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="bluetooth_paired">저장됨</string> 
   <string name="character_counter_content_description">입력한 문자: %2$d자 중 %1$d자</string>
   <string name="character_counter_overflowed_content_description">문자 제한이 %2$d자 중 %1$d자를 초과했습니다.</string>
   <string name="chip_text">칩 텍스트</string>
