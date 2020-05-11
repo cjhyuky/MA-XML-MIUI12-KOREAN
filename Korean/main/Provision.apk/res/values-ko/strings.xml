@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="backup_introduction">기기의 백업과 복원을 위해 이 앱을 사용해보세요.</string>
+    <string name="permission_backup">저장소 접근</string>
+    <string name="permission_backup_introduction">기기이 백업파일을 저장하기 위한 접근 권한</string>
+    <string name="service_name_backup">백업</string>
     <string name="welcome">환영합니다.</string>
     <string name="app_name">제공</string>
     <string name="input_method_setting">키보드 선택</string>
