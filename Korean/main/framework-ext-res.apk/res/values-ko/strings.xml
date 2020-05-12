@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="micloud_wipe_data_confirm_label">이 기기에서 동기화된 항목을 삭제하시겠습니까?</string>
-    <string name="micloud_wipe_data_confirm_title">다음 앱의 일부 항목은 샤오미 클라우드와 동기화됩니다.  클라우드에서 계속 유지하면서 이 기기에서 삭제할 수 있습니다.</string>
+    <string name="micloud_wipe_data_confirm_title">다음 앱의 일부 항목은 샤오미 클라우드와 동기화됩니다. 클라우드에서 계속 유지하면서 이 기기에서 삭제할 수 있습니다.</string>
     <string name="serviceEnabled">서비스가 활성화되었습니다.</string>
     <string name="device_status_failed">"보내지 못했습니다"</string>
     <string name="device_status_sending">전송중...</string>
