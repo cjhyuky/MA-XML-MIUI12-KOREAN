@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="failed_to_send">전송 실패</string>
     <string name="label">MIUI SDK</string>
     <string name="send">전송</string>
     <string name="close">닫기</string>
