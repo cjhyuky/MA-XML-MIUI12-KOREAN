@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="device_oaid_desc">고유 식별자 대신 MIUI는 설치된 앱에 가상 ID(OAID)를 제공합니다. 앱이 사용자의 행동과 선호도를 추적하지 못하도록하고 개인 정보를 보호합니다.</string>
     <string name="miui_sos_remind_close">긴급 SOS모드가 켜져있습니다. 관련된 모든 기능을 끄시겠습니까?</string>
     <string name="miui_sos_remind_close_confirm">끄기</string>
     <string name="aod_name_wanxiang">항상 켜짐 표시</string>
