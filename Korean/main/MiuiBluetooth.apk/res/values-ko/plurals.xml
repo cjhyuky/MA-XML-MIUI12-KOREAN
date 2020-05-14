@@ -7,6 +7,8 @@
         <item quantity="other">%1$d초 동안 이어폰의 터치 패드를 길게 누르세요.</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">전원이 꺼질때까지 볼륨 업 버튼을 %1$s초동안 누르고 계세요</item>
+        <item quantity="other">기기가 꺼져있을 때 버튼을 %1$s초 동안 누르고 있으세요</item>
+        <item quantity="one">기기가 꺼져있을 때 버튼을 %1$s초 동안 누르고 있으세요</item>
     </plurals>
 </resources>
+
