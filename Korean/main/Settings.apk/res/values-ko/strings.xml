@@ -9388,7 +9388,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="dark_mode_contrast_hint">밝기가 감소하면 색상을 자동으로 조정하고 대비를 낮 춥니 다</string>
     <string name="default_keyboard">기본</string>
     <string name="detail_question">세부 사항</string>
-    <string name="device_oaid_desc">실제 식별자 대신 MIUI는 타사 앱에 가상ID(OAID)를 제공합니다. 앱이 사용자의 행동과 선호도를 추적하지 못하도록하고 개인 정보를 보호합니다.</string>
+    <string name="device_oaid_desc">고유 식별자 대신 MIUI는 설치된 앱에 가상 ID(OAID)를 제공합니다. 앱이 사용자의 행동과 선호도를 추적하지 못하도록 하고 개인 정보를 보호합니다.</string>
     <string name="device_oaid_title">가상 ID</string>
     <string name="device_of_someone">"%1$s의 %2$s"</string>
     <string name="dialog_backup_title">초기화를 수행하기 전에 백업을 업데이트 하시겠습니까?</string>
