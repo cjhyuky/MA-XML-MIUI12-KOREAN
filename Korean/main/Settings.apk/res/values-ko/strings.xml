@@ -3457,4 +3457,4 @@
   <string name="lost_internet_access_switch">모바일 네트워크로 전환</string>
   <string name="lost_internet_access_text">Wi-Fi의 연결 상태가 좋지 않으면 모바일 네트워크로 전환할 수 있습니다. 데이터 사용료가 부과 될 수 있습니다.</string>
   <string name="lost_internet_access_title">Wi-Fi가 인터넷에 연결되어 있지 않습니다.</string>
-  <string name="lte_4g_settings_4gdisa
+</resources>
