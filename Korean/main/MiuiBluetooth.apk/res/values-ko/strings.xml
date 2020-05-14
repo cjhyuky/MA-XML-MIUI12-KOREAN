@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fast_connect_reset_common">페어링 할 수 있도록 이 장치를 재설정</string>
     <string name="bluetooth_paired">저장됨</string>
     <string name="mi_home_device_find">장치 검색</string>
     <string name="mi_home_device_ignore">무시</string>
