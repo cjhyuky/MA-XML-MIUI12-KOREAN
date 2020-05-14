@@ -54,8 +54,8 @@
   <string name="mtrl_picker_range_header_prompt">날짜 범위 선택</string>
   <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notification_aggregate_text">%1$s의 알림을 중요하지 않은 것으로 표시</string>
-  <string name="notification_info_disabled_text">%1$s에서 차단 된 알림</string>
-  <string name="notification_info_enabled_text">%1$s의 알림</string>
+  <string name="notification_info_disabled_text">%1$s 앱 알림 차단</string>
+  <string name="notification_info_enabled_text">%1$s 앱 알림</string>
   <string name="notification_menu_aggregate_description">그룹화 옵션</string>
   <string name="owner_info_settings_edit_text_hint">예:Joe의 안드로이드</string>
   <string name="password_toggle_content_description">비밀번호 표시</string>
