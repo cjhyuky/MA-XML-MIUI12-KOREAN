@@ -186,7 +186,7 @@
     <string name="label_sleep_time2">취침 시간</string>
     <string name="label_start_time">시작</string>
     <string name="label_today_exercise_consumption">소모</string>
-    <string name="label_today_exercise_summary">"오늘의 단계"</string>
+    <string name="label_today_exercise_summary">"오늘의 걸음수"</string>
     <string name="label_today_sleep_summary">어제 밤에 잠들었습니다</string>
     <string name="label_wake_up">기상</string>
     <string name="label_wake_up_time">기상 시간</string>
@@ -442,9 +442,9 @@
     <string name="sedentaty_hazard_description">"앉아도 건강에 도움이되지 않습니다. 매일 1 분 동안 휴식을 취하면 12 시간 동안 앉아있는 생활 습관의 위험을 피할 수 있습니다."</string>
     <string name="sleep_deep_light_no_data">아직 데이터가 없습니다</string>
     <string name="sleep_deep_light_no_data_improvement">"수면 단계를 감지 할 수 없습니다. 알고리즘을 개선하고 있습니다. 계속 지켜봐주세요!"</string>
-    <string name="sleep_detection_question_one_answer_1">"디바이스 센서가 수집 한 신체 움직임 데이터를 기반으로 딥 앤 라이트 슬립 단계가 감지됩니다. 통계를 볼 수없는 이유는 다음과 같습니다.
-1. 샤오미 건강앱이 데이터를 수집할 수 없습니다.  잠자는 동안 기기의 전원이 꺼 지거나 배터리 잔량이 부족하거나 앱이 백그라운드에서 작동하지 않는 경우에 발생할 수 있습니다. 샤오미 건강앱이 자동시작되도록 허용하고 배터리 절약 예외에 추가한 다음 백그라운드에서 꺼지지 않도록 하십시오.
-2. 샤오미 건강앱이 수집된 데이터를 분석할 수 없습니다.  이것은 잠을 잘 때 휴대폰이 몸에서 너무 멀리 떨어져있을 때 발생할 수 있습니다.  또는 몸의 움직임이 너무 미묘하여 수면주기 변화에 대한 가정을 할 수 없습니다.  샤오미 건강앱가 수면을 더 잘 분석 할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
+    <string name="sleep_detection_question_one_answer_1">"디바이스 센서가 수집한 신체 움직임 데이터를 기반으로 깊은 수면과 얕은 수면을 감지됩니다. 통계를 볼 수 없는 이유는 다음과 같습니다.
+1. 샤오미 건강앱이 데이터를 수집할 수 없습니다. 잠자는 동안 기기의 전원이 꺼지거나 배터리 잔량이 부족하거나 앱이 백그라운드에서 작동하지 않는 경우에 발생할 수 있습니다. 샤오미 건강앱이 자동시작되도록 허용하고 배터리 절약 예외에 추가한 다음 백그라운드에서 꺼지지 않도록 하십시오.
+2. 샤오미 건강앱이 수집된 데이터를 분석할 수 없습니다. 이것은 잠을 잘 때 휴대폰이 몸에서 너무 멀리 떨어져 있을 때 발생할 수 있습니다. 또는 몸의 움직임이 너무 미묘하면 수면주기 변화에 대한 가정을 할 수 없습니다. 샤오미 건강앱은 수면을 더 잘 분석할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
     <string name="sleep_detection_question_one_title_1">"왜 절전주기 통계가 표시되지 않습니까?"</string>
     <string name="sleep_snore_detection_desc">코골이 감지 및 수면에 대해 자세히 알아보기</string>
     <string name="snore_detection_stop_pop_title">현재 코골이 감지 세션을 중단 하시겠습니까?</string>
