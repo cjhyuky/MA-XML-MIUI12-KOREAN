@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">%d개의 기록 중 검색</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">%d개의 통화 녹음 중 검색</item>
+    </plurals>
     <plurals name="record_downloading_complete_count">
         <item quantity="other">녹음 %d 다운로드됨</item>
     </plurals>
