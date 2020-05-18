@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="copy">복사</string>
+    <string name="document_ocr_fail">"텍스트를 인식 할 수 없습니다. 이미지가 기기의 방향과 일치하도록 회전 한 후 다시 시도하십시오."</string>
+    <string name="document_spin">회전</string>
+    <string name="expand_button_title">고급</string>
+    <string name="feedback_phone">연락처 정보(선택 사항)</string>
+    <string name="history_empty">아직 항목이 없습니다</string>
+    <string name="if_to_open_milogo_scanning">샤오미 로고 인식</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드할 수 없습니다"</string>
+    <string name="not_set">설정되지 않음</string>
+    <string name="preference_copied">\"%1$s\" 클립보드 복사완료</string>
+    <string name="v7_preference_off">꺼짐</string>
+    <string name="v7_preference_on">켜짐</string>
     <string name="download_mipay">Mi페이 사용</string>
     <string name="mipay">Mi페이</string>
     <string name="mipayin_dialog_mipayName">Mi페이</string>
     <string name="mipayin_dialog_more">더보기</string>
     <string name="mipayin_dialog_title">열기</string>
     <string name="choosed_title">선택됨</string>
-    <string name="create">QR 코드 생성</string>
-    <string name="createFail">"QR 코드 생성 실패. 메시지가 너무 깁니다."</string>
+    <string name="create">QR코드 생성</string>
+    <string name="createFail">"QR코드 생성 실패. 메시지가 너무 깁니다."</string>
     <string name="createQRCode_hint">텍스트를 입력하세요</string>
     <string name="createQRCode_save">저장</string>
     <string name="create_again">새로고침</string>
