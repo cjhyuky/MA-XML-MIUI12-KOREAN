@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">스톱워치가 %s일 동안 실행되었습니다. 보려면 탭하세요.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">스톱워치가 %s시간 동안 실행되었습니다. 보려면 탭하세요.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d 시간 "</item>
     </plurals>
