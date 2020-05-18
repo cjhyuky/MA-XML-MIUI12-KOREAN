@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name = "miuix_search_recommendation_item_del_des">삭제</string>
     <string name="productivity_add_event">일정 생성</string>
     <string name="productivity_cannot_move_event">"이 일정을 옮길 수 없습니다"</string>
     <string name="productivity_move_event_failed">"이 일정을 yyyy년 M월 d일로 이동할 수 없습니다"</string>
