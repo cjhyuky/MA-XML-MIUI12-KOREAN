@@ -9592,4 +9592,6 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="reset_confirm_directory">"참고: 항목을 복원하기 전에 \"MIUI-Backup-AllBackup\"폴더가 모바일 장치에 있는지 확인하십시오. 없는 경우 폴더를 만드십시오."</string>
     <string name="reset_remove_data_hint">위에 나열된 모든 항목이 영구적으로 지워집니다. 계속하기 전에 중요한 모든 항목을 컴퓨터나 샤오미 클라우드에 백업하십시오.</string>
     <string name="restore_oaid_dialog_content">여러 앱이 가상 ID를 사용하고 있습니다. 지금 재설정하면 앱 데이터의 일부가 손실되거나 사용할 수 없게 될 수 있습니다. 어쨌든 가상 ID를 재설정하시겠습니까?</string>
+    <string name="content_miui_music_mute_by_user">자동 모드가 켜져있을 때 미디어 사운드를 재생하시겠습니까?</string>
+    <string name="title_miui_music_mute_by_user">자동 모드</string>
 </resources>
