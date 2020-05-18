@@ -1470,4 +1470,5 @@
     <string name="v7_preference_off">끄기</string>
     <string name="v7_preference_on">켜기</string>
     <string name="clone_recapture_alert">처음부터 다시 시작하시겠습니까?</string>
+    <string name="pref_module_settings">모드</string>
 </resources>
