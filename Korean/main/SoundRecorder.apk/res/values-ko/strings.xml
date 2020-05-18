@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="agree_description">이 앱이 인터넷에 연결하여 모든 기능을 사용할 수 있도록 허용합니다.</string>
     <string name="path_soundrecorder_setting">시스템 앱/녹음기</string>
     <string name="search_app">녹음기</string>
     <string name="search_led_indicator">잠금화면 알림</string>
