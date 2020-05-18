@@ -246,4 +246,10 @@ MIUI를 사용하시려면 이용 약관과 개인정보 보호 정책에 반드
 
 이 기능을 사용하기 전에 민트 키보드 개인 정보 보호 정책에 동의해야합니다."</string>
   <string name="service_policy_download"><Data>해당 기능을 이용하기 전 &lt;a href=%1$s>개인 정보 보호 조항&lt;/a >을 읽고 동의하여 주십시오..</Data></string>
+    <string name="mobile_network">모바일 데이터 사용</string>
+    <string name="move_data_dialog_box_le">"사용자 요청에 따라 모바일 데이터 및 GPS 연결을 사용할 수 있습니다. 계정 및 기타 항목을 동기화하려면 스마트폰 사양에 따라 모바일 데이터를 사용해야 할 수 있습니다."</string>
+    <string name="move_data_dialog_box_title">무제한 데이터가 포함된 요금제를 사용하지 않는 한 모바일 데이터를 사용하면 추가 이동 통신 요금이 발생할 수 있습니다. 어쨌든 모바일 데이터를 사용하시겠습니까?</string>
+    <string name="move_data_dialog_cancel">취소</string>
+    <string name="move_data_dialog_title">나중에 설정에서 모바일 데이터 연결을 제한할 수 있습니다</string>
+    <string name="move_data_dialog_use">사용</string>
 </resources>
