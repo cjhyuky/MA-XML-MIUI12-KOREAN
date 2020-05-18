@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="help_and_feedback">도움말 및 피드백</string>
     <string name="app_name">Mi 클라우드 백업</string>
     <string name="settings_backup">시스템 설정</string>
     <string name="deskclock_backup">알람 시계</string>
