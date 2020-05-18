@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="help_and_feedback">도움말 및 피드백</string>
+    <string name="micloud_find_device_guide_desc_pad">"기기를 찾거나 잠그거나 지우려면 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하십시오. 분실한 경우 기기를 찾는데 도움이 됩니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[도움말 참조]&lt;/a>"</string>
+    <string name="micloud_find_device_guide_desc_phone">"기기를 찾거나 잠그거나 지우려면 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하십시오. 분실한 경우 기기를 찾는데 도움이 됩니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[도움말 참조]&lt;/a>"</string>
     <string name="micloud_setting_sms_summary_for_google_csp">문자 메시지</string>
     <string name="data_merge_dialog_title">항목 병합</string>
     <string name="cloud_storage_info_type_duokan">두오칸</string>
