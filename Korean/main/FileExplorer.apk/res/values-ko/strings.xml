@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="otg_data_transfer_success">전송 완료</string>
+    <string name="otg_data_transferring">"파일 전송 중... 외부 저장소 연결을 해제하지 마십시오."</string>
     <string name="des_hide_pwd">비번 숨기기</string>
     <string name="des_show_pwd">비번 표시</string>
     <string name="error_hint_copy_folder_to_self_or_sub">"자체의 폴더나 하부 폴더로의 이동 또는 복사는 불가능합니다"</string>
