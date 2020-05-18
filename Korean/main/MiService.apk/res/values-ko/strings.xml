@@ -167,4 +167,5 @@
     <string name="share_not_install_weibo">Weibo를 먼저 설치하세요</string>
     <string name="share_success">공유 완료</string>
     <string name="share_title">공유</string>
+    <string name="miui_guide_accessibility_image_desc">화상</string>
 </resources>
