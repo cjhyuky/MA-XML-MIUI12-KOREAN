@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_focus_face_pos_bottom">아래쪽 가장자리 근처</string>
+    <string name="accessibility_focus_face_pos_left">왼쪽 가장자리 근처</string>
+    <string name="accessibility_focus_face_pos_left_bottom">왼쪽 하단 근처</string>
+    <string name="accessibility_focus_face_pos_left_top">왼쪽 상단 근처</string>
+    <string name="accessibility_focus_face_pos_mid">중앙</string>
+    <string name="accessibility_focus_face_pos_right">오른쪽 가장자리 근처</string>
+    <string name="accessibility_focus_face_pos_right_bottom">오른쪽 하단 근처</string>
+    <string name="accessibility_focus_face_pos_right_top">오른쪽 상단 근처</string>
+    <string name="accessibility_focus_face_pos_top">상단 가장자리 근처</string>
     <string name="ambilight_description_title">장시간 노출 정보</string>
     <string name="ambilight_intro_crowd_moving_part1">붐비는 거리에서 촬영할 때는 피사체가 움직이지 않도록 요청하십시오. 다른 사람들은 흐릿한 길로 나타납니다.</string>
     <string name="ambilight_intro_crowd_moving_part2">또한 바쁜 교통량과 움직이는 군중의 사진을 찍을 수 있습니다. 장 노출은 건물을 선명하게 유지하지만 움직이는 모든 물체가 흐릿합니다.</string>
