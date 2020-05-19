@@ -8298,7 +8298,7 @@
   <string name="lock_screen_display_category_name">잠금 화면</string>
   <string name="miui_sos_emergency_delete">삭제</string>
   <string name="more_account_settings_title">기타 계정</string>
-  <string name="notch_and_status_bar_settings">노치 &amp; 상태 바</string>
+  <string name="notch_and_status_bar_settings">컨트롤 센터 &amp; 상태 바</string>
   <string name="notch_settings">노치</string>
   <string name="notification_center">알림</string>
   <string name="other_sound_settings_title">기타 설정</string>
