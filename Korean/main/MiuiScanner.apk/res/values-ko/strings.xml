@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="copy">복사</string>
     <string name="document_ocr_fail">"텍스트를 인식 할 수 없습니다. 이미지가 기기의 방향과 일치하도록 회전 한 후 다시 시도하십시오."</string>
     <string name="document_spin">회전</string>
     <string name="expand_button_title">고급</string>
