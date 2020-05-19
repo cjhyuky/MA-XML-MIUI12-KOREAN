@@ -668,7 +668,7 @@
   <string name="member_name_select_purpose">%1$s에서 생성 한 건강 데이터 동기화</string>
   <string name="member_name_select_purpose2">건강 데이터를 동기화 할 사용자 이름을 선택하십시오</string>
   <string name="menu">메뉴</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">오전</string>
   <string name="minimum">최소</string>
   <string name="min_altitude">최저 고도</string>
   <string name="min_heart_rate">최저 심박수</string>
@@ -717,7 +717,7 @@
   <string name="more">과다</string>
   <string name="morning">"오전"</string>
   <string name="muscle_rate">근육</string>
-  <string name="muscle_rate_descripe_content">"근육 비율은 근육량, 체중 및 키 등으로 계산됩니다. 그것은 얼마나 건강하고 강한지를 결정하는 데 도움이됩니다. 규칙적인 운동은 신체의 건강한 근육량을 유지하는 데 필수적입니다 . "</string>
+  <string name="muscle_rate_descripe_content">"근육 비율은 근육량, 체중 및 키 등으로 계산됩니다. 그것은 얼마나 건강하고 강한지를 결정하는데 도움이 됩니다. 규칙적인 운동은 신체의 건강한 근육량을 유지하는데 필수적입니다."</string>
   <string name="my_data_source">데이터 소스</string>
   <string name="network_connect_failure">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하십시오."</string>
   <string name="night">오후</string>
