@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="auto_brightness_off">자동 밝기 비활성화됨</string>
+    <string name="auto_brightness_on">자동 밝기 활성화됨</string>
   <string name="quick_settings_cellular_detail_dialog_message_turnoff">모바일 데이터 (WCDMA / LTE)가 꺼집니다. Wi-Fi를 사용하지 않으면 더 이상 데이터 연결이 필요한 앱을 사용할 수 없습니다. 멀티미디어 메시지 전송 또는 수신이 제한됩니다.</string>
   <string name="quick_settings_cellular_detail_dialog_message_turnon">모바일 데이터가 켜집니다.  모바일 네트워크에 연결하면 결제 요금제에 따라 추가 요금이 부과될 수 있습니다.</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">취소</string>
