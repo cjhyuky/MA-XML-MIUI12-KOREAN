@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드할 수 없습니다"</string>
+    <string name="mru_setting_brief">퀵 카드에서 아래로 스와이프한 후 나타나는 빠른 앱 및 바로 가기</string>
+    <string name="mru_setting_brief_detail">"최근에 사용 된 빠른 앱 및 바로 가기."</ string>
+    <string name="mru_title">최근 항목</string>ㅣ
      <string name="app_debug_settings">앱 디버그 설정</string>
      <string name="app_debug_settings_copied_to_clipboard">클립 보드에 복사했습니다</string>
      <string name="app_debug_settings_host_title">호스트 환경 스위치</string>
