@@ -485,7 +485,6 @@
   <string name="back">뒤로</string>
   <string name="backtrack">뒤로</string>
   <string name="back_stroke">배영</string>
-  <string name="basic_info_label_height">높이</string>
   <string name="bedtime">취침 시간</string>
   <string name="bedtime_description">"취침 시간은 취침 시간에 전화를 내리는 순간입니다. 취침 시간 및 장치 사용량에 따라 추정됩니다."</string>
   <string name="bedTime_early_description">"일찍 잠자리에 들었습니다. 장기적인 습관이라면이 메시지를 무시하고이 메시지를 무시하십시오."</string>
@@ -536,7 +535,6 @@
   <string name="data_source_not_support_hm_description">"%1$s은(는) 자세한 걸음 수를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스로 전환 해보십시오."</string>
   <string name="date">날짜</string>
   <string name="date_picker_lunar">달력 캘린더</string>
-  <string name="day">일</string>
   <string name="deep_light_detection_open_prompt">다음에 잠자리에들 때 수면주기가 분석됩니다</string>
   <string name="deep_sleep_duration">깊은 수면 시간</string>
   <string name="deep_sleep_duration_decrease_description">깊은 잠이 너무 짧습니다</string>
@@ -689,7 +687,6 @@
   <string name="mi_sports">Mi 핏</string>
   <string name="monday">월요일</string>
   <string name="monday_short">월</string>
-  <string name="month">월</string>
   <string name="month_april">4월</string>
   <string name="month_april_short">4월</string>
   <string name="month_august">8월</string>
