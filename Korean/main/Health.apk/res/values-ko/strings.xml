@@ -782,7 +782,6 @@
     <string name="setting_data_cloud_sync_tip">이 기능을 사용하여 이 기기의 항목을 백업하고 다른 기기의 상태 데이터를 동기화합니다</string>
     <string name="share">공유</string>
     <string name="sleep_and_get_up_time">취침 스케쥴</string>
-    <string name="sleep_day">일</string>
     <string name="sleep_deep">깊은 수면</string>
     <string name="sleep_deep_light_analysis">얕은 수면과 깊은 수면</string>
     <string name="sleep_deep_light_close_tip">깊은 수면 분석이 해제되었습니다</string>
@@ -821,14 +820,12 @@
     <string name="sleep_incomplete_deep_light_data_tip">가벼운 수면 정보가 왜 불완전합니까?</string>
     <string name="sleep_keep_hard">자고있는 문제</string>
     <string name="sleep_light">약간 잠자기</string>
-    <string name="sleep_month">월</string>
     <string name="sleep_no_deep_light_data_tip">"왜 얕은 수면과 깊은 수면이 기록되지 않습니까?"</string>
     <string name="sleep_schedule">취침 시간</string>
     <string name="sleep_snore_detection">코골이 및 대화 감지</string>
     <string name="sleep_sober">일어남</string>
     <string name="sleep_sober_times_title">기상</string>
     <string name="sleep_turn_over_times_title">켜짐</string>
-    <string name="sleep_week">주</string>
     <string name="snore">코골이</string>
     <string name="snore_detection_abnormal_notification_button">이력서</string>
     <string name="snore_detection_abnormal_notification_content">"마이크를 사용할 수 없습니다"</string>
@@ -1095,8 +1092,6 @@
     <string name="tuesday">화요일</string>
     <string name="tuesday_short">화</string>
     <string name="turn_count">켜짐</string>
-    <string name="unit_day">일</string>
-    <string name="user_birthday_display_format">yyyy/MM/dd</string>
     <string name="visceral_fat">내장 지방</string>
     <string name="visceral_fat_descripe_content">내장 지방은 내부 장기의 안정화 및 보호에 필수적입니다. 그러나 내장 지방이 높으면 심혈관 및 대사 질환의 위험이 증가합니다.</string>
     <string name="walk">걷기</string>
@@ -1111,8 +1106,7 @@
     <string name="welcome_sleep">수면주기 분석</string>
     <string name="welcome_sleep_description">아침에 수면주기에 대해 배우려면 옆에 전화기를 두십시오</string>
     <string name="welcome_start_use">시작</string>
-    <string name="well">좋은</string>
+    <string name="well">좋음</string>
     <string name="write_strorage_perm_description">발생한 문제에 대한 정보를 저장하기 위해</string>
-    <string name="year">년</string>
     <string name="yesterday">어제</string>
 </resources>
