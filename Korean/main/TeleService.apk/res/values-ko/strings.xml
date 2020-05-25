@@ -2,11 +2,9 @@
 <resources>
     <string name="advanced_settings_container">고급 설정 컨테이너</string>
     <string name="ambulance_type_description">구급차</string>
-    <string name="apn_settings">액세스 포인트 이름</string>
     <string name="app_name">환경 설정</string>
     <string name="bluetooth_active_battery_level_untethered">활성, 좌 : %1$s 배터리, 우 : %2$s 배터리</string>
     <string name="bluetooth_battery_level_untethered">좌 : 배터리 %1$s, 우 : 배터리 %2$s</string>
-    <string name="bluetooth_pairing_accept">쌍</string>
     <string name="callFailed_already_dialing">다른 발신 전화가 이미 전화를 걸고 있으므로 전화를 걸 수 없습니다.</string>
     <string name="callFailed_already_ringing">응답되지 않은 수신 전화가 있으므로 전화를 걸 수 없습니다. 새 전화를 걸기 전에 걸려 오는 전화를 받거나 거절합니다.</string>
     <string name="callFailed_calling_disabled">ro.telephony.disable-call 시스템 속성을 사용하여 호출이 비활성화되었으므로 전화를 걸 수 없습니다.</string>
@@ -17,7 +15,6 @@
     <string name="connected_via_app">%1$s를 통해 연결</string>
     <string name="copy">복사</string>
     <string name="data_usage_ota">시스템 업데이트</string>
-    <string name="debug_applications_category">앱</string>
     <string name="emergency_call_shortcut_hint">다시 탭하여 %s에게 전화 걸기</string>
     <string name="emergency_information_confirm_hint">정보를 보려면 다시 살짝 누르십시오</string>
     <string name="emergency_information_hint">긴급 정보</string>
@@ -38,8 +35,8 @@
     <string name="make_and_receive_calls">전화 걸기 및 받기</string>
     <string name="manual_mode_disallowed_summary">%1$s에 연결된 경우 사용할 수 없음</string>
     <string name="media_transfer_this_device_name">이 장치</string>
-    <string name="messageCFU_kr">모든 수신 전화 및 문자 메시지를 지정된 번호로 전환하는 네트워크 서비스. 이 서비스에 가입해야합니다. 월별 요금이 청구됩니다. 이 서비스를 구독 또는 구독 취소하려면 고객 센터 (114+ [보내기])에 문의하십시오. 활성화하려면 %s + [전화를 걸려면 번호] [보내기]를, 비활성화하려면 %s [보내기]를 입력하십시오.</string>
-    <string name="messageCW_kr">통화 중에 두 번째 전화에 응답하여 첫 번째 전화를 보류 할 수있는 무료 네트워크 서비스입니다. 활성화하려면 %s [보내기]를, 비활성화하려면 %s [보내기]를 입력하십시오.</string>
+    <string name="messageCFU_kr">모든 수신 전화 및 문자 메시지를 지정된 번호로 전환하는 네트워크 서비스. 이 서비스에 가입해야합니다. 월별 요금이 청구됩니다. 이 서비스를 구독 또는 구독 취소하려면 고객 센터 (114+ 보내기)에 문의하십시오. 활성화하려면 %s + (전화를 걸기 위한 번호)(보내기)를, 비활성화하려면 %s (보내기)를 입력하십시오.</string>
+    <string name="messageCW_kr">통화 중에 두 번째 전화에 응답하여 첫 번째 전화를 보류 할 수있는 무료 네트워크 서비스입니다. 활성화하려면 %s (보내기)를, 비활성화하려면 %s (보내기)를 입력하십시오.</string>
     <string name="mr_button_content_description">전송 버튼</string>
     <string name="mr_cast_button_connected">전송 버튼. 연결됨</string>
     <string name="mr_cast_button_connecting">전송 버튼. 연결 중</string>
@@ -2775,13 +2772,13 @@
   <string name="lgu_msim_emm_cause_7_14">"SIM %d 네트워크는 모바일 데이터 서비스를 제공하지 않습니다"</string>
   <string name="lgu_msim_emm_cause_8">"SIM %d에서 네트워크를 등록 할 수 없습니다. 고객 서비스 센터를 방문하십시오(+82-2-3416-7010)."</string>
   <string name="lgu_msim_emm_cause_others">"SIM %d이(가) 네트워크에 연결할 수 없습니다. 고객 서비스 센터를 방문하십시오(+82-2-3416-7010)."</string>
-  <string name="messageCFNRc_kr_kt">"전화를받을 수 없거나(예: 전화 통화 중이거나 기기가 꺼져있을 때) 모든 수신 전화 및 문자 메시지를 지정된 번호로 전환하는 네트워크 서비스입니다. 이 서비스에 가입하려면이 서비스에 가입하거나 탈퇴하려면 고객 센터 (114+ [보내기])에 문의하십시오. * 72 + [전화를 걸기위한 번호] [보내기]를 사용하려면 설정하거나 * 720 [보내기]를 입력하여 사용하지 않도록 설정하십시오..
+  <string name="messageCFNRc_kr_kt">"전화를 받을 수 없거나(예: 전화 통화 중이거나 기기가 꺼져있을 때) 모든 수신 전화 및 문자 메시지를 지정된 번호로 전환하는 네트워크 서비스입니다. 이 서비스에 가입하려면이 서비스에 가입하거나 탈퇴하려면 고객 센터 (114+ 보내기)에 문의하십시오. *72+ (전화를 걸기 위한 번호)(보내기)를 사용하려면 설정하거나 *720 (보내기)를 입력하여 사용하지 않도록 설정하십시오..
 
-연결할 수없는 경우의 숫자"</string>
-  <string name="messageCFU_kr_kt">"수신 전화 및 문자 메시지를 모두 지정된 번호로 전환하는 네트워크 서비스입니다.이 서비스에 가입해야합니다. 월별 요금이 청구됩니다. 고객 센터에 문의하십시오 (114+ [보내기 ])이 서비스를 구독하거나 구독을 취소하려면 * 71 + [전화를 거는 번호] [보내기]를 입력하여 활성화하거나 * 710 [보내기]를 입력하여 비활성화하십시오.
+연결할 수 없는 경우의 숫자"</string>
+  <string name="messageCFU_kr_kt">"수신 전화 및 문자 메시지를 모두 지정된 번호로 전환하는 네트워크 서비스입니다. 이 서비스에 가입해야합니다. 월별 요금이 청구됩니다. 고객 센터에 문의하십시오 (114+ 보내기)이 서비스를 구독하거나 구독을 취소하려면 *71+ (전화를 걸기 위한 번호)(보내기)를 입력하여 활성화하거나 *710 (보내기)를 입력하여 비활성화하십시오.
 
 항상 이 번호를 사용하십시오"</string>
-  <string name="messageCW_kr_kt">통화 중에 두 번째 전화에 응답하여 첫 번째 전화를 보류시킬 수있는 무료 네트워크 서비스입니다. 사용하려면 * 40 + [보내기]를, 사용하지 않으려면 * 400 + [보내기]를 입력하십시오.</string>
+  <string name="messageCW_kr_kt">통화 중에 두 번째 전화에 응답하여 첫 번째 전화를 보류시킬 수있는 무료 네트워크 서비스입니다. 사용하려면 *40 + (보내기)를, 사용하지 않으려면 *400 + (보내기)를 입력하십시오.</string>
   <string name="msim_emm_cause_11">"SIM %d 이동 통신사는 이 서비스를 지원하지 않습니다."</string>
   <string name="msim_emm_cause_14">"SIM %d 이동 통신사는 모바일 데이터 서비스를 지원하지 않습니다."</string>
   <string name="msim_emm_cause_2">"SIM %d에서 전화 번호를 등록 할 수 없습니다. 기기를 껐다가 다시 켜십시오."</string>
