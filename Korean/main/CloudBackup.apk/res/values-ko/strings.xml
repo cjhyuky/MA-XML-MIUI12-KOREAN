@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="btn_restore_wait_china">Wi-Fi 대기중</string>
+    <string name="cloud_back_up_detail_discription_china">"이 항목은 장치가 Wi-Fi에 연결되면 샤오미 클라우드에 백업됩니다.
+* 앱, 홈 화면 레이아웃 및 배경 화면
+* 알람, 시계 및 시간 설정
+* 알림 설정
+* MIUI 및 시스템 설정
+참고 : 설치한 앱의 데이터는 샤오미 클라우드에 백업되지 않습니다."</string>
+    <string name="cloud_backup_detail_state_summary_china">Wi-Fi에 연결되면 샤오미 클라우드 백업을 자동으로 생성합니다.</string>
+    <string name="dialog_msg_restore_require_wlan_china">백업을 복원하려면 Wi-Fi에 연결해야합니다.</string>
+    <string name="dialog_title_require_wlan_china">Wi-Fi에 연결</string>
     <string name="help_and_feedback">도움말 및 피드백</string>
     <string name="app_name">Mi 클라우드 백업</string>
     <string name="settings_backup">시스템 설정</string>
