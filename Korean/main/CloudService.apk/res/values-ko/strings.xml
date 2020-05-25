@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="micloud_dspt_provision_china">샤오미 클라우드를 사용하여 데이터를 동기화하고 장치를 찾고 친구와 물건을 공유하십시오.</string>
+    <string name="micloud_dspt_provision_xms_china">샤오미 클라우드를 사용하여 데이터를 동기화합니다.</string>
+    <string name="micloud_notif_content_depend_wifi_china">동기화하려면 Wi-Fi에 연결하십시오.</string>
+    <string name="micloud_setting_wifi_summary_china">Wi-Fi 설정</string>
+    <string name="micloud_sync_result_wifi_only_china">이 항목이 너무 큽니다. Wi-Fi에 연결되면 동기화하십시오.</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only_china">Wi-Fi만 사용하여 사진을 동기화</string>
+    <string name="soundrecorder_sync_only_in_wifi_china">Wi-Fi만 사용하여 동기화</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary_china">레코더는 모바일 데이터를 사용하여 레코딩을 다운로드하거나 업로드하지 않습니다</string>
+    <string name="sub_sync_item_sms_title_wifi_only_china">MMS를 동기화하기 위해 Wi-Fi만 사용</string>
+    <string name="sync_dspt_entrance_provision_network_china">정상적으로 작동하려면이 앱을 인터넷에 연결해야합니다. 데이터를 동기화하려면 모바일데이터 연결이 필요하고 Wi-Fi을 켜야합니다.</string>
     <string name="help_and_feedback">도움말 및 피드백</string>
     <string name="micloud_find_device_guide_desc_pad">"기기를 찾거나 잠그거나 지우려면 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하십시오. 분실한 경우 기기를 찾는데 도움이 됩니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[도움말 참조]&lt;/a>"</string>
     <string name="micloud_find_device_guide_desc_phone">"기기를 찾거나 잠그거나 지우려면 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하십시오. 분실한 경우 기기를 찾는데 도움이 됩니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[도움말 참조]&lt;/a>"</string>
