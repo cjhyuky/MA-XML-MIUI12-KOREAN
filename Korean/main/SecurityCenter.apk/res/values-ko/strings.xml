@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_behavior_start_from_widget">%1s 앱이 위젯에서 실행되었습니다</string>
+    <string name="app_behavior_start_from_widget_single">이 앱이 위젯에서 실행되었습니다</string>
     <string name="app_behavior_desc_virtual_once">%1$s 앱이 빈 메시지를 반환했습니다.</string>
     <string name="app_behavior_perm_change_tip_virtual">\"%1s\" 앱이 \"빈 메시지 반환\"으로 변경했습니다.</string>
     <string name="permission_action_desc">개인정보 보호를 위해 권한을 부여하지만 빈 메시지를 앱에 반환</string>
