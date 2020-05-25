@@ -575,7 +575,6 @@
   <string name="exercise_consume">회당 %1$d 칼로리</string>
   <string name="exercise_consume_description">중국인을 위한 식이 지침에 따르면, 매일의 신체 활동은 총 에너지 소비의 15% 이상을 소비해야합니다. 귀하의 일상적인 신체 활동에 소비되는 에너지는 여기에 요약되어 있지만 기본 대사 지출은 포함되지 않습니다. 체중 관리 문제가 있는 경우 에너지 섭취에 집중해야 합니다.</string>
   <string name="exercise_consume_exercise_description">중간 및 고강도 활동에 소비하는 시간입니다. 중국 보건 당국에 따르면 주별 운동 시간은 최소 150분 (세션 당 30분 이상)이어야합니다. 활발한 걷기 (분당 100걸음 이상의 계단), 달리기, 계단 오르기와 같은 활동은 중간에서 고강도 운동으로 간주됩니다.</string>
-  <string name="exercise_detail_duration">%1$s… %2$s…-… %3$s… % 4 $ s</string>
   <string name="exercise_detail_no_consume_hint">"선택한 데이터 소스 (%1$s)가 칼로리 계산 정보를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스를 선택할 수 있습니다."</string>
   <string name="exercise_detail_no_exercise_hint">"현재 데이터 소스 (%1$s)는 자세한 운동 통계를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 소스를 선택할 수 있습니다."</string>
   <string name="exercise_detail_no_steps_hint">"선택한 데이터 소스 (%1$s)는 걸음 수 정보를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스를 선택할 수 있습니다."</string>
