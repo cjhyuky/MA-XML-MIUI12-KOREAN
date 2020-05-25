@@ -2829,7 +2829,7 @@
     <string name="incall_error_out_of_service_kr">비상전화만 가능합니다.</string>
     <string name="incall_number_anonymous">알 수 없는 번호</string>
     <string name="msim_setting_default_data_description">데이터 SIM %d</string>
-    <string name="msim_setting_default_voice_description">SIM %d</string>
+    <string name="msim_setting_default_voice_description">통화용 SIM %d</string>
     <string name="private_num_kr">발신자 ID 제한됨</string>
     <string name="kr_emergency_113">간첩 신고(113)</string>
 </resources>
