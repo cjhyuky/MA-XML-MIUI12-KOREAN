@@ -88,9 +88,9 @@
   <string name="recents_task_screening">캐스팅</string>
   <string name="screenshot_failed_to_capture_title">이 앱은 스크린 샷을 찍을 수 없습니다</string>
   <string name="screenshot_failed_to_save_title">새 스크린 샷을 저장할 공간이 부족합니다</string>
-  <string name="small_window_guide_title">부동 창</string>
+  <string name="small_window_guide_title">플로팅 창</string>
   <string name="small_window_notification_text">MIUI %d 의 이 기능에 대해 자세히 알아 보려면 탭하십시오</string>
-  <string name="small_window_notification_title">부동 창</string>
+  <string name="small_window_notification_title">플로팅 창</string>
   <string name="sos_status_bar_summary">탭하여 종료</string>
   <string name="sos_status_bar_title">SOS</string>
   <string name="stream_voice_assist">음성 도우미</string>

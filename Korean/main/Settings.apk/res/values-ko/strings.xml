@@ -449,8 +449,8 @@
   <string name="app_factory_reset">업데이트 제거</string>
   <string name="app_factory_reset_dlg_text">이 Android 시스템 앱의 모든 업데이트가 제거될 것입니다.</string>
   <string name="app_factory_reset_dlg_title">업데이트를 제거하시겠습니까?</string>
-  <string name="app_floating_window_dlg_disable">%1$s의 부동 창 설정을 끄려면 자동 시작 앱이 필요합니다.</string>
-  <string name="app_floating_window_dlg_enable">%1$s의 부동 창 설정을 켜려면 자동 시작 앱이 필요합니다.</string>
+  <string name="app_floating_window_dlg_disable">%1$s의 플로팅 창 설정을 끄려면 자동 시작 앱이 필요합니다.</string>
+  <string name="app_floating_window_dlg_enable">%1$s의 플로팅 창 설정을 켜려면 자동 시작 앱이 필요합니다.</string>
   <string name="app_forward_locked">복제 방지된 앱입니다.</string>
   <string name="app_info_storage_title">사용된 저장소</string>
   <string name="app_install_details_group_title">보관</string>
@@ -2616,8 +2616,8 @@
   <string name="flash_drive_connection_failed">USB 저장소 연결 실패</string>
   <string name="flash_drive_restore_btn">USB 저장소에서 복원</string>
   <string name="flash_drive_search_backup_files">USB 백업을 검색하는 중... 백업 파일을 변경하거나 이름을 변경하지 마십시오.</string>
-  <string name="floating_window_switch_label">부동 창 열기</string>
-  <string name="floating_window_switch_label_disable">부동 창 닫기</string>
+  <string name="floating_window_switch_label">플로팅 창 열기</string>
+  <string name="floating_window_switch_label_disable">플로팅 창 닫기</string>
   <string name="fluency_mode">시스템 애니메이션</string>
   <string name="fluency_mode_confirm_and_reboot">지금 재시작</string>
   <string name="fold_title">그룹화 된 알림 규칙</string>
@@ -9457,7 +9457,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">플로팅 윈도우 최소화</string>
     <string name="freeform_guide_notification_drop_down_summary">알림의 작업 표시 줄을 길게 누른 다음</string>
     <string name="freeform_guide_notification_drop_down_title">플로팅 창 열기</string>
-    <string name="freeform_guide_settings">부동 창</string>
+    <string name="freeform_guide_settings">플로팅 창</string>
     <string name="freeform_guide_slide_up_to_close_summary">플로팅 창의 작업 표시 줄에서 위로 스 와이프</string>
     <string name="freeform_guide_slide_up_to_close_title">플로팅 창 닫기</string>
     <string name="freeform_vedio_description">"· 누른 다음 알림을 아래로 당겨 플로팅 창에서 엽니 다.
