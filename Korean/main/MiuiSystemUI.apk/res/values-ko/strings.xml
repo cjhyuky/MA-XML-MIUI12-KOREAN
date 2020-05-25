@@ -41,7 +41,6 @@
     <string name="partial_screenshot_save_successful">저장되었습니다</string>
     <string name="partial_screenshot_share">공유</string>
     <string name="quick_settings_location_label">위치</string>
-    <string name="quick_settings_tiles">기본</string>
     <string name="quick_settings_user_label">나</string>
     <string name="recorder_description_talkback">레코더</string>
     <string name="recorder_title">레코더</string>
