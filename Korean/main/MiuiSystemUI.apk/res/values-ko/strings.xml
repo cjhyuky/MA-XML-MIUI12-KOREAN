@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_detail_switch">타일 변경</string>
-    <string name="accessibility_detail_switch_disable">사용할 수 없음</string>
-    <string name="accessibility_detail_switch_off">끄기</string>
-    <string name="accessibility_detail_switch_on">켜기</string>
-    <string name="accessibility_expand_button">펼치기</string>
+    <string name="accessibility_detail_switch">토글 전환</string>
+    <string name="accessibility_detail_switch_disable">해당 없음</string>
+    <string name="accessibility_detail_switch_off">꺼짐</string>
+    <string name="accessibility_detail_switch_on">켜짐</string>
+    <string name="accessibility_expand_button">더 보기</string>
     <string name="alipayscan_description_talkback">알리페이 스캐너</string>
     <string name="alipay_description_talkback">알리페이 결제</string>
     <string name="alipay_title">결제</string>
