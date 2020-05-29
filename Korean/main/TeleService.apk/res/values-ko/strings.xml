@@ -2642,7 +2642,6 @@
     <string name="vowifi_emergency_warning_title">와이파이콜로 긴급전화</string>
     <string name="wifi_call_setting_vodafone_de">와이파이콜 연결중</string>
     <string name="wifi_call_setting_vodafone_uk">와이파이콜</string>
-    <string name="fiveg_switch_title">5G 네트워크</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G 우선</string>
     <string name="network_mode_updating_title">네트워크 유형</string>
     <string name="fiveg_infos">5G 정보</string>
