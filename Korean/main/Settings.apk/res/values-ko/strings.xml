@@ -8298,7 +8298,7 @@
   <string name="lock_screen_display_category_name">잠금 화면</string>
   <string name="miui_sos_emergency_delete">삭제</string>
   <string name="more_account_settings_title">기타 계정</string>
-  <string name="notch_and_status_bar_settings">컨트롤 센터 &amp; 상태 바</string>
+  <string name="notch_and_status_bar_settings">컨트롤 센터 &amp; 알림창</string>
   <string name="notch_settings">노치</string>
   <string name="notification_center">알림</string>
   <string name="other_sound_settings_title">기타 설정</string>
@@ -9584,7 +9584,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="three_gesture_long_press">%d개의 손가락으로 길게 누르기</string>
     <string name="turn_off_keyguard_password_title">화면 잠금 끄기</string>
     <string name="unlock_failed">내부 오류</string>
-    <string name="use_control_panel">제어 센터 사용</string>
+    <string name="use_control_panel">새 컨트롤 센터 사용</string>
     <string name="wifi_security_none_owe">없음/확장 오픈</string>
     <string name="wifi_security_short_none_owe">없음/OWE</string>
     <string name="control_panel_switch_side">컨트롤 센터 측면으로 전환</string>
