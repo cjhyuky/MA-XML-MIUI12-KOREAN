@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="changepw_dialog_auth_tips">%s에 대한 인증 코드를 다시 입력하십시오</string>
+    <string name="font_bold_add">두꺼운 폰트</string>
+    <string name="font_bold_remove">두꺼운 폰트 취소</string>
+    <string name="font_color">현재 글꼴 색상은 %s입니다</string>
+    <string name="font_color_black">검정색</string>
+    <string name="font_color_blue">파란색</string>
+    <string name="font_color_cyan_blue">하늘색</string>
+    <string name="font_color_gray">회색</string>
+    <string name="font_color_green">녹색</string>
+    <string name="font_color_orange">오렌지</string>
+    <string name="font_color_purple">보라색</string>
+    <string name="font_color_red">빨간색</string>
+    <string name="font_color_white">흰색</string>
+    <string name="font_italic_add">이탤릭체</string>
+    <string name="font_italic_remove">이탤릭체 취소</string>
+    <string name="font_size">현재 글꼴 크기는 %s입니다</string>
+    <string name="font_underline">밑줄</string>
+    <string name="font_underline_remove">밑줄 제거</string>
+    <string name="ser_resp_err_map_serclosed_info">%s 서버가 닫혔습니다.</string>
+    <string name="toolbar_add_image">사진 추가</string>
+    <string name="toolbar_part_num">문단 번호</string>
+    <string name="toolbar_part_symbol">단락 기호</string>
     <string name="SMTP_independent_verification_text">SMTP 단독 검증</string>
     <string name="SMTP_password_text">비밀번호</string>
     <string name="SMTP_username_text">사용자 이름</string>
