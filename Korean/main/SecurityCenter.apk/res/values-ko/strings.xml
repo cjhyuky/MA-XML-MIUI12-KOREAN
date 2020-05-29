@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="gb_dialog_game_uninstall_deleting">삭제</string>
+    <string name="gb_dialog_game_uninstall_loading">게임 응용 프로그램 로딩중입니다</string>
+    <string name="gb_dialog_game_uninstall_multi_tips_title">"%1$s\"등 %2$d 게임 제거</string>
+    <string name="gb_dialog_game_uninstall_tips_message">제거 후 모든 데이터도 삭제됩니다</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">관련 더블 오픈 게임을 동시에 제거하고 게임 내 데이터가 삭제됩니다</string>
+    <string name="gb_dialog_game_uninstall_tips_title">"%s" 제거</string>
+    <string name="gb_storage_game_uninstall">게임 제거</string>
+    <string name="gb_storage_summary">게임 상자에 게임 응용 프로그램을 저장하면 게임 아이콘이 더 이상 바탕 화면에 표시되지 않습니다</string>
+    <string name="gb_storage_title">데스크탑 게임 아이콘 저장</string>
     <string name="gb_game_video_ai_record_finish_tips">AI가 %d개의 영상을 녹화하여 게임부스터에 기록합니다</string>
     <string name="gb_game_video_type_ai_record">AI녹화</string>
     <string name="gb_game_video_type_manual_record">수동녹화</string>
