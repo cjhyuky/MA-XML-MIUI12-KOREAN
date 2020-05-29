@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="fiveg_network_title">5G 네트워크</string>
+    <string name="switch_off">끄기</string>
+    <string name="switch_on">켜기</string>
+    <string name="fiveg_switch_title">5G 네트워크 사용</string>   
     <string name="ambulance_type_description">구급차</string>
     <string name="app_name">환경 설정</string>
     <string name="bluetooth_active_battery_level_untethered">활성, 좌 : %1$s 배터리, 우 : %2$s 배터리</string>
