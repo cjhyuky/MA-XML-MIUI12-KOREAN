@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="channel_name_stopwatch">스탑워치</string>
     <string name="add_common_timer">타이머 추가</string>
     <string name="common_timer_selector">타이머 선택</string>
     <string name="stopwatch_reset_notification">스톱워치가 재설정 되었습니다</string>
