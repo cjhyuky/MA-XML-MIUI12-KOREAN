@@ -53,8 +53,8 @@
     <string name="wechatpay_description_talkback">위챗 결제</string>
     <string name="wechatpay_title">결제</string>
     <string name="wechatscan_description_talkback">위챗 스캐너</string>
-    <string name="auto_brightness_off">자동 밝기 비활성화됨</string>
-    <string name="auto_brightness_on">자동 밝기 활성화됨</string>
+    <string name="auto_brightness_off">자동 밝기 꺼짐</string>
+    <string name="auto_brightness_on">자동 밝기 켜짐</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">"모바일 데이터를 끄면 Wi-Fi에 연결하지 않으면 인터넷을 사용할 수 없습니다. 여전히 MMS를 보낼 수 있습니다. 어쨌든 모바일 데이터를 끄시겠습니까?"</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">모바일 데이터를 사용하면 결제 요금제에 따라 추가 요금이 부과 될 수 있습니다. 어쨌든 모바일 데이터 사용을 허용 하시겠습니까?</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">취소</string>
