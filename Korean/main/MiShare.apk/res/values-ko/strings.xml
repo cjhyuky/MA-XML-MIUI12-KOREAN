@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miui_feedback_answer_detail_relative_tip">관련 정보</string>
+    <string name="miui_feedback_main_search_footer_submit">의견 제출</string>
+    <string name="miui_guide_accessibility_image_desc">이미지</string>
+    <string name="permission_external_storage_introduce">피드백 저장 및 업로드</string>
+    <string name="permission_imei_disable_desc">이 앱이 인터넷에 연결되도록 허용합니다.</string>
+    <string name="permission_imei_enable_desc">이 앱이 인터넷에 연결하여 위에 나열된 필수 권한을 부여하도록 허용합니다.</string>
+    <string name="permission_location_introduce">근처의 서비스 지점을 표시합니다</string>
     <string name="error_slave_wifi_in_use_china">"이중 Wi-Fi가 켜져 있으면 Mi Share가 작동하지 않습니다. 설정에서 이중 Wi-Fi를 끄고 다시 시도하십시오."</string>
     <string name="mishare_state_protection_summary_china">블루투스 또는 Wi-Fi를 다시 켤 때 자동으로 Mi 공유 켜기</string>
     <string name="wifi_is_not_enabled_china">먼저 Wi-Fi 켜기</string>
