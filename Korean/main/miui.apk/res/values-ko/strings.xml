@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="com_xiaomi_shop">Mi 스토어</string>
+    <string name="com_xiaomi_youpin">요우핀</string>
+    <string name="com_xiaomi_jr">마이 파이낸스</string>
+    <string name="com_xiaomi_scanner">스캐너</string>
+    <string name="com_xiaomi_drivemode">자동차 모드</string>
+    <string name="com_mi_liveassistant">실시간 스트리밍 도우미</string>
+    <string name="com_xiaomi_gamecenter">게임</string>
+    <string name="com_android_email">메일</string>
+    <string name="com_miui_huanji">내 발동기</string>
+    <string name="com_miui_notes">참고 사항</string>
+    <string name="com_miui_cleanmaster">청소기</string>
+    <string name="com_miui_weather2">날씨</string>
+    <string name="com_miui_screenrecorder">스크린 레코더</string>
+    <string name="com_miui_compass">나침반</string>
+    <string name="com_miui_calculator">계산기</string>
+    <string name="com_miui_health">샤오미 건강앱</string>
+    <string name="system_restore">항목 복원</string>
+    <string name="after_reset_need_restore_system_app">"초기화를 수행 한 것 같습니다. 네트워크에 연결하고 MIUI를 정상적으로 사용할 수 있도록 시스템 항목을 복원하십시오."</string>
+    <string name="system_app_is_restore">시스템 항목 복원 중…</string>
+    <string name="system_app_restore_completed">성공적으로 복원되었습니다</string>
+    <string name="system_app_restore_completed_detail">모든 시스템 항목이 성공적으로 복원되었습니다</string>
+    <string name="click_to_restore">공장 재설정 후 MIUI를 정상적으로 사용할 수 있도록 시스템 항목을 복원하십시오. 시작하려면 탭하세요.</string>
+    <string name="system_app_restore_failed">오류가 발생했습니다</string>
+    <string name="system_app_restore_failed_detail">"시스템 항목을 복원 할 수 없습니다. 네트워크 설정을 확인하고 항목이 완전히 복원 될 때까지 기기를 재부팅하거나 전원을 끄지 마십시오. 아래 버튼을 눌러 다시 시도하십시오."</string>
+    <string name="do_not_restore_temporarily">지금은 아닙니다</string>
+    <string name="restore_right_now">복원</string>
+    <string name="retry">다시 시도</string>
+    <string name="recovery_progress">항목 복원(%1$d/%2$d)…</string>
     <string name="failed_to_send">전송 실패</string>
     <string name="label">MIUI SDK</string>
     <string name="send">전송</string>
