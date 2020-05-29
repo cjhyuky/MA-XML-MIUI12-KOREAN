@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="get_identity_auth_url_failed">"ID 식별 불가"</string>
     <string name="character_counter_content_description">글자 수 한도를 %2$d자 중 %1$d자를 초과했습니다</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">국내 : SIM카드 활성화가 번호를 가져오지 못했습니다, 운영자가 번호를 가져오지 못했습니다</string>
