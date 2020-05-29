@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="gb_game_video_ai_record_finish_tips">AI가 %d개의 영상을 녹화하여 게임부스터에 기록합니다</string>
+    <string name="gb_game_video_type_ai_record">AI녹화</string>
+    <string name="gb_game_video_type_manual_record">수동녹화</string>
+    <string name="gb_wonderful_moment_toast_window_new_pop">AI/수동 녹화를 켜고 멋진 순간을 기록하세요</string>
+    <string name="gb_wonderful_video_goto_box">게임부스터로 이동</string>
     <string name="app_behavior_start_from_widget">%1s 앱이 위젯에서 실행되었습니다</string>
     <string name="app_behavior_start_from_widget_single">이 앱이 위젯에서 실행되었습니다</string>
     <string name="app_behavior_desc_virtual_once">%1$s 앱이 빈 메시지를 반환했습니다.</string>
