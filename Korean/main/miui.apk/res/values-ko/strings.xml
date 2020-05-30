@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="mobile_data_remind">데이터 사용량 경고</string>
+    <string name="mobile_data_consume">현재 다운로드 중인 항목이 %1$s MB의 모바일 데이터를 사용할 예정입니다. 그래도 다운로드하시겠습니까?</string>
+    <string name="download_right_now">다운로드</string>
     <string name="com_xiaomi_shop">Mi 스토어</string>
     <string name="com_xiaomi_youpin">요우핀</string>
     <string name="com_xiaomi_jr">마이 파이낸스</string>
