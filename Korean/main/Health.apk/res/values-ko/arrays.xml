@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="contact_relation_array">
+        <item>설정되지 않음</item>
+        <item>부모님</item>
+        <item>자매</item>
+        <item>브로셔</item>
+        <item>커플</item>
+        <item>연인</item>
+        <item>친구</item>
+        <item>동료들</item>
+        <item>학교친구</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>설정되지 않음</item>
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>설정되지 않음</item>
+        <item>A형</item>
+        <item>B형</item>
+        <item>AB형</item>
+        <item>O형</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>설정되지 않음</item>
+        <item>A형</item>
+        <item>B형</item>
+        <item>AB형</item>
+        <item>O형</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>설정되지 않음</item>
+        <item>부정적</item>
+        <item>긍정적</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>설정되지 않음</item>
+        <item>예</item>
+        <item>아니요</item>
+    </string-array>
     <string-array name="arr_prompt_label">
         <item>합리적임</item>
         <item>오래</item>
