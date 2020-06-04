@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="location_U">U+GPSnWPS</string>
+    <string name="location_content">법에 따라 이동 통신사는 보안 및 응급 구조 목적을 추구하는 응급 구조 기관(소방서 및 경찰)의 요구 사항을 준수하기 위해 모바일 장치의 위치 정보를 얻을 수 있습니다.</string>
+    <string name="location_location">응급 구조대는 요청에 따라 현재 위치를 얻을 수 있습니다</string>
+    <string name="location_miui">MIUI를 사용하려면 위의 이용 약관에 동의해야 합니다</string>
+    <string name="position_header">위치 정보 공유</string>
+    <string name="position_subheading">위치 정보</string>
     <string name="disagreement_abnormal_running_fast_pairing">"이러한 권한에 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 설정에서 권한을 제한하고 이 기능을 끄도록 선택할 수 있습니다."</string>
     <string name="fast_pairing_introduction">Mi Link를 사용하면 장치가 MIUI Bluetooth 서비스를 사용하여 근처의 Bluetooth 장치에 연결할 수 있습니다.  근처에서 기기를 찾으려면 MIUI Bluetooth 서비스가 인터넷에 연결되도록 허용하십시오.</string>
     <string name="backup_introduction">기기의 백업과 복원을 위해 이 앱을 사용해보세요.</string>
