@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>연락처, 메시지, 메모, 캘린더 등을 동기화</item>
+        <item>앱, 홈 화면 레이아웃 및 배경 화면 백업</item>
+        <item>Wi-Fi 및 디스플레이를 포함한 중요 설정 백업</item>
+        <item>"기기를 분실한 경우 원격으로 기기 잠금"</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Wi-Fi 설정 샤오미 클라우드에 동기화</item>
+        <item>동기화 켜기</item>
+        <item>Wi-Fi;wifi;Wi-Fi;클라우드;동기화;클라우드 서비스;샤오미 클라우드</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray">
          <item>연락처, 메시지, 메모, 캘린더, 등 동기화</item>
          <item>앱, 홈화면 구성, 배경화면을 백업</item>
