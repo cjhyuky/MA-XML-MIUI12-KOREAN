@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_msg">
+        <item quantity="other">지금 %d개의 항목을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="select_items">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d일 전</item>
     </plurals>
