@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cancel_msg">모두 선택 해제 하시겠습니까?</string>
+    <string name="file_name_existed">파일 이름이 이미 존재합니다</string>
+    <string name="rename_msg">이름이 \"%s\"인 파일이 이미 존재합니다.</string>
+    <string name="replace">변경</string>
+    <string name="skip">건너 뛰기</string>
+    <string name="use_to_all">모두 적용</string>
     <string name="otg_data_transfer_success">전송 완료</string>
     <string name="otg_data_transferring">"파일 전송 중... 외부 저장소 연결을 해제하지 마십시오."</string>
     <string name="des_hide_pwd">비번 숨기기</string>
