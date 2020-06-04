@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="usage_app_limit_reach_summay_new">%d분 추가하려면 탭하세요</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">%1s의 남은 화면 시간 : %2s</string>
+    <string name="usage_new_home_day_category_title_new">%s의 앱 카테고리 화면 시간</string>
+    <string name="usage_new_home_day_usage_title_new">%s의 스크린 타임</string>
+    <string name="usage_week_avg_usage_title">주중 평균</string>
+    <string name="usage_week_avg_usage_title2">평균 시간</string>
     <string name="high_fps_description">높은 화면 재생률. 더 높은 전력 소비.</string>
     <string name="low_fps_description">낮은 화면 거부율. 낮은 전력 소비.</string>
     <string name="silent_ringtone_hint">오디오가 무음 상태입니다. 볼륨을 높이고 다시 시도하십시오.</string>
