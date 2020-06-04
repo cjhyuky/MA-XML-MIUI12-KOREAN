@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dialog_ota_change_number_fail">"전화 번호를 변경할 수 없습니다. 다시 시도한 후에이 오류가 발생하면 공급 업체에 문의하십시오."</string>
+    <string name="dialog_ota_change_number_lgu">지금 USIM을 다운로드 하시겠습니까?</string>
+    <string name="dialog_ota_change_number_lgu_roaming">"해외에서는 전화 번호를 변경할 수 없습니다."</string>
+    <string name="dialog_ota_change_number_processing">USIM 다운로드 중…</string>
+    <string name="dialog_ota_change_number_success">전화 번호 변경 성공</string>
     <string name="fiveg_network_title">5G 네트워크</string>
     <string name="switch_off">끄기</string>
     <string name="switch_on">켜기</string>
