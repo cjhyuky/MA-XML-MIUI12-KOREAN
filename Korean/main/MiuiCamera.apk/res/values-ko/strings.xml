@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="super_macro_mode">슈퍼 메크로</string>
     <string name="accessibility_8k_off">AI 8K 꺼짐</string>
     <string name="accessibility_8k_on">AI 8K 켜짐</string>
     <string name="ambilight_tips_for_longtime_using_tripod">장노출 촬영의 경우 삼각대를 사용하십시오</string>
