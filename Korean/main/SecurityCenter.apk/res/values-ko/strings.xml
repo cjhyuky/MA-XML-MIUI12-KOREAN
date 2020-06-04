@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="gtb_dialog_btn_close">끄기</string>
+    <string name="gtb_dialog_btn_open">켜기</string>
+    <string name="gtb_dialog_hint_smart_5g">Game Turbo> 설정에서이 기능을 켜거나 끌 수 있습니다.</string>
+    <string name="gtb_dialog_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 장치를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다.  지금 이 기능을 사용 하시겠습니까?</string>
+    <string name="gtb_dialog_title_smart_5g">5G 네트워크 최적화</string>
+    <string name="gtb_setting_item_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 네트워크 지연을 줄이기 위해 사용가능한 최상의 네트워크에 장치를 연결할 수 있습니다</string>
+    <string name="gtb_setting_item_title_smart_5g">5G 네트워크 최적화</string>
     <string name="gb_dialog_game_uninstall_deleting">삭제</string>
     <string name="gb_dialog_game_uninstall_loading">게임 응용 프로그램 로딩중입니다</string>
     <string name="gb_dialog_game_uninstall_multi_tips_title">"%1$s\"등 %2$d 게임 제거</string>
