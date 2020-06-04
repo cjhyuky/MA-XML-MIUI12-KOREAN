@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d개의 Wi-Fi 네트워크</item>
+    </plurals>
     <plurals name="select_no_more_than">
         <item quantity="other">"%d개 이상의 항목 선택 실패"</item>
     </plurals>
