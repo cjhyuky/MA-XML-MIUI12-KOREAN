@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="birthday_format">
+        <item quantity="other">(%1$d세)</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">매일 적어도 %1$d 걸음 이상을 걸으세요</item>
     </plurals>
