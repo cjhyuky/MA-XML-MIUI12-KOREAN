@@ -538,4 +538,10 @@
     <string name="content_description_button_remove">탭하여 앱 제거</string>
     <string name="accessibility_menu_item_smallwindow_disable">"이 앱은 플로팅 창을 지원하지 않습니다"</string>
     <string name="accessibility_menu_item_smallwindow_enable">이 앱은 플로팅 창을 지원합니다</string>
+    <string name="accessibility_all_app_custom_category_finish">완료</string>
+    <string name="accessibility_all_app_custom_category_item_remove">카테고리에서 \"%1$s\" 항목 삭제</string>
+    <string name="accessibility_clear_search_bar_text">검색바 삭제</string>
+    <string name="accessibility_enter_all_app_mode">앱 서랍 열기</string>
+    <string name="accessibility_enter_all_app_settings">앱 서랍 설정 열기</string>
+    <string name="back">뒤로</string>
 </resources>
