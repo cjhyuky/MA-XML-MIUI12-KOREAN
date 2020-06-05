@@ -17,7 +17,6 @@
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
-    <string name="app_permissions_breadcrumb">앱</string>
     <string name="copy">복사</string>
     <string name="dlg_appstore_notice">"앱스토어가 아닌 곳에서 받은 설치파일은 안전과 보안을 보장할 수 없습니다."</string>
     <string name="expand_button_title">확장</string>
@@ -220,8 +219,8 @@
     <string name="miui_install_version">버전 : %1$s | 크기 : %2$s</string>
     <string name="miui_message_staging_0">스테이징 앱</string>
     <string name="miui_message_staging_1">스테이징 앱.</string>
-    <string name="miui_message_staging_2">스테이징 앱 ..</string>
-    <string name="miui_message_staging_3">스테이징 앱 ...</string>
+    <string name="miui_message_staging_2">스테이징 앱..</string>
+    <string name="miui_message_staging_3">스테이징 앱...</string>
     <string name="miui_not_uninstall_system_app">"시스템 앱을 제거 할 수 없습니다"</string>
     <string name="miui_no_perms">권한이 필요하지 않습니다</string>
     <string name="miui_other_relative">기타</string>
