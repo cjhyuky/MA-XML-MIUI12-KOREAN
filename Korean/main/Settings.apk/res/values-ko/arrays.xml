@@ -1309,4 +1309,10 @@
         <item>푸시 알림이 그룹화되어 다른 알림 아래에 표시됩니다</item>
         <item>"푸시 알림이 그룹화되지 않습니다"</item>
     </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>꺼짐</item>
+        <item>플로우</item>
+        <item>빛</item>
+        <item>파도</item>
+    </string-array>
 </resources>
