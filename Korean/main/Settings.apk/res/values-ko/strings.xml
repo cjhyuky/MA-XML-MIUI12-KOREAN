@@ -9595,4 +9595,6 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="restore_oaid_dialog_content">여러 앱이 가상 ID를 사용하고 있습니다. 지금 재설정하면 앱 데이터의 일부가 손실되거나 사용할 수 없게 될 수 있습니다. 어쨌든 가상 ID를 재설정하시겠습니까?</string>
     <string name="content_miui_music_mute_by_user">자동 모드가 켜져있을 때 미디어 사운드를 재생하시겠습니까?</string>
     <string name="title_miui_music_mute_by_user">자동 모드</string>
+    <string name="charge_animation_style_summary">원하시는 잠금화면 충전 애니메이션 스타일을 선택하세요</string>
+    <string name="charge_animation_style_title">충전 애니메이션</string>
 </resources>
