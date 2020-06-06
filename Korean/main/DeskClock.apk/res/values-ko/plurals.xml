@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s 시간</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s 시간</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s 분</item>
+    </plurals>
     <plurals name="stopwatch_running_notification_day">
         <item quantity="other">스톱워치가 %s일 동안 실행되었습니다. 보려면 탭하세요.</item>
     </plurals>
