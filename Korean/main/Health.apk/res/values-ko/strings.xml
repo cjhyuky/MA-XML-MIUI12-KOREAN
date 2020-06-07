@@ -1212,4 +1212,12 @@
     <string name="weight_notice">체중 고지</string>
     <string name="weight_remind">무게 알림</string>
     <string name="weight_setting">체중 설정</string>
+    <string name="exercise_recog_confirm_ridding">%1$s와 %2$s 사이를 순환 했습니까?</string>
+    <string name="exercise_recog_confirm_run">%1$s와 %2$s 사이를 실행하고 있습니까?</string>
+    <string name="exercise_recog_confirm_stair_climb">%1$s와 %2$s 사이의 계단을 오르셨습니까?</string>
+    <string name="exercise_recog_confirm_walk">%1$s와 %2$s 사이를 걷고 있습니까?</string>
+    <string name="exercise_start">시작</string>
+    <string name="exercise_time">지속 시간</string>
+    <string name="high_intensity_description">짧은 고강도 훈련을 할 수 있게 해주는 아주 빠른 호흡 속도</string>
+    <string name="middle_intensity_description">중강도 훈련을 할 수 있게 해주는 빠른 호흡 속도</string>
 </resources>
