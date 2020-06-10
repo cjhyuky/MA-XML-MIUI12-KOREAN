@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="color_effect_entry_blackice">검은 얼음</string>
+    <string name="color_effect_entry_orange">라임</string>
     <string name="super_macro_mode">슈퍼 메크로</string>
     <string name="accessibility_8k_off">AI 8K 꺼짐</string>
     <string name="accessibility_8k_on">AI 8K 켜짐</string>
