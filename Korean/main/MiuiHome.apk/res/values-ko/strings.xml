@@ -544,4 +544,9 @@
     <string name="accessibility_enter_all_app_mode">앱 서랍 열기</string>
     <string name="accessibility_enter_all_app_settings">앱 서랍 설정 열기</string>
     <string name="back">뒤로</string>
+    <string name="all_app_category_personal">개인용</string>
+    <string name="all_app_category_work">업무용</string>
+    <string name="work_mode_off_label">알림 및 앱이 꺼져 있습니다</string>
+    <string name="work_mode_on_label">조직에서 관리</string>
+    <string name="work_profile_toggle_label">업무용 프로필</string>
 </resources>
