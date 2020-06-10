@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">%2$d개 게임 제거(%1$s 포함)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">%d개 AI녹화를 게임 터보에 저장했습니다</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">%d개의 아이템을 보호할 수 있습니다</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">최소 %s개 앱을 보호할 수 있습니다</item>
     </plurals>
