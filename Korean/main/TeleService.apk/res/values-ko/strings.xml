@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_ota_change_number_fail">"전화 번호를 변경할 수 없습니다. 다시 시도한 후에이 오류가 발생하면 공급 업체에 문의하십시오."</string>
+    <string name="dialog_ota_change_number_fail">"전화 번호를 변경할 수 없습니다. 다시 시도한 후에 이 오류가 발생하면 공급업체에 문의하십시오."</string>
     <string name="dialog_ota_change_number_lgu">지금 USIM을 다운로드 하시겠습니까?</string>
     <string name="dialog_ota_change_number_lgu_roaming">"해외에서는 전화 번호를 변경할 수 없습니다."</string>
     <string name="dialog_ota_change_number_processing">USIM 다운로드 중…</string>
-    <string name="dialog_ota_change_number_success">전화 번호 변경 성공</string>
+    <string name="dialog_ota_change_number_success">전화번호 변경 성공</string>
     <string name="fiveg_network_title">5G 네트워크</string>
     <string name="switch_off">끄기</string>
     <string name="switch_on">켜기</string>
@@ -2830,4 +2830,7 @@
     <string name="msim_setting_default_voice_description">통화용 SIM %d</string>
     <string name="private_num_kr">발신자 ID 제한됨</string>
     <string name="kr_emergency_113">간첩 신고(113)</string>
+    <string name="smart_dual_sim_prompt">현재 연결 상태가 좋지 않은 경우 기기가 보조 SIM을 사용하여 모바일 데이터 네트워크에 연결합니다. 추가 데이터 요금이 발생할 수 있습니다. 데이터 요금제에 대한 자세한 내용은 지역 이동 통신사에 문의하세요.</string>
+    <string name="smart_dual_sim_summary">현재 연결 상태가 좋지 않을 경우 보조 SIM 카드로 전환하고 모바일 데이터를 자동으로 사용하십시오. 연결이 개선되면 원래 SIM 카드로 다시 전환하십시오.</string>
+    <string name="smart_dual_sim_title">스마트 듀얼 SIM</string>
 </resources>
