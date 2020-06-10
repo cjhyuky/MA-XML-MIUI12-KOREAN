@@ -542,7 +542,8 @@
  <string name="toast_load_failed_tip">"항목 로드 실패"</string>
  <string name="wp_desktop_enable_title">홈 화면 슬라이드 쇼</string>
  <string name="wp_lockscreen_enable_title">잠금 화면 슬라이드 쇼</string>
-     <string name="permission_storage_read_tip">기기에 저장된 사진에 액세스</string>
-     <string name="subscribe_dlg_btn_txt">구독</string>
-     <string name="subscribe_dlg_desc">슬라이드 쇼를 보려면 구독하십시오</string>
+ <string name="permission_storage_read_tip">기기에 저장된 사진에 액세스</string>
+ <string name="subscribe_dlg_btn_txt">구독</string>
+ <string name="subscribe_dlg_desc">슬라이드 쇼를 보려면 구독하십시오</string>
+ <string name="lks_logo_desc_search">매일 바뀌는 새로운 배경화면</string>
 </resources>
