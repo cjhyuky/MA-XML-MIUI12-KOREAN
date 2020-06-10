@@ -88,14 +88,19 @@
         <item>브라우저;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Mi 클라우드 보안 동기화</item>
+        <item>보안 설정 클라우드 동기화</item>
         <item>동기화 켜기</item>
-        <item>보안;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+        <item>보안;클라우드;동기화;클라우드 서비스;샤오미 클라우드</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Mi 클라우드 퀵 카드 동기화</item>
         <item>동기화 켜기</item>
         <item>퀵 카드;카드;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>빠른 답장 동기화</item>
+        <item>동기화 켜기</item>
+        <item>빠른 답장;클립 보드;에디터;클라우드;동기화;클라우드 서비스</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Mi 클라우드. 모든 Mi 서비스를 한곳에서.</item>
