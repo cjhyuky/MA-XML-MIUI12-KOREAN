@@ -8,7 +8,7 @@
     <string name="community_cta_dialog_des">"서드파티 테마는 이제 Mi 커뮤니티 위젯을 지원합니다. Mi 커뮤니티의 테마 서브포럼으로 이동하는 바로가기를 통해 작동합니다. 설정에서 이 기능을 끌 수 있습니다.
 테마가 계정과 관련된 Mi 계정 ID 및 Mi 커뮤니티 상태에 접근하여 볼 수 있도록 합니다. 설정에서 Mi 커뮤니티 활동에 대한 알림을 켜거나 끌 수도 있습니다."</string>
     <string name="community_cta_dialog_ok">허용</string>
-	<string name="community_cta_dialog_title">권한 필요</string>
+	`<string name="community_cta_dialog_title">권한 필요</string>
     <string name="de_apply_icons">앱 아이콘</string>
     <string name="de_apply_icons_and_wallpaper">앱 아이콘 및 배경 화면</string>
     <string name="de_icon_text_discuss">토론</string>
@@ -198,7 +198,6 @@
     <string name="resource_exchange_has_expired">입력한 코드는 만료되었습니다.</string>
     <string name="resource_exchange_unavailable">입력한 코드와 연관된 테마는 이용할 수 없습니다.</string>
     <string name="resource_exchange_has_bought">이미 이 테마를 구매하였습니다.</string>
-    <string name="resource_exchange_success">구매 완료</string>
     <string name="resource_exchange_share_code_dlg_title">전송 중</string>
     <string name="resource_exchange_share_code_dlg_content">기프트 코드 \"%1$s\": %2$s. 다른 MIUI 사용자에게 전송 시, 사용하여 이 테마를 다운로드할 수 있습니다.</string>
     <string name="resource_exchange_share_code_content">MIUI 테마 스토어에서 테마 \"%1$s\" 기프트 코드(%2$s)를 받았습니다. %3$s 링크를 탭하여 지금 사용하십시오.</string>
@@ -254,7 +253,6 @@
     <string name="resource_title_subject">특징</string>
     <string name="resource_title_local">오프라인</string>
     <string name="resource_title_hot_subject">인기</string>
-    <string name="resource_download_notification_title_one">테마 다운로드됨</string>
     <string name="resource_download_notification_title_many">테마 %1$s개 다운로드됨</string>
     <string name="resource_tab_to_view">탭하여 보기</string>
     <string name="search_hint_header_text">인기 키워드</string>
