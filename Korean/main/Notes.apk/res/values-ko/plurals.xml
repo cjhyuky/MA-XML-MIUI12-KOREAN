@@ -58,8 +58,8 @@
         <item quantity="other">%1$d일간</item>
         <item quantity="one">%1$d일간</item>
     </plurals>
-	 <plurals name="todo_terms">
-        <item quantity="other">%1$s개 메모</item>
-        <item quantity="one">%1$s개 메모</item>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s 작업</item>
+        <item quantity="one">%1$s 작업</item>
     </plurals>
 </resources>

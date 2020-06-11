@@ -50,4 +50,8 @@
     <plurals name="try_3_day">
         <item quantity="other">3일 무료 사용(오늘 %1$d개 항목 남음)</item>
     </plurals>
+	<plurals name="resource_download_notification_title_many">
+		<item quantity="one">%1$d 항목 다운로드 완료</item>
+		<item quantity="other">%1$d 항목 다운로드 완료</item>
+	</plurals>
 </resources>
