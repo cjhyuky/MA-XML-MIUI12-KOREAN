@@ -111,7 +111,6 @@
     <string name="realme_phone">본인</string>
     <string name="recovery_not_synced_reason">"항목이 복원되지 않았습니다"</string>
     <string name="recovery_not_synced_solution">네트워크에 연결하여 항목을 복원합니다.</string>
-    <string name="remover_edit_type_line">선</string>
     <string name="remove_single_album_from_rubbish_page_tip">선택한 앨범을 복원 하시겠습니까?</string>
     <string name="remove_single_manual_hide_album_from_rubbish_page_tip">선택한 앨범을 복원하고 \".nomedia\"파일을 삭제 하시겠습니까?</string>
     <string name="rubbish_album_move_to_other_album_success">이 항목을 지금 \"기타 앨범\"에서 볼 수 있습니다.</string>
@@ -225,9 +224,7 @@
     <string name="xiaomi_phone">샤오미</string>
     <string name="yes">예</string>
     <string name="filter_sky_dynamic_note">이 필터가 있는 항목은 비디오로 저장됩니다</string>
-    <string name="filter_sky_dynamic_rain">비</string>
     <string name="filter_sky_dynamic_saving">비디오 만들기</string>
-    <string name="filter_sky_dynamic_snow">눈</string>
     <string name="filter_sky_dynamic_stop_saving">다시 누르면 저장을 취소합니다</string>
     <string name="filter_sky_dynamic_unavailable">"이 이미지에는 이 필터를 적용할 수 없습니다"</string>
    <string name="card_description_annual_babys">1년의 성장</string>
@@ -257,7 +254,6 @@
   <string name="vlog_audio_metal">금속</string>
   <string name="vlog_audio_mili">미스터리</string>
   <string name="vlog_audio_quiet">저소음</string>
-  <string name="vlog_audio_rumeng">꿈</string>
   <string name="vlog_audio_shenyin">깊이</string>
   <string name="vlog_audio_shiyi">생각</string>
   <string name="vlog_audio_wanyan">대사 형</string>
@@ -485,7 +481,6 @@
   <string name="auto_update_off">끄기</string>
   <string name="auto_update_on">켜기</string>
   <string name="auto_upload_before_share_message">이 앨범을 공유하기 전에 자동 백업 기능을 켜주십시오.</string>
-  <string name="auto_upload_before_share_title">팁</string>
   <string name="auto_upload_disable_tip">Mi 클라우드와의 동기화가 해제되었습니다.</string>
   <string name="auto_upload_disable_toast_long_press_menu">Mi 클라우드 동기화 꺼짐</string>
   <string name="auto_upload_enable_toast_long_press_menu">Mi 클라우드 동기화 켜짐</string>
@@ -687,7 +682,6 @@
   <string name="collage_mirror">거울</string>
   <string name="collage_poster_global_cat_text">동물</string>
   <string name="collage_poster_global_city_text">도심</string>
-  <string name="collage_poster_global_dream_text">꿈</string>
   <string name="collage_poster_global_foodie_text">음식</string>
   <string name="collage_poster_global_green_plant_text">여행</string>
   <string name="collage_poster_global_summer_flower_text">여름</string>
@@ -699,11 +693,7 @@
   <string name="collage_title_poster">포스터</string>
   <string name="collage_title_stitching">필름 롤</string>
   <string name="collaps_people">숨기기</string>
-  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
-  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat 타임라인</string>
-  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">위챗 타임라인</string>
   <string name="confirm">확인</string>
   <string name="confirm_download_video_message">이 동영상을 보기 전에 다운로드를 완료해야 합니다. Wi-Fi가 사용 가능해지면 다운로드가 다시 시작됩니다.</string>
   <string name="confirm_download_video_title">비디오 다운로드</string>
@@ -935,7 +925,6 @@
   <string name="filter_bi_sepia">세피아</string>
   <string name="filter_bi_strong">강렬한</string>
   <string name="filter_bi_sunny">밝은</string>
-  <string name="filter_bi_tea">차</string>
   <string name="filter_bi_warm">따뜻한</string>
   <string name="filter_category_film">필름</string>
   <string name="filter_category_food">음식</string>
@@ -951,7 +940,6 @@
   <string name="filter_film_quiet">차분한</string>
   <string name="filter_film_style">시적인</string>
   <string name="filter_film_time">시간</string>
-  <string name="filter_food_barbecue">BBQ</string>
   <string name="filter_food_cookies">쿠키</string>
   <string name="filter_food_delicious">식도락가</string>
   <string name="filter_food_dessert">사탕</string>
@@ -976,7 +964,6 @@
   <string name="filter_people_riddle">캔디</string>
   <string name="filter_people_sepia">세피아</string>
   <string name="filter_people_story">이야기</string>
-  <string name="filter_people_tea">차</string>
   <string name="filter_scene_city">도시</string>
   <string name="filter_scene_df">미스트</string>
   <string name="filter_scene_koizora">사랑</string>
@@ -1101,7 +1088,6 @@
   <string name="main_discard_negative_btn">변경 취소</string>
   <string name="main_discard_positive_btn">저장 &amp; 나가기</string>
   <string name="main_save_error_msg">오류 때문에 변경 사항을 저장할 수 없습니다.</string>
-  <string name="mark_myself_default_name">나</string>
   <string name="mark_myself_suggestion_load_more">내가 아닙니다</string>
   <string name="mark_myself_suggestion_title">얼굴을 탭하여 갤러리를 사용자에 맞게 설정하세요.</string>
   <string name="mark_operation_failed">추가할 수 없음</string>
@@ -1116,12 +1102,9 @@
   <string name="menu_view_contact">연락처 보기</string>
   <string name="merge_album">합치기</string>
   <string name="merge_album_title">한 사람으로 합치기</string>
-  <string name="messagelist_sender_self">나</string>
   <string name="micloud_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 요구됨)</string>
   <string name="midnight">오전</string>
   <string name="monday">월요일</string>
-  <string name="monday_short">월</string>
-  <string name="monday_shortest">월</string>
   <string name="month_april">4월</string>
   <string name="month_april_short">4월</string>
   <string name="month_april_shortest">4월</string>
@@ -1171,7 +1154,6 @@
   <string name="movie_add_disable">최대 20개의 사진을 선택할 수 있습니다</string>
   <string name="movie_audio_antiquity">레트로</string>
   <string name="movie_audio_custom">로컬</string>
-  <string name="movie_audio_dream">꿈</string>
   <string name="movie_audio_electronics">일렉트로</string>
   <string name="movie_audio_none">없음</string>
   <string name="movie_audio_quiet">고요함</string>
@@ -1662,7 +1644,6 @@
   <string name="sticker_head">머리</string>
   <string name="sticker_pupil">학생</string>
   <string name="sticker_rock">강렬함</string>
-  <string name="sticker_spring">봄</string>
   <string name="sticker_summer">여름</string>
   <string name="sticker_words">단어</string>
   <string name="storage_description_primary">내부 저장소</string>
@@ -1678,7 +1659,7 @@
   <string name="story_download_failed_for_notwork">다운로드 할 수 없습니다. 네트워크에 연결하고 다시 시도하십시오.</string>
   <string name="story_option_menu_delete">추억앨범 삭제</string>
   <string name="story_option_menu_rename">이름변경</string>
-  <string name="story_photo_downloading">다운로드중…</string>
+  <string name="story_photo_downloading">다운로드 중…</string>
   <string name="story_remove_confirm_message">삭제된 사진은 이 추억앨범에서 다시는 볼 수 없습니다. 하지만 갤러리에는 남아있습니다.</string>
   <string name="story_remove_confirm_positive">삭제</string>
   <string name="story_remove_confirm_title">사진 삭제</string>
@@ -1813,9 +1794,7 @@
   <string name="video_editor_filter_heibai">블랙&amp;화이트</string>
   <string name="video_editor_filter_jiaopian">필름효과</string>
   <string name="video_editor_filter_jingmi">평온</string>
-  <string name="video_editor_filter_moon">달</string>
   <string name="video_editor_filter_none">없음</string>
-  <string name="video_editor_filter_nuancha">차</string>
   <string name="video_editor_filter_old">세피아</string>
   <string name="video_editor_filter_origin">원본</string>
   <string name="video_editor_filter_purple">퍼플</string>
@@ -1859,7 +1838,6 @@
   <string name="video_editor_template_family">가족</string>
   <string name="video_editor_template_forbidden_tips">템플릿을 사용 중일때는 할 수 없습니다.</string>
   <string name="video_editor_template_oldfilm">빈티지</string>
-  <string name="video_editor_template_sports">락</string>
   <string name="video_editor_text">텍스트</string>
   <string name="video_editor_text_default">기본값</string>
   <string name="video_editor_text_edit_all">전체</string>
@@ -2518,7 +2496,7 @@
     <string name="redmi_note_7_pro">홍미노트 7 프로</string>
     <string name="redmi_note_8">홍미노트 8</string>
     <string name="redmi_note_8_pro">홍미노트 8 프로</string>
-    <string name="remover_edit_type_line">선</string>
+    <string name="remover_edit_type_line">라인</string>
     <string name="search_backup_full_screen_new">보다 효과적인 검색을 위해 클라우드와 동기화 설정</string>
     <string name="security_share_subtitle_default">개인 정보 보호</string>
     <string name="security_share_subtitle_hide">위치 정보가 삭제되었습니다</string>
