@@ -508,4 +508,57 @@
     <string name="unKnow_error">알 수 없는 오류</string>
     <string name="updating">계산기 업데이트중…</string>
     <string name="user_agreement">사용자 약관</string>
+계산기
+    <plurals name="tenure_years">
+        <item quantity="other">%d년</item>
+    </plurals>
+
+    <string name="item_title_loan">대출</string>
+    <string name="loan_enter_amount">금액 입력</string>
+    <string name="loan_enter_amount_interest">금액 및 이자율 입력</string>
+    <string name="loan_enter_interest">이자율 입력</string>
+    <string name="loan_invalid_loan_tenure">대출 기간은 0보다 커야합니다</string>
+    <string name="unit_data_display_currency_afn">아프간 아프가니</string>
+    <string name="unit_data_display_currency_azn">아제르바이잔 마나트</string>
+    <string name="unit_data_display_currency_bbd">바베이도스 달러</string>
+    <string name="unit_data_display_currency_bmd">버뮤다 달러</string>
+    <string name="unit_data_display_currency_bob">볼리비아 볼리비아 노</string>
+    <string name="unit_data_display_currency_bsd">바하마 달러</string>
+    <string name="unit_data_display_currency_btn">부탄 굴트럼</string>
+    <string name="unit_data_display_currency_bwp">보츠와나 풀라</string>
+    <string name="unit_data_display_currency_cdf">콩고 프랑</string>
+    <string name="unit_data_display_currency_cup">쿠바 페소</string>
+    <string name="unit_data_display_currency_etb">에티오피아 비르</string>
+    <string name="unit_data_display_currency_fjd">피지 달러</string>
+    <string name="unit_data_display_currency_gel">조지아 라리</string>
+    <string name="unit_data_display_currency_ghs">가나 세디</string>
+    <string name="unit_data_display_currency_gnf">기니 프랑</string>
+    <string name="unit_data_display_currency_irr">이란 리얄</string>
+    <string name="unit_data_display_currency_jep">저지 파운드</string>
+    <string name="unit_data_display_currency_jmd">자메이카 달러</string>
+    <string name="unit_data_display_currency_kgs">키르기스스탄 솜</string>
+    <string name="unit_data_display_currency_kpw">북한 원화</string>
+    <string name="unit_data_display_currency_kzt">카자흐스탄 텐지</string>
+    <string name="unit_data_display_currency_lrd">라이베리아 달러</string>
+    <string name="unit_data_display_currency_lyd">리비아 디나르</string>
+    <string name="unit_data_display_currency_mnt">몽골어 토그 뢰그</string>
+    <string name="unit_data_display_currency_mru">모리타니 안 오우기 야</string>
+    <string name="unit_data_display_currency_mur">모리셔스 루피</string>
+    <string name="unit_data_display_currency_mvr">몰디브 어 루피 야</string>
+    <string name="unit_data_display_currency_nad">나미비아 달러</string>
+    <string name="unit_data_display_currency_ngn">나이지리아 나이라</string>
+    <string name="unit_data_display_currency_npr">네팔 루피</string>
+    <string name="unit_data_display_currency_pen">페루 비아 졸</string>
+    <string name="unit_data_display_currency_pkr">파키스탄 루피</string>
+    <string name="unit_data_display_currency_pyg">파라과이 과라니</string>
+    <string name="unit_data_display_currency_scr">시클로 니스 루피</string>
+    <string name="unit_data_display_currency_sdg">수단 파운드</string>
+    <string name="unit_data_display_currency_tmt">투르크 메니스탄 마나</string>
+    <string name="unit_data_display_currency_tnd">튀니지 디나르</string>
+    <string name="unit_data_display_currency_uyu">우루과이 페소</string>
+    <string name="unit_data_display_currency_uzs">우즈베키스탄</string>
+    <string name="unit_data_display_currency_ves">베네수엘라 볼리바르</string>
+    <string name="unit_data_display_currency_yer">예멘 리얄</string>
+    <string name="item_title_emi">대출(EMI) 계산기</string>
+    <string name="label_interest">관심 분야(퍼센트)</string>
 </resources>
