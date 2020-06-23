@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="copy_verification_code_tip">성공적으로 복사되었습니다</string>
+    <string name="menu_multi_select">선택</string>
+    <string name="not_support_audio_forward">"음성 메시지를 전달할 수 없습니다"</string>
+    <string name="pref_summary_voice_report">메시지를 수신 할 때 큰 소리로 읽으려면 켭니다. 볼륨 작게 또는 전원 버튼을 눌러 재생을 중지하십시오.</string>
+    <string name="pref_title_voice_report">큰 소리로 메시지 읽기</string>
+    <string name="top_conversation">고정 대화</string>
+    <string name="verification_code_safety_warning">"이 코드를 다른 사람에게 공개하지 마십시오"</string>
+    <string name="voice_report_anytime">항상</string>
+    <string name="voice_report_off">끄기</string>
+    <string name="voice_report_wiredon">이어폰 포함</string>
+    <string name="pref_rcs_show_report_message">영수증 보고서</string>
+    <string name="pref_rcs_show_report_message_tip">다른 사람이 문자 메시지를받은 후 읽기 상태로 돌아갑니다</string>
+    <string name="rcs_chatbot_no_waring">메시지를 받지 않습니다</string>
+    <string name="rsc_chatbot_back">반환</string>
+    <string name="rsc_chatbot_detail">판매자 정보 보기</string>
     <string name="failed_to_send">전송 실패</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
