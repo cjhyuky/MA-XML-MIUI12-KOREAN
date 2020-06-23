@@ -6,8 +6,6 @@
     <string name="downloadAiVisonReason">플러그인에 따라 업그레이드해야 함</string>
     <string name="function">기능</string>
     <string name="if_open_result">앱으로 돌아올 때 스캔 결과 표시</string>
-    <string name="mipayin_dialog_more">기타</string>
-    <string name="mipayin_dialog_title">다음으로 열기</string>
     <string name="monitor_low_android">안드로이드 버전이 너무 낮습니다</string>
     <string name="monitor_low_miui">MIUI 버전이 너무 낮습니다</string>
     <string name="monitor_result_option_delete">동영상 삭제</string>
