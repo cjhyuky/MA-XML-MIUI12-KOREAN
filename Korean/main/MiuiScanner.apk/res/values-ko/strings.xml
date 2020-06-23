@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="WeChatqr_code_auto_processing">위챗 열기</string>
+    <string name="agree_audio_permission">오디오 녹음</string>
+    <string name="agree_monitor_use">온라인 수업 중 의도 청취,주의 산만 및 퇴근 시간과 비율을 감지합니다.  모든 개인 데이터가 로컬로 저장됩니다</string>
+    <string name="downloadAiVisonReason">플러그인에 따라 업그레이드해야 함</string>
+    <string name="function">기능</string>
+    <string name="if_open_result">앱으로 돌아올 때 스캔 결과 표시</string>
+    <string name="mipayin_dialog_more">기타</string>
+    <string name="mipayin_dialog_title">다음으로 열기</string>
+    <string name="monitor_low_android">안드로이드 버전이 너무 낮습니다</string>
+    <string name="monitor_low_miui">MIUI 버전이 너무 낮습니다</string>
+    <string name="monitor_result_option_delete">동영상 삭제</string>
+    <string name="monitor_result_option_rename">이름 바꾸기</string>
+    <string name="monitor_result_switch_text">녹음 결과</string>
+    <string name="monitor_result_switch_video">동영상보기</string>
+    <string name="monitor_unsupport_device">현재 기기가 지원되지 않습니다</string>
+    <string name="monitoringAlert_content">"넷 클래스 화면을 향하고 정상적인 앉은 자세를 유지하십시오.이 전화기를 시선 바로 앞에서 30도 각도로 수직으로 놓고 카메라가 얼굴을 향하게 한 다음 시작 버튼을 클릭하십시오.  .
+ *이 소프트웨어는 온라인 코스 장치가 아닌주의 탐지에만 사용됩니다.  시작하기 전에 식별 및 수정에 몇 초가 걸립니다.  "</string>
+    <string name="monitoringCHeck_pause">일시 중지</string>
+    <string name="monitoringCheck_alert">앉은 자세를 수정하고 네트 클래스 화면을 향하도록하십시오</string>
+    <string name="monitoringCheck_alertChecking">확인 중...</string>
+    <string name="monitoringCheck_checking">테스트 결과를 기다리는 중 ...</string>
+    <string name="monitoringCheck_ing">녹음</string>
+    <string name="monitoringCheck_name">확인</string>
+    <string name="monitoringCheck_success">테스트에 성공했습니다</string>
+    <string name="monitoringCheck_title">앉은 자세를 수정하고 네트 클래스 화면을 향하도록하십시오</string>
+    <string name="monitoringCheck_titleFail">"확인 실패
+ 사진에 따라 기기를 비스듬히 놓고 다시 시도하세요. "</string>
+    <string name="monitoringCheck_willStart">녹화가 곧 시작됩니다</string>
+    <string name="monitoringHistory_rename">이름 바꾸기</string>
+    <string name="monitoringHistory_renameAlert">녹음 이름 바꾸기</string>
+    <string name="monitoringHistory_renameAlert_hint">이름을 입력하십시오</string>
+    <string name="monitoringHistory_title">기록</string>
+    <string name="monitoring_allTime">총 지속 시간</string>
+    <string name="monitoring_dangerousAlert">너무 가깝습니다</string>
+    <string name="monitoring_leave">놔두기</string>
+    <string name="monitoring_lossFocus">포커스 아웃</string>
+    <string name="monitoring_normal">정상 상태</string>
+    <string name="monitoring_restart">다시 감지</string>
+    <string name="monitoring_start">탐지 시작</string>
+    <string name="monitoring_title">AI 온라인 강좌 보조</string>
+    <string name="wechatcode_auto_processing_function_requires_permissions">위챗 코드 자동 처리 기능을 사용하려면 위챗에 카메라 권한 및 저장 권한이 있어야 합니다.</string>
     <string name="document_ocr_fail">"텍스트를 인식 할 수 없습니다. 이미지가 기기의 방향과 일치하도록 회전 한 후 다시 시도하십시오."</string>
     <string name="document_spin">회전</string>
     <string name="expand_button_title">고급</string>
