@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d개의 앱</item>
+    </plurals>
     <plurals name="gb_dialog_game_uninstall_multi_tips_title">
         <item quantity="other">%2$d개 게임 제거(%1$s 포함)</item>
     </plurals>
