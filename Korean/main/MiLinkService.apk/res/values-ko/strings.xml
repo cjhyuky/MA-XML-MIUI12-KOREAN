@@ -142,4 +142,23 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="dialog_nfc_cast_wifi_off">NFC를 사용하여 전송할 수 있도록 Wi-Fi를 켭니다. 지금 켜시겠습니까?</string>
     <string name="toast_nfc_dont_move">"휴대 전화를 멀리 옮기지 마십시오"</string>
     <string name="toast_turn_off_hotspot_before_cast">전송하기 전에 휴대용 핫스팟을 끄십시오</string>
+	<string name="dialog_no_device_message">&lt;Data>1. 휴대 전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하십시오.&lt;/Data></string>
+    <string name="dialog_no_device_message_china">&lt;Data>1. 휴대 전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하십시오.&lt;/Data></string>
+    <string name="dialog_scan_message">"1. 휴대 전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.
+
+ 2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 \"도움말\"을 참조하십시오."</string>
+    <string name="dialog_scan_message_china">"1. 휴대 전화와 TV를 동일한 WLAN 네트워크에 연결하십시오.
+
+ 2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 \"도움말\"을 참조하십시오."</string>
+    <string name="miuix_appcompat_cloud_state_disabled">클라우드와의 동기화가 꺼져있습니다</string>
+    <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
+    <string name="miuix_appcompat_cloud_state_syncing">클라우드 동기화 중</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로 고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로 고침 됨</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로 고침 중…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로 고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"데이터가 없습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"없습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드할 수 없습니다"</string>
 </resources>

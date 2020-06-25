@@ -9,7 +9,7 @@
     <string name="notification_missedCall_call_back">재발신</string>
     <string name="notification_missedCall_message">메시지</string>
     <string name="accessibility_call_muted">통화 음소거</string>
-    <string name="accessibility_speakerphone_enabled">스피커폰이 활성화 되었습니다.</string>
+    <string name="accessibility_speakerphone_enabled">스피커폰이 켜져있습니다</string>
     <string name="respond_via_sms_canned_response_1">지금은 통화할 수 없습니다. 무슨 일이십니까?</string>
     <string name="respond_via_sms_canned_response_2">곧 다시 전화드리겠습니다.</string>
     <string name="respond_via_sms_canned_response_3">나중에 다시 전화드리겠습니다.</string>
@@ -45,10 +45,10 @@
     <string name="notification_missedWorkCallTitle">부재중 전화</string>
     <string name="enable_account_preference_title">통화 계정</string>
     <string name="outgoing_call_not_allowed_user_restriction">긴급 전화만 가능합니다.</string>
-    <string name="outgoing_call_not_allowed_no_permission">이 앱은 휴대전화 권한이 없으면 발신 전화를 걸 수 없습니다.</string>
-    <string name="duplicate_video_call_not_allowed">통화를 추가할 수 없습니다.</string>
+    <string name="outgoing_call_not_allowed_no_permission">"이 앱은 필요한 권한이 없으면 발신 전화를 걸 수 없습니다."</string>
+    <string name="duplicate_video_call_not_allowed">"전화를 더 추가할 수 없습니다"</string>
     <string name="change_default_dialer_dialog_title">%s 앱을 기본 전화 앱으로 사용하시겠습니까?</string>
-    <string name="change_default_dialer_dialog_affirmative">기본값으로 설정</string>
+	<string name="change_default_dialer_dialog_affirmative">기본 전화앱으로 설정</string>
     <string name="change_default_dialer_dialog_negative">취소</string>
     <string name="change_default_dialer_warning_message">%s 앱은 통화에 관련된 모든 측면을 제어할 수 있게 됩니다. 신뢰할 수 있는 앱만 기본 전화 앱으로 사용하십시오.</string>
     <string name="blocked_numbers">차단된 번호</string>
@@ -61,7 +61,7 @@
     <string name="block_button">차단</string>
     <string name="non_primary_user">기기의 소유자만 차단된 번호 확인 및 관리를 하실 수 있습니다.</string>
     <string name="delete_icon_description">차단 해제</string>
-    <string name="blocked_numbers_butter_bar_title">차단 일시 중지</string>
+    <string name="blocked_numbers_butter_bar_title">차단기능이 꺼져있습니다</string>
     <string name="blocked_numbers_butter_bar_body">비상 번호를 누르거나 문자 메시지로 보낸 후에는 비상 번호에서 사용자에게 연락할 수 있도록 차단 기능이 꺼집니다.</string>
     <string name="blocked_numbers_butter_bar_button">지금 다시 활성화</string>
     <string name="blocked_numbers_number_blocked_message">%1$s개 차단됨</string>
@@ -503,9 +503,9 @@
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">블루투스 오디오 코덱 선택</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">블루투스 AVRCP 버전</string>
     <string name="bluetooth_select_avrcp_version_string">블루투스 AVRCP 버전</string>
-    <string name="cant_call_due_to_ongoing_call">%1$s 전화 때문에 이 전화를 연결할 수 없습니다.</string>
-    <string name="cant_call_due_to_ongoing_calls">%1$s 전화 때문에 이 전화를 연결할 수 없습니다.</string>
-    <string name="cant_call_due_to_ongoing_unknown_call">다른 앱에서 전화망을 사용중이이서 이 전화를 연결할 수 없습니다.</string>
+	<string name="cant_call_due_to_ongoing_call">"전화를 걸 수 없습니다. 다른 전화 통화 중 %1$s개가 진행중입니다."</string>
+	<string name="cant_call_due_to_ongoing_calls">"전화를 걸 수 없습니다. 먼저 %1$s 전화를 끊으십시오."</string>
+	<string name="cant_call_due_to_ongoing_unknown_call">"다른 앱에서 전화로 인해 전화를 걸 수 없습니다."</string>
     <string name="connected_via_network_scorer">%1$s로 자동 연결됨</string>
     <string name="connected_via_network_scorer_default">네트워크 제공자를 통해 자동 연결됨</string>
     <string name="debug_hw_renderer">GPU 렌더러 설정</string>

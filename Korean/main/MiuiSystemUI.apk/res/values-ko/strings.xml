@@ -38,8 +38,8 @@
     <string name="sliderpanel_description">도구 상자</string>
     <string name="slider_second_tip_text">카메라를 열려면 화면을 아래로 내리십시오</string>
     <string name="slider_text">카메라를 열려면 화면을 아래로 내립니다</string>
-    <string name="status_bar_clock_date_weekday_format">MM/dd EEE</string>
-    <string name="status_bar_clock_date_weekday_format_12">MM/dd EEE</string>
+    <string name="status_bar_clock_date_weekday_format">M월 d일 EEEE</string>
+    <string name="status_bar_clock_date_weekday_format_12">M월 d일 EEEE</string>
     <string name="torch_description_talkback">손전등</string>
     <string name="usb_port_overheated_dialog_content">충전 포트가 과열되었습니다. 기기에서 충전기를 분리하고 충전 포트가 깨끗한지 확인합니다. 궁금한 점이 있으면 고객지원 센터에 문의하십시오.</string>
     <string name="usb_port_overheated_notification_content">기기에서 충전기를 분리하고 충전 포트가 깨끗한지 확인하세요</string>

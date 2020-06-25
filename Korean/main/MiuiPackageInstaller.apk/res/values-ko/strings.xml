@@ -354,4 +354,5 @@
     <string name="wear_app_channel">안드로이드 웨어 앱 설치/제거</string>
     <string name="wear_not_allowed_dlg_text">웨어에서 설치/제거 작업이 지원되지 않습니다.</string>
     <string name="wear_not_allowed_dlg_title">안드로이드 웨어</string>
+	<string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다</string>
 </resources>

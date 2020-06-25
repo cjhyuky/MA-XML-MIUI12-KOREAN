@@ -40,10 +40,10 @@
     <string name="unlock_error_passport_sdk_timeout">Mi 계정 SDK가 응답하지 않습니다.</string>
     <string name="activate_xiaomi_account">이 기기 활성화</string>
     <string name="login_extra_steps">로그인 인증</string>
-    <string name="phone_locked">이 기기에 기존 Mi 계정 Id (%s) 이 존재 합니다. 로그인하여 기기를 활성화 하십시오.</string>
+    <string name="phone_locked">이 기기는 Mi 계정 (%s)에 연결되어 있습니다. 기기를 활성화하려면 비밀번호를 입력하세요.</string>
     <string name="phone_locked_account_email">, 연동된 이메일: %s</string>
     <string name="phone_locked_account_phone">, 연동된 전화 번호: %s</string>
-    <string name="password">비밀번호</string>
+    <string name="password">비밀번호를 입력하세요</string>
     <string name="captcha">보안문자</string>
     <string name="stop_on_empty_password">비밀번호는 비워둘 수 없습니다.</string>
     <string name="stop_on_empty_captcha">보안문자는 비워둘 수 없습니다.</string>
@@ -56,14 +56,14 @@
     <string name="login_failed">로그인할 수 없습니다. %s.</string>
     <string name="change_find_device_status_failed">%s 기기를 잠금 해제하지 못하였습니다.</string>
     <string name="unlock_help_title">잠금 해제 도움말:</string>
-    <string name="unlock_help">"네트워크 연결을 유지하십시오
- 정상 작동되는 SIM 카드를 설치하셨는지 기기가 유효하지 않은 Wi-Fi와 연결되어있는지 확인해 주십시오
+    <string name="unlock_help">"네트워크에 연결하십시오.
+ 작동하는 SIM 카드를 삽입하고 유효하지 않은 Wi-Fi 네트워크에 연결하지 마십시오.
 
- 비밀번호를 잊으셨습니까?
-id.mi.com로 이동하셔서 비밀번호를 재설정하십시오
+ 비밀번호를 잊으 셨나요?
+ id.mi.com으로 이동하여 \"비밀번호를 분실하셨습니까?"를 선택하고 지침을 따르십시오.
 
- 다른 원인
-i.mi.com에 로그인하셔서 기기 잠금 해제를 시도하십시오"</string>
+ 장치를 활성화할 수 없습니까?
+ i.mi.com으로 이동하여 응용 프로그램을 제출하여 장치를 잠금해제하십시오."</string>
     <string name="passport_vcode_prompt_long">인증 코드 입력</string>
     <string name="passport_trust_device">이 기기를 신뢰합니다.</string>
     <string name="passport_verify">인증</string>
