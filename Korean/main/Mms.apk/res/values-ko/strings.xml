@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="debug_about_mms">메시지 정보</string>
+  <string name="debug_category_db">데이터베이스</string>
+  <string name="debug_category_others">기타</string>
+  <string name="debug_close_success">디버그 불가능</string>
+  <string name="debug_enable_success">디버그 가능</string>
+  <string name="debug_export_db">데이터베이스 내보내기</string>
+  <string name="debug_title">디버그</string>
     <string name="copy_verification_code_tip">성공적으로 복사되었습니다</string>
     <string name="menu_multi_select">선택</string>
     <string name="not_support_audio_forward">"음성 메시지를 전달할 수 없습니다"</string>
