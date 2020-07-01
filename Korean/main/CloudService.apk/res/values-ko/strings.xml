@@ -3,7 +3,6 @@
     <string name="find_device_status_summary">장치를 찾아서 잠그고 원격으로 데이터를 지 웁니다</string>
     <string name="find_device_status_title_pad">장치 찾기</string>
     <string name="find_device_status_title_phone">장치 찾기</string>
-    <string name="micloud_find_device_guide_title">Mi 계정으로 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하여 기기를 찾아서 잠그고 분실 한 것으로 표시하려면, &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>여기&lt;/a>에서 세부 정보를 확인하세요.</string>
     <string name="send_last_location_summary">기기 전원을 끄는 동안 위치 정보 동기화</string>
     <string name="send_last_location_title">전원을 끄기 전에 찾기</string>
     <string name="connect_network_china">Wi-Fi에 연결하거나 SIM 카드 삽입</string>
