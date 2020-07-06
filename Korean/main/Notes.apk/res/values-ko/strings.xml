@@ -402,7 +402,8 @@
     <string name="note_gesture_guide_step1">음성 메모를 남기시려면 플러스 버튼을 누르고 계세요</string>
     <string name="note_gesture_guide_step2">폴더를 생성하시려면 하나의 메모를 누르고 계신후 다른 메모에 드래그하세요</string>
     <string name="note_gesture_guide_step3">하나의 메모를 누르고 계신 후 폴더로 드래그하시면 메모가 이동됩니다</string>
-	<string name="cloud_service_state_open_reminder_note_and_todo">Mi Cloud 동기화를 이용하면 메모와 할 일이 손실되지 않습니다</string>
-	<string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>
-	<string name="sync_note_folder">%1$s 및 %2$s</string>
+    <string name="cloud_service_state_open_reminder_note_and_todo">Mi Cloud 동기화를 이용하면 메모와 할 일이 손실되지 않습니다</string>
+    <string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>
+    <string name="sync_note_folder">%1$s 및 %2$s</string>
+    <string name="cta_v2_agree_desc">이 앱이 인터넷에 연결하고 위에 표시된 필수 권한을 부여하도록 허용합니다.</string>
 </resources>
