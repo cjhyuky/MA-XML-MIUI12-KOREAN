@@ -1516,4 +1516,10 @@
     <string name="pref_camera_dynamic_frame_rate_title">저조도 프레임 속도 자동조절</string>
     <string name="pref_hdr10_video_mode_description">H.265로 인코딩된 4K, 8K 해상도 비디오 지원</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
+    <string name="ambilight_intro_star_track_2">별이 빛나는 하늘을 오랫동안 촬영하려면 별의 이동 경로를 그림에서 완전히 보존할 수 있으므로 삼각대를 사용하십시오. %d분 이상 촬영하면 영상과 사진을 동시에 촬영할 수 있습니다.</string>
+    <string name="cta_msg">카메라 사용을 환영합니다! 이 앱을 사용하여 사진을 찍고 영상을 촬영할 수 있습니다. 이 앱은 인터넷 연결을 필요로 하며 다음의 권한을 사용합니다:</string>
+    <string name="cta_perm_dec">사진 및 영상의 위치 정보 기록</string>
+    <string name="cta_perm_loc">위치 정보 접근</string>
+    <string name="cta_perm_type">선택 권한 (추가 기능에 사용되며 관련 권한을 사용할 때 적용됨)</string>
+    <string name="user_disagree">동의하지 않음</string>
 </resources>
