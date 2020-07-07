@@ -186,4 +186,23 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="screen_projection_sample_summary">화면, 게임, 사진 등을 화면으로 공유</string>
     <string name="screen_projection_sample_title">데모</string>
     <string name="screen_projection_title">캐스트</string>
+    <string name="privacy_detail"><Data>이 앱은 인터넷에 연결하고 정상적으로 작동하려면 필요한 개인 데이터를 수집해야합니다. 사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 <a href=%1$s>사용자 계약</a> 및 <a href=%2$s>개인정보 보호정책</a>을 읽고 동의하십시오.</Data></string>
+    <string name="privacy_detail_extra"><Data>일부 기능은 타사 서비스 제공 업체 인 HappyCast에서 제공합니다. 이 기능을 사용하기 전에 <a href=%1$s>HappyCast 개인 정보 보호 정책</a> 및 <a href=%2$s>HappyCast 법률 사항</a>을 읽고 동의하십시오.</Data></string>
+    <string name="privacy_explain">"주문을 환영합니다! 주물을 사용하면 휴대 전화 화면의 항목을 더 큰 외부 모니터에 투사 할 수 있습니다.이 앱은 인터넷에 연결되어 있어야 정상적으로 작동하려면 다음 권한이 필요합니다."<  / 문자열>
+    <string name="privacy_negative">종료</string>
+    <string name="privacy_permission_ble">블루투스 켜기 및 끄기</string>
+    <string name="privacy_permission_ble_desc">근처에서 사용 가능한 장치를 찾기 위해</string>
+    <string name="privacy_permission_location">액세스 위치</string>
+    <string name="privacy_permission_location_desc">근처에서 사용 가능한 장치를 찾기 위해</string>
+    <string name="privacy_permission_necessary">필수 권한</string>
+    <string name="privacy_permission_necessary_desc">이 앱의 기본 기능 및 서비스를 사용하려면 이러한 권한이 필요합니다.</string>
+    <string name="privacy_permission_nfc_desc">NFC를 사용하는 기기 페어링</string>
+    <string name="privacy_permission_optional">옵션 권한</string>
+    <string name="privacy_permission_optional_desc">"사용하는 동안 추가 기능에 사용됨"</string>
+    <string name="privacy_permission_wlan">Wi-Fi 켜기 및 끄기</string>
+    <string name="privacy_permission_wlan_china">Wi-Fi 켜기 및 끄기</string>
+    <string name="privacy_permission_wlan_desc">근처에서 사용 가능한 장치를 찾기 위해</string>
+    <string name="privacy_permission_wlan_desc_china">주변에서 사용 가능한 장치를 찾는 경우</string>
+    <string name="privacy_positive">동의</string>
+    <string name="privacy_title">주의</string>
 </resources>
