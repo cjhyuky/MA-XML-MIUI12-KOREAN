@@ -3184,4 +3184,8 @@
   <string name="antivirus_privacy_dialog_summary_new">&lt;Data>이 기능은 Avast, AVL 및 Tencent에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으십시오.&lt;/Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>이 기능은 AVL 및 Tencent에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으십시오.&lt;/Data></string>
   <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>이 기능은 Avast 및 AVL에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으십시오.&lt;/Data></string>
+  <string name="clean_master_icon_recall_button_text">추가</string>
+  <string name="clean_master_icon_recall_summary">언제든지 휴지통을 지우려면 홈 화면 바로 가기를 추가하십시오.</string>
+  <string name="clean_master_icon_recall_title">쓰레기를 더 빨리 지우십시오</string>
+  <string name="clean_master_icon_recall_toast_text">청소기를 위한 홈 화면 바로 가기 추가</string>
 </resources>
