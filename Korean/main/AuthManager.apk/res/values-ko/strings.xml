@@ -181,4 +181,6 @@
     <string name="permission_group_title_sensitive_privacy_related">민감한 위치정보</string>
     <string name="permission_list_include">"다음을 포함합니다:
 "</string>
+    <string name="HIPS_Perm_mediaVolume">미디어 볼륨 제어</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">이 앱이 미디어 볼륨을 제어할 수 있도록 합니다.</string>
 </resources>
