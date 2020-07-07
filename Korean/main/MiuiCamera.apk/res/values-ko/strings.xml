@@ -1522,4 +1522,19 @@
     <string name="cta_perm_loc">위치 정보 접근</string>
     <string name="cta_perm_type">선택 권한 (추가 기능에 사용되며 관련 권한을 사용할 때 적용됨)</string>
     <string name="user_disagree">동의하지 않음</string>
+    <string name="module_name_super_moon">슈퍼 문</string>
+    <string name="pixel_ai_108">AI 1억 픽셀의 생생함</string>
+    <string name="pixel_ai_108_close">AI 1억 픽셀의 생생함</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">비디오 품질을 개선하기 위해 조명이 어두운 조건에서 %1$d-%2$dFPS까지 프레임 속도를 줄입니다</string>
+    <string name="pref_camera_dynamic_frame_rate_title">저조도로 프레임 속도 조정</string>
+    <string name="pref_camera_fastmotion_duration">지속 시간</string>
+    <string name="pref_camera_fastmotion_duration_description">촬영 세션의 지속 시간은 기본적으로 무제한입니다. 고정된 순간에 세션을 중지시키는 타이머를 설정할 수도 있습니다.</string>
+    <string name="pref_camera_fastmotion_duration_infinity">무제한</string>
+    <string name="pref_camera_fastmotion_speed">속도</string>
+    <string name="pref_camera_fastmotion_speed_150x">일몰과 일몰</string>
+    <string name="pref_camera_fastmotion_speed_1800x">식물</string>
+    <string name="pref_camera_fastmotion_speed_30x">거리</string>
+    <string name="pref_camera_fastmotion_speed_750x">황혼</string>
+    <string name="pref_camera_fastmotion_speed_90x">구름</string>
+    <string name="pref_camera_fastmotion_speed_description">고속으로 촬영한 타임랩스 비디오는 더 짧고 압축됩니다. 다른 장면에 적합한 속도 값은 다음과 같습니다.</string>
 </resources>
