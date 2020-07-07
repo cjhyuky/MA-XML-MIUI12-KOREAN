@@ -977,4 +977,7 @@ Mi 클라우드를 다시 활성화하십시오."</string>
     <string name="storage_upgrade_card_title">요금제를 업그레이드하세요</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
+    <string name="storage_manage_cloud_data_title">클라우드에서 항목 보기</string>
+    <string name="storage_manage_full_summary">클라우드 스토리지가 가득 찼습니다. 요금제를 업그레이드하십시오.</string>
+    <string name="storage_manage_normal_summary">클라우드 스토리지 요금제 변경</string>
 </resources>
