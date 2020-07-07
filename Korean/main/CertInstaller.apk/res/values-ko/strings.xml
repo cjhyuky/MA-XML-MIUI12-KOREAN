@@ -59,4 +59,20 @@
     <string name="wifi_sim_config_text">"SIM : %s"</string>
     <string name="wifi_trust_config_text">"신뢰할 수 있는 인증서 : %s"</string>
     <string name="certificate_capabilities_warning">참고 : 이 인증서 발급자는 장치와 주고받은 모든 트래픽을 검사 할 수 있습니다.</string>
+    <string name="ca_cert_is_added">CA 인증서 설치</string>
+    <string name="ca_certificate">CA 인증서</string>
+    <string name="cert_temp_error">일시적인 실패.  나중에 다시 시도하십시오.</string>
+    <string name="certificate">인증서</string>
+    <string name="certificate_name">인증서 이름</string>
+    <string name="invalid_certificate_close_button">닫기</string>
+    <string name="invalid_certificate_message">"이 파일은 %1$s(으)로 사용할 수 없습니다"</string>
+    <string name="invalid_certificate_title">"이 파일을 사용할 수 없습니다"</string>
+    <string name="redirect_ca_certificate_close_button">닫기</string>
+    <string name="redirect_ca_certificate_message">CA 인증서는 개인 정보를 위험에 빠뜨릴 수 있으며 설정에 설치해야합니다</string>
+    <string name="redirect_ca_certificate_title">"CA 인증서를 설치할 수 없습니다"</string>
+    <string name="select_certificate_usage_title">인증서 유형 선택</string>
+    <string name="user_cert_is_added">설치된 사용자 인증서</string>
+    <string name="user_certificate">VPN 및 앱 사용자 인증서</string>
+    <string name="wifi_cert_is_added">Wi‑Fi 인증서 설치</string>
+    <string name="wifi_certificate">Wi‑Fi 인증서</string>
 </resources>
