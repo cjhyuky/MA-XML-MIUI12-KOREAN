@@ -9627,4 +9627,5 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="wifi_unsaved_network_linking_summary">SSID 및 BSSID 부분 일치에서 현재 연결된 WPA/WPA2-PSK 2GHz SSID 자격 증명을 사용하여 새 WPA/WPA2-PSK 5GHz SSID에 대한 자동 연결 시도 활성화</string>
     <string name="wifi_whitelist_roaming">SSID 브리징-빠른 핸드 오버</string>
     <string name="wifi_whitelist_roaming_summary">동일한 MAC 주소를 사용하여 서로 다른 SSID WPA/WPA2-PSK AP간 로밍 사용</string>
+    <string name="repeat_never">항상 하지 않음</string>
 </resources>
