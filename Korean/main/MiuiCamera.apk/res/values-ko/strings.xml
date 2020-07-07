@@ -1490,17 +1490,8 @@
     <string name="pref_module_settings">모드</string>
     <string name="camera_fastmotion_title">타임랩스 촬영 기능 소개</string>
     <string name="pref_camera_ai_audio">ai 오디오</string>
-    <string name="pref_camera_fastmotion_duration">지속 시간</string>
-    <string name="pref_camera_fastmotion_duration_description">총 촬영 시간을 설정하는 데 사용되며 기본값은 무제한이며, 촬영 시간이 길수록 타임랩스 사진의 내용이 풍부해집니다.  설정한 지속 시간이 "무한"이 아니면 타임랩스 촬영에 들어가 타임랩스 후에 자동으로 멈춥니다.</string>
-    <string name="pref_camera_fastmotion_duration_infinity">무한</string>
     <string name="pref_camera_fastmotion_duration_unit">%1$s분</string>
-    <string name="pref_camera_fastmotion_speed">속도</string>
-    <string name="pref_camera_fastmotion_speed_150x">일출 및 일몰</string>
-    <string name="pref_camera_fastmotion_speed_1800x">식물</string>
-    <string name="pref_camera_fastmotion_speed_30x">거리</string>
-    <string name="pref_camera_fastmotion_speed_750x">밤</string>
     <string name="pref_camera_fastmotion_speed_90x">구름</string>
-    <string name="pref_camera_fastmotion_speed_description">시간 압축 조정 가능. 동일한 촬영 시간에 속도 값이 높을수록 비디오 지속 시간이 짧아지고 재생 속도가 빨라집니다. 일부 촬영 장면의 경우 다음 속도 값을 사용하는 것이 좋습니다.</string>
     <string name="pref_camera_rec_type_3d_record">3D 사운드</string>
     <string name="pref_camera_rec_type_audio_zoom">줌 사운드</string>
     <string name="pref_camera_rec_type_normal">일반</string>
@@ -1512,10 +1503,6 @@
     <string name="pref_video_denoise_title">노이즈 필터</string>
     <string name="pref_wind_denoise_default">켜짐</string>
     <string name="pref_wind_denoise_title">풍절음 필터</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">저조도 환경에서 화질을 향상시키기 위해 프레임 속도가 자동으로 60프레임에서 33프레임으로 줄어 듭니다</string>
-    <string name="pref_camera_dynamic_frame_rate_title">저조도 프레임 속도 자동조절</string>
-    <string name="pref_hdr10_video_mode_description">H.265로 인코딩된 4K, 8K 해상도 비디오 지원</string>
-    <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="ambilight_intro_star_track_2">별이 빛나는 하늘을 오랫동안 촬영하려면 별의 이동 경로를 그림에서 완전히 보존할 수 있으므로 삼각대를 사용하십시오. %d분 이상 촬영하면 영상과 사진을 동시에 촬영할 수 있습니다.</string>
     <string name="cta_msg">카메라 사용을 환영합니다! 이 앱을 사용하여 사진을 찍고 영상을 촬영할 수 있습니다. 이 앱은 인터넷 연결을 필요로 하며 다음의 권한을 사용합니다:</string>
     <string name="cta_perm_dec">사진 및 영상의 위치 정보 기록</string>
@@ -1541,7 +1528,6 @@
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="settings_camera_near_range_description">평평한 표면에 초점을 맞출 때 흐림 효과 제거</string>
     <string name="settings_camera_near_range_title">근접 초점</string>
-    <string name="super_macro_mode">슈퍼 매크로</string>
     <string name="super_moon_improve_effect_tips">원을 달에 배치</string>
     <string name="video_bokeh_blur">블러</string>
     <string name="video_bokeh_color_point">색 반점</string>
