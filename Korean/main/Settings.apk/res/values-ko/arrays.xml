@@ -1315,4 +1315,9 @@
         <item>빛</item>
         <item>파도</item>
     </string-array>
+     <string-array name="paper_color_values">
+         <item>풀 컬러</item>
+         <item>밝은 컬러</item>
+         <item>흑백</item>
+     </string-array>
 </resources>
