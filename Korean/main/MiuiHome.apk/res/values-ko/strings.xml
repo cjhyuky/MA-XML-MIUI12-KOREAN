@@ -53,7 +53,7 @@
     <string name="recents_title_garbage_deepclean">정밀 청소</string>
     <string name="recents_title_market">앱 찾기</string>
     <string name="recents_title_security_scan">보안 스캔</string>
-    <string name="status_bar_recent_memory_info1">%1$s 중 %2$s 사용가능</string>
+    <string name="status_bar_recent_memory_info1">%2$s 중 %1$s 사용가능</string>
     <string name="one_key_call_title">통화하려면 탭하세요</string>
     <string name="category_edit_back_confirm_dialog_content">변경사항을 저장하시겠습니까?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"저장 안함"</string>
