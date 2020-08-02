@@ -298,4 +298,12 @@
     <string name="recognition_notification_error">"\"%s\"을(를) 기록할 수 없습니다.</string>
     <string name="recognition_notification_running">\"%s\" 전사 중…</string>
     <string name="recognition_stop_current">진행중인 작업 중지</string>
+    <string name="recovery">복원</string>
+    <string name="recovery_failed_dialog_button">확인</string>
+    <string name="recovery_failed_dialog_title">주의</string>
+    <string name="save_record_dialog_title">녹음 저장</string>
+    <string name="trash_box">최근 삭제된 항목</string>
+    <string name="trash_box_close_tip">휴지통 닫기</string>
+    <string name="trash_box_delete_all">휴지통의 모든 항목을 영구적으로 삭제하시겠습니까?</string>
+    <string name="user_feedback">피드백</string>
 </resources>
