@@ -3188,4 +3188,31 @@
   <string name="clean_master_icon_recall_summary">언제든지 휴지통을 지우려면 홈 화면 바로 가기를 추가하십시오.</string>
   <string name="clean_master_icon_recall_title">쓰레기를 더 빨리 지우십시오</string>
   <string name="clean_master_icon_recall_toast_text">청소기를 위한 홈 화면 바로 가기 추가</string>
+    <string name="first_settings_default_camera_title">기본적으로 메타 데이터없이 공유</string>
+    <string name="first_settings_default_location_subtitle">공유 사진에서 위치 정보 제거</string>
+    <string name="first_settings_default_location_title">기본적으로 위치 정보없이 공유</string>
+    <string name="first_settings_share_enable">\"보안 공유\"배지 추가</string>
+    <string name="first_settings_share_enable_subtitle">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다</string>
+    <string name="first_settings_subtitle">사용 가능한 보안 공유 옵션은 다음과 같습니다.</string>
+    <string name="first_settings_title">개인 정보 보호</string>
+    <string name="loading_text_format" formatted="false">사진에서 개인 정보 제거(%d/%d)…</string>
+    <string name="notification_garbage_clean_botton_text">지우기</string>
+    <string name="notification_garbage_clean_hint">저장 공간 확보</string>
+    <string name="notification_garbage_clean_size">%s 확보</string>
+    <string name="notification_whatsapp_clean_button_text">지우기</string>
+    <string name="notification_whatsapp_clean_size">WhatsApp 캐시가 %s에 도달했습니다</string>
+    <string name="once_settings_camera_ttile">메타 데이터 없이 공유</string>
+    <string name="once_settings_location_title">위치 정보 없이 공유</string>
+    <string name="once_settings_subtitle">선택한 항목을 어떻게 공유 하시겠습니까?</string>
+    <string name="once_settings_title">개인 정보 보호</string>
+    <string name="settings_camera_subtitle_no">메타 데이터 없음</string>
+    <string name="settings_image_camera_summary">장치 모델, 메타 데이터 등</string>
+    <string name="settings_location_subtitle_no">위치 정보가 없습니다</string>
+    <string name="settings_share_enable_summary">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다</string>
+    <string name="settings_share_info">갤러리 및 파일 관리자에서 공유 한 항목에 사용할 수있는 보안 공유 옵션은 다음과 같습니다.</string>
+    <string name="settings_show_detail">세부 정보보기</string>
+    <string name="settings_tip">더 ​​많은 옵션을 보려면 갤러리> 설정으로 이동하십시오</string>
+    <string name="settings_title">보안 공유</string>
+    <string name="text_security">개인 정보 보호</string>
+    <string name="vb_quick_func_auto_bgm">배경 음악 인식</string>
 </resources>
