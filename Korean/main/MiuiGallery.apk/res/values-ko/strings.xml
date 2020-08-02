@@ -2465,7 +2465,7 @@
     <string name="multi_view_tip_sub_title">두 손가락을 벌리거나 서로 향해 움직여 표시된 항목의 크기를 조정하십시오.</string>
     <string name="multi_view_tip_title">확대 및 축소</string>
     <string name="not_set">설정되지 않음</string>
-    <string name="online_video_normal_transcoding">이 비디오는 현재 트랜스 코딩되고 있습니다. 1-2분 정도 기다렸다가 다시 시도하십시오.</string>
+    <string name="online_video_normal_transcoding">"온라인 플레이어가 아직 준비되지 않았습니다. 대신 항목을 다운로드했습니다."</string>
     <string name="online_video_vip_tip">VIP 회원이되어 비디오를 완전히 미리로드하지 않고 스트리밍 할 수 있습니다</string>
     <string name="online_video_vip_transcoding">"VIP 스트리밍 시작 정보… 이 기능을 처음 사용할 때 코드 변환에 시간이 걸릴 수 있습니다."</string>
     <string name="operate_with_metered_network_msg">기기가 유료 네트워크에 연결되어 있습니다. 어쨌든 계속 하시겠습니까?</string>
@@ -2559,4 +2559,29 @@
     <string name="xiaomi_note_3">미 노트 3</string>
     <string name="xiaomi_poco_f1">포코 F1</string>
     <string name="zman_title">보안 공유</string>
+    <string name="burst_save_video">비디오로 저장</string>
+    <string name="burst_save_video_fail">"저장할 수 없습니다"</string>
+    <string name="burst_save_video_progerss">비디오 생성 중…</string>
+    <string name="burst_save_video_title">비디오 해상도</string>
+    <string name="filter_category_classic">클래식</string>
+    <string name="filter_category_popular">인기</string>
+    <string name="filter_category_portrait">초상화</string>
+    <string name="filter_popular_humanity">문서</string>
+    <string name="filter_popular_lnk">잉크</string>
+    <string name="filter_popular_purple">보라색</string>
+    <string name="filter_portrait_greyish">애쉬</string>
+    <string name="filter_portrait_mist">안개</string>
+    <string name="filter_portrait_painting">그림 그리기</string>
+    <string name="loading_text_format"formatted="false">사진에서 개인정보 제거(%d/%d)…</string>
+    <string name="online_video_error_unknown">온라인 재생 오류가 발생했습니다. 대신 항목을 다운로드했습니다.</string>
+    <string name="online_video_error_unsupported_type">"온라인 플레이어는이 형식을 지원하지 않습니다. 대신 항목을 다운로드했습니다."</string>
+    <string name="screen_editor_btn_shell_off">장치 프레임 제거</string>
+    <string name="screen_editor_btn_shell_on">장치 프레임 추가</string>
+    <string name="screen_editor_crop_disallowed_with_shell">"장치 프레임으로 스크린 샷을자를 수 없습니다"</string>
+    <string name="screen_editor_shell_disallowed_with_crop">"자른 스크린 샷에 장치 프레임을 추가 할 수 없습니다"</string>
+    <string name="screen_editor_shell_net_error">장치 프레임을 다운로드하려면 네트워크에 연결하십시오</string>
+    <string name="screen_editor_shell_res_downloading">장치 프레임 다운로드 중…</string>
+    <string name="screen_editor_shell_storage_insufficient">"충분한 저장 공간으로 인해 장치 프레임을 다운로드 할 수 없습니다"</string>
+    <string name="time_burst_photo_enter">타임 버스트 샷</string>
+    <string name="time_burst_preview_title">타임 버스트 샷</string>
 </resources>
