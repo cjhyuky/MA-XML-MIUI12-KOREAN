@@ -1552,4 +1552,7 @@
     <string name="lighting_movie_light_effect_title">영화 조명 효과</string>
     <string name="cta_user_tips"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href =%1$s>사용자 계약&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하십시오.</Data></string>
     <string name="pref_multi_camera_dual_video_front">전면 카메라</string>
+    <string name="custom_watermark_tips_gen2" formatted="false">최대 %d자 또는 %d자</string>
+    <string name="ultra_ai_pixel_photography_close_tip">AI %s 울트라 클리어가 닫혔습니다</string>
+    <string name="ultra_ai_pixel_photography_open_tip">AI %s 슈퍼 클리어</string>
 </resources>
