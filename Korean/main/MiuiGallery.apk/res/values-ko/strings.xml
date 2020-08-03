@@ -929,7 +929,6 @@
   <string name="filter_category_film">필름</string>
   <string name="filter_category_food">음식</string>
   <string name="filter_category_master">마스터</string>
-  <string name="filter_category_portrait">인물</string>
   <string name="filter_category_scene">풍경</string>
   <string name="filter_category_sky">하늘</string>
   <string name="filter_film_blackwhite">흑백</string>
