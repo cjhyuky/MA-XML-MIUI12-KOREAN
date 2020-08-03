@@ -8394,7 +8394,7 @@
   <string name="screen_projection_sample_title">데모</string>
   <string name="screen_projection_title">캐스트</string>
   <string name="open_game_accelerate">게임 터보 켜기</string>
-  <string name="dc_light_summary_new">DC 디밍은 어두운 곳에서 광범위한 깜박임을 방지하고 눈의 피로를 줄입니다. 그러나 이 기능이 켜져 있으면 이미지 품질에 영향을 줄 수 있습니다.</string>
+  <string name="dc_light_summary_new">저조도 환경에서 광범위한 깜박임 방지 및 눈의 피로 감소</string>
   <string name="dark_color_summary_lcd">시스템 배경 및 호환되는 앱에는 어두운 색을 사용합니다. 다크 모드는 어두운 상황에 기기를 사용할 때 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
   <string name="dark_color_summary_oled">시스템 배경 및 호환되는 앱에는 어두운 색을 사용합니다. 다크 모드는 전력 소모를 줄이고, 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
   <string name="full_screen_keyboard_settings">전체 화면 디스플레이 키보드 설정</string>
@@ -9640,4 +9640,13 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="security_input_num_random_order">랜덤</string>
     <string name="security_input_num_setting_title">숫자 키패드</string>
     <string name="voice_access">음성 컨트롤</string>
+    <string name="app_function">앱 기능</string>
+    <string name="forget_passpoint_wifi_message">휴대 전화가 이 네트워크 연결을 자동으로 중단합니다.</string>
+    <string name="passpoint_r1_privacy_dialog_message">"Passpoint는 Wi-Fi Alliance에서 시작한 안정적이고 안전한 자동 Wi-Fi 연결 기술입니다. Wi-Fi로 구성된 네트워크와 모바일 장치 간의 완벽한 연결을 달성하기 위해 계정을 자동으로 구성합니다.
+
+이 기능은 처음으로 계정 등록을위한 Wi-Fi MAC 주소 만 얻습니다. 우리는 %s에 따라 데이터를 처리합니다. 이 정책을주의 깊게 읽고 계속하기로 동의하십시오. "</string>
+    <string name="passpoint_r1_privacy_dialog_no">취소</string>
+    <string name="passpoint_r1_privacy_dialog_title">주의</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">개인 정보 보호 정책</string>
+    <string name="passpoint_r1_privacy_dialog_yes">동의 및 계속</string>
 </resources>
