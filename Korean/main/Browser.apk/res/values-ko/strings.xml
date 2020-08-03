@@ -1613,4 +1613,14 @@
      <string name="vo_fast_game_card_title_text">이런 게임들도 좋아하실 것 같습니다</string>
      <string name="vo_feed_back_dislike">관심 없음</string>
      <string name="vo_search_tag_title_text">관련 항목</string>
+      <string name="download_confirm_dialog_title">위험 경고</string>
+      <string name="download_proceed">일반 다운로드</string>
+      <string name="download_risk_alert_content">샤오미 마켓에서 게임을 확인하지 않았습니다. 일반 다운로드를 선택하면 위험 및 결과를 알고 있음을 나타냅니다.</string>
+      <string name="download_safe">안전한 다운로드</string>
+      <string name="saved_sucess">저장 완료</string>
+      <string name="debug_browser_user_task_title">태스크 센터 주소는 다음과 같습니다.</string>
+      <string name="dev_pref_debug_login">디버그 로그인 시뮬레이션</string>
+      <string name="load_sever_data_error">서버가 꺼져 있습니다. 나중에 다시 시도하십시오.</string>
+      <string name="slide_guide_back">오른쪽으로 스와이프하여 웹페이지를 복원합니다</string>
+      <string name="vo_info_flow_refresh_sever_data_error">서버가 꺼져 있습니다. 나중에 다시 시도하십시오.</string>
 </resources>
