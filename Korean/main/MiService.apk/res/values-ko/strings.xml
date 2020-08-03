@@ -168,4 +168,7 @@
     <string name="share_success">공유 완료</string>
     <string name="share_title">공유</string>
     <string name="miui_guide_accessibility_image_desc">화상</string>
+    <string name="miui_guide_menu_privacy">개인정보 보호정책</string>
+    <string name="miui_mine_repair_mode_sub_title">판매 후 유지 관리 중 데이터 보안을 보장합니다</string>
+    <string name="miui_mine_repair_mode_title">유지 관리 모드</string>
 </resources>
