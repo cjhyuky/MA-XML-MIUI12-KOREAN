@@ -336,4 +336,9 @@
     <string name="input_method_clipboard_participle">단어 분리</string>
     <string name="content_description_next">다음</string>
     <string name="content_description_previous">이전</string>
+    <string name="application_cannot_open_alipay_payment_code">"알리 페이 지불 코드를 열 수 없습니다"</string>
+    <string name="application_cannot_open_alipay_scanner">"알리 페이 스캐너를 열 수 없습니다"</string>
+    <string name="application_cannot_open_weixin_payment_code">"WeChat 결제 코드를 열 수 없습니다"</string>
+    <string name="application_cannot_open_weixin_scanner">"WeChat 스캐너를 열 수 없습니다"</string>
+    <string name="application_not_install_content">"이 작업을 수행하는 앱이 기기에 설치되어 있지 않은 것 같습니다.이 앱을 설치하거나 이 동작에 다른 작업을 할당할 수 있습니다."</string>
 </resources>
