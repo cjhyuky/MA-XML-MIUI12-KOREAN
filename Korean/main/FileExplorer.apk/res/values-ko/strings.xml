@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="storage_maintenance_mode">유지 보수 모드를 위한 스토리지</string>
     <string name="cancel_msg">모두 선택 해제 하시겠습니까?</string>
     <string name="file_name_existed">파일 이름이 이미 존재합니다</string>
     <string name="rename_msg">이름이 \"%s\"인 파일이 이미 존재합니다.</string>
