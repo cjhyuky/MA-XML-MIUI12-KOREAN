@@ -146,4 +146,6 @@
     <string name="switch_audio_dialog_title">오디오 전환</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
+    <string name="ringtone_output_device_summary">주변 장치(유선 헤드셋 또는 블루투스 장치)가 연결되면 스피커에 전화 벨소리 또는 알림음이 표시됩니다</string>
+    <string name="ringtone_output_device_title">스피커의 벨소리 울림 허용</string>
 </resources>
