@@ -396,4 +396,10 @@
     <string name="rain_sound_setting_summary_text">날씨 변화에 따른 사운드 효과</string>
     <string name="rain_sound_setting_title_text">사운드 효과</string>
     <string name="request_cta_connect_net">이 앱이 인터넷에 연결하고 위에 나열된 필수 권한을 부여하도록 허용합니다.</string>
+  <string name="settings_atmospheric_pressure_atm">표준 대기 (atm)</string>
+  <string name="settings_atmospheric_pressure_hpa">헥토 파스칼 (hPa)</string>
+  <string name="settings_atmospheric_pressure_inhg">수은의 인치 (inHg)</string>
+  <string name="settings_atmospheric_pressure_mbar">밀리바 (mbar)</string>
+  <string name="settings_atmospheric_pressure_mmhg">수은의 밀리미터 (mmHg)</string>
+  <string name="settings_atmospheric_pressure_title">대기압 단위</string>
 </resources>
