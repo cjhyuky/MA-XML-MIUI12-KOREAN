@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="memory_clean_no_need_clean_1" formatted="false">%s를 해제했습니다. 이제 기기의 속도가 %d%% 빨라졌습니다.</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s를 해제했습니다.
+이제 기기의 속도가 %d%% 빨라졌습니다.</string>
     <string name="menu_summary_optimize_manage">메모리 지우기</string>
     <string name="menu_summary_optimize_manage_1">기기를 %d%% 더 빠르게 만드십시오</string>
     <string name="menu_text_optimize_manage_1">부스트 속도</string>
@@ -2392,9 +2393,9 @@
   <string name="st_call_other_group">기타</string>
   <string name="st_call_settings">통화 차단 목록</string>
   <string name="st_call_stranger_group">모르는 사람으로부터 온 통화 차단</string>
-  <string name="st_confirm_dialog_btn_open">열기</string>
+  <string name="st_confirm_dialog_btn_open">차단</string>
   <string name="st_confirm_dialog_summary_contact_call">연락처로부터의 모든 통화는 차단될 것입니다.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">해외 전화번호에서 오는 전화 차단하기</string>
+  <string name="st_confirm_dialog_summary_oversea_call">해외에서 오는 모든 전화 차단하기</string>
   <string name="st_confirm_dialog_summary_stranger_call">모르는 사람으로부터의 모든 통화는 차단될 것입니다.</string>
   <string name="st_filter_keywords_setting_summary1">이 목록에 있는 단어를 포함한 알 수 없는 번호에서 온 메시지는 차단됩니다.</string>
   <string name="st_filter_keywords_setting_summary2">(여러 개의 키워드를 구분하려면 쉼표를 사용하세요)</string>
