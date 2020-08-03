@@ -305,7 +305,7 @@
     <string name="lockstyle_personal_settings">사용자 설정</string>
     <string name="wallpaper_settings">배경화면 설정</string>
     <string name="desktop_wallpaper">홈 화면</string>
-    <string name="live_wallpaper">라이브 배경화면</string>
+    <string name="live_wallpaper">다이나믹 배경화면</string>
     <string name="mi_wallpaper">MIUI 배경화면</string>
     <string name="lockscreen_wallpaper">잠금화면</string>
     <string name="change_wallpaper">배경화면</string>
@@ -428,7 +428,7 @@
     <string name="title_my_audio_resource">내 벨소리</string>
     <string name="title_system_wallpaper_resource">시스템 배경화면</string>
     <string name="title_my_wallpaper_resource">내 배경화면</string>
-    <string name="title_my_miwallpaper_resource">내 라이브 배경화면</string>
+    <string name="title_my_miwallpaper_resource">내 다이나믹 배경화면</string>
     <string name="current_using_lockscreen_wallpaper_text">잠금화면</string>
     <string name="current_using_desktop_wallpaper_text">홈 화면</string>
     <string name="theme_apply_audio_dialog_item_ringtone">벨소리</string>
@@ -954,20 +954,21 @@
 	<string name="i_know">확인</string>
 	<string name="miui_clock_city_name_local">로컬</string>
 	<string name="miui_clock_city_name_second">초 시계</string>
-	<string name="miui_lock_screen_date">EEEE, MMMM d</string>
-	<string name="miui_lock_screen_date_12">EEEE, MMMM d</string>
-	<string name="miui_lock_screen_date_two_lines">"EEEE
-MMMM d"</string>
-	<string name="miui_lock_screen_date_two_lines_12">"EEEE
-MMMM d"</string>
-	<string name="miui_lock_screen_large_date">"EEE
-M/dd"</string>
-	<string name="miui_lock_screen_large_date_12">"EEE
-M/dd"</string>
+	<string name="miui_lock_screen_date">M월 d일 EEEE</string>
+	<string name="miui_lock_screen_date_12">M월 d일 EEEE</string>
+	<string name="miui_lock_screen_date_two_lines">"M월 d일
+EEEE"</string>
+	<string name="miui_lock_screen_date_two_lines_12">"M월 d일
+EEEE"</string>
+	<string name="miui_lock_screen_large_date">"M/dd
+EEE"</string>
+	<string name="miui_lock_screen_large_date_12">"M/dd
+EEE"</string>
 	<string name="theme_designer_products">디자이너 테마</string>
 	<string name="use_hint">주의</string>
 	<string name="theme_wallpaper">배경화면 카테고리</string>
 	<string name="super_wallpaper">수퍼 배경화면</string>
 	<string name="resource_exchange_success">적용 완료</string>
 	<string name="resource_download_notification_title_one">%1$s 다운로드 완료</string>
+    <string name="font_trial_end_purchase">글꼴 구매</string>
 </resources>
