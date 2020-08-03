@@ -1217,4 +1217,12 @@
     <string name="exercise_time">지속 시간</string>
     <string name="high_intensity_description">짧은 고강도 훈련을 할 수 있게 해주는 아주 빠른 호흡 속도</string>
     <string name="middle_intensity_description">중강도 훈련을 할 수 있게 해주는 빠른 호흡 속도</string>
+     <string name="app_setting">앱</string>
+     <string name="health_data_sync">상태 데이터 동기화</string>
+     <string name="miuix_appcompat_search_input_description">검색</string>
+     <string name="sync_health_data">상태 데이터 동기화</string>
+     <string name="system_app_setting">시스템 앱 설정</string>
+     <string name="tb_blood_pressure_day_chart">%1$s. 최고 수축기 압력 : %2$d 수은 밀리미터. 최저 이완기 혈압 : %3$d 밀리미터 수은.</string>
+     <string name="tb_blood_pressure_item">%1$s. 수축 기압 : 수은 %2$d 밀리미터. 이완기 혈압 : %3$d 밀리미터 수은.</string>
+     <string name="tb_blood_pressure_wm_card">평균 수축기 압력 : %1$d 수은 밀리미터. 평균 이완기 압력 : 수은 %2$d 밀리미터. 최고 수축기 압력 : %3$d 수은 밀리미터. 최고 이완기 혈압 : %4$d 수은 밀리미터. 최저 수축기 압력 : %5$d 수은 밀리미터. 최저 이완기 압력 : %6$d 밀리미터 수은.</string>
 </resources>
