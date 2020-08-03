@@ -1295,7 +1295,7 @@
   <string name="gb_xunyou_gift_type_one">Xunyou 1일 부스트</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3일 부스트</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2일 부스트</string>
-  <string name="gdpr_msg">&lt;Data&gt;\"보안의 기본 기능을 사용하려면 샤오미가 프로세스와 당신의 개인 데이터(예: 모바일 데이터 사용, 맬웨어에 대한 정보, 기기 기본정보 등)를 수집할 수 있다는 것에 동의하셔야 합니다. 기타 사항은 샤오미의 &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;개인정보 보호정책&lt;/a&gt;.\"&lt;/Data&gt;을 확인하시기 바랍니다.</string>
+  <string name="gdpr_msg">&lt;Data&gt;"보안 위험을 감지하고 데이터를 보호하려면 장치에 필요한 양의 정보를 수집해야합니다. 서비스를 사용하기 전에 &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하십시오. 이러한 정보를 수집할 수 없는 경우 이 앱은 계속 사용할 수 있지만 일부 기능은 사용할 수 없습니다. "&lt;/Data&gt;</string>
   <string name="ge">개</string>
   <string name="get_sys_info">정보를 가져오는 중…</string>
   <string name="gigabyteShort">GB</string>
@@ -3211,8 +3211,18 @@
     <string name="settings_share_enable_summary">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다</string>
     <string name="settings_share_info">갤러리 및 파일 관리자에서 공유 한 항목에 사용할 수있는 보안 공유 옵션은 다음과 같습니다.</string>
     <string name="settings_show_detail">세부 정보보기</string>
-    <string name="settings_tip">더 ​​많은 옵션을 보려면 갤러리> 설정으로 이동하십시오</string>
+    <string name="settings_tip">더 많은 옵션을 보려면 갤러리> 설정으로 이동하십시오</string>
     <string name="settings_title">보안 공유</string>
     <string name="text_security">개인 정보 보호</string>
     <string name="vb_quick_func_auto_bgm">배경 음악 인식</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">괜찮습니다</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">추가</string>
+  <string name="clean_master_icon_recall_dialog_summary">필요할 때마다 휴지통을 지우려면 홈 화면 바로 가기를 추가하십시오.</string>
+  <string name="clean_master_icon_recall_dialog_title">휴지통을 더 빨리 지우십시오</string>
+  <string name="clean_master_icon_recall_hint">홈 화면 바로 가기 추가</string>
+  <string name="gb_gpu_driver_btn_update">업데이트 확인</string>
+  <string name="gb_gpu_driver_update">GPU 드라이버 업데이터</string>
+  <string name="gb_gpu_driver_update_app">업데이트</string>
+  <string name="gb_gpu_driver_update_app_tips">현재 버전이 최신 버전입니다</string>
+  <string name="vtb_function_video_translation">실시간 번역</string>
 </resources>
