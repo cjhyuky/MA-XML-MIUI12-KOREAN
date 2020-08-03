@@ -1499,4 +1499,7 @@
     <string name="wednesday">수요일</string>
     <string name="wednesday_short">수요일</string>
     <string name="wednesday_shortest">수</string>
+    <string name="theme_dialog_confirm_button">확인</string>
+    <string name="theme_dialog_confirm_content">"이 버전의 주소록은 현재 적용된 테마를 지원하지 않습니다."</string>
+    <string name="theme_dialog_confirm_title">"테마를 적용할 수 없습니다"</string>
 </resources>
