@@ -561,4 +561,15 @@
     <string name="unit_data_display_currency_yer">예멘 리얄</string>
     <string name="item_title_emi">대출(EMI) 계산기</string>
     <string name="label_interest">관심 분야(퍼센트)</string>
+  <string name="investment_invalid_duration">투자 기간은 0보다 커야합니다</string>
+  <string name="investment_type_once">일회성</string>
+  <string name="investment_type_recurring">반복</string>
+  <string name="item_page_title_investment">투자 계산기</string>
+  <string name="item_title_investment">투자</string>
+  <string name="label_investment_duration">지속 기간</string>
+  <string name="label_total_investment">총 투자액</string>
+  <string name="label_total_value">총 자산가치</string>
+  <string name="tv_recurrence_monthly">월별</string>
+  <string name="tv_recurrence_quaterly">분기별</string>
+  <string name="tv_recurrence_yearly">연도별</string>
 </resources>
