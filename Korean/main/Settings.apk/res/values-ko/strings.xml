@@ -9649,4 +9649,8 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하십시오."</string>
     <string name="passpoint_r1_privacy_dialog_title">주의</string>
     <string name="passpoint_r1_privacy_dialog_url_text">개인 정보 보호 정책</string>
     <string name="passpoint_r1_privacy_dialog_yes">동의 및 계속</string>
+    <string name="input_method_function_switch_keyboard_language">언어 전환</string>
+    <string name="input_method_function_switch_keyboard_language_des">입력 언어 사이를 전환하려면 누르십시오</string>
+    <string name="input_method_function_switch_keyboard_type">키보드 전환</string>
+    <string name="input_method_function_switch_keyboard_type_des">다른 키보드로 전환하려면 누르십시오</string>
 </resources>
