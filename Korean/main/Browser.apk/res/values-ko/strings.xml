@@ -905,8 +905,8 @@
   <string name="nav_close_index_tab">%d개 항목을 삭제하십시오.</string>
   <string name="nav_screen_container_tab_incognito">익명 탭</string>
   <string name="nav_screen_container_tab_normal">보통 탭</string>
-  <string name="nav_screen_incognito_message">시크릿 모드를 실행하면 검색 기록이 남지 않습니다. 하지만, 북마크와 다운로드된 파일은 계속 남아있습니다.</string>
-  <string name="nav_screen_incognito_title">시크릿 모드</string>
+  <string name="nav_screen_incognito_message">"이제 비공개로 탐색 할 수 있습니다. 인터넷 사용 기록, 검색 요청 및 다운로드는 기록되지 않습니다. 사이트 데이터도 저장되지 않습니다."</string>
+  <string name="nav_screen_incognito_title">"시크릿 모드로 전환했습니다."</string>
   <string name="nav_screen_tab_incognito_enter">시크릿 탭 진입</string>
   <string name="nav_screen_tab_incognito_exit">시크릿 탭 종료</string>
   <string name="navigate_feedback_dislike">싫어요</string>
