@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="chatbot_list_title">5G 메시지</string>
     <string name="ad_close_button_text">광고</string>
     <string name="debug_about_mms">메시지 정보</string>
     <string name="debug_category_db">데이터베이스</string>
