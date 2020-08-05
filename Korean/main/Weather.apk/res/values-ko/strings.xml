@@ -403,4 +403,6 @@
   <string name="settings_atmospheric_pressure_mmhg">수은의 밀리미터 (mmHg)</string>
   <string name="settings_atmospheric_pressure_title">대기압 단위</string>
   <string name="international_details_humidity_title">습도</string>
+     <string name="indices_title_chance_of_rain">비 올 확률</string>
+     <string name="indices_title_wind_speed">풍속</string>
 </resources>
