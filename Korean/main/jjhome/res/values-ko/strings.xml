@@ -193,8 +193,8 @@
     <string name="selected_mms_list_empty_hint">메시지 선택</string>
     <string name="service_contact_name">Jeejen 지원</string>
     <string name="service_contact_phone">4006380360</string>
-    <string name="insert_contact_to_launcher_hint">%1$s님을 홈화면에 추가하시겠습니까?</string>
-    <string name="remove_contact_from_launcher_hint">%1$s님을 홈화면에서 제거하시겠습니까?</string>
+    <string name="insert_contact_to_launcher_hint">%1$s님을 홈 화면에 추가하시겠습니까?</string>
+    <string name="remove_contact_from_launcher_hint">%1$s님을 홈 화면에서 제거하시겠습니까?</string>
     <string name="remove_loading">삭제중…</string>
     <string name="contact_search_hint">검색</string>
     <string name="contact_call_duration_minute">%1$d분</string>
@@ -296,8 +296,8 @@
     <string name="unlock_launcher_hint">홈 스크린 잠금 해제됨</string>
     <string name="lock_launcher_toast_hint">홈 스크린이 잠겨있어서 변경할 수 없습니다. 설정에서 잠금 해제 하세요.</string>
     <string name="box_app_name">앱</string>
-    <string name="box_insert_to_launcher_hint">%1$s 앱을 홈화면에 추가하시겠습니까?</string>
-    <string name="box_remove_from_launcher_hint">%1$s 앱을 홈화면에서 제거하시겠습니까?</string>
+    <string name="box_insert_to_launcher_hint">%1$s 앱을 홈 화면에 추가하시겠습니까?</string>
+    <string name="box_remove_from_launcher_hint">%1$s 앱을 홈 화면에서 제거하시겠습니까?</string>
     <string name="tts_invalid_hint">음성 엔진 설치</string>
     <string name="alert_install_text">설치</string>
     <string name="alert_go_text">설정으로 이동</string>

@@ -130,9 +130,9 @@
     <string name="result">결과</string>
     <string name="save">저장</string>
     <string name="SD_SDCard_available_szie">사용 가능 크기</string>
-    <string name="SD_SDCard_mounted">SD카드 감지</string>
+    <string name="SD_SDCard_mounted">SD 카드 감지</string>
     <string name="SD_SDCard_total_size">전체 크기</string>
-    <string name="SD_SDCard_unmounted">SD카드 사용 불가능</string>
+    <string name="SD_SDCard_unmounted">SD 카드 사용 불가능</string>
     <string name="search">검색</string>
     <string name="selectall">모두 선택 </string>
     <string name="selftest">자가진단</string>

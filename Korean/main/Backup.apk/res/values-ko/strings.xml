@@ -19,7 +19,7 @@
     <string name="backup_items_sysdata_tailer">"    시스템 데이터 파일"</string>
     <string name="backup_items_app_tailer">"     앱 데이터 파일 "</string>
     <string name="backup_failed">백업하지 못했습니다.</string>
-    <string name="sdcard_unmounted">지금 SD카드를 삽입하세요.</string>
+    <string name="sdcard_unmounted">지금 SD 카드를 삽입하세요.</string>
     <string name="backup_progress">백업 중…</string>
     <string name="button_ok">확인</string>
     <string name="button_continue">계속하기</string>
@@ -312,7 +312,7 @@
     <string name="trans_intro_desc_5">"최소 500MB~1GB정도의 여유 공간을 만들고 미 무버를 다시 시작해주세요."</string>
     <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, 안드로이드 버전 호환성 문제로 미 무버가 정상적으로 작동되지 않을 수 있습니다." </string>
     <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
-    <string name="trans_intro_desc_8">"위챗의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. 위챗 로그아웃 후에 미 무버를 이용해주세요."</string>
+    <string name="trans_intro_desc_8">"WeChat의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. WeChat 로그아웃 후에 미 무버를 이용해주세요."</string>
     <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 하셔야 합니다.</string>
     <string name="trans_intro_desc_multiapp">"미 무버는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
     <string name="trans_intro_desc_multiuser">"미 무버가 세컨드 스페이스에 엑세스할수 없습니다. 일부 정보들을 삭제한 후에 시도해주세요."</string>
@@ -326,7 +326,7 @@
     <string name="trans_intro_question_5">"%d. 왜 Mi Mover에서 '저장소 부족' 메시지가 표시되나요?"</string>
     <string name="trans_intro_question_6">"%d. 왜 일부 앱들은 이동되지 않나요?"</string>
     <string name="trans_intro_question_7">"%d. 왜 이전 디바이스의 앱들이 새로운 디바이스에서 실행되지 않나요?"</string>
-    <string name="trans_intro_question_8">"%d. 왜 위챗 채팅 기록들이 자동으로 전송되지 않나요?"</string>
+    <string name="trans_intro_question_8">"%d. 왜 WeChat 채팅 기록들이 자동으로 전송되지 않나요?"</string>
     <string name="trans_intro_title">자주하는질문</string>
     <string name="trans_intro_title_account">계정 및 비밀번호:</string>
     <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
@@ -383,7 +383,7 @@
     <string name="password">비밀번호 입력</string>
     <string name="error_permissions">스캐너가 정상적으로 동작하는 데 필요한 권한이 충분하지 않습니다. 계속하시려면 설정으로 가서 권한을 확인해 주세요.</string>
     <string name="connect_wifi">이 네트워크에 연결</string>
-    <string name="pause">일시정지</string>
+    <string name="pause">일시 중지</string>
     <string name="button_import">불러오기</string>
     <string name="cancel_moving_dialog_message">불러오기를 중단하시겠습니까?</string>
     <string name="cancel_moving_dialog_title">불러오기 중단</string>
@@ -488,10 +488,10 @@
     <string name="trans_detail_app_apk_page_title">앱 선택</string>
     <string name="trans_detail_app_data_page_title">앱 데이터 선택</string>
     <string name="trans_detail_app_data_useless_tip">앱에서 복원 할 수 있으며 전송할 필요가 없습니다.</string>
-    <string name="trans_detail_audio_video_doc_list_title">오디오, 비디오 및 파일</string>
-    <string name="trans_detail_audio_video_doc_page_title">오디오, 비디오 및 파일 선택</string>
-    <string name="trans_detail_category_audio_video_doc">오디오, 비디오 및 파일</string>
-    <string name="trans_detail_category_wechat_qq">위챗과 QQ 데이터 (채팅 기록 포함)</string>
+    <string name="trans_detail_audio_video_doc_list_title">오디오, 동영상 및 파일</string>
+    <string name="trans_detail_audio_video_doc_page_title">오디오, 동영상 및 파일 선택</string>
+    <string name="trans_detail_category_audio_video_doc">오디오, 동영상 및 파일</string>
+    <string name="trans_detail_category_wechat_qq">WeChat과 QQ 데이터 (채팅 기록 포함)</string>
     <string name="trans_detail_item_app_data_selected_tip">해당 앱도 선택했습니다.</string>
     <string name="trans_detail_item_app_data_too_large_tip">항목이 너무 커서 전송할 수 없습니다.</string>
     <string name="trans_detail_list_footer">"1. 전송하려는 개별 앱을 선택할 수 있습니다.
@@ -500,10 +500,10 @@
     <string name="trans_detail_page_tip">더 ​​많은 항목을 선택하면 전송이 더 오래 걸립니다.</string>
     <string name="trans_detail_qq_data">QQ 데이터 (채팅 기록 포함)</string>
     <string name="trans_detail_sys_data_page_title">시스템 앱 선택</string>
-    <string name="trans_detail_wechat_data">위챗 데이터(채팅 기록 포함)</string>
-    <string name="trans_detail_wechat_qq_list_title">위챗과 QQ</string>
-    <string name="trans_detail_wechat_qq_page_title">위챗, QQ, 앱 데이터 선택</string>
-    <string name="trans_pausing">일시중지중…</string>
+    <string name="trans_detail_wechat_data">WeChat 데이터(채팅 기록 포함)</string>
+    <string name="trans_detail_wechat_qq_list_title">WeChat과 QQ</string>
+    <string name="trans_detail_wechat_qq_page_title">WeChat, QQ, 앱 데이터 선택</string>
+    <string name="trans_pausing">일시 중지중…</string>
     <string name="trans_select_data_too_large">"전송할 아이템을 너무 많이 선택했습니다. 전송 속도를 높이려면 중요한 항목 만 선택하세요."</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite가 컴퓨터에 백업을 만들 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
     <string name="alert_message_restore_from_miasist"> Mi PC Suite가 휴대전화의 항목 복원 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
@@ -536,8 +536,8 @@
     <string name="trans_old_phone_low_space_title">저장 공간 부족</string>
     <string name="feature_title_contacts">연락처</string>
     <string name="feature_title_sms">메시지</string>
-    <string name="flash_drive_backup_btn">USB저장소에 백업</string>
-    <string name="flash_drive_backup_note">"앱을 USB저장소에 백업합니다.
+    <string name="flash_drive_backup_btn">USB 저장소에 백업</string>
+    <string name="flash_drive_backup_note">"앱을 USB 저장소에 백업합니다.
 시작하기전에 USB 저장소에 공간이 충분히 있는지 확인하세요."</string>
     <string name="flash_drive_backup_restore">USB 백업</string>
     <string name="flash_drive_connection_failed">USB 저장소 연결 실패</string>
@@ -555,9 +555,9 @@
     <string name="perm_storage">외부 저장소 읽고 쓰기</string>
     <string name="platform_chooser_item_android_mi">샤오미폰</string>
     <string name="platform_chooser_item_android_others">다른 브랜드</string>
-    <string name="storage_sd_card">SD카드</string>
-    <string name="storage_usb">USB저장소</string>
-    <string name="trans_calculating_app_sd_description">SD카드에 앱 데이터 저장</string>
+    <string name="storage_sd_card">SD 카드</string>
+    <string name="storage_usb">USB 저장소</string>
+    <string name="trans_calculating_app_sd_description">SD 카드에 앱 데이터 저장</string>
     <string name="trans_calculating_media_description">미디어 파일</string>
     <string name="trans_calculating_tip">계산중 %s…</string>
     <string name="trans_install_guide_button_start">시작</string>
@@ -569,7 +569,7 @@
     <string name="trans_install_guide_step2_content">설치 완료 후, \"시작\" 버튼을 탭하세요.</string>
     <string name="trans_install_guide_step2_title">스텝 2</string>
     <string name="trans_intro_desc_4_market">"Mi Mover는 데이터 송수신시 Wi-Fi를 이용합니다. 파일 전송중에 인터넷이 되지 않는 이유는 이것때문입니다. 하지만 모바일 데이터는 여전히 사용하실 수 있습니다."</string>
-    <string name="trans_intro_desc_9_method_1_dec">홈화면 &gt; 툴 폴더안에 있는 &gt; 피드백으로 가세요.</string>
+    <string name="trans_intro_desc_9_method_1_dec">홈 화면 &gt; 툴 폴더안에 있는 &gt; 피드백으로 가세요.</string>
     <string name="trans_intro_desc_9_method_1_title">1. \"피드백\" 앱을 사용하여 사용자의 피드백을 공유해주세요.</string>
     <string name="trans_intro_desc_9_method_2_dec">사용자의 피드백을 miui-mover@xiaomi.com로 보내주세요.</string>
     <string name="trans_intro_desc_9_method_2_title">2. 저희에게 이메일을 보내주세요.</string>
@@ -578,15 +578,15 @@
     <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR코드를 스캔해주세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요".</string>
     <string name="trans_intro_question_9_market">%d. 피드백.</string>
     <string name="trans_open_camera_failed_message">기기를 다시 시작시거나 Mi Mover가 &lt;b&gt;카메라&lt;/b&gt;사용 권한허용되었는지 확인해보세요.</string>
-    <string name="trans_open_camera_failed_title">"카메라에 접근 할 수 없습니다"</string>
+    <string name="trans_open_camera_failed_title">"카메라에 접근 할 수 없습니다."</string>
     <string name="trans_open_location_button">켜기</string>
     <string name="trans_open_location_message">사용 가능한 Wi-Fi를 확인하려면 GPS 서비스를 켜세요.</string>
     <string name="trans_open_location_title">GPS 서비스 켜기</string>
     <string name="trans_operate_tip_for_other_android">Mi Mover를 이전 폰에서 여시고, tap \"시작\"을 탭하고 QR코드를 스캔하세요.</string>
-     <string name="trans_success_dialog_button_market_favourable_comment">Mi Mover 평가하기</string>
+    <string name="trans_success_dialog_button_market_favourable_comment">Mi Mover 평가하기</string>
     <string name="trans_success_dialog_market_comment_title">"이제 집에 돌아온것 처럼 익숙함을 느끼실 껍니다.
 Mi Mover가 마음에 드시나요?"</string>
-    <string name="usb_backup_select_data_too_large">"선택된 파일이 큽니다. USB저장소에 여유공간이 있는지 확인하세요.
+    <string name="usb_backup_select_data_too_large">"선택된 파일이 큽니다. USB 저장소에 여유공간이 있는지 확인하세요.
 중요한 파일만 전송하세요."</string>
     <string name="usb_restore_select_data_too_large">"백업 파일이 큽니다. 복원하는데 시간이 꽤 소요됩니다.
 중요한 항목만 복원하시면 훨씬 빠르게 복원하실 수 있습니다."</string>
@@ -630,7 +630,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="wait_link">"이전 장치에서 Mi Mover를 열고 ￦"보내는 사람￦"을 누르고 연결하려는 핫스팟을 선택하세요. 연결이 설정되기 전에 페이지를 닫지 마세요."</string>
     <string name="waiting">잠시만 기다려주세요…</string>
     <string name="err_no_gms">호환되지 않는 앱 버전입니다.</string>
-    <string name="trans_detail_item_app_data_skip_data">"앱 데이터를 전송할 수 없습니다"</string>
+    <string name="trans_detail_item_app_data_skip_data">"앱 데이터를 전송할 수 없습니다."</string>
     <string name="phone_title">전화 설정</string>
     <string name="dialog_backup_password_change_machine_tips">"암호로 보호된 백업을 전송할 수 없으며 Mi Mover를 사용하기 전에 백업암호를 해제하세요."</string>
     <string name="dialog_backup_password_backup_tips">"백업암호가 켜져있을 때 항목을 백업할 수 없습니다. 백업암호를 해제하세요."</string>
@@ -706,7 +706,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_britem_doc">파일</string>
     <string name="new_britem_other">기타</string>
     <string name="new_britem_pic">이미지</string>
-    <string name="new_britem_video">비디오</string>
+    <string name="new_britem_video">동영상</string>
     <string name="new_confirm_enable_encrypt_content">"MIUI는 암호화된 백업을 Mi 계정과 연결합니다. 백업에서 항목을 복원하려면 Mi 계정에 로그인해야 합니다."</string>
     <string name="new_confirm_enable_encrypt_title">암호화</string>
     <string name="new_local_button_backup">백업</string>
@@ -726,12 +726,12 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_pc_backup_restore_link">모바일 디바이스</string>
     <string name="new_pc_backup_summary1">항목을 선택하고 \"백업\"을 터치하세요.</string>
     <string name="new_pc_backup_summary2">USB 케이블을 통해 모바일 장치를 컴퓨터에 연결.</string>
-    <string name="new_pc_backup_summary4">안내 : MIUI-DCIM에서 사진 및 비디오를 복사 할 수 있습니다.</string>
+    <string name="new_pc_backup_summary4">안내 : MIUI-DCIM에서 사진 및 동영상을 복사 할 수 있습니다.</string>
     <string name="new_pc_restore_content1">%d. USB 케이블을 통해 모바일 장치를 컴퓨터에 연결.</string>
     <string name="new_pc_restore_content2">%d. 컴퓨터에서 MIUI-Backup-AllBackup으로 백업 복사.</string>
     <string name="new_pc_restore_content3">%1$d. 열기 \"%2$s\" 그리고 복원 할 항목을 선택하세요.</string>
     <string name="new_pc_title">백업 복사</string>
-    <string name="new_select_file">오디오, 비디오, 파일</string>
+    <string name="new_select_file">오디오, 동영상, 파일</string>
     <string name="new_select_message">SMS, 연락처, 통화기록</string>
     <string name="new_select_pic">이미지</string>
     <string name="new_select_system">기타 시스템 앱 데이터</string>
@@ -746,7 +746,7 @@ Mi Mover가 마음에 드시나요?"</string>
 %1$d. 이 방법을 사용하면 타사 앱 및 앱 데이터를 백업 할 수 있습니다.
 %2$d. 백업을 저장하기 위해 USB 드라이브에 충분한 저장 공간이 있는지 확인하세요."</string>
     <string name="new_usb_disconnect_dialog_message">먼저 USB드라이브를 연결하세요.</string>
-    <string name="new_usb_disconnect_dialog_title">"USB드라이브를 찾을 수 없습니다"</string>
+    <string name="new_usb_disconnect_dialog_title">"USB드라이브를 찾을 수 없습니다."</string>
     <string name="new_usb_select_data_no_space">USB드라이브에서 저장 용량의 %s 만 사용할 수 있습니다. 저장 공간을 확보하세요.</string>
     <string name="new_usb_tab_backup">USB드라이브로 백업</string>
     <string name="new_usb_tab_restore">USB드라이브에서 복원</string>

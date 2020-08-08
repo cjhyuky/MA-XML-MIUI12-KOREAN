@@ -11,7 +11,7 @@
         <item quantity="other">최근 실행한 사용가능한 앱: %d. 위로 스와이프하여 제거, 아래로 스와이프하여 잠금 해제.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d 토글이 알림창에 표시됩니다.</item>
+        <item quantity="other">%1$d 토글이 알림 창에 표시됩니다.</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">%d개 앱의 알림을 숨기시겠습니까?</item>
@@ -37,7 +37,7 @@
     <plurals name="notification_num_channels">
          <item quantity="other">%d개 알림 카테고리</item>
     </plurals>
-     <plurals name="notification_num_channels_desc">
+    <plurals name="notification_num_channels_desc">
         <item quantity="other">이 앱 %d개의 알림 카테고리 중 하나</item>
     </plurals>
     <plurals name="notification_channels_list_desc_2_and_others">

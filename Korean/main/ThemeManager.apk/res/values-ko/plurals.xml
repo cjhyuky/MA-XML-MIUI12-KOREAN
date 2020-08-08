@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="de_icon_count">
+    <plurals name="de_icon_count">
          <item quantity="other">%1$d개 아이콘</item>
      </plurals>
-     <plurals name="icon_batch_has_update_text">
+    <plurals name="icon_batch_has_update_text">
          <item quantity="other">%1$d개 아이콘 업데이트 가능</item>
      </plurals>
-     <plurals name="icon_batch_updating_text">
+    <plurals name="icon_batch_updating_text">
          <item quantity="other">Updating %1$d개 아이콘 업데이트 중…</item>
      </plurals>
-     <plurals name="aod_batch_has_update_text">
+    <plurals name="aod_batch_has_update_text">
          <item quantity="one">%1$d개 테마 업데이트가 가능합니다.</item>
          <item quantity="other">%1$d개 테마 업데이트가 가능합니다.</item>
      </plurals>
-     <plurals name="aod_batch_updating_text">
+    <plurals name="aod_batch_updating_text">
          <item quantity="one">%1$d개 테마 업데이트</item>
          <item quantity="other">%1$d개 테마 업데이트</item>
      </plurals>
@@ -45,13 +45,13 @@
         <item quantity="other">%1$d개 앱 찾음</item>
     </plurals>
     <plurals name="trial_countdown_notification_tip">
-        <item quantity="other">무료로 \"%2$s\" 테마를 %1$d시간 사용해볼 수 있습니다"</item>
+        <item quantity="other">무료로 \"%2$s\" 테마를 %1$d시간 사용해볼 수 있습니다."</item>
     </plurals>
     <plurals name="try_3_day">
         <item quantity="other">3일 무료 사용(오늘 %1$d개 항목 남음)</item>
     </plurals>
-	<plurals name="resource_download_notification_title_many">
-		<item quantity="one">%1$d 항목 다운로드 완료</item>
-		<item quantity="other">%1$d 항목 다운로드 완료</item>
-	</plurals>
+    <plurals name="resource_download_notification_title_many">
+        <item quantity="one">%1$d 항목 다운로드 완료</item>
+        <item quantity="other">%1$d 항목 다운로드 완료</item>
+    </plurals>
 </resources>

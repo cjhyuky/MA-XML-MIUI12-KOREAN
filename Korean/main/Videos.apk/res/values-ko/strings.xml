@@ -59,7 +59,7 @@
     <string name="mr_media_route_controller_stop">전송 중지</string>
     <string name="mr_media_route_controller_settings_description">경로 설정</string>
     <string name="mr_media_route_controller_play">재생</string>
-    <string name="mr_media_route_controller_pause">일시중지</string>
+    <string name="mr_media_route_controller_pause">일시 중지</string>
     <string name="mr_media_route_controller_no_info_available">정보가 없습니다.</string>
     <string name="play_drawer_title">탐색</string>
     <string name="play_drawer_open">탐색 창 표시</string>
@@ -192,7 +192,7 @@
     <string name="welcome_instructions_cast_with_tv">큰 화면에서 영화 및 TV 프로그램을 감상하려면 위의 캐스트 아이콘을 탭하세요.</string>
     <string name="welcome_button_label_cast">사용해 보기</string>
     <string name="welcome_title_knowledge">정보 카드</string>
-    <string name="welcome_instructions_knowledge">영화에 나오는 배우나 사운드트랙이 궁금하세요? 일부 영화에는 정보 카드가 있습니다. 영화를 일시중지하고 정보 카드를 확인해 보세요.</string>
+    <string name="welcome_instructions_knowledge">영화에 나오는 배우나 사운드트랙이 궁금하세요? 일부 영화에는 정보 카드가 있습니다. 영화를 일시 중지하고 정보 카드를 확인해 보세요.</string>
     <string name="welcome_title_no_application_name">시작하기</string>
     <string name="welcome_instructions_generic">Play 스토어에서 멋진 영화를 찾아서 %1$s 앱으로 편안하게 감상하세요.</string>
     <string name="welcome_instructions_generic_with_tv">Play 스토어에서 멋진 영화나 TV 프로그램을 찾아서 %1$s 앱으로 편안하게 감상하세요.</string>
@@ -438,11 +438,11 @@
     <string name="content_description_knowledge">정보 카드</string>
     <string name="content_description_closed_captions">자막</string>
     <string name="content_description_subtitles">자막</string>
-    <string name="accessibility_pin_download_video">%1$ 비디오를 다운로드합니다.</string>
-    <string name="accessibility_pin_video_downloaded">%1$s 비디오를 다운로드했습니다. 더 많은 작업을 하려면 터치하세요.</string>
-    <string name="accessibility_pin_video_downloading">%1$s 비디오를 다운로드하고 있습니다. 더 많은 작업을 하려면 터치하세요.</string>
+    <string name="accessibility_pin_download_video">%1$ 동영상을 다운로드합니다.</string>
+    <string name="accessibility_pin_video_downloaded">%1$s 동영상을 다운로드했습니다. 더 많은 작업을 하려면 터치하세요.</string>
+    <string name="accessibility_pin_video_downloading">%1$s 동영상을 다운로드하고 있습니다. 더 많은 작업을 하려면 터치하세요.</string>
     <string name="accessibility_pin_video_download_pending">%1$s의 다운로드가 대기 중입니다. 자세한 정보를 보려면 터치하세요.</string>
-    <string name="accessibility_pin_couldnt_download_video">%1$s 비디오를 다운로드할 수 없습니다. 자세한 내용을 알아보려면 터치하세요.</string>
+    <string name="accessibility_pin_couldnt_download_video">%1$s 동영상을 다운로드할 수 없습니다. 자세한 내용을 알아보려면 터치하세요.</string>
     <string name="accessibility_closed_captions">자막 표시 및 오디오 메뉴</string>
     <string name="accessibility_audio">오디오 메뉴 보기</string>
     <string name="accessibility_play">동영상 재생</string>
@@ -459,7 +459,7 @@
     <string name="accessibility_disconnect">연결 해제</string>
     <string name="accessibility_progress_duration">%2$s 중 %1$s</string>
     <string name="remote_notification_finished">%1$s에서 종료됨</string>
-    <string name="remote_notification_paused">%1$s에서 일시중지됨</string>
+    <string name="remote_notification_paused">%1$s에서 일시 중지됨</string>
     <string name="remote_notification_loading">%1$s에서 로드 중</string>
     <string name="remote_notification_playing">%1$s에서 재생 중</string>
     <string name="remote_notification_disconnect">연결 해제</string>

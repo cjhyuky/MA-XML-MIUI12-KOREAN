@@ -392,7 +392,7 @@
     <string name="receiver_song2">여성 목소리</string>
     <string name="receiver_song2_sakura">중국어 여성 목소리</string>
     <string name="record">기록</string>
-    <string name="refresh_results">결과 새로 고침</string>
+    <string name="refresh_results">결과 새로고침</string>
     <string name="remove_headset">헤드셋을 제거하세요.</string>
     <string name="remove_headset_second">헤드셋을에서 제거하세요. %s 둘째</string>
     <string name="reset_times">재설정 시간은 5입니다. 뒤로가기 버튼을 클릭 할 수 있습니다.</string>

@@ -341,7 +341,7 @@
     <string name="content_desc_city_manage_del">삭제</string>
     <string name="content_desc_city_manage_edit">도시 관리</string>
     <string name="empty_view_net_loading">업데이트 중...</string>
-    <string name="empty_view_net_unavailable">"네트워크에 연결할 수 없습니다"</string>
+    <string name="empty_view_net_unavailable">"네트워크에 연결할 수 없습니다."</string>
     <string name="empty_view_refresh">다시 시도하세요.</string>
     <string name="feedback_cloudy">흐림</string>
     <string name="feedback_foggy">안개</string>
@@ -384,13 +384,13 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
     <string name="miuix_sbl_trackin g_progress_labe_refreshing">새로고침…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다."</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을로드 할 수 없습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을로드 할 수 없습니다."</string>
     <string name="not_set">설정되지 않음</string>
     <string name="preference_copied">\"%1$s\"가 클립 보드에 복사되었습니다.</string>
-    <string name="thanku_for_feedback">의견 감사드립니다. 설정 페이지에서 날씨 비디오를 다시 열 수 있습니다.</string>
+    <string name="thanku_for_feedback">의견 감사드립니다. 설정 페이지에서 날씨 동영상을 다시 열 수 있습니다.</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
     <string name="rain_sound_setting_summary_text">날씨 변화에 따른 사운드 효과</string>
@@ -403,6 +403,6 @@
     <string name="settings_atmospheric_pressure_mmhg">수은의 밀리미터 (mmHg)</string>
     <string name="settings_atmospheric_pressure_title">대기압 단위</string>
     <string name="international_details_humidity_title">습도</string>
-     <string name="indices_title_chance_of_rain">비 올 확률</string>
-     <string name="indices_title_wind_speed">풍속</string>
+    <string name="indices_title_chance_of_rain">비 올 확률</string>
+    <string name="indices_title_wind_speed">풍속</string>
 </resources>

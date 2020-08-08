@@ -100,9 +100,9 @@
     <string name="delete">삭제</string>
     <string name="bytes">%1$s/%2$s</string>
     <string name="pending">보류 중…</string>
-    <string name="paused">일시정지됨</string>
+    <string name="paused">일시 중지됨</string>
     <string name="resume">계속하기</string>
-    <string name="downloading">일시정지</string>
+    <string name="downloading">일시 중지</string>
     <string name="connecting">연결 중…</string>
     <string name="verifying">확인 중…</string>
     <string name="installing">설치 중…</string>

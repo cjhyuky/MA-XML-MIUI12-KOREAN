@@ -9,7 +9,7 @@
     <string name="btn_install">설치</string>
     <string name="btn_no">취소</string>
     <string name="btn_ok">확인</string>
-    <string name="btn_pause">일시정지</string>
+    <string name="btn_pause">일시 중지</string>
     <string name="btn_share">공유</string>
     <string name="btn_stop">중단</string>
     <string name="btn_yes">확인</string>

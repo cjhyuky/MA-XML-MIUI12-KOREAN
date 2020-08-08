@@ -70,7 +70,7 @@
     <string name="attach_slideshow">슬라이드쇼</string>
     <string name="type_audio">오디오</string>
     <string name="type_picture">이미지</string>
-    <string name="type_video">비디오</string>
+    <string name="type_video">동영상</string>
     <string name="type_attachment">첨부 파일</string>
     <string name="rate_limit_surpassed">확인</string>
     <string name="confirm_rate_limit">많은 MMS 메시지를 전송 중입니다.</string>

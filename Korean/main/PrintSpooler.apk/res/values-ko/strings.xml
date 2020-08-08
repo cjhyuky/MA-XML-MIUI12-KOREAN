@@ -89,7 +89,7 @@
     <string name="open_wlan_tips">Wi-Fi를 켜면 프린터를 더 빨리 찾을 수 있습니다.</string>
     <string name="other_printer">다른 프린터</string>
     <string name="please_choose_printer">프린터를 먼저 선택하세요.</string>
-    <string name="print_error">"프린터 오류로 인해 인쇄 할 수 없습니다"</string>
+    <string name="print_error">"프린터 오류로 인해 인쇄 할 수 없습니다."</string>
     <string name="print_fail">"인쇄 실패"</string>
     <string name="print_fail_network_error">"인쇄 할 수 없습니다. 네트워크 설정을 확인한 후 다시 시도하세요."</string>
     <string name="print_help_label">도움말</string>

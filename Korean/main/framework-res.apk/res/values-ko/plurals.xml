@@ -107,7 +107,7 @@
         <item quantity="other">%d시간 동안</item>
         <item quantity="one">1시간 동안</item>
     </plurals>
-        <plurals name="ssl_ca_cert_warning">
+       <plurals name="ssl_ca_cert_warning">
         <item quantity="other">인증서 권한 설치됨</item>
     </plurals>
     <plurals name="bugreport_countdown">

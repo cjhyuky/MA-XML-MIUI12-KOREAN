@@ -63,7 +63,7 @@
     <string name="abc_capital_on">켜기</string>
     <string name="abc_toolbar_collapse_description">툴바 접기</string>
     <string name="allow">허용</string>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="button_dismiss">확인</string>
     <string name="button_copy">복사</string>
     <string name="button_move">이동</string>

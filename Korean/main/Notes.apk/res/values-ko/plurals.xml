@@ -18,13 +18,13 @@
     <plurals name="alert_message_delete">
         <item quantity="other">%1$s개의 항목을 삭제하시겠습니까?</item>
     </plurals>
-	<plurals name="format_move_notes_out_folder">
+    <plurals name="format_move_notes_out_folder">
         <item quantity="other">폴더에서 %1$s개의 메모를 제거했습니다.</item>
     </plurals>
-	 <plurals name="format_move_notes_to_folder">
+    <plurals name="format_move_notes_to_folder">
         <item quantity="other">%1$s개의 메모를 %2$s 폴더로 이동했습니다.</item>
     </plurals>
-	<plurals name="toast_notes_hidden_count">
+    <plurals name="toast_notes_hidden_count">
         <item quantity="other">%1$s개의 메모를 숨겼습니다.</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
@@ -38,7 +38,7 @@
         <item quantity="other">%1$d일 전</item>
         <item quantity="one">%1$d일 전</item>
     </plurals>
-	 <plurals name="todo_N_days_after">
+    <plurals name="todo_N_days_after">
         <item quantity="other">%1$d일간</item>
         <item quantity="one">%1$d일간</item>
     </plurals>

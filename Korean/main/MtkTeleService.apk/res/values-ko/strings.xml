@@ -33,7 +33,7 @@
     <string name="fiveg_sa_switch_open_dialog_title">주의</string>
     <string name="fiveg_sa_switch_summary">독립형 모드에서 5G 네트워크에 연결 허용</string>
     <string name="fiveg_sa_switch_title">SA 모드</string>
-    <string name="incall_error_outgoing_call_failed">"전화를 걸 수 없습니다"</string>
+    <string name="incall_error_outgoing_call_failed">"전화를 걸 수 없습니다."</string>
     <string name="incall_error_supp_service_resume">"전화를 다시 시작할 수 없습니다."</string>
     <string name="jump_to_mobile_network_setting">모바일 네트워크 설정</string>
     <string name="labelCommonMore">전화 설정</string>
@@ -60,7 +60,7 @@
     <string name="mr_controller_expand_group">펼치기</string>
     <string name="mr_controller_no_info_available">사용 가능한 정보가 없습니다.</string>
     <string name="mr_controller_no_media_selected">선택된 미디어가 없습니다.</string>
-    <string name="mr_controller_pause">일시중지</string>
+    <string name="mr_controller_pause">일시 중지</string>
     <string name="mr_controller_play">재생</string>
     <string name="mr_controller_stop">중지</string>
     <string name="mr_controller_stop_casting">캐스팅 중지</string>
@@ -131,7 +131,7 @@
     <string name="supp_service_over_ut_precautions_roaming_dual_sim">%1$s을 (를) 사용하려면 SIM %2$d에 대해 모바일 데이터 및 데이터 로밍이 켜져 있는지 확인하세요. 모바일 네트워크 설정에서 변경할 수 있습니다.</string>
     <string name="switch_dds_to_sub_alert_msg">모바일 데이터를 CT SIM으로 전환하세요.</string>
     <string name="tap_to_sign_up">가입하려면 탭하세요.</string>
-    <string name="ut_unavailable_to_set_video_cf_toast">UT는 비디오의 착신 전환을 설정할 수 없습니다.이 페이지를 닫고 종료하세요.</string>
+    <string name="ut_unavailable_to_set_video_cf_toast">UT는 동영상의 착신 전환을 설정할 수 없습니다.이 페이지를 닫고 종료하세요.</string>
     <string name="wifi_disconnected">연결 끊김</string>
     <string name="wifi_limited_connection">제한된 연결</string>
     <string name="wifi_scan_throttling">Wi‑Fi 스캔 조절</string>
@@ -1634,7 +1634,7 @@
     <string name="bluetooth_connected_no_map">연결됨 (메시지 액세스 없음)</string>
     <string name="bluetooth_connecting">연결중...</string>
     <string name="bluetooth_disable_absolute_volume">모든 볼륨 음소거</string>
-    <string name="bluetooth_disable_absolute_volume_summary">너무 큰 볼륨으로 바뀌거나 제어 불능과 같은 원격 장치의 음량 문제가 발생할 경우 Bluetooth 오디오 기능을 비활성화합니다.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">너무 큰 볼륨으로 바뀌거나 제어 불능과 같은 원격 장치의 음량 문제가 발생할 경우 블루투스 오디오 기능을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결이 끊어졌습니다.</string>
     <string name="bluetooth_disconnecting">연결 해제중...</string>
     <string name="bluetooth_dun_profile_summary_connected">Dun 서버에 연결됨</string>
@@ -1672,7 +1672,7 @@
     <string name="bluetooth_profile_sap">SIM 액세스</string>
     <string name="bluetooth_sap_profile_summary_connected">SAP에 연결됨</string>
     <string name="bluetooth_sap_profile_summary_use_for">SIM 액세스에 사용</string>
-    <string name="bt_hci_snoop_log">Bluetooth HCI 스눕 로그 사용</string>
+    <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그 사용</string>
     <string name="bt_hci_snoop_log_summary">파일에서 모든 블루투스 HCI 패킷 캡처</string>
     <string name="bugreport_in_power">버그 리포트 바로 가기</string>
     <string name="bugreport_in_power_summary">버그 리포트를 보기 위해 전원 메뉴에 버튼을 표시하세요.</string>
@@ -1921,8 +1921,8 @@
     <string name="show_touches_summary">탭에 대한 시각적 피드백 표시</string>
     <string name="simulate_color_space">색상 공간 시뮬레이션</string>
     <string name="singleContactImportedMsg">가져온 연락처</string>
-    <string name="sip_profile_create_error">"새 SIP 프로필을 만들지 못했습니다"</string>
-    <string name="sip_save_register_error">"새 SIP 프로필을 등록하고 저장할 수 없습니다"</string>
+    <string name="sip_profile_create_error">"새 SIP 프로필을 만들지 못했습니다."</string>
+    <string name="sip_save_register_error">"새 SIP 프로필을 등록하고 저장할 수 없습니다."</string>
     <string name="smart_divert_summary">CFNRc 설정</string>
     <string name="smart_divert_title">스마트 전환</string>
     <string name="srvcc_message">4G 네트워크를 사용할 수 없기 때문에 4G 음성 통화가 2G / 3G 음성 통화로 변경되었습니다.</string>
@@ -2007,7 +2007,7 @@
     <string name="wifi_disabled_wifi_failure">Wi-Fi 연결 실패</string>
     <string name="wifi_display_certification">무선 디스플레이 인증</string>
     <string name="wifi_display_certification_summary">무선 디스플레이 인증 옵션 표시</string>
-    <string name="wifi_fail_to_scan">"네트워크를 검색할 수 없습니다"</string>
+    <string name="wifi_fail_to_scan">"네트워크를 검색할 수 없습니다."</string>
     <string name="wifi_no_internet">인터넷에 연결할 수 없습니다.</string>
     <string name="wifi_no_internet_no_reconnect">"인터넷 액세스가 감지되지 않고 자동으로 다시 연결되지 않습니다."</string>
     <string name="wifi_not_in_range">범위 내에 없음</string>
@@ -2027,7 +2027,7 @@
     <string name="show_cpu_usage_summary">화면에 CPU 사용량을 표시해줍니다.</string>
     <string name="wifi_security_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
-    <string name=" hide_error_from_network_text">"요청을 처리할 수 없습니다"</string>
+    <string name=" hide_error_from_network_text">"요청을 처리할 수 없습니다."</string>
     <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ERROR">PUK 언락 실패.</string>
     <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK 언락 성공.</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">RUIM PIN 언락</string>
@@ -2310,9 +2310,9 @@
     <string name="null_phone_number">전화번호를 입력하세요!</string>
     <string name="change_cdma_capability_dialog" formatted="false">%s가 정상적으로 작동되지 않습니다. %s의 기본 전화, 문자 등은 %s로 자동 전달됩니다.</string>
     <string name="labelCFNRc_cdma">임시 전달</string>
-    <string name="vice_slot_volte_data_switch_prompt">VoLTE 통화중에 보조SIM을 사용하여 기기가 모바일 데이터 네트워크에 연결됩니다. 이로 인해 추가 데이터 수수료가 발생할 수 있습니다. 데이터 요금제에 대한 자세한 내용은 가입하신 이동 통신사에 문의하세요.</string>
-    <string name="vice_slot_volte_data_switch_summary">VoLTE 통화중에 기기가 보조SIM을 사용하여 모바일 데이터 네트워크에 연결됩니다.</string>
-    <string name="vice_slot_volte_data_switch_title">VoLTE 통화중에 보조SIM의 모바일 데이터 사용</string>
+    <string name="vice_slot_volte_data_switch_prompt">VoLTE 통화중에 보조 SIM을 사용하여 기기가 모바일 데이터 네트워크에 연결됩니다. 이로 인해 추가 데이터 수수료가 발생할 수 있습니다. 데이터 요금제에 대한 자세한 내용은 가입하신 이동 통신사에 문의하세요.</string>
+    <string name="vice_slot_volte_data_switch_summary">VoLTE 통화중에 기기가 보조 SIM을 사용하여 모바일 데이터 네트워크에 연결됩니다.</string>
+    <string name="vice_slot_volte_data_switch_title">VoLTE 통화중에 보조 SIM의 모바일 데이터 사용</string>
     <string name="cfnry_time_fifteen_sec">15초</string>
     <string name="cfnry_time_five_sec">5초</string>
     <string name="cfnry_time_setting_title">대기 시간 설정</string>
@@ -2350,8 +2350,8 @@
     <string name="wifi_call_setting">Wi-Fi 통화</string>
     <string name="wificall_switch_summary">가능하면 Wi-Fi를 사용하여 전화를 걸고받습니다.</string>
     <string name="wificall_switch_title">Wi-Fi를 이용한 통화</string>
-    <string name="cloud_sim_enabled_dual_4g_summary">"Mi로밍 중에는 듀얼 4G를 끌 수 없습니다"</string>
-    <string name="cloud_sim_enabled_preferred_network_summary">"Mi로밍 사용중에는 네트워크 설정을 바꿀 수 없습니다"</string>
+    <string name="cloud_sim_enabled_dual_4g_summary">"Mi로밍 중에는 듀얼 4G를 끌 수 없습니다."</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">"Mi로밍 사용중에는 네트워크 설정을 바꿀 수 없습니다."</string>
     <string name="data_plan">모바일 데이터 플랜</string>
     <string name="dc_alert_dialog_message">몇몇 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
     <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
@@ -2418,7 +2418,7 @@
     <string name="network_select_title">네트워크</string>
     <string name="search_menu_title">검색</string>
     <string name="sim_change_data_message">%1$s 대신 %2$s를 모바일 데이터로 사용하시겠습니까?</string>
-    <string name="sim_change_data_title">데이터 심카드를 변경하시겠습니까?</string>
+    <string name="sim_change_data_title">데이터 SIM카드를 변경하시겠습니까?</string>
     <string name="sim_selection_required_pref">선택 필요</string>
     <string name="speed_label_fast">빠름</string>
     <string name="speed_label_medium">중간</string>
@@ -2593,7 +2593,7 @@
     <string name="sim_is_not_ready">SIM 카드가 준비되지 않았습니다.</string>
     <string name="standby_bucket_summary">앱 스탠바이 상태: %s</string>
     <string name="status_unavailable">사용불가</string>
-    <string name="stk_cc_ss_to_dial_video_error">SS는 비디오 다이얼 요청 수정을 요구합니다.</string>
+    <string name="stk_cc_ss_to_dial_video_error">SS는 동영상 다이얼 요청 수정을 요구합니다.</string>
     <string name="sum_call_barring_disabled">꺼짐</string>
     <string name="sum_call_barring_enabled">켜짐</string>
     <string name="supp_service_additional_call_forwarded">추가 통화 전달됨.</string>
@@ -2719,7 +2719,7 @@
     <string name="prompt_to_suggest_no_call_service_notification_content2">"전화 수신과 발신이 불가능합니다. 귀하의 SIM %d (차이나 텔레콤) VoLTE 서비스가 꺼졌습니다."</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">"전화 수신과 발신이 불가능합니다."</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d 으로 전화 발신 실패. 차이나 텔레콤에 연락하셔서 VoLTE 서비스를 켜세요."</string>
-    <string name="notification_demo_version_text">"전화를 걸거나 모바일 데이터를 사용할 수 없습니다"</string>
+    <string name="notification_demo_version_text">"전화를 걸거나 모바일 데이터를 사용할 수 없습니다."</string>
     <string name="notification_demo_version_title">이것은 데모 장치입니다.</string>
     <string name="mobile_advanced_nr_network_title">5G 네트워크 유형</string>
     <string name="nr_network_info">5G 네트워크 사용 정보</string>
@@ -2751,26 +2751,26 @@
     <string name="kt_lte_emm_cause_3">"사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
     <string name="kt_lte_emm_cause_6">"장치를 확인할 수 없습니다. 새 USIM 카드를 설치 한 후 장치를 2 ~ 3 회 다시 시작하세요. 이후에도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
     <string name="kt_lte_emm_cause_8">활성화가 필요합니다. 고객 서비스 센터를 방문하세요.</string>
-    <string name="kt_lte_emm_cause_others">"네트워크를 등록 할 수 없습니다"</string>
+    <string name="kt_lte_emm_cause_others">"네트워크를 등록 할 수 없습니다."</string>
     <string name="kt_lte_msim_emm_cause_19_22">SIM %d이(가) 네트워크를 등록하는 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
     <string name="kt_lte_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
     <string name="kt_lte_msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
     <string name="kt_lte_msim_emm_cause_8">SIM %d에는 활성화가 필요합니다. 고객 서비스 센터를 방문하세요.</string>
-    <string name="kt_lte_msim_emm_cause_others">"SIM %d이(가) 네트워크를 등록 할 수 없습니다"</string>
+    <string name="kt_lte_msim_emm_cause_others">"SIM %d이(가) 네트워크를 등록 할 수 없습니다."</string>
     <string name="lgu_emm_16_17_22">네트워크 등록 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
-    <string name="lgu_emm_cause_11_12_13_15">"네트워크를 등록 할 수 없습니다"</string>
+    <string name="lgu_emm_cause_11_12_13_15">"네트워크를 등록 할 수 없습니다."</string>
     <string name="lgu_emm_cause_2">활성화가 필요합니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010).</string>
     <string name="lgu_emm_cause_3">"사용자를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
     <string name="lgu_emm_cause_6">"기기를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
-    <string name="lgu_emm_cause_7_14">"네트워크는 모바일 데이터 서비스를 제공하지 않습니다"</string>
+    <string name="lgu_emm_cause_7_14">"네트워크는 모바일 데이터 서비스를 제공하지 않습니다."</string>
     <string name="lgu_emm_cause_8">"네트워크를 등록 할 수 없습니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010)."</string>
     <string name="lgu_emm_cause_others">"네트워크에 연결할 수 없습니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010)."</string>
-    <string name="lgu_msim_emm_cause_11_12_13_15">"SIM %d이(가) 네트워크를 등록 할 수 없습니다"</string>
+    <string name="lgu_msim_emm_cause_11_12_13_15">"SIM %d이(가) 네트워크를 등록 할 수 없습니다."</string>
     <string name="lgu_msim_emm_cause_16_17_22">SIM %d이(가) 네트워크를 등록하는 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
     <string name="lgu_msim_emm_cause_2">SIM %d에는 활성화가 필요합니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010).</string>
     <string name="lgu_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
     <string name="lgu_msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
-    <string name="lgu_msim_emm_cause_7_14">"SIM %d 네트워크는 모바일 데이터 서비스를 제공하지 않습니다"</string>
+    <string name="lgu_msim_emm_cause_7_14">"SIM %d 네트워크는 모바일 데이터 서비스를 제공하지 않습니다."</string>
     <string name="lgu_msim_emm_cause_8">"SIM %d에서 네트워크를 등록 할 수 없습니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"SIM %d이(가) 네트워크에 연결할 수 없습니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010)."</string>
     <string name="messageCFNRc_kr_kt">"전화를 받을 수 없거나(예: 전화 통화 중이거나 기기가 꺼져있을 때) 모든 수신 전화 및 문자 메시지를 지정된 번호로 전환하는 네트워크 서비스입니다. 이 서비스에 가입하려면이 서비스에 가입하거나 탈퇴하려면 고객 센터 (114+ 보내기)에 문의하세요. *72+ (전화를 걸기 위한 번호)(보내기)를 사용하려면 설정하거나 *720 (보내기)를 입력하여 사용하지 않도록 설정하세요..

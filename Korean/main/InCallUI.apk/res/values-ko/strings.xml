@@ -143,8 +143,8 @@
     <string name="call_recording_notification_title">통화 녹음됨</string>
     <string name="call_recording_notification_title_error">통화를 녹음하지 못했습니다.</string>
     <string name="call_recording_notification_message">터치하여 듣기.</string>
-    <string name="call_recording_notification_message_low_storage">SD카드가 꽉 찼습니다.</string>
-    <string name="call_recording_notification_message_sd_unmounted">SD카드가 제거되었습니다.</string>
+    <string name="call_recording_notification_message_low_storage">SD 카드가 꽉 찼습니다.</string>
+    <string name="call_recording_notification_message_sd_unmounted">SD 카드가 제거되었습니다.</string>
     <string name="call_recording_deny_permission_msg">녹음 권한을 거부하였습니다. 녹음할 수 없습니다.</string>
     <string name="call_contacts_deny_permission_msg">연락처 읽기 권한을 거부하였습니다. 연락처 정보를 표시할 수 없습니다.</string>
     <string name="antispam_marked_count">%1$d명의 MIUI 사용자들이 신고</string>
@@ -181,7 +181,7 @@
     <string name="time_left_livetalk">(%d초)</string>
     <string name="can_not_call_oneself">이 번호로 전화를 걸 수 없습니다.</string>
     <string name="miprofile_stranger_card">외국인 카드</string>
-    <string name="card_title_video_call_paused">동영상 일시정지됨</string>
+    <string name="card_title_video_call_paused">동영상 일시 중지됨</string>
     <string name="card_title_incoming_conference_call">전화 회의 수신 중</string>
     <string name="video_switch_to_voice_call_prompt">음성 통화로 전환</string>
     <string name="onscreen_change_to_voice">음성 통화</string>
@@ -246,8 +246,8 @@
     <string name="modify_call_failure_str">"전화 수정 실패됨"</string>
     <string name="modify_call_option_title">어떤 종류의 전화인가요?</string>
     <string name="modify_call_option_voice">음성만</string>
-    <string name="modify_call_option_vt_rx">비디오 받음</string>
-    <string name="modify_call_option_vt_tx">비디오 전달</string>
+    <string name="modify_call_option_vt_rx">동영상 받음</string>
+    <string name="modify_call_option_vt_tx">동영상 전달</string>
     <string name="modify_call_prompt_no">아니오</string>
     <string name="modify_call_prompt_yes">예</string>
     <string name="video_crbt_title">%s 컬러링 음악</string>

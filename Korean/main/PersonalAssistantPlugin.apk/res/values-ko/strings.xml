@@ -245,7 +245,7 @@
     <string name="empty_health_card_tip">Mi 피트를 설치하여 Mi 밴드와 연결하세요.</string>
     <string name="empty_health_card_tip_vip">Mi 피트를 설치하여 걸음 추적기를 켜세요.</string>
     <string name="empty_recharge_card_btn">설정으로 가기</string>
-    <string name="empty_recharge_card_tip">"심카드가 없거나 요금제가 활성화되지 않았습니다."</string>
+    <string name="empty_recharge_card_tip">"SIM카드가 없거나 요금제가 활성화되지 않았습니다."</string>
     <string name="empty_recharge_card_title">데이터 없음</string>
     <string name="entrance">카드</string>
     <string name="error_share_not_support">이 항목은 즐겨찾기에 추가될수 없는 항목입니다.</string>
@@ -310,7 +310,7 @@
     <string name="express_inquiry_detail">특송 정보</string>
     <string name="fav_category_article">신문/뉴스 기사</string>
     <string name="fav_category_shopping">쇼핑</string>
-    <string name="fav_category_video">비디오</string>
+    <string name="fav_category_video">동영상</string>
     <string name="fav_detail_nodata">정보를 찾을 수 없습니다.</string>
     <string name="fav_download">이 앱을 휴대전화에 아직 설치하지 않았습니다. 지금 앱 스토어에서 다운로드하시겠습니까?</string>
     <string name="fav_init_guide_title">즐겨찾기에 추가하기</string>
@@ -372,7 +372,7 @@
     <string name="launch_setting_alipay_getversion">버전 번호 가져 오기</string>
     <string name="launch_setting_alipay_login">로그인</string>
     <string name="launch_setting_alipay_logout">로그아웃</string>
-    <string name="launch_setting_alipay_logout_fail">"로그아웃하지 못했습니다"</string>
+    <string name="launch_setting_alipay_logout_fail">"로그아웃하지 못했습니다."</string>
     <string name="launch_setting_alipay_logout_msg">알리페이 계정에서 로그아웃하시겠습니까?</string>
     <string name="launch_setting_alipay_logout_posi">로그아웃</string>
     <string name="launch_setting_alipay_logout_success">로그아웃되었습니다.</string>
@@ -382,7 +382,7 @@
     <string name="list_icon_delete">삭제</string>
     <string name="list_icon_drag">주문을 드래그하세요.</string>
     <string name="loading_desktop">잠시만 기다려주세요...</string>
-    <string name="locating_fail">"위치를 가져올 수 없습니다"</string>
+    <string name="locating_fail">"위치를 가져올 수 없습니다."</string>
     <string name="locations">자주 가는 장소</string>
     <string name="locations_preferences">주소 목록</string>
     <string name="login_before_use">먼저 로그인해야합니다.</string>
@@ -508,7 +508,7 @@
     <string name="miuishare_share_editor_title">공유</string>
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
-    <string name="miuishare_wechat_timeline_title">위챗 타임라인</string>
+    <string name="miuishare_wechat_timeline_title">WeChat 타임라인</string>
     <string name="miuishare_weibo_title">웨이보</string>
     <string name="month_list_activity_label">%1$s의 고지서</string>
     <string name="month_record_list_money">금액</string>
@@ -602,8 +602,8 @@
     <string name="red_dowm_blue_grow">녹색 : 플러스, 적색 : 마이너스</string>
     <string name="red_grow_blue_dowm">적색 : 플러스, 녹색 : 마이너스</string>
     <string name="remaining_flow">모바일 데이터</string>
-    <string name="req_no_data">"정보를 가져올 수 없습니다"</string>
-    <string name="req_no_sdata">"결과를 찾을 수 없습니다"</string>
+    <string name="req_no_data">"정보를 가져올 수 없습니다."</string>
+    <string name="req_no_sdata">"결과를 찾을 수 없습니다."</string>
     <string name="retry">다시 시도하세요.</string>
     <string name="rmb">위안(RMB)</string>
     <string name="save_edit">변경 사항 저장</string>
@@ -628,7 +628,7 @@
     <string name="search_tip">검색 중...</string>
     <string name="security">보안</string>
     <string name="send_action_title">즐겨 찾기에 추가</string>
-    <string name="send_shortcut_failed">"보낼 수 없습니다"</string>
+    <string name="send_shortcut_failed">"보낼 수 없습니다."</string>
     <string name="send_shortcut_success">홈 화면에 배치됨</string>
     <string name="service_unavailiable">네트워크 연결상태를 확인한 다음 다시 시도하세요.</string>
     <string name="setting_address">자주가는 장소 추가</string>
@@ -792,7 +792,7 @@
     <string name="unusual_weather_open">기상 경보 켜기</string>
     <string name="unusual_weather_setting_brief">폭우, 폭설 등 위험한 날씨에 대비하여 알림을 수신합니다.</string>
     <string name="unusual_weather_setting_tip">날씨가 매우 나쁜 날에 대한 알림을 받을 도시를 날씨 앱에서 변경할 수 있습니다.</string>
-    <string name="uploads_disabled">"파일을 업로드 할 수 없습니다"</string>
+    <string name="uploads_disabled">"파일을 업로드 할 수 없습니다."</string>
     <string name="user_id">사용자 ID : %s</string>
     <string name="user_notice_title">주의</string>
     <string name="vr_pay_not_support">VR 지불을 지원하지 않습니다.</string>
@@ -811,7 +811,7 @@
     <string name="wx_aa">그룹 채권</string>
     <string name="wx_collectioncode">받은 돈</string>
     <string name="wx_name">내 카드</string>
-    <string name="wx_parent">위챗</string>
+    <string name="wx_parent">WeChat</string>
     <string name="wx_paycode">지불수단</string>
     <string name="wx_photo">사진</string>
     <string name="wx_scan">스캐너</string>
@@ -949,7 +949,7 @@
     <string name="express_setting_dialog_authority_description">휴대전화인증은 옐로우페이지에서 제공됩니다. 옐로우페이지는 정상적으로 작동하려면 네트워크에 연결해야합니다. 동의하십니까?</string>
     <string name="express_setting_dialog_delete_cancel">취소</string>
     <string name="express_setting_dialog_delete_description">"전화번호를 삭제하면 옐로우 페이지가 배달 정보를 자동으로 추적 할 수 없습니다. 그래도 삭제하시겠습니까?"</string>
-    <string name="express_setting_dialog_delete_failed">"전화번호를 삭제할 수 없습니다"</string>
+    <string name="express_setting_dialog_delete_failed">"전화번호를 삭제할 수 없습니다."</string>
     <string name="express_setting_dialog_delete_ok">삭제</string>
     <string name="express_setting_dialog_delete_success">삭제 완료</string>
     <string name="express_setting_dialog_delete_title">전화번호 삭제</string>
@@ -989,8 +989,8 @@
     <string name="function_jd_title">진동</string>
     <string name="function_keyguard_dialog_cancel">취소</string>
     <string name="function_keyguard_dialog_confirm">설정</string>
-    <string name="function_keyguard_dialog_content">잠금화면 비밀번호를 설정하여 사용자의 구매내역을 보호하세요.</string>
-    <string name="function_keyguard_dialog_title">"이 기능은 아직 지원되지 않습니다"</string>
+    <string name="function_keyguard_dialog_content">잠금 화면 비밀번호를 설정하여 사용자의 구매내역을 보호하세요.</string>
+    <string name="function_keyguard_dialog_title">"이 기능은 아직 지원되지 않습니다."</string>
     <string name="function_mistore_cart">장바구니</string>
     <string name="function_mistore_favorite">즐겨찾기</string>
     <string name="function_mistore_title">Mi 스토어</string>
@@ -1000,7 +1000,7 @@
     <string name="function_open_error_content_app">이 앱이 제거되었습니다. 다른 바로가기를 선택하거나 앱을 다시 설치하세요.</string>
     <string name="function_open_error_content_app_xspace">"이 바로가기는 듀얼앱이 제거 되었기 때문에 작동하지 않습니다. 다른 바로가기를 선택하거나 새 듀얼앱을 만드세요."</string>
     <string name="function_open_error_content_xspace">"이 바로가기는 앱이 제거 되었기 때문에 작동하지 않습니다. 다른 바로가기를 선택하거나 새 듀얼앱을 만드세요."</string>
-    <string name="function_open_error_title">"\"%s\" 앱을 열수 없습니다"</string>
+    <string name="function_open_error_title">"\"%s\" 앱을 열수 없습니다."</string>
     <string name="function_qq_new_shuoshuo">게시물</string>
     <string name="function_qq_recent">친구</string>
     <string name="function_qq_scan">스캐너</string>
@@ -1044,7 +1044,7 @@
     <string name="payment_app_name">나의 구매내역</string>
     <string name="payment_card_title">나의 구매내역</string>
     <string name="payment_clear_records_dialog_message">모든 구매내역 기록을 삭제하시겠습니까?</string>
-    <string name="payment_clear_records_failed">"구매내역을 지울 수 없습니다"</string>
+    <string name="payment_clear_records_failed">"구매내역을 지울 수 없습니다."</string>
     <string name="payment_clear_records_success">구매내역 삭제 완료</string>
     <string name="payment_date_time_picker_dialog_title">날짜 및 시간 설정</string>
     <string name="payment_dialog_chooser_cancel">취소</string>
@@ -1062,7 +1062,7 @@
     <string name="payment_method_cash">현금</string>
     <string name="payment_method_credit">신용카드</string>
     <string name="payment_method_other">기타</string>
-    <string name="payment_method_wechat">위챗</string>
+    <string name="payment_method_wechat">WeChat</string>
     <string name="payment_month_next">다음달</string>
     <string name="payment_month_prev">지난달</string>
     <string name="payment_pref_basic_category_title">일반 설정</string>
@@ -1080,8 +1080,8 @@
     <string name="payment_pref_source_category_title">구매내역 정보 출처</string>
     <string name="payment_pref_source_mms_summary">문자메시지에서 구매내역 가져오기</string>
     <string name="payment_pref_source_mms_title">문자메시지</string>
-    <string name="payment_pref_source_wechat_summary">위챗에서 구매내역 가져오기</string>
-    <string name="payment_pref_source_wechat_title">위챗</string>
+    <string name="payment_pref_source_wechat_summary">WeChat에서 구매내역 가져오기</string>
+    <string name="payment_pref_source_wechat_title">WeChat</string>
     <string name="payment_privacy_dialog_cancel">나가기</string>
     <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Mi클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
     <string name="payment_privacy_dialog_ok">동의</string>

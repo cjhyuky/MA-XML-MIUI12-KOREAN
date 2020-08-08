@@ -10,7 +10,7 @@
     <string name="battery_technology">배터리 기술:</string>
     <string name="battery_temperature">배터리 온도:</string>
     <string name="battery_voltage">배터리 전압:</string>
-    <string name="Bluetooth_test">블루투스</string>
+    <string name="블루투스_test">블루투스</string>
     <string name="btn_no">아니요</string>
     <string name="btn_yes">예</string>
     <string name="calibrate_button">보정</string>

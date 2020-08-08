@@ -60,11 +60,11 @@
     <string name="miui_feedback_edit_reproductivity_occasionally">때때로</string>
     <string name="miui_feedback_edit_reproductivity_often">종종</string>
     <string name="miui_feedback_edit_reproductivity_once">한 번</string>
-    <string name="miui_feedback_edit_select_images">이미지 또는 짧은 비디오 추가</string>
+    <string name="miui_feedback_edit_select_images">이미지 또는 짧은 동영상 추가</string>
     <string name="miui_feedback_edit_select_modem_log">모뎀 로그 추가</string>
     <string name="miui_feedback_edit_select_modem_log_not_select_desc">"선택하지 않은 \"모뎀 로그 추가\""</string>
     <string name="miui_feedback_edit_select_modem_log_select_desc">선택된 "모뎀 로그 추가\"</string>
-    <string name="miui_feedback_edit_select_original_images">원본 이미지 또는 짧은 비디오 추가</string>
+    <string name="miui_feedback_edit_select_original_images">원본 이미지 또는 짧은 동영상 추가</string>
     <string name="miui_feedback_edit_select_problem">문제</string>
     <string name="miui_feedback_edit_select_problem_not_select_desc">"선택하지 않은 \"문제\""</string>
     <string name="miui_feedback_edit_select_problem_select_desc">선택된 ""문제""</string>
@@ -75,7 +75,7 @@
     <string name="miui_feedback_edit_select_upload_log_not_select_desc">"선택하지 않은 \"로그 추가\""</string>
     <string name="miui_feedback_edit_select_upload_log_select_desc">선택된 \"로그 추가\"</string>
     <string name="miui_feedback_edit_storage_permission_name">장치 저장공간 엑세스</string>
-    <string name="miui_feedback_edit_submit_dialog_cancel">"동의하지 않습니다"</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">"동의하지 않습니다."</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">동의합니다.</string>
     <string name="miui_feedback_edit_submit_dialog_content"><Data>"&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">사용자 동의&lt;/a>에 동의해야합니다. 첨부한 항목(기기 및 네트워크에 대한 정보뿐만 아니라 개인 정보가 포함될 수 있음)과 함께 보고한 문제가 업로드됩니다. MIUI 서버 :보고한 문제를 찾고 해결하는데 도움이됩니다."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"첨부 파일(있는 경우) 및 로그(업로드하지 않을 항목의 해당 상자를 선택 취소 할 수 있음)와 함께 사용자 의견은 MIUI 서버로 전송됩니다. &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">사용자 동의&lt;/a>를 읽고 \"동의\"를 선택하세요."</Data></string>
@@ -87,9 +87,9 @@
     <string name="miui_feedback_edit_toast_module_required">항목 선택</string>
     <string name="miui_feedback_edit_toast_more_desc_required">설명이 더 길어야합니다.</string>
     <string name="miui_feedback_edit_toast_problem_class_required">카테고리 선택</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">"100MB보다 큰 이미지 또는 비디오를 업로드 할 수 없습니다"</string>
+    <string name="miui_feedback_edit_toast_screenshot_too_large">"100MB보다 큰 이미지 또는 동영상을 업로드 할 수 없습니다."</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">앱 이름 입력</string>
-    <string name="miui_feedback_main_answer_title">"이 질문에 대한 답변이 있습니다"</string>
+    <string name="miui_feedback_main_answer_title">"이 질문에 대한 답변이 있습니다."</string>
     <string name="miui_feedback_main_frequent_question_title">FAQ</string>
     <string name="miui_feedback_main_menu_catch_full_log">로그 생성</string>
     <string name="miui_feedback_main_menu_feedback_list">의견 이력보기</string>
@@ -101,7 +101,7 @@
     <string name="miui_feedback_main_submit_dialog_title">의견 제출</string>
     <string name="miui_feedback_main_title">피드백</string>
     <string name="miui_guide_clear_db_service">\"서비스 및 피드백\"에서 언어 캐시를 지우는 중…</string>
-    <string name="miui_guide_footer_desc">"초보자 안내서는 장치 및 MIUI에 대한 자세한 정보를 제공하기 위해 작성되었습니다. 안내서의 일부 이미지 및 비디오는 참조용으로만 만들어졌으며 실제 제품과 다를 수 있습니다. 가이드는 기기 모델, MIUI 버전 및 사용 환경에 따라 다를 수 있습니다."</string>
+    <string name="miui_guide_footer_desc">"초보자 안내서는 장치 및 MIUI에 대한 자세한 정보를 제공하기 위해 작성되었습니다. 안내서의 일부 이미지 및 동영상은 참조용으로만 만들어졌으며 실제 제품과 다를 수 있습니다. 가이드는 기기 모델, MIUI 버전 및 사용 환경에 따라 다를 수 있습니다."</string>
     <string name="miui_guide_item_complete">완료</string>
     <string name="miui_guide_item_new">신규</string>
     <string name="miui_guide_item_progress">%1$d/%2$d 완료됨</string>
@@ -137,7 +137,7 @@
     <string name="public_loading_text">잠시만 기다려주세요…</string>
     <string name="public_net_error_retry">다시 시도</string>
     <string name="public_net_error_sub_title">네트워크 설정을 확인하고 다시 시도하세요.</string>
-    <string name="public_net_error_title">"네트워크에 연결할 수 없습니다"</string>
+    <string name="public_net_error_title">"네트워크에 연결할 수 없습니다."</string>
     <string name="rationale_ask">요청한 권한이 없으면 이 앱이 제대로 작동하지 않을 수 있습니다.</string>
     <string name="rationale_ask_again">요청한 권한이 없으면 이 앱이 제대로 작동하지 않을 수 있습니다. 앱 설정 화면을 열어 앱 권한을 수정합니다.</string>
     <string name="search_menu_title">검색</string>
@@ -156,13 +156,13 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금은 여기까지입니다"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금은 여기까지입니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금은 여기까지입니다."</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"지금은 여기까지입니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드 할 수 없습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드 할 수 없습니다."</string>
     <string name="share_cancel">공유 취소</string>
-    <string name="share_failed">"공유 할 수 없습니다"</string>
-    <string name="share_no_network">"네트워크에 연결할 수 없습니다"</string>
+    <string name="share_failed">"공유 할 수 없습니다."</string>
+    <string name="share_no_network">"네트워크에 연결할 수 없습니다."</string>
     <string name="share_not_install_wechat">WeChat을 먼저 설치하세요.</string>
     <string name="share_not_install_weibo">Weibo를 먼저 설치하세요.</string>
     <string name="share_success">공유 완료</string>

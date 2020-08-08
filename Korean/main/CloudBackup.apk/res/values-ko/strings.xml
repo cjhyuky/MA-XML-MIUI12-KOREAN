@@ -223,13 +223,13 @@
     <string name="btn_restore_continue">어쨌든 복원</string>
     <string name="msg_restore_with_metered_network_pattern">%s개 파일이 다운로드 됩니다."</string>
     <string name="msg_restore_with_metered_network_hint">이 항목을 복원하면 모바일 데이터가 다운로드에 사용됩니다.</string>
-    <string name="msg_restore_start_with_metered_network">"홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다. %s개 파일이 다운로드됩니다"</string>
+    <string name="msg_restore_start_with_metered_network">"홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다. %s개 파일이 다운로드됩니다."</string>
     <string name="title_restore_with_current_network">홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다.</string>
     <string name="restore_network_unconnect">%s (연결 대기중)</string>
     <string name="restore_network_pause">%s (다시 시작하려면 누르세요)</string>
     <string name="restore_detail_title">복원할 항목 선택</string>
     <string name="restore_detail_category_settings">설정</string>
-    <string name="restore_detail_category_apps">홈화면 레이아웃 &amp; 앱</string>
+    <string name="restore_detail_category_apps">홈 화면 레이아웃 &amp; 앱</string>
     <string name="restore_detail_more">더보기</string>
     <string name="restore_app_order_title">복원된 항목의 우선 순위 지정</string>
     <string name="restore_app_order_search_hint">우선 순위를 설정할 항목을 검색하세요.</string>
@@ -243,7 +243,7 @@
     <string name="restore_app_order_finish">완료</string>
     <string name="provision_background_restore_more_data">백그라운드에서 더 많은 항목을 복원하세요.</string>
     <string name="provision_restore_data">항목 복원</string>
-    <string name="hint_restore_cross_space">공간들 사이에 서로 항목을 주고 받으면 홈화면 레이아웃이 잘못 표기될 수 있습니다.</string>
+    <string name="hint_restore_cross_space">공간들 사이에 서로 항목을 주고 받으면 홈 화면 레이아웃이 잘못 표기될 수 있습니다.</string>
     <string name="selected">선택됨</string>
     <string name="unselected">선택안됨</string>
     <string name="backup_failed_reason_network_error">네트워크 오류. 잠시후 다시 시도하세요.</string>

@@ -179,7 +179,7 @@
     <string name="kr_authorization_privacy_policy">개인정보 보호정책 (필수)</string>
     <string name="kr_authorization_select_all">모두 선택</string>
     <string name="kr_authorization_storage">저장소</string>
-    <string name="kr_authorization_storage_desc">저장소에 액세스하고 로그, 이미지 및 비디오를 포함하여 항목을 저장하기 위함</string>
+    <string name="kr_authorization_storage_desc">저장소에 액세스하고 로그, 이미지 및 동영상을 포함하여 항목을 저장하기 위함</string>
     <string name="kr_authorization_summary">법률 문서</string>
     <string name="kr_authorization_user_protocol">사용자 동의 (필수)</string>
     <string name="loading_apps">목록 로딩 중…</string>
@@ -545,7 +545,7 @@
     <string name="feedback_detail_need_content">먼저 컨텐츠 입력</string>
     <string name="feedback_detail_title">세부 사항</string>
     <string name="feedback_detail_upload_generate_log">로그 생성</string>
-    <string name="feedback_detail_upload_image">이미지/비디오 업로드</string>
+    <string name="feedback_detail_upload_image">이미지/동영상 업로드</string>
     <string name="feedback_detail_upload_local_log">파일 업로드</string>
     <string name="feedback_detail_upload_log">로그 업로드</string>
     <string name="feedback_detail_waiting">생성중…</string>
@@ -557,7 +557,7 @@
     <string name="feedback_choose_occurrence_time">시간</string>
     <string name="feedback_hint_optional">선택</string>
     <string name="feedback_title_occurrence_time">선택 시간</string>
-    <string name="failed_to_fetch_fql">"FAQ 정보를 얻을 수 없고 네트워크 연결을 확인할 수 없습니다"</string>
+    <string name="failed_to_fetch_fql">"FAQ 정보를 얻을 수 없고 네트워크 연결을 확인할 수 없습니다."</string>
     <string name="jump_full_log_dialog_cancel">취소</string>
     <string name="jump_full_log_dialog_confirm">생성</string>
     <string name="jump_full_log_dialog_content">"로그를 사용하면 훨씬 더 빨리 보고하려는 문제를 찾아 해결할 수 있습니다. 로그를 생성하여 피드백에 첨부하세요."</string>
@@ -578,7 +578,7 @@
     <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$s 소개
 델타 업데이트 크기 : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">저장소를 사용할 수 없습니다. SD카드를 확인하세요.</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하세요.</string>
     <string name="abc_action_bar_home_description">홈 화면 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
@@ -619,19 +619,19 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"데이터 없음"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"데이터 없음"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려 주세요…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="account_bind_secure_email_title">복구 이메일 추가</string>
     <string name="account_bind_secure_phone_title">복구 전화 번호 추가</string>
     <string name="account_crop_user_avatar">사진 자르기</string>
     <string name="account_empty_user_name">내 계정 사용자 이름을 입력하세요.</string>
-    <string name="account_error_all_space_user_name">"사용자 이름은 공백 문자만 포함할 수 없습니다"</string>
-    <string name="account_error_invalid_user_name">"이름은 &lt;, >, 또는 /를 포함할 수 없습니다"</string>
-    <string name="account_error_longer_user_name">"이름은 20자를 초과 할 수 없습니다"</string>
+    <string name="account_error_all_space_user_name">"사용자 이름은 공백 문자만 포함할 수 없습니다."</string>
+    <string name="account_error_invalid_user_name">"이름은 &lt;, >, 또는 /를 포함할 수 없습니다."</string>
+    <string name="account_error_longer_user_name">"이름은 20자를 초과 할 수 없습니다."</string>
     <string name="account_error_shorter_user_name">이름은 2자 이상이어야 합니다.</string>
     <string name="account_error_user_birthday">입력한 생일이 유효하지 않습니다.</string>
     <string name="account_error_user_name">이 닉네임은 유효하지 않습니다. 다른 것을 시도하세요.</string>
     <string name="account_invalid_user_avatar">이 사진은 유효하지 않습니다. 다른 것을 시도하세요.</string>
-    <string name="account_limit_update_birthday">"지금 생일을 업데이트 할 수 없습니다"</string>
+    <string name="account_limit_update_birthday">"지금 생일을 업데이트 할 수 없습니다."</string>
     <string name="account_no_set">없음</string>
     <string name="account_none_bind_info">없음</string>
     <string name="account_none_user_name">없음</string>
@@ -654,7 +654,7 @@
     <string name="action_add_phone">전화번호 추가</string>
     <string name="action_update_phone">전화번호 변경</string>
     <string name="activate_email_notice">24시간 이내에 계정을 활성화하세요.</string>
-    <string name="activity_not_found_notice">"앱을 찾을 수 없습니다"</string>
+    <string name="activity_not_found_notice">"앱을 찾을 수 없습니다."</string>
     <string name="add_to_trust_device">신뢰할 수 있는 기기입니다.</string>
     <string name="auth_fail_warning">세션이 만료되었습니다. 다시 로그인하세요.</string>
     <string name="bind_sign_in_title">미 계정 추가</string>
@@ -663,7 +663,7 @@
     <string name="change_activate_email">이메일 주소 변경</string>
     <string name="change_password">비밀번호 변경</string>
     <string name="choose_to_signin">예</string>
-    <string name="choose_to_signup">"아니오, 하나 만들겠습니다"</string>
+    <string name="choose_to_signup">"아니오, 하나 만들겠습니다."</string>
     <string name="collect_diagnosis_log">로그 수집</string>
     <string name="confirm_activate_email">확인됨</string>
     <string name="confirm_bundled_phone_dialog_title">관련 전화번호 확인</string>
@@ -685,8 +685,8 @@ ID : %s
     <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="goto_sign_up">계정 만들기</string>
     <string name="identity">식별</string>
-    <string name="inconsistent_pwd">"비밀번호가 일치하지 않습니다"</string>
-    <string name="input_email_address_notice">"이 이메일을 사용하여 계정을 확인합니다"</string>
+    <string name="inconsistent_pwd">"비밀번호가 일치하지 않습니다."</string>
+    <string name="input_email_address_notice">"이 이메일을 사용하여 계정을 확인합니다."</string>
     <string name="input_new_pwd">새 비밀번호 입력</string>
     <string name="isornot_your_mi_account">내 계정이 맞습니까?</string>
     <string name="just_a_second">잠깐만…</string>
@@ -698,10 +698,10 @@ ID : %s
     <string name="no_phone">전화 번호 없음</string>
     <string name="passport_activate_token_expired">인증 코드가 만료되었습니다. 다시 시도하세요.</string>
     <string name="passport_close">닫기</string>
-    <string name="passport_empty_password">"비밀번호는 비워 둘 수 없습니다"</string>
-    <string name="passport_empty_user_name">"사용자 이름은 비워 둘 수 없습니다"</string>
+    <string name="passport_empty_password">"비밀번호는 비워 둘 수 없습니다."</string>
+    <string name="passport_empty_user_name">"사용자 이름은 비워 둘 수 없습니다."</string>
     <string name="passport_error_auth_fail">세션이 만료되었습니다. 다시 로그인하세요.</string>
-    <string name="passport_error_empty_pwd">"비밀번호는 비워 둘 수 없습니다"</string>
+    <string name="passport_error_empty_pwd">"비밀번호는 비워 둘 수 없습니다."</string>
     <string name="passport_error_empty_voice_code">보안 문자 입력</string>
     <string name="passport_error_no_password_user">"비밀번호를 아직 설정하지 않았습니다. SMS로 로그인하세요."</string>
     <string name="passport_error_unknown">알 수 없는 오류</string>
@@ -730,7 +730,7 @@ ID : %s
     <string name="passport_unknow_error">알 수없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_host_network_error">네트워크 설정을 확인하고 다시 시도하세요.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
-    <string name="passport_user_agreement_link">"샤오미의 사용자 계약 및 개인 정보 보호 정책을 읽고 동의합니다"</string>
+    <string name="passport_user_agreement_link">"샤오미의 사용자 계약 및 개인 정보 보호 정책을 읽고 동의합니다."</string>
     <string name="passport_user_agreement_link_more">샤오미의 사용자 계약 및 개인 정보 보호 정책을 읽었으며 이에 동의합니다. "</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
     <string name="passport_v_code_error">확인 코드가 잘못되었습니다.</string>
@@ -749,7 +749,7 @@ ID : %s
     <string name="restart_action">다시 시작</string>
     <string name="restart_phone_bind_message">SMS를 수신하는 데 시간이 걸릴 수 있습니다. 어쨌든 다시 시작하시겠습니까?</string>
     <string name="restart_phone_bind_title">복구 전화 변경</string>
-    <string name="same_new_and_old_pwd">"현재 비밀번호와 같을 수 없습니다"</string>
+    <string name="same_new_and_old_pwd">"현재 비밀번호와 같을 수 없습니다."</string>
     <string name="send_diagnosis_log">로그 보내기</string>
     <string name="send_email_activate_message">확인 이메일을 성공적으로 보냈습니다.</string>
     <string name="sending">보내기…</string>
@@ -762,7 +762,7 @@ ID : %s
     <string name="sns_access_token_expired_warning">세션이 만료되었습니다. 이 계정을 다시 연결하려면 다시 로그인하세요.</string>
     <string name="sns_bind_limit">너무 많은 시도가 있습니다. 다른 방법으로 로그인 해보세요.</string>
     <string name="sns_sign_in">다른 로그인 방법</string>
-    <string name="temporary_not_available">"이 기능은 아직 사용할 수 없습니다"</string>
+    <string name="temporary_not_available">"이 기능은 아직 사용할 수 없습니다."</string>
     <string name="ticket_hint">확인 코드</string>
     <string name="ticket_invalid">입력 한 코드가 잘못되었습니다.</string>
     <string name="ticket_sign_in">SMS를 통해 로그인</string>

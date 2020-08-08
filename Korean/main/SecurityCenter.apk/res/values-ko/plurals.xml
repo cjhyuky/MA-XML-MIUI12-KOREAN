@@ -316,11 +316,11 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d개 게임 추가되지 않음</item>
     </plurals>
-         <plurals name="bg_network_allow_count">
+        <plurals name="bg_network_allow_count">
         <item quantity="other">%d개의 앱이 백그라운드에서 네트워크 접속을 사용합니다.</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d개의 앱이 백그라운드에서 네트워크 접속을 할 수 없습니다"</item>
+        <item quantity="other">"%d개의 앱이 백그라운드에서 네트워크 접속을 할 수 없습니다."</item>
     </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">"%d개의 앱이 네트워크 접속 제한됨"</item>
@@ -377,8 +377,8 @@
         <item quantity="other">항목</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">"앱 %d개의 아이콘이 숨겨져있지 않습니다"</item>
-        <item quantity="one">"앱 %d개의 아이콘이 숨겨져있지 않습니다"</item>
+        <item quantity="other">"앱 %d개의 아이콘이 숨겨져있지 않습니다."</item>
+        <item quantity="one">"앱 %d개의 아이콘이 숨겨져있지 않습니다."</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">앱 %d개에 대한 숨겨진 홈 아이콘</item>

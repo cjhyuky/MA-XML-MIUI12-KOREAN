@@ -27,13 +27,13 @@
     <string name="first_settings_subtitle">사용 가능한 보안 공유 옵션은 다음과 같습니다.</string>
     <string name="first_settings_title">개인 정보 보호</string>
     <string name="loading_text_format" formatted="false">사진에서 개인 정보 제거(%d/%d)…</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로 고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로 고침 완료</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로 고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로 고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">데이터 없음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">그렇지 않습니다.</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로 고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정되지 않음</string>
     <string name="once_settings_camera_ttile">메타 데이터없이 공유</string>

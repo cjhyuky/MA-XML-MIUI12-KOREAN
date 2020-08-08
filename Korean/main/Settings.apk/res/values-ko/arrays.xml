@@ -571,7 +571,7 @@
         <item>표준</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>잠금화면</item>
+        <item>잠금 화면</item>
         <item>정보 보호 비밀번호</item>
         <item>어린이 모드</item>
         <item>파일 탐색기</item>
@@ -1181,7 +1181,7 @@
         <item>인증하는 중...</item>
         <item>IP 주소를 가져오는 중...</item>
         <item>연결됨</item>
-        <item>일시 정지됨</item>
+        <item>일시 중지됨</item>
         <item>연결을 끊는 중…</item>
         <item>연결 끊김</item>
         <item>실패</item>
@@ -1195,7 +1195,7 @@
         <item>%1$s에서 인증하는 중...</item>
         <item>%1$s에서 IP 주소를 가져오는 중...</item>
         <item>%1$s에 연결됨</item>
-        <item>일시 정지됨</item>
+        <item>일시 중지됨</item>
         <item>%1$s에서 연결을 끊는 중...</item>
         <item>연결 끊김</item>
         <item>실패</item>
@@ -1220,12 +1220,12 @@
         <item>OpenGL(기본)</item>
         <item>OpenGL(스키아)</item>
     </string-array>
-         <string-array name="trans_cancel_survey_title">
+    <string-array name="trans_cancel_survey_title">
         <item>전송 시간이 오래 걸립니다.</item>
         <item>연결이 중단되었습니다.</item>
         <item>전송할 항목을 잘못 선택했습니다.</item>
         <item>단계가 너무 많습니다.</item>
-        <item>"배터리가 부족합니다"</item>
+        <item>"배터리가 부족합니다."</item>
         <item>전송된 항목이 손상되었습니다.</item>
         <item>실수로 전송을 시작했습니다.</item>
         <item>기타</item>
@@ -1307,7 +1307,7 @@
     <string-array name="aggregate_summaries">
         <item>프로모션 및 콘텐츠 관련 푸시 알림이 그룹화됩니다.</item>
         <item>푸시 알림이 그룹화되어 다른 알림 아래에 표시됩니다.</item>
-        <item>"푸시 알림이 그룹화되지 않습니다"</item>
+        <item>"푸시 알림이 그룹화되지 않습니다."</item>
     </string-array>
     <string-array name="charge_animation_style_entries">
         <item>꺼짐</item>
@@ -1315,7 +1315,7 @@
         <item>빛</item>
         <item>파도</item>
     </string-array>
-     <string-array name="paper_color_values">
+    <string-array name="paper_color_values">
          <item>풀 컬러</item>
          <item>밝은 컬러</item>
          <item>흑백</item>

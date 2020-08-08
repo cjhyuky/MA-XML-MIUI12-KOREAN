@@ -70,8 +70,8 @@
     <string name="BLESet">설정</string>
     <string name="BLEStart">시작</string>
     <string name="BLEStop">중지</string>
-    <string name="Bluetooth">블루투스</string>
-    <string name="BluetoothTitle">블루투스</string>
+    <string name="블루투스">블루투스</string>
+    <string name="블루투스Title">블루투스</string>
     <string name="BT_start">시작</string>
     <string name="c2k_ir_dialog">알림</string>
     <string name="c2k_ir_done">완료</string>
@@ -162,7 +162,7 @@
     <string name="hqa_nfc_company">회사:</string>
     <string name="hqa_nfc_dialog_wait_title">대기 중</string>
     <string name="hqa_nfc_dialog_warn">오류</string>
-    <string name="hqa_nfc_pause">일시정지</string>
+    <string name="hqa_nfc_pause">일시 중지</string>
     <string name="hqa_nfc_payload">페이로드:</string>
     <string name="hqa_nfc_result">결과</string>
     <string name="hqa_nfc_return">반송</string>
@@ -241,7 +241,7 @@
     <string name="NFC_SoftwareStack_Secure_Ele_Info">정보</string>
     <string name="NFC_SoftwareStack_Secure_Ele_SetMode_Ele_OFF">끔</string>
     <string name="NFC_SoftwareStack_Secure_Ele_SetMode_Set">설정</string>
-    <string name="not_enough_space">SD카드 용량이 다 찼습니다.</string>
+    <string name="not_enough_space">SD 카드 용량이 다 찼습니다.</string>
     <string name="NSRX_StartTest">시작</string>
     <string name="oem_radio_info_label">OEM별 정보/설정</string>
     <string name="off">끔</string>
@@ -296,7 +296,7 @@
     <string name="radio_info_smsc_update_label">업데이트</string>
     <string name="radio_info_toggle_dns_check_label">DNS 확인 선택</string>
     <string name="reset_title">초기화</string>
-    <string name="rf_desense_button_pause">일시정지</string>
+    <string name="rf_desense_button_pause">일시 중지</string>
     <string name="rf_desense_button_start">시작</string>
     <string name="rf_desense_button_stop">중지</string>
     <string name="rf_desense_pattern">패턴</string>
@@ -304,7 +304,7 @@
     <string name="RxSetPwr">설정</string>
     <string name="RxStart">시작</string>
     <string name="RxStop">중지</string>
-    <string name="sd_card_test">SD카드 테스트</string>
+    <string name="sd_card_test">SD 카드 테스트</string>
     <string name="sensor_ps_change_threshold_set">설정</string>
     <string name="Settings">설정</string>
     <string name="settings_fs_ok">확인</string>
@@ -921,7 +921,7 @@
     <string name="auto_clibr_cp_num_setting">캡쳐 번호 설정</string>
     <string name="auto_clibr_cp_size_setting">캡쳐 크기 설정</string>
     <string name="auto_clibr_cp_type_setting">캡쳐 유형 설정</string>
-    <string name="auto_clibr_cp_video_clip_setting">비디오 클립으로 설정</string>
+    <string name="auto_clibr_cp_video_clip_setting">동영상 클립으로 설정</string>
     <string name="auto_clibr_flash_calibration">플래시 캘리브레이션</string>
     <string name="auto_clibr_full_scan_frame_interval">프레임 간격</string>
     <string name="auto_clibr_full_scan_wait_time">대기 시간 (0~1000ms)</string>
@@ -938,7 +938,7 @@
     <string name="auto_clibr_mfll_count_range_tip">Mfll값이 1~8 사이여야 합니다.</string>
     <string name="auto_clibr_multi_frame">MFLL</string>
     <string name="auto_clibr_output_sdblk_file">sdblk 출력 파일</string>
-    <string name="auto_clibr_sdcard_tips">SD카드를 확인해 주세요.</string>
+    <string name="auto_clibr_sdcard_tips">SD 카드를 확인해 주세요.</string>
     <string name="auto_clibr_shading_table">음영표</string>
     <string name="auto_clibr_shutter_delay">셔터 딜레이</string>
     <string name="auto_clibr_veri_awb_mtk">MTK</string>
@@ -948,7 +948,7 @@
     <string name="auto_clibr_veri_shading_sensor">SENSOR</string>
     <string name="auto_clibr_verification_awb">AWB 확인</string>
     <string name="auto_clibr_verification_shading">음영 확인</string>
-    <string name="auto_clibr_video_clip">비디오 클립 로우파일</string>
+    <string name="auto_clibr_video_clip">동영상 클립 로우파일</string>
     <string name="auto_clibr_video_clip_2K4K">4K2K 해상도로 사이즈 조정</string>
     <string name="auto_clibr_video_clip_2M">2M 해상도로 사이즈 조정</string>
     <string name="auto_clibr_video_clip_center_2M">2M 해상도로 사이즈 조정 및 중앙으로 모으기</string>
@@ -1006,7 +1006,7 @@
     <string name="camera_ev">EV</string>
     <string name="camera_ev_calibr_input_tip">LV(10 based) : </string>
     <string name="camera_ev_calibration">EV 캘리브레이션</string>
-    <string name="camera_help_msg">"Feature name :    Camera.AF EM item used to set capture auto focus mode. Raw Capture Mode item used to select raw capture mode.Raw Type item used to select store what kind of raw file.Flicker item used to set camera's Anti-fiicker value.ISO item used to set camera's iso value. Start Preview item to open the camera and start camera preview, in the preview page, press Capture button will take picture(s) with the previous settings. The picture(s) will be store in the path :    SDCard//DCIM//EMCamera."</string>
+    <string name="camera_help_msg">"Feature name :  Camera.AF EM item used to set capture auto focus mode. Raw Capture Mode item used to select raw capture mode.Raw Type item used to select store what kind of raw file.Flicker item used to set camera's Anti-fiicker value.ISO item used to set camera's iso value. Start Preview item to open the camera and start camera preview, in the preview page, press Capture button will take picture(s) with the previous settings. The picture(s) will be store in the path :    SDCard//DCIM//EMCamera."</string>
     <string name="camera_strobe_duty">스트로브</string>
     <string name="cannot_connect_camera">"카메라에 연결할 수 없습니다.."</string>
     <string name="capture">캡쳐 : </string>
@@ -1077,8 +1077,8 @@
     <string name="dcm_lpm_invalid_good_dur">유효하지 않은 주기</string>
     <string name="dcm_lpm_longest_high">LONGEST HIGH</string>
     <string name="dcm_lpm_low2high">LOW2HIGH</string>
-    <string name="dcm_lpm_operate_error_code">경고 :    에러 코드 </string>
-    <string name="dcm_lpm_ref_clk_note">주의 :    104M -> 최대 20.64s</string>
+    <string name="dcm_lpm_operate_error_code">경고 :  에러 코드 </string>
+    <string name="dcm_lpm_ref_clk_note">주의 :  104M -> 최대 20.64s</string>
     <string name="dcm_lpm_total_time">소요 시간</string>
     <string name="dcm_operate_success">성공</string>
     <string name="dcm_text_0x">0x</string>
@@ -1278,8 +1278,8 @@
     <string name="hqa_cpustress_dvfs_op_7">OPP7</string>
     <string name="hqa_cpustress_dvfs_stopping_message">잠시만 기다려주세요...</string>
     <string name="hqa_cpustress_force_core0_run">강제 코어 0: 동작</string>
-    <string name="hqa_cpustress_help_msg">"기능 이름 : CPU 스트레스 테스트 - CPU 스트레스 테스트를 수행하는 데 사용됩니다. 단일 코어 및 이중 코어를 지원합니다. 테스트 용으로 3 가지 항목이 있습니다 : AP MCU, SW 비디오 코덱, 클록 스위치. AP MCU : NEON 테스트 및 MaxPower 테스트가 포함됩니다. SW 비디오 코덱 : 소프트웨어 비디오 코덱 테스트를 실행합니다. 클럭 스위치 : CLKSQ와 ARMPLL 사이에서 CA9 클럭을 전환합니다."</string>
-    <string name="hqa_cpustress_help_msg_new">"기능 이름 : CPU 스트레스 테스트 - CPU 스트레스 테스트를 수행하는 데 사용됩니다. 싱글 코어, 듀얼 코어 및 쿼드 코어를 지원합니다. 테스트 용으로 3 가지 항목이 있습니다 : AP MCU, SW 비디오 코덱, 클록 스위치. AP MCU : VFP 테스트, MaxPower 테스트, Dhrystone 테스트, L2 MEMCPY 테스트, FDCT 테스트 및 IMDCT 테스트가 포함됩니다. SW 비디오 코덱 : 소프트웨어 비디오 코덱 테스트를 실행합니다. 클럭 스위치 : CLKSQ와 ARMPLL 사이의 스위치 클럭."</string>
+    <string name="hqa_cpustress_help_msg">"기능 이름 : CPU 스트레스 테스트 - CPU 스트레스 테스트를 수행하는 데 사용됩니다. 단일 코어 및 이중 코어를 지원합니다. 테스트 용으로 3 가지 항목이 있습니다 : AP MCU, SW 동영상 코덱, 클록 스위치. AP MCU : NEON 테스트 및 MaxPower 테스트가 포함됩니다. SW 동영상 코덱 : 소프트웨어 동영상 코덱 테스트를 실행합니다. 클럭 스위치 : CLKSQ와 ARMPLL 사이에서 CA9 클럭을 전환합니다."</string>
+    <string name="hqa_cpustress_help_msg_new">"기능 이름 : CPU 스트레스 테스트 - CPU 스트레스 테스트를 수행하는 데 사용됩니다. 싱글 코어, 듀얼 코어 및 쿼드 코어를 지원합니다. 테스트 용으로 3 가지 항목이 있습니다 : AP MCU, SW 동영상 코덱, 클록 스위치. AP MCU : VFP 테스트, MaxPower 테스트, Dhrystone 테스트, L2 MEMCPY 테스트, FDCT 테스트 및 IMDCT 테스트가 포함됩니다. SW 동영상 코덱 : 소프트웨어 동영상 코덱 테스트를 실행합니다. 클럭 스위치 : CLKSQ와 ARMPLL 사이의 스위치 클럭."</string>
     <string name="hqa_cpustress_main_force_core">강제 작동 코어</string>
     <string name="hqa_cpustress_name">CPU 스트레스 테스트</string>
     <string name="hqa_cpustress_radiobutton_dual">강제 듀얼 코어</string>
@@ -1292,7 +1292,7 @@
     <string name="hqa_cpustress_result_no_test">---</string>
     <string name="hqa_cpustress_swvideo_iteration">반복</string>
     <string name="hqa_cpustress_swvideo_loopcount">반복횟수</string>
-    <string name="hqa_cpustress_swvideo_name">SW 비디오 코덱</string>
+    <string name="hqa_cpustress_swvideo_name">SW 동영상 코덱</string>
     <string name="hqa_cpustress_test_toast_threadhandler_error">오류</string>
     <string name="hqa_cpustress_toast_item_error">오류</string>
     <string name="hqa_cpustress_toast_load_notsupport">오류</string>
@@ -1319,7 +1319,7 @@
     <string name="hqa_nfc_dialog_wait_message">잠시만 기다려주세요...</string>
     <string name="hqa_nfc_dialog_warn_message">NFC를 먼저 꺼주세요.</string>
     <string name="hqa_nfc_disable_card_emul">카드 에뮬레이션 비활성화</string>
-    <string name="hqa_nfc_dual_subcarrier">듀얼심</string>
+    <string name="hqa_nfc_dual_subcarrier">듀얼 SIM</string>
     <string name="hqa_nfc_emulat_virtual_card">가상 SIM 카드 기능</string>
     <string name="hqa_nfc_function_read">읽기</string>
     <string name="hqa_nfc_function_write">쓰기</string>

@@ -222,7 +222,7 @@
     <string name="attachment_text">텍스트</string>
     <string name="attachment_type_blocked">안타깝게도 이 유형의 첨부파일은 저장하거나 열 수 없습니다.</string>
     <string name="attachment_unknown">%s 파일</string>
-    <string name="attachment_video">비디오</string>
+    <string name="attachment_video">동영상</string>
     <string name="attachments_header">첨부파일</string>
     <string name="auto_advance_help_title">메시지 삭제 후 보기…</string>
     <string name="auto_advance_label">메시지 흐름 삭제</string>
@@ -1185,7 +1185,7 @@
     <string name="dialog_agree">동의함</string>
     <string name="dialog_disagree">동의하지 않음</string>
     <string name="list_empty_to_fresh">메일 없음, 아래로 당겨서 새로고침하세요.</string>
-    <string name="notify_channel_no_disterb">방해금지 모드</string>
+    <string name="notify_channel_no_disterb">방해 금지 모드</string>
     <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 장치 정보가 들어있습니다. 샤오미의 %2$s 사항을 읽고 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
     <string name="notify_channel_service">백그라운드 동기화 알림</string>
     <string name="appraise_des">우리는 귀하의 만족을 위해서 제품 개발을 열심히 하고 있습니다. 의견을 보내 주시길 바랍니다.</string>
@@ -1208,7 +1208,7 @@
     <string name="contact_add_options_details1">모두</string>
     <string name="contact_add_options_details2">받는 사람만</string>
     <string name="get_oauth_code">코드 가져오기</string>
-    <string name="help_weixin_title">"질문이 있으시면, 언제든지 공식 위챗 계정에 대화를 남겨주세요: "</string>
+    <string name="help_weixin_title">"질문이 있으시면, 언제든지 공식 WeChat 계정에 대화를 남겨주세요: "</string>
     <string name="login_qq_psw">코드로 로그인</string>
     <string name="mi_sync_erroe_toast">"네트워크 에러 발생: "</string>
     <string name="mi_sync_erroe_toast_other">"네트워크 에러 발생: "</string>
@@ -1225,13 +1225,13 @@
     <string name="attachment_opening_mode">첨부 파일 앱</string>
     <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>
     <string name="account_options_actionbar_title">계정 설정</string>
-    <string name="mail_outlook_login_tips">"비밀번호를 입력하도록 마이크로소프트로 리디렉션됩니다"</string>
+    <string name="mail_outlook_login_tips">"비밀번호를 입력하도록 마이크로소프트로 리디렉션됩니다."</string>
     <string name="mail_outlook_oauth_login">OAuth로 로그인</string>
     <string name="mail_outlook_psw_login">비밀번호로 로그인</string>
-    <string name="outlook_login_failed_non_proxy_title">"아웃룩 서버에 액세스할 수 없습니다"</string>
+    <string name="outlook_login_failed_non_proxy_title">"아웃룩 서버에 액세스할 수 없습니다."</string>
     <string name="quick_reply_expend">기타</string>
     <string name="sync_calendra_fail_per_content">탭하여 허용</string>
-    <string name="sync_calendra_fail_per_title">"캘린더 일정을 동기화 할 수 없습니다"</string>
+    <string name="sync_calendra_fail_per_title">"캘린더 일정을 동기화 할 수 없습니다."</string>
     <string name="sync_calendra_fail_permission">"캘린더 일정을 동기화할 수 없습니다. 먼저 메일 앱의 캘린더 접근 권한을 허용하세요."</string> <string name="account_add_title">이메일 서비스 선택</string>
     <string name="account_setup_basics_password_label_authcode">암호 또는 확인 코드 입력</string>
     <string name="account_setup_options_mail_check_frequency_15min">매 15분마다</string>
@@ -1239,7 +1239,7 @@
     <string name="all_purpose">메일 앱에 오신 것을 환영합니다. 이 앱은 킹소프트가 개발한 샤오미 전용 이메일 클라이언트로, 이메일을 작성하고 보내거나 받을 수 있습니다.</string>
     <string name="confirm_age">연령 확인</string>
     <string name="delete_contact_content">지금이 연락처를 삭제하시겠습니까?</string>
-    <string name="email_sync_failed">"메일을 동기화 할 수 없습니다"</string>
+    <string name="email_sync_failed">"메일을 동기화 할 수 없습니다."</string>
     <string name="login_err_message">이 옵션을 이전에 선택한 경우 인증 된 암호를 사용하여 %1$s에 로그인하세요. 비밀번호 또는 비밀번호를 다시 설정하려면 https://email.163.com/으로 이동하세요.</string>
     <string name="login_err_sina_message">이 옵션을 이전에 선택한 경우 인증 된 암호를 사용하여 %1$s에 로그인하세요. 비밀번호 또는 비밀번호를 다시 설정하려면 https://mail.sina.com.cn/으로 이동하세요.</string>
     <string name="login_failed_tip">"WeChat으로 문의하세요:"</string>
@@ -1282,7 +1282,7 @@
     <string name="account_smime_encrypt">S/MIME 암호화</string>
     <string name="account_smime_install_cert">인증서 추가</string>
     <string name="account_smime_sign">S/MIME 서명</string>
-    <string name="certificate_add_failed">"\"%s\"인증서를 추가할 수 없습니다"</string>
+    <string name="certificate_add_failed">"\"%s\"인증서를 추가할 수 없습니다."</string>
     <string name="certificate_added">\"%s\"인증서 추가</string>
     <string name="certificate_alias_prompt_certificate_name">이름</string>
     <string name="certificate_alias_prompt_title">이 인증서 이름 지정</string>
@@ -1300,7 +1300,7 @@
     <string name="obtain_new_auth_code">새로운 코드 요청</string>
     <string name="qq_changepw_dialog_tips">로그인 할 %s에서 새 코드를 가져옵니다.</string>
     <string name="send_encrypt_dialog_fail_content">"받는 사람에게이 이메일을 암호화하는 데 필요한 신뢰할 수 있는 인증서가 없는 것 같습니다. 대신 일반 이메일을 보낼까요?"</string>
-    <string name="send_encrypt_dialog_fail_title">"암호화 된 이메일을 보낼 수 없습니다"</string>
+    <string name="send_encrypt_dialog_fail_title">"암호화 된 이메일을 보낼 수 없습니다."</string>
     <string name="user_new_auth_code">새로운 코드로 로그인</string>
     <string name="xiaomi_email">메일</string>
     <string name="xiaomi_under_certification">인증중…</string>

@@ -177,14 +177,14 @@
     <string name="ct_wap_name">CTWAP</string>
     <string name="hdmi_notification_title">HDMI 케이블이 연결됨</string>
     <string name="hdmi_notification_content">클릭하여 HDMI 구성</string>
-    <string name="hdmi_hdvideo_toast">HDMI는 4K 비디오를 재생할 수 없습니다. 연결이 중단됩니다.</string>
+    <string name="hdmi_hdvideo_toast">HDMI는 4K 동영상을 재생할 수 없습니다. 연결이 중단됩니다.</string>
     <string name="hdmi_mutex_call_content">죄송합니다. 현재 전화 통화 때문에 HDMI가 중지되었습니다.</string>
     <string name="hdmi_audio_output">오디오 출력</string>
     <string name="hdmi_audio_output_stereo">스테레오</string>
     <string name="hdmi_audio_output_multi_channel">멀티 채널</string>
     <string name="Default_Account_Selection_Content">기본 계정 선택</string>
     <string name="media_info_audio_not_supported">오디오 재생이 실패했습니다.</string>
-    <string name="media_info_video_not_supported">이 비디오는 지원되지 않습니다.</string>
+    <string name="media_info_video_not_supported">이 동영상은 지원되지 않습니다.</string>
     <string name="save_password_label">확인</string>
     <string name="save_password_message">브라우저에 이 비밀번호를 저장하시겠습니까?</string>
     <string name="save_password_notnow">나중에</string>
@@ -262,7 +262,7 @@
     <string name="drm_expire_dialog_future">유효 기간 : </string>
     <string name="drm_first_time_use">처음 사용하는 앱입니다.</string>
     <string name="drm_use_now">지금 사용하시겠습니까?</string>
-    <string name="gallery_camera_mutex">갤러리 앱을 실행할 수 없습니다. 카메라와 비디오 플레이어를 동시에 사용하지 마세요.</string>
+    <string name="gallery_camera_mutex">갤러리 앱을 실행할 수 없습니다. 카메라와 동영상 플레이어를 동시에 사용하지 마세요.</string>
     <string name="hdmi_replace_hdmi">HDMI</string>
     <string name="logo">앱 로고 아이콘</string>
     <string name="maximum">앱 최대화</string>

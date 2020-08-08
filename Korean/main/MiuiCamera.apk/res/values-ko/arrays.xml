@@ -1,5 +1,5 @@
 <resources>
-     <string-array name="ai_scene_names">
+    <string-array name="ai_scene_names">
         <item>없음</item>
         <item>문서</item>
         <item>꽃</item>

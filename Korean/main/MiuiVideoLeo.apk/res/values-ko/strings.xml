@@ -40,8 +40,8 @@
     <string name="app_name">동영상</string>
     <string name="app_plugin_ready">%1$s 설치됨</string>
     <string name="app_update_background">백그라운드에서 앱 업데이트</string>
-    <string name="app_upgrade_hint">HD 온라인 비디오를 보시려면 클릭하세요.</string>
-    <string name="app_upgrade_title">Mi비디오가 이미 최신 버젼입니다.</string>
+    <string name="app_upgrade_hint">HD 온라인 동영상을 보시려면 클릭하세요.</string>
+    <string name="app_upgrade_title">Mi동영상이 이미 최신 버젼입니다.</string>
     <string name="app_upgrade_version">업데이트 가능함</string>
     <string name="app_version">버젼</string>
     <string name="app_wifi_mode">자동 업데이트</string>
@@ -53,22 +53,22 @@
     <string name="avg_score">%.1f</string>
     <string name="bestv">Bestv</string>
     <string name="birthday">생일</string>
-    <string name="bmp_quality_mode">비디오 품질 향상</string>
-    <string name="bmp_quality_mode_desc">"비디오의 품질을 향상합니다"</string>
+    <string name="bmp_quality_mode">동영상 품질 향상</string>
+    <string name="bmp_quality_mode_desc">"동영상의 품질을 향상합니다."</string>
     <string name="buffering">버퍼링 중…</string>
     <string name="buffering_video_netplay_label_v5">버퍼링 중…</string>
     <string name="buy_vip">vip 구입</string>
     <string name="cancel">취소</string>
     <string name="cancel_favorite_success">즐겨찾기 취소</string>
     <string name="check_app_version">업데이트 확인중…</string>
-    <string name="check_network">"네트워크에 접속할 수 없습니다"</string>
+    <string name="check_network">"네트워크에 접속할 수 없습니다."</string>
     <string name="clarity_high">높음</string>
     <string name="clarity_standard">보통</string>
     <string name="clarity_supper">최대</string>
     <string name="clarity_unknown">알 수 없음</string>
     <string name="clear_cache">캐시 이미지 삭제</string>
     <string name="clear_cache_success">캐시 삭제 완료</string>
-    <string name="clear_cache_summary">비디오 앱에 캐시된 이미지 삭제</string>
+    <string name="clear_cache_summary">동영상 앱에 캐시된 이미지 삭제</string>
     <string name="clear_search_history">검색 기록 삭제</string>
     <string name="click_star_rate">평점을 입력하시려면 탭하세요.</string>
     <string name="click_to_login">탭하여 로그인</string>
@@ -90,20 +90,20 @@
     <string name="count_ji_quan">모든 %d개 에피소드</string>
     <string name="count_qi">에피소드 %s개</string>
     <string name="data_buffering">버퍼링중…</string>
-    <string name="datastream_alert_download">모바일 데이터로 비디오를 다운로드하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
+    <string name="datastream_alert_download">모바일 데이터로 동영상을 다운로드하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
     <string name="datastream_alert_hint">언제든지 설정에서 모바일 데이터 스트리밍을 끌 수 있습니다.</string>
     <string name="datastream_alert_negative_button">취소</string>
-    <string name="datastream_alert_play">모바일 데이터로 비디오를 시청하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
+    <string name="datastream_alert_play">모바일 데이터로 동영상을 시청하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
     <string name="datastream_alert_positive_button">계속하기</string>
     <string name="datastream_alert_title">데이터 사용 경고</string>
     <string name="day">일</string>
     <string name="debug_mode">디버그 모드</string>
-    <string name="debug_mode_desc">디버그 모드로 앱을 실행하고 왼쪽 상단 코너에 비디오 ID를 보여줍니다.</string>
+    <string name="debug_mode_desc">디버그 모드로 앱을 실행하고 왼쪽 상단 코너에 동영상 ID를 보여줍니다.</string>
     <string name="declaration">서비스 약관</string>
     <string name="declaration_allow">동의</string>
-    <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 비디오, iQiyi, 그리고 다른 컨텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
+    <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 동영상, iQiyi, 그리고 다른 컨텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
 2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 컨텐츠의 일부 데이터를 수집할 것입니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집할 것입니다.&amp;#8203;
-3. 저희의 HD 비디오 플러그인이 자동으로 설치될 것입니다.
+3. 저희의 HD 동영상 플러그인이 자동으로 설치될 것입니다.
 4. 이 어플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다."</string>
     <string name="declaration_content_td_custom">이 어플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다.</string>
     <string name="defaults">기본</string>
@@ -198,9 +198,9 @@
     <string name="loading_video_netplay_label">로드 중…</string>
     <string name="loading_video_netplay_label_v5">로드 중…</string>
     <string name="local_favorite_empty_title">비어있음</string>
-    <string name="local_media_empty_sub_title">다운로드하여 오프라인으로 비디오 시청</string>
-    <string name="local_media_empty_title">비디오 없음</string>
-    <string name="local_video">로컬 비디오</string>
+    <string name="local_media_empty_sub_title">다운로드하여 오프라인으로 동영상 시청</string>
+    <string name="local_media_empty_title">동영상 없음</string>
+    <string name="local_video">로컬 동영상</string>
     <string name="login_tip_content">Mi 계정에 로그인하여 현재 진행 중인 쇼를 동기화하고 업데이트하세요.</string>
     <string name="login_tip_title">로그인</string>
     <string name="media_name_comment">%s개의 리뷰</string>
@@ -237,11 +237,11 @@
     <string name="not_exist_openid">계정 정보 가져오는중, 잠시만 기다려주세요...</string>
     <string name="not_login">로그인 되지 않음</string>
     <string name="notification_sub_title">총 %d개의 다운로드가 완료됨</string>
-    <string name="notification_ticker_text">오프라인 비디오 다운로드 완료</string>
+    <string name="notification_ticker_text">오프라인 동영상 다운로드 완료</string>
     <string name="notification_title">\"%s\" 다운로드 완료</string>
     <string name="nowifi_alert_dialog_continue">확인</string>
     <string name="nowifi_alert_dialog_exit">취소</string>
-    <string name="nowifi_alert_dialog_message">모바일 데이터 연결을 사용하여 비디오를 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
+    <string name="nowifi_alert_dialog_message">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="nowifi_alert_dialog_title">데이터 사용량 경고</string>
     <string name="offline">오프라인</string>
     <string name="offline_add_queue_fail">"\"%1$s\" 다운로드 실패"</string>
@@ -249,13 +249,13 @@
     <string name="offline_alert_wifi">WI-FI에 연결되면 다운로드가 시작됩니다.</string>
     <string name="offline_already_in">\"%1$s\" 다운로드 대기중</string>
     <string name="offline_created_order">추가된 \"%1$s\" 이미 다운로드 대기중</string>
-    <string name="offline_loaded">오프라인 비디오</string>
+    <string name="offline_loaded">오프라인 동영상</string>
     <string name="offline_loading">오프라인</string>
     <string name="offline_max_promote">캐시를 기다리는 중, 동시에 최대 2개의 캐싱 작업을 할 수 있습니다.</string>
     <string name="offline_media_empty_title">비어있음</string>
     <string name="offline_no_avail_item_hint">다운로드할 수 있는 에피소드가 없습니다.</string>
-    <string name="offline_no_selected_item_hint">비디오를 고르세요.</string>
-    <string name="offline_no_source">"오프라인 모드에서는 볼 수 없습니다"</string>
+    <string name="offline_no_selected_item_hint">동영상을 고르세요.</string>
+    <string name="offline_no_source">"오프라인 모드에서는 볼 수 없습니다."</string>
     <string name="offline_setting">오프라인</string>
     <string name="offline_status_failed">실패</string>
     <string name="offline_status_finished">완료</string>
@@ -275,11 +275,11 @@
     <string name="other_setting">추가 설정</string>
     <string name="path_develop_settings">System App/Video/Develop Settings</string>
     <string name="path_settings">System App/Video/Settings</string>
-    <string name="pause">일시정지</string>
+    <string name="pause">일시 중지</string>
     <string name="pay_record">구매 기록</string>
     <string name="percent_status">%.0f%%</string>
     <string name="performance_mode">플레이어 성능 향상</string>
-    <string name="performance_mode_desc">"비디오 플레이어의 성능을 극대화합니다"</string>
+    <string name="performance_mode_desc">"동영상 플레이어의 성능을 극대화합니다."</string>
     <string name="personal_center">계정</string>
     <string name="pick_addon_to_delete">항목 선택</string>
     <string name="place_at">%d번. </string>
@@ -289,12 +289,12 @@
     <string name="play_history">최근</string>
     <string name="play_source_fetching">연결중…</string>
     <string name="player_plugin_des">사용가능한 플러그인 보기</string>
-    <string name="player_plugin_title">비디오 플레이어 플러그인</string>
+    <string name="player_plugin_title">동영상 플레이어 플러그인</string>
     <string name="positive_comment">좋아요</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
     <string name="prefix_countdown">"광고 남은 시간: "</string>
-    <string name="priority_storage">SD카드에 저장</string>
+    <string name="priority_storage">SD 카드에 저장</string>
     <string name="priority_storage_summary">사용가능하면 외부 sd카드에 자동으로 저장합니다.</string>
     <string name="pulltorefresh">당겨서 새로고침</string>
     <string name="qiyi">iQiyi</string>
@@ -309,7 +309,7 @@
     <string name="releasetorefresh">놓아서 새로고침</string>
     <string name="reload_sub_title">다시 시도</string>
     <string name="reload_title">"네트워크 접속 불가"</string>
-    <string name="reload_title_ep">"풀 시리즈를 받을 수 없습니다"</string>
+    <string name="reload_title_ep">"풀 시리즈를 받을 수 없습니다."</string>
     <string name="replay">리플레이</string>
     <string name="retry">다시 시도</string>
     <string name="router">오프라인 원격조종</string>
@@ -321,8 +321,8 @@
     <string name="sdcard_storage">내장 메모리</string>
     <string name="search">검색</string>
     <string name="search_develop_settings">Develop settings;Version select;Choose version;Video upgrade;Version;Forum;Performance mode;Picture quality;Player plugins</string>
-    <string name="search_hint">온라인 비디오 검색</string>
-    <string name="search_result_empty_text">"아무것도 찾지 못했습니다"</string>
+    <string name="search_hint">온라인 동영상 검색</string>
+    <string name="search_result_empty_text">"아무것도 찾지 못했습니다."</string>
     <string name="search_settings">Video Settings;Mobile Network;Wifi;Video play;Push;Notification;Cache;Develop settings</string>
     <string name="search_snack_more">더보기</string>
     <string name="search_snack_sniff">전체 망 소스</string>
@@ -382,11 +382,11 @@
     <string name="updatedalready">업데이트 됨</string>
     <string name="upgrade">업그레이드</string>
     <string name="use_cellular_network">모바일 데이터 연결</string>
-    <string name="use_cellular_network_summary">모바일 데이터를 이용하여 비디오를 다운로드합니다. 모바일 데이터 사용량이 증가합니다.</string>
-    <string name="use_cellular_offlinedownload_summary">모바일 데이터를 이용하여 비디오를 다운로드시 알림 보기</string>
+    <string name="use_cellular_network_summary">모바일 데이터를 이용하여 동영상을 다운로드합니다. 모바일 데이터 사용량이 증가합니다.</string>
+    <string name="use_cellular_offlinedownload_summary">모바일 데이터를 이용하여 동영상을 다운로드시 알림 보기</string>
     <string name="use_cellular_offlinedownload_title">데이터 사용 알림</string>
-    <string name="use_cellular_play_summary">모바일 데이터로 비디오를 시청하면 데이터 사용량이 증가합니다. 남은 월사용량이 없으시면 추가요금이 발생합니다.</string>
-    <string name="use_cellular_play_title">모바일 데이터로 비디오 시청</string>
+    <string name="use_cellular_play_summary">모바일 데이터로 동영상을 시청하면 데이터 사용량이 증가합니다. 남은 월사용량이 없으시면 추가요금이 발생합니다.</string>
+    <string name="use_cellular_play_title">모바일 데이터로 동영상 시청</string>
     <string name="user_tab">계정</string>
     <string name="version_select">버젼 선택</string>
     <string name="version_select_summary">사용할 버젼을 선택하세요.</string>
@@ -394,7 +394,7 @@
     <string name="video_app_update">업데이트</string>
     <string name="video_bbs">포럼 가입하기</string>
     <string name="video_bbs_url">가입하여 이 앱 개발을 도와주세요.</string>
-    <string name="video_count">%d개의 비디오</string>
+    <string name="video_count">%d개의 동영상</string>
     <string name="video_info_audio_bitrate_label">오디오 비트 전송률</string>
     <string name="video_info_audio_coding_label">오디오 인코딩 형식:</string>
     <string name="video_info_audio_null">없음</string>
@@ -402,7 +402,7 @@
     <string name="video_info_length_label">길이:</string>
     <string name="video_info_resolution_label">동영상 해상도:</string>
     <string name="video_info_video_coding_label">동영상 인코딩 형식:</string>
-    <string name="video_plugin">비디오 플러그인</string>
+    <string name="video_plugin">동영상 플러그인</string>
     <string name="video_plugin_downloading">(%1$s) 다운로드중</string>
     <string name="video_plugin_prepare">잠시만 기다려주세요…</string>
     <string name="vip_package">vip 패키지</string>
@@ -441,14 +441,14 @@
     <string name="vp_exit">종료</string>
     <string name="vp_full_screen">전체 화면</string>
     <string name="vp_function">설정</string>
-    <string name="vp_get_url_error">이 비디오의 URL을 찾을 수 없습니다.</string>
+    <string name="vp_get_url_error">이 동영상의 URL을 찾을 수 없습니다.</string>
     <string name="vp_hide_media_info">동영상 정보 숨기기</string>
     <string name="vp_hint">주의</string>
     <string name="vp_install">설치</string>
     <string name="vp_install_title">설치</string>
     <string name="vp_loading_video">로딩 중…</string>
     <string name="vp_low_definition">낮음</string>
-    <string name="vp_maintitlearea">어디서든 HD 비디오 시청</string>
+    <string name="vp_maintitlearea">어디서든 HD 동영상 시청</string>
     <string name="vp_media_info">동영상 정보 표시</string>
     <string name="vp_media_type_unsported">이 타입의 미디어는 지원되지 않습니다.</string>
     <string name="vp_milink">Mi 링크</string>
@@ -456,7 +456,7 @@
     <string name="vp_mobile_network_using_negative">취소</string>
     <string name="vp_mobile_network_using_positive">계속 시청</string>
     <string name="vp_mobile_network_using_warning">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
-    <string name="vp_mobile_network_using_warning_line_1">모바일 데이터를 사용하여 비디오를 시청하면 데이터 사용량이 증가합니다.</string>
+    <string name="vp_mobile_network_using_warning_line_1">모바일 데이터를 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다.</string>
     <string name="vp_mobile_network_using_warning_line_2">데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="vp_more_show_video">광고 보기</string>
     <string name="vp_mplayer_error_io">IO 오퍼레이션 에러</string>
@@ -471,16 +471,16 @@
     <string name="vp_offline_status_dowloading">다운로드 중</string>
     <string name="vp_offline_status_fail">실패함</string>
     <string name="vp_offline_status_none">준비</string>
-    <string name="vp_offline_status_pause">일시정지됨</string>
+    <string name="vp_offline_status_pause">일시 중지됨</string>
     <string name="vp_offline_status_wait">대기</string>
     <string name="vp_offline_title">오프라인</string>
     <string name="vp_offline_title_name">에피소드 %d개</string>
-    <string name="vp_play_youku_failed_get_video_info">"비디오 정보를 받을 수 없습니다"</string>
+    <string name="vp_play_youku_failed_get_video_info">"동영상 정보를 받을 수 없습니다."</string>
     <string name="vp_play_youku_time_out">연결 시간 초과</string>
     <string name="vp_player_plugin_dlg_neg_btn">닫기</string>
     <string name="vp_player_plugin_dlg_no_content">동영상 플레이어 플러그 인이 발견되지 않음</string>
     <string name="vp_player_plugin_dlg_title">동영상 플레이어 플러그 인</string>
-    <string name="vp_plugin_message">HD 비디오 플러그 인을 설치하시겠습니까?</string>
+    <string name="vp_plugin_message">HD 동영상 플러그 인을 설치하시겠습니까?</string>
     <string name="vp_retry">다시 시도</string>
     <string name="vp_scale_screen">가로 세로 비율</string>
     <string name="vp_screen_shot">캡처</string>
@@ -506,7 +506,7 @@
     <string name="xiaomi_user">사용자</string>
     <string name="yinyuetai">음악당</string>
     <string name="youku">요우쿠</string>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 보기</string>
     <string name="abc_action_mode_done">완료</string>
@@ -558,7 +558,7 @@
     <string name="history">기록</string>
     <string name="home_tab_featured">기능</string>
     <string name="home_tab_hot">인기영상</string>
-    <string name="home_tab_local_video">로컬비디오</string>
+    <string name="home_tab_local_video">로컬동영상</string>
     <string name="illegal_input_tips">불법적인 입력</string>
     <string name="invalid_location">이 영상은 %1$s 에서 재생불가입니다.</string>
     <string name="language_default">기본 언어</string>
@@ -569,10 +569,10 @@
     <string name="more_file_details" formatted="false">"크기: %s"</string>
     <string name="network_stream">네트워크 스트리밍</string>
     <string name="no_filter_folder_tips">폴더 필터링 없음</string>
-    <string name="no_folder_found">검색된 비디오 폴더 없음</string>
+    <string name="no_folder_found">검색된 동영상 폴더 없음</string>
     <string name="no_hidden_files_tips">숨겨진 파일 없음</string>
     <string name="no_search_found">검색결과 없음</string>
-    <string name="no_videos_found">검색된 비디오 없음</string>
+    <string name="no_videos_found">검색된 동영상 없음</string>
     <string name="online">온라인</string>
     <string name="open">열기</string>
     <string name="open_subtitle_file">자막 파일 열기</string>
@@ -590,11 +590,11 @@
     <string name="rename_folder">폴더명 변경</string>
     <string name="rename_hidden_error">이 파일은 숨겨집니다.</string>
     <string name="replace_num_files">%d개의 파일</string>
-    <string name="replace_num_videos">%d개의 비디오</string>
+    <string name="replace_num_videos">%d개의 동영상</string>
     <string name="ringtone_error">벨소리 설정 중 에러가 발생하였습니다.</string>
     <string name="ringtone_set">"'%1$s' 파일을 벨소리로 설정하였습니다."</string>
-    <string name="sdcard_text">SD카드</string>
-    <string name="sdcard_tips">SD카드/</string>
+    <string name="sdcard_text">SD 카드</string>
+    <string name="sdcard_tips">SD 카드/</string>
     <string name="search_history">검색 기록</string>
     <string name="search_null_text">검색어를 입력하세요.</string>
     <string name="settings">설정</string>
@@ -633,7 +633,7 @@
     <string name="video_error_text_unknown">알 수 없는 오류가 발생했습니다.</string>
     <string name="video_error_title">알 수 없는 오류</string>
     <string name="video_file_details" formatted="false">%d 영상 | %s</string>
-    <string name="videos">비디오</string>
+    <string name="videos">동영상</string>
     <string name="volume">볼륨</string>
     <string name="wrapper_footer_text">페이지 하단입니다.</string>
     <string name="audio_delay">오디오 딜레이</string>
@@ -791,7 +791,7 @@
     <string name="passport_wrong_vcode">입력한 코드가 올바르지 않습니다.</string>
     <string name="alert_dialog_download_install_task">플러그인 설치를 기다리는 중…</string>
     <string name="already_buy_vip">는 이미 VIP 멤버입니다.</string>
-    <string name="create_tencent_shortcut_message">Tencent 비디오 단축키를 이미 바탕화면에 생성하였습니다.</string>
+    <string name="create_tencent_shortcut_message">Tencent 동영상 단축키를 이미 바탕화면에 생성하였습니다.</string>
     <string name="current_price">현재 가격</string>
     <string name="do_not_buy_vip">VIP 패키지를 구매하지 마세요.</string>
     <string name="expired_buy_vip">VIP 멤버십이 만료되었습니다.</string>

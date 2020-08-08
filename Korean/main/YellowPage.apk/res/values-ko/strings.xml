@@ -480,7 +480,7 @@
     <string name="antispam_network_remind_title">데이터 사용량 경고</string>
     <string name="antispam_pull_newest">%d 버전으로 업데이트됨</string>
     <string name="antispam_update_version">업데이트 확인</string>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 가기</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
     <string name="abc_action_mode_done">끝냄</string>

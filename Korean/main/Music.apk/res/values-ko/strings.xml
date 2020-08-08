@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">옵션 더보기</string>
     <string name="abc_action_mode_done">완료</string>
@@ -53,7 +53,7 @@
     <string name="all_playlists">모든 재생목록</string>
     <string name="all_songs">모든 노래</string>
     <string name="all_tracks">모든 노래</string>
-    <string name="all_videos">모든 비디오</string>
+    <string name="all_videos">모든 동영상</string>
     <string name="already_download">다운로드 중…</string>
     <string name="already_download_btn">다운로드 중…</string>
     <string name="already_favorited">이미 즐겨찾기됨</string>
@@ -192,7 +192,7 @@
     <string name="download">다운로드</string>
     <string name="download_added_to_list">다운로드 목록에 추가됨</string>
     <string name="download_apk_desktop_installing">설치 중</string>
-    <string name="download_apk_desktop_pause">일시정지됨</string>
+    <string name="download_apk_desktop_pause">일시 중지됨</string>
     <string name="download_apk_desktop_pending">보류 중</string>
     <string name="download_apk_desktop_running">다운로드 중</string>
     <string name="download_auto_after_favorite_no_vip_summary">즐겨찾기한 노래 자동으로 다운로드 (유료 컨텐츠 예외)</string>
@@ -223,7 +223,7 @@
     <string name="download_manage_item_complete">완료</string>
     <string name="download_method">다운로드</string>
     <string name="download_no_application_title">파일 열기 실패</string>
-    <string name="download_paused_in_power_save_mode">배터리 절약이 켜져있을 때 다운로드가 일시정지 됩니다.</string>
+    <string name="download_paused_in_power_save_mode">배터리 절약이 켜져있을 때 다운로드가 일시 중지 됩니다.</string>
     <string name="download_processing">다운로드 중…</string>
     <string name="download_quality">다운로드 품질</string>
     <string name="download_quality_summary">다운로드한 음악을 위한 추가 설정</string>
@@ -287,7 +287,7 @@
     <string name="exo_controls_fastforward_description">배속</string>
     <string name="exo_controls_fullscreen_description">최대 화면비 설정</string>
     <string name="exo_controls_next_description">다음 곡</string>
-    <string name="exo_controls_pause_description">일시정지</string>
+    <string name="exo_controls_pause_description">일시 중지</string>
     <string name="exo_controls_play_description">재생</string>
     <string name="exo_controls_previous_description">이전 곡</string>
     <string name="exo_controls_repeat_all_description">전체 반복</string>
@@ -360,7 +360,7 @@
     <string name="hungama_batch_download_alert_summary">프로 멤버 만 여러 노래를 다운로드 할 수 있습니다. 지금 프로 멤버십을 얻으시겠습니까?</string>
     <string name="hungama_category_playlist">재생목록</string>
     <string name="hungama_category_radio">라디오</string>
-    <string name="hungama_category_video">비디오</string>
+    <string name="hungama_category_video">동영상</string>
     <string name="hungama_free_download_out_summary">무료 노래를 더 다운로드 할 수 없습니다. 무제한 노래를 다운로드하려면 PRO 멤버십을 얻으시겠습니까?</string>
     <string name="hungama_pro">헝가마 프로</string>
     <string name="hungama_subscribe_message">이 노래를 다운로드하려면 구입해야합니다.</string>
@@ -414,7 +414,7 @@
     <string name="lyric_label">가사</string>
     <string name="lyric_open_other_connect">모바일 네트워크 사용하여 가사 다운로드</string>
     <string name="lyric_setting">가사 설정</string>
-    <string name="menu_title_pause_all">모두 일시정지</string>
+    <string name="menu_title_pause_all">모두 일시 중지</string>
     <string name="menu_title_resume_all">모두 시작</string>
     <string name="message_delete_playlist">재생 목록을 삭제하시겠습니까 %s?</string>
     <string name="metered_alert">데이터 사용량 경고</string>
@@ -458,7 +458,7 @@
     <string name="music_service">뮤직 서비스</string>
     <string name="music_settings">음악</string>
     <string name="mv_metered_play_summary">데이터 사용량 경고 표시하지 않기​</string>
-    <string name="mv_metered_play_title">모바일 데이터로 온라인 비디오 재생</string>
+    <string name="mv_metered_play_title">모바일 데이터로 온라인 동영상 재생</string>
     <string name="my_account">Mi 계정</string>
     <string name="my_music_empty">재생 목록이 비어 있습니다.</string>
     <string name="my_music_empty_goto_online">노래 발견되지 않음</string>
@@ -520,11 +520,11 @@
     <string name="open_service">켜기</string>
     <string name="other_song_in_album">이 앨범의 다른 곡</string>
     <string name="password_toggle_content_description">토글 비밀번호 표시</string>
-    <string name="paused_by_app">일시정지됨</string>
-    <string name="paused_in_power_save_mode">배터리 절약이 켜져있을 때 일시정지</string>
+    <string name="paused_by_app">일시 중지됨</string>
+    <string name="paused_in_power_save_mode">배터리 절약이 켜져있을 때 일시 중지</string>
     <string name="paused_insufficient_space">대기 중</string>
     <string name="paused_queued_for_wifi">연결 기다리는 중</string>
-    <string name="paused_unknown">일시정지됨</string>
+    <string name="paused_unknown">일시 중지됨</string>
     <string name="paused_waiting_for_network">연결 기다리는 중</string>
     <string name="paused_waiting_to_retry">다시 시도를 기다리는 중</string>
     <string name="pay_now">현재 서비스</string>
@@ -681,7 +681,7 @@
     <string name="tab_playlist">재생목록</string>
     <string name="tab_track">노래</string>
     <string name="tab_track_list">노래</string>
-    <string name="tab_video">비디오</string>
+    <string name="tab_video">동영상</string>
     <string name="take_effect_afater_restart">설정이 적용되려면 앱이 다시 실행되어야 합니다.</string>
     <string name="talkback_back">돌아가기</string>
     <string name="talkback_batch_process">다중 항목</string>
@@ -698,7 +698,7 @@
     <string name="talkback_next">다음 노래</string>
     <string name="talkback_nowplaying_bar">재생 바</string>
     <string name="talkback_nowplaying_circle">재생 써클</string>
-    <string name="talkback_play">재생 / 일시정지</string>
+    <string name="talkback_play">재생 / 일시 중지</string>
     <string name="talkback_pre">이전 노래</string>
     <string name="talkback_search">검색</string>
     <string name="talkback_show_navigation_draw">서랍 표시</string>
@@ -749,21 +749,21 @@
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장 공간을 사용할 수 없으면 SD 카드를 확인하세요.</string>
     <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 읽고 동의하셔야 합니다.</string>
     <string name="add_to_favorite">즐겨찾기에 추가</string>
-    <string name="cp_other_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다"</string>
+    <string name="cp_other_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다."</string>
     <string name="detail">자세히</string>
     <string name="dialog_song_sort_type_add_time">오래된 순서대로</string>
     <string name="dialog_song_sort_type_add_time_desc">추가된 순서대로</string>
     <string name="dialog_song_sort_type_name_from_a2z">A-Z</string>
     <string name="dialog_song_sort_type_name_from_z2a">Z-A</string>
-    <string name="live_stream_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다"</string>
-    <string name="network_no_available_and_check">"네트워크에 연결할 수 없습니다"</string>
+    <string name="live_stream_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다."</string>
+    <string name="network_no_available_and_check">"네트워크에 연결할 수 없습니다."</string>
     <string name="spammy_contents">스팸</string>
     <string name="talkback_change_skin">테마 변경</string>
     <string name="thanks_for_feedback">피드백 주셔서 감사합니다!</string>
-    <string name="unable_to_play">"재생할 수 없습니다"</string>
+    <string name="unable_to_play">"재생할 수 없습니다."</string>
     <string name="view_all_news">전체 소식 보기</string>
     <string name="widget_title">좋아하는 음악을 Mi Music에서 찾아보세요.</string>
-    <string name="can_heard_not_download">"콘텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다"</string>
+    <string name="can_heard_not_download">"콘텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다."</string>
     <string name="play_all_shuffle">&lt;Data>전체 섞기&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data> </string>
     <string name="local_page_music">저장된 음악</string>
     <string name="alert_song_not_paid">"아직이 노래를 구입하지 않았습니다."</string>
@@ -793,10 +793,10 @@
     <string name="dialog_remove_multi_billboard_from_favorites">즐겨 찾기에서 선택한 항목을 제거하시겠습니까?</string>
     <string name="dialog_remove_multi_song_from_favorites">즐겨 찾기에서 선택한 노래를 제거하시겠습니까?</string>
     <string name="dialog_remove_multi_songgroup_from_favorites">즐겨 찾기에서 선택한 재생 목록을 제거하시겠습니까?</string>
-    <string name="dialog_remove_multi_video_from_favorites">즐겨 찾기에서 선택한 비디오를 제거하시겠습니까?</string>
+    <string name="dialog_remove_multi_video_from_favorites">즐겨 찾기에서 선택한 동영상을 제거하시겠습니까?</string>
     <string name="dialog_remove_song_from_favorites">이 노래를 즐겨 찾기에서 제거하시겠습니까?</string>
     <string name="dialog_remove_songgroup_from_favorites">즐겨 찾기에서이 재생 목록을 제거하시겠습니까?</string>
-    <string name="dialog_remove_video_from_favorites">이 비디오를 즐겨 찾기에서 제거하시겠습니까?</string>
+    <string name="dialog_remove_video_from_favorites">이 동영상을 즐겨 찾기에서 제거하시겠습니까?</string>
     <string name="dialog_show_more_upload">지역 노래 백업</string>
     <string name="download_song_title">다운로드 할 노래 선택</string>
     <string name="history_delete_song">최근에 선택한 노래를 모두 제거하시겠습니까?</string>
@@ -837,8 +837,8 @@
     <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야합니다. 다음에 직접 노래에 액세스 할 수 있습니다."</string>
     <string name = "buy_vip_skip_ad">광고 제거</string>
     <string name = "columbus_player_close_desc">사용자는 보상을 잃을 것입니다.</string>
-    <string name = "columbus_player_close_resume">비디오 이어보기</string>
-    <string name = "columbus_player_close_title">비디오를 닫으시겠습니까?</string>
+    <string name = "columbus_player_close_resume">동영상 이어보기</string>
+    <string name = "columbus_player_close_title">동영상을 닫으시겠습니까?</string>
     <string name = "columbus_player_close_video">동영상 닫기</string>
     <string name = "columbus_player_install_now">지금 설치</string>
     <string name = "columbus_player_learn_more">자세히 알아보기</string>
@@ -868,7 +868,7 @@
     <string name = "joox_auth_message_update_vip_to_use_function">이 기능을 사용하려면 VIP 멤버십을 받으세요.</string>
     <string name = "joox_auth_title_download_song">노래 다운로드</string>
     <string name = "joox_auth_title_login_again">로그인</string>
-    <string name = "joox_auth_title_long_time_no_network">"한동안 네트워크에 연결하지 않은 것 같습니다"</string>
+    <string name = "joox_auth_title_long_time_no_network">"한동안 네트워크에 연결하지 않은 것 같습니다."</string>
     <string name = "joox_auth_title_shuffle_play">랜덤</string>
     <string name = "joox_auth_title_vip_content">VIP 컨텐츠</string>
     <string name = "joox_auth_title_vip_expired">회원 자격이 만료되었습니다.</string>

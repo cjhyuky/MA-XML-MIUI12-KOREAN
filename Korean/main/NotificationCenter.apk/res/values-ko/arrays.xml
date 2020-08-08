@@ -8,12 +8,12 @@
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
         <item>알림내용 표시</item>
-        <item>"잠금화면 알림 표시하지 않기"</item>
+        <item>"잠금 화면 알림 표시하지 않기"</item>
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
         <item>알림 내용 표시</item>
         <item>내용없이 알림만 표시 </item>
-        <item>"잠금화면 알림 표시하지 않기"</item>
+        <item>"잠금 화면 알림 표시하지 않기"</item>
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI 스타일</item>

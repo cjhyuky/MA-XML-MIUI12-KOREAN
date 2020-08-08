@@ -6,8 +6,8 @@
     <string name="MLinkNotConnect_Text_noti">네트워크 신호가 약합니다, \"%s\" 전송실패, 확인후 다시보내주세요.</string>
     <string name="OMSConnectFailed">OMS 연결 실패</string>
     <string name="OMSConnectSuccess">OMS 연결 성공</string>
-    <string name="SDcard_tip_is_full_when_message">영상 또는 음성을 보내려면 SD카드를 비우세요.</string>
-    <string name="SDcard_tip_when_send_message">영상 또는 음성을 보내려면 SD카드를 넣으세요.</string>
+    <string name="SDcard_tip_is_full_when_message">영상 또는 음성을 보내려면 SD 카드를 비우세요.</string>
+    <string name="SDcard_tip_when_send_message">영상 또는 음성을 보내려면 SD 카드를 넣으세요.</string>
     <string name="about">정보</string>
     <string name="about_account">샤오미 계정 %s</string>
     <string name="about_app_name">Mi 영상 통화</string>
@@ -25,7 +25,7 @@
     <string name="activate_failed_no_voip_id">활성화 실패, 다시 로그인해주세요.</string>
     <string name="activating">활성화중</string>
     <string name="active_call_symbol">(active call)%s</string>
-    <string name="active_phone_fail_toast">"SIM카드를 활성화할수 없습니다"</string>
+    <string name="active_phone_fail_toast">"SIM카드를 활성화할수 없습니다."</string>
     <string name="active_phone_sim_absent">SIM카드를 넣어주세요.</string>
     <string name="active_phone_success_nochoice">SIM 카드 활성화 됨</string>
     <string name="active_phone_success_toast">SIM 카드 %1$s 활성화 됨</string>
@@ -47,7 +47,7 @@
     <string name="apksize">앱 크기: %sM</string>
     <string name="app_center_more">더보기</string>
     <string name="app_copy_right">"@ 2014-2015 모든 권리는 샤오미 에게.
-있습니다"</string>
+있습니다."</string>
     <string name="app_name">영상 통화</string>
     <string name="app_version">앱 버젼 : %s</string>
     <string name="appid">954095</string>
@@ -84,7 +84,7 @@
     <string name="bill_desp_top">"사용자는 무료로 영상통화를 이용중입니다:"</string>
     <string name="bind_phone_number">연결된 전화번호</string>
     <string name="black_list">차단 목록</string>
-    <string name="black_tip">"이미 차단 되었습니다, 차단목록의 연락처로부터 문자나 전화를 받지 않습니다"</string>
+    <string name="black_tip">"이미 차단 되었습니다, 차단목록의 연락처로부터 문자나 전화를 받지 않습니다."</string>
     <string name="bomb">폭탄</string>
     <string name="bottom_add">구성원 추가</string>
     <string name="burn_mode_audio">[Burn after reading:audio]</string>
@@ -154,12 +154,12 @@
     <string name="chat_title">영상 통화</string>
     <string name="chat_voip_notification">알림</string>
     <string name="chat_voip_notification_message">부재중 통화</string>
-    <string name="check_access_camera_failed_message">"카메라에 액세스 할 수 없습니다, 카메라가 다른 응용 프로그램에 의해 점유 될 수 있습니다 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다"</string>
+    <string name="check_access_camera_failed_message">"카메라에 액세스 할 수 없습니다, 카메라가 다른 응용 프로그램에 의해 점유 될 수 있습니다 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다."</string>
     <string name="check_access_camera_failed_no_perm_message">"카메라에 액세스 할 수 없습니다, 카메라 권한, 시스템 설정에서 활성화하세요"</string>
-    <string name="check_access_camera_failed_title">"카메라에 연결 할 수 없습니다"</string>
-    <string name="check_access_microphone_failed_message">"마이크에 액세스 할 수 없습니다, 다른 앱이 사용중이거나 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다"</string>
+    <string name="check_access_camera_failed_title">"카메라에 연결 할 수 없습니다."</string>
+    <string name="check_access_microphone_failed_message">"마이크에 액세스 할 수 없습니다, 다른 앱이 사용중이거나 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다."</string>
     <string name="check_access_microphone_failed_no_perm_message">"마이크에 액세스 할 수 없음은, 시스템 설정에서 활성화하세요 권한이 금지 된 기록 실패"</string>
-    <string name="check_access_microphone_failed_title">"마이크에 액세스 할 수 없습니다"</string>
+    <string name="check_access_microphone_failed_title">"마이크에 액세스 할 수 없습니다."</string>
     <string name="check_camera_audio_message">카메라 권한이 필요합니다. 시스템설정을 열어서 설정해주세요.</string>
     <string name="check_camera_title">카메라 권한 열기</string>
     <string name="check_camera_video_message">계속 연락을 하시려면 카메라 설정을 열어야 합니다. 시스템 설정에서 열어주세요.</string>
@@ -194,7 +194,7 @@
     <string name="contact_detail_invite">지금 초대</string>
     <string name="contact_detail_phone_label">전화</string>
     <string name="contact_detail_title">자세한 사항</string>
-    <string name="contact_not_support_facetime">"상대가 아직 샤오 미 테크 음성 통화를 열 수 없습니다"</string>
+    <string name="contact_not_support_facetime">"상대가 아직 샤오 미 테크 음성 통화를 열 수 없습니다."</string>
     <string name="contact_number_empty">전화 번호를 입력</string>
     <string name="contacts">연락처</string>
     <string name="continue_operation">계속</string>
@@ -214,7 +214,7 @@
     <string name="controller_end_sharing">예</string>
     <string name="controller_end_sharing_message">스크린 공유를 중지하시겠습니까？</string>
     <string name="controller_invite_rejected_tip">다른사용자가 귀하의 요청을 받지않습니다.</string>
-    <string name="controller_remote_screen_locked_info">"다른 사용자의 전화가 잠겨있습니다"</string>
+    <string name="controller_remote_screen_locked_info">"다른 사용자의 전화가 잠겨있습니다."</string>
     <string name="controller_start">원격 제어</string>
     <string name="controller_start_message">클릭후에는 사용자의 화면이 다른사용자에게 보여집니다.</string>
     <string name="controller_start_summary">핸드폰 제어</string>
@@ -245,7 +245,7 @@
     <string name="detail">세부사항</string>
     <string name="developer_mode">개발자 모드</string>
     <string name="dial_direct">전화</string>
-    <string name="dial_fail">"전화를 걸수 없습니다"</string>
+    <string name="dial_fail">"전화를 걸수 없습니다."</string>
     <string name="dial_ignore">무시</string>
     <string name="dialog_cancel">취소</string>
     <string name="dialog_go_on">계속</string>
@@ -257,9 +257,9 @@
     <string name="discovery_add_contact">연락처 추가</string>
     <string name="do_commond">구현</string>
     <string name="done">저장</string>
-    <string name="download_update_failed">"다운로드 및 업데이트 할 수 없습니다"</string>
+    <string name="download_update_failed">"다운로드 및 업데이트 할 수 없습니다."</string>
     <string name="download_update_succeed">다운로드 완료, 업그레이드 설치</string>
-    <string name="downloading_background">다운로드를 백그라운드로 전환합니다, 알림창에서 확인하실수 있습니다.</string>
+    <string name="downloading_background">다운로드를 백그라운드로 전환합니다, 알림 창에서 확인하실수 있습니다.</string>
     <string name="edit_contact">연락처 편집</string>
     <string name="edit_content_limit">그룹 이름이 너무 깁니다.</string>
     <string name="eight">8</string>
@@ -287,7 +287,7 @@
     <string name="exit_btn">끄기</string>
     <string name="exit_button_text">로그아웃</string>
     <string name="exit_group">그룹 나가기</string>
-    <string name="exit_group_dialog_tip">"이 그룹의 전화를 받지 않으면 모든 통화기록을 삭제합니다"</string>
+    <string name="exit_group_dialog_tip">"이 그룹의 전화를 받지 않으면 모든 통화기록을 삭제합니다."</string>
     <string name="exit_processing">나가기</string>
     <string name="export_finish">내보내기：</string>
     <string name="face_beauty_denied_toast">"전화할때 뷰티기능을 켜고 끌 수 없습니다."</string>
@@ -330,7 +330,7 @@
     <string name="frag_contact">연락처</string>
     <string name="frag_info">내 MI 라이브</string>
     <string name="friend_name">"친구의 이름을 입력하세요"</string>
-    <string name="friend_not_activated">"사용자가 전화한 사용자는 아직 영상통화가 활성화되지 않았습니다"</string>
+    <string name="friend_not_activated">"사용자가 전화한 사용자는 아직 영상통화가 활성화되지 않았습니다."</string>
     <string name="full_group_info">전체 그룹</string>
     <string name="get_friends_list">연락처 목록 얻기</string>
     <string name="get_suggest_phone_number">자동으로 번호를 검색</string>
@@ -587,7 +587,7 @@
     <string name="re_apply">재적용</string>
     <string name="read_contacts_info">연락처 정보 보기</string>
     <string name="read_contacts_tip">"주소록의    
- 연락가능한 연락처를 찾을수 없습니다"</string>
+ 연락가능한 연락처를 찾을수 없습니다."</string>
     <string name="read_information">읽기 정보</string>
     <string name="recall">재다이얼</string>
     <string name="receive_controllee_invite_message">다른사용자가 화면 공유를 시작했습니다.</string>
@@ -604,7 +604,7 @@
     <string name="recording_video">영상 녹화</string>
     <string name="refrash_contacts">연락처가 없거나 연락처 불러오기를 실패했습니다, 연락처를 다시 불러오세요.</string>
     <string name="reg_account">계정 등록</string>
-    <string name="reg_account_failed">"계정을 등록할 수 없습니다"</string>
+    <string name="reg_account_failed">"계정을 등록할 수 없습니다."</string>
     <string name="reg_title">전화번호 입력</string>
     <string name="regist_voip_info">전화번호 입력，영상통화를 시작</string>
     <string name="register_not_have_china">계정은 영어와 숫자로만 입력해주세요.</string>
@@ -617,9 +617,9 @@
     <string name="remote_cancel_controller_invite_tip">다른 사용자가 원격제어 취소</string>
     <string name="remote_end_controlling_tip">다른 사용자가 원격제어 취소</string>
     <string name="remote_end_sharing_tip">다른 사용자가 화면 공유 취소</string>
-    <string name="remote_sharing_app_not_supported_info_local">"이 기능은 이 버전에서 지원되지 않습니다"</string>
-    <string name="remote_sharing_app_not_supported_info_remote">"다른 사용자의 어플이 지원되지 않는 버젼입니다"</string>
-    <string name="remote_sharing_error_occurred_msg">"다른 사용자가 받지 못하였습니다"</string>
+    <string name="remote_sharing_app_not_supported_info_local">"이 기능은 이 버전에서 지원되지 않습니다."</string>
+    <string name="remote_sharing_app_not_supported_info_remote">"다른 사용자의 어플이 지원되지 않는 버젼입니다."</string>
+    <string name="remote_sharing_error_occurred_msg">"다른 사용자가 받지 못하였습니다."</string>
     <string name="remote_sharing_error_occurred_title">화면 공유 연결 에러</string>
     <string name="remote_sharing_not_supported_msg">다른 사용자의 어플이 지원되지 않는 버젼입니다.</string>
     <string name="remote_sharing_os_not_supported_info_local">이 기능은 이 운영체제에서 지원되지 않습니다.</string>
@@ -645,11 +645,11 @@
     <string name="save_image_succeeded">앨범에 사진저장 완료</string>
     <string name="save_video_succeeded">앨범에 영상저장 완료</string>
     <string name="say_hint">아무말이나 해보세요.</string>
-    <string name="screen_share_miui_not_support_tip">"다른 사용자의 응용 프로그램의 버전이 이 기능을 지원하지 않습니다"</string>
-    <string name="screen_share_sys_not_support_tip">"이 기능은 휴대전화에서 지원되지 않습니다"</string>
-    <string name="sdcard_is_full">SD카드가 가득 차있습니다.</string>
-    <string name="sdcard_unavailable">감지된 SD카드가 없습니다.</string>
-    <string name="sdcard_unmounted_download_disabled">SD카드가 사용중입니다, 사용후 다시 시도하세요.</string>
+    <string name="screen_share_miui_not_support_tip">"다른 사용자의 응용 프로그램의 버전이 이 기능을 지원하지 않습니다."</string>
+    <string name="screen_share_sys_not_support_tip">"이 기능은 휴대전화에서 지원되지 않습니다."</string>
+    <string name="sdcard_is_full">SD 카드가 가득 차있습니다.</string>
+    <string name="sdcard_unavailable">감지된 SD 카드가 없습니다.</string>
+    <string name="sdcard_unmounted_download_disabled">SD 카드가 사용중입니다, 사용후 다시 시도하세요.</string>
     <string name="search_all_contacts">모든 연락처</string>
     <string name="search_contact_tip">연락처를 검색할 수 있습니다.</string>
     <string name="search_contacts">연락처 검색</string>
@@ -738,7 +738,7 @@
     <string name="smiley_click_to_download">다운로드</string>
     <string name="smiley_nopackage_click_to_download">"(아직 Mi 모션페키지를 받지 않으셨습니다 (약 1M), 다운로드해주세요.)"</string>
     <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 사용자에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com"</string>
-    <string name="sms_message_cannot_send">"이 기기는 문자메시지를 보낼수 없습니다"</string>
+    <string name="sms_message_cannot_send">"이 기기는 문자메시지를 보낼수 없습니다."</string>
     <string name="sns_unknown_error">알수없는 에러</string>
     <string name="source_message">메시지</string>
     <string name="speaker">스피커</string>
@@ -795,7 +795,7 @@
     <string name="thread_message_type_sub_card">[Mi 채팅 가입 카드]</string>
     <string name="thread_message_type_subscribe">[구독신청]</string>
     <string name="thread_message_type_user_card">"[Mi 채팅 연락처의 명함]"</string>
-    <string name="thread_message_type_video">[비디오]</string>
+    <string name="thread_message_type_video">[동영상]</string>
     <string name="three">3</string>
     <string name="ticket_send_out_hint">코드 입력</string>
     <string name="tips_when_try_to_send_duration_call">메시지는 통화 중에 보낼 수 없습니다.</string>
@@ -832,9 +832,9 @@
     <string name="update_toast_2">MIUI버젼을 %1$s 이상으로 업데이트하세요.</string>
     <string name="update_toast_3">이 기능을 사용하려면, 나중에 MIUI %1$s 이상으로 업데이트하세요.</string>
     <string name="update_toast_4">업데이트를 다운로드하기 위해 Wi-Fi 인터넷에 연결</string>
-    <string name="update_toast_5">"업데이트를 다운로드 할 수 없습니다"</string>
-    <string name="update_toast_6">"업데이트를 설치할 수 없습니다"</string>
-    <string name="update_toast_7">"사용중인 MIUI버젼은 아직이 기능을 지원하지 않습니다"</string>
+    <string name="update_toast_5">"업데이트를 다운로드 할 수 없습니다."</string>
+    <string name="update_toast_6">"업데이트를 설치할 수 없습니다."</string>
+    <string name="update_toast_7">"사용중인 MIUI버젼은 아직이 기능을 지원하지 않습니다."</string>
     <string name="update_toast_8">업데이트 하기위해 Wi-Fi 연결</string>
     <string name="upgrade_description">업그레이드 설명: %s</string>
     <string name="upload_failed_info">업로드 실패, 다시 저장하세요.</string>
@@ -842,7 +842,7 @@
     <string name="upload_succeed_info">업로드 완료</string>
     <string name="user_agreement">서비스 약관</string>
     <string name="user_agreement_text">서비스 약관</string>
-    <string name="user_busy_wranning">"지금 통화중입니다, 전화를 걸수 없습니다"</string>
+    <string name="user_busy_wranning">"지금 통화중입니다, 전화를 걸수 없습니다."</string>
     <string name="user_info_avatar_wall">사진</string>
     <string name="user_off_line_wranning">선택하신 사용자는 오프라인 상태입니다.</string>
     <string name="user_protocal_content">"미 화상 통화가 제공하는 서비스를 사용하시려면 읽어보시기 바랍니다 "&lt;a href="http://static.g.mi.com/pages/duoliao/user_agreement.html"&gt;&amp;#49324;&amp;#50857;&amp;#51088; &amp;#54532;&amp;#47196;&amp;#53664;&amp;#53084;&lt;/a&gt; &amp;#44284; &lt;a href="http://static.g.mi.com/pages/duoliao/privacy_policy.html"&gt;&amp;#44060;&amp;#51064; &amp;#51221;&amp;#48372; &amp;#48372;&amp;#54840; &amp;#51221;&amp;#52293;&lt;/a&gt;" &amp;#65292;&amp;#45348;&amp;#53944;&amp;#50892;&amp;#53356; &amp;#50672;&amp;#44208;&amp;#51060; &amp;#54596;&amp;#50836;&amp;#54633;&amp;#45768;&amp;#45796;, &amp;#50672;&amp;#46973;&amp;#52376;&amp;#47484; &amp;#51069;&amp;#44256;, &amp;#51064;&amp;#51613;&amp;#53076;&amp;#46300;&amp;#47484; &amp;#48372;&amp;#45236;&amp;#44256; &amp;#45817;&amp;#49888;&amp;#51032; &amp;#50948;&amp;#52824;&amp;#51221;&amp;#48372;&amp;#47484; &amp;#51060;&amp;#50857;&amp;#54633;&amp;#45768;&amp;#45796;, &amp;#46041;&amp;#51032;&amp;#54616;&amp;#49901;&amp;#45768;&amp;#44620;? "</string>
@@ -863,7 +863,7 @@
     <string name="video_cancel_confirm_msg">영상을 취소하시겠습니까?</string>
     <string name="video_chat">영상 통화</string>
     <string name="video_error">잘못된 영상 포맷</string>
-    <string name="video_mode">비디오 모드</string>
+    <string name="video_mode">동영상 모드</string>
     <string name="video_no_camera">카메라가 없습니다.</string>
     <string name="video_record_max">최대 영상 촬영 시간</string>
     <string name="video_record_time">%1$d/%2$ds</string>
@@ -913,7 +913,7 @@
     <string name="voip_droping_call">통화 종료중 %1$s</string>
     <string name="voip_ending_call">통화 종료</string>
     <string name="voip_failed_to_connect">인터넷 접속 실패</string>
-    <string name="voip_fobiton_record_voice">"음성 통화의 오디오를 녹음 할 수 없습니다"</string>
+    <string name="voip_fobiton_record_voice">"음성 통화의 오디오를 녹음 할 수 없습니다."</string>
     <string name="voip_go_on">계속</string>
     <string name="voip_group_audio_positive_tips">%s 음성통화로 전환</string>
     <string name="voip_group_video_positive_tips">%s 영상통화로 전환</string>
@@ -939,7 +939,7 @@
     <string name="voip_no_wifi_tip_one">이 통화는 모바일 데이터를 소모합니다.</string>
     <string name="voip_no_wifi_tip_three">이번 달 데이터 사용량에 주의를 기울여야 합니다. Wi-Fi 사용을 권장합니다.</string>
     <string name="voip_no_wifi_tip_two">총 데이터 소모량</string>
-    <string name="voip_not_online">"인터넷에 연결할 수 없습니다"</string>
+    <string name="voip_not_online">"인터넷에 연결할 수 없습니다."</string>
     <string name="voip_offline">응답 없음</string>
     <string name="voip_on_error">에러 코드：%d</string>
     <string name="voip_on_traffic">이 통화는 요금이 발생합니다.</string>
@@ -947,8 +947,8 @@
     <string name="voip_on_traffic_speaking_tips">모바일 데이터 사용</string>
     <string name="voip_other_phone_call">샤오미 계정이 통화중입니다, 통화종료후에 다시걸어주세요.</string>
     <string name="voip_other_ping_error">"상대방 네트워크 에러, 나중에 다시 걸어주세요"</string>
-    <string name="voip_other_unsupport_voip">"상대방이 Mi 영상통화 계정이 없습니다"</string>
-    <string name="voip_others_not_online">"상대방이 인터넷에 연결되어있지 않습니다"</string>
+    <string name="voip_other_unsupport_voip">"상대방이 Mi 영상통화 계정이 없습니다."</string>
+    <string name="voip_others_not_online">"상대방이 인터넷에 연결되어있지 않습니다."</string>
     <string name="voip_outgoing_to_friend">통화 %1$s</string>
     <string name="voip_over">통화종료</string>
     <string name="voip_reconnect_tips">재접속</string>
@@ -960,7 +960,7 @@
     <string name="voip_satisfaction_problem">통화품질에 만족하십니까？</string>
     <string name="voip_satisfaction_problem_description">불만사항을 적어주세요.</string>
     <string name="voip_self_busy">통화중</string>
-    <string name="voip_server_error">"네트워크에 연결할수 없습니다"</string>
+    <string name="voip_server_error">"네트워크에 연결할수 없습니다."</string>
     <string name="voip_session_stop">채팅 종료</string>
     <string name="voip_short_reconnect_tips">재접속</string>
     <string name="voip_some_ping_error">네트워크 에러, 나중에 다시 시도해주세요.</string>
@@ -969,7 +969,7 @@
     <string name="voip_starting">샤오미 음성 통화</string>
     <string name="voip_statistics_flow">(%1$s소비)</string>
     <string name="voip_stop_called">전화 끊기</string>
-    <string name="voip_talk_canot_play_voice">"음성 통화에서 재생할 수 없습니다"</string>
+    <string name="voip_talk_canot_play_voice">"음성 통화에서 재생할 수 없습니다."</string>
     <string name="voip_talking_with_friend">%1$s님과 대화중</string>
     <string name="voip_the_other_is_on_the_phone">상대방이 통화중입니다.</string>
     <string name="voip_time_start">00:00</string>

@@ -904,7 +904,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="topup_not_available">잔액에 추가할 수 없습니다. 나중에 다시 시도해 주세요.</string>
     <string name="topup_success">%1$s 금액을 Google Play 잔액에 추가했습니다.</string>
     <string name="tos_locale_replacement" />
-    <string name="track_pause">일시중지</string>
+    <string name="track_pause">일시 중지</string>
     <string name="track_play">재생</string>
     <string name="translate">번역</string>
     <string name="try_again">다시 시도</string>
@@ -931,7 +931,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="use_pin">PIN 사용</string>
     <string name="use_wifi_checkbox">Wi-Fi만 사용하여 다운로드</string>
     <string name="use_wifi_limit_on_mobile">이 앱은 Wi-Fi 사용 환경이 되면 다운로드됩니다. 용량이 너무 커서 모바일 네트워크를 통해 가져올 수 없습니다.</string>
-    <string name="use_wifi_limit_on_wifi">이 대형 앱은 Wi-Fi 사용 환경이 되면 계속해서 다운로드됩니다. Wi-Fi 연결이 끊어지면 다운로드가 일시중지됩니다.</string>
+    <string name="use_wifi_limit_on_wifi">이 대형 앱은 Wi-Fi 사용 환경이 되면 계속해서 다운로드됩니다. Wi-Fi 연결이 끊어지면 다운로드가 일시 중지됩니다.</string>
     <string name="use_wifi_proceed_button">계속</string>
     <string name="use_wifi_title">대용량 앱 다운로드</string>
     <string name="use_wifi_warning">이 앱은 용량이 매우 큽니다. 지연을 예방하고 추가 데이터 사용 요금을 부담하지 않으려면 Wi-Fi만 사용하세요.</string>
@@ -1030,6 +1030,6 @@ CVC는 카드 뒷면 서명란에 있는 번호의 마지막 세 자리 숫자�
     <string name="wishlist_removing">위시리스트에서 삭제...</string>
     <string name="yes">예</string>
     <string name="your_review_label">나</string>
-    <string name="description_details_app_info">앱 정보</string>	
+    <string name="description_details_app_info">앱 정보</string>    
     <string name="loading_overflow_app_info">앱 정보</string>
 </resources>

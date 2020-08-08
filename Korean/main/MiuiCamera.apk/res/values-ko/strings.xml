@@ -3,8 +3,8 @@
     <string name="color_effect_entry_blackice">검은 얼음</string>
     <string name="color_effect_entry_orange">라임</string>
     <string name="super_macro_mode">슈퍼 메크로</string>
-    <string name="accessibility_8k_off">AI 8K 꺼짐</string>
-    <string name="accessibility_8k_on">AI 8K 켜짐</string>
+    <string name="accessibility_8k_off">8K 꺼짐</string>
+    <string name="accessibility_8k_on">8K 켜짐</string>
     <string name="ambilight_tips_for_longtime_using_tripod">장노출 촬영의 경우 삼각대를 사용하세요.</string>
     <string name="ambilight_tips_for_suggest_using_tripod">삼각대를 사용하여 촬영하는 것이 좋습니다.</string>
     <string name="pref_camera_heic_image_format_description2">"고효율 이미지 파일 형식은 저장 공간을 절약하지만 일부 타사 앱에서는 지원하지 않습니다. HEIF에서 라이브 사진을 찍거나 워터 마크를 제거할 수 없습니다."</string>
@@ -65,7 +65,7 @@
     <string name="background">배경</string>
     <string name="emoticon">스티커 팩</string>
     <string name="mimoji_create_emoticon">스티커 팩 만들기</string>
-    <string name="mimoji_create_emoticon_error">"스티커 팩을 만들 수 없습니다"</string>
+    <string name="mimoji_create_emoticon_error">"스티커 팩을 만들 수 없습니다."</string>
     <string name="mimoji_create_emoticon_progress">스티커 팩 만들기…</string>
     <string name="mimoji_emoticon_save">스티커 팩 저장</string>
     <string name="mimoji_emoticon_with_jpeg_save">이미지도 저장</string>
@@ -91,14 +91,14 @@
     <string name="clone_photo_mode_start_hint">사진 촬영을 시작하려면 셔터 버튼을 클릭하세요.</string>
     <string name="clone_preview_no_person">인식 할 수없는 사람, 촬영에 실패했을 수 있습니다.</string>
     <string name="clone_video_mode_start_hint">녹화를 시작하려면 셔터 버튼을 클릭하세요.</string>
-    <string name="only_mimoji_multi_window_mode_not_supported">"이 기능은 분할화면에서 사용할 수 없습니다"</string>
+    <string name="only_mimoji_multi_window_mode_not_supported">"이 기능은 분할화면에서 사용할 수 없습니다."</string>
     <string name="music_hint_tt">서비스 소스</string>
     <string name="mimoji_gif_record_time_short">녹화된 영상이 너무 짧습니다.</string>
     <string name="pro_color_mode">프로 컬러 모드</string>
     <string name="super_night_se_tip">야간 모드</string>
     <string name="video_beauty_tip_beautification">꾸미기</string>
     <string name="document_mode_use_hint_text_body">"문서 모드, 스마트 보정 기능을 활성화합니다
-원터치로 문서를 스캔합니다"</string>
+원터치로 문서를 스캔합니다."</string>
     <string name="document_mode_use_hint_text_title">문서 모드</string>
     <string name="camera_setting">카메라</string>
     <string name="path_settings">시스템 앱/카메라/설정</string>
@@ -117,7 +117,7 @@
     <string name="access_sd_fail">SD 카드에 접근하지 못했습니다.</string>
     <string name="confirm_restore_title">기본 설정 복원</string>
     <string name="confirm_location_title">사진 위치를 기억하겠습니까?</string>
-    <string name="confirm_location_message">카메라에 오신 것을 환영합니다! 사진과 비디오를 촬영한 위치에 태그를 지정하면 갤러리가 더욱 체계적으로 구성되어 항목을 더 빨리 찾을 수 있습니다. 위치 정보 추가를 제한하면 일부 기능을 사용하지 못할 수 있습니다. 우리는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 개인 정보를 보호합니다.</string>
+    <string name="confirm_location_message">카메라에 오신 것을 환영합니다! 사진과 동영상을 촬영한 위치에 태그를 지정하면 갤러리가 더욱 체계적으로 구성되어 항목을 더 빨리 찾을 수 있습니다. 위치 정보 추가를 제한하면 일부 기능을 사용하지 못할 수 있습니다. 우리는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 개인 정보를 보호합니다.</string>
     <string name="confirm_location_alert">사진 위치 기억</string>
     <string name="start_capture">확인</string>
     <string name="pref_camera_recordlocation_title">위치 정보 저장</string>
@@ -264,7 +264,7 @@
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
-    <string name="pref_video_speed_title">비디오 캡처 속도</string>
+    <string name="pref_video_speed_title">동영상 캡처 속도</string>
     <string name="pref_video_speed_entry_normal">보통</string>
     <string name="pref_video_speed_entry_fast">빠름</string>
     <string name="pref_video_speed_entry_slow">느림</string>
@@ -308,7 +308,7 @@
     <string name="toast_burst_snap_finished_start">버스트 샷</string>
     <string name="toast_burst_snap_finished_end">사진</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">오디오 캡쳐가 켜져 있으면 버스트 샷을 사용할 수 없습니다.</string>
-    <string name="time_lapse_error">이 비디오 크기에서는 타임 랩스 녹화를 할 수 없습니다.</string>
+    <string name="time_lapse_error">이 동영상 크기에서는 타임 랩스 녹화를 할 수 없습니다.</string>
     <string name="pref_camera_movie_solid_title">이미지 흔들림 방지</string>
     <string name="simple_mode_button_text_hand_night">HHT 끄기</string>
     <string name="simple_mode_button_text_panorama">파노라마 끄기</string>
@@ -478,7 +478,7 @@
     <string name="pref_camera_beautify_entry_high">높음</string>
     <string name="camera_mode_options">옵션</string>
     <string name="button_front_camera_title">셀피</string>
-    <string name="button_normal_video_title">비디오 녹화</string>
+    <string name="button_normal_video_title">동영상 녹화</string>
     <string name="button_fisheye_camera_title">어안렌즈</string>
     <string name="pref_camera_groupshot_mode_title">그룹 셀카</string>
     <string name="simple_mode_button_text_groupshot">그룹 셀카 끄기</string>
@@ -535,7 +535,7 @@
     <string name="hint_fast_motion">빠른감기를 한 것처럼 영상이 촬영됩니다.</string>
     <string name="hint_slow_motion">슬로우모션으로 영상이 촬영됩니다.</string>
     <string name="hunt_dual_water_mark">듀얼 카메라 워터마크가 자동 추가됩니다.</string>
-    <string name="module_name_fun">짧은 비디오</string>
+    <string name="module_name_fun">짧은 동영상</string>
     <string name="module_name_video">동영상</string>
     <string name="module_name_capture">사진</string>
     <string name="module_name_beauty">미화</string>
@@ -705,7 +705,7 @@
     <string name="wifi_pwd">비밀번호:</string>
     <string name="wifi_security">보안:</string>
     <string name="pref_front_camera_flashmode_entry_torch">켜짐</string>
-    <string name="accessibilit_camera_video_switch_picker_and_state">카메라/비디오 전환 (현재 %s 모드)</string>
+    <string name="accessibilit_camera_video_switch_picker_and_state">카메라/동영상 전환 (현재 %s 모드)</string>
     <string name="accessibility_camera_auto_flashmode">자동 플래시</string>
     <string name="accessibility_camera_flashmode">항상 플래시 터뜨리기</string>
     <string name="accessibility_close_more_ptions">추가 옵션 비활성화</string>
@@ -715,7 +715,7 @@
     <string name="accessibility_more_ptions_closed">추가 옵션 비활성화됨</string>
     <string name="accessibility_more_ptions_opened">추가 옵션 활성화됨</string>
     <string name="accessibility_open_more_ptions">추가 옵션 활성화</string>
-    <string name="accessibility_scroll_button_slider">카메라/비디오 전환</string>
+    <string name="accessibility_scroll_button_slider">카메라/동영상 전환</string>
     <string name="accessibility_show_setting_panel_button">설정</string>
     <string name="accessibility_skin_beautify_closed">피부 색 보정 꺼짐</string>
     <string name="accessibility_skin_beautify_opened">피부 색 보정 켜짐</string>
@@ -735,7 +735,7 @@
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_title">%2$d 중 %1$d : </string>
-    <string name="disable_video_snapshot_hint">효과가 적용되어 있어서 비디오 스냅샷을 이용할 수 없습니다.</string>
+    <string name="disable_video_snapshot_hint">효과가 적용되어 있어서 동영상 스냅샷을 이용할 수 없습니다.</string>
     <string name="download_by_browser">브라우저로 다운로드하기</string>
     <string name="download_qq">QQ 다운로드</string>
     <string name="download_wechat">WeChat 다운로드</string>
@@ -750,7 +750,7 @@
     <string name="effect_silly_faces">효과</string>
     <string name="error_app_unsupported">해당 인코딩 방식에서 지원하지 않는 해상도입니다.</string>
     <string name="error_app_unsupported_hfr_720p">720P 해상도로는 90FPS까지만 지원됩니다.</string>
-    <string name="error_app_unsupported_hfr_codec">"H264 비디오 인코딩은 HFR이 켜져있을때만 지원됩니다."</string>
+    <string name="error_app_unsupported_hfr_codec">"H264 동영상 인코딩은 HFR이 켜져있을때만 지원됩니다."</string>
     <string name="error_app_unsupported_raw_wavelet">원시 사진을 찍을 때 웨이브 컷 노이즈가 적용되지 않습니다.</string>
     <string name="face_beauty_manual_title">수동 조절</string>
     <string name="face_beauty_simple_mode_title">피부 색 보정</string>
@@ -777,14 +777,14 @@
     <string name="launch_market">샤오미 앱 마켓 실행</string>
     <string name="launch_qq">브라우저에서 QQ 실행</string>
     <string name="launch_wechat">WeChat 실행</string>
-    <string name="loading_video">비디오 로딩중…</string>
+    <string name="loading_video">동영상 로딩중…</string>
     <string name="maker">제작기</string>
     <string name="measure_whitebalance_text">"흰 종이를 후방 카메라의 렌즈에서 6인치 떨어진 곳에 놓고 사진을 찍으세요."</string>
     <string name="mimetype">MIME 유형</string>
     <string name="no_save">"저장하지 않기"</string>
     <string name="no_thumbnail">썸네일 없음</string>
     <string name="not_selectable_in_scene_mode">장면 모드에서 선택할 수 없음e</string>
-    <string name="pano_dialog_panorama_failed">"파노라마를 저장할 수 없습니다"</string>
+    <string name="pano_dialog_panorama_failed">"파노라마를 저장할 수 없습니다."</string>
     <string name="pano_dialog_prepare_preview">준비중…</string>
     <string name="pano_dialog_waiting_previous">이전 파노라마 종료를 기다리는 중</string>
     <string name="pano_how_to_use_prompt">"파노라마 사진을 캡처하려면 셔터 버튼을 누르세요."</string>
@@ -838,7 +838,7 @@
     <string name="raw_data_exit_button_text">RAW 모드 끝내기</string>
     <string name="resume_playing_message">%s에서부터 다시 재생하시겠습니까?</string>
     <string name="resume_playing_resume">재생</string>
-    <string name="resume_playing_title">비디오 재게</string>
+    <string name="resume_playing_title">동영상 재게</string>
     <string name="rotate_left">왼쪽으로 회전</string>
     <string name="rotate_right">오른쪽으로 회전</string>
     <string name="secure_access_web_url">보안 접근</string>
@@ -853,16 +853,16 @@
     <string name="show_videos_only">영상만</string>
     <string name="simple_mode_button_text_hdr">HDR 모드</string>
     <string name="simple_mode_title">간단 모드</string>
-    <string name="snapshot_lower_than_video">비디오 해상도가 영상 크기보다 낮습니다. 현재 영상 크기보다 크거나 같은 해상도를 선택하세요.</string>
-    <string name="snapshot_qcif_and_d1">이 해상도에서는 비디오 스냅샷 크기만 지원됩니다.</string>
-    <string name="snapshotsize_low_powermode">"현재의 전원 관리 설정에서는 사진 해상도 변경이 지원되지 않습니다. 비디오 크기 스냅 샷이 사용됩니다."</string>
+    <string name="snapshot_lower_than_video">동영상 해상도가 영상 크기보다 낮습니다. 현재 영상 크기보다 크거나 같은 해상도를 선택하세요.</string>
+    <string name="snapshot_qcif_and_d1">이 해상도에서는 동영상 스냅샷 크기만 지원됩니다.</string>
+    <string name="snapshotsize_low_powermode">"현재의 전원 관리 설정에서는 사진 해상도 변경이 지원되지 않습니다. 동영상 크기 스냅 샷이 사용됩니다."</string>
     <string name="times">시간</string>
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">피부 색 보정 기능이 활성화된 경우 연속 촬영이 지원되지 않습니다.</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">HDR이 활성화된 경우 연속 촬영이 지원되지 않습니다.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">"ISO를 '자동'으로 설정해야 합니다."</string>
     <string name="unit_mm">mm</string>
     <string name="video_snapshot_hint">화면을 터치해 녹화 시작</string>
-    <string name="videocamera_settings_label">비디오 카메라 설정</string>
+    <string name="videocamera_settings_label">동영상 카메라 설정</string>
     <string name="visit_cloud_album">클라우드 앨범 보기</string>
     <string name="web_url_apk_warning">이 앱은 알 수 없는 출처에서 다운로드되었으며 위험 할 수 있습니다. 신뢰할 수 있는 앱만 설치하세요.</string>
     <string name="web_url_warning">링크 된 웹사이트는 위험할 수 있습니다.</string>
@@ -901,14 +901,14 @@
     <string name="pref_camera_front_ai_scene_entry_on">AI 장면</string>
     <string name="pref_camera_mfnr_sat_enable_title">MFNR 활성화</string>
     <string name="pref_camera_optimized_flash_enable_title">맞춤 플래시</string>
-    <string name="pref_video_hfr_title">비디오 HFR</string>
+    <string name="pref_video_hfr_title">동영상 HFR</string>
     <string name="ai_scene_mode_use_hint_text">"AI를 사용하여 장면을 인식하고
-환경설정을 자동으로 조정합니다"</string>
+환경설정을 자동으로 조정합니다."</string>
     <string name="accessibility_back_preview_status">후면 카메라 미리보기</string>
-    <string name="accessibility_beauty_panel_closed">Beautify 메뉴 숨김</string>
-    <string name="accessibility_beauty_panel_open">Beautify 메뉴 열림</string>
-    <string name="accessibility_beauty_switch_closed">Beautify 기능 꺼짐</string>
-    <string name="accessibility_beauty_switch_open">Beautify 기능 켜짐</string>
+    <string name="accessibility_beauty_panel_closed">보정 메뉴 숨김</string>
+    <string name="accessibility_beauty_panel_open">보정 메뉴 열림</string>
+    <string name="accessibility_beauty_switch_closed">보정 기능 꺼짐</string>
+    <string name="accessibility_beauty_switch_open">보정 기능 켜짐</string>
     <string name="accessibility_bokeh_normal">전면 카메라 아웃포커싱 꺼짐</string>
     <string name="accessibility_bokeh_on">전면 카메라 아웃포커싱 켜짐</string>
     <string name="accessibility_camera_picker_finish">카메라 전환 완료</string>
@@ -951,7 +951,7 @@
     <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_encoder_entry_h264">H.264 높은 호환성</string>
     <string name="pref_video_encoder_entry_h265">H.265 높은 성능</string>
-    <string name="pref_video_encoder_title">비디오 인코더</string>
+    <string name="pref_video_encoder_title">동영상 인코더</string>
     <string name="beauty_fragment_tab_name_3d_beauty">미화</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">리모델링</string>
     <string name="lens_dirty_detected_content">"카메라 렌즈가 더럽습니다,
@@ -959,7 +959,7 @@
     <string name="lens_dirty_detected_title_back">후면 카메라 오염</string>
     <string name="lens_dirty_detected_title_front">전면 카메라 오염</string>
     <string name="back_bokeh_use_hint">"최고의 효과를 위해 사물을 1.5미터이내에 두세요."</string>
-    <string name="pref_video_quality_summary">4K 비디오는 120FPS 모드를 사용할 수 없습니다.</string>
+    <string name="pref_video_quality_summary">4K 동영상은 120FPS 모드를 사용할 수 없습니다.</string>
     <string name="portrait_bokeh_text">세로 모드</string>
     <string name="portrait_bokeh_first_tips">"세로모드를 사용하여 사진의
 배경을 흐리게 만들어보세요"</string>
@@ -998,7 +998,7 @@
     <string name="hint_eye_light">플래시를 켰을 때 물방울 눈동자 효과를 극대화할 수 있습니다.</string>
     <string name="makeup_reset_toast">메이크업 효과 제거 완료</string>
     <string name="module_name_new_slow_motion">슬로우 모션</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">240FPS의 720P 비디오만 녹화할 수 있습니다.</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">240FPS의 720P 동영상만 녹화할 수 있습니다.</string>
     <string name="portrait_mode_use_hint_for_bokeh">"세로모드를 사용해보세요.
 배경을 흐릿하게하면서 피사체를 선명하게 유지하세요."</string>
     <string name="close_back_flash_toast">"기기가 과열되었습니다. 현재 후면 플래쉬 사용이 불가능합니다."</string>
@@ -1049,7 +1049,7 @@
     <string name="accessibility_record_button">녹화 버튼</string>
     <string name="accessibility_ultra_pixel_photography_off">울트라HD 꺼짐</string>
     <string name="accessibility_ultra_pixel_photography_on">울트라HD 켜짐</string>
-    <string name="accessibility_video_capture_button">비디오 녹화중 사진촬영 버튼</string>
+    <string name="accessibility_video_capture_button">동영상 녹화중 사진촬영 버튼</string>
     <string name="accessibility_video_pause_button">녹화 멈춤</string>
     <string name="accessibility_video_resume_button">녹화 재개</string>
     <string name="ai_scene_top_moon_off">야간 모드</string>
@@ -1126,8 +1126,8 @@
     <string name="portrait_india_effect_entry_young">젊음</string>
     <string name="pref_camera_sr_enable_title">슈퍼 해상도 켜기</string>
     <string name="pref_camera_super_resolution_title">슈퍼 해상도 켜기</string>
-    <string name="pref_camera_video_bokeh_off">비디오 보케 꺼짐</string>
-    <string name="pref_camera_video_bokeh_on">비디오 보케</string>
+    <string name="pref_camera_video_bokeh_off">동영상 보케 꺼짐</string>
+    <string name="pref_camera_video_bokeh_on">동영상 보케</string>
     <string name="pref_camera_volumekey_function_entry_timer">타이머</string>
     <string name="pref_google_lens">Google 렌즈</string>
     <string name="pref_hdr_indicator_entry_auto">자동</string>
@@ -1151,7 +1151,7 @@
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP 켜짐</string>
     <string name="hand_gesture_open_tip">타이머를 시작하려면 손바닥을 보여주세요.</string>
     <string name="hand_gesture_tip">손바닥 셔터</string>
-    <string name="pref_new_slow_motion_video_quality_960_720only">720p 비디오를 960프레임으로 촬영할 수 있습니다.</string>
+    <string name="pref_new_slow_motion_video_quality_960_720only">720p 동영상을 960프레임으로 촬영할 수 있습니다.</string>
     <string name="ultra_pixel_photography_32mp_close_tip">32MP 꺼짐</string>
     <string name="ultra_pixel_photography_32mp_open_tip">32MP 켜짐</string>
     <string name="ultra_pixel_photography_48mp_close_tip">48MP 꺼짐</string>
@@ -1215,10 +1215,10 @@
     <string name="mimoji_check_face_too_close">얼굴이 너무 큽니다. 휴대전화를 멀리 두세요.</string>
     <string name="mimoji_check_multi_face">프레임 안에 한명의 얼굴만 인식시키세요.</string>
     <string name="mimoji_check_beyond_20_degrees">안면기능을 활용하려면 화면을 주시해주세요.</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">전체화면</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">전체 화면</string>
     <string name="ultra_wide_mode_use_hint_text_sat">"0.6X 울트라 와이드 앵글 모드를 사용해 더 많은 추억을 남기세요.
 와이드 앵글 모드는 많은 풍경을 촬영할 때 좋습니다."</string>
-    <string name="accessibility_video_btn_play">비디오 재생</string>
+    <string name="accessibility_video_btn_play">동영상 재생</string>
     <string name="beauty_body_whole">체형</string>
     <string name="ultra_wide_open_tip_sat">0.6X 울트라 와이드 앵글 모드</string>
     <string name="video_beauty_tip">영상 미화</string>
@@ -1290,11 +1290,11 @@
     <string name="reset_manually_parameter_hint">재설정</string>
     <string name="accessibility_flash_back_soft_light">소프트라이트 모드에서 플래시 작동 중</string>
     <string name="dirty_tip_toast">렌즈를 닦아주세요.</string>
-    <string name="location_permission_des">사진 및 비디오의 위치를 기억하세요.</string>
+    <string name="location_permission_des">사진 및 동영상의 위치를 기억하세요.</string>
     <string name="location_permission_not_ask_again">카메라가 설정에서 사용자의 위치에 액세스하도록 허용.</string>
     <string name="location_permission_not_ask_again_go_to_settings">허용</string>
     <string name="network_access_user_notice_agree">동의</string>
-    <string name="network_access_user_notice_message_live_video">&lt;데이터&gt;"숏 비디오를 위한 효과, 음악 및 기타 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt; \"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
+    <string name="network_access_user_notice_message_live_video">&lt;데이터&gt;"숏 동영상을 위한 효과, 음악 및 기타 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt; \"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
     <string name="network_access_user_notice_message_sticker">&lt;데이터&gt;"스티커를 위한 효과, 음악 및 기타 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;\"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
     <string name="network_access_user_notice_message_voice_caption">&lt;데이터&gt;"읽어주기 기능을 이용하려면 인터넷과 연결되어야 합니다.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;\"동의\"를 터치하여 &amp;lt;a href =%1$s&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href =%2$s&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;,을 확인하실 수 있습니다. 카메라의 인터넷 접근을 허용합니다."&lt;/데이터&gt;</string>
     <string name="photo_assistance_tips_title">라이브 팁</string>
@@ -1314,14 +1314,14 @@
     <string name="super_night_hint">이미지 최적화 중… 기기를 유지하세요.</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_portrait_hint">HD 인물모드</string>
-    <string name="ultra_tele_use_hint_text_body">"50X줌을 사용해 멀리 있는 물체를 촬영할 수 있습니다"</string>
+    <string name="ultra_tele_use_hint_text_body">"50X줌을 사용해 멀리 있는 물체를 촬영할 수 있습니다."</string>
     <string name="ultra_tele_use_hint_text_title">50X줌</string>
     <string name="vv_duartion_hint">%1$s | 세그먼트 %2$d | %3$ss</string>
     <string name="vv_hint">가로 모드에서만 브이로그를 촬영할 수 있습니다.</string>
     <string name="vv_stability_hint">기기를 유지하세요.</string>
     <string name="vv_start">브이로그 촬영</string>
     <string name="vv_use_hint_text_body">"브이로그 모드를 사용하면
-이동 중에도 비디오를 녹화하고 편집 할 수 있습니다"</string>
+이동 중에도 동영상을 녹화하고 편집 할 수 있습니다."</string>
     <string name="vv_use_hint_text_title">브이로그</string>
     <string name="vv_mode_menu_item_name">브이로그</string>
     <string name="pref_popup_camera_title">팝업 카메라</string>
@@ -1331,7 +1331,7 @@
     <string name="document_strengthen">강화</string>
     <string name="pref_document_mode">문서 모드</string>
     <string name="pref_camera_first_tag_tips">마킹 완료</string>
-    <string name="pref_camera_video_tag">비디오 마킹 허용</string>
+    <string name="pref_camera_video_tag">동영상 마킹 허용</string>
     <string name="pref_camera_video_tag_description">재생시 마킹된 순간들로 돌아가려면 촬영하는 동안 \"마크\"를 탭하세요.</string>
     <string name="video_tag_flag_title">마크</string>
     <string name="miservice_notification_content">카메라 기능에 대한 자세한 내용을 보려면 클릭하세요.</string>
@@ -1342,14 +1342,14 @@
     <string name="video_effect_entry_summer_day">여름</string>
     <string name="video_effect_entry_wind_sing">미풍</string>
     <string name="location_access_allow">허용</string>
-    <string name="accessibility_camera_switch_capture_recording">사진 및 비디오 모드 전환</string>
+    <string name="accessibility_camera_switch_capture_recording">사진 및 동영상 모드 전환</string>
     <string name="auxiliary_close_status">추가 효과가 꺼져 있습니다.</string>
     <string name="auxiliary_exposure_feedback_status">노출 확인이 설정되었습니다.</string>
     <string name="auxiliary_focus_peak_status">포커스 피킹이 켜져 있습니다.</string>
     <string name="moive_frame">영화 프레임</string>
     <string name="parameter_description_pro_capture_title">사진 촬영을 위한 전문가 기능</string>
     <string name="parameter_description_pro_video_title">동영상 촬영을위한 전문가 기능</string>
-    <string name="parameter_description_sub_title">사진과 비디오를보다 독창적으로 촬영하세요.</string>
+    <string name="parameter_description_sub_title">사진과 동영상을보다 독창적으로 촬영하세요.</string>
     <string name="parameter_ef_split_description">노출 링을 초점 링에서 끌어내어 개별적으로 조정할 수 있습니다.</string>
     <string name="parameter_ef_split_title">별도의 초점 및 노출 측정</string>
     <string name="parameter_et_description">"자동 셔터 속도는 카메라의 조도계에 의해 결정됩니다. 수동으로 셔터 속도를 선택하면 셔터가 열려있을수록 센서에 더 많은 빛이 비추어 이미지가 더 밝아집니다."</string>
@@ -1373,7 +1373,7 @@
     <string name="parameter_lens_title">렌즈</string>
     <string name="parameter_lens_uw">, UW(초광각 렌즈)</string>
     <string name="parameter_lens_w">와이드(광각 렌즈)</string>
-    <string name="parameter_log_format_description">이 형식은 노출 곡선에 로그 기능이 적용된 비디오를 녹화하여 밝은 부분과 어두운 부분을 더 자세히 캡처하여 후 처리에 더 많은 옵션을 제공합니다.</string>
+    <string name="parameter_log_format_description">이 형식은 노출 곡선에 로그 기능이 적용된 동영상을 녹화하여 밝은 부분과 어두운 부분을 더 자세히 캡처하여 후 처리에 더 많은 옵션을 제공합니다.</string>
     <string name="parameter_log_format_title">로그 형식</string>
     <string name="parameter_metering_description">평균 측광은 이미지의 모든 영역을 고려하여 균일한 조명 장면에 가장 적합합니다. 중앙부 중점 측광은 주로 프레임의 중앙 영역에 초점을 맞추고 주변 영역의 밝기를 고려하여 프레임 중앙의 피사체를 촬영하는데 적합합니다. 스팟 측광은 한 지점의 영역만 커버하므로 노출을 정확하게 제어할 수 있습니다.</string>
     <string name="parameter_metering_title">측정 모드</string>
@@ -1404,7 +1404,7 @@
     <string name="watermark_tab_scene">장면</string>
     <string name="watermark_tab_spots">사이트</string>
     <string name="pref_camera_debug_info_as_watermark_title">워터 마크 디버깅 켜기</string>
-    <string name="pref_camera_video_sat_enable_title">비디오 부드러운 확대/축소 켜기</string>
+    <string name="pref_camera_video_sat_enable_title">동영상 부드러운 확대/축소 켜기</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="accessibility_eis_normal">EIS 켜짐</string>
     <string name="accessibility_eis_off">EIS 꺼짐</string>
@@ -1413,8 +1413,8 @@
     <string name="pref_camera_eis_entry_off">꺼짐</string>
     <string name="pref_camera_eis_entry_pro">EIS 프로 켜짐</string>
     <string name="pref_camera_eis_title">EIS</string>
-    <string name="super_eis_pro">스태디 비디오 프로</string>
-    <string name="super_eis_pro_disabled_hint">스태디 비디오 프로 꺼짐</string>
+    <string name="super_eis_pro">스태디 동영상 프로</string>
+    <string name="super_eis_pro_disabled_hint">스태디 동영상 프로 꺼짐</string>
     <string name="clone_do_not_move_phone">"기기를 움직이지 마세요"</string>
     <string name="clone_guide_tip1">복사는 인물에만 적용됩니다.</string>
     <string name="clone_guide_tip3">움직이는 물체와 모노톤 배경을 피하세요.</string>
@@ -1425,7 +1425,7 @@
     <string name="clone_guide_tip8">창의적으로 사진을 재구성 해보세요.</string>
     <string name="clone_guide_title2">사진에서 복사</string>
     <string name="clone_guide_title4">프리뷰</string>
-    <string name="clone_guide_video_title2">비디오에서 복사</string>
+    <string name="clone_guide_video_title2">동영상에서 복사</string>
     <string name="clone_landscape_hint">복사는 가로 모드에서만 적용됩니다.</string>
     <string name="clone_mode_start_hint">셔터를 탭하여 시작</string>
     <string name="clone_no_person_found">"물체를 찾을 수 없습니다."</string>
@@ -1434,7 +1434,7 @@
     <string name="clone_put_phone_back_in_place">기기를 원래 위치로 되돌리세요.</string>
     <string name="clone_start_capture">복사 시작</string>
     <string name="clone_too_much_movement_stop">기기를 너무 멀리 옮겼습니다. 캡처를 중지했습니다.</string>
-    <string name="clone_video_mode">비디오</string>
+    <string name="clone_video_mode">동영상</string>
     <string name="color_effect_entry_blackgold">로듐</string>
     <string name="color_effect_entry_first">소생</string>
     <string name="color_effect_entry_sibopenk">과학</string>
@@ -1449,7 +1449,7 @@
     <string name="edit_makeup">화장</string>
     <string name="expand_button_title">고급</string>
     <string name="lpl_dialog_item_name_burst">길게 눌러 사진 촬영</string>
-    <string name="lpl_dialog_item_name_record">길게 눌러 비디오 녹화</string>
+    <string name="lpl_dialog_item_name_record">길게 눌러 동영상 녹화</string>
     <string name="lpl_dialog_title">셔터 기능을 지정하세요.</string>
     <string name="mimoji_save_gif_emoticon">GIF 스티커를 갤러리에 저장하시겠습니까?</string>
     <string name="mimoji_tab_cartoon">만화</string>
@@ -1475,8 +1475,8 @@
     <string name="module_name_more">더보기</string>
     <string name="module_name_multi_camera">전면 &amp; 후면</string>
     <string name="not_set">지정되지 않음</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entry_record">비디오 녹화</string>
-    <string name="pref_camera_video_show_faceview_title">비디오 모드에서 얼굴 프레임 표시</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_record">동영상 녹화</string>
+    <string name="pref_camera_video_show_faceview_title">동영상 모드에서 얼굴 프레임 표시</string>
     <string name="pref_custom_feature_layout_title">기능 레이아웃</string>
     <string name="pref_custom_shutter_sound_title">사운드</string>
     <string name="pref_custom_tint_title">색상</string>
@@ -1503,15 +1503,15 @@
     <string name="pref_wind_denoise_default">켜짐</string>
     <string name="pref_wind_denoise_title">풍절음 필터</string>
     <string name="ambilight_intro_star_track_2">"별이 빛나는 하늘을 오랫동안 촬영하면 별의 궤적을 포착 할 수 있습니다. 삼각대를 사용하는 것을 잊지 마세요! 최소 %d분 동안 연속 촬영하여 사진과 동영상을 모두 얻을 수 있습니다."</string>
-    <string name="cta_msg">카메라에 오신 것을 환영합니다! 이 앱을 사용하여 사진을 찍고 비디오를 촬영할 수 있습니다. 이 앱은 인터넷에 연결해야하며 다음과 같은 선택적 권한이 필요합니다.</string>
-    <string name="cta_perm_dec">사진 및 비디오에 위치 정보를 추가하기 위해</string>
+    <string name="cta_msg">카메라에 오신 것을 환영합니다! 이 앱을 사용하여 사진을 찍고 동영상을 촬영할 수 있습니다. 이 앱은 인터넷에 연결해야하며 다음과 같은 선택적 권한이 필요합니다.</string>
+    <string name="cta_perm_dec">사진 및 동영상에 위치 정보를 추가하기 위해</string>
     <string name="cta_perm_loc">위치</string>
     <string name="cta_perm_type">"선택적인 권한 (사용하는 동안 추가 기능에 사용됨)"</string>
     <string name="user_disagree">"동의하지 않음"</string>
     <string name="module_name_super_moon">슈퍼 문</string>
     <string name="pixel_ai_108">AI 1억 픽셀의 생생함</string>
     <string name="pixel_ai_108_close">AI 1억 픽셀의 생생함</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">비디오 품질을 개선하기 위해 조명이 어두운 조건에서 %1$d-%2$dFPS까지 프레임 속도를 줄입니다.</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">동영상 품질을 개선하기 위해 조명이 어두운 조건에서 %1$d-%2$dFPS까지 프레임 속도를 줄입니다.</string>
     <string name="pref_camera_dynamic_frame_rate_title">저조도로 프레임 속도 조정</string>
     <string name="pref_camera_fastmotion_duration">지속 시간</string>
     <string name="pref_camera_fastmotion_duration_description">촬영 세션의 지속 시간은 기본적으로 무제한입니다. 고정된 순간에 세션을 중지시키는 타이머를 설정할 수도 있습니다.</string>
@@ -1522,8 +1522,8 @@
     <string name="pref_camera_fastmotion_speed_30x">거리</string>
     <string name="pref_camera_fastmotion_speed_750x">황혼</string>
     <string name="pref_camera_fastmotion_speed_90x">구름</string>
-    <string name="pref_camera_fastmotion_speed_description">고속으로 촬영한 타임랩스 비디오는 더 짧고 압축됩니다. 다른 장면에 적합한 속도 값은 다음과 같습니다.</string>
-    <string name="pref_hdr10_video_mode_description">H.265로 인코딩된 4K 및 8K 비디오 지원</string>
+    <string name="pref_camera_fastmotion_speed_description">고속으로 촬영한 타임랩스 동영상은 더 짧고 압축됩니다. 다른 장면에 적합한 속도 값은 다음과 같습니다.</string>
+    <string name="pref_hdr10_video_mode_description">4K 및 8K 동영상의 색상과 대비를 자동으로 최적화합니다. 최적화된 동영상은 HDR10 지원 기기에서만 재생할 수 있습니다.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
     <string name="settings_camera_near_range_description">평평한 표면에 초점을 맞출 때 흐림 효과 제거</string>
     <string name="settings_camera_near_range_title">근접 초점</string>
@@ -1542,7 +1542,7 @@
     <string name="ambilight_intro_magic_star_ae">빛 오염이 적은 곳에서 촬영할 때 밝은 별이 빛나는 하늘을 촬영할 수 있습니다. 가장 긴 촬영 시간은 %d초입니다. 삼각대를 사용하세요.</string>
     <string name="cta_user_tips"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href =%1$s>사용자 계약&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="pref_multi_camera_dual_video_front">전면 카메라</string>
-    <string name="custom_watermark_tips_gen2" formatted="false">최대 %d자 또는 %d자</string>
+    <string name="custom_watermark_tips_gen2">최대 %1$d자 또는 %2$d자</string>
     <string name="lighting_bright_red">다홍색</string>
     <string name="lighting_dazzling">빛줄기</string>
     <string name="lighting_dreamland">꿈나라</string>
@@ -1557,4 +1557,95 @@
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s 울트라 HD 꺼짐</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s 울트라 HD</string>
+    <string name="pref_camera_high_quality_preferred_description">이미지 품질 우선 알고리즘으로 이미지 처리를 개선하여 화질이 개선됩니다.</string>
+    <string name="pref_camera_high_quality_preferred_title">화질 개선</string>
+    <string name="accessibility_ai_identify">인식</string>
+    <string name="accessibility_ai_watermark_panel_on">AI 워터마크 패널</string>
+    <string name="accessibility_beauty_function_button">보정</string>
+    <string name="accessibility_beauty_function_panel_on">보정 패널</string>
+    <string name="accessibility_delay_capture_10s_button">타이머 10초 설정</string>
+    <string name="accessibility_delay_capture_3s_button">타이머 3초 설정</string>
+    <string name="accessibility_delay_capture_5s_button">타이머 5초 설정</string>
+    <string name="accessibility_delay_capture_close_button">타이머 꺼짐</string>
+    <string name="accessibility_description_clone_button">클론 패널</string>
+    <string name="accessibility_document_blackwhite_button">문서 탐색 중. 흑백.</string>
+    <string name="accessibility_document_origin_button">문서 탐색 중. 원본.</string>
+    <string name="accessibility_document_strengthen_button">문서 탐색 중. 개선.</string>
+    <string name="accessibility_fastmotion_speed_panel_on">속도 및 시간 패널</string>
+    <string name="accessibility_live_edit_exit_button">나가기</string>
+    <string name="accessibility_live_music_loading_button">불러오는 중</string>
+    <string name="accessibility_live_music_pause_button">일시 중지</string>
+    <string name="accessibility_live_music_play_button">재생</string>
+    <string name="accessibility_live_reverse_button">이전 클립 삭제</string>
+    <string name="accessibility_live_speed_panel_on">속도 패널</string>
+    <string name="accessibility_manually_custom_panel_on">수동 패널</string>
+    <string name="accessibility_mimoji_background_panel_on">배경 패널</string>
+    <string name="accessibility_mimoji_image_panel_on">아바타 패널</string>
+    <string name="accessibility_mimoji_timbre_panel_on">목소리 패널</string>
+    <string name="accessibility_module_picker_finish">%s로 전환</string>
+    <string name="accessibility_picturesize_1_1_button">"1:1 비율"</string>
+    <string name="accessibility_picturesize_3_4_button">"4:3 비율"</string>
+    <string name="accessibility_picturesize_9_16_button">"16:9 비율"</string>
+    <string name="accessibility_picturesize_fullscreen_button">전체 화면 비율</string>
+    <string name="accessibility_portrait_depth_effect_panel_on">인물 패널</string>
+    <string name="accessibility_shutter_capture_button">동영상 촬영 중 사진 촬영</string>
+    <string name="accessibility_shutter_complete_button">촬영 완료</string>
+    <string name="accessibility_shutter_end_button">정지</string>
+    <string name="accessibility_shutter_next_button">다음</string>
+    <string name="accessibility_shutter_pause_button">일시 중지</string>
+    <string name="accessibility_shutter_process_button">촬영 중</string>
+    <string name="accessibility_shutter_resume_button">계속</string>
+    <string name="accessibility_shutter_saving_button">저장 중</string>
+    <string name="accessibility_super_eis_off">EIS 꺼짐</string>
+    <string name="accessibility_super_eis_on">EIS 켜짐</string>
+    <string name="accessibility_super_eis_pr_on">EIS PRO 켜짐</string>
+    <string name="accessibility_super_moon_silhouette_panel_on">편집 패널</string>
+    <string name="accessibility_tilt_shift_circle_button">틸트 시프트. 원.</string>
+    <string name="accessibility_tilt_shift_parallel_button">틸트 시프트. 병렬.</string>
+    <string name="accessibility_timer_burst_image_off">타임 버스트 꺼짐</string>
+    <string name="accessibility_timer_burst_image_on">타임 버스트 켜짐</string>
+    <string name="accessibility_timer_burst_text">타임 버스트 조정 패널</string>
+    <string name="accessibility_whitebalance_custom_panel_on">수동 조정 패널</string>
+    <string name="ai_scene_mode_autumn">가을</string>
+    <string name="ai_scene_mode_backlight">역광</string>
+    <string name="ai_scene_mode_beach">해변</string>
+    <string name="ai_scene_mode_buddha">부처</string>
+    <string name="ai_scene_mode_building">건물</string>
+    <string name="ai_scene_mode_candle_night">촛불</string>
+    <string name="ai_scene_mode_car">자동차</string>
+    <string name="ai_scene_mode_cat">고양이</string>
+    <string name="ai_scene_mode_city">도시</string>
+    <string name="ai_scene_mode_cloud">구름</string>
+    <string name="ai_scene_mode_coconut_tree">야자나무</string>
+    <string name="ai_scene_mode_cow">소</string>
+    <string name="ai_scene_mode_curry">카레</string>
+    <string name="ai_scene_mode_doc">문서</string>
+    <string name="ai_scene_mode_dog">개</string>
+    <string name="ai_scene_mode_driving">수중</string>
+    <string name="ai_scene_mode_flower">꽃</string>
+    <string name="ai_scene_mode_food">음식</string>
+    <string name="ai_scene_mode_grass">풀</string>
+    <string name="ai_scene_mode_green_plants">식물</string>
+    <string name="ai_scene_mode_human">사람</string>
+    <string name="ai_scene_mode_id_card">신분증</string>
+    <string name="ai_scene_mode_jewelry">보석</string>
+    <string name="ai_scene_mode_maple_leaves">잎</string>
+    <string name="ai_scene_mode_monkey">원숭이</string>
+    <string name="ai_scene_mode_moon">달</string>
+    <string name="ai_scene_mode_motorbike">오토바이</string>
+    <string name="ai_scene_mode_night">밤</string>
+    <string name="ai_scene_mode_overcast">흐린 날</string>
+    <string name="ai_scene_mode_ppt">발표</string>
+    <string name="ai_scene_mode_sculpture">조각</string>
+    <string name="ai_scene_mode_sea">바다</string>
+    <string name="ai_scene_mode_sideface">단체 사진</string>
+    <string name="ai_scene_mode_silhouette">실루엣</string>
+    <string name="ai_scene_mode_sky">하늘</string>
+    <string name="ai_scene_mode_snow">눈</string>
+    <string name="ai_scene_mode_succulent">다육 식물</string>
+    <string name="ai_scene_mode_sunrise_sunset">"일출/일몰"</string>
+    <string name="ai_scene_mode_temple">사원</string>
+    <string name="ai_scene_mode_tower">탑</string>
+    <string name="ai_scene_mode_tutuk">삼륜차</string>
+    <string name="ai_scene_mode_unknown">알 수 없음</string>
 </resources>

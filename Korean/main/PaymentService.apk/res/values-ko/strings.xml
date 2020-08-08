@@ -229,7 +229,7 @@
     <string name="mibi_error_auth_summary">SMi 계정에 다시 로그인하세요.</string>
     <string name="mibi_error_cert_date_summary">"인증서 날짜 오류입니다. 현지 날짜를 확인한 후 다시 시도하세요."</string>
     <string name="mibi_error_common_summary">시스템 오류. 나중에 다시 시도하세요.</string>
-    <string name="mibi_error_deduct">"자동 결제 프로토콜을 활성화 할 수 없습니다"</string>
+    <string name="mibi_error_deduct">"자동 결제 프로토콜을 활성화 할 수 없습니다."</string>
     <string name="mibi_error_expired_summary">주문이 만료되었습니다.</string>
     <string name="mibi_error_has_bought_summary">이미 이 제품을 구입하셨습니다.</string>
     <string name="mibi_error_illegal_order_summary">주문 오류. 나중에 다시 시도하세요.</string>
@@ -268,7 +268,7 @@
     <string name="mibi_giftcard_hint">기프트 카드를 통해 추가된 Mi크레딧부터 자동으로 먼저 사용됩니다.</string>
     <string name="mibi_giftcard_payment">상품권</string>
     <string name="mibi_giftcard_payment_with_append">상품권 적용</string>
-    <string name="mibi_giftcard_push_notification_prime_title">"상품권을 받으셨습니다"</string>
+    <string name="mibi_giftcard_push_notification_prime_title">"상품권을 받으셨습니다."</string>
     <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi 크레딧 선물 제공.</string>
     <string name="mibi_giftcard_record">내 기프트 카드</string>
     <string name="mibi_giftcard_title">Mi 크레딧 기프트 카드</string>
@@ -289,7 +289,7 @@
     <string name="mibi_menu_feedback">피드백</string>
     <string name="mibi_menu_lock">앱 잠금 추가</string>
     <string name="mibi_menu_qa">묻고답하기</string>
-    <string name="mibi_menu_shotcut">홈화면에 배치</string>
+    <string name="mibi_menu_shotcut">홈 화면에 배치</string>
     <string name="mibi_mili_center">Mi크레딧</string>
     <string name="mibi_milicenter_title">Mi크레딧</string>
     <string name="mibi_mipay_error">Mi페이 실패</string>
@@ -332,7 +332,7 @@
     <string name="mibi_password_hint">계정 비밀번호 입력</string>
     <string name="mibi_password_prompt">지출을 확인하려면 Mi계정을 확인하세요.</string>
     <string name="mibi_payment_recharge_group_title">충전 방법 선택</string>
-    <string name="mibi_payment_success_label">"%1$s Mi크레딧을 지불하셨습니다"</string>
+    <string name="mibi_payment_success_label">"%1$s Mi크레딧을 지불하셨습니다."</string>
     <string name="mibi_payment_success_title">지불 금액</string>
     <string name="mibi_payment_with_login_title">Mi계정 확인</string>
     <string name="mibi_paytool_alipay">알리페이</string>
@@ -343,7 +343,7 @@
     <string name="mibi_paytool_msp_not_installed">%1$s 모바일 보안 플러그인을 설치하지 않았습니다. 지금 설치하시겠습니까?</string>
     <string name="mibi_paytool_paypal">페이팔</string>
     <string name="mibi_paytool_tenpay">텐페이</string>
-    <string name="mibi_paytool_weixin">위챗</string>
+    <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_prepaid_card_order_info">%1$s 충전 카드: %2$s 위안</string>
     <string name="mibi_prepaid_carriers_picker_hint">통신사 선택</string>
     <string name="mibi_prepaid_edit_limit">자릿수</string>
@@ -410,7 +410,7 @@
     <string name="mibi_scan_prompt_password">%1$s 선불카드 비밀번호 스캔</string>
     <string name="mibi_scan_prompt_voucher">Mi 크레딧 비밀번호 스캔</string>
     <string name="mibi_security_setting">설정</string>
-    <string name="mibi_shurtcut_create_success">홈화면으로 보내기</string>
+    <string name="mibi_shurtcut_create_success">홈 화면으로 보내기</string>
     <string name="mibi_signing_pay_group_title">구입 방법 선택</string>
     <string name="mibi_signing_success_sub">갱신가능 지불은 %1$s를 사용하여 이루어집니다.</string>
     <string name="mibi_signing_success_title">선택 완료</string>
@@ -425,7 +425,7 @@
     <string name="mibi_title_custom_service_phone">고객센터 연락하기</string>
     <string name="mibi_title_discounts">할인</string>
     <string name="mibi_title_mili_center">Mi 크레딧</string>
-    <string name="mibi_title_nopassword">"소액결재시에는 비밀번호를 입력하지 않습니다"</string>
+    <string name="mibi_title_nopassword">"소액결재시에는 비밀번호를 입력하지 않습니다."</string>
     <string name="mibi_title_nopassword_dialog">일일한도</string>
     <string name="mibi_title_password">비밀번호</string>
     <string name="mibi_title_password_threshold">일일한도 = ￥%1$s</string>
@@ -443,7 +443,7 @@
     <string name="mibi_error_frozen_service_time">월요일부터 일요일까지</string>
     <string name="mibi_error_frozen_summary">"귀하의 계정이 정지되었습니다. 샤오미 고객센터에 문의하세요."</string>
     <string name="mibi_title_bill_record">구매 내역</string>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">옵션 더보기</string>
     <string name="abc_action_mode_done">완료</string>
@@ -470,7 +470,7 @@
     <string name="mibi_giftcard_used">사용됨</string>
     <string name="mibi_giftcard_vaild_util">%1$s 까지 사용불가</string>
     <string name="mibi_pay_grid_error_denomination">총 수량은 Mi 크레딧 %1$s 에서 %2$s 사이여야 합니다.</string>
-    <string name="mibi_pay_success_summary">"%1$s Mi 크레딧을 지불하였습니다"</string>
+    <string name="mibi_pay_success_summary">"%1$s Mi 크레딧을 지불하였습니다."</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi 크레딧 충전됨，%2$s Mi 크레딧으로 결제됨</string>
     <string name="passport_account_set_password">비밀번호 설정</string>
     <string name="passport_account_set_password_prompt">다음번 로그인을 위해 비밀번호를 설정하세요.</string>

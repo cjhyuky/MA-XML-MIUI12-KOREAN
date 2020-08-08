@@ -26,7 +26,7 @@
         <item>데이터 연결</item>
         <item>위치</item>
         <item>우선 알림</item>
-        <item>잠금화면 알림</item>
+        <item>잠금 화면 알림</item>
         <item>백그라운드 데이터 연결 제한</item>
     </string-array>
     <string-array name="action_param_translate">
@@ -88,7 +88,7 @@
         <item>성능 우선</item>
         <item>최대 절약모드 미지원</item>
     </string-array>
-        <string-array name="power_mode_entries">
+    <string-array name="power_mode_entries">
         <item>퍼포먼스 모드</item>
         <item>균형 모드</item>
     </string-array>

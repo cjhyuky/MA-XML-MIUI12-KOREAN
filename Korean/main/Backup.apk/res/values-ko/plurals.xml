@@ -31,7 +31,7 @@
          <item quantity="other">%d개의 항목이 백업되고 복원되었습니다.</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d개의 항목이 백업되었습니다"</item>
+        <item quantity="other">"%d개의 항목이 백업되었습니다."</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">%d개의 항목이 백업되지 않았습니다.</item>

@@ -188,7 +188,7 @@
     <string name="passport_account_set_password_prompt">다음에 로그인하기 위해 계정 비밀 번호를 설정하세요.</string>
     <string name="passport_set">설정</string>
     <string name="passport_user_reg_region">지역/로케일</string>
-    <string name="passport_user_reg_region_warning">"지역/로케일은 한번 선택하면 바꿀 수 없습니다"</string>
+    <string name="passport_user_reg_region_warning">"지역/로케일은 한번 선택하면 바꿀 수 없습니다."</string>
     <string name="search_app_name">Mi 계정</string>
     <string name="search_mi_account">Mi 계정</string>
     <string name="search_mi_account_key_words">Mi 클라우드,계정 설정,Mi 페이 정보,로그아웃</string>
@@ -500,11 +500,11 @@ ID:%s
     <string name="sending">보내는 중...</string>
     <string name="temporary_not_available">일시적으로 사용 불가</string>
     <string name="confirm_new_pwd">새로운 패스워드를 다시입력해주세요.</string>
-    <string name="inconsistent_pwd">"패스워드가 같지 않습니다"</string>
+    <string name="inconsistent_pwd">"패스워드가 같지 않습니다."</string>
     <string name="input_new_pwd">새로운 패스워드를 입력하세요.</string>
     <string name="mi_finance">나의 잔고</string>
     <string name="mi_finance_info">신규 사용자를 위한 보너스</string>
-    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다"</string>
+    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다."</string>
     <string name="sim_card">SIM카드</string>
     <string name="used_cloud_storage_info">사용된 저장공간 %s</string>
     <string name="exit">나가기</string>
@@ -528,9 +528,9 @@ ID:%s
     <string name="passport_first_login_prompt">Mi계정은 최초 로그인시 자동으로 생성됩니다.</string>
     <string name="scan_barcode">QR코드 스캔</string>
     <string name="passport_wx_bind_account_limit">"지금 계정을 만들 수 없습니다. 다른 로그인 방법을 사용해보세요."</string>
-    <string name="weixin">위챗</string>
-    <string name="bind_weixin">위챗 계정으로 접속하세요.</string>
-    <string name="need_install_wechat">먼저 위챗을 설치하세요.</string>
+    <string name="weixin">WeChat</string>
+    <string name="bind_weixin">WeChat 계정으로 접속하세요.</string>
+    <string name="need_install_wechat">먼저 WeChat을 설치하세요.</string>
     <string name="google">Google</string>
     <string name="bind_google">Google 계정으로 접속하세요.</string>
     <string name="ep_unsupported">이 기기에서 Mi 계정 로그인 불가</string>
@@ -542,7 +542,7 @@ ID:%s
     <string name="system_ad_switch_failed">설정 적용 실패</string>
     <string name="passport_ticket_login_select_sim_card">SIM 카드 선택</string>
     <string name="passport_ticket_login_select_sim_card_cancel">취소</string>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">옵션 더 보기</string>
     <string name="abc_action_mode_done">완료</string>
@@ -570,7 +570,7 @@ ID:%s
     <string name="two_factor_auth_need_code">코드 입력</string>
     <string name="two_factor_auth_need_code_summary">"연결된 다른 Mi 기기에 코드가 표시됩니다. 로그인하려면 새 기기에 이 코드를 입력하세요."</string>
     <string name="two_factor_auth_summary">"새 장치 또는 새 위치에서 로그인을 시도하면 연결된 다른 장치에서 이 메시지가 표시됩니다. 이러한 로그인 시도가 있는지 확인해야 합니다."</string>
-    <string name="pwd_width_phone_number_or_mail_num">"비밀번호는 전화번호, 이메일 또는 Mi 계정 ID를 포함 할 수 없습니다"</string>
+    <string name="pwd_width_phone_number_or_mail_num">"비밀번호는 전화번호, 이메일 또는 Mi 계정 ID를 포함 할 수 없습니다."</string>
     <string name="risky_pwd_not_allow">"새 비밀번호가 안전하지 않습니다. 다른 비밀번호를 설정하세요."</string>
     <string name="passport_can_not_receive_verification_code">"인증 코드를 받지 못하시나요?"</string>
     <string name="account_user_id_show">내 계정: %s</string>
@@ -601,7 +601,7 @@ ID:%s
     <string name="passport_google_login_disagree">내 계정</string>
     <string name="passport_google_login_failed">"Google에 로그인 할 수 없습니다. Mi 계정에 직접 로그인하세요."</string>
     <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
-    <string name="state_data_error">"데이터를 가져올 수 없습니다"</string>
+    <string name="state_data_error">"데이터를 가져올 수 없습니다."</string>
     <string name="state_loading">잠시만 기다려주세요…</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>

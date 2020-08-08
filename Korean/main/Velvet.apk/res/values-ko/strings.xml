@@ -9,7 +9,7 @@
     <string name="mr_media_route_controller_stop">전송 중지</string>
     <string name="mr_media_route_controller_settings_description">경로 설정</string>
     <string name="mr_media_route_controller_play">재생</string>
-    <string name="mr_media_route_controller_pause">일시중지</string>
+    <string name="mr_media_route_controller_pause">일시 중지</string>
     <string name="mr_media_route_controller_no_info_available">정보가 없습니다.</string>
     <string name="wallpaper_instructions">배경화면 설정</string>
     <string name="image_load_fail">이미지를 로드할 수 없습니다.</string>
@@ -774,8 +774,8 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="real_estate_show_similar">매매 중인 비슷한 집 보기</string>
     <string name="real_estate_show_comps">매매가 이뤄진 비슷한 집 보기</string>
     <string name="real_estate_card">부동산</string>
-    <string name="snooze_button">알림 일시중지</string>
-    <string name="snooze_fail">알림을 일시중지하지 못했습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="snooze_button">알림 일시 중지</string>
+    <string name="snooze_fail">알림을 일시 중지하지 못했습니다. 나중에 다시 시도해 주세요.</string>
     <string name="snooze_success">알림이 일시 중지되었습니다.</string>
     <string name="add_reminder">알림 추가...</string>
     <string name="edit_reminder">알림 수정</string>
@@ -1365,7 +1365,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="cannot_show_cards_low_disk_space">저장공간이 부족하여 카드를 표시할 수 없습니다.</string>
     <string name="cannot_load_reading_list_low_disk_space">저장공간이 부족하여 읽기 목록을 표시할 수 없습니다.</string>
     <string name="accessibility_play_button_description">음악 재생</string>
-    <string name="accessibility_pause_button_description">음악 일시중지</string>
+    <string name="accessibility_pause_button_description">음악 일시 중지</string>
     <string name="error_no_network_connectivity">인터넷에 연결되어 있지 않습니다. 연결 상태를 확인한 후 다시 시도하세요.</string>
     <string name="error_user_cancelled_operation">문제가 발생했습니다. 검색을 다시 시도하세요.</string>
     <string name="error_unreliable_network">문제가 발생했습니다. 연결 상태를 확인한 후 다시 시도하세요.</string>
@@ -1719,7 +1719,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="permission_required_action_notification_title">Google</string>
     <string name="permission_required_action_notification_body">앱에서 권한을 요청합니다.</string>
     <string name="ime_service_label">Google 보이스 입력</string>
-    <string name="ime_hint_tap_to_pause">탭하여 일시중지</string>
+    <string name="ime_hint_tap_to_pause">탭하여 일시 중지</string>
     <string name="ime_hint_keyboard_input">키보드 입력</string>
     <string name="ime_settings_button">설정</string>
     <string name="ime_undo_button">실행취소</string>

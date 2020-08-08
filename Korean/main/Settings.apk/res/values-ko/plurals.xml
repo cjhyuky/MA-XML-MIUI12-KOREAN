@@ -19,7 +19,7 @@
         <item quantity="other">%d개 앱의 알림을 표시합니다.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d개 토글을 알림창에 표시합니다.</item>
+        <item quantity="other">%1$d개 토글을 알림 창에 표시합니다.</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">개발자가 되려면 %1$d단계가 남았습니다.</item>
@@ -53,7 +53,7 @@
         <item quantity="other">SIM PIN 코드가 잘못되었습니다. %d번의 기회가 남았습니다.</item>
         <item quantity="one">SIM PIN 코드가 잘못되었습니다. %d회 이상 실패할 경우 이동통신사에 문의하여 기기를 잠금 해제해야 합니다.</item>
     </plurals>
-        <plurals name="memory_usage_apps_summary">
+       <plurals name="memory_usage_apps_summary">
         <item quantity="other">지난 %2$s 동안 %1$d개의 앱에서 메모리를 사용하였습니다.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
@@ -112,7 +112,7 @@
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d개 위험 발견됨</item>
     </plurals>
-        <plurals name="dlg_remove_locales_title">
+       <plurals name="dlg_remove_locales_title">
         <item quantity="other">선택한 언어를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
@@ -284,7 +284,7 @@
         <item quantity="other">%1$d개 앱을 중단하시겠습니까?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">"이 앱들은 백그라운드에서 실행할 수 없습니다"</item>
+        <item quantity="other">"이 앱들은 백그라운드에서 실행할 수 없습니다."</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
         <item quantity="other">%2$d개 앱들 현재 백그라운드 제한됨</item>

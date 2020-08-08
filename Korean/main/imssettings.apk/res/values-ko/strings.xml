@@ -63,7 +63,7 @@
     <string name="ims_reg_settings_name">IMS 등록 관련 설정</string>
     <string name="ims_resolution_settings_720P">720P</string>
     <string name="ims_resolution_settings_VGA">VGA</string>
-    <string name="ims_resolution_settings_name">비디오 해상도 설정</string>
+    <string name="ims_resolution_settings_name">동영상 해상도 설정</string>
     <string name="ims_sdp_AVPF_negotiation_name">SDP는 AVPF를 사용합니다.</string>
     <string name="ims_sdp_imageattr_parameter_name">"SDP to carry    imageattr par"</string>
     <string name="ims_sdp_negotiation_setting_name">SDP 협상 구성</string>

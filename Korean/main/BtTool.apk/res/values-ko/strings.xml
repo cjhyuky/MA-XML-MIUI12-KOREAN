@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 탐색</string>
     <string name="abc_action_menu_overflow_description">옵션 더보기</string>
     <string name="abc_action_mode_done">완료</string>
@@ -35,8 +35,8 @@
     <string name="nnf_select_something_first">먼저 선택하세요.</string>
     <string name="abc_capital_off">꺼짐</string>
     <string name="abc_capital_on">켜짐</string>
-    <string name="act_set_prefs_bluetooth_fw">Bluetooth 펌웨어 로그</string>
-    <string name="act_set_prefs_bluetooth_host">Bluetooth 호스트 로그</string>
+    <string name="act_set_prefs_bluetooth_fw">블루투스 펌웨어 로그</string>
+    <string name="act_set_prefs_bluetooth_host">블루투스 호스트 로그</string>
     <string name="act_set_test_scenarios">테스트 환경 보기</string>
     <string name="act_test_secnario_always_visable">DUT 항상 보기</string>
     <string name="change_alert_message">변경 사항을 적하시려면 블루투스를 다시 시작하세요.</string>

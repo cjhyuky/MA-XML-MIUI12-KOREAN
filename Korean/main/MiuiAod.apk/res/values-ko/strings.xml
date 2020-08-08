@@ -17,13 +17,13 @@
     <string name="friday">금요일</string>
     <string name="friday_short">금</string>
     <string name="friday_shortest">금</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로 고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로 고침 완료</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로 고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로 고침 해제</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">미 데이터 없음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않기</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로 고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="monday">월요일</string>
     <string name="monday_short">월</string>
@@ -170,7 +170,7 @@
     <string name="show_notification">알림 표시</string>
     <string name="signature">서명</string>
     <string name="signature_default_content">"항상 무언가를 믿는다
-근사한 일이 일어날 것입니다"</string>
+근사한 일이 일어날 것입니다."</string>
     <string name="standard_style">표준</string>
     <string name="text_color">텍스트 색상</string>
     <string name="text_length_exceed_limit_alert">*입력한 텍스트가 너무 깁니다.</string>
@@ -210,8 +210,8 @@
     <string name="summary">"전력 소비를 줄이기 위해 기기가 오랫동안 어두운 곳에있을 때는 항목이 표시되지 않습니다."</string>
     <string name="temporary_style">탭한 후 10초 동안</string>
     <string name="time_location">시계 위치</string>
-     <string name="disable_aod_in_dark_room">어두운 곳에서 누워있을 때 AOD 끄기</string>
-     <string name="disable_aod_in_power_save_mode">배터리 절약모드시 AOD 끄기</string>
-     <string name="disable_aod_in_power_save_mode_summary">"배터리 절약을 위해 아무것도 표시하지 않습니다"</string>
-     <string name="photo_editor_saving">저장중…</string>
+    <string name="disable_aod_in_dark_room">어두운 곳에서 누워있을 때 AOD 끄기</string>
+    <string name="disable_aod_in_power_save_mode">배터리 절약모드시 AOD 끄기</string>
+    <string name="disable_aod_in_power_save_mode_summary">"배터리 절약을 위해 아무것도 표시하지 않습니다."</string>
+    <string name="photo_editor_saving">저장중…</string>
 </resources>

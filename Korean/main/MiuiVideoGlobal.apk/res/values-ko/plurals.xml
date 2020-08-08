@@ -10,13 +10,13 @@
     <item quantity="other">크기: %.2fKB</item>
     </plurals>
     <plurals name="lv_video_count">
-    <item quantity="other">%d개 비디오</item>
+    <item quantity="other">%d개 동영상</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
-    <item quantity="other">%d개 비디오</item>
+    <item quantity="other">%d개 동영상</item>
     </plurals>
     <plurals name="ovp_home_item_unit">
-    <item quantity="other">%d개 비디오</item>
+    <item quantity="other">%d개 동영상</item>
     </plurals>
     <plurals name="pw_comment_count">
     <item quantity="other">%d개 댓글</item>

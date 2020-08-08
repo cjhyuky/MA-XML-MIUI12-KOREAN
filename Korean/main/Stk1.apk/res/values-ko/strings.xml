@@ -26,7 +26,7 @@
     <string name="lable_get_input">입력 불러오기</string>
     <string name="lable_launch_browser">브라우저 시작</string>
     <string name="lable_play_tone">벨소리 재생</string>
-    <string name="lable_refresh">새로 고침</string>
+    <string name="lable_refresh">새로고침</string>
     <string name="lable_select_item">항목 선택</string>
     <string name="lable_send_ss">SS 보내기</string>
     <string name="lable_send_ussd">USSD 보내기</string>

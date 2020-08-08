@@ -17,7 +17,7 @@
     <string name="download_geturl_fail">URL을 받아오지 못했습니다.</string>
     <string name="download_percent_hint">%d%% 다운로드 중</string>
     <string name="waiting_to_download">대기 중</string>
-    <string name="pause">일시정지</string>
+    <string name="pause">일시 중지</string>
     <string name="init">초기화</string>
     <string name="file_error">파일 오류</string>
     <string name="connect_error">연결 오류</string>
@@ -124,7 +124,7 @@
     <string name="to_be_play_label_v5">"다음 재생 예정: "</string>
     <string name="about_version_label">"버전 "</string>
     <string name="nowifi_alert_dialog_title">데이터 사용량 경고</string>
-    <string name="nowifi_alert_dialog_message">모바일 데이터 연결을 사용하여 비디오를 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
+    <string name="nowifi_alert_dialog_message">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="nowifi_alert_dialog_continue">확인</string>
     <string name="nowifi_alert_dialog_exit">취소</string>
     <string name="menu_item_enable_audio_enhance">오디오 강조</string>
@@ -135,7 +135,7 @@
     <string name="vp_super_definition">최대</string>
     <string name="vp_full_high_definition">1080P</string>
     <string name="vp_content_description">설명</string>
-    <string name="vp_get_url_error">이 비디오의 URL을 찾을 수 없습니다.</string>
+    <string name="vp_get_url_error">이 동영상의 URL을 찾을 수 없습니다.</string>
     <string name="vp_exit">종료</string>
     <string name="vp_back">뒤로</string>
     <string name="vp_newest_ep">새</string>
@@ -150,7 +150,7 @@
     <string name="vp_offline_status_done">완료됨</string>
     <string name="vp_offline_status_wait">대기</string>
     <string name="vp_offline_status_none">준비</string>
-    <string name="vp_offline_status_pause">일시정지됨</string>
+    <string name="vp_offline_status_pause">일시 중지됨</string>
     <string name="vp_offline_status_dowloading">다운로드 중</string>
     <string name="vp_offline_status_fail">실패함</string>
     <string name="vp_select_video_source">소스 선택</string>
@@ -179,10 +179,10 @@
     <string name="vp_retry">다시 시도</string>
     <string name="vp_cancel">취소</string>
     <string name="vp_client_message">%1$s 클라이언트를 설치하시겠습니까?</string>
-    <string name="vp_plugin_message">HD 비디오 플러그 인을 설치하시겠습니까?</string>
+    <string name="vp_plugin_message">HD 동영상 플러그 인을 설치하시겠습니까?</string>
     <string name="vp_closedialog">확인</string>
     <string name="vp_hint">주의</string>
-    <string name="vp_maintitlearea">어디서든 HD 비디오 시청</string>
+    <string name="vp_maintitlearea">어디서든 HD 동영상 시청</string>
     <string name="vp_toast_downloadapk">다운로드 중…</string>
     <string name="vp_video_loading"><CDATA>로딩 중…</CDATA></string>
     <string name="vp_video_plugin_installation">%1$s 플러그인을 설치 중…</string>

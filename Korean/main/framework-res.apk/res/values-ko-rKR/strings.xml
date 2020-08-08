@@ -437,7 +437,7 @@
 
 %d초 후에 다시 시도하세요."</string>
     <string name="lockscreen_transport_next_description">다음 트랙 버튼</string>
-    <string name="lockscreen_transport_pause_description">일시중지 버튼</string>
+    <string name="lockscreen_transport_pause_description">일시 중지 버튼</string>
     <string name="lockscreen_transport_play_description">재생 버튼</string>
     <string name="lockscreen_transport_prev_description">이전 트랙 버튼</string>
     <string name="lockscreen_transport_stop_description">중지 버튼</string>
@@ -1019,7 +1019,7 @@
     <string name="roamingText10">로밍 - 부분 서비스 기능</string>
     <string name="roamingText11">로밍 배너 사용</string>
     <string name="roamingText12">로밍 배너 사용 안함</string>
-    <string name="roamingText2">로밍 표시기 깜박임</string>
+    <string name="roamingText2">로밍 표시기 깜빡임</string>
     <string name="roamingText3">인근 지역 외부</string>
     <string name="roamingText4">건물 밖</string>
     <string name="roamingText5">로밍 - 기본 시스템</string>

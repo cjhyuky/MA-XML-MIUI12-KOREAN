@@ -39,7 +39,7 @@
     <string name="main_toolbar_purchase">위로 가기</string>
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
-    <string name="miuishare_wechat_timeline_title">위챗 모멘트</string>
+    <string name="miuishare_wechat_timeline_title">WeChat 모멘트</string>
     <string name="miuishare_weibo_title">웨이보</string>
     <string name="network_not_available">네트워크에 연결할 수 없습니다.</string>
     <string name="no_network_btn">다시 시도하세요.</string>

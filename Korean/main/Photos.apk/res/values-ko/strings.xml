@@ -20,7 +20,7 @@
     <string name="ingest_empty_device">이 기기로 가져올 수 있는 콘텐츠가 없습니다.</string>
     <string name="ingest_no_device">연결된 MTP 기기가 없습니다.</string>
     <string name="ingest_switch_photo_grid">바둑판식 보기</string>
-    <string name="ingest_switch_photo_fullscreen">전체화면 보기</string>
+    <string name="ingest_switch_photo_fullscreen">전체 화면 보기</string>
     <string name="photos_uploadtoalbum_account_required_title">계정 필요</string>
     <string name="photos_uploadtoalbum_account_required_message">미디어를 업로드하려면 Google 포토 계정에 로그인해야 합니다.</string>
     <string name="photos_uploadtoalbum_account_label">계정</string>
@@ -99,7 +99,7 @@
     <string name="enable_location_reporting_title">위치 기록</string>
     <string name="enable_location_reporting_error_title">오류 발생</string>
     <string name="enable_location_reporting_error">%s에 대해 위치 기록을 사용 설정할 수 없습니다. 위치 기록을 사용하도록 설정하려면 위치 설정으로 이동하세요.</string>
-    <string name="friend_locations_enable_reporting_auto_body">위치 기록은 위치 공유에 필요하며, 출퇴근길 정보 자동 예측, 검색결과 개선, Google 안팎에 표시되는 유용한 광고 등 유용한 정보를 얻는 데 도움이 됩니다. 이를 위해 위치 기록은 내가 로그인한 기기를 가지고 이동한 위치에 대한 비공개 지도를 생성합니다. &lt;br>&lt;br>Google은 이 지도를 만들기 위해 내가 특정 Google 제품을 사용하지 않고 있을 때에도 내가 위치 기록을 사용 설정한 기기로부터 정기적으로 위치 데이터를 얻습니다. &lt;br>&lt;br>언제든지 위치 기록을 일시중지할 수 있지만, 이로 인해 이전의 활동이 삭제되지는 않습니다. &lt;a href=https://support.google.com/accounts/answer/3118687>자세히 알아보기&lt;/a></string>
+    <string name="friend_locations_enable_reporting_auto_body">위치 기록은 위치 공유에 필요하며, 출퇴근길 정보 자동 예측, 검색결과 개선, Google 안팎에 표시되는 유용한 광고 등 유용한 정보를 얻는 데 도움이 됩니다. 이를 위해 위치 기록은 내가 로그인한 기기를 가지고 이동한 위치에 대한 비공개 지도를 생성합니다. &lt;br>&lt;br>Google은 이 지도를 만들기 위해 내가 특정 Google 제품을 사용하지 않고 있을 때에도 내가 위치 기록을 사용 설정한 기기로부터 정기적으로 위치 데이터를 얻습니다. &lt;br>&lt;br>언제든지 위치 기록을 일시 중지할 수 있지만, 이로 인해 이전의 활동이 삭제되지는 않습니다. &lt;a href=https://support.google.com/accounts/answer/3118687>자세히 알아보기&lt;/a></string>
     <string name="friend_locations_reporting_text">현재 위치를 다른 사용자와 공유하려면 위치 기록을 사용 설정하세요.</string>
     <string name="friend_locations_reporting_suggestion_notification_text">계정(%1$s)에서 웹사이트의 위치 공유 기능을 사용합니다. 위치를 공유하려면 위치 정보 전송 기능을 사용하도록 설정해야 합니다.</string>
     <string name="friend_locations_tooltip_sharing_coalesced" formatted="false">%s님 외 %d명이 자신의 위치를 나와 공유합니다.</string>
@@ -474,7 +474,7 @@
 
 이 지도를 만들기 위해 Google은 위치 기록이 사용 설정된 기기에 한해서 사용자가 특정 Google 제품을 사용하지 않을 때도 수시로 위치 데이터를 수집합니다.
 
-원하는 경우 위치 기록을 일시중지할 수 있지만, 위치 기록을 일시중지해도 이전 활동 기록은 삭제되지 않습니다. "<a href="https://support.google.com/accounts/answer/3118687?p=location_history">자세히 알아보기</a></string>
+원하는 경우 위치 기록을 일시 중지할 수 있지만, 위치 기록을 일시 중지해도 이전 활동 기록은 삭제되지 않습니다. "<a href="https://support.google.com/accounts/answer/3118687?p=location_history">자세히 알아보기</a></string>
     <string name="device_folders_card_title">기기 폴더 백업</string>
     <string name="device_folders_card_description">다운로드, 스크린샷 등의 폴더를 백업하면 포토 라이브러리에서 콘텐츠를 확인, 검색, 정리할 수 있습니다.</string>
     <string name="device_folders_card_primary_button">기기 폴더</string>
@@ -510,7 +510,7 @@
     <string name="photos_assistant_autobackup_current_image">현재 사진 백업 중</string>
     <string name="photos_assistant_autobackup_status">자동 백업 상태</string>
     <string name="photos_assistant_autobackup_settings">자동 백업 설정</string>
-    <string name="photos_assistant_autobackup_paused">백업이 일시중지됨</string>
+    <string name="photos_assistant_autobackup_paused">백업이 일시 중지됨</string>
     <string name="photos_assistant_autobackup_master_sync_is_off_subtitle">기기 수준의 자동 동기화 사용 중지됨</string>
     <string name="photos_assistant_autobackup_is_off">백업 및 동기화 사용 중지됨</string>
     <string name="photos_assistant_autobackup_is_off_subtitle">설정에서 켜기</string>
@@ -909,7 +909,7 @@
     <string name="photos_remotemedia_save_to_library_failed">라이브러리에 저장할 수 없음</string>
     <string name="photos_remotemedia_accessible_reorder_announcment">이 항목에 드롭할 사진 선택</string>
     <string name="mm_play">재생</string>
-    <string name="mm_pause">일시중지</string>
+    <string name="mm_pause">일시 중지</string>
     <string name="mm_menu_settings">설정</string>
     <string name="mm_menu_movie_length">영화 길이 변경</string>
     <string name="mm_menu_save_to_collection">저장</string>
@@ -1087,7 +1087,7 @@
     <string name="mr_media_route_controller_stop">전송 중지</string>
     <string name="mr_media_route_controller_settings_description">경로 설정</string>
     <string name="mr_media_route_controller_play">재생</string>
-    <string name="mr_media_route_controller_pause">일시중지</string>
+    <string name="mr_media_route_controller_pause">일시 중지</string>
     <string name="mr_media_route_controller_no_info_available">정보가 없습니다.</string>
     <string name="photos_actor_default_display_name">Google 사용자</string>
     <string name="photos_photoeditor_save_progress">사진 저장 중</string>
@@ -1293,7 +1293,7 @@
     <string name="time_minutes_seconds_millis">%1$02d:%2$02d.%3$03d</string>
     <string name="video_with_preview_image_error">동영상을 미리 볼 수 없습니다.</string>
     <string name="edit_play_button_content_description">재생</string>
-    <string name="edit_pause_button_content_description">일시중지</string>
+    <string name="edit_pause_button_content_description">일시 중지</string>
     <string name="current_playback_time_content_description">현재 재생 시간: %1$d분 %2$d초</string>
     <string name="edited_video_duration_content_description">수정된 동영상 시간: %1$d분 %2$d초</string>
     <string name="upgrade_samsung_paddingstart_dialog_text">기기의 소프트웨어가 최신 버전이 아닙니다. 설정 > 휴대전화 정보 > 시스템 업데이트에서 업데이트를 확인하세요.</string>

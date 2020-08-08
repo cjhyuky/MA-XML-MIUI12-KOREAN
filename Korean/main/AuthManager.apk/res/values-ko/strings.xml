@@ -40,8 +40,8 @@
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">모바일 데이터 켜기 또는 끄기</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi 연결 변경</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fi 켜기 또는 끄기</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity">블루투스 연결 변경</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">블루투스 켜기 또는 끄기</string>
+    <string name="HIPS_Perm_블루투스_Connectivity">블루투스 연결 변경</string>
+    <string name="HIPS_Perm_블루투스_Connectivity_Desc">블루투스 켜기 또는 끄기</string>
     <string name="HIPS_Perm_AutoStart">부팅 시 실행</string>
     <string name="HIPS_Perm_AutoStart_Desc">부팅 시 실행</string>
     <string name="HIPS_Perm_Calendar">달력 일정 읽기</string>
@@ -84,8 +84,8 @@
     <string name="HIPS_Perm_read_notification_sms_Desc">서비스 SMS 읽기</string>
     <string name="HIPS_Perm_get_tasks">작업 가져오기</string>
     <string name="HIPS_Perm_get_tasks_Desc">작업을 가져옵니다.</string>
-    <string name="HIPS_Perm_show_when_locked">잠금화면에 표시</string>
-    <string name="HIPS_Perm_show_when_locked_Desc">잠금화면에 표시됩니다.</string>
+    <string name="HIPS_Perm_show_when_locked">잠금 화면에 표시</string>
+    <string name="HIPS_Perm_show_when_locked_Desc">잠금 화면에 표시됩니다.</string>
     <string name="HIPS_Perm_background_start_activity">백그라운드에서 시작</string>
     <string name="HIPS_Perm_background_start_activity_Desc">백그라운드에서 시작</string>
     <string name="HIPS_Perm_get_installed_apps">설치된 앱에 대한 정보 얻기</string>
@@ -122,7 +122,7 @@
     <string name="permission_description_summary_call_log">권한이 있는 앱은 통화기록을 읽고 쓸 수 있습니다.</string>
     <string name="permission_description_summary_camera">이 권한이 있는 앱은 사진 촬영과 동영상 촬영을 할 수 있습니다.</string>
     <string name="permission_description_summary_contacts">이 권한이 있는 앱은 주소록에 접근할 수 있습니다.</string>
-    <string name="permission_description_summary_location">"이 권한이 있는 앱은 이 기기의 위치정보에 접근할 수 있습니다"</string>
+    <string name="permission_description_summary_location">"이 권한이 있는 앱은 이 기기의 위치정보에 접근할 수 있습니다."</string>
     <string name="permission_description_summary_microphone">이 권한이 있는 앱은 오디오를 녹음할 수 있습니다.</string>
     <string name="permission_description_summary_phone">이 권한이 있는 앱은 통화를 걸거나 관리할 수 있습니다.</string>
     <string name="permission_description_summary_sensors">이 권한이 있는 앱은 생체 신호에 대한 센서 데이터에 접근할 수 있습니다.</string>
@@ -142,13 +142,13 @@
     <string name="permgroupdesc_sms">메시지 읽기 또는 전송</string>
     <string name="permgroupdesc_storage">사진 또는 기기의 파일에 접근</string>
     <string name="permgroupdesc_microphone">오디오 녹음</string>
-    <string name="permgroupdesc_camera">사진과 비디오 촬영</string>
+    <string name="permgroupdesc_camera">사진과 동영상 촬영</string>
     <string name="permgroupdesc_calllog">통화기록 접근 및 저장</string>
     <string name="permgroupdesc_phone">전화걸기 및 기기정보 접근</string>
     <string name="permgroupdesc_sensors">바디 센서 데이터 접근</string>
     <string name="permgroupdesc_recognition">헬스 &amp; 운동 데이터 접근</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">전화 번호 및 IMSI에 액세스</string>
-    <string name="permdesc_camera">사진촬영 및 비디오 녹화</string>
+    <string name="permdesc_camera">사진촬영 및 동영상 녹화</string>
     <string name="permdesc_in_calls">수신전화 모니터링</string>
     <string name="permdesc_location">위치 정보 엑세스</string>
     <string name="permdesc_microphone">전화 통화 및 오디오 녹음</string>
@@ -170,7 +170,7 @@
     <string name="HIPS_Perm_Intl_group_desc_auto_start">백그라운드에서 자동으로 앱 시작</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">캘린더 일정에 접근</string>
     <string name="HIPS_Perm_Intl_group_desc_call_log">통화 기록 접근 및 편집</string>
-    <string name="HIPS_Perm_Intl_group_desc_camera">사진 촬영 및 비디오 제작</string>
+    <string name="HIPS_Perm_Intl_group_desc_camera">사진 촬영 및 동영상 제작</string>
     <string name="HIPS_Perm_Intl_group_desc_contact">연락처 편집 및 삭제</string>
     <string name="HIPS_Perm_Intl_group_desc_location">정확한 위치에 접근 (GPS 및 네트워크 기반)</string>
     <string name="HIPS_Perm_Intl_group_desc_storage">"장치의 내부 저장소에 파일 추가 및 삭제"</string>

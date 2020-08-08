@@ -103,25 +103,25 @@
     <string name="passwordProtect">비밀번호</string>
     <string name="PassWordGuard">보조 공간 비밀번호</string>
     <string name="openPasswordGuard">보조 공간 비밀번호 설정</string>
-    <string name="setSpacePasswordGuide">서로 다른 비밀번호를 사용하여 잠금화면에서 각각의 공간으로 들어가기</string>
+    <string name="setSpacePasswordGuide">서로 다른 비밀번호를 사용하여 잠금 화면에서 각각의 공간으로 들어가기</string>
     <string name="startSet">설정</string>
     <string name="needSetKeyguardFirst">기본 공간 비밀번호 설정</string>
     <string name="needSetKeyguardFirstDes">보조 공간 비밀번호 설정 전에 먼저 기본 공간 비밀번호를 설정하세요.</string>
     <string name="confirm">확인</string>
     <string name="setSecondSpacePassword">보조 공간 비밀번호 설정</string>
     <string name="setSecondSpacePasswordGuide">보조 공간 비밀번호 설정</string>
-    <string name="setSecondSpacePasswordGuideDes">이 비밀번호를 사용하여 잠금화면에서 보조 공간으로 들어가기</string>
+    <string name="setSecondSpacePasswordGuideDes">이 비밀번호를 사용하여 잠금 화면에서 보조 공간으로 들어가기</string>
     <string name="setSuccess">비밀번호 설정 성공</string>
     <string name="tryNow">지금 체험</string>
     <string name="spaceSetting">설정</string>
     <string name="closePassword">비밀번호 끄기</string>
-    <string name="closePasswordGuide">비밀번호를 끄신 후 잠금화면에서 보조 공간으로 들어갈 수 없습니다.</string>
+    <string name="closePasswordGuide">비밀번호를 끄신 후 잠금 화면에서 보조 공간으로 들어갈 수 없습니다.</string>
     <string name="cancelClosePassword">끌 수 없음</string>
     <string name="confirmClose">끄기</string>
     <string name="opened">켜짐</string>
     <string name="closed">꺼짐</string>
     <string name="changePassword">비밀번호 변경</string>
-    <string name="passWordGuardSummary">잠금화면에서 비밀번호를 사용하여 보조 공간 입장</string>
+    <string name="passWordGuardSummary">잠금 화면에서 비밀번호를 사용하여 보조 공간 입장</string>
     <string name="notificationTitle">드롭 다운 메뉴 바로가기</string>
     <string name="notificationSummary">드롭 다운 메뉴에서 공간간 전환</string>
     <string name="otherSettings">기타 설정</string>
@@ -189,7 +189,7 @@
     <string name="setting_is_show_text_contacts">비공개 연락처 및 메시지 설정</string>
     <string name="switch_data_app">보조 공간으로 항목 이동</string>
     <string name="guide_pwd_detail_title">"데이터 보호
-잠금화면에서 보조 공간으로 들어가기"</string>
+잠금 화면에서 보조 공간으로 들어가기"</string>
     <string name="temporary_no_set">나중에 실행</string>
     <string name="set_space_pwd_suc">보조 공간 비밀번호 추가됨</string>
     <string name="set_space_pwd_detail">비밀번호를 사용하여 보조 공간에 입장하실 수 있습니다.</string>
@@ -238,11 +238,11 @@
     <string name="setting_finger_print_sub_title">기본 공간의 지문과 다른 지문인지 확인하세요.</string>
     <string name="second_owner_finger_print">보조 공간 지문</string>
     <string name="finger_print_of_use">지문 사용</string>
-    <string name="lock_screen_open_second_space">잠금화면에서 보조 공간 진입</string>
+    <string name="lock_screen_open_second_space">잠금 화면에서 보조 공간 진입</string>
     <string name="finger_print_num">%d개 지문</string>
     <string name="add_finger_print">지문 추가</string>
     <string name="please_diff_finger_print">"기본 공간과 보조 공간의 지문이 다르게 하셨는지 확인하세요.
-그렇지 않으면 잠금화면에서 보조 공간으로 진입할 수 없게 됩니다."</string>
+그렇지 않으면 잠금 화면에서 보조 공간으로 진입할 수 없게 됩니다."</string>
     <string name="start_input_finger_print">지문 추가</string>
     <string name="need_set_second_space_pwd_first">먼저 보조 공간 비밀번호 설정</string>
     <string name="need_set_second_space_desc">보조 공간 지문 추가 전 보조 공간 비밀번호 추가</string>
@@ -250,7 +250,7 @@
     <string name="start_new_fingerprint">새 지문 추가</string>
     <string name="select_existed_fingerprint">지문 선택</string>
     <string name="start_new_fingerprint_tips">"보조 공간 지문을 사용하여
-잠금화면에서 보조 공간 진입"</string>
+잠금 화면에서 보조 공간 진입"</string>
     <string name="scanner_second_space_fingerprint">보조 공간 지문 스캔</string>
     <string name="repeat_scanner_fingerprint">다시 추가</string>
     <string name="sure_to_use">확인</string>
@@ -267,7 +267,7 @@
     <string name="notification_recommend_title">보조 공간을 위한 Top 12 앱</string>
     <string name="scanner_fingerprint">지문 스캔 중…</string>
     <string name="scanner_fingerprint_enter_second">"보조 공간 지문을 스캔하여
-잠금화면에서 보조 공간 진입"</string>
+잠금 화면에서 보조 공간 진입"</string>
     <string name="xspace_guide_title">듀얼 앱 생성</string>
     <string name="xspace_guide_des">전환 없이 2개의 계정을 사용하세요.</string>
     <string name="xpsace_guide_button">생성</string>
@@ -347,9 +347,9 @@
     <string name="xspace_default_app_title">사용자화</string>
     <string name="xspace_default_setting_dialog_title">기본</string>
     <string name="xspace_default_setting_label">사용자화</string>
-    <string name="weixin_pay">위챗 페이</string>
+    <string name="weixin_pay">WeChat 페이</string>
     <string name="xspace_weibo_title">웨이보</string>
-    <string name="xspace_weixin_title">위챗</string>
+    <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_share_sign">로그인 및 공유</string>
     <string name="xspace_default_guide_notification_content">변경하려면 누르세요.</string>
     <string name="xspace_default_guide_notification_main_title">기본 앱 사용</string>
@@ -423,7 +423,7 @@
     <string name="ent_agency_code">회사 코드</string>
     <string name="ent_agency_code_hint">회사 코드 입력</string>
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>
-    <string name="ent_agree_privacy_policy">"개인 정보 취급 방침을 읽었으며 이에 동의했습니다"</string>
+    <string name="ent_agree_privacy_policy">"개인 정보 취급 방침을 읽었으며 이에 동의했습니다."</string>
     <string name="ent_app_verified">장치에 엔터프라이즈 응용 프로그램이 설치되어있는 것 같습니다. 엔터프라이즈 모드 활성화?</string>
     <string name="ent_confirm_dialog_content">"엔터프라이즈 모드를 활성화 한 후에는 시스템의 현재 상태로 돌아갈 수 없지만 모든 데이터는 여전히이 모드에 저장됩니다. "</string>
     <string name ="ent_disallow_running">앱을 실행할 수 없습니다.</string>
@@ -489,7 +489,7 @@
     <string name="instagram_send">인스타그램으로 보내기</string>
     <string name="use_google_open">Google 어시스턴트를 사용하여 깨우기</string>
     <string name="greenguard_functional_description">"원격으로 장치 관리, 위치 정보보기, 설치된 응용 프로그램 제어 및 사용 제한"</string>
-    <string name="can_not_switch_when_super_power_active">"배터리 세이버가 켜져있으면 공간 전환을 할 수 없습니다"</string>
+    <string name="can_not_switch_when_super_power_active">"배터리 세이버가 켜져있으면 공간 전환을 할 수 없습니다."</string>
     <string name="xspace_disable">생성 안됨</string>
     <string name="xspace_enable">생성됨</string>
     <string name="xspace_notification">듀얼 앱 알림</string>

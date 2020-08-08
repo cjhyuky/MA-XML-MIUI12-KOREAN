@@ -52,8 +52,8 @@
     <string name="accessibility_tutorial_next">다음</string>
     <string name="accessibility_tutorial_service_inactive_message">"이 가이드를 활용하려면 '터치하여 탐색' 기능이 필요합니다. 가이드를 실행하기 전에 음성 안내 지원과 '터치하여 탐색' 기능을 사용하도록 설정하세요."</string>
     <string name="accessibility_tutorial_service_inactive_title">"'터치하여 탐색' 필요"</string>
-    <string name="accessibility_tutorial_service_suspended_message">피드백을 일시중지하면 음성 안내 지원 가이드를 사용할 수 없습니다. 계속하려면 음성 안내 지원 피드백을 다시 시작한 다음 가이드를 다시 시작하세요.</string>
-    <string name="accessibility_tutorial_service_suspended_title">음성 안내 지원 일시중지됨</string>
+    <string name="accessibility_tutorial_service_suspended_message">피드백을 일시 중지하면 음성 안내 지원 가이드를 사용할 수 없습니다. 계속하려면 음성 안내 지원 피드백을 다시 시작한 다음 가이드를 다시 시작하세요.</string>
+    <string name="accessibility_tutorial_service_suspended_title">음성 안내 지원 일시 중지됨</string>
     <string name="accessibility_tutorial_skip">나가기</string>
     <string name="accessibility_tutorial_title">접근성 안내서</string>
     <string name="accessibility_tutorial_touch_disabled">가이드 음성 안내 중 터치 기능이 사용 중지됨</string>
@@ -113,7 +113,7 @@
     <string name="dialog_title_dim_screen">화면을 어둡게하시겠습니까?</string>
     <string name="dialog_title_disable_exploration">"'터치하여 탐색'을 사용 중지하시겠습니까?"</string>
     <string name="dialog_title_enable_tree_debug">노드 트리 디버깅을 사용 설정하시겠습니까?</string>
-    <string name="dialog_title_suspend_talkback">음성 안내 지원을 일시중지하시겠습니까?</string>
+    <string name="dialog_title_suspend_talkback">음성 안내 지원을 일시 중지하시겠습니까?</string>
     <string name="end_of_text">종료</string>
     <string name="global_action_back">뒤로</string>
     <string name="global_action_home">홈</string>
@@ -152,7 +152,7 @@
     <string name="keycombo_menu_global_home">홈</string>
     <string name="keycombo_menu_global_notifications">알림</string>
     <string name="keycombo_menu_global_recent">최근 앱</string>
-    <string name="keycombo_menu_global_suspend">음성 안내 지원 일시중지</string>
+    <string name="keycombo_menu_global_suspend">음성 안내 지원 일시 중지</string>
     <string name="keycombo_menu_granularity_decrease">이전 탐색 설정</string>
     <string name="keycombo_menu_granularity_increase">다음 탐색 설정</string>
     <string name="keycombo_menu_navigate_first">첫 번째 항목으로 이동</string>
@@ -191,7 +191,7 @@
     <string name="notification_message_talkback_suspended">다시 시작하려면 탭하세요.</string>
     <string name="notification_status_sync">동기화</string>
     <string name="notification_title_talkback_gestures_changed">음성 안내 지원 동작이 변경됨</string>
-    <string name="notification_title_talkback_suspended">음성 안내 지원이 일시중지됨</string>
+    <string name="notification_title_talkback_suspended">음성 안내 지원이 일시 중지됨</string>
     <string name="notification_type_missed_call">부재중 전화</string>
     <string name="notification_type_status_chat">채팅</string>
     <string name="notification_type_status_error">오류</string>
@@ -240,7 +240,7 @@
     <string name="shortcut_next_granularity">다음 탐색 설정</string>
     <string name="shortcut_notifications">알림 열기</string>
     <string name="shortcut_overview">최근 사용 버튼</string>
-    <string name="shortcut_pause_feedback">피드백 일시중지</string>
+    <string name="shortcut_pause_feedback">피드백 일시 중지</string>
     <string name="shortcut_previous">이전 항목</string>
     <string name="shortcut_previous_granularity">이전 탐색 설정</string>
     <string name="shortcut_print_node_tree">인쇄 노드 트리</string>
@@ -464,7 +464,7 @@
     <string name="title_pref_play_store">Play 스토어에서 음성 안내 지원 열기</string>
     <string name="title_pref_primary_scan_style">기본 검색 스타일</string>
     <string name="title_pref_proximity">근접 센서 사용</string>
-    <string name="title_pref_resume_talkback">일시중지한 부분에서 다시 시작</string>
+    <string name="title_pref_resume_talkback">일시 중지한 부분에서 다시 시작</string>
     <string name="title_pref_scanning_methods">검색 방법</string>
     <string name="title_pref_scanning_methods_keyboard">키보드 검색 중</string>
     <string name="title_pref_scanning_methods_views">보기 검색 중</string>

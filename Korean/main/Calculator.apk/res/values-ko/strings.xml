@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dob_selection_error">"생년월일이 오늘 날짜보다 이전이어야 합니다"</string>
+    <string name="dob_selection_error">"생년월일이 오늘 날짜보다 이전이어야 합니다."</string>
     <string name="history_delete_confirmation">지금 기록을 삭제하시겠습니까?</string>
     <string name="label_about">정보</string>
     <string name="label_clear_history">전부 삭제</string>
@@ -198,7 +198,7 @@
     <string name="preference_about_calculator">계산기 정보</string>
     <string name="preference_check_update_title">업데이트 확인</string>
     <string name="preference_follow_us">Mi 공식 계정</string>
-    <string name="preference_follow_wechat_title">위챗</string>
+    <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">웨이보</string>
     <string name="preference_follow_web_title">공식 웹사이트</string>
     <string name="preference_alert_follow_wechat">팔로우를 위해 WeChat에 복사 후 붙여넣으세요.</string>

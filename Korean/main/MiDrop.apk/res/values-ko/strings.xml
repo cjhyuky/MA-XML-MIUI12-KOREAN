@@ -105,7 +105,7 @@
     <string name="btn_goto_grant">허용</string>
     <string name="description_content">미 드롭은 주변에 있는 사람들과의 파일 공유를 돕습니다. 앱을 삭제하기 전에 미 드롭을 사용하세요.</string>
     <string name="HIPS_Perm_SystemAlert">팝업창 표시</string>
-    <string name="HIPS_Perm_show_when_locked">잠금화면에 표시</string> 
+    <string name="HIPS_Perm_show_when_locked">잠금 화면에 표시</string> 
     <string name="a">홈 탐색</string>
     <string name="a0">검색어 제출</string>
     <string name="a1">음성 검색</string>
@@ -143,7 +143,7 @@
     <string name="ay">음악</string>
     <string name="az">이미지</string>
     <string name="b">%1$s, %2$s</string>
-    <string name="b0">비디오</string>
+    <string name="b0">동영상</string>
     <string name="b1">%1$d / %2$d</string>
     <string name="b2">업데이트 확인</string>
     <string name="b3">업데이트 확인중…</string>
@@ -259,7 +259,7 @@
     <string name="eb">파일 유형 선택</string>
     <string name="ec">이미지</string>
     <string name="ed">텍스트</string>
-    <string name="ee">비디오</string>
+    <string name="ee">동영상</string>
     <string name="ef">기타</string>
     <string name="eg">데이터 전송 없음</string>
     <string name="eh">네트워크 설정을 확인하고 다시 시도하세요.</string>
@@ -268,7 +268,7 @@
     <string name="ek">비어 있음</string>
     <string name="el">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="em">"권한이 없어 Wi-Fi 핫스팟을 켤 수 없습니다."</string>
-    <string name="en">"수신자를 찾을 수 없습니다"</string>
+    <string name="en">"수신자를 찾을 수 없습니다."</string>
     <string name="eo">Mi 드롭이 최신 상태입니다.</string>
     <string name="ep">Wi-Fi 네트워크 없음</string>
     <string name="eq">"Wi-Fi 네트워크를 찾을 수 없습니다. Wi-Fi 설정을 열려면 누르세요."</string>
@@ -321,11 +321,11 @@
     <string name="g4">"전송이 중단되었으므로 전송 중에 Wi-Fi 핫스팟을 끄지 마세요."</string>
     <string name="g5">파일 대기 중...</string>
     <string name="g6">다시 연결하세요.</string>
-    <string name="g7">새로 고침</string>
+    <string name="g7">새로고침</string>
     <string name="g8">다시 시도하세요.</string>
     <string name="g9">Mi 드롭은 정상적으로 작동하려면 몇 가지 권한이 더 필요합니다.</string>
     <string name="g_">이 QR 코드를 스캔하여 Google Play에서 Mi 드롭을 다운로드하세요.</string>
-    <string name="ga">"결과를 찾을 수 없습니다"</string>
+    <string name="ga">"결과를 찾을 수 없습니다."</string>
     <string name="gb">모든 파일 검색</string>
     <string name="gc">검색</string>
     <string name="gd">언어 선택</string>
@@ -340,7 +340,7 @@
     <string name="gp">더 ​​보내기</string>
     <string name="gq">다른 장치가 수락 대기 중 ...</string>
     <string name="gr">연결하기</string>
-    <string name="gs">"보낼 수 없습니다"</string>
+    <string name="gs">"보낼 수 없습니다."</string>
     <string name="gt">성공적으로 전송되었습니다.</string>
     <string name="gu">전송이 중단되었습니다.</string>
     <string name="gv">거부</string>
@@ -405,7 +405,7 @@
     <string name="ig">총 %s</string>
     <string name="ih">완료</string>
     <string name="ii">전송이 중단되었습니다.</string>
-    <string name="ij">"이 파일 형식은 지원하지 않습니다"</string>
+    <string name="ij">"이 파일 형식은 지원하지 않습니다."</string>
     <string name="ik">재접속</string>
     <string name="il">연결됨</string>
     <string name="im">전송 완료</string>
@@ -433,7 +433,7 @@
     <string name="j_">"소개된 버전 %1$s 크기: %2$s"</string>
     <string name="ja">"소개된 버전 %1$s 델타 업데이트 크기 : %2$s"</string>
     <string name="jb">%1$s 업데이트 완료!</string>
-    <string name="jc">저장 불가, SD카드를 확인하세요.</string>
+    <string name="jc">저장 불가, SD 카드를 확인하세요.</string>
     <string name="w">검색…</string>
     <string name="x">검색기록 삭제</string>
     <string name="y">검색기록 검색</string>

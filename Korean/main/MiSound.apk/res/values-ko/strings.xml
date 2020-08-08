@@ -56,7 +56,7 @@
     <string name="music_dirac_mode_piston_standard">기본 에디션</string>
     <string name="music_dirac_mode_piston_youth">청춘 에디션</string>
     <string name="music_dirac_mode_reduction_noise">Mi 노이즈 캔슬링 타입-C</string>
-    <string name="music_dolby_mode_movie">비디오</string>
+    <string name="music_dolby_mode_movie">동영상</string>
     <string name="music_dolby_mode_music">음악</string>
     <string name="music_dolby_mode_off">꺼짐</string>
     <string name="music_equalizer">이퀄라이저</string>
@@ -73,7 +73,7 @@
     <string name="music_headset_calibrate_success">설정 적용됨</string>
     <string name="music_headset_calibrate_volume_down">볼륨 감소</string>
     <string name="music_headset_calibrate_volume_up">볼륨 증가</string>
-    <string name="music_headset_calibrate_wrong_key">"다른 버튼입니다"</string>
+    <string name="music_headset_calibrate_wrong_key">"다른 버튼입니다."</string>
     <string name="music_headset_mode_music">음악 재생 컨트롤</string>
     <string name="music_headset_mode_settings">헤드폰 제어 버튼</string>
     <string name="music_headset_mode_volume">볼륨 크기 조절</string>
@@ -84,7 +84,7 @@
     <string name="music_mi_effect_summary">스피커를 사용할 때 Mi 사운드 인핸서 사용</string>
     <string name="music_mi_effect_title">Mi 사운드 인핸서</string>
     <string name="music_title_dolby_control">돌비 디지털 플러스</string>
-    <string name="music_unsupport_effect_summary">"USB 헤드셋은 지원되지 않습니다"</string>
+    <string name="music_unsupport_effect_summary">"USB 헤드셋은 지원되지 않습니다."</string>
     <string name="music_audio_visual_wake_lock">화면 깨우기 유지</string>
     <string name="music_audio_visual_wake_lock_summary">"시각적 효과가 표시될 때 화면을 끄지 마세요"</string>
     <string name="music_headset_audio_visual">시각적 효과</string>
@@ -103,7 +103,7 @@
     <string name="music_headset_scenario_intelligent">스마트</string>
     <string name="music_headset_scenario_music">음악</string>
     <string name="music_headset_scenario_select">사전 설정</string>
-    <string name="music_headset_scenario_video">비디오</string>
+    <string name="music_headset_scenario_video">동영상</string>
     <string name="music_headset_scenario_vocal">음성</string>
     <string name="music_headset_select_settings">이어폰 선택</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
@@ -141,7 +141,7 @@
     <string name="sound_assist_key_summary">여러 앱이 동시에 오디오를 재생하는 동안 개별 앱에 대한 사운드 조정</string>
     <string name="sound_assist_key_title">여러 앱에서 미디어 사운드 조정</string>
     <string name="sound_assist_title">음성 도우미</string>
-    <string name="switch_audio_device_bt">Bluetooth</string>
+    <string name="switch_audio_device_bt">블루투스</string>
     <string name="switch_audio_device_phone">이 장치</string>
     <string name="switch_audio_dialog_title">오디오 전환</string>
     <string name="v7_preference_off">끔</string>

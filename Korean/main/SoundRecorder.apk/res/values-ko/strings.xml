@@ -6,9 +6,9 @@
     <string name="agree_description">이 앱이 인터넷에 연결하여 모든 기능을 사용할 수 있도록 허용합니다.</string>
     <string name="path_soundrecorder_setting">시스템 앱/녹음기</string>
     <string name="search_app">녹음기</string>
-    <string name="search_led_indicator">잠금화면 알림</string>
+    <string name="search_led_indicator">잠금 화면 알림</string>
     <string name="search_tip_rename">녹음 후 파일 이름 직접 입력</string>
-    <string name="search_led_indicator_prompt">녹음 중에는 상태 바에 표시되고, 잠금화면에 알림 표시등이 깜빡입니다.</string>
+    <string name="search_led_indicator_prompt">녹음 중에는 상태 표시줄에 표시되고, 잠금 화면에 알림 표시등이 깜빡입니다.</string>
     <string name="search_scenes">녹음 유형</string>
     <string name="search_silent_mode">녹음 중 벨소리 음소거</string>
     <string name="search_enable_earpiece_title">리시버를 사용하여 오디오 재생</string>
@@ -53,14 +53,14 @@
     <string name="dialog_content_storage_full">기기 내부 메모리의 저장 공간이 부족하여 녹음이 중단되었습니다.</string>
     <string name="status_bar_recording">녹음 중…</string>
     <string name="status_bar_back">탭하여 녹음기로 돌아가기</string>
-    <string name="status_bar_recording_pause">녹음기 일시정지됨</string>
+    <string name="status_bar_recording_pause">녹음기 일시 중지됨</string>
     <string name="low_battery_error_title">배터리 부족</string>
     <string name="low_battery_error">배터리가 5%미만 입니다. 사용을 중지하고 손실되지 않도록 작업을 저장하세요.</string>
     <string name="low_battery_error_confirm">확인</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute" />
     <string name="sound_recorder_settings">설정</string>
-    <string name="preference_led_indicator">잠금화면 알림</string>
+    <string name="preference_led_indicator">잠금 화면 알림</string>
     <string name="preference_tip_rename">녹음 후 파일 이름 직접 입력</string>
     <string name="preference_led_indicator_prompt">녹음중에는 상태표시줄에 바로가기가 표시되고, 알림 표시등이 깜빡입니다.</string>
     <string name="preference_scenes">녹음 유형</string>
@@ -75,7 +75,7 @@
     <string name="duration_format_second">%s초</string>
     <string name="toast_max_record_time">%1$s, 약 %2$s 녹음할 수 있음</string>
     <string name="message_file_size_error">녹음이 지원하는 %s의 최대 길이에 도달하였습니다.</string>
-    <string name="pause">일시정지</string>
+    <string name="pause">일시 중지</string>
     <string name="back">뒤로</string>
     <string name="toast_uninstall_fileexplorer">탐색기 앱이 설치되지 않았습니다.</string>
     <string name="record_download">Mi 클라우드에서 다운로드</string>
@@ -91,7 +91,7 @@
     <string name="wifi_recommended_body" formatted="false">모바일 데이터 연결을 사용하여 이 파일(%s)을 다운로드하면 데이터 사용량이 증가합니다. 계획한 데이터 사용량 한도를 초과하면 추가 요금이 청구될 수 있습니다. Wi-Fi 연결을 기다렸다 이 파일을 다운로드하려면 %s 항목을 탭하세요.</string>
     <string name="button_queue_for_wifi">대기</string>
     <string name="button_start_now">다운로드</string>
-    <string name="notification_title_all_paused">다운로드 일시정지됨</string>
+    <string name="notification_title_all_paused">다운로드 일시 중지됨</string>
     <string name="notification_message_all_paused">Wi-Fi 연결을 기다리는 중입니다.</string>
     <string name="data_connection_title">데이터 사용량 경고</string>
     <string name="data_connection_body">모바일 데이터 연결을 사용하여 이 파일을 다운로드하면 데이터 사용량이 증가합니다. 계획한 데이터 사용량 한도를 초과하면 추가 요금이 청구될 수 있습니다.</string>
@@ -107,7 +107,7 @@
     <string name="cloud_status_full_dialog_cancel">나중에 실행</string>
     <string name="cloud_status_full_dialog_ok">업그레이드</string>
     <string name="text_btn_recording">녹음</string>
-    <string name="text_btn_pause">일시정지</string>
+    <string name="text_btn_pause">일시 중지</string>
     <string name="text_btn_play">재생</string>
     <string name="text_btn_mark">표기</string>
     <string name="text_btn_list">저장소</string>
@@ -261,9 +261,9 @@
     <string name="text_btn_recognize_pending">보류 중</string>
     <string name="webview_check_network">네트워크 설정</string>
     <string name="webview_data_error">오류가 발생했습니다.</string>
-    <string name="webview_locating_fail">"위치를 찾을 수 없습니다"</string>
+    <string name="webview_locating_fail">"위치를 찾을 수 없습니다."</string>
     <string name="webview_network_access_denied">네트워크 액세스가 거부되었습니다.</string>
-    <string name="webview_network_unavaliable">"네트워크에 연결할 수 없습니다"</string>
+    <string name="webview_network_unavaliable">"네트워크에 연결할 수 없습니다."</string>
     <string name="webview_service_unavailiable">서비스를 사용할 수 없습니다.</string>
     <string name="webview_try_again">다시 시도하세요.</string>
     <string name="call_record_list_group_all">모두</string>
@@ -281,7 +281,7 @@
     <string name="text_play_speed_2_0">2배속 재생</string>
     <string name="usage_description">클라우드와 오디오 녹음 및 항목 동기화</string>
     <string name="online_recognize_progress">고치는 중 %s…</string>
-    <string name="search_empty">"결과를 확인할 수 없습니다"</string>
+    <string name="search_empty">"결과를 확인할 수 없습니다."</string>
     <string name="search_hint">검색</string>
     <string name="cancel_rename">취소</string>
     <string name="loading_more">잠시만 기다려주세요…</string>

@@ -46,7 +46,7 @@
     <string name="accessibility_createnewplaylist">새 재생목록 만들기</string>
     <string name="accessibility_current">재생중인 노래</string>
     <string name="accessibility_dismiss">닫기</string>
-    <string name="accessibility_download_paused">음악 다운로드 일시중지됨</string>
+    <string name="accessibility_download_paused">음악 다운로드 일시 중지됨</string>
     <string name="accessibility_download_resumed">음악 다운로드 재개됨</string>
     <string name="accessibility_downloaded">다운로드</string>
     <string name="accessibility_duration_hours">%1$s %2$s %3$s</string>
@@ -56,7 +56,7 @@
     <string name="accessibility_home">뮤직 홈</string>
     <string name="accessibility_menu">옵션 더보기</string>
     <string name="accessibility_next">다음</string>
-    <string name="accessibility_pause">일시중지</string>
+    <string name="accessibility_pause">일시 중지</string>
     <string name="accessibility_play">재생</string>
     <string name="accessibility_play_with_title">%s 재생</string>
     <string name="accessibility_prev">이전</string>
@@ -413,7 +413,7 @@
     <string name="lb_playback_controls_high_quality_disable">고화질 사용 중지</string>
     <string name="lb_playback_controls_high_quality_enable">고화질 사용 설정</string>
     <string name="lb_playback_controls_more_actions">추가 작업</string>
-    <string name="lb_playback_controls_pause">일시중지</string>
+    <string name="lb_playback_controls_pause">일시 중지</string>
     <string name="lb_playback_controls_play">재생</string>
     <string name="lb_playback_controls_repeat_all">전체 반복</string>
     <string name="lb_playback_controls_repeat_none">반복 안함</string>
@@ -495,7 +495,7 @@
     <string name="mr_chooser_searching">기기 검색 중…</string>
     <string name="mr_chooser_title">기기에 연결</string>
     <string name="mr_controller_disconnect">연결 해제</string>
-    <string name="mr_controller_pause">일시중지</string>
+    <string name="mr_controller_pause">일시 중지</string>
     <string name="mr_controller_play">재생</string>
     <string name="mr_controller_stop">전송 중지</string>
     <string name="mr_system_route_name">시스템</string>
@@ -563,7 +563,7 @@
     <string name="notification_downloading_offline_radio">라디오 채널 다운로드 중…</string>
     <string name="notification_downloading_out_of_space">저장 공간이 부족함</string>
     <string name="notification_downloading_paused">음악을 다운로드할 수 없음</string>
-    <string name="notification_downloading_user_paused">일시중지됨</string>
+    <string name="notification_downloading_user_paused">일시 중지됨</string>
     <string name="notification_downloading_when_on_wifi">Wi-Fi에 연결되지 않음</string>
     <string name="notification_newsongs_album_artist" formatted="false">%s - %s</string>
     <string name="notification_newsongs_songcount">새 노래 %d곡</string>
@@ -586,8 +586,8 @@
     <string name="other_apps_label">기타 앱</string>
     <string name="overflow_menu_description">옵션</string>
     <string name="overflow_menu_description_with_title">%s 관련 옵션</string>
-    <string name="pause_download">다운로드 일시중지</string>
-    <string name="pause_download_all_caps">다운로드 일시중지</string>
+    <string name="pause_download">다운로드 일시 중지</string>
+    <string name="pause_download_all_caps">다운로드 일시 중지</string>
     <string name="play_accessibility_search_plate_back_button">뒤로</string>
     <string name="play_accessibility_search_plate_clear">지우기</string>
     <string name="play_accessibility_search_plate_menu_button">메뉴</string>

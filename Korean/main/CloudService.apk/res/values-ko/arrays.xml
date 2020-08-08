@@ -13,13 +13,13 @@
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
          <item>연락처, 메시지, 메모, 캘린더, 등 동기화</item>
-         <item>앱, 홈화면 구성, 배경화면을 백업</item>
+         <item>앱, 홈 화면 구성, 배경화면을 백업</item>
          <item>Wi-Fi와 디스플레이 같은 중요한 설정을 백업</item>
          <item>"기기를 분실했다면 원격으로 기기 잠그기"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
          <item>앱 데이터 동기화</item>
-         <item>홈화면 구성 백업</item>
+         <item>홈 화면 구성 백업</item>
          <item>시스템 설정 백업</item>
          <item>기기 찾기</item>
     </string-array>
@@ -116,7 +116,7 @@
         <item>기기 찾기</item>
         <item>"분실시 기기 잠금 및 데이터 삭제"</item>
         <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
-	</string-array>
+    </string-array>
     <string-array name="settings_search_recycle_bin">
         <item>Mi 클라우드에서 삭제된 항목</item>
         <item>연락처, 사진, 메시지 등을 복원하세요.</item>

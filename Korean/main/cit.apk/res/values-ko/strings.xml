@@ -130,7 +130,7 @@
     <string name="cit_headset_button_fast_forward">빨리 감기</string>
     <string name="cit_headset_button_next">다음</string>
     <string name="cit_headset_button_pass">성공</string>
-    <string name="cit_headset_button_play_pause">재생/일시정지</string>
+    <string name="cit_headset_button_play_pause">재생/일시 중지</string>
     <string name="cit_headset_button_previous">이전</string>
     <string name="cit_headset_button_rewind">되감기</string>
     <string name="cit_headset_button_stop">중지</string>
@@ -246,7 +246,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_tool_log_kmsg">마지막 커널 로그</string>
     <string name="cit_tool_log_logcat">ADB 로그</string>
     <string name="cit_tool_log_modem">모뎀 로그</string>
-    <string name="cit_tool_log_no_sdcard">지금 SD카드를 삽입하세요.</string>
+    <string name="cit_tool_log_no_sdcard">지금 SD 카드를 삽입하세요.</string>
     <string name="cit_tool_log_ril">RIL 로그</string>
     <string name="cit_tool_log_toast">%s에 저장된 로그</string>
     <string name="cit_tool_log_toast_generate_bugreport">버그 보고서 작성 중…(약 1분 소요)</string>
@@ -388,7 +388,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="abc_toolbar_collapse_description">툴바 접기</string>
     <string name="status_running">파일이 전송되는 중입니다.</string>
     <string name="radio_info_current_network_label">현재 네트워크:</string>
-    <string name="abc_action_bar_home_description">홈화면으로 이동</string>
+    <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="button_ok">확인</string>
     <string name="ok">확인</string>
     <string name="cit_tool_bluetooth_le_tx_ch0">블루투스 LE 2.402GHz 주파수 프리퀀시 테스트 모드</string>
@@ -476,13 +476,13 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_tool_bluetooth_le_rx_msg_old">블루투스 LE 4.x 주파수 프리퀀시 테스트 모드:</string>
     <string name="FpTest">FpTest 실행하기</string>
     <string name="FpTest_result">FpTest 결과:</string>
-    <string name="SDCard">SD카드</string>
-    <string name="SD_INTERNAL_SDCard_mounted">내장 SD카드 감지</string>
-    <string name="SD_INTERNAL_SDCard_unmounted">내장 SD카드 사용 불가능</string>
+    <string name="SDCard">SD 카드</string>
+    <string name="SD_INTERNAL_SDCard_mounted">내장 SD 카드 감지</string>
+    <string name="SD_INTERNAL_SDCard_unmounted">내장 SD 카드 사용 불가능</string>
     <string name="SD_SDCard_available_szie">사용 가능 크기</string>
-    <string name="SD_SDCard_mounted">SD카드 감지</string>
+    <string name="SD_SDCard_mounted">SD 카드 감지</string>
     <string name="SD_SDCard_total_size">전체 크기</string>
-    <string name="SD_SDCard_unmounted">SD카드 사용 불가능</string>
+    <string name="SD_SDCard_unmounted">SD 카드 사용 불가능</string>
     <string name="action_example">예시</string>
     <string name="action_nothing">테스트 대기중</string>
     <string name="afdcalibration_test">AFD 캘리브레이션 테스트</string>
@@ -520,8 +520,8 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_dial_emergencycall">112에 신고하세요.</string>
     <string name="cit_emergencycall_check_summary">112에 신고하세요 버튼을 눌러 긴급 전화 연결이 원활하게 되는지 확인하세요.</string>
     <string name="cit_emergencycall_check_title">긴급 전화</string>
-    <string name="cit_external_sd_check_summary">이 테스트는 SD카드 상태를 확인합니다.</string>
-    <string name="cit_external_sd_check_title">SD카드 테스트</string>
+    <string name="cit_external_sd_check_summary">이 테스트는 SD 카드 상태를 확인합니다.</string>
+    <string name="cit_external_sd_check_title">SD 카드 테스트</string>
     <string name="cit_finger_check_title">지문 인식 테스트 (FPC)</string>
     <string name="cit_flash_life_check_summary">기기 생명 예측 시간</string>
     <string name="cit_flash_life_check_title">플래시 생명</string>
@@ -546,9 +546,9 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_rear_sub_camera_check_title">후면 보조 카메라</string>
     <string name="cit_recovery_signature_failed">보조 서명 실패</string>
     <string name="cit_recovery_signature_passed">보조 서명 통과</string>
-    <string name="cit_sd_cannot_be_read">외장 SD카드를 읽어올 수 없습니다.</string>
+    <string name="cit_sd_cannot_be_read">외장 SD 카드를 읽어올 수 없습니다.</string>
     <string name="cit_sd_capacity">전체 용량:</string>
-    <string name="cit_sd_status">SD카드 상태:</string>
+    <string name="cit_sd_status">SD 카드 상태:</string>
     <string name="cit_sd_status_normal">정상</string>
     <string name="cit_sd_status_off_normal">상태 : 정상</string>
     <string name="cit_sd_unused_capacity">사용가능 용량:</string>
@@ -856,7 +856,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_headset_pull_finish_test">헤드폰 연결 끊김, 테스트 완료</string>
     <string name="cit_audio_cali_fast_test_title">스피커 증폭기 교정 속도 테스트</string>
     <string name="cit_fast_screen_touch_check_title">빠른 터치 스크린 체크 테스트</string>
-    <string name="cit_diag_chaging_summary">충전 기록 파일 SD카드로 복사</string>
+    <string name="cit_diag_chaging_summary">충전 기록 파일 SD 카드로 복사</string>
     <string name="cit_diag_chaging_title">충전 기록 읽기</string>
     <string name="cit_diag_chaging_wait">잠시만 기다려주세요... 파일 복사중</string>
     <string name="sar_sensor_data_check_description">센서 데이터 수집</string>
@@ -873,7 +873,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="sar_sensor_collect_data">데이터 수집 시작</string>
     <string name="sar_sensor_collect_data_test_summary">"실시간 각도가 130도에서 140도 사이가되도록 전화기를 회전합니다.
 휴대전화에서 다른 손을 멀리하세요. 데이터 수집 시작 버튼을 클릭하세요.
-성공을 보정 한 후에는 CS0i와 CS1의 절대 값이 200보다 작고 CS1의 값이 300보다 크다는 것을 관찰하세요. 다섯 번 연속해서, 다른 손이 휴대전화의 바닥에 가깝습니다. CS0의 값은 다음과 같습니다. 3000에서 30000사이의 3번 연속으로 버튼으로 강조 표시되면 통과 버튼이 강조 표시됩니다"</string>  
+성공을 보정 한 후에는 CS0i와 CS1의 절대 값이 200보다 작고 CS1의 값이 300보다 크다는 것을 관찰하세요. 다섯 번 연속해서, 다른 손이 휴대전화의 바닥에 가깝습니다. CS0의 값은 다음과 같습니다. 3000에서 30000사이의 3번 연속으로 버튼으로 강조 표시되면 통과 버튼이 강조 표시됩니다."</string>  
     <string name="pop_camera">팝업 카메라</string>
     <string name="pop_push_camera_test_summary">"팝업 카메라 버튼을 클릭하여 카메라가 나왔는지 확인하세요
 카메라 푸시 버튼을 클릭하여 카메라를 불러오세요"</string>

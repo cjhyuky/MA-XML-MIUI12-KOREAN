@@ -215,7 +215,7 @@ ID:%s
     <string name="headline_shortcut_message">한 번의 클릭으로 데스크톱 바로 가기, 인기 뉴스에 헤드 라인 추가!</string>
     <string name="headline_shortcut_title">제목 바로 가기 항목 듣기</string>
     <string name="identity">확인</string>
-    <string name="inconsistent_pwd">"패스워드가 같지 않습니다"</string>
+    <string name="inconsistent_pwd">"패스워드가 같지 않습니다."</string>
     <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 될 것입니다.</string>
     <string name="input_new_pwd">새로운 패스워드를 입력하세요.</string>
     <string name="just_a_second">잠시만 기다려 주세요…</string>
@@ -317,7 +317,7 @@ ID:%s
     <string name="restart_action">다시 시작</string>
     <string name="restart_phone_bind_message">SMS 수신에 시간이 걸릴 수 있습니다. 그래도 다시 시작하시겠습니까?</string>
     <string name="restart_phone_bind_title">복원 휴대전화 변경</string>
-    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다"</string>
+    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다."</string>
     <string name="send_diagnosis_log">분석 로그자료 전송</string>
     <string name="send_email_activate_message">인증 이메일 보냄</string>
     <string name="sending">보내는 중...</string>
