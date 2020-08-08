@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="adblock_rules_number_text">
+    <plurals name="adblock_rules_number_text">
     <item quantity="other">%d개의 항목 차단됨</item>
-  </plurals>
-  <plurals name="find_on_page_matches">
+    </plurals>
+    <plurals name="find_on_page_matches">
     <item quantity="other">%d개 일치</item>
-  </plurals>
-  <plurals name="mw_last_num_days">
+    </plurals>
+    <plurals name="mw_last_num_days">
     <item quantity="other">%d일 전</item>
-  </plurals>
-  <plurals name="mw_matches_found">
+    </plurals>
+    <plurals name="mw_matches_found">
     <item quantity="other">%2$d 중 %1$d</item>
     <item quantity="one">1개 일치됨</item>
-  </plurals>
-  <plurals name="nav_screen_incognito_time">
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
     <item quantity="other">%d초 후에 자동으로 새 페이지를 생성합니다.</item>
-  </plurals>
-  <plurals name="transfer_prompt">
+    </plurals>
+    <plurals name="transfer_prompt">
     <item quantity="other">%1$d초 후에 영상 재생</item>
-  </plurals>
-  <plurals name="v5_edit_mode_title">
+    </plurals>
+    <plurals name="v5_edit_mode_title">
     <item quantity="other">%1$d개 선택됨</item>
-  </plurals>
-  <plurals name="video_download_clear_info">
+    </plurals>
+    <plurals name="video_download_clear_info">
     <item quantity="other">%1$d개의 동영상이 성공적으로 제거 되었습니다.</item>
-  </plurals>
-  <plurals name="video_download_clear_prompt">
-    <item quantity="other">%1$d개의 동영상을 삭제 하시겠습니까?</item>
-  </plurals>
-  <plurals name="video_history_clear_info">
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+    <item quantity="other">%1$d개의 동영상을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
     <item quantity="other">%1$d개 항목이 기록에서 삭제 되었습니다.</item>
-  </plurals>
-  <plurals name="video_history_clear_prompt">
-    <item quantity="other">%1$d개 항목을 기록에서 삭제 하시겠습니까?</item>
-  </plurals>
-  <plurals name="video_subtitle_last_message">
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+    <item quantity="other">%1$d개 항목을 기록에서 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
     <item quantity="other">%d분 남음</item>
-  </plurals>
+    </plurals>
     <plurals name="hot_word_hot_count">
         <item quantity="other">조회수 %d회</item>
     </plurals>
     <plurals name="info_flow_tips">
-        <item quantity="other">나를 위한 %d개의 새로운 아이템을 찾았습니다</item>
+        <item quantity="other">나를 위한 %d개의 새로운 아이템을 찾았습니다.</item>
     </plurals>
     <plurals name="vo_comment">
         <item quantity="other">댓글 %s개</item>
@@ -56,7 +56,7 @@
         <item quantity="other">%1$s | 댓글 %2$s개</item>
     </plurals>
     <plurals name="vo_vote_num">
-        <item quantity="other">%d 명이 이미 투표했습니다</item>
+        <item quantity="other">%d 명이 이미 투표했습니다.</item>
     </plurals>
     <plurals name="vo_wei_bo_publish_time_hour">
         <item quantity="other">· %s시간 전</item>

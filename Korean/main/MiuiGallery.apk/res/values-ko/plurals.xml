@@ -19,16 +19,16 @@
         <item quantity="other">%2$s의 %1$d장의 사진이 추가될 것입니다.</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%2$s의 %1$d장의  사진이 추가될 것입니다.</item>
+        <item quantity="other">%2$s의 %1$d장의    사진이 추가될 것입니다.</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">%d명의 사람에게 공유됨</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">선택하신 사진이 기기에 없습니다. 모바일 데이터를 사용하여 다운로드 하시겠습니까?</item>
+        <item quantity="other">선택하신 사진이 기기에 없습니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">선택하신 사진 (%dMB)이 기기에 없습니다. 모바일 데이터로 다운로드 하시겠습니까?</item>
+        <item quantity="other">선택하신 사진 (%dMB)이 기기에 없습니다. 모바일 데이터로 다운로드하시겠습니까?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">선택된 사진들은 기기에 없습니다. 다운로드될 것입니다.</item>
@@ -40,13 +40,13 @@
         <item quantity="other">%1$d개 사진 다운로드 실패, 다시 시도하시겠습니까?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">%1$d장 사진을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하십시오.</item>
+        <item quantity="other">%1$d장 사진을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하세요.</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">%1$d개 사진 (%2$dMB) 다운로드 실패, 다시 시도?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"%1$d개의 파일(%2$dMB)을 다운로드 할 수 없습니다. 네트워크에 연결한 후 다시 시도하십시오."</item>
+        <item quantity="other">"%1$d개의 파일(%2$dMB)을 다운로드 할 수 없습니다. 네트워크에 연결한 후 다시 시도하세요."</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">"%d개의 파일이 아직 다운로드되지 않았습니다. 어쨌든 취소하시겠습니까?"</item>
@@ -112,7 +112,7 @@
         <item quantity="other">%d개 사진과 동영상 | 일시정지됨</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">%d개 사진과 동영상을 백업하지 못했습니다</item>
+        <item quantity="other">%d개 사진과 동영상을 백업하지 못했습니다.</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%d개 항목</item>
@@ -154,7 +154,7 @@
         <item quantity="other">%1$d개 파일 다운로드 실패</item>
     </plurals>
     <plurals name="download_retry_message">
-        <item quantity="other">%1$d개 파일을 다운로드할 수 없습니다. 네트워크 연결을 확인한 뒤에 다시 시도 하십시오.</item>
+        <item quantity="other">%1$d개 파일을 다운로드할 수 없습니다. 네트워크 연결을 확인한 뒤에 다시 시도 하세요.</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d개 항목 선택됨</item>
@@ -166,7 +166,7 @@
         <item quantity="other">총 %1$d개 항목</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
-        <item quantity="other">%1$d개 새 사진을 찾았습니다</item>
+        <item quantity="other">%1$d개 새 사진을 찾았습니다.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">\”%2$s\”에서 %1$d장의 사진을 삭제합니다.</item>
@@ -208,10 +208,10 @@
         <item quantity="other">%d개까지 사진 선택</item>
     </plurals>
     <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다</item>
+        <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다.</item>
     </plurals> 
     <plurals name="sync_oversized_count">
-        <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다</item>
+        <item quantity="other">%d개의 항목이 백업하기에 너무 큽니다.</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">총 %1$d개 항목</item>
@@ -220,13 +220,13 @@
         <item quantity="other">%1$d개 파일</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">콜라주에 1-%d개의 사진이 포함될 수 있습니다</item>
+        <item quantity="other">콜라주에 1-%d개의 사진이 포함될 수 있습니다.</item>
     </plurals>
     <plurals name="burst_image_download_item_title_count">
         <item quantity="other">%d개 사진</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">%d개 사진을 저장하고 나머지는 삭제할까요?</item>
+        <item quantity="other">%d개 사진을 저장하고 나머지는 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="burst_save_selected">
         <item quantity="other">%d개의 선택된 사진 저장</item>
@@ -235,7 +235,7 @@
         <item quantity="other">미클라우드와 모든 동기화된 기기에서 %d개의 버스트샷을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
-        <item quantity="other">%d개의 버스트샷을 삭제할까요?</item>
+        <item quantity="other">%d개의 버스트샷을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
         <item quantity="other">미클라우드와 이 기기에서 %d개의 버스트샷을 삭제하시겠습니까?</item>
@@ -277,7 +277,7 @@
         <item quantity="other">1시간 전</item>
     </plurals>
     <plurals name="backup_pause_dialog_message">
-        <item quantity="other">%d분 동안 사진, 비디오, 연락처, 메모 등을 클라우드와 동기화 중단합니다</item>
+        <item quantity="other">%d분 동안 사진, 비디오, 연락처, 메모 등을 클라우드와 동기화 중단합니다.</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_title">
         <item quantity="other">%d개 사진 삭제</item>
@@ -316,19 +316,19 @@
         <item quantity="other">%1$d초</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.  어쨌든 삭제하시겠습니까?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.  어쨌든 삭제하시겠습니까?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.  어쨌든 삭제하시겠습니까?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">항목을 최대 %1$d일(%2$s) 동안 여기에 저장할 수 있습니다.</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
-        <item quantity="other">항목을 최대 %1$d일 동안 여기에 저장할 수 있습니다. 이 기간을 연장하려면 요금제를 업그레이드하십시오.</item>
+        <item quantity="other">항목을 최대 %1$d일 동안 여기에 저장할 수 있습니다. 이 기간을 연장하려면 요금제를 업그레이드하세요.</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d개 파일 (%2$dMB)이 아직 다운로드되지 않았습니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"</item>

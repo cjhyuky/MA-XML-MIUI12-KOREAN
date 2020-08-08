@@ -29,10 +29,10 @@
         <item quantity="other">(에피소드 %d)</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">%.1f 초전 자막이 이동되었습니다</item>
+        <item quantity="other">%.1f 초전 자막이 이동되었습니다.</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
-        <item quantity="other">자막이 %.1f초 정도 딜레이가 있습니다</item>
+        <item quantity="other">자막이 %.1f초 정도 딜레이가 있습니다.</item>
     </plurals>
     <plurals name="subtitle_onlinesub_size_float_kb">
         <item quantity="other">사이즈: %.2fKB</item>

@@ -38,13 +38,13 @@
         <item>심각함</item>
     </string-array>
     <string-array name="weather_tips_value">
-        <item>야외 활동을 삼가하십시오</item>
+        <item>야외 활동을 삼가하세요.</item>
         <item>도로가 미끄럽습니다.</item>
-        <item>태풍이 붑니다. 조심하십시오!</item>
-        <item>공기가 오염 되었습니다. 마스크를 착용하십시오!</item>
+        <item>태풍이 붑니다. 조심하세요!</item>
+        <item>공기가 오염 되었습니다. 마스크를 착용하세요!</item>
         <item>나가실 때 우산을 가지고 가세요.</item>
-        <item>도로에서 조심하십시오.</item>
-        <item>모래 폭풍이 오고 있습니다. 마스크를 착용하십시오!</item>
+        <item>도로에서 조심하세요.</item>
+        <item>모래 폭풍이 오고 있습니다. 마스크를 착용하세요!</item>
         <item>좋은 하루되세요!</item>
     </string-array>
     <string-array name="alarm_set">

@@ -76,7 +76,7 @@
         <item quantity="other">• &amp;lt;font color=#fc7050>%1$s&amp;lt;/font>명이 팔로우합니다!</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
-        <item quantity="other">상태 업그레이드를 위해 %1$d명의 팔로워가 더 필요합니다</item>
+        <item quantity="other">상태 업그레이드를 위해 %1$d명의 팔로워가 더 필요합니다.</item>
     </plurals>
     <plurals name="follow_count">
         <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> 팔로워</item>
@@ -85,7 +85,7 @@
         <item quantity="other">%1$s개 보석</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">추첨에 참여하여 &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font>개의 보석을 얻어보십시오.;</item>
+        <item quantity="other">추첨에 참여하여 &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font>개의 보석을 얻어보세요.;</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">%1$s 일 연속 출석체크됨</item>

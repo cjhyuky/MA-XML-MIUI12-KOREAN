@@ -234,7 +234,7 @@
     <string name="delete_now">삭제</string>
     <string name="ok">확인</string>
     <string name="cancel">취소</string>
-    <string name="retry">재시도</string>
+    <string name="retry">다시 시도</string>
     <string name="try_again">다시 시도</string>
     <string name="get_help">도움말 보기</string>
     <string name="troubleshoot">문제해결</string>

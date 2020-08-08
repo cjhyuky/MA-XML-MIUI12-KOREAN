@@ -10,11 +10,11 @@
     <string name="carousel_declaration_des">아름 다운 장소를 참조 하 고 벽지 회전 목마와 놀라움 흥분 얻을</string>
     <string name="carousel_declaration_title">화려한 배경 화면 등록</string>
     <string name="carousel_suggest">주의</string>
-    <string name="carousel_suggest1">무료로 매일을 당신의 자물쇠 스크린에 (게) 똑바로 배달 새로운 배경 화면을 얻을.</string>
+    <string name="carousel_suggest1">무료로 매일을 사용자의 자물쇠 스크린에 (게) 똑바로 배달 새로운 배경 화면을 얻을.</string>
     <string name="carousel_suggest2">바탕 화면 회전 목마 인가?</string>
     <string name="change_time">배경화면 전환</string>
     <string name="confirm">확인</string>
-    <string name="current_connection_invalid">장치는 네트워크에 연결 될 때까지 기다립니다</string>
+    <string name="current_connection_invalid">장치는 네트워크에 연결 될 때까지 기다립니다.</string>
     <string name="current_data_invalid">오류가 발생 했습니다.</string>
     <string name="current_network_invalid">먼저 네트워크에 연결</string>
     <string name="current_no_more_pictures">아니 더 많은 사진</string>
@@ -32,7 +32,7 @@
     <string name="lockscreen_h5_back_tv">뒤로</string>
     <string name="lockscreen_h5_close_tv">끄기</string>
     <string name="lockscreen_h5_refresh_btn_tv">새로 고침</string>
-    <string name="lockscreen_h5_refresh_tip">네트워크 설정을 확인 하 고 다시 시도 하십시오</string>
+    <string name="lockscreen_h5_refresh_tip">네트워크 설정을 확인 하 고 다시 시도 하세요.</string>
     <string name="lockscreen_magazine_summary">카테고리</string>
     <string name="lockscreen_magazine_system_title">오프라인</string>
     <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
@@ -71,7 +71,7 @@
     <string name="sst_wifi_only_title">모바일 데이터를 사용하여 배경화면 업데이트</string>
     <string name="summary">"온라인 컨텐츠를 보시려면 아래의 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하세요. 원하지 않으셔도 로컬 배경화면은 사용가능합니다."</string>
     <string name="summary_international">"이 기능을 사용하려면, 우리의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>사용자 동의&lt;/a>와 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 이 기능이 제대로 작동하려면 인터넷 연결이 필요합니다.​"</string>
-    <string name="theme_apply_failured">적용할 수 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="theme_apply_failured">적용할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="theme_apply_success">잠금화면 적용됨</string>
     <string name="theme_applying">적용 중…</string>
     <string name="wlan_download">Wi-Fi로 업데이트</string>

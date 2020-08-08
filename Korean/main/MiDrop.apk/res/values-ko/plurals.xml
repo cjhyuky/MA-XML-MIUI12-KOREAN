@@ -7,7 +7,7 @@
         <item quantity="other">%1$d에서 %2$s개의 파일을 기다리는 중</item>
     </plurals>
     <plurals name="receiver_file_current">
-        <item quantity="other">%1$d에서 %2$s개의 파일 받는 중…</item>  
+        <item quantity="other">%1$d에서 %2$s개의 파일 받는 중…</item>    
     </plurals>
     <plurals name="receiver_pic_file_num">
         <item quantity="other">%1$d에서 %2$s개의 사진</item>
@@ -43,10 +43,10 @@
         <item quantity="other">%1$s개 파일 전송됨</item>
     </plurals>
     <plurals name="a">
-        <item quantity="other">선택된 %d개 파일을 삭제할까요?</item>
+        <item quantity="other">선택된 %d개 파일을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="b">
-        <item quantity="other">%1$s님이 전송을 취소하셨습니다</item>
+        <item quantity="other">%1$s님이 전송을 취소하셨습니다.</item>
     </plurals>
     <plurals name="c">
         <item quantity="other">%1$s개 파일 전송중…</item>

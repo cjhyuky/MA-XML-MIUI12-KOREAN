@@ -23,8 +23,8 @@
     <string name="ims_per_count">ImsPacketErrorCount</string>
     <string name="ims_to_cs_retry">ImsToCsRetry</string>
     <string name="ims_to_cs_retry_summary">일반 음성 통신으로 다시 시도 (추천하는 방식)</string>
-    <string name="ims_to_cs_retry_title">CS 재시도</string>
-    <string name="ims_vt_call_static_image_error">지원되지 않는 이미지 형식입니다. 다른 이미지를 선택하십시오.</string>
+    <string name="ims_to_cs_retry_title">CS 다시 시도</string>
+    <string name="ims_vt_call_static_image_error">지원되지 않는 이미지 형식입니다. 다른 이미지를 선택하세요.</string>
     <string name="ims_vt_call_static_image_ignore">통화 도중 정적 이미지를 변경할 수 없음</string>
     <string name="ims_vt_call_static_image_okay">정적 이미지 선택됨</string>
     <string name="ims_vt_call_static_image_text">정적 이미지 선택</string>
@@ -65,7 +65,7 @@
     <string name="ims_resolution_settings_VGA">VGA</string>
     <string name="ims_resolution_settings_name">비디오 해상도 설정</string>
     <string name="ims_sdp_AVPF_negotiation_name">SDP는 AVPF를 사용합니다.</string>
-    <string name="ims_sdp_imageattr_parameter_name">"SDP to carry  imageattr par"</string>
+    <string name="ims_sdp_imageattr_parameter_name">"SDP to carry    imageattr par"</string>
     <string name="ims_sdp_negotiation_setting_name">SDP 협상 구성</string>
     <string name="ims_ut_settings_authentication_name">인증 사용자명</string>
     <string name="ims_ut_settings_authentication_name_dlg">인증 사용자명을 입력하세요.</string>
@@ -90,7 +90,7 @@
     <string name="sms_cs_prefer_description">CS 도메인에서 SMS 전송 선호</string>
     <string name="sms_cs_prefer_key_name">Sms CS 선호</string>
     <string name="str_please_reboot_device_to_activate">진입 후 기기 재시동</string>
-    <string name="ims_apn_value_invalid">APN을 입력하십시오.</string>
+    <string name="ims_apn_value_invalid">APN을 입력하세요.</string>
     <string name="ims_settings_no_default_value">무</string>
     <string name="ims_settings_value_full_rate">풀 레이트</string>
     <string name="ims_settings_value_no">유</string>

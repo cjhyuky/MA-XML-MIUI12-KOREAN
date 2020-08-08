@@ -7,10 +7,10 @@
         <item quantity="other">선택한 %d개의 항목</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
-        <item quantity="other">%d자 까지 입력할 수 있습니다</item>
+        <item quantity="other">%d자 까지 입력할 수 있습니다.</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">적어도 %d자 이상 입력하세요</item>
+        <item quantity="other">적어도 %d자 이상 입력하세요.</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%d개 앱의 알림을 표시하지 않습니다.</item>
@@ -53,7 +53,7 @@
         <item quantity="other">SIM PIN 코드가 잘못되었습니다. %d번의 기회가 남았습니다.</item>
         <item quantity="one">SIM PIN 코드가 잘못되었습니다. %d회 이상 실패할 경우 이동통신사에 문의하여 기기를 잠금 해제해야 합니다.</item>
     </plurals>
-      <plurals name="memory_usage_apps_summary">
+        <plurals name="memory_usage_apps_summary">
         <item quantity="other">지난 %2$s 동안 %1$d개의 앱에서 메모리를 사용하였습니다.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
@@ -80,7 +80,7 @@
         <item quantity="other">%1$d명 연결됨</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">전화 정보 입력까지 %1$d단계 남았습니다.</item>
+        <item quantity="other">디바이스 정보 진입까지 %1$d단계 남았습니다.</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT 입력까지 %1$d단계 남았습니다.</item>
@@ -101,13 +101,13 @@
         <item quantity="other">PIN은 최대 %d자리의 숫자를 사용할 수 있습니다.</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">최소 %d개 점을 연결하십시오. 다시 시도</item>
+        <item quantity="other">최소 %d개 점을 연결하세요. 다시 시도</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">%d초 후 다시 시도하세요.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">%d초 후 다시 시도해 주십시오.</item>
+        <item quantity="other">%d초 후 다시 시도하세요.</item>
     </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">%d개 위험 발견됨</item>
@@ -143,10 +143,10 @@
         <item quantity="other">인증서 신뢰 또는 삭제</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s님이 장치에 인증서를 설치 했으므로 이메일, 응용 프로그램 및 보안 웹 사이트를 포함한 장치 네트워크 활동을 모니터링 할 수 있습니다. 이러한 인증서에 대한 자세한 내용은 관리자에게 문의하십시오."</item>
+        <item quantity="other">"%s님이 장치에 인증서를 설치 했으므로 이메일, 응용 프로그램 및 보안 웹 사이트를 포함한 장치 네트워크 활동을 모니터링 할 수 있습니다. 이러한 인증서에 대한 자세한 내용은 관리자에게 문의하세요."</item>
     </plurals>
     <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s님이 직장 프로필에 대한 인증서를 설치 했으므로 이메일, 앱, 보안 웹 사이트 등 직장 네트워크 활동을 모니터링 할 수 있습니다. 이러한 인증서에 대한 자세한 내용은 관리자에게 문의하십시오."</item>
+        <item quantity="other">"%s님이 업무용 프로필에 대한 인증서를 설치 했으므로 이메일, 앱, 보안 웹 사이트 등 직장 네트워크 활동을 모니터링 할 수 있습니다. 이러한 인증서에 대한 자세한 내용은 관리자에게 문의하세요."</item>
     </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">인증서 체크</item>
@@ -167,16 +167,16 @@
         <item quantity="other">%d개의 추가 권한</item>
     </plurals>
     <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d개의 앱이 신뢰하는 링크를 열 수 있습니다</item>
+        <item quantity="other">%d개의 앱이 신뢰하는 링크를 열 수 있습니다.</item>
     </plurals>
     <plurals name="high_power_count">
-        <item quantity="other">%d개의 앱이 배터리 최적화에서 제외되었습니다</item>
+        <item quantity="other">%d개의 앱이 배터리 최적화에서 제외되었습니다.</item>
     </plurals>
     <plurals name="notification_summary">
-        <item quantity="other">%d앱이 전송 제한되었습니다</item>
+        <item quantity="other">%d앱이 전송 제한되었습니다.</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">%1$d개의 앱이 데이터세이버가 켜져있어도 제한없이 데이터를 사용하게끔 허용되었습니다</item>
+        <item quantity="other">%1$d개의 앱이 데이터세이버가 켜져있어도 제한없이 데이터를 사용하게끔 허용되었습니다.</item>
     </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d개의 항목</item>
@@ -224,7 +224,7 @@
         <item quantity="other">%d개의 신뢰하는 에이전트</item>
     </plurals>
     <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d개의 계정이 초기화됩니다</item>
+        <item quantity="other">%1$d개의 계정이 초기화됩니다.</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%s 분</item>
@@ -245,7 +245,7 @@
         <item quantity="other">%d개의 숨겨진 항목 보기</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">%d개의 앱이 제한없이 데이터를 사용할 수 있습니다</item>
+        <item quantity="other">%d개의 앱이 제한없이 데이터를 사용할 수 있습니다.</item>
     </plurals>
     <plurals name="wifi_saved_access_points_summary">
         <item quantity="other">%d개의 네트워크</item>
@@ -281,7 +281,7 @@
         <item quantity="other">%1$d개 앱 백그라운드 제한됨</item>
     </plurals>
     <plurals name="battery_tip_restrict_app_dialog_title">
-        <item quantity="other">%1$d개 앱을 중단할까요?</item>
+        <item quantity="other">%1$d개 앱을 중단하시겠습니까?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
         <item quantity="other">"이 앱들은 백그라운드에서 실행할 수 없습니다"</item>
@@ -290,7 +290,7 @@
         <item quantity="other">%2$d개 앱들 현재 백그라운드 제한됨</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d개 앱들이 백그라운드 배터리 사용이 높습니다</item>
+        <item quantity="other">%2$d개 앱들이 백그라운드 배터리 사용이 높습니다.</item>
     </plurals>
     <plurals name="battery_tip_restrict_title">
         <item quantity="other">%1$d개 앱들 백그라운드 제한됨</item>
@@ -308,7 +308,7 @@
         <item quantity="other">%2$d개 앱 비정상적 실행중</item>
     </plurals>
     <plurals name="power_high_usage_title">
-        <item quantity="other">앱들이 배터리를 소모중입니다</item>
+        <item quantity="other">앱들이 배터리를 소모중입니다.</item>
     </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">%1$d개 앱 배터리 사용 제한함</item>
@@ -335,13 +335,13 @@
         <item quantity="other">%d개 연락처</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">오디오 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
+        <item quantity="other">오디오 기록을 가져올 수 있기까지 %1$d단계 남았습니다.</item>
     </plurals>
     <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">GPS 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
+        <item quantity="other">GPS 기록을 가져올 수 있기까지 %1$d단계 남았습니다.</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">모뎀 기록을 가져올 수 있기까지 %1$d단계 남았습니다</item>
+        <item quantity="other">모뎀 기록을 가져올 수 있기까지 %1$d단계 남았습니다.</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s 시간 %2$s"</item>
@@ -454,40 +454,46 @@
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" 분"</item>
     </plurals>
-  <plurals name="accessibility_usage_summary">
+    <plurals name="accessibility_usage_summary">
     <item quantity="other">앱 %1$d개가 기기에 대한 전체 액세스 권한을 가지고 있습니다.</item>
-  </plurals>
-  <plurals name="location_app_permission_summary_location_on">
+    </plurals>
+    <plurals name="location_app_permission_summary_location_on">
     <item quantity="other">%2$d개 중 %1$d개의 앱이 위치 정보에 액세스할 수 있음</item>
-  </plurals>
-  <plurals name="location_settings_summary_location_on">
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
     <item quantity="other">사용 - %1$d개의 앱이 위치에 액세스할 수 있음</item>
-  </plurals>
-  <plurals name="mobile_network_summary_count">
+    </plurals>
+    <plurals name="mobile_network_summary_count">
     <item quantity="other">SIM %1$d개</item>
-  </plurals>
-  <plurals name="notification_few_channel_count_summary">
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
     <item quantity="other">알림 채널 %1$d개</item>
-  </plurals>
-  <plurals name="notifications_sent_daily">
+    </plurals>
+    <plurals name="notifications_sent_daily">
     <item quantity="other">하루 최대 %d개</item>
-  </plurals>
-  <plurals name="notifications_sent_weekly">
+    </plurals>
+    <plurals name="notifications_sent_weekly">
     <item quantity="other">1주일에 알림 최대 %d개</item>
-  </plurals>
-  <plurals name="permission_bar_chart_label">
+    </plurals>
+    <plurals name="permission_bar_chart_label">
     <item quantity="other">앱 %s개</item>
-  </plurals>
-  <plurals name="show_bluetooth_devices">
+    </plurals>
+    <plurals name="show_bluetooth_devices">
     <item quantity="other">기기 %1$d대 연결됨</item>
-  </plurals>
-  <plurals name="wifi_saved_all_access_points_summary">
+    </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
     <item quantity="other">네트워크 및 구독 %d개</item>
-  </plurals>
-  <plurals name="wifi_saved_passpoint_access_points_summary">
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
     <item quantity="other">구독 %d개</item>
-  </plurals>
-  <plurals name="zen_mode_bypassing_apps_subtext">
+    </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
     <item quantity="other">앱 %1$d개의 알림이 방해 금지 모드를 무시할 수 있음</item>
-  </plurals>
+    </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d개 중요 메시지</item>
+    </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">모든 %1$d개 앱 보기</item>
+    </plurals>
 </resources>

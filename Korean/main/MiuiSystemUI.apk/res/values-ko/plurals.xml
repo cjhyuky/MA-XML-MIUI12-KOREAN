@@ -11,7 +11,7 @@
         <item quantity="other">최근 실행한 사용가능한 앱: %d. 위로 스와이프하여 제거, 아래로 스와이프하여 잠금 해제.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d 토글이 알림창에 표시됩니다</item>
+        <item quantity="other">%1$d 토글이 알림창에 표시됩니다.</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">%d개 앱의 알림을 숨기시겠습니까?</item>
@@ -35,7 +35,7 @@
         <item quantity="other">%s개의 추가 알림이 있습니다.</item>
     </plurals>
     <plurals name="notification_num_channels">
-       <item quantity="other">%d개 알림 카테고리</item>
+         <item quantity="other">%d개 알림 카테고리</item>
     </plurals>
      <plurals name="notification_num_channels_desc">
         <item quantity="other">이 앱 %d개의 알림 카테고리 중 하나</item>
@@ -50,13 +50,13 @@
         <item quantity="other">잘못된 SIM PUK 코드, SIM을 영구적으로 사용할 수 없게되기까지 남은 시도 횟수는 %d회입니다.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. 잠금패턴을 확인하십시오."</item>
+        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. 잠금패턴을 확인하세요."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. PIN 코드를 확인하십시오."</item>
+        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. PIN 코드를 확인하세요."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. 비밀번호를 확인하십시오."</item>
+        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. 비밀번호를 확인하세요."</item>
     </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">SIM PIN코드를 입력하세요, %d회 시도 남음.</item>
@@ -71,10 +71,10 @@
         <item quantity="other">잘못된 PIN코드, %d회 시도 남음</item>
     </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
-        <item quantity="other">%d초 후 재시도하세요</item>
+        <item quantity="other">%d초 후 다시 시도하세요.</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">%d분 후 재시도하세요</item>
+        <item quantity="other">%d분 후 다시 시도하세요.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d개의 새로운 알림</item>
@@ -119,10 +119,10 @@
         <item quantity="other">%1$d시간 %2$d분 사용가능</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">잘 기억하기 위해 적어도 %d시간 중 한 번은 비밀번호를 입력하십시오.</item>
+        <item quantity="other">잘 기억하기 위해 적어도 %d시간 중 한 번은 비밀번호를 입력하세요.</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">잘 기억하기 위해 적어도 %d시간 중 한 번은 패턴을 입력하십시오.</item>
+        <item quantity="other">잘 기억하기 위해 적어도 %d시간 중 한 번은 패턴을 입력하세요.</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s 시간 %2$s"</item>

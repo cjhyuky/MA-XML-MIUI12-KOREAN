@@ -19,10 +19,10 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="mi_service_app_name">서비스 &amp; 피드백</string>
     <string name="miservice_channel_update_notification_info">\"서비스 및 피드백\"에서 온라인으로 데이터를 요청하고 있습니다...</string>
-    <string name="miservice_notification_boot_content">MIUI의 기능에 대해 자세히 알아보십시오</string>
-    <string name="miservice_notification_open_feedback_content">모든 피드백 기능이 새로운 앱으로 이동되었습니다</string>
+    <string name="miservice_notification_boot_content">MIUI의 기능에 대해 자세히 알아보세요.</string>
+    <string name="miservice_notification_open_feedback_content">모든 피드백 기능이 새로운 앱으로 이동되었습니다.</string>
     <string name="miservice_notification_open_feedback_title">\"서비스 및 피드백\"소개</string>
-    <string name="miui_feedback_answer_detail_community">Mi 커뮤니티에서 질문에 대한 답변을 찾을 수 있습니다</string>
+    <string name="miui_feedback_answer_detail_community">Mi 커뮤니티에서 질문에 대한 답변을 찾을 수 있습니다.</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">예</string>
     <string name="miui_feedback_answer_detail_feedback_result">의견에 감사드립니다!</string>
     <string name="miui_feedback_answer_detail_feedback_title">이 정보가 도움이 되었습니까?</string>
@@ -33,7 +33,7 @@
     <string name="miui_feedback_answer_detail_title">세부 사항</string>
     <string name="miui_feedback_edit_action_submit">보내기</string>
     <string name="miui_feedback_edit_add_original_images">사진 추가</string>
-    <string name="miui_feedback_edit_add_original_images_dialog_content">"보고하는 문제가 카메라의 이미지 품질과 관련이있는 경우 문제를 찾는 데 도움이되도록 원본 샘플 사진 (자르지 않음)을 추가하십시오. 지금 사진을 추가 하시겠습니까?"</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">"보고하는 문제가 카메라의 이미지 품질과 관련이있는 경우 문제를 찾는 데 도움이되도록 원본 샘플 사진 (자르지 않음)을 추가하세요. 지금 사진을 추가하시겠습니까?"</string>
     <string name="miui_feedback_edit_choose_module">항목 선택</string>
     <string name="miui_feedback_edit_choose_module_hint">필수</string>
     <string name="miui_feedback_edit_choose_reproductivity">재생산</string>
@@ -46,7 +46,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">삭제</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">"이 보고서에 대한 모든 변경 사항은 지워집니다."</string>
     <string name="miui_feedback_edit_discard_draft_dialog_title">임시 보관함을 삭제하시겠습니까?</string>
-    <string name="miui_feedback_edit_hint">문제가 발생할 때마다 버그를 신고하여 더 빨리 해결하도록 도와주세요</string>
+    <string name="miui_feedback_edit_hint">문제가 발생할 때마다 버그를 신고하여 더 빨리 해결하도록 도와주세요.</string>
     <string name="miui_feedback_edit_hint_gone">완료된 메시지</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi 대기중</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">업로드</string>
@@ -76,16 +76,16 @@
     <string name="miui_feedback_edit_select_upload_log_select_desc">선택된 \"로그 추가\"</string>
     <string name="miui_feedback_edit_storage_permission_name">장치 저장공간 엑세스</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"동의하지 않습니다"</string>
-    <string name="miui_feedback_edit_submit_dialog_confirm">동의합니다</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">동의합니다.</string>
     <string name="miui_feedback_edit_submit_dialog_content"><Data>"&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">사용자 동의&lt;/a>에 동의해야합니다. 첨부한 항목(기기 및 네트워크에 대한 정보뿐만 아니라 개인 정보가 포함될 수 있음)과 함께 보고한 문제가 업로드됩니다. MIUI 서버 :보고한 문제를 찾고 해결하는데 도움이됩니다."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_content_global"><Data>"첨부 파일(있는 경우) 및 로그(업로드하지 않을 항목의 해당 상자를 선택 취소 할 수 있음)와 함께 사용자 의견은 MIUI 서버로 전송됩니다. &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">사용자 동의&lt;/a>를 읽고 \"동의\"를 선택하세요."</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"다시 표시하지 않음"</string>
     <string name="miui_feedback_edit_submit_dialog_title">보고서 보내기</string>
     <string name="miui_feedback_edit_submit_directly">제출</string>
     <string name="miui_feedback_edit_title_reproductivity">재생산 선택</string>
-    <string name="miui_feedback_edit_toast_description_required">설명을 작성해야합니다</string>
+    <string name="miui_feedback_edit_toast_description_required">설명을 작성해야합니다.</string>
     <string name="miui_feedback_edit_toast_module_required">항목 선택</string>
-    <string name="miui_feedback_edit_toast_more_desc_required">설명이 더 길어야합니다</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">설명이 더 길어야합니다.</string>
     <string name="miui_feedback_edit_toast_problem_class_required">카테고리 선택</string>
     <string name="miui_feedback_edit_toast_screenshot_too_large">"100MB보다 큰 이미지 또는 비디오를 업로드 할 수 없습니다"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">앱 이름 입력</string>
@@ -94,7 +94,7 @@
     <string name="miui_feedback_main_menu_catch_full_log">로그 생성</string>
     <string name="miui_feedback_main_menu_feedback_list">의견 이력보기</string>
     <string name="miui_feedback_main_search_footer">"이 질문이 궁금하지 않습니까?"</string>
-    <string name="miui_feedback_main_search_issue">검색할 키워드를 입력하십시오</string>
+    <string name="miui_feedback_main_search_issue">검색할 키워드를 입력하세요.</string>
     <string name="miui_feedback_main_start_submit">의견 제출</string>
     <string name="miui_feedback_main_submit_dialog_confirm">제출</string>
     <string name="miui_feedback_main_submit_dialog_content">"문제에 대한 해결책을 찾지 못한 것 같습니다. 의견을 보내 주시기 바랍니다."</string>
@@ -116,7 +116,7 @@
     <string name="miui_main_update_continue">다음</string>
     <string name="miui_main_update_learn_more">자세히 알아보기</string>
     <string name="miui_main_update_start">지금 업데이트</string>
-    <string name="miui_main_update_success_sub_title">새로운 MIUI를 만나보세요</string>
+    <string name="miui_main_update_success_sub_title">새로운 MIUI를 만나보세요.</string>
     <string name="miui_main_update_success_title">생산성 향상</string>
     <string name="permission_agree">동의</string>
     <string name="permission_china_version_msg"><Data>\"서비스 및 피드백\"을 사용하기 전에 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 이에 동의해야합니다. 이 앱이 정상적으로 작동하려면 인터넷에 연결되어 있어야합니다.</Data></string>
@@ -136,20 +136,20 @@
     <string name="permission_user_protocol">사용자 동의(필수)</string>
     <string name="public_loading_text">잠시만 기다려주세요…</string>
     <string name="public_net_error_retry">다시 시도</string>
-    <string name="public_net_error_sub_title">네트워크 설정을 확인하고 다시 시도하십시오</string>
+    <string name="public_net_error_sub_title">네트워크 설정을 확인하고 다시 시도하세요.</string>
     <string name="public_net_error_title">"네트워크에 연결할 수 없습니다"</string>
     <string name="rationale_ask">요청한 권한이 없으면 이 앱이 제대로 작동하지 않을 수 있습니다.</string>
     <string name="rationale_ask_again">요청한 권한이 없으면 이 앱이 제대로 작동하지 않을 수 있습니다. 앱 설정 화면을 열어 앱 권한을 수정합니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="title_settings_dialog">권한 요구됨</string>
-  <string name="miservice_notification_huanji_content">Mi Mover를 사용하여 전송</string>
-  <string name="miservice_notification_huanji_title">이전 전화에 중요한 항목이 있습니까?</string>
-  <string name="miservice_notification_scan_content">스캐너를 사용하여 단어와 구를 번역</string>
-  <string name="miservice_notification_scan_title">순간 번역</string>
-  <string name="miservice_notification_boot_sub_title">MIUI의 로컬 기능 및 재미 소개</string>
-  <string name="miservice_notification_boot_title">새로운 기계를 빨리 알아 가십시오</string>
+    <string name="miservice_notification_huanji_content">Mi Mover를 사용하여 전송</string>
+    <string name="miservice_notification_huanji_title">이전 전화에 중요한 항목이 있습니까?</string>
+    <string name="miservice_notification_scan_content">스캐너를 사용하여 단어와 구를 번역</string>
+    <string name="miservice_notification_scan_title">순간 번역</string>
+    <string name="miservice_notification_boot_sub_title">MIUI의 로컬 기능 및 재미 소개</string>
+    <string name="miservice_notification_boot_title">새로운 기계를 빨리 알아 가세요.</string>
     <string name="miui_main_update_success_title_12">없음</string>
-    <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화가 꺼져 있습니다</string>
+    <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화가 꺼져 있습니다.</string>
     <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
     <string name="miuix_appcompat_cloud_state_syncing">클라우드 동기화 중…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
@@ -163,12 +163,12 @@
     <string name="share_cancel">공유 취소</string>
     <string name="share_failed">"공유 할 수 없습니다"</string>
     <string name="share_no_network">"네트워크에 연결할 수 없습니다"</string>
-    <string name="share_not_install_wechat">WeChat을 먼저 설치하세요</string>
-    <string name="share_not_install_weibo">Weibo를 먼저 설치하세요</string>
+    <string name="share_not_install_wechat">WeChat을 먼저 설치하세요.</string>
+    <string name="share_not_install_weibo">Weibo를 먼저 설치하세요.</string>
     <string name="share_success">공유 완료</string>
     <string name="share_title">공유</string>
     <string name="miui_guide_accessibility_image_desc">화상</string>
     <string name="miui_guide_menu_privacy">개인정보 보호정책</string>
-    <string name="miui_mine_repair_mode_sub_title">판매 후 유지 관리 중 데이터 보안을 보장합니다</string>
+    <string name="miui_mine_repair_mode_sub_title">판매 후 유지 관리 중 데이터 보안을 보장합니다.</string>
     <string name="miui_mine_repair_mode_title">유지 관리 모드</string>
 </resources>

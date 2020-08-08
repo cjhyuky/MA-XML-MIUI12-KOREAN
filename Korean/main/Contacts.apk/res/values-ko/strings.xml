@@ -69,7 +69,7 @@
     <string name="shortcutActivityTitle">바로가기 고르기</string>
     <string name="callShortcutActivityTitle">전화번호 선택</string>
     <string name="messageShortcutActivityTitle">메시지 번호 선택</string>
-    <string name="contactPickerActivityTitle">연락처를 골라 주세요</string>
+    <string name="contactPickerActivityTitle">연락처를 골라 주세요.</string>
     <string name="starredList">별 표시됨</string>
     <string name="frequentList">빈도</string>
     <string name="strequentList">즐겨찾기</string>
@@ -99,11 +99,11 @@
     <string name="menu_deleteGroup">삭제</string>
     <string name="menu_new_contact_action_bar">새로운 연락처</string>
     <string name="menu_new_group_action_bar">새로운 그룹</string>
-    <string name="splitConfirmation_title">연락처를 분류할까요?</string>
+    <string name="splitConfirmation_title">연락처를 분류하시겠습니까?</string>
     <string name="splitConfirmation">이 연락처는 다수의 연락처로 분류될 것입니다.</string>
     <string name="menu_joinAggregate">합치기</string>
     <string name="titleJoinContactDataWith">연락처 합치기</string>
-    <string name="blurbJoinContactDataWith">%s: 와 합치고 싶은 연락처를 선택해 주십시오.</string>
+    <string name="blurbJoinContactDataWith">%s: 와 합치고 싶은 연락처를 선택해 주세요.</string>
     <string name="showAllContactsJoinItem">모든 연락처 보이기</string>
     <string name="separatorJoinAggregateSuggestions">추천 연락처</string>
     <string name="separatorJoinAggregateAll">모든 연락처</string>
@@ -111,7 +111,7 @@
     <string name="menu_set_ring_tone">벨소리로 설정하기</string>
     <string name="menu_redirect_calls_to_vm">모든 전화를 음성 메일로 연결</string>
     <string name="menu_not_redirect_calls_to_vm">음성 메일 사용 중이 아님</string>
-    <string name="redirect_calls_to_vm_confirm_message">메일함을 설정하기 전에, 모바일 네트워크 제공업체와 체결한 계약서의 약관을 확인하십시오.</string>
+    <string name="redirect_calls_to_vm_confirm_message">메일함을 설정하기 전에, 모바일 네트워크 제공업체와 체결한 계약서의 약관을 확인하세요.</string>
     <string name="redirect_calls_to_vm_confirm_text">확인</string>
     <string name="readOnlyContactWarning">연락처는 읽기 전용 계정에서 삭제할 수 없지만 연락처 목록에 숨길 수는 있습니다.</string>
     <string name="readOnlyContactDeleteConfirmation">이 연락처엔 다수 계정의 정보가 포함되어 있습니다. 읽기 전용 계정의 정보는 삭제되지 않고 연락처 목록에 숨겨집니다.</string>
@@ -143,7 +143,7 @@
     <string name="noMatchingContacts">일치하는 연락처를 찾지 못했습니다.</string>
     <string name="noContactsWithPhoneNumbers">전화번호를 포함한 연락처 없음</string>
     <string name="emptyGroup">이 그룹에 사람이 없습니다.</string>
-    <string name="addPeopleToGroup">무언가를 추가하려면 그룹을 편집하십시오.</string>
+    <string name="addPeopleToGroup">무언가를 추가하려면 그룹을 편집하세요.</string>
     <string name="savingContact">연락처 저장 중…</string>
     <string name="savingDisplayGroups">화면 옵션 저장 중…</string>
     <string name="contactSavedToast">연락처 저장됨</string>
@@ -180,7 +180,7 @@
     <string name="clearCallLogProgress_title">"통화 기록 지우는 중
 2026"</string>
     <string name="clearFrequentsConfirmation_title">자주 사용하는 연락처를 삭제하시겠습니까?</string>
-    <string name="clearFrequentsConfirmation">연락처 및 전화에서 자주 사용하는 연락처 목록을 지우고, 메일 앱이 처음부터 주소 지정 기본 설정을 강제로 학습하게 하십시오.</string>
+    <string name="clearFrequentsConfirmation">연락처 및 전화에서 자주 사용하는 연락처 목록을 지우고, 메일 앱이 처음부터 주소 지정 기본 설정을 강제로 학습하게 하세요.</string>
     <string name="clearFrequentsProgress_title">자주 사용하는 연락처 삭제 중…</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
@@ -202,7 +202,7 @@
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오십시오
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오세요
 "</b></font></li>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"표시할 연락처가 없습니다(방금 계정을 추가한 경우라면 연락처를 동기화하는 데 몇 분 걸릴 수 있습니다.).
 
@@ -214,7 +214,7 @@
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오십시오
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SIM 카드나 SD 카드에서 연락처를 가져오세요
 "</b></font></li>"\" "</string>
     <string name="noContactsNoSimHelpText">"\"표시할 연락처가 없습니다.
 
@@ -224,7 +224,7 @@
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오십시오
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오세요
 "</b></font></li>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"\"표시할 연락처가 없습니다(방금 계정을 추가한 경우라면 연락처를 동기화하는 데 몇 분 걸릴 수 있습니다.).
 
@@ -236,7 +236,7 @@
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
 "</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오십시오
+"<li><font fgcolor="#ffffffff"><b>"가져오기/내보내기를 터치하여 SD 카드에서 연락처를 가져오세요
 "</b></font></li>"\" "</string>
     <string name="noFavoritesHelpText">"\"즐겨찾기가 없습니다.
 
@@ -245,7 +245,7 @@
 "</b></li>" 
 "<li>"즐겨찾기에 추가하고 싶은 연락처를 터치하거나
 "</li>" 
-"<li>"연락처의 이름 옆에 있는 별 표시를 터치하십시오
+"<li>"연락처의 이름 옆에 있는 별 표시를 터치하세요
 "</li>"\" "</string>
     <string name="dialer_useDtmfDialpad">터치 톤 키패드 사용</string>
     <string name="dialer_returnToInCallScreen">진행 중인 통화로 돌아가기</string>
@@ -320,9 +320,9 @@
     <string name="importing_vcard_canceled_title">%s 가져오기 취소됨</string>
     <string name="vcard_import_will_start_message">%s 카드를 즉시 가져옵니다.</string>
     <string name="vcard_import_will_start_message_with_default_name">파일을 즉시 가져옵니다.</string>
-    <string name="vcard_import_request_rejected_message">vCard 가져오기 요청이 거부되었습니다. 나중에 다시 시도하십시오.</string>
+    <string name="vcard_import_request_rejected_message">vCard 가져오기 요청이 거부되었습니다. 나중에 다시 시도하세요.</string>
     <string name="vcard_export_will_start_message">%s 카드를 즉시 내보냅니다.</string>
-    <string name="vcard_export_request_rejected_message">vCard 내보내기 요청이 거부되었습니다. 나중에 다시 시도하십시오.</string>
+    <string name="vcard_export_request_rejected_message">vCard 내보내기 요청이 거부되었습니다. 나중에 다시 시도하세요.</string>
     <string name="vcard_unknown_filename">연락처</string>
     <string name="confirm_export_title">연락처를 내보내시겠습니까?</string>
     <string name="confirm_export_message">연락처 목록을 %s 파일로 내보냅니다.</string>
@@ -488,9 +488,9 @@
 
 업그레이드 과정은 약 %s MB의 내부 저장소를 요구합니다.
 
-다음 옵션 중 하나를 선택하십시오."</string>
+다음 옵션 중 하나를 선택하세요."</string>
     <string name="upgrade_out_of_memory_uninstall">일부 앱 설치 제거</string>
-    <string name="upgrade_out_of_memory_retry">업그레이드 재시도</string>
+    <string name="upgrade_out_of_memory_retry">업그레이드 다시 시도</string>
     <string name="search_results_searching">검색 중…</string>
     <string name="menu_display_selected">선택 사항 보이기</string>
     <string name="menu_display_all">모두 보이기</string>
@@ -566,7 +566,7 @@
     <string name="call_log_old_header">이전</string>
     <string name="voicemail_status_voicemail_not_available">음성 메일 서버에 연결할 수 없습니다.</string>
     <string name="voicemail_status_messages_waiting">음성 메일 서버에 연결할 수 없습니다. 새 음성 메일을 기다리는 중입니다.</string>
-    <string name="voicemail_status_configure_voicemail">음성 메일을 설정하십시오.</string>
+    <string name="voicemail_status_configure_voicemail">음성 메일을 설정하세요.</string>
     <string name="voicemail_status_audio_not_available">오디오를 사용할 수 없습니다.</string>
     <string name="voicemail_status_action_configure">설정</string>
     <string name="voicemail_status_action_call_server">음성 메일로 통화</string>
@@ -606,8 +606,8 @@
     <string name="toast_displaying_all_contacts">모든 연락처 표시하기</string>
     <string name="no_account_prompt">"Google 계정을 사용하면 작업이 더 수월합니다.
 
-• 모든 웹 브라우저로 액세스하십시오.
-• 연락처를 안전하게 백업하십시오."</string>
+• 모든 웹 브라우저로 액세스하세요.
+• 연락처를 안전하게 백업하세요."</string>
     <string name="generic_no_account_prompt">휴대전화를 잃어버려도 온라인 서비스로 동기화하면 연락처를 안전하게 보관할 수 있습니다.</string>
     <string name="generic_no_account_prompt_title">계정 추가</string>
     <string name="contact_editor_prompt_zero_accounts">모바일 또는 새 온라인 계정에 저장</string>
@@ -617,8 +617,8 @@
     <string name="add_account">계정 추가</string>
     <string name="add_new_account">새 계정 추가</string>
     <string name="dialog_phone_call_prohibited_message">전송되지 않은 통화</string>
-    <string name="dialog_voicemail_not_ready_message">음성 메일을 설정하려면, 메뉴 > 설정으로 이동하십시오.</string>
-    <string name="dialog_voicemail_airplane_mode_message">음성 메일로 통화하려면 비행기 탑승 모드를 해제하십시오.</string>
+    <string name="dialog_voicemail_not_ready_message">음성 메일을 설정하려면, 메뉴 > 설정으로 이동하세요.</string>
+    <string name="dialog_voicemail_airplane_mode_message">음성 메일로 통화하려면 비행기 탑승 모드를 해제하세요.</string>
     <string name="action_menu_overflow_description">더 많은 옵션</string>
     <string name="update_sim_contact_photo_toast">SIM 연락처의 프로필 사진을 설정할 수 없습니다.</string>
     <string name="import_from_sim">SIM 카드에서 가져오기</string>
@@ -639,7 +639,7 @@
     <string name="sim_contacts">SIM 카드 연락처</string>
     <string name="export_sim_contact_finish">연락처 내보냄</string>
     <string name="sim_export_loading">SIM 카드 읽는 중…</string>
-    <string name="sim_export_error">SIM 카드가 준비되지 않았습니다. 나중에 다시 시도하십시오.</string>
+    <string name="sim_export_error">SIM 카드가 준비되지 않았습니다. 나중에 다시 시도하세요.</string>
     <string name="sim_capacity">SIM 카드 용량 보기</string>
     <string name="sim_error_not_ready">SIM 연락처를 불러오는 중…</string>
     <string name="sim_contact_existing">연락처가 이미 존재합니다.</string>
@@ -647,7 +647,7 @@
     <string name="pref_key_sim_manage">SIM 카드</string>
     <string name="pref_key_sim_manage1">SIM 카드 1 설정</string>
     <string name="pref_key_sim_manage2">SIM 카드 2 설정</string>
-    <string name="simContacts_airplaneMode">SIM 카드에서 연락처를 가져오려면, 비행기 탑승 모드를 해제하십시오.</string>
+    <string name="simContacts_airplaneMode">SIM 카드에서 연락처를 가져오려면, 비행기 탑승 모드를 해제하세요.</string>
     <string name="readingSimContacts">SIM 카드 읽는 중…</string>
     <string name="importing_sim_contacts_miui">SIM 카드에서 연락처를 가져오는 중…</string>
     <string name="import_sim_entries_finish">SIM 카드에서 가져온 연락처</string>
@@ -699,10 +699,10 @@
     <string name="miprofile_notice_text">탭하여 연락처의 프로필 사진 보기</string>
     <string name="miprofile_notice_close">닫기</string>
     <string name="miprofile_switch_on_alertdialog_title">프로필 사진 업데이트</string>
-    <string name="miprofile_switch_on_alertdialog_message">업데이트된 프로필 사진을 보려면 연락처 카드를 교환하십시오.</string>
+    <string name="miprofile_switch_on_alertdialog_message">업데이트된 프로필 사진을 보려면 연락처 카드를 교환하세요.</string>
     <string name="miprofile_switch_on_alertdialog_positive">켜기</string>
     <string name="miprofile_alertdialog_title">이름 입력</string>
-    <string name="miprofile_alertdialog_message">카드 교환 요청 시 연락처에 이 이름을 보이게 하십시오.</string>
+    <string name="miprofile_alertdialog_message">카드 교환 요청 시 연락처에 이 이름을 보이게 하세요.</string>
     <string name="miprofile_alertdialog_edit">이름 입력</string>
     <string name="miprofile_switch_off_alertdialog_message">끄신 후에는 더이상 다른 사용자와 연락처 카드를 교환하실 수 없습니다.</string>
     <string name="miprofile_bind_account_alertdialog_title">전화번호 추가</string>
@@ -742,7 +742,7 @@
     <string name="miprofile_nick_name_edit_dialog_title">별명 편집</string>
     <string name="miprofile_nick_name_edit_dialog_message">별명이 통화 목록과 프로필 정보에 나타날 것입니다.</string>
     <string name="miprofile_nick_name_edit_dialog_hint">별명 입력</string>
-    <string name="miprofile_nick_name_divider">"  |  "</string>
+    <string name="miprofile_nick_name_divider">"    |    "</string>
     <string name="miprofile_nick_name_edit">연락처 별명 편집</string>
     <string name="summary_kind_title">요약</string>
     <string name="callrecordview_item_newcontact">새 연락처</string>
@@ -777,7 +777,7 @@
     <string name="emergency_number_label">긴급 번호</string>
     <string name="callrecordview_item_op_video">동영상</string>
     <string name="dialer_empty_text_no_search_result">발견된 연락처 없음</string>
-    <string name="dialer_empty_text_loading">잠시 기다려 주십시오…</string>
+    <string name="dialer_empty_text_loading">잠시 기다려 주세요…</string>
     <string name="dialer_empty_text_no_call_log">최근 연락처 없음</string>
     <string name="callrecordview_menu_recharge">충전</string>
     <string name="callrecordview_menu_mobiledata">데이터 구매</string>
@@ -846,12 +846,12 @@
     <string name="photo_load_failed">사진을 불러오지 못했습니다.</string>
     <string name="empty_divider_title" />
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImportXiaomiAccountInfo">Mi 계정을 이용하여 연락처 데이터 복원</string>
+    <string name="noContactHelpTextImport샤오미AccountInfo">Mi 계정을 이용하여 연락처 데이터 복원</string>
     <string name="recent_contacts_label">최근</string>
     <string name="noRecentContacts">최근 연락처 없음</string>
-    <string name="loading_groups">잠시 기다려 주십시오…</string>
-    <string name="loading_group_members">잠시 기다려 주십시오…</string>
-    <string name="loading_recent">잠시 기다려 주십시오…</string>
+    <string name="loading_groups">잠시 기다려 주세요…</string>
+    <string name="loading_group_members">잠시 기다려 주세요…</string>
+    <string name="loading_recent">잠시 기다려 주세요…</string>
     <string name="contactMultiPickerActivityTitle">주소록 선택</string>
     <string name="picker_join_title">%s와 합침</string>
     <string name="picker_contact_title">연락처 선택</string>
@@ -883,7 +883,7 @@
     <string name="export_sim_contact_finish_msg">%1$d 이동됨 | %2$d 중복됨 | %3$d 남음 %4$s</string>
     <string name="pref_title_account_import">연락처 가져오기</string>
     <string name="pref_title_import_from_account">Mi 계정에서 가져오기</string>
-    <string name="pref_summary_import_from_account">연락처를 구글 및 Exchange 계정에서 내 Mi 계정으로 전송</string>
+    <string name="pref_summary_import_from_account">연락처를 Google 및 Exchange 계정에서 내 Mi 계정으로 전송</string>
     <string name="import_to_xiaomi_account_confirm">가져오기</string>
     <string name="import_to_xiaomi_account_progress_title">연락처를 Mi 계정으로 가져오기</string>
     <string name="import_to_xiaomi_account_progress_message">가져오는 중…</string>
@@ -898,7 +898,7 @@
     <string name="pref_key_photo_word_summary">사진 없는 연락처에 자동으로 사진 할당</string>
     <string name="remove_duplicate">"MIUI는 중복 연락처를 찾아 합치게 도와줍니다.
 
- 시작하려면, 화면 아래쪽의 합치기 아이콘을 탭하십시오."</string>
+ 시작하려면, 화면 아래쪽의 합치기 아이콘을 탭하세요."</string>
     <string name="ic_menu_back">뒤로</string>
     <string name="preference_display">표시</string>
     <string name="preference_simple_mode_title">사진과 정보 표시</string>
@@ -1012,7 +1012,7 @@
     <string name="btn_split_contact">분류</string>
     <string name="use_photo_as_primary2">%1$s개의 연락처 사진 사용</string>
     <string name="label_custom_type">사용자 지정</string>
-    <string name="loading_accounts">잠시 기다려 주십시오…</string>
+    <string name="loading_accounts">잠시 기다려 주세요…</string>
     <string name="pkgLabel">연락처와 다이얼</string>
     <string name="contact_edit_save_error_empty">연락처가 비어 있습니다.</string>
     <string name="preference_smart_group_title">스마트 그룹</string>
@@ -1023,7 +1023,7 @@
     <string name="preference_smart_group_frequency_title">최근</string>
     <string name="preference_smart_group_frequency_summary">최신 기간으로 그룹화</string>
     <string name="smart_group_label">스마트 그룹</string>
-    <string name="smart_group_loading">잠시만 기다려주십시오…</string>
+    <string name="smart_group_loading">잠시만 기다려주세요…</string>
     <string name="smart_group_company_label">회사</string>
     <string name="smart_group_location_label">위치</string>
     <string name="smart_group_frequency_label">최근</string>
@@ -1051,15 +1051,15 @@
     <string name="device_paired_dialog_title">연락처 페치 중…</string>
     <string name="device_paired_dialog_message">연락처 페치 중…</string>
     <string name="no_contacts_dialog_title">연락처를 찾을 수 없습니다.</string>
-    <string name="no_contacts_dialog_message">연락처가 SIM 카드에 저장된 것 같습니다. SIM 카드에서 기기의 내부 저장소로 불러오기를 다시 실행해 보십시오.</string>
+    <string name="no_contacts_dialog_message">연락처가 SIM 카드에 저장된 것 같습니다. SIM 카드에서 기기의 내부 저장소로 불러오기를 다시 실행해 보세요.</string>
     <string name="cancel_import_dialog_title">중지</string>
     <string name="cancel_import_dialog_message">연락처 가져오기를 중지하겠습니까?</string>
     <string name="title_paired_devices">연결된 기기</string>
     <string name="title_other_devices">기타 사용 가능한 기기</string>
     <string name="button_scan">재스캔</string>
     <string name="button_cancel_scan">중지</string>
-    <string name="device_other_title">다른 휴대 전화에서 가져오기</string>
-    <string name="device_other_guide">다른 휴대 전화가 블루투스를 지원하나요?</string>
+    <string name="device_other_title">다른 휴대전화에서 가져오기</string>
+    <string name="device_other_guide">다른 휴대전화가 블루투스를 지원하나요?</string>
     <string name="my_phone_provider_bluetooth">예</string>
     <string name="my_phone_not_provider_bluetooth">아니오</string>
     <string name="other_phone">다른 전화</string>
@@ -1082,17 +1082,17 @@
     <string name="bluetooth_connection_failed_toast">블루투스 연결 중단됨</string>
     <string name="device_import_progress_toast">%1$d개의 연락처 가져옴</string>
     <string name="no_contact_in_other_phone">발견된 연락처 없음</string>
-    <string name="device_transfer_by_bluetooth_message">"1. 다른 기기에서 블루투스를 켜십시오. 
+    <string name="device_transfer_by_bluetooth_message">"1. 다른 기기에서 블루투스를 켜세요. 
 
 - Android 기기의 네트워크 설정에서 블루투스를 찾을 수 있습니다. 
 - iOS 기기는 설정에서 블루투스를 찾을 수 있습니다. 
 
 2. 검색가능 모드는 Android 기기를 켜셔야 합니다. 
 
-3. Tap \"다음\"을 탭하시고 연락처에 요구된 권한을 부여하십시오."</string>
-    <string name="device_transfer_by_sim_message">"\"1. 다른 기기의 연락처를 SIM 카드에 저장하십시오; 
+3. Tap \"다음\"을 탭하시고 연락처에 요구된 권한을 부여하세요."</string>
+    <string name="device_transfer_by_sim_message">"\"1. 다른 기기의 연락처를 SIM 카드에 저장하세요; 
 
-2. 설정의 연락처에서 \"가져오기/연락처 내보내기\" -- \"SIM 카드에서 가져오기\"로 이동하시고 SIM 연락처를 길게눌러 선택하신 후 \"가져오기\"를 탭하십시오."</string>
+2. 설정의 연락처에서 \"가져오기/연락처 내보내기\" -- \"SIM 카드에서 가져오기\"로 이동하시고 SIM 연락처를 길게눌러 선택하신 후 \"가져오기\"를 탭하세요."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Weibo 연락쳐 가져오기</string>
     <string name="import_weibo_fetch_followers">연락처 페치 중…</string>
@@ -1100,11 +1100,11 @@
     <string name="import_weibo_notification_title_done">연락처 %s개 업데이트함</string>
     <string name="import_weibo_error_no_xiaomi_phone">Mi 계정에 저장된 전화번호가 없습니다.</string>
     <string name="import_weibo_error_no_matched_contacts">일치하는 연락처 없음</string>
-    <string name="import_weibo_error_no_network">네트워크에 연결할 수 없습니다. 데이터 연결을 확인한 후 다시 시도하십시오.</string>
+    <string name="import_weibo_error_no_network">네트워크에 연결할 수 없습니다. 데이터 연결을 확인한 후 다시 시도하세요.</string>
     <string name="import_weibo_error_user_cancel">가져오기 취소됨</string>
     <string name="import_weibo_error_unknown">알 수 없는 오류</string>
     <string name="add_xiaomi_account_dialog_title">계정 선택</string>
-    <string name="add_xiaomi_account_dialog_msg">Mi 계정에 연락처를 백업하여 어디에서나 연락처에 접근하십시오.</string>
+    <string name="add_xiaomi_account_dialog_msg">Mi 계정에 연락처를 백업하여 어디에서나 연락처에 접근하세요.</string>
     <string name="add_xiaomi_account_dialog_btn">Mi 계정 사용</string>
     <string name="keep_local_btn">전화 내부 저장소 사용</string>
     <string name="batch_delete">일괄 삭제</string>
@@ -1156,7 +1156,7 @@
     <string name="refresh">새로고침</string>
     <string name="pull_to_refresh_pull_label">당겨서 새로고침</string>
     <string name="pull_to_refresh_release_label">놓아서 새로고침</string>
-    <string name="pull_to_refresh_refreshing_label">잠시만 기다려주십시오...</string>
+    <string name="pull_to_refresh_refreshing_label">잠시만 기다려주세요...</string>
     <string name="yellowpage_navigation_no_content">아무 것도 찾지 못했습니다.</string>
     <string name="yellowpage_navigation_clear_search_history">기록 지우기</string>
     <string name="yellowpage_navigation_search_history">기록</string>
@@ -1172,7 +1172,7 @@
     <string name="yellowpage_navigation_send_to_desktop_downloading">다운로드 중…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">네크워크에 연결할 수 없습니다.</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">잔액과 모바일 데이터가 확인됨</string>
-    <string name="yellowpage_navigation_balance_refresh_failed">잔액과 데이터를 확인할 수 없음. 나중에 다시 시도하십시오.</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">잔액과 데이터를 확인할 수 없음. 나중에 다시 시도하세요.</string>
     <string name="yellowpage_user_profile">프로필</string>
     <string name="yellowpage_navigation_more_items">더 보기</string>
     <string name="yellowpage_navigation_more_items_title">더 많은 서비스</string>
@@ -1181,7 +1181,7 @@
     <string name="convenient_service">서비스</string>
     <string name="useful_numbers">유용한 번호</string>
     <string name="service_more">더 보기</string>
-    <string name="call_left">휴대 전화 잔액</string>
+    <string name="call_left">휴대전화 잔액</string>
     <string name="call_unit">CNY</string>
     <string name="call_charge">충전</string>
     <string name="call_operator_init">통신사 설정</string>
@@ -1197,7 +1197,7 @@
     <string name="data_left">남은 데이터</string>
     <string name="data_unit_mb">MB</string>
     <string name="data_unit_gb">GB</string>
-    <string name="set_data_package">먼저 데이터 플랜을 설정하십시오</string>
+    <string name="set_data_package">먼저 데이터 플랜을 설정하세요.</string>
     <string name="livetalk_charge">충전</string>
     <string name="livetalk_switch_on">켜기</string>
     <string name="livetalk_left">남음</string>
@@ -1222,7 +1222,7 @@
     <string name="cloud_recommend_msg">탭하여 Mi 클라우드로 연락처 동기화</string>
     <string name="cloud_state_sync_finished">Mi 클라우드로 동기화됨</string>
     <string name="cloud_state_syncing">Mi 클라우드로 동기화됨</string>
-    <string name="cloud_state_loading">잠시 기다려 주십시오…</string>
+    <string name="cloud_state_loading">잠시 기다려 주세요…</string>
     <string name="cloud_state_disabled">Mi 클라우드로 동기화가 꺼졌습니다.</string>
     <string name="unknow_phone_number_call_failed">모르는 번호로 전화를 걸 수 없습니다.</string>
     <string name="unknow_phone_number_mms_failed">알 수 없는 번호로 메시지를 보낼 수 없습니다.</string>
@@ -1266,7 +1266,7 @@
     <string name="t9_search_empty_video_call">영상 통화</string>
     <string name="t9_search_empty_send_sms">메시지 전송</string>
     <string name="t9_search_empty_edit_contact">연락처에 추가</string>
-    <string name="add_field_toast">추가할 공간이 없습니다</string>
+    <string name="add_field_toast">추가할 공간이 없습니다.</string>
     <string name="add_miui_contact">미 카드</string>
     <string name="back_description">뒤로가기</string>
     <string name="calllog_call_note_menu">전화 노트</string>
@@ -1362,15 +1362,15 @@
     <string name="toast_call_no_notes">메모 앱을 사용할 수 없음</string>
     <string name="preference_privacy_policy_title">개인정보 보호정책</string>
     <string name="rcs_app_name">미니 앱</string>
-    <string name="conference_call_disable_tip">"전화를 걸 수 없습니다. 기기가 VoLTE를 지원하는 4G네트워크에 연결되어 있는지 확인하십시오."</string>
+    <string name="conference_call_disable_tip">"전화를 걸 수 없습니다. 기기가 VoLTE를 지원하는 4G네트워크에 연결되어 있는지 확인하세요."</string>
     <string name="scan_business_card">비지니스 카드 스캔</string>
-    <string name="scan_bussiness_card_merge_tip">중복 데이터가 대체되었습니다</string>
+    <string name="scan_bussiness_card_merge_tip">중복 데이터가 대체되었습니다.</string>
     <string name="description_image_button_sim1_named_dial">SIM1 %s으로 통화</string>
     <string name="description_image_button_sim2_named_dial">SIM2 %s으로 통화</string>
     <string name="account_dual_sim">SIM카드 %s</string>
     <string name="confirm_call_log_dial_summary">실수로 전화를 걸지 않도록 통화 기록에서 전화를 걸기 전에 확인을 요청합니다.</string>
     <string name="confirm_call_log_dial_title">통화기록에서 바로 통화연결여부 확인</string>
-    <string name="contact_is_deleted">연락처가 삭제되었습니다</string>
+    <string name="contact_is_deleted">연락처가 삭제되었습니다.</string>
     <string name="shortcut_new_contact_label">새로운 연락처</string>
     <string name="shortcut_scan_label">명함 스캔</string>
     <string name="callrecordview_menu_identify_numbers">전화 번호 식별</string>
@@ -1425,7 +1425,7 @@
     <string name="friday">금요일</string>
     <string name="friday_short">금요일</string>
     <string name="friday_shortest">금</string>
-    <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화가 꺼졌습니다</string>
+    <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화가 꺼졌습니다.</string>
     <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화</string>
     <string name="miuix_appcompat_cloud_state_syncing">클라우드와 동기화</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>

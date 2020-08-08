@@ -27,7 +27,7 @@
     <string name="i_know">확인</string>
     <string name="unlock_error_network">네트워크에 연결할 수 없습니다.</string>
     <string name="unlock_error_device_id">기기 ID를 가져오지 못하였습니다.</string>
-    <string name="unlock_error_ssl_hand_shake">서버에 연결하지 못하였습니다. 날짜와 시간을 수동으로 설정해보십시오.</string>
+    <string name="unlock_error_ssl_hand_shake">서버에 연결하지 못하였습니다. 날짜와 시간을 수동으로 설정해보세요.</string>
     <string name="unlock_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="unlock_error_server">서버 오류</string>
     <string name="unlock_access_denied">접근 거부됨</string>
@@ -43,7 +43,7 @@
     <string name="phone_locked">이 기기는 Mi 계정 (%s)에 연결되어 있습니다. 기기를 활성화하려면 비밀번호를 입력하세요.</string>
     <string name="phone_locked_account_email">, 연동된 이메일: %s</string>
     <string name="phone_locked_account_phone">, 연동된 전화 번호: %s</string>
-    <string name="password">비밀번호를 입력하세요</string>
+    <string name="password">비밀번호를 입력하세요.</string>
     <string name="captcha">보안문자</string>
     <string name="stop_on_empty_password">비밀번호는 비워둘 수 없습니다.</string>
     <string name="stop_on_empty_captcha">보안문자는 비워둘 수 없습니다.</string>
@@ -56,14 +56,14 @@
     <string name="login_failed">로그인할 수 없습니다. %s.</string>
     <string name="change_find_device_status_failed">%s 기기를 잠금 해제하지 못하였습니다.</string>
     <string name="unlock_help_title">잠금 해제 도움말:</string>
-    <string name="unlock_help">"네트워크에 연결하십시오.
- 작동하는 SIM 카드를 삽입하고 유효하지 않은 Wi-Fi 네트워크에 연결하지 마십시오.
+    <string name="unlock_help">"네트워크에 연결하세요.
+ 작동하는 SIM 카드를 삽입하고 유효하지 않은 Wi-Fi 네트워크에 연결하지 마세요.
 
  비밀번호를 잊으 셨나요?
- id.mi.com으로 이동하여 \"비밀번호를 분실하셨습니까?"를 선택하고 지침을 따르십시오.
+ id.mi.com으로 이동하여 \"비밀번호를 분실하셨습니까?"를 선택하고 지침을 따르세요.
 
  장치를 활성화할 수 없습니까?
- i.mi.com으로 이동하여 응용 프로그램을 제출하여 장치를 잠금해제하십시오."</string>
+ i.mi.com으로 이동하여 응용 프로그램을 제출하여 장치를 잠금해제하세요."</string>
     <string name="passport_vcode_prompt_long">인증 코드 입력</string>
     <string name="passport_trust_device">이 기기를 신뢰합니다.</string>
     <string name="passport_verify">인증</string>
@@ -74,11 +74,11 @@
     <string name="passport_notification_need_unlock_again">다시 잠금 해제 시도</string>
     <string name="device_lost">이 기기를 분실했습니다.</string>
     <string name="device_locked">이 기기는 잠겼습니다.</string>
-    <string name="default_lock_msg_words_with_phone">안녕하십시오! 핸드폰을 분실했습니다. 저에게 연락해주실 수 있으십니까? 감사합니다!</string>
-    <string name="default_lock_msg_words">이 기기는 이미 Mi 계정과 연관되어 있습니다. 보안의 이유로 기기 인증이 필요합니다. 비밀번호를 입력해 주십시오.</string>
+    <string name="default_lock_msg_words_with_phone">안녕하세요! 핸드폰을 분실했습니다. 저에게 연락해주실 수 있으십니까? 감사합니다!</string>
+    <string name="default_lock_msg_words">이 기기는 이미 Mi 계정과 연관되어 있습니다. 보안의 이유로 기기 인증이 필요합니다. 비밀번호를 입력해 주세요.</string>
     <string name="lock_msg_phone">연락처 정보: %s</string>
     <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다.
-판매자에게 연락하십시오."</string>
+판매자에게 연락하세요."</string>
     <string name="sys_notification_async_verify_title">기기 찾기 재활성화</string>
     <string name="sys_notification_async_verify_content">보안 정책 업데이트로 인해 기기 찾기 기능의 재활성화가 요구됩니다.</string>
     <string name="sys_notification_async_open_failed_title">기기 찾기를 켤 수 없습니다.</string>

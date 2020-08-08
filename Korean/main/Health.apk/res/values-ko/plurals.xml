@@ -4,7 +4,7 @@
         <item quantity="other">(%1$d세)</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">매일 적어도 %1$d 걸음 이상을 걸으세요</item>
+        <item quantity="other">매일 적어도 %1$d 걸음 이상을 걸으세요.</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d 일</item>
@@ -64,7 +64,7 @@
         <item quantity="other">"%1$d 일 동안 기록하지 않으셨습니다. 기간을 기록하여 예상 기간의 정확도를 높이세요."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">이번 기간은 총 %1$d 일 지속되고 있습니다</item>
+        <item quantity="other">이번 기간은 총 %1$d 일 지속되고 있습니다.</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
         <item quantity="other">이번 월경 주기의 %1$d 일차</item>

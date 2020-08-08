@@ -53,7 +53,7 @@
     <string name="dlg_addedit_title_edit">채널 정보 수정</string>
     <string name="dlg_progress_title">검색</string>
     <string name="error">오류</string>
-    <string name="error_app_internal">다른 앱이 현재 녹음 기능을 사용 중인지 확인하십시오.</string>
+    <string name="error_app_internal">다른 앱이 현재 녹음 기능을 사용 중인지 확인하세요.</string>
     <string name="error_app_unsupported">지원하지 않는 포맷</string>
     <string name="error_sdcard_access">저장소에 접근할 수 없습니다.</string>
     <string name="evdoonly">EvDo 전용</string>
@@ -93,7 +93,7 @@
     <string name="lockpassword_continue_label">계속</string>
     <string name="long_vib">긴 진동</string>
     <string name="magnetic_info_finish">종료 </string>
-    <string name="magnetic_info_hint">기기를 돌려 주세요</string>
+    <string name="magnetic_info_hint">기기를 돌려 주세요.</string>
     <string name="magnetic_test">마그네틱 센서</string>
     <string name="mic1test">마이크1</string>
     <string name="micphone_test">마이크 ＆ SPK</string>

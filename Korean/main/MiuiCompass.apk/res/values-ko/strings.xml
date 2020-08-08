@@ -56,7 +56,7 @@
     <string name="direction_north_west">북서</string>
     <string name="direction_south_east">남동</string>
     <string name="direction_south_west">남서</string>
-    <string name="guide_toast">보정하려면, 아래 동작대로 기기를 움직이십시오.</string>
+    <string name="guide_toast">보정하려면, 아래 동작대로 기기를 움직이세요.</string>
     <string name="mobiledata_alert_dialog_title">데이터 사용량 경고</string>
     <string name="mobiledata_alert_dialog_message">고도를 조정하기 위해 인터넷에 연결하시겠습니까?</string>
     <string name="do_not_show_next_time">다시 보지 않기</string>
@@ -71,10 +71,10 @@
     <string name="using_camera_confirm_cancel">종료</string>
     <string name="shake_enter_tip">흔들어서 측정</string>
     <string name="calibrate_title">나침반 측정</string>
-    <string name="calibrate_tip">기기를 원 주변에 공을 굴리듯 기울이십시오.</string>
+    <string name="calibrate_tip">기기를 원 주변에 공을 굴리듯 기울이세요.</string>
     <string name="calibrate_rotate_again">다시 시도</string>
     <string name="error_camera_unavailable_title">카메라 사용 불가</string>
-    <string name="error_camera_unavailable">현재 다른 앱이 카메라를 사용 중인지 확인하십시오.</string>
+    <string name="error_camera_unavailable">현재 다른 앱이 카메라를 사용 중인지 확인하세요.</string>
     <string name="altitude_uncalibrate_tip">측정할 수 없는 데이터</string>
     <string name="altitude_uncalibrate_msg">GPS 또는 모바일 데이터 연결 없이는 고도를 정확하게 측정할 수 없습니다.</string>
     <string name="altitude_uncalibrate_refresh">다시 시도</string>
@@ -85,7 +85,7 @@
     <string name="unit_degree">도</string>
     <string name="allow">허용</string>
     <string name="cancel">취소</string>
-    <string name="open_perm_msg">나침반은 위치 정보와 카메라에 액세스해야합니다. 좌표를 결정하고 실시간 미리보기를 제공하는 데 필요합니다. 허용 하시겠습니까?</string>
+    <string name="open_perm_msg">나침반은 위치 정보와 카메라에 액세스해야합니다. 좌표를 결정하고 실시간 미리보기를 제공하는 데 필요합니다. 허용하시겠습니까?</string>
     <string name="open_perm_title">권한 요구됨</string>
     <string name="preference_other">기타 설정</string>
     <string name="preference_privacy_title">개인정보 보호정책</string>

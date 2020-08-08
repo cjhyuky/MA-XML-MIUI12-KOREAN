@@ -55,7 +55,7 @@
         <item quantity="other">%1$s님과 %2$d명의 사람들이 메세지 수신</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
-        <item quantity="other">%d개의 그룹 채팅에 초대되셨습니다</item>
+        <item quantity="other">%d개의 그룹 채팅에 초대되셨습니다.</item>
     </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">"%s개 메시지 | "</item>

@@ -769,7 +769,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="rented_list_state">대여함</string>
     <string name="report_ad_problem">광고 문제 신고</string>
     <string name="request_refund_confirmation_body">환불을 요청하시겠습니까?</string>
-    <string name="restart_required">지금 기기를 재시작하여 Google Play 스토어가 제대로 작동하는지 확인하세요.</string>
+    <string name="restart_required">지금 기기를 다시 시작하여 Google Play 스토어가 제대로 작동하는지 확인하세요.</string>
     <string name="retry">다시 시도</string>
     <string name="revert_translation">되돌리기</string>
     <string name="review_account_message">계정을 검토하여 Google Play에서 앱을 계속 설치합니다.</string>

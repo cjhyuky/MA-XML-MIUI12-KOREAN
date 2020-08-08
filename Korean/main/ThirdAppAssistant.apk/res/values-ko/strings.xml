@@ -27,10 +27,10 @@
     <string name="i_know">확인</string>
     <string name="no_reminder">"이 버전에서 더이상 이 문제 알리지 않기"</string>
     <string name="notification_channel_name">앱 문제</string>
-    <string name="notification_content_message">자세히 보시려면 탭하세요</string>
-    <string name="notification_title_message_shell">내부 에러로 인해 %s앱이 강제 종료되었습니다</string>
+    <string name="notification_content_message">자세히 보시려면 탭하세요.</string>
+    <string name="notification_title_message_shell">내부 에러로 인해 %s앱이 강제 종료되었습니다.</string>
     <string name="notification_title_message_unknown">%s앱이 강제 종료됨</string>
     <string name="search_menu_title">검색</string>
     <string name="dialog_content_message_other">"%s 앱이 내부 오류로 인해 강제종료되었습니다. "</string>
-    <string name="notification_title_message_other">%s 앱이 내부 오류로 인해 강제종료되었습니다</string>
+    <string name="notification_title_message_other">%s 앱이 내부 오류로 인해 강제종료되었습니다.</string>
 </resources>

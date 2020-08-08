@@ -49,7 +49,7 @@
     <string name="quit_recording">화면 녹화 나가기</string>
     <string name="timer_format">%s</string>
     <string name="no_recorder_info">동영상 없음</string>
-    <string name="no_recorder_info2">버튼을 탭하여 녹화를 시작하세요</string>
+    <string name="no_recorder_info2">버튼을 탭하여 녹화를 시작하세요.</string>
     <string name="cancel_edit">취소</string>
     <string name="select_all">전체 선택</string>
     <string name="deselect_all">전체선택 해제</string>
@@ -58,15 +58,15 @@
     <string name="operation_delete">삭제</string>
     <string name="start">시작</string>
     <string name="low_battery_title">배터리 부족</string>
-    <string name="low_battery">녹화 전 휴대전화를 충전하십시오.</string>
-    <string name="battery_not_allowed" formatted="false">배터리가 3% 보다 낮을시 녹화할 수 없습니다. 최소 20% 이상 충전해주십시오.</string>
+    <string name="low_battery">녹화 전 휴대전화를 충전하세요.</string>
+    <string name="battery_not_allowed" formatted="false">배터리가 3% 보다 낮을시 녹화할 수 없습니다. 최소 20% 이상 충전해주세요.</string>
     <string name="low_memory_title">저장 공간 부족</string>
     <string name="low_memory">사용 가능한 저장공간이 200MB 보다 작습니다. 최대 5분 정도 녹화할 수 있습니다.</string>
     <string name="low_memory_dior">사용 가능한 저장공간이 500MB 보다 작습니다. 최대 12분 정도 녹화할 수 있습니다.</string>
-    <string name="memory_not_allowed">사용 가능한 저장공간이 없습니다. 녹화를 위해 저장공간을 확보하십시오.</string>
+    <string name="memory_not_allowed">사용 가능한 저장공간이 없습니다. 녹화를 위해 저장공간을 확보하세요.</string>
     <string name="auto_stop_title">동영상 저장 성공</string>
-    <string name="low_battery_warning">배터리가 너무 적습니다. 녹화를 중지하시고 동영상을 저장하십시오.</string>
-    <string name="low_momery_warning">저장 공간이 부족합니다. 녹화를 중지하시고 동영상을 저장하십시오.</string>
+    <string name="low_battery_warning">배터리가 너무 적습니다. 녹화를 중지하시고 동영상을 저장하세요.</string>
+    <string name="low_momery_warning">저장 공간이 부족합니다. 녹화를 중지하시고 동영상을 저장하세요.</string>
     <string name="button_back">뒤로</string>
     <string name="button_clear_storage">저장공간 확보</string>
     <string name="button_goon_recorder">계속하기</string>
@@ -81,8 +81,8 @@
     <string name="hint_volume_down">볼륨 작게</string>
     <string name="stop_by_second_space">공간을 전환하시면 녹화가 중지될 것입니다.</string>
     <string name="cannot_change_parames">녹화 중에는 매개 변수를 변경할 수 없습니다.</string>
-    <string name="cannot_record">녹화할 수 없습니다. 나중에 재시도해 주십시오.</string>
-    <string name="frequently_click_toast">서비스 설치 중, 잠시만 기다려 주십시오.</string>
+    <string name="cannot_record">녹화할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="frequently_click_toast">서비스 설치 중, 잠시만 기다려 주세요.</string>
     <string name="no_sound">무음</string>
     <string name="mic_sound">마이크</string>
     <string name="loopback_sound">스피커</string>
@@ -103,7 +103,7 @@
     <string name="is_go_home_summary">"녹음을 끝내면 화면 녹화가 시작됩니다."</string>
     <string name="settings">설정</string>
     <string name="storage_location">저장소</string>
-    <string name="storage_location_summary">선호하는 저장 용량을 선택하십시오.</string>
+    <string name="storage_location_summary">선호하는 저장 용량을 선택하세요.</string>
     <string name="unchecked">선택되지 않음</string>
     <string name="first_using_mic_dialog_message">화면 레코더에서 오디오를 녹음하려면 마이크에 액세스 해야 합니다. 허용하시겠습니까?</string>
     <string name="first_using_mic_dialog_title">권한 요구됨</string>

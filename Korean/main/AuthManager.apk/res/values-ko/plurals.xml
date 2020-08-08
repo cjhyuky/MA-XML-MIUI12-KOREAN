@@ -12,4 +12,4 @@
     <plurals name="seconds">
         <item quantity="other">%s초</item>
     </plurals>
-</resources>  
+</resources>    

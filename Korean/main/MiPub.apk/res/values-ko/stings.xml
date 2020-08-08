@@ -186,7 +186,7 @@
     <string name="message_list_all_read">모두 읽음으로 표시</string>
     <string name="pref_key_mx_feedback">피드백</string>
     <string name="pref_summary_mx_feedback">버그 보고 및 피드백 전송</string>
-    <string name="feedback_description_hint">여기에 피드백을 작성하십시오.</string>
+    <string name="feedback_description_hint">여기에 피드백을 작성하세요.</string>
     <string name="feedback_submit">전송</string>
     <string name="menu_call">전화</string>
     <string name="menu_contact">연락처 정보 보기</string>
@@ -220,7 +220,7 @@
     <string name="view_hms_attachment_fail">이미지를 다운로드할 수 없습니다.</string>
     <string name="hms_uri_param_err">URL은 비워둘 수 없습니다.</string>
     <string name="open_url_with_web">이 URL을 브라우저에서 여시겠습니까?</string>
-    <string name="remind_follow">팔로우 하시겠습니까?</string>
+    <string name="remind_follow">팔로우하시겠습니까?</string>
     <string name="network_error">네트워크 오류</string>
     <string name="follow_finished">팔로우 성공</string>
     <string name="service_unavailiable">서비스 이용 불가</string>

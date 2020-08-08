@@ -21,8 +21,8 @@
     <string name="phone4">4번 기기</string>
     <string name="plug_in_all_sims">모든 SIM 카드 삽입</string>
     <string name="plug_out_all_sims">모든 SIM 카드 분리</string>
-    <string name="reboot_confirm_notice">기본 기기로 설정을 위해 재시작하시겠습니까?</string>
-    <string name="restarting_device">기기 재시작중...</string>
+    <string name="reboot_confirm_notice">기본 기기로 설정을 위해 다시 시작하시겠습니까?</string>
+    <string name="restarting_device">기기 다시 시작중...</string>
     <string name="sim">SIM</string>
     <string name="sim1">1번 SIM</string>
     <string name="sim2">2번 SIM</string>

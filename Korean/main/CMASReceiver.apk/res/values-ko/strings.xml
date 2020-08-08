@@ -32,7 +32,7 @@
     <string name="menu_delete">브로드캐스트 삭제</string>
     <string name="view_details_title">알림 세부정보</string>
     <string name="confirm_delete_broadcast">브로드캐스트를 삭제하시겠습니까?</string>
-    <string name="confirm_delete_all_broadcasts">모든 경고 메시지가 삭제됩니다</string>
+    <string name="confirm_delete_all_broadcasts">모든 경고 메시지가 삭제됩니다.</string>
     <string name="button_delete">삭제</string>
     <string name="button_cancel">취소</string>
     <string name="etws_earthquake_warning">지진 경고</string>
@@ -54,7 +54,7 @@
     <string name="enable_emergency_alerts_summary">비상사태 경고 브로드캐스트 표시</string>
     <string name="alert_sound_duration_title">경고음 지속 시간</string>
     <string name="enable_alert_speech_title">경고 메시지 읽기</string>
-    <string name="enable_alert_speech_summary">텍스트 음성 변환을 사용하여 비상 경고 메시지를 읽습니다</string>
+    <string name="enable_alert_speech_summary">텍스트 음성 변환을 사용하여 비상 경고 메시지를 읽습니다.</string>
     <string name="category_etws_settings_title">ETWS 설정</string>
     <string name="enable_etws_test_alerts_title">ETWS 테스트 브로드캐스트 표시</string>
     <string name="enable_etws_test_alerts_summary">지진 해일 경보 시스템용 테스트 브로드캐스트 표시</string>
@@ -111,6 +111,6 @@
     <string name="cmas_opt_out_dialog_text">현재 긴급 알림을 수신하고 있습니다. 긴급 알림을 계속 수신하시겠습니까?</string>
     <string name="cmas_opt_out_button_yes">예</string>
     <string name="cmas_opt_out_button_no">아니요</string>
-    <string name="have_updated">업데이트되었습니다</string>
+    <string name="have_updated">업데이트되었습니다.</string>
     <string name="enable_cell_broadcast_summary">비상 경고 수신 허용</string>
 </resources>

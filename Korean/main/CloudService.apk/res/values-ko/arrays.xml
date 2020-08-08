@@ -37,7 +37,7 @@
         <item>캘린더</item>
         <item>저장공간</item>
     </string-array>
-  <string-array name="settings_search_contacts">
+    <string-array name="settings_search_contacts">
         <item>Mi 클라우드 연락처 동기화</item>
         <item>동기화 켜기/설정</item>
         <item>연락처;통화 내역;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
@@ -104,7 +104,7 @@
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Mi 클라우드. 모든 Mi 서비스를 한곳에서.</item>
-        <item>어디서나 사진, 연락처, 메시지 및 장치에 접근하십시오.</item>
+        <item>어디서나 사진, 연락처, 메시지 및 장치에 접근하세요.</item>
         <item>저장 용량 부족;멤버쉽;저장 공간;저장 공간;클라우드;동기화;클라우드 서비스;Mi 클라우드;휴지통;삭제된 항목;보안</item>
     </string-array>
     <string-array name="settings_search_find_phone">
@@ -119,12 +119,12 @@
 	</string-array>
     <string-array name="settings_search_recycle_bin">
         <item>Mi 클라우드에서 삭제된 항목</item>
-        <item>연락처, 사진, 메시지 등을 복원하십시오</item>
+        <item>연락처, 사진, 메시지 등을 복원하세요.</item>
         <item>휴지통;삭제된 항목;휴지통;복원;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
         <item>Mi 클라우드 멤버쉽</item>
-        <item>멤버쉽을 업그레이드하고 더 많은 저장 공간을 확보하여 데이터를 보호하십시오</item>
+        <item>멤버쉽을 업그레이드하고 더 많은 저장 공간을 확보하여 데이터를 보호하세요.</item>
         <item>저장 용량 부족;멤버쉽;저장 공간;저장 공간;클라우드;동기화;클라우드 서비스;Mi 클라우드;메가;울트라;VIP;백업;백업;복원;휴지통;삭제된 항목;휴지통</item>
     </string-array>
     <string-array name="settings_search_backup_setting">

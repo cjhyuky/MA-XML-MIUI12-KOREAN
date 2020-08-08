@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="already_newest_version">현재 버전이 최신 버전입니다</string>
-    <string name="cancel_download">다운로드가 취소되었습니다</string>
+    <string name="already_newest_version">현재 버전이 최신 버전입니다.</string>
+    <string name="cancel_download">다운로드가 취소되었습니다.</string>
     <string name="download_failed">"다운로드 할 수 없습니다"</string>
     <string name="install_failed">"설치할 수 없습니다"</string>
     <string name="no_cta_agreed">"GetApps에 CTA 권한이 없습니다"</string>
     <string name="no_install_permission">"이 항목을 설치할 수있는 권한이 없습니다"</string>
-    <string name="task_already_exist">이 작업은 이미 존재합니다</string>
+    <string name="task_already_exist">이 작업은 이미 존재합니다.</string>
     <string name="update">업데이트</string>
     <string name="mi_wallpaper_title">Mi 배경화면</string>
     <string name="mi_wallpaper_loading">Mi 배경화면 로딩 중...</string>
@@ -31,7 +31,7 @@
     <string name="app_name">배경화면</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="date_picker_lunar">음력</string>
-    <string name="earth_summary">지구는 인류 문명의 요람입니다</string>
+    <string name="earth_summary">지구는 인류 문명의 요람입니다.</string>
     <string name="earth_title">홈</string>
     <string name="game_view_content_description">게임 보기</string>
     <string name="mars_position_content_0">"이 지역에는 벼랑, 암석 및 넓은 평평한 계곡이 있으며, 이 계곡은 잔해로 덮인 빙하로 인해 발생한 것으로 알려져 있습니다. 점토 광물도 여기에서 발견되었으며, 이는 고대 화성에서의 생명의 증거를 찾도록 큰 흥미를 유발하고 있습니다.
@@ -51,7 +51,7 @@
 산맥"</string>
     <string name="mars_position_title_2">"맥스 밸리스의
 분화구"</string>
-    <string name="mars_summary">광대한 화성의 사막은 항상 인류를 경외롭게 해왔습니다</string>
+    <string name="mars_summary">광대한 화성의 사막은 항상 인류를 경외롭게 해왔습니다.</string>
     <string name="mars_title">레드 플래닛</string>
     <string name="miui_clock_city_name_local">로컬</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
@@ -66,7 +66,7 @@
     <string name="not_set">설정 안함</string>
     <string name="password_toggle_content_description">암호 보기</string>
     <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
-    <string name="saturn_summary">토성의 고리는 태양계에서 가장 놀라운 광경을 만듭니다</string>
+    <string name="saturn_summary">토성의 고리는 태양계에서 가장 놀라운 광경을 만듭니다.</string>
     <string name="saturn_title">파어웨이 링</string>
     <string name="search_menu_title">검색</string>
     <string name="super_wallpaper_list_label">슈퍼 배경화면</string>

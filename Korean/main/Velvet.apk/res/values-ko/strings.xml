@@ -201,7 +201,7 @@
     <string name="offline_on_start_cue_cards_second_header_timeout_without_hotword">마이크를 탭한 후 이렇게 말할 수 있습니다.</string>
     <string name="search_box_hint">검색...</string>
     <string name="search_apps_hint">앱 검색…</string>
-    <string name="speak_now">말하세요</string>
+    <string name="speak_now">말하세요.</string>
     <string name="what_can_i_help_you_with">무엇을 도와드릴까요?</string>
     <string name="welcome_string1">도움이 필요하세요? 말씀해 주세요.</string>
     <string name="welcome_string2">도움이 필요하세요? 말씀해 주세요.</string>
@@ -548,7 +548,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="second_half">후반전</string>
     <string name="cricket_first_innings">1이닝</string>
     <string name="cricket_second_innings">2이닝</string>
-    <string name="cricket_score_description">"%1$s  %2$s"</string>
+    <string name="cricket_score_description">"%1$s    %2$s"</string>
     <string name="sports_games_back_header">GB</string>
     <string name="sports_games_back_header_full_length">승차</string>
     <string name="sports_games_played_header">경기</string>
@@ -630,7 +630,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="translate">번역</string>
     <string name="open_in_google_translate">Google 번역에서 열기</string>
     <string name="confirm_share_location">내 일일 출퇴근길 업데이트를 가족 또는 친구와 공유하시겠습니까?</string>
-    <string name="confirm_share_commute_given_location">Google+에서 내 위치를 볼 수 있는 사용자를 선택했습니다. 이 사용자가 Google Now에서 내 출퇴근길 업데이트를 볼 수 있게 하시겠습니까?</string>
+    <string name="confirm_share_commute_given_location">Google+에서 내 위치를 볼 수 있는 사용자를 선택했습니다. 이 사용자가 Google Now에서 내 출퇴근길 업데이트를 볼 수 있게하시겠습니까?</string>
     <string name="confirm_share_location_given_commute">출퇴근길 공유를 사용하도록 설정했지만 Google+에서 공유할 사용자를 선택하지 않았습니다.</string>
     <string name="confirm_share_location_no">아니요</string>
     <string name="confirm_share_location_yes">업데이트 공유</string>
@@ -710,7 +710,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="exchange">(%1$s)</string>
     <string name="symbol_and_exchange">%1$s(%2$s)</string>
     <string name="price_and_percent_variation">%1$s(%2$s)</string>
-    <string name="price_and_variation_color">"%2$s •  &lt;font color=%1$s> %3$s %4$s&lt;/font>"</string>
+    <string name="price_and_variation_color">"%2$s •    &lt;font color=%1$s> %3$s %4$s&lt;/font>"</string>
     <string name="price_drop">현재 가격: %1$s 이전 가격: %2$s(%3$s)</string>
     <string name="locations">위치</string>
     <string name="nearby_attractions">주변 명소</string>
@@ -1133,7 +1133,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="full_voice_interaction_service_label">향상된 Google 서비스</string>
     <string name="recognizer_service_label">기본 Google 인식</string>
     <string name="accessibility_menu_button">카드 메뉴</string>
-    <string name="accessibility_android_for_work_icon">직장 프로필</string>
+    <string name="accessibility_android_for_work_icon">업무용 프로필</string>
     <string name="remove_from_history">검색 기록에서 삭제</string>
     <string name="remove_from_browser_history">브라우저 방문 기록에서 삭제</string>
     <string name="remove_from_history_failed">기록에서 항목을 삭제하지 못했습니다.</string>
@@ -1217,7 +1217,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="menu_visit_page">페이지 방문</string>
     <string name="menu_view_in_browser">브라우저로 보기</string>
     <string name="default_image_filename">다운로드된 이미지</string>
-    <string name="network_error_try_again">재시도</string>
+    <string name="network_error_try_again">다시 시도</string>
     <string name="network_error_resend_audio">오디오 재전송</string>
     <string name="web_search_results">웹 검색결과</string>
     <string name="escape_hatch_view_search_results">검색결과 보기</string>
@@ -1272,11 +1272,11 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="play_folder_name">Play</string>
     <string name="homescreen_settings_header_category">메인 스크린</string>
     <string name="homescreen_settings_show_predictions">앱 추천</string>
-    <string name="homescreen_settings_title_predictions_prompt">앱 추천을 사용 중지할까요?</string>
+    <string name="homescreen_settings_title_predictions_prompt">앱 추천을 사용 중지하시겠습니까?</string>
     <string name="homescreen_settings_msg_predictions_prompt">추천사항이 앱 목록 상단에 표시되지 않으며 추천에 반영된 사용 데이터는 영구 삭제됩니다.</string>
     <string name="homescreen_settings_action_turn_off">사용 안함</string>
     <string name="icing_save_pref_failure">휴대전화 검색 설정이 업데이트되지 않았습니다.</string>
-    <string name="no_agenda_results">일치하는 이벤트가 없습니다</string>
+    <string name="no_agenda_results">일치하는 이벤트가 없습니다.</string>
     <string name="open_app_template">%s 열기</string>
     <string name="location_label">위치</string>
     <string name="agenda_show_more_button_text">자세히</string>
@@ -1321,7 +1321,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="e300_summary_line1">\"%1$s\"(이)라고 말하면 내 목소리를 인식합니다.</string>
     <string name="e300_summary_line2">화면이 켜져 있거나 기기를 충전할 때 언제든 \"%1$s\"에 반응합니다.</string>
     <string name="e300_summary_line2_always_on">화면이 켜져 있든 꺼져 있든 상관없이 \"%1$s\"에 반응합니다.</string>
-    <string name="e300_summary_history">검색어는 Google 계정에 연결됩니다. 계정 기록에서 검색어를 확인하고 삭제할 수 있습니다</string>
+    <string name="e300_summary_history">검색어는 Google 계정에 연결됩니다. 계정 기록에서 검색어를 확인하고 삭제할 수 있습니다.</string>
     <string name="e300_summary_history_link">계정 기록</string>
     <string name="e300_summary_footer">언제든지 설정을 변경할 수 있습니다.</string>
     <string name="e300_summary_footer_link">Google 검색 앱</string>

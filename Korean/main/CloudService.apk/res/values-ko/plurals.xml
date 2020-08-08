@@ -61,7 +61,7 @@
         <item quantity="other">%d개 앱이 퀵 카드 활성화 시도함</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">%d분 후 동기화 재시작</item>
+        <item quantity="other">%d분 후 동기화 다시 시작</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">"%s 분 전"</item>
@@ -70,7 +70,7 @@
         <item quantity="other">"%s 시간 전"</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">Mi 클라우드로 %s개의 서비스가 동기화됩니다</item>
+        <item quantity="other">Mi 클라우드로 %s개의 서비스가 동기화됩니다.</item>
     </plurals>
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d개의 자주 사용하는 문구</item>

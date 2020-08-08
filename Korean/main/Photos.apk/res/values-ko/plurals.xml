@@ -65,16 +65,16 @@
         <item quantity="one">활동 1개</item>
     </plurals>
     <plurals name="delete_on_device_title">
-        <item quantity="other">기기 사본을 삭제할까요?</item>
-        <item quantity="one">기기 사본을 삭제할까요?</item>
+        <item quantity="other">기기 사본을 삭제하시겠습니까?</item>
+        <item quantity="one">기기 사본을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
         <item quantity="other">%d개 항목 완전히 삭제</item>
         <item quantity="one">1개 항목 완전히 삭제</item>
     </plurals>
     <plurals name="photos_trash_ui_delete_dialog_title">
-        <item quantity="other">항목을 삭제할까요?</item>
-        <item quantity="one">항목을 삭제할까요?</item>
+        <item quantity="other">항목을 삭제하시겠습니까?</item>
+        <item quantity="one">항목을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="photos_trash_ui_delete_dialog_message">
         <item quantity="other">휴지통에서 항목을 삭제하면 되돌릴 수 없습니다.</item>
@@ -93,8 +93,8 @@
         <item quantity="one">항목을 휴지통으로 이동하면 다음 위치에서도 삭제됨:</item>
     </plurals>
     <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
-        <item quantity="other">기기 사본을 삭제할까요?</item>
-        <item quantity="one">기기 사본을 삭제할까요?</item>
+        <item quantity="other">기기 사본을 삭제하시겠습니까?</item>
+        <item quantity="one">기기 사본을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
         <item quantity="other">이러한 항목은 포토 라이브러리에 백업되지 않으며 지금 삭제하면 포토에서 완전히 삭제됩니다.</item>
@@ -169,8 +169,8 @@
         <item quantity="one">항목 1개</item>
     </plurals>
     <plurals name="album_subtitle">
-        <item quantity="other">%1$s  •  사진 %2$d장</item>
-        <item quantity="one">%1$s  •  사진 1장</item>
+        <item quantity="other">%1$s    •    사진 %2$d장</item>
+        <item quantity="one">%1$s    •    사진 1장</item>
     </plurals>
     <plurals name="photos_create_uploadhandlers_success_existing_album">
         <item quantity="other">앨범에 항목 %d개가 추가되었습니다.</item>

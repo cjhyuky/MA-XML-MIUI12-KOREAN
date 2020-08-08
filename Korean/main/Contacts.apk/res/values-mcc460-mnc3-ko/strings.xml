@@ -10,7 +10,7 @@
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 UIM 카드나 SD 카드에서 연락처를 가져오십시오
+"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 UIM 카드나 SD 카드에서 연락처를 가져오세요
 "</li></font></b>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"표시할 연락처가 없습니다(방금 계정을 추가한 경우라면 연락처를 동기화하는 데 몇 분 걸릴 수 있습니다.).
 
@@ -22,7 +22,7 @@
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"새 연락처를 터치하여 처음부터 새 연락처를 만들거나
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 UIM 카드나 SD 카드에서 연락처를 가져오십시오
+"<b><font fgcolor="#ffffffff"><li>"가져오기/내보내기를 터치하여 UIM 카드나 SD 카드에서 연락처를 가져오세요
 "</li></font></b>"\" "</string>
     <string name="import_from_sim">UIM 카드에서 가져오기</string>
     <string name="export_to_sim_title">UIM 카드로 내보내는 중...</string>
@@ -38,11 +38,11 @@
     <string name="export_to_sim1">UIM 카드 1으로 내보내기</string>
     <string name="export_to_sim2">UIM 카드 2로 내보내기</string>
     <string name="sim_card_no_free_space_title">UIM 카드 가득 참</string>
-    <string name="sim_card_no_free_space_message">UIM카드가 가득 찼습니다. 새 연락처를 추가할 수 없습니다. UIM 카드를 정리한 후 다시 시도하십시오.</string>
+    <string name="sim_card_no_free_space_message">UIM카드가 가득 찼습니다. 새 연락처를 추가할 수 없습니다. UIM 카드를 정리한 후 다시 시도하세요.</string>
     <string name="sim_contacts">UIM 연락처</string>
     <string name="export_sim_contact_finish">UIM 카드로 내보냄</string>
     <string name="sim_export_loading">UIM 카드 읽는 중…</string>
-    <string name="sim_export_error">UIM 준비되지 않음, 나중에 다시 시도하십시오.</string>
+    <string name="sim_export_error">UIM 준비되지 않음, 나중에 다시 시도하세요.</string>
     <string name="sim_capacity">UIM 카드 저장소</string>
     <string name="sim_error_not_ready">UIM 연락처 불러오는 중…</string>
     <string name="sim_contact_existing">UIM 연락처가 이미 존재합니다.</string>
@@ -50,7 +50,7 @@
     <string name="pref_key_sim_manage">UIM 카드 관리</string>
     <string name="pref_key_sim_manage1">UIM 카드 1</string>
     <string name="pref_key_sim_manage2">UIM 카드 2</string>
-    <string name="simContacts_airplaneMode">UIM 카드에서 연락처를 가져오려면, 비행기 탑승 모드를 끄십시오.</string>
+    <string name="simContacts_airplaneMode">UIM 카드에서 연락처를 가져오려면, 비행기 탑승 모드를 끄세요.</string>
     <string name="readingSimContacts">UIM 카드 읽는 중…</string>
     <string name="importing_sim_contacts_miui">UIM 카드에서 연락처 가져오는 중…</string>
     <string name="import_sim_entries_finish">UIM 카드에서 연락처 가져옴</string>

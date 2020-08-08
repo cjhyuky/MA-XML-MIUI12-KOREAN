@@ -39,28 +39,28 @@
     <plurals name="second">
         <item quantity="other">%d초</item>
     </plurals>
-   <plurals name="snooze_duration_summary">
-      <item quantity="other">알람이 %1$s분씩 %2$s번 반복됩니다.</item>
-   </plurals>
-   <plurals name="day">
-      <item quantity="other">%d일</item>
-   </plurals>
-   <plurals name="hour">
-      <item quantity="other">%d시간</item>
-   </plurals>
-   <plurals name="life_post_wake_up_item_acumu_day">
-      <item quantity="other">%1$d일</item>
-   </plurals>
-   <plurals name="minute">
-      <item quantity="other">%d분</item>
-   </plurals>
-   <plurals name="snooze_duration_changed_info">
-      <item quantity="other">스누즈 간격이 %d분으로 조정됨</item>
-   </plurals>
-   <plurals name="snooze_duration_desc">
-      <item quantity="other">매 %1$s분마다, %2$s회 반복</item>
-   </plurals>
-       <plurals name="snooze_duration_count">
+     <plurals name="snooze_duration_summary">
+        <item quantity="other">알람이 %1$s분씩 %2$s번 반복됩니다.</item>
+     </plurals>
+     <plurals name="day">
+        <item quantity="other">%d일</item>
+     </plurals>
+     <plurals name="hour">
+        <item quantity="other">%d시간</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d일</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%d분</item>
+     </plurals>
+     <plurals name="snooze_duration_changed_info">
+        <item quantity="other">스누즈 간격이 %d분으로 조정됨</item>
+     </plurals>
+     <plurals name="snooze_duration_desc">
+        <item quantity="other">매 %1$s분마다, %2$s회 반복</item>
+     </plurals>
+         <plurals name="snooze_duration_count">
         <item quantity="other">%1$s회 반복 후 끄기</item>
     </plurals>
     <plurals name="snooze_duration_min">

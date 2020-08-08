@@ -190,10 +190,10 @@
     <string name="clear_queue">현재 재생목록 지우기</string>
     <string name="clearing_cache">캐시 삭제 중...</string>
     <string name="close_ads_button_text">닫기</string>
-    <string name="cloud_queue_different_account_prompt">다른 사람이 &lt;b>%1$s&lt;/b>에서 음악을 재생하고 있습니다. 내 음악으로 전환할까요?</string>
+    <string name="cloud_queue_different_account_prompt">다른 사람이 &lt;b>%1$s&lt;/b>에서 음악을 재생하고 있습니다. 내 음악으로 전환하시겠습니까?</string>
     <string name="cloud_queue_different_account_prompt_no">전환 안함</string>
     <string name="cloud_queue_different_account_prompt_yes">전환</string>
-    <string name="cloud_queue_multisender_prompt">&lt;b>%1$s&lt;/b>에서 음악을 계속 재생할까요?</string>
+    <string name="cloud_queue_multisender_prompt">&lt;b>%1$s&lt;/b>에서 음악을 계속 재생하시겠습니까?</string>
     <string name="cloud_queue_multisender_prompt_no">음악 변경</string>
     <string name="cloud_queue_multisender_prompt_yes">계속</string>
     <string name="cluster_more">%d개 더보기</string>
@@ -444,7 +444,7 @@
     <string name="listennow_cluster_header_recommendations">맞춤 추천</string>
     <string name="loading">로드 중…</string>
     <string name="mainstage_explore_description">최신 음악, 차트 상위권 음악, 재생목록, 장르 검색</string>
-    <string name="mainstage_explore_title">신곡을 탐색하세요</string>
+    <string name="mainstage_explore_title">신곡을 탐색하세요.</string>
     <string name="mainstage_instant_mix_description">인스턴트 믹스</string>
     <string name="mainstage_radio_description">라디오 채널</string>
     <string name="mainstage_tutorial_basic_try_nautilus_title">간편하게 무제한으로 음악 듣기</string>
@@ -712,7 +712,7 @@
     <string name="sdcard_external_storage">%1$s%2$s 외부</string>
     <string name="sdcard_internal_storage">내부</string>
     <string name="sdcard_internal_storage_long">내부(현재 기기)</string>
-    <string name="sdcard_migration_notification_message">"파일  %1$s개가 남았습니다."</string>
+    <string name="sdcard_migration_notification_message">"파일    %1$s개가 남았습니다."</string>
     <string name="sdcard_migration_notification_title">음악을 %1$s(으)로 옮기는 중</string>
     <string name="sdcard_missing">외부 저장소 삭제됨</string>
     <string name="sdcard_missing_nocard_message">삭제됨</string>
@@ -857,7 +857,7 @@
     <string name="switch_account_title">계정을 전환하시겠습니까?</string>
     <string name="switch_account_warning_button">계정 전환</string>
     <string name="switch_account_warning_message">Google Play 뮤직에서 다운로드한 음악이 이 기기에서 삭제됩니다.</string>
-    <string name="sync_disabled">Google Play 뮤직에 음악을 표시하려면 동기화를 설정해야 합니다. 지금 하시겠습니까?</string>
+    <string name="sync_disabled">Google Play 뮤직에 음악을 표시하려면 동기화를 설정해야 합니다. 지금하시겠습니까?</string>
     <string name="sync_to_wear_summary">오프라인 재생을 위해 다운로드한 음악 저장</string>
     <string name="sync_to_wear_title">Android Wear에 다운로드</string>
     <string name="this_song">이 노래</string>
@@ -992,7 +992,7 @@
     <string name="wear_manage_downloads_title">Wear 다운로드 관리</string>
     <string name="wear_sync_management_header">Wear 동기화</string>
     <string name="wear_sync_notification">"'다운로드한 음악 저장'을 사용하려면 여기를 터치하세요."</string>
-    <string name="wear_sync_notification_short">Wear에 음악을 다운로드할까요?</string>
+    <string name="wear_sync_notification_short">Wear에 음악을 다운로드하시겠습니까?</string>
     <string name="wear_sync_promo_text">웨어러블에 다운로드한 음악을 저장하여 오프라인으로 재생해 보시겠습니까?</string>
     <string name="wear_sync_promo_title">Android Wear로 음악 감상</string>
     <string name="weekpicker_set">완료</string>

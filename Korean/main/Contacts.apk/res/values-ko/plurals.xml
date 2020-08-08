@@ -100,7 +100,7 @@
         <item quantity="other">%1$d개 연락처</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$d개 연락처나 사진이 동기화되지 않았습니다</item>
+        <item quantity="other">%1$d개 연락처나 사진이 동기화되지 않았습니다.</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">1시간 전</item>

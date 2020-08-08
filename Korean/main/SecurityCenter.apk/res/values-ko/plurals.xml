@@ -7,13 +7,13 @@
         <item quantity="other">%2$d개 게임 제거(%1$s 포함)</item>
     </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
-        <item quantity="other">%d개 AI녹화를 게임 터보에 저장했습니다</item>
+        <item quantity="other">%d개 AI녹화를 게임 터보에 저장했습니다.</item>
     </plurals>
     <plurals name="intl_perm_privacy_control_message_count">
-        <item quantity="other">%d개의 아이템을 보호할 수 있습니다</item>
+        <item quantity="other">%d개의 아이템을 보호할 수 있습니다.</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
-        <item quantity="other">최소 %s개 앱을 보호할 수 있습니다</item>
+        <item quantity="other">최소 %s개 앱을 보호할 수 있습니다.</item>
     </plurals>
     <plurals name="ew_alert_second_after">
         <item quantity="other">%d초 후</item>
@@ -22,13 +22,13 @@
         <item quantity="other">%d초</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">최소 %d개 지점을 연결하세요</item>
+        <item quantity="other">최소 %d개 지점을 연결하세요.</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
-        <item quantity="other">최소 %d자를 입력하세요</item>
+        <item quantity="other">최소 %d자를 입력하세요.</item>
     </plurals>
     <plurals name="numeric_recording_incorrect_too_short">
-        <item quantity="other">최소 %d자리 숫자를 입력하세요</item>
+        <item quantity="other">최소 %d자리 숫자를 입력하세요.</item>
     </plurals>
     <plurals name="pc_statistics_battery_last_hour">
         <item quantity="other">%d시간 남음</item>
@@ -52,10 +52,10 @@
         <item quantity="other">%1$s에서 %2$d회 거부됨</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">%1$s에 빈 메시지 %2$d개를 반환했습니다</item>
+        <item quantity="other">%1$s에 빈 메시지 %2$d개를 반환했습니다.</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s %2$d개의 앱을 시작했습니다</item>
+        <item quantity="other">%1$1s %2$d개의 앱을 시작했습니다.</item>
     </plurals>
     <plurals name="app_behavior_wakepath_multiple_single">
         <item quantity="other">이 앱은 다른 앱 %1$d개를 출시</item>
@@ -79,13 +79,13 @@
         <item quantity="other">%s회</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
-         <item quantity="other">%1$s-%2$s 빈 메시지가 %3$d회 반환되었습니다</item>
+         <item quantity="other">%1$s-%2$s 빈 메시지가 %3$d회 반환되었습니다.</item>
     </plurals>
     <plurals name="app_behavior_notification_audio_more">
-         <item quantity="other">\"%1$1s\"를 %2$d가 기록 중입니다</item>
+         <item quantity="other">\"%1$1s\"를 %2$d가 기록 중입니다.</item>
      </plurals>
      <plurals name="app_behavior_notification_camera_more">
-         <item quantity="other">\"%1$1s\"등등 %2$d 사진을 찍고 있습니다</item>
+         <item quantity="other">\"%1$1s\"등등 %2$d 사진을 찍고 있습니다.</item>
      </plurals>
      <plurals name="app_behavior_notification_location_more">
          <item quantity="other">\"%1$1s\"및 기타 %2$d 앱이 위치 정보를 받고 있습니다 </item>
@@ -99,14 +99,14 @@
          <item quantity="one">%1$s 부터 %2$s까지 %3$d회 비허용</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
-         <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 비활성화되었습니다</item>
-         <item quantity="zero">동작 알림이 비활성화된 애플리케이션이 없습니다</item>
-         <item quantity="one">%1$d앱의 동작 알림이 비활성화되었습니다</item>
+         <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 비활성화되었습니다.</item>
+         <item quantity="zero">동작 알림이 비활성화된 애플리케이션이 없습니다.</item>
+         <item quantity="one">%1$d앱의 동작 알림이 비활성화되었습니다.</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_on">
-         <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 활성화되었습니다</item>
-         <item quantity="zero">동작 알림이 활성화된 애플리케이션이 없습니다</item>
-         <item quantity="one">%1$d앱의 동작 알림이 활성화되었습니다</item>
+         <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 활성화되었습니다.</item>
+         <item quantity="zero">동작 알림이 활성화된 애플리케이션이 없습니다.</item>
+         <item quantity="one">%1$d앱의 동작 알림이 활성화되었습니다.</item>
     </plurals>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%2$s님 외 %1$d개의 통화 차단됨</item>
@@ -182,7 +182,7 @@
         <item quantity="other">%d개의 배터리 문제</item>
     </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
-        <item quantity="other">%d개의 배터리 문제를 발견하였습니다. 문제를 해결하십시오.</item>
+        <item quantity="other">%d개의 배터리 문제를 발견하였습니다. 문제를 해결하세요.</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">%1$d명의 사람이 다운로드함</item>
@@ -263,7 +263,7 @@
         <item quantity="other">트로이 목마: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">"%d초 후 다시 시도하십시오. "</item>
+        <item quantity="other">"%d초 후 다시 시도하세요. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d개 앱 잠김</item>
@@ -278,7 +278,7 @@
         <item quantity="other">%d개 앱 발견됨</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">잠긴 %d개의 앱이 정리를 기다리고 있습니다</item>
+        <item quantity="other">잠긴 %d개의 앱이 정리를 기다리고 있습니다.</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">바이러스 %d개 삭제됨</item>
@@ -316,8 +316,8 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d개 게임 추가되지 않음</item>
     </plurals>
-       <plurals name="bg_network_allow_count">
-        <item quantity="other">%d개의 앱이 백그라운드에서 네트워크 접속을 사용합니다</item>
+         <plurals name="bg_network_allow_count">
+        <item quantity="other">%d개의 앱이 백그라운드에서 네트워크 접속을 사용합니다.</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
         <item quantity="other">"%d개의 앱이 백그라운드에서 네트워크 접속을 할 수 없습니다"</item>
@@ -335,7 +335,7 @@
         <item quantity="other">%d개의 알림이 보여짐</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d일 뒤 네트워크 속도 향상 세션이 끝납니다. 네트워크 속도 문제를 피하기 위해 세션을 갱신하십시오.</item>
+        <item quantity="other">%d일 뒤 네트워크 속도 향상 세션이 끝납니다. 네트워크 속도 문제를 피하기 위해 세션을 갱신하세요.</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d명이 음악을 듣는중</item>
@@ -388,7 +388,7 @@
         <item quantity="other">공장 초기화(%ds)</item>
     </plurals>
     <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d개의 앱이 잘못 표시될 수 있습니다. 플로팅 알림을 제한하십시오.</item>
+        <item quantity="other">%d개의 앱이 잘못 표시될 수 있습니다. 플로팅 알림을 제한하세요.</item>
     </plurals>
     <plurals name="game_booster_incoming_call_duration_p1">
         <item quantity="other">%1$s:</item>

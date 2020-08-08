@@ -102,7 +102,7 @@
     <string name="desense_at_show_history">검색 기록</string>
     <string name="desense_at_start">시작</string>
     <string name="desense_at_stop">중지</string>
-    <string name="desense_at_warning_title">Wi-Fi에 연결하십시오</string>
+    <string name="desense_at_warning_title">Wi-Fi에 연결하세요.</string>
     <string name="desense_freqhopping_dialog_title">정보</string>
     <string name="desense_freqhopping_readall">모두 읽기</string>
     <string name="desense_sdlog_toggle_end">중단됨</string>
@@ -330,7 +330,7 @@
     <string name="TouchScreen_Settings_uart">끔</string>
     <string name="TouchScreen_Verification">인증</string>
     <string name="u3_phy_switch_set">설정</string>
-    <string name="uart_usb_switch_dialog_title">Wi-Fi에 연결하십시오</string>
+    <string name="uart_usb_switch_dialog_title">Wi-Fi에 연결하세요.</string>
     <string name="uart_usb_switch_dialog_title_error">오류</string>
     <string name="uart_usb_switch_unknown">알 수 없음</string>
     <string name="USB_IF_OTG20_ENTER_Text">입력</string>
@@ -386,7 +386,7 @@
     <string name="world_mode_set">설정</string>
     <string name="wps_dialog_init">진행</string>
     <string name="wps_dialog_ok">확인</string>
-    <string name="wps_dialog_warn">Wi-Fi에 연결하십시오</string>
+    <string name="wps_dialog_warn">Wi-Fi에 연결하세요.</string>
     <string name="auto_dialer">자동 다이얼</string>
     <string name="sim_switch">SIM 전환</string>
     <string name="A2DP_StreamOutput_Dump">A2DP 스트림 출력값</string>
@@ -537,7 +537,7 @@
     <string name="BtDebugFeatureTitle">블루투스 디버그</string>
     <string name="ChargeBattery">배터리 충전</string>
     <string name="Chinese_test_pat">중화권 패턴 테스트</string>
-    <string name="ClockSelectionDes">주의 : 잘못된 채널에서 ID를 수신하지 못하도록 full rx / double rx를 수신할 때 MODEM ADC의 클럭을 64MHz로 전환하십시오. 다른 조건에서는 32MHz 모뎀 ADC 클럭을 사용하십시오.</string>
+    <string name="ClockSelectionDes">주의 : 잘못된 채널에서 ID를 수신하지 못하도록 full rx / double rx를 수신할 때 MODEM ADC의 클럭을 64MHz로 전환하세요. 다른 조건에서는 32MHz 모뎀 ADC 클럭을 사용하세요.</string>
     <string name="ClockSelectionTitle">BT RX ADC 시계 선택</string>
     <string name="DefSIMText">기본 SIM 설정</string>
     <string name="Display_backlight_off_fail">LCD 백라이드 설정 비활성화 실패</string>
@@ -602,7 +602,7 @@
     <string name="GPRS_1st_PDP">1번째 PDP</string>
     <string name="GPRS_2nd_PDP">2번째 PDP</string>
     <string name="GPRS_ALWAYS_ATTACH">항상 붙이기</string>
-    <string name="GPRS_ALWAYS_ATTACH_CONTINUE">항상 붙이려면 계속하십시오.</string>
+    <string name="GPRS_ALWAYS_ATTACH_CONTINUE">항상 붙이려면 계속하세요.</string>
     <string name="GPRS_Activate_PDP">PDP 활성화</string>
     <string name="GPRS_As_Primary">메인으로 설정</string>
     <string name="GPRS_As_Secondary">보조로 설정</string>
@@ -684,7 +684,7 @@
     <string name="NFC_SoftwareStack_DN_felica424">felica 424</string>
     <string name="NFC_SoftwareStack_DiscoveryNotification">발견된 사항</string>
     <string name="NFC_SoftwareStack_P2P_InitDect_Text">P2P 감지됨</string>
-    <string name="NFC_SoftwareStack_RawCommand_Desc_Text">데이터 : (공백으로 구분 된 16진수 형식의 데이터를 입력하십시오.)</string>
+    <string name="NFC_SoftwareStack_RawCommand_Desc_Text">데이터 : (공백으로 구분 된 16진수 형식의 데이터를 입력하세요.)</string>
     <string name="NFC_SoftwareStack_RawCommand_Examp">예시 : (에코 앱)</string>
     <string name="Audio_Get">설정</string>
     <string name="auto_clibr_af_full">전체 검사</string>
@@ -872,7 +872,7 @@
     <string name="USB_stop_err">중단 명령 오류 발생!</string>
     <string name="USB_stop_fail">기본 테스트 실패.</string>
     <string name="YGPS">YGPS</string>
-    <string name="aal_switch_tip">효과를 적용하려면 기기를 재부팅하세요.</string>
+    <string name="aal_switch_tip">효과를 적용하려면 기기를 다시 시작하세요.</string>
     <string name="aal_title">AAL</string>
     <string name="activiti_notfind">해당 모듈을 찾을 수 없습니다!</string>
     <string name="addr_need">주소 필요함</string>
@@ -880,7 +880,7 @@
     <string name="address6589_text">주소[Hex 0000-FFFF]</string>
     <string name="address_text">주소[Hex 입력값 : Fz0xxxxx]-> [z00xxxxx]</string>
     <string name="af_mode_dailog_title">AF 모드 설정</string>
-    <string name="antenna_hint">주의 : 4G 안테나 테스트를 위해서는 기기를 재부팅해야 합니다.</string>
+    <string name="antenna_hint">주의 : 4G 안테나 테스트를 위해서는 기기를 다시 시작해야 합니다.</string>
     <string name="antenna_title">안테나 테스트</string>
     <string name="antenna_title_3g">안테나 테스트 (3G FDD)</string>
     <string name="antenna_title_4g">안테나 테스트 (4G)</string>
@@ -1006,7 +1006,7 @@
     <string name="camera_ev">EV</string>
     <string name="camera_ev_calibr_input_tip">LV(10 based) : </string>
     <string name="camera_ev_calibration">EV 캘리브레이션</string>
-    <string name="camera_help_msg">"Feature name :  Camera.AF EM item used to set capture auto focus mode. Raw Capture Mode item used to select raw capture mode.Raw Type item used to select store what kind of raw file.Flicker item used to set camera's Anti-fiicker value.ISO item used to set camera's iso value. Start Preview item to open the camera and start camera preview, in the preview page, press Capture button will take picture(s) with the previous settings. The picture(s) will be store in the path :  SDCard//DCIM//EMCamera."</string>
+    <string name="camera_help_msg">"Feature name :    Camera.AF EM item used to set capture auto focus mode. Raw Capture Mode item used to select raw capture mode.Raw Type item used to select store what kind of raw file.Flicker item used to set camera's Anti-fiicker value.ISO item used to set camera's iso value. Start Preview item to open the camera and start camera preview, in the preview page, press Capture button will take picture(s) with the previous settings. The picture(s) will be store in the path :    SDCard//DCIM//EMCamera."</string>
     <string name="camera_strobe_duty">스트로브</string>
     <string name="cannot_connect_camera">"카메라에 연결할 수 없습니다.."</string>
     <string name="capture">캡쳐 : </string>
@@ -1077,8 +1077,8 @@
     <string name="dcm_lpm_invalid_good_dur">유효하지 않은 주기</string>
     <string name="dcm_lpm_longest_high">LONGEST HIGH</string>
     <string name="dcm_lpm_low2high">LOW2HIGH</string>
-    <string name="dcm_lpm_operate_error_code">경고 :  에러 코드 </string>
-    <string name="dcm_lpm_ref_clk_note">주의 :  104M -> 최대 20.64s</string>
+    <string name="dcm_lpm_operate_error_code">경고 :    에러 코드 </string>
+    <string name="dcm_lpm_ref_clk_note">주의 :    104M -> 최대 20.64s</string>
     <string name="dcm_lpm_total_time">소요 시간</string>
     <string name="dcm_operate_success">성공</string>
     <string name="dcm_text_0x">0x</string>
@@ -1251,7 +1251,7 @@
     <string name="hqa_cpustress_apmcu_saxpy_64">SAXPY 테스트 활성화 (64비트)</string>
     <string name="hqa_cpustress_apmcu_vfp">VFP 테스트 활성화</string>
     <string name="hqa_cpustress_checkbox_thermal">써멀 비활성화</string>
-    <string name="hqa_cpustress_clockswitch_command_error">명령어 오류, 건너뛰십시오.</string>
+    <string name="hqa_cpustress_clockswitch_command_error">명령어 오류, 건너뛰세요.</string>
     <string name="hqa_cpustress_clockswitch_cpuspeed">CPU 동작속도 수정</string>
     <string name="hqa_cpustress_clockswitch_enabledebug">디버그 활성화 메시지</string>
     <string name="hqa_cpustress_clockswitch_name">클럭 스위치</string>

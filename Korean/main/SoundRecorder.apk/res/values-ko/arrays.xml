@@ -20,15 +20,15 @@
         <item>HD</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>음악을 녹음하고 싶을 때 사용하십시오.</item>
-        <item>마이크를 입에 가까이 대고 녹음할 때 사용하십시오. 예>음성 메모</item>
-        <item>마이크를 멀리 두고 여러 사람의 목소리를 녹음할 때 사용하십시오. 예>회의, 인터뷰</item>
+        <item>음악을 녹음하고 싶을 때 사용하세요.</item>
+        <item>마이크를 입에 가까이 대고 녹음할 때 사용하세요. 예>음성 메모</item>
+        <item>마이크를 멀리 두고 여러 사람의 목소리를 녹음할 때 사용하세요. 예>회의, 인터뷰</item>
         <item>HDR 기술은 마이크로 더 선명한 소리를 녹음할 수 있게 해줍니다.</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
-        <item>음악을 녹음하고 싶을 때 사용하십시오.</item>
-        <item>마이크를 입에 가까이 대고 녹음할 때 사용하십시오. 예>음성 메모</item>
-        <item>마이크를 멀리 두고 여러 사람의 목소리를 녹음할 때 사용하십시오. 예>회의, 인터뷰</item>
+        <item>음악을 녹음하고 싶을 때 사용하세요.</item>
+        <item>마이크를 입에 가까이 대고 녹음할 때 사용하세요. 예>음성 메모</item>
+        <item>마이크를 멀리 두고 여러 사람의 목소리를 녹음할 때 사용하세요. 예>회의, 인터뷰</item>
         <item>HDR 기술은 마이크로 더 선명한 소리를 녹음할 수 있게 해줍니다.</item>
     </string-array>
     <string-array name="record_quality_entries">

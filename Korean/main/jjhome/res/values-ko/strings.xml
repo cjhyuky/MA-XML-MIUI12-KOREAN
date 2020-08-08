@@ -2,13 +2,13 @@
 <resources>
     <string name="app_name">Jeejen 메시지</string>
     <string name="jeejen_text_cancel">취소</string>
-    <string name="jeejen_text_loading">잠시 기다려 주십시오…</string>
+    <string name="jeejen_text_loading">잠시 기다려 주세요…</string>
     <string name="img_des">메시지</string>
     <string name="title_def">Jeejen 알림</string>
-    <string name="btn_know_txt">알겠습니다</string>
+    <string name="btn_know_txt">알겠습니다.</string>
     <string name="btn_close_txt">종료</string>
     <string name="btn_reply_txt">보기</string>
-    <string name="btn_go_txt">여기를 보아주십시오.</string>
+    <string name="btn_go_txt">여기를 보아주세요.</string>
     <string name="unread_msg_count">(%1$s 항목)</string>
     <string name="msg_list_title">알림 센터</string>
     <string name="del_btn_title">삭제</string>
@@ -50,7 +50,7 @@
     <string name="edit_contact_btn_cancel">취소</string>
     <string name="mms_list_title">메시지 전송</string>
     <string name="mms_newsms_pad">작성</string>
-    <string name="mms_newsms_hint">메시지를 입력하십시오.</string>
+    <string name="mms_newsms_hint">메시지를 입력하세요.</string>
     <string name="mms_voice_hint">누른 상태로 유지하고 말하기 시작</string>
     <string name="mms_new_sms">새 메시지</string>
     <string name="mms_new_sms_select_contact_btn_text">연락처 추가</string>
@@ -66,7 +66,7 @@
     <string name="mms_send_sms_failed_sms_empty_hint">메시지에 내용을 추가해야 합니다.</string>
     <string name="mms_send_sms_failed_contact_empty_hint">받는 사람을 선택해야 합니다.</string>
     <string name="mms_send_sms_failed">메시지를 전송하지 못했습니다.</string>
-    <string name="mms_new_sms_tts_not_install">먼저 음성 엔진을 설치하십시오.</string>
+    <string name="mms_new_sms_tts_not_install">먼저 음성 엔진을 설치하세요.</string>
     <string name="mms_asr_panel_btn_completed">완료됨</string>
     <string name="mms_asr_failed_hint">음성을 인식할 수 없습니다.</string>
     <string name="mms_asr_failed_error_network">인터넷에 연결하지 못했습니다.</string>
@@ -159,7 +159,7 @@
     <string name="camera_rotate">회전</string>
     <string name="camera_focus">초점</string>
     <string name="camera_sdcard_disabled">잘못된 SD 카드</string>
-    <string name="camera_please_wait">잠시 기다려 주십시오…</string>
+    <string name="camera_please_wait">잠시 기다려 주세요…</string>
     <string name="camera_reading_image">이미지 읽는 중…</string>
     <string name="camera_rc_rotate">회전</string>
     <string name="camera_processing">작업 중…</string>
@@ -184,7 +184,7 @@
     <string name="imei_invalid">잘못된 IMEI</string>
     <string name="sim_contact_search_error">SIM 카드 검색 중 오류 발생</string>
     <string name="sim_no_contact">SIM 카드에 연락처 없음</string>
-    <string name="sim_indexed_contact_not_exist">\"%1$d\" 위치가 SIM 카드에 존재하지 않습니다. 위치를 %2$d와 %3$d 사이로 입력하십시오.</string>
+    <string name="sim_indexed_contact_not_exist">\"%1$d\" 위치가 SIM 카드에 존재하지 않습니다. 위치를 %2$d와 %3$d 사이로 입력하세요.</string>
     <string name="income_calling_hint">수신 전화</string>
     <string name="income_calling_comma">,</string>
     <string name="phone_list_empty_hint">통화 기록 없음</string>
@@ -215,7 +215,7 @@
     <string name="guohao_service_number">라이브 지원</string>
     <string name="mms_menu_delete_selected_sms_hint">선택한 메시지를 삭제하시겠습니까?</string>
     <string name="phone_menu_delete_selected_callinfo_hint">선택한 통화 기록을 삭제하시겠습니까?</string>
-    <string name="mms_sms_try_again_send">보낼 수 없습니다. 다시 시도하여 주십시오.</string>
+    <string name="mms_sms_try_again_send">보낼 수 없습니다. 다시 시도하여 주세요.</string>
     <string name="selected_contact_list_empty_hint">삭제할 연락처를 선택</string>
     <string name="contact_menu_delete_selected_contact_hint">선택한 연락처를 삭제하시겠습니까?</string>
     <string name="contact_list_empty_hint">비어 있음</string>
@@ -258,7 +258,7 @@
     <string name="contact_empty_title">추가</string>
     <string name="feedback">피드백</string>
     <string name="edit_home">홈 화면 편집</string>
-    <string name="loading_home">잠시 기다려 주십시오…</string>
+    <string name="loading_home">잠시 기다려 주세요…</string>
     <string name="failed_to_drop">이동할 수 없음</string>
     <string name="delete_zone_title">제거</string>
     <string name="cant_delete_system_app">시스템 앱을 제거할 수 없습니다.</string>
@@ -290,8 +290,8 @@
     <string name="about_install">설치</string>
     <string name="about_download">업데이트</string>
     <string name="about_ok">알겠습니다.</string>
-    <string name="scroll_to_contact_area_error">스크롤 할 수 없습니다</string>
-    <string name="scroll_to_app_area_error">스크롤 할 수 없습니다</string>
+    <string name="scroll_to_contact_area_error">스크롤 할 수 없습니다.</string>
+    <string name="scroll_to_app_area_error">스크롤 할 수 없습니다.</string>
     <string name="lock_launcher_hint">홈 스크린 잠김</string>
     <string name="unlock_launcher_hint">홈 스크린 잠금 해제됨</string>
     <string name="lock_launcher_toast_hint">홈 스크린이 잠겨있어서 변경할 수 없습니다. 설정에서 잠금 해제 하세요.</string>
@@ -321,10 +321,10 @@
     <string name="jeejen_valentines_day">발렌타인데이</string>
     <string name="jeejen_teachers_day">스승의 날</string>
     <string name="jeejen_timeutil_year_format">MM/dd</string>
-    <string name="jeejen_unlock_hint">잠금을 해제 하시려면 위로 슬라이드 하십시오.</string>
+    <string name="jeejen_unlock_hint">잠금을 해제 하시려면 위로 슬라이드 하세요.</string>
     <string name="jeejen_lockscren_mms_unread_hint">새 메시지 (%1$s)</string>
     <string name="jeejen_lockscren_call_miss_hint">부재중 전화 (%1$s)</string>
-    <string name="app_sub_not_found_hint">%1$s 앱을 찾을 수 없습니다. 수동으로 선택해 보십시오.</string>
+    <string name="app_sub_not_found_hint">%1$s 앱을 찾을 수 없습니다. 수동으로 선택해 보세요.</string>
     <string name="app_sub_dialog_setting_now">설정으로 이동</string>
     <string name="app_sub_dialog_cancel">취소</string>
     <string name="box_app_sub_title">%1$s 앱 선택</string>
@@ -336,8 +336,8 @@
     <string name="settings_status_bar_title">드롭다운 메뉴</string>
     <string name="settings_dial_voice_title">다이얼 패드 읽기</string>
     <string name="settings_speak_phone_number">발신자 이름 크게 읽어주기</string>
-    <string name="camera_storage_error">저장할 수 없습니다. 먼저 SD 카드를 삽입하십시오.</string>
-    <string name="sdcard_invalid_for_ring">설정을 적용할 수 없습니다. 먼저 SD 카드를 삽입하십시오.</string>
+    <string name="camera_storage_error">저장할 수 없습니다. 먼저 SD 카드를 삽입하세요.</string>
+    <string name="sdcard_invalid_for_ring">설정을 적용할 수 없습니다. 먼저 SD 카드를 삽입하세요.</string>
     <string name="lock_screen_battery_charging_hint">%1$d%% 충전 중</string>
     <string name="lock_screen_battery_full_hint">베터리가 충전됨</string>
     <string name="settings_lock_screen_title">잠금 화면</string>
@@ -351,7 +351,7 @@
     <string name="settings_home_lock_desc">앱을 홈 화면에 잠그고 앱 설정 잠그기</string>
     <string name="settings_sms_voice_desc">수신되는 문자 메시지 크게 읽기</string>
     <string name="settings_dial_voice_desc">전화걸 때 숫자 크게 읽어주기</string>
-    <string name="settings_status_bar_desc">드롭다운 메뉴를 펼치려면, 한 손가락을 아래로 스와이프하십시오.</string>
+    <string name="settings_status_bar_desc">드롭다운 메뉴를 펼치려면, 한 손가락을 아래로 스와이프하세요.</string>
     <string name="settings_speak_income_desc">수신 중인 발신자 이름 크게 읽어주기</string>
     <string name="settings_income_phone_cover_desc">수신 통화 화면에서 간단한 메뉴와 큰 폰트 사용(일부 기기에서는 사용 불가)</string>
     <string name="settings_mobile_internet_lock_desc">모바일 데이터 끄기(2G/3G 네트워크)</string>
@@ -363,7 +363,7 @@
     <string name="settings_home_lock_disable_state_hint">꺼짐</string>
     <string name="mobile_internet_close_succeed_toast_hint">모바일 데이터가 꺼져 있습니다.</string>
     <string name="mobile_internet_close_failed_toast_hint">모바일 데이터를 끄지 못했습니다.</string>
-    <string name="exit_jeejen_introduce_hint">간단한 메뉴와 큰 폰트를 사용하십시오.</string>
+    <string name="exit_jeejen_introduce_hint">간단한 메뉴와 큰 폰트를 사용하세요.</string>
     <string name="phone_income_cancel_text">거절</string>
     <string name="phone_income_answer_text">응답</string>
     <string name="phone_income_phone_ringing_state">통화 중…</string>
@@ -389,7 +389,7 @@
     <string name="welcome_3_desc">가족과 즐거운 순간들을 공유</string>
     <string name="welcome_4_desc">"좋은 소식이 있습니다!
 Jeejen 폰이 현재 사용 가능합니다."</string>
-    <string name="welcome_goto_website">여기를 보아주십시오.</string>
+    <string name="welcome_goto_website">여기를 보아주세요.</string>
     <string name="welcome_goto_launcher">홈 화면으로 이동</string>
     <string name="box_uninstall_empty_hint">표시할 앱이 없습니다.</string>
     <string name="use_statusment">앱이 정상적으로 작동하기 위해 모바일 데이터, 위치 서비스 등에 접근 권한이 필요합니다.</string>

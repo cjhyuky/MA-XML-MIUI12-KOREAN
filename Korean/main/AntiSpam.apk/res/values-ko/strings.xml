@@ -143,8 +143,8 @@
     <string name="st_title_man_addblacklist">차단 목록에 전화번호 추가</string>
     <string name="st_title_man_head_addwhitelist">전화번호 접두어를 예외 목록에 추가</string>
     <string name="st_title_man_addwhitelist">전화번호를 예외 목록에 추가</string>
-    <string name="st_title_man_editblacklist">차단 목록에 추가할 지역 번호를 선택하십시오.</string>
-    <string name="st_title_man_editwhitelist">예외 목록에 추가할 지역 번호를 선택하십시오.</string>
+    <string name="st_title_man_editblacklist">차단 목록에 추가할 지역 번호를 선택하세요.</string>
+    <string name="st_title_man_editwhitelist">예외 목록에 추가할 지역 번호를 선택하세요.</string>
     <string name="st_title_back_sound_choose">부재중 메시지</string>
     <string name="st_title_back_sound_busy">빠쁨</string>
     <string name="st_title_back_sound_none">번호가 존재하지 않습니다.</string>
@@ -301,7 +301,7 @@
     <string name="mark_agent_block_large">단체</string>
     <string name="mark_sell_block_large">유통판매업자</string>
     <string name="mark_harass_block_large">장난전화</string>
-    <string name="mark_number_info">이런 통화가 가끔 유용할 때도 있습니다(예: 실제로 어떤 아파트를 찾을 때). 받고 싶지 않은 번호만 차단하십시오.</string>
+    <string name="mark_number_info">이런 통화가 가끔 유용할 때도 있습니다(예: 실제로 어떤 아파트를 찾을 때). 받고 싶지 않은 번호만 차단하세요.</string>
     <string name="dlg_title_not_open_stranger_identify">모르는 사람 확인</string>
     <string name="dlg_message_not_open_stranger_identify">이 기능을 사용하려면 전화 > 설정을 해아 합니다.</string>
     <string name="button_to_setting">설정</string>

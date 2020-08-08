@@ -17,7 +17,7 @@
     <string name="sim_lock_failed">"USIM 카드 잠금 상태를 변경할 수 없습니다.
 PIN이 잘못된 것 같습니다."</string>
     <string name="sim_change_failed_enable_sim_lock">"USIM PIN 변경 실패
-USIM 잠금을 켜십시오."</string>
+USIM 잠금을 켜세요."</string>
     <string name="sim_lock_change_not_supported">"USIM 잠금 변경 실패
 USIM이 지원되지 않습니다."</string>
 </resources>

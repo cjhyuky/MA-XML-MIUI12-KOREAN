@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_display_daltonizer_preference_subtitle">이 기능은 실험적인 기능으로 성능에 영향을 줄 수 있습니다.</string>
     <string name="fast_connect_reset_common">페어링 할 수 있도록 이 장치를 재설정</string>
     <string name="bluetooth_paired">저장됨</string>
     <string name="mi_home_device_find">장치 검색</string>
@@ -7,14 +8,14 @@
     <string name="mi_home_device_start_binding">지금 페어링</string>
     <string name="mihome_app_download">지금 설치</string>
     <string name="mihome_app_update">지금 업데이트</string>
-    <string name="mihome_download_tips">장치를 페어링하려면 Mi Home앱을 설치하십시오. Mi Home앱을 설치하고 로그인한 후 휴대전화를 기기 가까이에 두십시오.</string>
-    <string name="mihome_download_title">Mi Home앱 설치</string>
+    <string name="mihome_download_tips">장치를 페어링하려면 Mi Home 앱을 설치하세요. Mi Home 앱을 설치하고 로그인한 후 휴대전화를 기기 가까이에 두세요.</string>
+    <string name="mihome_download_title">Mi Home 앱 설치</string>
     <string name="mihome_ignore">취소</string>
     <string name="mihome_ignore_query">무시</string>
-    <string name="mihome_ignore_tips">무시한 후 Mi Home앱을 계속 추가 할 수 있습니다.</string>
+    <string name="mihome_ignore_tips">무시한 후 Mi Home 앱을 계속 추가 할 수 있습니다.</string>
     <string name="mihome_ignore_title">이 기기를 무시하시겠습니까?</string>
-    <string name="mihome_update_tips">현재 Mi Home앱 버전이 너무 낮습니다. 업데이트 후 휴대전화를 기기 가까이에 두십시오.</string>
-    <string name="mihome_update_title">Mi Home앱 업데이트</string>
+    <string name="mihome_update_tips">현재 Mi Home 앱 버전이 너무 낮습니다. 업데이트 후 휴대전화를 기기 가까이에 두세요.</string>
+    <string name="mihome_update_title">Mi Home 앱 업데이트</string>
     <string name="app_name">MIUI 블루투스</string>
     <string name="device_picker">블루투스 기기 설정</string>
     <string name="bluetooth_preference_scan_title">기기 검색</string>
@@ -45,6 +46,13 @@
     <string name="mi_key_summary_take_photo">Mi 키 클릭하여 사진 촬영</string>
     <string name="mi_key_summary_find_phone">Mi 키를 길게 &amp; 눌러 벨소리 켜기</string>
     <string name="bluetooth_connected">연결됨</string>
+    <string name="bluetooth_connected_battery_level">연결됨 | 배터리 %1$s %2$s</string>
+    <string name="bluetooth_connected_no_a2dp">연결됨 (미디어 제외) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 제외) | 배터리 %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">연결됨 (통화 제외) | 배터리 %1$s %2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (통화 또는 미디어 제외) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (통화 또는 미디어 제외) | Battery %1$s %2$s</string>
+    <string name="bluetooth_connected_no_map">연결됨 (메시지 접근 권한 없음) %1$s</string>
     <string name="bluetooth_disconnected">연결 해제됨</string>
     <string name="bluetooth_disconnecting">연결 해제 중…</string>
     <string name="bluetooth_connecting">연결 중…</string>
@@ -55,7 +63,7 @@
     <string name="notify_device_lose_connection_title">%1$s와(과) 연결 끊김</string>
     <string name="notify_device_lose_connection_text">탭하여 %1$s 연결 해제</string>
     <string name="unbind_device_alert_title">기기의 연결 해제</string>
-    <string name="unbind_device_alert_content">%1$s와(과) 연결 끊김. 배터리를 절약하려면 지금 이 기기의 연결을 해제하십시오.</string>
+    <string name="unbind_device_alert_content">%1$s와(과) 연결 끊김. 배터리를 절약하려면 지금 이 기기의 연결을 해제하세요.</string>
     <string name="unbind_device_alert_ok">연결 해제</string>
     <string name="unbind_device_alert_cancel">취소</string>
     <string name="ok_button">확인</string>
@@ -66,7 +74,7 @@
     <string name="fast_connect_device_box_use_time">%1$s시간 사용가능</string>
     <string name="fast_connect_device_connect_cancel">취소</string>
     <string name="fast_connect_device_connect_ok">연결</string>
-    <string name="fast_connect_device_connect_retry">재시도</string>
+    <string name="fast_connect_device_connect_retry">다시 시도</string>
     <string name="fast_connect_device_connect_setup">설정</string>
     <string name="fast_connect_device_connect_success">완료</string>
     <string name="fast_connect_device_headset_l">왼쪽</string>
@@ -76,13 +84,13 @@
     <string name="fast_connect_device_headset_r">오른쪽</string>
     <string name="fast_connect_device_headset_r_not_connect">R 연결되지 않음</string>
     <string name="fast_connect_device_headset_r_use_time">R %1$s시간</string>
-    <string name="fast_connect_device_headset_reset">박스의 리셋 버튼을 길게 누르세요</string>
+    <string name="fast_connect_device_headset_reset">박스의 리셋 버튼을 길게 누르세요.</string>
     <string name="fast_connect_device_title_connect_fail">"%1$s 연결 불가"</string>
     <string name="fast_connect_device_title_connecting">연결중...</string>
     <string name="fast_connect_device_title_find_headset">%1$s 발견</string>
     <string name="fast_connect_device_title_find_headset_others">"이 기기는 사용자의 기기가 아닌 것 같습니다: %1$s"</string>
     <string name="notify_fast_connect_device_group">헤드셋 자동 연결</string>
-    <string name="notify_fast_connect_device_text">화면을 잠금 해제 하시고 연결을 시도하세요</string>
+    <string name="notify_fast_connect_device_text">화면을 잠금 해제 하시고 연결을 시도하세요.</string>
     <string name="notify_fast_connect_device_title">%1$s 헤드셋 찾기</string>
     <string name="fast_connect_device_headset">배터리</string>
     <string name="fast_connect_nzbt_reset">전원을 끄는 동안 상단 버튼을 %1$s초 동안 누르고 있으세요.</string>
@@ -97,4 +105,7 @@
     <string name="mi_audio_relay_localphone">전화</string>
     <string name="mi_audio_relay_phone_name">샤오미 전화</string>
     <string name="mi_audio_relay_title">재생 기기 선택</string>
+    <string name="media_transfer_wired_usb_device_name">무선 헤드폰</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">기기가 곧 종료됩니다.</string>
+    <string name="power_remaining_duration_shutdown_imminent">기기가 곧 종료됩니다. (%1$s)</string>
 </resources>

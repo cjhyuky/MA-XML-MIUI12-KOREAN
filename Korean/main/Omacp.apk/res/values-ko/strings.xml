@@ -43,7 +43,7 @@
     <string name="install_timeout_error_msg">설치 오류.</string>
     <string name="re_install_notify_message">애플리케이션의 현재 설정이 덮어씌여집니다. 계속하시겠습니까?</string>
     <string name="re_install_notify_title">확인</string>
-    <string name="unlock_pin_dialog_title">PIN을 입력하십시오</string>
+    <string name="unlock_pin_dialog_title">PIN을 입력하세요.</string>
     <string name="detail_activity_label">설정 세부사항</string>
     <string name="bookmark_label">"URL: "</string>
     <string name="homepage_label">"홈 페이지: "</string>

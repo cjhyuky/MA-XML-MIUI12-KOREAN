@@ -6,11 +6,11 @@
     <string name="too_much_file_sent">한 번에 최대 %1$s 개의 파일</string>
     <string name="panu_no_need_connect">Wi-Fi에 연결되어 있는 동안 블루투스 테더링을 사용할 수 없습니다.</string>
     <string name="panu_disconnect_while_wifi_connected">블루투스 테더링 연결이 끊김</string>
-    <string name="notify_need_on_BT_before_retry">블루투스가 꺼졌습니다. 보내기를 다시 시도하기 전에 블루투스를 사용으로 설정하십시오</string>
+    <string name="notify_need_on_BT_before_retry">블루투스가 꺼졌습니다. 보내기를 다시 시도하기 전에 블루투스를 사용으로 설정하세요.</string>
     <string name="sim_selected_dialog_title">SIM 선택</string>
     <string name="empty_sub_name">SIM 슬롯 %1$d</string>
     <string name="suggested">제안</string>
-    <string name="bluetooth_busy">블루투스가 사용 중입니다. 나중에 다시 시도하십시오</string>
+    <string name="bluetooth_busy">블루투스가 사용 중입니다. 나중에 다시 시도하세요.</string>
     <string name="permlab_bluetoothShareManager">다운로드 관리자에 액세스합니다.</string>
     <string name="permdesc_bluetoothShareManager">앱에서 BluetoothShare 관리자에 액세스하고 이를 사용하여 파일을 전송할 수 있도록 합니다.</string>
     <string name="permlab_bluetoothWhitelist">블루투스 기기에 액세스하도록 허용합니다.</string>
@@ -164,7 +164,7 @@
     <string name="bluetooth_sap_notif_disconnect_button">연결 해제</string>
     <string name="bluetooth_sap_notif_disconnecting">상대 기기의 연결을 해제를 기다리는 중</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">강제로 연결 해제</string>
-    <string name="bluetooth_sap_notif_message">연결 해제를 요청할까요?</string>
+    <string name="bluetooth_sap_notif_message">연결 해제를 요청하시겠습니까?</string>
     <string name="bluetooth_sap_notif_ticker">블루투스 SIM 접근</string>
     <string name="bluetooth_sap_notif_title">블루투스 SIM 접근</string>
     <string name="empty_file_notification_sent">블루투스 공유: %1$s 파일 거부됨</string>
@@ -211,9 +211,9 @@
     <string name="opp_notification_group">블루투스 공유</string>
     <string name="pbap_notification_group">블루투스 연락처 공유</string>
     <string name="bluetooth_advanced_feat_description">블루투스 고급 브라우징 기능</string>
-    <string name="bluetooth_opp_file_limit_exceeded">4GB 보다 큰 파일은 옮길 수 없습니다</string>
-    <string name="bluetooth_rc_feat_content">피어는 고급기능을 지원합니다</string>
-    <string name="bluetooth_rc_feat_subtext">피어에서 다시 페어링하여 사용하도록 설정하십시오</string>
+    <string name="bluetooth_opp_file_limit_exceeded">4GB 보다 큰 파일은 옮길 수 없습니다.</string>
+    <string name="bluetooth_rc_feat_content">피어는 고급기능을 지원합니다.</string>
+    <string name="bluetooth_rc_feat_subtext">피어에서 다시 페어링하여 사용하도록 설정하세요.</string>
     <string name="bluetooth_rc_feat_title">블루투스 미디어 브라우징</string>
     <string name="avrcp_notification_name">BT 고급 기능 AVRCP</string>
     <string name="bluetooth_a2dp_sink_queue_name">지금 재생중</string>

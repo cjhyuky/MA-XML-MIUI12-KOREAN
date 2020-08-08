@@ -40,13 +40,13 @@
     <string name="xl_speedup_experience_notify_context">Xunlei 멤버가 되시면 다운로드 속도가 가속됩니다.</string>
     <string name="xl_speedup_notify_button_experience">무료 체험</string>
     <string name="xl_speedup_notify_button_member">멤버 되기</string>
-    <string name="notify_disabled_net_by_app">인터넷 연결이 보안 앱에 의해 제한되었습니다</string>
+    <string name="notify_disabled_net_by_app">인터넷 연결이 보안 앱에 의해 제한되었습니다.</string>
     <string name="notify_only_wifi_download">Wi-Fi를 기다리는 중</string>
     <string name="notify_install_guide_title">%s 설치 성공</string>
     <string name="notify_install_guide_msg">설치 성공</string>
     <string name="notify_install_guide_forward_text">열기</string>
     <string name="dialog_data_limit_title">데이터 사용량 경고</string>
-    <string name="dialog_data_limit_msg1">이 파일 다운로드에 %s의 모바일 데이터가 소모될 것입니다. 지금 다운로드 하시겠습니까?</string>
+    <string name="dialog_data_limit_msg1">이 파일 다운로드에 %s의 모바일 데이터가 소모될 것입니다. 지금 다운로드하시겠습니까?</string>
     <string name="dialog_data_limit_msg3">제한 변경</string>
     <string name="dialog_data_limit_button1">Wi-Fi 대기</string>
     <string name="dialog_data_limit_button2">지금 다운로드</string>
@@ -76,11 +76,11 @@
     <string name="notification_need_wifi_for_size">크기가 너무 커서 Wi-Fi로 다운로드해야 합니다.</string>
     <string name="notification_paused_in_background">백그라운드에서 일시중지되었습니다.</string>
     <string name="wifi_required_title">너무 커서 운영자 네트워크로 다운로드할 수 없습니다.</string>
-    <string name="wifi_required_body" formatted="false">"%s  다운로드를 완료하려면 Wi-Fi를 사용해야 합니다.
+    <string name="wifi_required_body" formatted="false">"%s    다운로드를 완료하려면 Wi-Fi를 사용해야 합니다.
 
 다음에 Wi-Fi 네트워크에 연결했을 때 다운로드하려면 %s을 터치하세요."</string>
-    <string name="wifi_recommended_title">나중에 다운로드하도록 대기 하시겠습니까?</string>
-    <string name="wifi_recommended_body" formatted="false">"지금 %s  크기의 파일을 다운로드하면 배터리 수명이 단축되거나 모바일 데이터 연결 사용량이 초과될 수 있습니다. 이로 인해 데이터 요금제에 따라 이동통신사에서 요금을 부과할 수 있습니다.
+    <string name="wifi_recommended_title">나중에 다운로드하도록 대기하시겠습니까?</string>
+    <string name="wifi_recommended_body" formatted="false">"지금 %s    크기의 파일을 다운로드하면 배터리 수명이 단축되거나 모바일 데이터 연결 사용량이 초과될 수 있습니다. 이로 인해 데이터 요금제에 따라 이동통신사에서 요금을 부과할 수 있습니다.
 
 다음에 Wi-Fi 네트워크에 연결되었을 때 다운로드하려면 아래의 %s을 터치하세요."</string>
     <string name="button_queue_for_wifi">대기열</string>
@@ -109,7 +109,7 @@
     <string name="terabyteShort">TB</string>
     <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
     <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
-    <string name="common_google_play_services_unknown_issue">%1$s 앱이 구글 플레이 서비스와 충돌하고 있습니다. 다시 시도해 주세요.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google 플레이 서비스와 충돌하고 있습니다. 다시 시도해 주세요.</string>
     <string name="channel_active">다운로드중</string>
     <string name="channel_complete">다운로드 완료</string>
     <string name="channel_insufficient_space">공간 부족</string>

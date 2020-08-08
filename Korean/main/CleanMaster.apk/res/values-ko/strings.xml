@@ -102,7 +102,7 @@
     <string name="apk_status_damage">손상되었음</string>
     <string name="cache_title_empty_folder">비어 있는 폴더(%d)</string>
     <string name="cache_title_empty_folder2">비어 있는 폴더</string>
-    <string name="dialog_msg_check_all">%2$d개의 항목을 포함하는 %1$s개를 선택했는지 확인하십시오.</string>
+    <string name="dialog_msg_check_all">%2$d개의 항목을 포함하는 %1$s개를 선택했는지 확인하세요.</string>
     <string name="dialog_title_check_all">모두 선택</string>
     <string name="hints_garbage_handle_item_content">%1$d개의 항목, %2$s개</string>
     <string name="hints_garbage_handle_item_empty_content">비어있음</string>
@@ -185,7 +185,7 @@
     <string name="activity_title_cache_data">앱 데이터</string>
     <string name="deepclean_cache_header_left">데이터 파일: %d</string>
     <string name="notification_title_of_garbage_cleanup">%s 크기의 쓰레기 청소</string>
-    <string name="notification_summary_of_garbage_cleanup">청소하지 않은 쓰레기가 있습니다</string>
+    <string name="notification_summary_of_garbage_cleanup">청소하지 않은 쓰레기가 있습니다.</string>
     <string name="notification_summary_after_auto_cleanup">%s 청소 완료</string>
     <string name="toast_uninstall_success">설치 제거 완료</string>
     <string name="toast_app_no_residual_on_sdcard">앱은 SD 카드에 어떤 파일도 저장하지 않습니다.</string>
@@ -241,7 +241,7 @@
     <string name="activity_title_privacy_cache">개인 정보 캐시</string>
     <string name="privacy_clipboard_type">클립보드</string>
     <string name="privacy_clipboard_desc">클립보드 내용</string>
-    <string name="privacy_search_type">구글 검색</string>
+    <string name="privacy_search_type">Google 검색</string>
     <string name="privacy_search_desc">기록 검색</string>
     <string name="privacy_app_desc">계정 및 비밀번호</string>
     <string name="privacy_app_desc_message">계정, 비밀번호, 메시지</string>
@@ -282,7 +282,7 @@
     <string name="garbage_month">이번 달 %s 청소됨</string>
     <string name="garbage_clean_detail">세부사항</string>
     <string name="there_is_no">모든것이 좋습니다. 나중에 또 봐요.</string>
-    <string name="no_network">네트워크에 연결 할 수 없습니다. 나중에 다시 시도해 주십시오.</string>
+    <string name="no_network">네트워크에 연결 할 수 없습니다. 나중에 다시 시도해 주세요.</string>
     <string name="back">뒤로 가기</string>
     <string name="total_clean">총 청소됨: %s</string>
     <string name="toast_network_switch">이 앱을 인터넷에 연결할 수 있습니다.</string>
@@ -301,27 +301,27 @@
     <string name="clear_bigfiles">큰 파일, 중복 사진, 기타 사용하지 않는 항목 삭제</string>
     <string name="clear_immediately">지금 청소</string>
     <string name="clear_safe_notify">드롭 다운 메뉴 위젯</string>
-    <string name="nb_clear_set">알림창에서 캐시 정리와 배터리, 차단목록 정보를 볼 수있습니다</string>
+    <string name="nb_clear_set">알림창에서 캐시 정리와 배터리, 차단목록 정보를 볼 수있습니다.</string>
     <string name="seton_immediately">켜기</string>
-    <string name="notify_when">쓰레기 용량이 100MB에 도달했을때 알림을 받습니다</string>
+    <string name="notify_when">쓰레기 용량이 100MB에 도달했을때 알림을 받습니다.</string>
     <string name="goto_set">설정</string>
     <string name="virus_scan">바이러스 스캔</string>
-    <string name="tips_of_virus_scan">기기를 정기적으로 스캔하여 보안을 유지하십시오</string>
+    <string name="tips_of_virus_scan">기기를 정기적으로 스캔하여 보안을 유지하세요.</string>
     <string name="conn_of_function_safe">보안 네트워크 연결</string>
-    <string name="tips_of_connect">보안 전체 기능을 사용하려면 인터넷에 연결하십시오</string>
+    <string name="tips_of_connect">보안 전체 기능을 사용하려면 인터넷에 연결하세요.</string>
     <string name="buy_traffic_pack">더 많은 데이터 구매</string>
-    <string name="tips_of_traffic_pack_threshold">당신이 트래픽 한계에 도달했을 때 더 많은 데이터를 구매해 주십시오</string>
+    <string name="tips_of_traffic_pack_threshold">사용자가 트래픽 한계에 도달했을 때 더 많은 데이터를 구매해 주세요.</string>
     <string name="buy_immediately">구매</string>
     <string name="title_of_auto_launch_manage">자동 시작</string>
-    <string name="tips_of_auto_launch_manage">사용하지 않는 앱이 자동시작되는 것을 방지하십시오</string>
+    <string name="tips_of_auto_launch_manage">사용하지 않는 앱이 자동시작되는 것을 방지하세요.</string>
     <string name="title_of_app_manage">앱</string>
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
     <string name="title_of_traffic_notification">데이터 상태창</string>
-    <string name="tips_of_traffic_notification">알림창에서 모바일 데이터의 통계를 보십시오</string>
+    <string name="tips_of_traffic_notification">알림창에서 모바일 데이터의 통계를 보세요.</string>
     <string name="title_of_package_set">데이터 플랜 설정</string>
-    <string name="tips_of_package_set">당신의 데이터 플랜을 설정하고 사용하는 트래픽의 양을 제어하십시오</string>
+    <string name="tips_of_package_set">사용자의 데이터 플랜을 설정하고 사용하는 트래픽의 양을 제어하세요.</string>
     <string name="title_of_garbage_cloud_scan">클라우드 스캔</string>
-    <string name="tips_of_garbage_cloud_scan">클라우드를 스캔해 숨겨진 쓰레기를 찾습니다</string>
+    <string name="tips_of_garbage_cloud_scan">클라우드를 스캔해 숨겨진 쓰레기를 찾습니다.</string>
     <string name="title_of_operators_set">통신사 설정</string>
     <string name="tips_of_operators_set">자동으로 데이터 사용 통계 조정</string>
     <string name="set_immediately">설정</string>
@@ -330,7 +330,7 @@
     <string name="title_of_garbage_data_set">클리너 데이터베이스 업데이트</string>
     <string name="tips_of_garbage_data_set">클리너 데이터베이스 업데이트를 통해서 기기 안의 더 많은 쓰레기를 찾습니다.</string>
     <string name="title_of_cloud_service">클라우드 서비스</string>
-    <string name="tips_of_cloud_service">Mi 계정으로 가입해서 더 많은 Mi 서비스를 사용하십시오</string>
+    <string name="tips_of_cloud_service">Mi 계정으로 가입해서 더 많은 Mi 서비스를 사용하세요.</string>
     <string name="login_immediately">가입하기</string>
     <string name="button_text_install_now">설치</string>
     <string name="total_clean_text">제거</string>
@@ -376,7 +376,7 @@
     <string name="hints_video_download">다운로드된 동영상</string>
     <string name="hints_video_camera">캡쳐된 동영상</string>
     <string name="summary_delete_video">선택된 동영상을 영구적으로 삭제하시겠습니까?</string>
-    <string name="empty_title_video">삭제할 동영상이 없습니다</string>
+    <string name="empty_title_video">삭제할 동영상이 없습니다.</string>
     <string name="information_setting">추천</string>
     <string name="load_only_under_wlan">Wi-Fi만 사용하여 불러오기</string>
     <string name="recommend_news">추천 항목 수신</string>
@@ -386,7 +386,7 @@
     <string name="dialog_msg_esc_cleanmaster">스캔을 중지하시겠습니까?</string>
     <string name="pref_category_title_engine_settings">스캔 엔진 설정</string>
     <string name="pref_title_choose_engine">스캔 엔진 선택</string>
-    <string name="recommend_the_following">기기를 최대한 이용하려면 다음의 작업을 실행해 주십시오.</string>
+    <string name="recommend_the_following">기기를 최대한 이용하려면 다음의 작업을 실행해 주세요.</string>
     <string name="news_change">변경</string>
     <string name="long_click_dialog_title">알림</string>
     <string name="long_click_dialog_summary">길게 눌러 예외 사항 추가</string>
@@ -395,10 +395,10 @@
     <string name="deep_clean_completed_tips">제거 성공</string>
     <string name="deepclean_normal_item_summary_empty">모든 것이 괜찮습니다. 지워야할 것이 없습니다.</string>
     <string name="low_memory_clean_dialog_title">저장 공간 부족</string>
-    <string name="low_memory_clean_dialog_msg">먼저 최소 100MB의 파일을 지우십시오.</string>
+    <string name="low_memory_clean_dialog_msg">먼저 최소 100MB의 파일을 지우세요.</string>
     <string name="low_memory_clean_dialog_ok_button">확인</string>
     <string name="low_memory_warning_dialog_title">저장 공간 부족</string>
-    <string name="low_memory_warning_dialog_msg">저장 공간을 확보하시고 계속하십시오.</string>
+    <string name="low_memory_warning_dialog_msg">저장 공간을 확보하시고 계속하세요.</string>
     <string name="low_memory_warning_dialog_ok_button">지우기</string>
     <string name="low_memory_warning_dialog_cancel_button">취소</string>
     <string name="deep_clean_data_path_clean_title">캐시 지우기</string>
@@ -411,7 +411,7 @@
     <string name="ad_install_success_dialog_lunch">열기</string>
     <string name="deepclean_empty">모든 것이 좋아 보입니다!</string>
     <string name="scanning">스캔 중…</string>
-    <string name="buy_a_new_phone">저장 공간을 더 확보하십시오</string>
+    <string name="buy_a_new_phone">저장 공간을 더 확보하세요.</string>
     <string name="file">파일</string>
     <string name="output_videos">영상 내보내기</string>
     <string name="wechat_clean">WeChat 클리너</string>
@@ -420,17 +420,17 @@
     <string name="wechat_cache_files">WeChat 캐시</string>
     <string name="qq_cache_files">QQ 캐시</string>
     <string name="wechat_qq_chat_files">채팅 기록</string>
-    <string name="wechat_chat_clean_done">모두 좋아 보입니다</string>
+    <string name="wechat_chat_clean_done">모두 좋아 보입니다.</string>
     <string name="analying">분석 중…</string>
-    <string name="open_file_error">이 파일을 열 수 있는 앱을 찾지 못했습니다</string>
+    <string name="open_file_error">이 파일을 열 수 있는 앱을 찾지 못했습니다.</string>
     <string name="location_not_found">파일을 찾을 수 없음</string>
     <string name="delete_confirm">삭제</string>
     <string name="delete_confirm_msg">선택한 파일을 영구적으로 삭제하시겠습니까?</string>
     <string name="wechat_clean_stop_confirm">스캔을 중지하시겠습니까?</string>
     <string name="wechat_clean_stop_confirm_msg">지금 스캔을 중지하시겠습니까?</string>
-    <string name="wechat_clean_exit_confirm">종료할까요?</string>
-    <string name="wechat_clean_exit_confirm_msg">지금 스캔을 중지하고 종료할까요?</string>
-    <string name="qq_clean_exit_confirm_msg">지금 스캔을 중지하고 종료할까요?</string>
+    <string name="wechat_clean_exit_confirm">종료하시겠습니까?</string>
+    <string name="wechat_clean_exit_confirm_msg">지금 스캔을 중지하고 종료하시겠습니까?</string>
+    <string name="qq_clean_exit_confirm_msg">지금 스캔을 중지하고 종료하시겠습니까?</string>
     <string name="wechat_chat_data_type_normal">쓰레기</string>
     <string name="wechat_chat_data_type_normal_desc">삭제하더라도 사용에는 영향을 주지않습니다.</string>
     <string name="wechat_chat_data_type_normal_clean_tips">기술 파일입니다. 삭제하더라도 사용에 영향을 주지 않습니다.</string>
@@ -439,7 +439,7 @@
     <string name="wechat_chat_data_type_chat">채팅 기록</string>
     <string name="wechat_chat_data_type_chat_desc">채팅 기록을 복구할 수 없습니다.</string>
     <string name="wechat_chat_data_type_other">기타</string>
-    <string name="wechat_chat_data_type_other_desc">주의하십시오. 삭제한 후에는 이 파일을 복구하지 못할 수 있습니다.</string>
+    <string name="wechat_chat_data_type_other_desc">주의하세요. 삭제한 후에는 이 파일을 복구하지 못할 수 있습니다.</string>
     <string name="qq_data_type_normal">쓰레기</string>
     <string name="qq_data_type_normal_desc">삭제하더라도 사용에는 영향을 주지않습니다.</string>
     <string name="qq_data_type_normal_clean_tips">기술 파일입니다. 삭제하더라도 사용에 영향을 주지 않습니다.</string>
@@ -448,7 +448,7 @@
     <string name="qq_data_type_chat">채팅 기록</string>
     <string name="qq_data_type_chat_desc">채팅 기록을 복구할 수 없습니다.</string>
     <string name="qq_data_type_other">기타</string>
-    <string name="qq_data_type_other_desc">주의하십시오. 삭제한 후에는 이 파일을 복구하지 못할 수 있습니다.</string>
+    <string name="qq_data_type_other_desc">주의하세요. 삭제한 후에는 이 파일을 복구하지 못할 수 있습니다.</string>
     <string name="wechat_copy_to_gallery">갤러리로 내보내기</string>
     <string name="wechat_copying_video">내보내는 중…</string>
     <string name="wechat_copy_video_failed_dialog_title">내보낼 수 없습니다.</string>
@@ -456,15 +456,15 @@
     <string name="wechat_copying_video_dialog_title">갤러리로 내보내기</string>
     <string name="wechat_copying_video_dialog_msg">파일이 이 폴더에 저장됩니다: %s</string>
     <string name="wechat_copying_video_dialog_checkbox">내보낸 후 파일 삭제</string>
-    <string name="wechat_copying_video_empty">내보낼 동영상이 없습니다</string>
-    <string name="wechat_content_empty">내보낼 파일이 없습니다</string>
-    <string name="wechat_content_bad_pic_file">파일이 손상됐습니다</string>
+    <string name="wechat_copying_video_empty">내보낼 동영상이 없습니다.</string>
+    <string name="wechat_content_empty">내보낼 파일이 없습니다.</string>
+    <string name="wechat_content_bad_pic_file">파일이 손상됐습니다.</string>
     <string name="main_title_filesize">%1$s 쓰레기</string>
     <string name="file_not_found">파일을 찾을 수 없음</string>
     <string name="app_usage_never">최근 사용되지 않음</string>
     <string name="app_usage_recently">최근 사용됨</string>
-    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>의 파일을 지울 수 있습니다. 더 많은 공간을 확보하십시오.</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>의 WeChat 캐시를 지울 수 있습니다. 더 많은 공간을 확보하십시오.</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>의 파일을 지울 수 있습니다. 더 많은 공간을 확보하세요.</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>의 WeChat 캐시를 지울 수 있습니다. 더 많은 공간을 확보하세요.</Data>" "</string>
     <string name="resutl_function_qq_clean_summary">" "<Data>QQ의 &lt;font color=#ff0000 >%1$s&lt;/font> 캐시를 청소할 수 있습니다.;</Data>" "</string>
     <string name="app_description_title">클리너 정보</string>
     <string name="app_description_content">클리너는 기기 안의 쓰레기를 정리하여 여유 저장 공간을 확보하게 해줍니다. 앱을 삭제하시면 이 기능을 사용할 수 없게 된다는 것을 아셔야 합니다.</string>
@@ -486,7 +486,7 @@
     <string name="cd_sort_type">정렬 방식</string>
     <string name="clip_board_history_desc">복사된 컨텐츠</string>
     <string name="clipboard">클립보드</string>
-    <string name="phone_search">구글 검색</string>
+    <string name="phone_search">Google 검색</string>
     <string name="privacy_appdata_chrome_history_des">방문한 웹사이트</string>
     <string name="name_debuglog_dir">Bsp 디버그 로그</string>
     <string name="unlike">취소</string>
@@ -527,7 +527,7 @@
     <string name="pref_title_auto_clean_operation">최적화 방법</string>
     <string name="pref_title_auto_clean_trigger">저장소 최적화</string>
     <string name="desc_image">사진</string>
-    <string name="guide_secure_dialog_message">기기 최적화 점수가 80점 이하입니다. 지금 최적화 하시겠습니까?</string>
+    <string name="guide_secure_dialog_message">기기 최적화 점수가 80점 이하입니다. 지금 최적화하시겠습니까?</string>
     <string name="guide_secure_dialog_negative">취소</string>
     <string name="guide_secure_dialog_positive">최적화</string>
     <string name="guide_secure_dialog_title">성능 최적화</string>
@@ -537,7 +537,7 @@
     <string name="guide_virus_dialog_title">바이러스 스캔</string>
     <string name="mainbtn_text_no_trash">건너뛰기</string>
     <string name="clean_long_msg">"%1$d개의 파일을 청소중입니다, %2$d개 완료됨. 
-초당 %3$d%%개의 항목을 처리중입니다, 남은시간:%4$s"</string>    
+초당 %3$d%%개의 항목을 처리중입니다, 남은시간:%4$s"</string> 
     <string name="tips_low_storage_dialog_cancel">취소</string>
     <string name="tips_low_storage_dialog_msg_qq">QQ 캐시 크기가 3GB에 도달했습니다. 장치 속도가 느려질 수 있습니다. 지금 QQ 캐시 파일을 정리하시겠습니까?</string>
     <string name="tips_low_storage_dialog_msg_storage">"저장소 용량의 90%를 사용하고 있습니다. 사용하지 않는 앱을 제거합니다."</string>
@@ -545,10 +545,10 @@
     <string name="tips_low_storage_dialog_ok">정리</string>
     <string name="tips_low_storage_dialog_ok_storage">사용 가능한 저장소 용량</string>
     <string name="tips_low_storage_dialog_title">저장소 용량이 부족합니다.</string>
-    <string name="close_debug_mode">디버그 스위치를 끄려면 %1$d를 누르세요</string>
+    <string name="close_debug_mode">디버그 스위치를 끄려면 %1$d를 누르세요.</string>
     <string name="junk_tag_RF_EmptyFolders">비어 있는 폴더</string>
     <string name="junk_tag_RF_ImageThumbnails">갤러리 썸네일</string>
-    <string name="open_debug_mode">디버그 스위치를 실행하려면 %1$d를 누르세요</string>
+    <string name="open_debug_mode">디버그 스위치를 실행하려면 %1$d를 누르세요.</string>
     <string name="pref_about_version_summary">버전 %s</string>
     <string name="pref_title_about">정보</string>
     <string name="pref_title_about_server_environment">네트워크 환경</string>
@@ -583,7 +583,7 @@
     <string name="whatsapp_group_gif">GIF</string>
     <string name="clean_summary">%1$s 청소됨</string>
     <string name="memory_clean_icon_text">메모리 정리</string>
-    <string name="memory_clean_no_trash_tip">모든 상태가 좋습니다</string>
+    <string name="memory_clean_no_trash_tip">모든 상태가 좋습니다.</string>
     <string name="onekeyclean_boost_available">%s 가능함</string>
     <string name="onekeyclean_boost_cleaned">%s 청소됨</string>
     <string name="onekeyclean_boosted_title">청소 완료</string>
@@ -595,7 +595,7 @@
     <string name="menu_open">열기</string>
     <string name="promotion">광고</string>
     <string name="toast_updater_close_4g_text">"모바일 데이터(4G)로 앱을 업데이트할 수 없습니다"</string>
-    <string name="toast_updater_open_4g_text">모바일 데이터(4G)로 앱을 업데이트할 수 있습니다</string>
+    <string name="toast_updater_open_4g_text">모바일 데이터(4G)로 앱을 업데이트할 수 있습니다.</string>
     <string name="update_date_format">yyyy/MM/dd</string>
     <string name="cd_scanning">스캔</string>
     <string name="app_clean_group_document_recv">받은 파일</string>
@@ -611,15 +611,15 @@
     <string name="facebook_group_gif">움직이는 GIF</string>
     <string name="facebook_group_image">이미지</string>
     <string name="facebook_group_video">비디오</string>
-    <string name="facebook_function_summery">페이스북 캐시를 정리합니다</string>
+    <string name="facebook_function_summery">페이스북 캐시를 정리합니다.</string>
     <string name="facebook_function_title">페이스북 클리너</string>
-    <string name="security_center_slogan">기기를 빠르고 안전하게 유지하세요</string>
-    <string name="notification_garbage_cleanup_summary">휴지통(%s)을 비워서 기기의 속도를 높이세요</string>
+    <string name="security_center_slogan">기기를 빠르고 안전하게 유지하세요.</string>
+    <string name="notification_garbage_cleanup_summary">휴지통(%s)을 비워서 기기의 속도를 높이세요.</string>
     <string name="notification_garbage_cleanup_title">휴지통 파일 삭제</string>
-    <string name="notification_low_memory_cache_summary">남은 저장공간이 1.5GB이하입니다</string>
+    <string name="notification_low_memory_cache_summary">남은 저장공간이 1.5GB이하입니다.</string>
     <string name="notification_low_memory_cache_title">캐시 정리</string>
-    <string name="notification_low_memory_deepclean_summary">정밀 청소로 기기의 저장공간을 확보할 수 있습니다</string>
-    <string name="notification_low_memory_deepclean_title">저장 공간이 부족합니다</string>
+    <string name="notification_low_memory_deepclean_summary">정밀 청소로 기기의 저장공간을 확보할 수 있습니다.</string>
+    <string name="notification_low_memory_deepclean_title">저장 공간이 부족합니다.</string>
      <string name="dc_activity_title">정밀 청소</string>
      <string name="dc_advise_delete">빈 공간 확보</string>
      <string name="dc_group_title_appclean">앱</string>
@@ -638,10 +638,10 @@
      <string name="dc_item_title_wechat_chat">위챗 기록 지우기</string>
      <string name="dc_storage_cleaned">%s 사용 가능</string>
      <string name="dc_storage_info">%1$s 사용 가능 | 총 %2$s</string>
-     <string name="guide_dc_dialog_message">"사용 가능한 저장 공간이 2GB 미만입니다. 기기 속도가 느려질 수 있습니다. 저장 공간을 확보하기 위해 철저하게 정리하십시오."</string>
+     <string name="guide_dc_dialog_message">"사용 가능한 저장 공간이 2GB 미만입니다. 기기 속도가 느려질 수 있습니다. 저장 공간을 확보하기 위해 철저하게 정리하세요."</string>
      <string name="guide_dc_dialog_negative">취소</string>
      <string name="guide_dc_dialog_positive">확인</string>
-     <string name="guide_dc_dialog_title">저장 용량이 부족합니다</string>
+     <string name="guide_dc_dialog_title">저장 용량이 부족합니다.</string>
     <string name="appcleaner_g_audio_summary_qq">QQ 음성 메시지를 영구적으로 삭제</string>
     <string name="appcleaner_g_audio_summary_wechat">WeChat 음성 메시지를 영구적으로 삭제</string>
     <string name="appcleaner_g_audio_title_qq">QQ 음성 메시지 클리너</string>
@@ -679,8 +679,8 @@
     <string name="appcleaner_result_dc_card_title">추가 저장 공간 확보</string>
     <string name="appcleaner_wechat_clean_summary">WeChat에서 불필요한 항목 삭제</string>
     <string name="appcleaner_wechat_clean_title">앱 클리너</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">저장 공간을 확보하기 위해 WeChat 캐시의 %s를 지 웁니다</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_title">"캐시를 지우는 것을 잊지 마십시오"</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">저장 공간을 확보하기 위해 WeChat 캐시의 %s를 지 웁니다.</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_title">"캐시를 지우는 것을 잊지 마세요"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">WeChat 캐시를 지우라는 알림</string>
     <string name="appcleaner_wechat_pref_time_every_day">매일</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">매 15일마다</string>
@@ -713,7 +713,7 @@
     <string name="global_wa_main_header_cleaning_hints">WhatsApp Cleaner가 기기의 공간을 확보하고 있습니다.</string>
     <string name="global_wa_main_header_scanning_hints">WhatsApp Cleaner가 장치를 검색하고 있습니다.</string>
     <string name="global_wa_main_item_desc_cache">"캐시를 지우더라도 일반적인 사용에는 영향을 미치지 않습니다"</string>
-    <string name="global_wa_main_item_desc_chat">다음 페이지에서 첨부 파일을 살펴볼 수 있습니다</string>
+    <string name="global_wa_main_item_desc_chat">다음 페이지에서 첨부 파일을 살펴볼 수 있습니다.</string>
     <string name="global_wa_main_item_title_cache">앱 캐시</string>
     <string name="global_wa_main_item_title_chat">첨부 파일</string>
     <string name="global_wa_main_stop_cancel">취소</string>
@@ -723,7 +723,7 @@
     <string name="global_wa_main_to_clean">지우기</string>
     <string name="global_wa_result_finish_hint_zero">사용 가능한 %s</string>
     <string name="global_wa_setting_alert_dialog_btn">열기</string>
-    <string name="global_wa_setting_alert_dialog_content">%s를 해제 할 수 있습니다</string>
+    <string name="global_wa_setting_alert_dialog_content">%s를 해제 할 수 있습니다.</string>
     <string name="global_wa_setting_alert_dialog_title">WhatsApp 클리너</string>
     <string name="global_wa_setting_alert_pref_category_title">WhatsApp 클리너 알림</string>
     <string name="global_wa_setting_alert_pref_size_title">휴지통 크기</string>
@@ -738,7 +738,7 @@
     <string name="global_wa_setting_other_pref_reconmmend_title">권장 사항</string>
     <string name="global_wa_setting_other_pref_shortcut_title">홈 화면 바로 가기</string>
     <string name="global_wa_setting_privacy_pref_category_title">개인 정보 보호</string>
-    <string name="global_wa_setting_privacy_pref_mi_title">Xiaomi 개인 정보 보호 정책</string>
+    <string name="global_wa_setting_privacy_pref_mi_title">샤오미 개인 정보 보호 정책</string>
     <string name="global_wa_setting_privacy_pref_third_title">타사 개인 정보 보호 정책</string>
     <string name="global_wa_shortcut_dialog_cancel">취소</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">"다시 표시하지 않음"</string>
@@ -797,7 +797,7 @@
     <string name="storage_app_list_activity_title">앱 세부정보</string>
     <string name="storage_app_list_desc">사용 공간: %s</string>
     <string name="storage_app_space_details_entry">앱 세부정보 보기</string>
-    <string name="storage_available_total_size">%2$s중  %1$s 사용가능</string>
+    <string name="storage_available_total_size">%2$s중    %1$s 사용가능</string>
     <string name="storage_deepclean_entry">딥 클린</string>
     <string name="storage_item_apk_name">APK</string>
     <string name="storage_item_appdata_name">앱과 데이터</string>
@@ -812,13 +812,13 @@
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
     <string name="clean_master_icon_recall_button_text">추가</string>
-    <string name="clean_master_icon_recall_dialog_button_negative">괜찮습니다</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">괜찮습니다.</string>
     <string name="clean_master_icon_recall_dialog_button_positive">추가</string>
-    <string name="clean_master_icon_recall_dialog_summary">필요할 때마다 휴지통을 지우려면 홈 화면 바로 가기를 추가하십시오.</string>
-    <string name="clean_master_icon_recall_dialog_title">휴지통을 더 빨리 지우십시오</string>
+    <string name="clean_master_icon_recall_dialog_summary">필요할 때마다 휴지통을 지우려면 홈 화면 바로 가기를 추가하세요.</string>
+    <string name="clean_master_icon_recall_dialog_title">휴지통을 더 빨리 지우세요.</string>
     <string name="clean_master_icon_recall_hint">홈 화면 바로 가기 추가</string>
-    <string name="clean_master_icon_recall_summary">언제든지 휴지통을 지우려면 홈 화면 바로 가기를 추가하십시오.</string>
-    <string name="clean_master_icon_recall_title">쓰레기를 더 빨리 지우십시오</string>
+    <string name="clean_master_icon_recall_summary">언제든지 휴지통을 지우려면 홈 화면 바로 가기를 추가하세요.</string>
+    <string name="clean_master_icon_recall_title">쓰레기를 더 빨리 지우세요.</string>
     <string name="clean_master_icon_recall_toast_text">청소기를 위한 홈 화면 바로 가기 추가</string>
     <string name="menu_text_optimize_manage_1">속도 부스트</string>
     <string name="notification_apk_clean_button_text">지우기</string>
@@ -830,14 +830,14 @@
     <string name="notification_low_storage_size_1.5_GB">저장 공간이 %.1fGB 미만</string>
     <string name="notification_low_storage_size_1.5_GB_btn">지우기</string>
     <string name="notification_low_storage_size_1.5_GB_hint">장치 속도를 높이기 위해 저장 공간 확보</string>
-    <string name="notification_low_storage_size_1_GB">저장 용량이 %dGB 미만입니다</string>
-    <string name="notification_low_storage_size_1_GB_hint">깊은 청소가 도움이 될 수 있습니다</string>
+    <string name="notification_low_storage_size_1_GB">저장 용량이 %dGB 미만입니다.</string>
+    <string name="notification_low_storage_size_1_GB_hint">깊은 청소가 도움이 될 수 있습니다.</string>
     <string name="notification_memory_clean_button_text">부스트</string>
     <string name="notification_memory_clean_hint">탭하여 속도 향상</string>
-    <string name="notification_memory_clean_used_size">메모리의 %s이(가) 사용되었습니다</string>
+    <string name="notification_memory_clean_used_size">메모리의 %s이(가) 사용되었습니다.</string>
     <string name="notification_uninstalled_clean_button_text">보기</string>
     <string name="notification_uninstalled_clean_with_name">잔여 %s 항목</string>
-    <string name="notification_uninstalled_clean_without_name">설치되지 않은 앱은 남은 항목을 남깁니다</string>
+    <string name="notification_uninstalled_clean_without_name">설치되지 않은 앱은 남은 항목을 남깁니다.</string>
     <string name="notification_whatsapp_clean_button_text">지우기</string>
-    <string name="notification_whatsapp_clean_size">WhatsApp 캐시가 %s에 도달했습니다</string>
+    <string name="notification_whatsapp_clean_size">WhatsApp 캐시가 %s에 도달했습니다.</string>
 </resources>

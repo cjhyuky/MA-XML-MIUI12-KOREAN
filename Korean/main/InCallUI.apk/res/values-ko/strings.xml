@@ -12,7 +12,7 @@
     <string name="callFailed_number_unreachable">번호 연결 불가</string>
     <string name="callFailed_invalid_credentials">올바르지 않은 사용자 이름 또는 비밀번호</string>
     <string name="callFailed_out_of_network">네트워크 외부에서 통화됨</string>
-    <string name="callFailed_server_error">서버 오류. 나중에 다시 시도하십시오.</string>
+    <string name="callFailed_server_error">서버 오류. 나중에 다시 시도하세요.</string>
     <string name="callFailed_noSignal">신호 없음</string>
     <string name="callFailed_limitExceeded">ACM 한도 초과</string>
     <string name="callFailed_powerOff">안테나 꺼짐</string>
@@ -67,13 +67,13 @@
     <string name="card_title_threeway_call">3자 통화</string>
     <string name="card_title_incoming_call">수신 통화</string>
     <string name="card_title_answering">통화 응답 중</string>
-    <string name="card_title_answering_time_out">"전화를 받을 수 없습니다. 다시 시도하십시오."</string>
+    <string name="card_title_answering_time_out">"전화를 받을 수 없습니다. 다시 시도하세요."</string>
     <string name="card_title_call_ended">"통화 종료됨 "</string>
     <string name="card_title_on_hold">"대기 중 "</string>
     <string name="card_title_hanging_up">"끊는 중 "</string>
     <string name="card_title_hanging_up_fail">통화 종료 실패, 다시 시도</string>
     <string name="card_title_hanging_up_weak_signal">모바일 네트워크 신호가 약합니다. 통화 종료 중</string>
-    <string name="card_title_hanging_up_restart">통화를 종료할 수 없습니다. 기기를 재부팅 하십시오.</string>
+    <string name="card_title_hanging_up_restart">통화를 종료할 수 없습니다. 기기를 다시 시작하세요.</string>
     <string name="card_title_in_call">통화 중</string>
     <string name="card_title_in_call_short">통화 중</string>
     <string name="card_title_in_video">동영상</string>
@@ -123,9 +123,9 @@
 "</string>
     <string name="pause_prompt_yes">예</string>
     <string name="pause_prompt_no">아니요</string>
-    <string name="waiting_close_airplane_mode">잠시만 기다려주십시오…</string>
+    <string name="waiting_close_airplane_mode">잠시만 기다려주세요…</string>
     <string name="unlock_phone">기기 잠금 해제</string>
-    <string name="remind_unlock_message">기기가 잠겼습니다. 기기를 잠금 해제하신 후 \"%s\"를 사용하실 수 있습니다. 지금 잠금 해제하시겠습니까?</string>
+    <string name="remind_unlock_message">기기가 잠겼습니다. 기기를 잠금 해제하신 후 \"%s\"를 사용할 수 있습니다. 지금 잠금 해제하시겠습니까?</string>
     <string name="user_locked_prompt">기기를 잠금 해제하여 연락처 접근</string>
     <string name="package_not_available">\"%s\" 를 사용할 수 없습니다.</string>
     <string name="select_voice_call_sim">SIM카드 선택</string>
@@ -144,14 +144,14 @@
     <string name="call_recording_notification_title_error">통화를 녹음하지 못했습니다.</string>
     <string name="call_recording_notification_message">터치하여 듣기.</string>
     <string name="call_recording_notification_message_low_storage">SD카드가 꽉 찼습니다.</string>
-    <string name="call_recording_notification_message_sd_unmounted">SD카드가 제거되었습니다</string>
-    <string name="call_recording_deny_permission_msg">녹음 권한을 거부하셨습니다. 녹음할 수 없습니다.</string>
-    <string name="call_contacts_deny_permission_msg">연락처 읽기 권한을 거부하셨습니다. 연락처 정보를 보여드릴 수 없습니다.</string>
+    <string name="call_recording_notification_message_sd_unmounted">SD카드가 제거되었습니다.</string>
+    <string name="call_recording_deny_permission_msg">녹음 권한을 거부하였습니다. 녹음할 수 없습니다.</string>
+    <string name="call_contacts_deny_permission_msg">연락처 읽기 권한을 거부하였습니다. 연락처 정보를 표시할 수 없습니다.</string>
     <string name="antispam_marked_count">%1$d명의 MIUI 사용자들이 신고</string>
     <string name="antispam_local_marked">로컬 표기</string>
     <string name="antispam_provider">%s명에게 확인</string>
     <string name="antispam_notification_title">알 수 없는 번호</string>
-    <string name="suspect_info">개인정보 유출을 조심하십시오.</string>
+    <string name="suspect_info">개인정보 유출을 조심하세요.</string>
     <string name="ivr_menu_list_title">음성 메뉴</string>
     <string name="ivr_menu_dialing_msg">착신전환 중…</string>
     <string name="ivr_menu_dialing_msg_no_mute">선택한 서비스로 이동…[자동 오류 수정 가능]</string>
@@ -162,8 +162,8 @@
     <string name="areacode_set_default">기본값으로 설정</string>
     <string name="default_area_code_setting">기본 지역 코드</string>
     <string name="not_activate_sim_card_content_title">전화번호 확인되지 않음</string>
-    <string name="not_activate_sim_card_content">전화번호 인증을 통해 충전 패키지를 사용하십시오. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과될 것입니다.</string>
-    <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s) 전화 인증을 통해 충전 패키지를 사용하십시오. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과될 것입니다.</string>
+    <string name="not_activate_sim_card_content">전화번호 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과될 것입니다.</string>
+    <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s) 전화 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과될 것입니다.</string>
     <string name="dialog_call_ordinary_telephone">일반 전화</string>
     <string name="dialog_activate_livetalk">인증 번호</string>
     <string name="no_balance_title">잔액 부족</string>
@@ -173,7 +173,7 @@
     <string name="not_support_message">충전 패키지가 이 번호를 지원하지 않습니다. 대신 일반 전화를 시도 할 수 있습니다.</string>
     <string name="livetalk_hangup">끊기</string>
     <string name="no_call_back_title">주의</string>
-    <string name="no_call_back_message">연결에 시간이 너무 많이 걸립니다. 일반 전화로 걸어보십시오. 통신사에 따라 요금이 부가될 것입니다.</string>
+    <string name="no_call_back_message">연결에 시간이 너무 많이 걸립니다. 일반 전화로 걸어보세요. 통신사에 따라 요금이 부가될 것입니다.</string>
     <string name="keep_wait_call_back">계속 기다리기</string>
     <string name="network_error_title">네트워크 오류</string>
     <string name="network_error_message">일반 전화를 겁니다. 비용은 운영자에게 부과 됩니다.</string>
@@ -195,8 +195,8 @@
     <string name="notification_incoming_video_call">영상 통화 수신 중</string>
     <string name="onscreen_message_text">메시지</string>
     <string name="onscreen_close_preview_camera">카메라 닫기</string>
-    <string name="video_call_not_allowed_if_tty_enabled">먼저 TTY 모드를 끄십시오.</string>
-    <string name="upgrade_vt_prompt">영상 통화로 전환할까요?</string>
+    <string name="video_call_not_allowed_if_tty_enabled">먼저 TTY 모드를 끄세요.</string>
+    <string name="upgrade_vt_prompt">영상 통화로 전환하시겠습니까?</string>
     <string name="conference_caller_name_me">나</string>
     <string name="incoming_answer_voice_text">음성 응답</string>
     <string name="picking_participant">연락처 정보 얻는 중…</string>
@@ -242,9 +242,9 @@
     <string name="purchase_now">충전</string>
     <string name="onscreen_rcs_text">메시지</string>
     <string name="change_to_voice_tips_when_background">상대방이 음성 전화로 전환하였습니다.</string>
-    <string name="accept_modify_call_request_prompt">전화 수정 요청을 받아드리시겠습니까?</string>
+    <string name="accept_modify_call_request_prompt">전화 수정 요청을 허용하시겠습니까?</string>
     <string name="modify_call_failure_str">"전화 수정 실패됨"</string>
-    <string name="modify_call_option_title">어떤 종류의 전화입니까?</string>
+    <string name="modify_call_option_title">어떤 종류의 전화인가요?</string>
     <string name="modify_call_option_voice">음성만</string>
     <string name="modify_call_option_vt_rx">비디오 받음</string>
     <string name="modify_call_option_vt_tx">비디오 전달</string>
@@ -258,7 +258,7 @@
     <string name="conference_call_recorder_title">회의 전화</string>
     <string name="description_message_list_title">빠른 답장 목록</string>
     <string name="volume_boost_text">볼륨 증폭 완료</string>
-    <string name="supp_service_notification_call_waiting">상대방이 통화중입니다. 잠시만 기다려 주십시오.</string>
+    <string name="supp_service_notification_call_waiting">상대방이 통화중입니다. 잠시만 기다려 주세요.</string>
     <string name="call_not_support_high_frequency_click">"이 버튼을 너무 자주 탭하지 마세요"</string>
     <string name="volte_call">VoLTE 통화</string>
     <string name="sim1_heduohao_card">서브1</string>
@@ -266,14 +266,14 @@
     <string name="sim3_heduohao_card">서브3</string>
     <string name="select_sim_hint_for_heduohao">"SIM %1$d 서브 %2$d 사용중에는 나머지는 사용할 수 없습니다."</string>
     <string name="select_one_sim_title_for_heduohao">SIM %1$d 서브 %2$d만 사용가능</string>
-    <string name="incall_bubble_hangup_click_hint">통화로 돌아가려면 다시 탭하세요</string>
+    <string name="incall_bubble_hangup_click_hint">통화로 돌아가려면 다시 탭하세요.</string>
     <string name="incoming_circle_text_video_answer">동영상으로 답장 공개</string>
     <string name="incoming_circle_text_video_answer_p">스와이프하여 영상통화 시작</string>
     <string name="manager_conference_done">완료</string>
     <string name="wifi_call">VoWifi 통화</string>
     <string name="ai_assistant">AI 통화 도우미</string>
-    <string name="ai_assistant_not_installed">AI 통화 도우미를 먼저 설치하세요</string>
+    <string name="ai_assistant_not_installed">AI 통화 도우미를 먼저 설치하세요.</string>
     <string name="enter_ai_assistant">사용</string>
-    <string name="enter_ai_assistant_tip">"지금 응답하기 어려운 경우 AI가 텍스트를 음성으로 변환할 수 있습니다. 이 통화에 AI를 사용하시겠습니까?"</string>
-    <string name="video_call_downgrade_insufficient_bandwidth">대역폭이 부족하여, 음성 통화로 변경합니다</string>
+    <string name="enter_ai_assistant_tip">"현재 사용자의 음성 전달이 어려운 경우, AI가 문자를 음성으로 변환하여 전달할 수 있습니다. 이 통화에 AI를 사용하시겠습니까?"</string>
+    <string name="video_call_downgrade_insufficient_bandwidth">대역폭이 부족하여, 음성 통화로 변경합니다.</string>
 </resources>
