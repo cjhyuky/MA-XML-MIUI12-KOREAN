@@ -70,8 +70,8 @@
     <string name="BLESet">설정</string>
     <string name="BLEStart">시작</string>
     <string name="BLEStop">중지</string>
-    <string name="블루투스">블루투스</string>
-    <string name="블루투스Title">블루투스</string>
+    <string name="Bluetooth">블루투스</string>
+    <string name="BluetoothTitle">블루투스</string>
     <string name="BT_start">시작</string>
     <string name="c2k_ir_dialog">알림</string>
     <string name="c2k_ir_done">완료</string>

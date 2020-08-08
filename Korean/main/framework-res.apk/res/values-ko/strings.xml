@@ -282,8 +282,8 @@
     <string name="permdesc_writeSms">앱이 휴대전화 또는 SIM 카드에 저장된 SMS 메시지에 쓸 수 있도록 허용합니다. 이 경우 악성 앱이 이 기능을 이용하여 메시지를 삭제할 수 있습니다.</string>
     <string name="permlab_receiveWapPush">문자 메시지 받기(WAP)</string>
     <string name="permdesc_receiveWapPush">앱이 WAP 메시지를 수신하고 처리할 수 있도록 허용합니다. 이는 앱이 사용자에게 표시하지 않고 기기로 전송된 메시지를 모니터링 또는 삭제할 수도 있다는 것을 의미합니다.</string>
-    <string name="permlab_receive블루투스Map">블루투스 메시지(MAP) 수신</string>
-    <string name="permdesc_receive블루투스Map">앱이 블루투스 MAP 메시지를 수신하고 처리하도록 허용합니다. 이는 앱이 나에게 보여주지 않고 내 기기에 전송된 메시지를 모니터링하거나 삭제할 수 있음을 의미합니다.</string>
+    <string name="permlab_receiveBluetoothMap">블루투스 메시지(MAP) 수신</string>
+    <string name="permdesc_receiveBluetoothMap">앱이 블루투스 MAP 메시지를 수신하고 처리하도록 허용합니다. 이는 앱이 나에게 보여주지 않고 내 기기에 전송된 메시지를 모니터링하거나 삭제할 수 있음을 의미합니다.</string>
     <string name="permlab_getTasks">실행 중인 앱 검색</string>
     <string name="permdesc_getTasks">앱이 현재 실행 중이거나 최근에 실행된 작업에 대한 정보를 검색할 수 있도록 허용합니다. 이 경우 앱이 기기에서 사용되는 다른 앱에 대한 정보를 검색할 수 있습니다.</string>
     <string name="permlab_startTasksFromRecents">최근 목록에서 작업 시작</string>
