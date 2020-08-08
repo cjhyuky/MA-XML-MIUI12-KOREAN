@@ -9631,7 +9631,7 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="accessibility_settings_tabs_general">일반</string>
     <string name="accessibility_settings_tabs_hearing">청각</string>
     <string name="accessibility_settings_tabs_physical">물리적</string>
-    <string name="accessibility_settings_tabs_visual">비전</string>
+    <string name="accessibility_settings_tabs_visual">시각</string>
     <string name="ai_call_assistant">AI 통화</string>
     <string name="hearing_aids_category">보조 도구 듣기</string>
     <string name="input_device_category">입력 장치</string>
@@ -9707,7 +9707,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="bt_absVolume_summary">블루투스 기기와 휴대전화의 볼륨의 일관성을 절대적으로 유지합니다.</string>
     <string name="custom_gesture_title">사용자 제스처</string>
     <string name="device_opcust_version">커스텀 버전</string>
-    <string name="launch_ai_shortcut">Mi AI 바로가기</string>
     <string name="launch_alipay_payment_code">알리페이 결제 코드</string>
     <string name="launch_alipay_scanner">알리페이 스캐너</string>
     <string name="launch_calculator">계산기</string>
