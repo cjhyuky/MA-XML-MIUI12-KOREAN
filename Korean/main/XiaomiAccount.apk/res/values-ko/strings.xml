@@ -188,7 +188,7 @@
     <string name="passport_account_set_password_prompt">다음에 로그인하기 위해 계정 비밀 번호를 설정하세요.</string>
     <string name="passport_set">설정</string>
     <string name="passport_user_reg_region">지역/로케일</string>
-    <string name="passport_user_reg_region_warning">"지역/로케일은 한번 선택하면 바꿀 수 없습니다."</string>
+    <string name="passport_user_reg_region_warning">"지역/로케일은 한 번 선택하면 바꿀 수 없습니다."</string>
     <string name="search_app_name">Mi 계정</string>
     <string name="search_mi_account">Mi 계정</string>
     <string name="search_mi_account_key_words">Mi 클라우드,계정 설정,Mi 페이 정보,로그아웃</string>
@@ -377,8 +377,8 @@
     <string name="delete_app">앱 삭제</string>
     <string name="delete_browser">브라우저 삭제</string>
     <string name="confirm_delete_device_message">이 기기를 삭제하신 후 Mi 계정</string>
-    <string name="confirm_delete_app_message">이 앱의 기록을 삭제하신 후 Mi 계정으로 다시 로그인하시려면 전화번호 인증을 하셔야 합니다.</string>
-    <string name="confirm_delete_browser_message">이 브라우저를 삭제하신 후 Mi 계정으로 다시 로그인하시려면 전화번호 인증을 하셔야 합니다.</string>
+    <string name="confirm_delete_app_message">이 앱의 기록을 삭제하신 후 Mi 계정으로 다시 로그인하시려면 전화번호 인증을 해야 합니다.</string>
+    <string name="confirm_delete_browser_message">이 브라우저를 삭제하신 후 Mi 계정으로 다시 로그인하시려면 전화번호 인증을 해야 합니다.</string>
     <string name="delete_lock_device_success">삭제 성공</string>
     <string name="verify_phone_title">전화번호 인증</string>
     <string name="verify_phone_prompt">전화번호 선택하여 인증</string>
@@ -393,7 +393,7 @@
 · 만약 비밀번호를 잊었다면 id.mi.com에서 재설정하세요.
 · 만약 기기의 잠금을 해제할 수 없다면 i.mi.com에서 기기 찾기를 꺼주세요.
 · 언락 코드 : %s"</string>
-    <string name="find_device_display_id">잠금 해제 코드: %s</string>
+    <string name="find_device_display_id">잠금해제 코드: %s</string>
     <string name="login_find_device_bind">이 기기는 이미 존재하는 Mi 계정 ID(%s) 와 연결되어 있습니다. 이 기기를 인증하시려면 비밀번호를 입력하세요.</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, 관련된 전화번호: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, 관련된 이메일 주소: %s</string>
@@ -449,7 +449,7 @@
     <string name="no_phone">전화번호 없음</string>
     <string name="passport_sync_account_data">계정 정보 동기화 중…</string>
     <string name="passport_sync_account_data_failed_warning">계정 정보가 동기화 중입니다. 전화번호나 이메일로 로그인하려면 동기화가 끝날때까지 기다려주세요.</string>
-    <string name="passport_user_id_notice">미 계정은 %s입니다.</string>
+    <string name="passport_user_id_notice">Mi 계정은 %s입니다.</string>
     <string name="phone_num_use_for">귀하의 전화번호는 다음에 사용됩니다:</string>
     <string name="set_success">성공적으로 변경됨</string>
     <string name="sign_in">로그인 중</string>
@@ -510,7 +510,7 @@ ID:%s
     <string name="exit">나가기</string>
     <string name="i_agree">확인</string>
     <string name="i_agree_continue">동의</string>
-    <string name="kr_license_desc">Mi계정과 Mi클라우드 서비스를 사용하시려면 사용자 동의와 개인정보 보호정책에 동의하셔야 합니다.</string>
+    <string name="kr_license_desc">Mi계정과 Mi클라우드 서비스를 사용하시려면 사용자 동의와 개인정보 보호정책에 동의해야 합니다.</string>
     <string name="kr_permission_contacts_desc">연락처 정보 읽기를 위한 권한</string>
     <string name="kr_permission_desc">권한 요구됨</string>
     <string name="kr_permission_phone_desc">계정 보호를 위한 권한</string>
@@ -565,7 +565,7 @@ ID:%s
     <string name="search_menu_title">검색</string>
     <string name="two_factor_auth">이중 인증</string>
     <string name="two_factor_auth_click_confirm">로그인 확인</string>
-    <string name="two_factor_auth_click_confirm_summary">"연결된 다른 Mi 기기에 알림이 표시됩니다. 알림을 누르면 새 기기에 로그인 할 수 있습니다."</string>
+    <string name="two_factor_auth_click_confirm_summary">"연결된 다른 Mi 기기에 알림이 표시됩니다. 알림을 누르면 새 기기에 로그인할 수 있습니다."</string>
     <string name="two_factor_auth_method">인증 방법</string>
     <string name="two_factor_auth_need_code">코드 입력</string>
     <string name="two_factor_auth_need_code_summary">"연결된 다른 Mi 기기에 코드가 표시됩니다. 로그인하려면 새 기기에 이 코드를 입력하세요."</string>
@@ -599,7 +599,7 @@ ID:%s
     <string name="passport_google_login">이전에 사용한 Google 계정으로 로그인하시겠습니까?</string>
     <string name="passport_google_login_agree">Google 계정</string>
     <string name="passport_google_login_disagree">내 계정</string>
-    <string name="passport_google_login_failed">"Google에 로그인 할 수 없습니다. Mi 계정에 직접 로그인하세요."</string>
+    <string name="passport_google_login_failed">"Google에 로그인할 수 없습니다. Mi 계정에 직접 로그인하세요."</string>
     <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="state_data_error">"데이터를 가져올 수 없습니다."</string>
     <string name="state_loading">잠시만 기다려주세요…</string>

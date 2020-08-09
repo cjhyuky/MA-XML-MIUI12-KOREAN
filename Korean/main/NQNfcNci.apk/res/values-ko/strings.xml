@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_nfc_enabled">NFC 활성화됨</string>
-    <string name="android_beam">안드로이드 빔</string>
+    <string name="android_beam">Android 빔</string>
     <string name="app_name">NFC 서비스</string>
     <string name="ask_nfc_tap">상대 기기를 탭하여 완료하기</string>
     <string name="beam_busy">처리중입니다. 이전 전송이 끝나면 다시 시도하세요.</string>
@@ -11,7 +11,7 @@
     <string name="beam_handover_not_supported">"상대 기기가 빔을 통한 대용량 파일 전송을 지원하지 않습니다."</string>
     <string name="beam_outgoing">전송중...</string>
     <string name="beam_progress">수신중...</string>
-    <string name="beam_requires_nfc_enabled">안드로이드 빔을 사용하기 위해서 NFC를 활성화해야 합니다. 지금 활성화하시겠습니까?</string>
+    <string name="beam_requires_nfc_enabled">Android 빔을 사용하기 위해서 NFC를 활성화해야 합니다. 지금 활성화하시겠습니까?</string>
     <string name="beam_tap_to_view">탭하여 보기</string>
     <string name="beam_try_again">기기를 다시 가까이 가져다 대세요.</string>
     <string name="cancel">취소</string>

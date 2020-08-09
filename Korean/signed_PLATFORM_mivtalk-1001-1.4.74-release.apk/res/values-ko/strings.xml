@@ -154,12 +154,12 @@
     <string name="chat_title">영상 통화</string>
     <string name="chat_voip_notification">알림</string>
     <string name="chat_voip_notification_message">부재중 통화</string>
-    <string name="check_access_camera_failed_message">"카메라에 액세스 할 수 없습니다, 카메라가 다른 응용 프로그램에 의해 점유 될 수 있습니다 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다."</string>
-    <string name="check_access_camera_failed_no_perm_message">"카메라에 액세스 할 수 없습니다, 카메라 권한, 시스템 설정에서 활성화하세요"</string>
-    <string name="check_access_camera_failed_title">"카메라에 연결 할 수 없습니다."</string>
-    <string name="check_access_microphone_failed_message">"마이크에 액세스 할 수 없습니다, 다른 앱이 사용중이거나 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다."</string>
-    <string name="check_access_microphone_failed_no_perm_message">"마이크에 액세스 할 수 없음은, 시스템 설정에서 활성화하세요 권한이 금지 된 기록 실패"</string>
-    <string name="check_access_microphone_failed_title">"마이크에 액세스 할 수 없습니다."</string>
+    <string name="check_access_camera_failed_message">"카메라에 액세스할 수 없습니다, 카메라가 다른 응용 프로그램에 의해 점유 될 수 있습니다 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다."</string>
+    <string name="check_access_camera_failed_no_perm_message">"카메라에 액세스할 수 없습니다, 카메라 권한, 시스템 설정에서 활성화하세요"</string>
+    <string name="check_access_camera_failed_title">"카메라에 연결할 수 없습니다."</string>
+    <string name="check_access_microphone_failed_message">"마이크에 액세스할 수 없습니다, 다른 앱이 사용중이거나 또는 기록 권한이 타사의 보안 소프트웨어에 의해 금지되어 있습니다."</string>
+    <string name="check_access_microphone_failed_no_perm_message">"마이크에 액세스할 수 없음은, 시스템 설정에서 활성화하세요 권한이 금지 된 기록 실패"</string>
+    <string name="check_access_microphone_failed_title">"마이크에 액세스할 수 없습니다."</string>
     <string name="check_camera_audio_message">카메라 권한이 필요합니다. 시스템설정을 열어서 설정해주세요.</string>
     <string name="check_camera_title">카메라 권한 열기</string>
     <string name="check_camera_video_message">계속 연락을 하시려면 카메라 설정을 열어야 합니다. 시스템 설정에서 열어주세요.</string>
@@ -410,7 +410,7 @@
     <string name="login_button">로그인</string>
     <string name="login_failed">로그인 실패</string>
     <string name="logining">등록</string>
-    <string name="logoff_for_update">버젼 업데이트, 다시 로그인하셔야 합니다!</string>
+    <string name="logoff_for_update">버젼 업데이트, 다시 로그인해야 합니다!</string>
     <string name="look_all_contacts">오른쪽으로 밀어서 연락처를 확인하세요.</string>
     <string name="loud_speaker">스피커폰</string>
     <string name="magic">마법 효과</string>
@@ -739,7 +739,7 @@
     <string name="smiley_nopackage_click_to_download">"(아직 Mi 모션페키지를 받지 않으셨습니다 (약 1M), 다운로드해주세요.)"</string>
     <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 사용자에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com"</string>
     <string name="sms_message_cannot_send">"이 기기는 문자메시지를 보낼수 없습니다."</string>
-    <string name="sns_unknown_error">알수없는 에러</string>
+    <string name="sns_unknown_error">알수 없는 에러</string>
     <string name="source_message">메시지</string>
     <string name="speaker">스피커</string>
     <string name="speaker_is_occupied">스피커가 사용중이라 이용할 수 없습니다.</string>
@@ -815,7 +815,7 @@
     <string name="type_incoming_call">수신전화</string>
     <string name="type_miss_call">부재중전화</string>
     <string name="type_outgoing_call">발신전화</string>
-    <string name="unknown_number">알수없는 번호</string>
+    <string name="unknown_number">알수 없는 번호</string>
     <string name="unlegal_ip_adress">불법IP주소</string>
     <string name="unread_calls">미확인 통화</string>
     <string name="unread_calls_count">%d 미확인 통화</string>
@@ -832,7 +832,7 @@
     <string name="update_toast_2">MIUI버젼을 %1$s 이상으로 업데이트하세요.</string>
     <string name="update_toast_3">이 기능을 사용하려면, 나중에 MIUI %1$s 이상으로 업데이트하세요.</string>
     <string name="update_toast_4">업데이트를 다운로드하기 위해 Wi-Fi 인터넷에 연결</string>
-    <string name="update_toast_5">"업데이트를 다운로드 할 수 없습니다."</string>
+    <string name="update_toast_5">"업데이트를 다운로드할 수 없습니다."</string>
     <string name="update_toast_6">"업데이트를 설치할 수 없습니다."</string>
     <string name="update_toast_7">"사용중인 MIUI버젼은 아직이 기능을 지원하지 않습니다."</string>
     <string name="update_toast_8">업데이트 하기위해 Wi-Fi 연결</string>
@@ -898,7 +898,7 @@
     <string name="voip_chat_invite_other">"음성통화 아직도 유료로 하시나요? 샤오미 사용자는 새버젼을 다운받아 무료로 저와 통화해 보세요"</string>
     <string name="voip_chat_missed_calls">부재중 통화</string>
     <string name="voip_chat_no_answer">응답없음</string>
-    <string name="voip_chat_ohters">알수없는 유형</string>
+    <string name="voip_chat_ohters">알수 없는 유형</string>
     <string name="voip_chat_remote_busy">통화중입니다.</string>
     <string name="voip_communication_break">통신 휴식</string>
     <string name="voip_connecting">접속중</string>

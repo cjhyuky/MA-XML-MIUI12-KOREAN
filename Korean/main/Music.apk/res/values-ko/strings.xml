@@ -151,7 +151,7 @@
     <string name="desktop_lyric_dialog_msg">뮤직 &gt; 설정 &gt; 고급 설정에서 홈 화면의 가사 켜기/끄기</string>
     <string name="desktop_lyric_dialog_positive_button">지금 시도</string>
     <string name="desktop_lyric_dialog_title">지금 시도</string>
-    <string name="desktop_lyric_lock_toast">잠겨 있습니다. 드롭 다운 메뉴에서 뮤직을 잠금 해제할 수 있습니다.</string>
+    <string name="desktop_lyric_lock_toast">잠겨 있습니다. 드롭 다운 메뉴에서 뮤직을 잠금해제할 수 있습니다.</string>
     <string name="desktop_lyric_setting_summary">홈 화면에 가사 보이기</string>
     <string name="desktop_lyric_setting_title">홈 화면 가사</string>
     <string name="desktop_lyric_textsize">텍스트</string>
@@ -164,7 +164,7 @@
     <string name="dialog_file_already_exists">다운로드 실패, 이 파일이 이미 존재합니다.</string>
     <string name="dialog_file_missing_body">다운로드된 파일을 찾을 수 없습니다.</string>
     <string name="dialog_file_missing_title">파일 열기 실패</string>
-    <string name="dialog_insufficient_space_on_cache">다운로드를 완료 할 수 없습니다. 내부 저장소에 충분한 공간이 없습니다.</string>
+    <string name="dialog_insufficient_space_on_cache">다운로드를 완료할 수 없습니다. 내부 저장소에 충분한 공간이 없습니다.</string>
     <string name="dialog_insufficient_space_on_external">다운로드를 끝내지 못함, SD 카드 공간 부족.</string>
     <string name="dialog_media_not_found">다운로드 실패, SD 카드를 사용할 수 없습니다.</string>
     <string name="dialog_queued_body">이 파일은 나중 다운로드를 위해 다운로드 목록에 추가되었습니다.</string>
@@ -210,7 +210,7 @@
     <string name="download_confirm_text">Mi 뮤직이 \"%s\" 어플을 다운로드 및 설치할 것입니다.</string>
     <string name="download_connect_wifi_dialog_message">이 노래를 다운 받으려면 Wi-Fi가 필요합니다. 지금 연결하시겠습니까?</string>
     <string name="download_connect_wifi_dialog_title">Wi-Fi에 연결</string>
-    <string name="download_dialog_fail">다운로드 할 수 없습니다.</string>
+    <string name="download_dialog_fail">다운로드할 수 없습니다.</string>
     <string name="download_dialog_success">성공적으로 다운로드되었습니다.</string>
     <string name="download_done_btn">다운로드됨</string>
     <string name="download_error">실패</string>
@@ -357,11 +357,11 @@
     <string name="home_tab_local">내 음악</string>
     <string name="home_tab_online">발견</string>
     <string name="hungama">헝가마</string>
-    <string name="hungama_batch_download_alert_summary">프로 멤버 만 여러 노래를 다운로드 할 수 있습니다. 지금 프로 멤버십을 얻으시겠습니까?</string>
+    <string name="hungama_batch_download_alert_summary">프로 멤버 만 여러 노래를 다운로드할 수 있습니다. 지금 프로 멤버십을 얻으시겠습니까?</string>
     <string name="hungama_category_playlist">재생목록</string>
     <string name="hungama_category_radio">라디오</string>
     <string name="hungama_category_video">동영상</string>
-    <string name="hungama_free_download_out_summary">무료 노래를 더 다운로드 할 수 없습니다. 무제한 노래를 다운로드하려면 PRO 멤버십을 얻으시겠습니까?</string>
+    <string name="hungama_free_download_out_summary">무료 노래를 더 다운로드할 수 없습니다. 무제한 노래를 다운로드하려면 PRO 멤버십을 얻으시겠습니까?</string>
     <string name="hungama_pro">헝가마 프로</string>
     <string name="hungama_subscribe_message">이 노래를 다운로드하려면 구입해야합니다.</string>
     <string name="hungama_subscribe_positive_button">구입</string>
@@ -502,7 +502,7 @@
     <string name="nowplaying_dialog_title_delete_tracks">현재 재생목록을 비울까요?</string>
     <string name="nowplaying_menu_item_delete">삭제</string>
     <string name="ok">확인</string>
-    <string name="online_apk_download_error_no_enough_space">저장 공간 부족으로 다운로드 할 수 없습니다.</string>
+    <string name="online_apk_download_error_no_enough_space">저장 공간 부족으로 다운로드할 수 없습니다.</string>
     <string name="online_apk_downloading">다운로드중…%d%%</string>
     <string name="online_apk_install_alert_confirm">다운로드</string>
     <string name="online_apk_install_alert_message">Yandex.Music 플러그인을 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
@@ -740,14 +740,14 @@
     <string name="vip_required">프리미엄 뮤직 패키지를 구독하여 이 노래를 재생하세요. 원하신다면 이 과정을 건너뛰실 수 있습니다.</string>
     <string name="vip_required_with_song">프리미엄 뮤직 패키지를 구독하여 %s를 재생하세요. 원하신다면 이 과정을 건너뛰실 수 있습니다.</string>
     <string name="voice_search_first_hint">음성 검색을 사용해보세요!</string>
-    <string name="wifi_required_body" formatted="false">귀하는 Wi-Fi를 사용하여 %s 의 다운로드를 완료하셔야 합니다. \n\n%s 항목을 탭하여 나중에 Wi-Fi에 연결되었을때 다운로드를 시작할 수 있습니다.</string>
-    <string name="wifi_required_title">이 파일을 다운로드 하시려면 Wi-Fi에 연결하셔야 합니다.</string>
+    <string name="wifi_required_body" formatted="false">귀하는 Wi-Fi를 사용하여 %s 의 다운로드를 완료해야 합니다. \n\n%s 항목을 탭하여 나중에 Wi-Fi에 연결되었을때 다운로드를 시작할 수 있습니다.</string>
+    <string name="wifi_required_title">이 파일을 다운로드 하시려면 Wi-Fi에 연결해야 합니다.</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 응용 프로그램 관리에서 다운로드 관리자 상태를 확인하세요.</string>
     <string name="xiaomi_update_sdk_dialog_message">버전 소개 %1$s\n크기: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">버전 소개 %1$s\n델타 업데이트 크기 : %2$s</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장 공간을 사용할 수 없으면 SD 카드를 확인하세요.</string>
-    <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 읽고 동의하셔야 합니다.</string>
+    <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 읽고 동의해야 합니다.</string>
     <string name="add_to_favorite">즐겨찾기에 추가</string>
     <string name="cp_other_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다."</string>
     <string name="detail">자세히</string>
@@ -832,9 +832,9 @@
     <string name="sleep_mode_seek_bar_end">120분</string>
     <string name="sleep_mode_seek_bar_start">1분</string>
     <string name="sync_only_in_wifi_summary">샤오미 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동 통신사가 추가 요금을 청구 할 수 있습니다.</string>
-    <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드 할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
+    <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
     <string name="create_playlist_input_hint">재생목록 이름을 입력하세요.</string>
-    <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야합니다. 다음에 직접 노래에 액세스 할 수 있습니다."</string>
+    <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야합니다. 다음에 직접 노래에 액세스할 수 있습니다."</string>
     <string name = "buy_vip_skip_ad">광고 제거</string>
     <string name = "columbus_player_close_desc">사용자는 보상을 잃을 것입니다.</string>
     <string name = "columbus_player_close_resume">동영상 이어보기</string>
@@ -842,7 +842,7 @@
     <string name = "columbus_player_close_video">동영상 닫기</string>
     <string name = "columbus_player_install_now">지금 설치</string>
     <string name = "columbus_player_learn_more">자세히 알아보기</string>
-    <string name = "joox_account_bind_mi_account">미 계정 추가</string>
+    <string name = "joox_account_bind_mi_account">Mi 계정 추가</string>
     <string name = "joox_account_cancel_login">취소</string>
     <string name = "joox_account_continue_login">로그인</string>
     <string name = "joox_account_fans_center">팬 센터</string>
@@ -855,7 +855,7 @@
     <string name = "joox_auth_dialog_message">"일부 노래를 추천했습니다. VIP 멤버십을 통해 제한을 해제하세요."</string>
     <string name = "joox_auth_message_connect_network">"한동안 서버에 연결되지 않았습니다. 다운로드한 노래를 재생할 수 있도록 네트워크에 연결하세요."</string>
     <string name = "joox_auth_message_content_for_vip_only">이 항목은 VIP 회원만 이용할 수 있습니다.</string>
-    <string name = "joox_auth_message_content_offline">"지금 온라인 서비스를 사용할 수 없습니다. 몇 가지 사항을 개선하고 곧 다시 액세스 할 수 있습니다. 계속 지켜봐 주시기 바랍니다!"</string>
+    <string name = "joox_auth_message_content_offline">"지금 온라인 서비스를 사용할 수 없습니다. 몇 가지 사항을 개선하고 곧 다시 액세스할 수 있습니다. 계속 지켜봐 주시기 바랍니다!"</string>
     <string name = "joox_auth_message_login_status_expired">로그인 세션이 만료되었습니다. 다시 로그인하세요.</string>
     <string name = "joox_auth_message_one_hour_limit_for_one_company">1시간마다 동일한 레코드 레이블에서 최대 6개의 노래를 재생할 수 있습니다. 지금은 추천 노래를 들어보세요.</string>
     <string name = "joox_auth_message_recommend_for_you">추천</string>

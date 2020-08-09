@@ -38,7 +38,7 @@
     <string name="power_idle">휴대폰 유휴상태</string>
     <string name="power_phone">음성 통화</string>
     <string name="power_screen">화면</string>
-    <string name="process_kernel_label">안드로이드</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mi 플레이</string>
     <string name="uninstall_app_dialog_msg">설치 제거하면 앱의 모든 데이터가 삭제됩니다.</string>
     <string name="uninstall_app_dialog_title">지금 제거하시겠습니까?</string>
@@ -63,7 +63,7 @@
     <string name="power_bluetooth">블루투스</string>
     <string name="auto_back_booster">부스트 중지</string>
     <string name="auto_booster_suc">성공적으로 증폭 됨</string>
-    <string name="cpu_usage_android_system">안드로이드 시스템</string>
+    <string name="cpu_usage_android_system">Android 시스템</string>
     <string name="enter_gamemode_tip">게임 열기…</string>
     <string name="firewall_network_allow">%1$s이 %2$s 연결을 사용하는것을 허용</string>
     <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>

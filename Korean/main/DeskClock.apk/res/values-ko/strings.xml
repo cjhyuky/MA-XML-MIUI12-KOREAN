@@ -86,7 +86,7 @@
     <string name="birthday_alarm">생일 알람</string>
     <string name="birthday_alarm_summary">생일날 기본 알람음 대신 \"Happy Birthday\" 재생</string>
     <string name="turn_off_a_repeat_alarm">반복알람 끄기</string>
-    <string name="skip_alarm_once_hint">%s 한번만 끄기</string>
+    <string name="skip_alarm_once_hint">%s 한 번만 끄기</string>
     <string name="turn_off_this_repeat_alarm">이 반복 알람을 끄기</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>
@@ -276,7 +276,7 @@
     <string name="shortcut_start_timer">타이머 시작</string>
     <string name="shortcut_stop_watch">스톱워치 시작</string>
     <string name="edit_systemtime_setting_summary">날짜, 시간, 듀얼 시계</string>
-    <string name="worldclock_resident_city_text">두번째 도시: %s</string>
+    <string name="worldclock_resident_city_text">두 번째 도시: %s</string>
     <string name="worldclock_resident_city_text_detail">듀얼 시계가 켜져 있습니다.</string>
     <string name="worldcolock_date_display_prefix">현재 도시: </string>
     <string name="module_update_success">MIUI 스마트 알람에 대한 업데이트 된 오디오가 성공적으로 다운로드되었습니다. 시계 설정에서 MIUI 스마트 알람을 설정할 수 있습니다.</string>
@@ -326,13 +326,13 @@
     <string name="timer_alert_type_spring_rain">여름 비</string>
     <string name="volume_button_setting_desc">전원 및 음량 버튼에 기능 할당</string>
     <string name="worldcolock_timezone_current_date">yyyy/MM/dd</string>
-    <string name="dialog_legal_off_day"><Data>"휴일 알람을 사용하는 것 같습니다.이 기능은 정상적으로 작동하려면 인터넷에 연결해야합니다.이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 동의하십니까?"</Data></string>
+    <string name="dialog_legal_off_day"><Data>"휴일 알람을 사용하는 것 같습니다.이 기능은 정상적으로 작동하려면 인터넷에 연결해야합니다.이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의해야 합니다. 동의하십니까?"</Data></string>
     <string name="dialog_legal_off_day_desc">"휴일 관련 정보를 업데이트하기 위해 시계를 인터넷에 연결할 수 없습니다. 휴일 경보는 토요일과 일요일에 시작됩니다."</string>
-    <string name="dialog_legal_workday"><Data>"주중 알람을 사용하는 것 같습니다. 이 기능이 정상적으로 작동하려면 인터넷에 연결되어 있어야합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 동의하십니까?"</Data></string>
-    <string name="dialog_legal_workday_and_off_day"><Data>"주중 및 휴일 알람을 사용하는 것 같습니다. 이 기능이 정상적으로 작동하려면 인터넷에 연결해야합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 동의하십니까?"</Data></string>
+    <string name="dialog_legal_workday"><Data>"주중 알람을 사용하는 것 같습니다. 이 기능이 정상적으로 작동하려면 인터넷에 연결되어 있어야합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의해야 합니다. 동의하십니까?"</Data></string>
+    <string name="dialog_legal_workday_and_off_day"><Data>"주중 및 휴일 알람을 사용하는 것 같습니다. 이 기능이 정상적으로 작동하려면 인터넷에 연결해야합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의해야 합니다. 동의하십니까?"</Data></string>
     <string name="dialog_legal_workday_and_off_day_desc">"휴일에 대한 정보를 업데이트하기 위해 시계를 인터넷에 연결할 수 없습니다. 주중 알람은 월요일에서 금요일까지, 휴일 알람은 토요일과 일요일에 꺼집니다."</string>
     <string name="dialog_legal_workday_desc">"근무일에 대한 정보를 업데이트하기 위해 시계를 인터넷에 연결할 수 없습니다. 주중 알람은 월요일부터 금요일까지 사라집니다."</string>
-    <string name="dialog_net_permission_in_repeat_type"><Data>이 기능이 정상적으로 작동하려면 인터넷에 연결되어야 합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 동의하십니까?</Data></string>
+    <string name="dialog_net_permission_in_repeat_type"><Data>이 기능이 정상적으로 작동하려면 인터넷에 연결되어야 합니다. 이 기능을 사용하기 전에 &lt;a href=\"%1$s\">사용자 동의&lt;/a>와 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 동의해야 합니다. 동의하십니까?</Data></string>
     <string name="set_alarm_choose_ringtone">벨소리 선택</string>
     <string name="set_alarm_other">기타 설정</string>
     <string name="module_unzipping">오디오 압축푸는중…</string>
@@ -395,7 +395,7 @@
     <string name="sleep_notification_title">취침할 시간</string>
     <string name="sleep_record">수면 추적</string>
     <string name="sleep_record_desc">수면 데이터 기록 시작 켜기</string>
-    <string name="sleep_record_desc_detailed">수면 추적 기능은 Mi Health에서 제공합니다.    전원을 켜면 Mi 헬스는 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록하여 통계를 차트 형태로 보여줍니다.    수면을보다 정확하게 추적하려면 Mi Health가 자동 시작되도록하세요.    모든 관련 데이터가 기기에 로컬로 저장되므로 쉽게 관리 할 수 ​​있습니다.</string>
+    <string name="sleep_record_desc_detailed">수면 추적 기능은 Mi Health에서 제공합니다.    전원을 켜면 Mi 헬스는 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록하여 통계를 차트 형태로 보여줍니다.    수면을보다 정확하게 추적하려면 Mi Health가 자동 시작되도록하세요.    모든 관련 데이터가 기기에 로컬로 저장되므로 쉽게 관리할 수 ​​있습니다.</string>
     <string name="sleep_record_no_data">Mi 헬스가 충분한 데이터를 분석한 후 통계가 여기에 표시됩니다.</string>
     <string name="sleep_remind">취침시간 알림</string>
     <string name="sleep_time">잠듬</string>

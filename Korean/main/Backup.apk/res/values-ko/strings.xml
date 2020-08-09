@@ -41,7 +41,7 @@
     <string name="restore_finished">성공적으로 복원되었습니다.</string>
     <string name="restore_report">복구 세부사항</string>
     <string name="restore_progress">복원 중…</string>
-    <string name="restore_contacts_hit">복원 된 데이터를 보시려면 Mi 계정에 로그인 하셔야 합니다.</string>
+    <string name="restore_contacts_hit">복원 된 데이터를 보시려면 Mi 계정에 로그인 해야 합니다.</string>
     <string name="restore_telephony_hit">복원 작업을 위해 폰 앱을 다시 시작합니다.</string>
     <string name="restore_launcher_layout_hit">런처 설정 복원</string>
     <string name="settings_summary">휴대전화 및 메시지 설정</string>
@@ -307,21 +307,21 @@
     <string name="trans_disconnected_tips_message">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
     <string name="trans_disconnected_tips_title">상대 디바이스와 연결이 해제되었습니다.</string>
     <string name="trans_intro_desc_1">"Mi 핸드폰에서 Wi-Fi에 연결 후 \"I'm a recipient\"를 선택해주세요. 아이폰에서는 iCloud에 로그인 후 데이터를 입력해주세요."</string>
-    <string name="trans_intro_desc_3">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
-    <string name="trans_intro_desc_4">"미 무버가 를 사용하고 있기 때문에 안전한 파일 전송을 위하여 사용자가 를 전송 도중에는 사용할 수가 없습니다. 일부 최신 기종에서는 Wi-Fi를 동시에 사용이 가능합니다."</string>
-    <string name="trans_intro_desc_5">"최소 500MB~1GB정도의 여유 공간을 만들고 미 무버를 다시 시작해주세요."</string>
-    <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, 안드로이드 버전 호환성 문제로 미 무버가 정상적으로 작동되지 않을 수 있습니다." </string>
+    <string name="trans_intro_desc_3">중복 파일 문제입니다. Mi Mover를 다시 시작해주세요.</string>
+    <string name="trans_intro_desc_4">"Mi Mover가 를 사용하고 있기 때문에 안전한 파일 전송을 위하여 사용자가 를 전송 도중에는 사용할 수가 없습니다. 일부 최신 기종에서는 Wi-Fi를 동시에 사용이 가능합니다."</string>
+    <string name="trans_intro_desc_5">"최소 500MB~1GB정도의 여유 공간을 만들고 Mi Mover를 다시 시작해주세요."</string>
+    <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, Android 버전 호환성 문제로 Mi Mover가 정상적으로 작동되지 않을 수 있습니다." </string>
     <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
-    <string name="trans_intro_desc_8">"WeChat의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. WeChat 로그아웃 후에 미 무버를 이용해주세요."</string>
-    <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 하셔야 합니다.</string>
-    <string name="trans_intro_desc_multiapp">"미 무버는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
-    <string name="trans_intro_desc_multiuser">"미 무버가 세컨드 스페이스에 엑세스할수 없습니다. 일부 정보들을 삭제한 후에 시도해주세요."</string>
+    <string name="trans_intro_desc_8">"WeChat의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. WeChat 로그아웃 후에 Mi Mover를 이용해주세요."</string>
+    <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
+    <string name="trans_intro_desc_multiapp">"Mi Mover는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
+    <string name="trans_intro_desc_multiuser">"Mi Mover가 세컨드 스페이스에 엑세스할수 없습니다. 일부 정보들을 삭제한 후에 시도해주세요."</string>
     <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
     <string name="trans_intro_desc_old">"Tap \"I'm a sender\". 새로운 핸드폰에서 QR코드를 스캔하시고, \"전송\" 버튼을 눌러주세요."</string>
     <string name="trans_intro_desc_private">"사진이 암호화되어 엑세스할수 없습니다. 이 사진들은 미 클라우드에서 확인하실 수 있습니다."</string>
     <string name="trans_intro_question_1">%d. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
-    <string name="trans_intro_question_2">%d. 타 안드로이드 기기들에서 데이터 전송을 어떻게 하나요?</string>
-    <string name="trans_intro_question_3">%d. Mi Mover가 전송 도중 문제가 생겨 페어링이 끊기면 어떻게 해야 하나요?</string>
+    <string name="trans_intro_question_2">%d. 타 Android 기기들에서 데이터 전송을 어떻게 하나요?</string>
+    <string name="trans_intro_question_3">%d. Mi Mover가 전송 도중 문제가 생겨 연결이 끊기면 어떻게 해야 하나요?</string>
     <string name="trans_intro_question_4">"%d. 왜 파일 전송 도중 Wi-Fi를 사용할수 없나요?"</string>
     <string name="trans_intro_question_5">"%d. 왜 Mi Mover에서 '저장소 부족' 메시지가 표시되나요?"</string>
     <string name="trans_intro_question_6">"%d. 왜 일부 앱들은 이동되지 않나요?"</string>
@@ -446,7 +446,7 @@
     <string name="notif_trans_auto_reconnecting_title">연결에 문제가 발생하였습니다. 자동으로 다시 연결됩니다…</string>
     <string name="notif_trans_wait_for_reconnecting">연결에 문제가 발생하였습니다. 다시 연결하세요.</string>
     <string name="password_null">"비밀번호를 입력하세요."</string>
-    <string name="platform_chooser_item_android">안드로이드 기기 (삼성, LG 등)에서 불러오기</string>
+    <string name="platform_chooser_item_android">Android 기기 (삼성, LG 등)에서 불러오기</string>
     <string name="platform_chooser_item_ios">애플 기기 (아이폰, 아이패드 등)에서 불러오기</string>
     <string name="platform_chooser_title">이전 기기 선택</string>
     <string name="reconnect">다시 연결</string>
@@ -472,14 +472,14 @@
     <string name="user_name">Apple ID 또는 이메일 주소</string>
     <string name="user_name_null">"ID를 입력하세요."</string>
     <string name="view_password_description">비밀번호 표시</string>
-    <string name="trans_wlan_tips_message">"데이터 전송중 Wi-Fi를 끄거나 변경하지 마세요. 미 무버가 정상적으로 작동하지 않을 수 있습니다."</string>
+    <string name="trans_wlan_tips_message">"데이터 전송중 Wi-Fi를 끄거나 변경하지 마세요. Mi Mover가 정상적으로 작동하지 않을 수 있습니다."</string>
     <string name="trans_wlan_tips_title">"Wi-Fi를 끄지 마세요."</string>
     <string name="mms_title">멀티미디어 메시지</string>
-    <string name="trans_one_key_migrate">Mi 무버</string>
+    <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_intro_question_9">"%d. 어떤 항목을 전송할 수 없나요?"</string>
-    <string name="trans_intro_desc_2">중복 파일 문제입니다. 미 무버를 다시 시작해주세요.</string>
+    <string name="trans_intro_desc_2">중복 파일 문제입니다. Mi Mover를 다시 시작해주세요.</string>
     <string name="list_footer_tip_title">팁:</string>
-    <string name="trans_detail_app_apk_list_title">설치된 어플리케이션</string>
+    <string name="trans_detail_app_apk_list_title">설치된 애플리케이션</string>
     <string name="trans_detail_app_data_list_title">앱 데이터</string>
     <string name="trans_detail_category_user_app_data">앱 데이터</string>
     <string name="trans_detail_sys_data_list_title">시스템 앱</string>
@@ -487,7 +487,7 @@
     <string name="alert_button_deny">거절</string>
     <string name="trans_detail_app_apk_page_title">앱 선택</string>
     <string name="trans_detail_app_data_page_title">앱 데이터 선택</string>
-    <string name="trans_detail_app_data_useless_tip">앱에서 복원 할 수 있으며 전송할 필요가 없습니다.</string>
+    <string name="trans_detail_app_data_useless_tip">앱에서 복원할 수 있으며 전송할 필요가 없습니다.</string>
     <string name="trans_detail_audio_video_doc_list_title">오디오, 동영상 및 파일</string>
     <string name="trans_detail_audio_video_doc_page_title">오디오, 동영상 및 파일 선택</string>
     <string name="trans_detail_category_audio_video_doc">오디오, 동영상 및 파일</string>
@@ -516,7 +516,7 @@
     <string name="notif_calculating_app">계산중 %1$s (%2$s)…</string>
     <string name="notif_connect_miasist">Mi PC Suite에 연결됨</string>
     <string name="notif_disconnect_miasist">Mi PC Suite에 연결되지 않음</string>
-    <string name="notif_parse_select_descript_error">"백업된 목록을 동기화 할 수 없습니다."</string>
+    <string name="notif_parse_select_descript_error">"백업된 목록을 동기화할 수 없습니다."</string>
     <string name="notif_receiving_transingsd">받는중 %1$s (%2$s)…</string>
     <string name="notif_sending_transingsd">보내는중 %1$s (%2$s)…</string>
     <string name="notif_miasist_try_to_connect">Mi PC 슈트가 기기에 연결을 시도하고 있습니다.</string>
@@ -578,7 +578,7 @@
     <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR코드를 스캔해주세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요".</string>
     <string name="trans_intro_question_9_market">%d. 피드백.</string>
     <string name="trans_open_camera_failed_message">기기를 다시 시작시거나 Mi Mover가 &lt;b&gt;카메라&lt;/b&gt;사용 권한허용되었는지 확인해보세요.</string>
-    <string name="trans_open_camera_failed_title">"카메라에 접근 할 수 없습니다."</string>
+    <string name="trans_open_camera_failed_title">"카메라에 접근할 수 없습니다."</string>
     <string name="trans_open_location_button">켜기</string>
     <string name="trans_open_location_message">사용 가능한 Wi-Fi를 확인하려면 GPS 서비스를 켜세요.</string>
     <string name="trans_open_location_title">GPS 서비스 켜기</string>
@@ -592,7 +592,7 @@ Mi Mover가 마음에 드시나요?"</string>
 중요한 항목만 복원하시면 훨씬 빠르게 복원하실 수 있습니다."</string>
     <string name="usb_trans_native_no_space">"%s 항목만 귀하의 기기에서 사용가능합니다.
 여유공간을 늘리거나 파일을 나눠서 옮기세요."</string>
-    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장 공간이 필요합니다. 전송을 계속할 수있는 저장 공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목 만 전송 해보세요."</string>
+    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장 공간이 필요합니다. 전송을 계속할 수 있는 저장 공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목 만 전송 해보세요."</string>
     <string name="usb_trans_old_phone_low_space_title">저장 공간이 부족합니다.</string>
     <string name="usb_trans_select_data_no_space">"USB 저장소에서 %s 항목만 사용가능합니다.
 여유공간을 늘리거나 중요한 항목만 전송하세요."</string>
@@ -640,9 +640,9 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="user_feedback">피드백</string>
     <string name="feature_title_mms_setting">메시지 설정</string>
     <string name="trans_complete_restoring">전송 완료. 앱 데이터 복원중</string>
-    <string name="dialog_backup_password_auto_backup_tips">"백업 암호가 켜져 있으면 항목을 자동으로 백업 할 수 없습니다. 먼저 백업 암호를 해제하세요."</string>
+    <string name="dialog_backup_password_auto_backup_tips">"백업 암호가 켜져 있으면 항목을 자동으로 백업할 수 없습니다. 먼저 백업 암호를 해제하세요."</string>
     <string name="dialog_backup_password_change_device_restore_tips">"백업 비밀번호가 켜져있을 때 Mi Mover를 사용할 수 없습니다. 백업 비밀번호를 먼저 끕니다."</string>
-    <string name="dialog_backup_password_restore_tips">"백업 암호가 켜져있을 때 항목을 복원 할 수 없습니다. 먼저 백업 암호를 해제하세요."</string>
+    <string name="dialog_backup_password_restore_tips">"백업 암호가 켜져있을 때 항목을 복원할 수 없습니다. 먼저 백업 암호를 해제하세요."</string>
     <string name="iCloud_ID_verification_tip">"Apple기기에서 \"허용하기\"를 탭하면 인증코드가 나타납니다. 여기에 인증코드를 입력하세요."</string>
     <string name="dialog_app_upgrade_download">업데이트</string>
     <string name="dialog_app_upgrade_exit">나가기</string>
@@ -743,7 +743,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_tab_pc_restore">컴퓨터에서 복원</string>
     <string name="new_task_finished">완료</string>
     <string name="new_usb_detail_description">"안내:
-%1$d. 이 방법을 사용하면 타사 앱 및 앱 데이터를 백업 할 수 있습니다.
+%1$d. 이 방법을 사용하면 타사 앱 및 앱 데이터를 백업할 수 있습니다.
 %2$d. 백업을 저장하기 위해 USB 드라이브에 충분한 저장 공간이 있는지 확인하세요."</string>
     <string name="new_usb_disconnect_dialog_message">먼저 USB드라이브를 연결하세요.</string>
     <string name="new_usb_disconnect_dialog_title">"USB드라이브를 찾을 수 없습니다."</string>

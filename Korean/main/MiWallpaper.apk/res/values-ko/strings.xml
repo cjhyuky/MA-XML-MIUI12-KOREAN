@@ -2,10 +2,10 @@
 <resources>
     <string name="already_newest_version">현재 버전이 최신 버전입니다.</string>
     <string name="cancel_download">다운로드가 취소되었습니다.</string>
-    <string name="download_failed">"다운로드 할 수 없습니다."</string>
+    <string name="download_failed">"다운로드할 수 없습니다."</string>
     <string name="install_failed">"설치할 수 없습니다."</string>
     <string name="no_cta_agreed">"GetApps에 CTA 권한이 없습니다."</string>
-    <string name="no_install_permission">"이 항목을 설치할 수있는 권한이 없습니다."</string>
+    <string name="no_install_permission">"이 항목을 설치할 수 있는 권한이 없습니다."</string>
     <string name="task_already_exist">이 작업은 이미 존재합니다.</string>
     <string name="update">업데이트</string>
     <string name="mi_wallpaper_title">Mi 배경화면</string>

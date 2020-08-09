@@ -347,7 +347,7 @@
     <string name="v_cancel">취소</string>
     <string name="v_canceled">취소됨</string>
     <string name="v_category">카테고리</string>
-    <string name="v_clause_info">1. Sohu TV, iQiyi 및 기타 컨텐츠 제공 업체가 제공하는 온라인 서비스를 사용하려면 먼저 우리의<a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">사용자 동의</a> 와 <a href="https://privacy.mi.com/all/">개인정보 보호정책</a>을 읽고 동의하셔야 합니다.".
+    <string name="v_clause_info">1. Sohu TV, iQiyi 및 기타 컨텐츠 제공 업체가 제공하는 온라인 서비스를 사용하려면 먼저 우리의<a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">사용자 동의</a> 와 <a href="https://privacy.mi.com/all/">개인정보 보호정책</a>을 읽고 동의해야 합니다.".
 2. 우리는 사용자의 장치에 대한 정보와 Mi 동영상 사용 방법을 수집 할 것입니다. 콘텐츠 제공 업체가 기기 ID를 수집합니다.
 3. Mi 동영상이 정상적으로 작동하려면 네트워크에 연결되어 있어야 합니다.
 4. 동영상을 스트리밍하려면 Mi 동영상에서 HD 동영상 플러그인을 다운로드하여 설치해야합니다."</string>
@@ -469,7 +469,7 @@
     <string name="vp_adapt_height">높이 맞추기</string>
     <string name="vp_adapt_width">너비 맞추기</string>
     <string name="vp_agree">동의</string>
-    <string name="vp_app_download">어플리케이션 다운로드</string>
+    <string name="vp_app_download">애플리케이션 다운로드</string>
     <string name="vp_app_name">동영상 플레이어</string>
     <string name="vp_audio">볼륨</string>
     <string name="vp_auto_select">자동</string>
@@ -489,7 +489,7 @@
     <string name="vp_declaration_content_td_custom">이 앱이 정상적으로 작동하려면 인터넷에 연결해야 합니다.</string>
     <string name="vp_device_list">기기</string>
     <string name="vp_device_list_seaching">&lt;방송 할 기기 없음></string>
-    <string name="vp_download_apk_from_video_ad">어플리케이션 설치</string>
+    <string name="vp_download_apk_from_video_ad">애플리케이션 설치</string>
     <string name="vp_download_connect_fail">링크를 가져오지 못했습니다.</string>
     <string name="vp_download_file_fail">파일을 쓰지 못했습니다. 기기에 충분한 공간이 있는지 확인하세요.</string>
     <string name="vp_downloading_apk_title">%1$s 다운로드중</string>
@@ -890,7 +890,7 @@
     <string name="unfinished_offline_all_start_text">모두 시작</string>
     <string name="unfinished_offline_all_stop_text">모두 멈춤</string>
     <string name="unfinished_offline_network_disable">네트워크에 연결하고 다시 시도하세요.</string>
-    <string name="unfinished_offline_network_not_wifi">모바일 데이터를 사용하여 에피소드를 다운로드 할 수 없습니다.</string>
+    <string name="unfinished_offline_network_not_wifi">모바일 데이터를 사용하여 에피소드를 다운로드할 수 없습니다.</string>
     <string name="v_banner_downlaod">다운로드하려면 클릭하세요.</string>
     <string name="v_bind_reset">다시 추가</string>
     <string name="v_bind_tips">WeChat의 은행 카드에 인증된 이름을 입력하세요.</string>
@@ -898,7 +898,7 @@
     <string name="v_cache_check">캐시 확인</string>
     <string name="v_cache_choice">옵션</string>
     <string name="v_cache_clear">여유 공간 확보</string>
-    <string name="v_cache_download_null">저작권 제한으로 인해 이 동영상을 다운로드 할 수 없습니다.</string>
+    <string name="v_cache_download_null">저작권 제한으로 인해 이 동영상을 다운로드할 수 없습니다.</string>
     <string name="v_cache_downloaded">이 동영상은 임시저장됩니다.</string>
     <string name="v_cache_downloading">다운로드에 추가됨</string>
     <string name="v_cache_remainder">사용가능</string>
@@ -1024,8 +1024,8 @@
     <string name="small_video_app_installing">설치중…</string>
     <string name="small_video_app_open">열기</string>
     <string name="small_video_app_play">재생</string>
-    <string name="small_video_not_support_comment">이 광고에 댓글을 추가 할 수 없습니다.</string>
-    <string name="small_video_not_support_share">이 광고를 공유 할 수 없습니다.</string>
+    <string name="small_video_not_support_comment">이 광고에 댓글을 추가할 수 없습니다.</string>
+    <string name="small_video_not_support_share">이 광고를 공유할 수 없습니다.</string>
     <string name="small_video_view_ad">더 보기</string>
     <string name="small_video_volumn_low">최상의 경험을 위해 볼륨을 높이세요.</string>
     <string name="t_check_send_file_only_one">한 번에 하나의 항목만 보낼 수 있습니다. 다시 선택하세요.</string>

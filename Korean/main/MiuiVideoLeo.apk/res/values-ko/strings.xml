@@ -104,8 +104,8 @@
     <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 동영상, iQiyi, 그리고 다른 컨텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
 2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 컨텐츠의 일부 데이터를 수집할 것입니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집할 것입니다.&amp;#8203;
 3. 저희의 HD 동영상 플러그인이 자동으로 설치될 것입니다.
-4. 이 어플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다."</string>
-    <string name="declaration_content_td_custom">이 어플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다.</string>
+4. 이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다."</string>
+    <string name="declaration_content_td_custom">이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다.</string>
     <string name="defaults">기본</string>
     <string name="delete">삭제</string>
     <string name="delete_action_text">(%d) 삭제</string>
@@ -173,8 +173,8 @@
     <string name="gong_count_ji">총 %d개 Ep.</string>
     <string name="gong_count_xiang">%d개 항목</string>
     <string name="good">확인</string>
-    <string name="hint_apk_download">이 어플리케이션을 설치</string>
-    <string name="hint_apk_download_format">\"%1$s\" 어플리케이션 설치</string>
+    <string name="hint_apk_download">이 애플리케이션을 설치</string>
+    <string name="hint_apk_download_format">\"%1$s\" 애플리케이션 설치</string>
     <string name="hint_apk_install">이 앱을 설치</string>
     <string name="hint_apk_text_update">(%1$s) 업데이트를 지금하시겠습니까?</string>
     <string name="hint_apk_title_update">(%1$s) 업데이트 가능함</string>
@@ -360,7 +360,7 @@
     <string name="temp_play_history_button_label">기록</string>
     <string name="tencent">텐센트</string>
     <string name="to_be_play_label_v5">"다음 재생 예정: "</string>
-    <string name="toast_back_key_pressed_notice">종료하려면, \"뒤로\"를 한번 더 터치하세요.</string>
+    <string name="toast_back_key_pressed_notice">종료하려면, \"뒤로\"를 한 번 더 터치하세요.</string>
     <string name="toast_message_continue_play_from">에서 재생 중</string>
     <string name="toast_message_continue_play_hour">시간</string>
     <string name="toast_message_continue_play_minute">분</string>
@@ -417,7 +417,7 @@
     <string name="vp_ad_skip_at">%1$d 후 광고 건너뛰기</string>
     <string name="vp_adapt_height">높이 맞추기</string>
     <string name="vp_adapt_width">너비 맞추기</string>
-    <string name="vp_app_download">어플리케이션 다운로드</string>
+    <string name="vp_app_download">애플리케이션 다운로드</string>
     <string name="vp_app_name">동영상 플레이어</string>
     <string name="vp_audio">볼륨</string>
     <string name="vp_auto_select">자동</string>
@@ -434,7 +434,7 @@
     <string name="vp_datastream_alert_positive_button">계속 시청</string>
     <string name="vp_datastream_alert_title">데이터 사용량 경고</string>
     <string name="vp_device_list">기기</string>
-    <string name="vp_download_apk_from_video_ad">어플리케이션 설치</string>
+    <string name="vp_download_apk_from_video_ad">애플리케이션 설치</string>
     <string name="vp_download_connect_fail">링크를 가져오지 못했습니다.</string>
     <string name="vp_download_file_fail">파일을 쓰지 못했습니다. 기기에 충분한 공간이 있는지 확인하세요.</string>
     <string name="vp_downloading_apk_title">%1$s 다운로드중</string>

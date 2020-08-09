@@ -30,7 +30,7 @@
         <item>매우 크게</item>
     </string-array>
     <string-array name="pref_ua_choices">
-        <item>안드로이드</item>
+        <item>Android</item>
         <item>데스크탑</item>
         <item>iPhone</item>
         <item>iPad</item>

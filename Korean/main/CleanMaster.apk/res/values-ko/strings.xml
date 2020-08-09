@@ -282,7 +282,7 @@
     <string name="garbage_month">이번 달 %s 청소됨</string>
     <string name="garbage_clean_detail">세부사항</string>
     <string name="there_is_no">모든것이 좋습니다. 나중에 또 봐요.</string>
-    <string name="no_network">네트워크에 연결 할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="no_network">네트워크에 연결할 수 없습니다. 나중에 다시 시도해 주세요.</string>
     <string name="back">뒤로 가기</string>
     <string name="total_clean">총 청소됨: %s</string>
     <string name="toast_network_switch">이 앱을 인터넷에 연결할 수 있습니다.</string>
@@ -723,7 +723,7 @@
     <string name="global_wa_main_to_clean">지우기</string>
     <string name="global_wa_result_finish_hint_zero">사용 가능한 %s</string>
     <string name="global_wa_setting_alert_dialog_btn">열기</string>
-    <string name="global_wa_setting_alert_dialog_content">%s를 해제 할 수 있습니다.</string>
+    <string name="global_wa_setting_alert_dialog_content">%s를 해제할 수 있습니다.</string>
     <string name="global_wa_setting_alert_dialog_title">WhatsApp 클리너</string>
     <string name="global_wa_setting_alert_pref_category_title">WhatsApp 클리너 알림</string>
     <string name="global_wa_setting_alert_pref_size_title">휴지통 크기</string>
@@ -743,7 +743,7 @@
     <string name="global_wa_shortcut_dialog_cancel">취소</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">"다시 표시하지 않음"</string>
     <string name="global_wa_shortcut_dialog_confirm">만들기</string>
-    <string name="global_wa_shortcut_dialog_content">이 기능에 쉽게 액세스 할 수 있도록 WhatsApp Cleaner의 홈 화면 바로 가기를 만듭니다.</string>
+    <string name="global_wa_shortcut_dialog_content">이 기능에 쉽게 액세스할 수 있도록 WhatsApp Cleaner의 홈 화면 바로 가기를 만듭니다.</string>
     <string name="global_wa_shortcut_dialog_title">홈 화면 바로 가기</string>
     <string name="global_wa_shortcut_toast">홈 화면 바로 가기 생성</string>
     <string name="global_wa_wrapper">배경 화면</string>

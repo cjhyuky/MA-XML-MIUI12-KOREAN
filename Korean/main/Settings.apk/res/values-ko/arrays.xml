@@ -264,7 +264,7 @@
         <item>작은 대문자</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>얼굴 인식 잠금해제</item>
+        <item>얼굴인식 잠금해제</item>
         <item>패턴</item>
         <item>PIN</item>
         <item>비밀번호</item>
@@ -812,7 +812,7 @@
     </string-array>
     <string-array name="notification_style_entries">
         <item>MIUI</item>
-        <item>안드로이드</item>
+        <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>없음</item>

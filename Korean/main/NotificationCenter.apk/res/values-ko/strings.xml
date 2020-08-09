@@ -107,7 +107,7 @@
     <string name="notification_fold_summary">모든 중요하지 않은 알림은 하나의 폴더로 표시됩니다.</string>
     <string name="notification_fold_title">알림 폴더</string>
     <string name="notification_manager">앱 알림</string>
-    <string name="notification_style_android">안드로이드 스타일</string>
+    <string name="notification_style_android">Android 스타일</string>
     <string name="notification_style_miui">MIUI 스타일</string>
     <string name="off">꺼짐</string>
     <string name="on">켜짐</string>

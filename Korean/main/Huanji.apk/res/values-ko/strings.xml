@@ -63,7 +63,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="connection_tips_other_message">"1. 기존 장치에 최신 버전의 Mi Mover가 설치되어 있는지 확인하세요. GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다 : %1$s.
 2. 새 장치의 핫스팟이 Mi Mover에 나타나지 않으면 Wi-Fi 설정을 열고 여기에 표시되는지 확인하세요. 연결되어 있다면 탭하지 마세요.
 3. Mi Mover로 돌아가서 핫스팟 이름을 누릅니다."</string>
-    <string name="connection_tips_other_title">이전 기기가 타사 안드로이드 전화 인 경우:</string>
+    <string name="connection_tips_other_title">이전 기기가 타사 Android 전화 인 경우:</string>
     <string name="connection_tips_owner_message">MI Mover는 MIUI 11을 실행하는 모든 장치에 사전 설치되어 있습니다. 이전 MIUI 버전이있는 경우 GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다: %1$s.</string>
     <string name="connection_tips_owner_title">이전 기기가 Mi전화인 경우:</string>
     <string name="icloud_signin_fail">"로그인 실패"</string>
@@ -90,7 +90,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="host_boot_installation_message">"이전 기기에 표시되는 페이지를 선택하세요. 이전 버전의 Mi Mover를 사용하는 경우 업데이트 방법을 알려드립니다."</string>
     <string name="host_boot_installation_second_title">"Mi Mover 버전을 확인해주세요"</string>
     <string name="host_boot_installation_tips">"Mi Mover를 찾을 수 없습니까? 다운로드하려면 누르세요."</string>
-    <string name="main_chooser_item_android_others">다른 안드로이드 휴대전화에서 가져오기</string>
+    <string name="main_chooser_item_android_others">다른 Android 휴대전화에서 가져오기</string>
     <string name="new_app_name">새 버전</string>
     <string name="old_app_name">이전 버전</string>
     <string name="dialog_request_network_message">"Mi Mover에 오신 것을 환영합니다! 이 앱을 사용하여 기존 장치에서 새 장치로 데이터를 전송할 수 있습니다.
@@ -135,13 +135,13 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="host_boot_installation_step_one_title">1. 이전 기기에서 Mi Mover를 켜세요.</string>
     <string name="host_boot_installation_step_two_title">2. 기존 기기에 표시되는 페이지를 선택하세요.</string>
     <string name="international_new_trans_intro_desc_8">"호환성 문제로 인해 텍스트 메시지를 전송할 수 없습니다. 타사 앱은 보안상의 이유로 앱 데이터 전송을 제한 할 수 있습니다."</string>
-    <string name="international_new_trans_intro_question_8">"8. 일부 타사 앱의 문자 메시지 및 앱 데이터를 전송할 수없는 이유는 무엇입니까?"</string>
+    <string name="international_new_trans_intro_question_8">"8. 일부 타사 앱의 문자 메시지 및 앱 데이터를 전송할 수 없는 이유는 무엇입니까?"</string>
     <string name="international_scanner_send_dialog_message">"일부 타사 앱의 문자 메시지 및 앱 데이터는 전송할 수 없습니다. 전송 중에 Wi-Fi를 끄거나 네트워크를 전환하지 마세요."</string>
     <string name="scanner_wechat_overwrite_hit">타사 앱 제한으로 인해 새 기기의 채팅 내역 및 기타 앱 데이터는 이전이 완료된 후 기존 기기의 데이터와 데이터로 대체됩니다.</string>
     <string name="back">뒤로</string>
     <string name="next">다음</string>
     <string name="selected">선택됨</string>
-    <string name="skip_underline">이 단계 건너 뛰기</string>
+    <string name="skip_underline">이 단계 건너뛰기</string>
     <string name="unselected">선택되지 않음</string>
     <string name="ble_connect_button">연결</string>
     <string name="ble_connect_failed">"연결할 수 없습니다. 수동으로 연결하여 주세요.</string>

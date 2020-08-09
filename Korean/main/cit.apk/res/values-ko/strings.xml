@@ -829,7 +829,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="tp_black">검은색</string>
     <string name="tp_white">하양</string>
     <string name="unknown">알 수 없음</string>
-    <string name="unlock">잠금 해제</string>
+    <string name="unlock">잠금해제</string>
     <string name="verify">확인</string>
     <string name="verifying">승인</string>
     <string name="version">버전</string>

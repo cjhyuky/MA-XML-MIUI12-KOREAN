@@ -180,7 +180,7 @@
     <string name="dialog_install_assistant_content">Mi TV 또는 Mi 박스를 최대한 활용하려면 Mi 스크린 캐스트를 설치하세요.</string>
     <string name="dining_room">식당</string>
     <string name="download_assistant">스크린 캐스트</string>
-    <string name="download_path_fail">다운로드 할 수 없습니다. 기기의 SD 카드 또는 USB 드라이브를 확인하세요.</string>
+    <string name="download_path_fail">다운로드할 수 없습니다. 기기의 SD 카드 또는 USB 드라이브를 확인하세요.</string>
     <string name="download_times">다운로드: %1$d</string>
     <string name="downloading">다운로드 중…</string>
     <string name="dpad_down">아래</string>
@@ -230,7 +230,7 @@
     <string name="fail_device_model">모델</string>
     <string name="fail_device_type">유형</string>
     <string name="fail_feedback">피드백</string>
-    <string name="fail_title">연결 할 수 없음</string>
+    <string name="fail_title">연결할 수 없음</string>
     <string name="fan_mode">팬 모드</string>
     <string name="fan_speed">속도</string>
     <string name="faq">FAQ</string>
@@ -659,7 +659,7 @@
     <string name="speech_init_failed">Ifly 음성 엔진을 설치하려면 탭 하세요.</string>
     <string name="speed_up_channel_switch">일부 셋톱박스의 채널 전환을 빠르게 할 수 있습니다.</string>
     <string name="splash_add_device_des">기기를 추가하고 시작</string>
-    <string name="splash_desc">모든 것을 터치 한번으로 제어합니다.</string>
+    <string name="splash_desc">모든 것을 터치 한 번으로 제어합니다.</string>
     <string name="start_diagnosis">테스트</string>
     <string name="start_match">연결</string>
     <string name="stb">셋톱박스</string>
@@ -1124,7 +1124,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="receive_share_titel">%1$s 님이 리모컨을 공유했습니다.</string>
     <string name="submit_screen_shot_show">스크린샷 공유</string>
     <string name="voice_control">음성 제어</string>
-    <string name="voice_control_ir_tips">"장치가 응답하지 않으면, 휴대폰에 다시한번 해보세요."</string>
+    <string name="voice_control_ir_tips">"장치가 응답하지 않으면, 휴대폰에 다시한 번 해보세요."</string>
     <string name="voice_tips_long_pressed">음성 컨트롤을 사용하려면 마이크를 가볍게 칩니다.</string>
     <string name="voice_tips_subtitle">"사용자가 말할 수 있는 목록입니다."</string>
     <string name="voice_tips_title">휴대전화를 사용자에게 향하게 하세요.</string>

@@ -5,7 +5,7 @@
     <string name="perm_modem_location">내 위치에 액세스</string>
     <string name="perm_modem_location_desc">이동 통신사가 위치 정보에 액세스하려고합니다. 이동 통신사와 위치 정보를 공유하시겠습니까?</string>
     <string name="HIPS_Perm_clipboard">클립보드</string>
-    <string name="HIPS_Perm_clipboard_Desc">클립 보드 컨텐츠 액세스 및 변경 허용</string>
+    <string name="HIPS_Perm_clipboard_Desc">클립보드 컨텐츠 액세스 및 변경 허용</string>
     <string name="grant_dialog_button_allow_onetime">이번만 허용</string>
     <string name="app_name">권한 관리자</string>
     <string name="HIPS_Action_Accept">허용</string>
@@ -97,7 +97,7 @@
     <string name="permission_group_title_media_related">멀티미디어</string>
     <string name="permission_group_title_settings_related">설정</string>
     <string name="ok">확인</string>
-    <string name="default_permission_description">알수없는 작업을 실행</string>
+    <string name="default_permission_description">알수 없는 작업을 실행</string>
     <string name="location_settings">위치 설정</string>
     <string name="location_warning">%1$s는 이 기기의 위치 서비스 공급자 입니다. 위치 설정에서 위치 접근을 수정할 수 있습니다.</string>
     <string name="permission_warning_template">%1$s에서 %2$s를 허용하시겠습니까?</string>
@@ -114,7 +114,7 @@
     <string name="HIPS_Perm_deamon_notification">영구적인 알림</string>
     <string name="HIPS_Perm_deamon_notification_Desc">영구적인 알림 표시</string>
     <string name="background_location_access_reminder_notification_title">%s님이 귀하의 현재 위치를 사용하고 있습니다.</string>
-    <string name="background_location_access_reminder_notification_content">이 앱은 항상 내 위치에 액세스 할 수 있습니다. 탭하여 변경하세요.</string>
+    <string name="background_location_access_reminder_notification_content">이 앱은 항상 내 위치에 액세스할 수 있습니다. 탭하여 변경하세요.</string>
     <string name="permgrouprequest_storage_isolated">
 &lt;b&gt;%1$s&lt;/b&gt; to 사진과 동영상 접근을 허용하시겠습니까?</string>
     <string name="permission_description_summary_activity_recognition">이 권한이 있는 앱은 걷기, 자전거타기, 운전 등 신체 활동 기록에 접근할 수 있습니다.</string>

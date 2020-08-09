@@ -145,10 +145,10 @@
     <string name="oainfo_guard">보장된</string>
     <string name="oainfo_wait_activation">활성화 대기 중</string>
     <string name="otex_mic_alert_title">마이크를 테스트 할 수 없습니다.</string>
-    <string name="otex_permission_message">전화를 진단 할 수있는 권한을 부여하세요.</string>
+    <string name="otex_permission_message">전화를 진단 할 수 있는 권한을 부여하세요.</string>
     <string name="otex_start">시작</string>
-    <string name="otex_text_skip_test">건너 뛰기</string>
-    <string name="otex_touch_alert_title">테스트를 완료 할 수 없습니까?</string>
+    <string name="otex_text_skip_test">건너뛰기</string>
+    <string name="otex_touch_alert_title">테스트를 완료할 수 없습니까?</string>
     <string name="overall_test">전체 테스트</string>
     <string name="password_toggle_content_description">토글 비밀번호 표시</string>
     <string name="postal_code">우편 번호</string>

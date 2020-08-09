@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">%2$s에서 %1$d회 잠금 해제 됨</item>
+        <item quantity="other">%2$s에서 %1$d회 잠금해제 됨</item>
     </plurals>
     <plurals name="usage_remain_about_hour">
         <item quantity="other">≈%s시간</item>
@@ -143,9 +143,9 @@
          <item quantity="other">하루 평균 %.2f 회</item>
      </plurals>
     <plurals name="usage_new_home_total_unlocks">
-         <item quantity="other">잠금 해제: %d회</item>
+         <item quantity="other">잠금해제: %d회</item>
      </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
-         <item quantity="other">잠금 해제: %d회</item>
+         <item quantity="other">잠금해제: %d회</item>
      </plurals>
 </resources>

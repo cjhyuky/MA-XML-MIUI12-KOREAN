@@ -46,7 +46,7 @@
         <item quantity="other">%1$d개 사진 (%2$dMB) 다운로드 실패, 다시 시도?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"%1$d개의 파일(%2$dMB)을 다운로드 할 수 없습니다. 네트워크에 연결한 후 다시 시도하세요."</item>
+        <item quantity="other">"%1$d개의 파일(%2$dMB)을 다운로드할 수 없습니다. 네트워크에 연결한 후 다시 시도하세요."</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">"%d개의 파일이 아직 다운로드되지 않았습니다. 어쨌든 취소하시겠습니까?"</item>
@@ -316,13 +316,13 @@
         <item quantity="other">%1$d초</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원 할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다.    어쨌든 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">항목을 최대 %1$d일(%2$s) 동안 여기에 저장할 수 있습니다.</item>

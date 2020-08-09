@@ -40,13 +40,13 @@
     <string name="once_settings_location_title">위치 정보없이 공유</string>
     <string name="once_settings_subtitle">선택한 항목을 어떻게 공유하시겠습니까?</string>
     <string name="once_settings_title">개인 정보 보호</string>
-    <string name="preference_copied">\"%1$s\"가 클립 보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="settings_camera_subtitle_no">메타 데이터 없음</string>
     <string name="settings_image_camera_summary">장치 모델, 메타 데이터 등</string>
     <string name="settings_location_subtitle_no">위치 정보가 없습니다.</string>
     <string name="settings_share_enable_summary">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다.</string>
-    <string name="settings_share_info">갤러리 및 파일 관리자에서 공유 한 항목에 사용할 수있는 보안 공유 옵션은 다음과 같습니다.</string>
+    <string name="settings_share_info">갤러리 및 파일 관리자에서 공유 한 항목에 사용할 수 있는 보안 공유 옵션은 다음과 같습니다.</string>
     <string name="settings_show_detail">세부 정보보기</string>
     <string name="settings_tip">더 ​​많은 옵션을 보려면 갤러리> 설정으로 이동하세요.</string>
     <string name="settings_title">보안 공유</string>

@@ -23,7 +23,7 @@
     <string name="catch_full_log_add_photo">사진 추가</string>
     <string name="catch_full_log_add_photo_dialog_content">보고 할 문제가 카메라의 이미지 품질과 관련이있는 경우 원본 샘플 사진(잘리지 않음)을 추가하여 문제를 찾을 수 있도록 도와주세요. 지금 사진을 추가하시겠습니까?</string>
     <string name="catch_full_log_dialog_confirm_text">홈 화면으로 이동</string>
-    <string name="catch_full_log_dialog_content">MIUI가 로그를 생성하고 있는데 이는 기기의 전체 생산성에 영향을 미칠 수 있습니다.보고하려는 문제를 재현 할 수없는 경우 로그로 돌아가서 \"취소\"를 탭하세요.</string>
+    <string name="catch_full_log_dialog_content">MIUI가 로그를 생성하고 있는데 이는 기기의 전체 생산성에 영향을 미칠 수 있습니다.보고하려는 문제를 재현 할 수 없는 경우 로그로 돌아가서 \"취소\"를 탭하세요.</string>
     <string name="catch_full_log_dump_hprof_failed">지연 로그를 생성 할 수 없습니다.</string>
     <string name="catch_full_log_item_content_catch_direct">단계:\n1. 보고하길 원하는 기능으로 돌아가서 그 기능을 다시 실행하세요.\n2. 이 페이지로 돌아오셔서 \"로그 수집완료 및 업로드\"를 탭하세요.</string>
     <string name="catch_full_log_item_content_need_open">단계:\n1. \"로그 생성\"을 탭하세요.\n2. 보고하길 원하는 기능으로 돌아가서 그 기능을 다시 실행하세요.\n3. 이 페이지로 돌아오셔서 \"로그 수집완료 및 업로드\"를 탭하세요.</string>
@@ -102,12 +102,12 @@
     <string name="feedback_phone_model_label">휴대전화 모델</string>
     <string name="feedback_probability_label">반복률</string>
     <string name="feedback_remind_login_btn">로그인</string>
-    <string name="feedback_report_remind_login_desc">귀하의 Mi 계정으로 로그인 하셔야 저희의 기술자가 연락을 드릴 수 있습니다.</string>
+    <string name="feedback_report_remind_login_desc">귀하의 Mi 계정으로 로그인 해야 저희의 기술자가 연락을 드릴 수 있습니다.</string>
     <string name="feedback_report_remind_login_desc2">\"내 보고서\"에서 보고서의 진행 상황을 볼 수 있습니다.</string>
     <string name="feedback_reproductivity_everytime">항상</string>
     <string name="feedback_reproductivity_occasionally">때때로</string>
     <string name="feedback_reproductivity_often">자주</string>
-    <string name="feedback_reproductivity_once">한번만</string>
+    <string name="feedback_reproductivity_once">한 번만</string>
     <string name="feedback_retest_label">반복 단계</string>
     <string name="feedback_select_images">사진이나 짧은 영상 추가</string>
     <string name="feedback_select_modem_log">모뎀 로그 추가</string>
@@ -345,7 +345,7 @@
     <string name="passport_error_server">서버 오류</string>
     <string name="passport_error_sim_not_ready">SIM 카드를 찾을 수 없습니다.</string>
     <string name="passport_error_ssl_hand_shake">서버에 연결할 수 없습니다.</string>
-    <string name="passport_error_unknown">로그인 할 수 없습니다.</string>
+    <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_error_user_name">입력 한 사용자 이름이 유효하지 않습니다.</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 보낼 수 없습니다.</string>
     <string name="passport_find_password_on_web_msg">비밀번호를 재설정하려면 account.mi.com을 방문해주세요.</string>
@@ -413,7 +413,7 @@
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">귀하의 계정이 활성화되지 않았습니다.</string>
     <string name="passport_resend_active_email">이메일 재전송</string>
-    <string name="passport_reset_fail_title">재설정 할 수 없음</string>
+    <string name="passport_reset_fail_title">재설정할 수 없음</string>
     <string name="passport_reset_password_prompt">비밀번호가 맞지 않습니다.</string>
     <string name="passport_reset_password_title">암호를 재설정</string>
     <string name="passport_restart">다시 시작하다</string>
@@ -421,12 +421,12 @@
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_retry">다시 시도하세요.</string>
     <string name="passport_select_reg_ways_title">가입하는 다른 방법들</string>
-    <string name="passport_send_too_many_code">이 번호로 전송 된 인증 코드가 너무 많습니다.. 24 시간을 기다렸다가 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 전송 된 인증 코드가 너무 많습니다.. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_setting">설정…</string>
-    <string name="passport_skip_login">건너 뛰기</string>
-    <string name="passport_skip_register">가입 건너 뛰기</string>
+    <string name="passport_skip_login">건너뛰기</string>
+    <string name="passport_skip_register">가입 건너뛰기</string>
     <string name="passport_skip_setup_account_msg">나중에 설정에서 Mi 계정을 설정할 수 있습니다.</string>
-    <string name="passport_skip_setup_account_title">설정 건너 뛰기</string>
+    <string name="passport_skip_setup_account_title">설정 건너뛰기</string>
     <string name="passport_title_reg">계정 만들기</string>
     <string name="passport_trust_device">확인 된 기기에이 기기 추가</string>
     <string name="passport_trying_read_verify_code_sms">인증 코드 받기…</string>
@@ -500,7 +500,7 @@
     <string name="title_system_app">MIUI 앱</string>
     <string name="title_user_guide">사용자 가이드</string>
     <string name="toast_app_tag_required">이슈를 선택하세요.</string>
-    <string name="toast_catch_full_log_catching">로그는 한번에 하나씩만 생성할 수 있습니다.</string>
+    <string name="toast_catch_full_log_catching">로그는 한 번에 하나씩만 생성할 수 있습니다.</string>
     <string name="toast_catch_full_log_open_failed">로그 기록을 시작할 수 없습니다.</string>
     <string name="toast_description_required">설명을 작성해야 합니다.</string>
     <string name="toast_feedback_collect_store">로그 수집 중…</string>
@@ -536,5 +536,5 @@
     <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
     <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스 할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
 </resources>

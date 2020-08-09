@@ -1272,7 +1272,7 @@
     <string name="calllog_call_note_menu">전화 노트</string>
     <string name="calllog_call_record_menu">녹음된 전화</string>
     <string name="contact_import_methods_dialog_bluetooth">블루투스</string>
-    <string name="contact_import_methods_dialog_mi_mover">미 무버</string>
+    <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
     <string name="contact_import_methods_dialog_title">불러올 방법을 선택하세요.</string>
     <string name="contacts_unavailable_import_from_old_device">이전 기기에서 불러오기</string>
     <string name="contacts_unavailable_import_sim_contacts">SIM 연ㄹ</string>
@@ -1311,7 +1311,7 @@
     <string name="export_sim_contact_finish_success">%d 연락처 복사됨</string>
     <string name="export_sim_contacts_dialog_message">SIM 카드가 %d 연락처를 보관할 수 있습니다.</string>
     <string name="frequency_three_days">3일에 1번</string>
-    <string name="frequency_weekly">1주일에 한번</string>
+    <string name="frequency_weekly">1주일에 한 번</string>
     <string name="hint_search_contacts">%d 연락처</string>
     <string name="hint_search_emails">%d의 이메일 주소</string>
     <string name="hint_search_phone_numbers">%d의 전화번호</string>

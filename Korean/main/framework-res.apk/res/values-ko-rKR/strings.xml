@@ -204,7 +204,7 @@
     <string name="description_target_search">검색</string>
     <string name="description_target_silent">무음</string>
     <string name="description_target_soundon">사운드 켜기</string>
-    <string name="description_target_unlock">잠금 해제</string>
+    <string name="description_target_unlock">잠금해제</string>
     <string name="description_target_unlock_tablet">스와이프하여 잠급니다.</string>
     <string name="dial_number_using">"전화하기 
 %s에 연결"</string>
@@ -250,7 +250,7 @@
     <string name="extmedia_format_message">USB 저장소에 저장된 파일이 모두 삭제됩니다. 이 작업은 되돌릴 수 없습니다.</string>
     <string name="extmedia_format_title">USB 저장소를 포맷하시겠습니까?</string>
     <string name="extract_edit_menu_button">수정</string>
-    <string name="faceunlock_multiple_failures">얼굴 인식 잠금해제 최대 시도 횟수를 초과했습니다.</string>
+    <string name="faceunlock_multiple_failures">얼굴인식 잠금해제 최대 시도 횟수를 초과했습니다.</string>
     <string name="factorytest_failed">출고 테스트 불합격</string>
     <string name="factorytest_no_action">FACTORY_TEST 작업을 제공하는 패키지가 없습니다.</string>
     <string name="factorytest_not_system">FACTORY_TEST 작업은 /system/app 디렉토리에 설치된 패키지에 대해서만 지원됩니다.</string>
@@ -362,7 +362,7 @@
     <string name="keyboardview_keycode_mode_change">모드 변경</string>
     <string name="keyboardview_keycode_shift">Shift 키</string>
     <string name="keyguard_label_text">잠금해제하려면 메뉴를 누른 다음 0을 누릅니다.</string>
-    <string name="keyguard_password_enter_password_code">잠금 해제하려면 비밀번호 입력</string>
+    <string name="keyguard_password_enter_password_code">잠금해제하려면 비밀번호 입력</string>
     <string name="keyguard_password_enter_pin_code">PIN 코드 입력</string>
     <string name="keyguard_password_enter_pin_password_code">잠금을 해제하려면 PIN 입력</string>
     <string name="keyguard_password_enter_pin_prompt">새 PIN 코드</string>
@@ -386,16 +386,16 @@
     <string name="lockscreen_carrier_default">서비스 불가</string>
     <string name="lockscreen_charged">충전되었습니다.</string>
     <string name="lockscreen_emergency_call">비상 전화</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금 해제하려는 시도가 %d번 잘못되었습니다. %d번 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 손실됩니다.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금해제하려는 시도가 %d번 잘못되었습니다. %d번 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 손실됩니다.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 Google 로그인을 통해 휴대전화를 잠금해제해야 합니다.
 
  %d초 후에 다시 시도하세요."</string>
-    <string name="lockscreen_failed_attempts_now_wiping">휴대전화를 잠금 해제하려는 시도가 %d번 잘못되었습니다. 휴대전화가 초기화됩니다.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">휴대전화를 잠금해제하려는 시도가 %d번 잘못되었습니다. 휴대전화가 초기화됩니다.</string>
     <string name="lockscreen_forgot_pattern_button_text">패턴을 잊으셨나요?</string>
     <string name="lockscreen_glogin_account_recovery_hint">"사용자 이름이나 비밀번호를 잊어버렸습니까?
 "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;&amp;#47484; &amp;#48169;&amp;#47928;&amp;#54616;&amp;#49464;&amp;#50836;.</string>
     <string name="lockscreen_glogin_checking_password">확인 중…</string>
-    <string name="lockscreen_glogin_forgot_pattern">계정 잠금 해제</string>
+    <string name="lockscreen_glogin_forgot_pattern">계정 잠금해제</string>
     <string name="lockscreen_glogin_instructions">잠금해제하려면 Google 계정으로 로그인하세요.</string>
     <string name="lockscreen_glogin_invalid_input">사용자 이름 또는 비밀번호가 잘못되었습니다.</string>
     <string name="lockscreen_glogin_password_hint">비밀번호</string>
@@ -591,8 +591,8 @@
     <string name="permdesc_bindTextService">권한을 가진 프로그램이 텍스트 서비스(예: SpellCheckerService)에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindVpnService">권한을 가진 프로그램이 VPN 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindWallpaper">권한을 가진 프로그램이 배경화면에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
-    <string name="permdesc_bluetooth">앱이 휴대전화의 블루투스 설정을 확인하고 페어링된 기기에 연결하며 연결을 수락할 수 있도록 허용합니다.</string>
-    <string name="permdesc_bluetoothAdmin">앱이 로컬 블루투스 휴대전화를 설정한 다음 원격 기기를 검색하여 페어링할 수 있도록 허용합니다.</string>
+    <string name="permdesc_bluetooth">앱이 휴대전화의 블루투스 설정을 확인하고 연결된 기기에 연결하며 연결을 수락할 수 있도록 허용합니다.</string>
+    <string name="permdesc_bluetoothAdmin">앱이 로컬 블루투스 휴대전화를 설정한 다음 원격 기기를 검색하여 연결할 수 있도록 허용합니다.</string>
     <string name="permdesc_brick">앱이 휴대전화를 영구적으로 사용중지할 수 있게 허용합니다. 이 기능은 매우 위험합니다.</string>
     <string name="permdesc_broadcastPackageRemoved">앱이 앱 패키지가 삭제되었다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 실행 중인 다른 앱을 중지시킬 수 있습니다.</string>
     <string name="permdesc_broadcastSmsReceived">앱이 SMS 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 수신된 SMS 메시지를 위조할 수 있습니다.</string>
@@ -788,7 +788,7 @@
     <string name="permlab_bindTextService">텍스트 서비스 연결</string>
     <string name="permlab_bindVpnService">VPN 서비스와 연결</string>
     <string name="permlab_bindWallpaper">배경화면 연결</string>
-    <string name="permlab_bluetooth">블루투스 기기와 페어링</string>
+    <string name="permlab_bluetooth">블루투스 기기와 연결</string>
     <string name="permlab_bluetoothAdmin">블루투스 설정에 액세스</string>
     <string name="permlab_brick">휴대전화를 영구적으로 사용 중지</string>
     <string name="permlab_broadcastPackageRemoved">패키지 제거 브로드캐스트 보내기</string>

@@ -113,7 +113,7 @@
     <string name="usage_state_channel_week">최근 7일</string>
     <string name="usage_state_date">M월 d일</string>
     <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00-%d:00간 알림 시간</string>
-    <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00-%d:00간 잠금 해제 시간</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00-%d:00간 잠금해제 시간</string>
     <string name="usage_state_friday">금</string>
     <string name="usage_state_go_more">더 많은 앱</string>
     <string name="usage_state_hour_minute" formatted="false">%d시간 %d분</string>
@@ -133,7 +133,7 @@
     <string name="usage_state_today">오늘</string>
     <string name="usage_state_today_total_text">오늘 화면 켜짐 시간</string>
     <string name="usage_state_tuesday">화</string>
-    <string name="usage_state_unlock_mourth_day">"%s '잠금 해제 시간'"</string>
+    <string name="usage_state_unlock_mourth_day">"%s '잠금해제 시간'"</string>
     <string name="usage_state_usage_time">화면 켜짐 시간</string>
     <string name="usage_state_usage_time_remind">화면 시간 알림</string>
     <string name="usage_state_use_time_remind_title">화면 시간 알림</string>
@@ -156,7 +156,7 @@
     <string name="usage_state_focus_mode_summary2">포커스 유지</string>
     <string name="usage_state_focus_mode_summary3">포커스를 유지하려면 노력이 필요합니다.</string>
     <string name="usage_state_focus_mode_title">포커스 모드</string>
-    <string name="usage_state_focus_mode_warning_message">"포커스 모드로 설정하면 카메라와 긴급 통화만 가능합니다 포커스 모드를 미리 해제 할 수 없습니다."</string>
+    <string name="usage_state_focus_mode_warning_message">"포커스 모드로 설정하면 카메라와 긴급 통화만 가능합니다 포커스 모드를 미리 해제할 수 없습니다."</string>
     <string name="usage_state_focus_mode_warning_title">집중</string>
     <string name="usage_state_focus_take_photo">카메라</string>
     <string name="usage_state_focus_warning_text">중요한 일에 집중하세요.</string>
@@ -199,7 +199,7 @@
     <string name="usage_focus_title_level3">일반적인 수준 이상으로 상승</string>
     <string name="usage_focus_title_level4">일관된 기쁨 찾기</string>
     <string name="usage_focus_title_level5">집중 유지</string>
-    <string name="usage_home_premission_main_summary">"화면 시간에 오신 것을 환영합니다!이 앱을 사용하여 화면 시간 제한을 설정하고 통계를보고 초점 모드로 전환 할 수 있습니다.이 앱은 화면 시간 정보를 수집해야합니다 (예 : 잠금 해제 횟수) 휴대전화를 켜고 화면을 켜고 앱을 사용하는 시간) 정상적으로 작동합니다."</string>
+    <string name="usage_home_premission_main_summary">"화면 시간에 오신 것을 환영합니다!이 앱을 사용하여 화면 시간 제한을 설정하고 통계를보고 초점 모드로 전환할 수 있습니다.이 앱은 화면 시간 정보를 수집해야합니다 (예 : 잠금해제 횟수) 휴대전화를 켜고 화면을 켜고 앱을 사용하는 시간) 정상적으로 작동합니다."</string>
     <string name="usage_home_premission_second_summary">정상적으로 작동하려면이 앱에서 개인 정보를 수집해야합니다. 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.</string>
     <string name="usage_state_addup_time">모든 세션</string>
     <string name="usage_state_download">갤러리에 저장</string>
@@ -224,8 +224,8 @@
     <string name="healthy_use_phone">휴대전화의 건강한 사용</string>
     <string name="special_feature">특수 기능</string>
     <string name="category_other">기타</string>
-    <string name="first_unlock_time">처음으로 잠금 해제 됨 :</string>
-    <string name="most_unlock_week_day">최대 잠금 해제 :</string>
+    <string name="first_unlock_time">처음으로 잠금해제 됨 :</string>
+    <string name="most_unlock_week_day">최대 잠금해제 :</string>
     <string name="several_days_use_time">%2$s는 거의 %1$d일 동안 사용됩니다.</string>
     <string name="today_usage_title">"오늘의 통계"</string>
     <string name="today_use_time">현재 사용된 시간 %1$s</string>
@@ -237,8 +237,8 @@
     <string name="trend_from_yesterday_less_simple">어제보다 %1$s 낮음</string>
     <string name="trend_from_yesterday_more">어제보다 %1$s 이상을 사용함</string>
     <string name="trend_from_yesterday_more_simple">어제보다 %1$s 높음</string>
-    <string name="unlock_times_per_day">평균 일일 잠금 해제 :</string>
-    <string name="unlock_times_per_hour">평균 시간별 잠금 해제 :</string>
+    <string name="unlock_times_per_day">평균 일일 잠금해제 :</string>
+    <string name="unlock_times_per_hour">평균 시간별 잠금해제 :</string>
     <string name="usage_state_focus_mode_experience_warning_message">"포커스 모드는 카메라 실행 도중이거나 긴급 전화를 사용 중일때만 사용 가능합니다. 해당 기능들을 사용중이지 않을 때는 이 기능을 실행할 수 없습니다."</string>
     <string name="advanced_mode">고급 설정</string>
     <string name="color_gamut">색 영역</string>
@@ -328,7 +328,7 @@
     <string name="touch_description">최적화 된 버튼과 바로 가기는 실수로 닿지 않도록 도와줍니다.</string>
     <string name="touch_title">향상된 터치 컨트롤</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">"우리는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 개인 정보를 보호해야합니다. 이러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는 데 동의하지 않으면 귀하는 화면 시간 &gt; 설정 &gt; 화면 시간 끄기에서 승인을 취소 할 수 있습니다."</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;이 앱을 사용하기 전에 &lt;a href='%1s'&amp;gt;사용자 약관&amp;lt;/a&amp;gt; 및 &amp;lt;a href='%2s'&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하셔야 합니다.&lt;/Data&gt;"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;이 앱을 사용하기 전에 &lt;a href='%1s'&amp;gt;사용자 약관&amp;lt;/a&amp;gt; 및 &amp;lt;a href='%2s'&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의해야 합니다.&lt;/Data&gt;"</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="afternoon">오후</string>
     <string name="am">오전</string>
@@ -399,7 +399,7 @@
     <string name="normal_mode">일반</string>
     <string name="normal_mode_summary">"조명 조건에서 깜빡임을 줄이지 마세요"</string>
     <string name="not_set">설정되지 않음</string>
-    <string name="preference_copied">\"%1$s\"가 클립 보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>
     <string name="saturday_shortest">토</string>
@@ -431,7 +431,7 @@
     <string name="usage_new_home_day_category_title">앱 카테고리</string>
     <string name="usage_new_home_day_title">일</string>
     <string name="usage_new_home_day_usage_title">개별 앱</string>
-    <string name="usage_new_home_first_unlock">첫 번째 잠금 해제 : %s</string>
+    <string name="usage_new_home_first_unlock">첫 번째 잠금해제 : %s</string>
     <string name="usage_new_home_name">이름</string>
     <string name="usage_new_home_show_more_data_summary">개별 앱의 화면 시간을 제한 할 수도 있습니다.</string>
     <string name="usage_new_home_show_more_data_title">더 많은 통계보기</string>

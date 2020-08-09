@@ -12,7 +12,7 @@
     <string name="mru_setting_brief_detail">"최근에 사용된 빠른 앱 및 바로 가기"</string>
     <string name="mru_title">최근 항목</string>
     <string name="app_debug_settings">앱 디버그 설정</string>
-    <string name="app_debug_settings_copied_to_clipboard">클립 보드에 복사했습니다.</string>
+    <string name="app_debug_settings_copied_to_clipboard">클립보드에 복사했습니다.</string>
     <string name="app_debug_settings_host_title">호스트 환경 스위치</string>
     <string name="app_debug_settings_id_title">장치 ID 쿼리</string>
     <string name="app_debug_settings_oaid">OAID</string>
@@ -242,7 +242,7 @@
     <string name="alipay_registNewAccount">등록 된 계정</string>
     <string name="alipay_reigsterSuccess">성공적인 등록</string>
     <string name="alipay_reinput">다시 입력</string>
-    <string name="alipay_risk_account_dialog_tip">현재 계정에 로그인 할 수 없습니다 다음과 같은 방법으로 작업을 완료 할 수 있습니다.</string>
+    <string name="alipay_risk_account_dialog_tip">현재 계정에 로그인할 수 없습니다 다음과 같은 방법으로 작업을 완료할 수 있습니다.</string>
     <string name="alipay_risk_process_cancel">취소</string>
     <string name="alipay_risk_process_change_account">계정 변경</string>
     <string name="alipay_risk_process_verify_by_alipay">휴대전화 alipay 인증으로 이동</string>
@@ -353,7 +353,7 @@
     <string name="book_dep_city">출발지</string>
     <string name="book_his">예약 내역</string>
     <string name="book_input_lack">모든 필수 필드를 먼저 채우세요.</string>
-    <string name="book_save_fail">예약을 추가 할 수 없습니다. 다시 시도하세요.</string>
+    <string name="book_save_fail">예약을 추가할 수 없습니다. 다시 시도하세요.</string>
     <string name="book_save_sucess">예약이 성공적으로 추가되었습니다.</string>
     <string name="book_store">책 보기</string>
     <string name="book_tomorow">내일</string>
@@ -481,7 +481,7 @@
     <string name="cta_dialog_positive">동의하고 계속하기</string>
     <string name="cta_dialog_text_all">퀵카드를 사용하려면 %1$s\"사용자 약관\" %2$s and %3$s \"개인 정보 보호 약관\" %4$s를 읽고 동의해야합니다. 또한 인터넷 연결 및 위치 서비스에 대한 액세스가 필요합니다. 동의하십니까?</string>
     <string name="cta_dialog_text_new_user">%1$s사용자 동의%2$s 및 %3$s개인 정보 보호 정책%4$s을 읽고 동의하세요.</string>
-    <string name="cta_dialog_text_old_user">퀵 카드를 사용하시기 전에, 먼저 %1$s\"퀵 카드 개인정보 보호정책\"%2$s에 동의하셔야 합니다. 동의하시면 \"시작\"을 누르세요.</string>
+    <string name="cta_dialog_text_old_user">퀵 카드를 사용하시기 전에, 먼저 %1$s\"퀵 카드 개인정보 보호정책\"%2$s에 동의해야 합니다. 동의하시면 \"시작\"을 누르세요.</string>
     <string name="cta_dialog_title">통지 및 조건</string>
     <string name="cta_negative">닫기</string>
     <string name="cta_not_now">나중에</string>
@@ -818,7 +818,7 @@
     <string name="favorite_add_home_process">추가 중...</string>
     <string name="favorite_all_selec">"모두 선택 "</string>
     <string name="favorite_cancel">취소</string>
-    <string name="favorite_clipboard_tip">클립 보드의 URL 주소를 즐겨 찾기에 추가하시겠습니까?</string>
+    <string name="favorite_clipboard_tip">클립보드의 URL 주소를 즐겨 찾기에 추가하시겠습니까?</string>
     <string name="favorite_delete">삭제</string>
     <string name="favorite_important">중요</string>
     <string name="favorite_label">즐겨찾기</string>
@@ -1113,7 +1113,7 @@
     <string name="mini_no_input">이 칸은 비워 둘 수 없습니다.</string>
     <string name="mini_open_bluetooth">켜기</string>
     <string name="mini_open_bluetooth_now">블루투스 활성화...</string>
-    <string name="mini_open_bluetooth_tips">블루투스를 키고 페어링이 가능하게 설정해주세요.</string>
+    <string name="mini_open_bluetooth_tips">블루투스를 키고 연결이 가능하게 설정해주세요.</string>
     <string name="mini_page_add_hint">카드 번호</string>
     <string name="mini_page_add_other_pay">기타 지불 방법</string>
     <string name="mini_page_add_tips">암호 및 문자 확인을 위해 이중 보호 기능 제공</string>
@@ -1270,7 +1270,7 @@
     <string name="network_exception">인기가 너무 바빠서 나중에 다시 시도하세요.</string>
     <string name="network_tip">네트워크에 연결할 수 없습니다.</string>
     <string name="network_unavaliable">네트워크에 연결할 수 없습니다.</string>
-    <string name="no_connect">페어링되지 않은</string>
+    <string name="no_connect">연결되지 않은</string>
     <string name="no_install">설치되지 않음</string>
     <string name="no_more_result">결과가 더 이상 없음</string>
     <string name="no_settings">설정되지 않음</string>
@@ -1392,7 +1392,7 @@
     <string name="quick_app_setting_brief">최근 사용된 빠른실행 앱(내역을 보시려면 퀵 카드에서 아래로 당기세요)</string>
     <string name="quick_app_setting_brief_detail">최근 사용한 모든 빠른실행 앱 보기</string>
     <string name="quick_app_title">최근 사용한 빠른실행 앱</string>
-    <string name="quickstart_accessibility_description">이 서비스에 대한 일부 타사 응용 프로그램 페이지에 대한 지원을 제공합니다. 이 서비스를 종료하면 페이지 건너 뛰기가 취소됩니다.</string>
+    <string name="quickstart_accessibility_description">이 서비스에 대한 일부 타사 응용 프로그램 페이지에 대한 지원을 제공합니다. 이 서비스를 종료하면 페이지 건너뛰기가 취소됩니다.</string>
     <string name="quickstart_accessibility_service">정보 지원</string>
     <string name="recharge_flow">모바일 데이터 구매</string>
     <string name="recharge_tel">남은 전화통화 시간</string>
@@ -1542,7 +1542,7 @@
     <string name="shopping_rmb">￥%s</string>
     <string name="shopping_search">쇼핑 검색</string>
     <string name="shopping_setting_authorize">구매 정보 내보내기 허용</string>
-    <string name="shopping_setting_authorize_sub">Valut는 즐겨 찾기 및 쇼핑 카트 항목에 액세스 할 수 있습니다.</string>
+    <string name="shopping_setting_authorize_sub">Valut는 즐겨 찾기 및 쇼핑 카트 항목에 액세스할 수 있습니다.</string>
     <string name="shopping_setting_base">설정</string>
     <string name="shopping_setting_brief">Valut에서 구입한 정보를 수집합니다.</string>
     <string name="shopping_setting_brief_detail">Valut에서 여러 전자 상거래 앱의 구매 정보를 수집합니다.</string>

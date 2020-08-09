@@ -39,7 +39,7 @@
     <string name="install_app_progress_clear_apk">패키지 삭제</string>
     <string name="install_control_cancel_install">"설치하지 않음"</string>
     <string name="install_control_continue_install">어쨌든 설치</string>
-    <string name="install_control_lite_mode_explain_des">이 앱은 알 수없는 출처에서 제공되었으며 라이트 모드에서 작동하지 않을 수 있습니다.</string>
+    <string name="install_control_lite_mode_explain_des">이 앱은 알 수 없는 출처에서 제공되었으며 라이트 모드에서 작동하지 않을 수 있습니다.</string>
     <string name="install_control_lite_mode_solution_des">"이 앱을 설치하도록 선택할 수 있습니다.
 또는 라이트 모드를 끄고 다시 시도하세요."</string>
     <string name="install_control_normal_mode_explain_des"> "법적 제한으로 인해 이 앱을 설치할 수 없습니다."</string>
@@ -66,7 +66,7 @@
     <string name="allPerms">전체</string>
     <string name="all_permissions">모든 권한</string>
     <string name="anonymous_source_continue">계속</string>
-    <string name="anonymous_source_warning">전화 및 개인 데이터는 알 수없는 앱의 공격에 더 취약합니다. 이 앱을 설치하면 휴대전화의 손상 또는 사용으로 인해 발생할 수있는 데이터 손실에 대한 책임이 있음에 동의합니다.</string>
+    <string name="anonymous_source_warning">전화 및 개인 데이터는 알 수 없는 앱의 공격에 더 취약합니다. 이 앱을 설치하면 휴대전화의 손상 또는 사용으로 인해 발생할 수 있는 데이터 손실에 대한 책임이 있음에 동의합니다.</string>
     <string name="app_install_failed_button_text">앱 검색</string>
     <string name="app_name">패키지 설치 관리자</string>
     <string name="app_name_unknown">알 수 없음</string>
@@ -120,7 +120,7 @@
     <string name="game_center_intercept_trust_app">이 앱을 신뢰하고 가능한 모든 위험을 처리할 수 ​​있습니다.</string>
     <string name="game_center_intercept_warning_msg">"이 앱은 샤오미에서 바이러스를 검사하지 않았습니다. 보안 위험을 피하기 위해 게임에서 이 앱을 설치하세요."</string>
     <string name="game_center_lunch_error">먼저 Mi 게임 설치</string>
-    <string name="grant_confirm_question">다음 권한을 부여하시겠습니까? 다음에 액세스 할 수 있습니다.</string>
+    <string name="grant_confirm_question">다음 권한을 부여하시겠습니까? 다음에 액세스할 수 있습니다.</string>
     <string name="grant_dialog_button_allow">허용</string>
     <string name="grant_dialog_button_deny">거부</string>
     <string name="grant_dialog_button_deny_anyway">어쨌든 거부</string>
@@ -135,11 +135,11 @@
     <string name="increment_preparing">준비…</string>
     <string name="install">설치</string>
     <string name="installing">설치중…</string>
-    <string name="install_confirm_question">이 응용 프로그램을 설치하시겠습니까? 다음에 액세스 할 수 있습니다.</string>
+    <string name="install_confirm_question">이 응용 프로그램을 설치하시겠습니까? 다음에 액세스할 수 있습니다.</string>
     <string name="install_confirm_question_no_perms">"이 앱을 설치하시겠습니까? 특별한 권한이 필요하지 않습니다."</string>
-    <string name="install_confirm_question_update">"기존 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 업데이트 된 애플리케이션은 다음에 액세스 할 수 있습니다."</string>
+    <string name="install_confirm_question_update">"기존 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 업데이트 된 애플리케이션은 다음에 액세스할 수 있습니다."</string>
     <string name="install_confirm_question_update_no_perms">"기존 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 특별한 권한이 필요하지 않습니다."</string>
-    <string name="install_confirm_question_update_system">"이 시스템 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 업데이트 된 앱은 다음에 액세스 할 수 있습니다."</string>
+    <string name="install_confirm_question_update_system">"이 시스템 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 업데이트 된 앱은 다음에 액세스할 수 있습니다."</string>
     <string name="install_confirm_question_update_system_no_perms">"이 시스템 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 특별한 권한이 필요하지 않습니다."</string>
     <string name="install_done">앱이 설치되었습니다.</string>
     <string name="install_failed">"앱을 설치할 수 없습니다."</string>
@@ -204,7 +204,7 @@
     <string name="miui_failed_system_incompatible">호환되지 않는 설치 패키지</string>
     <string name="miui_failed_update_incompatible">충돌하는 앱 서명</string>
     <string name="miui_failed_version_downgrade">"앱을 다운그레이드 할 수 없습니다."</string>
-    <string name="miui_failed_version_downgrade_space">"두번째 공간에 이 앱의 최신버전이 있습니다."</string>
+    <string name="miui_failed_version_downgrade_space">"두 번째 공간에 이 앱의 최신버전이 있습니다."</string>
     <string name="miui_help_feedback_label">도움말 및 피드백</string>
     <string name="miui_installing">설치중…</string>
     <string name="miui_installing2">설치중…</string>
@@ -221,7 +221,7 @@
     <string name="miui_message_staging_1">스테이징 앱.</string>
     <string name="miui_message_staging_2">스테이징 앱..</string>
     <string name="miui_message_staging_3">스테이징 앱...</string>
-    <string name="miui_not_uninstall_system_app">"시스템 앱을 제거 할 수 없습니다."</string>
+    <string name="miui_not_uninstall_system_app">"시스템 앱을 제거할 수 없습니다."</string>
     <string name="miui_no_perms">권한이 필요하지 않습니다.</string>
     <string name="miui_other_relative">기타</string>
     <string name="miui_permission_manage_title">%s 세부 사항</string>
@@ -255,7 +255,7 @@
     <string name="no_new_perms">"이 업데이트는 새로운 권한이 필요하지 않습니다."</string>
     <string name="no_permissions">권한 없음</string>
     <string name="ok">확인</string>
-    <string name="old_sdk_deny_warning">이 앱은 이전 버전의 안드로이드용으로 설계되었습니다. 권한을 거부하면 더이상 의도한대로 작동하지 않을 수 있습니다.</string>
+    <string name="old_sdk_deny_warning">이 앱은 이전 버전의 Android용으로 설계되었습니다. 권한을 거부하면 더이상 의도한대로 작동하지 않을 수 있습니다.</string>
     <string name="other_permissions">기타 앱 기능</string>
     <string name="other_relative">기타</string>
     <string name="out_of_space_dlg_text">"%1$s 앱을 설치할 수 없습니다. 여유 공간을 확보한 후 다시시도하세요."</string>
@@ -309,7 +309,7 @@
     <string name="screen_overlay_title">화면 오버레이 감지</string>
     <string name="security_settings_desc">이 앱을 허용:</string>
     <string name="settings">설정</string>
-    <string name="settings_warning_dialog_detail">"다음과 같은 경우에 프롬프트가 표시됩니다 :"<li>앱에 바이러스가 포함 된 경우 </li> ""<li>설치 패키지는 알 수없는 출처에서 제공됩니다.</li></string>
+    <string name="settings_warning_dialog_detail">"다음과 같은 경우에 프롬프트가 표시됩니다 :"<li>앱에 바이러스가 포함 된 경우 </li> ""<li>설치 패키지는 알 수 없는 출처에서 제공됩니다.</li></string>
     <string name="settings_warning_dialog_msg">"휴대전화는 보안 위험이 있습니다.이 기능을 끄면 안전한 앱 버전을 설치하라는 메시지가 표시되지 않습니다. 어쨌든 끄시겠습니까?"</string>
     <string name="settings_warning_dialog_title">주의</string>
     <string name="system_warning">이 권한을 거부하면 기기의 기본 기능이 더 이상 의도 한대로 작동하지 않을 수 있습니다.</string>
@@ -322,26 +322,26 @@
     <string name="uninstall_application_text_all_users"><b>모든</b> 사용자를 위해이 앱을 제거하시겠습니까? 기기의 <b>모든</b> 사용자가 앱과 해당 데이터를 제거합니다.</string>
     <string name="uninstall_application_text_user">사용자 %1$s에 대해 이 앱을 제거하시겠습니까?</string>
     <string name="uninstall_application_title">앱 제거</string>
-    <string name="uninstall_blocked_device_owner">"이 앱은 기기 관리자가 필요하며 제거 할 수 없습니다."</string>
-    <string name="uninstall_blocked_profile_owner">"이 앱은 프로필에 필요하며 제거 할 수 없습니다."</string>
+    <string name="uninstall_blocked_device_owner">"이 앱은 기기 관리자가 필요하며 제거할 수 없습니다."</string>
+    <string name="uninstall_blocked_profile_owner">"이 앱은 프로필에 필요하며 제거할 수 없습니다."</string>
     <string name="uninstall_confirm_question">이 앱을 제거하시겠습니까?</string>
     <string name="uninstall_done">설치 제거 완료</string>
-    <string name="uninstall_failed">"제거 할 수 없습니다."</string>
-    <string name="uninstall_failed_device_policy_manager">"이 패키지는 활성 장치 관리자이므로 제거 할 수 없습니다."</string>
-    <string name="uninstall_failed_device_policy_manager_of_user">"이 패키지는 사용자 %1$s의 활성 장치 관리자이므로 제거 할 수 없습니다."</string>
-    <string name="uninstall_failed_msg">"%1$s 앱을 제거 할 수 없습니다."</string>
-    <string name="uninstall_failed_retained_app_msg">"이 앱은 수정되었으며 현재 형태로 제거 할 수 없습니다."</string>
+    <string name="uninstall_failed">"제거할 수 없습니다."</string>
+    <string name="uninstall_failed_device_policy_manager">"이 패키지는 활성 장치 관리자이므로 제거할 수 없습니다."</string>
+    <string name="uninstall_failed_device_policy_manager_of_user">"이 패키지는 사용자 %1$s의 활성 장치 관리자이므로 제거할 수 없습니다."</string>
+    <string name="uninstall_failed_msg">"%1$s 앱을 제거할 수 없습니다."</string>
+    <string name="uninstall_failed_retained_app_msg">"이 앱은 수정되었으며 현재 형태로 제거할 수 없습니다."</string>
     <string name="uninstall_update_text">이 앱을 공장 버전으로 교체하시겠습니까? 모든 데이터가 삭제됩니다.</string>
     <string name="uninstall_update_text_multiuser">이 앱을 공장 버전으로 교체하시겠습니까? 모든 데이터가 제거됩니다. 업무용 프로필이있는 사용자를 포함하여이 기기의 모든 사용자에게 영향을 미칩니다.</string>
     <string name="uninstall_update_title">업데이트 제거</string>
     <string name="unknown">알 수 없음</string>
-    <string name="unknown_apps_admin_dlg_text">"관리자가 알 수없는 출처에서 얻은 앱을 설치할 수 없습니다."</string>
-    <string name="unknown_apps_dlg_text">보안을 위해 휴대전화는 알 수없는 출처에서 얻은 앱의 설치를 차단하도록 설정되어 있습니다.</string>
-    <string name="unknown_installer">알 수없는 PC 도구</string>
+    <string name="unknown_apps_admin_dlg_text">"관리자가 알 수 없는 출처에서 얻은 앱을 설치할 수 없습니다."</string>
+    <string name="unknown_apps_dlg_text">보안을 위해 휴대전화는 알 수 없는 출처에서 얻은 앱의 설치를 차단하도록 설정되어 있습니다.</string>
+    <string name="unknown_installer">알 수 없는 PC 도구</string>
     <string name="unlike">고마워요</string>
     <string name="untrusted_external_source_title">\ "%1$s \"가 앱을 설치하도록 허용하시겠습니까?</string>
-    <string name="untrusted_external_source_warning">"보안 상 휴대전화는이 소스에서 알 수없는 앱을 설치할 수 없습니다."</string>
-    <string name="untrusted_external_source_warning_summary">전화 및 개인 데이터는 알 수없는 출처의 공격에 취약합니다. 이 소스에서 앱을 설치하면 이러한 앱 사용으로 인해 발생할 수있는 손상 또는 데이터 손실에 대한 책임을 수락하는 데 동의합니다.</string>
+    <string name="untrusted_external_source_warning">"보안 상 휴대전화는이 소스에서 알 수 없는 앱을 설치할 수 없습니다."</string>
+    <string name="untrusted_external_source_warning_summary">전화 및 개인 데이터는 알 수 없는 출처의 공격에 취약합니다. 이 소스에서 앱을 설치하면 이러한 앱 사용으로 인해 발생할 수 있는 손상 또는 데이터 손실에 대한 책임을 수락하는 데 동의합니다.</string>
     <string name="user_is_not_allowed_dlg_text">현재 사용자는이 제거를 수행 할 수 없습니다.</string>
     <string name="user_is_not_allowed_dlg_title">허용되지 않음</string>
     <string name="virus_scan_caller_unknown">알 수 없음</string>
@@ -351,8 +351,8 @@
     <string name="virus_scan_is_virus">이 앱에는 바이러스가 포함되어 있습니다.</string>
     <string name="virus_title_subtext">"이 응용 프로그램은 바이러스를 포함 할 수 있습니다:"</string>
     <string name="waiting_tip">시간이 걸릴 수 있지만 그만한 가치가 있습니다.</string>
-    <string name="wear_app_channel">안드로이드 웨어 앱 설치/제거</string>
+    <string name="wear_app_channel">Android 웨어 앱 설치/제거</string>
     <string name="wear_not_allowed_dlg_text">웨어에서 설치/제거 작업이 지원되지 않습니다.</string>
-    <string name="wear_not_allowed_dlg_title">안드로이드 웨어</string>
+    <string name="wear_not_allowed_dlg_title">Android 웨어</string>
     <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다.</string>
 </resources>

@@ -81,7 +81,7 @@
     <string name="install_btn_ok">확인</string>
     <string name="install_start_cleanup">청소</string>
     <string name="install_sign_not_same_title">서명이 일치하지 않습니다.</string>
-    <string name="install_sign_not_same_message">%1$s의 업데이트가 로컬 앱의 서명과 일치하지 않습니다. 이 업데이트를 설치하시려면 사용 중이신 현재 버전의 앱을 제거하셔야 합니다.</string>
+    <string name="install_sign_not_same_message">%1$s의 업데이트가 로컬 앱의 서명과 일치하지 않습니다. 이 업데이트를 설치하시려면 사용 중이신 현재 버전의 앱을 제거해야 합니다.</string>
     <string name="install_sign_not_same_btn_remove">설치 제거</string>
     <string name="upgrade_all_title">전체 업데이트</string>
     <string name="upgrade_all_description_lte_2">%1$s 앱을 업데이트하시겠습니까?</string>

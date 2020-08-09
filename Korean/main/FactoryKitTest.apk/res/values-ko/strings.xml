@@ -2,7 +2,7 @@
 <resources>
     <string name="action_settings">설정</string>
     <string name="additional_test">추가 테스트</string>
-    <string name="after_cali_tips">보정 후 센서 데이터가 정상적으로 바뀔 수 있는지 다시 한번 확인하세요!</string>
+    <string name="after_cali_tips">보정 후 센서 데이터가 정상적으로 바뀔 수 있는지 다시 한 번 확인하세요!</string>
     <string name="all_led_name">모든 Led 테스트</string>
     <string name="alsps_backlight">백라이트 :</string>
     <string name="alsps_name">ALS/PS</string>
@@ -29,7 +29,7 @@
     <string name="battery_current_prompt">현재 시간을 좀 기다려주세요.</string>
     <string name="battery_fail">배터리 테스트 실패!</string>
     <string name="battery_heath_dead">안좋음</string>
-    <string name="battery_heath_failure">알수없는 오류</string>
+    <string name="battery_heath_failure">알수 없는 오류</string>
     <string name="battery_heath_good">좋음</string>
     <string name="battery_heath_over_heat">과열</string>
     <string name="battery_heath_over_voltage">과전압</string>

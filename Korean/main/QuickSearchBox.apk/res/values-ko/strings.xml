@@ -20,7 +20,7 @@
     <string name="corpus_label_web">웹</string>
     <string name="corpus_description_web">북마크</string>
     <string name="corpus_label_apps">앱</string>
-    <string name="corpus_description_apps">설치된 어플리케이션</string>
+    <string name="corpus_description_apps">설치된 애플리케이션</string>
     <string name="cta_declaration_title">서비스 약관</string>
     <string name="cta_declaration">이 기능은 귀하의 위치정보, 통화 목록, 연락처, 인터넷 등을 사용할수 있을때 정상적으로 작동합니다.</string>
     <string name="cta_declaration_ignore">다시 보지 않기</string>
@@ -33,7 +33,7 @@
     <string name="settings_description">설치된 앱 이름</string>
     <string name="appindex_search_label">앱 기능</string>
     <string name="appindex_description">설치된 앱의 기능</string>
-    <string name="application_desc">어플리케이션</string>
+    <string name="application_desc">애플리케이션</string>
     <string name="web_search_results">웹 검색 결과</string>
     <string name="search_group_fold">숨기기</string>
     <string name="search_group_unfold">자세히</string>

@@ -22,8 +22,8 @@
     <string name="oper_long_46601">Far EasTone</string>
     <string name="oper_long_46692">Chunghwa Telecom</string>
     <string name="oper_long_46697">Taiwan Mobile</string>
-    <string name="oper_long_99998">안드로이드 1</string>
-    <string name="oper_long_99999">안드로이드</string>
+    <string name="oper_long_99998">Android 1</string>
+    <string name="oper_long_99999">Android</string>
     <string name="oper_short_46000">CMCC</string>
     <string name="oper_short_46001">CU-GSM</string>
     <string name="oper_short_46601">FET</string>
@@ -246,7 +246,7 @@
     <string name="wfc_local_or_null_ptr_error">에러 코드 07: 연결할 수 없음</string>
     <string name="wfc_off">Wi-Fi 전화 꺼짐</string>
     <string name="wfc_on">이제 Wi-Fi를 이용해 전화를 걸 준비가 되었습니다.</string>
-    <string name="wfc_rns_allowed_radio_deny">사용할 수있는 네트워크가 없습니다. 사용 가능한 Wi-Fi 네트워크에 연결하세요.</string>
+    <string name="wfc_rns_allowed_radio_deny">사용할 수 있는 네트워크가 없습니다. 사용 가능한 Wi-Fi 네트워크에 연결하세요.</string>
     <string name="wfc_rns_allowed_radio_none">결정할 문자열</string>
     <string name="wfc_server_cert_invalid_error">에러 코드 011 : 유효하지 않은 인증서</string>
     <string name="wfc_server_cert_validation_error">에러 코드 010 : 유효하지 않은 인증서</string>

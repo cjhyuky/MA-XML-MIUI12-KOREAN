@@ -355,7 +355,7 @@
     <string name="empty_app_name">다른 앱</string>
     <string name="empty_bookmark">비어 있음</string>
     <string name="empty_cloud_tab_login_hint">클라우드 탭 없음</string>
-    <string name="empty_cloud_tab_logout_hint">미 계정에 로그인하여 다른 기기에 같은 화면을 전송해보세요.</string>
+    <string name="empty_cloud_tab_logout_hint">Mi 계정에 로그인하여 다른 기기에 같은 화면을 전송해보세요.</string>
     <string name="empty_history_hint">검색기록이 없습니다.</string>
     <string name="empty_snapshot_hint">비어있음</string>
     <string name="enable_geolocation_confirm_message">이 기능을 끄는 것은 몇 몇 웹사이트가 오작동하게 만들 수 있습니다.</string>
@@ -437,7 +437,7 @@
     <string name="guide_politics_text">정치</string>
     <string name="guide_second_optimization_type_main_title">재생 바에서 휴식을 취하세요.</string>
     <string name="guide_second_optimization_type_sub_title">엔터테인먼트 가십, 군대 이야기, 최신 영화 및 TV, 정서적 다양성</string>
-    <string name="guide_skip">건너 뛰기</string>
+    <string name="guide_skip">건너뛰기</string>
     <string name="guide_slide_down">아래로 내려주세요.</string>
     <string name="guide_slide_up">위로 밀어주세요.</string>
     <string name="guide_sports_text">스포츠</string>
@@ -630,7 +630,7 @@
     <string name="mw_date_picker_dialog_set">설정</string>
     <string name="mw_date_picker_dialog_title">날짜 설정</string>
     <string name="mw_date_time_picker_dialog_title">날짜와 시간 설정</string>
-    <string name="mw_external_payment_app_leave_incognito_warning">외부 어플리케이션을 통해 시크릿 모드로 결제하도록 합니다. 계속하시겠습니까?</string>
+    <string name="mw_external_payment_app_leave_incognito_warning">외부 애플리케이션을 통해 시크릿 모드로 결제하도록 합니다. 계속하시겠습니까?</string>
     <string name="mw_find_next">다음 찾기</string>
     <string name="mw_find_previous">이전 찾기</string>
     <string name="mw_http_post_warning">찾고있는 페이지에서 사용자가 입력한 정보를 사용했습니다. 해당 페이지로 돌아가면 작업이 반복 될 수 있습니다. 계속하시겠습니까?</string>
@@ -760,7 +760,7 @@
     <string name="mw_mr_system_route_name">시스템</string>
     <string name="mw_mr_user_route_category_name">기기</string>
     <string name="mw_new_tab_otr_not_saved">크롬은 인터넷 사용기록과 쿠키, 사이트 데이터, 양식 등 입력한 정보를 수집하지 않습니다.</string>
-    <string name="mw_new_tab_otr_subtitle">이제 비공개로 탐색 할 수 있으며 이 기기를 사용하는 다른 사용자는 내 활동을 볼 수 없습니다. 그러나 다운로드와 북마크는 저장됩니다.</string>
+    <string name="mw_new_tab_otr_subtitle">이제 비공개로 탐색할 수 있으며 이 기기를 사용하는 다른 사용자는 내 활동을 볼 수 없습니다. 그러나 다운로드와 북마크는 저장됩니다.</string>
     <string name="mw_new_tab_otr_title">시크릿 모드로 전환했습니다.</string>
     <string name="mw_new_tab_otr_visible">귀하의 활동은 방문한 웹사이트와 인터넷 서비스 제공업체에 여전히 보여집니다.</string>
     <string name="mw_no_matches">일치하지 않음</string>
@@ -861,7 +861,7 @@
     <string name="mw_photo_picker_browse">찾아보기</string>
     <string name="mw_photo_picker_camera">카메라</string>
     <string name="mw_photo_picker_select_images">이미지 선택</string>
-    <string name="mw_private_browsing_warning">이 기능은 이 안드로이드 버전에서 지원되지 않습니다.</string>
+    <string name="mw_private_browsing_warning">이 기능은 이 Android 버전에서 지원되지 않습니다.</string>
     <string name="mw_profiler_error_toast">프로파일러 시작 실패</string>
     <string name="mw_profiler_no_storage_toast">외부 저장소가 준비되지 않았기 때문에 프로필러를 시작할 수 없습니다.</string>
     <string name="mw_profiler_started_toast">프로파일러 시작</string>
@@ -896,7 +896,7 @@
     <string name="mw_video_float_window_playing">영상 재생</string>
     <string name="mw_video_play_error">영상 재생 불가</string>
     <string name="mw_webview_find_on_page">페이지에서 찾기</string>
-    <string name="mw_webviewchromium_private_browsing_warning">이 기능은 이 안드로이드 버전에서 지원되지 않습니다.</string>
+    <string name="mw_webviewchromium_private_browsing_warning">이 기능은 이 Android 버전에서 지원되지 않습니다.</string>
     <string name="mw_week_picker_dialog_title">주 설정</string>
     <string name="nav_bottom_bar_back">뒤로</string>
     <string name="nav_bottom_bar_close_all">모두 닫기</string>
@@ -905,7 +905,7 @@
     <string name="nav_close_index_tab">%d개 항목을 삭제하세요.</string>
     <string name="nav_screen_container_tab_incognito">익명 탭</string>
     <string name="nav_screen_container_tab_normal">보통 탭</string>
-    <string name="nav_screen_incognito_message">"이제 비공개로 탐색 할 수 있습니다. 인터넷 사용 기록, 검색 요청 및 다운로드는 기록되지 않습니다. 사이트 데이터도 저장되지 않습니다."</string>
+    <string name="nav_screen_incognito_message">"이제 비공개로 탐색할 수 있습니다. 인터넷 사용 기록, 검색 요청 및 다운로드는 기록되지 않습니다. 사이트 데이터도 저장되지 않습니다."</string>
     <string name="nav_screen_incognito_title">"시크릿 모드로 전환했습니다."</string>
     <string name="nav_screen_tab_incognito_enter">시크릿 탭 진입</string>
     <string name="nav_screen_tab_incognito_exit">시크릿 탭 종료</string>
@@ -1216,7 +1216,7 @@
     <string name="sign_in_to" formatted="false">%s1%s2\"으로 로그인</string>
     <string name="signed_in">체크인 됨</string>
     <string name="skip_button_label">건너뛰기</string>
-    <string name="skip_current_version">이 버전 건너 뛰기</string>
+    <string name="skip_current_version">이 버전 건너뛰기</string>
     <string name="slide_guide">돌아가려면 슬라이드하세요.</string>
     <string name="small_video_ad_app_text_click">다운로드</string>
     <string name="small_video_ad_app_text_open">열기</string>

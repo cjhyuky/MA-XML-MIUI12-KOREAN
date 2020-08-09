@@ -65,7 +65,7 @@
     <string name="vcard_prompt">이 카드와 연관된 이름이 없습니다.</string>
     <string name="visit_cloud_album">앨범 보기</string>
     <string name="web">웹사이트:</string>
-    <string name="web_url_apk_warning">이 앱은 알 수없는 소스로부터 왔습니다. 기기와 데이터가 출처를 알 수 없는 앱의 공격에 더 취약합니다.</string>
+    <string name="web_url_apk_warning">이 앱은 알 수 없는 소스로부터 왔습니다. 기기와 데이터가 출처를 알 수 없는 앱의 공격에 더 취약합니다.</string>
     <string name="web_url_warning">연결된 웹사이트는 알 수 없는 소스로부터 왔으며, 보안 문제를 일으킬 수도 있습니다.</string>
     <string name="website_details">웹사이트 세부 정보:</string>
     <string name="wechat_details">WeChat 세부 정보:</string>

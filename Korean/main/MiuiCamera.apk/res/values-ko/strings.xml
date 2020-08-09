@@ -85,11 +85,11 @@
     <string name="timbre_lady">레이디</string>
     <string name="timbre_normal">원본</string>
     <string name="timbre_robot">로봇</string>
-    <string name="unknow_error">알 수없는 오류</string>
+    <string name="unknow_error">알 수 없는 오류</string>
     <string name="clone_don_not_move_phone">전화를 움직이지 마세요.</string>
     <string name="clone_no_person_found_in_viewfinder">프레임 영역에서 인식 된 사람이 없습니다.</string>
     <string name="clone_photo_mode_start_hint">사진 촬영을 시작하려면 셔터 버튼을 클릭하세요.</string>
-    <string name="clone_preview_no_person">인식 할 수없는 사람, 촬영에 실패했을 수 있습니다.</string>
+    <string name="clone_preview_no_person">인식할 수 없는 사람, 촬영에 실패했을 수 있습니다.</string>
     <string name="clone_video_mode_start_hint">녹화를 시작하려면 셔터 버튼을 클릭하세요.</string>
     <string name="only_mimoji_multi_window_mode_not_supported">"이 기능은 분할화면에서 사용할 수 없습니다."</string>
     <string name="music_hint_tt">서비스 소스</string>
@@ -291,7 +291,7 @@
     <string name="pref_camera_video_duration_entry_120">무제한</string>
     <string name="pref_camera_zsl_entry_off">꺼짐</string>
     <string name="pref_camera_zsl_entry_on">켜짐</string>
-    <string name="pref_camera_facedetection_title">얼굴 인식</string>
+    <string name="pref_camera_facedetection_title">얼굴인식</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="camera_settings_label">카메라</string>
     <string name="pref_camera_settings_title">설정</string>
@@ -595,7 +595,7 @@
     <string name="camera_facedetection_sub_option_hint">베타 옵션</string>
     <string name="front_camera_hint_text_place">"핸드폰을 가로로 돌려 셀카를 편하게 촬영하세요."</string>
     <string name="front_camera_hint_text_rotate">핸드폰 돌리기</string>
-    <string name="pref_camera_facedetection_auto_hidden_title">얼굴 인식 프레임 자동으로 숨기기</string>
+    <string name="pref_camera_facedetection_auto_hidden_title">얼굴인식 프레임 자동으로 숨기기</string>
     <string name="pref_camera_raw_title">RAW</string>
     <string name="simple_mode_button_text_mono">흑백 모드</string>
     <string name="simple_mode_button_text_raw">RAW 모드</string>
@@ -1259,8 +1259,8 @@
     <string name="mimoji_reset">재설정</string>
     <string name="mimoji_fragment_tab_name">Mi모지</string>
     <string name="mimoji_start_create">Mi모지 생성\u2026</string>
-    <string name="mimoji_detect_no_face_failed">"얼굴 인식 불가"</string>
-    <string name="mimoji_detect_facial_failed">"얼굴 인식 불가"</string>
+    <string name="mimoji_detect_no_face_failed">"얼굴인식 불가"</string>
+    <string name="mimoji_detect_facial_failed">"얼굴인식 불가"</string>
     <string name="mimoji_detect_hairstyle_failed">"머리카락 인식 불가"</string>
     <string name="mimoji_detect_haircolor_failed">"머리색 인식 불가"</string>
     <string name="mimoji_detect_gender_failed">"성별 인식 불가"</string>
@@ -1364,7 +1364,7 @@
     <string name="parameter_histogram_title">히스토그램</string>
     <string name="parameter_iso_description">ISO 값은 조도계에 의해 자동으로 결정됩니다. 값을 수동으로 변경할 수도 있습니다. ISO가 높으면 카메라가 빛에 더 민감 해지지 만 이미지에 더 많은 디지털 노이즈가 발생합니다.</string>
     <string name="parameter_iso_title">ISO 감도</string>
-    <string name="parameter_lens_description">"사용 가능한 여러 렌즈 사이를 전환 할 수 있습니다 :"</string>
+    <string name="parameter_lens_description">"사용 가능한 여러 렌즈 사이를 전환할 수 있습니다 :"</string>
     <string name="parameter_lens_marco">, MACRO (매크로 렌즈)</string>
     <string name="parameter_lens_st">, S-TELE(줌 렌즈)</string>
     <string name="parameter_lens_t">, TELE(망원 렌즈)</string>

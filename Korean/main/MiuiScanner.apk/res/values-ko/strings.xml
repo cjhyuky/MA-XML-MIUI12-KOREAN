@@ -6,7 +6,7 @@
     <string name="downloadAiVisonReason">플러그인에 따라 업그레이드해야 함</string>
     <string name="function">기능</string>
     <string name="if_open_result">앱으로 돌아올 때 스캔 결과 표시</string>
-    <string name="monitor_low_android">안드로이드 버전이 너무 낮습니다.</string>
+    <string name="monitor_low_android">Android 버전이 너무 낮습니다.</string>
     <string name="monitor_low_miui">MIUI 버전이 너무 낮습니다.</string>
     <string name="monitor_result_option_delete">동영상 삭제</string>
     <string name="monitor_result_option_rename">이름 바꾸기</string>
@@ -39,7 +39,7 @@
     <string name="monitoring_start">탐지 시작</string>
     <string name="monitoring_title">AI 온라인 강좌 보조</string>
     <string name="wechatcode_auto_processing_function_requires_permissions">WeChat 코드 자동 처리 기능을 사용하려면 WeChat에 카메라 권한 및 저장 권한이 있어야 합니다.</string>
-    <string name="document_ocr_fail">"텍스트를 인식 할 수 없습니다. 이미지가 기기의 방향과 일치하도록 회전 한 후 다시 시도하세요."</string>
+    <string name="document_ocr_fail">"텍스트를 인식할 수 없습니다. 이미지가 기기의 방향과 일치하도록 회전 한 후 다시 시도하세요."</string>
     <string name="document_spin">회전</string>
     <string name="expand_button_title">고급</string>
     <string name="feedback_phone">연락처 정보(선택 사항)</string>
@@ -84,7 +84,7 @@
     <string name="classes_deleteMessage">이 강의를 영구적으로 삭제하시겠습니까?</string>
     <string name="classes_edit_dialog_title">강의명</string>
     <string name="classes_edit_name">강의명 입력</string>
-    <string name="classes_fail">"인식 할 수 없습니다. 다시 시도하세요."</string>
+    <string name="classes_fail">"인식할 수 없습니다. 다시 시도하세요."</string>
     <string name="classes_isNull">"아직 강의를 추가하지 않았습니다."</string>
     <string name="classes_titlt">강의 일정</string>
     <string name="classes_topTitle">강의 일정을 스캔합니다.</string>
@@ -112,14 +112,14 @@
      <string name="tip_compress">사진 압축 중 ...</string>
      <string name="tip_compress_failed">%1$s개 사진 압축 실패 : %2$s 사진 경로 : %3$s</string>
      <string name="tip_no_camera">카메라 없음</string>
-     <string name="tip_permission_camera">카메라를 사용할 수있는 권한이 없습니다. 권한 관리에서 활성화하세요.</string>
+     <string name="tip_permission_camera">카메라를 사용할 수 있는 권한이 없습니다. 권한 관리에서 활성화하세요.</string>
      <string name="tip_permission_camera_storage">카메라 및 SD 카드 사용 권한이 없습니다. 권한 관리에서 활성화하세요.</string>
      <string name="tip_permission_storage">SD 카드 사용 권한이 없습니다. 권한 관리에서 활성화하세요.</string>
      <string name="tip_tips">팁</string>
      <string name="tip_type_not_image">선택한 이미지가 이미지가 아닙니다.</string>
     <string name="app_name">스캐너</string>
     <string name="impunity_declaration_title">개인정보 보호정책</string>
-    <string name="impunity_declaration_content">스캐너는 카메라에 액세스하고 사진을 만들 수있는 권한이 필요합니다. 정상적으로 작동하려면 인터넷에 연결해야합니다. 아래 "동의함"을 누르면 %1$s개인 정보 보호 정책 %2$s을 읽고 동의한 것으로 간주됩니다.</string>
+    <string name="impunity_declaration_content">스캐너는 카메라에 액세스하고 사진을 만들 수 있는 권한이 필요합니다. 정상적으로 작동하려면 인터넷에 연결해야합니다. 아래 "동의함"을 누르면 %1$s개인 정보 보호 정책 %2$s을 읽고 동의한 것으로 간주됩니다.</string>
     <string name="impunity_declaration_positive_text">허용</string>
     <string name="impunity_declaration_negative_text">나가기</string>
     <string name="accessibility_shutter_button">셔터</string>
@@ -362,7 +362,7 @@
     <string name="switch_open">켜기</string>
     <string name="tel">전화</string>
     <string name="translate_auto_lock">번역 잠금</string>
-    <string name="translate_auto_unlock">번역 잠금 해제</string>
+    <string name="translate_auto_unlock">번역 잠금해제</string>
     <string name="translate_copy_success">복사 완료</string>
     <string name="translate_dest_lang">도착 언어</string>
     <string name="translate_fail">"번역 실패"</string>
@@ -420,7 +420,7 @@
     <string name="agree_storage_permission">기기에 저장된 사진 및 파일 액세스</string>
     <string name="always">항상</string>
     <string name="choose_open_code_app">앱을 선택하세요.</string>
-    <string name="once">한번만</string>
+    <string name="once">한 번만</string>
     <string name="to_install_title">이 QR 코드는 이미 삭제되었던 앱의 설치링크입니다. 지금 이 앱을 다운로드하시겠습니까?</string>
     <string name="toinstall">다운로드</string>
     <string name="flight_mode_connecting_to_wifi">비행기 모드 작동시 Wi-Fi 수동으로 켜기</string>

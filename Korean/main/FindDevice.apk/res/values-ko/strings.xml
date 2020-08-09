@@ -54,8 +54,8 @@
     <string name="unlock">활성화</string>
     <string name="verify_password_failed">Mi 계정 %s ID를 인증하지 못하였습니다.</string>
     <string name="login_failed">로그인할 수 없습니다. %s.</string>
-    <string name="change_find_device_status_failed">%s 기기를 잠금 해제하지 못하였습니다.</string>
-    <string name="unlock_help_title">잠금 해제 도움말:</string>
+    <string name="change_find_device_status_failed">%s 기기를 잠금해제하지 못하였습니다.</string>
+    <string name="unlock_help_title">잠금해제 도움말:</string>
     <string name="unlock_help">"네트워크에 연결하세요.
  작동하는 SIM 카드를 삽입하고 유효하지 않은 Wi-Fi 네트워크에 연결하지 마세요.
 
@@ -71,7 +71,7 @@
     <string name="passport_checking_vcode">비밀번호 확인 중…</string>
     <string name="unlock_error_wrong_vcode">입력한 코드가 올바르지 않습니다.</string>
     <string name="passport_notification_processing">처리 중…</string>
-    <string name="passport_notification_need_unlock_again">다시 잠금 해제 시도</string>
+    <string name="passport_notification_need_unlock_again">다시 잠금해제 시도</string>
     <string name="device_lost">이 기기를 분실했습니다.</string>
     <string name="device_locked">이 기기는 잠겼습니다.</string>
     <string name="default_lock_msg_words_with_phone">안녕하세요! 핸드폰을 분실했습니다. 저에게 연락해주실 수 있으십니까? 감사합니다!</string>

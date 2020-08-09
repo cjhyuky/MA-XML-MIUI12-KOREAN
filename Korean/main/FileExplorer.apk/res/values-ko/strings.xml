@@ -5,7 +5,7 @@
     <string name="file_name_existed">파일 이름이 이미 존재합니다.</string>
     <string name="rename_msg">이름이 \"%s\"인 파일이 이미 존재합니다.</string>
     <string name="replace">변경</string>
-    <string name="skip">건너 뛰기</string>
+    <string name="skip">건너뛰기</string>
     <string name="use_to_all">모두 적용</string>
     <string name="otg_data_transfer_success">전송 완료</string>
     <string name="otg_data_transferring">"파일 전송 중... 외부 저장소 연결을 해제하지 마세요."</string>
@@ -189,7 +189,7 @@
     <string name="file_not_exist">파일이 존재하지 않습니다.</string>
     <string name="action_mode_deselect_all">모두 선택 해제</string>
     <string name="action_mode_select_all">모두 선택</string>
-    <string name="can_not_send_with_too_many">한번에 너무 많은 항목을 전송할 수 없습니다.</string>
+    <string name="can_not_send_with_too_many">한 번에 너무 많은 항목을 전송할 수 없습니다.</string>
     <string name="tab_source">앱</string>
     <string name="tab_more">더 보기</string>
     <string name="title_recent">최근</string>
@@ -293,7 +293,7 @@
     <string name="repair_error">복구할 수 없음</string>
     <string name="cancel_success">제거에 성공 하였습니다, 모든 파일이 %s로 이동 되었습니다.</string>
     <string name="partial_cancel_successful">몇 몇 파일을 제거 하지 못하였습니다. 남은 파일들을 %s로 이동 하였습니다.</string>
-    <string name="cancel_error">제거 할 수 없습니다. 다시 시도해 주세요.</string>
+    <string name="cancel_error">제거할 수 없습니다. 다시 시도해 주세요.</string>
     <string name="encrypt_success">성공적으로 숨겨짐</string>
     <string name="partial_encrypt_success">몇 몇 파일들을 숨길 수 없습니다, 다시 시도하여 주세요.</string>
     <string name="encrypt_error">파일을 숨길 수 없습니다, 다시 시도하여 주세요.</string>
@@ -315,7 +315,7 @@
     <string name="shared_sticker_network_permission_tip">네트워크에 연결하지 못했습니다. 데이터 연결을 확인한 후 다시 시도하세요.</string>
     <string name="transfer_private_data">SD 카드에서 숨김 폴더 이동</string>
     <string name="transfer_done">파일 이동에 성공</string>
-    <string name="promot_enctypt_password">비밀번호 입력을 사용하여 기기 잠금 해제</string>
+    <string name="promot_enctypt_password">비밀번호 입력을 사용하여 기기 잠금해제</string>
     <string name="image_loading_error">이미지를 불러오지 못했습니다.</string>
     <string name="ui_main_toast_favorite_added">즐겨찾기에 추가됨</string>
     <string name="already_liked">이 항목은 이미 추가 되어 있습니다.</string>
@@ -876,11 +876,11 @@
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
     <string name="abc_toolbar_collapse_description">컬랩스</string>
     <string name="aggree_desc">이 앱을 인터넷에 연결하고 위에 나열된 필수 권한을 부여하도록 허용.</string>
-    <string name="app_all_purpose">파일 관리자에 오신 것을 환영합니다! 이 앱을 사용하여 기기에 저장된 파일을 관리 할 수 있습니다.</string>
+    <string name="app_all_purpose">파일 관리자에 오신 것을 환영합니다! 이 앱을 사용하여 기기에 저장된 파일을 관리할 수 있습니다.</string>
     <string name="copy">복사</string>
     <string name="expand_button_title">고급</string>
     <string name="fab_menu_sort">정렬</string>
-    <string name="guide_newfunc_content">이제 바로 가기를 눌러 파일 형식을 필터링하고 항목을 다시 정렬하거나 보기를 전환 할 수 있습니다.</string>
+    <string name="guide_newfunc_content">이제 바로 가기를 눌러 파일 형식을 필터링하고 항목을 다시 정렬하거나 보기를 전환할 수 있습니다.</string>
     <string name="guide_newfunc_title">새 기능</string>
     <string name="imm_str_storage">저장소</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>

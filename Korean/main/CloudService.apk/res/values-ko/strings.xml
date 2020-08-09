@@ -8,7 +8,7 @@
     <string name="connect_network_china">Wi-Fi에 연결하거나 SIM 카드 삽입</string>
     <string name="connect_wlan_china">Wi-Fi에 연결</string>
     <string name="micloud_notif_content_master_depend_wifi_china">Wi-Fi에 연결하거나 동기화 설정을 변경하세요. 변경하려면 탭하세요.</string>
-    <string name="privacy_dialog_sync_all_purpose_china">샤오미 클라우드 서비스에 오신 것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 이벤트, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다.</string>
+    <string name="privacy_dialog_sync_all_purpose_china">샤오미 클라우드 서비스에 오신 것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 이벤트, 차단 목록 항목 및 퀵 카드를 동기화할 수 있습니다.</string>
     <string name="micloud_dspt_provision_china">샤오미 클라우드를 사용하여 데이터를 동기화하고 장치를 찾고 친구와 물건을 공유하세요.</string>
     <string name="micloud_dspt_provision_xms_china">샤오미 클라우드를 사용하여 데이터를 동기화합니다.</string>
     <string name="micloud_notif_content_depend_wifi_china">동기화하려면 Wi-Fi에 연결하세요.</string>
@@ -191,7 +191,7 @@
     <string name="micloud_single_dspt">Mi 클라우드를 사용하여 데이터 동기화, 기기 찾기, 그리고 친구들과 공유</string>
     <string name="micloud_proceed">계속</string>
     <string name="master_alert_notif_title">Mi 클라우드와 동기화 켜기</string>
-    <string name="master_alert_notif_content">동기화 할 수 없음</string>
+    <string name="master_alert_notif_content">동기화할 수 없음</string>
     <string name="sub_alert_notif_title">Mi 클라우드와 동기화</string>
     <string name="sub_alert_notif_content">데이터 백업을 위해 Mi 클라우드와의 동기화 켜기</string>
     <string name="noRemind">다시 알림 없음</string>
@@ -786,8 +786,8 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="storage_manage_title">클라우드 요금제 변경</string>
     <string name="priv_dialog_finddevice_all_purpose_pad">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
     <string name="priv_dialog_finddevice_all_purpose_phone">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
-    <string name="priv_dialog_sync_all_purpose">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다 .</string>
-    <string name="priv_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다. 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하세요.
+    <string name="priv_dialog_sync_all_purpose">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화할 수 있습니다 .</string>
+    <string name="priv_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화할 수 있습니다. 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하세요.
 
 이 서비스를 활성화하려면 발신 SMS 메시지가 필요할 수 있습니다. 이동 통신사가이 메시지에 대해 요금을 청구합니다. SIM 카드를 전환하면 이 기능을 다시 활성화하기 위해 메시지가 자동으로 전송될 수 있습니다.
 
@@ -855,8 +855,8 @@ Mi 클라우드를 다시 활성화하세요."</string>
 "</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
-    <string name="privacy_dialog_sync_all_purpose">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다 .</string>
-    <string name="privacy_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화 할 수 있습니다. 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하세요.
+    <string name="privacy_dialog_sync_all_purpose">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화할 수 있습니다 .</string>
+    <string name="privacy_doc_cloudservice">샤오미 클라우드 서비스에 오신것을 환영합니다! 샤오미 클라우드를 사용하여 연결된 모든 장치에서 메시지, 통화 기록, 연락처, 메모, 브라우저 설정, 노래, 사진 및 동영상, Wi-Fi 설정, 녹음, 홈 화면 레이아웃, 앱, 캘린더 일정, 차단 목록 항목 및 퀵 카드를 동기화할 수 있습니다. 브라우저를 통해 i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;에서 동기화 한 항목에 액세스하세요.
 
 이 서비스를 활성화하려면 발신 SMS 메시지가 필요할 수 있습니다. 이동 통신사가이 메시지에 대해 요금을 청구합니다. SIM 카드를 전환하면 이 기능을 다시 활성화하기 위해 메시지가 자동으로 전송될 수 있습니다.
 

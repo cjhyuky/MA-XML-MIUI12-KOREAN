@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="android_beam">안드로이드 빔</string>
+    <string name="android_beam">Android 빔</string>
     <string name="cancel">취소</string>
     <string name="device">기기</string>
     <string name="inbound_me_profile_title">NFC로 연락처 수신</string>
@@ -25,7 +25,7 @@
     <string name="beam_touch_to_view">탭하여 보기</string>
     <string name="beam_try_again">기기를 더 가까이 대세요.</string>
     <string name="complete_with">다음 기기와 파일 전송 끝냄 : </string>
-    <string name="confirm_pairing">%1$s 장치와 페어링하시겠습니까?</string>
+    <string name="confirm_pairing">%1$s 장치와 연결하시겠습니까?</string>
     <string name="connect_peripheral_failed">%1$s 장치와 연결할 수 없습니다.</string>
     <string name="connected_peripheral">%1$s 장치와 연결됨</string>
     <string name="connecting_peripheral">%1$s 장치와 연결중</string>
@@ -39,8 +39,8 @@
     <string name="nfc_enabled_dialog">"NFC가 현재 비활성화 상태입니다. NFC 사용을 위해서 활성화하시겠습니까?"</string>
     <string name="outbound_me_profile_text">탭하여 연락처 정보를 전송하세요.</string>
     <string name="outbound_me_profile_title">NFC 연결 완료</string>
-    <string name="pairing_peripheral">%1$s 페어링 중</string>
-    <string name="pairing_peripheral_failed">%1$s에 페어링할 수 없습니다.</string>
+    <string name="pairing_peripheral">%1$s 연결 중</string>
+    <string name="pairing_peripheral_failed">%1$s에 연결할 수 없습니다.</string>
     <string name="pay_with">지불 방법</string>
     <string name="permdesc_nfcReceiveEvent">앱이 NFC를 이용해 정보를 주고받을 수 있게 합니다.</string>
     <string name="permlab_nfcReceiveEvent">NFC 사용 주의</string>

@@ -467,7 +467,7 @@
     <string name="mini_no_input">이 칸은 비워 둘 수 없습니다.</string>
     <string name="mini_open_bluetooth">켜기</string>
     <string name="mini_open_bluetooth_now">블루투스 활성화...</string>
-    <string name="mini_open_bluetooth_tips">블루투스를 키고 페어링이 가능하게 설정해주세요.</string>
+    <string name="mini_open_bluetooth_tips">블루투스를 키고 연결이 가능하게 설정해주세요.</string>
     <string name="mini_page_add_hint">카드 번호</string>
     <string name="mini_page_add_other_pay">기타 지불 방법</string>
     <string name="mini_page_add_tips">암호 및 문자 확인을 위해 이중 보호 기능 제공</string>
@@ -538,7 +538,7 @@
     <string name="favorite_add_home_process">추가 중...</string>
     <string name="favorite_all_selec">모두 선택 </string>
     <string name="favorite_cancel">취소</string>
-    <string name="favorite_clipboard_tip">클립 보드의 URL 주소를 즐겨 찾기에 추가하시겠습니까?</string>
+    <string name="favorite_clipboard_tip">클립보드의 URL 주소를 즐겨 찾기에 추가하시겠습니까?</string>
     <string name="favorite_delete">삭제</string>
     <string name="favorite_important">중요</string>
     <string name="favorite_label">즐겨찾기</string>
@@ -586,7 +586,7 @@
     <string name="preferences_label">환경 설정</string>
     <string name="qq_new">상태 업데이트</string>
     <string name="qq_qzone">Q존</string>
-    <string name="quickstart_accessibility_description">이 서비스에 대한 일부 타사 응용 프로그램 페이지에 대한 지원을 제공합니다. 이 서비스를 종료하면 페이지 건너 뛰기가 취소됩니다.</string>
+    <string name="quickstart_accessibility_description">이 서비스에 대한 일부 타사 응용 프로그램 페이지에 대한 지원을 제공합니다. 이 서비스를 종료하면 페이지 건너뛰기가 취소됩니다.</string>
     <string name="quickstart_accessibility_dialog_confirm">설정</string>
     <string name="quickstart_accessibility_dialog_content">이 기능을 사용하려면 접근성 서비스가 필요합니다. 휴대전화에 접근성 옵션이 켜져 있습니까?</string>
     <string name="quickstart_accessibility_dialog_title">접근성 켜기</string>

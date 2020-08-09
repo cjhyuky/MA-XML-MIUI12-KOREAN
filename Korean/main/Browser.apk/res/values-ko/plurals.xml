@@ -87,7 +87,7 @@
         <item quantity="other">%d개 이유 선택됨</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 시간 전</item>
+        <item quantity="other">1시간 전</item>
     </plurals>
      <plurals name="abbrev_half_hour_ago">
         <item quantity="other">30분 전</item>

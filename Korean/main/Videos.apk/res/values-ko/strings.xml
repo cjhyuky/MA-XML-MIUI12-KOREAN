@@ -610,7 +610,7 @@
     <string name="binge_watch_up_next">다음 동영상</string>
     <string name="binge_watch_next_episode">에피소드 %1$s. %2$s</string>
     <string name="binge_watch_enable">자동으로 다음 에피소드 재생</string>
-    <string name="pairing_category_title">페어링</string>
+    <string name="pairing_category_title">연결</string>
     <string name="pair_new_device_title">기기 연결</string>
     <string name="pair_new_device_summary">TV에 연결되어 있는 기기에 연결</string>
     <string name="pairing_no_thanks">아니요</string>

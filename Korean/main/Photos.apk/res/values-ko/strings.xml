@@ -204,7 +204,7 @@
     <string name="photos_location_generic_error_alert_title">죄송합니다.</string>
     <string name="photos_location_generic_error_alert_message">문제가 발생했습니다. 다시 시도해 주세요.</string>
     <string name="photos_onboarding_get_started">시작하기</string>
-    <string name="photos_onboarding_photo_face_grouping_learn_more">Google 포토는 얼굴 인식 기술을 지원합니다. &lt;a href=help:>자세히 알아보기&lt;/a></string>
+    <string name="photos_onboarding_photo_face_grouping_learn_more">Google 포토는 얼굴인식 기술을 지원합니다. &lt;a href=help:>자세히 알아보기&lt;/a></string>
     <string name="photos_onboarding_korean_terms_of_service">"계속하면 &lt;a href=%s >대한민국 위치 서비스 약관, Google 서비스 약관, Google
         개인정보취급방침&lt;/a>에 동의하게 됩니다."</string>
     <string name="photos_onboarding_sign_in_progress">계정 로드 중</string>
@@ -779,7 +779,7 @@
     <string name="google_drive_setting_title">Google 드라이브</string>
     <string name="google_drive_setting_desc">내 포토 라이브러리에 Google 드라이브 사진 및 동영상 표시</string>
     <string name="face_recognition_setting_title">비슷한 얼굴을 그룹으로 묶기</string>
-    <string name="face_recognition_setting_desc">얼굴 인식을 통해 사진을 자동 분류하여 검색, 관리, 공유 기능을 개선</string>
+    <string name="face_recognition_setting_desc">얼굴인식을 통해 사진을 자동 분류하여 검색, 관리, 공유 기능을 개선</string>
     <string name="location_category_title">위치</string>
     <string name="photo_location_setting_title">위치 정보 삭제</string>
     <string name="photo_location_setting_desc">링크로 공유한 사진 및 동영상에서만 위치 정보 삭제</string>

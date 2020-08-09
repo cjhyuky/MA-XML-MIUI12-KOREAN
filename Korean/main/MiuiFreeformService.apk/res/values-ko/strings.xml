@@ -8,7 +8,7 @@
     <string name="freeform_demo_final_title">"즐길 준비가 되었습니다!"</string>
     <string name="freeform_demo_go_on">다음</string>
     <string name="freeform_demo_title_finish">좋습니다!</string>
-    <string name="freeform_demo_title_skip">건너 뛰기</string>
+    <string name="freeform_demo_title_skip">건너뛰기</string>
     <string name="how_to_close_or_fullscreen_freeform">플로팅 창 닫기 또는 전체 화면 모드로 전환</string>
     <string name="how_to_drop_down_to_fullscreen">전체 화면 모드로 전환</string>
     <string name="how_to_drop_down_to_fullscreen_summary">플로팅 창의 작업 표시줄을 길게 누른 다음</string>

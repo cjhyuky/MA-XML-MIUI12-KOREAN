@@ -8,7 +8,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">그렇지 않습니다.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="secondspace_homepage">"두번째 공백에 대해 지정된 화면 잠금을 설정하세요.
+    <string name="secondspace_homepage">"두 번째 공백에 대해 지정된 화면 잠금을 설정하세요.
 데이터를 분리하고 보호하세요."</string>
     <string name="greenguard_install_cancle">괜찮습니다.</string>
     <string name="greenguard_install_confirm">설치</string>
@@ -395,7 +395,7 @@
     <string name="need_network_when_bind">기기를 추가하기 전에 네트워크에 연결하세요.</string>
     <string name="encrypt_space_delete_dialog_click_message">"*데이터 이동이 필요 없다면, %s"</string>
     <string name="encrypt_space_delete_dialog_click_message_action">두 번째 공간을 삭제하고 생성하세요..</string>
-    <string name="encrypt_space_delete_dialog_message">"안드로이드를 업데이트합니다. 업데이트 후 세컨드 스페이스에 접근할 수 없습니다. 이를 피하려면 모든 데이터를 메인 저장소로 이동하고 세컨드 스페이스를 삭제한 다음 다시 세컨드 스페이스를 생성하세요."</string>
+    <string name="encrypt_space_delete_dialog_message">"Android를 업데이트합니다. 업데이트 후 세컨드 스페이스에 접근할 수 없습니다. 이를 피하려면 모든 데이터를 메인 저장소로 이동하고 세컨드 스페이스를 삭제한 다음 다시 세컨드 스페이스를 생성하세요."</string>
     <string name="encrypt_space_delete_dialog_positive_text">데이터 이동</string>
     <string name="encrypt_space_delete_dialog_title">주의</string>
     <string name="encrypt_space_delete_notification_message">두 번째 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하세요.</string>
@@ -454,7 +454,7 @@
     <string name="button_text_next_step">다음</string>
     <string name="button_text_next_step_timer">다음 단계 (%d)</string>
     <string name="cta_declaration_agree_and_continue">동의</string>
-    <string name="cta_declaration_message_format" formatted="false">엔터프라이즈 모드를 사용하기 전에 먼저 약관을 읽고 동의하셔야 합니다. 엔터프라이즈 모드를 활성화하려면 인터넷 연결이 필요합니다. 동의하시나요?</string>
+    <string name="cta_declaration_message_format" formatted="false">엔터프라이즈 모드를 사용하기 전에 먼저 약관을 읽고 동의해야 합니다. 엔터프라이즈 모드를 활성화하려면 인터넷 연결이 필요합니다. 동의하시나요?</string>
     <string name="cta_declaration_title">이용 약관</string>
     <string name="dialog_message_service_error">"인증을 취소하고 초기화를 수행할 수 없습니다. 다시 시도하세요."</string>
     <string name="dialog_tip_need_network">인증을 취소하려면 기기를 인터넷에 연결해야합니다.</string>

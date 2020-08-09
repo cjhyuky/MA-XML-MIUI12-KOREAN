@@ -21,7 +21,7 @@
     <string name="copy">복사</string>
     <string name="expand_button_title">고급</string>
     <string name="not_set">설정되지 않음</string>
-    <string name="preference_copied">\"%1$s\"가 클립 보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>

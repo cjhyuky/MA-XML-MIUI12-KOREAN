@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="radioInfo_menu_viewADN">UIM 주소록 보기</string>
-    <string name="security_settings_summary">내 위치 설정, 화면 잠금 해제, UIM 카드 잠금, 자격 증명 저장소 잠금</string>
+    <string name="security_settings_summary">내 위치 설정, 화면 잠금해제, UIM 카드 잠금, 자격 증명 저장소 잠금</string>
     <string name="sim_lock_settings">UIM 카드 잠금 설정</string>
     <string name="sim_lock_settings_category">UIM 카드 잠금 설정</string>
     <string name="sim_lock_settings_title">UIM 카드 잠금</string>
@@ -9,7 +9,7 @@
     <string name="sim_pin_change">UIM PIN 변경</string>
     <string name="sim_enter_pin">UIM PIN</string>
     <string name="sim_enable_sim_lock">UIM 카드 잠그기</string>
-    <string name="sim_disable_sim_lock">UIM 카드 잠금 해제</string>
+    <string name="sim_disable_sim_lock">UIM 카드 잠금해제</string>
     <string name="sim_enter_old">이전 UIM PIN</string>
     <string name="sim_enter_new">새 UIM PIN</string>
     <string name="sim_change_pin">UIM PIN</string>

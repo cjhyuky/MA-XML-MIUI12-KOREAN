@@ -19,7 +19,7 @@
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
     <string name="abc_toolbar_collapse_description">툴바 접기</string>
-    <string name="add_to_trust_device">이것은 신뢰할 수있는 장치입니다.</string>
+    <string name="add_to_trust_device">이것은 신뢰할 수 있는 장치입니다.</string>
     <string name="agree">동의함</string>
     <string name="ai_animation_music_text">AI 사운드 트랙</string>
     <string name="ai_music_save_cancel">취소</string>
@@ -55,7 +55,7 @@
     <string name="cast_expanded_controller_background_image">앨범 아트</string>
     <string name="cast_expanded_controller_live_stream_indicator">라이브 스트림</string>
     <string name="cast_expanded_controller_loading">로드중...</string>
-    <string name="cast_expanded_controller_skip_ad_label">광고 건너 뛰기</string>
+    <string name="cast_expanded_controller_skip_ad_label">광고 건너뛰기</string>
     <string name="cast_expanded_controller_skip_ad_text">%1$d의 광고를 건너 뛸 수 있습니다.</string>
     <string name="cast_forward">앞으로</string>
     <string name="cast_forward_10">10초 앞으로 이동</string>
@@ -71,8 +71,8 @@
     <string name="cast_rewind_10">10초 되감기</string>
     <string name="cast_rewind_30">30초 되감기</string>
     <string name="cast_seek_bar">재생 탐색 제어</string>
-    <string name="cast_skip_next">다음 항목으로 건너 뛰기</string>
-    <string name="cast_skip_prev">이전 항목으로 건너 뛰기</string>
+    <string name="cast_skip_next">다음 항목으로 건너뛰기</string>
+    <string name="cast_skip_prev">이전 항목으로 건너뛰기</string>
     <string name="cast_stop">중지</string>
     <string name="cast_stop_live_stream">실시간 스트림 중지</string>
     <string name="cast_tracks_chooser_dialog_audio">오디오</string>
@@ -138,11 +138,11 @@
     <string name="dialog_revoke_privacy_title">인증 취소</string>
     <string name="enable_background_audio">백그라운드에서 재생</string>
     <string name="error_drm_not_supported">18세 미만의 API 수준에서 보호되지 않는 콘텐츠</string>
-    <string name="error_drm_unknown">알수없는 DRM 오류가 발생했습니다.</string>
+    <string name="error_drm_unknown">알수 없는 DRM 오류가 발생했습니다.</string>
     <string name="error_drm_unsupported_scheme">이 장치는 필수 DRM 체계를 지원하지 않습니다.</string>
     <string name="error_mg_content_not_available">귀하의 국가에서는이 콘텐츠를 사용할 수 없습니다.</string>
-    <string name="error_mg_no_content">이 영화에 사용할 수있는 콘텐츠가 없습니다. 나중에 다시 시도하세요.</string>
-    <string name="error_mg_no_content_for_tv">이 TV 프로그램에 사용할 수있는 콘텐츠가 없습니다. 나중에 다시 시도하세요.</string>
+    <string name="error_mg_no_content">이 영화에 사용할 수 있는 콘텐츠가 없습니다. 나중에 다시 시도하세요.</string>
+    <string name="error_mg_no_content_for_tv">이 TV 프로그램에 사용할 수 있는 콘텐츠가 없습니다. 나중에 다시 시도하세요.</string>
     <string name="error_msg_invalid_url">잘못된 URL입니다. 나중에 다시 시도하세요.</string>
     <string name="error_msg_no_network">네트워크 연결이 감지되지 않았습니다. 네트워크 소스에 연결되어 있는지 확인하고 다시 시도하세요.</string>
     <string name="error_msg_server_error">이 순간 서버를 사용할 수 없습니다. 다시 시도하세요.</string>
@@ -177,7 +177,7 @@
     <string name="lbl_connection_failed_alert_title">연결 실패</string>
     <string name="lbl_player_local_video_deleted_alert_dialog_text">이 동영상은 재생할 수 없습니다.</string>
     <string name="lbl_player_no_network">네트워크 연결이 감지되지 않았습니다. 네트워크 소스에 연결되어 있는지 확인하고 다시 시도하세요.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">죄송합니다. 요청을 지금 완료 할 수 없습니다. 잠시후 다시 시도하세요.</string>
+    <string name="lbl_player_response_failed_alert_dialog_text">죄송합니다. 요청을 지금 완료할 수 없습니다. 잠시후 다시 시도하세요.</string>
     <string name="lbl_setting_playback_streaming_auto">자동</string>
     <string name="lbl_url_alert">정보</string>
     <string name="logging_normal">일반</string>
@@ -217,7 +217,7 @@
     <string name="lv_do_not_show_this_again">다시 표시하지 않음</string>
     <string name="lv_find_new_version">업데이트를 사용할 수 있습니다.</string>
     <string name="lv_find_videos">동영상 검색</string>
-    <string name="lv_folder_null">알 수없는 폴더</string>
+    <string name="lv_folder_null">알 수 없는 폴더</string>
     <string name="lv_fullscreen">전체 화면</string>
     <string name="lv_hide_folder">숨겨진 동영상</string>
     <string name="lv_hide_prompt">설정 완료. \"숨겨진 동영상\"폴더에서 숨겨진 항목을 봅니다.</string>
@@ -251,12 +251,12 @@
     <string name="lv_send_title">보내기</string>
     <string name="lv_set_password">숨겨진 동영상을보기위한 암호 설정</string>
     <string name="lv_setting">설정</string>
-    <string name="lv_share_tips">스크린 샷을 성공적으로 가져 왔습니다. 지금 공유 할 수 있습니다.</string>
+    <string name="lv_share_tips">스크린 샷을 성공적으로 가져 왔습니다. 지금 공유할 수 있습니다.</string>
     <string name="lv_skip_update">지금은 아닙니다.</string>
     <string name="lv_storage_external_sdcard">외부 저장소</string>
     <string name="lv_storage_internal_sdcard">내부 저장소</string>
     <string name="lv_storage_root_dir">이미 루트 폴더에 있습니다.</string>
-    <string name="lv_subtitle_add_subtitle_failed">자막을 추가 할 수 없습니다. 파일이 손상되지 않았는지 확인하세요.</string>
+    <string name="lv_subtitle_add_subtitle_failed">자막을 추가할 수 없습니다. 파일이 손상되지 않았는지 확인하세요.</string>
     <string name="lv_subtitle_changed">새로운 자막</string>
     <string name="lv_subtitle_current_dir">현재 폴더</string>
     <string name="lv_subtitle_folder_up">이전 폴더</string>
@@ -350,7 +350,7 @@
     <string name="ovp_detail_v_episode">에피소드</string>
     <string name="ovp_detail_v_episode_all">에피소드: %2$d / %1$d</string>
     <string name="ovp_detail_v_episode_count">에피소드 %d화 업데이트되었습니다.</string>
-    <string name="ovp_detail_v_episode_download_null">이 에피소드를 다운로드 할 수 없습니다.</string>
+    <string name="ovp_detail_v_episode_download_null">이 에피소드를 다운로드할 수 없습니다.</string>
     <string name="ovp_detail_v_variety_episode_count">시즌%s 업데이트되었습니다.</string>
     <string name="ovp_episode_suffix">에피소드. %d</string>
     <string name="ovp_favor">즐겨찾기</string>
@@ -478,7 +478,7 @@
     <string name="pw_score">평점</string>
     <string name="pw_search_hint">검색할 키워드 입력</string>
     <string name="pw_search_history_clear">검색 기록 지우기</string>
-    <string name="pw_splash_ignore">건너 뛰기</string>
+    <string name="pw_splash_ignore">건너뛰기</string>
     <string name="pw_ui_card_banner_btn_download">다운로드</string>
     <string name="pw_ui_card_banner_btn_downloading">다운로드중...</string>
     <string name="pw_ui_card_banner_btn_open">열기</string>

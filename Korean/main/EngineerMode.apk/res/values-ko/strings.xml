@@ -23,11 +23,11 @@
     <string name="audio_volume_title">볼륨</string>
     <string name="audio_volume_voice">음성</string>
     <string name="audio_wakelock_lock">잠김</string>
-    <string name="audio_wakelock_unlock">잠금 해제됨</string>
+    <string name="audio_wakelock_unlock">잠금해제됨</string>
     <string name="auto_clibr_af_auto">자동</string>
     <string name="auto_clibr_af_through_repeat">반복</string>
     <string name="auto_clibr_camera_sensor_main">기본</string>
-    <string name="auto_clibr_face_detection">얼굴 인식</string>
+    <string name="auto_clibr_face_detection">얼굴인식</string>
     <string name="auto_clibr_video_resolution">해상도</string>
     <string name="bandmodesim1_SET">설정</string>
     <string name="bandmodesim2_SET">설정</string>
@@ -892,7 +892,7 @@
     <string name="audio_val_type_sip">Sip</string>
     <string name="audio_val_type_sph">Sph</string>
     <string name="audio_val_type_sph2">Sph2</string>
-    <string name="audio_wakelock">잠금 해제 락</string>
+    <string name="audio_wakelock">잠금해제 락</string>
     <string name="autoCalibration">자동 캘리브레이션</string>
     <string name="auto_answer">자동 응답</string>
     <string name="auto_clibr_af_bracket">AF 브라켓</string>

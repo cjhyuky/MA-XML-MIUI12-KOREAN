@@ -222,7 +222,7 @@
     <string name="resource_comment_upload_success">짧은 리뷰 뒤에 댓글이 표시됩니다.</string>
     <string name="resource_comment_upload_data_invalid">댓글이 잘못 입력되었습니다.</string>
     <string name="resource_comment_upload_not_logined">먼저 로그인해 주세요.</string>
-    <string name="resource_comment_upload_not_bought">관련된 댓글을 쓰기 전에 테마를 적용하셔야합니다.</string>
+    <string name="resource_comment_upload_not_bought">관련된 댓글을 쓰기 전에 테마를 적용해야합니다.</string>
     <string name="resource_comment_invalid">별을 터치하여 테마 평가</string>
     <string name="resource_comment_expand_full_text">모든 텍스트 확장▼</string>
     <string name="resource_comment_title">%1$s에 대한 댓글</string>
@@ -448,7 +448,7 @@
     <string name="multi_sim_ringtone_settings_dialog_remind_never">다시 보지 않기</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">알겠습니다.</string>
     <string name="uid_change_dialog_title">기기 다시 시작</string>
-    <string name="uid_change_dialog_message">업데이트를 제거하셨습니다. 기기를 다시 시작하셔야 테마를 사용할 수 있습니다.</string>
+    <string name="uid_change_dialog_message">업데이트를 제거하셨습니다. 기기를 다시 시작해야 테마를 사용할 수 있습니다.</string>
     <string name="uid_change_dialog_ok">알겠습니다.</string>
     <string name="wallpaper_scroll_type_tips">배경화면 스크롤</string>
     <string name="wallpaper_apply">적용</string>
@@ -803,7 +803,7 @@
     <string name="wallpaper_loop_desc_lock_walpaper">잠금 화면 용 맞춤 슬라이드 쇼 만들기</string>
     <string name="wallpaper_loop_interval_15min">15 분마다</string>
     <string name="wallpaper_loop_interval_1d">매일</string>
-    <string name="wallpaper_loop_interval_1h">1 시간마다</string>
+    <string name="wallpaper_loop_interval_1h">1시간마다</string>
     <string name="wallpaper_loop_interval_desc">슬라이드 쇼의 시간 간격 설정</string>
     <string name="wallpaper_loop_interval_title">배경 화면 변경</string>
     <string name="wallpaper_loop_manage">관리</string>
@@ -923,7 +923,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정되지 않음</string>
     <string name="order_list">주문 내역</string>
-    <string name="preference_copied">\"%1$s\"가 클립 보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="resource_exchange_device_not_support">"이 항목은 기기에서 지원되지 않습니다."</string>
     <string name="setting_font_online">온라인 글꼴</string>
     <string name="show_free_aod">자유로운 테마 표시</string>

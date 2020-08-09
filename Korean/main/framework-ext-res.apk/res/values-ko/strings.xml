@@ -141,7 +141,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">나중에 실행</string>
     <string name="auto_disable_screenbuttons_float_text">터치하여 탐색 버튼 비활성화</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">탐색 버튼 활성화</string>
-    <string name="auto_disable_screenbuttons_disable_toast_text">탐색 버튼이 비활성화 됨. 아무 버튼이나 두번 눌러 다시 켤 수 있습니다.</string>
+    <string name="auto_disable_screenbuttons_disable_toast_text">탐색 버튼이 비활성화 됨. 아무 버튼이나 두 번 눌러 다시 켤 수 있습니다.</string>
     <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">다시 탭하여 나가기</string>
     <string name="auto_disable_screenbuttons_prompts_title">탐색 버튼을 비활성화하시겠습니까?</string>
     <string name="auto_disable_screenbuttons_prompts_message">언제든지 아무버튼이나 더블 탭하여 탐색 버튼을 켜세요.</string>
@@ -211,7 +211,7 @@
     <string name="xspace_head">듀얼 앱</string>
     <string name="start_dump_log">이슈 관련 로그 수집 시작</string>
     <string name="resolver_checkbox_always">항상</string>
-    <string name="resolver_checkbox_once">한번만</string>
+    <string name="resolver_checkbox_once">한 번만</string>
     <string name="resolver_mi_browser">Mi 브라우저</string>
     <string name="resolver_offical_recommend">기본앱</string>
     <string name="resolver_other_method">기타 옵션</string>

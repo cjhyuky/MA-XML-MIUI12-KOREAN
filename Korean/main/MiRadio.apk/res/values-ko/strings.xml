@@ -189,9 +189,9 @@
     <string name="action_update_phone">전화번호 변경</string>
     <string name="activate_email_notice">24시간 내에 계정을 활성화하세요.</string>
     <string name="activity_not_found_notice">앱을 찾을 수 없음</string>
-    <string name="add_to_trust_device">신뢰할 수있는 기기입니다.</string>
+    <string name="add_to_trust_device">신뢰할 수 있는 기기입니다.</string>
     <string name="auth_fail_warning">세션 만료됨, 나중에 다시 로그인</string>
-    <string name="bind_sign_in_title">미 계정 추가</string>
+    <string name="bind_sign_in_title">Mi 계정 추가</string>
     <string name="change_activate_email">이메일 주소 변경</string>
     <string name="change_password">비밀번호 변경</string>
     <string name="collect_diagnosis_log">진단 로그 수집</string>

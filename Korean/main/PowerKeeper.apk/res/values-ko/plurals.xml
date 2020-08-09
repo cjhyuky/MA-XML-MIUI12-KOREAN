@@ -13,7 +13,7 @@
         <item quantity="other">%1$d단계만 거치면 울티메이트 모드가 해제됩니다.</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">%1$d단계만 완료되면 모든 항목이 잠금 해제됩니다.</item>
+        <item quantity="other">%1$d단계만 완료되면 모든 항목이 잠금해제됩니다.</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">%d개 앱 검색</item>

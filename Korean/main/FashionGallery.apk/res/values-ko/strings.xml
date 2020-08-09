@@ -70,7 +70,7 @@
     <string name="sst_wifi_only_desc">모바일 데이터 절약을 위해 이 기능 끄기</string>
     <string name="sst_wifi_only_title">모바일 데이터를 사용하여 배경화면 업데이트</string>
     <string name="summary">"온라인 컨텐츠를 보시려면 아래의 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하세요. 원하지 않으셔도 로컬 배경화면은 사용가능합니다."</string>
-    <string name="summary_international">"이 기능을 사용하려면, 우리의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>사용자 동의&lt;/a>와 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하셔야 합니다. 이 기능이 제대로 작동하려면 인터넷 연결이 필요합니다.​"</string>
+    <string name="summary_international">"이 기능을 사용하려면, 우리의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>사용자 동의&lt;/a>와 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의해야 합니다. 이 기능이 제대로 작동하려면 인터넷 연결이 필요합니다.​"</string>
     <string name="theme_apply_failured">적용할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="theme_apply_success">잠금 화면 적용됨</string>
     <string name="theme_applying">적용 중…</string>

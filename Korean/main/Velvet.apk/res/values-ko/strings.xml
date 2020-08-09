@@ -22,7 +22,7 @@
     <string name="crop_wallpaper">배경화면 잘라내기</string>
     <string name="application_name">런처3</string>
     <string name="home">홈</string>
-    <string name="uid_name">안드로이드 핵심 앱</string>
+    <string name="uid_name">Android 핵심 앱</string>
     <string name="folder_name" />
     <string name="activity_not_found">앱이 설치되지 않았습니다.</string>
     <string name="activity_not_available">앱을 사용할 수 없음</string>
@@ -1604,7 +1604,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="voice_onboarding_done">완료</string>
     <string name="voice_onboarding_dismiss_description">닫기</string>
     <string name="hotword_pref_title_lock_screen_2">음성 인식</string>
-    <string name="hotword_pref_summary_voice_unlock">"'%1$s' 문자열이 내 음성 모델과 일치하는 경우 기기를 잠금 해제합니다."</string>
+    <string name="hotword_pref_summary_voice_unlock">"'%1$s' 문자열이 내 음성 모델과 일치하는 경우 기기를 잠금해제합니다."</string>
     <string name="hotword_pref_popup_title_voice_unlock">"'%1$s' 음성 인식"</string>
     <string name="hotword_pref_popup_voice_unlock">음성 인식은 패턴, PIN 또는 비밀번호보다 안전하지 못합니다. 음성이 나와 비슷하거나 내 음성을 녹음한 사람이 기기의 잠금을 해제할 수 있습니다.</string>
     <string name="voice_unlock_bouncer_title">패턴 확인</string>
@@ -1707,7 +1707,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="opt_in_setting_required_message_device_state_and_content_tts_gearhead">예, 하지만 안전할 때에는 자동차에서 휴대전화를 연결 해제하고 알림을 탭해야 합니다. 이렇게 하면 Google에서 사용자 기기의 주소록에 액세스할 수 있습니다.</string>
     <string name="opt_in_setting_required_message_device_state_and_content_tts_eyesfree">물론입니다. 하지만 안전한 상태일 때 알림을 탭해야 합니다. 알림을 탭하면 Google이 기기의 주소록에 액세스할 수 있습니다.</string>
     <string name="opt_in_setting_ineligible_tts">죄송하지만 이 기기에서 사용할 수 없습니다.</string>
-    <string name="contact_opt_in_prompt_tts">불편을 끼쳐 죄송합니다. Google에서 기능을 개선했습니다. 휴대전화를 잠금 해제하여 업그레이드를 허용하세요. 그러면 전화 걸기, 메시지 전송 등과 같은 작업을 음성으로 수행할 수 있습니다.</string>
+    <string name="contact_opt_in_prompt_tts">불편을 끼쳐 죄송합니다. Google에서 기능을 개선했습니다. 휴대전화를 잠금해제하여 업그레이드를 허용하세요. 그러면 전화 걸기, 메시지 전송 등과 같은 작업을 음성으로 수행할 수 있습니다.</string>
     <string name="opt_in_setting_required_device_content_notification_title_handsfree">헤드셋 통화 개선</string>
     <string name="opt_in_setting_required_device_content_notification_body_handsfree">개선된 통화와 음성으로 문자 메시지 보내기와 같은 더 나은 기능을 경험해보세요.</string>
     <string name="opt_in_setting_required_device_content_notification_title">기기 정보 사용</string>
@@ -1786,8 +1786,8 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="time_duration_minutes_seconds">%1$02d분 %2$02d초</string>
     <string name="time_duration_seconds">%1$02d초</string>
     <string name="clipboard_label">연락처 세부정보</string>
-    <string name="update_google_play_services_eyes_free_tts">불편을 드려 죄송하지만, Google에서 기능을 개선했습니다. 휴대전화를 잠금 해제하여 업그레이드를 허용하세요. 그러면 음성으로 전화를 걸고 메시지를 보내는 등의 기능을 이용할 수 있습니다.</string>
-    <string name="enable_google_play_services_eyes_free_tts">불편을 드려 죄송합니다. 휴대전화를 잠금 해제하고 Google Play 서비스를 사용 설정하여 요청을 완료하시기 바랍니다.</string>
+    <string name="update_google_play_services_eyes_free_tts">불편을 드려 죄송하지만, Google에서 기능을 개선했습니다. 휴대전화를 잠금해제하여 업그레이드를 허용하세요. 그러면 음성으로 전화를 걸고 메시지를 보내는 등의 기능을 이용할 수 있습니다.</string>
+    <string name="enable_google_play_services_eyes_free_tts">불편을 드려 죄송합니다. 휴대전화를 잠금해제하고 Google Play 서비스를 사용 설정하여 요청을 완료하시기 바랍니다.</string>
     <string name="no_matches_tts">방금 하신 말씀을 이해하지 못했습니다.</string>
     <string name="no_speech_tts">방금 하신 말씀을 제대로 인식하지 못했습니다.</string>
     <string name="network_error_airplane_mode_tts">비행기 모드이므로 현재 인터넷에 연결되어 있지 않습니다.</string>
