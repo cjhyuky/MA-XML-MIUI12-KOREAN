@@ -10008,7 +10008,7 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="important_conversations_summary">대화 섹션 상단에 표시</string>
     <string name="important_conversations_summary_bubbles">대화 섹션 상단에 표시하고 떠 다니는 풍선으로 표시</string>
     <string name="important_conversation_behavior_summary">우선 순위 대화는 풀다운 창 상단에 표시됩니다. 버블 링 및 방해 금지 모드를 중단하도록 설정할 수도 있습니다.</string>
-    <string name="imsi_protection_warning">이 네트워크는 장치 위치를 추적하는 데 사용할 수 있는 고유 ID를받습니다. <annotation id = "url">자세히 알아보기 </ annotation></string>
+    <string name="imsi_protection_warning">이 네트워크는 장치 위치를 추적하는 데 사용할 수 있는 고유 ID를 받습니다. &lt;annotation id = "url">자세히 알아보기 &lt;/annotation></string>
     <string name="interact_across_profiles_app_detail_title">연결된 업무 및 개인 앱</string>
     <string name="interact_across_profiles_consent_dialog_app_data_summary">이 앱은 개인 %1$s앱의 데이터에 액세스할 수 있습니다.</string>
     <string name="interact_across_profiles_consent_dialog_app_data_title">앱 데이터</string>
@@ -10031,7 +10031,7 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s및 %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
-    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s</string>
+    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="kilobyte_per_second">KB / 초</string>
     <string name="layout_size_extral_small">XXS</string>
     <string name="left_edge">왼쪽 가장자리</string>
@@ -10053,10 +10053,10 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="manage_conversations">대화 관리</string>
     <string name="manage_external_storage_title">모든 파일 액세스</string>
     <string name="manage_trust_agents">Trust Agent</string>
-    <string name="master_clear_desc_also_erases_esim"><li> eSIM </ li></string>
+    <string name="master_clear_desc_also_erases_esim">&lt;li> eSIM &lt;/li></string>
     <string name="media_output_disconnected_status">%1$s(연결 해제 됨)</string>
     <string name="media_output_group">그룹</string>
-    <string name="media_output_group_panel_multiple_devices_summary">% 1 $ d 개의 장치가 선택됨</string>
+    <string name="media_output_group_panel_multiple_devices_summary">%1$d 개의 장치가 선택됨</string>
     <string name="media_output_group_panel_single_device_summary">1 개의 장치가 선택됨</string>
     <string name="media_output_group_panel_title">출력 추가</string>
     <string name="media_output_label_title">%s 재생</string>
@@ -10126,15 +10126,15 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="notification_people_strip_title">최근 대화 스트립 표시</string>
     <string name="notification_priority_title">우선 순위</string>
     <string name="notification_summary_channel">%1$s• %2$s</string>
-    <string name="no_5g_in_dsds_text">2 개의 SIM을 사용하는 경우이 휴대 전화는 4G로 제한됩니다. <annotation id = "url">자세히 알아보기 </ annotation></string>
+    <string name="no_5g_in_dsds_text">2 개의 SIM을 사용하는 경우이 휴대 전화는 4G로 제한됩니다. &lt;annotation id = "url">자세히 알아보기 &lt;/annotation></string>
     <string name="onekey_migrate">Mi Mover</string>
     <string name="open_supported_links_footer">앱이 다음 링크를 처리한다고 주장합니다.</string>
     <string name="otg_button">OTG</string>
     <string name="otg_settings">OTG</string>
     <string name="other_conversations_summary">변경 한 대화</string>
-    <string name="owner_info_settings_status">% 1 $ d / % 2 $ d</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="page_layout_25">휴고 바라</string>
-    <string name="page_layout_26">Manvendra Gupta </ ​​string>
+	<string name="page_layout_26">Manvendra Gupta</string>
     <string name="page_layout_27">Manu Jain</string>
     <string name="page_layout_28">Clinton Jeff</string>
     <string name="page_layout_29">산티 콴</string>
@@ -10151,8 +10151,8 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="platform_compat_dashboard_title">앱 호환성 변경 사항</string>
     <string name="platform_compat_default_disabled_title">기본 비활성화 된 변경 사항</string>
     <string name="platform_compat_default_enabled_title">기본적으로 활성화 된 변경</string>
-    <string name="platform_compat_selected_app_summary">%1$stargetSdkVersion % 2 $ d</string>
-    <string name="platform_compat_target_sdk_title">targetSdkVersion> % d에 대해 활성화 됨</string>
+    <string name="platform_compat_selected_app_summary">%1$stargetSdkVersion %2$d</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion> %d에 대해 활성화 됨</string>
     <string name="power_charging">%1$s-%2$s</string>
     <string name="power_menu_cards_passes">카드 및 패스 표시</string>
     <string name="power_menu_cards_passes_device_controls">카드, 패스 및 기기 컨트롤 표시</string>
@@ -10218,7 +10218,7 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="screen_pinning_guest_user_description">"앱 고정을 사용하면 고정을 해제할 때까지 현재 앱을 계속 볼 수 있습니다. 예를 들어이 기능을 사용하여 신뢰할 수 있는 친구가 특정 게임을 플레이하도록 할 수 있습니다. 앱이 고정되면, 고정 된 앱은 다른 앱을 열 수 있으며 개인 데이터에 액세스할 수 있습니다. 기기를 다른 사람과 안전하게 공유하려면 대신 게스트 사용자를 사용해보세요. 앱 고정을 사용하려면 다음을 따르세요. \ u00091. \ u0009 앱 고정을 사용 설정하세요. \ u0009 열기 개요 \ u00093. \ u0009 화면 상단의 앱 아이콘을 탭한 다음 고정을 탭하세요. "</string>
     <string name="screen_zoom_small">XS</string>
     <string name="search_breadcrumb_connector">%1$s> %2$s</string>
-    <string name="search_input_txt_na">"<font color = '# ff0000'> %s </ font>"</string>
+    <string name="search_input_txt_na">"&lt;font color = '# ff0000'> %s &lt;/font>"</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴인식 잠금해제를 다시 설정하려면 현재 얼굴 데이터를 삭제하세요. 얼굴인식 잠금해제에 사용되는 얼굴 데이터는 영구적이고 안전하게 삭제됩니다. 제거 후 잠금을 해제하려면 PIN, 패턴 또는 비밀번호가 필요합니다. 휴대 전화, 앱에 로그인하고 결제를 확인하세요. "</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">얼굴인식 잠금해제 설정</string>
@@ -10245,12 +10245,10 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="shared_data_summary">공유 데이터보기 및 수정</string>
     <string name="shared_data_title">공유 데이터</string>
     <string name="show_refresh_rate">새로고침 빈도 표시</string>
-    <string name="show_refresh_rate_summary">현재 디스플레이 새로고침 빈도 표시</string>
-    <string name="silent_notifications_status_bar">상태 표시줄에서 무음 알림 숨기기</string>
-    <string name="sim_card_number_title">SIM % 1 $ d</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_change_pin">SIM PIN</string>
     <string name="sim_settings_summary">%1$s-%2$s</string>
-    <string name="sim_signal_strength">% 1 $ d dBm % 2 $ d asu</string>
+    <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
@@ -10269,11 +10267,11 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="status_msid_number">MSID</string>
     <string name="storage_category">저장소</string>
     <string name="storage_detail_apps">앱</string>
-    <string name="storage_size_large">^ 1 <small> <small> ^ 2 </ small> </ small></string>
-    <string name="storage_size_large_alternate">^ 1 <small> <font size = "20">^ 2 </ font> </ small></string>
+    <string name="storage_size_large">^1 &lt;small> ^2 &lt;/small></string>
+    <string name="storage_size_large_alternate">^1 &lt;small> &lt;font size = "20">^ 2 &lt;/font> &lt;/small></string>
     <string name="sudFontSecondary">google-sans</string>
     <string name="sudFontSecondaryMedium">google-sans-medium</string>
-    <string name="suggestions_summary">+ % 1 $ d</string>
+    <string name="suggestions_summary">+ %1$d</string>
     <string name="suggestion_button_close">닫기</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">","</string>

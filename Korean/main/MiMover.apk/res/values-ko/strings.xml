@@ -479,7 +479,7 @@
     <string name="qq_data_external">QQ SD 카드 데이터</string>
     <string name="quit_now">종료</string>
     <string name="reconnect">다시 연결</string>
-    <string name="recovery_progress">항목 (% 1 $ d / % 2 $ d) 복원 중…</string>
+    <string name="recovery_progress">항목 (%1$d / %2$d) 복원 중…</string>
     <string name="recreate_soft_ap_tips">다시 시도하려면 아래 버튼을 탭하세요.</string>
     <string name="restore_data_to_device_content">"항목이 Xiaomi Cloud와 동기화되었습니다. 항목을 복원하려면 Mi 계정에 로그인하세요."</string>
     <string name="restore_data_to_device_title">항목을이 기기로 복원</string>
