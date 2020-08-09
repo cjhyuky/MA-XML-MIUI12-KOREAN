@@ -9923,7 +9923,6 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="device_controls_sentence">기기 제어</string>
     <string name="device_controls_setting_subtitle">연결된 장치의 제어에 액세스하려면 전원 버튼을 길게 누르세요</string>
     <string name="device_controls_setting_toggle">기기 컨트롤 표시</string>
-    <string name="device_memory">RAM</string>
     <string name="disable_wifi_hotspot_title">Wi-Fi 핫스팟 사용 안함</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">블루투스 및 이더넷을 통해서만 인터넷 공유</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">블루투스를 통해서만 인터넷 공유</string>
@@ -10013,12 +10012,11 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockscreen_bypass_title">잠금 화면 건너뛰기</string>
     <string name="manage_conversations">대화 관리</string>
     <string name="manage_external_storage_title">모든 파일 액세스</string>
-    <string name="manage_trust_agents">Trust Agent</string>
     <string name="master_clear_desc_also_erases_esim">&lt;li> eSIM &lt;/li></string>
     <string name="media_output_disconnected_status">%1$s(연결 해제 됨)</string>
     <string name="media_output_group">그룹</string>
-    <string name="media_output_group_panel_multiple_devices_summary">%1$d 개의 장치가 선택됨</string>
-    <string name="media_output_group_panel_single_device_summary">1 개의 장치가 선택됨</string>
+    <string name="media_output_group_panel_multiple_devices_summary">%1$d개의 장치가 선택됨</string>
+    <string name="media_output_group_panel_single_device_summary">1개의 장치가 선택됨</string>
     <string name="media_output_group_panel_title">출력 추가</string>
     <string name="media_output_label_title">%s 재생</string>
     <string name="media_output_panel_stop_casting_button">전송 중지</string>

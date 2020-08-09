@@ -10,7 +10,7 @@
         <item quantity="other">%d개 항목</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d 개 선택됨</item>
+        <item quantity="other">%1$d개 선택됨</item>
     </plurals>
     <plurals name="items_picture">
         <item quantity="other">(%1$d개 항목)</item>

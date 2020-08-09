@@ -10,13 +10,13 @@
         <item quantity="other">%1$d 항목</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">다운로드 완료시까지 %1$d 개 파일 남음</item>
+        <item quantity="other">다운로드 완료시까지 %1$d개 파일 남음</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">업로드 완료시까지 %1$d 개 파일 남음</item>
+        <item quantity="other">업로드 완료시까지 %1$d개 파일 남음</item>
     </plurals>
     <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">이동 완료시까지 %1$d 개 파일 남음</item>
+        <item quantity="other">이동 완료시까지 %1$d개 파일 남음</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d 선택됨</item>

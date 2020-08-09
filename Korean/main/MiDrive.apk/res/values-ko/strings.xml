@@ -24,7 +24,7 @@
     <string name="delete_file">이 파일을 삭제하시겠습니까?</string>
     <string name="delete_files">%1$d 파일을 삭제하시겠습니까?</string>
     <string name="delete_folder">이 폴더를 삭제하시겠습니까?</string>
-    <string name="delete_folders">%1$d 개의 폴더를 삭제하시겠습니까?</string>
+    <string name="delete_folders">%1$d개의 폴더를 삭제하시겠습니까?</string>
     <string name="delete_success">파일 삭제됨</string>
     <string name="download_failed">"다운받을 수 없음"</string>
     <string name="downloading">다운로드 중</string>
