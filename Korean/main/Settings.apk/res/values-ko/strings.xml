@@ -9938,7 +9938,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="device_description_cpu">CPU</string>
     <string name="device_description_ram">RAM</string>
     <string name="device_memory">RAM</string>
-    <string name="directory_on_volume">%1$s(%2$s)</string>
     <string name="disable_wifi_hotspot_title">Wi-Fi 핫스팟 사용 안함</string>
     <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">블루투스 및 이더넷을 통해서만 인터넷 공유</string>
     <string name="disable_wifi_hotspot_when_bluetooth_on">블루투스를 통해서만 인터넷 공유</string>
@@ -9947,7 +9946,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">USB 및 블루투스를 통해서만 인터넷 공유</string>
     <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">USB 및 이더넷을 통해서만 인터넷 공유</string>
     <string name="disable_wifi_hotspot_when_usb_on">USB를 통해서만 인터넷 공유</string>
-    <string name="dndm_auto_time_setting_summary">%1$s- %2$s</string>
     <string name="dndm_twelve_hour_time_format">h : mm a</string>
     <string name="dndm_twenty_four_hour_time_format">HH : mm</string>
     <string name="dndm_vip_call_summary_custom">% d</string>
@@ -9973,12 +9971,10 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="filter_manage_external_storage">모든 파일에 액세스할 수 있음</string>
     <string name="find_my_device_summary">Mi 계정에 로그인해야합니다.</string>
     <string name="firewall_applist">앱</string>
-    <string name="firmware_title">Android</string>
     <string name="font_size_preview">MIUI</string>
     <string name="forgot_password_text">PIN, 패턴 또는 비밀번호를 재설정하는 데 도움이됩니다.</string>
     <string name="forgot_password_title">IT 관리자에게 문의</string>
     <string name="free_wifi_wiwide_provider">와이드</string>
-    <string name="gadget_state_template">%1$s%2$s</string>
     <string name="gesture_settings_activity_title">제스처 설정</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
@@ -10031,11 +10027,9 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s및 %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
-    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="kilobyte_per_second">KB / 초</string>
     <string name="layout_size_extral_small">XXS</string>
     <string name="left_edge">왼쪽 가장자리</string>
-    <string name="link_speed">% 1 $ dMbps</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_network_mode">홈</string>
     <string name="location_agps_def_supl_host">supl.google.com</string>
@@ -10065,7 +10059,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="media_output_switch_error_text">전환할 수 없습니다. 다시 시도하려면 탭하세요.</string>
     <string name="media_transfer_wired_device_name">유선 오디오 장치</string>
     <string name="megabyte_per_second">MB / s</string>
-    <string name="memory_use_running_format">%1$s/ %2$s</string>
     <string name="misc_files_selected_count_bytes">%2$s 중 %1$s</string>
     <string name="miui_sos_launching_title">SOS</string>
     <string name="mi_pay_summary_without_nfc">Mi Pay</string>
@@ -10089,7 +10082,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="nfc_and_payment_settings_no_payment_installed_summary">사용하려면 먼저 결제 앱을 설치하세요.</string>
     <string name="nfc_and_payment_settings_payment_off_nfc_off_summary">NFC가 꺼져있어 사용할 수 없음</string>
     <string name="nfc_category_title">NFC</string>
-    <string name="nfc_payment_app_and_desc">%1$s-%2$s</string>
     <string name="nfc_payment_btn_text_set_deault">기본값 설정</string>
     <string name="nfc_payment_btn_text_update">업데이트</string>
     <string name="nfc_payment_update_default_label">기본 결제 앱 업데이트</string>
@@ -10104,7 +10096,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="notification_conversation_add_to_home">홈에 추가</string>
     <string name="notification_conversation_important">중요</string>
     <string name="notification_conversation_summary">%1$s• %2$s</string>
-    <string name="notification_header_divider_symbol_with_spaces">"•"</string>
     <string name="notification_history">알림 내역</string>
     <string name="notification_history_dismiss">최근 닫힘</string>
     <string name="notification_history_off_summary">최근 알림 및 일시 중지 된 알림을 보려면 알림 내역을 사용 설정</string>
@@ -10132,7 +10123,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="otg_button">OTG</string>
     <string name="otg_settings">OTG</string>
     <string name="other_conversations_summary">변경 한 대화</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="page_layout_25">휴고 바라</string>
 	<string name="page_layout_26">Manvendra Gupta</string>
     <string name="page_layout_27">Manu Jain</string>
@@ -10153,7 +10143,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="platform_compat_default_enabled_title">기본적으로 활성화 된 변경</string>
     <string name="platform_compat_selected_app_summary">%1$stargetSdkVersion %2$d</string>
     <string name="platform_compat_target_sdk_title">targetSdkVersion> %d에 대해 활성화 됨</string>
-    <string name="power_charging">%1$s-%2$s</string>
     <string name="power_menu_cards_passes">카드 및 패스 표시</string>
     <string name="power_menu_cards_passes_device_controls">카드, 패스 및 기기 컨트롤 표시</string>
     <string name="power_menu_device_controls">장치 컨트롤 표시</string>
@@ -10166,7 +10155,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="power_menu_privacy_show_controls">잠겼을 때 컨트롤 표시</string>
     <string name="power_menu_setting_name">전원 메뉴</string>
     <string name="power_menu_setting_title">전원 버튼 메뉴</string>
-    <string name="power_remaining_settings_home_page">%1$s-%2$s</string>
     <string name="power_suggestion_battery_run_out">배터리가 %1$s소진 될 수 있습니다.</string>
     <string name="power_usage_level_and_status">%1$s-%2$s</string>
     <string name="preference_summary_default_combination">%1$s/ %2$s</string>
@@ -10185,12 +10173,9 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="print_job_summary">"%1$s%2$s"</string>
     <string name="private_dns_broken">개인 DNS 서버에 액세스할 수 없음</string>
     <string name="private_dns_mode_on">켜기</string>
-    <string name="process_format">%1$s(% 2 $ d)</string>
     <string name="profile_connect_timeout_subtext">연결 문제. 기기 끄기 및 다시 켜기</string>
     <string name="promote_conversation_summary">대화 섹션에 추가</string>
     <string name="promote_conversation_title">대화입니다</string>
-    <string name="proxy_exclusionlist_hint">example.com, mycomp.test.com, localhost</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
     <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
     <string name="qtifeedback_package">com.qti.smq.Feedback</string>
@@ -10234,8 +10219,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="security_settings_face_settings_footer_attention_not_supported">"얼굴인식 잠금해제를 사용하여 기기를 잠금해제하고, 앱에 로그인하고, 결제를 확인합니다. 유의 사항 : 의도하지 않은 경우 휴대 전화를 쳐다 보면 잠금이 해제 될 수 있습니다. 휴대 전화를 잠금해제할 수 있습니다. 눈을 감아도 얼굴에 대고 있으면 다른 사람이 휴대 전화를 잠금해제할 수 있습니다. 같은 형제 자매와 같이 나와 닮은 사람이 휴대 전화를 잠금해제할 수 있습니다. "</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">확인</string>
     <string name="select_invalid_bug_report_handler_toast_text">이 선택은 더 이상 유효하지 않습니다. 다시 시도하세요.</string>
-    <string name="service_client_name">%1$s</string>
-    <string name="service_process_name">%1$s</string>
     <string name="setup_choose_unlock_password">PIN</string>
     <string name="setup_password_confirm">확인</string>
     <string name="shared_data_delete_failure_text">공유 데이터를 삭제하는 중에 오류가 발생했습니다.</string>
@@ -10247,15 +10230,11 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="show_refresh_rate">새로고침 빈도 표시</string>
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_change_pin">SIM PIN</string>
-    <string name="sim_settings_summary">%1$s-%2$s</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="ssid_label">SSID :</string>
     <string name="status_bar_app_des_separator">","</string>
-    <string name="status_bar_notification_info_overflow">999 +</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s:"</string>
     <string name="status_device_wifi_mac_address">기기 Wi-Fi MAC 주소</string>
     <string name="status_esim_id">EID</string>
     <string name="status_iccid">ICCID</string>
@@ -10275,8 +10254,6 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="suggestion_button_close">닫기</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">","</string>
-    <string name="summary_font_size">%1$s</string>
-    <string name="summary_range_symbol_combination">%1$s-%2$s</string>
     <string name="summary_separator">"/"</string>
     <string name="summary_two_lines_placeholder">""</string>
     <string name="support_country_format">%1$s-%2$s</string>
