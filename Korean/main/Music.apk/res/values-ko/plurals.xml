@@ -10,10 +10,10 @@
     <item quantity="other">%d개 항목을 지울까요? 참고: 파일이 기기에서도 함께 지워집니다.</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-    <item quantity="other">%d개의 음악을 삭제하겠습니까?</item>
+    <item quantity="other">%d개의 음악을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-    <item quantity="other">%d개의 음악을 제거하겠습니까?</item>
+    <item quantity="other">%d개의 음악을 제거하시겠습니까?</item>
     </plurals>
     <plurals name="download_finished">
     <item quantity="other">&amp;lt;font color=\"red\"&gt;%d개 노래&amp;lt;/font&gt; 다운로드됨</item>

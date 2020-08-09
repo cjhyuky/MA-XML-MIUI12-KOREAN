@@ -35,7 +35,7 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">성능</string>
     <string name="status_bar_toggle_wifi_ap">핫스팟</string>
-    <string name="status_bar_toggle_quiet_mode">방해 금지모드</string>
+    <string name="status_bar_toggle_quiet_mode">방해 금지 모드</string>
     <string name="status_bar_toggle_paper_mode">독서모드</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">방송하기</string>
@@ -168,7 +168,7 @@
     <string name="standard">무음</string>
     <string name="total">방해 금지 모드</string>
     <string name="standard_title">무음</string>
-    <string name="total_title">방해 금지모드</string>
+    <string name="total_title">방해 금지 모드</string>
     <string name="description_title">무음 모드</string>
     <string name="standard_description">수신전화와 알림을 무음처리</string>
     <string name="total_description">알람 소리를 제외한 모든 항목 진동없는 무음처리</string>
@@ -205,7 +205,7 @@
     <string name="miui_warning_button_ok">확인</string>
     <string name="miui_warning_tip_info">%1$s 앱에서 에러가 발생했습니다. 이 앱을 닫으시겠습니까?</string>
     <string name="talk_back_water_mark_string1">TalkBack 켜짐</string>
-    <string name="talk_back_water_mark_string2">\"볼륨+\" 와 \"볼륨-\"를 3초동안 동시에 누르면 꺼집니다.</string>
+    <string name="talk_back_water_mark_string2">\"볼륨+\" 와 \"볼륨-\"를 3초 동안 동시에 누르면 꺼집니다.</string>
     <string name="security_permission_network_failed_text">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="security_permission_open_wifi_settings">Wi-Fi 설정 열기</string>
     <string name="xspace_head">듀얼 앱</string>

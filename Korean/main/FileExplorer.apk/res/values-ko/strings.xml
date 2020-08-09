@@ -160,7 +160,7 @@
     <string name="ftp_transfer_secure">보안</string>
     <string name="ftp_port_number">포트 번호</string>
     <string name="ftp_account_req_notice">4–16 문자, 글자와 숫자, 대소문자 구분</string>
-    <string name="ftp_open_port_error">포트를 열 수 없습니다. 네트워크 연결을 확인하거나 포트 번호를 재설정 하세요,</string>
+    <string name="ftp_open_port_error">포트를 열 수 없습니다. 네트워크 연결을 확인하거나 포트 번호를 다시 설정하세요,</string>
     <string name="ftp_anonymous_login">익명 로그인</string>
     <string name="ftp_username_and_passworld">로그인</string>
     <string name="ftp_username_hint">사용자 이름</string>
@@ -281,8 +281,8 @@
     <string name="make_private">숨기기</string>
     <string name="open_private_folder">놓아서 숨김 폴더 보기</string>
     <string name="decrypt">숨기기 취소</string>
-    <string name="repair_file">암호화된 파일 복구</string>
-    <string name="encrypting">암호화 중…</string>
+    <string name="repair_file">비밀번호화된 파일 복구</string>
+    <string name="encrypting">비밀번호화 중…</string>
     <string name="decrypting">해독 중…</string>
     <string name="decrypt_error">해독 할 수 없음</string>
     <string name="user_not_login">먼저 등록하세요.</string>
@@ -346,7 +346,7 @@
     <string name="move_icon_to_desktop_success">홈 화면에 바로 가기 추가됨</string>
     <string name="clean_hint">탭하여 여유공간 확보하기</string>
     <string name="private_toast_hint2">파일을 숨기시려면, 누르시고 기다리신 다음 숨김 폴더에 추가합니다.</string>
-    <string name="encrypt_success_first_five">파일이 암호화되고 숨겨졌습니다. 파일 탐색기 시작페이지에서 당겨 내리시면 숨긴 파일을 확인하실 수 있습니다.</string>
+    <string name="encrypt_success_first_five">파일이 비밀번호화되고 숨겨졌습니다. 파일 탐색기 시작페이지에서 당겨 내리시면 숨긴 파일을 확인하실 수 있습니다.</string>
     <string name="add_private">지금 파일 숨김</string>
     <string name="private_folder_no_file_hints">숨겨진 파일이 없습니다.</string>
     <string name="private_folder_update">숨김 파일 업데이트 중…</string>
@@ -430,7 +430,7 @@
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="request_timeout">네트워크 요청 시간 초과</string>
     <string name="login_expired">시간이 초과되었습니다. 다시 로그인을 시도하세요.</string>
-    <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer 폴더의 파일을 암호화할 수 없습니다. 파일을 다른 폴더로 이동하신 후 다시 시도하세요.</string>
+    <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer 폴더의 파일을 비밀번호화할 수 없습니다. 파일을 다른 폴더로 이동하신 후 다시 시도하세요.</string>
     <string name="hottest_sticker_str">인기</string>
     <string name="no_new_content_tip">모든 항목이 최신입니다.</string>
     <string name="share_title_1">멋있는 스티커를 찾았습니다!</string>
@@ -659,7 +659,7 @@
     <string name="video_uploaded">업로드됨</string>
     <string name="video_upload_kuaishou_hint">더 많은 팬들을 모으기 위해 KuaiShou 동영상 업로드하기</string>
     <string name="video_upload_wechat_hint">더 많은 팬들을 모으기 위해 WeChat 동영상 업로드하기</string>
-    <string name="upload_video_failed_progress">업로드할 수 없음, 다시 시도 하세요.</string>
+    <string name="upload_video_failed_progress">업로드할 수 없음, 다시 시도하세요.</string>
     <string name="upload_video_failed_external_progress">업로드할 수 없음, 다른 영상으로 시도해보세요.</string>
     <string name="upload_video_success_progress">성공적으로 업로드됨</string>
     <string name="upload_video_failed">업로드할 수 없음</string>
@@ -825,8 +825,8 @@
     <string name="search_statistic_keyword">키워드</string>
     <string name="search_statistic_tag">태그</string>
     <string name="transition_image">전환 이미지</string>
-    <string name="otg_file_security_confirm">휴대폰에 복사</string>
-    <string name="otg_file_security_details">휴대폰에 복사해주세요.</string>
+    <string name="otg_file_security_confirm">휴대전화에 복사</string>
+    <string name="otg_file_security_details">휴대전화에 복사해주세요.</string>
     <string name="operation_show_privacy_policy">개인정보 보호정책 보기</string>
     <string name="rename_input_null">새로운 파일명을 입력하세요.</string>
     <string name="failed_not_access_sd_card">우선, SD 카드 엑세스를 허용하세요.</string>

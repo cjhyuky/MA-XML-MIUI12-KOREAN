@@ -34,7 +34,7 @@
     <string name="dlg_black_antispam_hint">차단 목록</string>
     <string name="dlg_clear_all_sms">차단된 메시지를 삭제하시겠습니까?</string>
     <string name="dlg_clear_all_call">차단된 통화를 지우시겠습니까?</string>
-    <string name="dlg_clear_current_sms">이 번호에서 전송된 모든 차단된 메시지를 삭제하겠습니까?</string>
+    <string name="dlg_clear_current_sms">이 번호에서 전송된 모든 차단된 메시지를 삭제하시겠습니까?</string>
     <string name="dlg_clear_current_call">이 번호에서 걸려 오는 모든 차단된 통화를 삭제하시겠습니까?</string>
     <string name="dlg_clear_all_ok">모두 지우기</string>
     <string name="dlg_clear_current_ok">지우기</string>

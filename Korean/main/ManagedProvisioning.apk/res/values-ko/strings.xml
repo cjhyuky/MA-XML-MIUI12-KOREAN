@@ -18,10 +18,10 @@
     <string name="sure_you_want_to_delete_profile">업무용 프로필을 삭제하시겠습니까? 데이터가 모두 삭제됩니다.</string>
     <string name="delete_profile">삭제</string>
     <string name="cancel_delete_profile">취소</string>
-    <string name="encrypt_device_text">업무용 프로필 설정을 계속하려면 기기를 암호화해야 합니다. 이 작업은 다소 시간이 걸릴 수 있습니다.</string>
+    <string name="encrypt_device_text">업무용 프로필 설정을 계속하려면 기기를 비밀번호화해야 합니다. 이 작업은 다소 시간이 걸릴 수 있습니다.</string>
     <string name="encrypt_device_cancel">취소</string>
-    <string name="encrypt_device_launch_settings">암호화</string>
-    <string name="continue_provisioning_notify_title">암호화 완료</string>
+    <string name="encrypt_device_launch_settings">비밀번호화</string>
+    <string name="continue_provisioning_notify_title">비밀번호화 완료</string>
     <string name="continue_provisioning_notify_text">계속해서 업무용 프로필을 설정하려면 터치하세요.</string>
     <string name="managed_provisioning_error_text">업무용 프로필을 설정할 수 없습니다. IT 부서에 문의하거나 나중에 다시 시도해 주시기 바랍니다.</string>
     <string name="managed_provisioning_not_supported">업무용 프로필을 지원하지 않는 기기입니다.</string>
@@ -102,7 +102,7 @@
     <string name="collapse">툴바 접기</string>
     <string name="continue_button">계속</string>
     <string name="dismiss">무시</string>
-    <string name="encrypt">암호화</string>
+    <string name="encrypt">비밀번호화</string>
     <string name="expand">확장</string>
     <string name="reset">초기화</string>
     <string name="set_up_your_device">기기 설정</string>
@@ -123,11 +123,11 @@
     <string name="contact_your_admin_for_help">관리자에게 도움을 요청하세요.</string>
     <string name="couldnt_set_up_device">"기기를 설정할 수 없습니다. 도움이 필요하면 관리자에게 문의하세요."</string>
     <string name="device_already_set_up">이미 설정되어 있습니다.</string>
-    <string name="device_doesnt_allow_encryption_contact_admin">"이 장치는 설정에 필요한 암호화를 허용하지 않습니다. 도움이 필요하면 관리자에게 문의하세요."</string>
-    <string name="device_has_reset_protection_contact_admin">기기의 재설정 보호 기능이 켜져 있습니다. 도움이 필요하면 관리자에게 문의하세요.</string>
+    <string name="device_doesnt_allow_encryption_contact_admin">"이 장치는 설정에 필요한 비밀번호화를 허용하지 않습니다. 도움이 필요하면 관리자에게 문의하세요."</string>
+    <string name="device_has_reset_protection_contact_admin">기기의 다시 설정 보호 기능이 켜져 있습니다. 도움이 필요하면 관리자에게 문의하세요.</string>
     <string name="device_owner_info">이 기기는 %1$s에 의해 관리됩니다. 관련 약관이 적용됩니다. %2$s</string>
     <string name="device_owner_info_with_terms_headers">이 기기는 %1$s에 의해 관리됩니다. %2$s의 약관이 적용됩니다. %3$s</string>
-    <string name="encrypt_this_device_question">이 기기를 암호화하시겠습니까?</string>
+    <string name="encrypt_this_device_question">이 기기를 비밀번호화하시겠습니까?</string>
     <string name="for_help_contact_admin">도움이 필요하면 관리자에게 문의하세요.</string>
     <string name="if_questions_contact_admin">"도움이 필요하면 관리자에게 문의하세요."</string>
     <string name="info_anim_title_0">업무의 방식을 뒤바꾸다.</string>

@@ -5,7 +5,7 @@
     <string name="channel_name_stopwatch">스탑워치</string>
     <string name="add_common_timer">타이머 추가</string>
     <string name="common_timer_selector">타이머 선택</string>
-    <string name="stopwatch_reset_notification">스톱워치가 재설정 되었습니다.</string>
+    <string name="stopwatch_reset_notification">스톱워치가 다시 설정 되었습니다.</string>
     <string name="stopwatch_running_notification">스톱워치</string>
     <string name="white_noise_selector">오디오 선택</string>
     <string name="slider_text">위로 밀어 끄기</string>
@@ -292,7 +292,7 @@
     <string name="module_dialog_neutral">확인</string>
     <string name="module_dialog_positive">동의</string>
     <string name="module_download_failure">"오디오를 다운로드할 수 없습니다. 네트워크를 확인하고 다시 시도하세요."</string>
-    <string name="module_weather_ringtone_download_data">날씨 경보는 날씨마다 다른 알람음을 내는 기능입니다. 작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하겠습니까?</string>
+    <string name="module_weather_ringtone_download_data">날씨 경보는 날씨마다 다른 알람음을 내는 기능입니다. 작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하시겠습니까?</string>
     <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_download_wifi">날씨 경보는 현재 날씨에 따라 다른 벨소리를 선택합니다. 작동하려면 시계가 오디오를 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
@@ -307,9 +307,9 @@
     <string name="module_week_ringtone_introduce">자연 알람은 날짜에 따라 다른 소리를 재생합니다.</string>
     <string name="module_week_ringtone_update_data">자연 알람은 날짜에 따라 다른 소리를 재생합니다. 작동하려면 시계가 ≈30MB의 오디오를 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_week_ringtone_update_success">자연 알람은 날짜에 따라 다른 소리를 재생합니다. 이 기능을 사용하기 위해 새 알람을 만들수 있습니다.</string>
-    <string name="module_white_noise_download_data">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하겠습니까?</string>
+    <string name="module_white_noise_download_data">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_white_noise_download_data_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
-    <string name="module_white_noise_download_wifi">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하겠습니까?</string>
+    <string name="module_white_noise_download_wifi">작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;개인화된 서비스를 제공하려면 인터넷에 연결되어 있어야 합니다. &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; 및 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 에 동의하십니까?&lt;/Data&gt;</string>
     <string name="network_privacy">&lt;Data&gt;현지 휴일에 대한 정보를 얻고 개인화된 서비스를 제공하려면 시계가 인터넷에 연결되어 있어야 합니다. 사용하기 전에 &amp;lt;a href=\"%1$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;.에 동의해야 합니다.&lt;/Data&gt;</string>
     <string name="network_privacy_global">&lt;Data&gt;개인화된 서비스를 제공하려면 시계가 인터넷에 연결되어 있어야 합니다. 시계를 사용하기 전에 &amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;사용권 계약&amp;lt;/a&amp;gt;.을 읽고 동의해야 합니다&lt;/Data&gt;</string>
@@ -360,7 +360,7 @@
     <string name="bedtime_repeat_type">스케쥴</string>
     <string name="bedtime_setting_complete">안녕히 주무세요!</string>
     <string name="bedtime_setting_complete_desc">새로운 취침 시간표에 따라 최상의 몸상태를 만들어보세요.</string>
-    <string name="bedtime_setting_no_disturbance">자고있는 동안은 방해 금지모드로 전환하시겠습니까?</string>
+    <string name="bedtime_setting_no_disturbance">자고있는 동안은 방해 금지 모드로 전환하시겠습니까?</string>
     <string name="bedtime_setting_no_disturbance_desc">일어날 때까지 벨소리, 알림음 및 진동이 들리지 않습니다.</string>
     <string name="bedtime_setting_repeat_type">취침 시간표는 언제 적용됩니까??</string>
     <string name="bedtime_setting_repeat_type_desc">"알림을 받을 요일을 선택하세요"</string>
@@ -370,7 +370,7 @@
     <string name="bedtime_wake_up_time_remind">이때 알람이 울립니다.</string>
     <string name="bedtime_wake_up_time_setting">언제 일어나시나요?</string>
     <string name="bedtime_welcome">취침시간 관리</string>
-    <string name="bedtime_welcome_desc">정기적이고 일관된 수면 스케줄을 유지하면 건강에 도움이됩니다.    매일 잠자리에 들고 일어나도록 도와주는 알림을 설정합니다.</string>
+    <string name="bedtime_welcome_desc">정기적이고 일관된 수면 스케줄을 유지하면 건강에 도움이 됩니다.    매일 잠자리에 들고 일어나도록 도와주는 알림을 설정합니다.</string>
     <string name="channel_name_sleep">수면</string>
     <string name="close">닫기</string>
     <string name="continue_operation">계속하기</string>
@@ -382,25 +382,25 @@
     <string name="open_sleep_record">켜기</string>
     <string name="setting_complete">완료</string>
     <string name="sleep_analysis">통계</string>
-    <string name="sleep_date_provider_text">수면 데이터 제공 by Mi 헬스</string>
+    <string name="sleep_date_provider_text">수면 데이터 제공 by Mi 건강</string>
     <string name="sleep_duration">"수면시간: "</string>
     <string name="sleep_duration_avg_text_diff">평균 수면시간 (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">%1$s %2$s 동안 주무셨습니다.</string>
     <string name="sleep_duration_no_data">아직 데이터가 부족합니다.</string>
     <string name="sleep_duration_recommendation">대부분의 사람들은 하루에 7-9시간의 수면이 필요합니다.</string>
     <string name="sleep_no_disturbance">방해 금지 모드</string>
-    <string name="sleep_no_disturbance_desc">일어나기 전까지 방해 금지모드로 전환</string>
+    <string name="sleep_no_disturbance_desc">일어나기 전까지 방해 금지 모드로 전환</string>
     <string name="sleep_no_record_text">통계 추적을 위해 수면 추적 시작</string>
     <string name="sleep_notification_desc">취침 시간 일정에 맞추기</string>
     <string name="sleep_notification_title">취침할 시간</string>
     <string name="sleep_record">수면 추적</string>
     <string name="sleep_record_desc">수면 데이터 기록 시작 켜기</string>
-    <string name="sleep_record_desc_detailed">수면 추적 기능은 Mi Health에서 제공합니다.    전원을 켜면 Mi 헬스는 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록하여 통계를 차트 형태로 보여줍니다.    수면을보다 정확하게 추적하려면 Mi Health가 자동 시작되도록하세요.    모든 관련 데이터가 기기에 로컬로 저장되므로 쉽게 관리할 수 ​​있습니다.</string>
-    <string name="sleep_record_no_data">Mi 헬스가 충분한 데이터를 분석한 후 통계가 여기에 표시됩니다.</string>
+    <string name="sleep_record_desc_detailed">수면 추적 기능은 Mi 건강에서 제공합니다.    전원을 켜면 Mi 건강은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록하여 통계를 차트 형태로 보여줍니다.    수면을 보다 정확하게 추적하려면 Mi 건강이 자동 시작되도록 하세요.    모든 관련 데이터가 기기에 로컬로 저장되므로 쉽게 관리할 수 ​​있습니다.</string>
+    <string name="sleep_record_no_data">Mi 건강이 충분한 데이터를 분석한 후 통계가 여기에 표시됩니다.</string>
     <string name="sleep_remind">취침시간 알림</string>
     <string name="sleep_time">잠듬</string>
-    <string name="update_health_app">Mi 헬스 업데이트</string>
-    <string name="update_health_app_desc">수면 추적 기능은 Mi 헬스에서 제공합니다.    관련 기능에 액세스하려면 Mi 헬스를 최신 버전으로 업데이트 하세요.</string>
+    <string name="update_health_app">Mi 건강 업데이트</string>
+    <string name="update_health_app_desc">수면 추적 기능은 Mi 건강에서 제공합니다.    관련 기능에 액세스하려면 Mi 건강을 최신 버전으로 업데이트 하세요.</string>
     <string name="update_it">업데이트</string>
     <string name="usage_start">시작</string>
     <string name="wake_up_alert">알람</string>

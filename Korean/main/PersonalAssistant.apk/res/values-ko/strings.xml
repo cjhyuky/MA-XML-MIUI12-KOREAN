@@ -74,14 +74,14 @@
     <string name="alipay_account">계좌 번호</string>
     <string name="alipay_agree">동의</string>
     <string name="alipay_agree_insurance">同意 $ 보험</string>
-    <string name="alipay_alipayAccountHint">휴대폰 번호/우편함/taobao 회원 이름</string>
+    <string name="alipay_alipayAccountHint">휴대전화 번호/우편함/taobao 회원 이름</string>
     <string name="alipay_ant_group_brand">개미 브랜드</string>
     <string name="alipay_application_name">알리 페이</string>
     <string name="alipay_back_button">귀국</string>
     <string name="alipay_bind_alipayaccount">alipay 계정 바인드</string>
     <string name="alipay_bind_now">즉시 바인딩</string>
     <string name="alipay_bind_success">바인딩 성공</string>
-    <string name="alipay_bind_success_tip">alipay 계정 이름과 로그인 암호는 taobao 계정과 동일합니다.</string>
+    <string name="alipay_bind_success_tip">alipay 계정 이름과 로그인 비밀번호는 taobao 계정과 동일합니다.</string>
     <string name="alipay_bindIKnow">알았어</string>
     <string name="alipay_cancel">취소</string>
     <string name="alipay_cancel_sel">취소</string>
@@ -227,7 +227,7 @@
     <string name="alipay_reg_manual_sms_time">接收短信大约需要%1$d秒</string>
     <string name="alipay_reg_manual_sms_tip">우리는 %1$s 인증 코드 sms를 보내세요, sms를 확인하고 인증 코드를 입력하세요.</string>
     <string name="alipay_reg_manual_sms_title">인증 코드를 입력하세요.</string>
-    <string name="alipay_reg_phone_hint">휴대폰 번호를 입력하세요.</string>
+    <string name="alipay_reg_phone_hint">휴대전화 번호를 입력하세요.</string>
     <string name="alipay_reg_phone_protocol">您 表示 您 同意 $ alipay 和 $ taobao</string>
     <string name="alipay_reg_pwd_hint">설정하세요.</string>
     <string name="alipay_reg_pwd_sub_title">为 度 为 6–20 位 (不能 全 是 数字)</string>
@@ -272,7 +272,7 @@
     <string name="alipay_template_month_dialog_cancel">취소</string>
     <string name="alipay_template_month_dialog_confirm">결정</string>
     <string name="alipay_template_month_dialog_title">유효 기간</string>
-    <string name="alipay_text_phone_register">휴대폰 번호 등록</string>
+    <string name="alipay_text_phone_register">휴대전화 번호 등록</string>
     <string name="alipay_title_back">귀국</string>
     <string name="alipay_tryAgain">새로고침</string>
     <string name="alipay_use_follow_service">다음 서비스를 직접 이용할 수 있습니다.</string>
@@ -571,7 +571,7 @@
     <string name="empty_health_card_tip">Mi 피트를 설치하여 Mi 밴드와 연결하세요.</string>
     <string name="empty_health_card_tip_vip">Mi 피트를 설치하여 걸음 추적기를 켜세요.</string>
     <string name="empty_recharge_card_btn">설정으로 가기</string>
-    <string name="empty_recharge_card_tip">SIM카드가 없거나 요금제가 활성화되지 않았습니다.</string>
+    <string name="empty_recharge_card_tip">SIM 카드가 없거나 요금제가 활성화되지 않았습니다.</string>
     <string name="empty_recharge_card_title">데이터 없음</string>
     <string name="entrance">카드</string>
     <string name="error_share_not_support">이 항목은 즐겨찾기에 추가될수 없는 항목입니다.</string>
@@ -664,7 +664,7 @@
     <string name="express_no_order">주문 없음</string>
     <string name="express_no_order_info">주문 정보 없음</string>
     <string name="express_not_authorized">거절됨</string>
-    <string name="express_num_setting_des">귀하의 휴대폰에 설치된 배송조회 앱에서 주문 번호를 받습니다.</string>
+    <string name="express_num_setting_des">귀하의 휴대전화에 설치된 배송조회 앱에서 주문 번호를 받습니다.</string>
     <string name="express_num_setting_title">주문 정보에 접근</string>
     <string name="express_open">배송 조회 카드 열기</string>
     <string name="express_open_locker">열기</string>
@@ -715,14 +715,14 @@
     <string name="express_sender_name">보낸 사람 이름</string>
     <string name="express_setting_add_new_number">새 전화 번호</string>
     <string name="express_setting_add_other_number">다른 전화 번호</string>
-    <string name="express_setting_authorized_number">인증된 휴대폰 번호</string>
+    <string name="express_setting_authorized_number">인증된 휴대전화 번호</string>
     <string name="express_setting_authorized_number_add">추가</string>
     <string name="express_setting_authorized_number_delete">삭제</string>
-    <string name="express_setting_authorized_number_description">개인정보 상태: 귀하의 휴대폰번호는 배송조회와 상태를 체크하는 곳에만 사용됩니다.</string>
-    <string name="express_setting_authorized_number_empty">휴대폰 번호를 아직 인증받지 않았습니다.</string>
+    <string name="express_setting_authorized_number_description">개인정보 상태: 귀하의 휴대전화번호는 배송조회와 상태를 체크하는 곳에만 사용됩니다.</string>
+    <string name="express_setting_authorized_number_empty">휴대전화 번호를 아직 인증받지 않았습니다.</string>
     <string name="express_setting_authorized_number_limit">최대 4개의 전화 번호를 추가할 수 있습니다.</string>
     <string name="express_setting_brief">주문 배송조회</string>
-    <string name="express_setting_brief_detail">귀하의 휴대폰번호와 주문번호를 이용하여 모든 주문을 추적합니다.</string>
+    <string name="express_setting_brief_detail">귀하의 휴대전화번호와 주문번호를 이용하여 모든 주문을 추적합니다.</string>
     <string name="express_setting_cainiaoguoguo">카이 나오</string>
     <string name="express_setting_code_invalid">올바른 코드를 입력했는지 확인하세요.</string>
     <string name="express_setting_count_down_time">%ds번째 시도. 다시 시도하세요.</string>
@@ -874,7 +874,7 @@
     <string name="flybird_setting_find_pwd">비밀번호를 잊어 버렸습니다.</string>
     <string name="flybird_setting_label">결제 설정</string>
     <string name="flybird_setting_nopwdcheck_label">以下场景付款金额&lt;=%s，无需输入支付密码</string>
-    <string name="flybird_setting_nopwduncheck_label">소량의 기밀을 유지 한 후에는 결제 암호를 입력하지 않고 다음 서비스에서 소액 결제를 위해 휴대전화를 사용하세요. (alipay 고객 결제 코드 및 소닉 결제는 포함되지 않음)</string>
+    <string name="flybird_setting_nopwduncheck_label">소량의 기밀을 유지 한 후에는 결제 비밀번호를 입력하지 않고 다음 서비스에서 소액 결제를 위해 휴대전화를 사용하세요. (alipay 고객 결제 코드 및 소닉 결제는 포함되지 않음)</string>
     <string name="flybird_setting_thirdpard_nopwd_label">타사 서비스</string>
     <string name="flybird_setting_thirdpart_label">자동 공제</string>
     <string name="flybird_setting_use_default">기본 사용</string>
@@ -1116,7 +1116,7 @@
     <string name="mini_open_bluetooth_tips">블루투스를 키고 연결이 가능하게 설정해주세요.</string>
     <string name="mini_page_add_hint">카드 번호</string>
     <string name="mini_page_add_other_pay">기타 지불 방법</string>
-    <string name="mini_page_add_tips">암호 및 문자 확인을 위해 이중 보호 기능 제공</string>
+    <string name="mini_page_add_tips">비밀번호 및 문자 확인을 위해 이중 보호 기능 제공</string>
     <string name="mini_page_add_title">카드 추가</string>
     <string name="mini_page_input_id_hint">문서 번호</string>
     <string name="mini_page_input_name_hint">카드 소지자 이름</string>
@@ -1170,7 +1170,7 @@
     <string name="miuishare_account_login_cancel">취소</string>
     <string name="miuishare_account_login_confirmation">로그인 필요</string>
     <string name="miuishare_account_login_ok">로그인</string>
-    <string name="miuishare_account_need_activate">웨이보 계정을 사용하려면 웨이보 계정이 샤오미 계정에 연결되어 있어야합니다. 이 계정은 현재 연결되어 있지 않습니다. 계정을 연결화하시겠습니까?</string>
+    <string name="miuishare_account_need_activate">Weibo 계정을 사용하려면 Weibo 계정이 샤오미 계정에 연결되어 있어야합니다. 이 계정은 현재 연결되어 있지 않습니다. 계정을 연결화하시겠습니까?</string>
     <string name="miuishare_account_need_login">이 계정은 현재 로그인되어 있습니다. 지금 로그인하시겠습니까?</string>
     <string name="miuishare_app_name">Miui 공유</string>
     <string name="miuishare_no_network">공유 할 네트워크 없음</string>
@@ -1181,7 +1181,7 @@
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
     <string name="miuishare_wechat_timeline_title">WeChat 타임라인</string>
-    <string name="miuishare_weibo_title">웨이보</string>
+    <string name="miuishare_weibo_title">Weibo</string>
     <string name="month_day_format">월월월 일일</string>
     <string name="month_day_hour_minute_format_en">MM/dd HH : mm</string>
     <string name="month_format_en">MM/dd</string>
@@ -1203,7 +1203,7 @@
     <string name="msp_mini_read_protocal_title">읽기 계약을 선택하세요.</string>
     <string name="msp_mini_safty_code_info">安全 码 是 打印 在 信用卡 背面 签名 区 的 一 组 数字, 一般 是 后 3 位 数字</string>
     <string name="msp_mini_safty_code_title">보안 코드 설명</string>
-    <string name="msp_phone_num_info">은행에서 예약 한 휴대폰 번호는 은행 카드를 처리 할 때 입력 된 휴대폰 번호입니다.\n\n예약이 없거나 휴대폰 번호를 잊어 버렸거나 비활성화 된 경우 은행 고객 서비스 업데이트 프로세스에 문의하세요.</string>
+    <string name="msp_phone_num_info">은행에서 예약 한 휴대전화 번호는 은행 카드를 처리 할 때 입력 된 휴대전화 번호입니다.\n\n예약이 없거나 휴대전화 번호를 잊어 버렸거나 비활성화 된 경우 은행 고객 서비스 업데이트 프로세스에 문의하세요.</string>
     <string name="msp_phone_num_title">휴대전화 번호 설명</string>
     <string name="msp_secure_key_and">合</string>
     <string name="msp_secure_key_apostrophe">닉네임</string>
@@ -1686,7 +1686,7 @@
     <string name="vr_pay_not_support">VR 지불을 지원하지 않습니다.</string>
     <string name="walk">걷기</string>
     <string name="weibo_name">새 게시물</string>
-    <string name="weibo_parent">웨이보</string>
+    <string name="weibo_parent">Weibo</string>
     <string name="whatsapp_parent">왓츠앱</string>
     <string name="whatsapp_photos">사진</string>
     <string name="which_transport">목적지까지 일반적으로 걸리는 시간은 어느정도인가요?</string>

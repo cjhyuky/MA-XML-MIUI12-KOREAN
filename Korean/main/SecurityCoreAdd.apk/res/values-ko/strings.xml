@@ -274,7 +274,7 @@
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다.</string>
     <string name="space_name_default">워크 스페이스</string>
-    <string name="space_des_default">암호화된 데이터로 분리된 공간</string>
+    <string name="space_des_default">비밀번호화된 데이터로 분리된 공간</string>
     <string name="create_work_space">워크 스페이스 생성</string>
     <string name="switch_download_space">워크 스페이스 전환</string>
     <string name="confirm_airspace_password">%s 비밀번호 승인</string>
@@ -284,8 +284,8 @@
     <string name="need_network_when_create">워크 스페이스를 생성하기 전에 네트워크에 연결하세요.</string>
     <string name="downloading_space">다운로드 중…</string>
     <string name="air_space_deleted">워크 스페이스 삭제에 성공했습니다.</string>
-    <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀 번호를 재설정하세요.</string>
-    <string name="reset_passwd_success">비밀 번호 재설정에 성공했습니다.</string>
+    <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀 번호를 다시 설정하세요.</string>
+    <string name="reset_passwd_success">비밀 번호 다시 설정에 성공했습니다.</string>
     <string name="air_space_exit">공간에서 나가기</string>
     <string name="air_space_setting">공간 설정</string>
     <string name="other">기타</string>
@@ -348,7 +348,7 @@
     <string name="xspace_default_setting_dialog_title">기본</string>
     <string name="xspace_default_setting_label">사용자화</string>
     <string name="weixin_pay">WeChat 페이</string>
-    <string name="xspace_weibo_title">웨이보</string>
+    <string name="xspace_weibo_title">Weibo</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_share_sign">로그인 및 공유</string>
     <string name="xspace_default_guide_notification_content">변경하려면 누르세요.</string>
@@ -400,8 +400,8 @@
     <string name="encrypt_space_delete_dialog_title">주의</string>
     <string name="encrypt_space_delete_notification_message">두 번째 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하세요.</string>
     <string name="encrypt_space_delete_notification_title">세컨드 스페이스</string>
-    <string name="entrance_reopen_toast_msg">다른 암호 유형으로 인한 두 번째 공간 바로 가기 표시</string>
-    <string name="reset_password_dialog_message">"첫 번째 공간과 두 번째 공간에 다른 암호 유형을 사용하고 있습니다. 두 번째 공간은 첫 번째 공간과 동일한 암호 유형을 사용하여 바로 가기를 숨겨야합니다."</string>
+    <string name="entrance_reopen_toast_msg">다른 비밀번호 유형으로 인한 두 번째 공간 바로 가기 표시</string>
+    <string name="reset_password_dialog_message">"첫 번째 공간과 두 번째 공간에 다른 비밀번호 유형을 사용하고 있습니다. 두 번째 공간은 첫 번째 공간과 동일한 비밀번호 유형을 사용하여 바로 가기를 숨겨야합니다."</string>
     <string name="reset_password_dialog_positve_btn_title">변경</string>
     <string name="reset_password_dialog_title">"세컨드 스페이스 바로가기 숨김처리 불가능"</string>
     <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>

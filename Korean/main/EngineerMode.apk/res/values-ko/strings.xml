@@ -287,7 +287,7 @@
     <string name="radio_info_current_network_label">현재 네트워크:</string>
     <string name="radio_info_message_waiting_label">메시지 대기 중:</string>
     <string name="radio_info_phone_number_label">전화번호:</string>
-    <string name="radio_info_ppp_resets_label">부팅 후 PPP 재설정 횟수:</string>
+    <string name="radio_info_ppp_resets_label">부팅 후 PPP 다시 설정 횟수:</string>
     <string name="radio_info_roaming_label">로밍:</string>
     <string name="radio_info_set_perferred_label">기본 네트워크 유형 설정:</string>
     <string name="radio_info_signal_location_label">위치:</string>
@@ -704,7 +704,7 @@
     <string name="radio_info_data_attempts_label">데이터 시도:</string>
     <string name="radio_info_data_successes_label">데이터 성공:</string>
     <string name="radio_info_gsm_disconnects_label">GSM 연결끊기:</string>
-    <string name="radio_info_radio_resets_label">무선 재설정:</string>
+    <string name="radio_info_radio_resets_label">무선 다시 설정:</string>
     <string name="rf_desense_tx_test">Tx 테스트</string>
     <string name="sdcard_format">SD 카드 지우기</string>
     <string name="sensor_ps_calibration_result">결과:</string>
@@ -1056,7 +1056,7 @@
     <string name="ctia_online_scan">온라인 스캔 비활성화</string>
     <string name="ctia_rate">선택</string>
     <string name="ctia_roaming">로밍 비활성화</string>
-    <string name="ctia_title">와이파이 테스트 모드</string>
+    <string name="ctia_title">Wi-Fi 테스트 모드</string>
     <string name="cw_test">CW 테스트</string>
     <string name="cw_test_clock_drift">클럭 드리프트 (ppm)</string>
     <string name="cw_test_cnr">CNR(dB-Hz)</string>

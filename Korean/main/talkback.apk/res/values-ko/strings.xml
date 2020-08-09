@@ -231,7 +231,7 @@
     <string name="search_mode_hint_selection">현재 선택한 항목은 %1$s입니다.</string>
     <string name="search_mode_hint_start">검색 모드입니다.</string>
     <string name="search_mode_open">검색 모드가 열렸습니다.</string>
-    <string name="shortcut_back">뒤로 버튼</string>
+    <string name="shortcut_back">뒤로가기 버튼</string>
     <string name="shortcut_first_in_screen">초점을 화면의 첫 항목으로 이동</string>
     <string name="shortcut_home">홈 버튼</string>
     <string name="shortcut_last_in_screen">초점을 화면의 마지막 항목으로 이동</string>

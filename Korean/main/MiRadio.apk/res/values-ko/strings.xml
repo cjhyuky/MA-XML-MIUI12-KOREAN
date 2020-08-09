@@ -197,7 +197,7 @@
     <string name="collect_diagnosis_log">진단 로그 수집</string>
     <string name="confirm_activate_email">인증됨</string>
     <string name="confirm_bundled_phone_dialog_title">연관된 전화번호 승인</string>
-    <string name="confirm_new_pwd">새로운 패스워드를 다시입력해주세요.</string>
+    <string name="confirm_new_pwd">새로운 비밀번호를 다시입력해주세요.</string>
     <string name="confirm_unbundled_phone_dialog_message">전화번호 %1$s 번호는 Mi 계정 %2$s으로 연결되어 있습니다. 계속하시면 Mi 계정 %3$s 계정과의 연결이 해제됩니다. 계속하시겠습니까?</string>
     <string name="diagnosis_log_send_failed">진단 로그 전송 실패.</string>
     <string name="diagnosis_log_sent_format">"진단 로그가 전송되었습니다.
@@ -215,9 +215,9 @@ ID:%s
     <string name="headline_shortcut_message">한 번의 클릭으로 데스크톱 바로 가기, 인기 뉴스에 헤드 라인 추가!</string>
     <string name="headline_shortcut_title">제목 바로 가기 항목 듣기</string>
     <string name="identity">확인</string>
-    <string name="inconsistent_pwd">"패스워드가 같지 않습니다."</string>
+    <string name="inconsistent_pwd">"비밀번호가 같지 않습니다."</string>
     <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 될 것입니다.</string>
-    <string name="input_new_pwd">새로운 패스워드를 입력하세요.</string>
+    <string name="input_new_pwd">새로운 비밀번호를 입력하세요.</string>
     <string name="just_a_second">잠시만 기다려 주세요…</string>
     <string name="loading">잠시만 기다려 주세요…</string>
     <string name="logout_account">로그아웃</string>
@@ -326,7 +326,7 @@ ID:%s
     <string name="sign_in">로그인</string>
     <string name="sign_in_progress">로그인 중…</string>
     <string name="sms_send_success">전송됨</string>
-    <string name="sns_access_token_expired_warning">계정 로그인이 만료되었습니다. 이 계정에 다시 연결하려면 다시 로그인 하세요.</string>
+    <string name="sns_access_token_expired_warning">계정 로그인이 만료되었습니다. 이 계정에 다시 연결하려면 다시 로그인하세요.</string>
     <string name="sns_bind_limit">너무 많은 시도가 있습니다. 다른 방법으로 로그인 해보세요.</string>
     <string name="sns_sign_in">다른 로그인 방법</string>
     <string name="splash_bottom_hint">샤오미 FM</string>

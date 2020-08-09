@@ -190,7 +190,7 @@
     <string name="message_label">메시지</string>
     <string name="michat_app_name">온라인 지원</string>
     <string name="michat_artificial_customer_phone">4001005678</string>
-    <string name="michat_artificial_customer_phone_dial_error">400 핫라인으로 전화를 거실 수 없다면 다른 휴대전화를 이용하여 %1$s 번호를 다이얼링 하세요.</string>
+    <string name="michat_artificial_customer_phone_dial_error">400 핫라인으로 전화를 거실 수 없다면 다른 휴대전화를 이용하여 %1$s 번호를 다이얼링하세요.</string>
     <string name="michat_artificial_customer_text">고객지원 상담원</string>
     <string name="michat_attach_image">이미지</string>
     <string name="michat_attach_smiley">이모티콘</string>
@@ -309,7 +309,7 @@
     <string name="passport_activing_account">활성화 중…</string>
     <string name="passport_area_code_hot">자주 사용되는</string>
     <string name="passport_area_code_title">국가 코드</string>
-    <string name="passport_auto_generate_pwd">보안 암호 생성</string>
+    <string name="passport_auto_generate_pwd">보안 비밀번호 생성</string>
     <string name="passport_back">뒤로</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_barcode_add_account_prompt">계정을 연결하려면 로그인한 후 QR 코드를 다시 스캔하세요.</string>
@@ -326,7 +326,7 @@
     <string name="passport_downlink_reg">전화번호를 사용하여 계정 만들기</string>
     <string name="passport_email">이메일 주소</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
-    <string name="passport_email_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인 또는 비밀번호 재설정에 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인 또는 비밀번호 다시 설정에 사용할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
     <string name="passport_error_dup_email">입력하신 이메일은 이미 다른 계정과 연결되어 있습니다.</string>
     <string name="passport_error_email">입력하신 이메일 주소가 잘못되었습니다.</string>
@@ -348,7 +348,7 @@
     <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_error_user_name">입력 한 사용자 이름이 유효하지 않습니다.</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 보낼 수 없습니다.</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 재설정하려면 account.mi.com을 방문해주세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하려면 account.mi.com을 방문해주세요.</string>
     <string name="passport_forget_password">&lt;u&gt;비밀번호 분실&lt;/u&gt;</string>
     <string name="passport_forget_password_no_underline">비밀번호 분실</string>
     <string name="passport_get_back_pwd">계정 비밀번호 검색</string>
@@ -360,7 +360,7 @@
     <string name="passport_imei_permission_denied_title">IMEI 권한 요청</string>
     <string name="passport_input_captcha_hint">코드를 입력하세요.</string>
     <string name="passport_input_password_for_login">이 번호는 기존 계정과 연결되어 있으며 비밀번호를 입력하세요.</string>
-    <string name="passport_input_password_hint">암호를 입력하세요.</string>
+    <string name="passport_input_password_hint">비밀번호를 입력하세요.</string>
     <string name="passport_input_phone_hint">전화번호를 입력하세요.</string>
     <string name="passport_input_vcode_hint">인증코드를 입력하세요.</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. 이 페이지는 %s 에서 확인할 수 있습니다.</string>
@@ -379,7 +379,7 @@
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_prev">뒤로</string>
     <string name="passport_privacy_policy">개인정보 보호정책</string>
-    <string name="passport_pwd_generate_failure">암호 생성 실패</string>
+    <string name="passport_pwd_generate_failure">비밀번호 생성 실패</string>
     <string name="passport_pwd_generating">생성중…</string>
     <string name="passport_quick_login_dialog_step2_title">2단계 인증</string>
     <string name="passport_quick_login_dialog_title">비밀번호 확인</string>
@@ -392,7 +392,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_reg_prompt">Mi 계정이 없습니까? 무료로 하나 만드세요.</string>
     <string name="passport_reg_success">계정 생성 완료</string>
-    <string name="passport_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인 또는 비밀번호 재설정에 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인 또는 비밀번호 다시 설정에 사용할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용</string>
     <string name="passport_reg_using_other_phone">&lt;u&gt;다른 전화번호 사용&lt;/u&gt;</string>
     <string name="passport_reg_using_other_phone_number_prompt">사용하실 새 계정을 만드세요.</string>
@@ -413,9 +413,9 @@
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">귀하의 계정이 활성화되지 않았습니다.</string>
     <string name="passport_resend_active_email">이메일 재전송</string>
-    <string name="passport_reset_fail_title">재설정할 수 없음</string>
+    <string name="passport_reset_fail_title">다시 설정할 수 없음</string>
     <string name="passport_reset_password_prompt">비밀번호가 맞지 않습니다.</string>
-    <string name="passport_reset_password_title">암호를 재설정</string>
+    <string name="passport_reset_password_title">비밀번호를 다시 설정</string>
     <string name="passport_restart">다시 시작하다</string>
     <string name="passport_restart_register_prompt">계정을 만들려면 다른 확인 메시지가 필요할 수 있습니다.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
@@ -536,5 +536,5 @@
     <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
     <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 비밀번호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="android_beam">Android 빔</string>
+    <string name="android_beam">Android Beam</string>
     <string name="cancel">취소</string>
     <string name="device">기기</string>
     <string name="inbound_me_profile_title">NFC로 연락처 수신</string>
@@ -21,7 +21,7 @@
     <string name="beam_handover_not_supported">"상대 기기가 빔을 이용한 대용량 파일 전송을 지원하지 않습니다."</string>
     <string name="beam_outgoing">전송중...</string>
     <string name="beam_progress">수신중...</string>
-    <string name="beam_requires_nfc_enabled">Android 빔을 사용하기 위해서는 NFC 기능을 활성화해야 합니다. 지금 활성화하시겠습니까?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam을 사용하기 위해서는 NFC 기능을 활성화해야 합니다. 지금 활성화하시겠습니까?</string>
     <string name="beam_touch_to_view">탭하여 보기</string>
     <string name="beam_try_again">기기를 더 가까이 대세요.</string>
     <string name="complete_with">다음 기기와 파일 전송 끝냄 : </string>

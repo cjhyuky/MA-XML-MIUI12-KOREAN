@@ -601,7 +601,7 @@
     <string name="passport_downlink_reg">전화번호를 이용하여 계정 생성</string>
     <string name="passport_email">이메일 주소</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
-    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
     <string name="passport_error_dup_email">입력한 이메일이 이미 다른 계정과 연동되어 있습니다.</string>
     <string name="passport_error_email">입력한 이메일 주소가 올바르지 않습니다.</string>
@@ -622,7 +622,7 @@
     <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 재설정하시려면 account.mi.com을 방문하세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하시려면 account.mi.com을 방문하세요.</string>
     <string name="passport_forget_password">비밀번호 찾기</string>
     <string name="passport_forget_password_no_underline">비밀번호 분실</string>
     <string name="passport_get_back_pwd">계정 비밀번호 찾기</string>
@@ -665,7 +665,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보세요.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
-    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용하기</string>
     <string name="passport_reg_using_other_phone">대체 전화번호 사용</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
@@ -686,9 +686,9 @@
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
-    <string name="passport_reset_fail_title">재설정하지 못했습니다.</string>
+    <string name="passport_reset_fail_title">다시 설정하지 못했습니다.</string>
     <string name="passport_reset_password_prompt">비밀번호가 올바르지 않습니다.</string>
-    <string name="passport_reset_password_title">비밀번호 재설정</string>
+    <string name="passport_reset_password_title">비밀번호 다시 설정</string>
     <string name="passport_restart">다시 시작</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
@@ -754,7 +754,7 @@
     <string name="download_starting">시작</string>
     <string name="download_storage_invalid">저장 위치 경로가 더 이상 유효하지 않습니다.</string>
     <string name="download_url_waiting_data">모바일 데이터 절약을 위해 일시 중지됨</string>
-    <string name="download_vip_login">Mi계정에 로그인하고 다시 시도하세요.</string>
+    <string name="download_vip_login">Mi 계정에 로그인하고 다시 시도하세요.</string>
     <string name="download_vip_request">먼저 회원이 되세요.</string>
     <string name="feedback_activity_title">피드백</string>
     <string name="feedback_contact_title">연락처 정보</string>
@@ -866,7 +866,7 @@
     <string name="save_cancel_toast">영상 저장을 취소하려면 \"뒤로가기\"를 다시 탭하세요.</string>
     <string name="shared_miliao">Mi토크</string>
     <string name="shared_qq">QQ</string>
-    <string name="shared_sina">웨이보</string>
+    <string name="shared_sina">Weibo</string>
     <string name="shared_weixin">WeChat</string>
     <string name="show_all_comment">모든 댓글 보기</string>
     <string name="slid_fail_message">동영상 저장 실패</string>
@@ -941,7 +941,7 @@
     <string name="v_server_formal">일반 서버</string>
     <string name="v_server_test">서버 테스팅</string>
     <string name="v_tab_video_online_live">라이브 스트리밍</string>
-    <string name="v_tel_number">휴대폰 번호</string>
+    <string name="v_tel_number">휴대전화 번호</string>
     <string name="v_unhide_prompt">설정 완료. 숨겨진 항목을 이제 볼 수 있습니다.</string>
     <string name="v_version_alpha">알파버전</string>
     <string name="v_version_release">안정버전</string>
@@ -1003,7 +1003,7 @@
     <string name="resolution_low">저화질</string>
     <string name="resolution_normal">보통화질</string>
     <string name="single_cyclic">한곡 반복</string>
-    <string name="password_toggle_content_description">토글 패스워드 표시</string>
+    <string name="password_toggle_content_description">토글 비밀번호 표시</string>
     <string name="vp_video_play_loading">플레이어 로딩중…</string>
     <string name="all_comments">모든 댓글</string>
     <string name="close_sub_comments">숨기기</string>

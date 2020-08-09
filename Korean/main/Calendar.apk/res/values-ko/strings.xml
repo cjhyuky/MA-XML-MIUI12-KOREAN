@@ -489,7 +489,7 @@
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
     <string name="miuishare_wechat_timeline_title">WeChat 모멘트</string>
-    <string name="miuishare_weibo_title">웨이보</string>
+    <string name="miuishare_weibo_title">Weibo</string>
     <string name="receive_net_mock_success">모의 네트워크 수신 완료</string>
     <string name="edit_event_dislike_title">취소하신 이유가 무엇인가요?</string>
     <string name="app_name">공통</string>
@@ -733,7 +733,7 @@
     <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>
     <string name="no_visiable_calendar_message_only_for_xiaomi_account">캘린더 계정을 추가해야합니다. 계속하려면 \"계정 추가\"를 누르세요.</string>
     <string name="share_not_install_wechat">WeChat을 설치하세요.</string>
-    <string name="share_not_install_weibo">웨이보를 설치하세요.</string>
+    <string name="share_not_install_weibo">Weibo를 설치하세요.</string>
     <string name="work_day_default_banner_title">오늘 하루도 열심히!</string>
     <string name="free_day_default_banner_title">휴일을 즐기세요!</string>
     <string name="edit_event_custom_reminder_time_dup">맞춤 알림: %1$s</string>
@@ -794,7 +794,7 @@
     <string name="notification_channel_name">정기 알림</string>
     <string name="notification_channel_name_no_sound">자동 알림</string>
     <string name="notification_channel_name_no_vibration">진동없는 알림</string>
-    <string name="notification_channel_name_silent">방해 금지모드로 알림</string>
+    <string name="notification_channel_name_silent">방해 금지 모드로 알림</string>
     <string name="setting_about_calendar_version">캘린더 버전: %1$s-%2$s</string>
     <string name="setting_about_imei">IMEI: %1$s</string>
     <string name="setting_about_miui_version">MIUI 버전: %1$s-%2$s</string>
@@ -901,7 +901,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">연도 선택으로 변경하려면 누릅니다.</string>
     <string name="no_more_events">더 이상 표시할 일정이    없습니다.</string>
     <string name="pack_up">숨기기</string>
-    <string name="password_toggle_content_description">암호 보기</string>
+    <string name="password_toggle_content_description">비밀번호 보기</string>
     <string name="portrait_week_view">세로 방향의 주간 일정</string>
     <string name="premission_description_agree">이 앱을 인터넷에 연결하고 위에 나열된 필수 권한을 부여하도록 허용.</string>
     <string name="premission_description_calendar">일정 추가 및 표시</string>

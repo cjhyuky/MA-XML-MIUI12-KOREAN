@@ -115,7 +115,7 @@
     <string name="throwing_screen">캐스트</string>
     <string name="tips_prompt_enable_midrop">근처의 기기와 파일 공유</string>
     <string name="transfer_intercept_to_remote">전송 실패: %1$s</string>
-    <string name="transfer_to_pc_summary">Mi 공유를 사용하여 휴대폰에서 샤오미 노트북으로 항목을 보내거나 한 랩탑에서 다른 랩탑으로 항목을 보낼 수 있습니다.\n당사 웹 사이트에서 호환 장치 목록을 찾을 수 있습니다. 랩톱이 목록에 있지만 Mi 공유가 설치되어 있지 않은 경우 랩톱의 BIOS 및 네트워크 어댑터 드라이버를 업데이트하고 Mi 공유를 다운로드하세요.</string>
+    <string name="transfer_to_pc_summary">Mi 공유를 사용하여 휴대전화에서 샤오미 노트북으로 항목을 보내거나 한 랩탑에서 다른 랩탑으로 항목을 보낼 수 있습니다.\n당사 웹 사이트에서 호환 장치 목록을 찾을 수 있습니다. 랩톱이 목록에 있지만 Mi 공유가 설치되어 있지 않은 경우 랩톱의 BIOS 및 네트워크 어댑터 드라이버를 업데이트하고 Mi 공유를 다운로드하세요.</string>
     <string name="transfer_to_pc_title">컴퓨터에 파일 전송</string>
     <string name="transfer_to_phone_summary">Mi 공유를 사용하면 이미지와 파일을 인근 샤오미 휴대전화 및 기타 호환 장치로 보낼 수 있습니다.</string>
     <string name="transfer_to_phone_title">휴대전화에 파일 전송</string>

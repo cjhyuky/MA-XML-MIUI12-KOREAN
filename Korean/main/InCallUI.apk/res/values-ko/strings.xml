@@ -39,7 +39,7 @@
     <string name="onscreen_add_call_text">통화 추가</string>
     <string name="onscreen_audio_mode_bluetooth">블루투스</string>
     <string name="onscreen_audio_mode_conference">전화 회의</string>
-    <string name="onscreen_audio_mode_handset">휴대폰</string>
+    <string name="onscreen_audio_mode_handset">휴대전화</string>
     <string name="onscreen_audio_mode_headset">이어폰</string>
     <string name="onscreen_audio_mode_speaker">스피커</string>
     <string name="onscreen_audio_switch_mode">오디오 번경</string>
@@ -128,7 +128,7 @@
     <string name="remind_unlock_message">기기가 잠겼습니다. 기기를 잠금해제하신 후 \"%s\"를 사용할 수 있습니다. 지금 잠금해제하시겠습니까?</string>
     <string name="user_locked_prompt">기기를 잠금해제하여 연락처 접근</string>
     <string name="package_not_available">\"%s\" 를 사용할 수 없습니다.</string>
-    <string name="select_voice_call_sim">SIM카드 선택</string>
+    <string name="select_voice_call_sim">SIM 카드 선택</string>
     <string name="msim_select_default_time_left">(%d초)</string>
     <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용중.</string>
     <string name="select_one_sim_title">SIM %1$d만 사용 가능</string>

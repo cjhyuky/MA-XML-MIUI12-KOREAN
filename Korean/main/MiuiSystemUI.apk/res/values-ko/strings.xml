@@ -641,10 +641,10 @@
     <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동 연결됨</string>
     <string name="connected_via_passpoint">%1$s 기기에 연결됨</string>
     <string name="content_description_menu_button">메뉴</string>
-    <string name="convert_to_fbe_warning">\"암호화 되어있는 데이터 파티션을 변환합니다.</string>
-    <string name="convert_to_file_encryption">파일 암호화</string>
-    <string name="convert_to_file_encryption_done">암호화 완료</string>
-    <string name="convert_to_file_encryption_enabled">암호화 중…</string>
+    <string name="convert_to_fbe_warning">\"비밀번호화 되어있는 데이터 파티션을 변환합니다.</string>
+    <string name="convert_to_file_encryption">파일 비밀번호화</string>
+    <string name="convert_to_file_encryption_done">비밀번호화 완료</string>
+    <string name="convert_to_file_encryption_enabled">비밀번호화 중…</string>
     <string name="daltonizer_mode_deuteranomaly">녹색약 (빨강-녹색)</string>
     <string name="daltonizer_mode_disabled">비활성화됨</string>
     <string name="daltonizer_mode_monochromacy">단색형 색약</string>
@@ -722,7 +722,7 @@
     <string name="dlg_summary_nfc">NFC 끄기</string>
     <string name="dlg_summary_title">절전 모드는 앱을 종료하고 홈 화면으로 돌아가면 백그라운드 활동을 모두 중지합니다. 앱을 백그라운드에서 실행하려면 예외에 추가하세요.</string>
     <string name="dnd_is_off">DND 꺼짐</string>
-    <string name="dnd_notification_warnings_title">방해 금지모드를 끄기 전까지 전화와 알림이 음소거됩니다.</string>
+    <string name="dnd_notification_warnings_title">방해 금지 모드를 끄기 전까지 전화와 알림이 음소거됩니다.</string>
     <string name="do_disclosure_generic">이 기기는 업무 그룹에 의해 관리됩니다.</string>
     <string name="do_disclosure_with_name">이 기기는 %s에 의해 관리됩니다.</string>
     <string name="do_not_silence">무음 모드 해제</string>
@@ -730,7 +730,7 @@
     <string name="dock_forced_resizable">이 앱은 분할 화면에서 작동하지 않을 수 있습니다.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">분할 화면은 잠금 화면에서는 작동하지 않습니다.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">이 앱은 분할 화면을 지원하지 않습니다.</string>
-    <string name="download_lock_wallpaper">더블 탭하여 음악을 다운로드 하세요.</string>
+    <string name="download_lock_wallpaper">더블 탭하여 음악을 다운로드하세요.</string>
     <string name="drag_to_add_tiles">길게 눌러 항목을 추가하거나 재정렬하세요.</string>
     <string name="drag_to_remove_tiles">드래그하여 삭제</string>
     <string name="drive_mode_tip">주행 모드 상태입니다.</string>
@@ -908,7 +908,7 @@
     <string name="gxzw_try_again">다시 시도</string>
     <string name="gxzw_try_more_again">다시 시도하세요.</string>
     <string name="gxzw_use_password">비밀번호를 이용하세요.</string>
-    <string name="gxzw_use_password_to_unlock">암호 입력</string>
+    <string name="gxzw_use_password_to_unlock">비밀번호 입력</string>
     <string name="hdcp_checking_dialog_title">HDCP 체크 활동 설정</string>
     <string name="hdcp_checking_title">HDCP 체크</string>
     <string name="headset">헤드셋</string>
@@ -926,7 +926,7 @@
     <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
     <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요.</string>
     <string name="how_to_use_fsg">풀 화면 제스쳐를 어떻게 사용합니까?</string>
-    <string name="ime_security_warning">이 입력 방법은 암호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. %1$s 앱이 수집합니다. 이 입력 방법을 사용하시겠습니까?</string>
+    <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. %1$s 앱이 수집합니다. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">백그라운드 유지하지 않음</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다.</string>
     <string name="important_desc">모든 중요한 알림은 드롭 다운 메뉴에 직접 나타날 것입니다.</string>
@@ -1061,7 +1061,7 @@
     <string name="keyguard_password_enter_puk_prompt">PUK 코드</string>
     <string name="keyguard_password_entry_touch_hint">&lt;font size=\"17\"&gt;비밀번호를 입력하려면 터치&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">PIN 코드가 잘못되었습니다.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">SIM카드가 영구적으로 비활성화 되어있습니다. 통신사에 다른 SIM 카드를 요청하세요.</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">SIM 카드가 영구적으로 비활성화 되어있습니다. 통신사에 다른 SIM 카드를 요청하세요.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">사용할 수 없는 SIM 카드</string>
     <string name="keyguard_plugged_in">충전 중</string>
     <string name="keyguard_plugged_in_charging_fast">고속 충전중</string>
@@ -1197,10 +1197,10 @@
     <string name="miui_ringer_total">방해 금지</string>
     <string name="miui_ringer_total_description">알람을 제외한 모든 알림을 진동없이 무음처리합니다.</string>
     <string name="miui_screen_rotation_freeze_message">자동 회전 꺼짐</string>
-    <string name="miui_toast_zen_dnd_to_off">방해 금지모드가 해제되었습니다. 소리와 진동이 정상적으로 복원되었습니다.</string>
+    <string name="miui_toast_zen_dnd_to_off">방해 금지 모드가 해제되었습니다. 소리와 진동이 정상적으로 복원되었습니다.</string>
     <string name="miui_toast_zen_standard_to_off">"무음모드가 해제되었습니다."</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">"무음모드가 해제되었습니다."</string>
-    <string name="miui_toast_zen_to_dnd">방해 금지모드로 전환되었습니다. 소리와 진동이 꺼집니다.</string>
+    <string name="miui_toast_zen_to_dnd">방해 금지 모드로 전환되었습니다. 소리와 진동이 꺼집니다.</string>
     <string name="miui_toast_zen_to_standard">"무음모드로 전환되었습니다. 벨소리 및 알림음이 음소거됩니다."</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">"무음모드로 전환되었습니다. 벨소리, 알림음 및 미디어 사운드가 음소거됩니다."</string>
     <string name="mland">마시멜로우 랜드</string>
@@ -1262,7 +1262,7 @@
     <string name="notification_channel_controls_closed_accessibility">%1$s 앱을 위한 알림 컨트롤이 닫힘</string>
     <string name="notification_channel_controls_opened_accessibility">%1$s 앱을 위한 알림 컨트롤이 열림</string>
     <string name="notification_channel_disabled">이 알림을 더이상 받지 않습니다.</string>
-    <string name="notification_channel_dnd">방해 금지모드</string>
+    <string name="notification_channel_dnd">방해 금지 모드</string>
     <string name="notification_channel_general">문자</string>
     <string name="notification_channel_location">위치</string>
     <string name="notification_channel_screenbutton">화면버튼</string>
@@ -1332,7 +1332,7 @@
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_mehod_back">뒤로</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;기기에서 &lt;font color=#a5220e&gt;데이터 지우기&lt;/font&gt;를 해야 합니다. 사진, 연락처, 모든 개인 정보가 지워진 후 잠금해제 비밀번호를 재설정하실 수 있습니다.;&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;기기에서 &lt;font color=#a5220e&gt;데이터 지우기&lt;/font&gt;를 해야 합니다. 사진, 연락처, 모든 개인 정보가 지워진 후 잠금해제 비밀번호를 다시 설정하실 수 있습니다.;&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_foget_password_ok">알겠습니다.</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;기기를 끄신 후 &lt;font color=#a5220e&gt;전원 버튼&lt;/font&gt;과 &lt;font color=#a5220e&gt;볼륨 업 버튼&lt;/font&gt;을 Mi 로고가 표시될 때까지 길게 누르세요.;&lt;/Data&gt;</string>
@@ -1403,7 +1403,7 @@
     <string name="qs_dnd_until">%s 까지</string>
     <string name="qs_edit">편집</string>
     <string name="qs_paging">새로운 빠른 설정 사용</string>
-    <string name="qs_rearrange">빠른 설정 재설정</string>
+    <string name="qs_rearrange">빠른 설정 다시 설정</string>
     <string name="quick_settings">빠른 설정</string>
     <string name="quick_settings_autobrightness_label">자동 밝기</string>
     <string name="quick_settings_batterysaver_label">절전 모드</string>
@@ -1474,7 +1474,7 @@
     <string name="quick_settings_notifications_label">알림</string>
     <string name="quick_settings_papermode_label">독서 모드</string>
     <string name="quick_settings_powermode_label">성능향상모드</string>
-    <string name="quick_settings_quietmode_label">방해 금지모드</string>
+    <string name="quick_settings_quietmode_label">방해 금지 모드</string>
     <string name="quick_settings_reset_confirmation_button">숨기기</string>
     <string name="quick_settings_reset_confirmation_message">설정에서 켜시면 다시 표시됩니다.</string>
     <string name="quick_settings_reset_confirmation_title">%1$s 숨기시겠습니까?</string>
@@ -1731,7 +1731,7 @@
     <string name="structure_face_data_input_timeout_title">다시 시도</string>
     <string name="structure_face_data_input_up">위쪽 입력</string>
     <string name="structure_face_data_introduction_back">뒤로</string>
-    <string name="structure_face_data_introduction_msg">3D 얼굴인식을 통해 전화를 잠금해제하려면 암호를 설정하세요.</string>
+    <string name="structure_face_data_introduction_msg">3D 얼굴인식을 통해 전화를 잠금해제하려면 비밀번호를 설정하세요.</string>
     <string name="structure_face_data_introduction_next">다음</string>
     <string name="structure_face_data_introduction_settingpassword">비밀번호 설정</string>
     <string name="structure_face_data_introduction_title">3D 얼굴 데이터 추가</string>
@@ -1780,11 +1780,11 @@
     <string name="tethering_hardware_offload_summary">가능하면 테더링 하드웨어 가속을 사용합니다.</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링을 사용할 수 없습니다.</string>
     <string name="theme">테마</string>
-    <string name="thermal_shutdown_dialog_message">휴대폰이 너무 뜨거워서, 온도가 내려갈때까지 꺼져있었습니다. 이제 휴대폰이 정상 작동중입니다.\n\n다음 사항으로 휴대폰이 과열되었을 수 있습니다:\n\u0009• 게임이나 내비게이션 같은 리소스가 많이 필요한 앱을 사용\n\u0009• 대용량 파일을 업로드 또는 다운로드\n\u0009• 높은 온도에서 휴대폰을 사용</string>
-    <string name="thermal_shutdown_message">이제 휴대폰이 정상 작동중입니다.</string>
-    <string name="thermal_shutdown_title">온도가 너무 높아 휴대폰이 꺼집니다.</string>
+    <string name="thermal_shutdown_dialog_message">휴대전화이 너무 뜨거워서, 온도가 내려갈때까지 꺼져있었습니다. 이제 휴대전화이 정상 작동중입니다.\n\n다음 사항으로 휴대전화이 과열되었을 수 있습니다:\n\u0009• 게임이나 내비게이션 같은 리소스가 많이 필요한 앱을 사용\n\u0009• 대용량 파일을 업로드 또는 다운로드\n\u0009• 높은 온도에서 휴대전화을 사용</string>
+    <string name="thermal_shutdown_message">이제 휴대전화이 정상 작동중입니다.</string>
+    <string name="thermal_shutdown_title">온도가 너무 높아 휴대전화이 꺼집니다.</string>
     <string name="time_unit_just_now">방금</string>
-    <string name="title_convert_fbe">파일 암호화 변환중…</string>
+    <string name="title_convert_fbe">파일 비밀번호화 변환중…</string>
     <string name="title_usb_accessory">USB 주변기기</string>
     <string name="torch_activity_hint">잠금 화면에서 손전등을 켜려면 [icon] 을 누르세요.</string>
     <string name="torch_activity_name">손전등</string>
@@ -1812,8 +1812,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">짧은 예문을 들어볼 수 있습니다.</string>
     <string name="tts_play_example_title">예문 들어보기</string>
-    <string name="tts_reset_speech_pitch_summary">목소리 높낮이를 기본값으로 재설정합니다.</string>
-    <string name="tts_reset_speech_pitch_title">목소리 높낮이 재설정</string>
+    <string name="tts_reset_speech_pitch_summary">목소리 높낮이를 기본값으로 다시 설정합니다.</string>
+    <string name="tts_reset_speech_pitch_title">목소리 높낮이 다시 설정</string>
     <string name="tts_settings">TTS 설정</string>
     <string name="tts_settings_title">TTS 출력</string>
     <string name="tts_status_checking">체크중…</string>
@@ -1881,10 +1881,10 @@
     <string name="usb_ptp_text">사진</string>
     <string name="usb_share_net_info">컴퓨터의 인터넷 연결 사용</string>
     <string name="usb_storage_error_message">SD 카드에 문제가 있습니다.</string>
-    <string name="usb_storage_message">USB로 컴퓨터에 연결되었습니다. Android 기기의‘s SD 카드와 컴퓨터 사이에서 파일을 복사하려면 버튼을 터치하세요.</string>
+    <string name="usb_storage_message">USB로 컴퓨터에 연결되었습니다. Android 기기의 SD 카드와 컴퓨터 사이에서 파일을 복사하려면 버튼을 터치하세요.</string>
     <string name="usb_storage_notification_message">컴퓨터에서 또는 컴퓨터에 파일을 복사하려면 선택하세요.</string>
     <string name="usb_storage_notification_title">USB 연결됨</string>
-    <string name="usb_storage_stop_message">USB 저장소를 끄기 전에 반드시 컴퓨터에서 Android 기기의‘s SD 카드를 마운트 해제 (“ejected”) 하세요.</string>
+    <string name="usb_storage_stop_message">USB 저장소를 끄기 전에 반드시 컴퓨터에서 Android 기기의 SD 카드를 마운트 해제 (“ejected”) 하세요.</string>
     <string name="usb_storage_stop_notification_message">USB 저장소를 끄려면 선택하세요.</string>
     <string name="usb_storage_stop_notification_title">USB 저장소 끄기</string>
     <string name="usb_storage_stop_title">USB 저장소를 사용 중입니다.</string>
@@ -2113,7 +2113,7 @@
     <string name="gxzw_quick_close">끔</string>
     <string name="gxzw_quick_open_title">바로가기메뉴 열기</string>
     <string name="wifi_security_eap">WPA/WPA2/WPA3-기업용</string>
-    <string name="ime_security_warning_global">입력 방법은 암호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 입력 한 모든 텍스트를 수집 할 수 있습니다. %1$s를 사용하시겠습니까?</string>
+    <string name="ime_security_warning_global">입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 입력 한 모든 텍스트를 수집 할 수 있습니다. %1$s를 사용하시겠습니까?</string>
     <string name="ime_security_warning_title_global">키보드 켜기</string>
     <string name="accessibility_status_bar_no_slave_wifi">보조 Wi-Fi 연결이 끊어졌습니다.</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">보조 Wi-Fi 4개 바</string>

@@ -47,7 +47,7 @@
     <string name="picture_mode_vivid">선명</string>
     <string name="readability_enhancer_summary">주변 조명에 따라 내용의 가독성 향상</string>
     <string name="readability_enhancer_title">가독성 향상</string>
-    <string name="reset_dialog_message">모든 미라비전™ 설정이 재설정됩니다.</string>
+    <string name="reset_dialog_message">모든 미라비전™ 설정이 다시 설정됩니다.</string>
     <string name="reset_item">기본 설정 복원</string>
     <string name="sensitivity_title">민감도</string>
     <string name="user_mode_warning_msg">사용자 모드를 사용하면 원하는대로 그림 디스플레이 효과를 수동으로 조정할 수 있습니다.</string>

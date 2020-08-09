@@ -40,7 +40,7 @@
     <string name="and">" 그리고"</string>
     <string name="app_name">동영상</string>
     <string name="app_name_hungama">헝가마 놀이</string>
-    <string name="bind_sign_in_title">Mi계정으로 로그인</string>
+    <string name="bind_sign_in_title">Mi 계정으로 로그인</string>
     <string name="browser_error">일시적으로 사용할 수 없습니다. 잠시 후 다시 시도하세요.</string>
     <string name="cancel">취소</string>
     <string name="canceled">취소됨</string>
@@ -130,7 +130,7 @@
     <string name="common_google_play_services_wear_update_text">Google Play 서비스의 새 버전이 필요합니다. 곧 업데이트 될 것입니다.</string>
     <string name="common_open_on_phone">전화로 열기</string>
     <string name="common_signin_button_text">로그인</string>
-    <string name="common_signin_button_text_long">Google로 로그인 하세요.</string>
+    <string name="common_signin_button_text_long">Google로 로그인하세요.</string>
     <string name="data_empty">여기에 항목이 없습니다.</string>
     <string name="dialog_privacy_info_new2">서비스를 이용하려면 %1$s 귀하의 개인 정보를 수집, 처리 및 사용합니다. 아래의 개인정보 보호정책을 읽고 동의를 누르면 우리의 의견을 읽고 동의한 것으로 간주됩니다.</string>
     <string name="dialog_privacy_title">인증</string>
@@ -249,7 +249,7 @@
     <string name="lv_screenrecord_slience">시스템에서 소리 녹음을 지원하지 않습니다. 녹음내용은 무음입니다.</string>
     <string name="lv_screenrecord_success">성공적으로 녹음되었습니다. 지금 공유할 수 있습니다.</string>
     <string name="lv_send_title">보내기</string>
-    <string name="lv_set_password">숨겨진 동영상을보기위한 암호 설정</string>
+    <string name="lv_set_password">숨겨진 동영상을보기위한 비밀번호 설정</string>
     <string name="lv_setting">설정</string>
     <string name="lv_share_tips">스크린 샷을 성공적으로 가져 왔습니다. 지금 공유할 수 있습니다.</string>
     <string name="lv_skip_update">지금은 아닙니다.</string>
@@ -409,11 +409,11 @@
     <string name="passport_international_phone_password_login_tip">(중국 이외의 사용자의 경우 + 국가 코드 휴대전화 번호, 예 : +91 817282982)형식으로 휴대전화 번호를 입력하세요.</string>
     <string name="passport_log_detail">로그 세부정보 보기</string>
     <string name="passport_next_step">다음</string>
-    <string name="passport_password_req_notice">암호는 길이가 8-16자 여야하며 숫자와 문자를 모두 포함해야합니다 (대소문자 구분).</string>
+    <string name="passport_password_req_notice">비밀번호는 길이가 8-16자 여야하며 숫자와 문자를 모두 포함해야합니다 (대소문자 구분).</string>
     <string name="passport_privacy_policy">개인 정보 보호 정책</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
     <string name="passport_send_too_many_sms">이 번호로 전송 된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
-    <string name="passport_set_password">암호 설정</string>
+    <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_sign_in">로그인</string>
     <string name="passport_sign_in_or_sign_up">로그인 / 계정 만들기</string>
     <string name="passport_sms_phone_intro">%1$s에 인증 코드를 이미 보냈습니다.</string>
@@ -439,7 +439,7 @@
     <string name="ping_platform">앱</string>
     <string name="ping_property">무비</string>
     <string name="player_replay_btn_text">재생</string>
-    <string name="psw_hint">암호</string>
+    <string name="psw_hint">비밀번호</string>
     <string name="psw_sign_in">비밀번호를 사용하여 로그인하세요.</string>
     <string name="pull_to_refresh_from_bottom_pull_label">당겨서 새로고침하기</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">잠시 기다려주세요…</string>
@@ -532,7 +532,7 @@
     <string name="t_lv_no_new_version">Mi 동영상이 최신버전입니다.</string>
     <string name="t_lv_password_limit">비밀번호는 4자 이상이어야합니다.</string>
     <string name="t_lv_password_null">비밀번호는 비워둘 수 없습니다.</string>
-    <string name="t_lv_password_wrong">암호가 틀립니다. 다시 시도하세요.</string>
+    <string name="t_lv_password_wrong">비밀번호가 틀립니다. 다시 시도하세요.</string>
     <string name="t_lv_search_null">검색 할 키워드 입력</string>
     <string name="t_lv_subtitle_padding_default_hint">자막 조정중...</string>
     <string name="t_network_error">네트워크 오류가 발생했습니다.</string>

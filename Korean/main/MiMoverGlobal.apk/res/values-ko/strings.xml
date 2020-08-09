@@ -119,7 +119,7 @@
     <string name="deselect_all">선택 취소</string>
     <string name="deselect_all_description">모두 선택 취소</string>
     <string name="dialog_backup_password_cancel">취소</string>
-    <string name="dialog_backup_password_change_machine_tips">"암호로 보호 된 백업을 전송할 수 없습니다. Mi Mover를 사용하기 전에 백업 암호를 끄십시오."</string>
+    <string name="dialog_backup_password_change_machine_tips">"비밀번호로 보호 된 백업을 전송할 수 없습니다. Mi Mover를 사용하기 전에 백업 비밀번호를 끄십시오."</string>
     <string name="dialog_backup_password_verify">확인</string>
     <string name="dialog_forbidden_use_tips">"Mi Mover는 현재 태블릿과의 데이터 전송을 지원하지 않습니다."</string>
     <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하십니까?</string>

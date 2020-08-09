@@ -943,7 +943,7 @@
     <string name="option_view_group">보기</string>
     <string name="option_rename_group">이름 변경</string>
     <string name="option_delete_group">삭제</string>
-    <string name="deleteConfirmation_title">이 연락처를 삭제하겠습니까?</string>
+    <string name="deleteConfirmation_title">이 연락처를 삭제하시겠습니까?</string>
     <string name="deleteConfirmationDetail">\"%s\"님을 삭제하시겠습니까?</string>
     <string name="nickname_picker_name_column">연락처 이름</string>
     <string name="nickname_picker_nickname_column">제목</string>
@@ -1053,7 +1053,7 @@
     <string name="no_contacts_dialog_title">연락처를 찾을 수 없습니다.</string>
     <string name="no_contacts_dialog_message">연락처가 SIM 카드에 저장된 것 같습니다. SIM 카드에서 기기의 내부 저장소로 불러오기를 다시 실행해 보세요.</string>
     <string name="cancel_import_dialog_title">중지</string>
-    <string name="cancel_import_dialog_message">연락처 가져오기를 중지하겠습니까?</string>
+    <string name="cancel_import_dialog_message">연락처 가져오기를 중지하시겠습니까?</string>
     <string name="title_paired_devices">연결된 기기</string>
     <string name="title_other_devices">기타 사용 가능한 기기</string>
     <string name="button_scan">재스캔</string>
@@ -1367,7 +1367,7 @@
     <string name="scan_bussiness_card_merge_tip">중복 데이터가 대체되었습니다.</string>
     <string name="description_image_button_sim1_named_dial">SIM1 %s으로 통화</string>
     <string name="description_image_button_sim2_named_dial">SIM2 %s으로 통화</string>
-    <string name="account_dual_sim">SIM카드 %s</string>
+    <string name="account_dual_sim">SIM 카드 %s</string>
     <string name="confirm_call_log_dial_summary">실수로 전화를 걸지 않도록 통화 기록에서 전화를 걸기 전에 확인을 요청합니다.</string>
     <string name="confirm_call_log_dial_title">통화기록에서 바로 통화연결여부 확인</string>
     <string name="contact_is_deleted">연락처가 삭제되었습니다.</string>

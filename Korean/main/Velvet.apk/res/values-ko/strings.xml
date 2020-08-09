@@ -226,7 +226,7 @@
     <string name="type_or_say_hotword_talkback_description">검색하거나 핫워드를 말하세요.</string>
     <string name="type_or_tap_mic">검색</string>
     <string name="listen_for_music">음악 듣고 찾기</string>
-    <string name="reset_security_setting">보안 설정 재설정</string>
+    <string name="reset_security_setting">보안 설정 다시 설정</string>
     <string name="listening_for_music_status">음악 인식 중...</string>
     <string name="listening_for_tv_status">TV 인식 중…</string>
     <string name="search_plate_accessibility_voice_search_button">음성 검색</string>
@@ -1423,7 +1423,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="action_call_who_timeout_1_eyes_free_tts">인식하지 못했습니다. 누구에게 전화하시겠습니까?</string>
     <string name="action_contact_info_who_timeout_1_eyes_free_tts">인식하지 못했습니다. 누구를 찾으시겠습니까?</string>
     <string name="action_email_who_timeout_1_eyes_free_tts">인식하지 못했습니다. 누구에게 이메일을 보내시겠습니까?</string>
-    <string name="action_reminder_confirm_timeout_tts">"이 알림을 설정하겠습니까? '예', '아니요', 또는 '취소'라고 말하세요."</string>
+    <string name="action_reminder_confirm_timeout_tts">"이 알림을 설정하시겠습니까? '예', '아니요', 또는 '취소'라고 말하세요."</string>
     <string name="action_reminder_confirm_timeout_2_tts">"이 알림을 설정하려면, '예', '아니요', 또는 '취소'라고 말하세요."</string>
     <string name="action_reminder_what_timeout_1_tts">어떤 알림인가요?</string>
     <string name="action_reminder_what_timeout_1_eyes_free_tts">인식하지 못했습니다. 어떤 알림인가요?</string>

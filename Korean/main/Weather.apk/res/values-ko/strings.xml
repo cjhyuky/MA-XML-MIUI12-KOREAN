@@ -151,7 +151,7 @@
     <string name="menu_speeker">음성 방송</string>
     <string name="button_add_city">위치 추가</string>
     <string name="locate_fail_detail_err">"기기 위치 설정 실패
-화면을 탭하여 수동 추가 또는 도시를 재설정하세요."</string>
+화면을 탭하여 수동 추가 또는 도시를 다시 설정하세요."</string>
     <string name="video_dialog_title" />
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_no_play" />

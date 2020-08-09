@@ -335,7 +335,7 @@
     <string name="bluetooth_pan_profile_summary_use_for">인터넷 연결수단으로 사용</string>
     <string name="bluetooth_pan_user_profile_summary_connected">인터넷에 연결하기 위해 기기에 연결</string>
     <string name="bluetooth_profile_a2dp">미디어 오디오</string>
-    <string name="bluetooth_profile_headset">휴대폰 오디오</string>
+    <string name="bluetooth_profile_headset">휴대전화 오디오</string>
     <string name="bluetooth_profile_hid">입력 장치</string>
     <string name="bluetooth_profile_map">메시지 전송</string>
     <string name="bluetooth_profile_opp">파일 전송</string>
@@ -361,10 +361,10 @@
     <string name="connected_via_passpoint">%1$s에 연결됨</string>
     <string name="connected_via_wfa">Wi-Fi 어시스턴트에 연결됨</string>
     <string name="content_description_menu_button">메뉴</string>
-    <string name="convert_to_fbe_warning">"암호화 되어있는 데이터 파티션을 변환합니다.</string>
+    <string name="convert_to_fbe_warning">"비밀번호화 되어있는 데이터 파티션을 변환합니다.</string>
     <string name="convert_to_file_encryption">파일 잠금중</string>
-    <string name="convert_to_file_encryption_done">파일이 이미 암호화되어있음</string>
-    <string name="convert_to_file_encryption_enabled">암호화 중…</string>
+    <string name="convert_to_file_encryption_done">파일이 이미 비밀번호화되어있음</string>
+    <string name="convert_to_file_encryption_enabled">비밀번호화 중…</string>
     <string name="daltonizer_mode_deuteranomaly">녹색약(적녹)</string>
     <string name="daltonizer_mode_disabled">사용 중지됨</string>
     <string name="daltonizer_mode_monochromacy">전색맹</string>
@@ -501,7 +501,7 @@
     <string name="tether_settings_title_usb_bluetooth">테더링</string>
     <string name="tether_settings_title_wifi">휴대용 핫스팟</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링을 사용할 수 없습니다.</string>
-    <string name="title_convert_fbe">파일 암호화 변환중…</string>
+    <string name="title_convert_fbe">파일 비밀번호화 변환중…</string>
     <string name="track_frame_time">프로필 GPU 렌더링</string>
     <string name="transition_animation_scale_title">전환 애니메이션 크기</string>
     <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
@@ -523,8 +523,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">짧은 음성 합성 데모 재생</string>
     <string name="tts_play_example_title">예제 들어보기</string>
-    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 재설정합니다.</string>
-    <string name="tts_reset_speech_pitch_title">음성 피치 재설정</string>
+    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 다시 설정합니다.</string>
+    <string name="tts_reset_speech_pitch_title">음성 피치 다시 설정</string>
     <string name="tts_settings">TTS 설정</string>
     <string name="tts_settings_title">TTS 출력</string>
     <string name="tts_status_checking">확인중 ...</string>

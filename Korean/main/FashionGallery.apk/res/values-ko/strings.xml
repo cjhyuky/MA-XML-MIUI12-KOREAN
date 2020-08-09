@@ -32,7 +32,7 @@
     <string name="lockscreen_h5_back_tv">뒤로</string>
     <string name="lockscreen_h5_close_tv">끄기</string>
     <string name="lockscreen_h5_refresh_btn_tv">새로고침</string>
-    <string name="lockscreen_h5_refresh_tip">네트워크 설정을 확인 하 고 다시 시도 하세요.</string>
+    <string name="lockscreen_h5_refresh_tip">네트워크 설정을 확인 하 고 다시 시도하세요.</string>
     <string name="lockscreen_magazine_summary">카테고리</string>
     <string name="lockscreen_magazine_system_title">오프라인</string>
     <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>

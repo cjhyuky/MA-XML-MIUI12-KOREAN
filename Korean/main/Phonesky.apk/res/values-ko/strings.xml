@@ -429,7 +429,7 @@
     <string name="invalid_account_password">잘못된 계정 비밀번호</string>
     <string name="invalid_account_password_max_attempts_exceeded">허용되는 최대 로그인 시도 횟수에 도달했습니다.&lt;br>&lt;a href=%1$s>비밀번호를 잊어버렸습니까?&lt;/a></string>
     <string name="invalid_account_password_purchase_flow">입력하신 비밀번호가 틀립니다.</string>
-    <string name="invalid_account_pin_max_attempts_exceeded">허용되는 최대 로그인 시도 횟수에 도달했습니다.&lt;br>&lt;a href=%1$s>PIN을 재설정하시겠습니까?&lt;/a></string>
+    <string name="invalid_account_pin_max_attempts_exceeded">허용되는 최대 로그인 시도 횟수에 도달했습니다.&lt;br>&lt;a href=%1$s>PIN을 다시 설정하시겠습니까?&lt;/a></string>
     <string name="invalid_account_pin_purchase_flow">입력한 PIN이 올바르지 않습니다.</string>
     <string name="invalid_address">주소가 잘못되었습니다.</string>
     <string name="invalid_area">지역이 잘못되었습니다.</string>

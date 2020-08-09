@@ -218,7 +218,7 @@
     <string name="d7">4–16자리의 숫자, 문자, 특수문자 포함</string>
     <string name="d8">익명으로 로그인</string>
     <string name="d9">사용자명이나 비밀번호가 올바르지 않습니다.</string>
-    <string name="d_">"포트 열기 실패. 네트워크 연결을 확인하고 포트 번호를 재설정하세요."</string>
+    <string name="d_">"포트 열기 실패. 네트워크 연결을 확인하고 포트 번호를 다시 설정하세요."</string>
     <string name="da">비밀번호</string>
     <string name="db">포트 번호</string>
     <string name="dc">보안</string>
@@ -282,7 +282,7 @@
     <string name="ey">FTP 서버가 실행 중입니다.</string>
     <string name="ez">파일</string>
     <string name="f">완료</string>
-    <string name="f0">암호 표시 여부 전환</string>
+    <string name="f0">비밀번호 표시 여부 전환</string>
     <string name="f5">이미지</string>
     <string name="f6">보내기</string>
     <string name="f7">삭제</string>

@@ -62,7 +62,7 @@
     <string name="button_uninstall_old_app">삭제</string>
     <string name="howitworks_page_enter_password_title">"로그인하려면 비밀 번호를 입력합니다."</string>
     <string name="howitworks_page_enter_password_details">"만약 사용자가 새로운 컴퓨터나 새로운 장치를 사용중이면, 샤오미는 사용자인지 여부를 확인하기 위해 특별한 코드를 물어볼수 있습니다."</string>
-    <string name="howitworks_page_enter_code_title">"새 컴퓨터를 사용하는 경우, 사용자의 휴대폰의 코드를 입력해주세요."</string>
+    <string name="howitworks_page_enter_code_title">"새 컴퓨터를 사용하는 경우, 사용자의 휴대전화의 코드를 입력해주세요."</string>
     <string name="howitworks_page_enter_code_details">이 앱은 로그인을 진행하는 데 필요한 코드를 생성합니다.</string>
     <string name="howitworks_page_verify_device_title">"그러면 사용자는 로그인이 됩니다."</string>
     <string name="howitworks_page_verify_device_details">"여러분은 또한 컴퓨터를 기억하도록 선택할 수도 있고 샤오미는 여러분에게 그곳에서 코드를 다시 묻지 않을 것입니다."</string>
@@ -80,14 +80,14 @@
     <string name="open_camera_exception_dialog_content">카메라에 문제가 생겼습니다. 장치를 다시 시작 해야할 수 있습니다.</string>
     <string name="ok_button">확인</string>
     <string name="security_setting">보안 설정</string>
-    <string name="lockscreen_forgot_pattern_button_text">&lt;u>패턴 암호 분실&lt;/u></string>
+    <string name="lockscreen_forgot_pattern_button_text">&lt;u>패턴 비밀번호 분실&lt;/u></string>
     <string name="lockpattern_recording_intro_header">패턴을 입력하세요:</string>
     <string name="lockpattern_settings_help_how_to_record">잠금 패턴을 그리는 방법</string>
     <string name="lockpattern_recording_incorrect_too_short">최소 %d개의 점을 연결하세요. 다시 시도하세요:</string>
     <string name="lockpattern_pattern_entered_header">패턴이 입력됨.</string>
     <string name="lockpattern_need_to_confirm">패턴을 다시 그려 확인</string>
     <string name="lockpattern_need_to_confirm_wrong">이전 입력과 다릅니다, 다시 입력해주세요:</string>
-    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>암호를 틀렸습니다, %d번 더 시도할 수 있습니다&lt;/font></string>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>비밀번호를 틀렸습니다, %d번 더 시도할 수 있습니다&lt;/font></string>
     <string name="lockpattern_pattern_confirmed_header">새로운 패턴:</string>
     <string name="lockpattern_recording_inprogress">완료되면 손가락을 놓으세요.</string>
     <string name="lockpattern_retry_text">패턴 비밀번호 리셋</string>
@@ -111,7 +111,7 @@
     <string name="title_visible_pattern">패턴을 보이게 설정</string>
     <string name="summary_lockpattern">MiCredit를 위해 특별한 패턴 잠금이 필요합니다.</string>
     <string name="title_change_lockpattern">패턴 잠금 설정</string>
-    <string name="title_password">암호</string>
+    <string name="title_password">비밀번호</string>
     <string name="title_nopassword">"소액 결제는 필요 없음"</string>
     <string name="title_password_threshold">1일 제한 = ￥%1$s</string>
     <string name="title_nopassword_dialog">1일 제한</string>
@@ -140,7 +140,7 @@
     <string name="correct_enter_update_password">입력한 비밀번호가 틀립니다.</string>
     <string name="title_patternforgotten">"비밀번호를 분실하셨나요?"</string>
     <string name="tip1_patternforgotten">다시 설치하고 다시 활성화합니다.</string>
-    <string name="tip2_patternforgotten">재설정을 눌러 계정 데이터를 지우고 다시 활성화하세요.</string>
+    <string name="tip2_patternforgotten">다시 설정을 눌러 계정 데이터를 지우고 다시 활성화하세요.</string>
     <string name="details_patternforgotten">"활성화: 
 account.xiaomi.com에서 로그인하고 Reactivative를 클릭합니다."</string>
     <string name="activation_page">활성화 되지 않음</string>

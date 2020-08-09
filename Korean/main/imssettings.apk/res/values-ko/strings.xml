@@ -58,8 +58,8 @@
     <string name="ims_reg_settings_authentication">인증 모드</string>
     <string name="ims_reg_settings_digest">소화</string>
     <string name="ims_reg_settings_digest_digest">소화</string>
-    <string name="ims_reg_settings_ipsec_encryption_algorithm">IPSEC 암호화 알고리즘</string>
-    <string name="ims_reg_settings_ipsec_protection_algorithm">IPSEC 보안 암호화 알고리즘</string>
+    <string name="ims_reg_settings_ipsec_encryption_algorithm">IPSEC 비밀번호화 알고리즘</string>
+    <string name="ims_reg_settings_ipsec_protection_algorithm">IPSEC 보안 비밀번호화 알고리즘</string>
     <string name="ims_reg_settings_name">IMS 등록 관련 설정</string>
     <string name="ims_resolution_settings_720P">720P</string>
     <string name="ims_resolution_settings_VGA">VGA</string>

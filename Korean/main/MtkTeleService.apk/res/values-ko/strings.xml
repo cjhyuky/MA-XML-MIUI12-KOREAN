@@ -186,8 +186,8 @@
     <string name="do_not_ask">다시 묻지 않음</string>
     <string name="livetalk_package_name">충전 잔액</string>
     <string name="livetalk_welcome_description_text">"• 70%의 통화 요금을 절약합니다.
-• 전세계 어느곳이나 통화 할 수있습니다. 통신사 제한이 없습니다.
-• 충전하시고 통화를 시작 하세요. 간단한 설정만으로도 사용이 가능합니다."</string>
+• 전세계 어느곳이나 통화 할 수 있습니다. 통신사 제한이 없습니다.
+• 충전하시고 통화를 시작하세요. 간단한 설정만으로도 사용이 가능합니다."</string>
     <string name="livetalk_welcome_notes_text">참고: 모든 통화에는 1KB의 모바일 데이터가 요구됩니다; 서비스 번호와 짧은 번호는 지원하지 않습니다. 만약 귀하가 착신 전화에 대한 비용을 지불하고 계시다면, 로밍이 켜져있을때 통신사에게 요금을 청구 받게 될 수 있습니다. 전화번호 인증을 위한 SMS 비용이 청구 됩니다.</string>
     <string name="livetalk_continue_button">사용</string>
     <string name="livetalk_continue_button_creat_account">계정 생성</string>
@@ -256,9 +256,9 @@
     <string name="chose_product_title">충전 패키지</string>
     <string name="chose_product_summary">저렴하게 전화걸기</string>
     <string name="purchase_description_title">정보</string>
-    <string name="purchase_description_summary">"- 전세계 어느곳이나 통화 할 수있습니다, 통신사 제한이 없습니다.
+    <string name="purchase_description_summary">"- 전세계 어느곳이나 통화 할 수 있습니다, 통신사 제한이 없습니다.
 - 통신사 서비스 충돌이 없습니다.
-- 충전하시고 통화를 시작 하세요.
+- 충전하시고 통화를 시작하세요.
 - 간단한 설정만으로도 사용이 가능합니다."</string>
     <string name="get_purchase_history_failed">구매 기록을 가져오지 못했습니다.</string>
     <string name="order_time">%1$s분</string>
@@ -897,13 +897,13 @@
     <string name="ota_skip_activation_dialog_message">활성화를 건너뛰면 통화를 하거나 모바일 데이터 네트워크에 연결할 수 없습니다(Wi-Fi 네트워크에 연결할 수 있다 해도). 휴대전화가 활성화될 때까지 휴대전화를 켤 때마다 휴대전화를 활성화하라는 요청을 받게 됩니다.</string>
     <string name="ota_skip_activation_dialog_skip_label">건너뛰기</string>
     <string name="ota_activate">활성화</string>
-    <string name="ota_title_activate_success">휴대폰 활성화에 성공했습니다.</string>
+    <string name="ota_title_activate_success">휴대전화 활성화에 성공했습니다.</string>
     <string name="ota_title_problem_with_activation">활성화할 수 없습니다.</string>
     <string name="ota_listen">활성화가 완료되었다는 음성을 들을 때까지 음성 지시사항을 따르세요.</string>
     <string name="ota_speaker">스피커</string>
     <string name="ota_progress">휴대전화가 프로그래밍되는 동안 기다리세요.</string>
     <string name="ota_failure">프로그래밍 실패</string>
-    <string name="ota_successful">휴대폰이 활성화되었습니다, 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
+    <string name="ota_successful">휴대전화이 활성화되었습니다, 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
     <string name="ota_unsuccessful">"휴대전화가 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하세요. 더 많은 옵션을 원하시면 고객 센터로 문의하세요."</string>
     <string name="ota_spc_failure">초과 SPC 실패</string>
     <string name="ota_call_end">뒤로</string>
@@ -949,7 +949,7 @@
     <string name="message_decode_error">메시지 해석에 오류가 발생</string>
     <string name="callFailed_cdma_activation">SIM 카드가 서비스를 활성화 했으며 휴대전화의 로밍 기능이 업데이트되었습니다.</string>
     <string name="contactScreen">SIM 연락처 추가/수정</string>
-    <string name="exportContactScreen">SIM에 휴대폰 연락처 내보내기</string>
+    <string name="exportContactScreen">SIM에 휴대전화 연락처 내보내기</string>
     <string name="addSimEntries">SIM 연락처 추가</string>
     <string name="deleteAllSimEntries">모든 SIM 연락처 삭제</string>
     <string name="deleteSimContacts">삭제 중…</string>
@@ -1269,7 +1269,7 @@
     <string name="telocation_number_type_mob">모바일 폰</string>
     <string name="telocation_number_type_tel">유선 전화</string>
     <string name="telocation_countrycode_alert_message">국가 코드를 제외한 전화번호를 입력하세요.</string>
-    <string name="telocation_confim_delete_title">이 메시지를 삭제하겠습니까?</string>
+    <string name="telocation_confim_delete_title">이 메시지를 삭제하시겠습니까?</string>
     <string name="telocation_error_message_number">%s 항목은 숫자만 지원합니다.</string>
     <string name="telocation_jituan_error_message_number">%s 항목은 숫자와 와일드카드 문자만 지원합니다.</string>
     <string name="telocation_country_code_enabled_title">전화 걸 때 국가 코드 추가</string>
@@ -1413,9 +1413,9 @@
     <string name="pick_outgoing_call_phone_type">전화걸기</string>
     <string name="pick_outgoing_sip_phone">"인터넷 전화 계정 사용 "</string>
     <string name="remember_my_choice">항상 인터넷 전화걸기 사용</string>
-    <string name="reset_my_choice_hint">휴대폰 > 설정 > 인터넷 전화 > 계정에서 기본 인터넷 전화 계정을 변경할 수 있습니다.</string>
+    <string name="reset_my_choice_hint">휴대전화 > 설정 > 인터넷 전화 > 계정에서 기본 인터넷 전화 계정을 변경할 수 있습니다.</string>
     <string name="no_sip_account_found_title">인터넷 전화 계정이 없습니다.</string>
-    <string name="no_sip_account_found">이 휴대폰에 인터넷 통화 계정이 없습니다. 지금 추가하시겠습니까?</string>
+    <string name="no_sip_account_found">이 휴대전화에 인터넷 통화 계정이 없습니다. 지금 추가하시겠습니까?</string>
     <string name="sip_menu_add">추가</string>
     <string name="primary_account_summary_with">기본 계정. %s</string>
     <string name="no_internet_available_title">인터넷에 연결되지 않음</string>
@@ -1734,7 +1734,7 @@
     <string name="category_work">업무</string>
     <string name="cf_setting_mobile_data_alert"> 모바일 데이터를 켜고 Wi-Fi가 꺼져 있는지 확인하세요.</string>
     <string name="cf_setting_mobile_data_roaming_alert">데이터 로밍 켜기</string>
-    <string name="change_data_preference_4g_only_prompt">4G 전용 SIM 카드가 있는 것 같습니다. 이 SIM카드를 모바일 데이터의 기본값으로 설정하시겠습니까?</string>
+    <string name="change_data_preference_4g_only_prompt">4G 전용 SIM 카드가 있는 것 같습니다. 이 SIM 카드를 모바일 데이터의 기본값으로 설정하시겠습니까?</string>
     <string name="change_pin_cancel_label">취소</string>
     <string name="change_pin_confirm_pin_header">PIN을 확인하세요.</string>
     <string name="change_pin_confirm_pins_dont_match">"PIN이 일치하지 않습니다."</string>
@@ -1756,10 +1756,10 @@
     <string name="connected_via_passpoint">%1$s로 연결되었습니다.</string>
     <string name="connected_via_wfa">Wi-Fi 도우미를 통해 연결되었습니다.</string>
     <string name="content_description_menu_button">메뉴</string>
-    <string name="convert_to_fbe_warning">"데이터 파티션을 파일 기반으로 암호화하여 변환하세요.</string>
-    <string name="convert_to_file_encryption_done">이미 암호화 된 파일</string>
+    <string name="convert_to_fbe_warning">"데이터 파티션을 파일 기반으로 비밀번호화하여 변환하세요.</string>
+    <string name="convert_to_file_encryption_done">이미 비밀번호화 된 파일</string>
     <string name="convert_to_file_encryption_enabled">변환중...</string>
-    <string name="convert_to_file_encryption">파일 암호화로 변환</string>
+    <string name="convert_to_file_encryption">파일 비밀번호화로 변환</string>
     <string name="daltonizer_mode_disabled">사용 안함</string>
     <string name="daltonizer_type_overridden">%1$s에 의해 재정의되었습니다.</string>
     <string name="data_usage_uninstalled_apps">삭제된 앱</string>
@@ -1852,7 +1852,7 @@
     <string name="mock_location_app">모의 위치 앱 선택</string>
     <string name="mock_location_app_not_set">간이 위치 앱이 설정되지 않았습니다.</string>
     <string name="mock_location_app_set">간이 위치 앱 : %1$s</string>
-    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"긴급 전화 모드에서 보조 SIM카드 사용을 제한하지 않습니다."</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"긴급 전화 모드에서 보조 SIM 카드 사용을 제한하지 않습니다."</string>
     <string name="no_application">아무것도 없습니다.</string>
     <string name="no_checked_network">"이 모바일 네트워크를 이용하여 전화를 걸 수 없습니다. 다른 네트워크를 선택하시겠습니까?"</string>
     <string name="no_mobile_data">"모바일 데이터를 사용할 수 없습니다."</string>
@@ -1938,7 +1938,7 @@
     <string name="tethering_settings_not_available">이 사용자는 테더링 설정을 사용할 수 없습니다.</string>
     <string name="time_next_day">"다음날"</string>
     <string name="title_cfu_enabled">착신 전환이 설정되었습니다.</string>
-    <string name="title_convert_fbe">파일 기반 암호화로 변환</string>
+    <string name="title_convert_fbe">파일 기반 비밀번호화로 변환</string>
     <string name="track_frame_time">프로필 GPU 렌더링</string>
     <string name="transition_animation_scale_title">전환 애니메이션 크기</string>
     <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
@@ -1960,8 +1960,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">짧은 음성 데모</string>
     <string name="tts_play_example_title">예제 들어보기</string>
-    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 재설정합니다.</string>
-    <string name="tts_reset_speech_pitch_title">음성 피치 재설정</string>
+    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 다시 설정합니다.</string>
+    <string name="tts_reset_speech_pitch_title">음성 피치 다시 설정</string>
     <string name="tts_settings">TTS (text-to-speech) 설정</string>
     <string name="tts_settings_title">TTS (text-to-speech) 출력</string>
     <string name="tts_status_checking">확인중 ...</string>
@@ -1981,7 +1981,7 @@
     <string name="vm_change_pin_error_system_error">PIN을 변경할 수 없습니다.</string>
     <string name="vm_change_pin_error_too_long">새 PIN이 너무 깁니다.</string>
     <string name="vm_change_pin_error_too_short">새 PIN이 너무 짧습니다.</string>
-    <string name="vm_change_pin_error_too_weak">새 PIN이 너무 약합니다. 강력한 암호에는 연속 된 시퀀스 또는 반복되는 숫자가 있어서는 안됩니다.</string>
+    <string name="vm_change_pin_error_too_weak">새 PIN이 너무 약합니다. 강력한 비밀번호에는 연속 된 시퀀스 또는 반복되는 숫자가 있어서는 안됩니다.</string>
     <string name="vm_change_pin_new_pin">새 PIN</string>
     <string name="vm_change_pin_old_pin">이전 PIN</string>
     <string name="vm_change_pin_progress_message">잠시만 기다려주세요 ...</string>
@@ -2224,7 +2224,7 @@
     <string name="wfc_wifi_handover_fail">죄송합니다. 통화를 완료할 수 없습니다.</string>
     <string name="wfc_wifi_lte_handover_fail">죄송합니다. 통화를 계속할 수 있는 사용 가능한 LTE 네트워크가 없습니다.</string>
     <string name="ct_ut_not_support_close_4glte">UT를 사용할 수 없으므로 설정에서 향상된 4G LTE 모드를 사용 중지하세요.</string>
-    <string name="retail_demo_reset_message">데모모드에서 초기값으로 초기화하려면 암호를 입력하세요.</string>
+    <string name="retail_demo_reset_message">데모모드에서 초기값으로 초기화하려면 비밀번호를 입력하세요.</string>
     <string name="ut_not_support">UT를 사용할 수 없음</string>
     <string name="PERSOSUBSTATE_SIM_ICCID_ENTRY">ICCID 잠금해제 PIN</string>
     <string name="PERSOSUBSTATE_SIM_ICCID_ERROR">ICCID 잠금해제 요청 실패.</string>
@@ -2356,8 +2356,8 @@
     <string name="dc_alert_dialog_message">몇몇 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
     <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
     <string name="do_not_show_again">"다시 보지 않기"</string>
-    <string name="enable_dual_4g_if_dual_ct">2개의 차이나 텔레콤 SIM카드가 장착이 되어있는 경우, 2번째 SIM 카드로 VoLTE를 사용하기 위해서 4G 네트워크를 선호합니다.</string>
-    <string name="enable_vice_volte_if_dual_ct">2개의 차이나 텔레콤 SIM카드가 장착이 되어있는 경우, 2번째 SIM 카드의 VoLTE가 켜집니다.</string>
+    <string name="enable_dual_4g_if_dual_ct">2개의 차이나 텔레콤 SIM 카드가 장착이 되어있는 경우, 2번째 SIM 카드로 VoLTE를 사용하기 위해서 4G 네트워크를 선호합니다.</string>
+    <string name="enable_vice_volte_if_dual_ct">2개의 차이나 텔레콤 SIM 카드가 장착이 되어있는 경우, 2번째 SIM 카드의 VoLTE가 켜집니다.</string>
 
     <string name="PERSOSUBSTATE_SIM_IMPI_ENTRY">IMPI 해제 코드</string>
     <string name="PERSOSUBSTATE_SIM_IMPI_ERROR">IMPI 해제가 실패하였습니다.</string>
@@ -2418,7 +2418,7 @@
     <string name="network_select_title">네트워크</string>
     <string name="search_menu_title">검색</string>
     <string name="sim_change_data_message">%1$s 대신 %2$s를 모바일 데이터로 사용하시겠습니까?</string>
-    <string name="sim_change_data_title">데이터 SIM카드를 변경하시겠습니까?</string>
+    <string name="sim_change_data_title">데이터 SIM 카드를 변경하시겠습니까?</string>
     <string name="sim_selection_required_pref">선택 필요</string>
     <string name="speed_label_fast">빠름</string>
     <string name="speed_label_medium">중간</string>
@@ -2562,8 +2562,8 @@
     <string name="network_could_not_connect">접속 실패</string>
     <string name="network_disconnected">연결 끊김</string>
     <string name="okay">확인</string>
-    <string name="opened_dual_4g_confirm_prompt">4G만 사용가능한 SIM카드를 사용하시는 걸로 보입니다. 듀얼 4G 기능이 자동으로 켜졌습니다.</string>
-    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s은 4G만 제공합니다. SIM카드가 정상 작동시키기 위해 듀얼 4G 기능이 켜졌습니다.</string>
+    <string name="opened_dual_4g_confirm_prompt">4G만 사용가능한 SIM 카드를 사용하시는 걸로 보입니다. 듀얼 4G 기능이 자동으로 켜졌습니다.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s은 4G만 제공합니다. SIM 카드가 정상 작동시키기 위해 듀얼 4G 기능이 켜졌습니다.</string>
     <string name="path_auto_retry_mode_title">시스템 앱/전화/고급 설정/자동 응답</string>
     <string name="path_crescendo_ringer_title">시스템 앱/전화/수신전화 설정/수신전화 벨소리 볼륨증가</string>
     <string name="power_discharge_by">약 %1$s (%2$s) 사용가능</string>
@@ -2635,18 +2635,18 @@
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
     <string name="sip_account_disable">"이 계정은 비활성화되어 있습니다. 전화를 받을 수 없습니다."</string>
     <string name="sip_receive_call_disable">"전화 수신 불가. 전화 수신 권한을 먼저 허용하세요."</string>
-    <string name="vowifi_emergency_notification_channel">와이파이 콜 긴급 경고</string>
+    <string name="vowifi_emergency_notification_channel">Wi-Fi 콜 긴급 경고</string>
     <string name="vowifi_emergency_notification_content">긴급전화는 휴대전화 사용가능지역에서만 사용할 수 있습니다.</string>
-    <string name="vowifi_emergency_notification_title">Vodafone 와이파이 통화</string>
+    <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi 통화</string>
     <string name="vowifi_emergency_warning_check">"다시 보지 않기."</string>
-    <string name="vowifi_emergency_warning_message">"와이파이 통화로 긴급통화를 할 수 없습니다.
+    <string name="vowifi_emergency_warning_message">"Wi-Fi 통화로 긴급통화를 할 수 없습니다.
 
 장치는 자동으로 셀룰러 네트워크 (2G/3G)로 전환되어 비상전화를 걸 수 있습니다.
 
 긴급전화는 휴대전화 서비스 지역에서만 가능합니다."</string>
-    <string name="vowifi_emergency_warning_title">와이파이콜로 긴급전화</string>
-    <string name="wifi_call_setting_vodafone_de">와이파이콜 연결 중</string>
-    <string name="wifi_call_setting_vodafone_uk">와이파이콜</string>
+    <string name="vowifi_emergency_warning_title">Wi-Fi콜로 긴급전화</string>
+    <string name="wifi_call_setting_vodafone_de">Wi-Fi콜 연결 중</string>
+    <string name="wifi_call_setting_vodafone_uk">Wi-Fi콜</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G 우선</string>
     <string name="network_mode_updating_title">네트워크 유형</string>
     <string name="fiveg_infos">5G 정보</string>
@@ -2792,10 +2792,10 @@
     <string name="network_state_display_title">네트워크 상태 설정</string>
     <string name="notification_switch_auto_text">"돌아온 것 같습니다. 로컬 네트워크로 전환했습니다."</string>
     <string name="notification_switch_auto_title">모바일 네트워크</string>
-    <string name="reset_roaming_message">로밍을 재설정하기 위해 기기가 다시 시작됩니다.</string>
+    <string name="reset_roaming_message">로밍을 다시 설정하기 위해 기기가 다시 시작됩니다.</string>
     <string name="reset_roaming_not_support">"이 SIM 카드는 로밍을 초기화 할 수 없습니다."</string>
-    <string name="reset_roaming_tip">로밍 재설정 중…</string>
-    <string name="reset_roaming_title">로밍 재설정</string>
+    <string name="reset_roaming_tip">로밍 다시 설정 중…</string>
+    <string name="reset_roaming_title">로밍 다시 설정</string>
     <string name="roaming_customer_service_message_kr">로밍 고객 지원에 문의하세요(+82-2-2190-0901). 이 통화는 해외에서 무료입니다.</string>
     <string name="roaming_customer_service_summary_kr">해외 무료 통화</string>
     <string name="roaming_customer_service_title_kr">로밍 고객 지원</string>

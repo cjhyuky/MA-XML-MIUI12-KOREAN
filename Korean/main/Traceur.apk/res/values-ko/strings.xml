@@ -21,14 +21,14 @@
     <string name="accessibility_display_daltonizer_preference_title">색 보정</string>
     <string name="accessibility_manual_zen_less_time">이하</string>
     <string name="accessibility_manual_zen_more_time">이상</string>
-    <string name="accessibility_no_wifi">와이파이 연결이 끊어졌습니다.</string>
-    <string name="accessibility_wifi_off">와이파이 꺼짐.</string>
-    <string name="accessibility_wifi_one_bar">와이파이 바.</string>
+    <string name="accessibility_no_wifi">Wi-Fi 연결이 끊어졌습니다.</string>
+    <string name="accessibility_wifi_off">Wi-Fi 꺼짐.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi 바.</string>
     <string name="accessibility_wifi_security_type_none">개방형 네트워크</string>
     <string name="accessibility_wifi_security_type_secured">보안 네트워크</string>
-    <string name="accessibility_wifi_signal_full">와이파이 신호가 가득 찼습니다.</string>
-    <string name="accessibility_wifi_three_bars">와이파이 3 개의 바.</string>
-    <string name="accessibility_wifi_two_bars">와이파이 2 개의 바.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi 신호가 가득 찼습니다.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi 3 개의 바.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi 2 개의 바.</string>
     <string name="active_input_method_subtypes">활성 입력 방법</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
     <string name="adb_warning_message">USB 디버깅은 개발 목적으로 만 사용됩니다.. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용 프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
@@ -93,7 +93,7 @@
     <string name="bluetooth_pairing_decline">취소</string>
     <string name="bluetooth_pairing_device_down_error_message">"%1$s 기기와 통신 할 수 없습니다. "</string>
     <string name="bluetooth_pairing_error_message">"%1$s 기기와 연결할 수 없습니다. "</string>
-    <string name="bluetooth_pairing_pin_error_message">잘못된 PIN 또는 암호 키 때문에 %1$s 기기와 연결할 수 없습니다.</string>
+    <string name="bluetooth_pairing_pin_error_message">잘못된 PIN 또는 비밀번호 키 때문에 %1$s 기기와 연결할 수 없습니다.</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s에 의해 거부 된 연결</string>
     <string name="bluetooth_pairing_will_share_phonebook">연결은 연결될 때 연락처 및 통화 기록에 대한 액세스 권한을 부여합니다.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">장치와 로컬 인터넷 연결 공유</string>
@@ -160,9 +160,9 @@
     <string name="connected_via_network_scorer_default">네트워크 등급 제공자를 통해 자동 연결됨</string>
     <string name="connected_via_passpoint">%1$s에 연결됨</string>
     <string name="content_description_menu_button">메뉴</string>
-    <string name="convert_to_fbe_warning">데이터 파티션을 파일 기반 암호화로 변환하세요.\n !!경고!! 이렇게하면 모든 데이터가 지워집니다.\n 이 기능은 알파이며 올바르게 작동하지 않을 수 있습니다.\n 계속하려면 &amp;#39;초기화 및 변환 ...&amp;#39;을 누르세요.</string>
-    <string name="convert_to_file_encryption">파일 암호화로 변환</string>
-    <string name="convert_to_file_encryption_done">이미 암호화 된 파일</string>
+    <string name="convert_to_fbe_warning">데이터 파티션을 파일 기반 비밀번호화로 변환하세요.\n !!경고!! 이렇게하면 모든 데이터가 지워집니다.\n 이 기능은 알파이며 올바르게 작동하지 않을 수 있습니다.\n 계속하려면 &amp;#39;초기화 및 변환 ...&amp;#39;을 누르세요.</string>
+    <string name="convert_to_file_encryption">파일 비밀번호화로 변환</string>
+    <string name="convert_to_file_encryption_done">이미 비밀번호화 된 파일</string>
     <string name="convert_to_file_encryption_enabled">변하게 하다…</string>
     <string name="daltonizer_mode_deuteranomaly">신명기 (적색 - 녹색)</string>
     <string name="daltonizer_mode_disabled">사용중지됨</string>
@@ -229,7 +229,7 @@
     <string name="hdcp_checking_title">HDCP 검사</string>
     <string name="help_feedback_label">도움말 및 피드백</string>
     <string name="home">설정 홈</string>
-    <string name="ime_security_warning">이 입력 방법은 암호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다.. 앱에서 가져온 것입니다. %1$s. 이 입력 방법을 사용하시겠습니까?</string>
+    <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다.. 앱에서 가져온 것입니다. %1$s. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">활동을 지키지 마세요.</string>
     <string name="immediately_destroy_activities_summary">사용자가 모든 활동을 종료하자마자 폐기하세요.</string>
     <string name="ims_reg_status_not_registered">등록되지 않음</string>
@@ -279,7 +279,7 @@
     <string name="lb_search_bar_hint_speech">검색하려면 말하세요.</string>
     <string name="lb_search_bar_hint_with_title">%1$s 검색</string>
     <string name="lb_search_bar_hint_with_title_speech">%1$s 검색하려면 말하세요.</string>
-    <string name="local_backup_password_summary_change">바탕 화면 전체 백업에 대한 암호를 변경하거나 제거하려면 누르세요.</string>
+    <string name="local_backup_password_summary_change">바탕 화면 전체 백업에 대한 비밀번호를 변경하거나 제거하려면 누르세요.</string>
     <string name="local_backup_password_summary_none">데스크톱 전체 백업은 현재 보호되지 않습니다.</string>
     <string name="local_backup_password_title">데스크톱 백업 비밀번호</string>
     <string name="local_backup_password_toast_confirmation_mismatch">새 비밀번호와 확인 사항이 일치하지 않습니다.</string>
@@ -331,7 +331,7 @@
     <string name="record_trace">추적 기록</string>
     <string name="remaining_length_format">%1$s 남음</string>
     <string name="restore_default_categories">기본 카테고리 복원</string>
-    <string name="retail_demo_reset_message">데모 모드에서 공장 초기화를 수행하려면 암호 입력</string>
+    <string name="retail_demo_reset_message">데모 모드에서 공장 초기화를 수행하려면 비밀번호 입력</string>
     <string name="retail_demo_reset_next">다음</string>
     <string name="retail_demo_reset_title">비밀번호가 필요함</string>
     <string name="running_process_item_user_label">사용자: %1$s</string>
@@ -396,7 +396,7 @@
     <string name="tethering_hardware_offload_summary">가능한 경우 테더링 하드웨어 가속 사용</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링 설정을 사용할 수 없습니다.</string>
     <string name="time_unit_just_now">방금</string>
-    <string name="title_convert_fbe">파일 기반 암호화로 변환</string>
+    <string name="title_convert_fbe">파일 기반 비밀번호화로 변환</string>
     <string name="trace_debuggable_applications">디버깅 가능한 응용 프로그램 추적</string>
     <string name="trace_is_being_recorded">추적이 기록 중입니다.</string>
     <string name="trace_saved">추적 저장 됨</string>
@@ -412,7 +412,7 @@
     <string name="tts_default_sample_string">이것은 음성 합성의 한 예입니다.</string>
     <string name="tts_engine_network_required">이 언어는 TTS (text-to-speech) 출력을 위해 작동하는 네트워크 연결이 필요합니다.</string>
     <string name="tts_engine_preference_section_title">선호 엔진</string>
-    <string name="tts_engine_security_warning">이 음성 합성 엔진은 암호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 모든 음성 텍스트를 수집 할 수 있습니다.. 그것은 %s 엔진. 이 음성 합성 엔진을 사용하도록 설정하시겠습니까?</string>
+    <string name="tts_engine_security_warning">이 음성 합성 엔진은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 모든 음성 텍스트를 수집 할 수 있습니다.. 그것은 %s 엔진. 이 음성 합성 엔진을 사용하도록 설정하시겠습니까?</string>
     <string name="tts_engine_settings_button">엔진 실행 설정</string>
     <string name="tts_engine_settings_title">%s에 대한 설정</string>
     <string name="tts_general_section_title">일반</string>
@@ -422,8 +422,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">음성 합성에 대한 간단한 데모 연주</string>
     <string name="tts_play_example_title">예시를 들어보세요.</string>
-    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 재설정하세요.</string>
-    <string name="tts_reset_speech_pitch_title">스피치 피치 재설정</string>
+    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 다시 설정하세요.</string>
+    <string name="tts_reset_speech_pitch_title">스피치 피치 다시 설정</string>
     <string name="tts_settings">텍스트 음성 변환 설정</string>
     <string name="tts_settings_title">텍스트 음성 변환 출력</string>
     <string name="tts_status_checking">확인중…</string>
@@ -454,7 +454,7 @@
     <string name="wapi_no">아니오</string>
     <string name="wapi_no_vaild_cert">사용 가능한 인증서가 없으니 지금 설치하세요.</string>
     <string name="wapi_password_hex_format_add">16 진수의 수는 홀수 일 수 없습니다.</string>
-    <string name="wapi_password_is_empty">암호 필드는 비워 둘 수 없습니다.</string>
+    <string name="wapi_password_is_empty">비밀번호 필드는 비워 둘 수 없습니다.</string>
     <string name="wapi_password_is_not_hex_format">잘못된 16진수 문자</string>
     <string name="wapi_password_length_is_max">비밀번호 길이는 64자를 초과 할 수 없습니다.</string>
     <string name="wapi_password_length_is_min">비밀번호의 길이는 8 자 이상이어야합니다.</string>
@@ -464,7 +464,7 @@
     <string name="wifi_auto_sel_wapi_cert">자동 선택</string>
     <string name="wifi_cant_connect">연결할 수 없습니다.</string>
     <string name="wifi_cant_connect_to_ap">\'%1$s\'에 연결할 수 없습니다.</string>
-    <string name="wifi_check_password_try_again">암호를 확인하고 다시 시도하세요.</string>
+    <string name="wifi_check_password_try_again">비밀번호를 확인하고 다시 시도하세요.</string>
     <string name="wifi_connected_mac_randomization">연결된 MAC 랜덤화</string>
     <string name="wifi_connected_mac_randomization_summary">WLAN 네트워크에 연결할 때 MAC 주소 무작위 화</string>
     <string name="wifi_connected_no_internet">연결됨, 인터넷 없음</string>
@@ -497,7 +497,7 @@
     <string name="wifi_wapi_certification_dont_exist">WAPI 인증서가 존재하지 않습니다. 인증서를 설치하세요.</string>
     <string name="wifi_wapi_fail_to_auth">WAPI 인증에 실패했습니다.\n인증서의 유효성을 확인하세요.</string>
     <string name="wifi_wapi_fail_to_init">WAPI 인증서를 열 수 없습니다.\n자격증명 저장소가 사용 설정되지 않았을 수 있음</string>
-    <string name="wifi_wapi_psk_type">암호 유형</string>
+    <string name="wifi_wapi_psk_type">비밀번호 유형</string>
     <string name="wifi_wapi_user_certificate">사용자 인증서</string>
     <string name="window_animation_scale_title">창 애니메이션 스케일</string>
     <string name="zen_alarm_warning">"%1$s 다음 알람이 울리지 않습니다. "</string>

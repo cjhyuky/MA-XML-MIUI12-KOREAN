@@ -1213,10 +1213,10 @@
     <string name="cpe_editor_action_save_copy">복사본 저장</string>
     <string name="cpe_editor_action_send_feedback">의견 보내기</string>
     <string name="cpe_none_filter">없음</string>
-    <string name="cpe_crop_and_rotate_reset">재설정</string>
+    <string name="cpe_crop_and_rotate_reset">다시 설정</string>
     <string name="cpe_crop_and_rotate_auto">자동</string>
     <string name="cpe_crop_banner">1:1</string>
-    <string name="cpe_adjustments_reset">재설정</string>
+    <string name="cpe_adjustments_reset">다시 설정</string>
     <string name="cpe_adjustments_auto">자동</string>
     <string name="cpe_adjustments_light">밝기</string>
     <string name="cpe_adjustments_color">색상</string>
@@ -1245,8 +1245,8 @@
     <string name="cpe_a11y_controls_tilt">기울이기 컨트롤</string>
     <string name="cpe_a11y_crop_auto">자동 자르기 및 직선화</string>
     <string name="cpe_a11y_crop_auto_done">자동으로 적용됨</string>
-    <string name="cpe_a11y_crop_reset">자르기 및 회전 변경사항 재설정</string>
-    <string name="cpe_a11y_crop_reset_done">재설정이 적용됨</string>
+    <string name="cpe_a11y_crop_reset">자르기 및 회전 변경사항 다시 설정</string>
+    <string name="cpe_a11y_crop_reset_done">다시 설정이 적용됨</string>
     <string name="cpe_a11y_rotate">시계 반대 방향으로 90도 회전합니다.</string>
     <string name="cpe_a11y_rotate_done_90">원본에서 왼쪽으로 90도 회전</string>
     <string name="cpe_a11y_rotate_done_180">원본에서 180도 회전</string>
@@ -1271,7 +1271,7 @@
     <string name="cpe_a11y_crop_left_bottom_corner_moved">왼쪽 하단 설정: 왼쪽 %1$d퍼센트, 하단 %2$d퍼센트</string>
     <string name="cpe_a11y_crop_right_bottom_corner_moved">오른쪽 하단 설정: 오른쪽 %1$d 퍼센트, 하단 %2$d퍼센트</string>
     <string name="cpe_a11y_enhance_auto">보정 자동 적용</string>
-    <string name="cpe_a11y_enhance_reset">보정 수정사항 재설정</string>
+    <string name="cpe_a11y_enhance_reset">보정 수정사항 다시 설정</string>
     <string name="cpe_a11y_enhance_light">밝기 보정 적용</string>
     <string name="cpe_a11y_enhance_color">색상 보정 적용</string>
     <string name="cpe_a11y_enhance_pop">팝 보정 적용</string>

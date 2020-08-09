@@ -35,7 +35,7 @@
     <string name="power_consume_rank_title">배터리 사용</string>
     <string name="power_consume_total_hardware">하드웨어: %s</string>
     <string name="power_consume_total_software">앱: %s</string>
-    <string name="power_idle">휴대폰 유휴상태</string>
+    <string name="power_idle">휴대전화 유휴상태</string>
     <string name="power_phone">음성 통화</string>
     <string name="power_screen">화면</string>
     <string name="process_kernel_label">Android</string>

@@ -755,7 +755,7 @@
     <string name="delete_other_shared_images">다른 사람이 공유한 사진은 삭제할 수 없습니다.</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d장 삭제됨, 타인이 공유한 %2$d장 삭제할 수 없음</string>
     <string name="delete_third_party_photo">이 사진을 삭제하시겠습니까?</string>
-    <string name="delete_third_party_video">이 동영상을 삭제하겠습니까?</string>
+    <string name="delete_third_party_video">이 동영상을 삭제하시겠습니까?</string>
     <string name="delete_to_trash_tips">설정 &gt; 휴지통에서 최근 삭제하신 사진을 확인할 수 있습니다.</string>
     <string name="deny">거부</string>
     <string name="detail_title">세부사항</string>
@@ -1068,7 +1068,7 @@
     <string name="loading_fail">다운로드할 수 없음</string>
     <string name="loading_fail_sync_off">Mi 클라우드 동기화를 활성화하여 다운로드</string>
     <string name="loading_fail_sync_off_message">사진 로드 실패, Mi 클라우드와의 동기화가 꺼져있습니다.</string>
-    <string name="loading_fail_sync_without_network">네트워크에 연결하여 메타데이터를 다운로드 하세요.</string>
+    <string name="loading_fail_sync_without_network">네트워크에 연결하여 메타데이터를 다운로드하세요.</string>
     <string name="loading_fail_syncing">메타데이터의 다운로드를 기다리신 후 다시 시도하세요.</string>
     <string name="loading_gif">GIF 다운로드 중…</string>
     <string name="loading_gif_thumbnail">GIF 미리보기 다운로드 중…</string>
@@ -1078,7 +1078,7 @@
     <string name="loading_processing_tip">사진 작업 중…</string>
     <string name="loading_suspend">다운로드 일시 중지됨. Wi-Fi가 사용 가능해지면 다시 시작됩니다.</string>
     <string name="loading_video">동영상 다운로드 중…</string>
-    <string name="loading_video_fail_sync_without_network">네트워크에 연결하여 메타데이터를 다운로드 하세요.</string>
+    <string name="loading_video_fail_sync_without_network">네트워크에 연결하여 메타데이터를 다운로드하세요.</string>
     <string name="loading_video_fail_syncing">메타데이터의 다운로드를 기다리신 후 다시 시도하세요.</string>
     <string name="loading_video_thumbnail">동영상 커버 다운로드 중…</string>
     <string name="login_and_enable_service">Mi 계정으로 로그인</string>
@@ -1306,7 +1306,7 @@
     <string name="photo_editor_crop_and_rotate">자르기&amp;회전</string>
     <string name="photo_editor_crop_auto">자동</string>
     <string name="photo_editor_crop_auto_tips">자동으로 자름</string>
-    <string name="photo_editor_crop_reset">재설정</string>
+    <string name="photo_editor_crop_reset">다시 설정</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">낙서</string>
     <string name="photo_editor_filter">필터</string>
@@ -1392,7 +1392,7 @@
     <string name="picker_full_format">최대 %d개 사진을 선택할 수 있습니다.</string>
     <string name="picker_image_need_download">선택하신 %d개 사진이 기기에 없습니다. 모바일 데이터로 다운로드하시겠습니까?</string>
     <string name="picker_image_will_download">선택된 사진 %d개가 기기에 존재하지 않습니다. 다운로드될 것입니다.</string>
-    <string name="picker_no_network_message">네트워크에 연결하여 다운로드 하세요.</string>
+    <string name="picker_no_network_message">네트워크에 연결하여 다운로드하세요.</string>
     <string name="picker_origin_need_download">선택하신 사진 %1$d개(%2$dMB) 가 기기에 존재하지 않습니다. 모바일 데이터로 다운로드하시겠습니까?</string>
     <string name="picker_origin_request_progress_fail">네트워크 오류로 인해 원본 이미지을 다운로드하지 못하였습니다.</string>
     <string name="picker_origin_request_progress_message">원본 파일 준비중... (%1$d/%2$d)…</string>
@@ -2362,7 +2362,7 @@
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="collage_poster_global_dream_text">꿈</string>
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Q존</string>
-    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">웨이보</string>
+    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">큐큐(QQ)</string>
     <string name="copy">복사</string>

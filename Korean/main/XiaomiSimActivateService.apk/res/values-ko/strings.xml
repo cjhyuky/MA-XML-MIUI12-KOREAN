@@ -6,7 +6,7 @@
     <string name="explain_send_sms_permission_msg">%s 항목을 켜기 위해 샤오미 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 따라 다르게 부과됩니다.</string>
     <string name="explain_send_sms_permission_button">인증</string>
     <string name="activate_phone_failed_notif_title">SIM 카드를 활성화할 수 없습니다.</string>
-    <string name="activate_phone_failed_notif_title_msim">"%d SIM카드를 활성화 할 수 없습니다."</string>
+    <string name="activate_phone_failed_notif_title_msim">"%d SIM 카드를 활성화 할 수 없습니다."</string>
     <string name="activate_phone_success_notif_title">SIM 카드 활성화됨</string>
     <string name="activate_phone_success_notif_title_msim">%d SIM 카드 활성화됨</string>
     <string name="activate_phone_cancel_notif_title">SIM 카드 활성화 취소됨</string>
@@ -19,7 +19,7 @@
     <string name="activate_status_desc_query_activation_info">활성화 정보를 가져오는 중…</string>
     <string name="activate_status_desc_query_activation_info_no_info">서버에서 활성화 정보를 찾지 못했습니다.</string>
     <string name="activate_status_desc_query_activation_info_server_error">활성화 정보를 가져오는 중 서버 오류가 발생하였습니다.</string>
-    <string name="activate_status_desc_query_activation_info_downlink_sms_error">서버에서 휴대폰으로 활성화 SMS 전송 실패</string>
+    <string name="activate_status_desc_query_activation_info_downlink_sms_error">서버에서 휴대전화으로 활성화 SMS 전송 실패</string>
     <string name="activate_status_desc_wait_for_sms">서버에서 활성화 SMS를 기다리는 중…</string>
     <string name="activate_status_desc_wait_for_sms_success">서버에서 활성화 SMS 수신됨</string>
     <string name="activate_status_desc_wait_for_sms_fail">서버에서 활성화 SMS를 수신하지 못했습니다.</string>
@@ -124,5 +124,5 @@
     <string name="error_network_io">네트워크 에러</string>
     <string name="error_no_send_sms_permission">문자 전송 권한 없음</string>
     <string name="error_sim_not_in_service">SIM 카드 서비스안됨</string>
-    <string name="waiting_sim_in_service">SIM카드 서비스 기다리는중</string>
+    <string name="waiting_sim_in_service">SIM 카드 서비스 기다리는중</string>
 </resources>

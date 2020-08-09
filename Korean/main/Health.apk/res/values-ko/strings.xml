@@ -117,7 +117,7 @@
     <string name="dialog_sleep_goal_subtitle">매일 7~9시간의 수면을 취하세요.</string>
     <string name="dialog_sleep_goal_title">수면 시간 목표</string>
     <string name="dialog_sleep_purpose">미 건강 수면 추적 서비스에 오신 것을 환영합니다! 이 서비스를 사용하여 수면을 기록하고 수면 데이터를 관리할 수 ​​있습니다. Mi 건강 앱은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다. 수면 데이터의 정확성을 보장하기 위해 Mi 건강 앱은 자동 시작 권한이 필요합니다. 이 기능과 관련된 모든 데이터는 기기에 로컬로 저장됩니다.</string>
-    <string name="dialog_sleep_record_auto_start">수면을보다 정확하게 추적하려면 Mi Health가 자동 시작되도록하세요.</string>
+    <string name="dialog_sleep_record_auto_start">수면을보다 정확하게 추적하려면 Mi 건강이 자동 시작되도록하세요.</string>
     <string name="dialog_sure">확인</string>
     <string name="dialog_user_agreement_purpose">Mi 건강 앱에 오신 것을 환영합니다! 이 앱을 사용하여 걸음 수, 수면, 기간 및 체중을 추적하고 건강 조언을 받을 수 있습니다.</string>
     <string name="drink_water">물을 마시고 산책을 하세요.</string>
@@ -136,8 +136,8 @@
     <string name="exercise_setting_page_title">활동 설정</string>
     <string name="expand_button_title">고급</string>
     <string name="exposed_dropdown_menu_content_description">드롭 다운 메뉴 표시</string>
-    <string name="feedback_need_permission_msg">피드백에 사용되는 로그를 생성 할 수 있도록 Mi Health가 외부 저장소에 쓸 수 있도록 허용합니다.</string>
-    <string name="feedback_permission_denied_msg">"Mi Health는 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi Health에게 필요한 권한을 부여하세요."</string>
+    <string name="feedback_need_permission_msg">피드백에 사용되는 로그를 생성 할 수 있도록 Mi 건강이 외부 저장소에 쓸 수 있도록 허용합니다.</string>
+    <string name="feedback_permission_denied_msg">"Mi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필요한 권한을 부여하세요."</string>
     <string name="finish">마침</string>
     <string name="gender_female">여성</string>
     <string name="gender_male">남성</string>
@@ -200,7 +200,7 @@
     <string name="manual_page_measure_date_title">날짜와 시간</string>
     <string name="mark_end">기간이 종료되었습니다.</string>
     <string name="mark_start">시작</string>
-    <string name="menses_auto_start_description">알림을 켜면 Mi Health가 자동으로 시작됩니다.</string>
+    <string name="menses_auto_start_description">알림을 켜면 Mi 건강이 자동으로 시작됩니다.</string>
     <string name="menses_features_description">생리를 기록하고 알림을 받습니다.</string>
     <string name="menstrual_assistant">생리 어시스턴트</string>
     <string name="menstruation">생리</string>
@@ -230,18 +230,18 @@
     <string name="mtrl_picker_range_header_title">날짜 범위 선택</string>
     <string name="mtrl_picker_range_header_unselected">시작일-종료일</string>
     <string name="name_title_menstruation_today_end">기간이 오늘 끝날 것으로 예상됩니다.</string>
-    <string name="need_auto_start_permission">보다 정확한 통계를 얻으려면 Mi Health가 자동 시작되도록 하세요.</string>
-    <string name="need_unrestricted_permission">보다 정확한 통계를 얻으려면 Mi Health가 항상 백그라운드에서 실행되도록 하세요.</string>
+    <string name="need_auto_start_permission">보다 정확한 통계를 얻으려면 Mi 건강이 자동 시작되도록 하세요.</string>
+    <string name="need_unrestricted_permission">보다 정확한 통계를 얻으려면 Mi 건강이 항상 백그라운드에서 실행되도록 하세요.</string>
     <string name="next_step">다음</string>
     <string name="not_support_step">"기기에서 걸음수를 계산할 수 없습니다."</string>
     <string name="no_body_weight_record">여기에 아직 기록이 없습니다.</string>
     <string name="no_records">여기에 항목이 없습니다.</string>
-    <string name="open_unrestricted_permissions">수면을 보다 정확하게 추적하려면 Mi Health가 항상 백그라운드에서 실행되도록 하세요.</string>
+    <string name="open_unrestricted_permissions">수면을 보다 정확하게 추적하려면 Mi 건강이 항상 백그라운드에서 실행되도록 하세요.</string>
     <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="permission_check_result">성공적으로 설정</string>
     <string name="permission_check_result_failed">"설정할 수 없습니다."</string>
     <string name="permission_manage">권한 관리</string>
-    <string name="permission_tip">수면을 정확하게 추적 할 수 있도록 Mi Health에 다음 권한을 부여하세요.</string>
+    <string name="permission_tip">수면을 정확하게 추적 할 수 있도록 Mi 건강에 다음 권한을 부여하세요.</string>
     <string name="predict_menstruation">예상 기간</string>
     <string name="preference_about">정보</string>
     <string name="preference_basic_info">기본 정보</string>
@@ -284,7 +284,7 @@
     <string name="sedentary_reminder_subject">이동 알림</string>
     <string name="sedentary_time_is_too_long">이동할 시간! 물을 마시고 산책을 하세요.</string>
     <string name="sedentary_title">움직여야합니다.</string>
-    <string name="sedentary_toggle_content">"오랫 동안 활동이 없으면 Mi Health에서 일어나서 걸으라고 알려줍니다."</string>
+    <string name="sedentary_toggle_content">"오랫 동안 활동이 없으면 Mi 건강에서 일어나서 걸으라고 알려줍니다."</string>
     <string name="select_menstruation_end_date">이 기간의 종료 날짜를 선택하세요.</string>
     <string name="select_null">선택되지 않음</string>
     <string name="setting">설정</string>
@@ -297,7 +297,7 @@
     <string name="sleep_chart_empty">데이터 없음</string>
     <string name="sleep_chart_loading">몇 초만에</string>
     <string name="sleep_day">일</string>
-    <string name="sleep_detector_content">Mi Health가 백그라운드에서 수면을 추적 중입니다.</string>
+    <string name="sleep_detector_content">Mi 건강이 백그라운드에서 수면을 추적 중입니다.</string>
     <string name="sleep_detector_title">수면 추적</string>
     <string name="sleep_detector_unopened">"아직 수면 추적을 시작하지 않았습니다."</string>
     <string name="sleep_empty_data_tips">완전한 수면주기를 거칩니다.</string>
@@ -310,17 +310,17 @@
     <string name="sleep_management_exp_hours_minutes">"현재 설정이 매일 %1$s %2$s의 수면을 보장하지는 않습니다. 그 이상이 필요합니다."</string>
     <string name="sleep_management_label">취침 시간 관리</string>
     <string name="sleep_month">월</string>
-    <string name="sleep_need_auto_start">수면 데이터를 보다 정확하게하기 위해 Mi Health가 자동 시작되도록 허용</string>
+    <string name="sleep_need_auto_start">수면 데이터를 보다 정확하게하기 위해 Mi 건강이 자동 시작되도록 허용</string>
     <string name="sleep_need_background_run">수면 데이터를보다 정확하게하려면 \"제한 없음\"을 선택</string>
     <string name="sleep_need_necessary_permissions">수면 데이터를보다 정확하게하기 위해 필요한 권한을 부여합니다.</string>
     <string name="sleep_no_data_info">"완전한 수면 주기로 이동"</string>
     <string name="sleep_no_generate_report">"수면 데이터를 찾을 수 없습니다."</string>
-    <string name="sleep_record_content">Mi Health는 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다.</string>
+    <string name="sleep_record_content">Mi 건강은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다.</string>
     <string name="sleep_record_go_open">수면 데이터 기록을 시작하려면 \"트랙 수면\"스위치를 전환</string>
     <string name="sleep_record_label">수면 기록</string>
     <string name="sleep_remind">수면 알림</string>
     <string name="sleep_report">수면 통계</string>
-    <string name="sleep_require_auto_start_permission">활동과 수면을 추적하기 위해 Mi Health가 자동 시작되도록 허용합니다.</string>
+    <string name="sleep_require_auto_start_permission">활동과 수면을 추적하기 위해 Mi 건강이 자동 시작되도록 허용합니다.</string>
     <string name="sleep_service">수면 추적 서비스</string>
     <string name="sleep_service_background_running">수면 추적 서비스가 백그라운드에서 실행 중입니다.</string>
     <string name="sleep_setting_title">수면 설정</string>
@@ -338,7 +338,7 @@
     <string name="splash_header_subtitle">"정기 운동과 수면은 건강을 향상시킬 수 있습니다."</string>
     <string name="splash_header_title">글로벌 보건 당국의 말 :</string>
     <string name="splash_next_btn">기본 정보 입력</string>
-    <string name="splash_title">"Mi Health에서는 활동 목표를 설정하고 개인 정보를 기반으로 조언을받을 수 있습니다."</string>
+    <string name="splash_title">"Mi 건강에서는 활동 목표를 설정하고 개인 정보를 기반으로 조언을받을 수 있습니다."</string>
     <string name="state_agree">동의</string>
     <string name="state_auto_run_disenable">끄기</string>
     <string name="state_auto_run_enable">설정</string>
@@ -348,7 +348,7 @@
     <string name="subtitle_exercise_and_sleep">육체적으로 활동하고 충분한 수면을 취하세요.</string>
     <string name="subtitle_get_health_advice">제공 한 데이터를 기반으로 정확한 통계 및 건강 정보를 얻으세요.</string>
     <string name="subtitle_keep_warm">따뜻한 자세를 유지하고 다이어트에 충실하세요.</string>
-    <string name="subtitle_mi_health_predict_menstruation">Mi Health를 사용한 미래 월경 기록 및 추정</string>
+    <string name="subtitle_mi_health_predict_menstruation">Mi 건강을 사용한 미래 월경 기록 및 추정</string>
     <string name="subtitle_record_and_start_predict">다음 번 시작시기를 추정할 기간을 기록합니다.</string>
     <string name="subtitle_run_in_background">​​정확한 통계를 얻으려면 \"제한 없음\"을 선택</string>
     <string name="subtitle_stick_record">보다 정확한 예측을 위해 기간을 기록하세요.</string>
@@ -444,7 +444,7 @@
     <string name="sleep_deep_light_no_data_improvement">"수면 단계를 감지 할 수 없습니다. 알고리즘을 개선하고 있습니다. 계속 지켜봐주세요!"</string>
     <string name="sleep_detection_question_one_answer_1">"디바이스 센서가 수집한 신체 움직임 데이터를 기반으로 깊은 수면과 얕은 수면을 감지됩니다. 통계를 볼 수 없는 이유는 다음과 같습니다.
 1. 샤오미 건강앱이 데이터를 수집할 수 없습니다. 잠자는 동안 기기의 전원이 꺼지거나 배터리 잔량이 부족하거나 앱이 백그라운드에서 작동하지 않는 경우에 발생할 수 있습니다. 샤오미 건강앱이 자동시작되도록 허용하고 배터리 절약 예외에 추가한 다음 백그라운드에서 꺼지지 않도록 하세요.
-2. 샤오미 건강앱이 수집된 데이터를 분석할 수 없습니다. 이것은 잠을 잘 때 휴대폰이 몸에서 너무 멀리 떨어져 있을 때 발생할 수 있습니다. 또는 몸의 움직임이 너무 미묘하면 수면주기 변화에 대한 가정을 할 수 없습니다. 샤오미 건강앱은 수면을 더 잘 분석할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
+2. 샤오미 건강앱이 수집된 데이터를 분석할 수 없습니다. 이것은 잠을 잘 때 휴대전화이 몸에서 너무 멀리 떨어져 있을 때 발생할 수 있습니다. 또는 몸의 움직임이 너무 미묘하면 수면주기 변화에 대한 가정을 할 수 없습니다. 샤오미 건강앱은 수면을 더 잘 분석할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
     <string name="sleep_detection_question_one_title_1">"왜 절전주기 통계가 표시되지 않습니까?"</string>
     <string name="sleep_snore_detection_desc">코골이 감지 및 수면에 대해 자세히 알아보기</string>
     <string name="snore_detection_stop_pop_title">현재 코골이 감지 세션을 중단하시겠습니까?</string>

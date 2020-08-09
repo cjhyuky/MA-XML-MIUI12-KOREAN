@@ -17,7 +17,7 @@
     <string name="respond_via_sms_setting_title">빠른 답장</string>
     <string name="respond_via_sms_setting_title_2">빠른 답장 편집</string>
     <string name="respond_via_sms_edittext_dialog_title">빠른 답장</string>
-    <string name="respond_via_sms_menu_reset_default_activity">기본 앱 재설정</string>
+    <string name="respond_via_sms_menu_reset_default_activity">기본 앱 다시 설정</string>
     <string name="respond_via_sms_confirmation_format">%s 으로 메시지가 전송되었습니다.</string>
     <string name="outgoing_call_not_allowed">일반 전화를 걸 수 없는 사용자입니다.</string>
     <string name="outgoing_call_error_no_phone_number_supplied">전화를 거시려면 유효한 번호를 입력하세요.</string>
@@ -161,8 +161,8 @@
     <string name="connected_via_passpoint">%1$s에 연결됨</string>
     <string name="connected_via_wfa">Wi-Fi 어시스턴트로 연결</string>
     <string name="content_description_menu_button">메뉴</string>
-    <string name="convert_to_file_encryption">암호화된 파일로 변환</string>
-    <string name="convert_to_file_encryption_done">파일이 이미 암호화되어있음</string>
+    <string name="convert_to_file_encryption">비밀번호화된 파일로 변환</string>
+    <string name="convert_to_file_encryption_done">파일이 이미 비밀번호화되어있음</string>
     <string name="convert_to_file_encryption_enabled">변환중…</string>
     <string name="daltonizer_mode_disabled">비활성화됨</string>
     <string name="daltonizer_type_overridden">%1$s에서 사용됨</string>
@@ -204,7 +204,7 @@
     <string name="enable_webview_multiprocess_desc">WebView 렌더링을 별도로 실행</string>
     <string name="enabled_by_admin">관리자에 의해 활성화됨</string>
     <string name="force_allow_on_external">강제로 외부 저장소 앱 허용</string>
-    <string name="convert_to_fbe_warning">"암호화 되어있는 데이터 파티션을 변환합니다.</string>
+    <string name="convert_to_fbe_warning">"비밀번호화 되어있는 데이터 파티션을 변환합니다.</string>
     <string name="daltonizer_mode_deuteranomaly">녹색약(적녹)</string>
     <string name="daltonizer_mode_monochromacy">전색맹</string>
     <string name="daltonizer_mode_protanomaly">적색약(적녹)</string>
@@ -315,7 +315,7 @@
     <string name="tether_settings_title_usb_bluetooth">테더링</string>
     <string name="tether_settings_title_wifi">모바일 핫스팟</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링을 사용할 수 없습니다.</string>
-    <string name="title_convert_fbe">파일 암호화 변환중…</string>
+    <string name="title_convert_fbe">파일 비밀번호화 변환중…</string>
     <string name="track_frame_time">GPU 렌더링 프로필</string>
     <string name="transition_animation_scale_title">전환 애니메이션 길이</string>
     <string name="tts_default_lang_summary">TTS 출력을 위한 기본 언어를 설정합니다.</string>
@@ -337,8 +337,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">짧은 예문을 들어볼 수 있습니다.</string>
     <string name="tts_play_example_title">예문 들어보기</string>
-    <string name="tts_reset_speech_pitch_summary">목소리 높낮이를 기본값으로 재설정합니다.</string>
-    <string name="tts_reset_speech_pitch_title">목소리 높낮이 재설정</string>
+    <string name="tts_reset_speech_pitch_summary">목소리 높낮이를 기본값으로 다시 설정합니다.</string>
+    <string name="tts_reset_speech_pitch_title">목소리 높낮이 다시 설정</string>
     <string name="tts_settings">TTS 설정</string>
     <string name="tts_settings_title">TTS 출력</string>
     <string name="tts_status_checking">체크중…</string>
@@ -478,7 +478,7 @@
     <string name="outgoing_call_failed">통화 전환되지 않음</string>
     <string name="str_db_playlist_name">녹음 파일</string>
     <string name="volte_ss_not_available_tips">작업을 완료하려면 %s의 데이터 연결을 허용해야합니다.</string>
-    <string name="retail_demo_reset_message">데모 모드에서 공장 초기화 하려면 암호를 입력하세요.</string>
+    <string name="retail_demo_reset_message">데모 모드에서 공장 초기화 하려면 비밀번호를 입력하세요.</string>
     <string name="alert_outgoing_call">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>
     <string name="answering_ends_other_call">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>
     <string name="answering_ends_other_calls">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>

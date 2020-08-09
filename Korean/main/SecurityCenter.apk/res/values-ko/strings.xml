@@ -153,7 +153,7 @@
     <string name="ac_pre_notification_contentText">개인 정보 보호</string>
     <string name="ac_pre_notification_contentTitle">앱 잠금을 시도해 보세요.</string>
     <string name="ac_summaryOff">꺼짐. 앱을 열기 위해 비밀번호가 요구되지 않습니다.</string>
-    <string name="ac_summaryOn">보호된 앱을 실행하려면 암호를 입력하세요.</string>
+    <string name="ac_summaryOn">보호된 앱을 실행하려면 비밀번호를 입력하세요.</string>
     <string name="ac_unmask_all_apps">모든 앱 숨김 취소</string>
     <string name="access_control_app_is_launching">앱이 시작됩니다.</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">앱 실행에 비밀번호가 요구됩니다.</string>
@@ -218,7 +218,7 @@
     <string name="alarm_lock_screen_summary">길 위에 빨간 봉투의 큰 물결...</string>
     <string name="alarm_lockscreen_btn">빨간 패킷 잡기 시작</string>
     <string name="alarm_setting_title">빨간 봉투 알람 시계 설정</string>
-    <string name="alert_back_diving_mode_summary">집중 모드를 종료하겠습니까?</string>
+    <string name="alert_back_diving_mode_summary">집중 모드를 종료하시겠습니까?</string>
     <string name="alert_back_diving_mode_title">집중 모드</string>
     <string name="alert_back_milink_hangup_tips_content">통화를 종료하는 동안 캐스팅이 중단되지 않습니다. 전원 버튼을 눌러 화면을 깨울 수 있습니다.</string>
     <string name="all_address_choose_hint">이 지역에 있는 모든 번호</string>
@@ -248,7 +248,7 @@
     <string name="antivirus_privacy_dialog_cloudscan">앱 이름과 세부사항 업로드</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 업로드 및 스캔합니다.</string>
     <string name="antivirus_privacy_dialog_ok">확인</string>
-    <string name="antivirus_privacy_dialog_summary">이 기능은 기기 ID를 암호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
+    <string name="antivirus_privacy_dialog_summary">이 기능은 기기 ID를 비밀번호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
     <string name="antivirus_privacy_dialog_summary_link">개인정보 보호정책</string>
     <string name="antivirus_privacy_dialog_title">개인 정보 보호 정책</string>
     <string name="antivirus_sec_network_unavailable">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
@@ -356,7 +356,7 @@
     <string name="app_manager_pref_ads">추천</string>
     <string name="app_manager_reset_app_preferences">앱 환경설정 초기화</string>
     <string name="app_manager_reset_app_preferences_button">앱 초기화</string>
-    <string name="app_manager_reset_app_preferences_desc">아래 표시된 모든 환경 설정이 재설정됩니다:\n\n\"&lt;li&gt;사용 중지된 앱&lt;/li&gt;\"\n\"&lt;li&gt;앱 알림 사용 중지&lt;/li&gt;\"\n\"&lt;li&gt;기본 앱&lt;/li&gt;\"\n\"&lt;li&gt;앱의 백그라운드 데이터 제한&lt;/li&gt;\"\n\n앱 데이터는 삭제되지 않습니다.</string>
+    <string name="app_manager_reset_app_preferences_desc">아래 표시된 모든 환경 설정이 다시 설정됩니다:\n\n\"&lt;li&gt;사용 중지된 앱&lt;/li&gt;\"\n\"&lt;li&gt;앱 알림 사용 중지&lt;/li&gt;\"\n\"&lt;li&gt;기본 앱&lt;/li&gt;\"\n\"&lt;li&gt;앱의 백그라운드 데이터 제한&lt;/li&gt;\"\n\n앱 데이터는 삭제되지 않습니다.</string>
     <string name="app_manager_reset_app_preferences_title">앱 설정을 초기화하시겠습니까?</string>
     <string name="app_manager_search_prompt">결과를 찾지 못하셨나요? 모든 어플의 결과를 확인해보세요.</string>
     <string name="app_manager_show_all_apps">모든 앱 표시</string>
@@ -412,7 +412,7 @@
     <string name="application_item_already_permission">허용됨</string>
     <string name="application_item_disable">제한됨</string>
     <string name="applock_add_account">추가</string>
-    <string name="applock_add_account_info">비밀번호를 잊었을 때 재설정할 수 있도록 Mi 계정을 추가하세요.</string>
+    <string name="applock_add_account_info">비밀번호를 잊었을 때 다시 설정할 수 있도록 Mi 계정을 추가하세요.</string>
     <string name="applock_add_account_setting">계정 &amp; 개인 정보</string>
     <string name="applock_bind_account_title">비밀번호 찾기</string>
     <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더이상 보호되지 않을 것이고 비밀번호가 삭제될 것입니다.</string>
@@ -519,7 +519,7 @@
     <string name="auto_task_result_summary_text">배터리 절약을 위한 자동 작업 설정</string>
     <string name="back_app_name">앱 잠금으로 돌아가기</string>
     <string name="back_description_securitycenter">뒤로가기</string>
-    <string name="back_modifypassword">돌아가서 암호 유형 변경</string>
+    <string name="back_modifypassword">돌아가서 비밀번호 유형 변경</string>
     <string name="back_sound_data">데이터 네트워크가 필요합니다. 다시 시도해주세요.</string>
     <string name="back_sound_fail">실패!</string>
     <string name="back_sound_success">완료</string>
@@ -752,7 +752,7 @@
     <string name="daily_limit_network_available_body">탭하여 데이터 사용량 통계 보기</string>
     <string name="daily_limit_over_message">1일 데이터 한도를 초과하였습니다.</string>
     <string name="daily_pkg_traffic">피크 데이터 한도</string>
-    <string name="data_booster_desc">원활한 네트워크 상태 유지를 위해 다른 SIM카드들을 비활성화합니다.</string>
+    <string name="data_booster_desc">원활한 네트워크 상태 유지를 위해 다른 SIM 카드들을 비활성화합니다.</string>
     <string name="data_booster_title">네트워크 연결 새로고침</string>
     <string name="data_network_blocked_notification_title">인터넷 연결 없음</string>
     <string name="data_usage_correction_timeout_title">데이터 사용량 동기화 시간 초과</string>
@@ -772,7 +772,7 @@
     <string name="data_usage_warning_body">탭하여 데이터 사용량 세부사항 보기</string>
     <string name="data_usage_warning_body_notify">탭하여 세부사항 보기</string>
     <string name="data_usage_warning_title_notify">데이터 한도 초과</string>
-    <string name="databooster_tips_message">데이터 카드를 제외한 모든 SIM카드를 제한합니다. 실행하는 앱에서 오류가 발생할 경우 이 기능을 해제해주세요.</string>
+    <string name="databooster_tips_message">데이터 카드를 제외한 모든 SIM 카드를 제한합니다. 실행하는 앱에서 오류가 발생할 경우 이 기능을 해제해주세요.</string>
     <string name="databooster_tips_title">주의</string>
     <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하시면 한도를 낮게 설정하세요.</string>
     <string name="deep_clean_disconnect_data_title">기기가 잠겼을때 모바일 데이터 끄기</string>
@@ -797,12 +797,12 @@
     <string name="detail_app_button">앱 정보</string>
     <string name="details_subtitle">사용 세부사항</string>
     <string name="device_manager_apply_step_1">이 앱의 기기 관리자를 활성화하시겠습니까?</string>
-    <string name="device_manager_apply_step_2">이 앱의 기기 관리자를 활성화하면 개인 정보가 노출 될 수 있습니다.\n기기의 모든 데이터가 지워지고 화면 잠금 비밀번호가 재설정 될 수 있습니다.</string>
+    <string name="device_manager_apply_step_2">이 앱의 기기 관리자를 활성화하면 개인 정보가 노출 될 수 있습니다.\n기기의 모든 데이터가 지워지고 화면 잠금 비밀번호가 다시 설정 될 수 있습니다.</string>
     <string name="device_manager_apply_step_3">계속하기 전에 가능한 모든 위험을 이해했는지 확인하세요. 지금이 앱의 기기 관리자를 활성화하시겠습니까?</string>
     <string name="diagnostic_attention_dialog_message">%1$s의 진단이 진행 중입니다. 이 과정이 완료될 때까지 기다리셨다가 다시 시도하세요.</string>
     <string name="dialog_app_roaming_message">%1$s 앱은 로밍 중 모바일 데이터를 사용할 수 없습니다. 로밍 상태일 때는 예외 목록에 추가된 앱들만 모바일 데이터를 사용할 수 있습니다.</string>
     <string name="dialog_app_roaming_title">%1$s 앱은 데이터 로밍을 사용할 수 없습니다.</string>
-    <string name="dialog_change_package_type_summary">데이터 요금제 유형을 변경하면 모든 데이터 사용 설정(예: 데이터 한도)이 기본값으로 재설정됩니다. 지금 데이터 요금제 유형을 변경하시겠습니까?</string>
+    <string name="dialog_change_package_type_summary">데이터 요금제 유형을 변경하면 모든 데이터 사용 설정(예: 데이터 한도)이 기본값으로 다시 설정됩니다. 지금 데이터 요금제 유형을 변경하시겠습니까?</string>
     <string name="dialog_change_package_type_title">데이터 요금제 유형 변경</string>
     <string name="dialog_msg_auto_start_declare">일부 앱의 오류로 인해 MIUI가 앱의 시작을 방해한다고 표시할 수 있습니다. 앱 &gt; 설정에서 개별 앱의 권한을 확인하세요.</string>
     <string name="dialog_msg_stop_virus_scan">보안 스캔을 중단하시겠습니까?</string>
@@ -872,7 +872,7 @@
     <string name="dlg_white_address_antispam_message">이 위치를 예외에 추가하시겠습니까?</string>
     <string name="dlg_white_antispam_hint">예외사항</string>
     <string name="dlg_white_antispam_message">이 번호를 예외에 추가하시겠습니까?</string>
-    <string name="dnd_mode_type">방해 금지모드</string>
+    <string name="dnd_mode_type">방해 금지 모드</string>
     <string name="dnd_no_everything">알림 없음</string>
     <string name="dnd_no_sound">무음모드</string>
     <string name="dns_exception_summary">공유기의 DNS 설정 확인</string>
@@ -1212,7 +1212,7 @@
     <string name="gamebox_hangup_tips_content">이 기능을 사용하면 화면을 꺼도 백그라운드에서 게임을 계속 실행할 수 있습니다. 기기를 잠금해제하면 자동으로 꺼집니다.</string>
     <string name="gamebox_hangup_tips_title">화면 끔</string>
     <string name="gamebox_immersion">집중 모드</string>
-    <string name="gamebox_immersion_tips_content">집중 모드는 데이터 연결을 제외한 모든 SIM 카드 통신 기능을 제한합니다. 통화가 자동으로 거부되며 부재중 전화에 대한 알림을 받지 않습니다. 집중 모드를 비활성화 하면 SIM카드 기능이 복원됩니다. 집중 모드를 켜시겠습니까?</string>
+    <string name="gamebox_immersion_tips_content">집중 모드는 데이터 연결을 제외한 모든 SIM 카드 통신 기능을 제한합니다. 통화가 자동으로 거부되며 부재중 전화에 대한 알림을 받지 않습니다. 집중 모드를 비활성화 하면 SIM 카드 기능이 복원됩니다. 집중 모드를 켜시겠습니까?</string>
     <string name="gamebox_immersion_tips_title">집중</string>
     <string name="gamebox_immerson_open">집중 모드 켜는 중... 네트워크를 전환하지 마세요.</string>
     <string name="gamebox_milink">캐스트</string>
@@ -1241,7 +1241,7 @@
     <string name="gb_advance_settings_finger_up">반복 터치 민감도</string>
     <string name="gb_advance_settings_follow_up">터치 민감도</string>
     <string name="gb_advance_settings_reset">기본 설정으로 복원</string>
-    <string name="gb_advance_settings_reset_dialog_content">기본 설정으로 복원하겠습니까?</string>
+    <string name="gb_advance_settings_reset_dialog_content">기본 설정으로 복원하시겠습니까?</string>
     <string name="gb_advance_settings_reset_dialog_title">기본 설정</string>
     <string name="gb_advance_settings_screen_display">디스플레이</string>
     <string name="gb_advance_settings_screen_hdr">HDR</string>
@@ -1830,11 +1830,11 @@
     <string name="package_setted_error_notification_titile">데이터 계획을 설정할 수 없음</string>
     <string name="packages_subtitle">포함된 패키지</string>
     <string name="password_forget_pattern_confirm">알겠습니다.</string>
-    <string name="password_forget_pattern_message">보안의 문제로 공장 초기화 후에만 비밀번호를 재설정하실 수 있습니다. 탭하여 초기화</string>
+    <string name="password_forget_pattern_message">보안의 문제로 공장 초기화 후에만 비밀번호를 다시 설정하실 수 있습니다. 탭하여 초기화</string>
     <string name="password_forget_pattern_message_none">앱 잠기지 않음, 비밀번호를 초기화하실 수 있습니다.</string>
     <string name="password_forget_pattern_reset">초기화</string>
     <string name="password_forget_pattern_title">비밀번호 분실 알림</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">비밀번호를 잊었을 때 재설정할 수 있도록 Mi 계정을 추가하세요.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">비밀번호를 잊었을 때 다시 설정할 수 있도록 Mi 계정을 추가하세요.</string>
     <string name="password_promotion_postbutton_text">추가</string>
     <string name="password_promotion_title">Mi 계정 추가</string>
     <string name="password_type">비밀번호 변경</string>
@@ -1973,7 +1973,7 @@
     <string name="power_dialog_ok">확인</string>
     <string name="power_dialog_super_save_msg">초절전 모드는 전원 공급을 많이 요구하는 기능들을 비활성화하고 전화나 문자같은 기본 기능에 집중합니다. 초절전 모드를 활성화하시겠습니까?</string>
     <string name="power_dialog_super_save_title">초절전 모드</string>
-    <string name="power_idle">휴대폰 유휴상태</string>
+    <string name="power_idle">휴대전화 유휴상태</string>
     <string name="power_main_battery_last_day_hour">%1$s일 %2$s시간 남음</string>
     <string name="power_main_battery_last_hour_minute">%1$s시간 %2$s분 남음</string>
     <string name="power_optimize_auto_catagory_title">배터리 문제</string>
@@ -2057,7 +2057,7 @@
     <string name="pref_data_usage_ignore_settings_summary">선택한 앱의 데이터 사용량 추적 안 함</string>
     <string name="pref_data_usage_not_set">설정하지 않음</string>
     <string name="pref_free_adjust">오프 피크 데이터 사용량 설정</string>
-    <string name="pref_key_daily_package_summary">일일 데이터플랜 재설정 켜기</string>
+    <string name="pref_key_daily_package_summary">일일 데이터플랜 다시 설정 켜기</string>
     <string name="pref_key_daily_package_switch">일일 데이터 플랜</string>
     <string name="pref_key_daily_package_value">일일 데이터 플랜</string>
     <string name="pref_key_direction_traffic">지정된 모바일 데이터</string>
@@ -2128,10 +2128,10 @@
     <string name="privacy_apps_tutorial_prompt_pagethree">비밀번호를 입력하면 숨겨진 앱이 있는 폴더가 나타납니다.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">손가락 두 개를 펴면 앱 잠금 비밀번호를 입력하라는 메시지가 나타납니다.</string>
     <string name="privacy_declare_dialog_title">서비스 약관</string>
-    <string name="privacy_dialog_message">인터넷에 연결하면 이동 통신사 정보와 함께이 메시지가 암호화되어 Mi의 서버에 업로드되어 데이터 사용 모니터링을 향상시킬 수 있습니다.</string>
+    <string name="privacy_dialog_message">인터넷에 연결하면 이동 통신사 정보와 함께이 메시지가 비밀번호화되어 Mi의 서버에 업로드되어 데이터 사용 모니터링을 향상시킬 수 있습니다.</string>
     <string name="privacy_mode_dialog_title">게스트 모드</string>
-    <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
-    <string name="privacy_prompt_traffic_adjust_message">보정을 클릭하신 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출하신 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
+    <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 비밀번호화되어 Mi의 서버에 업로드됩니다.</string>
+    <string name="privacy_prompt_traffic_adjust_message">보정을 클릭하신 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출하신 통신사 정보, 전화번호, IMEI, Mi 계정 등을 비밀번호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
     <string name="privacy_prompt_upload">업로드</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="promotion">광고</string>
@@ -2182,7 +2182,7 @@
     <string name="report_success">메시지 신고됨</string>
     <string name="report_warning">%1$s개의 SMS를 Mi에 신고하시겠습니까? 이 메시지들과 메시지들을 전송한 전화번호는 검토를 위해 Mi의 서버에 업로드됩니다. 이 메시지들에 포함된 모든 개인 정보는 항상 익명으로 보호됩니다.</string>
     <string name="report_warning_title">SMS 신고</string>
-    <string name="reset_data_dialog_message">이 기기는 Mi 계정과 연결되어 있지 않습니다. 비밀번호를 복원하거나 재설정할 수 없습니다. 모든 중요 항목을 백업하고 초기화를 수행하세요. 모든 데이터가 영구적으로 삭제되며 SD 카드는 포맷해야합니다.</string>
+    <string name="reset_data_dialog_message">이 기기는 Mi 계정과 연결되어 있지 않습니다. 비밀번호를 복원하거나 다시 설정할 수 없습니다. 모든 중요 항목을 백업하고 초기화를 수행하세요. 모든 데이터가 영구적으로 삭제되며 SD 카드는 포맷해야합니다.</string>
     <string name="reset_data_dialog_ok">공장 초기화</string>
     <string name="reset_data_title">비밀번호 복원 실패</string>
     <string name="result_autoscan_header">지불 모니터링</string>
@@ -2840,7 +2840,7 @@
     <string name="txv_dnd_end_time_title">종료 시간</string>
     <string name="txv_dnd_start_time_title">시작 시간</string>
     <string name="txv_dnd_type_demo">음소거</string>
-    <string name="txv_dnd_type_title">방해 금지모드</string>
+    <string name="txv_dnd_type_title">방해 금지 모드</string>
     <string name="txv_lucky_money_group_text">그룹 빨간 봉투 만 상기</string>
     <string name="unable_connect_internet">인터넷 연결 없음</string>
     <string name="uninstall_app_dialog_msg">제거시 모든 앱 데이터가 삭제됩니다.</string>
@@ -2901,7 +2901,7 @@
     <string name="wifi_item_title_arp_attack">ARP 공격</string>
     <string name="wifi_item_title_connection">Wi-Fi 연결</string>
     <string name="wifi_item_title_dns">DNS 서버 보안</string>
-    <string name="wifi_item_title_encryption">Wi-Fi가 암호화되지 않았습니다.</string>
+    <string name="wifi_item_title_encryption">Wi-Fi가 비밀번호화되지 않았습니다.</string>
     <string name="wifi_item_title_fake">가짜 Wi-Fi 감지</string>
     <string name="wifi_network_blocked_notification_title">인터넷 연결 없음</string>
     <string name="wifi_optizition_loading">Xunyou 네트워크 스피드 부스트 켜는 중…</string>
@@ -3009,14 +3009,14 @@
     <string name="applock_go_to">설정</string>
     <string name="applock_guide_open_applock">켜기</string>
     <string name="applock_guide_tip1">여러 비밀번호 유형 옵션을 사용할 수 있습니다. 지문, 얼굴 또는 비밀번호를 입력하여 앱을 잠금해제합니다.</string>
-    <string name="applock_guide_tip1_global">지문, 얼굴 또는 암호를 입력하여 앱을 잠금해제하세요.</string>
-    <string name="applock_guide_tip1_global_without_face">지문으로 앱을 잠금해제하거나 암호를 입력하세요.</string>
+    <string name="applock_guide_tip1_global">지문, 얼굴 또는 비밀번호를 입력하여 앱을 잠금해제하세요.</string>
+    <string name="applock_guide_tip1_global_without_face">지문으로 앱을 잠금해제하거나 비밀번호를 입력하세요.</string>
     <string name="applock_guide_tip1_global_without_finger">얼굴로 앱을 잠금해제하거나 비밀번호를 입력하세요.</string>
     <string name="applock_guide_tip1_global_without_finger_face">여러 비밀번호 유형 옵션을 사용할 수 있습니다.</string>
     <string name="applock_guide_tip1_without_face">여러 비밀번호 유형 옵션을 사용할 수 있습니다. 지문으로 앱을 잠금해제하거나 비밀번호를 입력하세요.</string>
     <string name="applock_guide_tip1_without_finger">여러 비밀번호 유형 옵션을 사용할 수 있습니다. 얼굴로 앱을 잠금해제하거나 비밀번호를 입력하세요.</string>
     <string name="applock_guide_tip1_without_finger_face">여러 비밀번호 유형 옵션을 사용할 수 있습니다.</string>
-    <string name="applock_guide_tip2">비밀번호를 재설정할 수 있도록 Mi 계정을 추가하세요.</string>
+    <string name="applock_guide_tip2">비밀번호를 다시 설정할 수 있도록 Mi 계정을 추가하세요.</string>
     <string name="applock_guide_tip3">알림 내용 숨기기.</string>
     <string name="applock_guide_tip3_global">알림 내용 숨기기.</string>
     <string name="applock_guide_title">앱 잠금으로 개인 정보 보호</string>
@@ -3069,7 +3069,7 @@
     <string name="permission_action_always">항상 허용</string>
     <string name="permission_action_foreground">​​앱을 사용하는 동안</string>
     <string name="phone_manage_recent_use">최근에 사용 된</string>
-    <string name="power_center_list_item_set_lockscreen_time_holder">%d초동안 활동이 없으면 장치잠금</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">%d초 동안 활동이 없으면 장치잠금</string>
     <string name="shortcut_title_scan">검사</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp 클리너</string>
     <string name="system_permission_perm_optional">"(선택 사항)"</string>

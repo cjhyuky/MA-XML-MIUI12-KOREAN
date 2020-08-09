@@ -2,7 +2,7 @@
 <resources>
     <string name="badPin2">입력한 이전의 PIN2가 올바르지 않습니다.</string>
     <string name="badPuk2">입력한 PUK2가 올바르지 않습니다.</string>
-    <string name="checkPwdLen">암호가 4-8 자릿수인지 확인하세요.</string>
+    <string name="checkPwdLen">비밀번호가 4-8 자릿수인지 확인하세요.</string>
     <string name="pinNotEnabled">PIN을 변경하기 전에 활성화하세요.</string>
     <string name="puk1Blocked">PIN이 차단되었습니다.</string>
     <string name="puk2Blocked">PIN2가 차단되었습니다.</string>
@@ -40,7 +40,7 @@
     <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"PIN을 %d회 잘못 입력했습니다. 
 
  %d초 내에 다시 시도하세요."</string>
-    <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"암호를 %d회 잘못 입력했습니다. 
+    <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"비밀번호를 %d회 잘못 입력했습니다. 
 
  %d초 내에 다시 시도하세요."</string>
     <string name="wap_browser_pakcage">com.myriad.android.kunbrowser</string>

@@ -164,7 +164,7 @@
     <string name="audio_message_expired">음성메시지 보관기간이 지났습니다.</string>
     <string name="audio_message_mx_offline">오디오 다운로드 실패. Mi 메시지가 오프라인이거나 사용불가입니다.</string>
     <string name="audio_playing_seconds">%d\"</string>
-    <string name="audio_sim_card_mismatching">네트워크 연결불가 또는 잘못된 SIM카드가 설치되었습니다. 메시지가 전송된 통신사의 SIM 카드를 삽입후 네트워크에 연결하세요.</string>
+    <string name="audio_sim_card_mismatching">네트워크 연결불가 또는 잘못된 SIM 카드가 설치되었습니다. 메시지가 전송된 통신사의 SIM 카드를 삽입후 네트워크에 연결하세요.</string>
     <string name="back_to_message_list">메시지 목록으로 돌아가기</string>
     <string name="batch_adding_progress_message">추가 중…</string>
     <string name="batch_deleting_message_progress_message">삭제 중…</string>
@@ -509,7 +509,7 @@
     <string name="pref_show_list_avatar_summary">목폭에 프로필 사진 및 연락처 표시</string>
     <string name="pref_show_photo_word_summary">사진 없는 연락처에 자동으로 사진 지정</string>
     <string name="pref_show_sms_template_entry_summary">인증 코드 식별 기능 제공</string>
-    <string name="pref_show_sms_template_in_summary">자동으로 일회용 암호를 SMS 메시지에서 찾습니다.</string>
+    <string name="pref_show_sms_template_in_summary">자동으로 일회용 비밀번호를 SMS 메시지에서 찾습니다.</string>
     <string name="pref_show_sms_template_summary">코드 복사, 밸런스 확인, 기타 등과 같은 Mi 메시지의 스마트 기능 사용 켜기</string>
     <string name="pref_smart_messages_settings">스마트 메시지</string>
     <string name="pref_sms_theme_title">표시</string>
@@ -896,9 +896,9 @@
     <string name="user_agreement">사용자 동의</string>
     <string name="cmcc_privacy">차이나 모바일 이동통신사 개인정보 보호정책 동의</string>
     <string name="mark_number_by_own_dialog_subtitle">%1$s로 표시됨</string>
-    <string name="rcs_dspt_unavailable">"현재 이 기능을 사용할 수 없습니다. 차이나모바일 SIM카드가 기본 SIM카드여야 합니다."</string>
+    <string name="rcs_dspt_unavailable">"현재 이 기능을 사용할 수 없습니다. 차이나모바일 SIM 카드가 기본 SIM 카드여야 합니다."</string>
     <string name="rcs_service_agreement">서비스 약관</string>
-    <string name="rcs_unavailable">"차이나모바일 메시지를 현재 사용할 수 없습니다. 차이나 모바일 SIM카드가 기본 데이터 SIM으로 설정되어있지 않습니다."</string>
+    <string name="rcs_unavailable">"차이나모바일 메시지를 현재 사용할 수 없습니다. 차이나 모바일 SIM 카드가 기본 데이터 SIM으로 설정되어있지 않습니다."</string>
     <string name="complain_input_number">전화번호 입력</string>
     <string name="complain_jump">건너뛰기</string>
     <string name="complain_message_title">리포트</string>

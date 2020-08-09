@@ -92,7 +92,7 @@
     <string name="menu_workspace_preview">홈 화면 미리보기</string>
     <string name="menu_back_desktop">홈 화면으로 돌아가기</string>
     <string name="menu_settings">설정</string>
-    <string name="menu_reset_scene">기본 레이아웃으로 재설정</string>
+    <string name="menu_reset_scene">기본 레이아웃으로 다시 설정</string>
     <string name="menu_exit_scene">Mi 스페이스 종료</string>
     <string name="permlab_install_shortcut">바로가기 설치</string>
     <string name="permdesc_install_shortcut">앱이 사용자의 조작 없이 바로가기를 추가할 수 있도록 허용합니다.</string>
@@ -151,7 +151,7 @@
     <string name="sort_by_not_defined">자동 정렬</string>
     <string name="sort_by_frequency">사용량순으로 정렬</string>
     <string name="sort_by_abc">이름순으로 정렬</string>
-    <string name="encryption">암호화</string>
+    <string name="encryption">비밀번호화</string>
     <string name="failed_to_drop">이동할 수 없습니다.</string>
     <string name="no_space_toast">공간이 부족합니다.</string>
     <string name="failed_to_drop_widget_invalid">위젯이 잘못되었습니다.</string>
@@ -180,7 +180,7 @@
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">온라인</string>
     <string name="custom_wallpaper_picker">찾아보기</string>
-    <string name="reset_scene_prompt">화면이 기본 레이아웃으로 재설정됩니다.</string>
+    <string name="reset_scene_prompt">화면이 기본 레이아웃으로 다시 설정됩니다.</string>
     <string name="preferences_title">런처 설정</string>
     <string name="preferences_general_title">추가 설정</string>
     <string name="pref_keep_in_memory_title">메모리에 MIUI 잠금</string>
@@ -390,13 +390,13 @@
     <string name="announce_for_unchecked">%1$s개, 체크해제됨</string>
     <string name="backup_fail">런처 백업 실패</string>
     <string name="icon_reorganize_channel">아이콘 정렬</string>
-    <string name="notification_reset_description">%1$s%1$s를 사용하여 런처를 %2$s 상태로 재설정할 수 있습니다.</string>
+    <string name="notification_reset_description">%1$s%1$s를 사용하여 런처를 %2$s 상태로 다시 설정할 수 있습니다.</string>
     <string name="notification_reset_duration">두시간 동안,</string>
     <string name="notification_reset_title">자동 정리 완료</string>
     <string name="quick_app">빠른 앱</string>
     <string name="refresh">새로고침</string>
-    <string name="reset_fail">재설정 실패</string>
-    <string name="reset_title">재설정</string>
+    <string name="reset_fail">다시 설정 실패</string>
+    <string name="reset_title">다시 설정</string>
     <string name="reset_description_first_time">2시간 이내에는 %1$s 상태로 복원할 수 있습니다.</string>
     <string name="reset_description_others">%1$s 상태로 복원할 수 있습니다.</string>
     <string name="default_folder_title_services">서비스</string>
@@ -502,7 +502,7 @@
     <string name="all_app_category_shopping">쇼핑</string>
     <string name="all_app_category_tools">도구</string>
     <string name="all_apps_setting_min_category_limit">적어도 1개의 카테고리를 선택하세요.</string>
-    <string name="cate_order_reset">재설정</string>
+    <string name="cate_order_reset">다시 설정</string>
     <string name="category_already_exists">이 카테고리는 이미 존재합니다.</string>
     <string name="category_cannot_empty">카텍고리를 먼저 입력하세요.</string>
     <string name="category_choose_no_app_select_tip">모든 카테고리는 적어도 1개의 앱이 포함되어야 합니다.</string>

@@ -13,7 +13,7 @@
     <string name="about_app_name">Mi 영상 통화</string>
     <string name="about_livetalk">정보</string>
     <string name="about_phone_number">전화번호</string>
-    <string name="about_sign_on_hint">이 번호는 이미 샤오미 계정에 연결되어 있습니다, 암호를 입력해주세요.</string>
+    <string name="about_sign_on_hint">이 번호는 이미 샤오미 계정에 연결되어 있습니다, 비밀번호를 입력해주세요.</string>
     <string name="about_text">Mi 영상통화</string>
     <string name="about_text_seperator">|</string>
     <string name="accept">수락</string>
@@ -25,8 +25,8 @@
     <string name="activate_failed_no_voip_id">활성화 실패, 다시 로그인해주세요.</string>
     <string name="activating">활성화중</string>
     <string name="active_call_symbol">(active call)%s</string>
-    <string name="active_phone_fail_toast">"SIM카드를 활성화할수 없습니다."</string>
-    <string name="active_phone_sim_absent">SIM카드를 넣어주세요.</string>
+    <string name="active_phone_fail_toast">"SIM 카드를 활성화할수 없습니다."</string>
+    <string name="active_phone_sim_absent">SIM 카드를 넣어주세요.</string>
     <string name="active_phone_success_nochoice">SIM 카드 활성화 됨</string>
     <string name="active_phone_success_toast">SIM 카드 %1$s 활성화 됨</string>
     <string name="add_black_list_tip">"수신거부 후에는 차단연락처로부터 통화나 메시지를 받지 않습니다."</string>
@@ -360,7 +360,7 @@
     <string name="hungup">Hung Up</string>
     <string name="i_miss_you">MissU</string>
     <string name="iamge_view_delete_tip">사진을 삭제하시겠습니까?</string>
-    <string name="illegal_password">정확한 암호를 설정해주세요.</string>
+    <string name="illegal_password">정확한 비밀번호를 설정해주세요.</string>
     <string name="illegal_vuid">정품인증 실패, 인증코드가 만료되었습니다, 인증코드를 다시 받으세요.</string>
     <string name="image_desc">설명:%s</string>
     <string name="image_view_delete_negetive">취소</string>
@@ -505,7 +505,7 @@
     <string name="other_pause_video">다른 사용자가 화상 통화를 일시 중지</string>
     <string name="password_hint">비밀번호 입력</string>
     <string name="password_rules_msg">(8-16자리. 숫자, 기호, 문자 중 적어도 두 개이상 포함)</string>
-    <string name="password_rules_msg_notification">"계정의 보안을 위해 암호를 설정하세요"</string>
+    <string name="password_rules_msg_notification">"계정의 보안을 위해 비밀번호를 설정하세요"</string>
     <string name="permission_not_available">권한을 사용할 수 없습니다, 클릭하여 수정</string>
     <string name="permission_tips_caesura">、</string>
     <string name="permission_tips_camera">카메라</string>
@@ -634,7 +634,7 @@
     <string name="resend_image">이미지 전송 실패, 다시 보낼까요?</string>
     <string name="resend_message">메시지 전송 실패, 다시 보낼까요?</string>
     <string name="resend_verify_code">인증코드 다시보내기</string>
-    <string name="reset_password">암호 재설정</string>
+    <string name="reset_password">비밀번호 다시 설정</string>
     <string name="rotate">회전</string>
     <string name="safety_warning">안전 수칙</string>
     <string name="save">다운로드</string>
@@ -685,7 +685,7 @@
     <string name="set_avatar_msg">전화수신시 미리보기입니다.</string>
     <string name="set_avatar_succeed">프로필 사진 설정 완료</string>
     <string name="set_avatar_tip">프로필 사진 설정</string>
-    <string name="set_password">암호 설정</string>
+    <string name="set_password">비밀번호 설정</string>
     <string name="set_phone_number">전화번호 설정</string>
     <string name="setting_avatar">프로필 사진 설정</string>
     <string name="setting_barrage">사격</string>
@@ -695,9 +695,9 @@
     <string name="setting_enabled_tips">켜기</string>
     <string name="setting_face_beauty">얼굴 보정</string>
     <string name="setting_mobile_call">모바일 통화 설정</string>
-    <string name="setting_password">암호 설정</string>
-    <string name="setting_password_failed">암호 설정 실패, 네트워크를 확인해주세요.</string>
-    <string name="setting_password_succeed">암호설정 완료</string>
+    <string name="setting_password">비밀번호 설정</string>
+    <string name="setting_password_failed">비밀번호 설정 실패, 네트워크를 확인해주세요.</string>
+    <string name="setting_password_succeed">비밀번호설정 완료</string>
     <string name="setting_privacy">개인 정보 보호 설정</string>
     <string name="setting_save_image_auto">앨범에 자동으로 사진 저장</string>
     <string name="setting_stranger_call">모르는 번호 차단</string>
@@ -719,10 +719,10 @@
     <string name="sign_on_failed_not_bind">"로그인 불가, 전화를 확인하세요"</string>
     <string name="sign_on_failed_server">서버 에러, 로그인 실패</string>
     <string name="sign_on_failed_system">시스템 계정 로그인 실패</string>
-    <string name="sign_on_failed_wrong">잘못된 사용자명 또는 암호입니다.</string>
+    <string name="sign_on_failed_wrong">잘못된 사용자명 또는 비밀번호입니다.</string>
     <string name="sign_on_finish">마지막에 로그인</string>
     <string name="sign_on_loading">로딩중 로그인</string>
-    <string name="sign_on_password_hint">암호 입력</string>
+    <string name="sign_on_password_hint">비밀번호 입력</string>
     <string name="signin_copy">개인정보 보호정책과 서비스 약관을 읽고 동의하였습니다.</string>
     <string name="signup_account">계정 가입</string>
     <string name="signup_with_phone_number">이 번호는 %s 샤오미 계정에 등록되어 있습니다. 로그인하시겠습니까?</string>

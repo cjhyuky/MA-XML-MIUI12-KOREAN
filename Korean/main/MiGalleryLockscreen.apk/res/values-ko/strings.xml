@@ -158,7 +158,7 @@
     <string name="detail_share_qq">큐큐</string>
     <string name="detail_share_qzone">큐존</string>
     <string name="detail_share_wechat">WeChat</string>
-    <string name="detail_share_weibo">웨이보</string>
+    <string name="detail_share_weibo">Weibo</string>
     <string name="detail_toast_deny_apply">적용할 수 없습니다.</string>
     <string name="detail_toast_deny_dislike">삭제할 수 없습니다.</string>
     <string name="detail_toast_deny_favor">즐겨찾기에 추가할 수 없습니다..</string>
@@ -187,7 +187,7 @@
     <string name="idbct_opt_high_def_desc_text">항상 고화질 사진 다운로드</string>
     <string name="idbct_opt_high_def_main_text">고화질</string>
     <string name="idbct_title">네트워크 유형</string>
-    <string name="isornot_your_mi_account">귀하의 Mi계정입니까?</string>
+    <string name="isornot_your_mi_account">귀하의 Mi 계정입니까?</string>
     <string name="later">끄지 않기</string>
     <string name="launch_bg_permission_exception">보안의 백그라운드에서 실행하는 동안 슬라이드형 배경화면이 팝업 창을 표시하도록 허용</string>
     <string name="like">즐겨찾기</string>
@@ -298,7 +298,7 @@
     <string name="passport_privacy_policy">개인 정보 보호 정책</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
     <string name="passport_send_too_many_sms">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
-    <string name="passport_set_password">암호 설정</string>
+    <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_sign_in">로그인</string>
     <string name="passport_sign_in_or_sign_up">로그인 / 계정 만들기</string>
     <string name="passport_sms_phone_intro">%1$s에 인증 코드를 이미 보냈습니다.</string>
@@ -326,7 +326,7 @@
     <string name="prv_end">볼 항목이 더 이상 없습니다.</string>
     <string name="prv_loading">잠시만 기다려주세요.</string>
     <string name="prv_nodata">데이터 없음</string>
-    <string name="psw_hint">암호</string>
+    <string name="psw_hint">비밀번호</string>
     <string name="psw_sign_in">비밀번호를 사용하여 로그인하세요.</string>
     <string name="pull_to_refresh_pull_down_label">놓아서 새로고침</string>
     <string name="pull_to_refresh_pull_up_label">위로 밀어 새로고침</string>

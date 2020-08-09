@@ -46,7 +46,7 @@
     <string name="menu_copy_text">클립보드에 복사</string>
     <string name="menu_call_ip_number">IP 전화 걸기</string>
     <string name="toast_text_copied">텍스트 복사됨</string>
-    <string name="confirm_to_send_to_desktop">홈 화면에 %s항목을 배치하겠습니까?</string>
+    <string name="confirm_to_send_to_desktop">홈 화면에 %s항목을 배치하시겠습니까?</string>
     <string name="sending_shortcut">전송 중...</string>
     <string name="send_shortcut_failed">전송하지 못했습니다.</string>
     <string name="send_shortcut_success">홈 화면에 배치됨</string>

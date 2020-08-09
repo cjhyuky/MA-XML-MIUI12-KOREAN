@@ -670,8 +670,8 @@
     <string name="miuishare_account_login_cancel">취소</string>
     <string name="miuishare_account_login_confirmation">Mi 계정으로 로그인A</string>
     <string name="miuishare_account_login_ok">로그인</string>
-    <string name="miuishare_account_need_activate">웨이보에 공유하려면 Mi 계정과 연결된 웨이보 계정이 필요합니다. 계속하려면 Mi 계정을 활성화하세요.</string>
-    <string name="miuishare_account_need_login">웨이보에 공유하려면 Mi 계정과 연결된 웨이보 계정이 필요합니다. 계속하려면 Mi 계정으로 로그인하세요.</string>
+    <string name="miuishare_account_need_activate">Weibo에 공유하려면 Mi 계정과 연결된 Weibo 계정이 필요합니다. 계속하려면 Mi 계정을 활성화하세요.</string>
+    <string name="miuishare_account_need_login">Weibo에 공유하려면 Mi 계정과 연결된 Weibo 계정이 필요합니다. 계속하려면 Mi 계정으로 로그인하세요.</string>
     <string name="miuishare_app_name">MIUI 공유</string>
     <string name="miuishare_mini_program_title">사용자에게 맞는 배경화면을 찾았습니다!</string>
     <string name="miuishare_no_network">"네트워크 연결 실패."</string>
@@ -685,7 +685,7 @@
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
     <string name="miuishare_wechat_timeline_title">WeChat 모멘트</string>
-    <string name="miuishare_weibo_title">웨이보</string>
+    <string name="miuishare_weibo_title">Weibo</string>
     <string name="online_precust_hatsune">핫수네</string>
     <string name="online_precust_museum">브리티시 박물관</string>
     <string name="pref_privacy_policy">개인정보 보호정책</string>
@@ -827,7 +827,7 @@
     <string name="trial_get_failed_tip">테마를 다운로드하려면 동영상 재생을 멈추세요.</string>
     <string name="trial_get_success_tip">"축하합니다! 3일 무료 평가판을 사용하실 수 있습니다."</string>
     <string name="trial_now">지금 써보기</string>
-    <string name="try_5_min">5분동안 써보기</string>
+    <string name="try_5_min">5분 동안 써보기</string>
     <string name="video_ad_click">바로 연결</string>
     <string name="video_ad_try_for_free">무료 평가판</string>
     <string name="video_ad_uncomplete_tip">테마를 다운로드하려면 동영상 재생을 멈추세요.</string>

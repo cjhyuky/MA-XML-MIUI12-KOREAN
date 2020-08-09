@@ -98,7 +98,7 @@
     <string name="google_settings_category_title">Google 검색</string>
     <string name="device_settings_category_title">바로가기 삭제</string>
     <string name="system_search_category_title">전화</string>
-    <string name="search_sources_summary">휴대폰에서 검색할 항목을 선택하세요.</string>
+    <string name="search_sources_summary">휴대전화에서 검색할 항목을 선택하세요.</string>
     <string name="clear_shortcuts">바로가기 삭제</string>
     <string name="clear_shortcuts_summary">최근에 검색한 모든 바로가기 삭제</string>
     <string name="clear_shortcuts_prompt">"최근에 검색한 모든 바로가기와 검색기록을 삭제하기 원하십니까?

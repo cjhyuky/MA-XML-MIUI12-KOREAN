@@ -57,7 +57,7 @@
     <string name="app_detail_no_comments">평가가 없습니다.</string>
     <string name="app_detail_title_info">요약</string>
     <string name="app_detail_title_recomment">관련된 앱</string>
-    <string name="app_exit_tip">종료하려면 뒤로 버튼을 다시 탭 하세요.</string>
+    <string name="app_exit_tip">종료하려면 뒤로가기 버튼을 다시 탭하세요.</string>
     <string name="app_frequency_little">드물게</string>
     <string name="app_frequency_more">자주</string>
     <string name="app_frequency_normal">가끔씩</string>
@@ -121,7 +121,7 @@
     <string name="circlepad_slide_tips">터치 휠을 사용하여 볼륨을 조절하세요.</string>
     <string name="click_to_expend">펼치기</string>
     <string name="click_to_login">로그인</string>
-    <string name="click_to_retry">다시 시도하려면 탭 하세요.</string>
+    <string name="click_to_retry">다시 시도하려면 탭하세요.</string>
     <string name="click_to_shrink">최소화</string>
     <string name="close">꺼짐</string>
     <string name="comment_bad">그저 그래요</string>
@@ -131,7 +131,7 @@
     <string name="common_use">자주 사용됨</string>
     <string name="confirm">확인</string>
     <string name="confirm_on">네</string>
-    <string name="connect_to_retry">네트워크에 연결할 수 없습니다. 연결을 확인하고 다시 시도 하세요.</string>
+    <string name="connect_to_retry">네트워크에 연결할 수 없습니다. 연결을 확인하고 다시 시도하세요.</string>
     <string name="connected">연결됨</string>
     <string name="continue_to_add_other_rc">더 많은 기기 추가</string>
     <string name="control_vol_by_cellphone">기기를 사용하여 음량 조절</string>
@@ -155,7 +155,7 @@
     <string name="delete">삭제</string>
     <string name="delete_confirm">기기를 삭제하시겠습니까?</string>
     <string name="delete_desc">\"%s\"를 Mi 리모트로 제어할 수 없습니다.</string>
-    <string name="delete_device_frame">%1$s 기기를 삭제하겠습니까?</string>
+    <string name="delete_device_frame">%1$s 기기를 삭제하시겠습니까?</string>
     <string name="delete_frame">\"%1$s\" 기기를 삭제하시겠습니까?</string>
     <string name="device_bluetoothi">블루투스 리모컨</string>
     <string name="device_brand">브랜드</string>
@@ -468,7 +468,7 @@
     <string name="my_setting">설정</string>
     <string name="nearby">근처</string>
     <string name="network_diagnosis">네트워크 테스트</string>
-    <string name="network_no_connection">네트워크에 연결할 수 없습니다. 네트워크 연결을 확인하고 다시 시도 하세요.</string>
+    <string name="network_no_connection">네트워크에 연결할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하세요.</string>
     <string name="network_ok">탐지된 문제가 없음</string>
     <string name="network_unstable">· 안정적으로 연결했습니다.</string>
     <string name="next_remote">다음 제어</string>
@@ -524,7 +524,7 @@
     <string name="power">전원</string>
     <string name="power_off">꺼짐</string>
     <string name="power_on">켜짐</string>
-    <string name="press_to_continue_match">계속하려면 탭 하세요.</string>
+    <string name="press_to_continue_match">계속하려면 탭하세요.</string>
     <string name="press_to_match">탭하여 연결</string>
     <string name="prev_remote">이전 제어</string>
     <string name="privacy_content">샤오미의 <a href="http://www.miui.com/res/doc/privacy/en.html">개인 정보 보호 정책</a>과 <a href="http://www.miui.com/res/doc/eula/en.html">이용 약관</a>을 Mi 리모트 사용 전에 확인해주세요. 인터넷 접속과 위치 서비스 접근은 앱의 정상적인 작동을 위해 요구됩니다.</string>
@@ -558,7 +558,7 @@
     <string name="rescan">다시 스캔</string>
     <string name="reset">초기화</string>
     <string name="respond">작업</string>
-    <string name="retry_for_more">세부 정보를 보려면 탭 하세요.</string>
+    <string name="retry_for_more">세부 정보를 보려면 탭하세요.</string>
     <string name="room_guide_tips">"잠금 화면에서 직접 여러 기기를 제어."</string>
     <string name="save">저장</string>
     <string name="save_share_tips">앱이 괜찮습니까? 평가하실 수 있습니다.</string>
@@ -620,7 +620,7 @@
     <string name="share_friends_not_find_text">결과를 찾지 못했음</string>
     <string name="share_friends_search_hint_text">친구 검색</string>
     <string name="share_friends_title">Mi 토크를 이용하여 공유</string>
-    <string name="share_from_others">누군가 공유한 기기가 있습니다. 추가하려면 탭 하세요.</string>
+    <string name="share_from_others">누군가 공유한 기기가 있습니다. 추가하려면 탭하세요.</string>
     <string name="share_level_private">같은 Wi-Fi에 연결되어있는 사람들</string>
     <string name="share_level_private_desc">Wi-Fi 네트워크: %1$s</string>
     <string name="share_level_private_error">Wi-Fi에 연결되어있지 않음</string>
@@ -656,7 +656,7 @@
     <string name="sleep">수면 모드</string>
     <string name="somthing_wrong">문제가 있습니까?</string>
     <string name="sorry">오류</string>
-    <string name="speech_init_failed">Ifly 음성 엔진을 설치하려면 탭 하세요.</string>
+    <string name="speech_init_failed">Ifly 음성 엔진을 설치하려면 탭하세요.</string>
     <string name="speed_up_channel_switch">일부 셋톱박스의 채널 전환을 빠르게 할 수 있습니다.</string>
     <string name="splash_add_device_des">기기를 추가하고 시작</string>
     <string name="splash_desc">모든 것을 터치 한 번으로 제어합니다.</string>
@@ -668,7 +668,7 @@
     <string name="stop_diagnosis">중지</string>
     <string name="study_room">공부방</string>
     <string name="submit">제출</string>
-    <string name="submit_fail_retry">기기 정보를 제출 할 수 없습니다. 1, 2분 정도 기다리고 다시 시도 하세요.</string>
+    <string name="submit_fail_retry">기기 정보를 제출 할 수 없습니다. 1, 2분 정도 기다리고 다시 시도하세요.</string>
     <string name="succeed_content">%3$s %4$s를 성공적으로 추가했습니다.</string>
     <string name="succeed_finish">완료</string>
     <string name="succeed_title">연결됨</string>
@@ -832,8 +832,8 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="epg_booked_program_time_left">예약됨 (%1$s 안에 시작)</string>
     <string name="epg_change_channel_casting">채널 재생 (현재 재생중)</string>
     <string name="passport_notification_title">%1$s 로그인 오류</string>
-    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
-    <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 재설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
     <string name="video_count">%d개의 동영상</string>
     <string name="passport_vcode_sms_send_prompt">%s(으)로 인증 코드 전송</string>
     <string name="passport_active_email_visit">%s의 수신함을 확인하세요.</string>
@@ -904,7 +904,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_error_empty_pwd">비밀번호 입력</string>
     <string name="passport_input_password_hint">비밀번호 입력</string>
     <string name="passport_quick_login_title">비밀번호 입력</string>
-    <string name="passport_reset_password_title">비밀번호 재설정</string>
+    <string name="passport_reset_password_title">비밀번호 다시 설정</string>
     <string name="passport_forget_password">비밀번호 찾기</string>
     <string name="passport_quick_login_dialog_title">비밀번호 확인</string>
     <string name="passport_checking_account">비밀번호 확인 중…</string>
@@ -912,7 +912,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
     <string name="passport_use_generated_pwd_title">비밀번호를 기억해주세요!</string>
     <string name="passport_pwd_generate_failure">비밀번호를 생성할 수 없음</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 재설정하시려면 account.mi.com을 방문하세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하시려면 account.mi.com을 방문하세요.</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
     <string name="passport_registered_phone_user_ID">사용자 ID: %s</string>
     <string name="passport_user_agreement">사용자 계약</string>
@@ -961,7 +961,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_error_invalid_phone_num">잘못된 전화번호</string>
     <string name="passport_error_phone_error">잘못된 전화번호</string>
-    <string name="passport_reset_fail_title">재설정하지 못했습니다.</string>
+    <string name="passport_reset_fail_title">다시 설정하지 못했습니다.</string>
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_uplink_reg">전화번호 사용</string>
     <string name="passport_error_empty_phone_num">전화번호 입력</string>
@@ -1027,7 +1027,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="smarthome_share_manage">편집</string>
     <string name="smarthome_share_miliao">Mi 토크</string>
     <string name="smarthome_share_qzone">큐존</string>
-    <string name="smarthome_share_sinaweibo">웨이보</string>
+    <string name="smarthome_share_sinaweibo">Weibo</string>
     <string name="smarthome_share_wecaht">WeChat</string>
     <string name="smarthome_share_wxcircle">모멘트</string>
     <string name="switch_login"><u>계정 변경</u></string>
@@ -1078,7 +1078,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_continue">계속</string>
     <string name="passport_error_auth_fail">세션이 만료되었습니다. 다음에 다시 로그인해주세요.</string>
     <string name="passport_error_no_password_user">"아직 비밀번호를 설정하지 않았습니다. SMS를 이용하여 로그인해주세요. "</string>
-    <string name="passport_error_verify_activator_phone_message">SIM카드가 활성화되어 있고 장치가 네트워크에 연결되어 있는지 확인하세요.</string>
+    <string name="passport_error_verify_activator_phone_message">SIM 카드가 활성화되어 있고 장치가 네트워크에 연결되어 있는지 확인하세요.</string>
     <string name="passport_error_verify_activator_phone_title">"전화 번호를 확인할 수 없습니다."</string>
     <string name="passport_get_innetdate_agree">확인</string>
     <string name="passport_get_innetdate_disagree">아니요</string>
@@ -1103,7 +1103,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_registered_phone_num">번호: %s</string>
     <string name="passport_select_the_login_account">로그인을 하기위해 계정을 선택해주세요.</string>
     <string name="passport_select_the_recycle_phone_login">계정 선택</string>
-    <string name="passport_select_the_register_phone">계정을 생성하기 위해 휴대폰 번호를 선택해주세요.</string>
+    <string name="passport_select_the_register_phone">계정을 생성하기 위해 휴대전화 번호를 선택해주세요.</string>
     <string name="passport_send_vcode_failed">"코드를 보낼 수 없습니다."</string>
     <string name="passport_sending_vcode">코드를 보내는 중…</string>
     <string name="passport_set">설정</string>
@@ -1124,7 +1124,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="receive_share_titel">%1$s 님이 리모컨을 공유했습니다.</string>
     <string name="submit_screen_shot_show">스크린샷 공유</string>
     <string name="voice_control">음성 제어</string>
-    <string name="voice_control_ir_tips">"장치가 응답하지 않으면, 휴대폰에 다시한 번 해보세요."</string>
+    <string name="voice_control_ir_tips">"장치가 응답하지 않으면, 휴대전화에 다시한 번 해보세요."</string>
     <string name="voice_tips_long_pressed">음성 컨트롤을 사용하려면 마이크를 가볍게 칩니다.</string>
     <string name="voice_tips_subtitle">"사용자가 말할 수 있는 목록입니다."</string>
     <string name="voice_tips_title">휴대전화를 사용자에게 향하게 하세요.</string>

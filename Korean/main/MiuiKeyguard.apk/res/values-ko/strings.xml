@@ -18,7 +18,7 @@
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>기기에서 &lt;font color=#a5220e>데이터 지우기&lt;/font>를 해야 합니다. 사진, 연락처, 모든 개인 정보가 지워진 후 잠금해제 비밀번호를 재설정하실 수 있습니다.;</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>기기에서 &lt;font color=#a5220e>데이터 지우기&lt;/font>를 해야 합니다. 사진, 연락처, 모든 개인 정보가 지워진 후 잠금해제 비밀번호를 다시 설정하실 수 있습니다.;</Data></string>
     <string name="phone_locked_foget_password_mehod_back">뒤로</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>

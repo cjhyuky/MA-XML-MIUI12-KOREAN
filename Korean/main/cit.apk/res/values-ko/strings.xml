@@ -260,7 +260,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_tool_nfc_st_confreq">빈도:</string>
     <string name="cit_tool_nfc_st_run">시작</string>
     <string name="cit_tool_nfc_st_stop">중지</string>
-    <string name="cit_tool_wifi">와이파이 테스트 도구</string>
+    <string name="cit_tool_wifi">Wi-Fi 테스트 도구</string>
     <string name="cit_tool_wifi_chain_1">1</string>
     <string name="cit_tool_wifi_chain_1_2">1+2</string>
     <string name="cit_tool_wifi_chain_2">2</string>
