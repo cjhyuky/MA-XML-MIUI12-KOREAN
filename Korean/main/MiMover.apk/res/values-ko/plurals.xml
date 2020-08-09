@@ -1,5 +1,7 @@
-    <plurals name = "abbrev_a_hour_ago">
-         <item quantity="other">1시간 전</item>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1시간 전</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">30분 전</item>
@@ -88,3 +90,4 @@
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d분</item>
     </plurals>
+</resources>
