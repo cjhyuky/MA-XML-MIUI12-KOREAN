@@ -118,7 +118,7 @@
     <string name="qs_control_big_tile_state_closed">꺼짐</string>
     <string name="qs_control_big_tile_state_closing">끄는중…</string>
     <string name="qs_control_big_tile_state_connected">연결됨</string>
-    <string name="qs_control_big_tile_state_connecting">연결중…</string>
+    <string name="qs_control_big_tile_state_connecting">연결 중…</string>
     <string name="qs_control_big_tile_state_disconnected">연결해제됨</string>
     <string name="qs_control_big_tile_state_disconnecting">연결해제중…</string>
     <string name="qs_control_big_tile_state_opened">켜짐</string>
@@ -231,7 +231,7 @@
     <string name="accessibility_data_two_bars">데이터 신호 2칸</string>
     <string name="accessibility_desc_close">닫기</string>
     <string name="accessibility_desc_connected">연결됨</string>
-    <string name="accessibility_desc_connecting">연결중...</string>
+    <string name="accessibility_desc_connecting">연결 중...</string>
     <string name="accessibility_desc_lock_screen">잠금 화면</string>
     <string name="accessibility_desc_notification_icon">%1$s개 알림 : %2$s</string>
     <string name="accessibility_desc_notification_shade">드롭 다운 메뉴</string>
@@ -308,7 +308,7 @@
     <string name="accessibility_quick_settings_bluetooth_changed_off">블루투스 꺼짐</string>
     <string name="accessibility_quick_settings_bluetooth_changed_on">블루투스 켜짐</string>
     <string name="accessibility_quick_settings_bluetooth_connected">블루투스 연결됨.</string>
-    <string name="accessibility_quick_settings_bluetooth_connecting">블루투스 연결중.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">블루투스 연결 중.</string>
     <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 %d 퍼센트.</string>
     <string name="accessibility_quick_settings_bluetooth_off">블루투스 꺼짐.</string>
     <string name="accessibility_quick_settings_bluetooth_on">블루투스 켜짐.</string>
@@ -502,7 +502,7 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (통화 또는 미디어 제외) %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (통화 또는 미디어 제외) | Battery %1$s %2$s</string>
     <string name="bluetooth_connected_no_map">연결됨 (메시지 접근 권한 없음) %1$s</string>
-    <string name="bluetooth_connecting">연결중…</string>
+    <string name="bluetooth_connecting">연결 중…</string>
     <string name="bluetooth_disable_absolute_volume">절대 볼륨 비활성화</string>
     <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수 없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결 해제됨</string>
@@ -514,9 +514,9 @@
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기로 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결 중…</string>
     <string name="bluetooth_hid_profile_summary_connected">입력기기로 연결됨</string>
     <string name="bluetooth_hid_profile_summary_use_for">입력기기로 사용</string>
     <string name="bluetooth_map_profile_summary_connected">MAP에 접속됨</string>
@@ -1946,7 +1946,7 @@
     <string name="wapi_cert_manage_error">WAPI 인증서를 설정하지 못했습니다.</string>
     <string name="wapi_cert_manage_summary">WAPI 인증서 추가 또는 삭제</string>
     <string name="wapi_cert_manage_title">WAPI 인증서 관리</string>
-    <string name="wapi_cert_roaming">연결중…</string>
+    <string name="wapi_cert_roaming">연결 중…</string>
     <string name="wapi_cert_select">WAPI 인증서</string>
     <string name="wapi_no">아니요</string>
     <string name="wapi_no_vaild_cert">사용가능한 인증서가 없습니다. 설치하시겠습니까?</string>
@@ -2065,7 +2065,7 @@
     <string name="media_transfer_this_device_name">이 기기</string>
     <string name="mr_button_content_description">캐스트 버튼</string>
     <string name="mr_cast_button_connected">캐스트 버튼. 연결됨</string>
-    <string name="mr_cast_button_connecting">캐스트 버튼. 연결중</string>
+    <string name="mr_cast_button_connecting">캐스트 버튼. 연결 중</string>
     <string name="mr_cast_button_disconnected">캐스트 버튼. 연결 끊김</string>
     <string name="mr_cast_dialog_title_view_placeholder">사용가능한 정보 없음</string>
     <string name="mr_chooser_searching">기기를 찾는중</string>
@@ -2092,7 +2092,7 @@
     <string name="osu_completing_sign_up">가입 완료중…</string>
     <string name="osu_connect_failed">연결 실패</string>
     <string name="osu_opening_provider">%1$s 여는중</string>
-    <string name="osu_sign_up_complete">가입 완료. 연결중…</string>
+    <string name="osu_sign_up_complete">가입 완료. 연결 중…</string>
     <string name="osu_sign_up_failed">가입 실패. 다시 시도하려면 탭하세요.</string>
     <string name="power_discharge_by_only_short">%1$s까지</string>
     <string name="power_suggestion_extend_battery">%1$s 이후 배터리 수명 연장</string>

@@ -479,7 +479,7 @@
     <string name="loading">잠깐만 기다려주세요…</string>
     <string name="loading_fail_message_no_network">"네트워크에 연결할 수 없습니다. 다시 시도하려면 여기를 누르세요."</string>
     <string name="loading_fail_refresh">새로고침</string>
-    <string name="loading_message">앱 로드중…</string>
+    <string name="loading_message">앱 불러오는 중…</string>
     <string name="loading_slogan">앱을 설치하지 않고 사용</string>
     <string name="loading_tips">설정이 성공적으로 다운로드되었습니다. 적용하려면 계산기를 다시 시작하세요.</string>
     <string name="loan_basic_point">기본 포인트</string>

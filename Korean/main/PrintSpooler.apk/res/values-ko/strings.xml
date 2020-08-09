@@ -78,7 +78,7 @@
     <string name="button_ok">확인</string>
     <string name="cancel_print">작업 취소</string>
     <string name="connectio_delay_content">프린터에서 연결을 확인해야 할 수도 있습니다.</string>
-    <string name="connectio_help_title">프린터 연결중</string>
+    <string name="connectio_help_title">프린터 연결 중</string>
     <string name="delete_saved_printer_content">선택한 프린터를 지금 삭제하시겠습니까?</string>
     <string name="favorite_printer">최근 사용한 프린터</string>
     <string name="found_print">사용 가능한 프린터</string>

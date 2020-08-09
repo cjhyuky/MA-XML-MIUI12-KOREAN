@@ -20,7 +20,7 @@
     <string name="close">닫기</string>
     <string name="important_ration_info">중요한 정량적 정보</string>
     <string name="no_important_ration_info">중요하지 않은 정량적 정보</string>
-    <string name="qr_load">로드 중... 잠시만 기다려주세요...</string>
+    <string name="qr_load">불러오는 중... 잠시만 기다려주세요...</string>
     <string name="qualitative_info">정성 정보</string>
     <string name="qualitative_title">일관성 정보</string>
     <string name="ration_title">ID 클래스 정보</string>

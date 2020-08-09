@@ -129,7 +129,7 @@
     <string name="confirm">확인</string>
     <string name="confirm_exit">변경 내용이 저장되지 않았습니다. 변경 사항을 저장하시겠습니까?</string>
     <string name="connect_now">연결</string>
-    <string name="connecting_apk">연결중...</string>
+    <string name="connecting_apk">연결 중...</string>
     <string name="create_playlist">재생 목록 만들기</string>
     <string name="create_playlist_failure">재생 목록은 만들 수 없습니다.</string>
     <string name="current_album">현재 앨범</string>
@@ -246,7 +246,7 @@
     <string name="download_traffic_dialog_msg_without_data">모바일 데이터를 사용하여 노래를 받으려고 합니다. 그래도 다운로드하시겠습니까?</string>
     <string name="download_traffic_dialog_negative_button">Wi-Fi를 기다리는중</string>
     <string name="download_traffic_dialog_position_button">아직 다운로드 중</string>
-    <string name="download_traffic_dialog_position_button_serious">아직 다운로드중</string>
+    <string name="download_traffic_dialog_position_button_serious">아직 다운로드 중</string>
     <string name="download_traffic_dialog_title">데이터 사용 경고</string>
     <string name="download_traffic_dialog_title_beyond">데이터 사용량 초과</string>
     <string name="download_traffic_dialog_title_serious">남은 모바일 데이터가 너무 적습니다.</string>
@@ -256,7 +256,7 @@
     <string name="download_while_playing_summary">온라인에서 스트리밍한 음악 자동으로 다운로드</string>
     <string name="download_while_playing_title">스트리밍하는 동안 다운로드</string>
     <string name="downloaded_empty">비어있음</string>
-    <string name="downloading_apk">다운로드중, 알림 바에서 다운로드 상태를 확인하세요.</string>
+    <string name="downloading_apk">다운로드 중, 알림 바에서 다운로드 상태를 확인하세요.</string>
     <string name="downloading_empty">비어 있음</string>
     <string name="downloading_pause_apk">중지됨, 알림 바에서 다운로드를 제개하세요.</string>
     <string name="due_date">유효기간 : %s</string>
@@ -503,7 +503,7 @@
     <string name="nowplaying_menu_item_delete">삭제</string>
     <string name="ok">확인</string>
     <string name="online_apk_download_error_no_enough_space">저장 공간 부족으로 다운로드할 수 없습니다.</string>
-    <string name="online_apk_downloading">다운로드중…%d%%</string>
+    <string name="online_apk_downloading">다운로드 중…%d%%</string>
     <string name="online_apk_install_alert_confirm">다운로드</string>
     <string name="online_apk_install_alert_message">Yandex.Music 플러그인을 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
     <string name="online_apk_install_alert_note">이 서비스는 Yandex.Music에서 제공합니다.</string>
@@ -568,9 +568,9 @@
     <string name="pro_member">프로 회원</string>
     <string name="project_device">Mi 폰</string>
     <string name="prompt_grant_write_settings_permission">설정 권한 요청</string>
-    <string name="pulluprefreshrecyclerview_loading_error">로드 실패</string>
-    <string name="pulluprefreshrecyclerview_loading_finished">로드 성공</string>
-    <string name="pulluprefreshrecyclerview_loading_running">로드 중…</string>
+    <string name="pulluprefreshrecyclerview_loading_error">불러오기 실패</string>
+    <string name="pulluprefreshrecyclerview_loading_finished">불러오기 성공</string>
+    <string name="pulluprefreshrecyclerview_loading_running">불러오는 중…</string>
     <string name="queue_is_empty">재생 대기열이 비어 있습니다.</string>
     <string name="ready_to_play">다음곡</string>
     <string name="recently_played">최근 재생됨</string>

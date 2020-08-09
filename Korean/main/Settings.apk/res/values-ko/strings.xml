@@ -1016,9 +1016,9 @@
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기에 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기 사용</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결 중…</string>
     <string name="bluetooth_hid_profile_summary_connected">입력 장치에 연결됨</string>
     <string name="bluetooth_hid_profile_summary_use_for">입력에 사용</string>
     <string name="bluetooth_incoming_pairing_msg">출처:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 기기와 연결하시겠습니까?</string>
@@ -1576,7 +1576,7 @@
     <string name="confirm_reset_shortcut_manager_throttling_message">이 기능을 초기화하시겠습니까?</string>
     <string name="confirm_reset_shortcut_manager_throttling_title">이 기능을 초기화하시겠습니까?</string>
     <string name="connect_mode">연결 모드</string>
-    <string name="connect_soft_ap_label">새로운 기기에 연결중…</string>
+    <string name="connect_soft_ap_label">새로운 기기에 연결 중…</string>
     <string name="connect_to_internet">네트워크에 연결</string>
     <string name="connect_wifi">와이파이에 연결</string>
     <string name="connect_wifi_tip">네트워크에 연결할 수 없습니다. 와이파이에 연결하여 iCloud에서 항목을 가져옵니다.</string>
@@ -3643,7 +3643,7 @@
     <string name="miracast_enable_dhcp">HDCP 활성화</string>
     <string name="miracast_error_already_streaming">이미 다른 화면으로 스트리밍 중</string>
     <string name="miracast_error_cancelconnect">연결할 수 없습니다.</string>
-    <string name="miracast_error_connection_in_progress">연결중…</string>
+    <string name="miracast_error_connection_in_progress">연결 중…</string>
     <string name="miracast_menu_connect">스트리밍 시작</string>
     <string name="miracast_menu_disconnect">스트리밍 중단</string>
     <string name="miracast_menu_forget">디스플레이 정보 삭제</string>
@@ -3660,7 +3660,7 @@
     <string name="miracast_setup_save">저장</string>
     <string name="miracast_sink_busy">바쁨</string>
     <string name="miracast_sink_connected">연결됨</string>
-    <string name="miracast_sink_connecting">연결중…</string>
+    <string name="miracast_sink_connecting">연결 중…</string>
     <string name="miracast_sink_not_available">불가능</string>
     <string name="miracast_sink_ready_to_connect">연결 가능</string>
     <string name="miracast_wifi_off">미라캐스트를 사용하기 위해서 Wi-Fi를 실행하세요.</string>
@@ -4242,8 +4242,8 @@
     <string name="ok_rules">종료</string>
     <string name="okay">확인</string>
     <string name="old_sdk_deny_warning">이 앱은 최신 Android 권한 요구 사항과 호환되지 않습니다. 거부된 권한은 이 앱의 작동 방식에 영향을 줄 수 있습니다.</string>
-    <string name="old_soft_name">QR코드를 통해서 연결하세요.</string>
-    <string name="old_way">QR코드를 사용하여 연결할 수 있습니다. 탭하여 코드를 생성하세요.</string>
+    <string name="old_soft_name">QR 코드를 통해서 연결하세요.</string>
+    <string name="old_way">QR 코드를 사용하여 연결할 수 있습니다. 탭하여 코드를 생성하세요.</string>
     <string name="oldman_app_label">라이트 모드</string>
     <string name="oldman_installed_current_btn">기존 홈 화면 복구</string>
     <string name="oldman_installed_current_des">라이트 모드를 기본 홈 화면으로 설정했습니다. 아래 버튼을 눌러 기존 홈 화면으로 다시 전환하세요.</string>
@@ -4369,7 +4369,7 @@
     <string name="page_layout_page2_small_title">최소</string>
     <string name="page_layout_page2_title">미리보기</string>
     <string name="page_layout_small_title">최소</string>
-    <string name="page_loading">로드 중...</string>
+    <string name="page_loading">불러오는 중...</string>
     <string name="page_tab_title_summary">모두</string>
     <string name="page_tab_title_support">지원</string>
     <string name="palm_enabled">화면을 닫아서 끄기</string>
@@ -5550,7 +5550,7 @@
     <string name="settings_forbidden_message">이 설정 사용 금지됨</string>
     <string name="settings_label">설정</string>
     <string name="settings_label_launcher">설정</string>
-    <string name="settings_license_activity_loading">로드 중...</string>
+    <string name="settings_license_activity_loading">불러오는 중...</string>
     <string name="settings_license_activity_title">오픈소스 라이선스</string>
     <string name="settings_license_activity_unavailable">라이선스를 로드하는 동안 문제가 발생했습니다.</string>
     <string name="settings_manual_activity_title">메뉴얼</string>
@@ -5558,7 +5558,7 @@
     <string name="settings_notify_need_backup">미 클라우드에 데이터를 백업하세요.</string>
     <string name="settings_notify_new_version">업데이트가 있습니다. 자세한 사항을 보시려면 탭하세요.</string>
     <string name="settings_notify_phone_recycled">입력하신 핸드폰 번호가 재사용되었습니다. 다른 핸드폰 번호를 입력해주세요.</string>
-    <string name="settings_safetylegal_activity_loading">로드 중...</string>
+    <string name="settings_safetylegal_activity_loading">불러오는 중...</string>
     <string name="settings_safetylegal_activity_title">안전 정보</string>
     <string name="settings_safetylegal_activity_unreachable">데이터 서비스에 연결되어 있지 않습니다. 지금 정보를 보려면 인터넷에 연결된 컴퓨터에서 %s(으)로 이동하세요.</string>
     <string name="settings_safetylegal_title">안전 정보</string>
@@ -5878,7 +5878,7 @@
     <string name="start_vip_mode">VIP 모드 활성화</string>
     <string name="starting_android">기기를 시작하는 중입니다…</string>
     <string name="state_mounting">공유기 저장소에 접근하는 중…</string>
-    <string name="state_waiting">로드 중</string>
+    <string name="state_waiting">불러오는 중</string>
     <string name="status_awaiting_tap">태그를 탭하여 작성하세요...</string>
     <string name="status_awake_time">무중단 가동 시간</string>
     <string name="status_bar_and_notification_bar">드롭 다운 메뉴와 상태 표시줄</string>
@@ -6448,7 +6448,7 @@
     <string name="trans_install_guide_button_start">시작</string>
     <string name="trans_install_guide_page_title">Mi Mover를 이전 폰에 설치하세요.</string>
     <string name="trans_install_guide_scan_install_tip">Mi Mover를 다운로드받고 설치하시려면이전 폰에서 이 QR 코드를 스캔하세요.</string>
-    <string name="trans_install_guide_step1_content">\"Mi Mover\를 다운로드 받고 설치하기 위해 이전 폰에서 이 QR코드를 스캔하세요\".</string>
+    <string name="trans_install_guide_step1_content">\"Mi Mover\를 다운로드 받고 설치하기 위해 이전 폰에서 이 QR 코드를 스캔하세요\".</string>
     <string name="trans_install_guide_step1_title">스텝 1</string>
     <string name="trans_install_guide_step2_content">설치 완료 후, \"시작\" 버튼을 탭하세요.</string>
     <string name="trans_install_guide_step2_title">스텝 2</string>
@@ -6466,14 +6466,14 @@
     <string name="trans_intro_desc_9_method_2_title">2. 저희에게 이메일을 보내주세요.</string>
     <string name="trans_intro_desc_9_method_3_dec">Mi Mover QQ 그룹 : 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. QQ에서 이슈 레포트</string>
-    <string name="trans_intro_desc_10">새로운 기기에서 \"QR코드로 연결\"을 탭하시고 이전 기기의 QR코드를 스캔하세요.</string>
+    <string name="trans_intro_desc_10">새로운 기기에서 \"QR 코드로 연결\"을 탭하시고 이전 기기의 QR 코드를 스캔하세요.</string>
     <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
     <string name="trans_intro_desc_gms">호환성 문제로 인해 전송에 실패 할 확률이 높으므로 Mi무버는 Google앱에서 생성된 데이터 전송을 지원하지 않습니다.</string>
     <string name="trans_intro_desc_multiapp">Mi Mover는 파일 간의 충돌을 방지하기 위해 듀얼 앱 데이터를 전송하지 않습니다.</string>
     <string name="trans_intro_desc_multiuser">Mi Mover는 Second Space의 항목에 액세스할 수 없습니다. 첫 번째 공간으로 이동하여 Mi Mover를 실행합니다.</string>
     <string name="trans_intro_desc_new">\"수신\"을 누릅니다. QR 코드가 생성됩니다.</string>
     <string name="trans_intro_desc_old">\"전송\"을 누릅니다. 새 전화기의 QR 코드를 스캔하고 Mi Mover가 전송할 파일을 알아낼 때까지 기다린 후 \"전송\"을 누릅니다.</string>
-    <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR코드를 스캔해주세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요\".</string>
+    <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR 코드를 스캔해주세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요\".</string>
     <string name="trans_intro_desc_private">Mi Mover는 숨겨진 앨범의 사진이 암호화되어 있으므로 액세스할 수 없습니다. 이러한 사진을 Mi Cloud에서 새 장치로 복원할 수 있습니다.</string>
     <string name="trans_intro_question_1">%d. 아이폰에서 데이터 전송은 어떻게 하나요?</string>
     <string name="trans_intro_question_2">%d. 타 Android 기기들에서 데이터 전송을 어떻게 하나요?</string>
@@ -6507,11 +6507,11 @@
     <string name="trans_open_location_title">위치 서비스 켜기</string>
     <string name="trans_operate_func_one">방법 A</string>
     <string name="trans_operate_func_two">방법 B</string>
-    <string name="trans_operate_new_phone_tips">설정 &gt; 추가설정 &gt; Mi Mover 이동 후 [받는 사람]을 탭하고 QR코드를 생성하세요.</string>
+    <string name="trans_operate_new_phone_tips">설정 &gt; 추가설정 &gt; Mi Mover 이동 후 [받는 사람]을 탭하고 QR 코드를 생성하세요.</string>
     <string name="trans_operate_old_phone_tips1">1. 기존 장치에 Mi Mover 앱을 설치하세요 2. 응용 프로그램을 열고 시작을 탭하세요 3. 이전 장치로 QR 코드를 스캔하세요.</string>
     <string name="trans_operate_old_phone_tips2">설정 &gt; 추가설정 &gt; Mi Mover 이동 후, [보내는 사람]을 탭하세요.</string>
-    <string name="trans_operate_reconnect_new_tips">\"새로운 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다려주세요. 그리고 \"다시 연결\"을 눌러서 QR코드를 생성하세요.</string>
-    <string name="trans_operate_reconnect_old_tips">이전 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다려주세요. 그리고 \"다시 연결\"을 누르고 QR코드를 스캔하세요.</string>
+    <string name="trans_operate_reconnect_new_tips">\"새로운 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다려주세요. 그리고 \"다시 연결\"을 눌러서 QR 코드를 생성하세요.</string>
+    <string name="trans_operate_reconnect_old_tips">이전 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다려주세요. 그리고 \"다시 연결\"을 누르고 QR 코드를 스캔하세요.</string>
     <string name="trans_operate_tip_for_other_android">이전 폰에서 Mi Mover를 켜고, \"시작\"을 탭하고 QR 코드를 스캔하세요.</string>
     <string name="trans_pausing">멈추는중…</string>
     <string name="trans_please_waiting">잠시만 기다려주세요…</string>
@@ -6533,7 +6533,7 @@
     <string name="trans_restoring_no_items">정보를 얻는중…</string>
     <string name="trans_retry">다시 시도</string>
     <string name="trans_scan_invalid_qrcode">잘못된 QR 코드</string>
-    <string name="trans_scan_qr_code_tips">새로운 기기로 QR코드를 스캔하세요.</string>
+    <string name="trans_scan_qr_code_tips">새로운 기기로 QR 코드를 스캔하세요.</string>
     <string name="trans_security_tips_message">몇몇 앱은 Mi무버를 지원하지 않습니다.</string>
     <string name="trans_security_tips_title">Mi Mover 호환성</string>
     <string name="trans_select_data">보낼 항목을 선택하세요.</string>
@@ -6551,7 +6551,7 @@
     <string name="trans_sender_time_remained">%s 남음. Wi-Fi를 끄지 마세요. 기기들을 서로 가까이 두세요.</string>
     <string name="trans_sending_completed">송신 완료</string>
     <string name="trans_show_qr_code_label">이전 기기 연결</string>
-    <string name="trans_show_qr_code_tips">이전 기기로 QR코드를 스캔하세요.</string>
+    <string name="trans_show_qr_code_tips">이전 기기로 QR 코드를 스캔하세요.</string>
     <string name="trans_start_failed_message">전송 시작 실패, 다시 시작 후 다시 시도해보세요.</string>
     <string name="trans_start_failed_title">전송 시작 실패</string>
     <string name="trans_success_dialog_button_market_comment">댓글</string>
@@ -7213,7 +7213,7 @@
     <string name="wapi_cert_manage_error">WAPI 인증서 설정 실패</string>
     <string name="wapi_cert_manage_summary">WAPI 인증서 추가 및 삭제</string>
     <string name="wapi_cert_manage_title">WAPI 인증서 관리</string>
-    <string name="wapi_cert_roaming">연결중…</string>
+    <string name="wapi_cert_roaming">연결 중…</string>
     <string name="wapi_cert_select">WAPI 인증서</string>
     <string name="wapi_no">아니오</string>
     <string name="wapi_no_vaild_cert">사용 가능한 인증서가 없습니다. 지금 설치하시겠습니까?</string>
@@ -8729,7 +8729,7 @@
     <string name="live_caption_summary">미디어 자막 자동 생성</string>
     <string name="live_caption_title">실시간 자막</string>
     <string name="load_networks_progress">검색 중…</string>
-    <string name="loading_injected_setting_summary">로드 중…</string>
+    <string name="loading_injected_setting_summary">불러오는 중…</string>
     <string name="location_app_permission_summary_location_off">위치 서비스 사용 안함</string>
     <string name="location_category_location_services">위치 서비스</string>
     <string name="location_category_recent_location_access">최근에 위치 정보에 액세스한 앱</string>
@@ -8737,7 +8737,7 @@
     <string name="location_no_recent_accesses">최근에 위치에 액세스한 앱 없음</string>
     <string name="location_recent_location_access_view_details">세부정보 보기</string>
     <string name="location_recent_location_requests_see_all">전체 보기</string>
-    <string name="location_settings_loading_app_permission_stats">로드중…</string>
+    <string name="location_settings_loading_app_permission_stats">불러오는 중…</string>
     <string name="location_settings_summary_location_off">사용 안함</string>
     <string name="lock_screen_notifications_interstitial_message">잠금 화면이 어떻게 표시되길 원하시나요?</string>
     <string name="lock_screen_notifications_interstitial_title">잠금 화면</string>
@@ -8842,7 +8842,7 @@
     <string name="mtrl_picker_range_header_prompt">날짜 범위 선택</string>
     <string name="network_4G">4G(권장)</string>
     <string name="network_connected">연결됨</string>
-    <string name="network_connecting">연결중…</string>
+    <string name="network_connecting">연결 중…</string>
     <string name="network_connection_connect_successful">연결되었습니다.</string>
     <string name="network_connection_errorstate_dialog_message">문제가 발생했습니다. 애플리케이션에서 기기 선택 요청을 취소했습니다.</string>
     <string name="network_connection_request_dialog_showall">모두 표시</string>
@@ -9063,7 +9063,7 @@
     <string name="wifi_calling_mode_wifi_preferred_summary">Wi‑Fi를 사용할 수 없는 경우 모바일 네트워크를 사용하세요.</string>
     <string name="wifi_calling_off_explanation">Wi-Fi 통화가 켜져 있으면 휴대전화에서 환경설정과 신호 강도에 따라 Wi-Fi 네트워크나 이동통신사 네트워크를 통해 통화를 연결할 수 있습니다. 이 기능을 사용하기 전에 이동통신사에 문의하여 요금과 기타 세부정보를 알아보세요.%1$s</string>
     <string name="wifi_calling_summary">통화에 Wi‑Fi를 사용하여 통화 품질을 개선합니다.</string>
-    <string name="wifi_connecting">연결중…</string>
+    <string name="wifi_connecting">연결 중…</string>
     <string name="wifi_disconnect_button_text">연결 해제</string>
     <string name="wifi_disconnected">연결 끊김</string>
     <string name="wifi_dpp_add_another_device">다른 기기 추가</string>
@@ -9954,7 +9954,7 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
     <string name="do_disclosure_learn_more_separator">""</string>
     <string name="dsu_is_running">DSU가 실행 중입니다.</string>
     <string name="dsu_loader_description">동적 시스템 업데이트 이미지로드</string>
-    <string name="dsu_loader_loading">로드 중 ...</string>
+    <string name="dsu_loader_loading">불러오는 중 ...</string>
     <string name="dsu_loader_title">DSU 로더</string>
     <string name="empty_title">""</string>
     <string name="enabled_5g_mode_title">5G 활성화</string>

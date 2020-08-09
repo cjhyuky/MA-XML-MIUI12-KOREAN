@@ -65,7 +65,7 @@
     <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (전화 또는 미디어 안됨)%1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (전화 또는 미디어 안됨), 배터리 %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">연결됨 (메시지 엑세스 안됨)%1$s</string>
-    <string name="bluetooth_connecting">연결중…</string>
+    <string name="bluetooth_connecting">연결 중…</string>
     <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 중지</string>
     <string name="bluetooth_disable_absolute_volume_summary">수용 할 수 없을만큼 큰 볼륨 또는 제어 불능과 같은 원격 장치의 볼륨 문제가 발생할 경우 블루투스 절대 볼륨 기능을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결이 끊어짐</string>
@@ -87,7 +87,7 @@
     <string name="bluetooth_opp_profile_summary_connected">파일 전송 서버에 연결됨</string>
     <string name="bluetooth_opp_profile_summary_not_connected">파일 전송 서버에 연결되지 않음</string>
     <string name="bluetooth_opp_profile_summary_use_for">파일 전송에 사용</string>
-    <string name="bluetooth_pairing">연결중…</string>
+    <string name="bluetooth_pairing">연결 중…</string>
     <string name="bluetooth_pairing_accept">페어</string>
     <string name="bluetooth_pairing_accept_all_caps">페어</string>
     <string name="bluetooth_pairing_decline">취소</string>
@@ -450,7 +450,7 @@
     <string name="wapi_cert_manage_error">WAPI 인증서를 설정하지 못했습니다.</string>
     <string name="wapi_cert_manage_summary">WAPI 인증서 추가 또는 삭제</string>
     <string name="wapi_cert_manage_title">WAPI 인증서 관리</string>
-    <string name="wapi_cert_roaming">연결중…</string>
+    <string name="wapi_cert_roaming">연결 중…</string>
     <string name="wapi_no">아니오</string>
     <string name="wapi_no_vaild_cert">사용 가능한 인증서가 없으니 지금 설치하세요.</string>
     <string name="wapi_password_hex_format_add">16 진수의 수는 홀수 일 수 없습니다.</string>

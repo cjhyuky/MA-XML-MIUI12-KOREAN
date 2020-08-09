@@ -194,7 +194,7 @@
     <string name="module_download_ok">동의</string>
     <string name="module_download_success">추가 오디오 다운로드 완료</string>
     <string name="module_download_title">추가 오디오가 필요합니다.</string>
-    <string name="module_downloading">추가 오디오 다운로드중…</string>
+    <string name="module_downloading">추가 오디오 다운로드 중…</string>
     <string name="monday_to_friday">월요일부터 금요일까지</string>
     <string name="set_alarm_done">완료</string>
     <string name="time_picker_colon">:</string>

@@ -524,7 +524,7 @@
     <string name="portait_effect_entry_cool">민트</string>
     <string name="portait_effect_entry_blackwhite">흑백</string>
     <string name="pano_how_to_use_prompt_start">방향을 바꾸려면 화살표를 탭하세요.</string>
-    <string name="pref_scan_qrcode_summary">QR코드는 후면 카메라를 이용해주세요.</string>
+    <string name="pref_scan_qrcode_summary">QR 코드는 후면 카메라를 이용해주세요.</string>
     <string name="face_age_info">나이: %d</string>
     <string name="face_score_info">점수: %.1f</string>
     <string name="pref_camera_show_gender_age_config_title">나이 &amp; 성별</string>
@@ -681,7 +681,7 @@
     <string name="resume_playing_restart">다시 시작</string>
     <string name="review_cancel">취소</string>
     <string name="save">저장</string>
-    <string name="scan_qrcode">QR코드 스캔</string>
+    <string name="scan_qrcode">QR 코드 스캔</string>
     <string name="select_all">모두 선택 </string>
     <string name="select_image">사진 선택</string>
     <string name="select_item">항목 선택</string>
@@ -697,7 +697,7 @@
     <string name="undo">실행 취소</string>
     <string name="video_err">동영상을 재생할 수 없습니다.</string>
     <string name="white_balance">화이트 밸런스</string>
-    <string name="wifi_connecting">연결중…</string>
+    <string name="wifi_connecting">연결 중…</string>
     <string name="wifi_connect_fail">연결 시간 초과됨</string>
     <string name="wifi_connect_not_found">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="wifi_connect_success">연결됨</string>
@@ -1084,7 +1084,7 @@
 보다 흥미 진진한 아름다움을 경험해보세요.."</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48M 초 울트라 픽셀</string>
     <string name="live_music_change_bgm">음악 변경</string>
-    <string name="live_music_downloading_tips">다운로드중...</string>
+    <string name="live_music_downloading_tips">다운로드 중...</string>
     <string name="live_music_hot_title">인기 음악</string>
     <string name="live_music_local_title">로컬 음악</string>
     <string name="live_music_network_exception">네트워크 비정상</string>
@@ -1142,7 +1142,7 @@
     <string name="beauty_body_slim_count_tip">체형 효과는 독사진에만 작동합니다.</string>
     <string name="camera_liveshot_on_tip">다이나믹 촬영 켜짐</string>
     <string name="camera_liveshot_off_tip">다이나믹 촬영 꺼짐</string>
-    <string name="network_access_user_notice_title">인터넷 연결중</string>
+    <string name="network_access_user_notice_title">인터넷 연결 중</string>
     <string name="ultra_wide_mode_use_hint_text">"이 모드를 사용하면 사진에 더 많은 장면을 포함시킬 수 있습니다.
 울트라 와이드 앵글 모드는 멀리 이동할 수 없을 때 도움이됩니다."</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP 꺼짐</string>
@@ -1168,7 +1168,7 @@
     <string name="pref_camera_long_press_viewfinder_title">뷰파인더 설정</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google 렌즈</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">자동 노출 &amp; 오토 포커스 잠금</string>
-    <string name="pref_google_lens_summary">QR코드, 이메일, 숫자 및 텍스트 자동 인식</string>
+    <string name="pref_google_lens_summary">QR 코드, 이메일, 숫자 및 텍스트 자동 인식</string>
     <string name="pref_google_lens_title">스마트 렌즈</string>
     <string name="wideselfie_press_shoot_key_to_start">셔터를 누르세요.</string>
     <string name="wideselfie_rotate_slowly">전화를 옆으로 돌리세요.</string>

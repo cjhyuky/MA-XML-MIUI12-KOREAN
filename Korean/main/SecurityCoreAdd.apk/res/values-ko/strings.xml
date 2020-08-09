@@ -96,7 +96,7 @@
     <string name="xspace_uninstall_dialog_title">듀얼 앱 삭제</string>
     <string name="xspace_uninstall_dialog_content">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
     <string name="loading_apps">앱 로딩 중…</string>
-    <string name="loading_success">로드 성공</string>
+    <string name="loading_success">불러오기 성공</string>
     <string name="switching">이동 중…</string>
     <string name="switch_success">이동 성공</string>
     <string name="switch_failed">이동 실패</string>
@@ -448,7 +448,7 @@
     <string name="confirm_close_password_title">비밀번호 끄기</string>
     <string name="xspace_remove">"듀얼 앱 계정 삭제"</string>
     <string name="greenguard_child_des">친구들과 가족의 기기를 관리해보세요.</string>
-    <string name="greenguard_child_des_title">기기 추가를 위한 QR코드 스캔</string>
+    <string name="greenguard_child_des_title">기기 추가를 위한 QR 코드 스캔</string>
     <string name="greenguard_parent_des">"친구들과 가족의 기기를 관리해보세요"</string>
     <string name="greenguard_parent_des_title">기기 추가를 위해 카이트 가드 사용</string>
     <string name="button_text_next_step">다음</string>

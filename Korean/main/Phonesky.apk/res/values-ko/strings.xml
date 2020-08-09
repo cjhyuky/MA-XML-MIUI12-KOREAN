@@ -476,7 +476,7 @@
     <string name="list_price_rental_sd">SD 대여 정가: %1$s</string>
     <string name="list_price_sd">SD 정가: %1$s</string>
     <string name="listen">듣기</string>
-    <string name="loading">로드 중...</string>
+    <string name="loading">불러오는 중...</string>
     <string name="location_setting_description">GPS 위치를 포함한 내 정확한 위치를 사용하여 추천 기능 개선</string>
     <string name="location_setting_title">정확한 위치 사용</string>
     <string name="magazine_buy_current">구매 %1$s</string>

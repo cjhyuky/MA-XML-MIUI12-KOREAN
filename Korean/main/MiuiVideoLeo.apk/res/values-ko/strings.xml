@@ -138,10 +138,10 @@
     <string name="download_queue">정보 가져오는 중…</string>
     <string name="download_running">다운로드 중…</string>
     <string name="download_start_message">%1$s를 다운로드하고 설치하시겠습니까?</string>
-    <string name="download_task_with">%d개 다운로드중</string>
+    <string name="download_task_with">%d개 다운로드 중</string>
     <string name="download_url_waiting">URL정보를 가져오는 중…</string>
     <string name="download_url_waiting_no_wifi">WI-FI연결 대기중</string>
-    <string name="download_with">다운로드중 %1$s/%2$s</string>
+    <string name="download_with">다운로드 중 %1$s/%2$s</string>
     <string name="downloading_app_plugin">다운로드 중 %1$s…</string>
     <string name="edit">편집</string>
     <string name="edit_comment">리뷰 작성</string>
@@ -181,7 +181,7 @@
     <string name="hometown">고향</string>
     <string name="i_will_write_comments">사용자의 리뷰를 이곳에 적으세요.</string>
     <string name="icntv">iCNTV</string>
-    <string name="info_video_loading">로드 중…</string>
+    <string name="info_video_loading">불러오는 중…</string>
     <string name="init">초기화</string>
     <string name="install_apk">설치</string>
     <string name="install_comfirm">탭하여 설치</string>
@@ -195,8 +195,8 @@
     <string name="letv">Letv</string>
     <string name="live">생방송</string>
     <string name="loading">&lt;CDATA&gt;&amp;#47196;&amp;#46377; &amp;#51473;&lt;/CDATA&gt;</string>
-    <string name="loading_video_netplay_label">로드 중…</string>
-    <string name="loading_video_netplay_label_v5">로드 중…</string>
+    <string name="loading_video_netplay_label">불러오는 중…</string>
+    <string name="loading_video_netplay_label_v5">불러오는 중…</string>
     <string name="local_favorite_empty_title">비어있음</string>
     <string name="local_media_empty_sub_title">다운로드하여 오프라인으로 동영상 시청</string>
     <string name="local_media_empty_title">동영상 없음</string>
@@ -259,7 +259,7 @@
     <string name="offline_setting">오프라인</string>
     <string name="offline_status_failed">실패</string>
     <string name="offline_status_finished">완료</string>
-    <string name="offline_status_loading">다운로드중…</string>
+    <string name="offline_status_loading">다운로드 중…</string>
     <string name="offline_status_paused">멈춤</string>
     <string name="offline_status_waiting">기다리는중…</string>
     <string name="offline_with">(%d) 오프라인</string>
@@ -287,7 +287,7 @@
     <string name="play_fail">"재생 불가"</string>
     <string name="play_his_empty_title">비어있음</string>
     <string name="play_history">최근</string>
-    <string name="play_source_fetching">연결중…</string>
+    <string name="play_source_fetching">연결 중…</string>
     <string name="player_plugin_des">사용가능한 플러그인 보기</string>
     <string name="player_plugin_title">동영상 플레이어 플러그인</string>
     <string name="positive_comment">좋아요</string>
@@ -403,7 +403,7 @@
     <string name="video_info_resolution_label">동영상 해상도:</string>
     <string name="video_info_video_coding_label">동영상 인코딩 형식:</string>
     <string name="video_plugin">동영상 플러그인</string>
-    <string name="video_plugin_downloading">(%1$s) 다운로드중</string>
+    <string name="video_plugin_downloading">(%1$s) 다운로드 중</string>
     <string name="video_plugin_prepare">잠시만 기다려주세요…</string>
     <string name="vip_package">vip 패키지</string>
     <string name="vp_VideoView_error_button">확인</string>
@@ -437,7 +437,7 @@
     <string name="vp_download_apk_from_video_ad">애플리케이션 설치</string>
     <string name="vp_download_connect_fail">링크를 가져오지 못했습니다.</string>
     <string name="vp_download_file_fail">파일을 쓰지 못했습니다. 기기에 충분한 공간이 있는지 확인하세요.</string>
-    <string name="vp_downloading_apk_title">%1$s 다운로드중</string>
+    <string name="vp_downloading_apk_title">%1$s 다운로드 중</string>
     <string name="vp_exit">종료</string>
     <string name="vp_full_screen">전체 화면</string>
     <string name="vp_function">설정</string>
@@ -802,7 +802,7 @@
     <string name="vip_rights">VIP 이용 약관</string>
     <string name="vp_full_high_definition">1080P</string>
     <string name="vp_high_definition">HD</string>
-    <string name="vp_loading"><CDATA>다운로드중</CDATA></string>
+    <string name="vp_loading"><CDATA>다운로드 중</CDATA></string>
     <string name="vp_standard_definition">SD</string>
     <string name="wasu">Wasu</string>
 </resources>

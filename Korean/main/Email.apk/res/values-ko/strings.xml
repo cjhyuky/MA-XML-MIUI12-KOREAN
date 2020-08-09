@@ -494,9 +494,9 @@
     <string name="kilobytes">%sKB</string>
     <string name="load_from_remote">서버의 사서함 검색</string>
     <string name="load_more">더 불러오기</string>
-    <string name="loading_conversation">로드 중…</string>
-    <string name="loading_conversations">로드 중…</string>
-    <string name="loading_from_remote">로드 중…</string>
+    <string name="loading_conversation">불러오는 중…</string>
+    <string name="loading_conversations">불러오는 중…</string>
+    <string name="loading_from_remote">불러오는 중…</string>
     <string name="local_search">로컬 검색</string>
     <string name="local_search_result">동기화된 메시지에 %s개의 결과</string>
     <string name="login">로그인</string>

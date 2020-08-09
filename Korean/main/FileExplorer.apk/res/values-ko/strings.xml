@@ -443,7 +443,7 @@
     <string name="video_comment_publish">등록</string>
     <string name="video_tag_search_title">토픽 선택</string>
     <string name="video_tag_search_hint">토픽 사용자 설정</string>
-    <string name="uploading_video">동영상 업로드중…</string>
+    <string name="uploading_video">동영상 업로드 중…</string>
     <string name="upload_notification_title">동영상 업로드 중</string>
     <string name="upload_notification_progress">업로드 중 %1$s%%</string>
     <string name="upload_notification_compress_title">동영상 압축 중⤦</string>

@@ -215,8 +215,8 @@
     <string name="layer_gloable_search">검색</string>
     <string name="live">생방송</string>
     <string name="loading">잠시만 기다려주세요…</string>
-    <string name="loading_video_netplay_label">로드 중…</string>
-    <string name="loading_video_netplay_label_v5">로드 중…</string>
+    <string name="loading_video_netplay_label">불러오는 중…</string>
+    <string name="loading_video_netplay_label_v5">불러오는 중…</string>
     <string name="local_favorite_empty_title">비어있음</string>
     <string name="local_media_empty_sub_title">다운로드하여 오프라인으로 동영상 시청</string>
     <string name="local_player">오프라인 플레이어</string>
@@ -318,7 +318,7 @@
     <string name="toast_add_collect">즐겨찾기에 추가됨</string>
     <string name="toast_back_key_pressed_notice">종료하려면 뒤로가기를 다시 누르세요.</string>
     <string name="toast_cancel_collect">즐겨 찾기에서 삭제됨</string>
-    <string name="toast_downloading">다운로드중:</string>
+    <string name="toast_downloading">다운로드 중:</string>
     <string name="toast_login_success">로그인 완료</string>
     <string name="toast_message_continue_play_from">재생시간 </string>
     <string name="toast_message_continue_play_hour">시간 </string>
@@ -330,7 +330,7 @@
     <string name="top_status_offline_media">오프라인</string>
     <string name="top_status_online_media">온라인</string>
     <string name="ui_card_banner_btn_download">다운로드</string>
-    <string name="ui_card_banner_btn_downloading">다운로드중</string>
+    <string name="ui_card_banner_btn_downloading">다운로드 중</string>
     <string name="ui_card_banner_btn_open">열기</string>
     <string name="ui_log_tip">이 로그를 숨기거나 누르고 있으면 이전 로그를 지울 수 있습니다. 수동으로 로그를 드래그하세요.</string>
     <string name="unzip_file_failure">"파일을 압축해제하지 못했습니다."</string>
@@ -492,7 +492,7 @@
     <string name="vp_download_apk_from_video_ad">애플리케이션 설치</string>
     <string name="vp_download_connect_fail">링크를 가져오지 못했습니다.</string>
     <string name="vp_download_file_fail">파일을 쓰지 못했습니다. 기기에 충분한 공간이 있는지 확인하세요.</string>
-    <string name="vp_downloading_apk_title">%1$s 다운로드중</string>
+    <string name="vp_downloading_apk_title">%1$s 다운로드 중</string>
     <string name="vp_exit">종료</string>
     <string name="vp_full_screen">전체 화면</string>
     <string name="vp_function">설정</string>
@@ -737,13 +737,13 @@
     <string name="ai_music_saved">저장 완료</string>
     <string name="airkan_device_my_phone">나의 휴대전화</string>
     <string name="alert_dialog_download_install_live_plugin_task">설치중</string>
-    <string name="alert_dialog_download_live_plugin">플러그인 다운로드중:</string>
+    <string name="alert_dialog_download_live_plugin">플러그인 다운로드 중:</string>
     <string name="all_content_nums">(%d 에피소드)</string>
     <string name="cannot_support_speed">이 영상은 재생속도를 변경할 수 없습니다.</string>
     <string name="daily_tasks">일일 미션</string>
     <string name="derail_continue_play">계속 재생</string>
     <string name="detail_downloaded">다운로드됨</string>
-    <string name="detail_downloading">다운로드중…</string>
+    <string name="detail_downloading">다운로드 중…</string>
     <string name="detail_episode_no_summary">상세설명 없음</string>
     <string name="detail_episode_playing">현재 재생중</string>
     <string name="detail_show_all_video">%d 모두 보기</string>
@@ -835,7 +835,7 @@
     <string name="online_live_cancel">취소</string>
     <string name="online_live_confirm">확인</string>
     <string name="online_live_follow_people_no_data">여기 항목이 없습니다.</string>
-    <string name="online_live_hint">연결중</string>
+    <string name="online_live_hint">연결 중</string>
     <string name="online_live_history">접속기록</string>
     <string name="online_live_is_unbind">계정을 삭제하시겠습니까?</string>
     <string name="online_live_no_download_plugin">플러그인부터 설치하세요.</string>

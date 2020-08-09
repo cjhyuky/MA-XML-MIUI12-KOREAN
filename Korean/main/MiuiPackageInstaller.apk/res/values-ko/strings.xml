@@ -153,7 +153,7 @@
     <string name="launch">열기</string>
     <string name="lift_ban">허용</string>
     <string name="lift_ban_once">한 번만 허용</string>
-    <string name="loading">로드중…</string>
+    <string name="loading">불러오는 중…</string>
     <string name="location_settings">위치 설정</string>
     <string name="location_warning">%1$s은 이 장치에 대한 위치서비스 제공업체입니다. 위치 설정에서 위치 액세스를 수정할 수 있습니다.</string>
     <string name="low_risk_perms">낮은 위험 권한</string>

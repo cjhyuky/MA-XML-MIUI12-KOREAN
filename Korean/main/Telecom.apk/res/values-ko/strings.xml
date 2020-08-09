@@ -105,7 +105,7 @@
     <string name="bluetooth_connected_no_headset">연결됨 (기기 없음)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (기기 또는 미디어 없음)</string>
     <string name="bluetooth_connected_no_map">연결됨 (메시지 권한 없음)</string>
-    <string name="bluetooth_connecting">연결중…</string>
+    <string name="bluetooth_connecting">연결 중…</string>
     <string name="bluetooth_disable_absolute_volume">볼륨 설정 권한 비활서오하</string>
     <string name="bluetooth_disable_absolute_volume_summary">큰 음량이거나 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 볼륨 제어 기능을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결 해제됨</string>
@@ -121,7 +121,7 @@
     <string name="bluetooth_opp_profile_summary_connected">파일 전송 서버 연결됨</string>
     <string name="bluetooth_opp_profile_summary_not_connected">파일 전송 서버에 연결되지 않음</string>
     <string name="bluetooth_opp_profile_summary_use_for">파일 전송 사용</string>
-    <string name="bluetooth_pairing">연결중…</string>
+    <string name="bluetooth_pairing">연결 중…</string>
     <string name="bluetooth_pairing_accept">연결</string>
     <string name="bluetooth_pairing_accept_all_caps">연결</string>
     <string name="bluetooth_pairing_decline">취소</string>
@@ -428,7 +428,7 @@
     <string name="notification_channel_incoming_call">수신 통화</string>
     <string name="notification_channel_missed_call">부재중 전화</string>
     <string name="use_system_language_to_select_input_method_subtypes">시스템 언어 사용</string>
-    <string name="wapi_cert_roaming">연결중…</string>
+    <string name="wapi_cert_roaming">연결 중…</string>
     <string name="wapi_no">아니요</string>
     <string name="wapi_yes">예</string>
     <string name="wifi_wapi_as_certificate">AS 인증서</string>
@@ -484,7 +484,7 @@
     <string name="answering_ends_other_calls">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>
     <string name="answering_ends_other_managed_call">이 전화를 연결할 경우 현재 통화중인 상대와 전화가 끊어집니다.</string>
     <string name="answering_ends_other_managed_calls">이 전화를 연결할 경우 현재 통화중인 상대와 전화가 끊어집니다.</string>
-    <string name="answering_ends_other_managed_video_call">이 전화를 연결할 경우 현재 연결중인 영상 통화가 끊어집니다.</string>
+    <string name="answering_ends_other_managed_video_call">이 전화를 연결할 경우 현재 연결 중인 영상 통화가 끊어집니다.</string>
     <string name="answering_ends_other_video_call">이 전화를 연결할 경우 %1$s 영상 통화가 끊어집니다.</string>
     <string name="bluetooth_enable_inband_ringing">인 밴드 벨소리 사용</string>
     <string name="bluetooth_enable_inband_ringing_summary">블루투스 헤드셋에서 전화 벨소리가 재생되도록 허용</string>
@@ -579,9 +579,9 @@
     <string name="bluetooth_connected_no_headset_battery_level">연결됨 (전화 안됨), 배터리 %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (전화 또는 미디어 안됨), 배터리 : %1$s</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기에 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string> 
     <string name="bluetooth_profile_hearing_aid">보청기</string>
@@ -695,7 +695,7 @@
     <string name="data_usage_ota">시스템 업데이트</string>
     <string name="developer_enhanced_call_blocking">향상된 통화 차단</string>
     <string name="developer_title">통신 개발자 메뉴</string>
-    <string name="loading_injected_setting_summary">로드 중</string>
+    <string name="loading_injected_setting_summary">불러오는 중</string>
     <string name="media_transfer_this_device_name">이 장치</string>
     <string name="mr_button_content_description">전송 버튼</string>
     <string name="mr_cast_button_connected">전송 버튼. 연결됨</string>

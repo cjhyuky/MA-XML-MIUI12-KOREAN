@@ -189,7 +189,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="device_owner_description">이 장치는 조직에서 안전하게 보호하고 관리합니다.</string>
-    <string name="progress_connect_to_mobile_network">모바일 네트워크에 연결중…</string>
+    <string name="progress_connect_to_mobile_network">모바일 네트워크에 연결 중…</string>
     <string name="search_menu_title">검색</string>
     <string name="take_a_few_minutes">몇분정도 시간이 소요됩니다.</string>
     <string name="work_profile_description">업무용 앱은 이 프로필에 보관되며 조직에서 관리합니다.</string>

@@ -38,7 +38,7 @@
     <string name="jump_to_mobile_network_setting">모바일 네트워크 설정</string>
     <string name="labelCommonMore">전화 설정</string>
     <string name="labelCommonMore_with_label">전화 설정(%s)</string>
-    <string name="loading_injected_setting_summary">로드 중…</string>
+    <string name="loading_injected_setting_summary">불러오는 중…</string>
     <string name="location">지역</string>
     <string name="make_and_receive_calls">전화 걸기 및 받기</string>
     <string name="manual_mode_disallowed_summary">%1$s에 연결된 경우 사용할 수 없음</string>
@@ -1632,7 +1632,7 @@
     <string name="bluetooth_connected_no_headset">연결됨 (휴대전화 없음)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">연결됨 (기기 또는 미디어 없음)</string>
     <string name="bluetooth_connected_no_map">연결됨 (메시지 액세스 없음)</string>
-    <string name="bluetooth_connecting">연결중...</string>
+    <string name="bluetooth_connecting">연결 중...</string>
     <string name="bluetooth_disable_absolute_volume">모든 볼륨 음소거</string>
     <string name="bluetooth_disable_absolute_volume_summary">너무 큰 볼륨으로 바뀌거나 제어 불능과 같은 원격 장치의 음량 문제가 발생할 경우 블루투스 오디오 기능을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결이 끊어졌습니다.</string>
@@ -2106,7 +2106,7 @@
     <string name="PERSOSUBSTATE_SIM_SIM_PUK_IN_PROGRESS">PUK 요청 잠금 중 ...</string>
     <string name="use_system_language_to_select_input_method_subtypes">시스템 언어 사용</string>
     <string name="voicemail_notifications_preference_title">알림 알람</string>
-    <string name="wapi_cert_roaming">연결중…</string>
+    <string name="wapi_cert_roaming">연결 중…</string>
     <string name="wapi_no">아니요</string>
     <string name="wapi_yes">예</string>
     <string name="wifi_wapi_as_certificate">AS 인증서</string>
@@ -2449,9 +2449,9 @@
     <string name="bluetooth_active_no_battery_level">켜짐</string>
     <string name="bluetooth_battery_level">%1$s 배터리</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기에 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string> 
     <string name="bluetooth_profile_hearing_aid">보청기</string>
@@ -2645,7 +2645,7 @@
 
 긴급전화는 휴대전화 서비스 지역에서만 가능합니다."</string>
     <string name="vowifi_emergency_warning_title">와이파이콜로 긴급전화</string>
-    <string name="wifi_call_setting_vodafone_de">와이파이콜 연결중</string>
+    <string name="wifi_call_setting_vodafone_de">와이파이콜 연결 중</string>
     <string name="wifi_call_setting_vodafone_uk">와이파이콜</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G 우선</string>
     <string name="network_mode_updating_title">네트워크 유형</string>

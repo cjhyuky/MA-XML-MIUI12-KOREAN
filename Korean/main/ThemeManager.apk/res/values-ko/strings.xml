@@ -472,9 +472,9 @@
     <string name="local_photos">로컬 사진</string>
     <string name="recently_used">최근 사용됨</string>
     <string name="system_precust">설치됨</string>
-    <string name="wallpaper_settings_loading_text">로드 중</string>
+    <string name="wallpaper_settings_loading_text">불러오는 중</string>
     <string name="wallpaper_settings_no_history">기록 없음</string>
-    <string name="card_loading">로드 중...</string>
+    <string name="card_loading">불러오는 중...</string>
     <string name="card_no_network">사용할 수 있는 네트워크가 없습니다. 연결후 다시 시도해주세요.</string>
     <string name="card_data_request_error">데이터 요청 오류. 나중에 다시 시도하세요.</string>
     <string name="card_retry">다시 시도</string>
@@ -599,7 +599,7 @@
     <string name="update_btn">지금 업데이트</string>
     <string name="update_check">업데이트 확인</string>
     <string name="update_checking">업데이트 확인중…</string>
-    <string name="update_downloading">업데이트 다운로드중…</string>
+    <string name="update_downloading">업데이트 다운로드 중…</string>
     <string name="update_fail">"정보 불러오기 실패. 다시 시도하세요."</string>
     <string name="update_immediately">지금 업데이트</string>
     <string name="update_latest">앱이 최신버전입니다.</string>

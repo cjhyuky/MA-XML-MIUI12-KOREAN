@@ -1128,7 +1128,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="fetching_search_base_url">로컬 도메인 찾는 중...</string>
     <string name="license_activity_title">오픈소스 라이선스</string>
     <string name="legal_documents">법적 문제</string>
-    <string name="license_activity_loading">로드 중…</string>
+    <string name="license_activity_loading">불러오는 중…</string>
     <string name="accessibility_query_refinement">추천 검색어 %1$s 수정</string>
     <string name="full_voice_interaction_service_label">향상된 Google 서비스</string>
     <string name="recognizer_service_label">기본 Google 인식</string>
@@ -1723,7 +1723,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="ime_hint_keyboard_input">키보드 입력</string>
     <string name="ime_settings_button">설정</string>
     <string name="ime_undo_button">실행취소</string>
-    <string name="ime_working">로드 중</string>
+    <string name="ime_working">불러오는 중</string>
     <string name="feedback">의견 보내기</string>
     <string name="ime_language_settings_unavailable_low_storage">저장 용량이 부족하여 언어 설정을 사용할 수 없습니다.</string>
     <string name="ime_can_not_be_activated">이 컨텍스트에서는 Google 음성 입력을 활성화할 수 없습니다.</string>

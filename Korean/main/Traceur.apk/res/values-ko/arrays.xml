@@ -219,7 +219,7 @@
     <string-array name="wifi_status">
     <item />
         <item>스캔중…</item>
-        <item>연결중…</item>
+        <item>연결 중…</item>
         <item>인증중…</item>
         <item>IP 주소 얻는중…</item>
         <item>연결됨</item>
@@ -233,7 +233,7 @@
     <string-array name="wifi_status_with_ssid">
     <item />
         <item>스캔중…</item>
-        <item>%1$s에 연결중…</item>
+        <item>%1$s에 연결 중…</item>
         <item>%1$s로 인증중…</item>
         <item>%1$s에서 IP 주소 얻는중…</item>
         <item>%1$s에 연결됨</item>

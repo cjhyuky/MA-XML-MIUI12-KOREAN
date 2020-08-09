@@ -23,7 +23,7 @@
     <string name="wifi_not_connected">Wi-Fi가 연결되지 않음</string>
     <string name="add_named">%1$s 추가</string>
     <string name="add_printer_by_ip">IP 주소로 프린터 추가</string>
-    <string name="connecting_to">%1$s 연결중</string>
+    <string name="connecting_to">%1$s 연결 중</string>
     <string name="connects_via_network">현재 네트워크 %1$s 연결</string>
     <string name="connects_via_wifi_direct">Wi-Fi 다이렉트로 연결</string>
     <string name="connect_hint_text">"프린터 전면창에서 이 연결을 승인해주세요"</string>

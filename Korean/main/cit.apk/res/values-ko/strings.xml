@@ -601,7 +601,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="noise">소음:</string>
     <string name="radio_info_cellinfo_label">모든 셀 측정 정보:</string>
     <string name="radio_info_data_connected">연결됨</string>
-    <string name="radio_info_data_connecting">연결중</string>
+    <string name="radio_info_data_connecting">연결 중</string>
     <string name="radio_info_data_disconnected">연결 해제됨</string>
     <string name="radio_info_data_suspended">지연됨</string>
     <string name="radio_info_entry">모바일 네트워크 정보</string>

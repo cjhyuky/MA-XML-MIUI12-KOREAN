@@ -442,7 +442,7 @@
     <string name="listennow_cluster_header_recents_subtitle">최근에 재생했거나 추가한 음악</string>
     <string name="listennow_cluster_header_recents_title">최근 활동</string>
     <string name="listennow_cluster_header_recommendations">맞춤 추천</string>
-    <string name="loading">로드 중…</string>
+    <string name="loading">불러오는 중…</string>
     <string name="mainstage_explore_description">최신 음악, 차트 상위권 음악, 재생목록, 장르 검색</string>
     <string name="mainstage_explore_title">신곡을 탐색하세요.</string>
     <string name="mainstage_instant_mix_description">인스턴트 믹스</string>

@@ -89,7 +89,7 @@
     <string name="add_nickname">별명</string>
     <string name="add_festival">인사말</string>
     <string name="nickname_placeholder">별명</string>
-    <string name="festival_sms_loading">로드 중…</string>
+    <string name="festival_sms_loading">불러오는 중…</string>
     <string name="send_to">수신인:</string>
     <string name="message_failed">실패</string>
     <string name="message_pending">전송 중</string>

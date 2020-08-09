@@ -103,7 +103,7 @@
     <string name="toast_back_key_pressed_notice">종료하시려면 \"뒤로\"를 한 번 더 탭</string>
     <string name="adjust_position_prev_media_notice">최근</string>
     <string name="adjust_position_next_media_notice">다음</string>
-    <string name="loading_video_netplay_label">로드 중…</string>
+    <string name="loading_video_netplay_label">불러오는 중…</string>
     <string name="buffering">버퍼링 중…</string>
     <string name="airkan_video_playing_in">"동영상이 "</string>
     <string name="airkan_video_playing">재생 중</string>
@@ -118,8 +118,8 @@
     <string name="top_status_local_media">로컬</string>
     <string name="top_status_online_media">온라인</string>
     <string name="top_status_offline_media">오프라인</string>
-    <string name="info_video_loading">로드 중…</string>
-    <string name="loading_video_netplay_label_v5">로드 중…</string>
+    <string name="info_video_loading">불러오는 중…</string>
+    <string name="loading_video_netplay_label_v5">불러오는 중…</string>
     <string name="buffering_video_netplay_label_v5">버퍼링 중…</string>
     <string name="to_be_play_label_v5">"다음 재생 예정: "</string>
     <string name="about_version_label">"버전 "</string>

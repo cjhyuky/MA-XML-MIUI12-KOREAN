@@ -308,7 +308,7 @@
     <string name="bluetooth_connected_no_a2dp">연결됨(미디어 없음)</string>
     <string name="bluetooth_connected_no_headset">연결됨(전화 없음)</string>
     <string name="bluetooth_connected_no_map">연결됨(메시지 액세스 없음)</string>
-    <string name="bluetooth_connecting">연결중…</string>
+    <string name="bluetooth_connecting">연결 중…</string>
     <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 안함</string>
     <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수 없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결이 끊어졌습니다.</string>
@@ -724,9 +724,9 @@
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기에 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결 중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결중…</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결 중…</string>
     <string name="bluetooth_profile_hearing_aid">보청기</string>
     <string name="bluetooth_show_devices_without_names">블루투스 이름없이 표시</string>
     <string name="bluetooth_show_devices_without_names_summary">블루투스 이름없이 MAC 주소로만 표시합니다.</string>

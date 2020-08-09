@@ -63,8 +63,8 @@
     <string name="mipayin_dialog_more">더보기</string>
     <string name="mipayin_dialog_title">열기</string>
     <string name="choosed_title">선택됨</string>
-    <string name="create">QR코드 생성</string>
-    <string name="createFail">"QR코드 생성 실패. 메시지가 너무 깁니다."</string>
+    <string name="create">QR 코드 생성</string>
+    <string name="createFail">"QR 코드 생성 실패. 메시지가 너무 깁니다."</string>
     <string name="createQRCode_hint">텍스트를 입력하세요.</string>
     <string name="createQRCode_save">저장</string>
     <string name="create_again">새로고침</string>
@@ -288,7 +288,7 @@
     <string name="recognition_error_download_data_msg">식별 엔진을 다운로드하여 카드를 스캔하세요. 크기가 대략 15MB 입니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?</string>
     <string name="recognition_error_download_success">다운로드 성공</string>
     <string name="recognition_error_download_fail">식별 엔진을 다운로드할 수 없음</string>
-    <string name="app_description_content">스캐너는 사용자가 QR코드, 문서, 명함 등을 스캔할 수 있게 도와줍니다.</string>
+    <string name="app_description_content">스캐너는 사용자가 QR 코드, 문서, 명함 등을 스캔할 수 있게 도와줍니다.</string>
     <string name="app_description_title">스캐너 정보</string>
     <string name="back">뒤로 가기</string>
     <string name="com_taobao_tae_sdk_alert_message">시간이 너무 지났습니다. 다시 시도해주세요.</string>
@@ -312,7 +312,7 @@
     <string name="pref_camera_jpeg_quality_fine">좋음</string>
     <string name="pref_camera_jpeg_quality_normal">보통</string>
     <string name="pref_camera_jpeg_quality_superfine">매우좋음</string>
-    <string name="weixin_code_tip">WeChat을 사용하려면 이 QR코드를 스캔하세요.</string>
+    <string name="weixin_code_tip">WeChat을 사용하려면 이 QR 코드를 스캔하세요.</string>
     <string name="pref_camera_focusmode_default">연속 사진</string>
     <string name="language_value_danish">덴마크어</string>
     <string name="language_value_dutch">네덜란드어</string>
@@ -385,7 +385,7 @@
     <string name="business_card_result_title">사업카드</string>
     <string name="choose_pay_title">지불 방법 선택</string>
     <string name="no_support_to_translate_type">"이 언어는 지원되지 않습니다."</string>
-    <string name="scan_support_type">WeChat, 알리페이, QR코드, 바코드</string>
+    <string name="scan_support_type">WeChat, 알리페이, QR 코드, 바코드</string>
     <string name="setting_alipay">알리페이</string>
     <string name="setting_choose_every_time">항상 묻기</string>
     <string name="setting_default_function">기본 기능</string>
@@ -412,7 +412,7 @@
     <string name="abc_shareactionprovider_share_with_application">공유하기 : %s</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="search_menu_title">검색</string>
-    <string name="business_card_with_qr_code">명함이나 QR코드를 프레임안에 위치시키세요.</string>
+    <string name="business_card_with_qr_code">명함이나 QR 코드를 프레임안에 위치시키세요.</string>
     <string name="close_hotspot_when_connecting_to_wifi">핫스팟이 켜져있습니다. Wi-Fi를 켜세요.</string>
     <string name="setting_function_sort">기능 재정렬</string>
     <string name="agree_app_use">QR 코드 및 기타 이미지 스캔(일부 기능은 위치에 액세스해야 할 수도 있음)</string>

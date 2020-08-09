@@ -21,6 +21,6 @@
     <string name="retry">다시 시도</string>
     <string name="give_up">중단</string>
     <string name="open_calendar_failed">일정을 사용할 수 없습니다.</string>
-    <string name="loading">로드 중...</string>
+    <string name="loading">불러오는 중...</string>
     <string name="not_support_multi_events">이벤트가 여러 개인 파일은 지원되지 않습니다.</string>
 </resources>

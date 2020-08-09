@@ -167,7 +167,7 @@
     <string name="bk">폰에서 열기</string>
     <string name="bl">로그인</string>
     <string name="bm">Google 계정으로 로그인</string>
-    <string name="bn">연결중… %1$s%%</string>
+    <string name="bn">연결 중… %1$s%%</string>
     <string name="bo">연결하기</string>
     <string name="bp">Wi-Fi 켜기</string>
     <string name="bq">주변 기기 검색</string>
@@ -382,7 +382,7 @@
     <string name="hu">연결할 기기를 통해 이 네트워크에 접속하세요.</string>
     <string name="hv">스텝 2:</string>
     <string name="hw">"상대방 브라우저 주소창을 통해 이 주소로 접속하세요 :"</string>
-    <string name="hx">또는 연결할 기기에서 이 QR코드를 스캔하면 됩니다.</string>
+    <string name="hx">또는 연결할 기기에서 이 QR 코드를 스캔하면 됩니다.</string>
     <string name="hy">정지</string>
     <string name="hz">정지</string>
     <string name="i">꺼짐</string>

@@ -41,7 +41,7 @@
     <string-array name="wifi_status">
         <item></item>
         <item>검색중…</item>
-        <item>연결중…</item>
+        <item>연결 중…</item>
         <item>로그인중…</item>
         <item>IP 주소를 받아오는 중…</item>
         <item>연결됨</item>

@@ -881,7 +881,7 @@
     <string name="domestic_roaming_setting">해외로밍 차단</string>
     <string name="dont_bore">게임시 버튼과 알림 차단</string>
     <string name="download">다운로드</string>
-    <string name="downloading">다운로드중</string>
+    <string name="downloading">다운로드 중</string>
     <string name="doze_optimization_summary">터치 응답속도 및 감도 향상</string>
     <string name="doze_optimization_title">터치 컨트롤 최적화</string>
     <string name="dual_setting_simcard1">SIM 1</string>

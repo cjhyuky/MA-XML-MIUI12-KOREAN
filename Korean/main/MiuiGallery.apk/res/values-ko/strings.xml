@@ -1236,7 +1236,7 @@
     <string name="operation_add_secret">숨기기</string>
     <string name="operation_back">뒤로</string>
     <string name="operation_cast_connected_format">캐스트 - %s</string>
-    <string name="operation_cast_connecting_format">%s에 연결중</string>
+    <string name="operation_cast_connecting_format">%s에 연결 중</string>
     <string name="operation_delete">삭제</string>
     <string name="operation_detail">세부사항</string>
     <string name="operation_disable_auto_upload">Mi 클라우드 동기화 끄기</string>
@@ -1337,7 +1337,7 @@
     <string name="photo_editor_navigator_module_download_now">다운로드</string>
     <string name="photo_editor_navigator_module_download_success">성공적으로 다운로드됨</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">Wi-Fi 대기중</string>
-    <string name="photo_editor_navigator_module_downloading">%s 다운로드중…</string>
+    <string name="photo_editor_navigator_module_downloading">%s 다운로드 중…</string>
     <string name="photo_editor_navigator_need_download">%s 파일을 다운받기 위해서는 인터넷에 연결하세요.</string>
     <string name="photo_editor_remove_watermark">워터 마크 제거</string>
     <string name="photo_editor_remove_watermark_on">워터마크 추가</string>
@@ -1595,7 +1595,7 @@
     <string name="share">공유</string>
     <string name="share_album">앨범 공유</string>
     <string name="share_album_needs_auto_upload_tip">공유된 앨범의 백업을 끌 수 없습니다.</string>
-    <string name="share_album_qr_code">앨범 QR코드</string>
+    <string name="share_album_qr_code">앨범 QR 코드</string>
     <string name="share_by_email_start">백그라운드에서 %1$s 공유</string>
     <string name="share_by_email_successfully">공유된 %1$s</string>
     <string name="share_public_url_text">나는 사용자와 %1$s 앨범을 공유했습니다. %2$s에서 앨범을 보세요.</string>
@@ -1805,7 +1805,7 @@
     <string name="video_editor_filter_xiaosenlin">그로브</string>
     <string name="video_editor_intelligent_special_effect">효과</string>
     <string name="video_editor_invalid_trim_arguments">1초 보다는 길어야 합니다.</string>
-    <string name="video_editor_loading_plugin">로드 중…</string>
+    <string name="video_editor_loading_plugin">불러오는 중…</string>
     <string name="video_editor_loading_warning_msg">이 동영상은 인코딩에 오류가 있습니다. 최종 동영상 파일에는 영향이 없지만 편집시에 몇몇 기능이 사용 불가 하거나 미리보기가 불가할 수 있습니다.</string>
     <string name="video_editor_loading_warning_title">인코딩 오류</string>
     <string name="video_editor_more">고급</string>
@@ -1972,7 +1972,7 @@
     <string name="macarons_download_other_fail">"오류로 인해 다운로드할 수 없습니다."</string>
     <string name="macarons_download_sdscard_fail">"다운로드할 수 없습니다. SD 카드를 사용할 수 없습니다."</string>
     <string name="macarons_download_storage_fail">"다운로드할 수 없습니다. 저장 공간이 부족합니다."</string>
-    <string name="macarons_downloading">플러그인 다운로드중…</string>
+    <string name="macarons_downloading">플러그인 다운로드 중…</string>
     <string name="problem_feedback">피드백</string>
     <string name="vlog_clip_zoom">두 손가락을 사용하여 미리보기에서 프레임 수를 늘리거나 줄입니다.</string>
     <string name="vlog_exit_message">저장되지 않은 모든 변경 사항이 손실됩니다. 어쨌든 돌아가시겠습니까?</string>

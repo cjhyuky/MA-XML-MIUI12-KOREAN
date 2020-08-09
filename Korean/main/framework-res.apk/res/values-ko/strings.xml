@@ -1003,7 +1003,7 @@
     <string name="low_internal_storage_view_text_no_boot">시스템의 저장 공간이 부족합니다. 250MB의 여유 공간이 확보한 후 다시 시작하세요.</string>
     <string name="app_running_notification_title">%1$s 앱이 실행 중입니다.</string>
     <string name="app_running_notification_text">자세한 정보를 보거나 앱을 중지하려면 터치하세요.</string>
-    <string name="loading">로드 중..</string>
+    <string name="loading">불러오는 중..</string>
     <string name="capital_on">켜기</string>
     <string name="capital_off">끄기</string>
     <string name="whichApplication">작업을 수행할 때 사용하는 애플리케이션</string>
@@ -2059,7 +2059,7 @@
     <string name="autofill_window_title">%1$s 자동 완성</string>
     <string name="battery_saver_description_with_learn_more">배터리 수명을 연장하기 위해 배터리 절약 기능은 일부 기기 기능을 끄고 앱을 제한합니다. <annotation id="url">자세히 알아보기</annotation></string>
     <string name="browse_desc">선택한 URL 열기</string>
-    <string name="car_loading_profile">로드 중</string>
+    <string name="car_loading_profile">불러오는 중</string>
     <string name="color_correction_feature_name">색상 보정</string>
     <string name="color_inversion_feature_name">색상 반전</string>
     <string name="data_usage_rapid_app_body">%s 앱이 평소보다 많은 데이터를 사용했습니다.</string>

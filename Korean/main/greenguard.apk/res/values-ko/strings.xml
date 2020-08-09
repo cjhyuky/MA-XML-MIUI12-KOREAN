@@ -95,11 +95,11 @@
     <string name="go_to_password">인증 비밀번호</string>
     <string name="guarder">%s님이 기기를 관리하고 있습니다.</string>
     <string name="last_time">%s분 남음</string>
-    <string name="loading">로드중...</string>
-    <string name="mi_loading_qr">QR코드 생성중…</string>
+    <string name="loading">불러오는 중...</string>
+    <string name="mi_loading_qr">QR 코드 생성중…</string>
     <string name="min">분</string>
     <string name="mon">월요일</string>
-    <string name="my_qr">카이트가드 APk QR코드</string>
+    <string name="my_qr">카이트가드 APk QR 코드</string>
     <string name="need_network_when_bind">장치를 추가하려면 네트워크에 연결하세요.</string>
     <string name="net_work_error">네트워크 오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="net_work_notice">이 기능을 사용하면 샤오미가 MIUI &amp; Android 버전을 포함한 귀하의 개인 데이터를 수집, 처리 및 사용할 것에 동의해야합니다. 앱 버전, 위치 정보 및 사용 가능한 앱 목록 이것은 하나의 장치가 다른 장치를 찾고 관리할 수 ​​있도록하는데 필요합니다. 기기 ID, 위치 정보 및 사용 가능한 앱 목록이 타사 서비스 제공 업체와 공유 될 수 있습니다. 개인 정보 취급 방침은 개인 정보 취급 방침에서 확인할 수 있습니다. 아래 "동의"를 눌러 개인 정보 보호 정책에 동의 할 수 있습니다.</string>
@@ -118,7 +118,7 @@
     <string name="pression_denied">권한 거부됨</string>
     <string name="private_policy">개인 정보 보호 정책</string>
     <string name="private_policy_url">ko</string>
-    <string name="qr_downlaod">KiteGuard.apk는 QR코드 상단을 스캔하여 다운로드할 수 있습니다.</string>
+    <string name="qr_downlaod">KiteGuard.apk는 QR 코드 상단을 스캔하여 다운로드할 수 있습니다.</string>
     <string name="qr_text_1">1. 이 QR 코드를 스캔하여 자녀 보호 기능을 다운로드하세요.</string>
     <string name="qr_text_2">2. 자녀 보호 기능을 열고 \"장치 추가\"를 탭하세요. QR 코드를 스캔하여 장치를 추가하세요.</string>
     <string name="regist_failed">"등록 할 수 없습니다. 오류 코드:"</string>

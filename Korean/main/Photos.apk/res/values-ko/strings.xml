@@ -81,7 +81,7 @@
     <string name="story_report_abuse_success">스토리를 성공적으로 신고했습니다.</string>
     <string name="story_report_abuse_failure">이 스토리를 신고하는 중에 오류가 발생했습니다.</string>
     <string name="stories_share">공유</string>
-    <string name="loading_progress">로드 중...</string>
+    <string name="loading_progress">불러오는 중...</string>
     <string name="stories_from_your_phone_initiate_share">공유</string>
     <string name="story_is_shared_badge_text">공유됨</string>
     <string name="save">저장</string>
@@ -166,7 +166,7 @@
     <string name="picker_external_download_title">선택한 파일 준비 중</string>
     <string name="picker_external_download_error">선택한 파일을 가져오는 중에 오류가 발생했습니다.</string>
     <string name="picker_external_download_progress">다운로드 중… %d개 남음</string>
-    <string name="photos_photoeditor_intents_loading_message">로드 중...</string>
+    <string name="photos_photoeditor_intents_loading_message">불러오는 중...</string>
     <string name="photos_photoeditor_intents_error_loading">오류로 인해 미디어를 로드할 수 없습니다.</string>
     <string name="photos_photoeditor_intents_video_editing_not_supported">"이 기기에서는 동영상 수정이
 지원되지 않습니다."</string>
@@ -682,7 +682,7 @@
     <string name="couldnt_load_photo">사진을 로드하지 못함</string>
     <string name="show_photosphere">Photo Sphere 사진 표시</string>
     <string name="photos_photofragment_components_edit_error_loading">사진을 로드하는 중 오류가 발생했습니다. 수정할 수 없습니다.</string>
-    <string name="photos_photofragment_components_edit_loading_media">로드 중...</string>
+    <string name="photos_photofragment_components_edit_loading_media">불러오는 중...</string>
     <string name="photos_photofragment_components_edit_shared_album_title">공유 앨범에 있는 사진</string>
     <string name="photos_photofragment_components_edit_shared_album_message">사진의 사본이 이 앨범을 공유한 모든 사용자에게 공개됩니다.</string>
     <string name="photos_photofragment_components_edit_shared_album_edit">수정</string>
@@ -772,7 +772,7 @@
     <string name="auto_backup_setting_account">%s에 백업 중</string>
     <string name="auto_backup_setting_off">사용 안함</string>
     <string name="auto_backup_setting_loading">상태 업데이트 중…</string>
-    <string name="settings_progress_message_updating">로드 중...</string>
+    <string name="settings_progress_message_updating">불러오는 중...</string>
     <string name="cloud_settings_save_failed">서버 설정을 로드할 수 없습니다.</string>
     <string name="auto_create_setting_title">새로 만든 항목</string>
     <string name="auto_create_setting_desc">내 라이브러리에서 제작된 영화와 콜라주 등에 대한 카드</string>
@@ -1170,7 +1170,7 @@
     <string name="one_click_change_circles_toast_message">"처음 사용자를 추가할 때 %1$s 이외의 서클을 선택하려면 '추가'를 길게 터치하세요."</string>
     <string name="retry_send">다시 시도</string>
     <string name="done">완료</string>
-    <string name="loading">로드 중...</string>
+    <string name="loading">불러오는 중...</string>
     <string name="home_menu_settings">설정</string>
     <string name="home_menu_feedback">의견 보내기</string>
     <string name="menu_home_help">도움말</string>

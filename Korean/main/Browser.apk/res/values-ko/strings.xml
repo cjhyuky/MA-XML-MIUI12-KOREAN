@@ -120,8 +120,8 @@
     <string name="app_download_market_text">Mi 스토어를 이용해 다운로드하세요. 빠르고 안전합니다.</string>
     <string name="app_download_now_text">다운로드</string>
     <string name="app_download_success_text">완료</string>
-    <string name="app_downloading_ratio_text">%s 다운로드중</string>
-    <string name="app_downloading_text">다운로드중</string>
+    <string name="app_downloading_ratio_text">%s 다운로드 중</string>
+    <string name="app_downloading_text">다운로드 중</string>
     <string name="app_installing_text">설치중</string>
     <string name="app_name">마켓개발자</string>
     <string name="app_new_version">이미 최신 버젼의 앱이 설치되어 있습니다.</string>
@@ -741,7 +741,7 @@
     <string name="mw_month_picker_dialog_title">월 설정</string>
     <string name="mw_mr_button_content_description">방송하기 버튼</string>
     <string name="mw_mr_cast_button_connected">방송하기 버튼. 연결됨</string>
-    <string name="mw_mr_cast_button_connecting">방송하기 버튼. 연결중</string>
+    <string name="mw_mr_cast_button_connecting">방송하기 버튼. 연결 중</string>
     <string name="mw_mr_cast_button_disconnected">방송하기 버튼. 연결해제됨</string>
     <string name="mw_mr_chooser_searching">기기를 찾는중</string>
     <string name="mw_mr_chooser_title">방송 선택</string>
@@ -1438,7 +1438,7 @@
     <string name="pref_personalized_customization">사용자 맞춤</string>
     <string name="action_menu_text_add_shortcut">바로가기 추가</string>
     <string name="ad_download_continue">계속하기</string>
-    <string name="ad_download_downloading">다운로드중</string>
+    <string name="ad_download_downloading">다운로드 중</string>
     <string name="ad_download_error">에러</string>
     <string name="ad_download_immediately">다운로드</string>
     <string name="ad_download_open">열기</string>
@@ -1479,10 +1479,10 @@
     <string name="dialog_nps_comment_slogan_text">"앱 평가
 우리의 일을 지원하기 위해 "</string>
     <string name="dialog_scroll_up_to_more_site">더 크게 보려면 위로 스크롤하세요.</string>
-    <string name="load_more_footer_status_msg_error_load">"로드 할 수 없습니다. 다시 시도하세요."</string>
+    <string name="load_more_footer_status_msg_error_load">"불러올 수 없습니다. 다시 시도하세요."</string>
     <string name="load_more_footer_status_msg_error_no_network">"네트워크에 연결할 수 없습니다."</string>
     <string name="load_more_footer_status_msg_full">"지금 끝났습니다."</string>
-    <string name="load_more_footer_status_msg_idle">더 많이로드하려면 누르세요.</string>
+    <string name="load_more_footer_status_msg_idle">더 많이 불러오려면 누르세요.</string>
     <string name="load_more_footer_status_msg_loading">잠시만 기다려주세요…</string>
     <string name="nav_launch_title">다음 앱을 사용해보세요.</string>
     <string name="nav_lunch_duokan">두오칸 열기…</string>
@@ -1519,13 +1519,13 @@
     <string name="vo_feedback_shield">차단 목록</string>
     <string name="vo_feedback_sub_quality">클릭 베이트, 욕설 등</string>
     <string name="vo_info_flow_load_error_content">다시 시도</string>
-    <string name="vo_info_flow_load_error_title">"정보를로드 할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
-    <string name="vo_info_flow_load_more_content">추가로드</string>
+    <string name="vo_info_flow_load_error_title">"정보를 불러올 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
+    <string name="vo_info_flow_load_more_content">더 불러오기</string>
     <string name="vo_info_flow_load_more_error">네트워크 오류가 발생했습니다. 네트워크 설정을 확인하고 다시 시도하세요. ~</string>
     <string name="vo_info_flow_load_more_full">"지금 끝났습니다. 다른 채널을 확인하세요."</string>
-    <string name="vo_info_flow_load_more_idle">추가로드</string>
+    <string name="vo_info_flow_load_more_idle">더 불러오기</string>
     <string name="vo_info_flow_load_more_loading">잠깐만…</string>
-    <string name="vo_info_flow_load_more_title">더 많은 항목을 수동으로로드 해보세요.</string>
+    <string name="vo_info_flow_load_more_title">더 많은 항목을 수동으로 불러오세요.</string>
     <string name="vo_info_flow_refresh_empty">현재 업데이트가 없습니다. 다른 채널을 확인하세요!</string>
     <string name="vo_info_flow_refresh_error">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="vo_like_text">좋아요</string>
@@ -1601,7 +1601,7 @@
     <string name="expand_article">전체 기사 보기</string>
     <string name="short_video_ad_download_app">%s 앱 다운로드</string>
     <string name="short_video_ad_download_immediately">다운로드</string>
-    <string name="short_video_ad_downloading">%d%% 다운로드중</string>
+    <string name="short_video_ad_downloading">%d%% 다운로드 중</string>
     <string name="short_video_ad_installing">설치중</string>
     <string name="short_video_ad_open_app">%s 앱 열기</string>
     <string name="short_video_ad_open_immediately">열기</string>
