@@ -46,23 +46,23 @@
     <string name="help_page_text_05">1단계 : 기기 및 네트워크 환경 확인</string>
     <string name="help_page_text_06">"1. Mi 전화에서 Mi TV로 무언가를 전송하려는 경우 인터넷에 연결할 필요가 없습니다.
 2. 두 기기간에 연결을 설정할 수 없으면 두 기기를 동일한 Wi-Fi 네트워크에 연결해보세요."</string>
-    <string name="help_page_text_07">3. 스마트스크린을 지원하지 않는 일부 샤오미 TV나 타사 TV를 같은 네트워크에 연결해도 되지 않을 경우 미라캐스트 기능을 활성화해야 합니다.</string>
+    <string name="help_page_text_07">3. 스마트스크린을 지원하지 않는 일부 Xiaomi TV나 타사 TV를 같은 네트워크에 연결해도 되지 않을 경우 미라캐스트 기능을 활성화해야 합니다.</string>
     <string name="help_page_text_08">2단계 : 캐스팅 켜기</string>
     <string name="help_page_text_09">"스마트폰 알림 창에서 \"전송 \" 버튼을 터치하여 보다 안정된 연결을 위해 Wi-Fi와 블루투스를 모두 켭니다."</string>
     <string name="help_page_text_10">갤러리 또는 Mi Video에서 항목을 캐스팅하려면 앱에 내장된 기능을 사용할 수 있습니다.</string>
     <string name="help_page_text_11">3단계: 기기 선택</string>
     <string name="help_page_text_12">사용 가능한 기기 목록에서 외부 기기를 선택하여 전송을 시작합니다.</string>
     <string name="help_page_text_13">"외부 장치에 연결할 수 없습니까?"</string>
-    <string name="help_page_text_14">"1. 샤오미 장치를 사용하려고하지만 사용 가능한 장치 목록에서 찾을 수 없는 경우 다음을 시도하세요.
+    <string name="help_page_text_14">"1. Xiaomi 장치를 사용하려고하지만 사용 가능한 장치 목록에서 찾을 수 없는 경우 다음을 시도하세요.
 휴대전화와 외부 모니터(예 : TV)를 동일한 Wi-Fi 네트워크에 연결하거나 외부 모니터를 휴대전화의 핫스팟에 연결하세요. 사용 가능한 Wi-Fi 네트워크가 없거나 두 기기를 동일한 네트워크에 연결할 수 없는 경우 외부 모니터의 전송 기능이 최신 상태인지 확인하고 휴대전화와 외부 모니터에서 블루투스를 켜고, TV에서 Miracast를 켭니다.
-2. 샤오미 장치를 처음으로 캐스팅하는 경우 확인을 완료해야합니다.
-3. 샤오미 이외의 장치를 사용하려고하지만 사용 가능한 장치 목록에서 해당 장치를 찾을 수 없으면 다음을 시도하세요.
+2. Xiaomi 장치를 처음으로 캐스팅하는 경우 확인을 완료해야합니다.
+3. Xiaomi 이외의 장치를 사용하려고하지만 사용 가능한 장치 목록에서 해당 장치를 찾을 수 없으면 다음을 시도하세요.
 휴대전화와 외부 모니터 (예 : TV)를 동일한 Wi-Fi 네트워크에 연결하거나 외부 모니터를 휴대전화의 핫스팟에 연결하세요. 그래도 문제가 해결되지 않으면 LeEco 캐스팅 앱을 TV에 설치하고 지침을 따르세요."</string>
     <string name="help_page_text_15">다른 기기에서 미라캐스트</string>
     <string name="help_page_text_16">Mi TV/Mi 프로젝터</string>
     <string name="help_page_text_17">"Miracast를 수동으로 켜지 않고도 블루투스 기능이있는 대부분의 Mi TV 모델에서 Mi 전화의 항목을 투사 할 수 있습니다.
 Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Miracast를 선택하세요."</string>
-    <string name="help_page_text_17_1">샤오미 고객센터: 400-100-5678</string>
+    <string name="help_page_text_17_1">Xiaomi 고객센터: 400-100-5678</string>
     <string name="help_page_text_18">삼성 TV</string>
     <string name="help_page_text_19">우선 장치에 미라캐스트 기능이 활성화 되어있는지 확인하세요. 미라캐스트에 대한 자세한 방법은 개별 고객센터로 문의하실 수 있습니다.</string>
     <string name="help_page_text_20">삼성 고객센터: 400-810-5858</string>
@@ -134,7 +134,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="help_page_text_14_global">"1. Mi 기기가 사용 가능한 장치 목록에 없는 경우 다음과 같이 시도해보시기 바랍니다:
 스마트폰과 외부 모니터(예: TV)를 동일한 Wi-Fi 네트워크에 연결시키거나 외부 모니터를 스마트폰의 핫스팟에 연결하세요. 사용 가능한 Wi-Fi가 없거나 두 기기를 동일한 네트워크에 연결할 수 없는 경우 외부 모니터의 전송 기능이 최신 상태인지 확인하고 스마트폰과 외부 모니터의 블루투스를 켜고, 외부 모니터에서 Miracast를 활성화하시기 바랍니다.
 2. Mi 기기에서 처음으로 사용하는 경우 확인 과정이 필요합니다.
-3. 3. 샤오미 이외의 장치를 사용하려고하지만 사용 가능한 장치 목록에서 해당 장치를 찾을 수 없으면 다음과 같이 시도해보시기 바랍니다:
+3. 3. Xiaomi 이외의 장치를 사용하려고하지만 사용 가능한 장치 목록에서 해당 장치를 찾을 수 없으면 다음과 같이 시도해보시기 바랍니다:
 휴대전화와 외부 모니터(예: TV)를 동일한 Wi-Fi 네트워크에 연결하거나 외부 모니터를 휴대전화의 핫스팟에 연결하세요."</string>
     <string name="help_page_text_55_global">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다.
 4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보하실 수 있습니다."</string>

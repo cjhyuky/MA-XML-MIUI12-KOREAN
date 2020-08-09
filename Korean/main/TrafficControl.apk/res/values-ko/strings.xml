@@ -179,7 +179,7 @@
     <string name="v2_dialog_no_savings_info_data_type_binary">앱 업데이트 또는 파일 다운로드</string>
     <string name="v2_dialog_no_savings_info_data_type_low_media_quality">저품질 동영상 및 이미지</string>
     <string name="v2_dialog_no_savings_info_data_type_pre_compressed">이미 압축된 데이터</string>
-    <string name="v2_dialog_no_savings_info_data_type_private">비밀번호화된 데이터</string>
+    <string name="v2_dialog_no_savings_info_data_type_private">암호화된 데이터</string>
     <string name="v2_dialog_no_savings_info_data_type_vpn_or_savings_off">Opera Max VPN 또는 절약이 꺼진 상태에서 소비한 데이터</string>
     <string name="v2_dialog_no_savings_info_text_header">다음은 Opera Max에서 절감되지 않습니다:</string>
     <string name="v2_dialog_no_savings_info_title">절약이 되지 않았나요?</string>

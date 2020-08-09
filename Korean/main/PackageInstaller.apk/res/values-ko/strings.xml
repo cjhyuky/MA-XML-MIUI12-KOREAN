@@ -361,10 +361,10 @@
     <string name="connected_via_passpoint">%1$s에 연결됨</string>
     <string name="connected_via_wfa">Wi-Fi 어시스턴트에 연결됨</string>
     <string name="content_description_menu_button">메뉴</string>
-    <string name="convert_to_fbe_warning">"비밀번호화 되어있는 데이터 파티션을 변환합니다.</string>
+    <string name="convert_to_fbe_warning">"암호화 되어있는 데이터 파티션을 변환합니다.</string>
     <string name="convert_to_file_encryption">파일 잠금중</string>
-    <string name="convert_to_file_encryption_done">파일이 이미 비밀번호화되어있음</string>
-    <string name="convert_to_file_encryption_enabled">비밀번호화 중…</string>
+    <string name="convert_to_file_encryption_done">파일이 이미 암호화되어있음</string>
+    <string name="convert_to_file_encryption_enabled">암호화 중…</string>
     <string name="daltonizer_mode_deuteranomaly">녹색약(적녹)</string>
     <string name="daltonizer_mode_disabled">사용 중지됨</string>
     <string name="daltonizer_mode_monochromacy">전색맹</string>
@@ -501,7 +501,7 @@
     <string name="tether_settings_title_usb_bluetooth">테더링</string>
     <string name="tether_settings_title_wifi">휴대용 핫스팟</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링을 사용할 수 없습니다.</string>
-    <string name="title_convert_fbe">파일 비밀번호화 변환중…</string>
+    <string name="title_convert_fbe">파일 암호화 변환중…</string>
     <string name="track_frame_time">프로필 GPU 렌더링</string>
     <string name="transition_animation_scale_title">전환 애니메이션 크기</string>
     <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>

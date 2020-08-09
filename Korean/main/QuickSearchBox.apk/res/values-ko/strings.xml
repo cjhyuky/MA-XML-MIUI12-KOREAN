@@ -102,7 +102,7 @@
     <string name="clear_shortcuts">바로가기 삭제</string>
     <string name="clear_shortcuts_summary">최근에 검색한 모든 바로가기 삭제</string>
     <string name="clear_shortcuts_prompt">"최근에 검색한 모든 바로가기와 검색기록을 삭제하기 원하십니까?
-검색기록을 삭제하려면, 브라우져 설정으로 가세요"</string>
+검색기록을 삭제하려면, 브라우저 설정으로 가세요"</string>
     <string name="clear_shortcuts_agree">바로가기 삭제</string>
     <string name="clear_shortcuts_disagree">바로가기 삭제하지 않기</string>
     <string name="recently_shortcut_label">최근 바로가기</string>

@@ -281,8 +281,8 @@
     <string name="make_private">숨기기</string>
     <string name="open_private_folder">놓아서 숨김 폴더 보기</string>
     <string name="decrypt">숨기기 취소</string>
-    <string name="repair_file">비밀번호화된 파일 복구</string>
-    <string name="encrypting">비밀번호화 중…</string>
+    <string name="repair_file">암호화된 파일 복구</string>
+    <string name="encrypting">암호화 중…</string>
     <string name="decrypting">해독 중…</string>
     <string name="decrypt_error">해독 할 수 없음</string>
     <string name="user_not_login">먼저 등록하세요.</string>
@@ -346,7 +346,7 @@
     <string name="move_icon_to_desktop_success">홈 화면에 바로 가기 추가됨</string>
     <string name="clean_hint">탭하여 여유공간 확보하기</string>
     <string name="private_toast_hint2">파일을 숨기시려면, 누르시고 기다리신 다음 숨김 폴더에 추가합니다.</string>
-    <string name="encrypt_success_first_five">파일이 비밀번호화되고 숨겨졌습니다. 파일 탐색기 시작페이지에서 당겨 내리시면 숨긴 파일을 확인하실 수 있습니다.</string>
+    <string name="encrypt_success_first_five">파일이 암호화되고 숨겨졌습니다. 파일 탐색기 시작페이지에서 당겨 내리시면 숨긴 파일을 확인하실 수 있습니다.</string>
     <string name="add_private">지금 파일 숨김</string>
     <string name="private_folder_no_file_hints">숨겨진 파일이 없습니다.</string>
     <string name="private_folder_update">숨김 파일 업데이트 중…</string>
@@ -430,7 +430,7 @@
     <string name="network_not_available">네크워크에 연결할 수 없습니다.</string>
     <string name="request_timeout">네트워크 요청 시간 초과</string>
     <string name="login_expired">시간이 초과되었습니다. 다시 로그인을 시도하세요.</string>
-    <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer 폴더의 파일을 비밀번호화할 수 없습니다. 파일을 다른 폴더로 이동하신 후 다시 시도하세요.</string>
+    <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer 폴더의 파일을 암호화할 수 없습니다. 파일을 다른 폴더로 이동하신 후 다시 시도하세요.</string>
     <string name="hottest_sticker_str">인기</string>
     <string name="no_new_content_tip">모든 항목이 최신입니다.</string>
     <string name="share_title_1">멋있는 스티커를 찾았습니다!</string>
@@ -819,7 +819,7 @@
     <string name="search_download">다운로드;최근 다운로드</string>
     <string name="search_hot_sticker">스티커; 스티커 다운로드</string>
     <string name="search_hot_video">인기 동영상;동영상 업로드;영상 업로드;짧은 영상;짧은 동영상</string>
-    <string name="search_kuai_chuan">미 드롭;전송</string>
+    <string name="search_kuai_chuan">Mi 드롭;전송</string>
     <string name="search_recent_file">파일 탐색기;탐색기;파일;파일들;파일 관리;파일 매니저</string>
     <string name="search_statistic_appname">출처</string>
     <string name="search_statistic_keyword">키워드</string>
@@ -835,7 +835,7 @@
     <string name="request_document_permission">SD 카드의 파일을 관리하려면 파일 관리자에 필요한 권한을 부여하세요.</string>
     <string name="request_document_permission_title">권한이 필요함</string>
     <string name="menu_set_wallpaper">배경화면으로 설정</string>
-    <string name="ftp_anonymous_warning_msg">익명화 기능으로 인해 보안 위험이 발생할 수 있습니다. 어쨌든 이 기능을 사용하시겠습니까?</string>
+    <string name="ftp_anonymous_warning_msg">익명화 기능으로 인해 보안 위험이 발생할 수 있습니다. 그래도 이 기능을 사용하시겠습니까?</string>
     <string name="ftp_anonymous_warning_title">주의</string>
     <string name="home_action_up">뒤로</string>
     <string name="category_source">소스</string>

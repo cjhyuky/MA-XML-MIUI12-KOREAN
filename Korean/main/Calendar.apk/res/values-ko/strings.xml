@@ -457,7 +457,7 @@
     <string name="unsubscribing_card">구독 해제 중</string>
     <string name="user_notice_button_exit">종료</string>
     <string name="user_notice_button_ok">확인</string>
-    <string name="user_notice_message">이 제품을 사용함으로서 샤오미의 %1$s와 %2$s에 동의하시는 것입니다. 몇몇 기능의 정상적인 작동을 위해서 인터넷 연결과 위치 서비스, 연락처, SMS의 접근이 요구됩니다.</string>
+    <string name="user_notice_message">이 제품을 사용함으로서 Xiaomi의 %1$s와 %2$s에 동의하시는 것입니다. 몇몇 기능의 정상적인 작동을 위해서 인터넷 연결과 위치 서비스, 연락처, SMS의 접근이 요구됩니다.</string>
     <string name="user_notice_title">주의</string>
     <string name="view_event_calendar_label">캘린더:</string>
     <string name="view_event_organizer_label">주최자:</string>

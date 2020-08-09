@@ -102,7 +102,7 @@
     <string name="my_qr">카이트가드 APk QR 코드</string>
     <string name="need_network_when_bind">장치를 추가하려면 네트워크에 연결하세요.</string>
     <string name="net_work_error">네트워크 오류가 발생했습니다. 다시 시도하세요.</string>
-    <string name="net_work_notice">이 기능을 사용하면 샤오미가 MIUI &amp; Android 버전을 포함한 귀하의 개인 데이터를 수집, 처리 및 사용할 것에 동의해야합니다. 앱 버전, 위치 정보 및 사용 가능한 앱 목록 이것은 하나의 장치가 다른 장치를 찾고 관리할 수 ​​있도록하는데 필요합니다. 기기 ID, 위치 정보 및 사용 가능한 앱 목록이 타사 서비스 제공 업체와 공유 될 수 있습니다. 개인 정보 취급 방침은 개인 정보 취급 방침에서 확인할 수 있습니다. 아래 "동의"를 눌러 개인 정보 보호 정책에 동의 할 수 있습니다.</string>
+    <string name="net_work_notice">이 기능을 사용하면 Xiaomi가 MIUI &amp; Android 버전을 포함한 귀하의 개인 데이터를 수집, 처리 및 사용할 것에 동의해야합니다. 앱 버전, 위치 정보 및 사용 가능한 앱 목록 이것은 하나의 장치가 다른 장치를 찾고 관리할 수 ​​있도록하는데 필요합니다. 기기 ID, 위치 정보 및 사용 가능한 앱 목록이 타사 서비스 제공 업체와 공유 될 수 있습니다. 개인 정보 취급 방침은 개인 정보 취급 방침에서 확인할 수 있습니다. 아래 "동의"를 눌러 개인 정보 보호 정책에 동의 할 수 있습니다.</string>
     <string name="no_msg_yet">아직 메시지를 받지 못했습니다.</string>
     <string name="not_set_time_fence_yet">"시간 울타리를 설정하지 않았습니다."</string>
     <string name="notice_detail">메시지 세부 사항</string>

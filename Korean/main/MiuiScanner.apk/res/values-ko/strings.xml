@@ -2,7 +2,7 @@
 <resources>
     <string name="WeChatqr_code_auto_processing">WeChat 열기</string>
     <string name="agree_audio_permission">오디오 녹음</string>
-    <string name="agree_monitor_use">온라인 수업 중 의도 청취,주의 산만 및 퇴근 시간과 비율을 감지합니다.    모든 개인 데이터가 로컬로 저장됩니다.</string>
+    <string name="agree_monitor_use">온라인 수업 중 의도 청취,주의 산만 및 퇴근 시간과 비율을 감지합니다. 모든 개인 데이터가 로컬로 저장됩니다.</string>
     <string name="downloadAiVisonReason">플러그인에 따라 업그레이드해야 함</string>
     <string name="function">기능</string>
     <string name="if_open_result">앱으로 돌아올 때 스캔 결과 표시</string>
@@ -13,8 +13,8 @@
     <string name="monitor_result_switch_text">녹음 결과</string>
     <string name="monitor_result_switch_video">동영상보기</string>
     <string name="monitor_unsupport_device">현재 기기가 지원되지 않습니다.</string>
-    <string name="monitoringAlert_content">"넷 클래스 화면을 향하고 정상적인 앉은 자세를 유지하세요.이 전화기를 시선 바로 앞에서 30도 각도로 수직으로 놓고 카메라가 얼굴을 향하게 한 다음 시작 버튼을 클릭하세요.    .
- *이 소프트웨어는 온라인 코스 장치가 아닌주의 탐지에만 사용됩니다.    시작하기 전에 식별 및 수정에 몇 초가 걸립니다.    "</string>
+    <string name="monitoringAlert_content">"넷 클래스 화면을 향하고 정상적인 앉은 자세를 유지하세요.이 전화기를 시선 바로 앞에서 30도 각도로 수직으로 놓고 카메라가 얼굴을 향하게 한 다음 시작 버튼을 클릭하세요. .
+ *이 소프트웨어는 온라인 코스 장치가 아닌주의 탐지에만 사용됩니다. 시작하기 전에 식별 및 수정에 몇 초가 걸립니다. "</string>
     <string name="monitoringCHeck_pause">일시 중지</string>
     <string name="monitoringCheck_alert">앉은 자세를 수정하고 네트 클래스 화면을 향하도록하세요.</string>
     <string name="monitoringCheck_alertChecking">확인 중...</string>
@@ -44,7 +44,7 @@
     <string name="expand_button_title">고급</string>
     <string name="feedback_phone">연락처 정보(선택 사항)</string>
     <string name="history_empty">아직 항목이 없습니다.</string>
-    <string name="if_to_open_milogo_scanning">샤오미 로고 인식</string>
+    <string name="if_to_open_milogo_scanning">Xiaomi 로고 인식</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침…</string>
@@ -440,7 +440,7 @@
     <string name="please_try_again_later">1~2분 기다렸다가 다시 시도하세요.</string>
     <string name="queryNum">주문 확인</string>
     <string name="query_faile">"주문 상태 및 세부 사항이 아직 동기화되지 않았습니다. 주문을 수동으로 확인하세요."</string>
-    <string name="query_inai">미 AI가 도와드리겠습니다.</string>
+    <string name="query_inai">Mi AI가 도와드리겠습니다.</string>
     <string name="query_more">추가 정보</string>
     <string name="query_tracknum">빠른 배송 주문 확인</string>
     <string name="see_details">세부 정보를 보려면 누르세요.</string>

@@ -846,7 +846,7 @@
     <string name="photo_load_failed">사진을 불러오지 못했습니다.</string>
     <string name="empty_divider_title" />
     <string name="noContactHelpTextAccountsInfo" />
-    <string name="noContactHelpTextImport샤오미AccountInfo">Mi 계정을 이용하여 연락처 데이터 복원</string>
+    <string name="noContactHelpTextImportXiaomiAccountInfo">Mi 계정을 이용하여 연락처 데이터 복원</string>
     <string name="recent_contacts_label">최근</string>
     <string name="noRecentContacts">최근 연락처 없음</string>
     <string name="loading_groups">잠시 기다려 주세요…</string>
@@ -1267,7 +1267,7 @@
     <string name="t9_search_empty_send_sms">메시지 전송</string>
     <string name="t9_search_empty_edit_contact">연락처에 추가</string>
     <string name="add_field_toast">추가할 공간이 없습니다.</string>
-    <string name="add_miui_contact">미 카드</string>
+    <string name="add_miui_contact">Mi 카드</string>
     <string name="back_description">뒤로가기</string>
     <string name="calllog_call_note_menu">전화 노트</string>
     <string name="calllog_call_record_menu">녹음된 전화</string>

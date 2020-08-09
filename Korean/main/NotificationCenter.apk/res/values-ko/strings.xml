@@ -6,7 +6,7 @@
     <string name="confirm">확인</string>
     <string name="feedback">피드백</string>
     <string name="feedback_tip_cancel">"알림 데이터가 수집되지 않습니다."</string>
-    <string name="feedback_tip_msg">알림을보다 정확하게 그룹화하려면 앱 이름, 알림 제목 및 설명, 알림이 전송 된 시간을 수집해야합니다.    의견을 제출하시겠습니까?</string>
+    <string name="feedback_tip_msg">알림을보다 정확하게 그룹화하려면 앱 이름, 알림 제목 및 설명, 알림이 전송 된 시간을 수집해야합니다. 의견을 제출하시겠습니까?</string>
     <string name="feedback_tip_title">알림 카테고리에 대한 피드백</string>
     <string name="function_description">이 기능 정보</string>
     <string name="menu_setting_recommend_to_minus">알림 수 감소</string>

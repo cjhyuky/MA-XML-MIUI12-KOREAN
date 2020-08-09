@@ -274,7 +274,7 @@
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다.</string>
     <string name="space_name_default">워크 스페이스</string>
-    <string name="space_des_default">비밀번호화된 데이터로 분리된 공간</string>
+    <string name="space_des_default">암호화된 데이터로 분리된 공간</string>
     <string name="create_work_space">워크 스페이스 생성</string>
     <string name="switch_download_space">워크 스페이스 전환</string>
     <string name="confirm_airspace_password">%s 비밀번호 승인</string>
@@ -284,8 +284,8 @@
     <string name="need_network_when_create">워크 스페이스를 생성하기 전에 네트워크에 연결하세요.</string>
     <string name="downloading_space">다운로드 중…</string>
     <string name="air_space_deleted">워크 스페이스 삭제에 성공했습니다.</string>
-    <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀 번호를 다시 설정하세요.</string>
-    <string name="reset_passwd_success">비밀 번호 다시 설정에 성공했습니다.</string>
+    <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀번호를 다시 설정하세요.</string>
+    <string name="reset_passwd_success">비밀번호 다시 설정에 성공했습니다.</string>
     <string name="air_space_exit">공간에서 나가기</string>
     <string name="air_space_setting">공간 설정</string>
     <string name="other">기타</string>
@@ -375,11 +375,11 @@
     <string name="settings_set_password_for_owner_space_desc">첫 번째 공간에서 화면 잠금을 설정하여 설정에서 바로 가기를 제거하세요.</string>
     <string name="settings_set_password_for_sec_space">보조 공간의 화면 잠금 설정</string>
     <string name="settings_set_password_for_sec_space_desc">두 번째 공간에서 화면 잠금을 설정하여 설정에서 바로 가기를 제거하세요.</string>
-    <string name="settings_switch_space">하나의 핸드폰을 두 기기처럼 사용하기</string>
+    <string name="settings_switch_space">하나의 휴대전화을 두 기기처럼 사용하기</string>
     <string name="space_create_guide_desc_1">앱 및 사진 따로 보관</string>
     <string name="space_create_guide_desc_2">보조 공간 사용 가능</string>
     <string name="space_create_guide_desc_3">"보조 공간은 기기에 영향을 미치지 않습니다."</string>
-    <string name="space_create_guide_switchmode_title">하나의 핸드폰을 두 기기처럼 사용하세요.</string>
+    <string name="space_create_guide_switchmode_title">하나의 휴대전화을 두 기기처럼 사용하세요.</string>
     <string name="space_create_guide_title_1">사생활 보호</string>
     <string name="space_create_guide_title_2">언제나 생성 가능</string>
     <string name="space_create_guide_title_3">부담 없는 작업</string>
@@ -440,7 +440,7 @@
     <string name="ent_mode_activated">엔터프라이즈 모드가 활성화되었습니다.</string>
     <string name="ent_network_error">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 이득을 얻으세요." </string>
     <string name="ent_next_step">다음</string>
-    <string name="ent_privacy_policy_notice">*이 모드의 개인 데이터는 정책에 따라 수집됩니다. 귀하의 법인이 설립했습니다. 샤오미는 이 모드에서 개인 정보를 수집하지 않습니다.</string>
+    <string name="ent_privacy_policy_notice">*이 모드의 개인 데이터는 정책에 따라 수집됩니다. 귀하의 법인이 설립했습니다. Xiaomi는 이 모드에서 개인 정보를 수집하지 않습니다.</string>
     <string name="install">설치</string>
     <string name="install_error">"다시 설치할 수 없습니다."</string>
     <string name="menu_item_about_privacy_title">개인 정보 보호 정책</string>
@@ -464,9 +464,9 @@
     <string name="master_clear_apply_step_2">모든 중요한 항목을 컴퓨터에 백업했는지 확인하세요. \"OK\"를 탭하면 기기에서 초기화가 수행되어 계정, 주소록, 사진, 앱 등 모든 파일 및 데이터가 영구적으로 삭제됩니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="more_settings">더보기</string>
-    <string name="undo_activated_dialog_message">"엔터프라이즈 모드를 비활성화하고 장치에 대한 공장 초기화를 하면 관련된 모든 기능을 더 이상 사용할 수 없으며, 샤오미는 엔터프라이즈 모드(IMEI, 기기 ID, 시스템 버전, 지역 등)로 수집한 데이터를 관리하지 않습니다. 허가를 취소하고 공장 초기화를 진행하시겠습니까?"</string>
+    <string name="undo_activated_dialog_message">"엔터프라이즈 모드를 비활성화하고 장치에 대한 공장 초기화를 하면 관련된 모든 기능을 더 이상 사용할 수 없으며, Xiaomi는 엔터프라이즈 모드(IMEI, 기기 ID, 시스템 버전, 지역 등)로 수집한 데이터를 관리하지 않습니다. 허가를 취소하고 공장 초기화를 진행하시겠습니까?"</string>
     <string name="undo_activated_dialog_ok">취소</string>
-    <string name="undo_grant_dialog_message">샤오미는 인증 취소 후, 이 기능(IMEI, 기기 ID, 시스템 버전, 지역 등)에 필요한 정보를 수집하지 않습니다. 지금 해지하시겠습니까?</string>
+    <string name="undo_grant_dialog_message">Xiaomi는 인증 취소 후, 이 기능(IMEI, 기기 ID, 시스템 버전, 지역 등)에 필요한 정보를 수집하지 않습니다. 지금 해지하시겠습니까?</string>
     <string name="undo_privacy_menu">취소 인증</string>
     <string name="undo_success">취소 완료</string>
     <string name="button_input_password">비밀번호를 입력하세요.</string>

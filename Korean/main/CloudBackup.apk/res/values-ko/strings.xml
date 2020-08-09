@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="btn_restore_wait_china">Wi-Fi 대기중</string>
-    <string name="cloud_back_up_detail_discription_china">"이 항목은 장치가 Wi-Fi에 연결되면 샤오미 클라우드에 백업됩니다.
+    <string name="cloud_back_up_detail_discription_china">"이 항목은 장치가 Wi-Fi에 연결되면 Xiaomi 클라우드에 백업됩니다.
 * 앱, 홈 화면 레이아웃 및 배경 화면
 * 알람, 시계 및 시간 설정
 * 알림 설정
 * MIUI 및 시스템 설정
-참고 : 설치한 앱의 데이터는 샤오미 클라우드에 백업되지 않습니다."</string>
-    <string name="cloud_backup_detail_state_summary_china">Wi-Fi에 연결되면 샤오미 클라우드 백업을 자동으로 생성합니다.</string>
+참고 : 설치한 앱의 데이터는 Xiaomi 클라우드에 백업되지 않습니다."</string>
+    <string name="cloud_backup_detail_state_summary_china">Wi-Fi에 연결되면 Xiaomi 클라우드 백업을 자동으로 생성합니다.</string>
     <string name="dialog_msg_restore_require_wlan_china">백업을 복원하려면 Wi-Fi에 연결해야합니다.</string>
     <string name="dialog_title_require_wlan_china">Wi-Fi에 연결</string>
     <string name="help_and_feedback">도움말 및 피드백</string>
@@ -60,7 +60,7 @@
     <string name="customization"><u>사용자 설정</u></string>
     <string name="self_phone">이 휴대전화</string>
     <string name="process_whole_recovery">\"%s\" 복원 중</string>
-    <string name="device_xiaomi">Mi 폰</string>
+    <string name="device_xiaomi">Mi 휴대전화</string>
     <string name="recovering">%s 복원 중</string>
     <string name="start_recover">%s 복원</string>
     <string name="latest_backup_time_loading">불러오는 중…</string>
@@ -115,7 +115,7 @@
     <string name="query_restore_summary">이 기기를 위한 Mi 클라우드 백업 파일을 찾았습니다. 홈 화면 앱과 설정을 복원하거나 새로운 기기를 이용하여 이전 Mi 클라우드 백업을 삭제하시겠습니까?</string>
     <string name="query_restore_back_view">Mi 클라우드 백업</string>
     <string name="restore_home_screen_apps">Mi 클라우드 백업에서 복원</string>
-    <string name="restoring_home_screen_apps">샤오미 클라우드에서 복원중…</string>
+    <string name="restoring_home_screen_apps">Xiaomi 클라우드에서 복원중…</string>
     <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 어플을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
     <string name="restore_from_this_device">이 백업을 사용하여 복원</string>
     <string name="confirm_restore_title">복원</string>
@@ -143,11 +143,11 @@
     <string name="authentication_failed">"계정을 확인할 수 없습니다."</string>
     <string name="backup_fail_wifi_needed">"백업할 수 없습니다. Wi-Fi 연결이 필요합니다."</string>
     <string name="cancel_restore_home">취소중…</string>
-    <string name="cloud_backup">미 클라우드 백업</string>
+    <string name="cloud_backup">Mi 클라우드 백업</string>
     <string name="cloud_backup_detail_title">홈 화면, 앱, 그리고 설정.</string>
     <string name="cloud_backup_in_cancel">취소</string>
     <string name="cloud_backup_in_process">백업중…</string>
-    <string name="cloud_backup_title">미 클라우드 백업</string>
+    <string name="cloud_backup_title">Mi 클라우드 백업</string>
     <string name="confirm_cancel_restore_negative">취소</string>
     <string name="confirm_cancel_restore_positive">계속</string>
     <string name="confirm_cancel_restore_title">백업을 취소하시겠습니까?</string>
@@ -168,7 +168,7 @@
     <string name="open_backup_switch">백업 스위치를 탭하세요.</string>
     <string name="remove_again">다시 시도</string>
     <string name="remove_unfinished">삭제중, 나중에 다시 시도하세요.</string>
-    <string name="restore_cloud_backup_to_phone">미 클라우드에서 항목 복원</string>
+    <string name="restore_cloud_backup_to_phone">Mi 클라우드에서 항목 복원</string>
     <string name="restore_data_title">데이터 복원중</string>
     <string name="restore_finished_notification_content">홈 화면, 시스템 설정 등을 복원했습니다.</string>
     <string name="restore_home_failed">"홈 화면을 복원하지 못했습니다."</string>
@@ -177,7 +177,7 @@
     <string name="restore_unfinished">나중에 다시 시도하세요.</string>
     <string name="restoring_file_tile">%d 파일 복원중</string>
     <string name="total_space">전체 용량 : %s</string>
-    <string name="device_corrupt">Mi 폰 (손상된 데이터)</string>
+    <string name="device_corrupt">Mi 휴대전화 (손상된 데이터)</string>
     <string name="size_unknown">알 수 없는 크기</string>
     <string name="btn_retry">다시 확인</string>
     <string name="provision_error_connect_msg">네트워크에 연결하고 다시 시도할 수 있습니다. 유효한 네트워크가 없으면 백업 기능을 사용할 수 없습니다.</string>
@@ -188,7 +188,7 @@
     <string name="dialog_msg_restore_require_wlan">백업 파일 복원은 Wi-Fi 연결이 필요합니다.</string>
     <string name="dialog_title_require_wlan">Wi-Fi 연결요망</string>
     <string name="get_device_id_error">기기 ID 복원 실패</string>
-    <string name="home_hint_global_launcher">포코 런처</string>
+    <string name="home_hint_global_launcher">POCO 런처</string>
     <string name="home_restore_error">홈 화면 복원 실패</string>
     <string name="self_phone_home">내 기기 : %s</string>
     <string name="btn_restore_abort">취소</string>
@@ -220,7 +220,7 @@
     <string name="desktop_wait_network">대기중…</string>
     <string name="doing_calc_backup_data_size">크기 계산중…</string>
     <string name="btn_restore_wait">Wi-Fi 기다리는 중</string>
-    <string name="btn_restore_continue">어쨌든 복원</string>
+    <string name="btn_restore_continue">그래도 복원</string>
     <string name="msg_restore_with_metered_network_pattern">%s개 파일이 다운로드 됩니다."</string>
     <string name="msg_restore_with_metered_network_hint">이 항목을 복원하면 모바일 데이터가 다운로드에 사용됩니다.</string>
     <string name="msg_restore_start_with_metered_network">"홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다. %s개 파일이 다운로드됩니다."</string>
@@ -248,7 +248,7 @@
     <string name="unselected">선택안됨</string>
     <string name="backup_failed_reason_network_error">네트워크 오류. 잠시후 다시 시도하세요.</string>
     <string name="backup_failed_reason_disk_space_not_enough">저장 공간이 충분하지 않습니다. 먼저 저장소를 비우세요.</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">미 클라우드에 저장공간이 충분하지 않습니다. 요금제를 업그레이드하거나 저장공간을 확보하세요.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Mi 클라우드에 저장공간이 충분하지 않습니다. 요금제를 업그레이드하거나 저장공간을 확보하세요.</string>
     <string name="restore_failed_reason_network_error">네트워크 오류. 잠시후 다시 시도하세요.</string>
     <string name="restore_failed_reason_disk_space_not_enough">저장 공간이 충분하지 않습니다. 먼저 저장소를 비우세요.</string>
     <string name="restoring_data">데이터 복원중…</string>

@@ -26,9 +26,9 @@
     <string name="settings_ad_loading_unavailable">정보를 불러오지 못했습니다.</string>
     <string name="autoconnect">자동연결</string>
     <string name="open_wifi_connect_and_use_data_summary">모바일 데이터 사용중. 탭하여 Wi-Fi로 전환하세요.</string>
-    <string name="poco_privacy_policy">포코 런쳐 개인정보 보호 정책 &amp; 포코 런쳐 사용자 동의</string>
-    <string name="poco_launcher_privacy_policy">포코 런쳐 개인정보 보호정책</string>
-    <string name="poco_launcher_user_agreement">포코 런쳐 사용자 약관</string>
+    <string name="poco_privacy_policy">POCO 런쳐 개인정보 보호 정책 &amp; POCO 런쳐 사용자 동의</string>
+    <string name="poco_launcher_privacy_policy">POCO 런쳐 개인정보 보호정책</string>
+    <string name="poco_launcher_user_agreement">POCO 런쳐 사용자 약관</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
@@ -37,5 +37,5 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="privacy_station_title">샤오미의 개인 정보 보호</string>
+    <string name="privacy_station_title">Xiaomi의 개인 정보 보호</string>
 </resources>

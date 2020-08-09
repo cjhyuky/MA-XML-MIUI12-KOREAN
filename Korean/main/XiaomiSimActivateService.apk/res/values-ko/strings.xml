@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">샤오미 SIM 활성화 서비스</string>
+    <string name="app_name">Xiaomi SIM 활성화 서비스</string>
     <string name="accept">확인</string>
     <string name="explain_send_sms_permission_title">전화번호 인증</string>
-    <string name="explain_send_sms_permission_msg">%s 항목을 켜기 위해 샤오미 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 따라 다르게 부과됩니다.</string>
+    <string name="explain_send_sms_permission_msg">%s 항목을 켜기 위해 Xiaomi 서비스 프레임워크가 귀하의 전화번호 인증 SMS를 발송합니다. SMS 비용은 귀하가 사용하시는 통신사의 요금제에 따라 다르게 부과됩니다.</string>
     <string name="explain_send_sms_permission_button">인증</string>
     <string name="activate_phone_failed_notif_title">SIM 카드를 활성화할 수 없습니다.</string>
     <string name="activate_phone_failed_notif_title_msim">"%d SIM 카드를 활성화 할 수 없습니다."</string>

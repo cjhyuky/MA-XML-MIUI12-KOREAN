@@ -350,7 +350,7 @@
     <string name="db_error">오류가 발생했습니다. 다시 로그인하세요.</string>
     <string name="default_">기본값</string>
     <string name="default_setup">기본 설정</string>
-    <string name="default_signature">내 Mi 폰에서 전송됨</string>
+    <string name="default_signature">내 Mi 휴대전화에서 전송됨</string>
     <string name="del_account_questionnair_hint">왜 계정을 삭제하려는지 알려줄 수 있나요?</string>
     <string name="delete">삭제</string>
     <string name="delete_message_flow">메시지 흐름 삭제</string>
@@ -434,7 +434,7 @@
     <string name="file_deleted_success">파일 삭제됨</string>
     <string name="file_not_found">파일을 찾지 못했습니다.</string>
     <string name="file_not_found_redownload">파일을 찾지 못했습니다.</string>
-    <string name="file_rar_not_support">비밀번호화된 rar 파일을 열 수 없습니다.</string>
+    <string name="file_rar_not_support">암호화된 rar 파일을 열 수 없습니다.</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">버튼을 탭하여 대화창의 모든 사람에게 \"%s\" 메일을 전송</string>
     <string name="folder_list_display_all">모든 폴더 표시</string>
@@ -741,7 +741,7 @@
     <string name="policy_require_encryption">장치 보안 필요</string>
     <string name="policy_require_manual_sync_roaming">로밍 중에는 수동 동기화만 허용</string>
     <string name="policy_require_password">기기 비밀번호 필요</string>
-    <string name="policy_require_sd_encryption">SD 카드 비밀번호화 필요</string>
+    <string name="policy_require_sd_encryption">SD 카드 암호화 필요</string>
     <string name="policy_require_smime">SMIME 메시지 필요</string>
     <string name="policy_screen_timeout">화면을 잠글 유휴 기기 필요</string>
     <string name="policy_text_truncation">텍스트 이메일 크기 제한</string>
@@ -1186,7 +1186,7 @@
     <string name="dialog_disagree">동의하지 않음</string>
     <string name="list_empty_to_fresh">메일 없음, 아래로 당겨서 새로고침하세요.</string>
     <string name="notify_channel_no_disterb">방해 금지 모드</string>
-    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 장치 정보가 들어있습니다. 샤오미의 %2$s 사항을 읽고 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
+    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 장치 정보가 들어있습니다. Xiaomi의 %2$s 사항을 읽고 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
     <string name="notify_channel_service">백그라운드 동기화 알림</string>
     <string name="appraise_des">우리는 귀하의 만족을 위해서 제품 개발을 열심히 하고 있습니다. 의견을 보내 주시길 바랍니다.</string>
     <string name="appraise_good">칭찬과 격려</string>
@@ -1236,7 +1236,7 @@
     <string name="account_setup_basics_password_label_authcode">비밀번호 또는 확인 코드 입력</string>
     <string name="account_setup_options_mail_check_frequency_15min">매 15분마다</string>
     <string name="add_account_search">계정 추가</string>
-    <string name="all_purpose">메일 앱에 오신 것을 환영합니다. 이 앱은 킹소프트가 개발한 샤오미 전용 이메일 클라이언트로, 이메일을 작성하고 보내거나 받을 수 있습니다.</string>
+    <string name="all_purpose">메일 앱에 오신 것을 환영합니다. 이 앱은 킹소프트가 개발한 Xiaomi 전용 이메일 클라이언트로, 이메일을 작성하고 보내거나 받을 수 있습니다.</string>
     <string name="confirm_age">연령 확인</string>
     <string name="delete_contact_content">지금이 연락처를 삭제하시겠습니까?</string>
     <string name="email_sync_failed">"메일을 동기화할 수 없습니다."</string>
@@ -1274,12 +1274,12 @@
     <string name="user_privacy_settings">개인정보 보호설정</string>
     <string name="user_privacy_settings_agreement_authorization">"(\"동의\"를 탭하면 메일 앱에 필요한 모든 권한이 부여됩니다)"</string>
     <string name="user_privacy_settings_path">인증을 취소하려면 설정>개인정보 보호설정으로 이동하세요.</string>
-    <string name="user_privacy_settings_summary">"Google은 비밀번호화된 형식으로 Android ID를 수집하여 메일에서 고유한 사용자 식별자로 사용합니다. 또한 사용로그를 수집할 수도 있습니다. 개인정보 보호설정에서 언제든지 승인을 취소할 수 있습니다."</string>
+    <string name="user_privacy_settings_summary">"Google은 암호화된 형식으로 Android ID를 수집하여 메일에서 고유한 사용자 식별자로 사용합니다. 또한 사용로그를 수집할 수도 있습니다. 개인정보 보호설정에서 언제든지 승인을 취소할 수 있습니다."</string>
     <string name="user_privacy_settings_title">메일 개인정보 취급방침</string>
     <string name="wait_while_update_db">데이터베이스 업데이트중…</string>
     <string name="account_settings_smime_title">S/MIME(보안/다목적 인터넷 메일 확장)</string>
     <string name="account_smime_cert_title">인증서</string>
-    <string name="account_smime_encrypt">S/MIME 비밀번호화</string>
+    <string name="account_smime_encrypt">S/MIME 암호화</string>
     <string name="account_smime_install_cert">인증서 추가</string>
     <string name="account_smime_sign">S/MIME 서명</string>
     <string name="certificate_add_failed">"\"%s\"인증서를 추가할 수 없습니다."</string>
@@ -1295,12 +1295,12 @@
     <string name="conversation_cert_info_tips">이 이메일은 신뢰할 수 있는 인증서로 서명되었습니다.</string>
     <string name="conversation_cert_info_title">서명</string>
     <string name="conversation_cert_trust">신뢰할 수 있음</string>
-    <string name="conversation_message_encrypt_tips">비밀번호화된 이메일입니다. 비밀번호해독에 필요한 인증서를 추가하세요.</string>
+    <string name="conversation_message_encrypt_tips">암호화된 이메일입니다. 비밀번호해독에 필요한 인증서를 추가하세요.</string>
     <string name="no_open_smime_toast">먼저 S/MIME 인증서 추가</string>
     <string name="obtain_new_auth_code">새로운 코드 요청</string>
     <string name="qq_changepw_dialog_tips">로그인 할 %s에서 새 코드를 가져옵니다.</string>
-    <string name="send_encrypt_dialog_fail_content">"받는 사람에게이 이메일을 비밀번호화하는 데 필요한 신뢰할 수 있는 인증서가 없는 것 같습니다. 대신 일반 이메일을 보낼까요?"</string>
-    <string name="send_encrypt_dialog_fail_title">"비밀번호화 된 이메일을 보낼 수 없습니다."</string>
+    <string name="send_encrypt_dialog_fail_content">"받는 사람에게이 이메일을 암호화하는 데 필요한 신뢰할 수 있는 인증서가 없는 것 같습니다. 대신 일반 이메일을 보낼까요?"</string>
+    <string name="send_encrypt_dialog_fail_title">"암호화된 이메일을 보낼 수 없습니다."</string>
     <string name="user_new_auth_code">새로운 코드로 로그인</string>
     <string name="xiaomi_email">메일</string>
     <string name="xiaomi_under_certification">인증중…</string>

@@ -512,7 +512,7 @@
  <string name="add_first_cw_toast4">슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
  <string name="cat_5">팝</string>
  <string name="disable_dlg_cancel">취소</string>
- <string name="disable_dlg_content">"슬라이드형 배경화면을 끄면 홈 화면과 잠금 화면으로 새로운 이미지를 전달할 수 없습니다. 어쨌든 끄시겠습니까?"</string>
+ <string name="disable_dlg_content">"슬라이드형 배경화면을 끄면 홈 화면과 잠금 화면으로 새로운 이미지를 전달할 수 없습니다. 그래도 끄시겠습니까?"</string>
  <string name="disable_dlg_ok">끄기</string>
  <string name="disable_dlg_title">슬라이드형 배경화면을 끄시겠습니까?</string>
  <string name="enable_toast_ar">추천으로 전환</string>

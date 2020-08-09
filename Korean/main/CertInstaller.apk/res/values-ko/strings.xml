@@ -61,7 +61,7 @@
     <string name="certificate_capabilities_warning">참고 : 이 인증서 발급자는 장치와 주고받은 모든 트래픽을 검사 할 수 있습니다.</string>
     <string name="ca_cert_is_added">CA 인증서 설치</string>
     <string name="ca_certificate">CA 인증서</string>
-    <string name="cert_temp_error">일시적인 실패.    나중에 다시 시도하세요.</string>
+    <string name="cert_temp_error">일시적인 실패. 나중에 다시 시도하세요.</string>
     <string name="certificate">인증서</string>
     <string name="certificate_name">인증서 이름</string>
     <string name="invalid_certificate_close_button">닫기</string>

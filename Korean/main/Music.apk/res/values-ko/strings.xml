@@ -566,7 +566,7 @@
     <string name="privacy_desc">개인정보 보호정책(필수)</string>
     <string name="privacy_policy">개인 정보 보호 정책</string>
     <string name="pro_member">프로 회원</string>
-    <string name="project_device">Mi 폰</string>
+    <string name="project_device">Mi 휴대전화</string>
     <string name="prompt_grant_write_settings_permission">설정 권한 요청</string>
     <string name="pulluprefreshrecyclerview_loading_error">불러오기 실패</string>
     <string name="pulluprefreshrecyclerview_loading_finished">불러오기 성공</string>
@@ -817,8 +817,8 @@
     <string name="offline_song_and_auto_next">"이 노래는 사용할 수 없습니다. 지금 건너 뜁니다."</string>
     <string name="recommend_tool">추천</string>
     <string name="video_network_negative">모바일 데이터를 사용한 스트리밍 항목 허용</string>
-    <string name="cloud_empty_summary">다른 장치에서도 노래를 들을 수 있도록 샤오미 클라우드에 백업하세요.</string>
-    <string name="cloud_welcome_summary">다른 장치에서도 들을 수 있도록 노래를 샤오미 클라우드에 백업하세요.</string>
+    <string name="cloud_empty_summary">다른 장치에서도 노래를 들을 수 있도록 Xiaomi 클라우드에 백업하세요.</string>
+    <string name="cloud_welcome_summary">다른 장치에서도 들을 수 있도록 노래를 Xiaomi 클라우드에 백업하세요.</string>
     <string name="cta_runtime_perm_desc_account">Mi 계정을 사용하여 로그인하기 위해 장치의 계정에 접근</string>
     <string name="cta_runtime_perm_desc_audio">마이크를 사용하여 노래 식별</string>
     <string name="cta_runtime_perm_desc_location">지역 라디오 방송국에 접근</string>
@@ -831,7 +831,7 @@
     <string name="headline_content_issue_feedback">컨텐츠 문제에 대한 피드백</string>
     <string name="sleep_mode_seek_bar_end">120분</string>
     <string name="sleep_mode_seek_bar_start">1분</string>
-    <string name="sync_only_in_wifi_summary">샤오미 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동 통신사가 추가 요금을 청구 할 수 있습니다.</string>
+    <string name="sync_only_in_wifi_summary">Xiaomi 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동 통신사가 추가 요금을 청구 할 수 있습니다.</string>
     <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
     <string name="create_playlist_input_hint">재생목록 이름을 입력하세요.</string>
     <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야합니다. 다음에 직접 노래에 액세스할 수 있습니다."</string>

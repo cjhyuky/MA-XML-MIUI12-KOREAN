@@ -491,7 +491,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="baterry_percent">"충전된 배터리 용량 : "</string>
     <string name="baterry_temperature">"배터리 온도: "</string>
     <string name="begin_to_save_finger_data">지문 데이터 저장하기</string>
-    <string name="camera_capture">캡쳐</string>
+    <string name="camera_capture">캡처</string>
     <string name="camerainfo">카메라 정보</string>
     <string name="cancel_test">테스트 취소됨</string>
     <string name="capacitance_test">전기 용량 테스트</string>

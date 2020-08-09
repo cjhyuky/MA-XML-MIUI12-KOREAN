@@ -204,10 +204,10 @@
     <string name="control_tip"> 제어 아래 전화 번호, 터치 중지</string>
     <string name="control_title">원격 제어</string>
     <string name="controllee_end_control">예</string>
-    <string name="controllee_end_control_message">"원격제어중지 후에는 다른사용자가 핸드폰을 컨트롤 할수 없습니다."</string>
+    <string name="controllee_end_control_message">"원격제어중지 후에는 다른사용자가 휴대전화을 컨트롤 할수 없습니다."</string>
     <string name="controllee_end_control_title">원격제어를 중지하시겠습니까？</string>
     <string name="controllee_end_sharing">예</string>
-    <string name="controllee_end_sharing_message">"원격제어중지 후에는 다른사용자가 핸드폰 화면을 볼 수 없습니다."</string>
+    <string name="controllee_end_sharing_message">"원격제어중지 후에는 다른사용자가 휴대전화 화면을 볼 수 없습니다."</string>
     <string name="controllee_end_sharing_title">스크린 공유를 중지하시겠습니까？</string>
     <string name="controllee_invite_rejected_tip">다른사용자가 귀하의 요청을 받지않습니다.</string>
     <string name="controller_end_control_message">원격제어를 중지하시겠습니까?</string>
@@ -217,7 +217,7 @@
     <string name="controller_remote_screen_locked_info">"다른 사용자의 전화가 잠겨있습니다."</string>
     <string name="controller_start">원격 제어</string>
     <string name="controller_start_message">클릭후에는 사용자의 화면이 다른사용자에게 보여집니다.</string>
-    <string name="controller_start_summary">핸드폰 제어</string>
+    <string name="controller_start_summary">휴대전화 제어</string>
     <string name="controller_wait_accept_info">수락 대기중</string>
     <string name="controller_wait_data_flow_info">잠시만 기다려주세요...</string>
     <string name="conversation_edit_title_middle">%s 항목을 선택하셨습니다.</string>
@@ -374,7 +374,7 @@
     <string name="input_verificationcode_info">인증코드를 입력해주세요. 한달에 한번 적용할 수 있습니다.</string>
     <string name="input_verificationcode_tittle">인증코드 입력</string>
     <string name="input_voip_id">"다른사용자ID입력"</string>
-    <string name="insert_image_out_of_memory">실패, 핸드폰 메모리가 부족합니다.</string>
+    <string name="insert_image_out_of_memory">실패, 휴대전화 메모리가 부족합니다.</string>
     <string name="intercept_tips">그룹 채팅 초대 거부</string>
     <string name="invalid_packet_dialog_msg">현재 네트워크는 인증이 필요합니다, 브라우저를 여시고 인증정보를 입력하세요.</string>
     <string name="invalid_packet_dialog_open_btn">브라우저 열기</string>
@@ -592,7 +592,7 @@
     <string name="recall">재다이얼</string>
     <string name="receive_controllee_invite_message">다른사용자가 화면 공유를 시작했습니다.</string>
     <string name="receive_controllee_invite_title">다른사용자가 화면 공유를 시작했습니다.</string>
-    <string name="receive_controller_invite_message">귀하의 핸드폰을 원격제어하기 위해 권한을 요청합니다.</string>
+    <string name="receive_controller_invite_message">귀하의 휴대전화을 원격제어하기 위해 권한을 요청합니다.</string>
     <string name="receive_controller_invite_title">안전 수칙</string>
     <string name="receive_magic_message_failed_message">최신 버전으로 업그레이드하시기 바랍니다, 마법 메시지 수신 실패</string>
     <string name="receive_message_failed_title">메시지 수신 실패</string>
@@ -753,7 +753,7 @@
     <string name="stop">중지</string>
     <string name="stop_call">끊기</string>
     <string name="stop_record_video">녹화중, 멈추려면 클릭하세요.</string>
-    <string name="stranger_deny_control">"대화상대가 귀하의 핸드폰을 제어하려고 합니다. 안전을 고려하여, 상대를 연락처에 추가하지 않으시면 요청은 거절됩니다."</string>
+    <string name="stranger_deny_control">"대화상대가 귀하의 휴대전화을 제어하려고 합니다. 안전을 고려하여, 상대를 연락처에 추가하지 않으시면 요청은 거절됩니다."</string>
     <string name="stranger_robot">낯선 로봇</string>
     <string name="stranger_title">모르는 사람</string>
     <string name="strict_mode">엄격 모드</string>

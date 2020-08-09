@@ -10,9 +10,9 @@
     <string name="yellow_page_sms_send_failed">SMS를 전송하지 못했습니다.</string>
     <string name="yellow_page_sms_sending">전송 중…</string>
     <string name="yellow_page_unable_send_sms">메시지를 전송할 수 없습니다.</string>
-    <string name="device_hongmi">홍미</string>
+    <string name="device_hongmi">Redmi</string>
     <string name="device_pad">Mi 패드</string>
-    <string name="device_xiaomi">Mi 폰</string>
+    <string name="device_xiaomi">Mi 휴대전화</string>
     <string name="no_notification_tips">알림 없음</string>
     <string name="android_ringtone_default_with_actual">기본 벨소리(Id%1$s)</string>
     <string name="cloud_state_disabled">Mi 클라우드로 동기화가 중단되었습니다.</string>
@@ -119,8 +119,8 @@
     <string name="group_name_coworkers">동료</string>
     <string name="group_name_family">가족</string>
     <string name="group_name_friends">친구</string>
-    <string name="device_poco_global">포코폰</string>
-    <string name="device_poco_india">포코폰</string>
+    <string name="device_poco_global">POCO 휴대전화</string>
+    <string name="device_poco_india">POCO 휴대전화</string>
     <string name="dewdrops">우물</string>
     <string name="citylight">도시</string>
     <string name="countryside">시골</string>

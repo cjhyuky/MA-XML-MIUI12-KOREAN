@@ -706,8 +706,8 @@
     <string name="policydesc_setGlobalProxy">정책이 사용 설정되어 있는 동안 사용될 기기 전체 프록시를 설정합니다. 첫 번째 기기 관리자가 설정한 전체 프록시만 유효합니다.</string>
     <string name="policylab_expirePassword">화면 잠금 비밀번호 만료 설정</string>
     <string name="policydesc_expirePassword">화면 잠금 비밀번호 변경 빈도를 설정합니다.</string>
-    <string name="policylab_encryptedStorage">저장소 비밀번호화 설정</string>
-    <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 비밀번호화해야 합니다.</string>
+    <string name="policylab_encryptedStorage">저장소 암호화 설정</string>
+    <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 암호화해야 합니다.</string>
     <string name="policylab_disableCamera">카메라 사용 안함</string>
     <string name="policydesc_disableCamera">모든 기기 카메라의 사용 차단</string>
     <string name="policylab_disableKeyguardFeatures">키가드에서 기능 사용중지</string>
@@ -1086,9 +1086,9 @@
     <string name="network_available_sign_in">네트워크에 로그인</string>
     <string name="wifi_watchdog_network_disabled">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="wifi_watchdog_network_disabled_detailed">" 인터넷 연결 상태가 좋지 않습니다."</string>
-    <string name="wifi_p2p_turnon_message">Wi-Fi 다이렉트 작업을 시작합니다. 이 작업을 하면 Wi-Fi 클라이언트/핫스팟 작업이 중지됩니다.</string>
-    <string name="wifi_p2p_failed_message">Wi-Fi 다이렉트를 시작하지 못했습니다.</string>
-    <string name="wifi_p2p_enabled_notification_title">Wi-Fi 다이렉트 켜짐</string>
+    <string name="wifi_p2p_turnon_message">Wi-Fi Direct 작업을 시작합니다. 이 작업을 하면 Wi-Fi 클라이언트/핫스팟 작업이 중지됩니다.</string>
+    <string name="wifi_p2p_failed_message">Wi-Fi Direct를 시작하지 못했습니다.</string>
+    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct 켜짐</string>
     <string name="wifi_p2p_enabled_notification_message">설정으로 이동하려면 터치하세요.</string>
     <string name="accept">동의</string>
     <string name="decline">거부</string>
@@ -1818,10 +1818,10 @@
     <string name="wfc_mode_wifi_preferred_summary">Wi-Fi 선호</string>
     <string name="whichApplicationLabel">끝내기</string>
     <string name="whichEditApplicationLabel">편집</string>
-    <string name="whichHomeApplicationLabel">이미지 캡쳐</string>
-    <string name="whichImageCaptureApplication">다음으로 이미지 캡쳐 : </string>
-    <string name="whichImageCaptureApplicationLabel">이미지 캡쳐</string>
-    <string name="whichImageCaptureApplicationNamed">%1$s로 이미지 캡쳐</string>
+    <string name="whichHomeApplicationLabel">이미지 캡처</string>
+    <string name="whichImageCaptureApplication">다음으로 이미지 캡처 : </string>
+    <string name="whichImageCaptureApplicationLabel">이미지 캡처</string>
+    <string name="whichImageCaptureApplicationNamed">%1$s로 이미지 캡처</string>
     <string name="whichSendApplicationLabel">공유</string>
     <string name="whichSendToApplication">다음을 이용하여 전송 : </string>
     <string name="whichSendToApplicationLabel">전송</string>
@@ -2326,7 +2326,7 @@
     <string name="unpin_target">고정 해제</string>
     <string name="volume_dialog_music_stream_not_silent">음소거 해제 음악입니다.</string>
     <string name="volume_dialog_music_stream_silent">뮤팅 음악입니다.</string>
-    <string name="wifi_p2p_dialog_title">Wi-Fi 다이렉트</string>
+    <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_show_pin_message">비밀번호:</string>
     <string name="miaudiovisual_notification_summary">잠금 화면에 효과를 표시하려면 켭니다.</string>
     <string name="miaudiovisual_notification_title">오디오 및 시각 효과</string>

@@ -146,7 +146,7 @@
     <string name="is_scanning">저장소 체크중…</string>
     <string name="character_counter_content_description">문자 제한이 %2$d자 중 %1$d자를 초과했습니다.</string>
     <string name="individuation_recommend_setting_title">맞춤형 추천</string>
-    <string name="individuation_recommend_switch_message">"이 기능을 끈 후에는 개인적인 관심사에 따른 추천을받지 못합니다. 어쨌든 끄시겠습니까?"</string>
+    <string name="individuation_recommend_switch_message">"이 기능을 끈 후에는 개인적인 관심사에 따른 추천을받지 못합니다. 그래도 끄시겠습니까?"</string>
     <string name="individuation_service_switch">맞춤형 추천</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="play_mode_circle_hint">지금 재생중인 한곡 반복</string>
@@ -251,7 +251,7 @@ ID:%s
     <string name="passport_error_empty_voice_code">보안 문자 입력</string>
     <string name="passport_error_illegal_pwd">잘못된 비밀번호</string>
     <string name="passport_error_network">네트워크에 연결할 수 없습니다.</string>
-    <string name="passport_error_no_password_user">아직 비밀 번호를 설정하지 않았습니다. SMS로 로그인하세요.</string>
+    <string name="passport_error_no_password_user">아직 비밀번호를 설정하지 않았습니다. SMS로 로그인하세요.</string>
     <string name="passport_error_server">서버 오류</string>
     <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_error_user_agreement_error">이용 약관에 먼저 동의합니다.</string>
@@ -295,8 +295,8 @@ ID:%s
     <string name="passport_trying_read_verify_code_sms">인증 코드 얻는 중…</string>
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
-    <string name="passport_user_agreement_link"><Data>"샤오미의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하였습니다."</Data></string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>샤오미의 &lt;a href=%1$s>사용자 동의&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 문서를 읽었으며 이에 동의합니다.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link"><Data>"Xiaomi의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하였습니다."</Data></string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Xiaomi의 &lt;a href=%1$s>사용자 동의&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 문서를 읽었으며 이에 동의합니다.&lt;/Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>
     <string name="passport_vcode_prompt_long">인증 코드를 입력하세요.</string>
@@ -329,7 +329,7 @@ ID:%s
     <string name="sns_access_token_expired_warning">계정 로그인이 만료되었습니다. 이 계정에 다시 연결하려면 다시 로그인하세요.</string>
     <string name="sns_bind_limit">너무 많은 시도가 있습니다. 다른 방법으로 로그인 해보세요.</string>
     <string name="sns_sign_in">다른 로그인 방법</string>
-    <string name="splash_bottom_hint">샤오미 FM</string>
+    <string name="splash_bottom_hint">Xiaomi FM</string>
     <string name="temporary_not_available">일시적으로 사용 불가</string>
     <string name="update_email_address_dialog_message">업데이트하기 전 신분 인증이 요구됩니다.</string>
     <string name="update_email_address_dialog_title">이메일 업데이트</string>

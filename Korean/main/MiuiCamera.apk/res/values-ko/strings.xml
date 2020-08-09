@@ -21,7 +21,7 @@
     <string name="ambilight_intro_crowd_moving_part1">붐비는 거리에서 촬영할 때는 피사체가 움직이지 않도록 요청하세요. 다른 사람들은 흐릿한 길로 나타납니다.</string>
     <string name="ambilight_intro_crowd_moving_part2">또한 바쁜 교통량과 움직이는 군중의 사진을 찍을 수 있습니다. 장 노출은 건물을 선명하게 유지하지만 움직이는 모든 물체가 흐릿합니다.</string>
     <string name="ambilight_intro_light_track">어두운 장면에서 광원을 사용하여 \"페인트\"하여 모든 조명 된 조각을 하나의 이미지로 모으세요.</string>
-    <string name="ambilight_intro_magic_star">빛 오염이 적은 곳에서이 모드를 사용하세요.    노출은 %d초로 설정되므로 삼각대를 사용하는 것이 좋습니다.</string>
+    <string name="ambilight_intro_magic_star">빛 오염이 적은 곳에서이 모드를 사용하세요. 노출은 %d초로 설정되므로 삼각대를 사용하는 것이 좋습니다.</string>
     <string name="ambilight_intro_silky_water_part1">움직이는 구름을 촬영할 때 이 모드를 사용하세요. 하늘에 "오일 페인팅" 효과를줍니다.</string>
     <string name="ambilight_intro_silky_water_part2">이 모드는 움직이는 물 (강, 폭포 및 호수)을 새틴처럼 보이게합니다.</string>
     <string name="ambilight_intro_star_track">"별이 빛나는 하늘을 오랫동안 촬영하면 별의 궤적을 포착 할 수 있습니다. 삼각대를 사용하고 최소 %d분 동안 연속 촬영하는 것을 잊지 마세요."</string>
@@ -302,12 +302,12 @@
     <string name="pref_camera_volumekey_function_entry_exposure">노출</string>
     <string name="pref_camera_volumekey_function_title">볼륨 버튼 기능(사진 모드)</string>
     <string name="pref_camera_volumekey_function2_title">볼륨 버튼 기능(동영상 모드)</string> 
-    <string name="error_fail_to_start_audio_capture">오디오 캡쳐를 시작하지 못했습니다.</string>
+    <string name="error_fail_to_start_audio_capture">오디오 캡처를 시작하지 못했습니다.</string>
     <string name="toast_start_audio_capture">사진 촬영시 셔터음 사용</string>
     <string name="record_back_pressed_hint">다시 터치하면 녹화 멈춤</string>
     <string name="toast_burst_snap_finished_start">버스트 샷</string>
     <string name="toast_burst_snap_finished_end">사진</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">오디오 캡쳐가 켜져 있으면 버스트 샷을 사용할 수 없습니다.</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">오디오 캡처가 켜져 있으면 버스트 샷을 사용할 수 없습니다.</string>
     <string name="time_lapse_error">이 동영상 크기에서는 타임 랩스 녹화를 할 수 없습니다.</string>
     <string name="pref_camera_movie_solid_title">이미지 흔들림 방지</string>
     <string name="simple_mode_button_text_hand_night">HHT 끄기</string>
@@ -315,7 +315,7 @@
     <string name="simple_mode_button_text_color_effect">필터 끄기</string>
     <string name="simple_mode_button_text_slow_video">타임 랩스 끄기</string>
     <string name="simple_mode_button_text_fast_video">슬로우 모션 끄기</string>
-    <string name="pref_video_captrue_ability_title">녹화 중 이미지 캡쳐</string>
+    <string name="pref_video_captrue_ability_title">녹화 중 이미지 캡처</string>
     <string name="see_qrcode_detals">QR 코드 세부사항 보기</string>
     <string name="pref_camera_watermark_title">사진에 타임 스탬프 추가</string>
     <string name="pref_dualcamera_watermark_title">듀얼 카메라 워터마크</string>
@@ -394,8 +394,8 @@
     <string name="pref_burst_shoot_title">버스트 샷</string>
     <string name="burst_shoot_exit_button_text">연속 촬영 끄기</string>
     <string name="pref_camera_long_pressing_shutter_title">셔터 버튼 길게&amp; 눌러 AE/AF/AWB 잠금</string>
-    <string name="simple_mode_button_asd_flash">플래시 캡쳐 끄기</string>
-    <string name="simple_mode_button_asd_hdr">HDR 캡쳐 끄기</string>
+    <string name="simple_mode_button_asd_flash">플래시 캡처 끄기</string>
+    <string name="simple_mode_button_asd_hdr">HDR 캡처 끄기</string>
     <string name="pref_audio_focus_title">오디오 초점</string>
     <string name="pref_audio_focus_entry_general">보통</string>
     <string name="pref_audio_focus_entry_front">정면</string>
@@ -593,8 +593,8 @@
     <string name="pref_camera_photostyle_entry_standard">표준</string>
     <string name="pref_camera_photostyle_entry_vivid">생생한</string>
     <string name="camera_facedetection_sub_option_hint">베타 옵션</string>
-    <string name="front_camera_hint_text_place">"핸드폰을 가로로 돌려 셀카를 편하게 촬영하세요."</string>
-    <string name="front_camera_hint_text_rotate">핸드폰 돌리기</string>
+    <string name="front_camera_hint_text_place">"휴대전화을 가로로 돌려 셀카를 편하게 촬영하세요."</string>
+    <string name="front_camera_hint_text_rotate">휴대전화 돌리기</string>
     <string name="pref_camera_facedetection_auto_hidden_title">얼굴인식 프레임 자동으로 숨기기</string>
     <string name="pref_camera_raw_title">RAW</string>
     <string name="simple_mode_button_text_mono">흑백 모드</string>
@@ -774,7 +774,7 @@
     <string name="import_complete">불러오기 성공</string>
     <string name="import_fail">불러오기 실패</string>
     <string name="iso">ISO</string>
-    <string name="launch_market">샤오미 앱 마켓 실행</string>
+    <string name="launch_market">Xiaomi 앱 마켓 실행</string>
     <string name="launch_qq">브라우저에서 QQ 실행</string>
     <string name="launch_wechat">WeChat 실행</string>
     <string name="loading_video">동영상 로딩중…</string>
@@ -829,7 +829,7 @@
     <string name="pref_camera_video_duration_title">영상 길이</string>
     <string name="pref_camera_whitebalance_k_value_title">화이트 밸런스 K값</string>
     <string name="pref_camera_zsl_title">ZSL</string>
-    <string name="pref_grp_capture_settings">캡쳐 설정</string>
+    <string name="pref_grp_capture_settings">캡처 설정</string>
     <string name="pref_grp_picture_settings">사진 설정</string>
     <string name="pref_grp_restore_settings">복원 설정</string>
     <string name="pref_settings_mode">카메라 모드</string>
@@ -1065,7 +1065,7 @@
     <string name="ultra_pixel_photography_close_tip">울트라HD 기능이 꺼졌습니다.</string>
     <string name="ultra_pixel_photography_open_tip">울트라HD 기능이 켜졌습니다.</string>
     <string name="live_edit_exit_confirm">종료</string>
-    <string name="live_edit_exit_message">캡쳐를 중지하시겠습니까?</string>
+    <string name="live_edit_exit_message">캡처를 중지하시겠습니까?</string>
     <string name="beauty_reset_toast">뷰티 효과 다시 설정 완료</string>
     <string name="live_sticker_updating">업데이트 중...</string>
     <string name="live_edit_share_title">공유</string>
@@ -1249,11 +1249,11 @@
     <string name="dialog_ok_time">확인(%d초)</string>
     <string name="portrait_effect_entry_riddle">캔디</string>
     <string name="mimoji_create_tips">Mi모지 생성을 위해 카메라를 똑바로 쳐다보세요.</string>
-    <string name="mimoji_recapture_alert">처음부터 다시 시작하면 모든 변경 사항이 삭제됩니다.    어쨌든 다시 시작하시겠습니까?</string>
-    <string name="mimoji_edit_back_alert">돌아 가시면 모든 변경 사항이 삭제됩니다.    어쨌든 돌아가시겠습니까?</string>
+    <string name="mimoji_recapture_alert">처음부터 다시 시작하면 모든 변경 사항이 삭제됩니다. 그래도 다시 시작하시겠습니까?</string>
+    <string name="mimoji_edit_back_alert">돌아 가시면 모든 변경 사항이 삭제됩니다. 그래도 돌아가시겠습니까?</string>
     <string name="mimoji_edit_abandon_alert">모든 변경사항을 취소하시겠습니까?</string>
     <string name="mimoji_edit_abandon_capture_alert">모든 변경사항을 취소하시겠습니까?</string>
-    <string name="mimoji_edit_cancel_alert">모든 변경 사항이 삭제됩니다.    어쨌든 취소하시겠습니까?</string>
+    <string name="mimoji_edit_cancel_alert">모든 변경 사항이 삭제됩니다. 그래도 취소하시겠습니까?</string>
     <string name="mimoji_delete_dialog_title">Mi모지를 삭제하시겠습니까?</string>
     <string name="mimoji_delete">삭제</string>
     <string name="mimoji_reset">다시 설정</string>
@@ -1421,7 +1421,7 @@
     <string name="clone_guide_tip4">기기를 안정되게 잡고 피사체의 조명이 충분한지 확인하세요.</string>
     <string name="clone_guide_tip5">포즈를 사용해보세요.</string>
     <string name="clone_guide_tip6">복사해 보세요.</string>
-    <string name="clone_guide_tip7">캡쳐중</string>
+    <string name="clone_guide_tip7">캡처중</string>
     <string name="clone_guide_tip8">창의적으로 사진을 재구성 해보세요.</string>
     <string name="clone_guide_title2">사진에서 복사</string>
     <string name="clone_guide_title4">프리뷰</string>
@@ -1464,7 +1464,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="mode_edit_cancel">취소</string>
     <string name="mode_edit_exit">끝내기</string>
-    <string name="mode_edit_exit_message">지금 종료하면 모든 변경 사항이 손실됩니다. 어쨌든 종료하시겠습니까?</string>
+    <string name="mode_edit_exit_message">지금 종료하면 모든 변경 사항이 손실됩니다. 그래도 종료하시겠습니까?</string>
     <string name="module_name_clone">복사</string>
     <string name="module_name_edit">수정</string>
     <string name="module_name_edit_favorite_title">시작 화면</string>

@@ -74,7 +74,7 @@
     <string name="passport_notification_need_unlock_again">다시 잠금해제 시도</string>
     <string name="device_lost">이 기기를 분실했습니다.</string>
     <string name="device_locked">이 기기는 잠겼습니다.</string>
-    <string name="default_lock_msg_words_with_phone">안녕하세요! 핸드폰을 분실했습니다. 저에게 연락해주실 수 있으십니까? 감사합니다!</string>
+    <string name="default_lock_msg_words_with_phone">안녕하세요! 휴대전화을 분실했습니다. 저에게 연락해주실 수 있으십니까? 감사합니다!</string>
     <string name="default_lock_msg_words">이 기기는 이미 Mi 계정과 연관되어 있습니다. 보안의 이유로 기기 인증이 필요합니다. 비밀번호를 입력해 주세요.</string>
     <string name="lock_msg_phone">연락처 정보: %s</string>
     <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다.

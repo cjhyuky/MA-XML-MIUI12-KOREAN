@@ -958,7 +958,7 @@
     <string name="phoneTypeWorkPager">직장 호출기</string>
     <string name="pm">오후</string>
     <string name="policydesc_disableCamera">모든 기기 카메라의 사용 차단</string>
-    <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 비밀번호화해야 합니다.</string>
+    <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 암호화해야 합니다.</string>
     <string name="policydesc_expirePassword">화면 잠금 비밀번호 변경 빈도 설정</string>
     <string name="policydesc_forceLock">화면을 잠그는 방법과 시기를 제어합니다.</string>
     <string name="policydesc_limitPassword">화면 잠금해제 비밀번호에 허용되는 길이 및 문자 수를 제어합니다.</string>
@@ -967,7 +967,7 @@
     <string name="policydesc_watchLogin">화면 잠금해제 시 비밀번호를 잘못 입력한 횟수를 모니터링하고, 잘못된 비밀번호 입력 횟수가 너무 많은 경우 휴대전화를 잠그거나 휴대전화에 있는 데이터를 모두 지웁니다.</string>
     <string name="policydesc_wipeData">초기화를 수행하여 경고 없이 휴대전화 데이터를 지웁니다.</string>
     <string name="policylab_disableCamera">카메라 사용 안함</string>
-    <string name="policylab_encryptedStorage">저장소 비밀번호화 설정</string>
+    <string name="policylab_encryptedStorage">저장소 암호화 설정</string>
     <string name="policylab_expirePassword">화면 잠금 비밀번호 만료 설정</string>
     <string name="policylab_forceLock">화면 잠금</string>
     <string name="policylab_limitPassword">비밀번호 규칙 설정</string>

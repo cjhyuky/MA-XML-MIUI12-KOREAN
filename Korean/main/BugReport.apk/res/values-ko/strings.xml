@@ -259,7 +259,7 @@
     <string name="modem_tool_log_dumping_desc">아이콘을 클릭해 멈추기</string>
     <string name="modem_tool_log_dumping_title">모뎀 로그 캡처</string>
     <string name="modem_tool_log_finish_desc">%s로 로그 저장됨</string>
-    <string name="modem_tool_log_finish_title">모뎀 로그 캡쳐됨</string>
+    <string name="modem_tool_log_finish_title">모뎀 로그 캡처됨</string>
     <string name="module_communication">대화</string>
     <string name="module_data">저장소 &amp; 듀얼 앱</string>
     <string name="module_desktop">홈 화면 &amp; 설정</string>
@@ -326,7 +326,7 @@
     <string name="passport_downlink_reg">전화번호를 사용하여 계정 만들기</string>
     <string name="passport_email">이메일 주소</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
-    <string name="passport_email_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인 또는 비밀번호 다시 설정에 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
     <string name="passport_error_dup_email">입력하신 이메일은 이미 다른 계정과 연결되어 있습니다.</string>
     <string name="passport_error_email">입력하신 이메일 주소가 잘못되었습니다.</string>
@@ -392,7 +392,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_reg_prompt">Mi 계정이 없습니까? 무료로 하나 만드세요.</string>
     <string name="passport_reg_success">계정 생성 완료</string>
-    <string name="passport_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인 또는 비밀번호 다시 설정에 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용</string>
     <string name="passport_reg_using_other_phone">&lt;u&gt;다른 전화번호 사용&lt;/u&gt;</string>
     <string name="passport_reg_using_other_phone_number_prompt">사용하실 새 계정을 만드세요.</string>
@@ -536,5 +536,5 @@
     <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
     <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 비밀번호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인 정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
 </resources>

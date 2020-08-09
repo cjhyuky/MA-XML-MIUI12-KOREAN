@@ -103,7 +103,7 @@
     <string name="mi_audio_relay_cancel">확인</string>
     <string name="mi_audio_relay_connect_failed">실패</string>
     <string name="mi_audio_relay_localphone">전화</string>
-    <string name="mi_audio_relay_phone_name">샤오미 전화</string>
+    <string name="mi_audio_relay_phone_name">Xiaomi 전화</string>
     <string name="mi_audio_relay_title">재생 기기 선택</string>
     <string name="media_transfer_wired_usb_device_name">무선 헤드폰</string>
     <string name="power_remaining_duration_only_shutdown_imminent">기기가 곧 종료됩니다.</string>

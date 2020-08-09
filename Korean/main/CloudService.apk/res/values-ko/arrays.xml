@@ -7,9 +7,9 @@
         <item>"기기를 분실한 경우 원격으로 기기 잠금"</item>
     </string-array>
     <string-array name="settings_search_wlan_china">
-        <item>Wi-Fi 설정 샤오미 클라우드에 동기화</item>
+        <item>Wi-Fi 설정 Xiaomi 클라우드에 동기화</item>
         <item>동기화 켜기</item>
-        <item>Wi-Fi;wifi;Wi-Fi;클라우드;동기화;클라우드 서비스;샤오미 클라우드</item>
+        <item>Wi-Fi;wifi;Wi-Fi;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
          <item>연락처, 메시지, 메모, 캘린더, 등 동기화</item>
@@ -25,14 +25,14 @@
     </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>항목 동기화 권한</item>
-        <item>메세지 동기화 권한</item>
+        <item>메시지 동기화 권한</item>
         <item>연락처 동기화 권한</item>
         <item>캘린더 일정 동기화 권한</item>
         <item>저장공간 항목 동기화 권한</item>
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>통화</item>
-        <item>메세지</item>
+        <item>메시지</item>
         <item>연락처</item>
         <item>캘린더</item>
         <item>저장공간</item>
@@ -90,7 +90,7 @@
     <string-array name="settings_search_security">
         <item>보안 설정 클라우드 동기화</item>
         <item>동기화 켜기</item>
-        <item>보안;클라우드;동기화;클라우드 서비스;샤오미 클라우드</item>
+        <item>보안;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Mi 클라우드 퀵 카드 동기화</item>

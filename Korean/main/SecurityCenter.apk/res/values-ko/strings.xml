@@ -17,7 +17,7 @@
     <string name="gtb_dialog_btn_close">끄기</string>
     <string name="gtb_dialog_btn_open">켜기</string>
     <string name="gtb_dialog_hint_smart_5g">Game Turbo> 설정에서이 기능을 켜거나 끌 수 있습니다.</string>
-    <string name="gtb_dialog_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 장치를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다.    지금 이 기능을 사용하시겠습니까?</string>
+    <string name="gtb_dialog_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 장치를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다. 지금 이 기능을 사용하시겠습니까?</string>
     <string name="gtb_dialog_title_smart_5g">5G 네트워크 최적화</string>
     <string name="gtb_setting_item_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 네트워크 지연을 줄이기 위해 사용가능한 최상의 네트워크에 장치를 연결할 수 있습니다.</string>
     <string name="gtb_setting_item_title_smart_5g">5G 네트워크 최적화</string>
@@ -44,7 +44,7 @@
     <string name="permission_action_virtual">빈 메시지 반환</string>
     <string name="permission_upgrade_more">추가 개인정보 보호기능</string>
     <string name="permission_upgrade_privacy_title">"오디오를 녹음하고 연락처에 액세스할 수 있는 권한에는 이제 해당 앱을 사용하는 동안에 만 권한을 부여 할 수 있는 옵션이 있습니다. 개인 정보의 개인 정보를 보호하기 위해 앱은 '    백그라운드에서 이러한 작업을 수행하지 마세요."</string>
-    <string name="permission_upgrade_runtime">"현재 위치에 액세스하거나 사진을 찍을 수 있는 권한에는 이러한 권한을 한 번만 부여 할 수 있는 옵션이 있습니다. 개인 정보의 프라이버시를 보호하기 위해 이러한 조치는 수행 된 후에 수행되지 않습니다.    다음에 관련 기능을 사용할 때 다시 권한을 요청하는 메시지가 표시됩니다."</string>
+    <string name="permission_upgrade_runtime">"현재 위치에 액세스하거나 사진을 찍을 수 있는 권한에는 이러한 권한을 한 번만 부여 할 수 있는 옵션이 있습니다. 개인 정보의 프라이버시를 보호하기 위해 이러한 조치는 수행 된 후에 수행되지 않습니다. 다음에 관련 기능을 사용할 때 다시 권한을 요청하는 메시지가 표시됩니다."</string>
     <string name="permission_upgrade_title">업그레이드된 권한 관리</string>
     <string name="permission_upgrade_virtual">"앱이 연락처 또는 통화 기록에 액세스하지 못하게하려면 해당 권한을 부여 할 때 \"빈 메시지 반환\"을 선택할 수 있습니다."</string>
      <string name="app_behavior_key_audio">녹음</string>
@@ -248,7 +248,7 @@
     <string name="antivirus_privacy_dialog_cloudscan">앱 이름과 세부사항 업로드</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 업로드 및 스캔합니다.</string>
     <string name="antivirus_privacy_dialog_ok">확인</string>
-    <string name="antivirus_privacy_dialog_summary">이 기능은 기기 ID를 비밀번호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
+    <string name="antivirus_privacy_dialog_summary">이 기능은 기기 ID를 암호화하여 Avast, AVL, Tencent 서버에 업로드합니다(%s).</string>
     <string name="antivirus_privacy_dialog_summary_link">개인정보 보호정책</string>
     <string name="antivirus_privacy_dialog_title">개인 정보 보호 정책</string>
     <string name="antivirus_sec_network_unavailable">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
@@ -568,8 +568,8 @@
     <string name="begin_date">사용량 초기화 날짜</string>
     <string name="best_booster_status">게임 속도는 지금이 제일 최적의 상태입니다.</string>
     <string name="best_warning_dialog_button">알아</string>
-    <string name="best_warning_dialog_message">팁 : 샤오미 빨간봉투 도우미를 사용하면 빨간 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~</string>
-    <string name="best_warning_dialog_message1">샤오미 빨간봉투 도우미를 사용하면 빨간색 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~~</string>
+    <string name="best_warning_dialog_message">팁 : Xiaomi 빨간봉투 도우미를 사용하면 빨간 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~</string>
+    <string name="best_warning_dialog_message1">Xiaomi 빨간봉투 도우미를 사용하면 빨간색 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~~</string>
     <string name="best_warning_dialog_title">팁</string>
     <string name="bg_network_exception_title">백그라운드에서 네트워크 제한</string>
     <string name="bind_xiaomi_account_cancel">취소</string>
@@ -809,7 +809,7 @@
     <string name="dialog_no_longer_alert">다시 보지 않기</string>
     <string name="dialog_remobe_luckymoney_cancle">단일 릴리스 사용</string>
     <string name="dialog_remobe_luckymoney_ok">열다</string>
-    <string name="dialog_remove_luckymoney">현재 MIUI 버전은 이미 시스템 수준의 빨간 봉투 지원을 지원합니다. 단일 문제 버전을 제거하고 보안 센터로 이동하여 더 빠르고 안정적인 샤오미 빨간 봉투 지원을 열 수 있습니까?</string>
+    <string name="dialog_remove_luckymoney">현재 MIUI 버전은 이미 시스템 수준의 빨간 봉투 지원을 지원합니다. 단일 문제 버전을 제거하고 보안 센터로 이동하여 더 빠르고 안정적인 Xiaomi 빨간 봉투 지원을 열 수 있습니까?</string>
     <string name="dialog_restrict_all_mobile_summary">%s의 모바일 네트워크 연결 제한</string>
     <string name="dialog_restrict_all_mobile_title">%s의 모바일 네트워크 연결 제한</string>
     <string name="dialog_restrict_all_wlan_summary">모든 앱의 Wi-Fi 연결이 제한됩니다.</string>
@@ -952,17 +952,17 @@
     <string name="ew_guide_law_agree">동의</string>
     <string name="ew_guide_law_done">확인</string>
     <string name="ew_guide_law_exit">동의하지 않기</string>
-    <string name="ew_guide_law_text">이 기능은 지진 경고 기능을 제공합니다. 지진 경고 정보는 제 3 자 조기 경보 기관에서 제공한다는 것을 이해해야합니다.. 샤오미는 타사 기관을 감독하지 않으며 해당 기관을 제어 할 수 없습니다. 샤오미는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족시킬 것이라고 보장하지 않습니다. 이 기능은 참조 용으로 만 제공됨을 이해해야합니다. 이 기능이 제공하는 정보를 기반으로 수행 한 모든 작업의 ​​위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다.</string>
+    <string name="ew_guide_law_text">이 기능은 지진 경고 기능을 제공합니다. 지진 경고 정보는 제 3 자 조기 경보 기관에서 제공한다는 것을 이해해야합니다.. Xiaomi는 타사 기관을 감독하지 않으며 해당 기관을 제어 할 수 없습니다. Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족시킬 것이라고 보장하지 않습니다. 이 기능은 참조 용으로 만 제공됨을 이해해야합니다. 이 기능이 제공하는 정보를 기반으로 수행 한 모든 작업의 ​​위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다.</string>
     <string name="ew_guide_law_title">기권</string>
     <string name="ew_guide_next_text">다음</string>
     <string name="ew_guide_play_audio">경고음 재생</string>
     <string name="ew_guide_play_audio_last">경고음 재생 (%d초)</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;사용자가 지진 경고 기능을 활성화 할 때마다 샤오미 및 그 계열사(이하 샤오미)와 법적 구속력이 있는 계약을 체결합니다.. 이 기능을 사용함으로써 귀하는이 고지 사항을 읽었으며이 고지 사항의 전체 내용을 완전히 이해하고 이에 동의합니다. 이 고지 사항에 동의하지 않으면 즉시 지진 경고 기능을 해제해야합니다. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 특별 진술 &amp;lt;b&amp;gt; 관련 법규에 따라 지진 조기 경보 서비스는 관련 정부 부서에서 승인 한 지역에만 제공됩니다.. 즉, 지진 경고 기능을 켜고 장치가 승인 된 지역에 있으면 지진 경고 서비스를받을 수 있습니다.. 현재 지진 경보 서비스가 제공되는 지역 목록을 확인할 수 있습니다. 앞으로 더 많은 지역이 지원 될 예정입니다. 계속 지켜봐주세요! &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 고지 사항 &amp;lt;b&amp;gt; 보안 앱은 지진 경고 기능을 제공합니다. 지진 경보 정보는 정부 조기 경보 기관에서 제공한다는 것을 이해해야합니다. 샤오미는 그러한 기관을 감독하지 않으며 그 기관을 통제할 수 없습니다. &amp;lt;br&amp;gt; 샤오미는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족한다고 보장하지도 않습니다. 지진 경고 정보를 받으려면 장치를 모바일 네트워크에 연결되어 있어야합니다. 타사 통신 회선 장애, 기술 문제, 네트워크 또는 터미널 장비 장애, 시스템 불안정성 및 기타 다양한 불가항력 이벤트로 인해 지진 경고 정보를 받지 못할 수 있습니다. 샤오미는 그러한 사건으로 인한 손실에 대해 책임을 지지 않습니다. &amp;lt;br&amp;gt; 이 기능은 참조용으로만 제공됨을 이해해야합니다. 이 기능이 제공하는 정보를 기반으로 수행한 모든 작업의 위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다. &amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
+    <string name="ew_guide_statement_text">&lt;Data&gt;사용자가 지진 경고 기능을 활성화 할 때마다 Xiaomi 및 그 계열사(이하 Xiaomi)와 법적 구속력이 있는 계약을 체결합니다.. 이 기능을 사용함으로써 귀하는이 고지 사항을 읽었으며이 고지 사항의 전체 내용을 완전히 이해하고 이에 동의합니다. 이 고지 사항에 동의하지 않으면 즉시 지진 경고 기능을 해제해야합니다. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 특별 진술 &amp;lt;b&amp;gt; 관련 법규에 따라 지진 조기 경보 서비스는 관련 정부 부서에서 승인 한 지역에만 제공됩니다.. 즉, 지진 경고 기능을 켜고 장치가 승인 된 지역에 있으면 지진 경고 서비스를받을 수 있습니다.. 현재 지진 경보 서비스가 제공되는 지역 목록을 확인할 수 있습니다. 앞으로 더 많은 지역이 지원 될 예정입니다. 계속 지켜봐주세요! &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 고지 사항 &amp;lt;b&amp;gt; 보안 앱은 지진 경고 기능을 제공합니다. 지진 경보 정보는 정부 조기 경보 기관에서 제공한다는 것을 이해해야합니다. Xiaomi는 그러한 기관을 감독하지 않으며 그 기관을 통제할 수 없습니다. &amp;lt;br&amp;gt; Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족한다고 보장하지도 않습니다. 지진 경고 정보를 받으려면 장치를 모바일 네트워크에 연결되어 있어야합니다. 타사 통신 회선 장애, 기술 문제, 네트워크 또는 터미널 장비 장애, 시스템 불안정성 및 기타 다양한 불가항력 이벤트로 인해 지진 경고 정보를 받지 못할 수 있습니다. Xiaomi는 그러한 사건으로 인한 손실에 대해 책임을 지지 않습니다. &amp;lt;br&amp;gt; 이 기능은 참조용으로만 제공됨을 이해해야합니다. 이 기능이 제공하는 정보를 기반으로 수행한 모든 작업의 위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다. &amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
     <string name="ew_guide_tips_1">다가오는 지진에 대한 알림을 받고 경고음이 들립니다.</string>
     <string name="ew_guide_tips_2">지진 발생시 정보 및 경고음이 업데이트됩니다.</string>
     <string name="ew_guide_tips_3">가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다.</string>
     <string name="ew_guide_title">데모보기</string>
-    <string name="ew_main_close_text">알림을 끄면 이 지진에 대한 최신 정보를 받을 수 없습니다. 어쨌든 끄시겠습니까?</string>
+    <string name="ew_main_close_text">알림을 끄면 이 지진에 대한 최신 정보를 받을 수 없습니다. 그래도 끄시겠습니까?</string>
     <string name="ew_main_close_title">주의</string>
     <string name="ew_main_contact_change">변경</string>
     <string name="ew_main_contact_change_dialog_content">비상 연락처를 변경하거나 삭제할 수 있습니다. 긴급 연락처를 삭제하면 사용할 수 없습니다.</string>
@@ -1134,7 +1134,7 @@
     <string name="five_percent_total_pkg">%s (월간 데이터의 5%%)</string>
     <string name="float_window">데스크탑 플로팅 창</string>
     <string name="float_window_summary">페이지를 흔들고 부수는 빠른 점프 지원</string>
-    <string name="float_window_tips">샤오미 휴대전화가 빠릅니다!</string>
+    <string name="float_window_tips">Xiaomi 휴대전화가 빠릅니다!</string>
     <string name="fod_authentication_shift_button">취소</string>
     <string name="fod_button_finger">지문인식 사용</string>
     <string name="fod_button_password">비밀번호 입력</string>
@@ -1376,8 +1376,8 @@
     <string name="hints_virus_app_summary" formatted="false">%s (앱)</string>
     <string name="hints_virus_lib_update_default_summary">마지막 업데이트 시간 알 수 없음</string>
     <string name="hongbao_cancel">취소</string>
-    <string name="hongbao_message_slogon">샤오미 휴대전화가 빠릅니다!</string>
-    <string name="hongbao_name">샤오미 빨간 봉투 도우미</string>
+    <string name="hongbao_message_slogon">Xiaomi 휴대전화가 빠릅니다!</string>
+    <string name="hongbao_name">Xiaomi 빨간 봉투 도우미</string>
     <string name="hot">인기</string>
     <string name="hot_today">오늘의 인기 항목</string>
     <string name="i_know">알겠습니다.</string>
@@ -1484,7 +1484,7 @@
     <string name="lucky_alarm_open_summary">열린 후에는 빨간 봉투 활동이 시작되기 1분전에 팝업창이 표시되며 모든 빨간 봉투 활동 시간은 유동창을 통해 볼 수 있습니다.</string>
     <string name="lucky_alarm_open_title">빨간 봉투 알람 시계</string>
     <string name="lucky_alarm_sound_title">활동 사운드 알림</string>
-    <string name="lucky_assistant_description">샤오미 공식 제작\nWeChat/QQ/샤오미 채팅컴퓨터 로그인 dnd를 켜는 차단 된 그룹 및 소프트웨어를 상기시킵니다.</string>
+    <string name="lucky_assistant_description">Xiaomi 공식 제작\nWeChat/QQ/Xiaomi 채팅컴퓨터 로그인 dnd를 켜는 차단 된 그룹 및 소프트웨어를 상기시킵니다.</string>
     <string name="lucky_max_chat_title">QQ로부터</string>
     <string name="lucky_money_close">닫기</string>
     <string name="lucky_money_group_summary">개인이 보낸 빨간 봉투는 강탈 할 필요가 없으며, 너무 많은 알림을 피하기 위해 그룹 빨간 봉투 만 상기시키는 것이 좋습니다.</string>
@@ -1498,7 +1498,7 @@
     <string name="main_alert_message_no_imsi">SIM 카드 발견되지 않음</string>
     <string name="main_alert_message_open_traffic_ctrl">데이터 사용량 제한을 추천드립니다.</string>
     <string name="main_bill_remained">휴대전화 잔액</string>
-    <string name="main_button_mi_sim_close">미 SIM 활성화</string>
+    <string name="main_button_mi_sim_close">Mi SIM 활성화</string>
     <string name="main_button_mi_sim_open">자세히 보기</string>
     <string name="main_button_usage_adjust">모바일 데이터 사용량 동기화</string>
     <string name="main_button_usage_adjust_manual">데이터 사용량 제한 설정</string>
@@ -1649,14 +1649,14 @@
     <string name="mian_page_primary_txt">데이터 로밍</string>
     <string name="midrop_post_notification_contentText">50M/s 전송 속도가 가능한 Mi 드롭을 사용해보세요.</string>
     <string name="midrop_post_notification_contentTitle">파일을 보내야 하나요?</string>
-    <string name="miliao_lucky_warning">샤오미 채팅 빨간 봉투</string>
+    <string name="miliao_lucky_warning">Xiaomi 채팅 빨간 봉투</string>
     <string name="mixed_need_to_confirm">비밀번호 확인</string>
     <string name="mixed_password_confirmed_header_confirm">성공적으로 설정되었습니다. 확인하려면 버튼을 누르세요.</string>
     <string name="mixed_password_confirmed_header_continue">성공적으로 설정되었습니다. 다음을 누르세요.</string>
     <string name="mixed_pattern_entered_header">비밀번호 설정이 성공적으로 끝났습니다.</string>
     <string name="mixed_recording_intro_header">4자 이상을 입력하세요.</string>
     <string name="mixed_retry_button_text">취소</string>
-    <string name="mixed_settings_help_how_to_record">비밀 번호 설정 방법</string>
+    <string name="mixed_settings_help_how_to_record">비밀번호 설정 방법</string>
     <string name="modify_password_mode">&lt;u&gt;비밀번호 유형 변경&lt;/u&gt;</string>
     <string name="modifypassword">비밀번호 변경</string>
     <string name="monitor_app_add">추가</string>
@@ -1776,7 +1776,7 @@
     <string name="open_fast_open_mode">빠른 잡기 모드를 켭니다.</string>
     <string name="open_fast_open_mode_summary">빠른 캡처 모드가 활성화되어 있습니다. 빨간 봉투를 받으면 시스템이 자동으로 빨간 봉투 페이지를 엽니 다.</string>
     <string name="open_game">열기</string>
-    <string name="open_lucky">샤오미 빨간 봉투 도우미 열기</string>
+    <string name="open_lucky">Xiaomi 빨간 봉투 도우미 열기</string>
     <string name="open_now">앱의 모바일 데이터 사용을 허용</string>
     <string name="open_right_now">빨간 봉투를 즉시 잡아</string>
     <string name="open_right_now_short">즉시 잡아</string>
@@ -2128,10 +2128,10 @@
     <string name="privacy_apps_tutorial_prompt_pagethree">비밀번호를 입력하면 숨겨진 앱이 있는 폴더가 나타납니다.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">손가락 두 개를 펴면 앱 잠금 비밀번호를 입력하라는 메시지가 나타납니다.</string>
     <string name="privacy_declare_dialog_title">서비스 약관</string>
-    <string name="privacy_dialog_message">인터넷에 연결하면 이동 통신사 정보와 함께이 메시지가 비밀번호화되어 Mi의 서버에 업로드되어 데이터 사용 모니터링을 향상시킬 수 있습니다.</string>
+    <string name="privacy_dialog_message">인터넷에 연결하면 이동 통신사 정보와 함께이 메시지가 암호화되어 Mi의 서버에 업로드되어 데이터 사용 모니터링을 향상시킬 수 있습니다.</string>
     <string name="privacy_mode_dialog_title">게스트 모드</string>
-    <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 비밀번호화되어 Mi의 서버에 업로드됩니다.</string>
-    <string name="privacy_prompt_traffic_adjust_message">보정을 클릭하신 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출하신 통신사 정보, 전화번호, IMEI, Mi 계정 등을 비밀번호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
+    <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
+    <string name="privacy_prompt_traffic_adjust_message">보정을 클릭하신 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출하신 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
     <string name="privacy_prompt_upload">업로드</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="promotion">광고</string>
@@ -2522,7 +2522,7 @@
     <string name="summary_xiaomi_roaming">모바일 데이터 로밍 CNY 0.01/MB</string>
     <string name="superpower_dialog_button_disable_dialog">다시 보지 않기</string>
     <string name="superpower_dialog_button_ok">확인</string>
-    <string name="superpower_dialog_massage">배터리 세이버는 가능한 한 오랫동안 사용할 수 있는 기본 기능 (예 : 전화, SMS 및 네트워크 연결)을 유지하기 위해 대부분의 전력 소비 기능을 제한하고 장치의 성능을 저하시킵니다.    배터리 세이버를 켜시겠습니까?</string>
+    <string name="superpower_dialog_massage">배터리 세이버는 가능한 한 오랫동안 사용할 수 있는 기본 기능 (예 : 전화, SMS 및 네트워크 연결)을 유지하기 위해 대부분의 전력 소비 기능을 제한하고 장치의 성능을 저하시킵니다. 배터리 세이버를 켜시겠습니까?</string>
     <string name="superpower_dialog_title">배터리 세이버</string>
     <string name="superpower_notification_hint_enter">켜기</string>
     <string name="superpower_notification_summary">배터리 세이버 켜기</string>
@@ -2901,7 +2901,7 @@
     <string name="wifi_item_title_arp_attack">ARP 공격</string>
     <string name="wifi_item_title_connection">Wi-Fi 연결</string>
     <string name="wifi_item_title_dns">DNS 서버 보안</string>
-    <string name="wifi_item_title_encryption">Wi-Fi가 비밀번호화되지 않았습니다.</string>
+    <string name="wifi_item_title_encryption">Wi-Fi가 암호화되지 않았습니다.</string>
     <string name="wifi_item_title_fake">가짜 Wi-Fi 감지</string>
     <string name="wifi_network_blocked_notification_title">인터넷 연결 없음</string>
     <string name="wifi_optizition_loading">Xunyou 네트워크 스피드 부스트 켜는 중…</string>
@@ -2972,7 +2972,7 @@
     <string name="dlg_summary_close_theme">"다이나믹 테마는 작동하지 않습니다."</string>
     <string name="dlg_summary_close_wifi">Wi-Fi, 블루투스, 핫스팟이 꺼집니다.</string>
     <string name="dlg_summary_nfc">NFC가 꺼집니다.</string>
-    <string name="dlg_summary_title">앱을 종료하거나 홈 화면으로 돌아가면 백그라운드 활동이 제한됩니다.    배터리 절약 예외에 앱을 추가하여 백그라운드에서 실행될 수 있도록합니다.</string>
+    <string name="dlg_summary_title">앱을 종료하거나 홈 화면으로 돌아가면 백그라운드 활동이 제한됩니다. 배터리 절약 예외에 앱을 추가하여 백그라운드에서 실행될 수 있도록 합니다.</string>
     <string name="enable_extreme_power_save_mode">초절전모드</string>
     <string name="invalid_charger">"USB를 통해 충전 할 수 없습니다. 기기와 함께 제공된 충전기를 사용하세요."</string>
     <string name="low_temperature_button_ok">확인</string>

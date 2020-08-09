@@ -3,7 +3,7 @@
     <string name="apply_choosen_type_resource">선택된 항목 적용</string>
     <string name="gallery_wallpaper_theme">필수 배경화면</string>
     <string name="theme_not_include_module_desc">이 테마는 아래의 항목이 포함되어있지 않습니다: %s</string>
-    <string name="gallery_wallpaper">램덤 배경화면</string>
+    <string name="gallery_wallpaper">랜덤 배경화면</string>
     <string name="community_cta_dialog_cancel">괜찮습니다.</string>
     <string name="community_cta_dialog_des">"서드파티 테마는 이제 Mi 커뮤니티 위젯을 지원합니다. Mi 커뮤니티의 테마 서브포럼으로 이동하는 바로가기를 통해 작동합니다. 설정에서 이 기능을 끌 수 있습니다.
 테마가 계정과 관련된 Mi 계정 ID 및 Mi 커뮤니티 상태에 접근하여 볼 수 있도록 합니다. 설정에서 Mi 커뮤니티 활동에 대한 알림을 켜거나 끌 수도 있습니다."</string>
@@ -499,7 +499,7 @@
     <string name="online_precust_forest_stories">숲 속 동화 </string>
     <string name="online_precust_geometry">지오메트리</string>
     <string name="online_precust_lifestyle">라이프스타일</string>
-    <string name="online_precust_mi_note2">미 노트 2</string>
+    <string name="online_precust_mi_note2">Mi 노트 2</string>
     <string name="online_precust_paper_world">종이 세상</string>
     <string name="online_precust_peach_blossom">복숭아 꽃</string>
     <string name="online_precust_plant">식물</string>

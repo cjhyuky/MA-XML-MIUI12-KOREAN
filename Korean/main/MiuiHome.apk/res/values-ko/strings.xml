@@ -151,7 +151,7 @@
     <string name="sort_by_not_defined">자동 정렬</string>
     <string name="sort_by_frequency">사용량순으로 정렬</string>
     <string name="sort_by_abc">이름순으로 정렬</string>
-    <string name="encryption">비밀번호화</string>
+    <string name="encryption">암호화</string>
     <string name="failed_to_drop">이동할 수 없습니다.</string>
     <string name="no_space_toast">공간이 부족합니다.</string>
     <string name="failed_to_drop_widget_invalid">위젯이 잘못되었습니다.</string>
@@ -434,7 +434,7 @@
     <string name="announce_for_xiaoai">Mi AI</string>
     <string name="privacy_thumbnail_blur_summary">최근앱에서 앱 미리보기 흐릿하게 처리</string>
     <string name="privacy_thumbnail_blur_title">앱 미리보기 흐릿하게</string>
-    <string name="all_apps_setting_desktop_desc">설치된 모든 응용 프로그램이 화면에 표시됩니다.    작업을 표시하려면 응용 프로그램 아이콘을 길게 누릅니다.</string>
+    <string name="all_apps_setting_desktop_desc">설치된 모든 응용 프로그램이 화면에 표시됩니다. 작업을 표시하려면 응용 프로그램 아이콘을 길게 누릅니다.</string>
     <string name="all_apps_setting_desktop_title">표준 모드</string>
     <string name="all_apps_setting_drawer_desc">설치된 응용 프로그램 목록을 표시하려면 메뉴 버튼을 클릭하세요.</string>
     <string name="all_apps_setting_drawer_title">클래식 모드</string>
@@ -449,12 +449,12 @@
     <string name="all_apps_no_search_results">"결과가 없습니다."</string>
     <string name="all_apps_search_app">앱에서 검색</string>
     <string name="all_apps_search_market_message">온라인 검색</string>
-    <string name="all_apps_setting_drawer_tips_desc">앱 서랍은 홈 화면에서 위로 스와이프하여 열립니다.    앱 서랍으로 홈 화면 모드를 전환하면 컨텐츠 센터를 사용할 수 없습니다.    어쨌든 전환하시겠습니까?</string>
+    <string name="all_apps_setting_drawer_tips_desc">앱 서랍은 홈 화면에서 위로 스와이프하여 열립니다. 앱 서랍으로 홈 화면 모드를 전환하면 컨텐츠 센터를 사용할 수 없습니다. 그래도 전환하시겠습니까?</string>
     <string name="all_apps_setting_drawer_tips_title">앱 서랍 사용</string>
-    <string name="all_apps_slide_up_tips">위로 스와이프는 앱 서랍 열기로 설정되어 있습니다.    기본 홈 화면 모드로 전환한 후 다시 시도하세요.</string>
+    <string name="all_apps_slide_up_tips">위로 스와이프는 앱 서랍 열기로 설정되어 있습니다. 기본 홈 화면 모드로 전환한 후 다시 시도하세요.</string>
     <string name="all_apps_suggestions">앱 추천</string>
     <string name="recent_apps">최근 실행 앱</string>
-    <string name="remove_invalidate_gadget_tips">사용하는 위젯 중 하나를 더 이상 사용할 수 없습니다.    다른 것을 추가할 수 있습니다. </string>
+    <string name="remove_invalidate_gadget_tips">사용하는 위젯 중 하나를 더 이상 사용할 수 없습니다. 다른 것을 추가할 수 있습니다. </string>
     <string name="unstable_dialog_content">"이 버전은 Android 시스템 이미지의 미리보기 버전이며 변경될 수 있습니다. 이 시스템 이미지의 사용은 Android SDK 미리보기 라이센스 계약의 적용을 받습니다. Android 미리보기 시스템 이미지는 안정적인 버전이며 컴퓨터 시스템, 기기 또는 데이터가 손상될 수 있는 오류 및 결함이 포함되어 있을 수 있습니다. 미리보기 Android 시스템 이미지는 출하시 OS와 동일한 테스트를 거치지 않으며 이 기기에 설치된 서비스의 오류를 유발할 수 있습니다."</string>
     <string name="additional_settings">추가 설정</string>
     <string name="drawer_background">배경</string>
@@ -477,7 +477,7 @@
     <string name="system_text">시스템</string>
     <string name="cell_icon_size_title">아이콘 크기</string>
     <string name="default_folder_title_meitu">메이투 앱</string>
-    <string name="shortcut_share_dialog_content">"휴대전화에서 전송한 파일과 수신자는 귀하께서 직접 선택하고 결정해야 합니다. 공유할 파일을 선택하고 수신자를 선택할 때 주의하세요. 휴대전화를 사용하여 바이러스, 맬웨어, 트로이 목마, 시한 폭탄 및 기타 유해한 물건을 다른 사람에게 전송해서는 안됩니다. 휴대전화를 사용하여 수신자의 장치사용에 영향을 줄 수 있는 소프트웨어나 받는 사람의 물건을 전송하지 마세요. 모바일 단말기 장치의 시스템 데이터 또는 개인 정보를 손상, 방해, 가로 채기 또는 제거 다른 사용자 또는 모바일 단말기 장치로 인한 모든 손상에 대한 책임은 사용자에게 있습니다. 샤오미는 공유 기능도 보장하기 위해 최선을 다할 것입니다. 관련 기술 및 정보는 안전하고 효과적이며 정확하며 신뢰할 수 있지만 현재 기술제한으로 인해 샤오미는 공유 기능이 완벽하며 모든 요구를 충족시킬 것이라고 보장하지는 않습니다."</string>
+    <string name="shortcut_share_dialog_content">"휴대전화에서 전송한 파일과 수신자는 귀하께서 직접 선택하고 결정해야 합니다. 공유할 파일을 선택하고 수신자를 선택할 때 주의하세요. 휴대전화를 사용하여 바이러스, 맬웨어, 트로이 목마, 시한 폭탄 및 기타 유해한 물건을 다른 사람에게 전송해서는 안됩니다. 휴대전화를 사용하여 수신자의 장치사용에 영향을 줄 수 있는 소프트웨어나 받는 사람의 물건을 전송하지 마세요. 모바일 단말기 장치의 시스템 데이터 또는 개인 정보를 손상, 방해, 가로 채기 또는 제거 다른 사용자 또는 모바일 단말기 장치로 인한 모든 손상에 대한 책임은 사용자에게 있습니다. Xiaomi는 공유 기능도 보장하기 위해 최선을 다할 것입니다. 관련 기술 및 정보는 안전하고 효과적이며 정확하며 신뢰할 수 있지만 현재 기술제한으로 인해 Xiaomi는 공유 기능이 완벽하며 모든 요구를 충족시킬 것이라고 보장하지는 않습니다."</string>
     <string name="shortcut_share_dialog_positive_button">확인</string>
     <string name="shortcut_share_dialog_title">면책 조항</string>
     <string name="all_apps_setting_original_scrollbar">원본 레이아웃</string>

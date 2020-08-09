@@ -277,7 +277,7 @@
     <string name="try_to_create">바로가기 생성을 시도했습니다.</string>
     <string name="usage_agree">동의</string>
     <string name="usage_exit">종료</string>
-    <string name="usage_home_permission_account_summary">샤오미 계정에 로그인하고 화면 사용을 동기화하는 기능</string>
+    <string name="usage_home_permission_account_summary">Xiaomi 계정에 로그인하고 화면 사용을 동기화하는 기능</string>
     <string name="usage_home_permission_account_title">모바일 계정 권한 가져 오기</string>
     <string name="usage_home_permission_phone_summary">장치를 식별하기 위해 VAID를 수집</string>
     <string name="usage_home_permission_phone_title">전화 정보 권한 얻기</string>

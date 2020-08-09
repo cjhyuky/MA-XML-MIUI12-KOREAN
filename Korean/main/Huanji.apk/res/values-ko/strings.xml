@@ -99,8 +99,8 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="hsa_tip_message">"인증 코드를 받을 수 없다면 Apple기기에서 아이클라우드에 로그인했는지 확인하세요."</string>
     <string name="icloud_verify_tips">iOS 기기에서 허용을 탭하고 여기에 표시되는 코드를 입력하세요.</string>
     <string name="install_app_link_text">"이전 장치를 핫스팟에 연결할 수 없는 이유는 무엇입니까?"</string>
-    <string name="main_chooser_item_android_mi">샤오미 폰에서 가져오기</string>
-    <string name="main_chooser_item_ios">아이폰에서 가져오기</string>
+    <string name="main_chooser_item_android_mi">XiaoMi 휴대전화에서 가져오기</string>
+    <string name="main_chooser_item_ios">iPhone에서 가져오기</string>
     <string name="need_more_memory_summary">"저장 공간이 부족합니다. Mi Mover는 전송하기 전에 압축된 패키지를 만들려면 %1$s의 추가 저장공간이 필요합니다.
 1. 중요한 품목만 옮기세요.
 2. 데이터가 많은 앱을 선택하지 마세요.

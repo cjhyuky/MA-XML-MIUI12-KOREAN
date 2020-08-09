@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">샤오미 OTP</string>
+    <string name="app_name">Xiaomi OTP</string>
     <string name="app_name_short">OTP</string>
     <string name="enter_key_title">수동 계정 입력</string>
     <string name="enter_key_page_add_button">추가</string>
@@ -48,7 +48,7 @@
 삭제전:
 —이 계정에 대해 2단계 인증을 해제, 또는
 —코드를 생성하기 위한 대체 방법이 있는지 확인하세요."</string>
-    <string name="remove_샤오미_account_dialog_message">이 계정을 제거하면 코드를 생성할 수 있는 사용자의 능력이 제거되지만, 2단계 확인 기능이 꺼지지 않습니다. 이로 인해 계정에 로그인하지 못할 수 있습니다. 삭제하기 전에, 이 계정에 대해 2단계 인증을 해제하거나, 코드를 생성하기 위한 다른 대체 방법이 있는지 확인하세요. </string>
+    <string name="remove_Xiaomi_account_dialog_message">이 계정을 제거하면 코드를 생성할 수 있는 사용자의 능력이 제거되지만, 2단계 확인 기능이 꺼지지 않습니다. 이로 인해 계정에 로그인하지 못할 수 있습니다. 삭제하기 전에, 이 계정에 대해 2단계 인증을 해제하거나, 코드를 생성하기 위한 다른 대체 방법이 있는지 확인하세요. </string>
     <string name="rename">변경</string>
     <string name="rename_message">변경 %1$s</string>
     <string name="error_exists">죄송합니다. 해당 이름은 이미 사용 중입니다.</string>
@@ -58,14 +58,14 @@
     <string name="ok">확인</string>
     <string name="type_prompt">키 타입</string>
     <string name="dataimport_import_succeeded_uninstall_dialog_title">가져오기 성공</string>
-    <string name="dataimport_import_succeeded_uninstall_dialog_prompt">사용자의 데이터는 샤오미 인증 앱에서 성공적으로 가져왔습니다. 이제 아래를 클릭하여 앱의 이전 버전을 제거해도 됩니다.</string>
+    <string name="dataimport_import_succeeded_uninstall_dialog_prompt">사용자의 데이터는 Xiaomi 인증 앱에서 성공적으로 가져왔습니다. 이제 아래를 클릭하여 앱의 이전 버전을 제거해도 됩니다.</string>
     <string name="button_uninstall_old_app">삭제</string>
-    <string name="howitworks_page_enter_password_title">"로그인하려면 비밀 번호를 입력합니다."</string>
-    <string name="howitworks_page_enter_password_details">"만약 사용자가 새로운 컴퓨터나 새로운 장치를 사용중이면, 샤오미는 사용자인지 여부를 확인하기 위해 특별한 코드를 물어볼수 있습니다."</string>
+    <string name="howitworks_page_enter_password_title">"로그인하려면 비밀번호를 입력합니다."</string>
+    <string name="howitworks_page_enter_password_details">"만약 사용자가 새로운 컴퓨터나 새로운 장치를 사용중이면, Xiaomi는 사용자인지 여부를 확인하기 위해 특별한 코드를 물어볼수 있습니다."</string>
     <string name="howitworks_page_enter_code_title">"새 컴퓨터를 사용하는 경우, 사용자의 휴대전화의 코드를 입력해주세요."</string>
     <string name="howitworks_page_enter_code_details">이 앱은 로그인을 진행하는 데 필요한 코드를 생성합니다.</string>
     <string name="howitworks_page_verify_device_title">"그러면 사용자는 로그인이 됩니다."</string>
-    <string name="howitworks_page_verify_device_details">"여러분은 또한 컴퓨터를 기억하도록 선택할 수도 있고 샤오미는 여러분에게 그곳에서 코드를 다시 묻지 않을 것입니다."</string>
+    <string name="howitworks_page_verify_device_details">"여러분은 또한 컴퓨터를 기억하도록 선택할 수도 있고 Xiaomi는 여러분에게 그곳에서 코드를 다시 묻지 않을 것입니다."</string>
     <string name="button_exit_howitworks_flow">나가기</string>
     <string name="welcome_page_title">보안 로그인을 사용</string>
     <string name="welcome_page_details">"- 계정을 안전하게 유지하세요.
@@ -122,13 +122,13 @@
     <string name="password_forget">비밀번호를 분실하셨나요?</string>
     <string name="app_name_lockpattern">잠금패턴</string>
     <string name="action_settings">설정</string>
-    <string name="tip_lockpattern">비밀 번호는 4자 이상이여야 합니다.</string>
-    <string name="jump_createpattern_tip">계정을 보호하기 위한 비밀 번호 생성</string>
-    <string name="jump_updatepattern_tip">계정을 보호하기 위한 비밀 번호 생성</string>
+    <string name="tip_lockpattern">비밀번호는 4자 이상이여야 합니다.</string>
+    <string name="jump_createpattern_tip">계정을 보호하기 위한 비밀번호 생성</string>
+    <string name="jump_updatepattern_tip">계정을 보호하기 위한 비밀번호 생성</string>
     <string name="jump_lockpattern_title">경고</string>
     <string name="update_pattern_jump">&lt;u>비밀번호 삭제&lt;/u></string>
     <string name="original_pattern_tip">잠금 패턴을 입력해주세요.</string>
-    <string name="new_pattern_tip">비밀 번호는 4자 이상이여야 합니다.</string>
+    <string name="new_pattern_tip">비밀번호는 4자 이상이여야 합니다.</string>
     <string name="title_createpattern">비밀번호 설정</string>
     <string name="title_updatepattern">비밀번호 변경</string>
     <string name="title_forgetpattern">비밀번호 분실</string>

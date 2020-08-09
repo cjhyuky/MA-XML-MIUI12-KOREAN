@@ -7,9 +7,9 @@
     <string name="component_notification">알림</string>
     <string name="component_step">걸음수</string>
     <string name="continue_to_use">계속</string>
-    <string name="step_component_info_active_tip">걸음수는 샤오미 Health에서 제공합니다. 계속하려면 샤오미 Health 이용약관에 동의하세요.</string>
-    <string name="step_component_info_desc">목표에 도달하면 걸음수가 트로피로 바뀝니다. 걸음수는 샤오미 Health에서 제공합니다.</string>
-    <string name="step_component_info_tip">걸음수는 샤오미 Health에서 제공합니다. 샤오미 Health를 설치 또는 업데이트하고 계속하려면 이용약관에 동의하세요.</string>
+    <string name="step_component_info_active_tip">걸음수는 Xiaomi Health에서 제공합니다. 계속하려면 Xiaomi Health 이용약관에 동의하세요.</string>
+    <string name="step_component_info_desc">목표에 도달하면 걸음수가 트로피로 바뀝니다. 걸음수는 Xiaomi Health에서 제공합니다.</string>
+    <string name="step_component_info_tip">걸음수는 Xiaomi Health에서 제공합니다. Xiaomi Health를 설치 또는 업데이트하고 계속하려면 이용약관에 동의하세요.</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="add_from_album">갤러리에서 추가</string>
     <string name="clearable_edittext_clear_description">지우기</string>
@@ -21,7 +21,7 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">미 데이터 없음</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Mi 데이터 없음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않기</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>

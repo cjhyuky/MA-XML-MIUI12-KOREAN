@@ -374,7 +374,7 @@
     <string name="deepclean_video_content">이미 시청했거나 불필요한 동영상을 삭제</string>
     <string name="deepclean_video_summary_empty">모든 것이 양호합니다.</string>
     <string name="hints_video_download">다운로드된 동영상</string>
-    <string name="hints_video_camera">캡쳐된 동영상</string>
+    <string name="hints_video_camera">캡처된 동영상</string>
     <string name="summary_delete_video">선택된 동영상을 영구적으로 삭제하시겠습니까?</string>
     <string name="empty_title_video">삭제할 동영상이 없습니다.</string>
     <string name="information_setting">추천</string>
@@ -738,7 +738,7 @@
     <string name="global_wa_setting_other_pref_reconmmend_title">권장 사항</string>
     <string name="global_wa_setting_other_pref_shortcut_title">홈 화면 바로 가기</string>
     <string name="global_wa_setting_privacy_pref_category_title">개인 정보 보호</string>
-    <string name="global_wa_setting_privacy_pref_mi_title">샤오미 개인 정보 보호 정책</string>
+    <string name="global_wa_setting_privacy_pref_mi_title">Xiaomi 개인 정보 보호 정책</string>
     <string name="global_wa_setting_privacy_pref_third_title">타사 개인 정보 보호 정책</string>
     <string name="global_wa_shortcut_dialog_cancel">취소</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">"다시 표시하지 않음"</string>
