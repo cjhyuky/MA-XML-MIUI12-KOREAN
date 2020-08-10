@@ -34,7 +34,7 @@
 통화하는 것처럼 휴대전화를 잡고, 주 마이크에 대고 말한 후 수신기로 자기 목소리가 들려야 합니다."</string>
     <string name="cit_audio_lb_summary_phonecall">"전화 시뮬레이션 테스트.
 
-통화하는 것처럼 휴대전화를 잡고 주 마이크에 대고 말하세요. 수신기로 목소리가 들려야 합니다. 이 테스트는 조용환 환경에서 진행해 주세요."</string>
+통화하는 것처럼 휴대전화를 잡고 주 마이크에 대고 말하세요. 수신기로 목소리가 들려야 합니다. 이 테스트는 조용환 환경에서 진행하세요."</string>
     <string name="cit_audio_lb_summary_topmic_to_speaker">"상단 마이크 스피커 피드백 테스트.
 
 휴대전화를 뒤집은 후 상단 마이크에 대고 말하세요. 스피커에서 목소리가 들려야 합니다."</string>
@@ -868,8 +868,8 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_display_test_end">테스트 완료</string>
     <string name="cit_display_test_next">다음</string>
     <string name="cit_charger_in">충전기 연결됨</string>
-    <string name="cit_charger_test_tips_electric">현재 프로젝트는 충전 전류 값을 1A 이상으로 테스트해야합니다.</string>
-    <string name="cit_charger_test_tips_hvdcp">현재 프로젝트는 USB_HVDCP를 테스트해야합니다.</string>
+    <string name="cit_charger_test_tips_electric">현재 프로젝트는 충전 전류 값을 1A 이상으로 테스트해야 합니다.</string>
+    <string name="cit_charger_test_tips_hvdcp">현재 프로젝트는 USB_HVDCP를 테스트해야 합니다.</string>
     <string name="sar_sensor_collect_data">데이터 수집 시작</string>
     <string name="sar_sensor_collect_data_test_summary">"실시간 각도가 130도에서 140도 사이가되도록 전화기를 회전합니다.
 휴대전화에서 다른 손을 멀리하세요. 데이터 수집 시작 버튼을 클릭하세요.
@@ -913,7 +913,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_tool_select_none">선택 해제</string>
     <string name="cit_tool_select_opposite">반대로 선택</string>
     <string name="cit_tool_setting_expired">설정이 만료됨, 다시 시도하세요!</string>
-    <string name="cit_tool_setting_wait">설정중! 잠시만 기다려주세요.</string>
+    <string name="cit_tool_setting_wait">설정 중! 잠시만 기다려주세요.</string>
     <string name="cit_tool_to_fetching">가져오기</string>
     <string name="cit_tool_active_mbn">활성화</string>
     <string name="cit_tool_getting_expired">만료됨!</string>

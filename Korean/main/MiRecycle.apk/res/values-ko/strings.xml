@@ -71,7 +71,7 @@
     <string name="dialog_button_update">업데이트</string>
     <string name="dialog_content_stop">"완료되기 전에 하드웨어 테스트를 중지하시겠습니까?"</string>
     <string name="dialog_content_update">업데이트 후 다시 시도하세요.</string>
-    <string name="done_claim_ps">* 고객님은 이용 약관 프로그램에 따라 초과 수당을 지불해야합니다.</string>
+    <string name="done_claim_ps">* 고객님은 이용 약관 프로그램에 따라 초과 수당을 지불해야 합니다.</string>
     <string name="done_download_invoice">&lt;u&gt;인보이스 다운로드&lt;/u&gt;</string>
     <string name="done_how_claim">불만을 접수하는 방법은?</string>
     <string name="done_info_expired">만료된 날짜 :</string>
@@ -88,7 +88,7 @@
     <string name="done_title_four">"MI 공인 서비스 센터에서 
 수리된 장치"</string>
     <string name="done_title_one">&lt;a href="https://oneassist.in/"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;OneAssist.in&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;"에 로그인 하거나 1800 123 
-3330으로 사용자의 불편사항을 전해주세요"</string>
+3330으로 사용자의 불편사항을 전해주세요."</string>
     <string name="done_title_three">"보험 파트너의 승인을 
 확인합니다 "</string>
     <string name="done_title_two">"귀하의 서류 및 
@@ -105,7 +105,7 @@
     <string name="hint_enter_otp">OTP 입력</string>
     <string name="hint_name">이름</string>
     <string name="hint_otp_on_call">통화 중 OTP</string>
-    <string name="hint_phone_no">전화 번호.</string>
+    <string name="hint_phone_no">전화번호.</string>
     <string name="hint_send_otp">OTP 보내기</string>
     <string name="hint_text_enter_your_coupon">쿠폰 입력</string>
     <string name="icon_to_select_this_date">이 날짜를 선택하는 아이콘</string>

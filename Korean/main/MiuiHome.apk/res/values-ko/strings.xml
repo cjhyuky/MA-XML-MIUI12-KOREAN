@@ -92,7 +92,7 @@
     <string name="menu_workspace_preview">홈 화면 미리보기</string>
     <string name="menu_back_desktop">홈 화면으로 돌아가기</string>
     <string name="menu_settings">설정</string>
-    <string name="menu_reset_scene">기본 레이아웃으로 다시 설정</string>
+    <string name="menu_reset_scene">기본 레이아웃으로 초기화</string>
     <string name="menu_exit_scene">Mi 스페이스 종료</string>
     <string name="permlab_install_shortcut">바로가기 설치</string>
     <string name="permdesc_install_shortcut">앱이 사용자의 조작 없이 바로가기를 추가할 수 있도록 허용합니다.</string>
@@ -180,7 +180,7 @@
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">온라인</string>
     <string name="custom_wallpaper_picker">찾아보기</string>
-    <string name="reset_scene_prompt">화면이 기본 레이아웃으로 다시 설정됩니다.</string>
+    <string name="reset_scene_prompt">화면이 기본 레이아웃으로 초기화됩니다.</string>
     <string name="preferences_title">런처 설정</string>
     <string name="preferences_general_title">추가 설정</string>
     <string name="pref_keep_in_memory_title">메모리에 MIUI 잠금</string>
@@ -351,7 +351,7 @@
     <string name="announce_for_drop">%1$s 놓여짐</string>
     <string name="announce_for_drop_folder_grid_view">%1$d 위치의 폴더 안으로</string>
     <string name="announce_for_drop_folder_icon">%1$s 폴더로</string>
-    <string name="announce_for_drop_hotseat">화면 하단 도크로</string>
+    <string name="announce_for_drop_hotseat">화면 하단 독으로</string>
     <string name="announce_for_drop_shortcut_icon">%1$s,%2$s에 의해 폴더 생성</string>
     <string name="announce_for_drop_thumbnail_container">화면 미리보기, %1$d번</string>
     <string name="announce_for_drop_trash">언인스톨 구역</string>
@@ -386,17 +386,17 @@
     <string name="title_jeejen">Jeejen 홈 화면</string>
     <string name="announce_for_checked">%1$s개, 체크됨</string>
     <string name="announce_for_move">%1$d열 %2$d행으로 이동</string>
-    <string name="announce_for_move_hotseat">%1$d번쨰 도크 위치로 이동</string>
+    <string name="announce_for_move_hotseat">%1$d번쨰 독 위치로 이동</string>
     <string name="announce_for_unchecked">%1$s개, 체크해제됨</string>
     <string name="backup_fail">런처 백업 실패</string>
     <string name="icon_reorganize_channel">아이콘 정렬</string>
-    <string name="notification_reset_description">%1$s%1$s를 사용하여 런처를 %2$s 상태로 다시 설정할 수 있습니다.</string>
+    <string name="notification_reset_description">%1$s%1$s를 사용하여 런처를 %2$s 상태로 초기화할 수 있습니다.</string>
     <string name="notification_reset_duration">두시간 동안,</string>
     <string name="notification_reset_title">자동 정리 완료</string>
     <string name="quick_app">빠른 앱</string>
     <string name="refresh">새로고침</string>
-    <string name="reset_fail">다시 설정 실패</string>
-    <string name="reset_title">다시 설정</string>
+    <string name="reset_fail">초기화 실패</string>
+    <string name="reset_title">초기화</string>
     <string name="reset_description_first_time">2시간 이내에는 %1$s 상태로 복원할 수 있습니다.</string>
     <string name="reset_description_others">%1$s 상태로 복원할 수 있습니다.</string>
     <string name="default_folder_title_services">서비스</string>
@@ -477,7 +477,7 @@
     <string name="system_text">시스템</string>
     <string name="cell_icon_size_title">아이콘 크기</string>
     <string name="default_folder_title_meitu">메이투 앱</string>
-    <string name="shortcut_share_dialog_content">"휴대전화에서 전송한 파일과 수신자는 귀하께서 직접 선택하고 결정해야 합니다. 공유할 파일을 선택하고 수신자를 선택할 때 주의하세요. 휴대전화를 사용하여 바이러스, 맬웨어, 트로이 목마, 시한 폭탄 및 기타 유해한 물건을 다른 사람에게 전송해서는 안됩니다. 휴대전화를 사용하여 수신자의 장치사용에 영향을 줄 수 있는 소프트웨어나 받는 사람의 물건을 전송하지 마세요. 모바일 단말기 장치의 시스템 데이터 또는 개인 정보를 손상, 방해, 가로 채기 또는 제거 다른 사용자 또는 모바일 단말기 장치로 인한 모든 손상에 대한 책임은 사용자에게 있습니다. Xiaomi는 공유 기능도 보장하기 위해 최선을 다할 것입니다. 관련 기술 및 정보는 안전하고 효과적이며 정확하며 신뢰할 수 있지만 현재 기술제한으로 인해 Xiaomi는 공유 기능이 완벽하며 모든 요구를 충족시킬 것이라고 보장하지는 않습니다."</string>
+    <string name="shortcut_share_dialog_content">"휴대전화에서 전송한 파일과 수신자는 귀하께서 직접 선택하고 결정해야 합니다. 공유할 파일을 선택하고 수신자를 선택할 때 주의하세요. 휴대전화를 사용하여 바이러스, 맬웨어, 트로이 목마, 시한 폭탄 및 기타 유해한 물건을 다른 사람에게 전송해서는 안됩니다. 휴대전화를 사용하여 수신자의 장치사용에 영향을 줄 수 있는 소프트웨어나 받는 사람의 물건을 전송하지 마세요. 모바일 단말기 장치의 시스템 데이터 또는 개인정보를 손상, 방해, 가로 채기 또는 제거 다른 사용자 또는 모바일 단말기 장치로 인한 모든 손상에 대한 책임은 사용자에게 있습니다. Xiaomi는 공유 기능도 보장하기 위해 최선을 다할 것입니다. 관련 기술 및 정보는 안전하고 효과적이며 정확하며 신뢰할 수 있지만 현재 기술제한으로 인해 Xiaomi는 공유 기능이 완벽하며 모든 요구를 충족시킬 것이라고 보장하지는 않습니다."</string>
     <string name="shortcut_share_dialog_positive_button">확인</string>
     <string name="shortcut_share_dialog_title">면책 조항</string>
     <string name="all_apps_setting_original_scrollbar">원본 레이아웃</string>
@@ -502,7 +502,7 @@
     <string name="all_app_category_shopping">쇼핑</string>
     <string name="all_app_category_tools">도구</string>
     <string name="all_apps_setting_min_category_limit">적어도 1개의 카테고리를 선택하세요.</string>
-    <string name="cate_order_reset">다시 설정</string>
+    <string name="cate_order_reset">초기화</string>
     <string name="category_already_exists">이 카테고리는 이미 존재합니다.</string>
     <string name="category_cannot_empty">카텍고리를 먼저 입력하세요.</string>
     <string name="category_choose_no_app_select_tip">모든 카테고리는 적어도 1개의 앱이 포함되어야 합니다.</string>

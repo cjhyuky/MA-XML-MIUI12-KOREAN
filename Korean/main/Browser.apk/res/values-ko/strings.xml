@@ -191,7 +191,7 @@
     <string name="cancle_sync_cloud_tabs">동기화 취소</string>
     <string name="cannot_download">\"http\" 또는 \"https\" URL만 다운로드할 수 있습니다.</string>
     <string name="cast_video">동영상 방송</string>
-    <string name="check_security_tip_privacy_policy">개인 정보 보호 약관</string>
+    <string name="check_security_tip_privacy_policy">개인정보 보호 약관</string>
     <string name="check_security_tip_user_agreement">사용자 계약</string>
     <string name="checking_now">체크중...</string>
     <string name="choosertitle_sharevia">공유 경로</string>
@@ -285,7 +285,7 @@
     <string name="dialog_confirm_delete_downloads_message">%s개 파일을 삭제하시겠습니까?</string>
     <string name="dialog_confirm_delete_the_download_item_message">이 파일을 삭제하시겠습니까?</string>
     <string name="dialog_failed_body">나중에 다시 시도하시거나 이 파일을 다운로드 항목에서 삭제하시겠습니까?</string>
-    <string name="dialog_file_already_exists">이 파일은 이미 다운로드하셨습니다.</string>
+    <string name="dialog_file_already_exists">이 파일은 이미 다운로드했습니다.</string>
     <string name="dialog_file_missing_body">파일을 찾을 수 없습니다. 옮기거나 삭제하셨습니까?</string>
     <string name="dialog_file_missing_title">파일을 열 수 없습니다.</string>
     <string name="dialog_insufficient_space_on_cache">다운로드할 수 없습니다.</string>
@@ -401,7 +401,7 @@
     <string name="geolocation_permissions_prompt_message">%s에서 사용자의 위치를 확인하려 합니다.</string>
     <string name="geolocation_permissions_prompt_remember">기본 설정 기억</string>
     <string name="geolocation_permissions_prompt_share">위치 공유</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">이 사이트는 사용자의 위치 정보에 접근할 수 있습니다. 변경하시려면 설정 &gt; 고급 &gt; 웹사이트 데이터로 이동하세요.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">이 사이트는 사용자의 위치 정보에 접근할 수 있습니다. 변경하려면 설정 &gt; 고급 &gt; 웹사이트 데이터로 이동하세요.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">이 사이트에서 사용자의 위치 정보에 접근할 수 없습니다.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">취소</string>
     <string name="geolocation_settings_page_dialog_message">이 웹사이트의 위치 접근을 지우길 원하십니까?</string>
@@ -416,7 +416,7 @@
     <string name="google_bookmarks">Google</string>
     <string name="green_kid_block_request">웹사이트가 부모님의 요청에 의해 접근이 거부 되었습니다.</string>
     <string name="guide_chosen_type_main_title">좋아하는 것을 알려주세요.</string>
-    <string name="guide_chosen_type_main_title_behind">말씀해 주세요.</string>
+    <string name="guide_chosen_type_main_title_behind">말씀하세요.</string>
     <string name="guide_chosen_type_main_title_front">사용자가 무엇을 좋아하는지</string>
     <string name="guide_chosen_type_subtitle">관련 추천을 얻으려면 관심사를 태그하세요.</string>
     <string name="guide_entertainment_text">오락</string>
@@ -450,7 +450,7 @@
     <string name="home_hybrid_application_tips">미니 프로그램이 여기 포함되어있습니다.</string>
     <string name="homepage_delete_card_menu">삭제</string>
     <string name="homepage_get_location">위치 가져오기</string>
-    <string name="homepage_get_location_failed">위치정보를 가져오지 못했습니다, 도시를 선택해주세요.</string>
+    <string name="homepage_get_location_failed">위치 정보를 가져오지 못했습니다, 도시를 선택하세요.</string>
     <string name="homepage_more_cards">더 많은 서비스</string>
     <string name="homepage_more_sites">웹사이트 더 보기</string>
     <string name="homepage_search_hint">검색</string>
@@ -479,7 +479,7 @@
     <string name="loading_dialog_title">이동중…</string>
     <string name="loading_tips">아래로 당겨 새로고침</string>
     <string name="local_bookmarks">Mi</string>
-    <string name="login_failed_toast">로그인할 수 없습니다. 새로고침 하신 후 다시 시도해주세요.</string>
+    <string name="login_failed_toast">로그인할 수 없습니다. 새로고침 하신 후 다시 시도하세요.</string>
     <string name="low_memory_toast">메모리가 부족해 계속 사용할 수 없습니다.</string>
     <string name="max_tabs_warning">탭을 더 열 수 없습니다.</string>
     <string name="maximum_input_alert">2048개 이상의 문자를 입력할 수 없습니다.</string>
@@ -701,7 +701,7 @@
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">이 페이지를 열 수 없습니다. %s0이 응답하지 않습니다.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">이 페이지를 열 수 없습니다. %s0이 안전하지 않은 포트번호를 사용하고 있습니다.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">이 페이지를 열 수 없습니다.</string>
-    <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">네트워크 연결상태를 확인해 주세요.</string>
+    <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">네트워크 연결상태를 확인하세요.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">이 페이지를 열 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">파일을 읽을 수 없습니다. 접근 권한을 허용하세요.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0의 응답까지 너무 오래 걸립니다.</string>
@@ -714,7 +714,7 @@
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_invalid_response">%0s에서 올바르지 않은 응답을 보냅니다.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">%0s에 너무 많은 리다이렉션이 있습니다.</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">%s0가 보안 인증서를 받지 못했으므로 보안 연결을 진행할 수 없습니다.</string>
-    <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">%s0이 안전 기준을 충족하지 못했으므로 보안 연결을 할 수 없습니다..</string>
+    <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">%s0이 안전 기준을 충족하지 못했으므로 보안 연결을 할 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_invalid_response">%s0이 올바르지 못한 응답을 보냈으므로 보안 연결을 할 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">%0s이보안 연결을 할 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_server_fault">%s0에서 이 작업을 처리할 수 없습니다.</string>
@@ -724,14 +724,14 @@
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">기기에 설치된 프록시 앱을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">인터넷 연결 상태를 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(모바일 데이터) %s1 APN 설정 %s2을 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_url">입력하신 URL을 다시 확인해주세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_url">입력하신 URL을 다시 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1 프록시 설정 %s2을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">캐시 삭제 (%s1 설정 %s2 - 데이터 초기화).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">쿠키와 캐시 데이터를 초기화하세요. (%s1 설정 %s2 - 로그인 계정 정보가 삭제될 수 있습니다).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke" formatted="false">쿠키와 캐시 데이터를 초기화하세요. (로그인 계정 정보가 삭제될 수 있습니다)</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">캐시 삭제.</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">인터넷에 연결된 후에 새로고침하기</string>
-    <string name="mw_miuichromium_error_page_suggestion_contact_admin">시스템 관리자에게 연락하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_contact_admin">시스템 관리자에게 연락해주세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_correct_url">입력하신 URL이 올바른지 확인.</string>
     <string name="mw_miuichromium_error_page_suggestion_grant_permission">새로고침</string>
     <string name="mw_miuichromium_error_page_suggestion_title">다음을 시도해보세요:</string>
@@ -796,7 +796,7 @@
     <string name="mw_payments_add_more_information">추가정보 추가</string>
     <string name="mw_payments_add_name">이름 추가</string>
     <string name="mw_payments_add_name_on_card">카드에 이름 추가</string>
-    <string name="mw_payments_add_phone_number">전화 번호 추가</string>
+    <string name="mw_payments_add_phone_number">전화번호 추가</string>
     <string name="mw_payments_add_recipient">이름 추가</string>
     <string name="mw_payments_add_valid_address">유효한 주소 추가</string>
     <string name="mw_payments_add_valid_card_number">유효한 카드번호 추가</string>
@@ -833,8 +833,8 @@
     <string name="mw_payments_name_required">이름이 필요합니다.</string>
     <string name="mw_payments_order_summary_label">주문 요약</string>
     <string name="mw_payments_pay_button">결제</string>
-    <string name="mw_payments_phone_invalid_validation_message">유효한 전화 번호를 입력하세요.</string>
-    <string name="mw_payments_phone_number_required">전화 번호가 필요합니다.</string>
+    <string name="mw_payments_phone_invalid_validation_message">유효한 전화번호를 입력하세요.</string>
+    <string name="mw_payments_phone_number_required">전화번호가 필요합니다.</string>
     <string name="mw_payments_pickup_address_label">수령 주소</string>
     <string name="mw_payments_pickup_option_label">수령 방법</string>
     <string name="mw_payments_pickup_summary_label">수령</string>
@@ -916,7 +916,7 @@
     <string name="navigate_feedback_report_input_tips">질문을 남겨주세요, 가능한 빨리 처리해 드리겠습니다.</string>
     <string name="navigate_feedback_report_success">제보 완료</string>
     <string name="navigate_feedback_report_title">제보 이유</string>
-    <string name="navigate_feedback_select_report_label">제보하신 이유를 선택해주세요.</string>
+    <string name="navigate_feedback_select_report_label">제보하신 이유를 선택하세요.</string>
     <string name="navigate_feedback_submit">제출</string>
     <string name="navigation_delete_all">왼쪽과 오른쪽으로 스와이프하면 모든 탭이 닫힙니다.</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">취소</string>
@@ -943,7 +943,7 @@
     <string name="open_cloud_sync_desc">북마크가 추가되었습니다. 클라우드에 연결된 다른 기기에도 같은 항목이 추가되도록 할 수 있습니다. 지금 클라우드에 로그인하시겠습니까?</string>
     <string name="open_file_explorer_failed">파일 탐색기를 열 수 없습니다.</string>
     <string name="open_voice_permission">마이크가 인터넷에 연결될 수 있게 허용</string>
-    <string name="page_hang_message">현재 페이지가 멈췄으므로 브라우저를 다시 시작해야합니다.</string>
+    <string name="page_hang_message">현재 페이지가 멈췄으므로 브라우저를 다시 시작해야 합니다.</string>
     <string name="page_hang_title">막힌 페이지</string>
     <string name="page_info">페이지 정보</string>
     <string name="page_info_address">주소:</string>
@@ -967,7 +967,7 @@
     <string name="player_3g_tip_sub_title">재생하시면 데이터 요금이 발생합니다.</string>
     <string name="player_3g_tip_title">현재 모바일 네트워크 이용중입니다, 계속 재생하시면 요금이 발생할 수 있습니다.</string>
     <string name="player_data_error_tip">이 동영상은 현재 일시적으로 사용불가합니다. 나중에 다시 시도하세요.</string>
-    <string name="player_net_error">네트워크에 연결되어있지 않습니다. 네트워크 설정을 확인해주세요.</string>
+    <string name="player_net_error">네트워크에 연결되어있지 않습니다. 네트워크 설정을 확인하세요.</string>
     <string name="player_no_data">죄송합니다! 이 동영상은 지워졌습니다.</string>
     <string name="popup_video">동영상 팝업</string>
     <string name="popup_window_attempt">이 사이트의 팝업 창을 허용하시겠습니까?</string>
@@ -1012,8 +1012,8 @@
     <string name="pref_enable_news">뉴스</string>
     <string name="pref_enable_novels">도서</string>
     <string name="pref_enable_videos">동영상</string>
-    <string name="pref_extras_reset_default">기본 값으로 다시 설정</string>
-    <string name="pref_extras_reset_default_dlg">설정을 기본 값으로 되돌리시겠습니까?</string>
+    <string name="pref_extras_reset_default">기본값으로 초기화</string>
+    <string name="pref_extras_reset_default_dlg">설정을 기본값으로 되돌리시겠습니까?</string>
     <string name="pref_extras_reset_default_summary">기본 설정 복원</string>
     <string name="pref_extras_reset_default_title">기타</string>
     <string name="pref_extras_send_feedback">피드백 전송</string>
@@ -1065,7 +1065,7 @@
     <string name="pref_privacy_enable_geolocation_summary">사이트의 위치 접근 요청을 허용합니다.</string>
     <string name="pref_privacy_formdata_title">양식 데이터</string>
     <string name="pref_privacy_location_title">위치 접근</string>
-    <string name="pref_privacy_policy">개인 정보 보호 정책</string>
+    <string name="pref_privacy_policy">개인정보 보호 정책</string>
     <string name="pref_privacy_security_title">개인정보 보호 &amp; 보안</string>
     <string name="pref_save_bandwidth_mode_title">데이터 절약</string>
     <string name="pref_security_accept_cookies">쿠키 허용</string>
@@ -1117,7 +1117,7 @@
     <string name="readmode_pay_message">다음 챕터를 읽으려면 결제가 필요합니다.</string>
     <string name="readmode_reach_last_page">마지막 페이지입니다.</string>
     <string name="readmode_recommend">추천 목록 보기</string>
-    <string name="readmode_recommend_message">이 책을 이미 읽으셨습니다. :)</string>
+    <string name="readmode_recommend_message">이 책을 이미 읽았습니다. :)</string>
     <string name="readmode_refresh">새로고침</string>
     <string name="readmodelist_bookmarks_to_show">목록 읽는 중</string>
     <string name="recommending_close_toast_text">추가 설정에서 이 기능 끄기</string>
@@ -1209,7 +1209,7 @@
     <string name="share_video">동영상 공유</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집 할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야합니다. 사용자는 우리에게 동의해야합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집 할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="sign_and_open">로그인 후 열기</string>
     <string name="sign_in">체크인</string>
@@ -1450,7 +1450,7 @@
     <string name="channel_more_title">더 많은 채널</string>
     <string name="collect_diagnosis_log">진단 로그 수집하기</string>
     <string name="data_traffic_download_toast_msg">현재 데이터 트래픽을 사용하여 동영상 수집</string>
-    <string name="document_open_txt_message">읽기 경험과 확실한 보안 향상을 하시려면 책장 기능을 사용하세요.</string>
+    <string name="document_open_txt_message">읽기 경험과 확실한 보안 향상을 하려면 책장 기능을 사용하세요.</string>
     <string name="document_open_txt_start_read">읽기 시작</string>
     <string name="multi_window_max_tips">최대 허용창 수를 초과하였습니다.</string>
     <string name="mw_add_to_dictionary">사전에 추가</string>
@@ -1493,7 +1493,7 @@
     <string name="security_permission_desc_read_phone">기기를 식별하기 위해 IMEI에 액세스하는 경우</string>
     <string name="security_permission_desc_storage">이미지 및 기타 파일 액세스, 저장, 업로드 및 다운로드</string>
     <string name="security_permission_main_purpose">웹 브라우징, 검색, 책과 뉴스 읽기, 동영상 시청 등</string>
-    <string name="security_permission_message_location">"이 앱은 위치 기반 서비스를 제공하기 위해 사용자의 위치에 액세스해야합니다. 이러한 권한을 부여하는 데 동의하지 않으면 이 앱의 일부 기능을 사용할 수 없습니다. 그러나 기본 기능은 계속 사용할 수 있습니다. 설정에서 언제든지 권한을 제한하거나 승인을 취소 할 수 있습니다. "</string>
+    <string name="security_permission_message_location">"이 앱은 위치 기반 서비스를 제공하기 위해 사용자의 위치에 액세스해야 합니다. 이러한 권한을 부여하는 데 동의하지 않으면 이 앱의 일부 기능을 사용할 수 없습니다. 그러나 기본 기능은 계속 사용할 수 있습니다. 설정에서 언제든지 권한을 제한하거나 승인을 취소 할 수 있습니다. "</string>
     <string name="security_permission_negative_btn_location">취소</string>
     <string name="security_permission_positive_btn_location">동의합니다.</string>
     <string name="security_permission_title_location">내 위치에 대한 액세스 허용</string>
@@ -1501,7 +1501,7 @@
     <string name="short_video_gesture_btn">확인</string>
     <string name="short_video_gesture_hint">다음 동영상을 보려면 스 와이프하세요.</string>
     <string name="short_video_net_dialog_continue">그래도 플레이</string>
-    <string name="short_video_net_dialog_title">"지금 모바일 데이터를 사용하고 있습니다. 모바일을 사용하면 추가 이동 통신사 요금이 발생할 수 있습니다."</string>
+    <string name="short_video_net_dialog_title">"지금 모바일 데이터를 사용하고 있습니다. 모바일을 사용하면 추가 이동통신사 요금이 발생할 수 있습니다."</string>
     <string name="small_video_footer_status_msg_idle">더 불러오려면 탭하세요.</string>
     <string name="video_ad_duration">광고 닫기 (%d)</string>
     <string name="video_next_playback">다음 단계</string>

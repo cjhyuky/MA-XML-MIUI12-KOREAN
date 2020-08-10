@@ -224,8 +224,8 @@
     <string name="network_error">네트워크 오류</string>
     <string name="follow_finished">팔로우 성공</string>
     <string name="service_unavailiable">서비스 이용 불가</string>
-    <string name="already_followed">이미 이 서비스 번호를 팔로우 하셨습니다.</string>
-    <string name="follow_forbidden">서비스 번호를 팔로우 하실 수 없습니다.</string>
+    <string name="already_followed">이미 이 서비스 번호를 팔로우했습니다.</string>
+    <string name="follow_forbidden">서비스 번호를 팔로우할 수 없습니다.</string>
     <string name="migrate_db_loading">작동 중…</string>
     <string name="empty_mipub_list">비어있음</string>
     <string name="check_network">네트워크 설정</string>

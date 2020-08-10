@@ -51,7 +51,7 @@
     <string name="dlg_check_reminder">다시 표시하지 않기</string>
     <string name="dlg_title_set_password">비밀번호 설정</string>
     <string name="dlg_message_set_password">개인정보 보호 비밀번호는 메시지, 사진, 숨김 폴더에서 작동합니다.</string>
-    <string name="dlg_title_use_privacy_password">개인 정보 보호 비밀번호 사용</string>
+    <string name="dlg_title_use_privacy_password">개인정보 보호 비밀번호 사용</string>
     <string name="dlg_message_use_privacy_password">개인정보 보호 비밀번호를 사용하세요. 메시지, 사진, 숨김 폴더에서 작동합니다.</string>
     <string name="dlg_title_password_reset">비밀번호를 업그레이드 하세요.</string>
     <string name="dlg_message_password_reset">숨김 메모 비밀번호가 메시지, 사진, 숨김 폴더에서 작동하는 개인정보 보호 비밀번호로 교체됩니다.</string>
@@ -179,7 +179,7 @@
     <string name="pref_title_cloud_trash_bin">Mi 클라우드 메모 삭제</string>
     <string name="dlg_delete_message">삭제 중…</string>
     <string name="permlab_accessNote">메모에 접근</string>
-    <string name="permdesc_accessNote">이것을 사용하여 악성 앱이 귀하의 개인 정보에 접근할 수 있습니다.</string>
+    <string name="permdesc_accessNote">이것을 사용하여 악성 앱이 귀하의 개인정보에 접근할 수 있습니다.</string>
     <string name="undo">실행 취소</string>
     <string name="redo">다시 실행</string>
     <string name="loading_text">잠시만 기다려주세요…</string>
@@ -304,7 +304,7 @@
     <string name="todo_audio_default_content">"[음성 작업] "</string>
     <string name="todo_custom_remind_tag_pattern_with_md">MM/dd HH:mm</string>
     <string name="todo_custom_remind_tag_pattern_with_ymd">yyyy/MM/dd HH:mm</string>
-    <string name="todo_edit_audio_hint">사용자의 작업을 말하세요.</string>
+    <string name="todo_edit_audio_hint">사용자의 작업을 말해주세요.</string>
     <string name="todo_edit_btn_cancel_remind">다시알림 취소</string>
     <string name="todo_edit_btn_custom">다시알림 설정</string>
     <string name="todo_edit_btn_done">완료</string>
@@ -359,7 +359,7 @@
     <string name="confirm_ok">동의</string>
     <string name="permission_get_account_desc">클라우드와 메모장 동기화 중</string>
     <string name="permission_microphone_desc">음성 메모를 만드는 중</string>
-    <string name="permission_network_for_cloud_desc">노트와 클라우드를 동기화하려면 인터넷에 연결해야합니다. 모바일 데이터를 사용하여 항목을 동기화할 수 있습니다. 지금 연결하시겠습니까?</string>
+    <string name="permission_network_for_cloud_desc">노트와 클라우드를 동기화하려면 인터넷에 연결해야 합니다. 모바일 데이터를 사용하여 항목을 동기화할 수 있습니다. 지금 연결하시겠습니까?</string>
     <string name="permission_read_contact_desc">통화 중에 생성 된 메모를 연락처와 연결 중</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI는 음성 녹음 및 장치 ID를 수집하여 오디오를 녹음하고 음성 메모를 만듭니다. Mi AI의 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 더 확인해보세요.</Data></string>
     <string name="pref_remind_type_summary">무음 모드에서 알림 소리 재생</string>
@@ -400,7 +400,7 @@
     <string name="todo_user_guide_tip6">\"확인\"을 탭하여 체크리스트 생성하기</string>
     <string name="btn_next">다음</string>
     <string name="note_gesture_guide_step1">음성 메모를 남기시려면 플러스 버튼을 누르고 계세요.</string>
-    <string name="note_gesture_guide_step2">폴더를 생성하시려면 하나의 메모를 누르고 계신후 다른 메모에 드래그하세요.</string>
+    <string name="note_gesture_guide_step2">폴더를 생성하려면 하나의 메모를 누르고 계신후 다른 메모에 드래그하세요.</string>
     <string name="note_gesture_guide_step3">하나의 메모를 누르고 계신 후 폴더로 드래그하시면 메모가 이동됩니다.</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Mi Cloud 동기화를 이용하면 메모와 할 일이 손실되지 않습니다.</string>
     <string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>

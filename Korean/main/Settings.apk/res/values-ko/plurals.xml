@@ -80,7 +80,7 @@
         <item quantity="other">%1$d명 연결됨</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">디바이스 정보 진입까지 %1$d단계 남았습니다.</item>
+        <item quantity="other">기기 정보 진입까지 %1$d단계 남았습니다.</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">CIT 입력까지 %1$d단계 남았습니다.</item>

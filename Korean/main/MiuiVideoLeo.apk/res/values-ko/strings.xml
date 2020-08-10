@@ -70,7 +70,7 @@
     <string name="clear_cache_success">캐시 삭제 완료</string>
     <string name="clear_cache_summary">동영상 앱에 캐시된 이미지 삭제</string>
     <string name="clear_search_history">검색 기록 삭제</string>
-    <string name="click_star_rate">평점을 입력하시려면 탭하세요.</string>
+    <string name="click_star_rate">평점을 입력하려면 탭하세요.</string>
     <string name="click_to_login">탭하여 로그인</string>
     <string name="clubber">클러버</string>
     <string name="clubber_center">클러버 센터</string>
@@ -667,7 +667,7 @@
     <string name="passport_downlink_reg">전화번호를 이용하여 계정 생성</string>
     <string name="passport_email">이메일 주소</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
-    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
     <string name="passport_error_dup_email">입력한 이메일이 이미 다른 계정과 연동되어 있습니다.</string>
     <string name="passport_error_email">입력한 이메일 주소가 올바르지 않습니다.</string>
@@ -688,7 +688,7 @@
     <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하시려면 account.mi.com을 방문하세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 초기화하려면 account.mi.com을 방문하세요.</string>
     <string name="passport_forget_password">비밀번호 찾기</string>
     <string name="passport_forget_password_no_underline">비밀번호 분실</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
@@ -739,7 +739,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보세요.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
-    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용하기</string>
     <string name="passport_reg_using_other_phone">대체 전화번호 사용</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
@@ -751,9 +751,9 @@
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
-    <string name="passport_reset_fail_title">다시 설정하지 못했습니다.</string>
+    <string name="passport_reset_fail_title">초기화하지 못했습니다.</string>
     <string name="passport_reset_password_prompt">비밀번호가 올바르지 않습니다.</string>
-    <string name="passport_reset_password_title">비밀번호 다시 설정</string>
+    <string name="passport_reset_password_title">비밀번호 초기화</string>
     <string name="passport_restart">다시 시작</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
@@ -779,7 +779,7 @@
     <string name="passport_user_agreement_p3"> 및 </string>
     <string name="passport_user_agreement_p4">개인정보 보호 정책</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
-    <string name="passport_use_generated_pwd_title">비밀번호를 기억해 주세요!</string>
+    <string name="passport_use_generated_pwd_title">비밀번호를 기억하세요!</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>
     <string name="passport_vcode_prompt_long">인증 코드 입력</string>
     <string name="passport_vcode_sms_send_prompt">%s 기기로 인증 코드 전송</string>

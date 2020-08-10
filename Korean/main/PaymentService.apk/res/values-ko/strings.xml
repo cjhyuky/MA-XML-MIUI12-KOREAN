@@ -10,7 +10,7 @@
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_skip_setup_account_title">설정 건너뛰기</string>
     <string name="passport_skip_setup_account_msg">나중에 설정에서 Mi 계정을 설정할 수 있습니다.</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하시려면 account.mi.com을 방문하세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 초기화하려면 account.mi.com을 방문하세요.</string>
     <string name="passport_title_reg">계정 생성</string>
     <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보세요.</string>
     <string name="passport_uplink_reg">전화번호 사용</string>
@@ -23,7 +23,7 @@
     <string name="passport_select_reg_ways_title">다른 방법으로 로그인</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 이용하여 계정 생성</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
-    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_re_register">다시 회원 가입</string>
     <string name="passport_register">계정 만들기</string>
     <string name="passport_vcode_sms_send_prompt">%s(으)로 인증 코드 전송</string>
@@ -42,10 +42,10 @@
     <string name="passport_registered_phone_user_name">사용자 이름: %s</string>
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
     <string name="passport_reset_password_prompt">비밀번호가 올바르지 않습니다.</string>
-    <string name="passport_reset_password_title">비밀번호 다시 설정</string>
+    <string name="passport_reset_password_title">비밀번호 초기화</string>
     <string name="passport_auto_generate_pwd">보안 비밀번호 생성</string>
     <string name="passport_pwd_generate_failure">비밀번호를 생성할 수 없음</string>
-    <string name="passport_use_generated_pwd_title">비밀번호를 기억해주세요!</string>
+    <string name="passport_use_generated_pwd_title">비밀번호를 기억하세요!</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
     <string name="passport_register_restricted_title">이 전화번호를 사용할 수 없습니다.</string>
     <string name="passport_register_restricted">너무 많은 계정이 이 번호에 연결되었습니다. 다른 번호를 사용하세요.</string>
@@ -60,7 +60,7 @@
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
-    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_skip_register">회원 가입 건너뛰기</string>
@@ -119,14 +119,14 @@
     <string name="passport_user_agreement_p1">동의: </string>
     <string name="passport_user_agreement_p2">사용자 계약</string>
     <string name="passport_user_agreement_p3"> 및 </string>
-    <string name="passport_user_agreement_p4">개인 정보 보호 정책</string>
-    <string name="passport_privacy_policy">개인 정보 보호 정책</string>
+    <string name="passport_user_agreement_p4">개인정보 보호 정책</string>
+    <string name="passport_privacy_policy">개인정보 보호 정책</string>
     <string name="passport_user_agreement">사용자 계약</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. %s에서 이 페이지를 볼 수 있습니다.</string>
     <string name="passport_login_failed">로그인할 수 없습니다.</string>
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_verification_failed">인증 실패</string>
-    <string name="passport_reset_fail_title">다시 설정하지 못했습니다.</string>
+    <string name="passport_reset_fail_title">초기화하지 못했습니다.</string>
     <string name="passport_identitfication_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
@@ -193,7 +193,7 @@
     <string name="mibi_check_giftcard">쿠폰 보기</string>
     <string name="mibi_click_retry">%1$s, 다시 시도하려면 클릭하세요.</string>
     <string name="mibi_deduct_goods_name">상품</string>
-    <string name="mibi_deduct_open_prompt">%1$s 서비스를 사용하시면 인증없이 %2$s 서비스가 자동결재됩니다. %1$s 설정에서 이 기능을 끌 수 있습니다.</string>
+    <string name="mibi_deduct_open_prompt">%1$s 서비스를 사용하시면 인증없이 %2$s 서비스가 자동결제됩니다. %1$s 설정에서 이 기능을 끌 수 있습니다.</string>
     <string name="mibi_deduct_order_price">가격</string>
     <string name="mibi_deduct_pay_group_title">공제 방법 선택</string>
     <string name="mibi_deduct_payment_title">자동 공제</string>
@@ -231,7 +231,7 @@
     <string name="mibi_error_common_summary">시스템 오류. 나중에 다시 시도하세요.</string>
     <string name="mibi_error_deduct">"자동 결제 프로토콜을 활성화 할 수 없습니다."</string>
     <string name="mibi_error_expired_summary">주문이 만료되었습니다.</string>
-    <string name="mibi_error_has_bought_summary">이미 이 제품을 구입하셨습니다.</string>
+    <string name="mibi_error_has_bought_summary">이미 이 제품을 구입했습니다.</string>
     <string name="mibi_error_illegal_order_summary">주문 오류. 나중에 다시 시도하세요.</string>
     <string name="mibi_error_invalid_device">잘못된 기기.</string>
     <string name="mibi_error_mili_summary">자금 부족.</string>
@@ -243,7 +243,7 @@
     <string name="mibi_error_recharge_result_uncertain">충전 결과가 불확실합니다.</string>
     <string name="mibi_error_recharge_success_pay_fail">충전 성공 지불 실패.</string>
     <string name="mibi_error_server_summary">서버 에러. 잠시후 다시 시도하세요.</string>
-    <string name="mibi_error_user_id_mismatch_summary">계정 체크 후 재로그인해주세요.</string>
+    <string name="mibi_error_user_id_mismatch_summary">계정 체크 후 재로그인하세요.</string>
     <string name="mibi_error_web_summary">서버 에러</string>
     <string name="mibi_fee">%1$s Mi 크레딧</string>
     <string name="mibi_forget_password"><u>비밀번호 분실</u></string>
@@ -268,7 +268,7 @@
     <string name="mibi_giftcard_hint">기프트 카드를 통해 추가된 Mi크레딧부터 자동으로 먼저 사용됩니다.</string>
     <string name="mibi_giftcard_payment">상품권</string>
     <string name="mibi_giftcard_payment_with_append">상품권 적용</string>
-    <string name="mibi_giftcard_push_notification_prime_title">"상품권을 받으셨습니다."</string>
+    <string name="mibi_giftcard_push_notification_prime_title">"상품권을 받았습니다."</string>
     <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Mi 크레딧 선물 제공.</string>
     <string name="mibi_giftcard_record">내 기프트 카드</string>
     <string name="mibi_giftcard_title">Mi 크레딧 기프트 카드</string>
@@ -280,7 +280,7 @@
     <string name="mibi_label_balance">잔액</string>
     <string name="mibi_label_giftcard">기프트 카드</string>
     <string name="mibi_label_pay_remain">금액: %1$s Mi 크레딧</string>
-    <string name="mibi_license_message">"Xiaomi Inc.에서 제공하는 서비스인 Mi크레딧을 사용하려고합니다.이 서비스를 사용하려면 %1$s에 명시된 서비스 약관에 동의해야합니다. %1$s에 명시된 이용약관에 동의하면 인터넷에 연결하고 Mi 크레딧을 사용하려면 기기를 찾으세요.You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
+    <string name="mibi_license_message">"Xiaomi Inc.에서 제공하는 서비스인 Mi크레딧을 사용하려고합니다.이 서비스를 사용하려면 %1$s에 명시된 서비스 약관에 동의해야 합니다. %1$s에 명시된 이용약관에 동의하면 인터넷에 연결하고 Mi 크레딧을 사용하려면 기기를 찾으세요.You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
     <string name="mibi_license_message_span">Mi크레딧 사용자 계약사항</string>
     <string name="mibi_license_title">이용 약관</string>
     <string name="mibi_list_item_bottom_hint">"목록 맨 하단입니다."</string>
@@ -298,7 +298,7 @@
     <string name="mibi_msg_order_hint_1_1">구매 확인을 터치하면 휴대전화가</string>
     <string name="mibi_msg_order_hint_1_2">자동으로 서비스 제공 업체로 연결할 것입니다.</string>
     <string name="mibi_msg_picker_hint_1_2">문자로 충전하시면 더 비쌉니다: %1$d 위안 = %2$d Mi크레딧</string>
-    <string name="mibi_msg_picker_hint_2_a">이동 통신사를 거쳐서 충전시 충전당 %1$s 위안의 서비스 요금이 부과됩니다.</string>
+    <string name="mibi_msg_picker_hint_2_a">이동통신사를 거쳐서 충전시 충전당 %1$s 위안의 서비스 요금이 부과됩니다.</string>
     <string name="mibi_msg_picker_hint_2_b">\"충전\"을 탭하면 통신사에서 문자를 보냅니다. 통신사에서는 문자요금을 청구할 것입니다.</string>
     <string name="mibi_msg_picker_hint_3_2">월 최대 충전량: %1$s 위안</string>
     <string name="mibi_msg_send_no_net_error">"메시지 전송 실패: 네트워크 제공 업체에 연결할 수 없습니다."</string>
@@ -322,7 +322,7 @@
     <string name="mibi_order_pay_type">결제 방법</string>
     <string name="mibi_order_pay_type_title">지불 방법 선택</string>
     <string name="mibi_order_pay_uncertain_button">확인</string>
-    <string name="mibi_order_pay_uncertain_detail">결재를 실패하면, %1$s에 전화합니다.</string>
+    <string name="mibi_order_pay_uncertain_detail">결제를 실패하면, %1$s에 전화합니다.</string>
     <string name="mibi_order_pay_uncertain_summary">결제 확인</string>
     <string name="mibi_order_title">지불</string>
     <string name="mibi_other_denomiantion">금액 선택</string>
@@ -332,7 +332,7 @@
     <string name="mibi_password_hint">계정 비밀번호 입력</string>
     <string name="mibi_password_prompt">지출을 확인하려면 Mi 계정을 확인하세요.</string>
     <string name="mibi_payment_recharge_group_title">충전 방법 선택</string>
-    <string name="mibi_payment_success_label">"%1$s Mi크레딧을 지불하셨습니다."</string>
+    <string name="mibi_payment_success_label">"%1$s Mi 크레딧을 지불했습니다."</string>
     <string name="mibi_payment_success_title">지불 금액</string>
     <string name="mibi_payment_with_login_title">Mi 계정 확인</string>
     <string name="mibi_paytool_alipay">알리페이</string>
@@ -355,7 +355,7 @@
     <string name="mibi_prepaid_number_edit_hint">번호</string>
     <string name="mibi_prepaid_password_edit_hint">비밀번호</string>
     <string name="mibi_prepaid_picker_hint_1_2">일회성 요금만 지원합니다;</string>
-    <string name="mibi_prepaid_picker_hint_2_2_a">"선불 카드의 공칭 값과 일치해야합니다. 다른 값을 선택하면 카드가 무효화됩니다.이 작업은 취소 할 수 없습니다."</string>
+    <string name="mibi_prepaid_picker_hint_2_2_a">"선불 카드의 공칭 값과 일치해야 합니다. 다른 값을 선택하면 카드가 무효화됩니다.이 작업은 취소 할 수 없습니다."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">선불 카드의 명목 가치가 %1$s 위안이 아닌 경우 카드는 무효가 됩니다. Xiaomi는 사용자 오류로 인한 금전적 손실에 대해 책임을지지 않습니다.</string>
     <string name="mibi_prepaid_picker_title_default">금액 선택</string>
     <string name="mibi_prepaid_picker_title_selected">금액</string>
@@ -390,7 +390,7 @@
     <string name="mibi_prompt_info_title">팁</string>
     <string name="mibi_push_register_fail">푸시 등록 실패.</string>
     <string name="mibi_push_register_success">푸시 등록 완료.</string>
-    <string name="mibi_push_set_accept_time_fail">%1$s의 접수 시간 설정에 실패했습니다..</string>
+    <string name="mibi_push_set_accept_time_fail">%1$s의 접수 시간 설정에 실패했습니다.</string>
     <string name="mibi_push_set_accept_time_success">%1$s - %2$s의 수락시간을 설정합니다.</string>
     <string name="mibi_push_set_alias_fail">%1$s의 별칭 설정 실패.</string>
     <string name="mibi_push_set_alias_success">별칭 \"%1$s\" 설정 완료.</string>
@@ -417,15 +417,15 @@
     <string name="mibi_sms_code_empty">휴대전화로 전송된 인증코드를 입력하세요.</string>
     <string name="mibi_sms_code_error">휴대전화 인증코드 오류, 재요청하세요.</string>
     <string name="mibi_sms_code_hint">3 ~ 6 자리 인증코드를 입력하세요.</string>
-    <string name="mibi_summary_bind_phone">계정의 안전을 위해 휴대전화 동기화 후 결재하세요.</string>
+    <string name="mibi_summary_bind_phone">계정의 안전을 위해 휴대전화 동기화 후 결제하세요.</string>
     <string name="mibi_summary_custom_service_phone">전화번호:</string>
-    <string name="mibi_summary_sms_code">%1$s 로 전송된 인증코드를 입력하세요，그러면 결재가 완료됩니다.</string>
+    <string name="mibi_summary_sms_code">%1$s 로 전송된 인증코드를 입력하세요，그러면 결제가 완료됩니다.</string>
     <string name="mibi_tianyi_create_order">차이나 유니콤 문자</string>
-    <string name="mibi_title_bind_phone">휴대전화번호 동기화</string>
+    <string name="mibi_title_bind_phone">휴대전화 번호 동기화</string>
     <string name="mibi_title_custom_service_phone">고객센터 연락하기</string>
     <string name="mibi_title_discounts">할인</string>
     <string name="mibi_title_mili_center">Mi 크레딧</string>
-    <string name="mibi_title_nopassword">"소액결재시에는 비밀번호를 입력하지 않습니다."</string>
+    <string name="mibi_title_nopassword">"소액결제시에는 비밀번호를 입력하지 않습니다."</string>
     <string name="mibi_title_nopassword_dialog">일일한도</string>
     <string name="mibi_title_password">비밀번호</string>
     <string name="mibi_title_password_threshold">일일한도 = ￥%1$s</string>
@@ -498,7 +498,7 @@
     <string name="passport_reg_recycle_account_no">없음</string>
     <string name="passport_reg_recycle_account_yes">네</string>
     <string name="passport_registered_phone_num">휴대전화: %s</string>
-    <string name="passport_select_the_login_account">로그인하시려면 계정을 선택하세요.</string>
+    <string name="passport_select_the_login_account">로그인하려면 계정을 선택하세요.</string>
     <string name="passport_select_the_recycle_phone_login">귀하의 계정을 선택하세요.</string>
     <string name="passport_select_the_register_phone">계정을 만들기 위해 전화번호를 선택하세요.</string>
     <string name="passport_send_vcode_failed">"코드 전송 실패"</string>
@@ -516,7 +516,7 @@
     <string name="mibi_recharge_warn_text">"Mi 크레딧을 사용하여 실제 물건을 구입하실 수는 없습니다."</string>
     <string name="mibi_all_license_message">"Xiaomi에서 제공되는 Mi 크레딧 기능을 사용하려면 %1$s에 명시된 이용약관에 동의해야 합니다. 이용약관에 동의하시면 '네'를 누르세요. Mi Credit을 사용하기 위해서는 인터넷에 연결되어 있어야 합니다."</string>
     <string name="mibi_normal_license_name">이용 약관</string>
-    <string name="mibi_privacy_license_name">개인 정보 보호 정책</string>
+    <string name="mibi_privacy_license_name">개인정보 보호 정책</string>
     <string name="mibi_camera_open_failed">카메라 열기 실패</string>
     <string name="mibi_progress_submit_pay">3분 후에 결제가 완료됩니다…</string>
     <string name="mibi_error_mipay_no_installed">"Mi지갑이 기기에 설치되어 있지 않습니다."</string>

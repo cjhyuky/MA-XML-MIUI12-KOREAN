@@ -284,7 +284,7 @@
     <string name="need_network_when_create">워크 스페이스를 생성하기 전에 네트워크에 연결하세요.</string>
     <string name="downloading_space">다운로드 중…</string>
     <string name="air_space_deleted">워크 스페이스 삭제에 성공했습니다.</string>
-    <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀번호를 다시 설정하세요.</string>
+    <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀번호를 초기화하세요.</string>
     <string name="reset_passwd_success">비밀번호 재설정에 성공했습니다.</string>
     <string name="air_space_exit">공간에서 나가기</string>
     <string name="air_space_setting">공간 설정</string>
@@ -336,9 +336,9 @@
     <string name="remove_user_click_message">"*%s에 중요한 자료들이 없다면"</string>
     <string name="remove_user_click_message_action">세컨드 스페이스 계정을 바로 삭제하고 다시 시작하세요.</string>
     <string name="sdcardfs_dialog_title">중요 업데이트</string>
-    <string name="sdcradfs_dialog_in_owner_message">"MIUI9에 새로운 프로그램 파일들이 추가됨에 따라 이전 데이터가 완벽하게 호환되지 않을 수 있습니다. 업데이트하려면 세컨드 스페이스에서 자료를 옮기고 기기를 다시 시작한 후에 세컨드 스페이스를 다시 생성해주세요. 업데이트하지 않을 경우, 일부 듀얼 앱들이 호환되지 않을 수 있습니다."</string>
+    <string name="sdcradfs_dialog_in_owner_message">"MIUI9에 새로운 프로그램 파일들이 추가됨에 따라 이전 데이터가 완벽하게 호환되지 않을 수 있습니다. 업데이트하려면 세컨드 스페이스에서 자료를 옮기고 기기를 다시 시작한 후에 세컨드 스페이스를 다시 생성하세요. 업데이트하지 않을 경우, 일부 듀얼 앱들이 호환되지 않을 수 있습니다."</string>
     <string name="sdcradfs_dialog_in_owner_title">세컨드 스페이스</string>
-    <string name="sdcradfs_dialog_in_sec_message">"업데이트하려면 세컨드 스페이스를 삭제하고 다시 생성하세요. 세컨드 스페이스에서 메인 저장소로 자료를 옮기긴 후에 기기를 제부팅하여 업데이트를 완료해주세요. 업데이트하지 않을 경우, 일부 듀얼 앱들이 호환되지 않을 수 있습니다."</string>
+    <string name="sdcradfs_dialog_in_sec_message">"업데이트하려면 세컨드 스페이스를 삭제하고 다시 생성하세요. 세컨드 스페이스에서 메인 저장소로 자료를 옮기긴 후에 기기를 제부팅하여 업데이트를 완료하세요. 업데이트하지 않을 경우, 일부 듀얼 앱들이 호환되지 않을 수 있습니다."</string>
     <string name="sdcradfs_dialog_in_sec_title">중요 업데이트</string>
     <string name="show_decktop_quick_switch_icon_detail">메인 계정의 홈 화면을 가져오는 방법</string>
     <string name="space_created_success">세컨드 스페이스가 성공적으로 제작되었습니다.</string>
@@ -419,16 +419,16 @@
     <string name="ent_activating">활성화 중...</string>
     <string name="ent_activation">활성화</string>
     <string name="ent_activation_hint">엔터프라이즈 모드를 활성화하려면 회사 코드를 라이센스 코드와 함께 입력하세요.</string>
-    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인 정보 보호 정책을 읽고 동의하세요.</string>
+    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호 정책을 읽고 동의하세요.</string>
     <string name="ent_agency_code">회사 코드</string>
     <string name="ent_agency_code_hint">회사 코드 입력</string>
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>
-    <string name="ent_agree_privacy_policy">"개인 정보 취급 방침을 읽었으며 이에 동의했습니다."</string>
+    <string name="ent_agree_privacy_policy">"개인정보 취급 방침을 읽었으며 이에 동의했습니다."</string>
     <string name="ent_app_verified">장치에 엔터프라이즈 응용 프로그램이 설치되어있는 것 같습니다. 엔터프라이즈 모드 활성화?</string>
     <string name="ent_confirm_dialog_content">"엔터프라이즈 모드를 활성화 한 후에는 시스템의 현재 상태로 돌아갈 수 없지만 모든 데이터는 여전히이 모드에 저장됩니다. "</string>
     <string name ="ent_disallow_running">앱을 실행할 수 없습니다.</string>
     <string name ="ent_downloading_message">다운로드 중입니다. %d%%</string>
-    <string name="ent_download_install_dialog_content">엔터프라이즈 모드를 활성화하려면 기업용 앱을 설치해야합니다. 지금 설치하시겠습니까?</string>
+    <string name="ent_download_install_dialog_content">엔터프라이즈 모드를 활성화하려면 기업용 앱을 설치해야 합니다. 지금 설치하시겠습니까?</string>
     <string name="ent_download_install_dialog_title">회사 앱 다운로드</string>
     <string name="ent_error_dialog_content">입력한 코드 중 하나 이상이 잘못되었습니다. 회사 및 라이센스 코드를 확인한 후 다시 입력하세요.</string>
     <string name="ent_get_code_hint">회사 및 라이센스 코드를 관리자에게서 얻을 수 있습니다.</string>
@@ -440,10 +440,10 @@
     <string name="ent_mode_activated">엔터프라이즈 모드가 활성화되었습니다.</string>
     <string name="ent_network_error">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 이득을 얻으세요." </string>
     <string name="ent_next_step">다음</string>
-    <string name="ent_privacy_policy_notice">*이 모드의 개인 데이터는 정책에 따라 수집됩니다. 귀하의 법인이 설립했습니다. Xiaomi는 이 모드에서 개인 정보를 수집하지 않습니다.</string>
+    <string name="ent_privacy_policy_notice">*이 모드의 개인 데이터는 정책에 따라 수집됩니다. 귀하의 법인이 설립했습니다. Xiaomi는 이 모드에서 개인정보를 수집하지 않습니다.</string>
     <string name="install">설치</string>
     <string name="install_error">"다시 설치할 수 없습니다."</string>
-    <string name="menu_item_about_privacy_title">개인 정보 보호 정책</string>
+    <string name="menu_item_about_privacy_title">개인정보 보호 정책</string>
     <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 두 번째 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="confirm_close_password_title">비밀번호 끄기</string>
     <string name="xspace_remove">"듀얼 앱 계정 삭제"</string>
@@ -457,10 +457,10 @@
     <string name="cta_declaration_message_format" formatted="false">엔터프라이즈 모드를 사용하기 전에 먼저 약관을 읽고 동의해야 합니다. 엔터프라이즈 모드를 활성화하려면 인터넷 연결이 필요합니다. 동의하시나요?</string>
     <string name="cta_declaration_title">이용 약관</string>
     <string name="dialog_message_service_error">"인증을 취소하고 초기화를 수행할 수 없습니다. 다시 시도하세요."</string>
-    <string name="dialog_tip_need_network">인증을 취소하려면 기기를 인터넷에 연결해야합니다.</string>
+    <string name="dialog_tip_need_network">인증을 취소하려면 기기를 인터넷에 연결해야 합니다.</string>
     <string name="dialog_title_service_error">서버 오류</string>
     <string name="dialog_undo_negative">"취소하지 않기"</string>
-    <string name="master_clear_apply_step_1">인증 취소는 기기에서 초기화를 수행해야합니다. 계정, 연락처, 사진 및 앱을 포함하여 모든 파일 및 데이터를 영구적으로 지웁니다. 권한을 취소하기 전에 모든 중요한 항목을 컴퓨터에 백업하세요.</string>
+    <string name="master_clear_apply_step_1">인증 취소는 기기에서 초기화를 수행해야 합니다. 계정, 연락처, 사진 및 앱을 포함하여 모든 파일 및 데이터를 영구적으로 지웁니다. 권한을 취소하기 전에 모든 중요한 항목을 컴퓨터에 백업하세요.</string>
     <string name="master_clear_apply_step_2">모든 중요한 항목을 컴퓨터에 백업했는지 확인하세요. \"OK\"를 탭하면 기기에서 초기화가 수행되어 계정, 주소록, 사진, 앱 등 모든 파일 및 데이터가 영구적으로 삭제됩니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="more_settings">더보기</string>

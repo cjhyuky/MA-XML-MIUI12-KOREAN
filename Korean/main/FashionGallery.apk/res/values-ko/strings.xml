@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">슬라이드형 배경화면</string>
     <string name="apply">적용</string>
-    <string name="at_least_one">최소 한개 이상의 카테고리를 선택</string>
+    <string name="at_least_one">최소 한 개 이상의 카테고리를 선택</string>
     <string name="auto_interval">자동</string>
     <string name="cancel">취소</string>
     <string name="cancel_international">취소</string>
@@ -63,7 +63,7 @@
     <string name="sst_no_favor_wallpaper_hint">즐겨 사용하는 배경화면 없음</string>
     <string name="sst_prov_enable_desc">정기적으로 새로운 배경화면을 얻어 잠금 화면으로 배달합니다.</string>
     <string name="sst_prov_enable_title">슬라이드형 배경화면 켜기</string>
-    <string name="sst_require_one_category_hint">적어도 한개 이상의 카테고리 선택</string>
+    <string name="sst_require_one_category_hint">적어도 한 개 이상의 카테고리 선택</string>
     <string name="sst_sti_desc">배경화면 업데이트 빈도 설정</string>
     <string name="sst_sti_title">업데이트 빈도</string>
     <string name="sst_subscribe_title">내 카테고리</string>

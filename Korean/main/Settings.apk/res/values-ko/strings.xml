@@ -97,7 +97,7 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="abort_backup_confirm">백업이 완료되지 않았습니다. 무시하고 끝내시겠습니까?</string>
     <string name="abort_restore_confirm">복구하는 작업이 완료되지 않았습니다. 그래도 중지하시겠습니까?</string>
-    <string name="about_ad_service_instructions">광고 및 개인 정보 설명</string>
+    <string name="about_ad_service_instructions">광고 및 개인정보 설명</string>
     <string name="about_autostart">자동 시작 정보</string>
     <string name="about_phone_device_name_warning">장치 이름은 휴대전화의 앱에서 볼 수 있습니다. 블루투스 장치에 연결하거나 Wi-Fi 핫스팟을 설정할 때 다른 사람이 볼 수도 있습니다.</string>
     <string name="about_phone_enter_xiaomi_net">더 알아보기</string>
@@ -119,7 +119,7 @@
     <string name="access_control_no_back_footer">나가려면 [icon] 을 터치하세요.</string>
     <string name="access_control_password_title">비밀번호</string>
     <string name="access_control_recording_intro_header">잠금해제 패턴 그리기:</string>
-    <string name="access_control_reset_by_account">비밀번호를 다시 설정하기 위해서 Mi 계정으로 로그인하세요.</string>
+    <string name="access_control_reset_by_account">비밀번호를 초기화하기 위해서 Mi 계정으로 로그인하세요.</string>
     <string name="access_point_names">액세스포인트 네임(APN)</string>
     <string name="accessibility_autoclick_delay_preference_title">자동클릭전 지연시간설정</string>
     <string name="accessibility_autoclick_description">마우스를 사용하는 경우 특정 시간 동안 움직이지 않을 때 자동으로 동작하도록 커서를 설정할 수 있습니다.</string>
@@ -165,7 +165,7 @@
     <string name="accessibility_preference_magnification_summary">돋보기</string>
     <string name="accessibility_screen_magnification_enable">확대 제스쳐</string>
     <string name="accessibility_screen_magnification_gestures_title">화면을 세 번 탭하여 돋보기 기능 활성화</string>
-    <string name="accessibility_screen_magnification_navbar_configuration_warning">%1$s를 접근성 버튼으로 설정하였습니다. 돋보기 기능을 사용하시려면 &amp;를 탭하여 선택하세요.</string>
+    <string name="accessibility_screen_magnification_navbar_configuration_warning">%1$s를 접근성 버튼으로 설정하였습니다. 돋보기 기능을 사용하려면 &amp;를 탭하여 선택하세요.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">버튼을 눌러 돋보기 기능 사용하기</string>
     <string name="accessibility_screen_magnification_short_summary">3번 탭하여 줌하기</string>
     <string name="accessibility_screen_magnification_summary">이 기능을 사용하면 화면을 3번 탭하여 확대 및 축소할 수 있습니다.\n\n화면을 확대한 상태에서 다음 작업을 수행할 수 있습니다.\n\이동: 화면에서 두 개 이상의 손가락을 드래그\n\확대/축소 수준 조정: 두 개 이상의 손가락을 오므리거나 벌림\n\n또한 3번 탭한 상태를 유지하여 손가락 아래에 있는 항목을 일시적으로 확대할 수 있습니다. 확대한 상태에서 손가락을 드래그하여 화면의 다른 부분을 탐색할 수 있습니다. 손가락을 떼면 이전 상태로 돌아갑니다.\n\n참고: 세 번 탭하여 확대 기능은 키보드와 탐색 바에서는 작동하지 않습니다.</string>
@@ -271,7 +271,7 @@
     <string name="add_fingerprint_done_title">즐길 준비가 되었습니다!</string>
     <string name="add_fingerprint_edge_instruction_msg">센서위에 올려놓은 손가락을 살짝 움직이며 지문의 모든 부분이 추가될 수 있도록 하세요.</string>
     <string name="add_fingerprint_edge_instruction_title">손가락을 약간 움직여 주세요.</string>
-    <string name="add_fingerprint_failed_retry_text">지문을 등록할 수 없습니다. 다시 시도해 주세요.</string>
+    <string name="add_fingerprint_failed_retry_text">지문을 등록할 수 없습니다. 다시 시도하세요.</string>
     <string name="add_fingerprint_finished_button_text">완료</string>
     <string name="add_fingerprint_instruction_msg">지문으로 기기의 잠금해제 혹은 결제 인증</string>
     <string name="add_fingerprint_instruction_title">지문 추가</string>
@@ -381,7 +381,7 @@
     <string name="ambient_display_screen_title">AOD 표시</string>
     <string name="ambient_display_summary">화면을 두 번 탭하여 알림을 빠르게 확인하세요.</string>
     <string name="ambient_display_title">화면을 두 번 탭하여 알림 확인</string>
-    <string name="android_beam_disabled_summary">이 기능을 사용하시려면 NFC를 켜세요.</string>
+    <string name="android_beam_disabled_summary">이 기능을 사용하려면 NFC를 켜세요.</string>
     <string name="android_beam_explained">기기를 접촉시킴으로써(일반적으로 뒷면과 뒷면) 사용자의 화면에 있는 웹페이지, 동영상 또는 다른 콘텐츠를 상대 기기로 보낼 수 있습니다.</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">NFC 콘텐츠 공유가 꺼졌습니다.</string>
@@ -649,7 +649,7 @@
     <string name="automatic_storage_manager_master_switch_title">저장소 관리자 사용</string>
     <string name="automatic_storage_manager_preference_title">파일 관리자</string>
     <string name="automatic_storage_manager_settings">저장소 관리</string>
-    <string name="automatic_storage_manager_text">저장소 확보를 위해 파일 관리자가 미 클라우드에 백업된 사진과 영상이 삭제됩니다.</string>
+    <string name="automatic_storage_manager_text">저장소 확보를 위해 파일 관리자가 Mi 클라우드에 백업된 사진과 영상이 삭제됩니다.</string>
     <string name="available_size">%s 사용 가능</string>
     <string name="available_via_carrier">%1$s 기기 사용가능</string>
     <string name="available_via_passpoint">%s 사용 가능</string>
@@ -660,12 +660,12 @@
     <string name="awake">장치 무중단 가동 시간</string>
     <string name="back_button">뒤로 가기</string>
     <string name="back_key">뒤로</string>
-    <string name="background_activity_disabled_dialog_text">이 앱은 배터리를 최적화하도록 설정되어 있지 않으므로 제한 할 수 없습니다. 앱을 제한하려면 먼저 배터리 최적화를 사용하세요.</string>
+    <string name="background_activity_disabled_dialog_text">이 앱은 배터리를 최적화하도록 설정되어 있지 않으므로 제한할 수 없습니다. 앱을 제한하려면 먼저 배터리 최적화를 사용하세요.</string>
     <string name="background_activity_summary">앱 백그라운드 실행을 허용합니다.</string>
     <string name="background_activity_summary_disabled">앱 백그라운드에서 동작하지 못하도록 설정합니다.</string>
     <string name="background_activity_summary_off">앱을 사용하지 않을 때는 백그라운드에서 작동하지 않습니다.</string>
     <string name="background_activity_summary_on">앱을 사용하지 않을 때에도 백그라운드에서 작동할 수 있습니다.</string>
-    <string name="background_activity_summary_whitelisted">백그라운드 사용을 제한 할 수 없습니다.</string>
+    <string name="background_activity_summary_whitelisted">백그라운드 사용을 제한할 수 없습니다.</string>
     <string name="background_activity_title">백그라운드 활동</string>
     <string name="background_activity_warning_dialog_text">앱의 백그라운드 활동을 제한하면 오작동 할 수 있습니다.</string>
     <string name="background_activity_warning_dialog_title">백그라운드 활동을 제한하시겠습니까?</string>
@@ -972,7 +972,7 @@
     <string name="bluetooth_disable_a2dp_hw_offload">블루투스 A2DP 하드웨어 오프로드 끄기</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">취소</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">다시 시작</string>
-    <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">이 설정을 변경하시려면 기기를 다시 시작해야 합니다.</string>
+    <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">이 설정을 변경하려면 기기를 다시 시작해야 합니다.</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">기기를 다시 시작하시겠습니까?</string>
     <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 안함</string>
     <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수 없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
@@ -990,11 +990,11 @@
     <string name="bluetooth_disconnected">연결 끊김</string>
     <string name="bluetooth_disconnecting">연결을 끊는 중…</string>
     <string name="bluetooth_display_passkey_pin_msg">&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;기기와 연결하려면 &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; PIN을 입력한 다음 Return 또는 Enter 키를 누르세요.</string>
-    <string name="bluetooth_dock_settings">도크 설정</string>
+    <string name="bluetooth_dock_settings">독 설정</string>
     <string name="bluetooth_dock_settings_a2dp">음악 및 미디어</string>
     <string name="bluetooth_dock_settings_headset">스피커폰으로 사용</string>
     <string name="bluetooth_dock_settings_remember">설정 기억</string>
-    <string name="bluetooth_dock_settings_title">오디오에 도크 사용</string>
+    <string name="bluetooth_dock_settings_title">오디오에 독 사용</string>
     <string name="bluetooth_dun_profile_summary_connected">DUN 서버에 연결됨</string>
     <string name="bluetooth_dun_profile_summary_use_for">Dial-up 네트워크 연결에 사용</string>
     <string name="bluetooth_empty_list_bluetooth_off">기기에서 블루투스가 켜져 있으면 주변의 다른 블루투스 기기와 통신할 수 있습니다.</string>
@@ -1041,7 +1041,7 @@
     <string name="bluetooth_notif_message">%1$s와(과) 연결하려면 터치하세요.</string>
     <string name="bluetooth_notif_ticker">블루투스 연결 요청</string>
     <string name="bluetooth_notif_title">연결 요청</string>
-    <string name="bluetooth_off_footer">다른 기기와 연결하기 위해서는 블루투스를 활성화 하세요.</string>
+    <string name="bluetooth_off_footer">다른 기기와 연결하기 위해서는 블루투스를 활성화하세요.</string>
     <string name="bluetooth_on_time">Wi-Fi 시간 켜짐</string>
     <string name="bluetooth_on_while_driving_pref">운전 중 블루투스 사용</string>
     <string name="bluetooth_on_while_driving_summary">운전 중 블루투스 자동 활성화</string>
@@ -1145,7 +1145,7 @@
     <string name="bluetooth_talkback_headset">헤드셋</string>
     <string name="bluetooth_talkback_imaging">이미징</string>
     <string name="bluetooth_talkback_input_peripheral">주변 입력기기</string>
-    <string name="bluetooth_talkback_phone">디바이스</string>
+    <string name="bluetooth_talkback_phone">기기</string>
     <string name="bluetooth_tether_checkbox_text">블루투스 테더링</string>
     <string name="bluetooth_tethering_available_subtext">이 휴대전화의 인터넷 연결 공유 중</string>
     <string name="bluetooth_tethering_device_connected_subtext">1개 기기에 대해 이 휴대전화의 인터넷 연결 공유 중</string>
@@ -1162,7 +1162,7 @@
     <string name="bluetooth_unlock_change_matched_device">다른 기기 선택</string>
     <string name="bluetooth_unlock_confirm_device_text">블루투스 기기를 탭하여 승인</string>
     <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">시계에서 확인하세요.</string>
-    <string name="bluetooth_unlock_confirm_device_text_for_miband2">잠금해제 하려면 기기의 버튼을 탭하세요.</string>
+    <string name="bluetooth_unlock_confirm_device_text_for_miband2">잠금해제하려면 기기의 버튼을 탭하세요.</string>
     <string name="bluetooth_unlock_delete_device">이 기기 삭제</string>
     <string name="bluetooth_unlock_delete_device_confirm_msg">이 기기를 삭제하시겠습니까?</string>
     <string name="bluetooth_unlock_device_matched_text">이 기기 사용하여 잠금해제</string>
@@ -1185,18 +1185,18 @@
     <string name="bluetooth_visibility_timeout">검색 가능 제한시간</string>
     <string name="bluetooth_wake">블루투스 오디오로 깨우기</string>
     <string name="boot_sounds_title">오디오 재생</string>
-    <string name="bootloader">패스트부트 모드</string>
-    <string name="bootloader_apply_step_1">패스트부트 모드를 켜시겠습니까?</string>
-    <string name="bootloader_apply_step_2">기기가 패스트부트 모드로 컴퓨터와 연결되었을때</string>
-    <string name="bootloader_apply_step_3">기기의 개인 정보 데이터(예: 비밀번호, 메시지)가 손상, 유출될 수도 있습니다.</string>
+    <string name="bootloader">Fastboot 모드</string>
+    <string name="bootloader_apply_step_1">Fastboot 모드를 켜시겠습니까?</string>
+    <string name="bootloader_apply_step_2">기기가 Fastboot 모드로 컴퓨터와 연결되었을때</string>
+    <string name="bootloader_apply_step_3">기기의 개인정보 데이터(예: 비밀번호, 메시지)가 손상, 유출될 수도 있습니다.</string>
     <string name="bootloader_apply_step_4">심지어 심각한 하드웨어 손상이 발생할 수 있습니다.</string>
-    <string name="bootloader_apply_step_5">패스트부트 모드를 켜시기 전에 사용법을 알고계신지 확인해 주세요.</string>
+    <string name="bootloader_apply_step_5">Fastboot 모드를 켜시기 전에 사용법을 알고계신지 확인하세요.</string>
     <string name="bootloader_apply_title">중요 경고</string>
     <string name="bootloader_device_bind_already">추가 완료. Mi 계정이 기기와 연동되었습니다.</string>
     <string name="bootloader_device_bind_exceed_sim_limit">이 SIM 카드에 더이상의 계정을 연결할 수 없습니다.</string>
     <string name="bootloader_device_bind_fail">승인할 수 없음. 1 ~ 2분 정도 기다리고 다시 시도하세요.</string>
-    <string name="bootloader_device_bind_msg">기기와 계정 추가 준비중…</string>
-    <string name="bootloader_device_bind_no_account">먼저 Mi 계정에 로그인해 주세요.</string>
+    <string name="bootloader_device_bind_msg">기기와 계정 추가 준비 중…</string>
+    <string name="bootloader_device_bind_no_account">먼저 Mi 계정에 로그인하세요.</string>
     <string name="bootloader_device_bind_no_data_network">Wi-Fi를 끄고 모바일 데이터를 사용하여 계정과 장치를 추가하세요.</string>
     <string name="bootloader_device_bind_no_network">네트워크에 연결한 뒤에 다시 시도하세요.</string>
     <string name="bootloader_device_bind_no_sim">SIM 카드를 삽입하고 다시 시도하세요.</string>
@@ -1204,10 +1204,10 @@
     <string name="bootloader_device_bind_server_token_expired_1">확인할 수 없습니다. 계정과 장치를 다시 추가하세요.</string>
     <string name="bootloader_device_bind_server_token_expired_2">확인할 수 없습니다. 계정에 다시 로그인하여 다시 시작하세요.</string>
     <string name="bootloader_device_bind_sim_invalid">SIM 카드가 잘못됨. 교체후 다시 시도하세요.</string>
-    <string name="bootloader_locked_answer_1">보안과 개인 정보 노출을 방지하기 위해 기기가 락되어있습니다. 만약 Fastboot 모드에 들어가 기기에 플래시해야한다면 언락할 수 있습니다.</string>
+    <string name="bootloader_locked_answer_1">보안과 개인정보 노출을 방지하기 위해 기기가 락되어있습니다. 만약 Fastboot 모드에 들어가 기기에 플래시해야한다면 언락할 수 있습니다.</string>
     <string name="bootloader_locked_answer_1_warning">주의: 휴대전화를 언락한 후에는 \"기기 찾기\"를 이용할 수 없습니다.</string>
     <string name="bootloader_locked_answer_2">1. SIM 카드가 제대로 삽입되었는지 확인하세요.\n2. Mi 계정 생성을 원하시면 \"계정 추가\"버튼을 탭하세요.\n3. Xiaomi 홈페이지에서 언락툴을 다운받으세요. 언락할 기기를 컴퓨터에 연결하여 이용해야 합니다. 여기에서 다운로드:</string>
-    <string name="bootloader_locked_answer_2_no_sim">1. 이 기기에 Mi 계정을 연동하시려면 아래의 \"계정 추가\" 를 탭하세요. 2. 웹사이트에서 언락툴을 다운로드하세요. 컴퓨터를 사용하여 언락해야 합니다. 언락툴 다운로드 링크 :</string>
+    <string name="bootloader_locked_answer_2_no_sim">1. 이 기기에 Mi 계정을 연동하려면 아래의 \"계정 추가\" 를 탭하세요. 2. 웹사이트에서 언락툴을 다운로드하세요. 컴퓨터를 사용하여 언락해야 합니다. 언락툴 다운로드 링크 :</string>
     <string name="bootloader_locked_check_status">계정/기기 추가</string>
     <string name="bootloader_locked_question_1">왜 기기가 락되어야 하나요?</string>
     <string name="bootloader_locked_question_2">위험성을 이해했습니다. 그러나 여전히 내 기기를 언락할 것입니다.</string>
@@ -1218,7 +1218,7 @@
     <string name="bootloader_status_privacy_dialog_message">Mi언락은 사용자의 Mi 계정, CPU ID, IMEI, 정상적으로 작동하는 IMSI에 접근이 필요합니다. %s에 따라 데이터를 수집, 사용 및 처리합니다. 동의하시겠습니까?</string>
     <string name="bootloader_status_privacy_dialog_no">취소</string>
     <string name="bootloader_status_privacy_dialog_title">권한 요구됨</string>
-    <string name="bootloader_status_privacy_dialog_url_text">개인 정보 보호정책</string>
+    <string name="bootloader_status_privacy_dialog_url_text">개인정보 보호정책</string>
     <string name="bootloader_status_privacy_dialog_yes">동의</string>
     <string name="bootloader_status_summary">기기 락 확인하기</string>
     <string name="bootloader_status_unlocked">잠금해제됨</string>
@@ -1375,7 +1375,7 @@
     <string name="carrier_enabled">APN 사용/사용 중지</string>
     <string name="carrier_enabled_summaryOff">APN 사용 중지됨</string>
     <string name="carrier_enabled_summaryOn">APN 사용</string>
-    <string name="carrier_provisioning">이동 통신사 프로비저닝 정보</string>
+    <string name="carrier_provisioning">이동통신사 프로비저닝 정보</string>
     <string name="carrier_show_in_lock_screen">잠금 화면에만 표시</string>
     <string name="carrier_show_none">다시는 통신사 이름 표시하지 않기</string>
     <string name="category_personal">개인</string>
@@ -1463,7 +1463,7 @@
     <string name="close_twice_auth_steps">아래를 참고하여 애플 ID의 이중 보안설정을 끄세요:</string>
     <string name="close_twice_auth_tutor">애플 ID 이중 보안설정 끄기</string>
     <string name="cloud_app_name">Mi 클라우드 백업</string>
-    <string name="cloud_backup_hint">백업에 액세스 하기 위해 로그인해 주세요.</string>
+    <string name="cloud_backup_hint">백업에 액세스 하기 위해 로그인하세요.</string>
     <string name="cloud_backup_login">Mi 계정에 로그인</string>
     <string name="cloud_backup_section_title">Mi 클라우드 백업</string>
     <string name="cloud_backup_settings_section_title">백업 설정</string>
@@ -1502,7 +1502,7 @@
     <string name="color_red">빨간색</string>
     <string name="color_temperature">시원함</string>
     <string name="color_temperature_desc">시원한 화면 색상 사용</string>
-    <string name="color_temperature_toast">화면 색상 변경 사항을 저장하려면 기기를 다시 시작해주세요.</string>
+    <string name="color_temperature_toast">화면 색상 변경 사항을 저장하려면 기기를 다시 시작하세요.</string>
     <string name="color_theme">색상 테마</string>
     <string name="color_title">상</string>
     <string name="color_unspecified">기본값</string>
@@ -1559,7 +1559,7 @@
     <string name="confirm_erase">지우기</string>
     <string name="confirm_exit_link">나가기</string>
     <string name="confirm_exit_link_cancel">나가지 않기</string>
-    <string name="confirm_exit_link_msg">이제 앱을 나가면 진행중인 전송이 중단되므로 두 기기간 연결을 다시 설정해야합니다. 그래도 앱을 종료하시겠습니까?</string>
+    <string name="confirm_exit_link_msg">이제 앱을 나가면 진행중인 전송이 중단되므로 두 기기간 연결을 초기화해야 합니다. 그래도 앱을 종료하시겠습니까?</string>
     <string name="confirm_exit_link_title">전송 중단</string>
     <string name="confirm_fingerprint_icon_content_description">지문을 스캔해 계속하세요.</string>
     <string name="confirm_fingerprint_msg">센서에 손가락을 올려주세요.</string>
@@ -1568,8 +1568,8 @@
     <string name="confirm_frp_credential_title">공장 초기화 잠금</string>
     <string name="confirm_install_and_connect">설치 &amp; 연결</string>
     <string name="confirm_new_backup_pw_prompt">전체 백업에 대한 새 비밀번호를 다시 입력하세요.</string>
-    <string name="confirm_privacy_password">개인 정보 보호 비밀번호 입력</string>
-    <string name="confirm_privacy_password_fingerprint">지문 스캔 또는 개인 정보 보호 비밀번호 입력</string>
+    <string name="confirm_privacy_password">개인정보 보호 비밀번호 입력</string>
+    <string name="confirm_privacy_password_fingerprint">지문 스캔 또는 개인정보 보호 비밀번호 입력</string>
     <string name="confirm_prompt_all_permission">모든 앱에 대한 권한을 물어보시겠습니까?</string>
     <string name="confirm_reject_all_permission">이 기능을 사용하는 모든 앱을 제한하시겠습니까?</string>
     <string name="confirm_reset_aaid">확인</string>
@@ -1643,7 +1643,7 @@
     <string name="credentials_unlock_hint">자격증명 저장소 비밀번호를 입력하세요.</string>
     <string name="credentials_wrong_password">비밀번호가 잘못되었습니다.</string>
     <string name="crypt_keeper_button_text">휴대전화 암호화</string>
-    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 휴대전화의 배터리가 과정을 진행하기에 충분한지 확인해 주세요. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
+    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 휴대전화의 배터리가 과정을 진행하기에 충분한지 확인하세요. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
     <string name="crypt_keeper_conditions_title">기기 암호화 정보</string>
     <string name="crypt_keeper_confirm_encrypt">기기를 암호화하려면 잠금해제 패턴을 그려야 합니다.</string>
     <string name="crypt_keeper_confirm_title">암호화하시겠습니까?</string>
@@ -1665,7 +1665,7 @@
     <string name="crypt_keeper_failed_summary">암호화가 중단되어 완료할 수 없습니다. 따라서 휴대전화의 데이터에 더 이상 액세스할 수 없습니다. \n\n휴대전화를 다시 사용하려면 초기화해야 합니다. 초기화한 후 휴대전화를 설정하면, Google 계정에 백업되어 있던 데이터를 복원할 수 있습니다.</string>
     <string name="crypt_keeper_failed_title">암호화하지 못했습니다.</string>
     <string name="crypt_keeper_final_desc">암호화 작업은 되돌릴 수 없으며 중단하면 데이터를 잃게 됩니다. 암호화는 한 시간 이상이 걸리며 그 동안 휴대전화는 몇 번 다시 시작됩니다.</string>
-    <string name="crypt_keeper_force_power_cycle">기기를 잠금해제하려면 다시 시작하세요.</string>
+    <string name="crypt_keeper_force_power_cycle">기기 잠금을 해제하려면 다시 시작하세요.</string>
     <string name="crypt_keeper_low_charge_text">배터리를 충전한 다음 다시 시도하세요.</string>
     <string name="crypt_keeper_settings_title">암호화</string>
     <string name="crypt_keeper_setup_description">휴대전화를 암호화하는 동안 잠시 기다려 주세요. ^1% 완료되었습니다.</string>
@@ -1694,7 +1694,7 @@
     <string name="current_use_uicc_se">SIM 카드의 보안 요소 사용 중</string>
     <string name="current_use_uicc_wallet">SIM%1$s 지갑을 사용하고 있습니다.</string>
     <string name="current_zone">(현재)</string>
-    <string name="custom_carrier_title">이동 통신사 이름 수정</string>
+    <string name="custom_carrier_title">이동통신사 이름 수정</string>
     <string name="custom_wifi_name_title">Wi-Fi 이름 수정</string>
     <string name="cutout_mode_always">노치 항상 표시</string>
     <string name="cutout_mode_default">자동</string>
@@ -1754,7 +1754,7 @@
     <string name="data_usage_cycle">데이터 사용 주기</string>
     <string name="data_usage_cycle_editor_positive">설정</string>
     <string name="data_usage_cycle_editor_subtitle">날짜:</string>
-    <string name="data_usage_cycle_editor_title">사용 주기 다시 설정</string>
+    <string name="data_usage_cycle_editor_title">사용 주기 초기화</string>
     <string name="data_usage_data_limit">데이터 한도 설정</string>
     <string name="data_usage_disable_3g_limit">2G-3G 데이터 제한 설정</string>
     <string name="data_usage_disable_4g_limit">4G 데이터 제한 설정</string>
@@ -1795,7 +1795,7 @@
     <string name="data_usage_metered_wifi_disabled">핫스팟을 선택하려면 Wi-Fi를 켜세요.</string>
     <string name="data_usage_metered_yes">측정됨</string>
     <string name="data_usage_other_apps">사용량에 다른 앱 포함</string>
-    <string name="data_usage_pick_cycle_day">데이터 사용 주기를 다시 설정할 날짜:</string>
+    <string name="data_usage_pick_cycle_day">데이터 사용 주기를 초기화할 날짜:</string>
     <string name="data_usage_received_sent">%1$s 수신됨, %2$s 전송됨</string>
     <string name="data_usage_restrict_background">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 작동하지 않습니다.</string>
     <string name="data_usage_restrict_background_multiuser">백그라운드 모바일 데이터를 제한할 경우, Wi-Fi 네트워크에 연결되어 있지 않으면 일부 앱과 서비스가 제대로 작동하지 않습니다.</string>
@@ -1819,12 +1819,12 @@
     <string name="data_usage_uninstalled_apps_users">삭제된 앱 및 사용자</string>
     <string name="data_usage_warning_editor_title">데이터 사용 경고 설정</string>
     <string name="data_usage_wifi_format">^1 Wi-Fi 모드에서 사용함</string>
-    <string name="data_usage_wifi_title">WLAN 데이터</string>
+    <string name="data_usage_wifi_title">Wi-Fi 데이터</string>
     <string name="data_used">^1 사용함</string>
     <string name="data_used_formatted">^1 ^2 사용함</string>
     <string name="data_used_template">%1$s 사용됨</string>
     <string name="data_warning">데이터 경고</string>
-    <string name="data_warning_footnote">데이터 경고와 제한은 기기에서 측정된 데이터 용량에 절대적으로 의존하며 측정된 수치는 이동 통신사에서 측정한 수치와 다를 수 있습니다.</string>
+    <string name="data_warning_footnote">데이터 경고와 제한은 기기에서 측정된 데이터 용량에 절대적으로 의존하며 측정된 수치는 이동통신사에서 측정한 수치와 다를 수 있습니다.</string>
     <string name="date_and_time">날짜 및 시간</string>
     <string name="date_and_time_settings_summary">날짜, 시간, 표준시간대 및 형식 설정</string>
     <string name="date_and_time_settings_title">날짜 및 시간</string>
@@ -1977,11 +1977,11 @@
     <string name="device_name">기기 이름</string>
     <string name="device_name_input_error">기기 이름을 저장하지 못했습니다.</string>
     <string name="device_name_input_hint">이름 입력</string>
-    <string name="device_name_input_overlength">문자수 제한을 초과하셨습니다.</string>
+    <string name="device_name_input_overlength">문자수 제한을 초과했습니다.</string>
     <string name="device_name_usage_point">근처의 다른 기기가 이 이름을 볼 수 있습니다.</string>
     <string name="device_picker">블루투스 기기 선택</string>
     <string name="device_rear_camera">후면 카메라</string>
-    <string name="device_reset_title">기기 다시 설정</string>
+    <string name="device_reset_title">기기 초기화</string>
     <string name="device_screen_consumption">화면 소비</string>
     <string name="device_screen_resolution">화면 해상도</string>
     <string name="device_screen_size">화면 크기</string>
@@ -2090,7 +2090,7 @@
     <string name="display_summary_on">" 자동 밝기 조절 켜짐"</string>
     <string name="display_vr_pref_low_persistence">모션블러 사용</string>
     <string name="display_vr_pref_off">아무것도 하지 않기</string>
-    <string name="display_vr_pref_title">디바이스가 VR모드에 있는 경우</string>
+    <string name="display_vr_pref_title">기기가 VR 모드에 있는 경우</string>
     <string name="dlg_cancel">취소</string>
     <string name="dlg_close">닫기</string>
     <string name="dlg_confirm_uicc_unmount_text">UICC 저장소를 꺼내시면 다시 장착하실 때까지 몇몇 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
@@ -2159,20 +2159,20 @@
     <string name="do_not_disturb_mode">방해 금지 모드</string>
     <string name="dock_audio_media_disabled">모든 오디오</string>
     <string name="dock_audio_media_enabled">미디어 오디오만</string>
-    <string name="dock_audio_media_title">도크 스피커 재생</string>
+    <string name="dock_audio_media_title">독 스피커 재생</string>
     <string name="dock_audio_settings_title">오디오</string>
-    <string name="dock_audio_summary_car">연결된 카폰 도크 설정</string>
-    <string name="dock_audio_summary_desk">연결된 데스크톱 도크 설정</string>
+    <string name="dock_audio_summary_car">연결된 카폰 독 설정</string>
+    <string name="dock_audio_summary_desk">연결된 데스크톱 독 설정</string>
     <string name="dock_audio_summary_none">도킹되지 않은 휴대전화</string>
-    <string name="dock_audio_summary_unknown">연결된 도크 설정</string>
-    <string name="dock_not_found_text">휴대전화를 도킹해야 오디오 도크를 설정할 수 있습니다.</string>
-    <string name="dock_not_found_title">도크를 찾을 수 없음</string>
+    <string name="dock_audio_summary_unknown">연결된 독 설정</string>
+    <string name="dock_not_found_text">휴대전화를 도킹해야 오디오 독를 설정할 수 있습니다.</string>
+    <string name="dock_not_found_title">독를 찾을 수 없음</string>
     <string name="dock_settings">도킹</string>
-    <string name="dock_settings_summary">연결된 도크에 대한 오디오 설정</string>
-    <string name="dock_settings_title">도크 설정</string>
-    <string name="dock_sounds_enable_summary_off">도크에 휴대전화를 끼우거나 제거할 때 소리 재생 안함</string>
-    <string name="dock_sounds_enable_summary_on">도크에 휴대전화를 끼우거나 제거할 때 소리 재생</string>
-    <string name="dock_sounds_enable_title">도크 삽입음</string>
+    <string name="dock_settings_summary">연결된 독에 대한 오디오 설정</string>
+    <string name="dock_settings_title">독 설정</string>
+    <string name="dock_sounds_enable_summary_off">독에 휴대전화를 끼우거나 제거할 때 소리 재생 안함</string>
+    <string name="dock_sounds_enable_summary_on">독에 휴대전화를 끼우거나 제거할 때 소리 재생</string>
+    <string name="dock_sounds_enable_title">독 삽입음</string>
     <string name="docking_sounds_title">도킹 소리</string>
     <string name="does_not_exist">앱이 없습니다.</string>
     <string name="dolby_bassboost_high">강한</string>
@@ -2378,7 +2378,7 @@
     <string name="enterprise_privacy_input_method_name">%s로 설정</string>
     <string name="enterprise_privacy_installed_packages">설치된 앱 목록</string>
     <string name="enterprise_privacy_location_access">위치 접근 권한</string>
-    <string name="enterprise_privacy_lock_device">관리자는 기기를 잠그고 비밀번호를 다시 설정할 수 있습니다.</string>
+    <string name="enterprise_privacy_lock_device">관리자는 기기를 잠그고 비밀번호를 초기화할 수 있습니다.</string>
     <string name="enterprise_privacy_microphone_access">마이크 접근 권한</string>
     <string name="enterprise_privacy_network_logs">최신 네트워크 트래픽 로그</string>
     <string name="enterprise_privacy_none">없음</string>
@@ -2475,7 +2475,7 @@
     <string name="factory_reset_summary">휴대전화의 내부 저장소에서 모든 데이터 지우기</string>
     <string name="fail">실패</string>
     <string name="failed_description">실패함</string>
-    <string name="failed_to_check_find_device_status_content">기기 찾기 상태를 확인 할 수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도해 주세요.</string>
+    <string name="failed_to_check_find_device_status_content">기기 찾기 상태를 확인 할 수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도하세요.</string>
     <string name="failed_to_check_find_device_status_title">상태를 확인할 수 없음</string>
     <string name="failed_to_erase_text">\"1217\" 코드로 진입하기 전에 잠금 화면 비밀번호를 끄세요.</string>
     <string name="failed_to_erase_title">이 동작을 완료할 수 없습니다.</string>
@@ -2544,8 +2544,8 @@
     <string name="fingerprint_add_max">지문은 최대 %d개 까지 설정 가능합니다.</string>
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_and_password_entrance_title">화면 잠금 &amp; 지문 인식</string>
-    <string name="fingerprint_apply_to_privacy_password">개인 정보 보호 비밀번호</string>
-    <string name="fingerprint_apply_to_privacy_password_scenarios">개인 정보 보호 비밀번호가 귀하의 메시지, 사진, 파일, 메모, 기타 등을 보호합니다.</string>
+    <string name="fingerprint_apply_to_privacy_password">개인정보 보호 비밀번호</string>
+    <string name="fingerprint_apply_to_privacy_password_scenarios">개인정보 보호 비밀번호가 귀하의 메시지, 사진, 파일, 메모, 기타 등을 보호합니다.</string>
     <string name="fingerprint_delete_message">이 지문을 삭제하시겠습니까?</string>
     <string name="fingerprint_delete_title">\'%1$s\' 삭제</string>
     <string name="fingerprint_enable_keyguard_toggle_title">화면 잠금</string>
@@ -2557,8 +2557,8 @@
     <string name="fingerprint_gesture_screen_title">지문 인식</string>
     <string name="fingerprint_identify_input_password_msg">비밀번호 입력</string>
     <string name="fingerprint_identify_msg">지문 읽는 중…</string>
-    <string name="fingerprint_identify_try_again_msg">지문을 읽을 수 없습니다. 다시 시도해 주세요.</string>
-    <string name="fingerprint_intro_error_max">추가할 수 있는 지문 개수를 초과하셨습니다.</string>
+    <string name="fingerprint_identify_try_again_msg">지문을 읽을 수 없습니다. 다시 시도하세요.</string>
+    <string name="fingerprint_intro_error_max">추가할 수 있는 지문 개수를 초과했습니다.</string>
     <string name="fingerprint_intro_error_unknown">더 이상 지문을 추가할 수 없습니다.</string>
     <string name="fingerprint_last_delete_confirm">네, 삭제합니다.</string>
     <string name="fingerprint_last_delete_message">더 이상 이 지문으로 기기 잠금해제, 결제 서비스 등을 사용할 수 없게 됩니다.</string>
@@ -2570,11 +2570,11 @@
     <string name="fingerprint_manage">지문 관리</string>
     <string name="fingerprint_manage_category_title">지문 관리</string>
     <string name="fingerprint_manage_tittle">지문</string>
-    <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력해 주세요.</string>
+    <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력하세요.</string>
     <string name="fingerprint_not_recognized">인식되지 않음</string>
     <string name="fingerprint_others_title">기타</string>
     <string name="fingerprint_payment">지문을 이용한 결제</string>
-    <string name="fingerprint_removal_failed">지문을 제거할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="fingerprint_removal_failed">지문을 제거할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">알림 빠르게 보기</string>
     <string name="fingerprint_swipe_for_notifications_summary">알림을 확인하려면 지문인식 센서를 아래로 스와이프하세요.</string>
     <string name="fingerprint_swipe_for_notifications_title">지문을 스와이프하여 알림을 확인하세요.</string>
@@ -2599,7 +2599,7 @@
     <string name="firewall_partial">다음 방법을 사용해 연결하는 모든 앱 허용​</string>
     <string name="firewall_permission">연결 권한</string>
     <string name="firewall_restrict_all">다음 방법을 사용해 연결하는 모든 앱 제한</string>
-    <string name="firewall_restrict_android_dialog_content">기기가 정상적으로 작동하는지 확인하기 위해 몇 가지 Android 시스템 앱이 계속 인터넷에 연결됩니다. 이러한 앱은 모바일 데이터 연결을 사용하며 이동 통신사에서 약간의 요금을 부과 할 수 있습니다.</string>
+    <string name="firewall_restrict_android_dialog_content">기기가 정상적으로 작동하는지 확인하기 위해 몇 가지 Android 시스템 앱이 계속 인터넷에 연결됩니다. 이러한 앱은 모바일 데이터 연결을 사용하며 이동통신사에서 약간의 요금을 부과 할 수 있습니다.</string>
     <string name="firewall_restrict_android_dialog_title">주의</string>
     <string name="firewall_restrict_data">모바일 데이터 사용 제한</string>
     <string name="firewall_restrict_notify_title">%s 앱이 네트워크를 사용할 수 없습니다.</string>
@@ -2635,8 +2635,12 @@
     <string name="font_size_medium">크게</string>
     <string name="font_size_normal">작게</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_preview_text">MIUI 하면 역시 EU롬입니다.</string>
-    <string name="font_size_preview_text_body">도로시와 그녀의 친구들이 녹색 안경으로 보호받는 눈으로도 멋진시의 광채로 처음에 눈부셨습니다. 거리에는 녹색의 대리석으로 지어지고 반짝이는 에메랄드로 도처에 박힌 아름다운 집이 늘어서 고 있었다.. 그들은 같은 초록색 대리석으로 된 포장 도로를 걸어 다녔고, 블록들이 서로 조화를 이룬 곳은 에메랄드의 행렬이었고, 태양의 빛에 반짝 반짝 빛나고있었습니다. 창틀은 녹색 유리로되어 있습니다. 도시 위의 하늘조차도 푸른 색조를 보였고 태양 광선은 녹색이었다.\n\n걷는 사람들, 남자, 여자 그리고 아이들이 많이 있었는데 이것들은 모두 초록빛 옷을 입고 푸른 피부를 가졌습니다. 그들은 도로시와 궁금해하는 눈을 가진 그녀의 이상하게 모듬된 회사를 바라 보았습니다. 아이들은 라이온을 만났을 때 도망 쳤고 어머니 뒤에서 숨었습니다. 그러나 아무도 그들에게 말하지 않았다.. 거리에 많은 상점들이 있었고, 도로시는 그 안에있는 모든 것이 녹색임을 알았습니다.. 녹색 사탕과 녹색 팝 옥수수가 판매되었으며 녹색 신발, 녹색 모자 및 모든 종류의 녹색 옷이 판매되었습니다. 한 곳에서 한 남자가 녹색 레모네이드를 파는 중이었고, 아이들이 그것을 사 때 도로시는 녹색 페니로 값을 치렀다는 것을 알 수있었습니다\n\n어떤 종류의 말이나 동물도없는 것 같았습니다. 남자들은 작은 초록색 차림으로 물건들을 운반하고, 그것들은 그들 앞에 밀었습니다.. 모두가 행복하고 만족하고 번영을 누린 것으로 보았습니다.</string>
+    <string name="font_size_preview_text">MIUI하면 역시 EU ROM입니다.</string>
+    <string name="font_size_preview_text_body">"도로시와 친구들은 녹색 안경을 쓰고 있었는데, 그런데도 그들이 처음 본 멋진 도시는 찬란했고 눈부셨습니다. 거리에는 온통 반짝이는 에메랄드가 여기저기 박혀 있었고, 초록색 대리석으로 지어진 아름다운 집이 늘어서 있었습니다. 그들은 초록색 대리석으로 포장된 길 위를 걸어갔고, 블록이 한데 어우러진 곳에는 여러 줄의 에메랄드가 촘촘히 세워져 햇빛 아래 반짝이고 있었습니다. 유리창은 초록색이었고, 심지어 도시 위의 하늘과 햇빛조차 초록빛이었습니다.
+
+남자와 여자, 아이들 등 많은 사람이 돌아다니고 있었는데, 이들 모두 초록색 옷을 입고 초록색 피부를 가지고 있었습니다. 시민들은 의아한 눈으로 도로시 일행을 바라보았지만 아무 말도 건네지 않았고, 사자를 본 아이들은 모두 엄마 뒤로 도망쳐 숨었습니다. 도로시는 거리의 가게들에 있는 모든 상품도 전부 초록색임을 알았습니다. 초록색 신발, 초록색 모자, 초록색 옷, 그리고 초록색 사탕과 초록색 팝콘이 진열되어 있었습니다. 어느 가게에서는 점원이 초록색 레모네이드를 팔고 있었고, 아이가 초록색 동전으로 건네고 레모네이드를 받았습니다.
+
+말이라든가 동물은 어떤 종류도 없는 것 같았습니다. 사람들이 작은 초록색 카트에 물건을 담아 끌고 다녔고, 모두가 행복하고 만족하며 번창하는 것처럼 보였습니다."</string>
     <string name="font_size_preview_text_headline">샘플 텍스트</string>
     <string name="font_size_preview_text_subtitle">Xiaomi 기기 한글화의 뿌리, xiaomi.eu</string>
     <string name="font_size_preview_text_title">오즈의 마법사</string>
@@ -2672,7 +2676,7 @@
     <string name="forget_password_button_text">비밀번호 찾기</string>
     <string name="forget_password_dialog_button_text">뒤로가기</string>
     <string name="forget_password_dialog_content_four">2. [데이터 초기화]를 선택하고, 기기가 다시 시작될 때까지 기다리세요.</string>
-    <string name="forget_password_dialog_content_one">비밀번호를 잊어버리셨다면 그 비밀번호를 복구할 방법은 없습니다. 그러나 기기의 모든 데이터(사진, 연락처, 등 포함)를 삭제한 후에 비밀번호를 다시 설정할 수는 있습니다. 이 과정을 진행하기 전에 중요한 자료를 미리 백업하세요.</string>
+    <string name="forget_password_dialog_content_one">비밀번호를 잊어버리셨다면 그 비밀번호를 복구할 방법은 없습니다. 그러나 기기의 모든 데이터(사진, 연락처, 등 포함)를 삭제한 후에 비밀번호를 초기화할 수는 있습니다. 이 과정을 진행하기 전에 중요한 자료를 미리 백업하세요.</string>
     <string name="forget_password_dialog_content_three">1. 기기의 전원을 끈 후, [전원] 버튼과 [볼륨 상] 버튼을 동시에 누르고 * 아이콘이 표시될 때까지 기다리세요.</string>
     <string name="forget_password_dialog_content_two">데이터를 삭제하려면 이 과정을 따라해보세요 :</string>
     <string name="forget_password_dialog_title">데이터 초기화</string>
@@ -2877,7 +2881,7 @@
     <string name="http_invoke_app">웹 앱</string>
     <string name="http_invoke_app_summary">설치없이 빠르게 앱 열기</string>
     <string name="icloud_backup_tip">기존 애플 기기에 연결되어 있는 애플 ID에 로그인</string>
-    <string name="icloud_how_to_backup_tip_steps">1. 이전 애플 기기 설정에 들어가서, iCloud를 선택해주세요.\n    2. 연락처와 다른 항목 동기화를 선택하세요.</string>
+    <string name="icloud_how_to_backup_tip_steps">1. 이전 애플 기기 설정에 들어가서, iCloud를 선택하세요.\n    2. 연락처와 다른 항목 동기화를 선택하세요.</string>
     <string name="icloud_how_to_backup_tip_summary">애플 기기에서 데이터를 불로오려면, iCloud 백업을 선택해야 합니다.</string>
     <string name="icloud_how_to_backup_tip_title">팁:</string>
     <string name="icloud_login_title">iCloud에 로그인</string>
@@ -2889,7 +2893,7 @@
     <string name="ignore_optimizations_on">최적화하지 않음</string>
     <string name="ignore_optimizations_on_desc">배터리 소모가 빨라질 수 있습니다.</string>
     <string name="ignore_optimizations_title">" %s 가 배터리 최적화를 무시하도록 설정하시겠습니까?"</string>
-    <string name="ime_security_warning">%1$s 앱은 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 사용자가 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="ime_security_warning">%1$s 앱은 비밀번호, 신용카드 번호, 기타 개인정보를 포함하여 사용자가 입력하는 모든 것을 기록할 수 있습니다.</string>
     <string name="imei_information_summary">IMEI 관련 정보</string>
     <string name="imei_information_title">IMEI 정보</string>
     <string name="imei_multi_sim">IMEI (%1$d번 심 슬롯)</string>
@@ -2940,7 +2944,7 @@
     <string name="input_password_hint_text">비밀번호 입력</string>
     <string name="input_pattern_hint_text">잠금 패턴을 그리세요.</string>
     <string name="input_settings">입력 설정</string>
-    <string name="install_all_warning">휴대전화 및 개인 정보는 출처를 알 수 없는 앱의 공격에 매우 취약합니다. 이러한 앱을 사용하여 발생할 수 있는 휴대전화 손상이나 데이터 손실에 대한 책임은 사용자에게 있음에 동의합니다.</string>
+    <string name="install_all_warning">휴대전화 및 개인정보는 출처를 알 수 없는 앱의 공격에 매우 취약합니다. 이러한 앱을 사용하여 발생할 수 있는 휴대전화 손상이나 데이터 손실에 대한 책임은 사용자에게 있음에 동의합니다.</string>
     <string name="install_applications">알 수 없는 소스</string>
     <string name="install_applications_title">모든 앱 소스 허용</string>
     <string name="install_master_key_and_connect">WiFi 마스터 키를 사용하여 이 네트워크에 연결할 수 있습니다. 이 도구를 설치하시겠습니까?</string>
@@ -2968,7 +2972,7 @@
     <string name="intent_sender_startactivity_text">활동 시작</string>
     <string name="interaction_control_category_title">상호 작용 제어</string>
     <string name="internal_format">내부 저장소 삭제</string>
-    <string name="internal_format_summary">디바이스 내부 저장소의 모든 데이터 삭제</string>
+    <string name="internal_format_summary">기기 내부 저장소의 모든 데이터 삭제</string>
     <string name="internal_media_format_button_text">내부 저장소 삭제</string>
     <string name="internal_media_format_desc">내부 저장소를 삭제하시겠습니까? &lt;b&gt;모든&lt;/b&gt; 데이터가 삭제됩니다. 휴대전화는 내부 저장소가 삭제된 후 다시 시작합니다.</string>
     <string name="internal_media_format_final_desc">내부 저장소를 삭제하시겠습니까? 이 동작은 되돌릴 수 없습니다. 휴대전화는 내부 저장소가 삭제된 후 다시 시작합니다.</string>
@@ -3247,7 +3251,7 @@
     <string name="lock_after_timeout_summary">절전 모드 후 %1$s</string>
     <string name="lock_after_timeout_summary_with_exception">%2$s에 의해 잠금해제된 경우를 제외하고 절전 모드 후 %1$s</string>
     <string name="lock_failed_attempts_before_wipe">다시 시도하세요. %2$d 시도 중 %2$d번째 시도입니다.</string>
-    <string name="lock_failed_attempts_now_wiping_device">너무 많이 틀리셨습니다. 기기 데이터가 삭제됩니다..</string>
+    <string name="lock_failed_attempts_now_wiping_device">너무 많이 틀리셨습니다. 기기 데이터가 삭제됩니다.</string>
     <string name="lock_failed_attempts_now_wiping_dialog_dismiss">삭제</string>
     <string name="lock_failed_attempts_now_wiping_profile">잘못된 시도가 너무 많습니다. 이 업무 프로필 및 데이터가 삭제됩니다.</string>
     <string name="lock_failed_attempts_now_wiping_user">잘못된 시도가 너무 많습니다. 이 사용자는 삭제됩니다.</string>
@@ -3265,9 +3269,9 @@
     <string name="lock_profile_wipe_attempts">다시 시도하세요. %2$d 중 %1$d 시도됨.</string>
     <string name="lock_profile_wipe_content">너무 많이 틀렸습니다. 기기에 저장된 모든 사용자 정보가 삭제됩니다.</string>
     <string name="lock_profile_wipe_dismiss">허용</string>
-    <string name="lock_profile_wipe_warning_content_password">이번에도 비밀번호를 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입해주세요.</string>
-    <string name="lock_profile_wipe_warning_content_pattern">이번에도 패턴을 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입해주세요.</string>
-    <string name="lock_profile_wipe_warning_content_pin">이번에도 PIN 번호를 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입해주세요.</string>
+    <string name="lock_profile_wipe_warning_content_password">이번에도 비밀번호를 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입하세요.</string>
+    <string name="lock_profile_wipe_warning_content_pattern">이번에도 패턴을 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입하세요.</string>
+    <string name="lock_profile_wipe_warning_content_pin">이번에도 PIN 번호를 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입하세요.</string>
     <string name="lock_profile_wipe_warning_title">마지막 기회</string>
     <string name="lock_screen_cells_title">홈 화면 레이아웃 잠금</string>
     <string name="lock_screen_intro_skip_dialog_text">기기 보호 서비스가 비활성화됩니다. 분실 또는 도난 등에서 사용자 기기를 보호할 수 없습니다.</string>
@@ -3356,7 +3360,7 @@
     <string name="lockpassword_confirm_your_private_password_header">비밀번호 확인</string>
     <string name="lockpassword_confirm_your_private_pattern_header">패턴 확인</string>
     <string name="lockpassword_continue_label">계속</string>
-    <string name="lockpassword_draw_your_pattern_again_header">패턴을 다시 그려주세요.</string>
+    <string name="lockpassword_draw_your_pattern_again_header">패턴을 다시 그리세요.</string>
     <string name="lockpassword_illegal_character">비밀번호에 잘못된 글자가 들어 있습니다.</string>
     <string name="lockpassword_invalid_password">잘못된 비밀번호</string>
     <string name="lockpassword_invalid_pin">잘못된 PIN</string>
@@ -3425,9 +3429,9 @@
     <string name="lockpattern_settings_require_pattern_before_startup_summary">”기기를 다시 시작하려면 패턴을 입력하여 주세요. 기기가 꺼져 있을 경우, 전화, 문자, 알람을 받지 못합니다.\"</string>
     <string name="lockpattern_settings_require_pin_before_startup_summary">기기를 다시 시작하려면 PIN 번호를 입력하여 주세요. 기기가 꺼져 있을 경우, 전화, 문자, 알람을 받지 못합니다.</string>
     <string name="lockpattern_settings_title">잠금해제 패턴</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts">너무 많이 시도하셨습니다. %d초 후에 다시 시도하세요.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">너무 많이 시도했습니다. %d초 후에 다시 시도하세요.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d초 후에 다시 시도하세요.</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">너무 많이 실패하셨습니다!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">너무 많이 실패했습니다!</string>
     <string name="lockpattern_tutorial_cancel_label">취소</string>
     <string name="lockpattern_tutorial_continue_label">다음</string>
     <string name="lockscreen_glogin_checking_password">확인 중…</string>
@@ -3506,7 +3510,7 @@
     <string name="master_clear_accounts">\n\n현재 로그인한 계정:\n</string>
     <string name="master_clear_all">휴대전화의 내부 저장소에서 모든 데이터를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_apply_step_1">“공장 초기화”는 Mi 휴대전화에 있는 모든 데이터를 지웁니다. 사진, 음악, 메모, 기타 개인 데이터가 포함됩니다. 반드시 중요한 항목을 컴퓨터에 백업하세요.</string>
-    <string name="master_clear_apply_step_2">모든 중요한 항목이 컴퓨터에 백업되어있는지 확인해 주세요. 초기화하시면 기기에 있는 모든 데이터가 지워질 것입니다. 항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</string>
+    <string name="master_clear_apply_step_2">모든 중요한 항목이 컴퓨터에 백업되어있는지 확인하세요. 초기화하시면 기기에 있는 모든 데이터가 지워질 것입니다. 항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="master_clear_button_text">휴대전화 초기화</string>
     <string name="master_clear_confirm_title">초기화하시겠습니까?</string>
@@ -3517,14 +3521,14 @@
     <string name="master_clear_erase_application_progress">앱 삭제 중…</string>
     <string name="master_clear_failed">시스템 지우기 서비스를 사용할 수 없어 초기화하지 못했습니다.</string>
     <string name="master_clear_final_button_text">모두 지우기</string>
-    <string name="master_clear_final_desc">모든 개인 정보와 다운로드한 앱을 삭제하시겠습니까? 수행한 후에는 작업을 취소할 수 없습니다.</string>
+    <string name="master_clear_final_desc">모든 개인정보와 다운로드한 앱을 삭제하시겠습니까? 수행한 후에는 작업을 취소할 수 없습니다.</string>
     <string name="master_clear_gesture_explanation">초기화를 실행하려면 잠금해제 패턴을 그려야 합니다.</string>
     <string name="master_clear_gesture_prompt">잠금해제 패턴을 그리세요.</string>
     <string name="master_clear_not_available">초기화를 수행할 권한이 없는 사용자입니다.</string>
     <string name="master_clear_other_users_present">다른 사용자가 기기를 사용중입니다.</string>
-    <string name="master_clear_personal_data">개인 정보를 모두 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
-    <string name="master_clear_personal_data_application">개인 정보와 다운로드한 앱을 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
-    <string name="master_clear_personal_data_sdcard">개인 정보와 콘텐츠를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
+    <string name="master_clear_personal_data">개인정보를 모두 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
+    <string name="master_clear_personal_data_application">개인정보와 다운로드한 앱을 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
+    <string name="master_clear_personal_data_sdcard">개인정보와 콘텐츠를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_progress_text">잠시 기다려 주세요...</string>
     <string name="master_clear_progress_title">지우는 중</string>
     <string name="master_clear_short_title">모든 데이터 지우기(공장 초기화)</string>
@@ -3536,7 +3540,7 @@
     <string name="max_cpu6_info">"헥사 코어, 최대 "</string>
     <string name="max_cpu8_info">"옥타 코어, 최대 "</string>
     <string name="max_cpu10_info">"데카 코어, 최대 "</string>
-    <string name="max_fingerprint_number_reached">5개보다 많은 지문을 추가할 수 없습니다. 새 지문을 추가하시려면 먼저 저장된 지문을 삭제하여 주세요.</string>
+    <string name="max_fingerprint_number_reached">5개보다 많은 지문을 추가할 수 없습니다. 새 지문을 추가하려면 먼저 저장된 지문을 삭제하여 주세요.</string>
     <string name="maximum_memory_use">최대 메모리 사용량</string>
     <string name="mbn_version">MBN 버전</string>
     <string name="media_button">미디어 버튼</string>
@@ -3616,7 +3620,7 @@
     <string name="menu_proc_stats_type_background">백그라운드</string>
     <string name="menu_proc_stats_type_cached">캐시된 프로세스</string>
     <string name="menu_proc_stats_type_foreground">포그라운드</string>
-    <string name="menu_restore">다시 설정</string>
+    <string name="menu_restore">초기화</string>
     <string name="menu_save">저장</string>
     <string name="menu_share">공유</string>
     <string name="menu_show_percentage">퍼센트 보이기</string>
@@ -3742,7 +3746,7 @@
     <string name="miui_sos_msg_call_log_prefix">최근 1시간 동안의 통화 내역은 다음과 같습니다.</string>
     <string name="miui_sos_play_voice">SOS 메시지 재생</string>
     <string name="miui_sos_remind_add">추가</string>
-    <string name="miui_sos_remind_infocontent">비상 연락처로 추가 했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함된 메시지를 받게됩니다.. [Mi 긴급 SOS]</string>
+    <string name="miui_sos_remind_infocontent">비상 연락처로 추가 했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함된 메시지를 받게됩니다. [Mi 긴급 SOS]</string>
     <string name="miui_sos_remind_infocontent ">"비상 연락처로 추가했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함 된 메시지를 받게됩니다. [Mi 긴급 SOS] "</string>
     <string name="miui_sos_remind_open">긴급 SOS는 정상적으로 작동하려면 적어도 1 명의 긴급 연락처가 필요합니다.</string>
     <string name="miui_sos_remind_sendinfo">이 사람들에게 사용자의 비상 연락처가 있음을 잊지 말고 응급 상황 발생시 더 빨리 사용자를 도울 수 있습니다.</string>
@@ -3969,18 +3973,18 @@
     <string name="nfc_how_it_works_config">결제 앱을 설정합니다. 그런 다음 NFC 표시가있는 기기에 휴대전화의 뒷면을 올려 놓으세요.</string>
     <string name="nfc_how_it_works_content">지불할 앱을 설정하고 바로 사용하세요.</string>
     <string name="nfc_how_it_works_got_it">확인</string>
-    <string name="nfc_how_it_works_title">NFC로 결재</string>
+    <string name="nfc_how_it_works_title">NFC로 결제</string>
     <string name="nfc_more_title">더보기...</string>
-    <string name="nfc_payment_default">기본 결재방법</string>
+    <string name="nfc_payment_default">기본 결제방법</string>
     <string name="nfc_payment_default_not_set">설정되지 않음</string>
     <string name="nfc_payment_favor_default">항상</string>
     <string name="nfc_payment_favor_foreground">포그라운드 앱 선호</string>
-    <string name="nfc_payment_favor_open">다른 결재앱이 열여있으면 제외</string>
+    <string name="nfc_payment_favor_open">다른 결제앱이 열여있으면 제외</string>
     <string name="nfc_payment_how_it_works">사용 방법</string>
     <string name="nfc_payment_learn_more">자세히 알아보기</string>
     <string name="nfc_payment_menu_item_add_service">앱 검색</string>
     <string name="nfc_payment_no_apps">탭 한 번으로 결제하세요.</string>
-    <string name="nfc_payment_pay_with">결재하려면    탭하세요.</string>
+    <string name="nfc_payment_pay_with">결제하려면 탭하세요.</string>
     <string name="nfc_payment_set_default">탭앤페이에 항상 %1$s 어플을 사용하시겠습니까?</string>
     <string name="nfc_payment_set_default_instead_of">탭앤페이에 항상 %2$s 대신 %1$s 어플을 사용하시겠습니까?</string>
     <string name="nfc_payment_set_default_label">기본으로 설정하시겠습니까?</string>
@@ -4223,7 +4227,7 @@
     <string name="notifications_sent_weekly">~%1$s (일주일)</string>
     <string name="notifications_silenced">모음처리됨</string>
     <string name="notifications_title">알림</string>
-    <string name="notify_connect">CMCC WLAN 프롬트</string>
+    <string name="notify_connect">CMCC Wi-Fi 프롬트</string>
     <string name="notify_connect_summary">" CMCC Wi-Fi 엑세스 권한이 있을 때 알림"</string>
     <string name="now">지금 다시 시작</string>
     <string name="nsd_quick_toggle_summary">다른 기기의 앱에서 이 기기의 앱을 검색하도록 허용</string>
@@ -4561,7 +4565,7 @@
     <string name="preferred_app_settings">기본값</string>
     <string name="preferred_app_settings_default">기본값</string>
     <string name="preferred_app_settings_not_selected">선택되지 않음</string>
-    <string name="preferred_app_settings_reset">기본 값으로 다시 설정</string>
+    <string name="preferred_app_settings_reset">기본값으로 초기화</string>
     <string name="preferred_app_settings_reset_button">초기화</string>
     <string name="preferred_app_settings_reset_message">기본 앱 설정이 MIUI 초기 설정으로 복원됩니다.</string>
     <string name="preferred_application_title">선호하는 %s</string>
@@ -4578,7 +4582,7 @@
     <string name="preferred_network_type_title">선호하는 네트워크 유형</string>
     <string name="preferred_sms_settings">이 앱을 문자 메시지를 읽고 작성하는 기본 앱으로 설정합니다.</string>
     <string name="preferred_sms_title">기본 메시지 앱</string>
-    <string name="preferred_sms_warning_message">변경 후 \"%1$s\"앱을 사용하게 됩니다. 모바일 데이터 사용량 증가 또는 개인 정보 보안에 위험성을 가져올 수 있습니다.</string>
+    <string name="preferred_sms_warning_message">변경 후 \"%1$s\"앱을 사용하게 됩니다. 모바일 데이터 사용량 증가 또는 개인정보 보안에 위험성을 가져올 수 있습니다.</string>
     <string name="preferred_sms_warning_use_system">사용 안 함</string>
     <string name="premium_sms_access">프리미엄 SMS 접근</string>
     <string name="premium_sms_none">프리미엄 SMS가 요청되지 않았습니다.</string>
@@ -4595,7 +4599,7 @@
     <string name="print_blocked_state_title_template">차단된 프린터: %1$s</string>
     <string name="print_cancel">취소</string>
     <string name="print_cancelling_state_title_template">%1$s 취소 중</string>
-    <string name="print_configuring_state_title_template">%1$s 설정중</string>
+    <string name="print_configuring_state_title_template">%1$s 설정 중</string>
     <string name="print_enable">프린트 활성화</string>
     <string name="print_failed_state_title_template">프린터 오류: %1$s</string>
     <string name="print_feature_state_off">꺼짐</string>
@@ -4645,9 +4649,9 @@
     <string name="privacy_authorize_success">승인 권한 부여</string>
     <string name="privacy_authorize_title">권한 승인</string>
     <string name="privacy_close_dlg_button_ok">끄기</string>
-    <string name="privacy_close_dlg_msg">개인 정보 보호 비밀번호가 꺼져있을 시 항목들이 보호되지 않을 것입니다.</string>
+    <string name="privacy_close_dlg_msg">개인정보 보호 비밀번호가 꺼져있을 시 항목들이 보호되지 않을 것입니다.</string>
     <string name="privacy_close_dlg_title">참고</string>
-    <string name="privacy_delete_space_dlg_message">보조 공간 비밀번호를 변경하시려면 현재 보조 공간을 삭제하시거나 새로 생성해야 합니다.</string>
+    <string name="privacy_delete_space_dlg_message">보조 공간 비밀번호를 변경하려면 현재 보조 공간을 삭제하시거나 새로 생성해야 합니다.</string>
     <string name="privacy_dlg_button_cancel">취소</string>
     <string name="privacy_factory_reset_dlg_button_text">초기화</string>
     <string name="privacy_factory_reset_dlg_message">비밀번호를 분실하셨다면 공장 초기화를 통해 새로 설정하실 수 있습니다.</string>
@@ -4660,18 +4664,18 @@
     <string name="privacy_mode_dialog_title">게스트 모드</string>
     <string name="privacy_mode_enable_sum">메시지, 메모, 사진, 설정, 수신 통화 숨기기</string>
     <string name="privacy_mode_enable_title">게스트 모드</string>
-    <string name="privacy_mode_summary">개별 앱 잠그기 또는 개인 정보 숨기기</string>
-    <string name="privacy_mode_title">개인 정보 보호 설정</string>
+    <string name="privacy_mode_summary">개별 앱 잠그기 또는 개인정보 숨기기</string>
+    <string name="privacy_mode_title">개인정보 보호 설정</string>
     <string name="privacy_notes">메모</string>
-    <string name="privacy_password">개인 정보 보호 비밀번호</string>
+    <string name="privacy_password">개인정보 보호 비밀번호</string>
     <string name="privacy_password_add_account">추가</string>
-    <string name="privacy_password_add_account_info">비밀번호를 잊었을 때 다시 설정할 수 있도록 Mi 계정을 추가하세요.</string>
-    <string name="privacy_password_add_account_setting">계정 &amp; 개인 정보</string>
+    <string name="privacy_password_add_account_info">비밀번호를 잊었을 때 초기화할 수 있도록 Mi 계정을 추가하세요.</string>
+    <string name="privacy_password_add_account_setting">계정 &amp; 개인정보</string>
     <string name="privacy_password_bind_account">Mi 계정 추가</string>
     <string name="privacy_password_bind_account_immediate">추가</string>
     <string name="privacy_password_confirm_SecondSpace_Password">보조 공간 비밀번호 승인</string>
     <string name="privacy_password_confirm_use_finger">지문으로 잠금해제</string>
-    <string name="privacy_password_enter_privacy">개인 정보 보호 비밀번호 입력</string>
+    <string name="privacy_password_enter_privacy">개인정보 보호 비밀번호 입력</string>
     <string name="privacy_password_exit_account_info">로그아웃시 자동으로 계정이 제거될 것입니다.</string>
     <string name="privacy_password_fingerprint_confirm_failed">지문을 인증할 수 없습니다.</string>
     <string name="privacy_password_fingerprint_confirm_succes">지문 인증됨</string>
@@ -4682,22 +4686,22 @@
     <string name="privacy_password_never_remind">다시 묻지 않기</string>
     <string name="privacy_password_not_add_account">지금 안함</string>
     <string name="privacy_password_not_login_account">로그인되어 있지 않습니다.</string>
-    <string name="privacy_password_remind_bind_notlogin_account">비밀번호를 잊었을 때 다시 설정할 수 있도록 Mi 계정을 추가하세요.</string>
+    <string name="privacy_password_remind_bind_notlogin_account">비밀번호를 잊었을 때 초기화할 수 있도록 Mi 계정을 추가하세요.</string>
     <string name="privacy_password_remind_bindaccount_title">Mi 계정 추가</string>
-    <string name="privacy_password_settings">개인 정보 보호 비밀번호 사용</string>
+    <string name="privacy_password_settings">개인정보 보호 비밀번호 사용</string>
     <string name="privacy_password_settings_next">다음</string>
     <string name="privacy_password_settings_titles">개인정보 보호 비밀번호는 메시지, 사진, 파일, 메모를 보호합니다.</string>
     <string name="privacy_password_settings_titles_elder_mode">개인정보 보호 비밀번호는 사진, 파일, 메모를 보호합니다.</string>
     <string name="privacy_password_settings_titles_second_space">개인정보 보호 비밀번호는 메시지, 사진, 메모를 보호합니다.</string>
-    <string name="privacy_password_title">개인 정보 보호 비밀번호</string>
-    <string name="privacy_password_toggle_summary">매번 개인 정보 접근 시 비밀번호가 요구됩니다.</string>
-    <string name="privacy_password_use_finger_dialog_mess">지문을 개인 정보 보호 비밀번호로 사용할 수 있습니다.</string>
+    <string name="privacy_password_title">개인정보 보호 비밀번호</string>
+    <string name="privacy_password_toggle_summary">매번 개인정보 접근 시 비밀번호가 요구됩니다.</string>
+    <string name="privacy_password_use_finger_dialog_mess">지문을 개인정보 보호 비밀번호로 사용할 수 있습니다.</string>
     <string name="privacy_password_use_finger_dialog_open">설정</string>
     <string name="privacy_password_use_finger_dialog_title">지문 잠금해제</string>
     <string name="privacy_password_use_finger_success">켜짐</string>
     <string name="privacy_password_visible_pattern">패턴 표시</string>
-    <string name="privacy_protect_title">개인 정보 보호</string>
-    <string name="privacy_relative">개인 정보 보호</string>
+    <string name="privacy_protect_title">개인정보 보호</string>
+    <string name="privacy_relative">개인정보 보호</string>
     <string name="privacy_settings">백업 및 초기화</string>
     <string name="privacy_settings_title">백업 및 초기화</string>
     <string name="private_dns_help_message">&lt;annotation id=\"url\"&gt;자세히 알아보기&lt;/annotation&gt; 개인 DNS 기능</string>
@@ -4708,10 +4712,10 @@
     <string name="private_dns_mode_provider_hostname_hint">DNS 제공자 호스트명을 입력하세요.</string>
     <string name="private_gallery_need_to_unlock">비밀번호 필요</string>
     <string name="private_gallery_recording_intro_header">잠금해제 패턴 그리기:</string>
-    <string name="private_gallery_reset_by_account">비밀번호를 다시 설정하려면 Mi 계정에 로그인하세요.</string>
+    <string name="private_gallery_reset_by_account">비밀번호를 초기화하려면 Mi 계정에 로그인하세요.</string>
     <string name="private_sms_need_to_unlock">비밀번호 필요:</string>
     <string name="private_sms_recording_intro_header">잠금해제 패턴 그리기:</string>
-    <string name="private_sms_reset_by_account">비밀번호를 다시 설정하려면 Mi 계정에 로그인하세요.</string>
+    <string name="private_sms_reset_by_account">비밀번호를 초기화하려면 Mi 계정에 로그인하세요.</string>
     <string name="process_dex2oat_label">앱 최적화</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="process_provider_in_use_description">제공업체(%1$s)를 사용 중입니다.</string>
@@ -4830,10 +4834,10 @@
     <string name="radio_info_ping_hostname_v6">핑 호스트 이름(www.google.com) IPv6:</string>
     <string name="radio_info_ping_ipaddr">IP 주소 Ping:</string>
     <string name="radio_info_ppp_received_label">PPP 받음:</string>
-    <string name="radio_info_ppp_resets_label">부팅 후 PPP 다시 설정 횟수:</string>
+    <string name="radio_info_ppp_resets_label">부팅 후 PPP 초기화 횟수:</string>
     <string name="radio_info_ppp_sent_label">PPP 보냄:</string>
     <string name="radio_info_radio_power">라디오 전원</string>
-    <string name="radio_info_radio_resets_label">무선 다시 설정:</string>
+    <string name="radio_info_radio_resets_label">무선 초기화:</string>
     <string name="radio_info_roaming_label">로밍:</string>
     <string name="radio_info_set_perferred_label">기본 네트워크 유형 설정:</string>
     <string name="radio_info_signal_location_label">위치:</string>
@@ -4908,17 +4912,17 @@
     <string name="repeat_call_info">무음 모드에서 15분 이내에 반복되는 통화의 소리 허용</string>
     <string name="repeat_title">반복</string>
     <string name="reset_aaid">광고 식별기 초기화</string>
-    <string name="reset_app_preferences">앱 환경설정 다시 설정</string>
-    <string name="reset_app_preferences_button">앱 다시 설정</string>
-    <string name="reset_app_preferences_desc">이 작업을 수행하면\n\n \"- 사용 중지된 앱\"\n \"- 사용 중지된 앱 알림\"\n \"- 작업을 수행할 때 사용하는 기본 애플리케이션\"\n \"- 앱에 대한 백그라운드 데이터 제한\"\n \"- 그 밖의 권한 제한에 대한 모든 환경설정이 다시 설정됩니다.\"\n\n 앱 데이터는 손실되지 않습니다.</string>
-    <string name="reset_app_preferences_title">앱 환경설정을 다시 설정하시겠습니까?</string>
-    <string name="reset_dashboard_summary">네트워크, 앱 또는 기기를 다시 설정할 수 있습니다.</string>
+    <string name="reset_app_preferences">앱 환경설정 초기화</string>
+    <string name="reset_app_preferences_button">앱 초기화</string>
+    <string name="reset_app_preferences_desc">이 작업을 수행하면\n\n \"- 사용 중지된 앱\"\n \"- 사용 중지된 앱 알림\"\n \"- 작업을 수행할 때 사용하는 기본 애플리케이션\"\n \"- 앱에 대한 백그라운드 데이터 제한\"\n \"- 그 밖의 권한 제한에 대한 모든 환경설정이 초기화됩니다.\"\n\n 앱 데이터는 손실되지 않습니다.</string>
+    <string name="reset_app_preferences_title">앱 환경설정을 초기화하시겠습니까?</string>
+    <string name="reset_dashboard_summary">네트워크, 앱 또는 기기를 초기화할 수 있습니다.</string>
     <string name="reset_dashboard_title">초기화</string>
-    <string name="reset_esim_desc">모든 eSIM을 지웁니다. eSIM을 다시 다운로드하려면 이동 통신사에 문의해야합니다. 그러면 모바일 서비스 요금제가 취소되지 않습니다.</string>
+    <string name="reset_esim_desc">모든 eSIM을 지웁니다. eSIM을 다시 다운로드하려면 이동통신사에 문의해야 합니다. 그러면 모바일 서비스 요금제가 취소되지 않습니다.</string>
     <string name="reset_esim_error_msg">에러때문에 eSIMs을 설정할 수 없습니다.</string>
     <string name="reset_esim_error_title">eSIMs 설정 실패</string>
-    <string name="reset_esim_title">eSIM도 다시 설정</string>
-    <string name="reset_legacy_password_settings_preface_text">잠금 화면 비밀번호를 다시 설정해야 합니다.</string>
+    <string name="reset_esim_title">eSIM도 초기화</string>
+    <string name="reset_legacy_password_settings_preface_text">잠금 화면 비밀번호를 초기화해야 합니다.</string>
     <string name="reset_network_bluetooth">블루투스</string>
     <string name="reset_network_button_text">설정 초기화</string>
     <string name="reset_network_category">"다음 네트워크 설정 사항들을 초기화합니다 : "</string>
@@ -4936,7 +4940,7 @@
     <string name="reset_second_space_passwd_detail">기본 공간에 사용된 Mi 계정 비밀번호를 입력하세요.</string>
     <string name="reset_shortcut_manager_throttling">바로가기 매니저 속도 제한 카운터 초기화</string>
     <string name="reset_shortcut_manager_throttling_complete">단축키 초기화 완료</string>
-    <string name="resetting_second_space_passwd">보조 공간 비밀번호 다시 설정</string>
+    <string name="resetting_second_space_passwd">보조 공간 비밀번호 초기화</string>
     <string name="resident_timezone_summary">두 번째 시계</string>
     <string name="resolver_settings_label">정렬</string>
     <string name="resource_ringtone_volume_mute">벨소리가 현재 음소거 되었습니다.</string>
@@ -5040,7 +5044,7 @@
     <string name="saved_wifi_delete">삭제</string>
     <string name="saving_data">iCloud에서 데이터를 가져오는 중... \r Wi-Fi를 끄지 마세요.</string>
     <string name="saving_data_no_time">데이터 저장중…</string>
-    <string name="saving_data_space_low">저장 공간이 부족합니다. 최소 %s 의 저장공간을 마련해 주세요.\"</string>
+    <string name="saving_data_space_low">저장 공간이 부족합니다. 최소 %s 의 저장공간을 마련하세요.\"</string>
     <string name="sc_bad_request">잘못된 요청</string>
     <string name="sc_internal_server_error">내부 서버 오류</string>
     <string name="sc_network_unavailable">인터넷 연결을 확인한 후 다시 시도하세요.</string>
@@ -5320,7 +5324,7 @@
     <string name="search_pref_edge_handgrip">엣지 컨트롤</string>
     <string name="search_pref_volume_wake_title">볼륨 버튼으로 깨우기;볼륨 버튼</string>
     <string name="search_preferred_network_type_title">선호하는 네트워크 유형;선호하는 네트워크;네트워크 유형</string>
-    <string name="search_privacy_policy">개인 정보 보호 정책</string>
+    <string name="search_privacy_policy">개인정보 보호 정책</string>
     <string name="search_privacy_settings">백업 &amp; 초기화;백업 및 초기화;백업;리셋;백업</string>
     <string name="search_radio_controls_title">더 보기;무선</string>
     <string name="search_recents_queries_label">최근 검색어</string>
@@ -5340,7 +5344,7 @@
     <string name="search_security_encryption_title">잠금 화면 비밀번호를 사용하여 기기 암호화;암호화;암호화;기기 암호화;휴대전화 암호화</string>
     <string name="search_security_passwords_title">비밀번호;화면 잠금;PIN;패턴</string>
     <string name="search_security_privacy_settings_title">개인정보;보안;알 수 없는 출처;비밀번호 표시;앱 서명;앱 서명;인증서 제거;인증서 지우기</string>
-    <string name="search_security_settings">개인정보 설정;보안;개인 정보 보호</string>
+    <string name="search_security_settings">개인정보 설정;보안;개인정보 보호</string>
     <string name="search_settings">검색</string>
     <string name="search_settings_no_results">결과 없음</string>
     <string name="search_settings_summary">검색 설정 및 기록 관리</string>
@@ -5420,7 +5424,7 @@
     <string name="security_encryption_attention_1">기기가 꺼져있을 때는 알람을 사용할 수 없습니다.</string>
     <string name="security_encryption_attention_2">매 번 다시 시작 후에 잠금 화면 비밀번호를 입력하셔서 기기를 잠금해제해야 합니다. 다시 시작에 시간이 좀 더 걸릴것 입니다.</string>
     <string name="security_encryption_attention_3">새로운 잠금 화면 비밀번호를 설정해야 할 것입니다.</string>
-    <string name="security_encryption_attention_4">잠금 화면 비밀번호를 잘 기억해 주세요. 잘못하면 기기의 모든 데이터가 지워지는 공장 초기화를 해야 할 수도 있습니다,</string>
+    <string name="security_encryption_attention_4">잠금 화면 비밀번호를 잘 기억하세요. 잘못하면 기기의 모든 데이터가 지워지는 공장 초기화를 해야 할 수도 있습니다,</string>
     <string name="security_encryption_attention_info">계정, 설정, 다운로드된 앱과 데이터, 미디어, 기타 파일 등을 암호화할 수 있습니다.</string>
     <string name="security_encryption_attention_title">중요</string>
     <string name="security_encryption_close_dialog_info">잠금 화면 비밀번호를 사용하는 기기 암호화를 사용하지 않으신다면 몇몇 Google 서비스를 사용할 수 없을 것입니다.</string>
@@ -5437,7 +5441,7 @@
     <string name="security_password_category_name">화면 잠금</string>
     <string name="security_passwords_title">비밀번호</string>
     <string name="security_patch">Android 보안 패치 수준</string>
-    <string name="security_privacy_settings_title">개인 정보 보호</string>
+    <string name="security_privacy_settings_title">개인정보 보호</string>
     <string name="security_relative">보안</string>
     <string name="security_settings_billing_desc">유료 앱일 수 있습니다.</string>
     <string name="security_settings_desc">이 앱은 휴대전화의 다음 항목에 액세스할 수 있습니다.</string>
@@ -5450,8 +5454,8 @@
     <string name="security_settings_fingerprint_enroll_done">마침</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">나중에 하기</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">완성되지 않았습니다.</string>
-    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">지문이 인식되지 않았습니다. 다른 지문을 사용해주세요.</string>
-    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">시도 회수를 초과하셨습니다. 몇분 후에 다시 시도하세요.</string>
+    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">지문이 인식되지 않았습니다. 다른 지문을 사용하세요.</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">시도 회수를 초과했습니다. 몇분 후에 다시 시도하세요.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_content_description">장치 및 지문 센서 위치</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">기기 뒤에 위치한 지문인식 센서에 지문을 올려주세요.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">센서 찾기</string>
@@ -5474,7 +5478,7 @@
     <string name="security_settings_fingerprint_enroll_onboard_message_2">지문 추가</string>
     <string name="security_settings_fingerprint_enroll_onboard_title">지문 설정</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">지문의 다른 면을 올려놓아 모든 면이 고르게 인식될 수 있도록 하세요.</string>
-    <string name="security_settings_fingerprint_enroll_repeat_title">좋습니다. 계속 반복해주세요.</string>
+    <string name="security_settings_fingerprint_enroll_repeat_title">좋습니다. 계속 반복하세요.</string>
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">화면 잠금 설정</string>
     <string name="security_settings_fingerprint_enroll_start_message">기기의 지문 센서에 지문을 올려놓고, 진동을 느낄때 지문을 떼세요.</string>
     <string name="security_settings_fingerprint_enroll_start_title">시작합시다!</string>
@@ -5541,7 +5545,7 @@
     <string name="set_data_warning">데이터 경고 한도 설정</string>
     <string name="set_jeejen_prompt_message">Jeejen이 기본 런처로 설정됩니다. 기본 런처 설정은 설정 &gt; 시스템 설정 &gt; 홈 화면 &amp; 최근 실행 앱 &gt; 기본 런처에서 변경하시면 됩니다.</string>
     <string name="set_jeejen_prompt_title">변경 사항 저장</string>
-    <string name="setting_privacy_password">개인 정보 보호 비밀번호 설정</string>
+    <string name="setting_privacy_password">개인정보 보호 비밀번호 설정</string>
     <string name="settings_ad_loading">불러오는 중…</string>
     <string name="settings_ad_loading_unavailable">불러오는 과정에서 문제가 발생했습니다.</string>
     <string name="settings_backup">설정 백업</string>
@@ -5557,7 +5561,7 @@
     <string name="settings_manual_activity_unavailable">메뉴얼을 불러오는데 문제가 발생하였습니다.</string>
     <string name="settings_notify_need_backup">Mi 클라우드에 데이터를 백업하세요.</string>
     <string name="settings_notify_new_version">업데이트가 있습니다. 자세한 사항을 보시려면 탭하세요.</string>
-    <string name="settings_notify_phone_recycled">입력하신 휴대전화 번호가 재사용되었습니다. 다른 휴대전화 번호를 입력해주세요.</string>
+    <string name="settings_notify_phone_recycled">입력하신 휴대전화 번호가 재사용되었습니다. 다른 휴대전화 번호를 입력하세요.</string>
     <string name="settings_safetylegal_activity_loading">불러오는 중...</string>
     <string name="settings_safetylegal_activity_title">안전 정보</string>
     <string name="settings_safetylegal_activity_unreachable">데이터 서비스에 연결되어 있지 않습니다. 지금 정보를 보려면 인터넷에 연결된 컴퓨터에서 %s(으)로 이동하세요.</string>
@@ -5579,7 +5583,7 @@
     <string name="setup_fingerprint_enroll_enrolling_skip_title">그래도 건너뛰시겠습니까?</string>
     <string name="setup_fingerprint_enroll_finish_message">이 아이콘이 있는 경우 지문을 사용할 수 있습니다.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">" 아이콘이 있는 경우 지문을 사용할 수 있습니다."</string>
-    <string name="setup_fingerprint_enroll_finish_secondary_message">설정을 변경하시려면, 설정&gt; 보안 &gt; 지문에서 변경하세요..</string>
+    <string name="setup_fingerprint_enroll_finish_secondary_message">설정을 변경하려면, 설정&gt; 보안 &gt; 지문에서 변경하세요..</string>
     <string name="setup_fingerprint_enroll_skip_after_adding_lock_text">지문 설정은 1~2분 정도 소요됩니다. 건너뛰면 나중에 설정에서 지문을 추가할 수 있습니다.</string>
     <string name="setup_fingerprint_enroll_skip_title">지문 설정을 건너뛰시겠습니까?</string>
     <string name="setup_lock_settings_options_button_label">화면 잠금 옵션</string>
@@ -5595,8 +5599,8 @@
     <string name="severe_threats_summary">생명 및 재산에 대한 심각한 위협에 대해 알림을 수신합니다.</string>
     <string name="severe_threats_title">심각한 위협</string>
     <string name="share_remote_bugreport_action">공유</string>
-    <string name="share_remote_bugreport_dialog_message">관리자가 버그 공유를 요청하셨습니다. 앱 및 기기 데이터가 공유되며, 기기가 다소 느려질 수 있습니다.</string>
-    <string name="share_remote_bugreport_dialog_message_finished">관리자가 버그 공유를 요청하셨습니다. 앱 및 기기 데이터가 공유됩니다.</string>
+    <string name="share_remote_bugreport_dialog_message">관리자가 버그 공유를 요청했습니다. 앱 및 기기 데이터가 공유되며, 기기가 다소 느려질 수 있습니다.</string>
+    <string name="share_remote_bugreport_dialog_message_finished">관리자가 버그 공유를 요청했습니다. 앱 및 기기 데이터가 공유됩니다.</string>
     <string name="share_remote_bugreport_dialog_title">지금 공유하시겠습니까?</string>
     <string name="share_this_wifi">Wi-Fi 연결거리 확장</string>
     <string name="sharing_remote_bugreport_dialog_message">이 버그 보고서는 관리자와 공유됩니다. 자세한 사항은 IT 관리자에게 문의하세요.</string>
@@ -5650,7 +5654,7 @@
     <string name="show_wifi_master_key_title">공유된 Wi-Fi 네트워크 검색</string>
     <string name="show_wifi_name_title">Wi-Fi 표시</string>
     <string name="shut_down_find_device_failure_confirm">확인</string>
-    <string name="shut_down_find_device_network_failure_content">기기 찾기를 끌 수 없습니다. 기기의 인터넷 연결을 확인해 주세요.</string>
+    <string name="shut_down_find_device_network_failure_content">기기 찾기를 끌 수 없습니다. 기기의 인터넷 연결을 확인하세요.</string>
     <string name="shut_down_find_device_network_failure_title">네크워크에 연결할 수 없습니다.</string>
     <string name="shuting_down_find_device">기기 찾기 끄는 중…</string>
     <string name="silent_duration">시간설정</string>
@@ -5827,7 +5831,7 @@
     <string name="sort_order_frequent_notification">자주사용</string>
     <string name="sort_order_recent_notification">최근</string>
     <string name="sort_order_size">크기순 정렬</string>
-    <string name="sos_privacy_and_content_policy">사용자 동의 및 개인 정보 보호 정책</string>
+    <string name="sos_privacy_and_content_policy">사용자 동의 및 개인정보 보호 정책</string>
     <string name="sos_privacy_dialog_button_cancel">취소</string>
     <string name="sos_privacy_dialog_button_ok">계속하기</string>
     <string name="sos_privacy_dialog_message">"SOS 비상 지원 기능을 활성화하세요. %s 사항을 확인하고 읽으세요.\nSOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모바일 네트워크를 사용하고 주소록을 읽어야합니다. "</string>
@@ -5859,7 +5863,7 @@
     <string name="spell_checker_not_selected">선택되지 않음</string>
     <string name="spellchecker_language">언어</string>
     <string name="spellchecker_quick_settings">설정</string>
-    <string name="spellchecker_security_warning">%1$s 앱에서 지원하는 이 맞춤법 검사기를 사용하면 비밀번호 및 신용카드 번호와 같은 개인 정보를 비롯하여 입력한 모든 텍스트가 수집될 수 있습니다. 사용하시겠습니까?</string>
+    <string name="spellchecker_security_warning">%1$s 앱에서 지원하는 이 맞춤법 검사기를 사용하면 비밀번호 및 신용카드 번호와 같은 개인정보를 비롯하여 입력한 모든 텍스트가 수집될 수 있습니다. 사용하시겠습니까?</string>
     <string name="spellchecker_switch_title">맞춤법 검사기 사용</string>
     <string name="spellcheckers_settings_title">맞춤법 검사기</string>
     <string name="split_screen">분할 화면</string>
@@ -5928,7 +5932,7 @@
     <string name="status_bar_settings_qs_layout">빠른 설정 레이아웃</string>
     <string name="status_bar_settings_show_carrier">통신사 이름 표시</string>
     <string name="status_bar_settings_show_carrier_summary">이 기능이 꺼져 있어도 통신사 이름은 잠금 화면 및 드롭 다운 메뉴에는계속 표시됨</string>
-    <string name="status_bar_settings_show_carrier_under_keyguard">기기가 잠겨있을 때 이동 통신사 표시</string>
+    <string name="status_bar_settings_show_carrier_under_keyguard">기기가 잠겨있을 때 이동통신사 표시</string>
     <string name="status_bar_settings_show_floating_notification">플로팅 알람</string>
     <string name="status_bar_settings_show_floating_notification_summary">화면 상단에 중요한 알림 표시를 허용합니다.</string>
     <string name="status_bar_settings_show_flow_info">데이터 사용량 표시</string>
@@ -5956,7 +5960,7 @@
     <string name="status_data_network_type">모바일 데이터 네트워크 타입</string>
     <string name="status_data_state">모바일 데이터</string>
     <string name="status_failed_to_write">NFC 태그에 데이터를 작성할 수 없습니다. 문제가 지속되는 경우 다른 태그를 사용해보세요.</string>
-    <string name="status_invalid_password">비밀번호가 잘못되었습니다. 다시 시도해 주세요.</string>
+    <string name="status_invalid_password">비밀번호가 잘못되었습니다. 다시 시도하세요.</string>
     <string name="status_latest_area_info">통신사 정보</string>
     <string name="status_min_number">분</string>
     <string name="status_network_type">이동통신망 유형</string>
@@ -5998,7 +6002,7 @@
     <string name="storage_detail_videos">동영상</string>
     <string name="storage_dialog_unmountable">\"^1이 잠겼습니다.</string>
     <string name="storage_dialog_unmounted">\"^1저장소가 안전하게 추출되었지만, 아직 사용할 수 있습니다.</string>
-    <string name="storage_dialog_unsupported">\"이 디바이스가 ^1 파일을 지원하지 않습니다.</string>
+    <string name="storage_dialog_unsupported">\"이 기기가 ^1 파일을 지원하지 않습니다.</string>
     <string name="storage_external_title">이동식 저장소</string>
     <string name="storage_files">파일</string>
     <string name="storage_format">형식</string>
@@ -6007,7 +6011,7 @@
     <string name="storage_games">게임</string>
     <string name="storage_internal_forget_confirm">^1에 저장되어 있는 모든 파일들이 삭제됩니다.</string>
     <string name="storage_internal_forget_confirm_title">^1를 삭제하시겠습니까?</string>
-    <string name="storage_internal_forget_details">\"^1에 있는 파일들을 사용하시려면 저장소를 다시 삽입해 주세요.</string>
+    <string name="storage_internal_forget_details">\"^1에 있는 파일들을 사용하려면 저장소를 다시 삽입하세요.</string>
     <string name="storage_internal_format_details">\"포맷 후에는 ^1 저장소를 다른 기기에서 사용할 수 없게 됩니다.</string>
     <string name="storage_internal_title">비시스템 저장소</string>
     <string name="storage_internal_unmount_details">&lt;b&gt;^1 저장소를 추출하시면 다시 삽입되기 전까지 저장소에 저장되어 있던 앱들이 작동하지 않습니다.&lt;/b&gt;\"</string>
@@ -6089,7 +6093,7 @@
     <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;이 작업은 약 ^1정도 소요될 예정입니다.^3에서 ^2를 정리할 수 있습니다.&lt;/b&gt;</string>
     <string name="storage_wizard_migrate_confirm_next">이동</string>
     <string name="storage_wizard_migrate_confirm_title">지금 데이터 이동</string>
-    <string name="storage_wizard_migrate_details">이동 중에는\n• ^1 저장소를 분리하지 마세요. \n• 일부 앱들은 정상적으로 작동하지 못할 수도 있습니다.. \n• 기기를 충전하세요.</string>
+    <string name="storage_wizard_migrate_details">이동 중에는\n• ^1 저장소를 분리하지 마세요. \n• 일부 앱들은 정상적으로 작동하지 못할 수도 있습니다. \n• 기기를 충전하세요.</string>
     <string name="storage_wizard_migrate_later">나중에 이동</string>
     <string name="storage_wizard_migrate_now">지금 이동</string>
     <string name="storage_wizard_migrate_progress_title">데이터 이동중…</string>
@@ -6098,7 +6102,7 @@
     <string name="storage_wizard_migrate_v2_body">파일, 미디어 및 특정 앱을 이 ^1로 이동할 수 있습니다. 이 이동으로 휴대전화의 저장 공간이 ^2 생겼으며 ^3 정도 걸립니다.</string>
     <string name="storage_wizard_migrate_v2_checklist">이동하는 동안:</string>
     <string name="storage_wizard_migrate_v2_checklist_apps">일부 앱은 작동하지 않습니다.</string>
-    <string name="storage_wizard_migrate_v2_checklist_battery">충전상태를 유지해주세요.</string>
+    <string name="storage_wizard_migrate_v2_checklist_battery">충전상태를 유지하세요.</string>
     <string name="storage_wizard_migrate_v2_checklist_media">^1 를 제거하지 마세요.</string>
     <string name="storage_wizard_migrate_v2_later">컨텐츠 나중에 이동</string>
     <string name="storage_wizard_migrate_v2_now">컨텐츠 이동</string>
@@ -6208,7 +6212,7 @@
     <string name="switch_on_text">사용</string>
     <string name="switch_screen_button_order">미러 버튼</string>
     <string name="switch_screen_button_order_desc">미러 버튼 및 메뉴 버튼</string>
-    <string name="switch_select_to_speak_on">말하시려면 선택하세요.</string>
+    <string name="switch_select_to_speak_on">말하려면 선택하세요.</string>
     <string name="symbols_not_allowed_for_password">비밀번호에 기호가 포함되어선 안 됩니다.</string>
     <string name="sync_active">동기화 사용 중</string>
     <string name="sync_automatically">앱 데이터 자동 동기화</string>
@@ -6309,7 +6313,7 @@
     <string name="tether_limit_dialog_title">모바일 데이터 제한</string>
     <string name="tether_limit_value_custom">사용자 지정</string>
     <string name="tether_over_limit_dialog_cancle_btn">핫스팟 초기화</string>
-    <string name="tether_over_limit_dialog_message">핫스팟 데이터 제한 용량에 도달하셨습니다.</string>
+    <string name="tether_over_limit_dialog_message">핫스팟 데이터 제한 용량에 도달했습니다.</string>
     <string name="tether_over_limit_dialog_title">데이터 사용량 경고</string>
     <string name="tether_over_limit_warning_notify_message">무선 핫스팟을 비활성화하세요.</string>
     <string name="tether_over_limit_warning_notify_title">핫스팟 데이터 제한 도달</string>
@@ -6435,19 +6439,19 @@
     <string name="trans_detail_wechat_data">WeChat 데이터(채팅 기록 포함)</string>
     <string name="trans_detail_wechat_qq_list_title">WeChat과 QQ</string>
     <string name="trans_detail_wechat_qq_page_title">WeChat, QQ, 앱 데이터 선택</string>
-    <string name="trans_device_auto_reconnecting">상대 디바이스와 연결이 해제되었습니다. 자동으로 연결을 다시 시도합니다...</string>
+    <string name="trans_device_auto_reconnecting">상대 기기와 연결이 해제되었습니다. 자동으로 연결을 다시 시도합니다...</string>
     <string name="trans_device_disconnected">연결 실패</string>
-    <string name="trans_device_wait_for_reconnecting">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
+    <string name="trans_device_wait_for_reconnecting">상대 기기와 연결이 해제되었습니다. 다시 연결하세요.</string>
     <string name="trans_dialog_survey_finish">전송</string>
-    <string name="trans_disconnected_tips_message">상대 디바이스와 연결이 해제되었습니다. 다시 연결해주세요.</string>
-    <string name="trans_disconnected_tips_title">상대 디바이스와 연결이 해제되었습니다.</string>
+    <string name="trans_disconnected_tips_message">상대 기기와 연결이 해제되었습니다. 다시 연결하세요.</string>
+    <string name="trans_disconnected_tips_title">상대 기기와 연결이 해제되었습니다.</string>
     <string name="trans_failed_details_page_title">전송 실패</string>
     <string name="trans_generate_qr_code_failed">QR 코드를 생성할 수 없습니다.</string>
     <string name="trans_generate_qrcode_failed">QR 코드를 생성할 수 없습니다. 다시 시도해보세요.</string>
     <string name="trans_generating_qrcode">QR 코드 생성중…</string>
     <string name="trans_install_guide_button_start">시작</string>
     <string name="trans_install_guide_page_title">Mi Mover를 이전 폰에 설치하세요.</string>
-    <string name="trans_install_guide_scan_install_tip">Mi Mover를 다운로드받고 설치하시려면이전 폰에서 이 QR 코드를 스캔하세요.</string>
+    <string name="trans_install_guide_scan_install_tip">Mi Mover를 다운로드받고 설치하려면이전 폰에서 이 QR 코드를 스캔하세요.</string>
     <string name="trans_install_guide_step1_content">\"Mi Mover\를 다운로드 받고 설치하기 위해 이전 폰에서 이 QR 코드를 스캔하세요\".</string>
     <string name="trans_install_guide_step1_title">스텝 1</string>
     <string name="trans_install_guide_step2_content">설치 완료 후, \"시작\" 버튼을 탭하세요.</string>
@@ -6456,12 +6460,12 @@
     <string name="trans_intro_desc_3">전송을 취소하고 Mi Mover를 종료하고 다시 시작합니다. 다시 시작하면, 중복 파일을 덮어씁니다.</string>
     <string name="trans_intro_desc_4">Mi Mover는 Wi-Fi를 사용하여 파일을 전송합니다. 전송 중에 두 장치 중 하나에서 Wi-Fi를 사용하여 인터넷에 연결할 수 없는 이유가 여기에 있습니다. 하지만 모바일 데이터는 계속 사용할 수 있습니다. 그러나 일부 최신 장치(예: Mi 6)는 전송 중에 Wi-Fi를 사용하여 인터넷에 연결할 수 있습니다.</string>
     <string name="trans_intro_desc_4_market">Mi Mover는 Wi-Fi를 사용하여 파일을 전송합니다. 전송 중에 두 장치 중 하나에서 Wi-Fi를 사용하여 인터넷에 연결할 수 없는 이유가 여기에 있습니다. 하지만 모바일 데이터는 계속 사용할 수 있습니다.</string>
-    <string name="trans_intro_desc_5">최소 500MB~1GB정도의 여유 공간을 만들고 Mi Mover를 다시 시작해주세요.</string>
+    <string name="trans_intro_desc_5">최소 500MB~1GB정도의 여유 공간을 만들고 Mi Mover를 다시 시작하세요.</string>
     <string name="trans_intro_desc_6">"\"앱 호환성, 인터넷 문제, Android 버전 호환성 문제로 Mi Mover가 정상적으로 작동되지 않을 수 있습니다.\" "</string>
     <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
     <string name="trans_intro_desc_8">WeChat 앱 데이터 및 채팅 기록이 Mi Mover를 사용하여 완전히 전송되지 않을 수 있습니다. WeChat의 설정으로 이동하여 계정에서 로그아웃하면 성공적으로 전송할 수 있습니다.</string>
     <string name="trans_intro_desc_9_method_1_dec">홈 화면 &gt; 툴 폴더안에 있는 &gt; 피드백으로 가세요.</string>
-    <string name="trans_intro_desc_9_method_1_title">1. \"피드백\" 앱을 사용하여 사용자의 피드백을 공유해주세요.</string>
+    <string name="trans_intro_desc_9_method_1_title">1. \"피드백\" 앱을 사용하여 사용자의 피드백을 공유하세요.</string>
     <string name="trans_intro_desc_9_method_2_dec">사용자의 피드백을 miui-mover@xiaomi.com로 보내주세요.</string>
     <string name="trans_intro_desc_9_method_2_title">2. 저희에게 이메일을 보내주세요.</string>
     <string name="trans_intro_desc_9_method_3_dec">Mi Mover QQ 그룹 : 687338378</string>
@@ -6473,7 +6477,7 @@
     <string name="trans_intro_desc_multiuser">Mi Mover는 Second Space의 항목에 액세스할 수 없습니다. 첫 번째 공간으로 이동하여 Mi Mover를 실행합니다.</string>
     <string name="trans_intro_desc_new">\"수신\"을 누릅니다. QR 코드가 생성됩니다.</string>
     <string name="trans_intro_desc_old">\"전송\"을 누릅니다. 새 전화기의 QR 코드를 스캔하고 Mi Mover가 전송할 파일을 알아낼 때까지 기다린 후 \"전송\"을 누릅니다.</string>
-    <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR 코드를 스캔해주세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요\".</string>
+    <string name="trans_intro_desc_old_market">\"시작\"을 탭하세요. 새로운 폰에서 QR 코드를 스캔하세요, 어떤 파일을 전송할지 고르는 화면이 나올떄까지 기다려주시고 \"보내기\를 눌러주세요\".</string>
     <string name="trans_intro_desc_private">Mi Mover는 숨겨진 앨범의 사진이 암호화되어 있으므로 액세스할 수 없습니다. 이러한 사진을 Mi Cloud에서 새 장치로 복원할 수 있습니다.</string>
     <string name="trans_intro_question_1">%d. iPhone에서 데이터 전송은 어떻게 하나요?</string>
     <string name="trans_intro_question_2">%d. 타 Android 기기들에서 데이터 전송을 어떻게 하나요?</string>
@@ -6491,8 +6495,8 @@
     <string name="trans_intro_title_gms">Google앱에 의해 생성된 데이터:</string>
     <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
     <string name="trans_intro_title_multiuser">보조 공간 데이터:</string>
-    <string name="trans_intro_title_new">새로운 디바이스에서의 데이터 전송</string>
-    <string name="trans_intro_title_old">이전 디바이스에서의 데이터 전송</string>
+    <string name="trans_intro_title_new">새로운 기기에서의 데이터 전송</string>
+    <string name="trans_intro_title_old">이전 기기에서의 데이터 전송</string>
     <string name="trans_intro_title_private">숨김처리된 앨범:</string>
     <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 스크린 배열, 앱, 설정 등을 새 기기로 이동하세요.</string>
     <string name="trans_my_device">내 기기</string>
@@ -6539,7 +6543,7 @@
     <string name="trans_select_data">보낼 항목을 선택하세요.</string>
     <string name="trans_select_data_no_space">새로운 기기에 충분한 여유공간이 없습니다(%s 사용가능). 여유공간을 늘리거나 중요한 항목만 전송하세요.</string>
     <string name="trans_select_data_tips">새로운 기기에 비슷한 항목이 있다면 덮어쓸 항목을 선택하세요.</string>
-    <string name="trans_select_data_too_large">너무 많은 항목을 선택하셨습니다. 빠른 전송을 위해 중요한 자료만 선택하세요.</string>
+    <string name="trans_select_data_too_large">너무 많은 항목을 선택했습니다. 빠른 전송을 위해 중요한 자료만 선택하세요.</string>
     <string name="trans_select_device_receive">자료를 수신할 기기를 하나만 선택하세요.</string>
     <string name="trans_select_device_send">데이터를 전송할 기기를 하나만 선택하세요.</string>
     <string name="trans_select_notification_message">내용을 표시하려면 탭하세요.</string>
@@ -6673,7 +6677,7 @@
     <string name="uicc_media_format_button_text">UICC 저장소 지우기</string>
     <string name="uicc_media_format_desc">UICC 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 될 것입니다.</string>
     <string name="uicc_media_format_final_desc">UICC 저장소에 저장되어있던 모든 파일이 영구적으로 삭제될 것입니다.</string>
-    <string name="uicc_media_format_gesture_explanation">UICC 저장소를 지우시려면 잠금 패턴을 해제하여 승인해 주세요.</string>
+    <string name="uicc_media_format_gesture_explanation">UICC 저장소를 지우시려면 잠금 패턴을 해제하여 승인하세요.</string>
     <string name="uicc_media_format_summary">UICC 저장소의 모든 데이터가 지워집니다.</string>
     <string name="uicc_media_format_title">UICC 저장소 지우기</string>
     <string name="uicc_mount">UICC 저장소 장착</string>
@@ -6750,7 +6754,7 @@
     <string name="unlock_set_unlock_password_title">비밀번호</string>
     <string name="unlock_set_unlock_pattern_summary">손가락으로 단순한 패턴 그려 기기 잠금해제</string>
     <string name="unlock_set_unlock_pattern_title">패턴</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하시려면 %1$d-%2$d 자릿수를 입력하세요.</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하려면 %1$d-%2$d 자릿수를 입력하세요.</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
     <string name="unlock_setup_wizard_fingerprint_details">화면 잠금을 설정하시면, 지문을 설정&gt; 보안 에서 추가하실 수 있습니다.</string>
@@ -6767,13 +6771,13 @@
     <string name="update_new_version">업데이트 사용가능</string>
     <string name="update_progress_for_updates">업데이트 중(%s)</string>
     <string name="upload_audio_log">오디오 기록 수집 시작</string>
-    <string name="upload_debug_log_summary">수집하는 정보에는 귀하의 개인 정보가 포함될 수 있습니다. 이 도구는 시스템의 문제를 찾아 분석하는 데 사용되며 사용자를 개인적으로 식별하는 데 사용되지 않습니다.</string>
+    <string name="upload_debug_log_summary">수집하는 정보에는 귀하의 개인정보가 포함될 수 있습니다. 이 도구는 시스템의 문제를 찾아 분석하는 데 사용되며 사용자를 개인적으로 식별하는 데 사용되지 않습니다.</string>
     <string name="upload_debug_log_title">자동으로 데이터 진단 전송</string>
     <string name="upload_gps_log">GPS 기록 수집 시작</string>
     <string name="upload_modem_log">모뎀 기록 수집 시작</string>
     <string name="usage">사용량</string>
     <string name="usage_access">사용량 제한</string>
-    <string name="usage_access_description">사용 권한 액세스를 허용하면 사용중인 다른 앱 및 이동 통신사, 언어 설정 및 기타 세부 정보를 추적할 수 있습니다.</string>
+    <string name="usage_access_description">사용 권한 액세스를 허용하면 사용중인 다른 앱 및 이동통신사, 언어 설정 및 기타 세부 정보를 추적할 수 있습니다.</string>
     <string name="usage_access_title">사용 액세스 권한을 보유한 앱</string>
     <string name="usage_log">앱 사용 통계</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -6827,7 +6831,7 @@
     <string name="usb_media_format_button_text">USB 저장소 지우기</string>
     <string name="usb_media_format_desc">USB 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 될 것입니다.</string>
     <string name="usb_media_format_final_desc">USB 저장소에 저장되어있던 모든 파일이 영구적으로 삭제될 것입니다.</string>
-    <string name="usb_media_format_gesture_explanation">USB 저장소를 지우시려면 잠금 패턴을 해제하여 승인해 주세요.</string>
+    <string name="usb_media_format_gesture_explanation">USB 저장소를 지우시려면 잠금 패턴을 해제하여 승인하세요.</string>
     <string name="usb_media_format_summary">USB 저장소의 모든 데이터가 지워집니다.</string>
     <string name="usb_media_format_title">USB 저장소 지우기</string>
     <string name="usb_midi_summary">컴퓨터에서 MIDI 소프트웨어로 USB를 통해 MIDI 지원 응용 프로그램을 사용할 수 있습니다.</string>
@@ -6906,7 +6910,7 @@
     <string name="user_account_title">콘텐츠용 계정</string>
     <string name="user_add_max_count">최대 %1$d명의 사용자를 추가할 수 있습니다.</string>
     <string name="user_add_on_lockscreen_menu">기기가 잠긴 경우 사용자 추가</string>
-    <string name="user_add_on_lockscreen_menu_summary">디바이스가 잠겨 있을 경우</string>
+    <string name="user_add_on_lockscreen_menu_summary">기기가 잠겨 있을 경우</string>
     <string name="user_add_profile_item_summary">내 계정의 앱 및 콘텐츠에 대한 액세스를 제한할 수 있습니다.</string>
     <string name="user_add_profile_item_title">제한된 프로필</string>
     <string name="user_add_user_item_summary">사용자는 자신의 앱과 콘텐츠를 보유합니다.</string>
@@ -7099,7 +7103,7 @@
     <string name="volume_notification_description">알림</string>
     <string name="volume_notification_mute">알림 음소거</string>
     <string name="volume_restore">수준 초기화</string>
-    <string name="volume_restore_alert">모든 볼륨 수준을 기본값으로 다시 설정하시겠습니까?</string>
+    <string name="volume_restore_alert">모든 볼륨 수준을 기본값으로 초기화하시겠습니까?</string>
     <string name="volume_ring_description">벨소리 &amp; 알림</string>
     <string name="volume_ring_mute">벨소리 및 알림 음소거</string>
     <string name="volume_system_description">카메라, 잠금 화면, 기타 시스템 알림</string>
@@ -7148,7 +7152,7 @@
     <string name="vpn_mppe">PPP 암호화(MPPE)</string>
     <string name="vpn_name">이름</string>
     <string name="vpn_no_ca_cert">(서버를 인증하지 않음)</string>
-    <string name="vpn_no_network">네트워크에 연결되어 있지 않습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="vpn_no_network">네트워크에 연결되어 있지 않습니다. 잠시 후 다시 시도하세요.</string>
     <string name="vpn_no_selected">VPN 선택</string>
     <string name="vpn_no_server_cert">(서버에서 수신)</string>
     <string name="vpn_no_vpns_added">추가된 VPN 없음</string>
@@ -7306,7 +7310,7 @@
     <string name="wifi_assistant_ok">확인</string>
     <string name="wifi_assistant_on">켜기</string>
     <string name="wifi_assistant_open_app">앱 열기</string>
-    <string name="wifi_assistant_permission_accepted">Google 어시스턴트에 보안 연결의 권한을 허용하셨습니다. 앱이 네트워크 트래픽을 감시할 수 있습니다.</string>
+    <string name="wifi_assistant_permission_accepted">Google 어시스턴트에 보안 연결의 권한을 허용했습니다. 앱이 네트워크 트래픽을 감시할 수 있습니다.</string>
     <string name="wifi_assistant_setting_summary">Google Wi-Fi 어시스턴트</string>
     <string name="wifi_assistant_setting_title">Wi-Fi 어시스턴트</string>
     <string name="wifi_assistant_setup">설정</string>
@@ -7333,7 +7337,7 @@
     <string name="wifi_calling_mode_dialog_title">Wi-Fi 전화 모드</string>
     <string name="wifi_calling_mode_title">전화 설정</string>
     <string name="wifi_calling_not_supported">%1$s에서 Wi-Fi 호출을 지원하지 않습니다.</string>
-    <string name="wifi_calling_pref_managed_by_carrier">이동 통신사별 설정 관리</string>
+    <string name="wifi_calling_pref_managed_by_carrier">이동통신사별 설정 관리</string>
     <string name="wifi_calling_roaming_mode_dialog_title">로밍 설정</string>
     <string name="wifi_calling_roaming_mode_title">로밍 설정</string>
     <string name="wifi_calling_settings_activation_instructions">Wi-Fi 호출 활성화</string>
@@ -7482,7 +7486,7 @@
     <string name="wifi_ip_settings_invalid_dns">올바른 DNS 주소를 입력하세요.</string>
     <string name="wifi_ip_settings_invalid_gateway">올바른 게이트웨이 주소를 입력하세요.</string>
     <string name="wifi_ip_settings_invalid_ip_address">올바른 IP 주소를 입력하세요.</string>
-    <string name="wifi_ip_settings_invalid_network_prefix_length">0에서 32 사이의 네트워크 접두어 길이를 입력해 주세요.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">0에서 32 사이의 네트워크 접두어 길이를 입력하세요.</string>
     <string name="wifi_ip_settings_menu_cancel">취소</string>
     <string name="wifi_ip_settings_menu_save">저장</string>
     <string name="wifi_limit_optimizations_summary">Wi‑Fi에 사용되는 배터리 제한</string>
@@ -7771,8 +7775,8 @@
     <string name="wifi_wps_complete">WPS 성공. 네트워크에 연결 중…</string>
     <string name="wifi_wps_connected">Wi-Fi 네트워크 %s에 연결됨</string>
     <string name="wifi_wps_failed_auth">인증하지 못했습니다. 다시 시도하세요.</string>
-    <string name="wifi_wps_failed_generic">WPS가 실패하였습니다. 잠시 후 다시 시도해 주세요.</string>
-    <string name="wifi_wps_failed_overlap">다른 WPS 세션이 감지되었습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="wifi_wps_failed_generic">WPS가 실패하였습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="wifi_wps_failed_overlap">다른 WPS 세션이 감지되었습니다. 잠시 후 다시 시도하세요.</string>
     <string name="wifi_wps_failed_tkip">무선 공유기 보안 설정(TKIP)은 지원되지 않습니다.</string>
     <string name="wifi_wps_failed_wep">무선 공유기 보안 설정(WEP)은 지원되지 않습니다.</string>
     <string name="wifi_wps_in_progress">WPS 설정이 이미 진행 중이며 완료하는 데 최대 2분이 소요됩니다.</string>
@@ -8179,7 +8183,7 @@
     <string name="backup_set_confirm">확인</string>
     <string name="backup_set_confirm_clear">끄기</string>
     <string name="backup_set_enter_new_pw">새로운 백업 비밀번호를 입력하세요.</string>
-    <string name="backup_set_enter_new_pw_again">새로운 백업 비밀번호를 확인해주세요.</string>
+    <string name="backup_set_enter_new_pw_again">새로운 백업 비밀번호를 확인하세요.</string>
     <string name="backup_set_enter_old_pw">이전 백업 비밀번호를 입력하세요.</string>
     <string name="backup_set_enter_pw_title">백업 비밀번호를 입력</string>
     <string name="backup_set_error_pw">입력하신 비밀번호가 맞지 않습니다.</string>
@@ -8187,14 +8191,14 @@
     <string name="backup_set_new_pw_title">새로운 백업 비밀번호 입력</string>
     <string name="backup_set_null_pw">비밀번호를 먼저 입력하세요.</string>
     <string name="backup_set_pw_confirm_title">새로운 백업 비밀번호 확인</string>
-    <string name="err_no_gms">호환되지 않는 앱 버전입니다. 별도로 설치해주세요.</string>
+    <string name="err_no_gms">호환되지 않는 앱 버전입니다. 별도로 설치하세요.</string>
     <string name="fingerprint_wakeup_summary">지문이 등록되어 있지 않은 경우, 센서를 터치하시면 화면이 바로 켜집니다.</string>
     <string name="fingerprint_wakeup_title">지문인식센서를 탭하여 화면 켜기</string>
     <string name="phone_title">전화 설정</string>
     <string name="trans_detail_item_app_data_skip_data">"앱 데이터 전송 실패"</string>
     <string name="bluetooth_device_misc_title">자주 사용하지 않는 기기</string>
     <string name="color_led_applications_title">앱 선택</string>
-    <string name="color_led_applications_title_summary">개별 앱에 LED 라이트 사용을 제한 할 수 있습니다.</string>
+    <string name="color_led_applications_title_summary">개별 앱에 LED 라이트 사용을 제한할 수 있습니다.</string>
     <string name="color_led_battery_title">충전중 계속 켜기</string>
     <string name="color_led_end_time">종료 시간</string>
     <string name="color_led_game_mode_title">게임 터보</string>
@@ -8218,9 +8222,9 @@
     <string name="screen_paper_mode_hdr_toast_new">HDR 동영상 재생 및 지문인식 중에 독서모드가 자동으로 꺼집니다. 이 작업이 완료되면 기기는 다시 독서모드로 전환됩니다.</string>
     <string name="allow_oaid_used">가상 ID 사용</string>
     <string name="device_oaid">가상 ID 관리</string>
-    <string name="restore_oaid_content">행동 및 환경 설정 레코드를 지우려면 가상 ID를 다시 설정</string>
+    <string name="restore_oaid_content">행동 및 환경 설정 레코드를 지우려면 가상 ID를 초기화</string>
     <string name="restore_oaid_positive">리셋</string>
-    <string name="restore_oaid_title">가상 ID 다시 설정</string>
+    <string name="restore_oaid_title">가상 ID 초기화</string>
     <string name="backup_set_new_continue">계속하기</string>
     <string name="backup_set_new_exit">나가기</string>
     <string name="backup_set_new_pw_confirm_hint">주의</string>
@@ -8341,7 +8345,7 @@
     <string name="screen_dark_mode_advanced_title">고급 설정</string>
     <string name="screen_dark_mode_smart_dark_title">글로벌 다크 모드</string>
     <string name="screen_dark_mode_smart_dark_summary">써드파티 앱에도 다크 모드를 적용합니다. 몇몇 앱은 제대로 보이지 않을 수 있습니다.</string>
-    <string name="screen_dark_mode_select_time_error_summary">"시작 시간과 끝 시간을 다르게 설정해주세요"</string>
+    <string name="screen_dark_mode_select_time_error_summary">"시작 시간과 끝 시간을 다르게 설정하세요"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency">블루투스 오디오 LHDC 코덱: 지연</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"블루투스 오디오 LHDC 코덱 선택:
 지연"</string>
@@ -8582,7 +8586,7 @@
     <string name="confirm_device_credential_password">비밀번호 사용</string>
     <string name="confirm_device_credential_pattern">패턴 사용</string>
     <string name="confirm_device_credential_pin">PIN 사용</string>
-    <string name="connect_later">현재 네트워크에 연결할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="connect_later">현재 네트워크에 연결할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="connected_device_bluetooth_turned_on_toast">블루투스가 사용 설정됨</string>
     <string name="connected_device_previously_connected_screen_title">이전에 연결됨</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">블루투스</string>
@@ -8854,7 +8858,7 @@
     <string name="network_global">글로벌</string>
     <string name="network_lte">LTE(권장)</string>
     <string name="network_operator_category">네트워크</string>
-    <string name="network_query_error">네트워크를 찾지 못했습니다. 다시 시도해 주세요.</string>
+    <string name="network_query_error">네트워크를 찾지 못했습니다. 다시 시도하세요.</string>
     <string name="network_select_title">네트워크</string>
     <string name="nfc_disabled_summary">NFC가 꺼져 있어 사용할 수 없음</string>
     <string name="nfc_secure_settings_title">안전한 NFC</string>
@@ -8926,7 +8930,7 @@
     <string name="preferred_network_mode_wcdma_only_summary">기본 네트워크 모드: WCDMA 전용</string>
     <string name="preferred_network_mode_wcdma_perf_summary">기본 네트워크 모드: WCDMA 선호</string>
     <string name="previous_connected_see_all">전체 보기</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"이 서비스의 기본 기능을 사용하려면 Xiaomi가 개인 데이터를 수집, 처리 및 사용한다는 데 동의해야합니다. 개인 데이터를 수집하고 처리하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요. \"동의\"를 선택하는 것은 우리의 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;개인정보 보호정책&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;사용자 동의&lt;/a&gt;를 읽고 동의하였음을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"이 서비스의 기본 기능을 사용하려면 Xiaomi가 개인 데이터를 수집, 처리 및 사용한다는 데 동의해야 합니다. 개인 데이터를 수집하고 처리하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요. \"동의\"를 선택하는 것은 우리의 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;개인정보 보호정책&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;사용자 동의&lt;/a&gt;를 읽고 동의하였음을 의미합니다.\"&lt;/Data&gt;</string>
     <string name="privacy_dashboard_summary">권한, 계정 활동, 개인정보</string>
     <string name="privacy_dashboard_title">개인정보 보호</string>
     <string name="profile_owner_add_title_simplified">감독을 허용하시겠습니까?</string>
@@ -8938,7 +8942,7 @@
     <string name="register_on_network">%s에 등록중...</string>
     <string name="registration_done">네트워크에 등록되었습니다.</string>
     <string name="remote_media_volume_option_title">전송 볼륨</string>
-    <string name="reset_default_apn_failed">기본 APN 다시 설정 실패</string>
+    <string name="reset_default_apn_failed">기본 APN 초기화 실패</string>
     <string name="reset_network_final_desc_esim">모든 네트워크 설정을 초기화하고 다운로드한 SIM을 삭제하시겠습니까? 이 작업은 실행취소할 수 없습니다.</string>
     <string name="restricted_app_time_summary">%1$s에 제한됨</string>
     <string name="roaming_alert_title">데이터 로밍을 허용하시겠습니까?</string>
@@ -9226,7 +9230,7 @@
     <string name="fingerprint_unlock_type">지문인식 방법</string>
     <string name="gallery_summary">갤러리 설정(사진 미포함)</string>
     <string name="gxzw_anim_aurora">오로라</string>
-    <string name="iCloud_ID_verification_tip">"Apple ID와 관련된 전화 번호로 전송 된 SMS 인증 코드를 입력하세요. iPhone 화면에 표시된 팝업 코드를 무시하세요."</string>
+    <string name="iCloud_ID_verification_tip">"Apple ID와 관련된 전화번호로 전송 된 SMS 인증 코드를 입력하세요. iPhone 화면에 표시된 팝업 코드를 무시하세요."</string>
     <string name="launcher_minus_screen_title">마이너스 원 화면</string>
     <string name="legal_written_offer">제공된 제안</string>
     <string name="lockscreen_magazine_india">Mi 요금제</string>
@@ -9278,7 +9282,7 @@
     <string name="wake_suppression_summary">기기가 실수로 터치하면 반응이 좋아지지만 가장자리 근처의 대부분의 제스처 컨트롤에도 반응합니다.</string>
     <string name="wake_suppression_title">작은 범위</string>
     <string name="wifi_direct_close_hotspot_hint">Wi-Fi Direct를 사용하기 전에 휴대용 핫스팟을 끄세요.</string>
-    <string name="wifi_direct_close_slave_wifi_hint">Wi-Fi Direct를 사용하기 전에 보조 WLAN에서 분리</string>
+    <string name="wifi_direct_close_slave_wifi_hint">Wi-Fi Direct를 사용하기 전에 보조 Wi-Fi에서 분리</string>
     <string name="codec_low_latency_summary">게임 오디오 및 동영상 동기화 중 지연 시간 최소화</string>
     <string name="codec_low_latency_title">낮은 지연 시간</string>
     <string name="use_otg_charge_only">역 충전</string>
@@ -9299,7 +9303,7 @@
     <string name="application_data">앱</string>
     <string name="backup_data">백업</string>
     <string name="backup_difference_content">"로컬 백업 :
-로컬 백업에는 앱 데이터가 포함될 수 있으며 일반적으로 더 많은 항목이 포함됩니다. 백업 파일은 MIUI-backup-AllBackup에 저장되며 백업 프로세스가 완료되면 컴퓨터에 복사해야합니다.
+로컬 백업에는 앱 데이터가 포함될 수 있으며 일반적으로 더 많은 항목이 포함됩니다. 백업 파일은 MIUI-backup-AllBackup에 저장되며 백업 프로세스가 완료되면 컴퓨터에 복사해야 합니다.
 
 클라우드 백업 :
 백업은 Xiaomi 클라우드에 저장되며 무선으로 액세스할 수 있습니다. 이 방법은 로컬 백업보다 빠르고 쉽습니다. 그러나 앱 데이터를 Xiaomi Cloud에 백업할 수 없습니다.
@@ -9332,7 +9336,7 @@ Xiaomi 클라우드
 연락처, 사진, 동영상, 앱 목록, 시스템 설정 및 홈 화면 레이아웃을 클라우드와 동기화하세요."</string>
     <string name="how_backup_title">항목을 어떻게 백업할 수 있습니까?</string>
     <string name="how_encrypt_content">"로컬 백업 만 암호화 할 수 있습니다. 사용할 수 있는 암호화 방법은 다음과 같습니다.
-a) 로컬 백업이있는 페이지에서 설정> 추가 설정으로 이동하고 버튼을 눌러 암호화를 켜고 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야합니다.
+a) 로컬 백업이있는 페이지에서 설정> 추가 설정으로 이동하고 버튼을 눌러 암호화를 켜고 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야 합니다.
 b) Mi PC Suite를 사용하여 항목을 백업하는 경우 암호화 옵션을 사용할 수 있습니다.
 
 참고 : 암호화된 백업에 설정 한 비밀번호를 기억하세요! 백업을 잊어 버린 경우 백업을 해독 할 수 없습니다."</string>
@@ -9348,7 +9352,7 @@ USB 케이블을 통해 컴퓨터에서 MIUI-backup-AllBackup으로 백업을 �
 USB 드라이브
 USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB 드라이브에서 항목을 복원하는 옵션을 선택하여 계속하세요.
 
-샤오 미 클라우드
+Xiaomi 클라우드
 Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="how_restore_backup_title">백업 된 항목을 어떻게 복원하시겠습니까?</string>
     <string name="local_backup_section_summary_new">계정, 앱 데이터, 시스템 설정 등을 백업</string>
@@ -9357,21 +9361,21 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="other_data">이 기기의 다른 항목</string>
     <string name="photo_data">사진 및 동영상</string>
     <string name="privacy_settings_new">백업 및 복원</string>
-    <string name="reset_title">다시 설정</string>
+    <string name="reset_title">초기화</string>
     <string name="sd_data">SD 카드 데이터</string>
     <string name="system_backup_section_title_new">로컬</string>
     <string name="tip_remove_data">초기화하면 기기에서이 항목이 지워집니다.</string>
     <string name="wifi_assist">Wi-Fi 도우미</string>
     <string name="wifi_link_turbo_customize">맞춤 앱</string>
-    <string name="wifi_link_turbo_customize_summary">환경 설정에 따라 WLAN 지원과 작동 할 앱 선택</string>
+    <string name="wifi_link_turbo_customize_summary">환경 설정에 따라 Wi-Fi 지원과 작동 할 앱 선택</string>
     <string name="wifi_link_turbo_list">앱</string>
     <string name="wifi_link_turbo_recommendation">추천 앱</string>
     <string name="wifi_link_turbo_recommendation_summary">데이터 사용 통계를 기반으로 추천 받기</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">타사 앱</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_summary">다크 모드에서 일부 앱이 잘못 표시 될 수 있습니다. 여기에서 개별 앱에 다크 모드 사용을 제한 할 수 있습니다.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">다크 모드에서 일부 앱이 잘못 표시 될 수 있습니다. 여기에서 개별 앱에 다크 모드 사용을 제한할 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">개별 앱</string>
-    <string name="restore_oaid_positive_step">다시 설정(%1$d)</string>
-    <string name="allow_oaid_used_desc">"사용자가 명시 적으로 허용하지 않으면 앱이 ID에 액세스할 수 없습니다.이 기능이 켜져 있으면 일부 개인 추천 기능이 제대로 작동하지 않을 수 있습니다."</string>
+    <string name="restore_oaid_positive_step">초기화(%1$d)</string>
+    <string name="allow_oaid_used_desc">"사용자가 명시적으로 허용하지 않으면 앱이 ID에 액세스할 수 없습니다.이 기능이 켜져 있으면 일부 개인 추천 기능이 제대로 작동하지 않을 수 있습니다."</string>
     <string name="backup_at_once">백업</string>
     <string name="backup_more_settings">설정</string>
     <string name="bluetooth_device_nearby_title">주변 기기</string>
@@ -9388,7 +9392,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="dark_mode_contrast_hint">밝기가 감소하면 색상을 자동으로 조정하고 대비를 낮 춥니 다</string>
     <string name="default_keyboard">기본</string>
     <string name="detail_question">세부 사항</string>
-    <string name="device_oaid_desc">고유 식별자 대신 MIUI는 설치된 앱에 가상 ID(OAID)를 제공합니다. 앱이 사용자의 행동과 선호도를 추적하지 못하도록 하고 개인 정보를 보호합니다.</string>
+    <string name="device_oaid_desc">고유 식별자 대신 MIUI는 설치된 앱에 가상 ID(OAID)를 제공합니다. 앱이 사용자의 행동과 선호도를 추적하지 못하도록 하고 개인정보를 보호합니다.</string>
     <string name="device_oaid_title">가상 ID</string>
     <string name="device_of_someone">"%1$s의 %2$s"</string>
     <string name="dialog_backup_title">초기화를 수행하기 전에 백업을 업데이트하시겠습니까?</string>
@@ -9512,7 +9516,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="password_and_security">비밀번호 &amp; 보안</string>
     <string name="phone_backup_summary">이 장치에서 항목 백업 및 복원</string>
     <string name="phone_backup_title">휴대 기기</string>
-    <string name="privacy_protection">개인 정보 보호</string>
+    <string name="privacy_protection">개인정보 보호</string>
     <string name="regional_screen_shot">부분 스크린 샷</string>
     <string name="rgb_face_data_manage_delete_msg">2D 얼굴 데이터 삭제</string>
     <string name="sos_phone_call_privacy_dialog_message">"비상 연락처를 호출하고 SOS 녹음을 재생하려면이 앱에 다음 권한이 필요합니다.
@@ -9525,8 +9529,8 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sos_phone_log_privacy_dialog_message">"이 앱을 사용하면 통화 기록에 액세스하여 비상 연락처와 공유할 수 있는 권한이 필요합니다.
 그러한 권한을 부여하는 데 동의하지 않으면이 앱의 일부 기능을 사용할 수 없습니다. 그러나 기본 기능은 계속 사용할 수 있습니다. 언제든지이 기능을 사용 중지 할 수 있습니다. "</string>
     <string name="sos_privacy_dialog_message_new_version">"Emergency SOS를 사용하면 위치를 실시간으로 공유하고 긴급 연락처로 문자 메시지를 보낼 수 있습니다.
-당사는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.
-이 앱은 인터넷에 연결해야하며 개인 정보를 수집하려면 다음 권한이 필요합니다.
+당사는 관련 법률, 규정 및 개인정보 보호 정책에 따라 귀하의 개인정보를 보호합니다.
+이 앱은 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.
 • 스토리지 액세스
 긴급 연락처 저장
 • 연락처에 액세스
@@ -9535,7 +9539,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
 비상 연락처로 문자 메시지 보내기
 • 접근 위치
 비상 연락처와 위치를 공유하기 위해
-이러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는 데 동의하지 않으면이 앱을 사용할 수 없습니다. 이러한 경우 Emergency SOS를 끄거나 사용하지 않도록 선택할 수 있습니다.
+이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면이 앱을 사용할 수 없습니다. 이러한 경우 Emergency SOS를 끄거나 사용하지 않도록 선택할 수 있습니다.
 서비스를 사용하기 전에 %s을 읽고 동의하세요. "</string>
     <string name="sound_assist_summary">사운드 설정 사용자 정의</string>
     <string name="sound_assist_title">사운드 어시스턴트</string>
@@ -9552,7 +9556,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="structure_face_data_input_timeout_title">다시 시도</string>
     <string name="structure_face_data_input_up">찾아보기</string>
     <string name="structure_face_data_introduction_back">뒤로</string>
-    <string name="structure_face_data_introduction_msg">3D 얼굴 데이터를 사용하면 장치 잠금을 해제하고 신원을 확인할 수 있습니다. 이 기능을 사용하기 전에 비밀번호를 설정해야합니다.</string>
+    <string name="structure_face_data_introduction_msg">3D 얼굴 데이터를 사용하면 장치 잠금을 해제하고 신원을 확인할 수 있습니다. 이 기능을 사용하기 전에 비밀번호를 설정해야 합니다.</string>
     <string name="structure_face_data_introduction_title">3D 얼굴 데이터 추가</string>
     <string name="structure_face_data_ir_input_face">머리를 약간 움직입니다.</string>
     <string name="structure_face_data_manage_delete_msg">3D 얼굴 데이터 삭제</string>
@@ -9567,9 +9571,9 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="structure_face_modules_abnormal_btn">다시 시작</string>
     <string name="structure_face_modules_abnormal_msg">"광학 모듈 오류로 인해 얼굴 데이터를 기록 할 수 없습니다. 기기를 다시 시작하고 다시 시도하세요."</string>
     <string name="structure_face_modules_abnormal_title">광학 모듈 오류</string>
-    <string name="structure_face_unlock_model2d_dialog_msg">"3D 인식이 해제됩니다. 3D 얼굴 데이터가 삭제됩니다. 또한 2D 얼굴 데이터를 추가해야합니다. 2D 인식을 설정하시겠습니까?"</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">"3D 인식이 해제됩니다. 3D 얼굴 데이터가 삭제됩니다. 또한 2D 얼굴 데이터를 추가해야 합니다. 2D 인식을 설정하시겠습니까?"</string>
     <string name="structure_face_unlock_model2d_dialog_title">2D 인식 켜기</string>
-    <string name="structure_face_unlock_model3d_dialog_msg">"2D 인식이 해제됩니다. 2D 얼굴 데이터가 삭제됩니다. 3D 얼굴 데이터도 추가해야합니다. 3D 인식을 설정하시겠습니까?"</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">"2D 인식이 해제됩니다. 2D 얼굴 데이터가 삭제됩니다. 3D 얼굴 데이터도 추가해야 합니다. 3D 인식을 설정하시겠습니까?"</string>
     <string name="structure_face_unlock_model3d_dialog_title">3D 인식 켜기</string>
     <string name="structure_face_unlock_model_dialog_enable">켜기</string>
     <string name="structure_face_unlock_model_dialog_notenable">고마워요</string>
@@ -9579,7 +9583,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="structure_face_unlock_model_other_suggestion_2d">2D 얼굴인식은 패턴, PIN 또는 비밀번호보다 덜 안전합니다. 이 기능이 켜져 있으면 사진은 물론 사람이나 사물과 같은 기기로 기기가 잠금해제 될 수 있습니다.</string>
     <string name="structure_face_unlock_model_other_suggestion_3d">"3D 얼굴인식은 비교적 안전합니다.이 기능이 켜져있을 때 사진으로 장치를 잠금해제 할 가능성은 거의 없습니다. 그러나 사람이나 물체가 사람처럼 보이지 않을 수 있습니다."</string>
     <string name="structure_face_unlock_model_other_title">얼굴인식</string>
-    <string name="structure_face_unlock_not_same_person">"모든 단계를 직접 완료해야합니다. 다른 사람과 장소를 바꾸지 마세요."</string>
+    <string name="structure_face_unlock_not_same_person">"모든 단계를 직접 완료해야 합니다. 다른 사람과 장소를 바꾸지 마세요."</string>
     <string name="structure_face_unlock_tof_covered">"얼굴 데이터를 추가할 수 없습니다. 화면에서 더 멀리 이동하세요."</string>
     <string name="three_gesture_long_press">%d개의 손가락으로 길게 누르기</string>
     <string name="turn_off_keyguard_password_title">화면 잠금 끄기</string>
@@ -9591,7 +9595,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="bluetooth_paired">저장됨</string>
     <string name="reset_confirm_directory">"참고: 항목을 복원하기 전에 \"MIUI-Backup-AllBackup\"폴더가 모바일 장치에 있는지 확인하세요. 없는 경우 폴더를 만드세요."</string>
     <string name="reset_remove_data_hint">위에 나열된 모든 항목이 영구적으로 지워집니다. 계속하기 전에 중요한 모든 항목을 컴퓨터나 Xiaomi 클라우드에 백업하세요.</string>
-    <string name="restore_oaid_dialog_content">여러 앱이 가상 ID를 사용하고 있습니다. 지금 다시 설정하면 앱 데이터의 일부가 손실되거나 사용할 수 없게 될 수 있습니다. 그래도 가상 ID를 다시 설정하시겠습니까?</string>
+    <string name="restore_oaid_dialog_content">여러 앱이 가상 ID를 사용하고 있습니다. 지금 초기화하면 앱 데이터의 일부가 손실되거나 사용할 수 없게 될 수 있습니다. 그래도 가상 ID를 초기화하시겠습니까?</string>
     <string name="content_miui_music_mute_by_user">자동 모드가 켜져있을 때 미디어 사운드를 재생하시겠습니까?</string>
     <string name="title_miui_music_mute_by_user">자동 모드</string>
     <string name="charge_animation_style_summary">원하시는 잠금 화면 충전 애니메이션 스타일을 선택하세요.</string>
@@ -9646,7 +9650,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
 이 기능은 처음으로 계정 등록을위한 Wi-Fi MAC 주소 만 얻습니다. 우리는 %s에 따라 데이터를 처리합니다. 이 정책을주의 깊게 읽고 계속하기로 동의하세요. "</string>
     <string name="passpoint_r1_privacy_dialog_no">취소</string>
     <string name="passpoint_r1_privacy_dialog_title">주의</string>
-    <string name="passpoint_r1_privacy_dialog_url_text">개인 정보 보호 정책</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">개인정보 보호 정책</string>
     <string name="passpoint_r1_privacy_dialog_yes">동의 및 계속</string>
     <string name="input_method_function_switch_keyboard_language">언어 전환</string>
     <string name="input_method_function_switch_keyboard_language_des">입력 언어 사이를 전환하려면 누르세요.</string>
@@ -9848,7 +9852,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="cached_apps_freezer_device_default">기기 기본값</string>
     <string name="cached_apps_freezer_disabled">사용 안함</string>
     <string name="cached_apps_freezer_enabled">사용</string>
-    <string name="cached_apps_freezer_reboot_dialog_text">이 변경 사항을 적용하려면 기기를 재부팅해야합니다. 지금 재부팅하거나 취소하세요.</string>
+    <string name="cached_apps_freezer_reboot_dialog_text">이 변경 사항을 적용하려면 기기를 재부팅해야 합니다. 지금 재부팅하거나 취소하세요.</string>
     <string name="captioning_caption_appearance_summary">%1$s 텍스트 크기</string>
     <string name="captioning_caption_appearance_title">캡션 크기 및 스타일</string>
     <string name="captioning_more_options_title">추가 옵션</string>
@@ -9873,12 +9877,12 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="connected_device_call_device_title">기기 통화</string>
     <string name="connected_device_media_device_title">미디어 장치</string>
     <string name="connected_device_other_device_title">기타 기기</string>
-    <string name="contact_discovery_opt_in_dialog_message">"연락처의 전화 번호가 주기적으로 %1$s로 전송됩니다.이 정보는 연락처가 화상 통화 또는 일부 메시지 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
-    <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"연락처의 전화 번호가 주기적으로 이동 통신사로 전송됩니다.이 정보는 연락처가 화상 통화 또는 일부 메시징 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
+    <string name="contact_discovery_opt_in_dialog_message">"연락처의 전화번호가 주기적으로 %1$s로 전송됩니다.이 정보는 연락처가 화상 통화 또는 일부 메시지 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
+    <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"연락처의 전화번호가 주기적으로 이동통신사로 전송됩니다.이 정보는 연락처가 화상 통화 또는 일부 메시징 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
     <string name="contact_discovery_opt_in_dialog_title">연락처를 %1$s에 보내시겠습니까?</string>
-    <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">연락처를 이동 통신사로 보내시겠습니까?</string>
-    <string name="contact_discovery_opt_in_summary">향상된 기능을 제공하기 위해 연락처의 전화 번호 보내기</string>
-    <string name="contact_discovery_opt_in_title">이동 통신사에 연락처 보내기</string>
+    <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">연락처를 이동통신사로 보내시겠습니까?</string>
+    <string name="contact_discovery_opt_in_summary">향상된 기능을 제공하기 위해 연락처의 전화번호 보내기</string>
+    <string name="contact_discovery_opt_in_title">이동통신사에 연락처 보내기</string>
     <string name="conversations_category_title">대화</string>
     <string name="conversation_category_title">대화</string>
     <string name="conversation_onboarding_summary">"대화를 우선 순위로 표시하거나 대화를 변경하면 여기에 표시됩니다. 대화 설정을 변경하려면 화면 상단에서 아래로 스와이프하여 풀다운 창을 엽니 다. 을 탭한 다음 대화를 길게 터치하세요. "</string>
@@ -9944,14 +9948,14 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="enable_sizecompat_freeform">자유형 sizecompat 사용</string>
     <string name="enable_sizecompat_freeform_summary">sizecompat 앱이 자유 형식이되도록 허용</string>
     <string name="enable_verbose_vendor_logging">상세한 공급 업체 로깅 사용</string>
-    <string name="enable_verbose_vendor_logging_summary">버그 보고서에 추가 기기 별 공급 업체 로그를 포함하세요. 여기에는 개인 정보가 포함되어 있고 배터리를 더 많이 사용하거나 더 많은 저장 용량을 사용할 수 있습니다.</string>
+    <string name="enable_verbose_vendor_logging_summary">버그 보고서에 추가 기기 별 공급 업체 로그를 포함하세요. 여기에는 개인정보가 포함되어 있고 배터리를 더 많이 사용하거나 더 많은 저장 용량을 사용할 수 있습니다.</string>
     <string name="enhanced_connectivity">향상된 연결성</string>
     <string name="enhanced_connectivity_summary">향상된 연결 기능을 활성화합니다.</string>
     <string name="ethernet_tethering_subtext">USB 이더넷을 통해 휴대 전화의 인터넷 연결 공유</string>
     <string name="ethernet_tether_checkbox_text">이더넷 테더링</string>
     <string name="filter_manage_external_storage">모든 파일에 액세스할 수 있음</string>
-    <string name="find_my_device_summary">Mi 계정에 로그인해야합니다.</string>
-    <string name="forgot_password_text">PIN, 패턴 또는 비밀번호를 다시 설정하는 데 도움이됩니다.</string>
+    <string name="find_my_device_summary">Mi 계정에 로그인해야 합니다.</string>
+    <string name="forgot_password_text">PIN, 패턴 또는 비밀번호를 초기화하는 데 도움이됩니다.</string>
     <string name="forgot_password_title">IT 관리자에게 문의</string>
     <string name="gesture_settings_activity_title">제스처 설정</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -10000,8 +10004,8 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="left_edge">왼쪽 가장자리</string>
     <string name="location_agps_def_location_mode">MSB</string>
     <string name="location_agps_def_supl_host">supl.google.com</string>
-    <string name="location_modem_summary">이동 통신사는 기지국을 통해 귀하의 위치에 대해 알게됩니다.</string>
-    <string name="location_modem_title">이동 통신사와 위치 정보 공유</string>
+    <string name="location_modem_summary">이동통신사는 기지국을 통해 귀하의 위치에 대해 알게됩니다.</string>
+    <string name="location_modem_title">이동통신사와 위치 정보 공유</string>
     <string name="lockpassword_confirm_your_work_password_header">직장 비밀번호 입력</string>
     <string name="lockpassword_confirm_your_work_pattern_header">작업 패턴 입력</string>
     <string name="lockpassword_confirm_your_work_pin_header">직장 PIN 입력</string>
@@ -10130,7 +10134,7 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="radio_info_imsi_label">IMSI :</string>
     <string name="radio_info_smsc_label">SMSC :</string>
     <string name="repeat_days_in_week">반복</string>
-    <string name="reset_dashboard_summary_onlyApps">앱을 다시 설정할 수 있음</string>
+    <string name="reset_dashboard_summary_onlyApps">앱을 초기화할 수 있음</string>
     <string name="right_edge">오른쪽 가장자리</string>
     <string name="ringer_mode_setting_title">무음 모드</string>
     <string name="screen_fps_unit">% dHz</string>
@@ -10138,14 +10142,14 @@ Xiaomi Cloud를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_pinning_guest_user_description">"앱 고정을 사용하면 고정을 해제할 때까지 현재 앱을 계속 볼 수 있습니다. 예를 들어이 기능을 사용하여 신뢰할 수 있는 친구가 특정 게임을 플레이하도록 할 수 있습니다. 앱이 고정되면, 고정 된 앱은 다른 앱을 열 수 있으며 개인 데이터에 액세스할 수 있습니다. 기기를 다른 사람과 안전하게 공유하려면 대신 게스트 사용자를 사용해보세요. 앱 고정을 사용하려면 다음을 따르세요. \ u00091. \ u0009 앱 고정을 사용 설정하세요. \ u0009 열기 개요 \ u00093. \ u0009 화면 상단의 앱 아이콘을 탭한 다음 고정을 탭하세요. "</string>
     <string name="screen_zoom_small">XS</string>
     <string name="search_input_txt_na">"&lt;font color = '# ff0000'> %s &lt;/font>"</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴인식 잠금해제를 다시 설정하려면 현재 얼굴 데이터를 삭제하세요. 얼굴인식 잠금해제에 사용되는 얼굴 데이터는 영구적이고 안전하게 삭제됩니다. 제거 후 잠금을 해제하려면 PIN, 패턴 또는 비밀번호가 필요합니다. 휴대 전화, 앱에 로그인하고 결제를 확인하세요. "</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴인식 잠금해제를 초기화하려면 현재 얼굴 데이터를 삭제하세요. 얼굴인식 잠금해제에 사용되는 얼굴 데이터는 영구적이고 안전하게 삭제됩니다. 제거 후 잠금을 해제하려면 PIN, 패턴 또는 비밀번호가 필요합니다. 휴대 전화, 앱에 로그인하고 결제를 확인하세요. "</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">얼굴인식 잠금해제 설정</string>
     <string name="security_settings_face_enroll_introduction_agree">동의</string>
     <string name="security_settings_face_enroll_introduction_more">더보기</string>
     <string name="security_settings_face_enroll_introduction_no_thanks">아니요</string>
     <string name="security_settings_face_enroll_must_re_enroll_subtitle">보안 및 성능 향상</string>
-    <string name="security_settings_face_enroll_must_re_enroll_title">얼굴인식 잠금해제 다시 설정</string>
-    <string name="security_settings_face_enroll_should_re_enroll_subtitle">얼굴인식 잠금해제 다시 설정</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title">얼굴인식 잠금해제 초기화</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle">얼굴인식 잠금해제 초기화</string>
     <string name="security_settings_face_enroll_should_re_enroll_title">얼굴인식 잠금해제 성능 향상</string>
     <string name="security_settings_face_profile_preference_title">업무용 얼굴인식 잠금해제</string>
     <string name="security_settings_face_settings_context_subtitle">얼굴인식 잠금해제를 사용하여 휴대 전화 잠금해제</string>

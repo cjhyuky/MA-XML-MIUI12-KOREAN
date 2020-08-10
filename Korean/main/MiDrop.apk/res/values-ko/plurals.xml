@@ -46,7 +46,7 @@
         <item quantity="other">선택된 %d개 파일을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="b">
-        <item quantity="other">%1$s님이 전송을 취소하셨습니다.</item>
+        <item quantity="other">%1$s님이 전송을 취소했습니다.</item>
     </plurals>
     <plurals name="c">
         <item quantity="other">%1$s개 파일 전송중…</item>

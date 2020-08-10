@@ -161,7 +161,7 @@
     <string name="resource_trial_fail_cancel">확인</string>
     <string name="resource_trial_fail_go_settings">설정</string>
     <string name="resource_trial_end_title">체험판 만료됨</string>
-    <string name="resource_trial_end_message">%1$s 체험판 만료됨. 이 앱이 마음에 드셨다면 구매해 주세요.</string>
+    <string name="resource_trial_end_message">%1$s 체험판 만료됨. 이 앱이 마음에 드셨다면 구매하세요.</string>
     <string name="resource_trial_end_restore">체험판 종료</string>
     <string name="resource_trial_end_purchase">구매</string>
     <string name="deleting">삭제 중…</string>
@@ -173,7 +173,7 @@
     <string name="resource_select_boot_audio_confirm">이 부팅음을 선택하시겠습니까?</string>
     <string name="resource_select_audio_confirm_picker">이 소리를 선택하시겠습니까?</string>
     <string name="loading_resource_detail_info">잠시만 기다려주세요…</string>
-    <string name="loading_resource_detail_fail">리소스를 로드할수 없음</string>
+    <string name="loading_resource_detail_fail">리소스를 불러올수 없음</string>
     <string name="add_resource_detail_fail">리소스 추가 실패</string>
     <string name="resource_expand_full_text">확장</string>
     <string name="resource_account_login">로그인</string>
@@ -221,8 +221,8 @@
     <string name="resource_comment_upload_failed">댓글을 전송할 수 없습니다.</string>
     <string name="resource_comment_upload_success">짧은 리뷰 뒤에 댓글이 표시됩니다.</string>
     <string name="resource_comment_upload_data_invalid">댓글이 잘못 입력되었습니다.</string>
-    <string name="resource_comment_upload_not_logined">먼저 로그인해 주세요.</string>
-    <string name="resource_comment_upload_not_bought">관련된 댓글을 쓰기 전에 테마를 적용해야합니다.</string>
+    <string name="resource_comment_upload_not_logined">먼저 로그인하세요.</string>
+    <string name="resource_comment_upload_not_bought">관련된 댓글을 쓰기 전에 테마를 적용해야 합니다.</string>
     <string name="resource_comment_invalid">별을 터치하여 테마 평가</string>
     <string name="resource_comment_expand_full_text">모든 텍스트 확장▼</string>
     <string name="resource_comment_title">%1$s에 대한 댓글</string>
@@ -321,7 +321,7 @@
     <string name="wallpaper_set_as_destop">홈 화면으로 설정</string>
     <string name="wallpaper_set_as_lockscreen">잠금 화면으로 설정</string>
     <string name="wallpaper_crop">자르기</string>
-    <string name="wallpaper_decoded_error">배경화면을 로드할 수 없습니다.</string>
+    <string name="wallpaper_decoded_error">배경화면을 불러올 수 없습니다.</string>
     <string name="close">닫기</string>
     <string name="download_success">다운로드 완료</string>
     <string name="account_info">내 계정</string>
@@ -350,7 +350,7 @@
     <string name="theme_user_agreement_content1">"이 제품을 사용함으로서 다음에 동의합니다. "</string>
     <string name="theme_user_agreement_content2">사용자 계약</string>
     <string name="theme_user_agreement_content3">" 및 "</string>
-    <string name="theme_user_agreement_content4">개인 정보 보호 정책</string>
+    <string name="theme_user_agreement_content4">개인정보 보호 정책</string>
     <string name="theme_user_agreement_content5">". 이 앱을 정상적으로 작동하려면 인터넷 연결이 필요합니다. "</string>
     <string name="theme_user_agreement_title">이용 약관</string>
     <string name="theme_user_agreement_allow">동의</string>
@@ -381,7 +381,7 @@
     <string name="gift_purchased_endnote">수신: %1$s</string>
     <string name="gift_received_endnote">발신: %1$s(%2$s 수신됨)</string>
     <string name="gift_purchase_success_dlg_title">선물 구매됨</string>
-    <string name="gift_purchase_success_dlg_content">%1$s 항목을 선물로 구매하셨습니다. 전송하려면 테마 계정 페이지로 이동하세요.</string>
+    <string name="gift_purchase_success_dlg_content">%1$s 항목을 선물로 구매했습니다. 전송하려면 테마 계정 페이지로 이동하세요.</string>
     <string name="gift_present_success_dlg_title">선물 전송됨</string>
     <string name="gift_present_success_dlg_content">테마가 배달되면 SMS 메시지가 이 사람에게 전송됩니다.</string>
     <string name="gift_present_success_no_sms_dlg_content">선물 기록이 계정 페이지에 나열됩니다.</string>
@@ -448,7 +448,7 @@
     <string name="multi_sim_ringtone_settings_dialog_remind_never">다시 보지 않기</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">알겠습니다.</string>
     <string name="uid_change_dialog_title">기기 다시 시작</string>
-    <string name="uid_change_dialog_message">업데이트를 제거하셨습니다. 기기를 다시 시작해야 테마를 사용할 수 있습니다.</string>
+    <string name="uid_change_dialog_message">업데이트를 제거했습니다. 기기를 다시 시작해야 테마를 사용할 수 있습니다.</string>
     <string name="uid_change_dialog_ok">알겠습니다.</string>
     <string name="wallpaper_scroll_type_tips">배경화면 스크롤</string>
     <string name="wallpaper_apply">적용</string>
@@ -463,7 +463,7 @@
     <string name="lockscreen_apply_failured_but_home_apply_success">홈 화면 배경화면을 적용하였으나 잠금 화면 배경화면을 적용할 수 없습니다.</string>
     <string name="the_picture_is_too_small">이미지가 너무 작습니다.</string>
     <string name="the_picture_is_not_support">이미지가 지원되지 않습니다.</string>
-    <string name="is_setting_wallpaper_message">배경화면 설정중…</string>
+    <string name="is_setting_wallpaper_message">배경화면 설정 중…</string>
     <string name="ad_app_download_start">다운로드 시작 중…</string>
     <string name="ad_app_is_downloading">다운로드 중…</string>
     <string name="wallpaper_settings_page_title">배경화면</string>
@@ -475,7 +475,7 @@
     <string name="wallpaper_settings_loading_text">불러오는 중</string>
     <string name="wallpaper_settings_no_history">기록 없음</string>
     <string name="card_loading">불러오는 중...</string>
-    <string name="card_no_network">사용할 수 있는 네트워크가 없습니다. 연결후 다시 시도해주세요.</string>
+    <string name="card_no_network">사용할 수 있는 네트워크가 없습니다. 연결후 다시 시도하세요.</string>
     <string name="card_data_request_error">데이터 요청 오류. 나중에 다시 시도하세요.</string>
     <string name="card_retry">다시 시도</string>
     <string name="in_the_end">더 없음</string>
@@ -602,7 +602,7 @@
     <string name="update_downloading">업데이트 다운로드 중…</string>
     <string name="update_fail">"정보 불러오기 실패. 다시 시도하세요."</string>
     <string name="update_immediately">지금 업데이트</string>
-    <string name="update_latest">앱이 최신버전입니다.</string>
+    <string name="update_latest">앱이 최신 버전입니다.</string>
     <string name="update_no_net">네트워크 에러 발생. 다시 시도하세요.</string>
     <string name="update_title">새로운 업데이트가 있습니다.</string>
     <string name="using_theme_has_update_tips">이 테마의 업데이트가 있습니다.</string>
@@ -739,7 +739,7 @@
     <string name="theme_to_comment">나쁘지 않습니다!</string>
     <string name="transparent_wallpaper">투명한 배경 화면</string>
     <string name="transparent_wallpaper_apply_success">"적용 완료.
-더 많은 옵션을 확인하시려면 테마 > 프로필 > 테마 연구소로 가보세요."</string>
+더 많은 옵션을 확인하려면 테마 > 프로필 > 테마 연구소로 가보세요."</string>
     <string name="transparent_wallpaper_enable_success">켜기 완료</string>
     <string name="transparent_wallpaper_guide">테마로 이동</string>
     <string name="transparent_wallpaper_guide_tip">이제 테마에서 투명한 배경을 선택할 수 있습니다.</string>
@@ -845,7 +845,7 @@
     <string name="hide_mamual_hide_font">"숨겨진 글꼴 보지 않기"</string>
     <string name="hide_mamual_hide_theme">"숨겨진 테마 보지 않기"</string>
     <string name="hide_mamual_hide_wallpaper">"숨겨진 배경화면 보지 않기"</string>
-    <string name="kuyin_user_agreement_content">iFlytek에서 맞춤 벨소리 구독을 제공합니다. 맞춤 벨소리 구독을 사용하려면 % s에 동의해야합니다. 동의하시겠습니까?</string>
+    <string name="kuyin_user_agreement_content">iFlytek에서 맞춤 벨소리 구독을 제공합니다. 맞춤 벨소리 구독을 사용하려면 % s에 동의해야 합니다. 동의하시겠습니까?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek 개인정보 보호정책</string>
     <string name="long_click_can_hide_resource">누르고 있으면 항목을 숨길 수 있습니다.</string>
     <string name="more_sub_comment">모든 답장(%1$d) 보기></string>

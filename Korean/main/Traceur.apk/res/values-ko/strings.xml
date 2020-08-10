@@ -31,7 +31,7 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi 2 개의 바.</string>
     <string name="active_input_method_subtypes">활성 입력 방법</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로 만 사용됩니다.. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용 프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로 만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용 프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="alarm_template">"%1$s에서 "</string>
     <string name="alarm_template_far">%1$s에</string>
@@ -189,7 +189,7 @@
     <string name="default_categories_restored">기본 카테고리 복원됨</string>
     <string name="dev_logpersist_clear_warning_message">지속적 로거를 사용하여 더 이상 모니터링하지 않는 경우 장치에있는 로거 데이터를 지워야합니다.</string>
     <string name="dev_logpersist_clear_warning_title">로거 영구 저장 장치를 지우시겠습니까?</string>
-    <string name="dev_settings_warning_message">이 설정은 개발 용으로 만 사용됩니다.. 이로 인해 장치와 응용 프로그램이 손상되거나 오작동을 일으킬 수 있습니다.</string>
+    <string name="dev_settings_warning_message">이 설정은 개발 용으로 만 사용됩니다. 이로 인해 장치와 응용 프로그램이 손상되거나 오작동을 일으킬 수 있습니다.</string>
     <string name="dev_settings_warning_title">개발자 설정을 허용하시겠습니까?</string>
     <string name="development_settings_enable">개발자 옵션 사용</string>
     <string name="development_settings_not_available">이 사용자는 개발자 옵션을 사용할 수 없습니다.</string>
@@ -229,7 +229,7 @@
     <string name="hdcp_checking_title">HDCP 검사</string>
     <string name="help_feedback_label">도움말 및 피드백</string>
     <string name="home">설정 홈</string>
-    <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다.. 앱에서 가져온 것입니다. %1$s. 이 입력 방법을 사용하시겠습니까?</string>
+    <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. 앱에서 가져온 것입니다. %1$s. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">활동을 지키지 마세요.</string>
     <string name="immediately_destroy_activities_summary">사용자가 모든 활동을 종료하자마자 폐기하세요.</string>
     <string name="ims_reg_status_not_registered">등록되지 않음</string>
@@ -276,9 +276,9 @@
     <string name="lb_playback_controls_thumb_up">엄지 손가락을 위로하여 선택을 취소하세요.</string>
     <string name="lb_playback_controls_thumb_up_outline">엄지 손가락을 위로 선택</string>
     <string name="lb_search_bar_hint">검색</string>
-    <string name="lb_search_bar_hint_speech">검색하려면 말하세요.</string>
+    <string name="lb_search_bar_hint_speech">검색하려면 말해주세요.</string>
     <string name="lb_search_bar_hint_with_title">%1$s 검색</string>
-    <string name="lb_search_bar_hint_with_title_speech">%1$s 검색하려면 말하세요.</string>
+    <string name="lb_search_bar_hint_with_title_speech">%1$s 검색하려면 말해주세요.</string>
     <string name="local_backup_password_summary_change">바탕 화면 전체 백업에 대한 비밀번호를 변경하거나 제거하려면 누르세요.</string>
     <string name="local_backup_password_summary_none">데스크톱 전체 백업은 현재 보호되지 않습니다.</string>
     <string name="local_backup_password_title">데스크톱 백업 비밀번호</string>
@@ -288,7 +288,7 @@
     <string name="managed_user_title">모든 업무용 앱</string>
     <string name="media_category">미디어</string>
     <string name="mobile_data_always_on">모바일 데이터가 항상 활성화 됨</string>
-    <string name="mobile_data_always_on_summary">WLAN이 활성화되어 있어도 (빠른 네트워크 전환을 위해) 항상 모바일 데이터를 활성 상태로 유지하세요.</string>
+    <string name="mobile_data_always_on_summary">Wi-Fi이 활성화되어 있어도 (빠른 네트워크 전환을 위해) 항상 모바일 데이터를 활성 상태로 유지하세요.</string>
     <string name="mock_location_app">모의 위치 앱 선택</string>
     <string name="mock_location_app_not_set">모의 위치 앱이 설정되지 않았습니다.</string>
     <string name="mock_location_app_set">모의 위치 앱 : %1$s</string>
@@ -357,7 +357,7 @@
     <string name="select_usb_configuration_title">USB 구성 선택</string>
     <string name="select_webview_provider_dialog_title">WebView 구현 설정</string>
     <string name="select_webview_provider_title">WebView 구현</string>
-    <string name="select_webview_provider_toast_text">이 선택 사항은 더 이상 유효하지 않습니다.. 다시 시도하세요.</string>
+    <string name="select_webview_provider_toast_text">이 선택 사항은 더 이상 유효하지 않습니다. 다시 시도하세요.</string>
     <string name="show_all_anrs">배경 ANR 표시</string>
     <string name="show_all_anrs_summary">백그라운드 앱에 대한 앱 응답 없음 대화 상자 표시</string>
     <string name="show_hw_layers_updates">하드웨어 계층 업데이트 표시</string>
@@ -412,7 +412,7 @@
     <string name="tts_default_sample_string">이것은 음성 합성의 한 예입니다.</string>
     <string name="tts_engine_network_required">이 언어는 TTS (text-to-speech) 출력을 위해 작동하는 네트워크 연결이 필요합니다.</string>
     <string name="tts_engine_preference_section_title">선호 엔진</string>
-    <string name="tts_engine_security_warning">이 음성 합성 엔진은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 모든 음성 텍스트를 수집 할 수 있습니다.. 그것은 %s 엔진. 이 음성 합성 엔진을 사용하도록 설정하시겠습니까?</string>
+    <string name="tts_engine_security_warning">이 음성 합성 엔진은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 포함하여 모든 음성 텍스트를 수집 할 수 있습니다. 그것은 %s 엔진. 이 음성 합성 엔진을 사용하도록 설정하시겠습니까?</string>
     <string name="tts_engine_settings_button">엔진 실행 설정</string>
     <string name="tts_engine_settings_title">%s에 대한 설정</string>
     <string name="tts_general_section_title">일반</string>
@@ -422,8 +422,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">음성 합성에 대한 간단한 데모 연주</string>
     <string name="tts_play_example_title">예시를 들어보세요.</string>
-    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 다시 설정하세요.</string>
-    <string name="tts_reset_speech_pitch_title">스피치 피치 다시 설정</string>
+    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 초기화하세요.</string>
+    <string name="tts_reset_speech_pitch_title">스피치 피치 초기화</string>
     <string name="tts_settings">텍스트 음성 변환 설정</string>
     <string name="tts_settings_title">텍스트 음성 변환 출력</string>
     <string name="tts_status_checking">확인중…</string>
@@ -466,15 +466,15 @@
     <string name="wifi_cant_connect_to_ap">\'%1$s\'에 연결할 수 없습니다.</string>
     <string name="wifi_check_password_try_again">비밀번호를 확인하고 다시 시도하세요.</string>
     <string name="wifi_connected_mac_randomization">연결된 MAC 랜덤화</string>
-    <string name="wifi_connected_mac_randomization_summary">WLAN 네트워크에 연결할 때 MAC 주소 무작위 화</string>
+    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 네트워크에 연결할 때 MAC 주소 무작위화</string>
     <string name="wifi_connected_no_internet">연결됨, 인터넷 없음</string>
-    <string name="wifi_coverage_extend">WLAN Coverage 확장 기능 활성화</string>
-    <string name="wifi_coverage_extend_summary">핫스팟을 사용하여 WLAN 범위 확장 가능</string>
+    <string name="wifi_coverage_extend">Wi-Fi 커버리지 확장 기능 활성화</string>
+    <string name="wifi_coverage_extend_summary">핫스팟을 사용하여 Wi-Fi 범위 확장 가능</string>
     <string name="wifi_disabled_by_recommendation_provider">품질이 낮은 네트워크로 인해 연결되지 않았습니다.</string>
     <string name="wifi_disabled_generic">사용불가</string>
     <string name="wifi_disabled_network_failure">IP 구성 실패</string>
     <string name="wifi_disabled_password_failure">인증 문제</string>
-    <string name="wifi_disabled_wifi_failure">WLAN 연결 실패</string>
+    <string name="wifi_disabled_wifi_failure">Wi-Fi 연결 실패</string>
     <string name="wifi_display_certification">무선 디스플레이 인증</string>
     <string name="wifi_display_certification_summary">무선 디스플레이 인증 옵션 표시</string>
     <string name="wifi_fail_to_scan">네트워크를 검색할 수 없습니다.</string>
@@ -490,8 +490,8 @@
     <string name="wifi_status_no_internet">인터넷 없음</string>
     <string name="wifi_status_sign_in_required">로그인 필요함</string>
     <string name="wifi_unmetered_label">측정되지 않음</string>
-    <string name="wifi_verbose_logging">WLAN 상세 로깅 사용</string>
-    <string name="wifi_verbose_logging_summary">WLAN 로깅 수준 높이기, WLAN Picker에서 SSID 당 RSSI 표시</string>
+    <string name="wifi_verbose_logging">Wi-Fi 상세 로깅 사용</string>
+    <string name="wifi_verbose_logging_summary">Wi-Fi 로깅 수준 높이기, Wi-Fi Picker에서 SSID 당 RSSI 표시</string>
     <string name="wifi_wapi_as_certificate">AS 인증서</string>
     <string name="wifi_wapi_cert_mode_hand_text">인증서를 직접 선택하세요.</string>
     <string name="wifi_wapi_certification_dont_exist">WAPI 인증서가 존재하지 않습니다. 인증서를 설치하세요.</string>

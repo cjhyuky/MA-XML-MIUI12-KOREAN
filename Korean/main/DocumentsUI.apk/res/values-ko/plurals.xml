@@ -9,7 +9,7 @@
         <item quantity="one">파일 %1$d개를 복사할 수 없습니다.</item>
     </plurals>
        <plurals name="move_begin">
-    <item quantity="other">%1$d개 파일을 옮기는 중입니다..</item>
+    <item quantity="other">%1$d개 파일을 옮기는 중입니다.</item>
         </plurals>
     <plurals name="deleting">
         <item quantity="other">%1$d개 파일을 삭제중입니다.</item>

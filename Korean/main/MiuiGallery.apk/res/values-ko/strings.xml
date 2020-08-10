@@ -269,12 +269,12 @@
     <string name="vlog_caption_ai_cancel">취소</string>
     <string name="vlog_caption_ai_conform">확인</string>
     <string name="vlog_caption_ai_connecting">자동 캡션 용 플러그인 다운로드 중…</string>
-    <string name="vlog_caption_ai_error">"자동 자막을 생성 할 수 없습니다."</string>
+    <string name="vlog_caption_ai_error">"자동 자막을 생성할 수 없습니다."</string>
     <string name="vlog_caption_ai_generating">자동 자막 생성 중…</string>
     <string name="vlog_caption_ai_metered_network_msg">유료 네트워크를 사용하여 자동 캡션을 생성하면 추가 운송료가 발생할 수 있습니다. 그래도 계속하시겠습니까?</string>
     <string name="vlog_caption_ai_metered_network_title">유료 네트워크 연결 사용</string>
     <string name="vlog_caption_ai_network_unavailable">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
-    <string name="vlog_caption_ai_no_detect">"자동 자막을 생성 할 수 없습니다."</string>
+    <string name="vlog_caption_ai_no_detect">"자동 자막을 생성할 수 없습니다."</string>
     <string name="vlog_caption_ai_replace_message">자동 자막을 맞춤 자막으로 바꾸시겠습니까?</string>
     <string name="vlog_caption_ai_replace_title">캡션 교체</string>
     <string name="vlog_caption_auto">자동</string>
@@ -417,7 +417,7 @@
     <string name="album_from_format">%s 폴더</string>
     <string name="album_jump_failed">앨범이 Mi 클라우드에 동기화된 후 다시 시도하세요.</string>
     <string name="album_member">앨범 멤버 %s</string>
-    <string name="album_midrop">Mi드롭</string>
+    <string name="album_midrop">Mi 드롭</string>
     <string name="album_name">앨범 이름</string>
     <string name="album_name_locations">위치</string>
     <string name="album_name_people">사람들</string>
@@ -615,12 +615,12 @@
     <string name="checked_something">%s 선택됨</string>
     <string name="choose_baby_sexy">성별</string>
     <string name="choose_owner_relation">관계</string>
-    <string name="choose_people">얼굴을 선택해 주세요.</string>
-    <string name="choose_some_people">%s의 얼굴을 선택해 주세요.</string>
+    <string name="choose_people">얼굴을 선택하세요.</string>
+    <string name="choose_some_people">%s의 얼굴을 선택하세요.</string>
     <string name="cleaner_empty_value_description">모든 상태 좋음</string>
     <string name="cleaner_photo_pick_delete_selected">선택한 사진 삭제</string>
     <string name="cleaner_scan_description">항목을 최적화하면 장치의 저장공간이 확보됩니다.</string>
-    <string name="cleaner_scan_exit_dialog_message">다음번에 다시 시작해야합니다. 지금 검색을 중지하시겠습니까?</string>
+    <string name="cleaner_scan_exit_dialog_message">다음번에 다시 시작해야 합니다. 지금 검색을 중지하시겠습니까?</string>
     <string name="cleaner_scan_exit_dialog_positive">중지</string>
     <string name="cleaner_scan_exit_dialog_title">검색 중지</string>
     <string name="cleaner_scan_finish">스캔 완료</string>
@@ -734,7 +734,7 @@
     <string name="debugging_info">디버그 정보가 성공적으로 생성되었습니다. 확인을 눌러 폴더를 엽니다.</string>
     <string name="debugging_tip">디버그 데이터 생성</string>
     <string name="decrypt_video_failed">영상 준비 실패</string>
-    <string name="decrypting_video">영상 준비중…</string>
+    <string name="decrypting_video">영상 준비 중…</string>
     <string name="default_relation_name">새 그룹</string>
     <string name="define_by_user">사용자 설정</string>
     <string name="delete">삭제</string>
@@ -781,7 +781,7 @@
     <string name="download_type_thumbnail">고화질</string>
     <string name="download_type_thumbnail_desc">고화질</string>
     <string name="download_type_title">다운로드할 사진의 품질 선택</string>
-    <string name="download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동 통신사 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
+    <string name="download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동통신사 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
     <string name="download_with_metered_network_title">유료 네트워크에 연결되었습니다.</string>
     <string name="downloading_dialog_message">사진 품질을 설정하거나 사진 다운로드를 설정에서 해제할 수 있습니다.</string>
     <string name="downloading_title">Mi 클라우드에서 사진 저장중</string>
@@ -826,7 +826,7 @@
     <string name="error_install_connect_fail">플러그인을 불러울 수 없습니다. 인터넷 연결상태를 확인하세요.</string>
     <string name="error_install_sdcard_not_available">SD 카드 에러로 인해 플러그인을 불러올 수 없습니다.</string>
     <string name="error_install_storage_not_enough">기기 저장공간을 확보한 후에 플러그인을 설치하세요.</string>
-    <string name="error_internal_sdcard_write_tip">에러가 발생하였습니다. 디바이스를 다시 시작한 뒤 다시 시도하세요.</string>
+    <string name="error_internal_sdcard_write_tip">에러가 발생하였습니다. 기기를 다시 시작한 뒤 다시 시도하세요.</string>
     <string name="error_invalid_link">잘못된 URL</string>
     <string name="error_link_has_expired">URL 만료됨</string>
     <string name="error_network_restrict_action">더 보기</string>
@@ -839,10 +839,10 @@
     <string name="error_no_cta_permission_msg">네트워크 액세스 제한됨</string>
     <string name="error_no_cta_permission_tip">네트워크 액세스 제한됨</string>
     <string name="error_no_network_action">네트워크 설정</string>
-    <string name="error_no_network_msg">디바이스를 Wi-Fi나 모바일 데이터에 연결하세요.</string>
+    <string name="error_no_network_msg">기기를 Wi-Fi나 모바일 데이터에 연결하세요.</string>
     <string name="error_no_network_tip">네트워크에 연결할 수 없음</string>
     <string name="error_no_wifi_action">모바일 데이터 사용</string>
-    <string name="error_no_wifi_msg">디바이스가 Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하시면 추가 요금이 발생할 것입니다.</string>
+    <string name="error_no_wifi_msg">기기가 Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하시면 추가 요금이 발생할 것입니다.</string>
     <string name="error_no_wifi_tip">Wi-Fi에 연결할 수 없음</string>
     <string name="error_not_acceptable">동기화가 중단되었습니다.</string>
     <string name="error_not_synced_action">지금 동기화</string>
@@ -857,7 +857,7 @@
     <string name="error_socket_timeout_msg">다른 네트워크에 연결한 뒤 다시 시도하세요.</string>
     <string name="error_socket_timeout_tip">연결 시간이 초과되었습니다.</string>
     <string name="error_storage_full_action">저장공간 확보</string>
-    <string name="error_storage_full_msg">디바이스의 저장 공간을 확보한 뒤 다시 시도하세요.</string>
+    <string name="error_storage_full_msg">기기의 저장 공간을 확보한 뒤 다시 시도하세요.</string>
     <string name="error_storage_full_tip">저장공간 부족</string>
     <string name="error_sync_off_action">켜기</string>
     <string name="error_sync_off_msg">Mi 클라우드의 동기화를 켜셨는지 확인하세요.</string>
@@ -866,7 +866,7 @@
     <string name="error_unauthorized">너무 많은 로그인 시도로 인해 동기화가 중단되었습니다.</string>
     <string name="error_unknown_action">피드백</string>
     <string name="error_unknown_host">네트워크에 연결하지 못했습니다. 데이터 연결을 확인한 후 다시 시도하세요.</string>
-    <string name="error_unknown_msg">오류가 발생했습니다. 피드백을 전송하세요.</string>
+    <string name="error_unknown_msg">오류가 발생했습니다. 피드백을 전송해주세요.</string>
     <string name="error_unknown_tip">오류가 발생했습니다.</string>
     <string name="evening">오후</string>
     <string name="exit">종료</string>
@@ -1042,7 +1042,7 @@
     <string name="input_nickname_toast">아기 이름 입력</string>
     <string name="input_or_select_a_name">이름을 입력하거나 선택하세요.</string>
     <string name="input_relation_name">그룹 이름 입력</string>
-    <string name="install_fail">에러로 인해 플러그인을 로드할 수 없습니다.</string>
+    <string name="install_fail">에러로 인해 플러그인을 불러올 수 없습니다.</string>
     <string name="invalid_invition_url">잘못된 초대 URL</string>
     <string name="invalid_recipient_message">입력한 수신자 이름이 잘못되었습니다.</string>
     <string name="invite_sharer_confirm_button_text">초대</string>
@@ -1083,7 +1083,7 @@
     <string name="loading_video_thumbnail">동영상 커버 다운로드 중…</string>
     <string name="login_and_enable_service">Mi 계정으로 로그인</string>
     <string name="long_press_to_refocus">길게 &amp; 눌러 초점 재조정</string>
-    <string name="main_discard_confirm_message">변경 사항을 저장하지 않으셨습니다.</string>
+    <string name="main_discard_confirm_message">변경 사항을 저장하지 않았습니다.</string>
     <string name="main_discard_negative_btn">변경 취소</string>
     <string name="main_discard_positive_btn">저장 &amp; 나가기</string>
     <string name="main_save_error_msg">오류 때문에 변경 사항을 저장할 수 없습니다.</string>
@@ -1171,7 +1171,7 @@
     <string name="movie_download_failed_for_notwork">다운로드할 수 없습니다. 네트워크에 연결하고 다시 시도하세요.</string>
     <string name="movie_download_sdk_without_wifi_msg">기기가 Wi-Fi에 연결되어 있지 않은 것 같습니다. 모바일 데이터를 사용하여 필요한 플러그인(3MB)을 다운로드하시겠습니까?</string>
     <string name="movie_download_sdk_without_wifi_title">모바일 데이터를 사용하여 다운로드</string>
-    <string name="movie_download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동 통신사 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
+    <string name="movie_download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동통신사 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
     <string name="movie_download_with_metered_network_title">유료 네트워크에 연결되었습니다.</string>
     <string name="movie_edit">편집</string>
     <string name="movie_item_name">클립</string>
@@ -1201,8 +1201,8 @@
     <string name="name_split">", "</string>
     <string name="need_to_turn_on_network">기기가 인터넷에 연결되지 않았습니다.</string>
     <string name="need_to_turn_on_sync">Mi 클라우드와 동기화 켜기</string>
-    <string name="need_to_turn_on_sync_first">먼저 Mi 클라우드를 동기화해 주세요.</string>
-    <string name="need_to_turn_on_wlan">먼저 Wi-Fi를 연결해 주세요.</string>
+    <string name="need_to_turn_on_sync_first">먼저 Mi 클라우드를 동기화하세요.</string>
+    <string name="need_to_turn_on_wlan">먼저 Wi-Fi를 연결하세요.</string>
     <string name="network_connected_rescan">네크워크에 연결할 수 없습니다.</string>
     <string name="new_album_invalid_char">이름에 \"%s\" 문자열을 포함할 수 없습니다. 문자나 숫자를 입력하세요.</string>
     <string name="new_album_invalid_name">\"%s\"앨범은 시스템 앨범입니다. 이것의 이름을 바꿔주세요.</string>
@@ -1306,7 +1306,7 @@
     <string name="photo_editor_crop_and_rotate">자르기&amp;회전</string>
     <string name="photo_editor_crop_auto">자동</string>
     <string name="photo_editor_crop_auto_tips">자동으로 자름</string>
-    <string name="photo_editor_crop_reset">다시 설정</string>
+    <string name="photo_editor_crop_reset">초기화</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">낙서</string>
     <string name="photo_editor_filter">필터</string>
@@ -1371,7 +1371,7 @@
     <string name="photo_font_cancel_download">취소</string>
     <string name="photo_font_download">다운로드</string>
     <string name="photo_font_download_failed_for_notwork">다운로드 실패. 네트워크 연결 후 다시 시도하세요.</string>
-    <string name="photo_font_download_without_wifi_msg">모바일 데이터 연결을 사용하여 파일을 다운로드하면 데이터 사용량이 증가합니다. 계획의 데이터 한도를 초과하면 이동 통신사에서 추가 요금을 청구 할 수 있습니다.</string>
+    <string name="photo_font_download_without_wifi_msg">모바일 데이터 연결을 사용하여 파일을 다운로드하면 데이터 사용량이 증가합니다. 계획의 데이터 한도를 초과하면 이동통신사에서 추가 요금을 청구 할 수 있습니다.</string>
     <string name="photo_font_download_without_wifi_title">데이터 사용량 경고</string>
     <string name="photo_movie_module_finish">클립 로드 완료</string>
     <string name="photo_movie_module_loading">클립 로딩중…</string>
@@ -1395,7 +1395,7 @@
     <string name="picker_no_network_message">네트워크에 연결하여 다운로드하세요.</string>
     <string name="picker_origin_need_download">선택하신 사진 %1$d개(%2$dMB) 가 기기에 존재하지 않습니다. 모바일 데이터로 다운로드하시겠습니까?</string>
     <string name="picker_origin_request_progress_fail">네트워크 오류로 인해 원본 이미지을 다운로드하지 못하였습니다.</string>
-    <string name="picker_origin_request_progress_message">원본 파일 준비중... (%1$d/%2$d)…</string>
+    <string name="picker_origin_request_progress_message">원본 파일 준비 중... (%1$d/%2$d)…</string>
     <string name="picker_title_format">%1$d개에서 %2$d개 사진을 선택하세요.</string>
     <string name="picker_title_selection_format">선택된 사진: %d</string>
     <string name="picker_title_selection_format_multiple">%1$d 부터 %2$d 사진까지 선택 (%3$d)</string>
@@ -1517,7 +1517,7 @@
     <string name="search_feedback_task_progress">미션 %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">리워드를 받지 못했습니다. 나중에 다시 시도하세요.​</string>
     <string name="search_feedback_task_requesting_award">리워드 받는 중…</string>
-    <string name="search_feedback_user_notice">%s를 모두 읽고 동의하였습니다..</string>
+    <string name="search_feedback_user_notice">%s를 모두 읽고 동의하였습니다.</string>
     <string name="search_feedback_user_policy">MIUI 갤러리 AI 알고리즘 데이터베이스 프로그램 약관</string>
     <string name="search_hint">이미지 검색</string>
     <string name="search_image_result_title">검색 결과</string>
@@ -1557,7 +1557,7 @@
     <string name="secret_album_password_update_dialog_title">업그레이드 비밀번호</string>
     <string name="secret_album_password_update_first_user_dialog_msg">정보 보호 비밀번호는 사진, 메모, 숨김 폴더, 기타 등에 적용됩니다.</string>
     <string name="secret_album_password_update_first_user_dialog_title">비밀번호 업그레이드</string>
-    <string name="secret_album_set_pc_password_dialog_msg">개인 정보 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
+    <string name="secret_album_set_pc_password_dialog_msg">개인정보 비밀번호가 사진, 노트, 숨김 파일, 기타 등에 적용됩니다.</string>
     <string name="secret_album_set_pc_password_dialog_ok">새 비밀번호 설정</string>
     <string name="secret_album_set_pc_password_dialog_title">비밀번호 설정</string>
     <string name="secret_reason_space_full">클라우드 앨범이 꽉 찻습니다.</string>
@@ -1590,7 +1590,7 @@
     <string name="set_face_image">새 프로필 사진 설정</string>
     <string name="set_group">그룹 설정</string>
     <string name="set_video_wallpaper_failed">이 항목을 동영상 배경 화면으로 사용할 수 없습니다.</string>
-    <string name="set_wallpaper_get_image_failed">이미지를 다운로드할 수 없습니다. 나중에 다시 시도해주세요.</string>
+    <string name="set_wallpaper_get_image_failed">이미지를 다운로드할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="setup_network_connection">네트워크 설정</string>
     <string name="share">공유</string>
     <string name="share_album">앨범 공유</string>
@@ -1652,7 +1652,7 @@
     <string name="storage_no_space">저장 공간 부족</string>
     <string name="story_action_remove">삭제</string>
     <string name="story_action_share">공유</string>
-    <string name="story_back_stop_download">다운로드를 중단하시려면 다시 탭하세요.</string>
+    <string name="story_back_stop_download">다운로드를 중단하려면 다시 탭하세요.</string>
     <string name="story_cancel_download">취소</string>
     <string name="story_download">다운로드</string>
     <string name="story_download_failed_for_notwork">다운로드할 수 없습니다. 네트워크에 연결하고 다시 시도하세요.</string>
@@ -1750,7 +1750,7 @@
     <string name="unsupport_video">%s 영상은 지원되지 않습니다.</string>
     <string name="user_agree">동의</string>
     <string name="user_agreement2">서비스 약관</string>
-    <string name="user_agreement4">개인 정보 보호 정책</string>
+    <string name="user_agreement4">개인정보 보호 정책</string>
     <string name="user_alias_self">본인</string>
     <string name="user_notice_identify_summary_format"><Data>"이 서비스를 사용하면 Xiaomi의 &lt;a href=\"%1$s\"&gt;\"서비스 약관\"&lt;/a&gt; 및 &lt;a href=\"%2$s\"&gt;\"개인정보 보호정책\"&lt;/a&gt;에 동의하는 것입니다."</Data></string>
     <string name="user_notice_title">이용 약관</string>
@@ -1778,7 +1778,7 @@
     <string name="video_editor_down_load_now">다운로드</string>
     <string name="video_editor_download">다운로드</string>
     <string name="video_editor_download_failed_for_notwork">다운로드할 수 없습니다. 네트워크에 연결하고 다시 시도하세요.</string>
-    <string name="video_editor_download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동 통신사 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
+    <string name="video_editor_download_with_metered_network_msg">원본 파일을 다운로드하면 추가 이동통신사 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
     <string name="video_editor_download_with_metered_network_title">유료 네트워크에 연결되었습니다.</string>
     <string name="video_editor_encode_video">동영상 인코딩 중…</string>
     <string name="video_editor_encode_video_error">동영상을 인코딩할 수 없습니다.</string>
@@ -1846,13 +1846,13 @@
     <string name="video_editor_text_edit_input_hint">여기를 탭하여 편집</string>
     <string name="video_editor_text_edit_input_open_hint">제목 입력</string>
     <string name="video_editor_text_edit_start">제목</string>
-    <string name="video_editor_text_input_empty_tips">텍스트를 입력해 주세요.</string>
+    <string name="video_editor_text_input_empty_tips">텍스트를 입력하세요.</string>
     <string name="video_editor_text_preview_text">텍스트</string>
     <string name="video_editor_trim">자르기</string>
     <string name="video_editor_unsupport_audio_file">지원되지 않는 오디오 파일</string>
     <string name="video_editor_unzip_file_fail">영상을 압축해제할 수 없습니다.</string>
     <string name="video_editor_video_is_short">이 영상을 편집할 수 없습니다.</string>
-    <string name="video_editor_video_loading">동영상 준비중… 잠시 후 다시 시도하세요.</string>
+    <string name="video_editor_video_loading">동영상 준비 중… 잠시 후 다시 시도하세요.</string>
     <string name="video_editor_watermark">워터마크</string>
     <string name="video_err">동영상을 실행할 수 없습니다.</string>
     <string name="video_not_exist">동영상이 존재하지 않습니다.</string>
@@ -2452,7 +2452,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드할 수 없습니다."</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T 프로</string>
     <string name="mi_9_lite">Mi 9 라이트</string>
@@ -2497,7 +2497,7 @@
     <string name="redmi_note_8_pro">Redmi Note 8 프로</string>
     <string name="remover_edit_type_line">라인</string>
     <string name="search_backup_full_screen_new">보다 효과적인 검색을 위해 클라우드와 동기화 설정</string>
-    <string name="security_share_subtitle_default">개인 정보 보호</string>
+    <string name="security_share_subtitle_default">개인정보 보호</string>
     <string name="security_share_subtitle_hide">위치 정보가 삭제되었습니다.</string>
     <string name="security_share_subtitle_no_hide">위치 정보 포함</string>
     <string name="sky_dynamic">동적임</string>

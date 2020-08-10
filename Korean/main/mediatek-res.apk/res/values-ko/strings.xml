@@ -126,7 +126,7 @@
     <string name="wifi_display_reconnect">다시 연결</string>
     <string name="wifi_display_disconnect_then_reconnect">무선 디스플레이 연결이 끊어졌습니다. 다시 연결하시겠습니까?</string>
     <string name="wifi_display_disconnected">무선 디스플레이 연결이 끊어졌습니다.</string>
-    <string name="wifi_wps_failed_overlap">다른 WPS 세션이 감지되었습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="wifi_wps_failed_overlap">다른 WPS 세션이 감지되었습니다. 잠시 후 다시 시도하세요.</string>
     <string name="wifi_display_wfd_and_wifi_are_turned_on">무선 디스플레이와 Wi-Fi가 켜졌습니다.</string>
     <string name="wifi_display_sound_path_reminder">멀티미디어 사운드가 헤드셋에서 재생되지 않습니다.</string>
     <string name="confirm_flight_mode_radio_title">비행기 모드 켜기 및 SIM 끄기</string>
@@ -206,7 +206,7 @@
     <string name="usb_cd_installer_notification_title">설치 프로그램으로 연결됨</string>
     <string name="storage_phone">내부 저장소</string>
     <string name="hdmi_replace_mhl">MHL</string>
-    <string name="permdesc_bindTerminal">"이 권한이 있는 앱은 시스템의 OMAPI 터미널에 바인딩 할 수 있습니다. SmartcardService만 이 권한을 사용해야합니다."</string>
+    <string name="permdesc_bindTerminal">"이 권한이 있는 앱은 시스템의 OMAPI 터미널에 바인딩 할 수 있습니다. SmartcardService만 이 권한을 사용해야 합니다."</string>
     <string name="permdesc_systemTerminal">이 권한이있는 응용 프로그램은 시스템의 OMAPI 터미널임을 나타냅니다.</string>
     <string name="permlab_bindTerminal">OMAPI 터미널 바인딩</string>
     <string name="permlab_systemTerminal">OMAPI 시스템 터미널</string>

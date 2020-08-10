@@ -123,7 +123,7 @@
     <string name="dialog_backup_password_verify">확인</string>
     <string name="dialog_forbidden_use_tips">"Mi Mover는 현재 태블릿과의 데이터 전송을 지원하지 않습니다."</string>
     <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하십니까?</string>
-    <string name="dialog_rating_desc_less">앱을 개선 할 수 있도록 몇 가지 제안을 해주시겠습니까?</string>
+    <string name="dialog_rating_desc_less">앱을 개선할 수 있도록 몇 가지 제안을 해주시겠습니까?</string>
     <string name="dialog_rating_desc_perfect">감사합니다! GetApps에서도 Mi Mover를 평가 하시겠습니까?</string>
     <string name="dialog_rating_title">Mi Mover 비율</string>
     <string name="dialog_request_network_btn_negative">종료</string>
@@ -294,7 +294,7 @@
     <string name="install_mi_cloud_app_title">Xiaomi Cloud 설치</string>
     <string name="install_new_app_link_text">연결할 수 있도록 새 장치에 Mi Mover를 설치합니다. 설치하려면 탭하세요.</string>
     <string name="instruction">중요 안전 정보</string>
-    <string name="international_new_trans_intro_desc_8">"호환성 문제로 인해 문자 메시지를 전송할 수 없습니다. 타사 앱은 보안상의 이유로 앱 데이터 전송을 제한 할 수 있습니다."</string>
+    <string name="international_new_trans_intro_desc_8">"호환성 문제로 인해 문자 메시지를 전송할 수 없습니다. 타사 앱은 보안상의 이유로 앱 데이터 전송을 제한할 수 있습니다."</string>
     <string name="international_new_trans_intro_question_8">"8. 일부 타사 앱의 문자 메시지와 앱 데이터가 전송되지 않는 이유는 무엇입니까?"</string>
     <string name="international_scanner_send_dialog_message">"일부 타사 앱의 문자 메시지 및 앱 데이터는 전송할 수 없습니다. 전송 중에 Wi-Fi을 끄거나 네트워크간에 전환하지 마세요."</string>
     <string name="label">MIUI SDK</string>
@@ -422,7 +422,7 @@
     <string name="old_wait_link">이전 기기로 전송할 항목 선택</string>
     <string name="old_wait_link_extra">\"전송\"을 탭하세요.</string>
     <string name="option_feedback_title">의견</string>
-    <string name="option_privacy_policy">개인 정보 보호 정책</string>
+    <string name="option_privacy_policy">개인정보 보호 정책</string>
     <string name="organization">조직</string>
     <string name="other_system_data">시스템 앱 데이터</string>
     <string name="other_user_app">타사 앱</string>
@@ -430,8 +430,8 @@
     <string name="other_user_data">타사 앱 데이터</string>
     <string name="password">비밀번호 입력</string>
     <string name="password_null">"비밀번호는 비워 둘 수 없습니다."</string>
-    <string name="permdesc_sendSmsNoConfirmation">앱은 사용자의 허락없이 SMS 메시지를 보낼 수 있습니다. 이동 통신사에서 이러한 메시지에 대해 요금을 청구 할 수 있습니다.</string>
-    <string name="permission_alert_message_usage_access">Mi Mover는 앱 사용 통계에 액세스해야합니다. Mi Mover에게 설정에서 필요한 권한을 부여하세요.</string>
+    <string name="permdesc_sendSmsNoConfirmation">앱은 사용자의 허락없이 SMS 메시지를 보낼 수 있습니다. 이동통신사에서 이러한 메시지에 대해 요금을 청구 할 수 있습니다.</string>
+    <string name="permission_alert_message_usage_access">Mi Mover는 앱 사용 통계에 액세스해야 합니다. Mi Mover에게 설정에서 필요한 권한을 부여하세요.</string>
     <string name="permission_alert_title">필요한 권한</string>
     <string name="permission_bluetooth_summary">주변에서 사용 가능한 기기 찾기</string>
     <string name="permission_bluetooth_title">블루투스 켜기 및 끄기</string>
@@ -462,7 +462,7 @@
     <string name="perm_write_settings">시스템 설정 변경</string>
     <string name="phone">전화</string>
     <string name="pm">오후</string>
-    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="privacy_policy">개인정보 보호 정책</string>
     <string name="prompt_before_transmission_message1_summary">이전 기기에서 전송하도록 선택하면 앱 데이터 (채팅 기록 포함)를 덮어 씁니다.</string>
     <string name="prompt_before_transmission_message1_title">이 앱은 이미 새 기기에서 앱 데이터를 생성했습니다.</string>
     <string name="prompt_before_transmission_message2_summary">"듀얼 앱은 전송할 수 없습니다. 그러나 원래 앱은 전송할 수 있습니다."</string>
@@ -498,7 +498,7 @@
     <string name="scanner_permission_alert_ok">설정</string>
     <string name="scanner_quit_alert_btn_negative">종료</string>
     <string name="scanner_quit_alert_btn_positive">"종료하지 마십시오"</string>
-    <string name="scanner_quit_alert_message">"지금 Mi Mover를 종료하면 두 장치를 다시 연결해야합니다. 종료 하시겠습니까?"</string>
+    <string name="scanner_quit_alert_message">"지금 Mi Mover를 종료하면 두 장치를 다시 연결해야 합니다. 종료 하시겠습니까?"</string>
     <string name="scanner_quit_alert_title">지금 종료 하시겠습니까?</string>
     <string name="scanner_send_dialog_btn">확인</string>
     <string name="scanner_send_dialog_message">"전송 중에 Wi-Fi을 끄거나 네트워크간에 전환하지 마십시오."</string>
@@ -524,7 +524,7 @@
     <string name="select_item_remind">알림</string>
     <string name="select_item_summary_loading">잠시만 ...</string>
     <string name="send">보내기</string>
-    <string name="send_sms_for_sync_notice">이 서비스를 활성화하려면 보내는 SMS 메시지가 필요할 수 있습니다. 이동 통신사에서이 메시지에 대해 요금을 청구합니다.</string>
+    <string name="send_sms_for_sync_notice">이 서비스를 활성화하려면 보내는 SMS 메시지가 필요할 수 있습니다. 이동통신사에서이 메시지에 대해 요금을 청구합니다.</string>
     <string name="send_sms_for_sync_title">데이터 사용량 경고</string>
     <string name="send_verification_code_fail">"인증 코드를 보낼 수 없습니다."</string>
     <string name="send_verification_code_fail_tips">"Apple 기기에서이 계정으로 로그인했는지 확인하세요. 그렇지 않으면 코드를받을 수 없습니다."</string>
@@ -533,8 +533,8 @@
     <string name="settings_sms">메시징 설정</string>
     <string name="settings_system">시스템 설정</string>
     <string name="settings_wifi">Wi-Fi 설정</string>
-    <string name="sim_changed_reactivate_int_notice">이 서비스를 재 활성화하려면 발신 국제 SMS 메시지가 필요할 수 있습니다. 이동 통신사에서이 메시지에 대해 요금을 청구합니다.</string>
-    <string name="sim_changed_reactivate_notice">이 서비스를 다시 활성화하려면 보내는 SMS 메시지가 필요할 수 있습니다. 이동 통신사에서이 메시지에 대해 요금을 청구합니다.</string>
+    <string name="sim_changed_reactivate_int_notice">이 서비스를 재 활성화하려면 발신 국제 SMS 메시지가 필요할 수 있습니다. 이동통신사에서이 메시지에 대해 요금을 청구합니다.</string>
+    <string name="sim_changed_reactivate_notice">이 서비스를 다시 활성화하려면 보내는 SMS 메시지가 필요할 수 있습니다. 이동통신사에서이 메시지에 대해 요금을 청구합니다.</string>
     <string name="sim_in_airplane_mode">비행기 모드를 끕니다.</string>
     <string name="sim_locked">SIM 카드가 잠겨 있습니다.</string>
     <string name="sim_not_ready">SIM 카드가 사용 중입니다. 나중에 다시 시도하세요.</string>
@@ -545,7 +545,7 @@
     <string name="size_tera_byte">TB</string>
     <string name="skip_underline">이 단계 건너뛰기</string>
     <string name="sms">SMS</string>
-    <string name="soft_ap_create_failed">"핫스팟을 생성 할 수 없습니다."</string>
+    <string name="soft_ap_create_failed">"핫스팟을 생성할 수 없습니다."</string>
     <string name="soft_ap_creating">핫스팟 생성 중…</string>
     <string name="solar_term_autumn_begins">가을 시작</string>
     <string name="solar_term_autumn_equinox">추분</string>
@@ -701,7 +701,7 @@
     <string name="waiting_restore_desktop">홈 화면 레이아웃을 복원하기 위해 타사 앱 전송 중…</string>
     <string name="website">웹 사이트</string>
     <string name="webview_reload">다시 시도</string>
-    <string name="web_sso_login_fail">다시 로그인해야합니다.</string>
+    <string name="web_sso_login_fail">다시 로그인해야 합니다.</string>
     <string name="web_sso_login_message">로그인 중…</string>
     <string name="wechat_and_qq_app_receive_fail">"위챗 및 QQ를 받을 수 없음"</string>
     <string name="wechat_and_qq_app_send_fail">"위챗 및 QQ를 보낼 수 없습니다."</string>

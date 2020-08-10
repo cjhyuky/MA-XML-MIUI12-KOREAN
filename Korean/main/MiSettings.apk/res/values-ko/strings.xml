@@ -186,7 +186,7 @@
     <string name="focus_time_exception_tip">시스템 시간이 변경된 것 같습니다. 초점 모드를 해제했습니다.</string>
     <string name="usage_beat_fans">%s의 미 팬보다 훌륭합니다.</string>
     <string name="usage_continuous_days">줄무늬</string>
-    <string name="usage_focus_focus_premission_main_summary">초점 모드 사용 통계를 기록하려면이 앱에서 계정 정보에 액세스해야합니다.</string>
+    <string name="usage_focus_focus_premission_main_summary">초점 모드 사용 통계를 기록하려면이 앱에서 계정 정보에 액세스해야 합니다.</string>
     <string name="usage_focus_focus_premission_second_summary">"이러한 권한 부여에 동의하지 않으면이 앱의 일부 기능을 사용할 수 없지만 기본 기능은 계속 사용할 수 있습니다. 설정에서 권한을 부여하거나 승인을 취소하세요."</string>
     <string name="usage_focus_save_success">갤러리에 성공적으로 저장되었습니다.</string>
     <string name="usage_focus_summary_level1">초점을 유지하는 데 몇 분을 투자하는 것은 쉽습니다.</string>
@@ -199,8 +199,8 @@
     <string name="usage_focus_title_level3">일반적인 수준 이상으로 상승</string>
     <string name="usage_focus_title_level4">일관된 기쁨 찾기</string>
     <string name="usage_focus_title_level5">집중 유지</string>
-    <string name="usage_home_premission_main_summary">"화면 시간에 오신 것을 환영합니다!이 앱을 사용하여 화면 시간 제한을 설정하고 통계를보고 초점 모드로 전환할 수 있습니다.이 앱은 화면 시간 정보를 수집해야합니다 (예 : 잠금해제 횟수) 휴대전화를 켜고 화면을 켜고 앱을 사용하는 시간) 정상적으로 작동합니다."</string>
-    <string name="usage_home_premission_second_summary">정상적으로 작동하려면이 앱에서 개인 정보를 수집해야합니다. 관련 법률, 규정 및 개인 정보 보호 정책에 따라 귀하의 개인 정보를 보호합니다.</string>
+    <string name="usage_home_premission_main_summary">"화면 시간에 오신 것을 환영합니다!이 앱을 사용하여 화면 시간 제한을 설정하고 통계를보고 초점 모드로 전환할 수 있습니다.이 앱은 화면 시간 정보를 수집해야 합니다 (예 : 잠금해제 횟수) 휴대전화를 켜고 화면을 켜고 앱을 사용하는 시간) 정상적으로 작동합니다."</string>
+    <string name="usage_home_premission_second_summary">정상적으로 작동하려면이 앱에서 개인정보를 수집해야 합니다. 관련 법률, 규정 및 개인정보 보호 정책에 따라 귀하의 개인정보를 보호합니다.</string>
     <string name="usage_state_addup_time">모든 세션</string>
     <string name="usage_state_download">갤러리에 저장</string>
     <string name="usage_state_duration_title">이 세션</string>
@@ -282,12 +282,12 @@
     <string name="usage_home_permission_phone_summary">장치를 식별하기 위해 VAID를 수집</string>
     <string name="usage_home_permission_phone_title">전화 정보 권한 얻기</string>
     <string name="usage_home_premission_main_summary_new">"스크린 시간 관리에 오신 것을 환영합니다.
-서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용 횟수를 계산하는데 사용되는 기간, 밝은 화면 및 포커스 모드 사용 횟수를 계산하는 포커스 모드 기간 등 화면 사용량에 대한 정보를 수집해야합니다.
-기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야합니다."</string>
+서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용 횟수를 계산하는데 사용되는 기간, 밝은 화면 및 포커스 모드 사용 횟수를 계산하는 포커스 모드 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
+기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야 합니다."</string>
     <string name="usage_home_premission_main_summary_new_o">"스크린 시간 관리에 오신 것을 환영합니다.
-서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야합니다.
-기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인 정보를 수집하기 위해 권한 또는 기능을 호출해야합니다."</string>
-    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 응용 프로그램이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인 정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
+서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
+기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야 합니다."</string>
+    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 응용 프로그램이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
     <string name="usage_creating_weekly_report">주간 보고서</string>
     <string name="usage_focus_new_summary">더 멋진 프로필 사진</string>
     <string name="usage_no_net_summary">네트워크 연결이 정상적인지 확인하세요.</string>
@@ -327,7 +327,7 @@
     <string name="title_activity_easy_mode">라이트 모드</string>
     <string name="touch_description">최적화 된 버튼과 바로 가기는 실수로 닿지 않도록 도와줍니다.</string>
     <string name="touch_title">향상된 터치 컨트롤</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"우리는 관련 법률, 규정 및 개인 정보 보호 정책에 따라 개인 정보를 보호해야합니다. 이러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는 데 동의하지 않으면 귀하는 화면 시간 &gt; 설정 &gt; 화면 시간 끄기에서 승인을 취소 할 수 있습니다."</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"우리는 관련 법률, 규정 및 개인정보 보호 정책에 따라 개인정보를 보호해야 합니다. 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 귀하는 화면 시간 &gt; 설정 &gt; 화면 시간 끄기에서 승인을 취소 할 수 있습니다."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;이 앱을 사용하기 전에 &lt;a href='%1s'&amp;gt;사용자 약관&amp;lt;/a&amp;gt; 및 &amp;lt;a href='%2s'&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의해야 합니다.&lt;/Data&gt;"</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="afternoon">오후</string>
@@ -433,7 +433,7 @@
     <string name="usage_new_home_day_usage_title">개별 앱</string>
     <string name="usage_new_home_first_unlock">첫 번째 잠금해제 : %s</string>
     <string name="usage_new_home_name">이름</string>
-    <string name="usage_new_home_show_more_data_summary">개별 앱의 화면 시간을 제한 할 수도 있습니다.</string>
+    <string name="usage_new_home_show_more_data_summary">개별 앱의 화면 시간을 제한할 수도 있습니다.</string>
     <string name="usage_new_home_show_more_data_title">더 많은 통계보기</string>
     <string name="usage_new_home_unlock_equals_text">전날과 동일</string>
     <string name="usage_new_home_unused">"사용하지 않았습니다."</string>

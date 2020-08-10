@@ -97,7 +97,7 @@
     <string name="sleepmode_disclaimer_agree">동의</string>
     <string name="sleepmode_disclaimer_cancel">취소</string>
     <string name="sleepmode_privacy_content">이 기능은 기기 정보 및 시스템 정보를 필요로 하지만, 서버에 데이터 전송을 하지는 않습니다.</string>
-    <string name="sleepmode_privacy_link">보안 및 개인 정보 보호 더보기</string>
+    <string name="sleepmode_privacy_link">보안 및 개인정보 보호 더보기</string>
     <string name="sleepmode_privacy_title">잠자기 모드</string>
     <string name="sucess">성공</string>
     <string name="update_profile_failture_not_connect_wifi">변경에 실패하였습니다. Wi-Fi에 연결되어있지 않습니다.</string>

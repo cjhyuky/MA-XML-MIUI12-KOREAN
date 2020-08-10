@@ -22,11 +22,11 @@
     <string name="corpus_label_apps">앱</string>
     <string name="corpus_description_apps">설치된 애플리케이션</string>
     <string name="cta_declaration_title">서비스 약관</string>
-    <string name="cta_declaration">이 기능은 귀하의 위치정보, 통화 목록, 연락처, 인터넷 등을 사용할수 있을때 정상적으로 작동합니다.</string>
+    <string name="cta_declaration">이 기능은 귀하의 위치 정보, 통화 목록, 연락처, 인터넷 등을 사용할수 있을때 정상적으로 작동합니다.</string>
     <string name="cta_declaration_ignore">다시 보지 않기</string>
     <string name="cta_declaration_positive_text">허용</string>
     <string name="cta_declaration_negative_text">나가기</string>
-    <string name="default_hint">검색어를 입력해주세요.</string>
+    <string name="default_hint">검색어를 입력하세요.</string>
     <string name="network_unavailable">네트워크 접속불가</string>
     <string name="connect_and_retry">인터넷 접속 후 다시 시도하세요.</string>
     <string name="applications_search_label">앱</string>
@@ -116,7 +116,7 @@
     <string name="barcode_install_cancel">취소</string>
     <string name="barcode_install_confirm">설치</string>
     <string name="barcode_system_unmatch">스캐너를 설치하기 전에 MIUI를 업데이트하세요.</string>
-    <string name="barcode_to_install">계속 진행하시려면 스캐너를 추가하세요.</string>
+    <string name="barcode_to_install">계속 진행하려면 스캐너를 추가하세요.</string>
     <string name="barcode_uninstalled">스캐너 삭제됨</string>
     <string name="choose_search_engine">기본 검색 엔진을 통해 검색하기</string>
     <string name="mina_name">직결된 앱</string>

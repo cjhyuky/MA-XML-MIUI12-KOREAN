@@ -169,7 +169,7 @@
     <string name="dialog_media_not_found">다운로드 실패, SD 카드를 사용할 수 없습니다.</string>
     <string name="dialog_queued_body">이 파일은 나중 다운로드를 위해 다운로드 목록에 추가되었습니다.</string>
     <string name="dialog_renew_failure">죄송합니다. 작업이 실패했습니다.</string>
-    <string name="dialog_renew_free_end">무료 평가판 사용이 끝났습니다.. Hungama PRO를 구독하시겠습니까?</string>
+    <string name="dialog_renew_free_end">무료 평가판 사용이 끝났습니다. Hungama PRO를 구독하시겠습니까?</string>
     <string name="dialog_renew_positive_text">예, 저는 프로와 같은 락을 원합니다.</string>
     <string name="dialog_renew_success">확인해 주셔서 감사합니다.</string>
     <string name="dialog_song_sort_type">정렬</string>
@@ -315,7 +315,7 @@
     <string name="exo_track_unknown">알 수 없음</string>
     <string name="expand_button_title">고급 설정</string>
     <string name="expired">만료됨</string>
-    <string name="facebook_not_installed">Facebook을 먼저 설치해주세요.</string>
+    <string name="facebook_not_installed">Facebook을 먼저 설치하세요.</string>
     <string name="fail_to_fetch_payment_page_url">결제 정보를 가져올 수 없습니다.</string>
     <string name="fail_to_play">노래를 재생할 수 없습니다.</string>
     <string name="fav_login_msg">노래를 다운로드하려면 Mi 계정에 로그인하세요.</string>
@@ -363,7 +363,7 @@
     <string name="hungama_category_video">동영상</string>
     <string name="hungama_free_download_out_summary">무료 노래를 더 다운로드할 수 없습니다. 무제한 노래를 다운로드하려면 PRO 멤버십을 얻으시겠습니까?</string>
     <string name="hungama_pro">헝가마 프로</string>
-    <string name="hungama_subscribe_message">이 노래를 다운로드하려면 구입해야합니다.</string>
+    <string name="hungama_subscribe_message">이 노래를 다운로드하려면 구입해야 합니다.</string>
     <string name="hungama_subscribe_positive_button">구입</string>
     <string name="hungama_subscribe_title">다운로드</string>
     <string name="i_know">확인</string>
@@ -505,7 +505,7 @@
     <string name="online_apk_download_error_no_enough_space">저장 공간 부족으로 다운로드할 수 없습니다.</string>
     <string name="online_apk_downloading">다운로드 중…%d%%</string>
     <string name="online_apk_install_alert_confirm">다운로드</string>
-    <string name="online_apk_install_alert_message">Yandex.Music 플러그인을 다운로드해야합니다. 지금 다운로드하시겠습니까?</string>
+    <string name="online_apk_install_alert_message">Yandex.Music 플러그인을 다운로드해야 합니다. 지금 다운로드하시겠습니까?</string>
     <string name="online_apk_install_alert_note">이 서비스는 Yandex.Music에서 제공합니다.</string>
     <string name="online_apk_install_error_no_enough_space">저장 공간이 충분하지 않아 설치할 수 없습니다.</string>
     <string name="online_apk_install_error_with_reason">설치할 수 없습니다 (오류 %d)</string>
@@ -564,7 +564,7 @@
     <string name="priority_storage">외장 SD 카드 사용</string>
     <string name="priority_storage_summary">가능한 경우 외장 메모리 카드에 자동으로 다운로드</string>
     <string name="privacy_desc">개인정보 보호정책(필수)</string>
-    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="privacy_policy">개인정보 보호 정책</string>
     <string name="pro_member">프로 회원</string>
     <string name="project_device">Mi 휴대전화</string>
     <string name="prompt_grant_write_settings_permission">설정 권한 요청</string>
@@ -710,9 +710,9 @@
     <string name="title_online_fm_recommend">FM 기능</string>
     <string name="title_online_recommend">추천 재생목록</string>
     <string name="title_search_history">기록 검색</string>
-    <string name="toast_download_error_by_count_limit">귀하의 이번 달 다운로드 제공량을 모두 사용하셨습니다.</string>
-    <string name="toast_download_error_by_not_login">Mi 계정에 로그인하시고 다시 시도해주세요.</string>
-    <string name="toast_download_error_by_vip_required">이 노래를 다운받기 위해서 프리미엄 뮤직 패키지를 구독해주세요.</string>
+    <string name="toast_download_error_by_count_limit">귀하의 이번 달 다운로드 제공량을 모두 사용했습니다.</string>
+    <string name="toast_download_error_by_not_login">Mi 계정에 로그인하시고 다시 시도하세요.</string>
+    <string name="toast_download_error_by_vip_required">이 노래를 다운받기 위해서 프리미엄 뮤직 패키지를 구독하세요.</string>
     <string name="toast_download_in_process">다운로드 중</string>
     <string name="toast_is_pro">이미 프로 회원입니다.</string>
     <string name="toast_new_playlist_name_no_enter">새로운 재생목록을 만들 수 없습니다.</string>
@@ -741,7 +741,7 @@
     <string name="vip_required_with_song">프리미엄 뮤직 패키지를 구독하여 %s를 재생하세요. 원하신다면 이 과정을 건너뛰실 수 있습니다.</string>
     <string name="voice_search_first_hint">음성 검색을 사용해보세요!</string>
     <string name="wifi_required_body" formatted="false">귀하는 Wi-Fi를 사용하여 %s 의 다운로드를 완료해야 합니다. \n\n%s 항목을 탭하여 나중에 Wi-Fi에 연결되었을때 다운로드를 시작할 수 있습니다.</string>
-    <string name="wifi_required_title">이 파일을 다운로드 하시려면 Wi-Fi에 연결해야 합니다.</string>
+    <string name="wifi_required_title">이 파일을 다운로드 하려면 Wi-Fi에 연결해야 합니다.</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 응용 프로그램 관리에서 다운로드 관리자 상태를 확인하세요.</string>
     <string name="xiaomi_update_sdk_dialog_message">버전 소개 %1$s\n크기: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">버전 소개 %1$s\n델타 업데이트 크기 : %2$s</string>
@@ -825,16 +825,16 @@
     <string name="cta_runtime_perm_desc_phone">장치를 식별하기 위해 장치 정보에 접근</string>
     <string name="cta_runtime_perm_desc_storage">노래, 표지 및 가사를 저장하고 액세스하기 위해 저장소에 접근</string>
     <string name="cta_runtime_perm_desc_storage_single">노래, 표지 및 가사를 저장하고 액세스하기 위해 저장소에 접근</string>
-    <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인 정보를 수집하려면 다음 권한이 필요합니다.</string>
-    <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인 정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. Mi 뮤직을 사용하기 전에 우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;이용 약관&lt;/a&gt;과&lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의해주세요.\"&lt;/Data&gt;</string>
+    <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.</string>
+    <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. Mi 뮤직을 사용하기 전에 우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;이용 약관&lt;/a&gt;과&lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.\"&lt;/Data&gt;</string>
     <string name="declaration_main_purpose">Mi 뮤직에 오신 것을 환영합니다! 이 앱을 사용하여 장치에 저장된 노래를 재생하고 온라인 콘텐츠를 스트리밍 할 수 있습니다.</string>
     <string name="headline_content_issue_feedback">컨텐츠 문제에 대한 피드백</string>
     <string name="sleep_mode_seek_bar_end">120분</string>
     <string name="sleep_mode_seek_bar_start">1분</string>
-    <string name="sync_only_in_wifi_summary">Xiaomi 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동 통신사가 추가 요금을 청구 할 수 있습니다.</string>
+    <string name="sync_only_in_wifi_summary">Xiaomi 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동통신사가 추가 요금을 청구 할 수 있습니다.</string>
     <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
     <string name="create_playlist_input_hint">재생목록 이름을 입력하세요.</string>
-    <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야합니다. 다음에 직접 노래에 액세스할 수 있습니다."</string>
+    <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야 합니다. 다음에 직접 노래에 액세스할 수 있습니다."</string>
     <string name = "buy_vip_skip_ad">광고 제거</string>
     <string name = "columbus_player_close_desc">사용자는 보상을 잃을 것입니다.</string>
     <string name = "columbus_player_close_resume">동영상 이어보기</string>
@@ -876,7 +876,7 @@
     <string name = "joox_download_title">JOOX 다운로드</string>
     <string name = "joox_privacy_desc">JOOX 개인정보 보호정책(선택 사항)</string>
     <string name = "joox_privacy_tips_content">온라인 서비스를 사용하기 전에 &lt;a href="/link/click"&gt;JOOX 개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.</string>
-    <string name = "joox_privacy_tips_title">JOOX 개인 정보 보호 정책</string>
+    <string name = "joox_privacy_tips_title">JOOX 개인정보 보호 정책</string>
     <string name = "joox_recommend_artist_title">추천 아티스트</string>
     <string name = "joox_recommend_playlist_title">추천 재생 목록</string>
     <string name = "joox_search_result_more">더보기</string>

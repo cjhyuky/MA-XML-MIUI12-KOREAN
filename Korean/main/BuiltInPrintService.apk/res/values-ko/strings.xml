@@ -26,7 +26,7 @@
     <string name="connecting_to">%1$s 연결 중</string>
     <string name="connects_via_network">현재 네트워크 %1$s 연결</string>
     <string name="connects_via_wifi_direct">Wi-Fi Direct로 연결</string>
-    <string name="connect_hint_text">"프린터 전면창에서 이 연결을 승인해주세요"</string>
+    <string name="connect_hint_text">"프린터 전면창에서 이 연결을 승인하세요"</string>
     <string name="failed_connection">%1$s 연결 실패</string>
     <string name="failed_printer_connection">프린터에 연결할 수 없습니다.</string>
     <string name="find_wifi_direct">Wi-Fi Direct 프린터 찾기</string>

@@ -18,7 +18,7 @@
     <string name="com_miui_screenrecorder">스크린 레코더</string>
     <string name="com_miui_compass">나침반</string>
     <string name="com_miui_calculator">계산기</string>
-    <string name="com_miui_health">Xiaomi 건강앱</string>
+    <string name="com_miui_health">Xiaomi 건강 앱</string>
     <string name="system_restore">항목 복원</string>
     <string name="after_reset_need_restore_system_app">"초기화를 수행 한 것 같습니다. 네트워크에 연결하고 MIUI를 정상적으로 사용할 수 있도록 시스템 항목을 복원하세요."</string>
     <string name="system_app_is_restore">시스템 항목 복원 중…</string>
@@ -40,7 +40,7 @@
     <string name="date_picker_label_day" />
     <string name="copyright">저작권</string>
     <string name="user_agreement">이용 약관</string>
-    <string name="privacy_policy">개인 정보 보호 정책</string>
+    <string name="privacy_policy">개인정보 보호 정책</string>
     <string name="user_manual">사용자 가이드</string>
     <string name="no_sim">SIM 카드 발견되지 않음</string>
     <string name="sim_locked">SIM 카드가 잠겨 있습니다.</string>
@@ -553,7 +553,7 @@
     <string name="drag_failed_because_not_custom_sort">맞춤 정렬 순서를 선택한 경우에만 항목을 다시 정렬 할 수 있습니다.</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"스크린샷 앨범을 삭제할 수 없습니다."</string>
     <string name="drag_failed_because_share_album_cant_sort">"공유된 앨범은 삭제할 수 없습니다."</string>
-    <string name="empty_description_conditions_new">"사진을 충분히 촬영해 주세요."</string>
+    <string name="empty_description_conditions_new">"사진을 충분히 촬영하세요."</string>
     <string name="empty_description_no_cards">"사진을 계속 촬영하세요. 후보정 처리 후 여기에 나타납니다."</string>
     <string name="filter_category_general">일반</string>
     <string name="filter_category_movie">영화</string>
@@ -585,7 +585,7 @@
     <string name="filter_movie_travel">여행</string>
     <string name="filter_movie_wonderful">환상</string>
     <string name="filter_sky_bikong">하늘빛</string>
-    <string name="filter_sky_download_failed_msg">"다운로드할 수 없습니다. 네트워크 상태를 확인하고 다시 시도해 주세요."</string>
+    <string name="filter_sky_download_failed_msg">"다운로드할 수 없습니다. 네트워크 상태를 확인하고 다시 시도하세요."</string>
     <string name="filter_sky_download_with_metered_network_msg">모바일 데이터를 사용하여 원본 파일을 다운로드하면 추가 데이터 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
     <string name="filter_sky_download_with_metered_network_title">모바일 데이터 사용중</string>
     <string name="filter_sky_dynamic_duoyun">안개</string>
@@ -624,7 +624,7 @@
     <string name="multi_view_tip_sub_title">표시된 항목의 크기를 조정하려면 두 손가락을 벌리거나 축소해 움직입니다.</string>
     <string name="multi_view_tip_title">확대 &amp; 축소</string>
     <string name="photo_editor_sky">하늘</string>
-    <string name="pick_people_cover_fail">오류가 발생하였습니다. 다시 시도해 주세요.</string>
+    <string name="pick_people_cover_fail">오류가 발생하였습니다. 다시 시도하세요.</string>
     <string name="pick_people_cover_page_title">커버 사진 선택</string>
     <string name="pick_people_cover_processing">잠시만 기다려 주세요…</string>
     <string name="pick_people_cover_success">커버 사진 적용 완료</string>
@@ -634,7 +634,7 @@
     <string name="private_entry_lock_state_enterd_text">보안 폴더 열기</string>
     <string name="prompt_not_support_format">"이 이미지를 사용하여 사진을 생성할 수 없습니다."</string>
     <string name="search_backup_full_screen_new">보다 효과적인 검색을 위해 클라우드와 동기화</string>
-    <string name="security_share_subtitle_default">개인 정보 보호</string>
+    <string name="security_share_subtitle_default">개인정보 보호</string>
     <string name="security_share_subtitle_hide">위치 정보 삭제됨</string>
     <string name="security_share_subtitle_no_hide">위치 정보를 포함하고 있음</string>
     <string name="sky_dynamic">역동적</string>

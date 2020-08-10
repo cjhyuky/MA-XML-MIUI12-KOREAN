@@ -55,8 +55,8 @@
     <string name="apply_to_above_all">둘 다 설정</string>
     <string name="apply_to_screenlock">잠금 화면으로 설정</string>
     <string name="apply_to_wallpaper">홈 화면으로 설정</string>
-    <string name="article_item_hot">인기있는 기사 %s+ 결재하기</string>
-    <string name="at_least_one">최소 한개 이상의 카테고리를 선택</string>
+    <string name="article_item_hot">인기있는 기사 %s+ 결제하기</string>
+    <string name="at_least_one">최소 한 개 이상의 카테고리를 선택</string>
     <string name="auto_interval">자동</string>
     <string name="back_icon_content_description">뒤로</string>
     <string name="bind_sign_in_title">Mi 계정으로 로그인</string>
@@ -83,7 +83,7 @@
     <string name="clear_search_edittext">삭제</string>
     <string name="close_gallery">끄기</string>
     <string name="comment_pop_cancel">지금은 아닙니다.</string>
-    <string name="comment_pop_content">슬라이드형 배경화면을 원한다면 리뷰 해주세요!</string>
+    <string name="comment_pop_content">슬라이드형 배경화면을 원한다면 리뷰하세요!</string>
     <string name="comment_pop_ok">평가</string>
     <string name="comment_pop_title">배경화면 회전 목마 평가하기</string>
     <string name="confirm">확인</string>
@@ -105,7 +105,7 @@
     <string name="cw_add_wallpaper_more_recomm">추가 권장사항</string>
     <string name="cw_add2">추가(%1$d)</string>
     <string name="cw_added">추가됨</string>
-    <string name="cw_added_fav_fail">데이터를 로드할 수 없습니다.</string>
+    <string name="cw_added_fav_fail">데이터를 불러올 수 없습니다.</string>
     <string name="cw_added_fav_no_pic">여기에 항목이 없습니다.</string>
     <string name="cw_added_toast">이 항목은 이전에 추가되었습니다.</string>
     <string name="cw_adding">추가(%1$d)</string>
@@ -132,7 +132,7 @@
     <string name="declaration">무료로 매일 새로운 배경 화면을 잠금 화면으로 배달해드립니다.</string>
     <string name="declaration_lockscreen_title">슬라이드형 배경 화면</string>
     <string name="declaration_title">이용 약관</string>
-    <string name="deny_des">배경화면 컨베이어가 정상적으로 작동하려면 갤러리에 액세스해야합니다.</string>
+    <string name="deny_des">배경화면 컨베이어가 정상적으로 작동하려면 갤러리에 액세스해야 합니다.</string>
     <string name="detail_ad_type_ad">광고</string>
     <string name="detail_ad_type_video">인기있는 동영상</string>
     <string name="detail_add_cw">배경화면 추가</string>
@@ -161,7 +161,7 @@
     <string name="detail_share_weibo">Weibo</string>
     <string name="detail_toast_deny_apply">적용할 수 없습니다.</string>
     <string name="detail_toast_deny_dislike">삭제할 수 없습니다.</string>
-    <string name="detail_toast_deny_favor">즐겨찾기에 추가할 수 없습니다..</string>
+    <string name="detail_toast_deny_favor">즐겨찾기에 추가할 수 없습니다.</string>
     <string name="detail_toast_dislike_fail">삭제할 수 없습니다.</string>
     <string name="detail_toast_favor_permission">슬라이드형 배경 화면이 보안 저장소에 액세스하도록 허용합니다.</string>
     <string name="dislike">삭제</string>
@@ -295,7 +295,7 @@
     <string name="passport_log_detail">로그 세부 정보보기</string>
     <string name="passport_next_step">다음</string>
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
-    <string name="passport_privacy_policy">개인 정보 보호 정책</string>
+    <string name="passport_privacy_policy">개인정보 보호 정책</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
     <string name="passport_send_too_many_sms">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_set_password">비밀번호 설정</string>
@@ -422,7 +422,7 @@
     <string name="sst_prov_enable_desc">정기적으로 새로운 배경 화면을 얻어 잠금 화면으로 배달합니다.</string>
     <string name="sst_prov_enable_title">슬라이드형 배경 화면 켜기</string>
     <string name="sst_recomm">권장사항</string>
-    <string name="sst_require_one_category_hint">적어도 한개 이상의 카테고리 선택</string>
+    <string name="sst_require_one_category_hint">적어도 한 개 이상의 카테고리 선택</string>
     <string name="sst_selected_tip">현재</string>
     <string name="sst_shield_tag_desc">차단된 카테고리 관리</string>
     <string name="sst_shield_tag_title">차단된 항목</string>
@@ -485,7 +485,7 @@
     <string name="time_current">바로 지금</string>
     <string name="toast_ad_down_tip">"어플 다운로드 중… "</string>
     <string name="toast_ad_down_tip2">"%s 다운로드 중… "</string>
-    <string name="toast_load_hd_fail">원본 이미지를 로드할 수 없습니다.</string>
+    <string name="toast_load_hd_fail">원본 이미지를 불러올 수 없습니다.</string>
     <string name="toast_neterror_tip">네트워크 오류가 발생했습니다.</string>
     <string name="toast_update_no_more_newest_feeds">현재 새 상품이 없습니다.</string>
     <string name="top_search_tip">좋아하는 카테고리 검색</string>

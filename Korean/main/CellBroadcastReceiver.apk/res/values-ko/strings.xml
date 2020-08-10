@@ -150,9 +150,9 @@
     <string name="warning_alert">경고 경보</string>
     <string name="warning_alerts">경고 경보</string>
     <string name="cmas_amber_alert_off_summary">앰버 경고 수신을 거부합니다.</string>
-    <string name="cmas_amber_alert_on_summary">앰버 경고 수신 거부를 선택하셨습니다.</string>
-    <string name="cmas_extreme_alert_off_summary">긴급 경보 수신 거부를 선택하셨습니다.</string>
-    <string name="cmas_extreme_alert_on_summary">긴급 경보 수신을 선택하셨습니다.</string>
+    <string name="cmas_amber_alert_on_summary">앰버 경고 수신 거부를 선택했습니다.</string>
+    <string name="cmas_extreme_alert_off_summary">긴급 경보 수신 거부를 선택했습니다.</string>
+    <string name="cmas_extreme_alert_on_summary">긴급 경보 수신을 선택했습니다.</string>
     <string name="notification_channel_broadcast_messages">브로드캐스트 문자</string>
     <string name="en_alert_message_dialog_title">경고 메시지</string>
     <string name="en_emergency_alerts_title">긴급 경보</string>

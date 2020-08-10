@@ -61,7 +61,7 @@
         <item quantity="other">%1$d 걸음</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">"%1$d 일 동안 기록하지 않으셨습니다. 기간을 기록하여 예상 기간의 정확도를 높이세요."</item>
+        <item quantity="other">"%1$d 일 동안 기록하지 않았습니다. 기간을 기록하여 예상 기간의 정확도를 높이세요."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">이번 기간은 총 %1$d 일 지속되고 있습니다.</item>

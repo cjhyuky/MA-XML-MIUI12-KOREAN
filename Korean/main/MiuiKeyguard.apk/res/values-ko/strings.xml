@@ -18,7 +18,7 @@
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>기기에서 &lt;font color=#a5220e>데이터 지우기&lt;/font>를 해야 합니다. 사진, 연락처, 모든 개인 정보가 지워진 후 잠금해제 비밀번호를 다시 설정하실 수 있습니다.;</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>기기에서 &lt;font color=#a5220e>데이터 지우기&lt;/font>를 해야 합니다. 사진, 연락처, 모든 개인정보가 지워진 후 잠금해제 비밀번호를 초기화하실 수 있습니다.;</Data></string>
     <string name="phone_locked_foget_password_mehod_back">뒤로</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
@@ -30,11 +30,11 @@
     <string name="lockscreen_access_pattern_cell_added">휴대전화 추가됨</string>
     <string name="lockscreen_access_pattern_detected">패턴 완료</string>
     <string name="default_lockscreen_unlock_hint_text">위로 밀어 잠금해제</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"잘못된 비밀번호를 %d번 입력하셨습니다. 앞으로 %d번 더 로그인에 실패할 경우, Mi 계정에 로그인하여 휴대전화의 잠금을 해제하라는 지시를 받을 것입니다.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"잘못된 비밀번호를 %d번 입력했습니다. 앞으로 %d번 더 로그인에 실패할 경우, Mi 계정에 로그인하여 휴대전화의 잠금을 해제하라는 지시를 받을 것입니다.
 
  %d초 후에 다시 시도하세요."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">휴대전화의 잠금해제를 %d번 실패하셨습니다. 앞으로 %d번 더 실패하실 경우, 휴대전화가 공장 초기화되며, 모든 사용자 데이터가 삭제됩니다.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">휴대전화의 잠금해제를 %d번 실패하셨습니다. 지금부터 휴대전화가 공장 초기화됩니다.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">휴대전화의 잠금해제를 %d번 실패했습니다. 앞으로 %d번 더 실패하실 경우, 휴대전화가 공장 초기화되며, 모든 사용자 데이터가 삭제됩니다.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">휴대전화의 잠금해제를 %d번 실패했습니다. 지금부터 휴대전화가 공장 초기화됩니다.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 장치에 의해 잠금해제됨</string>
     <string name="wrong_password">잘못된 비밀번호</string>
     <string name="keyguard_torch_cover_text">손전등을 계속 켜시려면, 전원 버튼을 누르고 계세요.</string>
@@ -45,27 +45,27 @@
     <string name="open_remote_center_hint_text">오른쪽으로 스와이프하여 Mi 리모트 열기</string>
     <string name="click_to_enter_text">탭하여 보기</string>
     <string name="fingerprint_try_again_text">다시 시도</string>
-    <string name="fingerprint_try_again_msg">지문을 읽을 수 없습니다. 다시 시도해 주세요.</string>
+    <string name="fingerprint_try_again_msg">지문을 읽을 수 없습니다. 다시 시도하세요.</string>
     <string name="fingerprint_not_identified_title">비밀번호 입력</string>
-    <string name="fingerprint_not_identified_msg">너무 많은 시도를 실패하셨습니다. 지금 비밀번호를 입력하시거나 몇초 후 다시 지문으로 시도하세요.</string>
+    <string name="fingerprint_not_identified_msg">너무 많은 시도를 실패했습니다. 지금 비밀번호를 입력하시거나 몇초 후 다시 지문으로 시도하세요.</string>
     <string name="fingerprint_again_identified_msg">지문이 활성화 되었습니다. 지문을 사용하여 기기 잠금해제 또는 비밀번호를 입력할 수 있습니다.</string>
     <string name="fingerprint_add_title">지문 추가</string>
-    <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가해 주세요.</string>
+    <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가하세요.</string>
     <string name="invalid_sim_pin_hint">PIN은 4-8자리의 숫자를 포함시켜야 합니다.</string>
     <string name="invalid_sim_puk_hint">PUK는 최소 8자리 이상의 숫자여야 합니다.</string>
     <string name="input_password_hint_text">비밀번호 입력</string>
     <string name="input_pattern_hint_text">잠금해제 패턴 그리기</string>
-    <string name="input_password_after_boot_msg">기기를 잠금해제 하시려면
-비밀번호를 입력해주세요.</string>
+    <string name="input_password_after_boot_msg">기기 잠금을 해제하려면
+비밀번호를 입력하세요.</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">기기 다시 시작 후에는 기본 공간으로 진입해야 합니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
-    <string name="input_password_handle_sdcard_fs">보조 공간 진입 전 \"모의 SD 카드 최적화\"를 종료해주세요.</string>
+    <string name="input_password_handle_sdcard_fs">보조 공간 진입 전 \"모의 SD 카드 최적화\"를 종료하세요.</string>
     <string name="accessibility_enter_lock_wallpaper">탭하여 음악 재생</string>
     <string name="lock_wallpaper_learn_more">더 보기</string>
     <string name="lock_wallpaper_enter">입력</string>
     <string name="custom_lock_wallpaper_enter">입력</string>
     <string name="fingerprint_enter_second_psw_title">보조 공간 비밀번호 입력</string>
-    <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문 인식을 사용하시려면 보조 공간 비밀번호를 입력하세요.</string>
+    <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문 인식을 사용하려면 보조 공간 비밀번호를 입력하세요.</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">라이트 모드 상태에서는 보조 공간에 입장할 수 없습니다.</string>
     <string name="keyguard_charging_info_click_to_detail">세부사항 보기</string>
     <string name="keyguard_quick_charging_info_click_to_detail">빠른 충전 중, 탭하여 세부사항 확인</string>
@@ -78,7 +78,7 @@
     <string name="keyguard_charging_info_last_charged_time_text">마지막 충전</string>
     <string name="keyguard_charging_info_battery_used_time_text">사용시간</string>
     <string name="keyguard_charging_info_drained_power_percent_text">전력 소모량</string>
-    <string name="keyguard_charging_info_tip_text1">배터리 수명을 위해 항상 10% 이상의 배터리를 유지해주세요.</string>
+    <string name="keyguard_charging_info_tip_text1">배터리 수명을 위해 항상 10% 이상의 배터리를 유지하세요.</string>
     <string name="keyguard_charging_info_tip_text2">기기를 과충전하지 마세요. 여러번의 짧은 충전이 배터리 수명에 도움이 됩니다.</string>
     <string name="keyguard_charging_info_tip_text3">주변 환경의 온도가 0℃ 미만일 때 충전이 중지됩니다.</string>
     <string name="keyguard_charging_info_tip_text4">충전 시 작업을 삼가하세요. 기기가 과열될 수 있습니다.</string>
@@ -116,13 +116,13 @@
     <string name="face_unlock_by_notification_screen_on_msg">알림 수신을 위해 화면에 불이 들어왔을 때 얼굴 데이터를 사용하여 기기를 잠금해제하실 수 있습니다. 이 기능은 배터리를 빠르게 소모하게 합니다.</string>
     <string name="face_unlock_not_found">인식 실패</string>
     <string name="face_unlock_adjust_distance">기기와 얼굴의 거리가 적당한지 확인하세요.</string>
-    <string name="face_unlock_close_screen">화면에 가까이 해주세요.</string>
+    <string name="face_unlock_close_screen">화면에 가까이 하세요.</string>
     <string name="face_unlock_stay_away_screen">화면에서 25cm-40cm 정도 유지하세요.</string>
     <string name="face_unlock_be_on_the_screen">기기를 얼굴 앞에 두시고 유지하세요.</string>
     <string name="face_unlock_identify_error">인식 오류 발생</string>
     <string name="face_unlock_open_eye">눈을 좀 더 크게 떠주세요.</string>
-    <string name="face_unlock_reveal_eye">눈이 보이게 해주세요.</string>
-    <string name="face_unlock_reveal_mouth">입술이 보이게 해주세요.</string>
+    <string name="face_unlock_reveal_eye">눈이 보이게 하세요.</string>
+    <string name="face_unlock_reveal_mouth">입술이 보이게 하세요.</string>
     <string name="face_unlock_check_failed">인식 실패</string>
     <string name="btn_camera">얼굴 입력</string>
     <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 안면 인식 사용</string>
@@ -146,7 +146,7 @@
     <string name="face_data_siggesstion_next">다음</string>
     <string name="face_data_siggesstion_next_time">다음 (%ds)</string>
     <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
-    <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
+    <string name="face_unlock_reenter_title">얼굴을 다시 인식하세요.</string>
     <string name="fingerprint_not_identified_msg_lock">잘못된 지문인식 시도가 너무 많았습니다. 비밀번호를 입력하세요.</string>
     <string name="keyguard_left_view_lock_wallpaper">음악</string>
     <string name="change_to_ac_charging">무선 충전으로 전환됨</string>

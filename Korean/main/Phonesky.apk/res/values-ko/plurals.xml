@@ -73,8 +73,8 @@
         <item quantity="one">&amp;lt;b>별 %1$s개&amp;lt;/b> %2$s</item>
     </plurals>
     <plurals name="setup_wizard_apps_loading_error_menu_title">
-        <item quantity="other">항목을 로드할 수 없습니다. 다시 백업을 시도해 보세요.</item>
-        <item quantity="one">항목을 로드할 수 없습니다. 나중에 다시 시도해 주세요.</item>
+        <item quantity="other">항목을 불러올 수 없습니다. 다시 백업을 시도해 보세요.</item>
+        <item quantity="one">항목을 불러올 수 없습니다. 나중에 다시 시도하세요.</item>
     </plurals>
     <plurals name="setup_wizard_device_last_used_message">
         <item quantity="other">최근 사용: %1$d일 전</item>

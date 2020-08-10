@@ -103,7 +103,7 @@
     <string name="splitConfirmation">이 연락처는 다수의 연락처로 분류될 것입니다.</string>
     <string name="menu_joinAggregate">합치기</string>
     <string name="titleJoinContactDataWith">연락처 합치기</string>
-    <string name="blurbJoinContactDataWith">%s: 와 합치고 싶은 연락처를 선택해 주세요.</string>
+    <string name="blurbJoinContactDataWith">%s: 와 합치고 싶은 연락처를 선택하세요.</string>
     <string name="showAllContactsJoinItem">모든 연락처 보이기</string>
     <string name="separatorJoinAggregateSuggestions">추천 연락처</string>
     <string name="separatorJoinAggregateAll">모든 연락처</string>
@@ -1123,7 +1123,7 @@
     <string name="delete_sim_entry_miui">삭제</string>
     <string name="confirm_delete_sim_entry_miui_title">삭제</string>
     <string name="importing_sim_contacts_miui_prepare">연럭처 준비 중…</string>
-    <string name="deleting_sim_entry_miui_prepare">연럭처 준비중…</string>
+    <string name="deleting_sim_entry_miui_prepare">연럭처 준비 중…</string>
     <string name="delete_selected_sim_entry_miui">선택한 연락처 삭제</string>
     <string name="import_selected_sim_entries_miui">선택한 전화번호 가져오기</string>
     <string name="add_blacklist_dialog_title">이 전화번호를 차단하시겠습니까?</string>
@@ -1234,7 +1234,7 @@
     <string name="voip_audio_description">VoIP 통화</string>
     <string name="voip_video_description">VoIP 영상 통화</string>
     <string name="menu_newContactButton">추가</string>
-    <string name="missing_required_permission">귀하께서는 필수 권한을 비활성화 하셨습니다.</string>
+    <string name="missing_required_permission">귀하께서는 필수 권한을 비활성화했습니다.</string>
     <string name="dialer_digits_copy_number_label">복사된 번호</string>
     <string name="dialer_copy_view_delete_description">복사된 번호 지우기</string>
     <string name="contact_detail_action_item_calllog">통화 기록</string>
@@ -1339,7 +1339,7 @@
     <string name="path_quick_dial_setting">시스템 앱/연락처/고급 설정/단축 번호</string>
     <string name="quick_dial_setting_delete_dialog_message">단축 번호를 삭제하시겠습니까?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">삭제</string>
-    <string name="quick_dial_setting_hint">단축번호를 지정 또는 삭제 하려면 버튼을 탭하세요. 지정된 단축번호로 통화하려면 버튼을 길게 누르세요.</string>
+    <string name="quick_dial_setting_hint">단축번호를 지정 또는 삭제하려면 버튼을 탭하세요. 지정된 단축번호로 통화하려면 버튼을 길게 누르세요.</string>
     <string name="quick_dial_setting_set_dialog_message">이 버튼으로 단축 번호를 설정하시겠습니까?</string>
     <string name="quick_dial_setting_set_dialog_option_set">설정</string>
     <string name="quick_dial_setting_title">단축 번호</string>
@@ -1373,7 +1373,7 @@
     <string name="contact_is_deleted">연락처가 삭제되었습니다.</string>
     <string name="shortcut_new_contact_label">새로운 연락처</string>
     <string name="shortcut_scan_label">명함 스캔</string>
-    <string name="callrecordview_menu_identify_numbers">전화 번호 식별</string>
+    <string name="callrecordview_menu_identify_numbers">전화번호 식별</string>
     <string name="contact_detail_calllog_correct_yellow_page">수집 또는 보고</string>
     <string name="yellowpage_address_tag">주소</string>
     <string name="yellowpage_provider_label">발신자 표시 기술 제공 by</string>

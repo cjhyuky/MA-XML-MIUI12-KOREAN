@@ -42,7 +42,7 @@
     <string name="login_extra_steps">로그인 인증</string>
     <string name="phone_locked">이 기기는 Mi 계정 (%s)에 연결되어 있습니다. 기기를 활성화하려면 비밀번호를 입력하세요.</string>
     <string name="phone_locked_account_email">, 연동된 이메일: %s</string>
-    <string name="phone_locked_account_phone">, 연동된 전화 번호: %s</string>
+    <string name="phone_locked_account_phone">, 연동된 전화번호: %s</string>
     <string name="password">비밀번호를 입력하세요.</string>
     <string name="captcha">보안문자</string>
     <string name="stop_on_empty_password">비밀번호는 비워둘 수 없습니다.</string>
@@ -75,10 +75,10 @@
     <string name="device_lost">이 기기를 분실했습니다.</string>
     <string name="device_locked">이 기기는 잠겼습니다.</string>
     <string name="default_lock_msg_words_with_phone">안녕하세요! 휴대전화을 분실했습니다. 저에게 연락해주실 수 있으십니까? 감사합니다!</string>
-    <string name="default_lock_msg_words">이 기기는 이미 Mi 계정과 연관되어 있습니다. 보안의 이유로 기기 인증이 필요합니다. 비밀번호를 입력해 주세요.</string>
+    <string name="default_lock_msg_words">이 기기는 이미 Mi 계정과 연관되어 있습니다. 보안의 이유로 기기 인증이 필요합니다. 비밀번호를 입력하세요.</string>
     <string name="lock_msg_phone">연락처 정보: %s</string>
     <string name="default_debt_msg_words">"할부금 미납으로 휴대전화가 잠겼습니다.
-판매자에게 연락하세요."</string>
+판매자에게 연락해주세요."</string>
     <string name="sys_notification_async_verify_title">기기 찾기 재활성화</string>
     <string name="sys_notification_async_verify_content">보안 정책 업데이트로 인해 기기 찾기 기능의 재활성화가 요구됩니다.</string>
     <string name="sys_notification_async_open_failed_title">기기 찾기를 켤 수 없습니다.</string>

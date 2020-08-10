@@ -82,10 +82,10 @@
     <item quantity="other">%1$s개 이미지 전송 완료</item>
     </plurals>
     <plurals name="send_files_to_device_files">
-    <item quantity="other">%1$s로 %2$d개 파일 전송 준비중…</item>
+    <item quantity="other">%1$s로 %2$d개 파일 전송 준비 중…</item>
     </plurals>
     <plurals name="send_files_to_device_images">
-    <item quantity="other">%1$s로 %2$d개 이미지 전송 준비중…</item>
+    <item quantity="other">%1$s로 %2$d개 이미지 전송 준비 중…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_files">
     <item quantity="other">%1$s님이 %2$d개 파일을 사용자에게 보내는 중입니다…</item>

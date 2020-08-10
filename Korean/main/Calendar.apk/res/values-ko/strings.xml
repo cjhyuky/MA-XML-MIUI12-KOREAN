@@ -274,7 +274,7 @@
     <string name="menu_general_preferences">일반 설정</string>
     <string name="menu_reminder_preferences">미리 알림</string>
     <string name="missing_name">(이름 없음)</string>
-    <string name="missing_required_permission">귀하께서는 필수 권한을 비활성화 하셨습니다.</string>
+    <string name="missing_required_permission">귀하께서는 필수 권한을 비활성화했습니다.</string>
     <string name="modify_all">모든 반복일정을 변경합니다.</string>
     <string name="modify_all_following">이번 및 모든 향후 일정을 변경합니다.</string>
     <string name="modify_event">이번 일정만 변경합니다.</string>
@@ -731,7 +731,7 @@
     <string name="weather_huangli_card_no_data_hint">날씨 정보를 보려면 클릭하세요.</string>
     <string name="yiji_app_download_card_lebal">해야 할 일</string>
     <string name="setting_title_weather_card_desc">음력 카드 오른쪽에 날씨 정보</string>
-    <string name="no_visiable_calendar_message_only_for_xiaomi_account">캘린더 계정을 추가해야합니다. 계속하려면 \"계정 추가\"를 누르세요.</string>
+    <string name="no_visiable_calendar_message_only_for_xiaomi_account">캘린더 계정을 추가해야 합니다. 계속하려면 \"계정 추가\"를 누르세요.</string>
     <string name="share_not_install_wechat">WeChat을 설치하세요.</string>
     <string name="share_not_install_weibo">Weibo를 설치하세요.</string>
     <string name="work_day_default_banner_title">오늘 하루도 열심히!</string>
@@ -762,7 +762,7 @@
     <string name="setting">설정</string>
     <string name="setting_daysoff_no_update">공휴일 정보가 최신 상태입니다.</string>
     <string name="setting_daysoff_update">공휴일 정보 업데이트</string>
-    <string name="setting_daysoff_update_cta_cancel">먼저 캘린더가 인터넷에 연결될 수 있게 허용해주세요.</string>
+    <string name="setting_daysoff_update_cta_cancel">먼저 캘린더가 인터넷에 연결될 수 있게 허용하세요.</string>
     <string name="setting_daysoff_update_net_err">"업데이트를 확인할 수 없습니다. 잠시후 다시 시도하세요."</string>
     <string name="setting_daysoff_update_schedule">업데이트중…</string>
     <string name="setting_daysoff_update_success">업데이트 완료</string>

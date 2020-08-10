@@ -122,7 +122,7 @@
         <item>이 지문이 추가되어 있습니다. 다른 지문을 사용하세요.</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Wi-Fi를 통해 전화를 걸고 메시지를 보내려면 먼저 이동 통신사에 이 서비스를 설정하도록 요청하세요. 그런 다음 설정에서 Wi-Fi 통화를 다시 켜세요. (오류 코드: %1$s)</item>
+        <item>Wi-Fi를 통해 전화를 걸고 메시지를 보내려면 먼저 이동통신사에 이 서비스를 설정하도록 요청하세요. 그런 다음 설정에서 Wi-Fi 통화를 다시 켜세요. (오류 코드: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>귀하의 통신사에 Wi‑Fi 통화 등록 이슈: %1$s</item>

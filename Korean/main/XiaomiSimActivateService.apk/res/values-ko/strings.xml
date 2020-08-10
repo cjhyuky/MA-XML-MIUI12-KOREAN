@@ -58,7 +58,7 @@
     <string name="activate_popup_desc_new_mixed_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 문자 메시지(일반 혹은 국제) 가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
     <string name="activate_popup_desc_new_2_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 일반 문자 메시지가 %s(을) 를 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">SIM 카드가 변경 된 것 같습니다. 2개의 국제 문자 메시지가 %s 항목을 활성화하기 위해 전송됩니다. 통신사에따라 요금이 청구 됩니다.</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">SIM 카드가 변경 된 것 같습니다. 현재 전화번호를 입력해서 %s 항목을 활성화 하세요.</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">SIM 카드가 변경 된 것 같습니다. 현재 전화번호를 입력해서 %s 항목을 활성화하세요.</string>
     <string name="activate_popup_desc_voip_privacy_prefix">VolP 서비스는 Weihui에서 지원됩니다. Weihui 보기</string>
     <string name="activate_popup_desc_voip_privacy">개인정보 보호정책</string>
     <string name="activate_popup_title_register_account">Mi 계정 생성</string>
@@ -89,7 +89,7 @@
 %s 항목을 활성화할 새 SIM 카드와 연관된 전화번호를 입력하주세요."</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">다시 시도</string>
     <string name="activate_popup_title_error_device_id">잘못된 IMEI</string>
-    <string name="activate_popup_desc_error_device_id">IMEI를 확인하시려면 다이얼 *#06#를 입력하세요.</string>
+    <string name="activate_popup_desc_error_device_id">IMEI를 확인하려면 다이얼 *#06#를 입력하세요.</string>
     <string name="activate_popup_confirm_error_device_id">다시 시도</string>
     <string name="activate_feature_mx">Mi 메시지</string>
     <string name="activate_feature_mx_and_voip">Mi 메시지와 보이스</string>

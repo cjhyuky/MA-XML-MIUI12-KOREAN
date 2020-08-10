@@ -4,9 +4,9 @@
     <string name="voice_unlock_setup_intro_header">음성 녹음 명령</string>
     <string name="voice_command_select_title">명령 선택</string>
     <string name="voice_command_launch_app_title">앱 시작</string>
-    <string name="reset_command_title">명령 다시 설정</string>
-    <string name="reset_command_prompt">현재 명령이 다시 설정되고, 복구되지 않습니다.</string>
-    <string name="reset_command_prompt_last">유일한 음성 명령이 다시 설정됩니다. 화면 잠금이 슬라이드로 변경됩니다.</string>
+    <string name="reset_command_title">명령 초기화</string>
+    <string name="reset_command_prompt">현재 명령이 초기화되고, 복구되지 않습니다.</string>
+    <string name="reset_command_prompt_last">유일한 음성 명령이 초기화됩니다. 화면 잠금이 슬라이드로 변경됩니다.</string>
     <string name="voice_unlock_options_title">옵션</string>
     <string name="voice_unlock_ok_label">확인</string>
     <string name="voice_unlock_cancel_label">취소</string>
@@ -27,9 +27,9 @@
     <string name="voice_service_error_title">음성 잠금해제 서비스가 오류입니다.</string>
     <string name="stop_playing_title">미디어 재생 정지</string>
     <string name="stop_playing_message">레코딩하기 전에 미디어 재생을 정지하세요.</string>
-    <string name="voice_command_record_introdution">레코드 버튼을 누르고 음성 명령을 말하세요.</string>
+    <string name="voice_command_record_introdution">레코드 버튼을 누르고 음성 명령을 말해주세요.</string>
     <string name="voice_command_record_prepare">준비 중입니다. 기다리세요…</string>
-    <string name="voice_command_record_first_recording">"명령을 말하세요.
+    <string name="voice_command_record_first_recording">"명령을 말해주세요.
 3-6음절을 제안합니다."</string>
     <string name="voice_command_record_non_first_recording">음성 명령을 반복하세요.</string>
     <string name="voice_command_record_one_round_ok">알았습니다.</string>
@@ -50,12 +50,12 @@
     <string name="voice_wake_up_command_title">%1$s 절전 모드 해제</string>
     <string name="play_command_action">재생 명령</string>
     <string name="modify_command_action">수정 명령</string>
-    <string name="reset_command_action">명령 다시 설정</string>
+    <string name="reset_command_action">명령 초기화</string>
     <string name="reinforce_command_action">강화 명령</string>
     <string name="reinforce_command_action_summary">정확성을 높이는 기록 명령</string>
-    <string name="voice_command_record_different_with_customized">사용자 지정 명령 중에서 다른 명령을 제공합니다. %1$s 문자열을 말하세요.</string>
+    <string name="voice_command_record_different_with_customized">사용자 지정 명령 중에서 다른 명령을 제공합니다. %1$s 문자열을 말해주세요.</string>
     <string name="vow_setup_intro_with_speaker">4-6 음절로 명령을 말한 후 3-6번 반복하세요.</string>
-    <string name="vow_record_first_recording_with_speaker">"명령을 말하세요.
+    <string name="vow_record_first_recording_with_speaker">"명령을 말해주세요.
 4-6 음절을 권장합니다."</string>
     <string name="vow_setup_intro_no_speaker">\"%1$s\" 문자열을 3번 반복하세요.</string>
     <string name="vow_recording_no_speaker">\"%1$s\" 문자열을 반복하세요.</string>

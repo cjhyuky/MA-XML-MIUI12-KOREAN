@@ -30,7 +30,7 @@
     <string name="add_frequent_phrases">자주 사용하는 문장 추가</string>
     <string name="delete_frequent_phrases">자주 사용하는 문장 삭제</string>
     <string name="delete_frequent_phrases_confirm">선택된 자주 사용하는 문장을 삭제하시겠습니까?</string>
-    <string name="frequent_phrases_size_exceeded">자주 쓰는 문장은 최대 %1$d개 까지 추가할 수 있습니다. 더 추가하시려면 필요없는 문장을 삭제하세요.</string>
+    <string name="frequent_phrases_size_exceeded">자주 쓰는 문장은 최대 %1$d개 까지 추가할 수 있습니다. 더 추가하려면 필요없는 문장을 삭제하세요.</string>
     <string name="carousel">회전 목마</string>
     <string name="daydream">낮잠</string>
     <string name="glockenspiel">음악</string>
@@ -41,7 +41,7 @@
     <string name="cta_permission_delimiter">, </string>
     <string name="cta_permission_and"> 및 </string>
     <string name="cta_title">이용 약관</string>
-    <string name="cta_message_license">이 제품을 사용하시면 저희의 이용 약관 및 개인 정보 보호 정책에 동의하시는 것으로 간주됩니다.</string>
+    <string name="cta_message_license">이 제품을 사용하시면 저희의 이용 약관 및 개인정보 보호 정책에 동의하시는 것으로 간주됩니다.</string>
     <string name="cta_message_permission">이 앱의 정상 작동을 위해 %2$s이 필요합니다.</string>
     <string name="cta_check_reminder">다시 표시하지 않기</string>
     <string name="cta_button_quit">나가기</string>

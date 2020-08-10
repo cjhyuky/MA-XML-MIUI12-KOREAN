@@ -132,13 +132,13 @@
     <string name="httpErrorAuth">인증할 수 없습니다.</string>
     <string name="httpErrorProxyAuth">프록시 서버를 통한 인증에 실패했습니다.</string>
     <string name="httpErrorConnect">서버에 연결하지 못했습니다.</string>
-    <string name="httpErrorIO">서버와 통신할 수 없습니다. 다시 시도해 주세요.</string>
+    <string name="httpErrorIO">서버와 통신할 수 없습니다. 다시 시도하세요.</string>
     <string name="httpErrorTimeout">서버 연결 제한시간이 초과되었습니다.</string>
     <string name="httpErrorRedirectLoop">페이지에 서버 리디렉션이 너무 많이 포함되어 있습니다.</string>
     <string name="httpErrorFailedSslHandshake">보안 연결을 설정할 수 없습니다.</string>
     <string name="httpErrorFile">파일에 액세스할 수 없습니다.</string>
     <string name="httpErrorFileNotFound">요청한 파일을 찾을 수 없습니다.</string>
-    <string name="httpErrorTooManyRequests">처리 중인 요청이 너무 많습니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="httpErrorTooManyRequests">처리 중인 요청이 너무 많습니다. 잠시 후에 다시 시도하세요.</string>
     <string name="notification_title">%1$s에 로그인 오류 발생</string>
     <string name="contentServiceSync">동기화</string>
     <string name="contentServiceSyncNotificationTitle">동기화</string>
@@ -295,7 +295,7 @@
     <string name="permlab_manageUsers">사용자 관리</string>
     <string name="permdesc_manageUsers">앱이 기기에서 검색, 생성 및 삭제를 포함한 사용자 관리를 할 수 있도록 허용합니다.</string>
     <string name="permlab_getDetailedTasks">실행 중인 앱 세부정보 검색</string>
-    <string name="permdesc_getDetailedTasks">앱이 현재 실행 중이거나 최근에 실행된 작업에 대한 상세한 정보를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 다른 앱에 대한 개인 정보를 검색할 수 있습니다.</string>
+    <string name="permdesc_getDetailedTasks">앱이 현재 실행 중이거나 최근에 실행된 작업에 대한 상세한 정보를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 다른 앱에 대한 개인정보를 검색할 수 있습니다.</string>
     <string name="permlab_reorderTasks">실행 중인 앱 순서 재지정</string>
     <string name="permdesc_reorderTasks">앱이 사용자의 입력 없이 작업을 포그라운드나 백그라운드로 이동할 수 있도록 허용합니다.</string>
     <string name="permlab_removeTasks">실행 중인 앱 중지</string>
@@ -445,7 +445,7 @@
     <string name="permlab_grantRevokePermissions">권한 승인 또는 취소</string>
     <string name="permdesc_grantRevokePermissions">애플리케이션이 해당 애플리케이션 및 기타 애플리케이션에 대한 특정 권한을 승인 또는 취소하도록 허용합니다. 이 경우 악성 애플리케이션이 승인되지 않은 기능에 액세스할 수 있습니다.</string>
     <string name="permlab_setPreferredApplications">기본 앱 설정</string>
-    <string name="permdesc_setPreferredApplications">앱이 기본 앱을 수정할 수 있도록 허용합니다. 이 경우 악성 앱이 실행되는 앱을 몰래 변경하고 기존 앱으로 위장하여 사용자의 개인 정보를 수집할 수 있습니다.</string>
+    <string name="permdesc_setPreferredApplications">앱이 기본 앱을 수정할 수 있도록 허용합니다. 이 경우 악성 앱이 실행되는 앱을 몰래 변경하고 기존 앱으로 위장하여 사용자의 개인정보를 수집할 수 있습니다.</string>
     <string name="permlab_writeSettings">시스템 설정 수정</string>
     <string name="permdesc_writeSettings">앱이 시스템의 설정 데이터를 수정할 수 있도록 허용합니다. 이 경우 악성 앱이 시스템 구성을 손상시킬 수 있습니다.</string>
     <string name="permlab_writeSecureSettings">보안 시스템 설정 수정</string>
@@ -559,7 +559,7 @@
     <string name="permlab_checkinProperties">체크인 속성 액세스</string>
     <string name="permdesc_checkinProperties">체크인 서비스에서 업로드한 속성에 대한 앱의 읽기/쓰기 접근을 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permlab_bindGadget">위젯 선택</string>
-    <string name="permdesc_bindGadget">앱이 각 앱에 대해 사용할 수 있는 위젯을 시스템에 알릴 수 있도록 허용합니다. 이 권한을 갖는 앱은 개인 정보에 대한 액세스 권한을 다른 앱에 부여할 수 있습니다. 일반 앱에서는 사용하지 않습니다.</string>
+    <string name="permdesc_bindGadget">앱이 각 앱에 대해 사용할 수 있는 위젯을 시스템에 알릴 수 있도록 허용합니다. 이 권한을 갖는 앱은 개인정보에 대한 액세스 권한을 다른 앱에 부여할 수 있습니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permlab_modifyPhoneState">휴대전화 상태 수정</string>
     <string name="permdesc_modifyPhoneState">앱이 기기의 휴대전화 기능을 관리할 수 있도록 허용합니다. 이 권한을 갖는 앱은 사용자에게 알리지 않고 네트워크를 전환하거나 무선 기능을 켜고 끄는 등의 작업을 수행할 수 있습니다.</string>
     <string name="permlab_readPhoneState">휴대전화 상태 및 ID 읽기</string>
@@ -572,8 +572,8 @@
     <string name="permdesc_transmitIr">앱에서 휴대전화의 적외선 송신기를 사용하도록 허용합니다.</string>
     <string name="permlab_devicePower">휴대전화 전원 켜고 끄기</string>
     <string name="permdesc_devicePower">앱이 휴대전화를 켜거나 끌 수 있도록 허용합니다.</string>
-    <string name="permlab_userActivity">화면 자동 잠금 시간 다시 설정</string>
-    <string name="permdesc_userActivity">앱에서 화면 자동 잠금 시간을 다시 설정하도록 허용합니다.</string>
+    <string name="permlab_userActivity">화면 자동 잠금 시간 초기화</string>
+    <string name="permdesc_userActivity">앱에서 화면 자동 잠금 시간을 초기화하도록 허용합니다.</string>
     <string name="permlab_factoryTest">출고 테스트 모드로 실행</string>
     <string name="permdesc_factoryTest">휴대전화 하드웨어에 대한 완전한 액세스를 허용하는 하위 수준의 제조업체 테스트로 실행됩니다. 휴대전화가 제조업체 테스트 모드로 실행 중일 때만 사용할 수 있습니다.</string>
     <string name="permlab_setWallpaper">배경화면 설정</string>
@@ -1197,7 +1197,7 @@
     <string name="ext_media_unmountable_notification_title">손상된 %s</string>
     <string name="ext_media_unmountable_notification_message">고치시려면 탭하세요.</string>
     <string name="ext_media_badremoval_notification_title">%s 저장장치가 예상치 않게 제거되었습니다.</string>
-    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 제거 전에 먼저 마운트 해제 해야합니다.</string>
+    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 제거 전에 먼저 마운트 해제해야 합니다.</string>
     <string name="ext_media_safe_unmount_notification_title">SD 카드 제거 가능</string>
     <string name="ext_media_safe_unmount_notification_message">안전하게 SD 카드를 제거할 수 있습니다.</string>
     <string name="ext_media_nomedia_notification_title">%s 제거됨.</string>
@@ -1392,7 +1392,7 @@
     <string name="activity_resolver_work_profiles_support">%1$s에서 업무용 프로필을 지원하지 않습니다.</string>
     <string name="default_audio_route_name">휴대전화</string>
     <string name="default_audio_route_name_headphones">헤드폰</string>
-    <string name="default_audio_route_name_dock_speakers">도크 스피커</string>
+    <string name="default_audio_route_name_dock_speakers">독 스피커</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">시스템</string>
     <string name="bluetooth_a2dp_audio_route_name">블루투스 오디오</string>
@@ -1418,7 +1418,7 @@
     <string name="kg_wrong_pattern">잘못된 패턴</string>
     <string name="kg_wrong_password">잘못된 비밀번호</string>
     <string name="kg_wrong_pin">잘못된 PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">%1$d초 후에 다시 시도해 주세요.</string>
+    <string name="kg_too_many_failed_attempts_countdown">%1$d초 후에 다시 시도하세요.</string>
     <string name="kg_pattern_instructions">패턴 그리기</string>
     <string name="kg_sim_pin_instructions">SIM PIN 입력</string>
     <string name="kg_pin_instructions">PIN 입력</string>
@@ -1443,18 +1443,18 @@
     <string name="kg_login_checking_password">계정 확인 중…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN을 %d회 잘못 입력했습니다. 
 
-%d초 후에 다시 시도해 주세요."</string>
+%d초 후에 다시 시도하세요."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"비밀번호를 %d회 잘못 입력했습니다. 
 
-%d초 후에 다시 시도해 주세요."</string>
+%d초 후에 다시 시도하세요."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. 
 
-%d초 후에 다시 시도해 주세요."</string>
+%d초 후에 다시 시도하세요."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. %d회 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 사라집니다.</string>
     <string name="kg_failed_attempts_now_wiping">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. 휴대전화가 초기화됩니다.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.
 
- %d초 후에 다시 시도해 주세요."</string>
+ %d초 후에 다시 시도하세요."</string>
     <string name="kg_reordering_delete_drop_target_text">삭제</string>
     <string name="safe_media_volume_warning">"권장 수준 이상으로 볼륨을 높이시겠습니까?
 
@@ -1581,16 +1581,16 @@
     <string name="item_is_selected">%1$s 항목이 선택됨</string>
     <string name="deleted_key">%1$s 삭제됨</string>
     <string name="managed_profile_label_badge">업무용 %1$s</string>
-    <string name="lock_to_app_toast">고정을 해제 하시려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지해 주세요.</string>
-    <string name="lock_to_app_toast_accessible">고정을 해제 하시려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지해 주세요.</string>
+    <string name="lock_to_app_toast">고정을 해제하려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지하세요.</string>
+    <string name="lock_to_app_toast_accessible">고정을 해제하려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지하세요.</string>
     <string name="lock_to_app_toast_locked">화면이 고정되었습니다. 소속된 조직에서 고정 해제를 허용하지 않습니다.</string>
     <string name="lock_to_app_title">화면을 고정하시겠습니까?</string>
     <string name="lock_to_app_description">"스크린피닝은 단일 보기로 잠겨 있습니다.
 
-고정을 해제 하시려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지해 주세요."</string>
+고정을 해제하려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지하세요."</string>
     <string name="lock_to_app_description_accessible">"스크린피닝은 단일 보기로 잠겨 있습니다.
 
-고정을 해제 하시려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지해 주세요."</string>
+고정을 해제하려면, 홈 버튼과 전원 버튼을 동시에 눌러 유지하세요."</string>
     <string name="lock_to_app_negative">아니요</string>
     <string name="lock_to_app_positive">시작</string>
     <string name="lock_to_app_start">화면 고정됨</string>
@@ -1622,8 +1622,8 @@
     <string name="aerr_restart">앱 다시 열기</string>
     <string name="aerr_wait">기다리세요.</string>
     <string name="allow_button">허용</string>
-    <string name="android_preparing_apk">%1$s 준비중</string>
-    <string name="android_start_title">기기를 준비중입니다…</string>
+    <string name="android_preparing_apk">%1$s 준비 중</string>
+    <string name="android_start_title">기기를 준비 중입니다…</string>
     <string name="android_upgrading_fstrim">저장소 최적화</string>
     <string name="android_upgrading_notification_body">업데이트가 끝날때까지 일부 앱들이 작동하지 않을 수 있습니다.</string>
     <string name="android_upgrading_notification_title">Android 업데이트 마무리중…</string>
@@ -1655,7 +1655,7 @@
     <string name="data_saver_enable_title">데이터 절약모드를 활성화하시겠습니까?</string>
     <string name="date_picker_next_month_button">다음 달</string>
     <string name="date_picker_prev_month_button">이전 달</string>
-    <string name="demo_restarting_message">기기 다시 설정중…</string>
+    <string name="demo_restarting_message">기기 초기화 중…</string>
     <string name="demo_starting_message">데모 시작중…</string>
     <string name="demo_user_inactivity_timeout_countdown">%1$s초 후에 데이터를 모두 잃게 됩니다…</string>
     <string name="demo_user_inactivity_timeout_left_button">취소</string>
@@ -1671,14 +1671,14 @@
     <string name="factory_reset_message">"관리자 앱이 삭제됩니다. 자세한 내용은 IT부서 관리자에게 문의하세요."</string>
     <string name="factory_reset_warning">기기의 모든 데이터들이 삭제됩니다.</string>
     <string name="fingerprint_acquired_imager_dirty">지문인식 센서가 지저분합니다. 센서를 닦은 후에 다시 시도하세요.</string>
-    <string name="fingerprint_acquired_insufficient">"지문을 인식할 수 없습니다. 다시 시도해주세요."</string>
-    <string name="fingerprint_acquired_partial">지문의 일부만 인식되었습니다. 다시 시도해주세요.</string>
-    <string name="fingerprint_acquired_too_fast">손가락을 너무 빨리 움직이셨습니다. 다시 시도해주세요.</string>
-    <string name="fingerprint_acquired_too_slow">손가락을 너무 천천히 움직이셨습니다. 다시 시도해주세요.</string>
+    <string name="fingerprint_acquired_insufficient">"지문을 인식할 수 없습니다. 다시 시도하세요."</string>
+    <string name="fingerprint_acquired_partial">지문의 일부만 인식되었습니다. 다시 시도하세요.</string>
+    <string name="fingerprint_acquired_too_fast">손가락을 너무 빨리 움직였습니다. 다시 시도하세요.</string>
+    <string name="fingerprint_acquired_too_slow">손가락을 너무 천천히 움직였습니다. 다시 시도하세요.</string>
     <string name="fingerprint_error_canceled">지문인식 취소됨</string>
     <string name="fingerprint_error_hw_not_available">지문인식 사용 불가능</string>
-    <string name="fingerprint_error_lockout">너무 많이 시도하셨습니다. 잠시 후에 다시 시도하세요.</string>
-    <string name="fingerprint_error_no_space">"지문 정보를 너무 많이 저장하셨습니다. 현재 저장되어 있는 지문 중 최소 하나를 삭제하고 다시 시도해주세요."</string>
+    <string name="fingerprint_error_lockout">너무 많이 시도했습니다. 잠시 후에 다시 시도하세요.</string>
+    <string name="fingerprint_error_no_space">"지문 정보를 너무 많이 저장했습니다. 현재 저장되어 있는 지문 중 최소 하나를 삭제하고 다시 시도하세요."</string>
     <string name="fingerprint_error_timeout">시간 초과입니다. 다시 시도하세요.</string>
     <string name="fingerprint_error_unable_to_process">다시 시도하세요.</string>
     <string name="fingerprint_icon_content_description">지문 아이콘</string>
@@ -1767,7 +1767,7 @@
     <string name="reboot_to_reset_message">다시 시작중…</string>
     <string name="reboot_to_reset_title">공장 초기화</string>
     <string name="reboot_to_update_package">업데이트 패키지 설치중…</string>
-    <string name="reboot_to_update_prepare">업데이트 준비중…</string>
+    <string name="reboot_to_update_prepare">업데이트 준비 중…</string>
     <string name="reboot_to_update_reboot">다시 시작중...</string>
     <string name="reboot_to_update_title">Android 시스템 업데이트</string>
     <string name="region_picker_section_all">모든 지역</string>
@@ -1937,8 +1937,8 @@
     <string name="RestrictedOnEmergencyTitle">긴급통화 불가</string>
     <string name="RestrictedOnNormalTitle">음성통화 불가</string>
     <string name="RestrictedStateContent">귀하의 위치에서는 일시적으로 모바일 네트워크에 접속 할 수 없습니다.</string>
-    <string name="accessibility_button_instructional_text">이 기능을 변경하시려면 접근성 버튼을 누르고 계세요.</string>
-    <string name="accessibility_button_prompt_text">이 기능을 선택하시려면 접근성 버튼을 탭하세요:</string>
+    <string name="accessibility_button_instructional_text">이 기능을 변경하려면 접근성 버튼을 누르고 계세요.</string>
+    <string name="accessibility_button_prompt_text">이 기능을 선택하려면 접근성 버튼을 탭하세요:</string>
     <string name="accessibility_magnification_chooser_text">배율</string>
     <string name="accessibility_shortcut_disabling_service">접근성 바로가기 %1$s 꺼짐</string>
     <string name="accessibility_shortcut_enabling_service">접근성 바로가기 %1$s 켜짐</string>
@@ -2001,20 +2001,20 @@
     <string name="notification_channel_vpn">VPN 상태</string>
     <string name="permdesc_answerPhoneCalls">앱이 걸려 오는 전화에 응답 할 수 있도록 허용합니다.</string>
     <string name="permdesc_manageOwnCalls">앱이 통화 환경을 개선하기 위해 시스템을 통해 전화를 라우팅 할 수 있도록 허용합니다.</string>
-    <string name="permdesc_readPhoneNumbers">앱이 기기의 전화 번호에 액세스할 수 있도록 허용합니다.</string>
+    <string name="permdesc_readPhoneNumbers">앱이 기기의 전화번호에 액세스할 수 있도록 허용합니다.</string>
     <string name="permdesc_requestDeletePackages">응용 프로그램이 패키지 삭제를 요청할 수 있게합니다.</string>
     <string name="permdesc_runInBackground">이 앱은 백그라운드에서 실행될 수 있습니다. 이로 인해 배터리가 더 빨리 소모 될 수 있습니다.</string>
     <string name="permdesc_useDataInBackground">이 앱은 백그라운드에서 데이터를 사용할 수 있습니다. 이로 인해 데이터 사용량이 증가 할 수 있습니다.</string>
     <string name="permlab_answerPhoneCalls">전화 받기</string>
     <string name="permlab_manageOwnCalls">시스템을 통해 전화 라우팅</string>
-    <string name="permlab_readPhoneNumbers">전화 번호 읽기</string>
+    <string name="permlab_readPhoneNumbers">전화번호 읽기</string>
     <string name="permlab_requestDeletePackages">패키지 삭제 요청</string>
     <string name="permlab_runInBackground">백그라운드에서 실행</string>
     <string name="permlab_useDataInBackground">백그라운드에서 데이터 사용</string>
     <string name="ringtone_picker_title_alarm">알람 소리</string>
     <string name="stk_cc_ss_to_dial_video">SS 요청이 동영상 DIAL 요청으로 수정되었습니다.</string>
     <string name="stk_cc_ussd_to_dial_video">USSD 요청이 동영상 DIAL 요청으로 수정되었습니다.</string>
-    <string name="time_picker_input_error">정확한 시간을 입력해주세요.</string>
+    <string name="time_picker_input_error">정확한 시간을 입력하세요.</string>
     <string name="time_picker_prompt_label">시간 입력</string>
     <string name="time_picker_radial_mode_description">시간 입력을 위해 시계 모드로 전환합니다.</string>
     <string name="time_picker_text_input_mode_description">시간 입력을 위해 문자 입력 모드로 전환합니다.</string>
@@ -2048,7 +2048,7 @@
     <string name="China_Mobile">차이나 모바일</string>
     <string name="China_Telecom">차이나 텔레콤</string>
     <string name="China_Unicom">차이나 유니콤</string>
-    <string name="RestrictedStateContentMsimTemplate">SIM %d의 이동 통신사에서 일시적으로 사용 중지되었습니다.</string>
+    <string name="RestrictedStateContentMsimTemplate">SIM %d의 이동통신사에서 일시적으로 사용 중지되었습니다.</string>
     <string name="add_calendar_event">일정</string>
     <string name="add_calendar_event_desc">선택한 시간 동안 일정 예약</string>
     <string name="add_contact">추가</string>
@@ -2067,7 +2067,7 @@
     <string name="data_usage_rapid_title">모바일 데이터 사용률 높음</string>
     <string name="deprecated_target_sdk_app_store">업데이트 확인</string>
     <string name="deprecated_target_sdk_message">이 앱은 이전 버전의 Android용으로 제작되었으므로 제대로 작동하지 않을 수 있습니다. 업데이트를 확인하거나 개발자에게 문의하세요.</string>
-    <string name="dial_desc">선택한 전화 번호로 전화 걸기</string>
+    <string name="dial_desc">선택한 전화번호로 전화 걸기</string>
     <string name="email_desc">선택된 이메일 주소</string>
     <string name="failed_to_copy_to_clipboard">클립보드에 복사하지 못했습니다.</string>
     <string name="fingerprint_authenticated">인증된 지문</string>
@@ -2084,7 +2084,7 @@
     <string name="harmful_app_warning_title">재생 보호 경고</string>
     <string name="harmful_app_warning_uninstall">언인스톨</string>
     <string name="install_carrier_app_notification_button">앱 다운로드</string>
-    <string name="install_carrier_app_notification_text">새로운 SIM을 활성화하려면 이동 통신사 앱을 다운로드하세요.</string>
+    <string name="install_carrier_app_notification_text">새로운 SIM을 활성화하려면 이동통신사 앱을 다운로드하세요.</string>
     <string name="install_carrier_app_notification_text_app_name">%1$s 앱을 다운로드하여 새 SIM을 활성화하세요.</string>
     <string name="install_carrier_app_notification_title">모바일 서비스 활성화</string>
     <string name="keyguard_accessibility_sim_pin_unlock">심 핀 잠금해제.</string>
@@ -2130,7 +2130,7 @@
     <string name="shortcut_restored_on_lower_version">앱 버전이 다운그레이드되었거나 이 바로 가기와 호환되지 않습니다.</string>
     <string name="slices_permission_request">%1$s 앱이 %2$s 앱에 슬라이드를 표시하려고합니다.</string>
     <string name="sms">메시지</string>
-    <string name="sms_desc">선택한 전화 번호로부터 온 메시지</string>
+    <string name="sms_desc">선택한 전화번호로부터 온 메시지</string>
     <string name="unsupported_compile_sdk_check_update">업데이트 확인</string>
     <string name="unsupported_compile_sdk_message">%1$s 앱이 호환되지 않는 버전의 Android용으로 작성되었으며 예기치 않게 작동 할 수 있습니다. 업데이트 된 버전의 앱을 사용할 수 있습니다.</string>
     <string name="unsupported_compile_sdk_show">항상 표시</string>
@@ -2142,7 +2142,7 @@
     <string name="view_flight_desc">선택한 항공편 추적</string>
     <string name="volume_dialog_ringer_guidance_silent">통화 및 알림이 음소거됩니다.</string>
     <string name="volume_dialog_ringer_guidance_vibrate">전화 및 알림이 진동합니다.</string>
-    <string name="wifi_available_carrier_network_title">이동 통신사 Wi-Fi 네트워크에 연결</string>
+    <string name="wifi_available_carrier_network_title">이동통신사 Wi-Fi 네트워크에 연결</string>
     <string name="wifi_wakeup_enabled_content">"저장된 네트워크가 근처에 있습니다 : %1$s"</string>
     <string name="wifi_wakeup_enabled_title">자동으로 Wi-Fi가 켜집니다.</string>
     <string name="wifi_wakeup_onboarding_action_disable">"다시 켜지 마세요"</string>
@@ -2191,10 +2191,10 @@
     <string name="ext_media_seamless_action">출력 전환</string>
     <string name="face_acquired_insufficient">정확한 얼굴 데이터를 캡처하지 못했습니다. 다시 시도하세요.</string>
     <string name="face_acquired_not_detected">얼굴이 보이지 않습니다. 휴대전화를 바라보세요.</string>
-    <string name="face_acquired_obscured">얼굴이 가려지지 않도록 해 주세요.</string>
+    <string name="face_acquired_obscured">얼굴이 가려지지 않도록 하세요.</string>
     <string name="face_acquired_pan_too_extreme">고개를 조금 덜 돌려 보세요.</string>
     <string name="face_acquired_poor_gaze">기기에서 더 똑바로 바라보세요.</string>
-    <string name="face_acquired_recalibrate">얼굴을 다시 등록해 주세요.</string>
+    <string name="face_acquired_recalibrate">얼굴을 다시 등록하세요.</string>
     <string name="face_acquired_roll_too_extreme">고개를 조금 덜 돌려 보세요.</string>
     <string name="face_acquired_sensor_dirty">화면 상단 가장자리의 센서를 깨끗하게 닦아 주세요.</string>
     <string name="face_acquired_tilt_too_extreme">고개를 조금 덜 돌려 보세요.</string>

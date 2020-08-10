@@ -25,8 +25,8 @@
     <string name="first_settings_share_enable">\"보안 공유\"배지 추가</string>
     <string name="first_settings_share_enable_subtitle">WeChat에서 공유 한 항목은 MIUI 배지와 함께 표시됩니다.</string>
     <string name="first_settings_subtitle">사용 가능한 보안 공유 옵션은 다음과 같습니다.</string>
-    <string name="first_settings_title">개인 정보 보호</string>
-    <string name="loading_text_format" formatted="false">사진에서 개인 정보 제거(%d/%d)…</string>
+    <string name="first_settings_title">개인정보 보호</string>
+    <string name="loading_text_format" formatted="false">사진에서 개인정보 제거(%d/%d)…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
@@ -39,7 +39,7 @@
     <string name="once_settings_camera_ttile">메타 데이터없이 공유</string>
     <string name="once_settings_location_title">위치 정보없이 공유</string>
     <string name="once_settings_subtitle">선택한 항목을 어떻게 공유하시겠습니까?</string>
-    <string name="once_settings_title">개인 정보 보호</string>
+    <string name="once_settings_title">개인정보 보호</string>
     <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="settings_camera_subtitle_no">메타 데이터 없음</string>
@@ -51,7 +51,7 @@
     <string name="settings_tip">더 ​​많은 옵션을 보려면 갤러리> 설정으로 이동하세요.</string>
     <string name="settings_title">보안 공유</string>
     <string name="text_done">확인</string>
-    <string name="text_security">개인 정보 보호</string>
+    <string name="text_security">개인정보 보호</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
 </resources>

@@ -355,7 +355,7 @@
     <string name="sniff_vip_tip_speedup">스피드 부스트를 무료로 한 번 체험할 수 있습니다.</string>
     <string name="sniff_vip_tip_vip">Xunlei가 속도를 향상 시켜줍니다.</string>
     <string name="high_speed_tryout_percent_slow">Xunlei가 속도를 향상 시켜줍니다.</string>
-    <string name="high_speed_tryout_speedup_confirm">스치드 부스트 준비중…</string>
+    <string name="high_speed_tryout_speedup_confirm">스치드 부스트 준비 중…</string>
     <string name="shortcut_dialog_title">홈 화면 바로 가기를 생성하시겠습니까?</string>
     <string name="shortcut_dialog_content">더 빨리 출처를 찾기 위해 홈 화면 바로 가기를 추가합니다.</string>
     <string name="shortcut_dialog_create">생성</string>
@@ -412,7 +412,7 @@
     <string name="no_share_file">이 파일을 공유할 수 없습니다.</string>
     <string name="no_share_file_content">선택하신 파일은 이미 삭제되었습니다.</string>
     <string name="no_share_files">이미 삭제된 파일은 공유할 수 없습니다.</string>
-    <string name="no_share_files_content">공유하시려는 파일중 몇 개는 이미 삭제되었습니다. 다른 파일은 성공적으로 공유했습니다.</string>
+    <string name="no_share_files_content">공유하려는 파일중 몇 개는 이미 삭제되었습니다. 다른 파일은 성공적으로 공유했습니다.</string>
     <string name="all_share_files_content">선택하신 파일은 이미 삭제되었습니다.</string>
     <string name="save_text">￥%1$s 절약</string>
     <string name="sniff_copyright_text">저작권 문제로 결과를 표시할 수 없습니다.</string>
@@ -481,7 +481,7 @@
     <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
     <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
     <string name="speed_result_broadband_text2">밴드위치의 %s</string>
-    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google 플레이 서비스와 충돌하고 있습니다. 다시 시도해 주세요.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google 플레이 서비스와 충돌하고 있습니다. 다시 시도하세요.</string>
     <string name="action_back">뒤로가기</string>
     <string name="average_speed">평균 속도</string>
     <string name="everyone_test">모두가 테스트 중입니다.</string>

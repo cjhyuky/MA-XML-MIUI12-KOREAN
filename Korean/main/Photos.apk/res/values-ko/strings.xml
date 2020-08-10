@@ -28,7 +28,7 @@
     <string name="photos_uploadtoalbum_upload">업로드</string>
     <string name="photos_uploadtoalbum_title">Google 포토에 업로드</string>
     <string name="photos_uploadtoalbum_progress_title">사진 업로드 중</string>
-    <string name="photos_uploadtoalbum_load_error">오류로 인해 미디어를 로드할 수 없습니다.</string>
+    <string name="photos_uploadtoalbum_load_error">오류로 인해 미디어를 불러올 수 없습니다.</string>
     <string name="photos_uploadtoalbum_upload_error">오류로 인해 미디어를 업로드할 수 없습니다.</string>
     <string name="photos_uploadtoalbum_upload_complete">업로드 완료</string>
     <string name="photos_uploadtoalbum_upload_media_size">%.1fMB</string>
@@ -42,7 +42,7 @@
     <string name="discard_edit">수정 취소</string>
     <string name="reload_action">새로고침</string>
     <string name="try_again">다시 시도</string>
-    <string name="story_load_error">스토리를 로드할 수 없습니다.</string>
+    <string name="story_load_error">스토리를 불러올 수 없습니다.</string>
     <string name="story_save_error">스토리를 저장할 수 없습니다.</string>
     <string name="story_edit_location_search">검색</string>
     <string name="story_edit_location_remove">스토리에서 이 위치 숨기기</string>
@@ -150,7 +150,7 @@
     <string name="report_abuse_reason_regulated">규제 품목</string>
     <string name="report_abuse_operation_pending">신고서 보내는 중...</string>
     <string name="report_abuse_general_completed_toast">악용사례로 신고했습니다.</string>
-    <string name="report_abuse_error">악용사례로 신고할 수 없습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="report_abuse_error">악용사례로 신고할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="photos_setwallpaper_setas_wallpaper">배경화면</string>
     <string name="photos_setwallpaper_error">배경화면을 설정할 수 없습니다.</string>
     <string name="photos_setwallpaper_picker_title">배경화면 선택</string>
@@ -167,7 +167,7 @@
     <string name="picker_external_download_error">선택한 파일을 가져오는 중에 오류가 발생했습니다.</string>
     <string name="picker_external_download_progress">다운로드 중… %d개 남음</string>
     <string name="photos_photoeditor_intents_loading_message">불러오는 중...</string>
-    <string name="photos_photoeditor_intents_error_loading">오류로 인해 미디어를 로드할 수 없습니다.</string>
+    <string name="photos_photoeditor_intents_error_loading">오류로 인해 미디어를 불러올 수 없습니다.</string>
     <string name="photos_photoeditor_intents_video_editing_not_supported">"이 기기에서는 동영상 수정이
 지원되지 않습니다."</string>
     <string name="photos_photoeditor_intents_small_image_editing_not_supported">50x50 픽셀 미만의 이미지는 수정할 수 없습니다.</string>
@@ -202,7 +202,7 @@
     <string name="photos_location_login_failure_dialog_text">자세한 정보는 Google Apps 관리자에게 문의하세요.</string>
     <string name="photos_location_switch_account_button_text">계정 전환</string>
     <string name="photos_location_generic_error_alert_title">죄송합니다.</string>
-    <string name="photos_location_generic_error_alert_message">문제가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="photos_location_generic_error_alert_message">문제가 발생했습니다. 다시 시도하세요.</string>
     <string name="photos_onboarding_get_started">시작하기</string>
     <string name="photos_onboarding_photo_face_grouping_learn_more">Google 포토는 얼굴인식 기술을 지원합니다. &lt;a href=help:>자세히 알아보기&lt;/a></string>
     <string name="photos_onboarding_korean_terms_of_service">"계속하면 &lt;a href=%s >대한민국 위치 서비스 약관, Google 서비스 약관, Google
@@ -279,7 +279,7 @@
     <string name="signup_error_network">서버에 연결하지 못했습니다.</string>
     <string name="signup_retry">다시 시도</string>
     <string name="signup_title_irrecoverable_error">로그인 오류</string>
-    <string name="signup_irrecoverable_error">선택한 계정에 로그인할 수 없습니다. 계정 비밀번호를 확인하고 다시 시도해 주세요.</string>
+    <string name="signup_irrecoverable_error">선택한 계정에 로그인할 수 없습니다. 계정 비밀번호를 확인하고 다시 시도하세요.</string>
     <string name="photos_drawermenu_nav_sign_in">로그인</string>
     <string name="photos_drawermenu_sign_in_dialog_title">계정 선택</string>
     <string name="photos_drawermenu_add_account_dialog_title">계정 선택</string>
@@ -313,9 +313,9 @@
     <string name="photos_sharedlinks_item_relative_day_subtitle">공유 시점: %s</string>
     <string name="photos_sharedlinks_empty_state_title">공유된 링크 없음</string>
     <string name="photos_sharedlinks_empty_state_caption">공유하면 여기에 표시됩니다.</string>
-    <string name="photos_sharedlinks_load_link_error">링크를 로드할 수 없습니다.</string>
+    <string name="photos_sharedlinks_load_link_error">링크를 불러올 수 없습니다.</string>
     <string name="photos_sharedlinks_copy_link_error">링크를 복사할 수 없습니다.</string>
-    <string name="photos_sharedlinks_load_shared_links_error">공유 링크를 로드할 수 없습니다.</string>
+    <string name="photos_sharedlinks_load_shared_links_error">공유 링크를 불러올 수 없습니다.</string>
     <string name="photos_sharedlinks_copy_complete">완료. 링크를 클립보드에 복사했습니다.</string>
     <string name="photos_sharedlinks_delete_explanation">이 링크를 삭제하면 이미 링크가 있는 사용자가 더 이상 내 사진에 액세스할 수 없습니다. 항목은 라이브러리에 남습니다.</string>
     <string name="photos_sharedlinks_delete_title">공유한 사진에 대한 링크 삭제</string>
@@ -391,8 +391,8 @@
     <string name="dream_no_photos">선택한 사진이 없습니다.</string>
     <string name="dream_accounts_header">Google 계정</string>
     <string name="dream_local_photos_header">기기에 있는 사진</string>
-    <string name="collection_list_error">전체 목록을 로드할 수 없습니다.</string>
-    <string name="collection_load_error">앨범을 로드할 수 없습니다.</string>
+    <string name="collection_list_error">전체 목록을 불러올 수 없습니다.</string>
+    <string name="collection_load_error">앨범을 불러올 수 없습니다.</string>
     <string name="daydream_image_description">사진 화면 보호기용 이미지</string>
     <string name="photos_envelope_title">공유 사진</string>
     <string name="photos_envelope_login_failed">공유 링크를 보려면 로그인</string>
@@ -417,7 +417,7 @@
     <string name="photos_remotemedia_ui_delete_album_positive_button">삭제</string>
     <string name="photos_remotemedia_ui_delete_album_negative_button">앨범 삭제 안함</string>
     <string name="photos_remotemedia_ui_unknown_error">사진을 로드하지 못했습니다.</string>
-    <string name="photos_remotemedia_ui_load_album_error">앨범을 로드할 수 없습니다.</string>
+    <string name="photos_remotemedia_ui_load_album_error">앨범을 불러올 수 없습니다.</string>
     <string name="photos_remotemedia_ui_saving_album_title">저장 중…</string>
     <string name="photos_remotemedia_ui_saved">저장됨</string>
     <string name="photos_remotemedia_ui_collection_error_editing_album">앨범을 수정하는 중에 오류가 발생했습니다.</string>
@@ -468,7 +468,7 @@
     <string name="ulr_card_description">사진 및 동영상에 유용한 정보를 포함시킬 수 있으며 정리와 검색이 한결 간편해집니다.</string>
     <string name="ulr_card_im_in_button">위치 기록 사용</string>
     <string name="opt_in_success">완료</string>
-    <string name="opt_in_failure">문제가 발생했습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="opt_in_failure">문제가 발생했습니다. 나중에 다시 시도하세요.</string>
     <string name="info_screen_title">위치 기록</string>
     <string name="info_screen_content">"위치 기록은 사용자가 로그인한 기기를 가지고 이동한 장소의 개인 맞춤 지도를 만들어    유용한 정보(예: 사진 촬영 장소에 대한 정보 및 검색결과 개선)를 제공합니다.
 
@@ -608,7 +608,7 @@
     <string name="common_open_on_phone">휴대전화에서 열기</string>
     <string name="common_google_play_services_api_unavailable_text">%1$s에 필요한 하나 이상의 Google Play 서비스를 현재 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다.</string>
     <string name="common_google_play_services_sign_in_failed_title">로그인 실패</string>
-    <string name="common_google_play_services_sign_in_failed_text">지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택해 주세요.</string>
+    <string name="common_google_play_services_sign_in_failed_text">지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택하세요.</string>
     <string name="mm_movie_loading_error">영화를 로드하지 못했습니다.</string>
     <string name="photos_assistant_ui_dismiss_card_dismissed">카드 닫음</string>
     <string name="photos_assistant_ui_dismiss_card_dismiss_error">카드 닫기 오류</string>
@@ -773,7 +773,7 @@
     <string name="auto_backup_setting_off">사용 안함</string>
     <string name="auto_backup_setting_loading">상태 업데이트 중…</string>
     <string name="settings_progress_message_updating">불러오는 중...</string>
-    <string name="cloud_settings_save_failed">서버 설정을 로드할 수 없습니다.</string>
+    <string name="cloud_settings_save_failed">서버 설정을 불러올 수 없습니다.</string>
     <string name="auto_create_setting_title">새로 만든 항목</string>
     <string name="auto_create_setting_desc">내 라이브러리에서 제작된 영화와 콜라주 등에 대한 카드</string>
     <string name="google_drive_setting_title">Google 드라이브</string>
@@ -856,7 +856,7 @@
     <string name="photos_create_uploadhandlers_new_animation">애니메이션 만드는 중…</string>
     <string name="photos_create_uploadhandlers_new_movie">영화 만드는 중…</string>
     <string name="photos_create_uploadhandlers_new_story">스토리 만드는 중...</string>
-    <string name="photos_create_uploadhandlers_new_movie_failure">동영상을 만드는 중에 문제가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="photos_create_uploadhandlers_new_movie_failure">동영상을 만드는 중에 문제가 발생했습니다. 다시 시도하세요.</string>
     <string name="photos_upload_error_loading_media">선택한 항목을 로드하는 중에 오류가 발생했습니다.</string>
     <string name="photos_upload_title_preparing">파일 준비 중</string>
     <string name="photos_upload_title_uploading">업로드 중…%d개 남음</string>
@@ -865,12 +865,12 @@
     <string name="create_new_story">스토리</string>
     <string name="create_new_motion">애니메이션</string>
     <string name="create_new_mix">콜라주</string>
-    <string name="create_new_movie_failure">동영상을 만드는 중에 문제가 발생했습니다. 다시 시도해 주세요.</string>
-    <string name="create_new_movie_selection_failure">이 사진과 동영상 모음으로는 영화를 만들 수 없습니다. 다른 사진과 동영상으로 다시 시도해 주세요.</string>
-    <string name="create_new_album_failure">앨범을 만드는 중에 문제가 발생했습니다. 다시 시도해 주세요.</string>
-    <string name="create_new_story_failure">스토리를 만드는 중에 문제가 발생했습니다. 다시 시도해 주세요.</string>
-    <string name="create_new_motion_failure">애니메이션을 만드는 중에 문제가 발생했습니다. 다시 시도해 주세요.</string>
-    <string name="create_new_mix_failure">콜라주를 만드는 중에 문제가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="create_new_movie_failure">동영상을 만드는 중에 문제가 발생했습니다. 다시 시도하세요.</string>
+    <string name="create_new_movie_selection_failure">이 사진과 동영상 모음으로는 영화를 만들 수 없습니다. 다른 사진과 동영상으로 다시 시도하세요.</string>
+    <string name="create_new_album_failure">앨범을 만드는 중에 문제가 발생했습니다. 다시 시도하세요.</string>
+    <string name="create_new_story_failure">스토리를 만드는 중에 문제가 발생했습니다. 다시 시도하세요.</string>
+    <string name="create_new_motion_failure">애니메이션을 만드는 중에 문제가 발생했습니다. 다시 시도하세요.</string>
+    <string name="create_new_mix_failure">콜라주를 만드는 중에 문제가 발생했습니다. 다시 시도하세요.</string>
     <string name="validation_error_story_time_delta">%d일 범위 내의 항목을 선택하세요.</string>
     <string name="validation_error_bounds">%1$d개 ~ %2$d개의 항목을 선택하세요.</string>
     <string name="photos_create_mediabundle_validation_error_add_to_album">최대 %d개 항목을 앨범에 저장할 수 있습니다.</string>
@@ -1189,11 +1189,11 @@
     <string name="plus_one_removed_confirmation">소식에서 플러스원을 제거했습니다.</string>
     <string name="post_operation_pending">전송 중...</string>
     <string name="operation_failed">네트워크 작업을 완료하지 못했습니다.</string>
-    <string name="data_load_error">데이터를 로드할 수 없습니다. 연결 상태를 확인하세요.</string>
-    <string name="data_load_error_with_retry">데이터를 로드할 수 없습니다. 연결 상태를 확인하세요. 다시 시도하려면 탭하세요.</string>
-    <string name="data_load_recoverable_error">선택한 계정에 로그인할 수 없습니다. 계정 비밀번호를 확인하고 다시 시도해 주세요.</string>
+    <string name="data_load_error">데이터를 불러올 수 없습니다. 연결 상태를 확인하세요.</string>
+    <string name="data_load_error_with_retry">데이터를 불러올 수 없습니다. 연결 상태를 확인하세요. 다시 시도하려면 탭하세요.</string>
+    <string name="data_load_recoverable_error">선택한 계정에 로그인할 수 없습니다. 계정 비밀번호를 확인하고 다시 시도하세요.</string>
     <string name="saving">저장 중…</string>
-    <string name="transient_server_error">서버 오류입니다. 나중에 다시 시도해 주세요.</string>
+    <string name="transient_server_error">서버 오류입니다. 나중에 다시 시도하세요.</string>
     <string name="square_not_found_error">이 커뮤니티를 찾을 수 없습니다.</string>
     <string name="ninety_nine_plus">99개 이상</string>
     <string name="on">사용</string>
@@ -1213,10 +1213,10 @@
     <string name="cpe_editor_action_save_copy">복사본 저장</string>
     <string name="cpe_editor_action_send_feedback">의견 보내기</string>
     <string name="cpe_none_filter">없음</string>
-    <string name="cpe_crop_and_rotate_reset">다시 설정</string>
+    <string name="cpe_crop_and_rotate_reset">초기화</string>
     <string name="cpe_crop_and_rotate_auto">자동</string>
     <string name="cpe_crop_banner">1:1</string>
-    <string name="cpe_adjustments_reset">다시 설정</string>
+    <string name="cpe_adjustments_reset">초기화</string>
     <string name="cpe_adjustments_auto">자동</string>
     <string name="cpe_adjustments_light">밝기</string>
     <string name="cpe_adjustments_color">색상</string>
@@ -1224,7 +1224,7 @@
     <string name="cpe_adjustments_vignette">비네트</string>
     <string name="cpe_editor_load_fullsize_error_title">저장할 수 없음</string>
     <string name="cpe_editor_load_remote_fullsize_error_message">연결 상태를 확인하세요.</string>
-    <string name="cpe_editor_load_local_fullsize_error_message">사진을 로드할 수 없습니다.</string>
+    <string name="cpe_editor_load_local_fullsize_error_message">사진을 불러올 수 없습니다.</string>
     <string name="cpe_leave_editing_title">변경사항을 삭제하시겠습니까?</string>
     <string name="cpe_leave_editing_message">변경사항이 저장되지 않습니다.</string>
     <string name="cpe_leave_editing_confirm">삭제</string>
@@ -1245,8 +1245,8 @@
     <string name="cpe_a11y_controls_tilt">기울이기 컨트롤</string>
     <string name="cpe_a11y_crop_auto">자동 자르기 및 직선화</string>
     <string name="cpe_a11y_crop_auto_done">자동으로 적용됨</string>
-    <string name="cpe_a11y_crop_reset">자르기 및 회전 변경사항 다시 설정</string>
-    <string name="cpe_a11y_crop_reset_done">다시 설정이 적용됨</string>
+    <string name="cpe_a11y_crop_reset">자르기 및 회전 변경사항 초기화</string>
+    <string name="cpe_a11y_crop_reset_done">초기화 완료</string>
     <string name="cpe_a11y_rotate">시계 반대 방향으로 90도 회전합니다.</string>
     <string name="cpe_a11y_rotate_done_90">원본에서 왼쪽으로 90도 회전</string>
     <string name="cpe_a11y_rotate_done_180">원본에서 180도 회전</string>
@@ -1271,7 +1271,7 @@
     <string name="cpe_a11y_crop_left_bottom_corner_moved">왼쪽 하단 설정: 왼쪽 %1$d퍼센트, 하단 %2$d퍼센트</string>
     <string name="cpe_a11y_crop_right_bottom_corner_moved">오른쪽 하단 설정: 오른쪽 %1$d 퍼센트, 하단 %2$d퍼센트</string>
     <string name="cpe_a11y_enhance_auto">보정 자동 적용</string>
-    <string name="cpe_a11y_enhance_reset">보정 수정사항 다시 설정</string>
+    <string name="cpe_a11y_enhance_reset">보정 수정사항 초기화</string>
     <string name="cpe_a11y_enhance_light">밝기 보정 적용</string>
     <string name="cpe_a11y_enhance_color">색상 보정 적용</string>
     <string name="cpe_a11y_enhance_pop">팝 보정 적용</string>
@@ -1286,8 +1286,8 @@
     <string name="cpe_storage_warning_title">사용 가능한 저장공간 부족</string>
     <string name="cpe_storage_warning_msg">기기에 변경사항을 저장할 공간이 부족할 수 있습니다.</string>
     <string name="cpe_storage_error_title">저장공간 부족</string>
-    <string name="cpe_storage_error_msg">기기에 변경사항을 저장하려면 %1$dMB의 추가 저장용량이 필요합니다. 기기에서 파일을 삭제하고 다시 시도해 주세요.</string>
-    <string name="cpe_storage_error_trash_msg">기기에 변경사항을 저장하려면 %1$dMB의 추가 저장용량이 필요합니다. 포토 휴지통을 비워 충분한 공간을 확보한 후 다시 시도해 주세요.</string>
+    <string name="cpe_storage_error_msg">기기에 변경사항을 저장하려면 %1$dMB의 추가 저장용량이 필요합니다. 기기에서 파일을 삭제하고 다시 시도하세요.</string>
+    <string name="cpe_storage_error_trash_msg">기기에 변경사항을 저장하려면 %1$dMB의 추가 저장용량이 필요합니다. 포토 휴지통을 비워 충분한 공간을 확보한 후 다시 시도하세요.</string>
     <string name="cpe_video_duration_error_msg">동영상이 너무 짧아 자를 수 없습니다.</string>
     <string name="time_minutes_seconds">%1$02d:%2$02d</string>
     <string name="time_minutes_seconds_millis">%1$02d:%2$02d.%3$03d</string>

@@ -287,7 +287,7 @@
     <string name="radio_info_current_network_label">현재 네트워크:</string>
     <string name="radio_info_message_waiting_label">메시지 대기 중:</string>
     <string name="radio_info_phone_number_label">전화번호:</string>
-    <string name="radio_info_ppp_resets_label">부팅 후 PPP 다시 설정 횟수:</string>
+    <string name="radio_info_ppp_resets_label">부팅 후 PPP 초기화 횟수:</string>
     <string name="radio_info_roaming_label">로밍:</string>
     <string name="radio_info_set_perferred_label">기본 네트워크 유형 설정:</string>
     <string name="radio_info_signal_location_label">위치:</string>
@@ -488,10 +488,10 @@
     <string name="BT_chipId">BT 칩 ID</string>
     <string name="BT_chipTitle">칩 정보</string>
     <string name="BT_close">블루투스 해제까지 잠시만 기다려 주세요...</string>
-    <string name="BT_data_fail">데이터 전송에 실패했습니다. 다시 시도해 주세요.</string>
+    <string name="BT_data_fail">데이터 전송에 실패했습니다. 다시 시도하세요.</string>
     <string name="BT_deinit">블루투스 초기화까지 잠시만 기다려 주세요...</string>
     <string name="BT_ecoVersion">HW ECO 버전</string>
-    <string name="BT_exit_em">SSP 디버그 모드가 활성화되어 있습니다. 엔지니어 모드의 블루투스 테스트를 해제해주세요.</string>
+    <string name="BT_exit_em">SSP 디버그 모드가 활성화되어 있습니다. 엔지니어 모드의 블루투스 테스트를 해제하세요.</string>
     <string name="BT_init_dev">기기 초기화까지 잠시만 기다려 주세요...</string>
     <string name="BT_no_dev">발견된 블루투스 기기 없음</string>
     <string name="BT_no_sig_rx_fail">무신호 RX 테스트 실패</string>
@@ -501,7 +501,7 @@
     <string name="BT_relayer_start">BT 릴레이어 초기화 중 입니다. 잠시만 기다려주세요...</string>
     <string name="BT_serial_port_baudrate">시리얼 포트 전송 속도</string>
     <string name="BT_serial_port_number">시리얼 포트 번호</string>
-    <string name="BT_turn_bt_off">블루투스를 먼저 해제해 주세요.</string>
+    <string name="BT_turn_bt_off">블루투스를 먼저 해제하세요.</string>
     <string name="BT_tx_only_Title">TX 테스트 전용</string>
     <string name="BT_tx_test">Tx 테스트 진행중입니다. 잠시만 기다려주세요...</string>
     <string name="BandModeSIM1">SIM1 밴드 모드</string>
@@ -696,7 +696,7 @@
     <string name="ims_reg_required_off">IMS 등록을 사용 중지해야 합니다.</string>
     <string name="ims_reg_required_on">IMS 등록을 사용해야 합니다.</string>
     <string name="lte_get">설정</string>
-    <string name="lte_ram_dump_off">lte ram 덤프 사용안함</string>
+    <string name="lte_ram_dump_off">lte ram 덤프 사용 안 함</string>
     <string name="lte_ram_dump_on">lte ram 덤프 사용</string>
     <string name="NetworkInfo_BLK">RR BLK 정보</string>
     <string name="NetworkInfo_Ca">RR Ca 리스트</string>
@@ -704,7 +704,7 @@
     <string name="radio_info_data_attempts_label">데이터 시도:</string>
     <string name="radio_info_data_successes_label">데이터 성공:</string>
     <string name="radio_info_gsm_disconnects_label">GSM 연결끊기:</string>
-    <string name="radio_info_radio_resets_label">무선 다시 설정:</string>
+    <string name="radio_info_radio_resets_label">무선 초기화:</string>
     <string name="rf_desense_tx_test">Tx 테스트</string>
     <string name="sdcard_format">SD 카드 지우기</string>
     <string name="sensor_ps_calibration_result">결과:</string>
@@ -938,7 +938,7 @@
     <string name="auto_clibr_mfll_count_range_tip">Mfll값이 1~8 사이여야 합니다.</string>
     <string name="auto_clibr_multi_frame">MFLL</string>
     <string name="auto_clibr_output_sdblk_file">sdblk 출력 파일</string>
-    <string name="auto_clibr_sdcard_tips">SD 카드를 확인해 주세요.</string>
+    <string name="auto_clibr_sdcard_tips">SD 카드를 확인하세요.</string>
     <string name="auto_clibr_shading_table">음영표</string>
     <string name="auto_clibr_shutter_delay">셔터 딜레이</string>
     <string name="auto_clibr_veri_awb_mtk">MTK</string>
@@ -988,7 +988,7 @@
     <string name="bandmodesim2_GSM_EGSM900">EGSM900</string>
     <string name="bandmodesim2_GSM_GSM850">GSM850</string>
     <string name="bandmodesim2_GSM_PCS1900">PCS1900</string>
-    <string name="baseband_input_check">유효한 값을 입력해주세요.</string>
+    <string name="baseband_input_check">유효한 값을 입력하세요.</string>
     <string name="battery_info_Log">배터리 정보 기록 : </string>
     <string name="battery_info_s">s</string>
     <string name="battery_info_screen_on">화면 켜짐 시간 : </string>
@@ -1012,8 +1012,8 @@
     <string name="capture">캡처 : </string>
     <string name="captureImage">이미지 캡처</string>
     <string name="capture_mode_dailog_title">로우 캡처 모드 설정</string>
-    <string name="capture_sensor_range_tip">유효한 센서 값을 입력해주세요.</string>
-    <string name="capture_shutter_range_tip">유효한 셔터스피드를 입력해주세요.</string>
+    <string name="capture_sensor_range_tip">유효한 센서 값을 입력하세요.</string>
+    <string name="capture_shutter_range_tip">유효한 셔터스피드를 입력하세요.</string>
     <string name="cdma_network_select">CDMA 네트워크 선택</string>
     <string name="cds_information">CDS 정보</string>
     <string name="cfu">CFU</string>
@@ -1038,7 +1038,7 @@
     <string name="configure_check">확인 구성</string>
     <string name="cpu_dvfs_label">CPU DVFS</string>
     <string name="cpu_stress_test">CPU 스트레스 테스트</string>
-    <string name="ct_device_register">디바이스 등록</string>
+    <string name="ct_device_register">기기 등록</string>
     <string name="ct_network_selection">네트워크 선택</string>
     <string name="ct_sim_1">SIM1</string>
     <string name="ct_sim_2">SIM2</string>
@@ -1297,7 +1297,7 @@
     <string name="hqa_cpustress_toast_item_error">오류</string>
     <string name="hqa_cpustress_toast_load_notsupport">오류</string>
     <string name="hqa_cpustress_toast_loopcount_error">오류</string>
-    <string name="hqa_cpustress_toast_mode">모드를 선택해주세요.</string>
+    <string name="hqa_cpustress_toast_mode">모드를 선택하세요.</string>
     <string name="hqa_cpustress_toast_not_force">일반 테스트 모드</string>
     <string name="hqa_lcm_cycle_tip">LCM 주기 (5~55)</string>
     <string name="hqa_lcm_mipi_tip">LCM MIPI 동작 클럭 (1000 미만)</string>

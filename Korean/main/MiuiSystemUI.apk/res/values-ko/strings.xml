@@ -85,8 +85,8 @@
     <string name="gxzw_quick_open_wechat_pay">결제 코드</string>
     <string name="gxzw_quick_open_wechat_scan">스캐너</string>
     <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">열려는 앱의 이름을 말하세요.</string>
-    <string name="gxzw_quick_open_xiaoai_title2">사용하려는 기능의 이름을 말하세요.</string>
+    <string name="gxzw_quick_open_xiaoai_title1">열려는 앱의 이름을 말해주세요.</string>
+    <string name="gxzw_quick_open_xiaoai_title2">사용하려는 기능의 이름을 말해주세요.</string>
     <string name="gxzw_quick_tip_press">계속 누르고 있으세요…</string>
     <string name="gxzw_quick_tip_slide">손가락을 떼지 마세요. 스와이프하여 선택합니다.</string>
     <string name="icon_content_description">대화 상자 아이콘</string>
@@ -101,7 +101,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">지금까지의 모든 것</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">지금까지의 모든 것</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠깐만…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">항목을 로드할 수 없습니다.</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">항목을 불러올 수 없습니다.</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="mtrl_picker_cancel">취소</string>
     <string name="mtrl_picker_confirm">저장</string>
@@ -126,8 +126,8 @@
     <string name="qs_control_big_tile_state_unavailable">사용불가</string>
     <string name="qs_control_customize_other_tiles_title">사용 가능한 토글</string>
     <string name="qs_control_customize_save_text">완료</string>
-    <string name="qs_control_customize_sub_title">추가 된 토글을 드래그하여 재정렬</string>
-    <string name="qs_control_customize_title">추가 된 토글</string>
+    <string name="qs_control_customize_sub_title">추가된 토글을 드래그하여 재정렬</string>
+    <string name="qs_control_customize_title">추가된 토글</string>
     <string name="qs_control_expand_detail_title">내 데이터</string>
     <string name="quick_settings_cellular_detail_unable_change">통화 중에 설정할 수 없습니다.</string>
     <string name="quick_settings_wifi_detail_dual_wifi_accelerated">부스트 속도</string>
@@ -135,7 +135,7 @@
     <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">확인</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">다시 표시하지 않음</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">네트워크 간 전환</string>
-    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">듀얼 밴드 WLAN 속도 향상은 두 개의 다른 WLAN 밴드를 사용해야합니다. 다른 기본 네트워크에 연결하면 보조 연결이 끊어집니다.</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">듀얼 밴드 Wi-Fi 속도 향상은 두 개의 다른 Wi-Fi 밴드를 사용해야 합니다. 다른 기본 네트워크에 연결하면 보조 연결이 끊어집니다.</string>
     <string name="quick_settings_wireless_label">역 무선 충전</string>
     <string name="recents_forbid_dock_when_screening_toast_text">캐스팅 중에 분할 화면을 사용할 수 없습니다.</string>
     <string name="recents_task_screening">캐스팅</string>
@@ -812,7 +812,7 @@
     <string name="face_unlock_by_notification_screen_on_msg">알림 수신을 위해 화면에 불이 들어왔을 때 얼굴 데이터를 사용하여 기기를 잠금해제하실 수 있습니다. 이 기능은 배터리를 빠르게 소모하게 합니다.</string>
     <string name="face_unlock_by_notification_screen_on_title">화면에 불이 들어왔을 때 얼굴인식 잠금해제 허용</string>
     <string name="face_unlock_check_failed">인식 실패</string>
-    <string name="face_unlock_close_screen">화면에 가까이 해주세요.</string>
+    <string name="face_unlock_close_screen">화면에 가까이 하세요.</string>
     <string name="face_unlock_down">머리를 들어주세요.</string>
     <string name="face_unlock_fail">얼굴인식 실패</string>
     <string name="face_unlock_fail_retry">얼굴을 식별할 수 없습니다. 위쪽을 터치하면 다시할 수 있습니다.</string>
@@ -829,9 +829,9 @@
     <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 지문 인식 사용</string>
     <string name="face_unlock_quality">얼굴이 정확히 보이지 않습니다.</string>
     <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
-    <string name="face_unlock_reenter_title">얼굴을 다시 인식해주세요.</string>
-    <string name="face_unlock_reveal_eye">눈이 보이게 해주세요.</string>
-    <string name="face_unlock_reveal_mouth">입술이 보이게 해주세요.</string>
+    <string name="face_unlock_reenter_title">얼굴을 다시 인식하세요.</string>
+    <string name="face_unlock_reveal_eye">눈이 보이게 하세요.</string>
+    <string name="face_unlock_reveal_mouth">입술이 보이게 하세요.</string>
     <string name="face_unlock_rise">머리를 숙여주세요.</string>
     <string name="face_unlock_rotated_left">머리를 오른쪽으로 돌려주세요.</string>
     <string name="face_unlock_rotated_right">머리를 왼쪽으로 돌려주세요.</string>
@@ -847,18 +847,18 @@
     <string name="face_unlock_success_stay_screen_msg">얼굴이 인식된 후에도 잠금 화면을 유지합니다. 위로 와이프하여 홈 화면을 여세요.</string>
     <string name="face_unlock_success_stay_screen_title">잠금해제 후 잠금 화면 유지</string>
     <string name="failed_to_open_app_settings_toast">%1$s 설정을 열지 못했음</string>
-    <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가해 주세요.</string>
+    <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가하세요.</string>
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_again_identified_msg">지문이 활성화 되었습니다. 지문을 사용하여 기기 잠금해제 또는 비밀번호를 입력할 수 있습니다.</string>
     <string name="fingerprint_dialog_touch_sensor">지문 센서 터치</string>
-    <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문 인식을 사용하시려면 보조 공간 비밀번호를 입력하세요.</string>
+    <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문 인식을 사용하려면 보조 공간 비밀번호를 입력하세요.</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">라이트 모드 상태에서는 보조 공간에 입장할 수 없습니다.</string>
     <string name="fingerprint_enter_second_psw_title">보조 공간 비밀번호 입력</string>
-    <string name="fingerprint_not_identified_msg">너무 많은 시도를 실패하셨습니다. 지금 비밀번호를 입력하시거나 몇초 후 다시 지문으로 시도하세요.</string>
+    <string name="fingerprint_not_identified_msg">너무 많은 시도를 실패했습니다. 지금 비밀번호를 입력하시거나 몇초 후 다시 지문으로 시도하세요.</string>
     <string name="fingerprint_not_identified_msg_lock">잘못된 지문인식 시도가 너무 많았습니다. 비밀번호를 입력하세요.</string>
     <string name="fingerprint_not_identified_title">비밀번호 입력</string>
     <string name="fingerprint_not_recognized">인식되지 않음</string>
-    <string name="fingerprint_try_again_msg">지문을 읽을 수 없습니다. 다시 시도해 주세요.</string>
+    <string name="fingerprint_try_again_msg">지문을 읽을 수 없습니다. 다시 시도하세요.</string>
     <string name="fingerprint_try_again_text">다시 시도</string>
     <string name="float_incall_ignore">무시</string>
     <string name="float_incall_message">메시지</string>
@@ -878,7 +878,7 @@
     <string name="fs_gesture_back_ready_title">이전 페이지로 어떻게 갑니까?</string>
     <string name="fs_gesture_final_over">확인</string>
     <string name="fs_gesture_final_restart">다시 학습하기</string>
-    <string name="fs_gesture_final_summary">[설정-풀 스크린]에서 다시 설정할 수 있습니다.</string>
+    <string name="fs_gesture_final_summary">[설정-풀 스크린]에서 초기화할 수 있습니다.</string>
     <string name="fs_gesture_final_title">학습 마치기</string>
     <string name="fs_gesture_finish">수고하셨습니다!</string>
     <string name="fs_gesture_left_back_ready_summary">화면 왼쪽에서 스와이프하기</string>
@@ -938,8 +938,8 @@
     <string name="inactive_apps_title">비활성화 앱</string>
     <string name="incorrect_pincode">잘못된 PIN 코드</string>
     <string name="incorrect_pukcode">잘못된 PUK 코드</string>
-    <string name="input_password_after_boot_msg">기기를 잠금해제 하시려면
-비밀번호를 입력해주세요.</string>
+    <string name="input_password_after_boot_msg">기기 잠금을 해제하려면
+비밀번호를 입력하세요.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화중에는 공간 간의 전환을 할 수 없습니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">자녀보호 모드에서는 세컨드 스페이스로의 이동이 불가합니다.</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">기기 다시 시작 후에는 기본공간으로 진입해야 합니다.</string>
@@ -1023,7 +1023,7 @@
     <string name="keyguard_charging_info_last_charge_today_time">오늘 %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">어제 %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">마지막 충전</string>
-    <string name="keyguard_charging_info_tip_text1">배터리 수명을 위해 항상 10% 이상의 배터리를 유지해주세요.</string>
+    <string name="keyguard_charging_info_tip_text1">배터리 수명을 위해 항상 10% 이상의 배터리를 유지하세요.</string>
     <string name="keyguard_charging_info_tip_text2">기기를 과충전하지 마세요. 여러번의 짧은 충전이 배터리 수명에 도움이 됩니다.</string>
     <string name="keyguard_charging_info_tip_text3">주변 환경의 온도가 0℃ 미만일 때 충전이 중지됩니다.</string>
     <string name="keyguard_charging_info_tip_text4">충전 시 작업을 삼가하세요. 기기가 과열될 수 있습니다.</string>
@@ -1047,7 +1047,7 @@
     <string name="keyguard_left_smarthome">연락처</string>
     <string name="keyguard_left_torch">손전등</string>
     <string name="keyguard_left_view_lock_wallpaper">음악</string>
-    <string name="keyguard_low_battery">충전기를 연결해주세요.</string>
+    <string name="keyguard_low_battery">충전기를 연결하세요.</string>
     <string name="keyguard_missing_sim_instructions">SIM 카드를 삽입하세요.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM 카드가 장착되어 있지 않거나 읽을 수 없습니다. SIM 카드를 삽입하세요.</string>
     <string name="keyguard_missing_sim_message">휴대전화에 SIM 카드 없음</string>
@@ -1075,12 +1075,12 @@
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="kg_enter_confirm_pin_hint">원하는 PIN 코드 확인</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력하셨습니다. %2$d번 더 잘못 입력하시면 업무 프로필 및 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력하셨습니다. %2$d번 더 잘못 입력하시면 업무 프로필 및 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.\n\n %d초 후에 다시 시도해 주세요.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 업무 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 업무 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.\n\n %d초 후에 다시 시도하세요.</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. %d회 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 사라집니다.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">잘못된 비밀번호를 %1d번 입력하셨습니다. 개인 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_now_erasing_user">잘못된 비밀번호를 %1d번 입력하셨습니다. 사용자 정보가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">잘못된 비밀번호를 %1d번 입력했습니다. 개인 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_now_erasing_user">잘못된 비밀번호를 %1d번 입력했습니다. 사용자 정보가 삭제됩니다.</string>
     <string name="kg_failed_attempts_now_wiping">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. 휴대전화가 초기화됩니다.</string>
     <string name="kg_forgot_pattern_button_text">패턴을 잊음</string>
     <string name="kg_invalid_confirm_pin_hint">PIN 코드가 일치하지 않음</string>
@@ -1113,10 +1113,10 @@
     <string name="kg_sim_pin_instructions">SIM PIN 입력</string>
     <string name="kg_sim_pin_instructions_multi">\"%1$s\"의 SIM PIN 번호를 입력하세요.</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM 카드 잠금해제 중...</string>
-    <string name="kg_too_many_failed_attempts_countdown">%1$d초 후에 다시 시도해 주세요.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">비밀번호를 %d회 잘못 입력했습니다. \n\n%d초 후에 다시 시도해 주세요.</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">잠금해제 패턴을 %d회 잘못 그렸습니다. \n\n%d초 후에 다시 시도해 주세요.</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">PIN을 %d회 잘못 입력했습니다. \n\n%d초 후에 다시 시도해 주세요.</string>
+    <string name="kg_too_many_failed_attempts_countdown">%1$d초 후에 다시 시도하세요.</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">비밀번호를 %d회 잘못 입력했습니다. \n\n%d초 후에 다시 시도하세요.</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">잠금해제 패턴을 %d회 잘못 그렸습니다. \n\n%d초 후에 다시 시도하세요.</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">PIN을 %d회 잘못 입력했습니다. \n\n%d초 후에 다시 시도하세요.</string>
     <string name="kg_wrong_password">잘못된 비밀번호</string>
     <string name="kg_wrong_pattern">잘못된 패턴</string>
     <string name="kg_wrong_pin">잘못된 PIN</string>
@@ -1332,7 +1332,7 @@
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_mehod_back">뒤로</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;기기에서 &lt;font color=#a5220e&gt;데이터 지우기&lt;/font&gt;를 해야 합니다. 사진, 연락처, 모든 개인 정보가 지워진 후 잠금해제 비밀번호를 다시 설정하실 수 있습니다.;&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;기기에서 &lt;font color=#a5220e&gt;데이터 지우기&lt;/font&gt;를 해야 합니다. 사진, 연락처, 모든 개인정보가 지워진 후 잠금해제 비밀번호를 초기화하실 수 있습니다.;&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_foget_password_ok">알겠습니다.</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;기기를 끄신 후 &lt;font color=#a5220e&gt;전원 버튼&lt;/font&gt;과 &lt;font color=#a5220e&gt;볼륨 업 버튼&lt;/font&gt;을 Mi 로고가 표시될 때까지 길게 누르세요.;&lt;/Data&gt;</string>
@@ -1403,7 +1403,7 @@
     <string name="qs_dnd_until">%s 까지</string>
     <string name="qs_edit">편집</string>
     <string name="qs_paging">새로운 빠른 설정 사용</string>
-    <string name="qs_rearrange">빠른 설정 다시 설정</string>
+    <string name="qs_rearrange">빠른 설정 초기화</string>
     <string name="quick_settings">빠른 설정</string>
     <string name="quick_settings_autobrightness_label">자동 밝기</string>
     <string name="quick_settings_batterysaver_label">절전 모드</string>
@@ -1461,7 +1461,7 @@
     <string name="quick_settings_location_label">GPS</string>
     <string name="quick_settings_location_off_label">GPS가 꺼져있습니다.</string>
     <string name="quick_settings_media_device_label">미디어 기기</string>
-    <string name="quick_settings_midrop_label">Mi드롭</string>
+    <string name="quick_settings_midrop_label">Mi 드롭</string>
     <string name="quick_settings_more_settings">기타 설정</string>
     <string name="quick_settings_mute_label">음소거</string>
     <string name="quick_settings_nfc_label">NFC</string>
@@ -1546,10 +1546,10 @@
     <string name="reject_call">통화 거부 중</string>
     <string name="remaining_length_format">%1$s 남음</string>
     <string name="remove_from_settings">설정에서 삭제</string>
-    <string name="remove_from_settings_prompt">설정에서 시스템UI튜너를 삭제하고 모든 기능을 사용하지 않으시겠습니까?</string>
+    <string name="remove_from_settings_prompt">설정에서 시스템 UI튜너를 삭제하고 모든 기능을 사용하지 않으시겠습니까?</string>
     <string name="report_rejected_touch">거절된 접근 보고</string>
     <string name="reset">초기화</string>
-    <string name="retail_demo_reset_message">데모 모드의 공장 초기화를 하시려면 비밀번호를 입력하세요.</string>
+    <string name="retail_demo_reset_message">데모 모드의 공장 초기화를 하려면 비밀번호를 입력하세요.</string>
     <string name="retail_demo_reset_next">다음</string>
     <string name="retail_demo_reset_title">비밀번호 요구됨</string>
     <string name="return_to_incall_screen">통화로 돌아가기</string>
@@ -1568,8 +1568,8 @@
     <string name="saved_network">%1$s 때문에 절약됨</string>
     <string name="screen_button_notification_text">켜려면 홈 버튼과 전원 버튼을 동시에 누르세요.</string>
     <string name="screen_button_notification_title">탐색 버튼이 꺼졌습니다.</string>
-    <string name="screen_pinning_description">고정 해제시까지 계속 고정되어 확인하실 수 있습니다. 고정을 해제하시려면 홈 버튼과 전원 버튼을 동시에 길게 눌러주세요.</string>
-    <string name="screen_pinning_description_accessible">고정 해제시까지 계속 고정되어 확인하실 수 있습니다. 고정을 해제하시려면 홈 버튼과 전원 버튼을 동시에 길게 눌러주세요.</string>
+    <string name="screen_pinning_description">고정 해제시까지 계속 고정되어 확인하실 수 있습니다. 고정을 해제하려면 홈 버튼과 전원 버튼을 동시에 길게 눌러주세요.</string>
+    <string name="screen_pinning_description_accessible">고정 해제시까지 계속 고정되어 확인하실 수 있습니다. 고정을 해제하려면 홈 버튼과 전원 버튼을 동시에 길게 눌러주세요.</string>
     <string name="screen_pinning_negative">아니오</string>
     <string name="screen_pinning_positive">알겠습니다.</string>
     <string name="screen_pinning_title">화면 고정됨</string>
@@ -1590,7 +1590,7 @@
     <string name="screenshot_failed_to_save_text">저장 공간이 부족하여 스크린샷을 저장할 수 없습니다.</string>
     <string name="screenshot_failed_to_save_unknown_text">스크린샷 저장 중 에러가 발생했습니다.</string>
     <string name="screenshot_feedback_txt">피드백</string>
-    <string name="screenshot_insert_failed">스크린샷을 로드할 수 없음. 다시 찍거나 갤러리에서 이미지를 확인하세요.</string>
+    <string name="screenshot_insert_failed">스크린샷을 불러올 수 없음. 다시 찍거나 갤러리에서 이미지를 확인하세요.</string>
     <string name="screenshot_long_screenshot">스크롤</string>
     <string name="screenshot_saved_text">탭하여 스크린샷 보기</string>
     <string name="screenshot_saved_title">스크린샷 캡처됨</string>
@@ -1682,10 +1682,10 @@
     <string name="status_bar_recent_remove_item_title">목록에서 제거</string>
     <string name="status_bar_recording_back">녹음기로 돌아가기</string>
     <string name="status_bar_recording_pause">녹음기 일시 중지됨</string>
-    <string name="status_bar_safepay_risk">결재 취약점 발견</string>
-    <string name="status_bar_safepay_safe">결재 취약점 없음</string>
-    <string name="status_bar_safepay_scanning">결재 환경 체크중…</string>
-    <string name="status_bar_safepay_unknown">결재 환경 체크 실패</string>
+    <string name="status_bar_safepay_risk">결제 취약점 발견</string>
+    <string name="status_bar_safepay_safe">결제 취약점 없음</string>
+    <string name="status_bar_safepay_scanning">결제 환경 체크중…</string>
+    <string name="status_bar_safepay_unknown">결제 환경 체크 실패</string>
     <string name="status_bar_settings_airplane">비행기 탑승 모드</string>
     <string name="status_bar_settings_auto_brightness_label">자동</string>
     <string name="status_bar_settings_auto_rotation">화면 자동 회전</string>
@@ -1719,10 +1719,10 @@
     <string name="structure_face_data_input_error_expose_eye">눈을 보여주세요.</string>
     <string name="structure_face_data_input_error_expose_features">얼굴을 가리지마세요.</string>
     <string name="structure_face_data_input_error_expose_mouth">입을 보여주세요.</string>
-    <string name="structure_face_data_input_error_keep_inface">프레임에 얼굴을 유지해주세요.</string>
+    <string name="structure_face_data_input_error_keep_inface">프레임에 얼굴을 유지하세요.</string>
     <string name="structure_face_data_input_error_near_screen">전화 화면을 닫으세요.</string>
     <string name="structure_face_data_input_error_open_eye">눈을 뜨세요.</string>
-    <string name="structure_face_data_input_error_overly_light">직사광선을 피해주세요.</string>
+    <string name="structure_face_data_input_error_overly_light">직사광선을 피하세요.</string>
     <string name="structure_face_data_input_left">왼쪽 입력</string>
     <string name="structure_face_data_input_ok">완료</string>
     <string name="structure_face_data_input_right">오른쪽 입력</string>
@@ -1812,8 +1812,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">짧은 예문을 들어볼 수 있습니다.</string>
     <string name="tts_play_example_title">예문 들어보기</string>
-    <string name="tts_reset_speech_pitch_summary">목소리 높낮이를 기본값으로 다시 설정합니다.</string>
-    <string name="tts_reset_speech_pitch_title">목소리 높낮이 다시 설정</string>
+    <string name="tts_reset_speech_pitch_summary">목소리 높낮이를 기본값으로 초기화합니다.</string>
+    <string name="tts_reset_speech_pitch_title">목소리 높낮이 초기화</string>
     <string name="tts_settings">TTS 설정</string>
     <string name="tts_settings_title">TTS 출력</string>
     <string name="tts_status_checking">체크중…</string>
@@ -1839,8 +1839,8 @@
     <string name="tuner_plus">더하기</string>
     <string name="tuner_right">오른쪽</string>
     <string name="tuner_time">시간</string>
-    <string name="tuner_toast">축하합니다! 시스템UI튜너가 설정에 추가되었습니다.</string>
-    <string name="tuner_warning">시스템UI튜너를 사용하면 Android 사용자 인터페이스를 조정하고 커스터마이징할 수 있습니다. 이 실험적인 기능은 향후 발매되는 버전에서 기능이 변경되거나 중단되거나 사라질 수 있습니다. 주의하세요.</string>
+    <string name="tuner_toast">축하합니다! 시스템 UI튜너가 설정에 추가되었습니다.</string>
+    <string name="tuner_warning">시스템 UI튜너를 사용하면 Android 사용자 인터페이스를 조정하고 커스터마이징할 수 있습니다. 이 실험적인 기능은 향후 발매되는 버전에서 기능이 변경되거나 중단되거나 사라질 수 있습니다. 주의하세요.</string>
     <string name="tuner_warning_title">모두가 좋아하지는 않을 수 있습니다.</string>
     <string name="un_important_notifications">중요하지 않은 알림</string>
     <string name="unimportant_desc">모든 중요하지 않은 알림은 분리된 폴더에 나타날 것입니다.</string>
@@ -1950,7 +1950,7 @@
     <string name="wapi_cert_select">WAPI 인증서</string>
     <string name="wapi_no">아니요</string>
     <string name="wapi_no_vaild_cert">사용가능한 인증서가 없습니다. 설치하시겠습니까?</string>
-    <string name="wapi_password_empty">비밀번호를 입력해 주세요.</string>
+    <string name="wapi_password_empty">비밀번호를 입력하세요.</string>
     <string name="wapi_password_hex_format_add">16진수는 홀수가 될 수 없습니다.</string>
     <string name="wapi_password_hex_format_invalid">올바르지 않은 입력값입니다.</string>
     <string name="wapi_password_hex_length_invalid">헥스 값은 짝수여야 합니다.</string>
@@ -2014,8 +2014,8 @@
     <string name="wireless_charge_current">무선 충전중</string>
     <string name="wireless_charge_dialog_cancel">알겠음</string>
     <string name="wireless_charge_dialog_title">충전 스팟 한 가운데에 기기를 올려놓으세요.</string>
-    <string name="wireless_charge_reset_device">충전이 느립니다. 기기를 다시 설정하세요.</string>
-    <string name="wireless_charge_reset_device_detail">기기를 충전 스팟에 제대로 놓았는지 위치를 확인해주세요.</string>
+    <string name="wireless_charge_reset_device">충전이 느립니다. 기기를 초기화하세요.</string>
+    <string name="wireless_charge_reset_device_detail">기기를 충전 스팟에 제대로 놓았는지 위치를 확인하세요.</string>
     <string name="wireless_charge_stop">무선 충전 중단됨</string>
     <string name="wrong_password">잘못된 비밀번호</string>
     <string name="zen_alarm_warning">다음 %1$s 알람이 울리지 않게 합니다.</string>
@@ -2038,7 +2038,7 @@
     <string name="gxzw_add_fingerprint_area">지문센서</string>
     <string name="quick_settings_nightmode_label">다크 모드</string>
     <string name="quick_settings_sim_disabled">(사용 안함)</string>
-    <string name="qs_open_night_mode_alert_summary">어떤 디스플레이 설정은 다크 모드와 호환되지 않습니다.. 그러나 다크 모드를 끄면 복구가 됩니다.</string>
+    <string name="qs_open_night_mode_alert_summary">어떤 디스플레이 설정은 다크 모드와 호환되지 않습니다. 그러나 다크 모드를 끄면 복구가 됩니다.</string>
     <string name="accessibility_face_dialog_face_icon">얼굴 아이콘</string>
     <string name="ask_me_later_bubbles">나중에 묻기</string>
     <string name="biometric_dialog_confirm">확인</string>

@@ -5,7 +5,7 @@
     <string name="miui_install_confirm_question_update">존재하는 앱에 덮어쓰시겠습니까?</string>
     <string name="safe_guard_support">%1$s에서 기술 지원 제공됨</string>
     <string name="safe_relative">보안</string>
-    <string name="privacy_relative">개인 정보 보호</string>
+    <string name="privacy_relative">개인정보 보호</string>
     <string name="other_relative">기타</string>
     <string name="perm_notice">경고</string>
     <string name="trust_switch_dialog_msg">이 앱이 연락처, 메시지, 비밀번호나 시스템의 다른 부분에 접근할 때 알리지 않습니다.</string>
@@ -50,7 +50,7 @@
     <string name="miui_failed_other">기타</string>
     <string name="install_failed_system_incompatible">이 앱은 MIUI와 호환되지 않습니다.</string>
     <string name="permission_group_title_charges_related">휴대전화</string>
-    <string name="permission_group_title_privacy_related">개인 정보 보호 정책</string>
+    <string name="permission_group_title_privacy_related">개인정보 보호 정책</string>
     <string name="permission_group_title_media_related">미디어</string>
     <string name="permission_group_title_settings_related">설정</string>
     <string name="permission_group_title_others">기타</string>
@@ -162,7 +162,7 @@
     <string name="Parse_error_dlg_title">구문분석 오류</string>
     <string name="Parse_error_dlg_text">패키지에 구문 분석 오류가 있습니다.</string>
     <string name="miui_security_relative">보안</string>
-    <string name="miui_privacy_relative">개인 정보</string>
+    <string name="miui_privacy_relative">개인정보</string>
     <string name="miui_other_relative">기타</string>
     <string name="miui_permission_manage_title">%s 정보</string>
     <string name="miui_no_perms">아무런 권한이 필요하지 않습니다.</string>
@@ -211,7 +211,7 @@
     <string name="manage_users">사용자 관리</string>
     <string name="newPerms">새 권한</string>
     <string name="allPerms">모든</string>
-    <string name="privacyPerms">개인 정보</string>
+    <string name="privacyPerms">개인정보</string>
     <string name="devicePerms">기기 접근</string>
     <string name="no_new_perms">이 업데이트는 새 권한을 요구하지 않습니다.</string>
     <string name="grant_confirm_question">다음의 권한을 부여하시겠습니까? 다음 항목에 접근할 수 있습니다:</string>
@@ -523,8 +523,8 @@
     <string name="tts_lang_use_system">시스템 언어 사용</string>
     <string name="tts_play_example_summary">짧은 음성 합성 데모 재생</string>
     <string name="tts_play_example_title">예제 들어보기</string>
-    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 다시 설정합니다.</string>
-    <string name="tts_reset_speech_pitch_title">음성 피치 다시 설정</string>
+    <string name="tts_reset_speech_pitch_summary">텍스트가 발음되는 피치를 기본값으로 초기화합니다.</string>
+    <string name="tts_reset_speech_pitch_title">음성 피치 초기화</string>
     <string name="tts_settings">TTS 설정</string>
     <string name="tts_settings_title">TTS 출력</string>
     <string name="tts_status_checking">확인중 ...</string>
@@ -542,8 +542,8 @@
     <string name="vpn_settings_not_available">이 사용자는 VPN 설정을 수정할 수 없습니다.</string>
     <string name="wait_for_debugger">사용자를 기다리는 중</string>
     <string name="wait_for_debugger_summary">디버깅된 애플리케이션이 실행되기 전에 디버거 연결을 위해 대기</string>
-    <string name="wifi_aggressive_handover">적극적인 WLAN to Cellular 핸드 오버</string>
-    <string name="wifi_aggressive_handover_summary">활성화 되어있으면, Wi-Fi 신호가 약할때 모바일 데이터로 자동 전환 됩니다.</string>
+    <string name="wifi_aggressive_handover">적극적인 Wi-Fi에서 모바일 데이터 전환</string>
+    <string name="wifi_aggressive_handover_summary">활성화되어있으면, Wi-Fi 신호가 약할 때 모바일 데이터로 자동 전환됩니다.</string>
     <string name="wifi_allow_scan_with_traffic">Wi-Fi 로밍 스캔을 항상 허용</string>
     <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 데이터 트래픽의 양에 따라 Wi-Fi 로밍 검사를 허용 / 금지합니다.</string>
     <string name="wifi_connected_no_internet">인터넷에 연결되어 있지 않습니다.</string>
@@ -632,7 +632,7 @@
     <string name="button_next">다음</string>
     <string name="button_remove">삭제</string>
     <string name="button_text_delete_timer">(%d) 삭제</string>
-    <string name="ime_security_warning">%1$s앱은 비밀번호, 신용카드 번호, 기타 개인 정보를 포함하여 사용자가 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="ime_security_warning">%1$s앱은 비밀번호, 신용카드 번호, 기타 개인정보를 포함하여 사용자가 입력하는 모든 것을 기록할 수 있습니다.</string>
     <string name="installer_name">출처: %1$s</string>
     <string name="installing_app">%1$s 항목을 설치 중…</string>
     <string name="main_title">앱 설치</string>

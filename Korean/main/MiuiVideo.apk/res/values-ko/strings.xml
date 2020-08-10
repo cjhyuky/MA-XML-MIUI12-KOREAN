@@ -31,7 +31,7 @@
     <string name="lp_setting">설정</string>
     <string name="lp_volume">볼륨</string>
     <string name="screen_shot_failure">스크린샷 촬영 실패</string>
-    <string name="screen_shot_failure_tips">스크린샷을 촬영하시려면 MIUI를 업데이트하세요.</string>
+    <string name="screen_shot_failure_tips">스크린샷을 촬영하려면 MIUI를 업데이트하세요.</string>
     <string name="screen_shot_success">스크린샷 촬영 성공</string>
     <string name="share_tips">스크린샷 촬영 성공, 탭하여 공유하기</string>
     <string name="storage_external_sdcard">외부 저장소</string>
@@ -76,7 +76,7 @@
     <string name="t_deleting">삭제 중…</string>
     <string name="t_downloading_new_version">업데이트 다운로드 중…</string>
     <string name="t_exit_app">다시 탭하여 나가기</string>
-    <string name="t_no_new_version">Mi 동영상은 최신버전 입니다.</string>
+    <string name="t_no_new_version">Mi 동영상은 최신 버전 입니다.</string>
     <string name="t_password_limit">비밀번호는 최소 4자리 이상이어야 합니다.</string>
     <string name="t_password_null">비밀번호는 비워둘 수 없습니다.</string>
     <string name="t_password_wrong">비밀번호 오류, 다시 시도하세요.</string>
@@ -134,7 +134,7 @@
     <string name="alert_dialog_download_fail">"앱 다운로드 실패"</string>
     <string name="alert_dialog_download_install_task">플러그인 설치를 기다리는 중…</string>
     <string name="alert_dialog_download_plugin">"HD 플러그인을 다운받고 설치하려고 합니다: "</string>
-    <string name="alert_dialog_download_prepare">다운로드 준비중…</string>
+    <string name="alert_dialog_download_prepare">다운로드 준비 중…</string>
     <string name="alert_dialog_download_progress">"앱 다운로드: "</string>    
     <string name="app_charging_wifi_mode">충전중일때 앱 업데이트</string>
     <string name="app_charging_wifi_mode_summary">충전중이고 WI-FI연결시에 자동으로 앱 업데이트</string>
@@ -234,7 +234,7 @@
     <string name="nowifi_alert_dialog_message">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="nowifi_alert_dialog_title">데이터 사용량 경고</string>
     <string name="offline_downloading">다운로드 중 %s</string>
-    <string name="offline_fail_limit_vip">파일을 다운로드하시려면 VIP멤버쉽을 구입하세요.</string>
+    <string name="offline_fail_limit_vip">파일을 다운로드하려면 VIP멤버쉽을 구입하세요.</string>
     <string name="offline_failed">"다운로드 실패"</string>
     <string name="offline_has_the_task">다운로드 목록에 이미 추가되어있습니다.</string>
     <string name="offline_media_empty_sub_title">동영상을 다운로드하여 오프라인으로 보기</string>
@@ -334,7 +334,7 @@
     <string name="ui_card_banner_btn_open">열기</string>
     <string name="ui_log_tip">이 로그를 숨기거나 누르고 있으면 이전 로그를 지울 수 있습니다. 수동으로 로그를 드래그하세요.</string>
     <string name="unzip_file_failure">"파일을 압축해제하지 못했습니다."</string>
-    <string name="url_access_failed">주소 불러오기 실패, 고객센터에 연락하세요.</string>
+    <string name="url_access_failed">주소 불러오기 실패, 고객센터에 연락해주세요.</string>
     <string name="use_cellular_network">모바일 데이터 연결</string>
     <string name="use_cellular_network_summary">모바일 데이터를 이용하여 동영상을 다운로드합니다. 모바일 데이터 사용량이 증가합니다.</string>
     <string name="use_cellular_offlinedownload_summary">모바일 데이터를 이용하여 동영상을 다운로드시 알림 보기</string>
@@ -350,7 +350,7 @@
     <string name="v_clause_info">1. Sohu TV, iQiyi 및 기타 컨텐츠 제공 업체가 제공하는 온라인 서비스를 사용하려면 먼저 우리의<a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">사용자 동의</a> 와 <a href="https://privacy.mi.com/all/">개인정보 보호정책</a>을 읽고 동의해야 합니다.".
 2. 우리는 사용자의 장치에 대한 정보와 Mi 동영상 사용 방법을 수집 할 것입니다. 콘텐츠 제공 업체가 기기 ID를 수집합니다.
 3. Mi 동영상이 정상적으로 작동하려면 네트워크에 연결되어 있어야 합니다.
-4. 동영상을 스트리밍하려면 Mi 동영상에서 HD 동영상 플러그인을 다운로드하여 설치해야합니다."</string>
+4. 동영상을 스트리밍하려면 Mi 동영상에서 HD 동영상 플러그인을 다운로드하여 설치해야 합니다."</string>
     <string name="v_clause_notips">"다시보지않기"</string>
     <string name="v_clause_title">이용 약관</string>
     <string name="v_click_channel_scrol_to_top">맨 위로 돌아가려면 다시 탭하세요.</string>
@@ -436,7 +436,7 @@
     <string name="video_info_resolution_label">동영상 해상도:</string>
     <string name="video_info_video_coding_label">동영상 인코딩 형식:</string>
     <string name="video_window_mode">창모드</string>
-    <string name="video_window_mode_desc">창모드를 사용하시려면 켜세요.</string>
+    <string name="video_window_mode_desc">창모드를 사용하려면 켜세요.</string>
     <string name="vip_agreement">Vip 서비스 약관</string>
     <string name="vip_exchange">갱신</string>
     <string name="vip_expirt_time">"유효기간 "</string>
@@ -601,7 +601,7 @@
     <string name="passport_downlink_reg">전화번호를 이용하여 계정 생성</string>
     <string name="passport_email">이메일 주소</string>
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
-    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
     <string name="passport_error_dup_email">입력한 이메일이 이미 다른 계정과 연동되어 있습니다.</string>
     <string name="passport_error_email">입력한 이메일 주소가 올바르지 않습니다.</string>
@@ -622,7 +622,7 @@
     <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하시려면 account.mi.com을 방문하세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 초기화하려면 account.mi.com을 방문하세요.</string>
     <string name="passport_forget_password">비밀번호 찾기</string>
     <string name="passport_forget_password_no_underline">비밀번호 분실</string>
     <string name="passport_get_back_pwd">계정 비밀번호 찾기</string>
@@ -665,7 +665,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보세요.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
-    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용하기</string>
     <string name="passport_reg_using_other_phone">대체 전화번호 사용</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
@@ -686,9 +686,9 @@
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
-    <string name="passport_reset_fail_title">다시 설정하지 못했습니다.</string>
+    <string name="passport_reset_fail_title">초기화하지 못했습니다.</string>
     <string name="passport_reset_password_prompt">비밀번호가 올바르지 않습니다.</string>
-    <string name="passport_reset_password_title">비밀번호 다시 설정</string>
+    <string name="passport_reset_password_title">비밀번호 초기화</string>
     <string name="passport_restart">다시 시작</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
@@ -707,7 +707,7 @@
     <string name="passport_uplink_slot1_reg">SIM 1 사용</string>
     <string name="passport_uplink_slot2_reg">SIM 2 사용</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
-    <string name="passport_use_generated_pwd_title">비밀번호를 기억해 주세요!</string>
+    <string name="passport_use_generated_pwd_title">비밀번호를 기억하세요!</string>
     <string name="passport_user_agreement">사용자 계약</string>
     <string name="passport_user_agreement_p1">동의: </string>
     <string name="passport_user_agreement_p2">사용자 계약</string>
@@ -807,7 +807,7 @@
     <string name="my_online_live_follow_people_2">팔로워</string>
     <string name="my_online_live_login_failure">로그인 실패</string>
     <string name="my_online_live_login_success">로그인 완료</string>
-    <string name="my_online_live_pay_record">결재 내역</string>
+    <string name="my_online_live_pay_record">결제 내역</string>
     <string name="my_online_pay_record_money_suffix">위안</string>
     <string name="mygold">내 코인</string>
     <string name="myincome">내 수입</string>
@@ -880,7 +880,7 @@
     <string name="t_bind_success">정보 추가 완료</string>
     <string name="t_check_unhide_file">먼저 숨기기를 해제 할 항목을 선택하세요.</string>
     <string name="t_name_empty">이름을 입력하세요.</string>
-    <string name="t_tel_wrong">전화 번호 형식이 잘못되었습니다.</string>
+    <string name="t_tel_wrong">전화번호 형식이 잘못되었습니다.</string>
     <string name="t_wx_uninstalled">WeChat을 먼저 설치하세요.</string>
     <string name="toast_gprs_network">모바일 데이터를 사용하여 동영상을 스트리밍중…</string>
     <string name="toast_operate_message_delete_success">삭제 완료</string>

@@ -24,7 +24,7 @@
     <string name="back_led_light2">백라이트 (10 등) :</string>
     <string name="backlight_led_name">LCD 백라이트</string>
     <string name="backlight_text">테스트...</string>
-    <string name="battery_change">아마 거의 완전히 충전되었거나 배터리 전압이 4.1V보다 높으면 배터리를 교체해야합니다!</string>
+    <string name="battery_change">아마 거의 완전히 충전되었거나 배터리 전압이 4.1V보다 높으면 배터리를 교체해야 합니다!</string>
     <string name="battery_current">배터리 전류 =</string>
     <string name="battery_current_prompt">현재 시간을 좀 기다려주세요.</string>
     <string name="battery_fail">배터리 테스트 실패!</string>
@@ -41,8 +41,8 @@
     <string name="battery_msg">충전기를 끼워주세요!</string>
     <string name="battery_name">타입C [뒤] 플러그 충전 및 LED</string>
     <string name="battery_orientation">충전기 방향 =</string>
-    <string name="battery_orientation_prompt">Compeleted 배터리 테스트를 위해 충전기를 뒤집어 야합니다.</string>
-    <string name="battery_prompt">Compeleted 배터리 테스트를 위해 충전기를 분리해야합니다.</string>
+    <string name="battery_orientation_prompt">완전한 배터리 테스트를 위해 충전기를 뒤집어 야합니다.</string>
+    <string name="battery_prompt">완전한 배터리 테스트를 위해 충전기를 분리해야 합니다.</string>
     <string name="battery_status">배터리 상태 =</string>
     <string name="battery_success">배터리 테스트 합격!</string>
     <string name="battery_temperature">배터리 온도 =</string>
@@ -137,7 +137,7 @@
     <string name="frontflash_confirm">하얀 손전등이 괜찮은지 확인하세요!</string>
     <string name="frontflash_tips">프론트 플래시가 원형으로 개폐됩니다, 시계를 계속하세요!</string>
     <string name="frontflashlight_name">정면 Torchled</string>
-    <string name="fuelgauge_hint">FuelGauge 보정이 30 초 이내에 완료됩니다. 잠시 기다려주세요....</string>
+    <string name="fuelgauge_hint">FuelGauge 보정이 30초 이내에 완료됩니다. 잠시 기다려주세요....</string>
     <string name="fuelgauge_name">연료 가스 교정</string>
     <string name="fuelgauge_processing">가공...</string>
     <string name="full_test">전체 테스트</string>
@@ -206,18 +206,18 @@
     <string name="headset_error">헤드셋 상태 오류입니다. 다시 삽입하세요!</string>
     <string name="headset_hint">헤드폰</string>
     <string name="headset_insert_name">헤드셋 삽입</string>
-    <string name="headset_main_recording">녹음 중입니다. MainMIC에 몇 마디하세요.</string>
+    <string name="headset_main_recording">녹음 중입니다. 메인 마이크에 몇 마디하세요.</string>
     <string name="headset_middle_key">헤드셋 중간 키</string>
     <string name="headset_minus_key">헤드셋 빼기 키</string>
     <string name="headset_name">헤드폰</string>
     <string name="headset_playing">지금 재생 중입니다. 헤드셋을 들어보세요.</string>
     <string name="headset_plus_key">헤드셋 플러스 키</string>
     <string name="headset_record_first">먼저 소리를 녹음하고 헤드셋을 제거하세요.</string>
-    <string name="headset_recording">지금 녹음하기, EarPhone MIC에게 몇 마디 해주세요.. 레코더 3 초</string>
+    <string name="headset_recording">지금 녹음하기, 이어폰 마이크에게 몇 마디 하세요.. 레코더 3초</string>
     <string name="headset_remove_name">헤드셋 제거</string>
     <string name="headset_replay_end">끝까지 도달했습니다.</string>
     <string name="headset_stoprecordering">이제 녹음을 멈추고 헤드셋을 넣으세요!</string>
-    <string name="headset_sub_recording">지금 녹음 중입니다. SubMIC에 몇 마디하세요.</string>
+    <string name="headset_sub_recording">지금 녹음 중입니다. 보조 마이크에 몇 마디하세요.</string>
     <string name="headset_to_record">녹음 버튼을 클릭하여 소리를 녹음하세요.</string>
     <string name="hello_world">안녕하세요!</string>
     <string name="hw_test">하드웨어 테스트</string>
@@ -257,7 +257,7 @@
     <string name="keypad_volume_down">볼륨 다운</string>
     <string name="keypad_volume_up">볼륨 업</string>
     <string name="lcm_and_speaker_name">LCM 및 연사</string>
-    <string name="lcm_confirm">선택해주세요.</string>
+    <string name="lcm_confirm">선택하세요.</string>
     <string name="lcm_name">LCM</string>
     <string name="led_Amber">호박색</string>
     <string name="led_blue">파란색</string>
@@ -279,7 +279,7 @@
     <string name="led_test_off">떨어져서</string>
     <string name="led_test_on">에</string>
     <string name="led_text">밝은 색 %s 테스트</string>
-    <string name="led_tip_text">다음 항목은 무작위로 점등됩니다.. 현재의 빛을 선택하세요 (각 테스트 간격 2S) :</string>
+    <string name="led_tip_text">다음 항목은 무작위로 점등됩니다. 현재의 빛을 선택하세요 (각 테스트 간격 2S) :</string>
     <string name="led_tri_text">LED 테스트 시퀀스 : 녹색, 파란색, 빨간색</string>
     <string name="left">왼쪽</string>
     <string name="light_sensor_verison">센서 유형 :</string>
@@ -292,7 +292,7 @@
     <string name="lsensor_name_calibrate2">광 센서 보정 다크</string>
     <string name="lsensor_title_dark">어두운 조건 교정</string>
     <string name="lsensor_title_light">조명 조건 보정</string>
-    <string name="master_clear_menu_text">전화 다시 설정</string>
+    <string name="master_clear_menu_text">전화 초기화</string>
     <string name="menu_key_tip">(알림 : MIUI 버전의 메뉴 버튼을 길게 누르세요)</string>
     <string name="miss_camera">카메라를 찾을 수 없습니다.</string>
     <string name="mmi_check_test">MMI 점검 테스트</string>
@@ -395,7 +395,7 @@
     <string name="refresh_results">결과 새로고침</string>
     <string name="remove_headset">헤드셋을 제거하세요.</string>
     <string name="remove_headset_second">헤드셋을에서 제거하세요. %s 둘째</string>
-    <string name="reset_times">다시 설정 시간은 5입니다. 뒤로가기 버튼을 클릭 할 수 있습니다.</string>
+    <string name="reset_times">초기화 시간은 5입니다. 뒤로가기 버튼을 클릭 할 수 있습니다.</string>
     <string name="retest_button">재시험</string>
     <string name="right">오른쪽</string>
     <string name="rtc_confirm">RTC 테스트 통과</string>
@@ -426,7 +426,7 @@
     <string name="sensor_register_fail">센서 등록 실패!</string>
     <string name="sensor_value">값:</string>
     <string name="service_get_fail">서비스가 실패!</string>
-    <string name="set_nv_menu_password">비밀번호를 입력해주세요.</string>
+    <string name="set_nv_menu_password">비밀번호를 입력하세요.</string>
     <string name="set_nv_menu_password_bad">비밀번호가 일치하지 않습니다.</string>
     <string name="set_nv_menu_text">최대 절전 모드 설정</string>
     <string name="set_nv_pass">설정 완료</string>
@@ -479,7 +479,7 @@
     <string name="transmitter_receiver_name">송신기 및 수신기</string>
     <string name="transmitter_receiver_playing">지금 재생, 수신기를 들어주세요.</string>
     <string name="transmitter_receiver_record_first">먼저 녹음 버튼을 클릭하세요.</string>
-    <string name="transmitter_receiver_recording">녹음을 시작하면 송신기에 몇 마디 말을하고 중지하려면 Stop 버튼을 클릭하세요.</string>
+    <string name="transmitter_receiver_recording">녹음을 시작하면 송신기에 몇 마디 말을 하고 중지하려면 Stop 버튼을 클릭하세요.</string>
     <string name="transmitter_receiver_replay_end">끝까지 도달했습니다.</string>
     <string name="transmitter_receiver_to_record">녹음 버튼을 클릭하여 소리를 녹음하세요.</string>
     <string name="typec_confirm">Type-C 포지티브/백 플러그 테스트를 수행하세요!</string>
@@ -514,7 +514,7 @@
     <string name="wifi_status_close">Wi-Fi 꺼짐</string>
     <string name="wifi_status_open">Wi-Fi 켜짐</string>
     <string name="wifi_status_open_fail">wi-fi가 열리지 않음</string>
-    <string name="wifi_text">30 초 이내에 WLAN 테스트가 완료됩니다. 잠시 기다려주세요.</string>
+    <string name="wifi_text">30초 이내에 Wi-Fi 테스트가 완료됩니다. 잠시 기다려주세요.</string>
     <string name="xgsensor">X 값 :</string>
     <string name="yes">예</string>
     <string name="Yflash_led_light">노란색 플래시 표시등 :</string>

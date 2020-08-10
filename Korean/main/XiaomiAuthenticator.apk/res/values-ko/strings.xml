@@ -25,11 +25,11 @@
     <string name="secret_saved">키가 저장되었습니다.</string>
     <string name="save_key_message">키 저장</string>
     <string name="error_empty_secret">빈 비밀번호을 저장할 수 없습니다.</string>
-    <string name="enter_pin">로그인 중에 인증번호 입력창이 나오면 이 인증번호를 입력해주세요.</string>
+    <string name="enter_pin">로그인 중에 인증번호 입력창이 나오면 이 인증번호를 입력하세요.</string>
     <string name="check_code_title">무결성 검사 값</string>
     <string name="check_code_menu_item">키 값 확인</string>
     <string name="install_dialog_title">바코드 스캐너를 설치하시겠습니까?</string>
-    <string name="install_dialog_message">키가 포함된 바코드를 스캔하려면, 바코드 스캐너를 설치해야합니다.</string>
+    <string name="install_dialog_message">키가 포함된 바코드를 스캔하려면, 바코드 스캐너를 설치해야 합니다.</string>
     <string name="install_button">설지</string>
     <string name="about_preference_screen_title">정보</string>
     <string name="version_preference_title">버전</string>
@@ -62,7 +62,7 @@
     <string name="button_uninstall_old_app">삭제</string>
     <string name="howitworks_page_enter_password_title">"로그인하려면 비밀번호를 입력합니다."</string>
     <string name="howitworks_page_enter_password_details">"만약 사용자가 새로운 컴퓨터나 새로운 장치를 사용중이면, Xiaomi는 사용자인지 여부를 확인하기 위해 특별한 코드를 물어볼수 있습니다."</string>
-    <string name="howitworks_page_enter_code_title">"새 컴퓨터를 사용하는 경우, 사용자의 휴대전화의 코드를 입력해주세요."</string>
+    <string name="howitworks_page_enter_code_title">"새 컴퓨터를 사용하는 경우, 사용자의 휴대전화의 코드를 입력하세요."</string>
     <string name="howitworks_page_enter_code_details">이 앱은 로그인을 진행하는 데 필요한 코드를 생성합니다.</string>
     <string name="howitworks_page_verify_device_title">"그러면 사용자는 로그인이 됩니다."</string>
     <string name="howitworks_page_verify_device_details">"여러분은 또한 컴퓨터를 기억하도록 선택할 수도 있고 Xiaomi는 여러분에게 그곳에서 코드를 다시 묻지 않을 것입니다."</string>
@@ -86,7 +86,7 @@
     <string name="lockpattern_recording_incorrect_too_short">최소 %d개의 점을 연결하세요. 다시 시도하세요:</string>
     <string name="lockpattern_pattern_entered_header">패턴이 입력됨.</string>
     <string name="lockpattern_need_to_confirm">패턴을 다시 그려 확인</string>
-    <string name="lockpattern_need_to_confirm_wrong">이전 입력과 다릅니다, 다시 입력해주세요:</string>
+    <string name="lockpattern_need_to_confirm_wrong">이전 입력과 다릅니다, 다시 입력하세요:</string>
     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>비밀번호를 틀렸습니다, %d번 더 시도할 수 있습니다&lt;/font></string>
     <string name="lockpattern_pattern_confirmed_header">새로운 패턴:</string>
     <string name="lockpattern_recording_inprogress">완료되면 손가락을 놓으세요.</string>
@@ -117,7 +117,7 @@
     <string name="title_nopassword_dialog">1일 제한</string>
     <string name="progress_loading">로딩중…</string>
     <string name="login">로그인</string>
-    <string name="password_hint">Mi 계정 비밀번호를 입력해주세요.</string>
+    <string name="password_hint">Mi 계정 비밀번호를 입력하세요.</string>
     <string name="password_error">비밀번호가 맞지 않습니다.</string>
     <string name="password_forget">비밀번호를 분실하셨나요?</string>
     <string name="app_name_lockpattern">잠금패턴</string>
@@ -127,7 +127,7 @@
     <string name="jump_updatepattern_tip">계정을 보호하기 위한 비밀번호 생성</string>
     <string name="jump_lockpattern_title">경고</string>
     <string name="update_pattern_jump">&lt;u>비밀번호 삭제&lt;/u></string>
-    <string name="original_pattern_tip">잠금 패턴을 입력해주세요.</string>
+    <string name="original_pattern_tip">잠금 패턴을 입력하세요.</string>
     <string name="new_pattern_tip">비밀번호는 4자 이상이여야 합니다.</string>
     <string name="title_createpattern">비밀번호 설정</string>
     <string name="title_updatepattern">비밀번호 변경</string>
@@ -140,11 +140,11 @@
     <string name="correct_enter_update_password">입력한 비밀번호가 틀립니다.</string>
     <string name="title_patternforgotten">"비밀번호를 분실하셨나요?"</string>
     <string name="tip1_patternforgotten">다시 설치하고 다시 활성화합니다.</string>
-    <string name="tip2_patternforgotten">다시 설정을 눌러 계정 데이터를 지우고 다시 활성화하세요.</string>
+    <string name="tip2_patternforgotten">초기화를 눌러 계정 데이터를 지우고 다시 활성화하세요.</string>
     <string name="details_patternforgotten">"활성화: 
 account.xiaomi.com에서 로그인하고 Reactivative를 클릭합니다."</string>
     <string name="activation_page">활성화 되지 않음</string>
-    <string name="activation_page_info">보안 로그인을 활성화 하려면 Mi 계정에 로그인하세요.</string>
+    <string name="activation_page_info">보안 로그인을 활성화하려면 Mi 계정에 로그인하세요.</string>
     <string name="activation_page_btn_txt">활성화</string>
     <string name="authenticator_invalid_title">계정：%1$s 의 보안토큰이 만료되었습니다.</string>
     <string name="authenticator_invalid_tip">데스크 톱 브라우저를 사용하여 이 기능을 끄거나 다른 보안 토큰을 활성화했을 수 있습니다.</string>

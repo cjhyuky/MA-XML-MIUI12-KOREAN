@@ -8,7 +8,7 @@
 * MIUI 및 시스템 설정
 참고 : 설치한 앱의 데이터는 Xiaomi 클라우드에 백업되지 않습니다."</string>
     <string name="cloud_backup_detail_state_summary_china">Wi-Fi에 연결되면 Xiaomi 클라우드 백업을 자동으로 생성합니다.</string>
-    <string name="dialog_msg_restore_require_wlan_china">백업을 복원하려면 Wi-Fi에 연결해야합니다.</string>
+    <string name="dialog_msg_restore_require_wlan_china">백업을 복원하려면 Wi-Fi에 연결해야 합니다.</string>
     <string name="dialog_title_require_wlan_china">Wi-Fi에 연결</string>
     <string name="help_and_feedback">도움말 및 피드백</string>
     <string name="app_name">Mi 클라우드 백업</string>
@@ -159,7 +159,7 @@
     <string name="doing_restore_home">홈 화면과 설정 복원중…</string>
     <string name="done_remove">성공적으로 삭제됨</string>
     <string name="download_home_data">홈 화면 레이아웃 다운로드 중…</string>
-    <string name="download_meta_again">"백업을 할 수 없습니다. 다시 시도해주세요."</string>
+    <string name="download_meta_again">"백업을 할 수 없습니다. 다시 시도하세요."</string>
     <string name="download_meta_failed">"데이터를 불러올 수 없습니다."</string>
     <string name="lack_of_storage">저장소 공간이 충분하지 않습니다.</string>
     <string name="no_account">Mi 계정에 로그인되어 있지 않습니다.</string>
@@ -201,7 +201,7 @@
     <string name="title_alert_restore_error">복원 실패</string>
     <string name="error_retry_later">동작을 완료할 수 없습니다. 1-2분 후에 다시 시도하세요.</string>
     <string name="home_hint_other_launcher">기타 런처</string>
-    <string name="unsupported_home">MIUI를 최신버전으로 업데이트하세요.</string>
+    <string name="unsupported_home">MIUI를 최신 버전으로 업데이트하세요.</string>
     <string name="load_backup_failed">백업 불러오기 실패</string>
     <string name="loading_user_backup">사용자 백업 불러오는 중…</string>
     <string name="main_space">메인 공간</string>
@@ -212,7 +212,7 @@
     <string name="backup_stopped_title">백업이 중단됨</string>
     <string name="dialog_btn_cancel_backup">취소</string>
     <string name="dialog_btn_overwrite_backup">덮어쓰기</string>
-    <string name="dialog_msg_overwrite_backup">로컬 백업은 미 클라우드의 백업과 다릅니다. 계속 진행하시면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
+    <string name="dialog_msg_overwrite_backup">로컬 백업은 Mi 클라우드의 백업과 다릅니다. 계속 진행하시면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
     <string name="other_device_main_space">메인 공간</string>
     <string name="other_device_second_space">보조 공간</string>
     <string name="self_device_main_space">"이 휴대전화의 메인 공간"</string>

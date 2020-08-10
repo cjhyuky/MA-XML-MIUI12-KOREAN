@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="access_change_text" formatted="false">%d 항목을 선택하셨습니다. 이 항목은 %d 와 병합됩니다.</string>
-    <string name="access_select">%s 항목을 선택하셨습니다.</string>
-    <string name="access_unselect">%s 항목을 취소하셨습니다.</string>
+    <string name="access_change_text" formatted="false">%d 항목을 선택했습니다. 이 항목은 %d 와 병합됩니다.</string>
+    <string name="access_select">%s 항목을 선택했습니다.</string>
+    <string name="access_unselect">%s 항목을 취소했습니다.</string>
     <string name="accessibility_title">스마트 어시스턴트</string>
     <string name="accessibilty_back_button">반환</string>
     <string name="accessibilty_move_down">아래로 이동</string>
@@ -76,11 +76,11 @@
     <string name="ball_football_title">축구</string>
     <string name="ball_football_total_rank">랭킹</string>
     <string name="ball_hupu">후푸 스포츠</string>
-    <string name="ball_net_errot">네트워크에 연결할수 없습니다. 네트워크 상태를 확인해주세요.</string>
+    <string name="ball_net_errot">네트워크에 연결할수 없습니다. 네트워크 상태를 확인하세요.</string>
     <string name="ball_recent_no_data">예정된 경기에 대한 정보가 없습니다.</string>
     <string name="beijing">베이징</string>
     <string name="bicycle">사이클링</string>
-    <string name="bl_open_failed">파일을 열지 못했습니다. 다른 파일을 선택해주세요.</string>
+    <string name="bl_open_failed">파일을 열지 못했습니다. 다른 파일을 선택하세요.</string>
     <string name="bl_open_failed_exit">오류</string>
     <string name="bl_validate_failed_change_pwd">오류</string>
     <string name="bluetooth_open_ok">반복된 오류로 비밀번호가 초기화됩니다.</string>
@@ -178,7 +178,7 @@
     <string name="cta_title">스마트 어시스턴트가 사용자를 도와드리겠습니다.</string>
     <string name="currency_china">위안(CNY)</string>
     <string name="daily_greeting">기본 인사말</string>
-    <string name="data_error">에러가 발생할 경우, 몇분 후에 다시 시도해주세요.</string>
+    <string name="data_error">에러가 발생할 경우, 몇분 후에 다시 시도하세요.</string>
     <string name="data_error_show">"주문이 완료되었으나 정보를 불러올수 없습니다."</string>
     <string name="delete">삭제</string>
     <string name="detail_action_delete">삭제</string>
@@ -251,12 +251,12 @@
     <string name="error_share_not_support">이 항목은 즐겨찾기에 추가될수 없는 항목입니다.</string>
     <string name="exapress_save_address_to_contact">이 주소를 연락처에 추가</string>
     <string name="exception_network_error_check_network">네트워크에 연결할수 없습니다.</string>
-    <string name="exception_network_error_retry">네트워크 오류입니다. 몇분후에 다시 시도해주세요.</string>
-    <string name="exception_network_error_wait_retry">네트워크에 연결할수 없습니다. 몇분후에 다시 시도해주세요.</string>
+    <string name="exception_network_error_retry">네트워크 오류입니다. 몇분후에 다시 시도하세요.</string>
+    <string name="exception_network_error_wait_retry">네트워크에 연결할수 없습니다. 몇분후에 다시 시도하세요.</string>
     <string name="exception_network_slow">네트워크가 너무 느립니다.</string>
-    <string name="exception_too_many_people_wait_retry">트래픽 쏠림 현상이 감지되었습니다. 몇분후에 다시 시도하시거나 인터넷 관리자에게 문의해주세요.</string>
+    <string name="exception_too_many_people_wait_retry">트래픽 쏠림 현상이 감지되었습니다. 몇분후에 다시 시도하시거나 인터넷 관리자에게 문의하세요.</string>
     <string name="exercise_setting_brief">거리를 측정하고 하루에 몇 걸음을 걷는지 확인하세요.</string>
-    <string name="exercise_setting_misport_detail">거리를 측정하고 하루에 몇 걸음을 걷는지 확인하려면 설정 > 권한 > 자동 시작에서 Mi Fit이 자동시작될수 있도록 설정해주세요.</string>
+    <string name="exercise_setting_misport_detail">거리를 측정하고 하루에 몇 걸음을 걷는지 확인하려면 설정 > 권한 > 자동 시작에서 Mi Fit이 자동시작될수 있도록 설정하세요.</string>
     <string name="express">특송</string>
     <string name="express_add_new_address">주소 추가</string>
     <string name="express_address_delete_warning">이 주소를 삭제하시겠습니까?</string>
@@ -319,7 +319,7 @@
     <string name="fav_network_error">네트워크 오류</string>
     <string name="fav_nodata_tip">즐겨찾기 없음</string>
     <string name="fav_search_nodata_tip">결과를 찾을 수 없습니다.</string>
-    <string name="fav_share_fail">공유에 실패했습니다. 다시 시도해 주세요.</string>
+    <string name="fav_share_fail">공유에 실패했습니다. 다시 시도하세요.</string>
     <string name="fav_success">즐겨찾기에 성공적으로 추가됨</string>
     <string name="go_to_school">직장 및 학교 출/퇴근하기</string>
     <string name="greeting_alarm_desc">내일 %1$s시에 알람이 울립니다.</string>
@@ -367,7 +367,7 @@
     <string name="launch_order_change">주문 변경</string>
     <string name="launch_order_finish">완료</string>
     <string name="launch_setting_alipay_change">계정 전환</string>
-    <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 알리페이 계정에서 로그아웃해야합니다. 지금 전환하시겠습니까?</string>
+    <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 알리페이 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
     <string name="launch_setting_alipay_change_posi">전환</string>
     <string name="launch_setting_alipay_getversion">버전 번호 가져 오기</string>
     <string name="launch_setting_alipay_login">로그인</string>
@@ -385,7 +385,7 @@
     <string name="locating_fail">"위치를 가져올 수 없습니다."</string>
     <string name="locations">자주 가는 장소</string>
     <string name="locations_preferences">주소 목록</string>
-    <string name="login_before_use">먼저 로그인해야합니다.</string>
+    <string name="login_before_use">먼저 로그인해야 합니다.</string>
     <string name="login_ok">로그인</string>
     <string name="look_more">더보기</string>
     <string name="main_add">추가</string>
@@ -438,8 +438,8 @@
     <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 알리페이 지문을 설정하세요...</string>
     <string name="mini_agree">동의함</string>
     <string name="mini_already_download">다운로드 됨</string>
-    <string name="mini_app_error">앱 오류가 발생하였습니다. 앱을 다시 실행해주세요.</string>
-    <string name="mini_auth_service_down_tips">보안 프로그램이 바이러스 검사 프로그램 (백신 프로그램 등)에서 차단되지 않게 설정해 주세요. 보통 백신 프로그램 환경설정에서 프로그램 차단 여부를 변경하실 수 있습니다.</string>
+    <string name="mini_app_error">앱 오류가 발생하였습니다. 앱을 다시 실행하세요.</string>
+    <string name="mini_auth_service_down_tips">보안 프로그램이 바이러스 검사 프로그램 (백신 프로그램 등)에서 차단되지 않게 설정하세요. 보통 백신 프로그램 환경설정에서 프로그램 차단 여부를 변경하실 수 있습니다.</string>
     <string name="mini_bl_open_failed_exit">파일을 열지 못했습니다.</string>
     <string name="mini_bl_setting">설정</string>
     <string name="mini_bl_validate_failed_change_pwd">비밀번호 연속 오류시 비밀번호가 초기화됩니다.</string>
@@ -457,17 +457,17 @@
     <string name="mini_expiry_date_title">만료일</string>
     <string name="mini_format_error">형식이 잘못되었습니다.</string>
     <string name="mini_fp_no_open_pay">지문이 변경되었습니다. 비밀번호를 다시 열어주세요.</string>
-    <string name="mini_fp_validate_failuer">지문 확인에 실패했습니다. 비밀번호를 입력해주세요.</string>
+    <string name="mini_fp_validate_failuer">지문 확인에 실패했습니다. 비밀번호를 입력하세요.</string>
     <string name="mini_iknow">가져왔습니다.</string>
     <string name="mini_input_pwd">비밀번호 입력</string>
-    <string name="mini_install_tips">알리페이 보안 플러그인을 다운로드하고 설치 (업그레이드)해야합니다.</string>
+    <string name="mini_install_tips">알리페이 보안 플러그인을 다운로드하고 설치 (업그레이드)해야 합니다.</string>
     <string name="mini_loading">알리페이</string>
     <string name="mini_loading_certpay">지갑 전환</string>
     <string name="mini_net_error_weak">네트워크가 작동하지 않습니다. 나중에 다시 시도하세요.</string>
     <string name="mini_no_input">이 칸은 비워 둘 수 없습니다.</string>
     <string name="mini_open_bluetooth">켜기</string>
     <string name="mini_open_bluetooth_now">블루투스 활성화...</string>
-    <string name="mini_open_bluetooth_tips">블루투스를 키고 연결이 가능하게 설정해주세요.</string>
+    <string name="mini_open_bluetooth_tips">블루투스를 키고 연결이 가능하게 설정하세요.</string>
     <string name="mini_page_add_hint">카드 번호</string>
     <string name="mini_page_add_other_pay">기타 지불 방법</string>
     <string name="mini_page_add_tips">비밀번호 및 문자 확인을 위해 이중 보호 기능 제공</string>
@@ -482,7 +482,7 @@
     <string name="mini_password">비밀번호</string>
     <string name="mini_password_hint">비밀번호를 입력하세요.</string>
     <string name="mini_phone_no">전화번호</string>
-    <string name="mini_phone_no_hint">은행 전화 번호</string>
+    <string name="mini_phone_no_hint">은행 전화번호</string>
     <string name="mini_quickpay_protocol">서비스 계약</string>
     <string name="mini_redo">다시 시도</string>
     <string name="mini_safe_no">보안 코드</string>
@@ -521,7 +521,7 @@
     <string name="music">음악 &amp; 라디오</string>
     <string name="music_card_error_str">에러 발생, 뮤직 앱을 통해 음악을 재생시켜 주세요.</string>
     <string name="music_open">음악 &amp; 라디오 보기</string>
-    <string name="music_setting_brief">음악이나 라디오를 듣기 위해서는 이어폰을 연결해 주세요.</string>
+    <string name="music_setting_brief">음악이나 라디오를 듣기 위해서는 이어폰을 연결하세요.</string>
     <string name="navigation_network_location_enable">동의</string>
     <string name="navigation_network_location_enable_later">취소</string>
     <string name="note_name">메모하기</string>
@@ -646,7 +646,7 @@
     <string name="setting_btn_setting">설정</string>
     <string name="setting_cards_all_added">모든 카드를 추가했습니다.</string>
     <string name="setting_cards_more">더 많은 카드</string>
-    <string name="setting_common_private">보안 &amp; 개인 정보 보호</string>
+    <string name="setting_common_private">보안 &amp; 개인정보 보호</string>
     <string name="setting_dialog_cancel">취소</string>
     <string name="setting_dialog_quit">종료</string>
     <string name="setting_dialog_title">모든 변경 사항이 손실됩니다. 지금 종료하시겠습니까?</string>
@@ -666,10 +666,10 @@
     <string name="setting_football_data">데이터 제공 업체</string>
     <string name="setting_football_edit">수정</string>
     <string name="setting_football_fav">팀</string>
-    <string name="setting_football_fav_null">어떤 팀도 팔로우하지 않으셨습니다!</string>
+    <string name="setting_football_fav_null">어떤 팀도 팔로우하지 않았습니다!</string>
     <string name="setting_football_hupu">후푸 스포츠</string>
     <string name="setting_football_loading">잠시만 기다려주세요 ... </string>
-    <string name="setting_football_select_title"> 팔로우 할 팀을 선택해주세요.</string>
+    <string name="setting_football_select_title"> 팔로우 할 팀을 선택하세요.</string>
     <string name="setting_football_toast_max">최대 4개의 팀을 선택할 수 있습니다.</string>
     <string name="setting_home_label">집 주소 추가</string>
     <string name="setting_launch_all_added">더 이상 추가할 수 없습니다.</string>
@@ -733,12 +733,12 @@
     <string name="steps_auto_misport">자동 시작 허용</string>
     <string name="steps_get_misport">Mi 피트 설치</string>
     <string name="steps_misport">선택된 Mi 피트</string>
-    <string name="steps_misport_dialog_content">Mi 피트가 설치되어 있지 않습니다. 걸음 추적기를 사용하려면 앱을 설치해주세요.</string>
+    <string name="steps_misport_dialog_content">Mi 피트가 설치되어 있지 않습니다. 걸음 추적기를 사용하려면 앱을 설치하세요.</string>
     <string name="steps_misport_dialog_title">Mi 피트가 아직 설치되지 않았습니다.</string>
     <string name="steps_misport_download">다운로드</string>
     <string name="steps_misport_go">허용</string>
     <string name="steps_misport_ok">알겠습니다.</string>
-    <string name="steps_misport_tip">귀하의 Mi 계정을 사용하여 Mi 피트에 로그인하고 Mi 피트가 보안 권한에서 자동 시작되도록 허용해주세요.</string>
+    <string name="steps_misport_tip">귀하의 Mi 계정을 사용하여 Mi 피트에 로그인하고 Mi 피트가 보안 권한에서 자동 시작되도록 허용하세요.</string>
     <string name="steps_sport">Mi 피트</string>
     <string name="steps_sport_des">Mi 피트 앱에서 정확한 정보를 받아보세요.</string>
     <string name="steps_vip">걸음</string>
@@ -769,7 +769,7 @@
     <string name="taxi_target">목적지</string>
     <string name="time_just_now">지금</string>
     <string name="toast_function_add_not_allowed">단축키를 최대 10개까지 추가할 수 있습니다.</string>
-    <string name="toast_function_remove_not_allowed">최소 한개 이상의 바로가기를 추가해야합니다.</string>
+    <string name="toast_function_remove_not_allowed">최소 한 개 이상의 바로가기를 추가해야 합니다.</string>
     <string name="total_month_desc_text">이번 달</string>
     <string name="total_today_desc_text">오늘</string>
     <string name="train_C">C 열차</string>
@@ -914,12 +914,12 @@
     <string name="alipay_sdk_payed_finished">구매완료</string>
     <string name="alipay_sdk_payed_rmb">위안</string>
     <string name="alipay_sdk_payed_show_paycode">코드 보기</string>
-    <string name="alipay_sdk_payed_success">결재완료</string>
+    <string name="alipay_sdk_payed_success">결제완료</string>
     <string name="alipay_sdk_tiemout">세션이 만료됨. 다시 로그인하세요.</string>
-    <string name="express_install_cainiao_description">%s 서비스는 Cainiao앱이 필요합니다. 설치하시겠습니까?</string>
+    <string name="express_install_cainiao_description">%s 서비스는 Cainiao 앱이 필요합니다. 설치하시겠습니까?</string>
     <string name="express_install_cainiao_hidden"><u>"다시보지않기"</u></string>
     <string name="express_install_cainiao_ok">설치</string>
-    <string name="express_install_cainiao_title">Cainiao앱 설치</string>
+    <string name="express_install_cainiao_title">Cainiao 앱 설치</string>
     <string name="express_install_delivery_service">배송을 추적하시고, 업체와 연락할 수 있습니다.</string>
     <string name="express_install_open_locker">열기</string>
     <string name="express_install_order_detail">주문 자세히 보기</string>
@@ -940,13 +940,13 @@
     <string name="express_setting_authorized_number">인증된 휴대전화 번호</string>
     <string name="express_setting_authorized_number_add">추가</string>
     <string name="express_setting_authorized_number_delete">삭제</string>
-    <string name="express_setting_authorized_number_description">개인정보 상태: 귀하의 휴대전화번호는 배송조회와 상태를 체크하는 곳에만 사용됩니다.</string>
+    <string name="express_setting_authorized_number_description">개인정보 상태: 귀하의 휴대전화 번호는 배송조회와 상태를 체크하는 곳에만 사용됩니다.</string>
     <string name="express_setting_authorized_number_empty">"휴대전화 번호를 아직 인증받지 않았습니다."</string>
     <string name="express_setting_brief">주문 배송조회</string>
-    <string name="express_setting_brief_detail">귀하의 휴대전화번호와 주문번호를 이용하여 모든 주문을 추적합니다.</string>
+    <string name="express_setting_brief_detail">귀하의 휴대전화 번호와 주문번호를 이용하여 모든 주문을 추적합니다.</string>
     <string name="express_setting_code_invalid">"올바른 코드를 입력했는지 확인하세요"</string>
     <string name="express_setting_count_down_time">%ds번째 시도. 다시 시도하세요.</string>
-    <string name="express_setting_dialog_authority_description">휴대전화인증은 옐로우페이지에서 제공됩니다. 옐로우페이지는 정상적으로 작동하려면 네트워크에 연결해야합니다. 동의하십니까?</string>
+    <string name="express_setting_dialog_authority_description">휴대전화인증은 옐로우페이지에서 제공됩니다. 옐로우페이지는 정상적으로 작동하려면 네트워크에 연결해야 합니다. 동의하십니까?</string>
     <string name="express_setting_dialog_delete_cancel">취소</string>
     <string name="express_setting_dialog_delete_description">"전화번호를 삭제하면 옐로우 페이지가 배달 정보를 자동으로 추적 할 수 없습니다. 그래도 삭제하시겠습니까?"</string>
     <string name="express_setting_dialog_delete_failed">"전화번호를 삭제할 수 없습니다."</string>
@@ -955,13 +955,13 @@
     <string name="express_setting_dialog_delete_title">전화번호 삭제</string>
     <string name="express_setting_entrance_description">주문 세부 정보를 확인하려면 전화번호를 인증받으세요.</string>
     <string name="express_setting_number">전화번호</string>
-    <string name="express_setting_number_invalid">"유효한 전화 번호를 입력했는지 확인하세요"</string>
+    <string name="express_setting_number_invalid">"유효한 전화번호를 입력했는지 확인하세요"</string>
     <string name="express_setting_number_save">확인 및 저장</string>
     <string name="express_setting_number_title">전화번호 추가</string>
-    <string name="express_setting_phone">전화 번호를 사용하여 정보 요청 허용</string>
+    <string name="express_setting_phone">전화번호를 사용하여 정보 요청 허용</string>
     <string name="express_setting_request_failed">"요청을 보낼 수 없습니다. 오류 코드: %s."</string>
     <string name="express_setting_service_provider">서비스 제공 업체</string>
-    <string name="express_setting_title">인증된 전화 번호</string>
+    <string name="express_setting_title">인증된 전화번호</string>
     <string name="express_setting_tracking_disable">인증되지 않음</string>
     <string name="express_setting_verification_code">코드</string>
     <string name="express_setting_verification_code_acquire">인증문자 받기</string>
@@ -973,9 +973,9 @@
     <string name="express_support_app">지원되는 앱</string>
     <string name="express_taobao">타오바오</string>
     <string name="express_tmall">티몰</string>
-    <string name="express_update_cainiao_description">이 기능을 사용하려면 Cainiao앱을 업데이트하세요.</string>
+    <string name="express_update_cainiao_description">이 기능을 사용하려면 Cainiao 앱을 업데이트하세요.</string>
     <string name="express_update_cainiao_ok">업데이트</string>
-    <string name="express_update_cainiao_title">Cainiao앱 버전이 구버전입니다.</string>
+    <string name="express_update_cainiao_title">Cainiao 앱이 오래된 버전입니다.</string>
     <string name="fav_support_introduce">개별 앱의 즐겨찾기 관리</string>
     <string name="flow_open">모바일 데이터 카드 표시</string>
     <string name="flow_setting_brief">데이터 사용 정보 보기(보안 > 데이터 사용량에서 데이터 요금제 추가).</string>

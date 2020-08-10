@@ -20,7 +20,7 @@
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_skip_setup_account_title">Mi 클라우드를 사용하지 않겠습니까?</string>
     <string name="passport_skip_setup_account_msg">나중에 설정에서 Mi 계정을 설정할 수 있습니다.</string>
-    <string name="passport_find_password_on_web_msg">비밀번호를 다시 설정하시려면 account.mi.com을 방문하세요.</string>
+    <string name="passport_find_password_on_web_msg">비밀번호를 초기화하려면 account.mi.com을 방문하세요.</string>
     <string name="passport_title_reg">계정 생성</string>
     <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보세요.</string>
     <string name="passport_uplink_reg">전화번호 사용</string>
@@ -33,7 +33,7 @@
     <string name="passport_select_reg_ways_title">다른 방법으로 로그인</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 이용하여 계정 생성</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
-    <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_re_register">다시 회원 가입</string>
     <string name="passport_register">계정 만들기</string>
     <string name="passport_vcode_sms_send_prompt">%s 기기로 인증 코드 전송</string>
@@ -54,10 +54,10 @@
     <string name="passport_registered_phone_user_name">사용자 이름: %s</string>
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
     <string name="passport_reset_password_prompt">비밀번호가 올바르지 않습니다.</string>
-    <string name="passport_reset_password_title">비밀번호 다시 설정</string>
+    <string name="passport_reset_password_title">비밀번호 초기화</string>
     <string name="passport_auto_generate_pwd">보안 비밀번호 생성</string>
     <string name="passport_pwd_generate_failure">비밀번호를 생성할 수 없음</string>
-    <string name="passport_use_generated_pwd_title">비밀번호를 기억해 주세요!</string>
+    <string name="passport_use_generated_pwd_title">비밀번호를 기억하세요!</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
     <string name="passport_register_restricted_title">이 전화번호를 사용할 수 없습니다.</string>
     <string name="passport_register_restricted">너무 많은 계정이 이 번호에 연결되었습니다. 다른 번호를 사용하세요.</string>
@@ -72,7 +72,7 @@
     <string name="passport_resend_active_email">이메일 다시 보내기</string>
     <string name="passport_failed_to_send_activate_email">활성화 이메일을 전송하지 못했습니다.</string>
     <string name="passport_reg_success">계정 만들어짐</string>
-    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 다시 설정하는 데 사용할 수 있습니다.</string>
+    <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_remove_unactivated_account_notice">계정이 활성화되지 않았습니다.</string>
     <string name="passport_remove_confirm">로그아웃</string>
     <string name="passport_skip_register">가입 건너뛰기</string>
@@ -136,14 +136,14 @@
     <string name="passport_user_agreement_p1">동의: </string>
     <string name="passport_user_agreement_p2">사용자 계약</string>
     <string name="passport_user_agreement_p3"> 및 </string>
-    <string name="passport_user_agreement_p4">개인 정보 보호 정책</string>
-    <string name="passport_privacy_policy">개인 정보 보호 정책</string>
+    <string name="passport_user_agreement_p4">개인정보 보호 정책</string>
+    <string name="passport_privacy_policy">개인정보 보호 정책</string>
     <string name="passport_user_agreement">사용자 계약</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. %s에서 이 페이지를 볼 수 있습니다.</string>
     <string name="passport_login_failed">로그인할 수 없습니다.</string>
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_verification_failed">계정 인증 실패</string>
-    <string name="passport_reset_fail_title">다시 설정하지 못했습니다.</string>
+    <string name="passport_reset_fail_title">초기화하지 못했습니다.</string>
     <string name="passport_identification_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
@@ -174,13 +174,13 @@
     <string name="passport_login_other_account">다른 계정</string>
     <string name="passport_reg_new_account">계정 생성</string>
     <string name="passport_select_the_login_account">로그인할 계정 선택</string>
-    <string name="passport_select_the_register_phone">계정을 생성할 전화 번호 선택</string>
+    <string name="passport_select_the_register_phone">계정을 생성할 전화번호 선택</string>
     <string name="passport_select_the_recycle_phone_login">계정을 선택하세요.</string>
     <string name="passport_recycle_login_other_account">내 계정이 아닙니다. 다른 계정을 사용하겠습니다.</string>
     <string name="passport_registered_phone_num">휴대전화: %s</string>
     <string name="passport_quick_login">가입하기</string>
     <string name="passport_error_verify_activator_phone_title">전화번호 인증 실패</string>
-    <string name="passport_error_verify_activator_phone_message">SIM 카드가 활성화 되어있고 네트워크에 연결이 되어있는지 확인해주세요.</string>
+    <string name="passport_error_verify_activator_phone_message">SIM 카드가 활성화 되어있고 네트워크에 연결이 되어있는지 확인하세요.</string>
     <string name="passport_error_no_password_user">아직 비밀번호를 설정하지 않았습니다. SMS로 로그인하세요.</string>
     <string name="passport_phone_ticket_login">SMS로 로그인</string>
     <string name="passport_account_set_password">비밀번호 설정</string>
@@ -194,11 +194,11 @@
     <string name="search_mi_account_key_words">Mi 클라우드,계정 설정,Mi 페이 정보,로그아웃</string>
     <string name="search_mi_account_desc">Mi 계정</string>
     <string name="search_mi_account_path">설정/Mi 계정</string>
-    <string name="search_user_detail">개인 정보</string>
-    <string name="search_user_detail_top_key_words">개인 정보,프로필 사진 변경,사용자 이름 변경,별명 변경,생일 변경,성별 변경</string>
+    <string name="search_user_detail">개인정보</string>
+    <string name="search_user_detail_top_key_words">개인정보,프로필 사진 변경,사용자 이름 변경,별명 변경,생일 변경,성별 변경</string>
     <string name="search_user_detail_bottom_key_words">소득 변경,교육 변경,위치 변경,지역 변경</string>
-    <string name="search_user_detail_desc">개인 정보</string>
-    <string name="search_user_detail_path">설정/Mi 계정/개인 정보</string>
+    <string name="search_user_detail_desc">개인정보</string>
+    <string name="search_user_detail_path">설정/Mi 계정/개인정보</string>
     <string name="search_account_security">계정 보안</string>
     <string name="search_account_security_key_words">휴대전화 변경,이메일 변경,계정 보호,계정,Sina Weibo,QQ,허가,기기</string>
     <string name="search_account_security_desc">계정 설정</string>
@@ -231,7 +231,7 @@
     <string name="access_token_expired_warning">Weibo 계정이 만료되었습니다.</string>
     <string name="access_token_invalid_warning">Weibo 계정이 잘못되었습니다.</string>
     <string name="service_error">서비스 오류</string>
-    <string name="account_user_base_info">개인 정보</string>
+    <string name="account_user_base_info">개인정보</string>
     <string name="account_user_name">이름</string>
     <string name="account_user_id">Mi 계정 ID</string>
     <string name="account_none">없음</string>
@@ -292,7 +292,7 @@
     <string name="restart_action">다시 시작</string>
     <string name="error_dup_binded_email">이 이메일 주소가 이미 다른 Mi 계정과 관련되어 있습니다.</string>
     <string name="error_invalid_bind_address">입력한 이메일 주소가 올바르지 않습니다.</string>
-    <string name="get_phone_bind_exceed_limit">한개의 전화번호로 최대 3개의 Mi 계정을 연결할 수 있습니다. 새로운 계정을 추가할 수 없습니다.</string>
+    <string name="get_phone_bind_exceed_limit">한 개의 전화번호로 최대 3개의 Mi 계정을 연결할 수 있습니다. 새로운 계정을 추가할 수 없습니다.</string>
     <string name="just_a_second">잠시 기다려 주세요…</string>
     <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="mi_account_identity_title">ID 확인</string>
@@ -305,10 +305,10 @@
     <string name="confirm_activate_email">인증됨</string>
     <string name="resend_email_success">이메일 재전송됨</string>
     <string name="resend_email_reach_limit_title">이메일을 보낼 수 없음</string>
-    <string name="resend_email_reach_limit_message">요청하신 인증 이메일이 너무 많습니다. 인증 이메일이 스팸 폴더로 이동되지는 않았는지 확인해 주세요.</string>
+    <string name="resend_email_reach_limit_message">요청하신 인증 이메일이 너무 많습니다. 인증 이메일이 스팸 폴더로 이동되지는 않았는지 확인하세요.</string>
     <string name="update_email_address_dialog_title">이메일 업데이트</string>
     <string name="update_email_address_dialog_message">업데이트하기 전 신분 인증이 요구됩니다.</string>
-    <string name="account_user_details">개인 정보</string>
+    <string name="account_user_details">개인정보</string>
     <string name="account_security">계정 보안</string>
     <string name="account_mipay_info">Mi 페이</string>
     <string name="account_xiaomi_service">서비스</string>
@@ -345,7 +345,7 @@
     <string name="device_name">기기 이름</string>
     <string name="find_device_access_denied">상태를 가져올 수 없습니다. 접근이 거절되었습니다.</string>
     <string name="find_device_account_error">계정 오류로 상태를 가져올 수 없습니다.</string>
-    <string name="find_device_null_credential_error">기기 정보를 가져올 수 없습니다. Mi 고객 서비스 센터에 연락하세요.</string>
+    <string name="find_device_null_credential_error">기기 정보를 가져올 수 없습니다. Mi 고객 서비스 센터에 연락해주세요.</string>
     <string name="find_device_request_prepare_error">상태를 가져올 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="find_device_request_error">서버 오류 발생, 1분에서 2분정도 기다리신 후 다시 시도하세요.</string>
     <string name="find_device_bad_response_error">서버 오류 발생, 1분에서 2분정도 기다리신 후 다시 시도하세요.</string>
@@ -377,8 +377,8 @@
     <string name="delete_app">앱 삭제</string>
     <string name="delete_browser">브라우저 삭제</string>
     <string name="confirm_delete_device_message">이 기기를 삭제하신 후 Mi 계정</string>
-    <string name="confirm_delete_app_message">이 앱의 기록을 삭제하신 후 Mi 계정으로 다시 로그인하시려면 전화번호 인증을 해야 합니다.</string>
-    <string name="confirm_delete_browser_message">이 브라우저를 삭제하신 후 Mi 계정으로 다시 로그인하시려면 전화번호 인증을 해야 합니다.</string>
+    <string name="confirm_delete_app_message">이 앱의 기록을 삭제하신 후 Mi 계정으로 다시 로그인하려면 전화번호 인증을 해야 합니다.</string>
+    <string name="confirm_delete_browser_message">이 브라우저를 삭제하신 후 Mi 계정으로 다시 로그인하려면 전화번호 인증을 해야 합니다.</string>
     <string name="delete_lock_device_success">삭제 성공</string>
     <string name="verify_phone_title">전화번호 인증</string>
     <string name="verify_phone_prompt">전화번호 선택하여 인증</string>
@@ -390,11 +390,11 @@
     <string name="find_device_activate_account">계정 활성화</string>
     <string name="login_check_find_device">기기 보안 정보 얻는 중…</string>
     <string name="unlock_help_notice">"도움말:
-· 만약 비밀번호를 잊었다면 id.mi.com에서 다시 설정하세요.
+· 만약 비밀번호를 잊었다면 id.mi.com에서 초기화하세요.
 · 만약 기기의 잠금을 해제할 수 없다면 i.mi.com에서 기기 찾기를 꺼주세요.
 · 언락 코드 : %s"</string>
     <string name="find_device_display_id">잠금해제 코드: %s</string>
-    <string name="login_find_device_bind">이 기기는 이미 존재하는 Mi 계정 ID(%s) 와 연결되어 있습니다. 이 기기를 인증하시려면 비밀번호를 입력하세요.</string>
+    <string name="login_find_device_bind">이 기기는 이미 존재하는 Mi 계정 ID(%s) 와 연결되어 있습니다. 이 기기를 인증하려면 비밀번호를 입력하세요.</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, 관련된 전화번호: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, 관련된 이메일 주소: %s</string>
     <string name="oauth_title">Mi 계정으로 로그인</string>
@@ -470,7 +470,7 @@
     <string name="passport_sms_verification_code_login">SMS 인증 코드 로그인</string>
     <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
     <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
-    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증 코드, 세컨드 스페이스 데이터 및 기타 개인 정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인 정보를 처리하고 사용하는 방법을 알아 보려면 개인 정보 취급 방침을 참조하세요.</string>
+    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증 코드, 세컨드 스페이스 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 취급 방침을 참조하세요.</string>
     <string name="passport_talkback_image_captcha">이미지 인증 코드</string>
     <string name="passport_talkback_switch_image_captcha">이미지 인증 코드로 전환</string>
     <string name="passport_talkback_switch_voice_captcha">음성 인증 코드로 전환</string>
@@ -499,7 +499,7 @@ ID:%s
     <string name="send_diagnosis_log">분석 로그자료 전송</string>
     <string name="sending">보내는 중...</string>
     <string name="temporary_not_available">일시적으로 사용 불가</string>
-    <string name="confirm_new_pwd">새로운 비밀번호를 다시입력해주세요.</string>
+    <string name="confirm_new_pwd">새로운 비밀번호를 다시입력하세요.</string>
     <string name="inconsistent_pwd">"비밀번호가 같지 않습니다."</string>
     <string name="input_new_pwd">새로운 비밀번호를 입력하세요.</string>
     <string name="mi_finance">나의 잔고</string>
@@ -510,7 +510,7 @@ ID:%s
     <string name="exit">나가기</string>
     <string name="i_agree">확인</string>
     <string name="i_agree_continue">동의</string>
-    <string name="kr_license_desc">Mi 계정과 Mi클라우드 서비스를 사용하시려면 사용자 동의와 개인정보 보호정책에 동의해야 합니다.</string>
+    <string name="kr_license_desc">Mi 계정과 Mi클라우드 서비스를 사용하려면 사용자 동의와 개인정보 보호정책에 동의해야 합니다.</string>
     <string name="kr_permission_contacts_desc">연락처 정보 읽기를 위한 권한</string>
     <string name="kr_permission_desc">권한 요구됨</string>
     <string name="kr_permission_phone_desc">계정 보호를 위한 권한</string>

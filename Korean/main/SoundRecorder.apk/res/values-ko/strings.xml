@@ -137,7 +137,7 @@
     <string name="recognition_error_engine">식별 엔진 오류</string>
     <string name="recognition_error_engine_singleton">식별 엔진이 과부하 상태입니다.</string>
     <string name="recognition_error_download_title">식별 엔진 없음</string>
-    <string name="recognition_error_download_msg">서비스를 사용하시려면 식별 엔진을 다운로드하세요.</string>
+    <string name="recognition_error_download_msg">서비스를 사용하려면 식별 엔진을 다운로드하세요.</string>
     <string name="recognition_error_download_ok">다운로드</string>
     <string name="recognition_error_download_cancel">나중에</string>
     <string name="recognition_error_download_fail">다운로드 실패, 네트워크 설정을 확인하시고 다시 시도하세요.</string>
@@ -149,7 +149,7 @@
     <string name="clear_records">동기화된 녹음 삭제</string>
     <string name="choose_call_records_count">%d개 항목</string>
     <string name="network_tip_dialog_title">인터넷 연결이 요구됨</string>
-    <string name="network_tip_dialog_content">레코더가 정상적으로 작동하려면 인터넷에 연결해야합니다. 동의하십니까?</string>
+    <string name="network_tip_dialog_content">레코더가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 동의하십니까?</string>
     <string name="network_tip_dialog_ok">동의함</string>
     <string name="network_tip_dialog_cancel">동의하지 않음</string>
     <string name="head_set_tip_dialog_title">내장 마이크 사용</string>
@@ -159,7 +159,7 @@
     <string name="cloud_service_state_open_reminder">Mi클라우드 동기화를 켜서 녹음 파일을 동기화하세요.</string>
     <string name="menu">메뉴</string>
     <string name="dialog_privacy_revoke_tips">"약관을 철회하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 거절하게 되면 앱을 사용할 수 없게 될 수도 있습니다. Mi Cloud 서비스 약관을 철회하기 전에 i.mi.com에 로그인하세요."</string>
-    <string name="privacy_policy_title">개인 정보 보호 약관</string>
+    <string name="privacy_policy_title">개인정보 보호 약관</string>
     <string name="record_format_preference_title">녹음 포맷</string>
     <string name="alert_message_delete_local_record">이 녹음을 지우시겠습니까?</string>
     <string name="korea_permission_phone">통화</string>

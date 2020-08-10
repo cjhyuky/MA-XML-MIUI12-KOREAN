@@ -191,7 +191,7 @@
     <string name="defaultVoiceMailAlphaTag">음성메일</string>
     <string name="default_audio_route_category_name">시스템</string>
     <string name="default_audio_route_name">휴대전화</string>
-    <string name="default_audio_route_name_dock_speakers">도크 스피커</string>
+    <string name="default_audio_route_name_dock_speakers">독 스피커</string>
     <string name="default_audio_route_name_headphones">헤드폰</string>
     <string name="delete">삭제</string>
     <string name="deleteText">삭제</string>
@@ -234,7 +234,7 @@
     <string name="eventTypeCustom">맞춤설정</string>
     <string name="eventTypeOther">기타</string>
     <string name="expires_on">만료 날짜:</string>
-    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 %s 제거 전에 마운트 해제 해야합니다.</string>
+    <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 %s 제거 전에 마운트 해제해야 합니다.</string>
     <string name="ext_media_badremoval_notification_title">%s 예기치 않게 제거됨</string>
     <string name="ext_media_checking_notification_message">오류 확인 중입니다.</string>
     <string name="ext_media_checking_notification_title">%s 준비 중</string>
@@ -307,13 +307,13 @@
     <string name="httpErrorFailedSslHandshake">보안 연결을 설정할 수 없습니다.</string>
     <string name="httpErrorFile">파일에 액세스할 수 없습니다.</string>
     <string name="httpErrorFileNotFound">요청한 파일을 찾을 수 없습니다.</string>
-    <string name="httpErrorIO">서버와 통신할 수 없습니다. 다시 시도해 주세요.</string>
+    <string name="httpErrorIO">서버와 통신할 수 없습니다. 다시 시도하세요.</string>
     <string name="httpErrorLookup">URL을 찾을 수 없습니다.</string>
     <string name="httpErrorOk">확인</string>
     <string name="httpErrorProxyAuth">프록시 서버를 통한 인증에 실패했습니다.</string>
     <string name="httpErrorRedirectLoop">페이지에 서버 리디렉션이 너무 많이 포함되어 있습니다.</string>
     <string name="httpErrorTimeout">서버 연결 제한시간이 초과되었습니다.</string>
-    <string name="httpErrorTooManyRequests">처리 중인 요청이 너무 많습니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="httpErrorTooManyRequests">처리 중인 요청이 너무 많습니다. 잠시 후에 다시 시도하세요.</string>
     <string name="httpErrorUnsupportedAuthScheme">사이트 인증 스키마가 지원되지 않습니다.</string>
     <string name="httpErrorUnsupportedScheme">지원되지 않는 프로토콜입니다.</string>
     <string name="imProtocolAim">AIM</string>
@@ -584,7 +584,7 @@
     <string name="permdesc_batteryStats">앱이 수집된 배터리 통계를 수정할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permdesc_bindAccessibilityService">권한을 가진 프로그램이 접근성 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindDeviceAdmin">권한을 가진 프로그램이 기기 관리자에게 인텐트를 보낼 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
-    <string name="permdesc_bindGadget">앱이 각 앱에 대해 사용할 수 있는 위젯을 시스템에 알릴 수 있도록 허용합니다. 이 권한을 갖는 앱은 개인 정보에 대한 액세스 권한을 다른 앱에 부여할 수 있습니다. 일반 앱에서는 사용하지 않습니다.</string>
+    <string name="permdesc_bindGadget">앱이 각 앱에 대해 사용할 수 있는 위젯을 시스템에 알릴 수 있도록 허용합니다. 이 권한을 갖는 앱은 개인정보에 대한 액세스 권한을 다른 앱에 부여할 수 있습니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permdesc_bindInputMethod">권한을 가진 프로그램이 입력 방법에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindPackageVerifier">권한을 가진 프로그램이 패키지 인증을 요청할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindRemoteViews">권한을 가진 프로그램이 위젯 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
@@ -629,7 +629,7 @@
     <string name="permdesc_forceBack">앱이 포그라운드에 있는 작업을 강제로 닫고 되돌아갈 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_forceStopPackages">앱이 다른 앱을 강제로 종료할 수 있도록 허용합니다.</string>
     <string name="permdesc_getAccounts">앱이 휴대전화가 알고 있는 계정 목록을 가져올 수 있도록 허용합니다. 이 경우 설치한 애플리케이션에 의해 만들어진 모든 계정을 포함할 수 있습니다.</string>
-    <string name="permdesc_getDetailedTasks">앱이 현재 실행 중이거나 최근에 실행된 작업에 대한 상세한 정보를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 다른 앱에 대한 개인 정보를 검색할 수 있습니다.</string>
+    <string name="permdesc_getDetailedTasks">앱이 현재 실행 중이거나 최근에 실행된 작업에 대한 상세한 정보를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 다른 앱에 대한 개인정보를 검색할 수 있습니다.</string>
     <string name="permdesc_getPackageSize">앱이 해당 코드, 데이터 및 캐시 크기를 검색할 수 있도록 허용합니다.</string>
     <string name="permdesc_getTasks">앱이 현재 실행 중이거나 최근에 실행된 작업에 대한 정보를 검색할 수 있도록 허용합니다. 이 경우 앱이 기기에서 사용되는 다른 앱에 대한 정보를 검색할 수 있습니다.</string>
     <string name="permdesc_grantRevokePermissions">애플리케이션이 해당 애플리케이션 및 기타 애플리케이션에 대한 특정 권한을 승인 또는 취소하도록 허용합니다. 이 경우 악성 애플리케이션이 승인되지 않은 기능에 액세스할 수 있습니다.</string>
@@ -698,7 +698,7 @@
     <string name="permdesc_setKeyboardLayout">앱이 키보드 레이아웃을 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setOrientation">앱이 언제든지 화면 회전을 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setPointerSpeed">앱이 언제든지 마우스 또는 트랙패드 포인터의 속도를 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
-    <string name="permdesc_setPreferredApplications">앱이 기본 앱을 수정할 수 있도록 허용합니다. 이 경우 악성 앱이 실행되는 앱을 몰래 변경하고 기존 앱으로 위장하여 사용자의 개인 정보를 수집할 수 있습니다.</string>
+    <string name="permdesc_setPreferredApplications">앱이 기본 앱을 수정할 수 있도록 허용합니다. 이 경우 악성 앱이 실행되는 앱을 몰래 변경하고 기존 앱으로 위장하여 사용자의 개인정보를 수집할 수 있습니다.</string>
     <string name="permdesc_setProcessLimit">앱이 실행할 최대 프로세스 수를 제어할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setScreenCompatibility">앱이 다른 애플리케이션의 화면 호환성 모드를 제어할 수 있도록 허용합니다. 이 경우 악성 애플리케이션이 다른 애플리케이션의 동작을 멈추게 할 수 있습니다.</string>
     <string name="permdesc_setTime">앱이 휴대전화 시계의 시간을 변경할 수 있도록 허용합니다.</string>

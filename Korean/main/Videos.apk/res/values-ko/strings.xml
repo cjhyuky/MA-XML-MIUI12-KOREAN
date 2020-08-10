@@ -31,7 +31,7 @@
     <string name="common_open_on_phone">휴대전화에서 열기</string>
     <string name="common_google_play_services_api_unavailable_text">%1$s에 필요한 하나 이상의 Google Play 서비스를 현재 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다.</string>
     <string name="common_google_play_services_sign_in_failed_title">로그인 실패</string>
-    <string name="common_google_play_services_sign_in_failed_text">지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택해 주세요.</string>
+    <string name="common_google_play_services_sign_in_failed_text">지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택하세요.</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_action_bar_home_description">홈 탐색</string>
     <string name="abc_action_bar_up_description">위로 탐색</string>
@@ -237,7 +237,7 @@
     <string name="retry">다시 시도</string>
     <string name="try_again">다시 시도</string>
     <string name="get_help">도움말 보기</string>
-    <string name="troubleshoot">문제해결</string>
+    <string name="troubleshoot">문제 해결</string>
     <string name="dismiss">닫기</string>
     <string name="recent">New</string>
     <string name="tap_to_retry">다시 시도하려면 터치하세요.</string>
@@ -295,7 +295,7 @@
     <string name="warning_movie_bandwidth_title">모바일 네트워크를 사용하시겠습니까?</string>
     <string name="warning_movie_bandwidth">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="error_browser_not_available">사용 가능한 웹 브라우저가 없습니다.</string>
-    <string name="error_play_store_is_updating">Play 스토어를 업데이트하는 중입니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="error_play_store_is_updating">Play 스토어를 업데이트하는 중입니다. 잠시 후 다시 시도하세요.</string>
     <string name="error_play_store_not_available">Play 스토어를 사용할 수 없습니다. play.google.com 페이지에서 콘텐츠를 구매할 수 있습니다.</string>
     <string name="error_no_web_search_intent_handler">기기에 웹 검색을 위해 설치된 애플리케이션이 없습니다.</string>
     <string name="error_network">네트워크에 문제가 발생했습니다.</string>
@@ -306,7 +306,7 @@
     <string name="error_generic">오류가 발생했습니다.</string>
     <string name="error_generic_restart_device">오류가 발생했습니다. 문제가 지속되면 기기를 다시 시작해 보세요.</string>
     <string name="rental_period_expired">동영상의 대여 기간이 만료되었습니다.</string>
-    <string name="error_purchase_still_pending">아직 구입 대기 중입니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="error_purchase_still_pending">아직 구입 대기 중입니다. 잠시 후에 다시 시도하세요.</string>
     <string name="error_purchase_not_found">Google Play에서 이 동영상을 찾을 수 없습니다.</string>
     <string name="add_account">"계속하려면 이 기기에 '%1$s' 계정을 추가하세요."</string>
     <string name="add_account_button">추가</string>
@@ -565,7 +565,7 @@
     <string name="disconnect">연결 해제</string>
     <string name="dma_consent_dialog_message">현재 내 %1$s 계정이 Disney Movies Anywhere 계정과 연결되어 있습니다. 두 계정을 연결된 상태로 유지하시겠습니까?</string>
     <string name="dma_account_disconnected">현재 내 %1$s 계정과 Disney Movies Anywhere 계정이 연결 해제되었습니다.</string>
-    <string name="error_try_again_later_dialog_message">%1$s 나중에 다시 시도해 주세요.</string>
+    <string name="error_try_again_later_dialog_message">%1$s 나중에 다시 시도하세요.</string>
     <string name="pref_language_and_captions">언어 및 캡션</string>
     <string name="pref_language_title">오디오 언어</string>
     <string name="audio_langage_selector_dialog_title">동영상 재생 언어</string>

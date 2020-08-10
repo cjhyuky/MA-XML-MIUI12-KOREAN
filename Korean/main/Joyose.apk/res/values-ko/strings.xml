@@ -18,7 +18,7 @@
     <string name="open_cta">설정에서 보안 앱을 열고 \"인터넷 연결 허용\"</string>
     <string name="permstep_description">"응용 프로그램이 휴대전화의 단계 정보를 읽도록 허용"</string>
     <string name="permstep_label">읽기 단계</string>
-    <string name="restart_details">이 기능을 켜거나 끄려면 기기를 다시 시작해야합니다. 지금 다시 시작하시겠습니까?</string>
+    <string name="restart_details">이 기능을 켜거나 끄려면 기기를 다시 시작해야 합니다. 지금 다시 시작하시겠습니까?</string>
     <string name="restart_later">나중에</string>
     <string name="restart_now">지금 다시 시작</string>
     <string name="stop_sync">자동 동기화하지 마세요.</string>

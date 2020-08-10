@@ -118,8 +118,8 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>
-        <item>직사각형이 아닌 클립을 파란색 영역에 그려주세요.</item>
-        <item>테스트 면을 녹색으로 칠해주세요.</item>
+        <item>직사각형이 아닌 클립을 파란색 영역에 그리세요.</item>
+        <item>테스트 면을 녹색으로 칠하세요.</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>

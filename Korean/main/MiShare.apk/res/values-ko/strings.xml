@@ -62,7 +62,7 @@
     <string name="error_receive_user_interrupted">상대방이 전송을 취소했습니다.</string>
     <string name="error_refuse_receive">전송 취소됨</string>
     <string name="error_remote_busy">다른 기기가 과부하 상태입니다. 1-2분 정도 기다리신 후 다시 시도하세요.</string>
-    <string name="error_self_busy">기기가 과부하 상태입니다. 1-2분 정도 기다리신 후 다시 시도해주세요.</string>
+    <string name="error_self_busy">기기가 과부하 상태입니다. 1-2분 정도 기다리신 후 다시 시도하세요.</string>
     <string name="error_send_file_cannot_read">파일 전송 실패, 다시 시도하세요.</string>
     <string name="error_send_file_no_enough_space">전송 실패, 다른 기기에 충분한 저장 공간이 없습니다.</string>
     <string name="error_send_file_not_found">파일을 찾을 수 없음, 다시 시도하세요.</string>
@@ -86,7 +86,7 @@
     <string name="operate_too_fast">너무 빠릅니다! 진행 중인 작업이 완료될 때까지 기다려 주세요.</string>
     <string name="pc_device_model_name">컴퓨터</string>
     <string name="permission_denied_hint">Mi 공유를 사용하기 위해 요구되는 권한들을 부여하세요.</string>
-    <string name="purpose">Mi 공유에 오신 것을 환영합니다! 앱을 사용하여 기기 간의 파일을 전송할 수 있습니다. 저희는 관련 법률, 규정, 정책에 따라 귀하의 개인 정보를 보호합니다.\nMi 공유를 사용하시기 전, 귀하는 필수 개인 정보 수집 허용과 같은 다음의 권한들을 부여해야 합니다.</string>
+    <string name="purpose">Mi 공유에 오신 것을 환영합니다! 앱을 사용하여 기기 간의 파일을 전송할 수 있습니다. 저희는 관련 법률, 규정, 정책에 따라 귀하의 개인정보를 보호합니다.\nMi 공유를 사용하시기 전, 귀하는 필수 개인정보 수집 허용과 같은 다음의 권한들을 부여해야 합니다.</string>
     <string name="queue_full">새로 추가하시기 전 진행 중인 전송을 완료하세요.</string>
     <string name="receive_complete">수신 성공</string>
     <string name="receive_error">수신 실패</string>

@@ -94,7 +94,7 @@
         <item quantity="other">&amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> 포인트를 얻었습니다.</item>
     </plurals>
     <plurals name="clockin_day_count">
-        <item quantity="other">%1$s 일 연속 체크하셨습니다. 계속해서 힘내세요!</item>
+        <item quantity="other">%1$s 일 연속 체크했습니다. 계속해서 힘내세요!</item>
     </plurals>
     <plurals name="total_topic_num">
         <item quantity="other">%1$s 개 토픽</item>
