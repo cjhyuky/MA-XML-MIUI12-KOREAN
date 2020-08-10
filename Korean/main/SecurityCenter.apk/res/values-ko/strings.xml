@@ -3226,4 +3226,14 @@
     <string name="gb_gpu_driver_update_app">업데이트</string>
     <string name="gb_gpu_driver_update_app_tips">현재 버전이 최신 버전입니다.</string>
     <string name="vtb_function_video_translation">실시간 번역</string>
+    <string name="activity_title_risk_app_install_manager">잠재적 위험 앱</string>
+    <string name="risk_app_install_agree_button">이 앱을 신뢰</string>
+    <string name="risk_app_install_agree_checkbox">"사용자 본인이 모든 잠재적 위험을 감수합니다."</string>
+    <string name="risk_app_install_agree_message">"타사가 개발한 앱으로, 이 지역의 법과 규제에 위배될 수도 있습니다. Xiaomi는 이 앱의 사용 가능 여부, 사후 지원, 컨텐츠 및 서비스의 접근성을 보장하지 않습니다. 이 앱 사용으로 인한 모든 피해나 손상의 귀책 사유는 사용자에 있습니다."</string>
+    <string name="risk_app_install_agree_title">약관</string>
+    <string name="risk_app_install_auth_result">"%1$s 설치를 승인했습니다. 이제 패키지를 설치할 수 있습니다."</string>
+    <string name="risk_app_install_empty_text">아직 아무것도 없어요.</string>
+    <string name="risk_app_install_history">인증 내역</string>
+    <string name="risk_app_install_item_des">버전: %1$s</string>
+    <string name="risk_app_install_manager">잠재적 위험 앱</string>
 </resources>

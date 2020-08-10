@@ -355,4 +355,21 @@
     <string name="wear_not_allowed_dlg_text">웨어에서 설치/제거 작업이 지원되지 않습니다.</string>
     <string name="wear_not_allowed_dlg_title">Android 웨어</string>
     <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다.</string>
+    <string name="install_continue">설치 계속</string>
+    <string name="action_bar_report_link_des">앱 알림</string>
+    <string name="exit_install_button">"설치 안 함"</string>
+    <string name="install_confirm_dialog_message">Google이 개발한 앱입니다. 이 앱을 정상적으로 사용하려면 Google Play 서비스를 설치하세요. 지금 이 앱을 설치하면 기기가 작동하지 않을 수 있습니다. 그래도 설치할까요?</string>
+    <string name="install_confirm_dialog_negative_button">취소</string>
+    <string name="install_confirm_dialog_positive_button">설치</string>
+    <string name="install_confirm_dialog_title">주의</string>
+    <string name="install_confirm_question_des_10">"위험을 감수하고 설치를 진행하려면, 보안 > 앱 관리 > 권한 > 잠재적 위험 앱 설치를 허용하세요. \"잠재적 위험 앱\"을 찾을 수 없다면 보안 앱을 업데이트하고 다시 시도하세요."</string>
+    <string name="install_confirm_text_gms">Google이 개발한 앱입니다. 이 앱을 설치하기 전 먼저 Google Play 서비스를 설치하세요. Google Play 서비스 없이 이 앱이 작동하지 않을 수 있습니다.</string>
+    <string name="install_control_cancel_vip_account_install">나가기</string>
+    <string name="install_control_vip_account_install">베타 신청</string>
+    <string name="install_vip_account_mode_explain_des">베타 버전 앱입니다. 설치하기 전 베타 테스트 권한을 신청하세요.</string>
+    <string name="install_vip_account_mode_solution_des">베타 신청</string>
+    <string name="intercept_confirm_dialog_message">%1$s에서 %2$s를 설치하려 합니다. 계속하려면 승인하세요.</string>
+    <string name="intercept_confirm_dialog_positive">승인</string>
+    <string name="intercept_confirm_dialog_title">주의</string>
+    <string name="spannable_continue_text">위험을 감수하고 설치를 계속합니다.</string>
 </resources>

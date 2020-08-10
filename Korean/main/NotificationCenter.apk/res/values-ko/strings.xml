@@ -6,7 +6,7 @@
     <string name="confirm">확인</string>
     <string name="feedback">피드백</string>
     <string name="feedback_tip_cancel">"알림 데이터가 수집되지 않습니다."</string>
-    <string name="feedback_tip_msg">알림을보다 정확하게 그룹화하려면 앱 이름, 알림 제목 및 설명, 알림이 전송 된 시간을 수집해야 합니다. 의견을 제출하시겠습니까?</string>
+    <string name="feedback_tip_msg">알림을 보다 정확하게 그룹화하려면 앱 이름, 알림 제목 및 설명, 알림이 전송된 시간을 수집해야 합니다. 의견을 제출하시겠습니까?</string>
     <string name="feedback_tip_title">알림 카테고리에 대한 피드백</string>
     <string name="function_description">이 기능 정보</string>
     <string name="menu_setting_recommend_to_minus">알림 수 감소</string>
@@ -19,7 +19,7 @@
     <string name="menu_setting_toast_recommend_normal">"%s의 알림이 줄어들지 않습니다."</string>
     <string name="menu_setting_toast_show_in_home">"%s의 알림은 그룹화되지 않습니다."</string>
     <string name="notification_aggregate_description1">MIUI는 푸시 알림 및 판촉 알림을 자동으로 그룹화하여 알림 음영이 덜 혼잡해질 수 있습니다.</string>
-    <string name="notification_aggregate_description2">"Google 알고리즘은 알림 콘텐츠를 분석하고이 기능을 인스턴트 메신저의 중요한 알림 및 알림에는 적용하지 않습니다. 중요한 알림이 실수로 그룹화되어있는 경우 Google 알림을 사용하여 발생한 문제를보고해 주세요    \ "피드백 \"기능. "</string>
+    <string name="notification_aggregate_description2">"Google 알고리즘은 알림 콘텐츠를 분석하고 이 기능을 인스턴트 메신저의 중요한 알림 및 알림에는 적용하지 않습니다. 중요한 알림이 실수로 그룹화되어있는 경우 Google 알림을 사용하여 발생한 문제를 보고해주세요    \ "피드백 \"기능. "</string>
     <string name="notification_aggregate_summary">MIUI가 알림을 자동으로 그룹화하도록 허용</string>
     <string name="notification_aggregate_summary_inner">자동으로 푸시 및 프로모션 알림을 그룹화하도록 설정</string>
     <string name="notification_aggregate_title">그룹 알림</string>
@@ -85,10 +85,10 @@
     <string name="default_list_type">설치된 순서로 정렬</string>
     <string name="disable_float_notification">"플로팅 알림 허용되지 않음"</string>
     <string name="disable_lockscreen_notification">"잠금 화면 알림 허용되지 않음"</string>
-    <string name="disable_show_badge_notification">"알림 뱃지 허용되지 않음"</string>
+    <string name="disable_show_badge_notification">"알림 배지 허용되지 않음"</string>
     <string name="enable_float_notification">플로팅 알림 허용됨</string>
     <string name="enable_lockscreen_notification">잠금 화면 알림 허용됨</string>
-    <string name="enable_show_badge_notification">알림 뱃지 허용됨</string>
+    <string name="enable_show_badge_notification">알림 배지 허용됨</string>
     <string name="expand_top_notification">상단 알림 확장</string>
     <string name="expandable_under_keyguard">잠금 화면에서 알림 창 열기</string>
     <string name="float_notifications">플로팅        알림</string>
@@ -112,16 +112,19 @@
     <string name="off">꺼짐</string>
     <string name="on">켜짐</string>
     <string name="settings_guide_title">다른 설정이 필요하신가요?</string>
-    <string name="show_badge_notifications">알림 뱃지</string>
+    <string name="show_badge_notifications">알림 배지</string>
     <string name="status_bar_setting">상태 표시줄</string>
     <string name="summary_disable_float_notification">"플로팅 알림 허용되지 않음"</string>
     <string name="summary_disable_lockscreen_notification">"잠금 화면 알림 허용되지 않음"</string>
-    <string name="summary_disable_show_badge_notification">"알림 뱃지 허용되지 않음"</string>
+    <string name="summary_disable_show_badge_notification">"알림 배지 허용되지 않음"</string>
     <string name="summary_enable_float_notification">플로팅 알림 허용됨</string>
     <string name="summary_enable_lockscreen_notification">잠금 화면 알림 허용됨</string>
-    <string name="summary_enable_show_badge_notification">알림 뱃지 허용됨</string>
+    <string name="summary_enable_show_badge_notification">알림 배지 허용됨</string>
     <string name="summary_float_enable_notification_first">플로팅 알림을 켜려면 먼저 알림을 허용하세요.</string>
     <string name="summary_lock_screen_enable_notification_first">잠금 화면 알림을 켜려면 먼저 알림을 허용하세요.</string>
-    <string name="summary_show_badge_enable_notification_first">알림 뱃지를 켜려면 먼저 알림을 허용하세요.</string>
+    <string name="summary_show_badge_enable_notification_first">알림 배지를 켜려면 먼저 알림을 허용하세요.</string>
     <string name="last_sent_time_second">방금</string>
+    <string name="float_notifications_short">플로팅</string>
+    <string name="lockscreen_notifications_short">잠금 화면</string>
+    <string name="show_badge_notifications_short">배지</string>
 </resources>

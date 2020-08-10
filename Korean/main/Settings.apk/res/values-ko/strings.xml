@@ -9816,7 +9816,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="adb_wireless_qrcode_summary">QR 코드를 스캔하여 Wi-Fi을 통해 장치 연결</string>
     <string name="adb_wireless_settings">무선 디버깅</string>
     <string name="adb_wireless_verifying_qrcode_text">장치 연결 중…</string>
-    <string name="airplane_mode_summary">통화, SMS, 모바일 데이터 사용 안함</string>
+    <string name="airplane_mode_summary">"모바일 네트워크 연결을 해제합니다. 전화나 메시지를 보내고 받을 수 없으며, 모바일 데이터를 사용할 수 없습니다."</string>
     <string name="allow_manage_external_storage_description">이 앱이 이 기기 또는 연결된 저장소 볼륨의 모든 파일을 읽고 수정하고 삭제할 수 있도록 허용합니다. 권한이 부여되면 앱이 사용자의 명시적 지식없이 파일에 액세스할 수 있습니다.</string>
     <string name="app_permissions_summary_more">%1$s 등을 사용하는 앱</string>
     <string name="asst_capability_ranking_summary">관련성에 따라 자동으로 알림 순위 지정</string>
@@ -9954,7 +9954,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="ethernet_tethering_subtext">USB 이더넷을 통해 휴대 전화의 인터넷 연결 공유</string>
     <string name="ethernet_tether_checkbox_text">이더넷 테더링</string>
     <string name="filter_manage_external_storage">모든 파일에 액세스할 수 있음</string>
-    <string name="find_my_device_summary">Mi 계정에 로그인해야 합니다.</string>
+    <string name="find_my_device_summary">이 기능은 Mi 계정 로그인이 필요합니다.</string>
     <string name="forgot_password_text">PIN, 패턴 또는 비밀번호를 초기화하는 데 도움이됩니다.</string>
     <string name="forgot_password_title">IT 관리자에게 문의</string>
     <string name="gesture_settings_activity_title">제스처 설정</string>
@@ -10303,4 +10303,11 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zen_mode_title">방해 금지</string>
     <string name="zen_mode_turned_off">끄기</string>
     <string name="zen_mode_turned_on">켜기</string>
+    <string name="advanced_gesture">사용자 지정 제스처</string>
+    <string name="change_brightness">밝기 조절</string>
+    <string name="double_click_volume_down_when_lock">화면이 잠겼을 때 볼륨 감소 버튼을 연달아 두 번 누르세요.</string>
+    <string name="gesture_function_dialog_message">%1$s은(는) \"%2$s\"에 지정되어 있습니다. \"%3$s\"로 대체하시겠습니까?</string>
+    <string name="gesture_settings_title">제스처 바로가기</string>
+    <string name="key_combination_power_volume_down">볼륨 감소 + 전원</string>
+    <string name="long_press_power_key_half_second">전원 버튼을 0.5초 동안 길게 누르세요.</string>
 </resources>

@@ -1975,7 +1975,7 @@
     <string name="macarons_downloading">플러그인 다운로드 중…</string>
     <string name="problem_feedback">피드백</string>
     <string name="vlog_clip_zoom">두 손가락을 사용하여 미리보기에서 프레임 수를 늘리거나 줄입니다.</string>
-    <string name="vlog_exit_message">저장되지 않은 모든 변경사항이 손실됩니다. 그래도 돌아가시겠습니까?</string>
+    <string name="vlog_exit_message">저장하지 않은 모든 변경사항이 유실됩니다. 그래도 취소하시겠습니까?</string>
     <string name="vlog_exit_title">변경사항 취소</string>
     <string name="vlog_float_view_original_ratio">원본</string>
     <string name="vlog_improt_encode_video_error">인코딩 오류가 발생했습니다. 다시 시도하세요.</string>
@@ -2358,7 +2358,7 @@
     <string name="cityname_97">하 이동 현</string>
     <string name="cityname_98">하이 코우</string>
     <string name="cityname_99">하이난 티벳 자치주</string>
-    <string name="cleaner_title">깨끗한 공간</string>
+    <string name="cleaner_title">클리너</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="collage_poster_global_dream_text">꿈</string>
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Q존</string>
@@ -2636,4 +2636,6 @@
     <string name="time_burst_save_select">선택한 사진 저장</string>
     <string name="time_burst_save_video">비디오로 저장</string>
     <string name="trash_size">지워진 항목 (%s개)</string>
+    <string name="menu_new_display_open">새 창에서 열기</string>
+    <string name="menu_pc_open">컴퓨터에서 열기</string>
 </resources>
