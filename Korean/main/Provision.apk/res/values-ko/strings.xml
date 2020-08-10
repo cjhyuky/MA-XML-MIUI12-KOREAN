@@ -74,7 +74,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="miui_terms_no_network">"인터넷에 연결되어 있지 않습니다. %s에서 사용자 이용 약관을 보세요."</string>
     <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인정보 보호정책을 보세요.</string>
     <string name="locale_picker_title">지역을 선택하세요.</string>
-    <string name="install_preinstall_app">앱 로딩 중…</string>
+    <string name="install_preinstall_app">앱 불러오는 중…</string>
     <string name="title_fingerprint">지문 추가</string>
     <string name="desc_fingerprint">귀하의 지문을 사용하여 기기 잠금해제, Mi Pay 거래, 앱과 서비스에 로그인하세요.</string>
     <string name="desc_extra_fingerprint" />

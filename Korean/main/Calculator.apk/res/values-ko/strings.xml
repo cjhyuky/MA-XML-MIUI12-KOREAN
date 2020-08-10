@@ -326,7 +326,7 @@
     <string name="base_rate">기본 이율</string>
     <string name="currency_update_connect_to_get_data">환율 정보는 Webull로부터 제공받습니다. 최신 환율로 업데이트하려면 인터넷에 연결하세요.</string>
     <string name="currency_update_support">Webull에서 정보 제공</string>
-    <string name="currency_update_updating">환율 업데이트중…</string>
+    <string name="currency_update_updating">환율 업데이트 중…</string>
     <string name="degDesc">각도</string>
     <string name="interest_rate_hint">이율</string>
     <string name="item_title_relationship">이용 약관</string>
@@ -431,19 +431,19 @@
     <string name="app_notification_info">계산기가 백그라운드에서 실행되고 있습니다.</string>
     <string name="btn_float_window_alpha">투명도 조절</string>
     <string name="btn_float_window_back_to_app">최대화</string>
-    <string name="btn_float_window_close">플로팅 윈도우 닫기</string>
-    <string name="btn_float_window_resize">플로팅 윈도우 크기 조절</string>
+    <string name="btn_float_window_close">플로팅 창 닫기</string>
+    <string name="btn_float_window_resize">플로팅 창 크기 조절</string>
     <string name="float_window_guide_text">여기를 터치해 작게</string>
     <string name="hint_floatwindow_alpha_guide_text">터치하여 투명도 조정</string>
-    <string name="view_float_window_move">플로팅 윈도우 이동</string> 
+    <string name="view_float_window_move">플로팅 창 이동</string> 
     <string name="allow">동의</string>
     <string name="preference_privacy_title">개인정보 보호정책</string>
     <string name="preference_rating_title">앱 평가하기</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="dialog_privacy_content">기본 기능 외에도 Mi 계산기를 사용하면 통화 및 단위를 변환하고 담보대출 상환 등을 계산할 수 있습니다. 일부 기능을 사용하려면 인터넷에 연결해야 정상적으로 작동 할 수 있습니다. <Data>이 앱을 사용하기 전에 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.</Data></string>
+    <string name="dialog_privacy_content">기본 기능 외에도 Mi 계산기를 사용하면 통화 및 단위를 변환하고 담보대출 상환 등을 계산할 수 있습니다. 일부 기능을 사용하려면 인터넷에 연결해야 정상적으로 작동할 수 있습니다. <Data>이 앱을 사용하기 전에 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.</Data></string>
     <string name="dialog_privacy_title">사용약관과 정책</string>
     <string name="exit">나가기</string>
-    <string name="tax_rate_provider_east_money">새로운 세금 규정으로 계산됨. 이스트 머니 제공.</string>
+    <string name="tax_rate_provider_east_money">새로운 세금 규정으로 계산됨. East Money 제공.</string>
     <string name="mortgage_provider_east_money">데이터는 East Money 제공입니다.</string>
     <string name="choose_radix">변환할 진수를 선택하세요.</string>
     <string name="convertion_unit_radix">진수 변환</string>
@@ -486,7 +486,7 @@
     <string name="loan_type_summary_lpr">대출 금리</string>
     <string name="loan_type_title">관심률 표준</string>
     <string name="lpr_ok">알았다</string>
-    <string name="lpr_tips_msg">"2019년 10월 8일부터 개인 상용주택 대출 이자율은 이전에 구현된 벤치마크 이자율 4.9%대신 LPR(대출 금리)에따라 계산됩니다. LPR 기준점을 추가하여 요율을 확인할 수 있습니다. 1년 및 5년 LPR은 매월 20일(은행 공휴일로 인해 지연될 수 있음) 중국 인민은행 웹사이트에서 인용됩니다."</string>
+    <string name="lpr_tips_msg">"2019년 10월 8일부터 개인 상용주택 대출 이자율은 이전에 구현된 벤치마크 이자율 4.9%대신 LPR(대출 금리)에 따라 계산됩니다. LPR 기준점을 추가하여 요율을 확인할 수 있습니다. 1년 및 5년 LPR은 매월 20일(은행 공휴일로 인해 지연될 수 있음) 중국 인민은행 웹사이트에서 인용됩니다."</string>
     <string name="lpr_tips_title">LPR(대출 금리)</string>
     <string name="medical_treatment">의료 치료</string>
     <string name="mortgage_amount">총(×10K)</string>
@@ -506,7 +506,7 @@
     <string name="tax_payment_period">지불 횟수</string>
     <string name="tax_rate_provider">새로운 세금규정에 따라 계산되었습니다. hexun.com과 East Money에서 데이터를 제공합니다.</string>
     <string name="unKnow_error">알 수 없는 오류</string>
-    <string name="updating">계산기 업데이트중…</string>
+    <string name="updating">계산기 업데이트 중…</string>
     <string name="user_agreement">사용자 약관</string>
 계산기
     <plurals name="tenure_years">

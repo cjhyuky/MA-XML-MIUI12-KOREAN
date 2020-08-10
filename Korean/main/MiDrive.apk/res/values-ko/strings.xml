@@ -57,7 +57,7 @@
     <string name="megabyteShort">MB</string>
     <string name="month_day_format">월월월 일일</string>
     <string name="move_failed">"삭제할 수 없습니다."</string>
-    <string name="move_failed_retry">"삭제할 수 없습니다. 몇분 뒤에 다시 시도하세요."</string>
+    <string name="move_failed_retry">"삭제할 수 없습니다. 몇 분 뒤에 다시 시도하세요."</string>
     <string name="need_get_accounts_permission">Mi 드라이브가 정상적으로 작동하기 위해서는 귀하의 계정에 엑세스해야 합니다.</string>
     <string name="never_notify">"다시 보이지 않기"</string>
     <string name="no_app_found_to_open_file">이 작업을 처리할 수 있는 앱이 없습니다.</string>
@@ -65,7 +65,7 @@
     <string name="no_network">"네트워크에 연결할 수 없습니다. 네트워크 연결 상태를 확인하세요."</string>
     <string name="no_tasks">작업 없음</string>
     <string name="open_changed_file_message">"열려고 하신 파일이 변경되었습니다. 파일을 다시 업로드하세요."</string>
-    <string name="open_changed_file_title">변경 사항이 저장되었습니다.</string>
+    <string name="open_changed_file_title">변경사항이 저장되었습니다.</string>
     <string name="operating">처리중...</string>
     <string name="operation_cancel">취소</string>
     <string name="operation_copy">복사</string>
@@ -78,8 +78,8 @@
     <string name="operation_delete_message_folder">폴더 안에 있는 모든 파일들이 삭제됩니다.</string>
     <string name="operation_delete_selected_tasks">선택된 파일을 삭제하시겠습니까?</string>
     <string name="operation_delete_title">삭제하시겠습니까?</string>
-    <string name="operation_deleting">삭제중…</string>
-    <string name="operation_deleting_detail">삭제중 (%1$d/%2$d)</string>
+    <string name="operation_deleting">삭제 중…</string>
+    <string name="operation_deleting_detail">삭제 중 (%1$d/%2$d)</string>
     <string name="operation_download">다운로드</string>
     <string name="operation_move">잘라내기</string>
     <string name="operation_moving">이동중…</string>

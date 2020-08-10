@@ -181,7 +181,7 @@
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">마지막 탭입니다.</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">위로 스와이프하여 닫기</string>
     <string name="browserFrameFileErrorLabel">파일 문제</string>
-    <string name="browserFrameFormResubmitMessage">귀하가 보려고 하는 페이지는 이미 제출된 데이터를 포함하고 있습니다. 데이터를 재전송한다면, 이전의 동작들(예: 검색 또는 구입)이 다시 반복됩니다.</string>
+    <string name="browserFrameFormResubmitMessage">사용자가 보려는 페이지는 이미 제출된 데이터를 포함하고 있습니다. 데이터를 재전송한다면, 이전의 동작들(예: 검색 또는 구입)이 다시 반복됩니다.</string>
     <string name="browserFrameNetworkErrorLabel">연결 문제</string>
     <string name="bubble_guide_bottom_message_text">%d개의 읽지않은 메시지가 있습니다.</string>
     <string name="bubble_guide_logined_text">행운의 그림으로 로그인</string>
@@ -391,7 +391,7 @@
     <string name="find_on_page_prev">뒤로</string>
     <string name="finish_sync_cloud_tabs">성공적으로 동기화함</string>
     <string name="firstUsingSearchEngineTips">검색 앤진을 변경하시겠습니까?</string>
-    <string name="fling_on_border_gesture_hint">설정에서 제스쳐를 선택하실 수 있습니다.</string>
+    <string name="fling_on_border_gesture_hint">설정에서 제스처를 선택하실 수 있습니다.</string>
     <string name="for_diagnosis_usage_only">이 정보는 진단 용도로만 사용하세요.</string>
     <string name="force_quick_search_title">검색</string>
     <string name="force_touch_bookmark_history_title">북마크 &amp; 기록</string>
@@ -723,11 +723,11 @@
     <string name="mw_miuichromium_error_page_server_error">너무 많은 기기들이 연결을 시도하고 있습니다.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">기기에 설치된 프록시 앱을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">인터넷 연결 상태를 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(모바일 데이터) %s1 APN 설정 %s2을 확인하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(모바일 데이터) %s1APN 설정%s2을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">입력하신 URL을 다시 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1 프록시 설정 %s2을 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">캐시 삭제 (%s1 설정 %s2 - 데이터 초기화).</string>
-    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">쿠키와 캐시 데이터를 초기화하세요. (%s1 설정 %s2 - 로그인 계정 정보가 삭제될 수 있습니다).</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1프록시 설정%s2을 확인하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache">캐시를 삭제하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">쿠키와 캐시 데이터를 초기화하세요. (계정 정보가 삭제될 수 있습니다).</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke" formatted="false">쿠키와 캐시 데이터를 초기화하세요. (로그인 계정 정보가 삭제될 수 있습니다)</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">캐시 삭제.</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">인터넷에 연결된 후에 새로고침하기</string>
@@ -762,7 +762,7 @@
     <string name="mw_new_tab_otr_not_saved">크롬은 인터넷 사용기록과 쿠키, 사이트 데이터, 양식 등 입력한 정보를 수집하지 않습니다.</string>
     <string name="mw_new_tab_otr_subtitle">이제 비공개로 탐색할 수 있으며 이 기기를 사용하는 다른 사용자는 내 활동을 볼 수 없습니다. 그러나 다운로드와 북마크는 저장됩니다.</string>
     <string name="mw_new_tab_otr_title">시크릿 모드로 전환했습니다.</string>
-    <string name="mw_new_tab_otr_visible">귀하의 활동은 방문한 웹사이트와 인터넷 서비스 제공업체에 여전히 보여집니다.</string>
+    <string name="mw_new_tab_otr_visible">사용자의 활동은 방문한 웹사이트와 인터넷 서비스 제공업체에 여전히 보여집니다.</string>
     <string name="mw_no_matches">일치하지 않음</string>
     <string name="mw_notification_category_browser">브라우저</string>
     <string name="mw_notification_category_content_suggestions">컨텐츠 제안</string>
@@ -825,7 +825,7 @@
     <string name="mw_payments_error_message">주문 처리 중 오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="mw_payments_field_required_validation_message">필수항목을 채워주세요.</string>
     <string name="mw_payments_invalid_address">유효한 주소를 입력하세요.</string>
-    <string name="mw_payments_loading_message">로딩중</string>
+    <string name="mw_payments_loading_message">불러오는 중</string>
     <string name="mw_payments_method_of_payment_label">결제 방법</string>
     <string name="mw_payments_more_information_required">추가정보가 필요합니다.</string>
     <string name="mw_payments_name_field_in_contact_details">이름</string>
@@ -890,7 +890,7 @@
     <string name="mw_time_picker_dialog_am">오전</string>
     <string name="mw_time_picker_dialog_pm">오후</string>
     <string name="mw_time_picker_dialog_title">시간 설정</string>
-    <string name="mw_updating_chrome">크롬 업데이트중…</string>
+    <string name="mw_updating_chrome">크롬 업데이트 중…</string>
     <string name="mw_video_buffering_percent">"버퍼링 "</string>
     <string name="mw_video_float_window">팝업</string>
     <string name="mw_video_float_window_playing">영상 재생</string>
@@ -1023,12 +1023,12 @@
     <string name="pref_file_downlaod_save_reset_default_settings">기본 위치 복원</string>
     <string name="pref_file_download_default_path_prefix">기본 위치: %s</string>
     <string name="pref_file_download_save_modify_default_path">다운로드 위치</string>
-    <string name="pref_fling_gesture">스와이프 제스쳐</string>
+    <string name="pref_fling_gesture">스와이프 제스처</string>
     <string name="pref_font_size_category">웹페이지 문자 크기</string>
     <string name="pref_force_userscalable">강제 줌</string>
     <string name="pref_force_userscalable_summary">웹사이트의 확대/축소 조작 요청 무시</string>
     <string name="pref_general_title">일반</string>
-    <string name="pref_key_gesture_title">버튼 &amp; 제스쳐</string>
+    <string name="pref_key_gesture_title">버튼 &amp; 제스처</string>
     <string name="pref_label_advert_manager">관리 설정된 광고</string>
     <string name="pref_link_prefetch_value_always">항상</string>
     <string name="pref_link_prefetch_value_never">절대 금지</string>
@@ -1176,7 +1176,7 @@
     <string name="search_menu_title">검색</string>
     <string name="search_notification_btn_title">검색</string>
     <string name="search_notification_guide_content">지금 체험하기</string>
-    <string name="search_notification_guide_title">화면 상단을 스 와이프하여 빠른 검색을 경험하세요!</string>
+    <string name="search_notification_guide_title">화면 상단을 스와이프하여 빠른 검색을 경험하세요!</string>
     <string name="search_path_browser">설정/설치된 앱/브라우저</string>
     <string name="search_s139">139</string>
     <string name="search_settings_description">북마크와 웹 기록</string>
@@ -1209,11 +1209,11 @@
     <string name="share_video">동영상 공유</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집 할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="sign_and_open">로그인 후 열기</string>
     <string name="sign_in">체크인</string>
-    <string name="sign_in_to" formatted="false">%s1%s2\"으로 로그인</string>
+    <string name="sign_in_to" formatted="false">%s1 \"%s2\"으로 로그인</string>
     <string name="signed_in">체크인 됨</string>
     <string name="skip_button_label">건너뛰기</string>
     <string name="skip_current_version">이 버전 건너뛰기</string>
@@ -1226,7 +1226,7 @@
     <string name="small_video_comment">모든 댓글</string>
     <string name="small_video_comment_input_hint">댓글 입력</string>
     <string name="small_video_load_failed">로딩 실패</string>
-    <string name="small_video_loading">로딩중...</string>
+    <string name="small_video_loading">불러오는 중...</string>
     <string name="small_video_main_tab">추천</string>
     <string name="small_video_native_tab">짧은 동영상</string>
     <string name="small_video_net_error">연결 에러</string>
@@ -1235,9 +1235,9 @@
     <string name="snapshot_failed">오프라인에서 읽기 위해 저장하지 못했습니다.</string>
     <string name="snapshot_successed">오프라인에서 읽기 위해 저장</string>
     <string name="soft_toast_see_view">보기</string>
-    <string name="speech_engine_not_install">TTS엔진이 설치되지 않았습니다.</string>
+    <string name="speech_engine_not_install">TTS 엔진이 설치되지 않았습니다.</string>
     <string name="ssl_bad_clock_date_settings">날짜 설정</string>
-    <string name="ssl_bad_clock_warning" formatted="false">기기의 날짜와 시간 (%s1) 이 실제 시간 (%s2) 과 일치하지 않아 연결될 수 없습니다.</string>
+    <string name="ssl_bad_clock_warning" formatted="false">기기의 날짜와 시간 (%s2)이 실제 시간과 일치하지 않아 (%s1)에 비공개로 연결할 수 없습니다.</string>
     <string name="ssl_certificate">보안 인증서</string>
     <string name="ssl_certificate_is_valid">이 인증서는 유효합니다.</string>
     <string name="ssl_continue">계속</string>
@@ -1290,7 +1290,7 @@
     <string name="suggestion_express_input_hint_inside">운송장 번호를 입력하세요.</string>
     <string name="suggestion_express_input_hint_out">운송장 번호:</string>
     <string name="suggestion_express_title">배송 조회</string>
-    <string name="suggestion_hotwords_title_change_button_text">변경 사항</string>
+    <string name="suggestion_hotwords_title_change_button_text">변경사항</string>
     <string name="suggestion_hotwords_title_text">인기 검색어</string>
     <string name="suggestion_input_hitory_clear_text">지우기</string>
     <string name="suggestion_lottery_detail_pour">%s노트</string>
@@ -1315,7 +1315,7 @@
     <string name="tabs_description">탭</string>
     <string name="temp_refuse">거절</string>
     <string name="temporary_not_available">일시적으로 사용할 수 없음</string>
-    <string name="title_bar_loading">로딩 중…</string>
+    <string name="title_bar_loading">불러오는 중…</string>
     <string name="title_notice_push">푸시 알림 켜기</string>
     <string name="too_many_windows_dialog_message">브라우저는 다른 탭을 닫기 전까진 새 탭을 열 수 없습니다.</string>
     <string name="too_many_windows_dialog_title">탭을 더 열 수 없습니다.</string>
@@ -1499,7 +1499,7 @@
     <string name="security_permission_title_location">내 위치에 대한 액세스 허용</string>
     <string name="short_video_comment_hint">댓글 입력</string>
     <string name="short_video_gesture_btn">확인</string>
-    <string name="short_video_gesture_hint">다음 동영상을 보려면 스 와이프하세요.</string>
+    <string name="short_video_gesture_hint">다음 동영상을 보려면 스와이프하세요.</string>
     <string name="short_video_net_dialog_continue">그래도 플레이</string>
     <string name="short_video_net_dialog_title">"지금 모바일 데이터를 사용하고 있습니다. 모바일을 사용하면 추가 이동통신사 요금이 발생할 수 있습니다."</string>
     <string name="small_video_footer_status_msg_idle">더 불러오려면 탭하세요.</string>
@@ -1535,7 +1535,7 @@
     <string name="vo_location_change_title">위치가 변경되었습니다.</string>
     <string name="vo_location_choose_city">도시를 전환하려면 탭</string>
     <string name="vo_share_text">공유</string>
-    <string name="vo_small_video_load_more_text">스 와이프하여 더로드하려면</string>
+    <string name="vo_small_video_load_more_text">스와이프하여 더로드하려면</string>
     <string name="vo_small_video_title">짧은 동영상</string>
     <string name="vo_vote_left" formatted="false">%d$%대</string>
     <string name="vo_vote_right" formatted="false">%d$%대</string>

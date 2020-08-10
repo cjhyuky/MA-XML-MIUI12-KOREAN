@@ -349,13 +349,13 @@
     <string name="usb_audio_disable_routing">USB 오디오 라우팅 끄기</string>
     <string name="usb_audio_disable_routing_summary">USB 오디오 주변 장치에 대한 자동 라우팅 사용 안 함</string>
     <string name="user_guest">손님</string>
-    <string name="verify_apps_over_usb_summary">ADB/ADT를 통한 설치시 유해한 앱인지 검사합니다.</string>
-    <string name="verify_apps_over_usb_title">USB로 설치시 앱 검증</string>
+    <string name="verify_apps_over_usb_summary">ADB/ADT를 통한 설치 시 유해한 앱인지 검사합니다.</string>
+    <string name="verify_apps_over_usb_title">USB로 설치 시 앱 검증</string>
     <string name="vpn_settings_not_available">이 사용자는 VPN 설정을 사용할 수 없습니다.</string>
     <string name="wait_for_debugger">사용자를 기다리는 중</string>
     <string name="wait_for_debugger_summary">디버깅 앱이 디버그 전에 사용자를 기다립니다.</string>
-    <string name="wifi_aggressive_handover">Wi-Fi와 모바일 데이터 자동전환</string>
-    <string name="wifi_aggressive_handover_summary">활성화 되어있으면, Wi-Fi 신호가 약할때 모바일 데이터로 자동 전환 됩니다.</string>
+    <string name="wifi_aggressive_handover">모바일 데이터 자동 전환</string>
+    <string name="wifi_aggressive_handover_summary">활성화 시 Wi-Fi 신호가 약할 때 모바일 데이터로 자동 전환합니다.</string>
     <string name="wifi_allow_scan_with_traffic">Wi-Fi 로밍 스캔을 항상 허용</string>
     <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 데이터 트래픽 현재의 양에 따라 Wi-Fi 로밍 스캔 허용 또는 제한할 수 있습니다.</string>
     <string name="wifi_connected_no_internet">연결됨, 인터넷 안됨</string>

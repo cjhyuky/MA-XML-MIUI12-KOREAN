@@ -296,7 +296,7 @@
     <string name="com_taobao_tae_sdk_back_message">뒤로가기</string>
     <string name="com_taobao_tae_sdk_cart_title">장바구니</string>
     <string name="com_taobao_tae_sdk_close_message">닫기</string>
-    <string name="com_taobao_tae_sdk_loading_progress_message">로딩중</string>
+    <string name="com_taobao_tae_sdk_loading_progress_message">불러오는 중</string>
     <string name="com_taobao_tae_sdk_login_progress_message">로그인중</string>  <string name="com_taobao_tae_sdk_logout_fail_message">로그아웃 실패</string>
     <string name="com_taobao_tae_sdk_network_not_available_message">네트워크 접속불가</string>
     <string name="com_taobao_tae_sdk_qr_login_title_bar_text">타오바오 계정 로그인</string>
@@ -344,7 +344,7 @@
     <string name="drag_crop_to_business_card">움직여서 자르기</string>
     <string name="fax">팩스</string>
     <string name="got_it">확인</string>
-    <string name="gps">네비게이션</string>
+    <string name="gps">내비게이션</string>
     <string name="miracast_connect">송출하기</string>
     <string name="miracast_connect_fail">"송출 불가, 다시 시도하세요"</string>
     <string name="miracast_connecting">송출중…</string>

@@ -35,7 +35,7 @@
     <string name="start_addon">애드온 시작</string>
     <string name="addon_update_desc">업데이트 사용가능, 지금 업데이트하시겠습니까?</string>
     <string name="upgrade">업데이트</string>
-    <string name="loading"><CDATA>로딩 중</CDATA></string>
+    <string name="loading"><CDATA>불러오는 중</CDATA></string>
     <string name="sdcard_storage">내부 저장소</string>
     <string name="disk_volume">외부 저장소</string>
     <string name="video">동영상</string>
@@ -139,7 +139,7 @@
     <string name="vp_exit">종료</string>
     <string name="vp_back">뒤로</string>
     <string name="vp_newest_ep">새</string>
-    <string name="vp_loading_video">로딩 중…</string>
+    <string name="vp_loading_video">불러오는 중…</string>
     <string name="vp_select_source">소스 선택</string>
     <string name="vp_select_ci">에피소드 선택</string>
     <string name="vp_offline">오프라인</string>
@@ -184,7 +184,7 @@
     <string name="vp_hint">주의</string>
     <string name="vp_maintitlearea">어디서든 HD 동영상 시청</string>
     <string name="vp_toast_downloadapk">다운로드 중…</string>
-    <string name="vp_video_loading"><CDATA>로딩 중…</CDATA></string>
+    <string name="vp_video_loading"><CDATA>불러오는 중…</CDATA></string>
     <string name="vp_video_plugin_installation">%1$s 플러그인을 설치 중…</string>
     <string name="vp_video_bad_network_condition">네트워크에 연결할 수 없습니다. 다시 시도</string>
     <string name="vp_video_invalid_cp_info">잘못된 공급자 정보, 앱 다시 시작</string>

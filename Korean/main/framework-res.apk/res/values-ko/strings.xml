@@ -1639,9 +1639,9 @@
     <string name="bugreport_option_interactive_summary">이 기능이 꼭 필요할 때만 사용하세요.</string>
     <string name="bugreport_option_interactive_title">대화 보고서</string>
     <string name="capability_desc_canControlMagnification">"화면 줌 배율 등을 조절합니다."</string>
-    <string name="capability_desc_canPerformGestures">다양한 제스쳐를 사용할 수 있습니다.</string>
+    <string name="capability_desc_canPerformGestures">다양한 제스처를 사용할 수 있습니다.</string>
     <string name="capability_title_canControlMagnification">디스플레이 배율 제어</string>
-    <string name="capability_title_canPerformGestures">제스쳐 사용하기</string>
+    <string name="capability_title_canPerformGestures">제스처 사용하기</string>
     <string name="carrier_app_dialog_button">앱 다운로드</string>
     <string name="carrier_app_dialog_message">"새로운 SIM 카드가 정상적으로 작동하게 하기 위해서는, 통신사 앱을 설치하여 실행해야 합니다."</string>
     <string name="carrier_app_dialog_not_now">나중에</string>
@@ -1846,7 +1846,7 @@
     <string name="zen_mode_default_weeknights_name">야간</string>
     <string name="zen_mode_downtime_feature_name">다운타임</string>
     <string name="zen_mode_feature_name">방해 금지 모드</string>
-    <string name="zen_mode_forever_dnd">방해 금지 모드를 해제할때까지</string>
+    <string name="zen_mode_forever_dnd">방해 금지 모드를 해제할 때까지</string>
     <string name="zen_mode_until">%1$s까지</string>
     <string name="date_picker_mode">캘린더</string>
     <string name="global_action_choose_profile">프로필</string>
@@ -1950,7 +1950,7 @@
     <string name="alert_windows_notification_title">%s 앱이 다른앱 위에 표시중입니다.</string>
     <string name="app_category_audio">음악 &amp; 소리</string>
     <string name="app_category_image">사진 &amp; 이미지</string>
-    <string name="app_category_maps">지도 &amp; 네비게이션</string>
+    <string name="app_category_maps">지도 &amp; 내비게이션</string>
     <string name="app_category_news">뉴스 &amp; 잡지</string>
     <string name="app_category_social">소셜 &amp; 커뮤니케이션</string>
     <string name="app_category_video">영화 &amp; 동영상</string>
@@ -1962,8 +1962,8 @@
     <string name="autofill_save_title_with_2types">%1$s 항목과 %2$s 항목을 %3$s 항목으로 저장하시겠습니까?</string>
     <string name="autofill_save_title_with_3types">%1$s, %2$s, 그리고 %3$s 항목을 %4$s 항목으로 저장하시겠습니까?</string>
     <string name="autofill_save_title_with_type">%1$s 항목을 %2$s 항목으로 저장하시겠습니까?</string>
-    <string name="capability_desc_canCaptureFingerprintGestures">"지문인식 제스쳐로 작동할 수 있습니다."</string>
-    <string name="capability_title_canCaptureFingerprintGestures">지문인식 제스쳐</string> 
+    <string name="capability_desc_canCaptureFingerprintGestures">"지문인식 제스처로 작동할 수 있습니다."</string>
+    <string name="capability_title_canCaptureFingerprintGestures">지문인식 제스처</string> 
     <string name="default_notification_channel_label">분류되지 않음</string>
     <string name="device_storage_monitor_notification_channel">기기 저장소</string>
     <string name="disable_accessibility_shortcut">바로가기 끄기</string>
@@ -2132,7 +2132,7 @@
     <string name="sms">메시지</string>
     <string name="sms_desc">선택한 전화번호로부터 온 메시지</string>
     <string name="unsupported_compile_sdk_check_update">업데이트 확인</string>
-    <string name="unsupported_compile_sdk_message">%1$s 앱이 호환되지 않는 버전의 Android용으로 작성되었으며 예기치 않게 작동 할 수 있습니다. 업데이트 된 버전의 앱을 사용할 수 있습니다.</string>
+    <string name="unsupported_compile_sdk_message">%1$s 앱이 호환되지 않는 버전의 Android용으로 작성되었으며 예기치 않게 작동할 수 있습니다. 업데이트 된 버전의 앱을 사용할 수 있습니다.</string>
     <string name="unsupported_compile_sdk_show">항상 표시</string>
     <string name="usb_power_notification_message">연결된 기기 충전 중. 더 많은 옵션을 보려면 누르세요.</string>
     <string name="usb_tether_notification_title">USB 테더링이 켜짐</string>

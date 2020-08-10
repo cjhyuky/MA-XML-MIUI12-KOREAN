@@ -393,7 +393,7 @@
     <string name="match_power_confirm_tip_frame">%1$s 기기가 켜졌습니까?</string>
     <string name="match_power_main_tip_frame">%1$s 기기가 켜졌습니까?</string>
     <string name="match_stb_intro_left">커서가 왼쪽으로 이동하면 손을 떼세요.</string>
-    <string name="match_stb_intro_ok">변경 사항이 화면에 표시되면 손을 떼세요.</string>
+    <string name="match_stb_intro_ok">변경사항이 화면에 표시되면 손을 떼세요.</string>
     <string name="match_stb_intro_up">커서가 위로 이동하면 손을 떼세요.</string>
     <string name="match_stb_name_left">왼쪽</string>
     <string name="match_stb_name_ok">네</string>
@@ -404,7 +404,7 @@
     <string name="match_tip_eject">열림 버튼이 작동합니까?</string>
     <string name="match_tip_exit">종료 버튼이 작동합니까?</string>
     <string name="match_tip_ff">빨리감기 버튼이 작동합니까?</string>
-    <string name="match_tip_guide">네비게이션 버튼이 작동합니까?</string>
+    <string name="match_tip_guide">내비게이션 버튼이 작동합니까?</string>
     <string name="match_tip_home">홈 버튼이 작동합니까?</string>
     <string name="match_tip_menu">메뉴 버튼이 작동합니까?</string>
     <string name="match_tip_mute">음소거 버튼이 작동합니까?</string>
@@ -894,7 +894,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_error_login">로그인할 수 없습니다.</string>
     <string name="passport_error_unknown">로그인할 수 없습니다.</string>
     <string name="passport_login_failed">로그인할 수 없습니다.</string>
-    <string name="passport_loading">로딩 중…</string>
+    <string name="passport_loading">불러오는 중…</string>
     <string name="passport_register_account_goto_email">받은 메일함으로 이동</string>
     <string name="passport_change_phone_number">번호 변경</string>
     <string name="passport_auto_generate_pwd">보안 비밀번호 생성</string>
@@ -1007,7 +1007,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="loading_share_info_err">"데이터를 불러올 수 없습니다."</string>
     <string name="main_tab_show_mitv">Mi TV 발견</string>
     <string name="main_tab_show_mitv_detail">Mi TV와 리모컨을 휴대전화에 추가했습니다. 이제 휴대전화를 사용하여 TV 제어, 앱 설치, 동영상 전송을 할 수 있습니다.</string>
-    <string name="mishopsdk_progress_loading">로딩중 ...</string>
+    <string name="mishopsdk_progress_loading">불러오는 중 ...</string>
     <string name="mitv_video">Mi TV 온라인</string>
     <string name="my_favorite_program">좋아하는 프로그램</string>
     <string name="my_order">내 주문</string>
@@ -1047,7 +1047,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="video_comment_reply_empty">"댓글 내용을 입력하세요"</string>
     <string name="video_comment_reply_failed">"댓글 추가 실패"</string>
     <string name="video_count_info">동영상: %d</string>
-    <string name="video_delte_item">삭제중…</string>
+    <string name="video_delte_item">삭제 중…</string>
     <string name="video_favor">즐겨찾기</string>
     <string name="video_filter_all">모두보기</string>
     <string name="video_history">재생기록</string>
@@ -1067,7 +1067,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="mistore_ad">Mi 스토어 광고</string>
     <string name="name_ch_dec">채널 -</string>
     <string name="network_access_accept">인터넷 연결 동의</string>
-    <string name="network_access_hint">이 기능은 오직 인터넷 접속이 있을때만 사용 가능합니다.</string>
+    <string name="network_access_hint">이 기능은 오직 인터넷 접속이 있을 때만 사용 가능합니다.</string>
     <string name="newly_added_in_7_days">7일 이내에 추가됨</string>
     <string name="on_play">재생중:</string>
     <string name="passport_account_set_password">비밀번호 설정</string>

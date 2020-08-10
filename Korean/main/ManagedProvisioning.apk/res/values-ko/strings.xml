@@ -65,8 +65,8 @@
     <string name="delete_profile_title">업무 프로필을 제거하시겠습니까?</string>
     <string name="device_owner_error_frp">이 기기는 잠겨있습니다. IT 부서에 문의하세요.</string>
     <string name="device_owner_exists">이 기기에는 업무 프로필을 설정할 수 없습니다.</string>
-    <string name="encrypt_device_text_for_device_owner_setup">"계속하려면 압축을 해제해야 합니다. 이는 몇분 정도 소요될 수 있습니다."</string>
-    <string name="encrypt_device_text_for_profile_owner_setup">"업무 프로필을 설정하려면 압축을 해제해야 합니다. 이는 몇분 정도 소요될 수 있습니다."</string>
+    <string name="encrypt_device_text_for_device_owner_setup">"계속하려면 압축을 해제해야 합니다. 이는 몇 분 정도 소요될 수 있습니다."</string>
+    <string name="encrypt_device_text_for_profile_owner_setup">"업무 프로필을 설정하려면 압축을 해제해야 합니다. 이는 몇 분 정도 소요될 수 있습니다."</string>
     <string name="frp_clear_progress_text">잠시만 기다려주세요...</string>
     <string name="frp_clear_progress_title">삭제하는 중</string>
     <string name="learn_more_label">버튼에 대해 알아보기</string>
@@ -191,7 +191,7 @@
     <string name="device_owner_description">이 장치는 조직에서 안전하게 보호하고 관리합니다.</string>
     <string name="progress_connect_to_mobile_network">모바일 네트워크에 연결 중…</string>
     <string name="search_menu_title">검색</string>
-    <string name="take_a_few_minutes">몇분정도 시간이 소요됩니다.</string>
+    <string name="take_a_few_minutes">몇 분정도 시간이 소요됩니다.</string>
     <string name="work_profile_description">업무용 앱은 이 프로필에 보관되며 조직에서 관리합니다.</string>
     <string name="back">뒤로</string>
     <string name="brand_screen_header">이 기기는 귀하의 조직에 속합니다.</string>

@@ -869,11 +869,11 @@
     <string name="unable_connect_network">"네트워크에 연결할 수 없습니다."</string>
     <string name="wallpaper_24h">24H</string>
     <string name="wallpaper_delete_all">선택한 항목을 삭제하시겠습니까?</string>
-    <string name="wallpaper_dynamic">동적인</string>
+    <string name="wallpaper_dynamic">동적</string>
     <string name="wallpaper_online">온라인 배경화면</string>
     <string name="wallpaper_online_no_more">"더이상 없습니다."</string>
     <string name="wallpaper_online_tip">더 많은 항목을 보려면 네트워크에 연결하세요.</string>
-    <string name="wallpaper_static">정적인</string>
+    <string name="wallpaper_static">정적</string>
     <string name="concentration_old_period">더보기</string>
     <string name="first_page_recommend">추천</string>
     <string name="system_cta_main_purpose">온라인 및 오프라인 테마, 배경 화면, 벨소리, 글꼴 및 동영상 배경 화면 관리 및 사용</string>
@@ -967,7 +967,7 @@ EEE"</string>
     <string name="theme_designer_products">디자이너 테마</string>
     <string name="use_hint">주의</string>
     <string name="theme_wallpaper">배경화면 카테고리</string>
-    <string name="super_wallpaper">수퍼 배경화면</string>
+    <string name="super_wallpaper">슈퍼 배경화면</string>
     <string name="resource_exchange_success">적용 완료</string>
     <string name="resource_download_notification_title_one">%1$s 다운로드 완료</string>
     <string name="font_trial_end_purchase">글꼴 구매</string>

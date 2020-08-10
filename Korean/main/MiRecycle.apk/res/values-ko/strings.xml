@@ -132,7 +132,7 @@
     <string name="item_testing_completed">완료됨</string>
     <string name="label_my_order">내 주문</string>
     <string name="landmark">랜드마크</string>
-    <string name="loading">로딩중...</string>
+    <string name="loading">불러오는 중...</string>
     <string name="main_overall_test">시작</string>
     <string name="msg_coupon_applied">쿠폰이 성공적으로 적용되었습니다.</string>
     <string name="msg_empty_cancel_reason">취소 이유를 선택하세요.</string>

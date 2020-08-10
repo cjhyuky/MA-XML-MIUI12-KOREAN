@@ -139,8 +139,8 @@
     <string name="quick_settings_wireless_label">역 무선 충전</string>
     <string name="recents_forbid_dock_when_screening_toast_text">캐스팅 중에 분할 화면을 사용할 수 없습니다.</string>
     <string name="recents_task_screening">캐스팅</string>
-    <string name="screenshot_failed_to_capture_title">이 앱은 스크린 샷을 찍을 수 없습니다.</string>
-    <string name="screenshot_failed_to_save_title">새 스크린 샷을 저장할 공간이 부족합니다.</string>
+    <string name="screenshot_failed_to_capture_title">이 앱은 스크린샷을 찍을 수 없습니다.</string>
+    <string name="screenshot_failed_to_save_title">새 스크린샷을 저장할 공간이 부족합니다.</string>
     <string name="small_window_guide_title">플로팅 창</string>
     <string name="small_window_notification_text">MIUI %d 의 이 기능에 대해 자세히 알아 보려면 탭하세요.</string>
     <string name="small_window_notification_title">플로팅 창</string>
@@ -158,7 +158,7 @@
     <string name="wireless_charging_tips_message">이 장치 뒷면에서 Qi 무선 충전 (전화, 액세서리 등)을 지원하는 장치를 배치하세요.</string>
     <string name="wireless_charging_tips_title">역 무선 충전</string>
     <string name="qs_control_header_tiles_title">제어 센터</string>
-    <string name="screenshot_failed_in_landscape_mode">"가로 모드에서는 스크롤 스크린 샷을 만들 수 없습니다."</string>
+    <string name="screenshot_failed_in_landscape_mode">"가로 모드에서는 스크롤 스크린샷을 만들 수 없습니다."</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
@@ -256,7 +256,7 @@
     <string name="accessibility_gps_enabled">GPS 활성화됨</string>
     <string name="accessibility_home">홈</string>
     <string name="accessibility_ime_switch_button">입력 방법 전환 버튼</string>
-    <string name="accessibility_key">사용자 정의 네비게이션 버튼</string>
+    <string name="accessibility_key">사용자 정의 내비게이션 버튼</string>
     <string name="accessibility_left_control_center_button">바로가기</string>
     <string name="accessibility_left_lock_screen_magazine_button">슬라이드형 바탕화면</string>
     <string name="accessibility_location_active">위치 요청 활성화</string>
@@ -595,14 +595,14 @@
     <string name="camera_key_action_setting_title">Mi 버튼</string>
     <string name="camera_key_action_shortcut_call">통화</string>
     <string name="camera_key_action_shortcut_home">홈 화면으로 돌아가기</string>
-    <string name="camera_key_action_shortcut_screenshot">스크린 샷</string>
+    <string name="camera_key_action_shortcut_screenshot">스크린샷</string>
     <string name="camera_key_action_shortcut_search">검색</string>
     <string name="camera_key_action_shortcut_title">바로가기</string>
     <string name="camera_key_action_shortcut_wake">기기 잠그기/절전 모드 해제</string>
     <string name="camera_key_action_toggle_title">트리거 토글</string>
     <string name="camera_label">카메라 열기</string>
     <string name="cancel">취소</string>
-    <string name="car_lockscreen_disclaimer_text">도로 상황과 지역 법률을 따라주세요.네비게이션이나 위치 정보가 정확하지 않을 수 있고 실시간 업데이트가 진행되지 않을 수 있습니다.</string>
+    <string name="car_lockscreen_disclaimer_text">도로 상황과 지역 법률을 따라주세요.내비게이션이나 위치 정보가 정확하지 않을 수 있고 실시간 업데이트가 진행되지 않을 수 있습니다.</string>
     <string name="car_lockscreen_disclaimer_title">안전운전 하세요!</string>
     <string name="category_personal">개인용</string>
     <string name="category_work">사무용</string>
@@ -925,7 +925,7 @@
     <string name="how_to_switch_recents">최근 앱으로 전환하는 방법</string>
     <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
     <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요.</string>
-    <string name="how_to_use_fsg">풀 화면 제스쳐를 어떻게 사용합니까?</string>
+    <string name="how_to_use_fsg">풀 화면 제스처를 어떻게 사용합니까?</string>
     <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. %1$s 앱이 수집합니다. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">백그라운드 유지하지 않음</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다.</string>
@@ -1246,7 +1246,7 @@
     <string name="nav_bar_default">(기본값)</string>
     <string name="nav_bar_layout">레이아웃</string>
     <string name="nav_guide_cancel">무시</string>
-    <string name="nav_guide_message">가상 버튼을 숨기거나 표시하려면 제스쳐를 사용하세요.</string>
+    <string name="nav_guide_message">가상 버튼을 숨기거나 표시하려면 제스처를 사용하세요.</string>
     <string name="nav_guide_ok">설정</string>
     <string name="nav_guide_title">가상 버튼 숨김</string>
     <string name="no_application">없음</string>
@@ -1908,8 +1908,8 @@
     <string name="user_remove_user_title">사용자를 지우시겠습니까?</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
-    <string name="verify_apps_over_usb_summary">ADB/ADT를 통한 설치시 유해한 앱인지 검사합니다.</string>
-    <string name="verify_apps_over_usb_title">USB로 설치시 앱 검증</string>
+    <string name="verify_apps_over_usb_summary">ADB/ADT를 통한 설치 시 유해한 앱인지 검사합니다.</string>
+    <string name="verify_apps_over_usb_title">USB로 설치 시 앱 검증</string>
     <string name="voice_assist_label">음성 도우미 열기</string>
     <string name="voice_hint">음성 도우미를 위한 아이콘 스와이프</string>
     <string name="volume_and_do_not_disturb">방해 금지</string>
@@ -2060,7 +2060,7 @@
     <string name="copy">복사</string>
     <string name="data_usage_ota">시스템 업데이트</string>
     <string name="face_dialog_looking_for_face">얼굴 찾는중…</string>
-    <string name="loading_injected_setting_summary">로딩중…</string>
+    <string name="loading_injected_setting_summary">불러오는 중…</string>
     <string name="manage_bubbles_text">편집</string>
     <string name="media_transfer_this_device_name">이 기기</string>
     <string name="mr_button_content_description">캐스트 버튼</string>

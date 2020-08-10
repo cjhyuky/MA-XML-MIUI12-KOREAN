@@ -303,7 +303,7 @@
     <string name="vlog_download_with_metered_network_title">유료 네트워크 연결 사용</string>
     <string name="vlog_downloading_cloud_file">클라우드에서 항목 다운로드 중…</string>
     <string name="vlog_end_of_film">닫기</string>
-    <string name="vlog_exit_ddit_message">지금 종료하면 모든 변경 사항이 손실됩니다. 그래도 종료하시겠습니까?</string>
+    <string name="vlog_exit_ddit_message">지금 종료하면 모든 변경사항이 손실됩니다. 그래도 종료하시겠습니까?</string>
     <string name="vlog_exit_edit_title">종료 편집기</string>
     <string name="vlog_film_title">개방</string>
     <string name="vlog_filter_changfeng">바람</string>
@@ -1083,10 +1083,10 @@
     <string name="loading_video_thumbnail">동영상 커버 다운로드 중…</string>
     <string name="login_and_enable_service">Mi 계정으로 로그인</string>
     <string name="long_press_to_refocus">길게 &amp; 눌러 초점 재조정</string>
-    <string name="main_discard_confirm_message">변경 사항을 저장하지 않았습니다.</string>
+    <string name="main_discard_confirm_message">변경사항을 저장하지 않았습니다.</string>
     <string name="main_discard_negative_btn">변경 취소</string>
     <string name="main_discard_positive_btn">저장 &amp; 나가기</string>
-    <string name="main_save_error_msg">오류 때문에 변경 사항을 저장할 수 없습니다.</string>
+    <string name="main_save_error_msg">오류 때문에 변경사항을 저장할 수 없습니다.</string>
     <string name="mark_myself_suggestion_load_more">내가 아닙니다.</string>
     <string name="mark_myself_suggestion_title">얼굴을 탭하여 갤러리를 사용자에 맞게 설정하세요.</string>
     <string name="mark_operation_failed">추가할 수 없음</string>
@@ -1374,11 +1374,11 @@
     <string name="photo_font_download_without_wifi_msg">모바일 데이터 연결을 사용하여 파일을 다운로드하면 데이터 사용량이 증가합니다. 계획의 데이터 한도를 초과하면 이동통신사에서 추가 요금을 청구 할 수 있습니다.</string>
     <string name="photo_font_download_without_wifi_title">데이터 사용량 경고</string>
     <string name="photo_movie_module_finish">클립 로드 완료</string>
-    <string name="photo_movie_module_loading">클립 로딩중…</string>
+    <string name="photo_movie_module_loading">클립 불러오는 중…</string>
     <string name="photo_movie_select_image_range">클립은 3-6개 사진을 포함할 수 있습니다.</string>
     <string name="photo_page_save_uri_image_fail">갤러리에 저장할 수 없음</string>
     <string name="photo_page_save_uri_image_ok">갤러리에 사진 저장됨</string>
-    <string name="photo_print_menu_loading">플러그인 로딩중…</string>
+    <string name="photo_print_menu_loading">플러그인 불러오는 중…</string>
     <string name="photo_print_package_finish">성공적으로 로드됨</string>
     <string name="photo_print_package_installing">플러그인 설치중…</string>
     <string name="photo_save_to_msg">%s에 저장합니다.</string>
@@ -1463,7 +1463,7 @@
     <string name="remover_edit_type_free">물체</string>
     <string name="remover_erase_aera_too_big">선택한 영역이 너무 큽니다.</string>
     <string name="remover_menu_processing">처리중</string>
-    <string name="removing_from_favorites">즐겨찾기에서 삭제중…</string>
+    <string name="removing_from_favorites">즐겨찾기에서 삭제 중…</string>
     <string name="rename_album">앨범 이름 변경</string>
     <string name="rename_album_failed">이름을 변경할 수 없습니다.</string>
     <string name="rename_album_succeeded">이름 변경 성공</string>
@@ -1664,7 +1664,7 @@
     <string name="story_remove_confirm_title">사진 삭제</string>
     <string name="story_rename_invalid_char">\"%s\" 이름을 추억앨범 제목으로 사용할 수 없습니다. 문자, 숫자, 한자로 작성하세요.</string>
     <string name="story_rename_invalid_prefix">\".\" 또는 \"_\" 기호로 추억앨범 제목을 시작할 수 없습니다.</string>
-    <string name="sub_discard_confirm_message">변경 사항을 저장하시겠습니까?</string>
+    <string name="sub_discard_confirm_message">변경사항을 저장하시겠습니까?</string>
     <string name="sub_discard_negative_btn">변경 취소</string>
     <string name="sub_discard_positive_btn">저장</string>
     <string name="success_create_quick_icon_on_desk">만들기 성공</string>
@@ -1755,8 +1755,8 @@
     <string name="user_notice_identify_summary_format"><Data>"이 서비스를 사용하면 Xiaomi의 &lt;a href=\"%1$s\"&gt;\"서비스 약관\"&lt;/a&gt; 및 &lt;a href=\"%2$s\"&gt;\"개인정보 보호정책\"&lt;/a&gt;에 동의하는 것입니다."</Data></string>
     <string name="user_notice_title">이용 약관</string>
     <string name="video_edit_file_not_exits_tip">먼저 동영상 다운로드</string>
-    <string name="video_editor_abandon_changes_tip_message">모든 변경 사항을 취소하시겠습니까?</string>
-    <string name="video_editor_abandon_changes_tip_title">변경 사항 취소</string>
+    <string name="video_editor_abandon_changes_tip_message">모든 변경사항을 취소하시겠습니까?</string>
+    <string name="video_editor_abandon_changes_tip_title">변경사항 취소</string>
     <string name="video_editor_adjust">최적화</string>
     <string name="video_editor_analyzing">동영상 분석 중…</string>
     <string name="video_editor_audio">오디오</string>
@@ -1975,8 +1975,8 @@
     <string name="macarons_downloading">플러그인 다운로드 중…</string>
     <string name="problem_feedback">피드백</string>
     <string name="vlog_clip_zoom">두 손가락을 사용하여 미리보기에서 프레임 수를 늘리거나 줄입니다.</string>
-    <string name="vlog_exit_message">저장되지 않은 모든 변경 사항이 손실됩니다. 그래도 돌아가시겠습니까?</string>
-    <string name="vlog_exit_title">변경 사항 취소</string>
+    <string name="vlog_exit_message">저장되지 않은 모든 변경사항이 손실됩니다. 그래도 돌아가시겠습니까?</string>
+    <string name="vlog_exit_title">변경사항 취소</string>
     <string name="vlog_float_view_original_ratio">원본</string>
     <string name="vlog_improt_encode_video_error">인코딩 오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="vlog_photo_edit_not_support">"이미지를 편집할 수 없습니다."</string>
@@ -2576,8 +2576,8 @@
     <string name="online_video_error_unsupported_type">"온라인 플레이어는이 형식을 지원하지 않습니다. 대신 항목을 다운로드했습니다."</string>
     <string name="screen_editor_btn_shell_off">장치 프레임 제거</string>
     <string name="screen_editor_btn_shell_on">장치 프레임 추가</string>
-    <string name="screen_editor_crop_disallowed_with_shell">"장치 프레임으로 스크린 샷을자를 수 없습니다."</string>
-    <string name="screen_editor_shell_disallowed_with_crop">"자른 스크린 샷에 장치 프레임을 추가할 수 없습니다."</string>
+    <string name="screen_editor_crop_disallowed_with_shell">"장치 프레임으로 스크린샷을자를 수 없습니다."</string>
+    <string name="screen_editor_shell_disallowed_with_crop">"자른 스크린샷에 장치 프레임을 추가할 수 없습니다."</string>
     <string name="screen_editor_shell_net_error">장치 프레임을 다운로드하려면 네트워크에 연결하세요.</string>
     <string name="screen_editor_shell_res_downloading">장치 프레임 다운로드 중…</string>
     <string name="screen_editor_shell_storage_insufficient">"충분한 저장 공간으로 인해 장치 프레임을 다운로드할 수 없습니다."</string>

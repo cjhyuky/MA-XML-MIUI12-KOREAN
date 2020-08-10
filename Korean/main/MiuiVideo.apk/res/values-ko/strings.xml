@@ -148,7 +148,7 @@
     <string name="buffering">버퍼링 중…</string>
     <string name="buffering_video_netplay_label_v5">버퍼링 중…</string>
     <string name="buy_vip">vip 구입</string>
-    <string name="check_plugin_loading">HD 동영상 플러그인 로딩중…</string>
+    <string name="check_plugin_loading">HD 동영상 플러그인 불러오는 중…</string>
     <string name="check_plugin_message">HD 동영상 플러그인 설치중…</string>
     <string name="check_plugin_tips">HD 동영상 플러그인</string>
     <string name="clear_cache">캐시 이미지 삭제</string>
@@ -263,7 +263,7 @@
     <string name="plus_player_detail_file_location">"파일 위치: "</string>
     <string name="pre_play_tips">%1$s 이어보기</string>
     <string name="priority_storage">외부 SD 카드에 저장</string>
-    <string name="priority_storage_summary">"설치시 SD 카드에 파일을 저장합니다."</string>
+    <string name="priority_storage_summary">"설치 시 SD 카드에 파일을 저장합니다."</string>
     <string name="products_info_error">"주문 정보를 가져올 수 없습니다. 다시 시도하세요."</string>
     <string name="provid_online_server">온라인 콘텐츠를 시청하려면 켜세요.</string>
     <string name="pull_to_refresh_from_bottom_pull_label">새로고침하려면 위로 당기세요…</string>
@@ -1004,7 +1004,7 @@
     <string name="resolution_normal">보통화질</string>
     <string name="single_cyclic">한곡 반복</string>
     <string name="password_toggle_content_description">토글 비밀번호 표시</string>
-    <string name="vp_video_play_loading">플레이어 로딩중…</string>
+    <string name="vp_video_play_loading">플레이어 불러오는 중…</string>
     <string name="all_comments">모든 댓글</string>
     <string name="close_sub_comments">숨기기</string>
     <string name="copy">복사</string>

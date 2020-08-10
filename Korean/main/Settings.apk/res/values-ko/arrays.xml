@@ -1058,7 +1058,7 @@
         <item>MIDI 장치</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>연결할때마다 묻기</item>
+        <item>연결할 때마다 묻기</item>
         <item>충전 전용</item>
         <item>SD 카드 장착</item>
     </string-array>

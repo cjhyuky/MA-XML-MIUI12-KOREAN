@@ -9,7 +9,7 @@
     <string name="task_already_exist">이 작업은 이미 존재합니다.</string>
     <string name="update">업데이트</string>
     <string name="mi_wallpaper_title">Mi 배경화면</string>
-    <string name="mi_wallpaper_loading">Mi 배경화면 로딩 중...</string>
+    <string name="mi_wallpaper_loading">Mi 배경화면 불러오는 중...</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>

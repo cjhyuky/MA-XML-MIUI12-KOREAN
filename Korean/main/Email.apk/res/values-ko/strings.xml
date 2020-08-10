@@ -1236,7 +1236,7 @@
     <string name="account_setup_basics_password_label_authcode">비밀번호 또는 확인 코드 입력</string>
     <string name="account_setup_options_mail_check_frequency_15min">매 15분마다</string>
     <string name="add_account_search">계정 추가</string>
-    <string name="all_purpose">메일 앱에 오신 것을 환영합니다. 이 앱은 킹소프트가 개발한 Xiaomi 전용 이메일 클라이언트로, 이메일을 작성하고 보내거나 받을 수 있습니다.</string>
+    <string name="all_purpose">메일 앱에 오신 것을 환영합니다. 이 앱은 Kingsoft가 개발한 Xiaomi 전용 이메일 클라이언트로, 이메일을 작성하고 보내거나 받을 수 있습니다.</string>
     <string name="confirm_age">연령 확인</string>
     <string name="delete_contact_content">지금이 연락처를 삭제하시겠습니까?</string>
     <string name="email_sync_failed">"메일을 동기화할 수 없습니다."</string>
@@ -1276,7 +1276,7 @@
     <string name="user_privacy_settings_path">인증을 취소하려면 설정>개인정보 보호설정으로 이동하세요.</string>
     <string name="user_privacy_settings_summary">"Google은 암호화된 형식으로 Android ID를 수집하여 메일에서 고유한 사용자 식별자로 사용합니다. 또한 사용로그를 수집할 수도 있습니다. 개인정보 보호설정에서 언제든지 승인을 취소할 수 있습니다."</string>
     <string name="user_privacy_settings_title">메일 개인정보 취급방침</string>
-    <string name="wait_while_update_db">데이터베이스 업데이트중…</string>
+    <string name="wait_while_update_db">데이터베이스 업데이트 중…</string>
     <string name="account_settings_smime_title">S/MIME(보안/다목적 인터넷 메일 확장)</string>
     <string name="account_smime_cert_title">인증서</string>
     <string name="account_smime_encrypt">S/MIME 암호화</string>

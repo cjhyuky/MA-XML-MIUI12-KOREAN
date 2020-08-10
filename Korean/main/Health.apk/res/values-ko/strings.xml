@@ -441,7 +441,7 @@
     <string name="enable_not_now">지금은 아닙니다.</string>
     <string name="sedentaty_hazard_description">"앉아도 건강에 도움이되지 않습니다. 매일 1 분 동안 휴식을 취하면 12 시간 동안 앉아있는 생활 습관의 위험을 피할 수 있습니다."</string>
     <string name="sleep_deep_light_no_data">아직 데이터가 없습니다.</string>
-    <string name="sleep_deep_light_no_data_improvement">"수면 단계를 감지 할 수 없습니다. 알고리즘을 개선하고 있습니다. 계속 지켜봐주세요!"</string>
+    <string name="sleep_deep_light_no_data_improvement">"수면 단계를 감지할 수 없습니다. 알고리즘을 개선하고 있습니다. 계속 지켜봐주세요!"</string>
     <string name="sleep_detection_question_one_answer_1">"기기 센서가 수집한 신체 움직임 데이터를 기반으로 깊은 수면과 얕은 수면을 감지됩니다. 통계를 볼 수 없는 이유는 다음과 같습니다.
 1. Xiaomi 건강 앱이 데이터를 수집할 수 없습니다. 잠자는 동안 기기의 전원이 꺼지거나 배터리 잔량이 부족하거나 앱이 백그라운드에서 작동하지 않는 경우에 발생할 수 있습니다. Xiaomi 건강 앱이 자동시작되도록 허용하고 배터리 절약 예외에 추가한 다음 백그라운드에서 꺼지지 않도록 하세요.
 2. Xiaomi 건강 앱이 수집된 데이터를 분석할 수 없습니다. 이것은 잠을 잘 때 휴대전화이 몸에서 너무 멀리 떨어져 있을 때 발생할 수 있습니다. 또는 몸의 움직임이 너무 미묘하면 수면주기 변화에 대한 가정을 할 수 없습니다. Xiaomi 건강 앱은 수면을 더 잘 분석할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
@@ -971,7 +971,7 @@
     <string name="tb_home_sleep_card">수면. 오늘 %1$s. %2$s에 잠자리에 들었습니다. %3$s에서 일어났습니다. %4$s.</string>
     <string name="tb_home_sleep_card_not_open_trace">수면. 수면주기 분석이 해제되었습니다.</string>
     <string name="tb_home_sleep_card_no_data">수면. 오늘 데이터가 없습니다.</string>
-    <string name="tb_home_tip_open_data_sync">Xiaomi 건강 항목을 Xiaomi Cloud와 동기화하여 다른 장치에서 액세스할 수 있습니다. 시작하려면 두 번 탭하세요.</string>
+    <string name="tb_home_tip_open_data_sync">Xiaomi 건강 항목을 Xiaomi 클라우드와 동기화하여 다른 장치에서 액세스할 수 있습니다. 시작하려면 두 번 탭하세요.</string>
     <string name="tb_home_weight_card">무게. %1$.1f 킬로그램. 계량 시간 : %2$s. 상태 : %3$s.</string>
     <string name="tb_home_weight_card_no_data">무게. 데이터가 없습니다.</string>
     <string name="tb_manage_home">여기에서 시작 페이지에 표시된 카드를 제거하거나 재정렬 할 수 있습니다.</string>

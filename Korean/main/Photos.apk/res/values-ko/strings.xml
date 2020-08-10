@@ -1103,7 +1103,7 @@
     <string name="photos_download_download_failed">다운로드하지 못했습니다.</string>
     <string name="offline_basic_error_title">연결할 수 없습니다.</string>
     <string name="offline_flaky_error_title">연결 문제</string>
-    <string name="offline_action_basic_error_message">%1$s 어플이 인터넷에 연결되어야 합니다.</string>
+    <string name="offline_action_basic_error_message">%1$s 앱이 인터넷에 연결되어야 합니다.</string>
     <string name="offline_error_message_no_action">인터넷에 연결해야 합니다.</string>
     <string name="offline_action_flaky_error_message">%1$s 실패</string>
     <string name="offline_action_add_to_album">항목을 앨범에 추가</string>

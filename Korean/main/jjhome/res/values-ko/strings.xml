@@ -173,7 +173,7 @@
     <string name="camera_unknown_error">알 수 없는 오류 발생</string>
     <string name="camera_crop_title">이미지 조정</string>
     <string name="simContacts_title">SIM 카드 연락처</string>
-    <string name="simContacts_emptyLoading">SIM 카드에서 로딩 중…</string>
+    <string name="simContacts_emptyLoading">SIM 카드에서 불러오는 중…</string>
     <string name="place_a_call1">SIM 1</string>
     <string name="place_a_call2">SIM 2</string>
     <string name="cancel_call">취소</string>
@@ -195,7 +195,7 @@
     <string name="service_contact_phone">4006380360</string>
     <string name="insert_contact_to_launcher_hint">%1$s님을 홈 화면에 추가하시겠습니까?</string>
     <string name="remove_contact_from_launcher_hint">%1$s님을 홈 화면에서 제거하시겠습니까?</string>
-    <string name="remove_loading">삭제중…</string>
+    <string name="remove_loading">삭제 중…</string>
     <string name="contact_search_hint">검색</string>
     <string name="contact_call_duration_minute">%1$d분</string>
     <string name="contact_call_duration_minute_second">%1$d분 %2$d초</string>
@@ -243,7 +243,7 @@
     <string name="alert_btn_ok_text">확인</string>
     <string name="alert_btn_cancel_text">취소</string>
     <string name="alert_btn_i_known">알겠습니다.</string>
-    <string name="text_loading">로딩 중…</string>
+    <string name="text_loading">불러오는 중…</string>
     <string name="text_error">오류 발생</string>
     <string name="text_network_error">네트워크에 연결할 수 없습니다.</string>
     <string name="text_post_loading">전송 중…</string>

@@ -20,7 +20,7 @@
     <string name="cloud_international_addr">국제 서버 데이터 변경</string>
     <string name="cloud_staging_addr">스테이징 서버 데이터 변경</string>
     <string name="config_classify">앱 설정에 따라 정렬</string>
-    <string name="config_description">MIUI는 앱의 구체적인 백그라운드 작업을 식별합니다(예: 메시지 전송, 네비게이션 앱, 미디어 플레이어), 배터리 절약은 백그라운드 중요 앱에 영향을 주지 않습니다.</string>
+    <string name="config_description">MIUI는 앱의 구체적인 백그라운드 작업을 식별합니다(예: 메시지 전송, 내비게이션 앱, 미디어 플레이어), 배터리 절약은 백그라운드 중요 앱에 영향을 주지 않습니다.</string>
     <string name="config_mode_title">백그라운드 설정</string>
     <string name="config_no_restrict_description">배터리 절약은 앱 활동을 제한하지 않습니다.</string>
     <string name="config_no_restrict_title">제한 없음</string>

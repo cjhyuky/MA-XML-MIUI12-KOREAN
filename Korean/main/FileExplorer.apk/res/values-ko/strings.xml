@@ -253,7 +253,7 @@
     <string name="connection_error">연결할 수 없음</string>
     <string name="app_name">파일매니저</string>
     <string name="app_name_bluetooth">블루투스</string>
-    <string name="app_name_screenshot">스크린 샷</string>
+    <string name="app_name_screenshot">스크린샷</string>
     <string name="app_name_downloadedrom">패키지</string>
     <string name="app_name_downloads">다운로드</string>
     <string name="app_name_camera">카메라</string>

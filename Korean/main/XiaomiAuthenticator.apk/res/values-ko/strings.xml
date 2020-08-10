@@ -115,7 +115,7 @@
     <string name="title_nopassword">"소액 결제는 필요 없음"</string>
     <string name="title_password_threshold">1일 제한 = ￥%1$s</string>
     <string name="title_nopassword_dialog">1일 제한</string>
-    <string name="progress_loading">로딩중…</string>
+    <string name="progress_loading">불러오는 중…</string>
     <string name="login">로그인</string>
     <string name="password_hint">Mi 계정 비밀번호를 입력하세요.</string>
     <string name="password_error">비밀번호가 맞지 않습니다.</string>
@@ -154,7 +154,7 @@ account.xiaomi.com에서 로그인하고 Reactivative를 클릭합니다."</stri
     <string name="timesync_sync_now_preference_title">지금 동기화</string>
     <string name="timesync_about_feature_preference_title">이 기능에 대하여</string>
     <string name="timesync_about_feature_screen_title">이 기능에 대하여</string>
-    <string name="timesync_about_feature_screen_details">"지금 동기화를 누르면, 어플이 Google 서버와 동기화를 하려고 시도합니다. 기기의 날짜 및 시간은 변경되지 않습니다. 어플은 내부 시계를 Google 서버와 동기화하는 동안, 개인 데이터나 게정 정보를 전송하지 않습니다. 이는 이 어플이 1) 현재 시간을 바탕으로 2단계 검증 코드를 생성하고 2) 앱과 서버에 알려진 비밀번호를 생성하는 이유입니다. 이 어플과 서버가 현재 시간에 대해 서로 다른경우 로그인을 할 때 앱이 생성하는 코드가 수락되지 않을 수 있습니다. 기본적으로 이 어플은 장치의 날짜 및 시간 설정을 사용하며, 대부분의 경우 시간, 날짜 및 시간대의 설정이 올바르게 구성되어 있는지 확인하여 유호한 코드를 생성할 수 있습니다. 그러나 시간 불일치가 발생하면 문제를 해결하기 어려울 수 있습니다. (특히 네트워크에서 제공하는 시간대를 사용하는 경우)"</string>
+    <string name="timesync_about_feature_screen_details">"지금 동기화를 누르면, 앱이 Google 서버와 동기화를 하려고 시도합니다. 기기의 날짜 및 시간은 변경되지 않습니다. 앱은 내부 시계를 Google 서버와 동기화하는 동안, 개인 데이터나 게정 정보를 전송하지 않습니다. 이는 이 앱이 1) 현재 시간을 바탕으로 2단계 검증 코드를 생성하고 2) 앱과 서버에 알려진 비밀번호를 생성하는 이유입니다. 이 어플과 서버가 현재 시간에 대해 서로 다른 경우 로그인을 할 때 앱이 생성하는 코드가 수락되지 않을 수 있습니다. 기본적으로 이 앱은 장치의 날짜 및 시간 설정을 사용하며, 대부분의 경우 시간, 날짜 및 시간대의 설정이 올바르게 구성되어 있는지 확인하여 유호한 코드를 생성할 수 있습니다. 그러나 시간 불일치가 발생하면 문제를 해결하기 어려울 수 있습니다. (특히 네트워크에서 제공하는 시간대를 사용하는 경우)"</string>
     <string name="timesync_sync_now_screen_title">지금 동기화</string>
     <string name="timesync_sync_now_progress_dialog_title">지금 동기화</string>
     <string name="timesync_sync_now_progress_dialog_details">서버에 연결 중…</string>

@@ -291,7 +291,7 @@
     <string name="install_app_to_another_phone_content">새 기기에 Mi Mover 설치</string>
     <string name="install_complete_count_down_time">성공적으로 설치되었습니다. 전송 시작 ​​(%1$d)</string>
     <string name="install_mi_cloud_app_summary">iPhone으로이 QR 코드를 스캔하여 앱을 다운로드하고 설치하세요.</string>
-    <string name="install_mi_cloud_app_title">Xiaomi Cloud 설치</string>
+    <string name="install_mi_cloud_app_title">Xiaomi 클라우드 설치</string>
     <string name="install_new_app_link_text">연결할 수 있도록 새 장치에 Mi Mover를 설치합니다. 설치하려면 탭하세요.</string>
     <string name="instruction">중요 안전 정보</string>
     <string name="international_new_trans_intro_desc_8">"호환성 문제로 인해 문자 메시지를 전송할 수 없습니다. 타사 앱은 보안상의 이유로 앱 데이터 전송을 제한할 수 있습니다."</string>
@@ -468,7 +468,7 @@
     <string name="prompt_before_transmission_message2_summary">"듀얼 앱은 전송할 수 없습니다. 그러나 원래 앱은 전송할 수 있습니다."</string>
     <string name="prompt_before_transmission_message2_title">"다음 항목에 이중 앱을 사용 중입니다."</string>
     <string name="prompt_before_transmission_message3_summary">"시스템 제한으로 인해 두 번째 공간의 항목을 전송할 수 없습니다."</string>
-    <string name="prompt_before_transmission_message3_title">"두 번째 공백을 사용하고 있습니다."</string>
+    <string name="prompt_before_transmission_message3_title">"보조 공간을 사용하고 있습니다."</string>
     <string name="prompt_before_transmission_message4_summary">"전송이 완료 될 때까지 Wi-Fi을 끄거나 네트워크간에 전환하지 마십시오."</string>
     <string name="prompt_before_transmission_message4_title">전송하는 동안 연결 유지</string>
     <string name="prompt_before_transmission_message5_summary">"대량의 데이터를 무선으로 전송하면 비정상적이지 않은 약간의 과열이 발생할 수 있습니다. 전송이 완료되면 곧 기기가 냉각됩니다."</string>
@@ -481,7 +481,7 @@
     <string name="reconnect">다시 연결</string>
     <string name="recovery_progress">항목 (%1$d / %2$d) 복원 중…</string>
     <string name="recreate_soft_ap_tips">다시 시도하려면 아래 버튼을 탭하세요.</string>
-    <string name="restore_data_to_device_content">"항목이 Xiaomi Cloud와 동기화되었습니다. 항목을 복원하려면 Mi 계정에 로그인하세요."</string>
+    <string name="restore_data_to_device_content">"항목이 Xiaomi 클라우드와 동기화되었습니다. 항목을 복원하려면 Mi 계정에 로그인하세요."</string>
     <string name="restore_data_to_device_title">항목을이 기기로 복원</string>
     <string name="restore_right_now">복원</string>
     <string name="retry">다시 시도</string>
@@ -578,7 +578,7 @@
     <string name="switching_to_5g">5GHz 네트워크로 전환 중…</string>
     <string name="sync_data_to_mi_cloud_content1">%d. \ "연락처 \"탭에서 \ "지금 동기화 \"를 탭하세요.</string>
     <string name="sync_data_to_mi_cloud_content2">%d. \ "사진 \"탭에서 \ "지금 백업 \"을 탭하세요.</string>
-    <string name="sync_data_to_mi_cloud_summary">iPhone에서 Xiaomi Cloud를 열고 다음 단계에 따라 데이터를 동기화합니다. 동기화가 완료되면 아래 버튼을 탭하세요.</string>
+    <string name="sync_data_to_mi_cloud_summary">iPhone에서 Xiaomi 클라우드를 열고 다음 단계에 따라 데이터를 동기화합니다. 동기화가 완료되면 아래 버튼을 탭하세요.</string>
     <string name="sync_data_to_mi_cloud_title">데이터 동기화</string>
     <string name="sync_one_time_sync">탭하여 동기화 (%1$s)</string>
     <string name="system_app_is_restore">시스템 항목 복원 중…</string>

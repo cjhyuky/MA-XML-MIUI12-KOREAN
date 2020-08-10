@@ -44,7 +44,7 @@
     <string name="miui_feedback_edit_desc_hint_suggestion">"MIUI 개선 방법을 알려주세요"</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">머물기</string>
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">삭제</string>
-    <string name="miui_feedback_edit_discard_draft_dialog_content">"이 보고서에 대한 모든 변경 사항은 지워집니다."</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">"이 보고서에 대한 모든 변경사항은 지워집니다."</string>
     <string name="miui_feedback_edit_discard_draft_dialog_title">임시 보관함을 삭제하시겠습니까?</string>
     <string name="miui_feedback_edit_hint">문제가 발생할 때마다 버그를 신고하여 더 빨리 해결하도록 도와주세요.</string>
     <string name="miui_feedback_edit_hint_gone">완료된 메시지</string>

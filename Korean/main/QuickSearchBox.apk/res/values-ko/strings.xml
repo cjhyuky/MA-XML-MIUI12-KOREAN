@@ -4,7 +4,7 @@
     <string name="search_button">검색</string>
     <string name="hot_search">인기 검색어</string>
     <string name="search_history">검색 기록</string>
-    <string name="loading">로딩중입니다…</string>
+    <string name="loading">불러오는 중입니다…</string>
     <string name="show_more">더 보기</string>
     <string name="clear_history">검색기록 지우기</string>
     <string name="search_in_web">온라인 검색</string>
@@ -22,7 +22,7 @@
     <string name="corpus_label_apps">앱</string>
     <string name="corpus_description_apps">설치된 애플리케이션</string>
     <string name="cta_declaration_title">서비스 약관</string>
-    <string name="cta_declaration">이 기능은 귀하의 위치 정보, 통화 목록, 연락처, 인터넷 등을 사용할수 있을때 정상적으로 작동합니다.</string>
+    <string name="cta_declaration">이 기능은 귀하의 위치 정보, 통화 목록, 연락처, 인터넷 등을 사용할수 있을 때 정상적으로 작동합니다.</string>
     <string name="cta_declaration_ignore">다시 보지 않기</string>
     <string name="cta_declaration_positive_text">허용</string>
     <string name="cta_declaration_negative_text">나가기</string>

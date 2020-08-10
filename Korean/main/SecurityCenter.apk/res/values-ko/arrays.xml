@@ -109,7 +109,7 @@
     <string-array name="luckymoney_sound">
         <item>무음</item>
         <item>동전소리</item>
-        <item>빨간봉투</item>
+        <item>빨간 봉투</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
         <item>끄고 알려줌</item>

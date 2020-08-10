@@ -16,13 +16,13 @@
     <string name="security_guide_title">MIUI 유틸리티 키트</string>
     <string name="gtb_dialog_btn_close">끄기</string>
     <string name="gtb_dialog_btn_open">켜기</string>
-    <string name="gtb_dialog_hint_smart_5g">Game Turbo> 설정에서이 기능을 켜거나 끌 수 있습니다.</string>
-    <string name="gtb_dialog_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 장치를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다. 지금 이 기능을 사용하시겠습니까?</string>
+    <string name="gtb_dialog_hint_smart_5g">게임 터보> 설정에서이 기능을 켜거나 끌 수 있습니다.</string>
+    <string name="gtb_dialog_summary_smart_5g">게임 터보가 5G 네트워크를 감지할 때마다 장치를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다. 지금 이 기능을 사용하시겠습니까?</string>
     <string name="gtb_dialog_title_smart_5g">5G 네트워크 최적화</string>
-    <string name="gtb_setting_item_summary_smart_5g">Game Turbo가 5G 네트워크를 감지 할 때마다 네트워크 지연을 줄이기 위해 사용가능한 최상의 네트워크에 장치를 연결할 수 있습니다.</string>
+    <string name="gtb_setting_item_summary_smart_5g">게임 터보가 5G 네트워크를 감지할 때마다 네트워크 지연을 줄이기 위해 사용가능한 최상의 네트워크에 장치를 연결할 수 있습니다.</string>
     <string name="gtb_setting_item_title_smart_5g">5G 네트워크 최적화</string>
-    <string name="gb_dialog_game_uninstall_deleting">삭제중</string>
-    <string name="gb_dialog_game_uninstall_loading">게임 로딩중</string>
+    <string name="gb_dialog_game_uninstall_deleting">삭제 중</string>
+    <string name="gb_dialog_game_uninstall_loading">게임 불러오는 중</string>
     <string name="gb_dialog_game_uninstall_multi_tips_title">"%1$s\"등 %2$d 게임 제거</string>
     <string name="gb_dialog_game_uninstall_tips_message">모든 앱 데이터가 삭제됩니다.</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">모든 앱 데이터와 관련 듀얼 앱이 삭제됩니다.</string>
@@ -370,7 +370,7 @@
     <string name="app_manager_total_size">총</string>
     <string name="app_manager_uninstall">삭제</string>
     <string name="app_manager_uninstall_protected_dlg_msg">시스템 앱을 삭제할 경우 MIUI의 일부 기능이 작동하지 않을 수 있습니다. 계속 진행하시겠습니까?</string>
-    <string name="app_manager_uninstall_protected_dlg_title">시스템 앱 삭제중</string>
+    <string name="app_manager_uninstall_protected_dlg_title">시스템 앱 삭제 중</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제될 것입니다.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">듀얼 앱을 제거하시겠습니까?</string>
@@ -427,13 +427,13 @@
     <string name="applock_not_add_account">&lt;u&gt;지금 하지않음&lt;/u&gt;</string>
     <string name="applock_not_login_account">로그인되어 있지 않습니다.</string>
     <string name="applock_toast_tip">인증된 앱 잠금 완료</string>
-    <string name="apps_item_sign_dialog_content">%s 앱의 서명이 공식 앱스토어의 앱과 다릅니다. 이 앱을 삭제하시고 공식 버전의 앱을 설치하시겠습니까? 주의: 서로 다른 서명의 앱 설치시 기존 앱의 데이터가 손실될 수 있으니 주의하세요.</string>
+    <string name="apps_item_sign_dialog_content">%s 앱의 서명이 공식 앱스토어의 앱과 다릅니다. 이 앱을 삭제하시고 공식 버전의 앱을 설치하시겠습니까? 주의: 서로 다른 서명의 앱 설치 시 기존 앱의 데이터가 손실될 수 있으니 주의하세요.</string>
     <string name="apps_item_sign_dialog_title">공식 앱 설치</string>
     <string name="apps_item_sign_install_button_text">교체</string>
     <string name="apps_item_sms_default_set_success">설정 성공</string>
     <string name="apps_item_sms_reset_button_text">기본값 복원</string>
     <string name="apps_item_sms_title">기본 메시지 설정</string>
-    <string name="apps_item_summary_sms">%s 어플이 귀하의 메시지에 접근했습니다. 보안 문제의 원인이 될 수 있습니다.</string>
+    <string name="apps_item_summary_sms">%s 앱이 귀하의 메시지에 접근했습니다. 보안 문제의 원인이 될 수 있습니다.</string>
     <string name="apps_item_summary_system_rooted">루트 접근이 허용되었습니다. 보안 위협을 피하기 위해 기본 설정으로 복구합니다.</string>
     <string name="apps_item_summary_system_update">더 안전한 지불을 위해 새 버전에서는 몇몇 버그가 수정되었습니다.</string>
     <string name="apps_item_title_system">시스템 업데이트</string>
@@ -466,7 +466,7 @@
     <string name="auto_task_condition_time_pick_title">타이머 설정</string>
     <string name="auto_task_condition_time_text">%s에서</string>
     <string name="auto_task_dialog_button_close">완료</string>
-    <string name="auto_task_edit_abandon_change">변경 사항을 취소하시겠습니까?</string>
+    <string name="auto_task_edit_abandon_change">변경사항을 취소하시겠습니까?</string>
     <string name="auto_task_edit_activity_title">내 자동 작업</string>
     <string name="auto_task_edit_adandon_button_text">변경 취소</string>
     <string name="auto_task_edit_choose_condition_title">상태 선택</string>
@@ -568,8 +568,8 @@
     <string name="begin_date">사용량 초기화 날짜</string>
     <string name="best_booster_status">게임 속도는 지금이 제일 최적의 상태입니다.</string>
     <string name="best_warning_dialog_button">알아</string>
-    <string name="best_warning_dialog_message">팁 : Xiaomi 빨간봉투 도우미를 사용하면 빨간 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~</string>
-    <string name="best_warning_dialog_message1">Xiaomi 빨간봉투 도우미를 사용하면 빨간색 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~~</string>
+    <string name="best_warning_dialog_message">팁 : Xiaomi 빨간 봉투 도우미를 사용하면 빨간 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~</string>
+    <string name="best_warning_dialog_message1">Xiaomi 빨간 봉투 도우미를 사용하면 빨간색 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~~</string>
     <string name="best_warning_dialog_title">팁</string>
     <string name="bg_network_exception_title">백그라운드에서 네트워크 제한</string>
     <string name="bind_xiaomi_account_cancel">취소</string>
@@ -613,7 +613,7 @@
     <string name="btn_text_quick_save_power">온도 낮추기</string>
     <string name="btn_text_quick_scan">스캔</string>
     <string name="btn_text_stop">중지</string>
-    <string name="business_have_hongbao">%1$s개의 빨간봉투</string>
+    <string name="business_have_hongbao">%1$s개의 빨간 봉투</string>
     <string name="business_lucky_warning">기업 빨간 봉투</string>
     <string name="button_background_connection">허용</string>
     <string name="button_block_calls_from_cantacts">차단 해제</string>
@@ -675,7 +675,7 @@
     <string name="card_main_gamebooster_summary">게임을 위한 네트워크 연결 안정성 향상</string>
     <string name="card_main_gamebooster_title">게이밍 스피드 부스트</string>
     <string name="card_main_hbassistant_summary">봉투을 더 빨리 받으려면 이 도구를 사용하세요.</string>
-    <string name="card_main_hbassistant_title">빨간봉투 도우미</string>
+    <string name="card_main_hbassistant_title">빨간 봉투 도우미</string>
     <string name="card_main_hwtest_title">하드웨어 테스트</string>
     <string name="card_main_monthreport_action">보기</string>
     <string name="card_main_netcheck_action">테스트</string>
@@ -868,7 +868,7 @@
     <string name="dlg_update_btn_open">허용</string>
     <string name="dlg_update_data_content">Wi-Fi에 연결되어 있지 않습니다. 모바일 데이터를 사용하면 추가 비용이 과금될 수 있습니다. 계속하시겠습니까?</string>
     <string name="dlg_update_date_title">경고</string>
-    <string name="dlg_update_updating">업데이트중…</string>
+    <string name="dlg_update_updating">업데이트 중…</string>
     <string name="dlg_white_address_antispam_message">이 위치를 예외에 추가하시겠습니까?</string>
     <string name="dlg_white_antispam_hint">예외사항</string>
     <string name="dlg_white_antispam_message">이 번호를 예외에 추가하시겠습니까?</string>
@@ -1016,7 +1016,7 @@
     <string name="exo_download_downloading">다운로드 중</string>
     <string name="exo_download_failed">다운로드 실패</string>
     <string name="exo_download_notification_channel_name">다운로드</string>
-    <string name="exo_download_removing">다운로드 삭제중</string>
+    <string name="exo_download_removing">다운로드 삭제 중</string>
     <string name="exo_track_mono">모노</string>
     <string name="exo_track_selection_auto">자동</string>
     <string name="exo_track_selection_none">없음</string>
@@ -1100,7 +1100,7 @@
     <string name="first_aid_card_kadun_button1">여유 공간 확보</string>
     <string name="first_aid_card_kadun_button2">제한</string>
     <string name="first_aid_card_kadun_button3">끄기</string>
-    <string name="first_aid_card_kadun_summary1">기기가 정상적으로 작동 할 수 있도록 저장 공간을 확보하세요.</string>
+    <string name="first_aid_card_kadun_summary1">기기가 정상적으로 작동할 수 있도록 저장 공간을 확보하세요.</string>
     <string name="first_aid_card_kadun_summary2">일부 앱에는 관리자 권한이 있습니다. 이로 인해 기기 속도가 느려질 수 있습니다.</string>
     <string name="first_aid_card_kadun_summary3">접근성 기능이 너무 많이 동시에 작동하고 있습니다. 이로 인해 기기 속도가 느려질 수 있습니다.</string>
     <string name="first_aid_card_kadun_title">기기 속도 저하</string>
@@ -1164,7 +1164,7 @@
     <string name="function_shield_pull_notification_bar">알림 창 열지 않기</string>
     <string name="function_shield_settings_title">게임시 이 기능 제한</string>
     <string name="function_shield_summary">게임시 선택된 시스템 기능 제한</string>
-    <string name="function_shield_three_finger">스크린샷 제스쳐 제한</string>
+    <string name="function_shield_three_finger">스크린샷 제스처 제한</string>
     <string name="function_shield_title">향상된 경험</string>
     <string name="function_shield_voice_trigger">음성으로 Mi AI 호출 금지</string>
     <string name="fw_blocked">차단 목록</string>
@@ -1301,7 +1301,7 @@
     <string name="get_sys_info">정보를 가져오는 중…</string>
     <string name="gigabyteShort">GB</string>
     <string name="give_lucky_money">빨간 봉투 배달</string>
-    <string name="gmscore_support_remind">Gmail, Google 지도 및 다른 Google 어플을 사용하는데 문제가 있을경우, 이 기능을 켭니다. 배터리 수명을 약간 줄일 수 있습니다.</string>
+    <string name="gmscore_support_remind">Gmail, Google 지도 및 다른 Google 앱을 사용하는데 문제가 있을경우, 이 기능을 켭니다. 배터리 수명을 약간 줄일 수 있습니다.</string>
     <string name="gmscore_support_service">기본 Google 서비스</string>
     <string name="go_to">진행</string>
     <string name="go_to_setting_fingerprint">설정</string>
@@ -1315,7 +1315,7 @@
     <string name="gs_auto_clean_memory_detail">게임 최적화를 위해 자동으로 캐시 지우기</string>
     <string name="gs_autobooster">자동 속도 향상</string>
     <string name="gs_autobooster_detail">택한 게임의 속도를 자동으로 향상시킵니다.</string>
-    <string name="gs_autobooster_dialog_message">만약 Xunyou 속도 향상 어플을 사용할경우, 지정된 페이지에서 게임을 실행해주시기 바랍니다.</string>
+    <string name="gs_autobooster_dialog_message">만약 Xunyou 속도 향상 앱을 사용할경우, 지정된 페이지에서 게임을 실행해주시기 바랍니다.</string>
     <string name="gs_call_handsfree">핸즈프리 모드로 전화 받기</string>
     <string name="gs_call_handsfree_mute">무음 모드</string>
     <string name="gs_dialog_confirm_close_msg">홈 화면에서 바로가기가 제거됩니다. 보안 &gt; 설정에서 복원할 수 있습니다.</string>
@@ -1361,7 +1361,7 @@
     <string name="hint_antispam_mode_edit">사용자 지정 모드</string>
     <string name="hints_handle_item_text_virus">위험</string>
     <string name="hints_input_roaming_daily_limit">데이터 사용량 한도 입력</string>
-    <string name="hints_loading_text">로딩 중…</string>
+    <string name="hints_loading_text">불러오는 중…</string>
     <string name="hints_risk_descx_title">설명:</string>
     <string name="hints_risk_name_title">위험:</string>
     <string name="hints_scan_danger_result">위험이 발견되었습니다. 지금 수정하세요.</string>
@@ -1968,7 +1968,7 @@
     <string name="power_consume_rank_software">앱</string>
     <string name="power_consume_rank_title">전원 사용량</string>
     <string name="power_consume_software_total_format">앱: %s</string>
-    <string name="power_customize_giveup_change">변경 사항을 취소하시겠습니까?</string>
+    <string name="power_customize_giveup_change">변경사항을 취소하시겠습니까?</string>
     <string name="power_dialog_cancel">취소</string>
     <string name="power_dialog_ok">확인</string>
     <string name="power_dialog_super_save_msg">초절전 모드는 전원 공급을 많이 요구하는 기능들을 비활성화하고 전화나 문자같은 기본 기능에 집중합니다. 초절전 모드를 활성화하시겠습니까?</string>
@@ -1986,7 +1986,7 @@
     <string name="power_optimize_disable_app_autostart">앱 자동 실행 방지</string>
     <string name="power_optimize_disable_gps">GPS 끄기</string>
     <string name="power_optimize_disable_start_other_app">기타 앱에서 자동 실행 방지</string>
-    <string name="power_optimize_loading">로딩 중</string>
+    <string name="power_optimize_loading">불러오는 중</string>
     <string name="power_optimize_open_hide_mode">배터리 절약 켜기</string>
     <string name="power_optimize_save_mode_not_opened">배터리 절약 꺼짐</string>
     <string name="power_optimize_save_on_lockscreen">기기가 잠겨있을 때 전원 절약하기</string>
@@ -2272,8 +2272,8 @@
     <string name="Settings_title_power_center">배터리 최적화 설정</string>
     <string name="shake_send_sticker_summary">WeChat과 QQ에서 무작위 표현이 무작위로 나타납니다. 휴일에 철자법을 표현하면 쉽습니다!</string>
     <string name="shield_keyboard_detail">버튼을 더블 탭하여 다시 켜기</string>
-    <string name="shield_keyboard_summary">게임 중 전체 화면 제스쳐 및 버튼 제한</string>
-    <string name="shield_keyboard_title">버튼과 제스쳐 무시하기</string>
+    <string name="shield_keyboard_summary">게임 중 전체 화면 제스처 및 버튼 제한</string>
+    <string name="shield_keyboard_title">버튼과 제스처 무시하기</string>
     <string name="shoop_again_float">휴식</string>
     <string name="show_system_app">시스템 앱 표시</string>
     <string name="show_traffic_dialog_message">데이터 사용량 정보가 드롭 다운 메뉴에 표시됩니다. 데이터 사용량 &gt; 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
@@ -2295,7 +2295,7 @@
     <string name="sim_not_ready_toast">SIM 카드가 준비되지 않았습니다.</string>
     <string name="sim_state_exception_summary">SIM 상태는 SIM 카드에 문제가 발생할 수 있음을 나타냅니다.</string>
     <string name="sip_phone">SIP 폰</string>
-    <string name="skin_change_close_toast">다음에 보안 앱을 실행했을 때 변경 사항이 적용됩니다.</string>
+    <string name="skin_change_close_toast">다음에 보안 앱을 실행했을 때 변경사항이 적용됩니다.</string>
     <string name="sms_address">지역 차단 목록</string>
     <string name="SMS_and_MMS">SMS와 MMS</string>
     <string name="sms_blacklist">SMS 차단 목록</string>
@@ -2849,7 +2849,7 @@
     <string name="uninstall_danagerous_btn">제거</string>
     <string name="uninstall_danagerous_desc">\"%s\" 앱이 기기를 손상시킬 수 있습니다.</string>
     <string name="uninstall_danagerous_msg">\"%s\" 앱이 기기를 손상시키거나 성능 저하 또는 다시 시작을 일으킬 수 있습니다.</string>
-    <string name="uninstall_danagerous_title">악성 어플을 삭제합니다.</string>
+    <string name="uninstall_danagerous_title">악성 앱을 삭제합니다.</string>
     <string name="unlike">사양하겠습니다.</string>
     <string name="unlock_failed">내부 에러</string>
     <string name="unlock_pattern">&lt;u&gt;패턴&lt;/u&gt;</string>
@@ -2875,7 +2875,7 @@
     <string name="usage_type_wake_lock">계속 켜짐</string>
     <string name="usage_type_wifi_running">Wi-Fi 실행 중</string>
     <string name="usb_adb_input_apply_step_1">이 작업은 개인정보 손실과 유출을 야기할 수 있습니다. 개발자가 아닌 이상 이 작업을 하는 것을 추천하지 않습니다.</string>
-    <string name="usb_adb_input_apply_step_2">개발자는 권한 승인, 설정 변경, 제스쳐 복제를 위해 USB를 통해 특수 소프트웨어를 사용할 수 있습니다.</string>
+    <string name="usb_adb_input_apply_step_2">개발자는 권한 승인, 설정 변경, 제스처 복제를 위해 USB를 통해 특수 소프트웨어를 사용할 수 있습니다.</string>
     <string name="usb_adb_input_apply_step_3">지금 허용하시겠습니까?</string>
     <string name="usb_install_desc">이 앱을 USB로 설치하시겠습니까?</string>
     <string name="usbsharenet_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 기기의 USB 연결을 확인한 후 Mi PC Suite를 다시 시작하세요.</string>
@@ -2954,7 +2954,7 @@
     <string name="privacy_notification_title_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용중입니다.</string>
     <string name="privacy_notification_title_mic">%1s 앱이 백그라운드에서 마이크를 사용중입니다.</string>
     <string name="power_center_scan_item_title_5g">5G 연결</string>
-    <string name="power_dialog_super_save_msg_5g">초 절전모드는 가장 전력 소모가 심한 기능들을 끕니다. (예. 5G 연결) 그래서 기기의 성능이 낮아질 수 있습니다. 통화, 메시지, 네트워크 연결만이 영향을 받지 않습니다. 그래도 켜시겠습니까?</string>
+    <string name="power_dialog_super_save_msg_5g">초 절전 모드는 가장 전력 소모가 심한 기능들을 끕니다. (예. 5G 연결) 그래서 기기의 성능이 낮아질 수 있습니다. 통화, 메시지, 네트워크 연결만이 영향을 받지 않습니다. 그래도 켜시겠습니까?</string>
     <string name="power_optimize_disable_5g">5G 연결 제한</string>
     <string name="power_save_ps_close_setting_5g">전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면 깨우거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
     <string name="privacyapp_number_masked_text">알림 컨텐츠 숨겨짐</string>
@@ -2973,17 +2973,17 @@
     <string name="dlg_summary_close_wifi">Wi-Fi, 블루투스, 핫스팟이 꺼집니다.</string>
     <string name="dlg_summary_nfc">NFC가 꺼집니다.</string>
     <string name="dlg_summary_title">앱을 종료하거나 홈 화면으로 돌아가면 백그라운드 활동이 제한됩니다. 배터리 절약 예외에 앱을 추가하여 백그라운드에서 실행될 수 있도록 합니다.</string>
-    <string name="enable_extreme_power_save_mode">초절전모드</string>
+    <string name="enable_extreme_power_save_mode">초절전 모드</string>
     <string name="invalid_charger">"USB를 통해 충전 할 수 없습니다. 기기와 함께 제공된 충전기를 사용하세요."</string>
     <string name="low_temperature_button_ok">확인</string>
-    <string name="low_temperature_warning_message">"너무 추워서 휴대전화가 예상보다 빨리 꺼질 수 있습니다. 중요한 변경 사항을 모두 저장하세요."</string>
+    <string name="low_temperature_warning_message">"너무 추워서 휴대전화가 예상보다 빨리 꺼질 수 있습니다. 중요한 변경사항을 모두 저장하세요."</string>
     <string name="low_temperature_warning_title">기온이 낮습니다.</string>
     <string name="notification_channel_battery">배터리</string>
     <string name="notification_low_battery_action_btn">켜기</string>
     <string name="notification_low_battery_need_charge">기기를 충전하세요.</string>
     <string name="notification_low_battery_open_save_mode">배터리 세이버 켜기</string>
     <string name="notification_low_battery_title">배터리 %s 이하 남음</string>
-    <string name="open_extreme_power_save_mode_title">초절전모드 켜기</string>
+    <string name="open_extreme_power_save_mode_title">초절전 모드 켜기</string>
     <string name="save_mode_btn_ok">확인</string>
     <string name="app_running_tip_dialog_negative">취소</string>
     <string name="app_running_tip_dialog_positive">확인</string>
@@ -3120,7 +3120,7 @@
     <string name="signal_exception_none_4g_5g_network">"2G/3G 모바일 네트워크를 사용하고 있습니다. 연결 속도가 느릴 수 있습니다."</string>
     <string name="vtb_func_desc">이 기능에 대하여</string>
     <string name="vtb_func_display_style_desc1">"선택한 효과는 HDR 동영상에 적용되지 않습니다."</string>
-    <string name="vtb_func_display_style_desc2">"이 효과는 스크린 샷에 적용 할 수 없습니다."</string>
+    <string name="vtb_func_display_style_desc2">"이 효과는 스크린샷에 적용 할 수 없습니다."</string>
     <string name="vtb_func_frc_desc0">모션 스무딩은 흐려짐을 줄이고 움직이는 물체에 디테일을 추가합니다. 이 기능을 사용하면 전력 소비가 증가합니다.</string>
     <string name="vtb_func_frc_desc1">"다음 조건에서는 모션 스무딩이 작동하지 않습니다."</string>
     <string name="vtb_func_frc_desc2">동영상 해상도가 1080P보다 높은 경우</string>

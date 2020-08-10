@@ -125,7 +125,7 @@
     <string name="pref_camera_recordlocation_entry_on">켜짐</string>
     <string name="pref_camera_sound_title">카메라 소리</string>
     <string name="pref_camera_proximity_lock_title">주머니 모드</string>
-    <string name="pref_camera_proximity_lock_summary">주머니 속에 있을때 터치 잠금</string>
+    <string name="pref_camera_proximity_lock_summary">주머니 속에 있을 때 터치 잠금</string>
     <string name="screen_on_proximity_sensor_summary">이어폰 부분을 덮지 마세요.</string>
     <string name="screen_on_proximity_sensor_hint">이 기능을 끄시려면 볼륨 업 버튼과 뒤로가기 버튼을 동시에 누르세요.</string>
     <string name="pref_front_mirror_title">전면 거울 카메라</string>
@@ -382,9 +382,9 @@
     <string name="cannot_move_warning_message">사진 찍는 중. 기기를 고정하세요.</string>
     <string name="ubifocus_capture_warning_message">최고의 결과를 위해 사진에 가까운 피사체(렌즈에서 1m 이내) 와 먼 피사체가 포함되어야 합니다.</string>
     <string name="ubi_focus_capture_fail">사진을 찍지 못했습니다.</string>
-    <string name="object_track_enable_toast">두개의 대각선 지점을 탭하여 대상의 추적을 시작합니다.</string>
+    <string name="object_track_enable_toast">두 개의 대각선 지점을 탭하여 대상의 추적을 시작합니다.</string>
     <string name="pref_camera_auto_capture_when_stable_title">대상이 정지되었을 때 자동으로 사진이 찍힙니다.</string>
-    <string name="pref_camera_auto_capture_when_stable_summary">두개의 대각선 지점을 탭하여 대상의 추적을 시작합니다. 대상이 정지되었을 때 자동으로 사진이 찍힙니다.</string>
+    <string name="pref_camera_auto_capture_when_stable_summary">두 개의 대각선 지점을 탭하여 대상의 추적을 시작합니다. 대상이 정지되었을 때 자동으로 사진이 찍힙니다.</string>
     <string name="simple_mode_button_text_manual">수동 모드 끄기</string>
     <string name="pref_qc_focus_position_title">초점</string>
     <string name="pref_front_mirror_entry_auto">얼굴이 감지되었을 때</string>
@@ -637,7 +637,7 @@
     <string name="folder_camera">카메라</string>
     <string name="folder_download">다운로드</string>
     <string name="folder_imported">가져옴</string>
-    <string name="folder_screenshot">스크린 샷</string>
+    <string name="folder_screenshot">스크린샷</string>
     <string name="group_by_album">앨범명</string>
     <string name="group_by_location">위치별</string>
     <string name="Import">가져오기</string>
@@ -750,7 +750,7 @@
     <string name="effect_silly_faces">효과</string>
     <string name="error_app_unsupported">해당 인코딩 방식에서 지원하지 않는 해상도입니다.</string>
     <string name="error_app_unsupported_hfr_720p">720P 해상도로는 90FPS까지만 지원됩니다.</string>
-    <string name="error_app_unsupported_hfr_codec">"H264 동영상 인코딩은 HFR이 켜져있을때만 지원됩니다."</string>
+    <string name="error_app_unsupported_hfr_codec">"H264 동영상 인코딩은 HFR이 켜져있을 때만 지원됩니다."</string>
     <string name="error_app_unsupported_raw_wavelet">원시 사진을 찍을 때 웨이브 컷 노이즈가 적용되지 않습니다.</string>
     <string name="face_beauty_manual_title">수동 조절</string>
     <string name="face_beauty_simple_mode_title">피부 색 보정</string>
@@ -777,7 +777,7 @@
     <string name="launch_market">Xiaomi 앱 마켓 실행</string>
     <string name="launch_qq">브라우저에서 QQ 실행</string>
     <string name="launch_wechat">WeChat 실행</string>
-    <string name="loading_video">동영상 로딩중…</string>
+    <string name="loading_video">동영상 불러오는 중…</string>
     <string name="maker">제작기</string>
     <string name="measure_whitebalance_text">"흰 종이를 후방 카메라의 렌즈에서 6인치 떨어진 곳에 놓고 사진을 찍으세요."</string>
     <string name="mimetype">MIME 유형</string>
@@ -1080,7 +1080,7 @@
     <string name="portait_effect_entry_sepia">세피아</string>
     <string name="portait_effect_entry_tea">티</string>
     <string name="pref_camera_ultra_wide_mode_title">울트라 와이드 앵글 모드</string>
-    <string name="ultra_widem_mode_use_hint_text">"더 넓은 시야를 기록하려면 수퍼 광각 모드를 켭니다.
+    <string name="ultra_widem_mode_use_hint_text">"더 넓은 시야를 기록하려면 슈퍼 광각 모드를 켭니다.
 보다 흥미 진진한 아름다움을 경험해보세요.."</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48M 초 울트라 픽셀</string>
     <string name="live_music_change_bgm">음악 변경</string>
@@ -1249,11 +1249,11 @@
     <string name="dialog_ok_time">확인(%d초)</string>
     <string name="portrait_effect_entry_riddle">캔디</string>
     <string name="mimoji_create_tips">Mi모지 생성을 위해 카메라를 똑바로 쳐다보세요.</string>
-    <string name="mimoji_recapture_alert">처음부터 다시 시작하면 모든 변경 사항이 삭제됩니다. 그래도 다시 시작하시겠습니까?</string>
-    <string name="mimoji_edit_back_alert">돌아 가시면 모든 변경 사항이 삭제됩니다. 그래도 돌아가시겠습니까?</string>
+    <string name="mimoji_recapture_alert">처음부터 다시 시작하면 모든 변경사항이 삭제됩니다. 그래도 다시 시작하시겠습니까?</string>
+    <string name="mimoji_edit_back_alert">돌아 가시면 모든 변경사항이 삭제됩니다. 그래도 돌아가시겠습니까?</string>
     <string name="mimoji_edit_abandon_alert">모든 변경사항을 취소하시겠습니까?</string>
     <string name="mimoji_edit_abandon_capture_alert">모든 변경사항을 취소하시겠습니까?</string>
-    <string name="mimoji_edit_cancel_alert">모든 변경 사항이 삭제됩니다. 그래도 취소하시겠습니까?</string>
+    <string name="mimoji_edit_cancel_alert">모든 변경사항이 삭제됩니다. 그래도 취소하시겠습니까?</string>
     <string name="mimoji_delete_dialog_title">Mi모지를 삭제하시겠습니까?</string>
     <string name="mimoji_delete">삭제</string>
     <string name="mimoji_reset">초기화</string>
@@ -1464,7 +1464,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="mode_edit_cancel">취소</string>
     <string name="mode_edit_exit">끝내기</string>
-    <string name="mode_edit_exit_message">지금 종료하면 모든 변경 사항이 손실됩니다. 그래도 종료하시겠습니까?</string>
+    <string name="mode_edit_exit_message">지금 종료하면 모든 변경사항이 손실됩니다. 그래도 종료하시겠습니까?</string>
     <string name="module_name_clone">복사</string>
     <string name="module_name_edit">수정</string>
     <string name="module_name_edit_favorite_title">시작 화면</string>

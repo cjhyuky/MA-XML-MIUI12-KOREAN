@@ -8,12 +8,12 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">그렇지 않습니다.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="secondspace_homepage">"두 번째 공백에 대해 지정된 화면 잠금을 설정하세요.
+    <string name="secondspace_homepage">"보조 공간에 대한 화면 잠금을 설정하세요.
 데이터를 분리하고 보호하세요."</string>
     <string name="greenguard_install_cancle">괜찮습니다.</string>
     <string name="greenguard_install_confirm">설치</string>
     <string name="greenguard_install_message">"패밀리 가드는 시스템 앱입니다. 인터넷을 통해 설치할 필요가 없습니다."</string>
-    <string name="greenguard_install_title">패밀리가드 설치</string>
+    <string name="greenguard_install_title">패밀리 가드 설치</string>
     <string name="app_name">보안 센터</string>
     <string name="switch_data_settings">데이터 이동</string>
     <string name="switch_in_contacts">연락처 가져오기</string>
@@ -80,7 +80,7 @@
     <string name="list_empty_text_xspace">더 많은 듀얼 앱을 생성하고 다시 시도하세요.</string>
     <string name="xspace_default_app_summary">로그인, 공유, 음성 어시스턴트를 위한 기본 앱을 선택하세요.</string>
     <string name="declare_dialog_title">듀얼 앱 정보</string>
-    <string name="xspace_loading_msg">앱 로딩 중…</string>
+    <string name="xspace_loading_msg">앱 불러오는 중…</string>
     <string name="xspace_header">듀얼 앱</string>
     <string name="xspace_introduce">추천됨</string>
     <string name="xspace_description">"듀얼앱은 다른 계정으로 사용할 수 있는 앱 복사본입니다.
@@ -95,7 +95,7 @@
     <string name="xspace_uninstall_completed">듀얼 앱 삭제 성공</string>
     <string name="xspace_uninstall_dialog_title">듀얼 앱 삭제</string>
     <string name="xspace_uninstall_dialog_content">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
-    <string name="loading_apps">앱 로딩 중…</string>
+    <string name="loading_apps">앱 불러오는 중…</string>
     <string name="loading_success">불러오기 성공</string>
     <string name="switching">이동 중…</string>
     <string name="switch_success">이동 성공</string>
@@ -133,7 +133,7 @@
     <string name="notificationSetPassword">비밀번호 설정</string>
     <string name="notificationSetPasswordDes">보조 공간 데이터 보호</string>
     <string name="createANewSpace">휴대전화에 분리된 공간 생성</string>
-    <string name="dataSafe">보조 공간은 두개의 기기를 사용하는 것과 같습니다.</string>
+    <string name="dataSafe">보조 공간은 두 개의 기기를 사용하는 것과 같습니다.</string>
     <string name="createUserFail">생성 실패</string>
     <string name="confirmCloseSpaceDes">삭제하신 후에는 보조 공간으로 들어가실 수 없습니다. 모든 데이터는 이동되거나 삭제될 것입니다.</string>
     <string name="confirmDelete">삭제</string>
@@ -223,10 +223,10 @@
     <string name="show_private_msg">비공개 메시지 표시</string>
     <string name="contact_titile_text">"보조 공간에서 비공개 메시지를 표시하여
 언제나 볼 수 있게 합니다."</string>
-    <string name="contact_sub_titile_text">메시지 데이터가 두개의 공간에 공유될 것입니다.</string>
+    <string name="contact_sub_titile_text">메시지 데이터가 두 개의 공간에 공유될 것입니다.</string>
     <string name="show_private_msg_summary">보조 공간에서 비공개 메시지 표시</string>
     <string name="private_sms_show_title">보조 공간에 비공개 메시지가 표시됩니다.</string>
-    <string name="private_sms_show_sub_title">메시지 데이터가 두개의 공간에 공유될 것입니다.</string>
+    <string name="private_sms_show_sub_title">메시지 데이터가 두 개의 공간에 공유될 것입니다.</string>
     <string name="restore_normal_show">비공개 메시지 표시하지 않기</string>
     <string name="restore_show_desc">보조 공간에서 비공개 메시지를 표시하지 않습니다. 기본 공간에서는 여전히 사용가능할 것입니다.</string>
     <string name="confirm_restore">표시하지 않기</string>

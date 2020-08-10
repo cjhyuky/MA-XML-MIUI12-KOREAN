@@ -14,7 +14,7 @@
     <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다.</string>
     <string name="bugreport_dump_start_notification_title">버그 보고서 작성 중…</string>
-    <string name="bugreport_tool_log_dumping_desc">몇분정도 걸릴 수 있습니다.</string>
+    <string name="bugreport_tool_log_dumping_desc">몇 분정도 걸릴 수 있습니다.</string>
     <string name="bugreport_tool_log_dumping_title">버그 보고서 생성중</string>
     <string name="catch_full_log_action_cancel">취소</string>
     <string name="catch_full_log_action_complete">완료 후 업로드</string>
@@ -54,7 +54,7 @@
     <string name="dialog_ask_quit">나가기</string>
     <string name="discard_draft_dialog_button_cancel">취소</string>
     <string name="discard_draft_dialog_button_discard">버리기</string>
-    <string name="discard_draft_dialog_content">이 보고서에 가한 변경 사항이 모두 버려집니다.</string>
+    <string name="discard_draft_dialog_content">이 보고서에 가한 변경사항이 모두 버려집니다.</string>
     <string name="discard_draft_dialog_title">작성 중인 글을 버리시겠습니까?</string>
     <string name="err_type">버그 유형</string>
     <string name="err_type_app">앱</string>
@@ -182,7 +182,7 @@
     <string name="kr_authorization_storage_desc">저장소에 액세스하고 로그, 이미지 및 동영상을 포함하여 항목을 저장하기 위함</string>
     <string name="kr_authorization_summary">법률 문서</string>
     <string name="kr_authorization_user_protocol">사용자 동의 (필수)</string>
-    <string name="loading_apps">목록 로딩 중…</string>
+    <string name="loading_apps">목록 불러오는 중…</string>
     <string name="login_system_failed">로그인 실패, 다시 시도</string>
     <string name="logo_title">피드백</string>
     <string name="max_error">%1$s보다 짧아야 합니다.</string>
@@ -237,7 +237,7 @@
     <string name="michat_no_good_message_title">이것으로 문제를 해결할 수 없습니다.</string>
     <string name="michat_product_click_text">보기</string>
     <string name="michat_pull_to_refresh_pull_label">밑으로 당겨 기록 보기</string>
-    <string name="michat_pull_to_refresh_refreshing_label">기록 로딩 중…</string>
+    <string name="michat_pull_to_refresh_refreshing_label">기록 불러오는 중…</string>
     <string name="michat_pull_to_refresh_release_label">놓아서 기록 보기</string>
     <string name="michat_return_to_outside">나가기</string>
     <string name="michat_service_unavailiable">정보 가져오기 실패, 나중에 다시 시도</string>
@@ -361,7 +361,7 @@
     <string name="passport_input_phone_hint">전화번호를 입력하세요.</string>
     <string name="passport_input_vcode_hint">인증코드를 입력하세요.</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. 이 페이지는 %s 에서 확인할 수 있습니다.</string>
-    <string name="passport_loading">로딩중…</string>
+    <string name="passport_loading">불러오는 중…</string>
     <string name="passport_login">로그인</string>
     <string name="passport_login_failed">로그인 실패</string>
     <string name="passport_login_instead_reg">이 번호를 사용하세요.</string>
@@ -471,7 +471,7 @@
     <string name="second_position">3#</string>
     <string name="section_description">설명</string>
     <string name="section_err_type">버그 유형</string>
-    <string name="section_screenshot">스크린 샷</string>
+    <string name="section_screenshot">스크린샷</string>
     <string name="select_system_app_tag">태그 선택</string>
     <string name="submit_dialog_cancel">취소</string>
     <string name="submit_dialog_confirm">전송</string>

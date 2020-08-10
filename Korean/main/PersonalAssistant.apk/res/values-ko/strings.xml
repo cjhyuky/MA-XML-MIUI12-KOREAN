@@ -340,7 +340,7 @@
     <string name="book_add_date_diff">체크 아웃 날짜는 체크인 날짜보다 늦어 야합니다.</string>
     <string name="book_add_dialog_continue">종료하지 마세요.</string>
     <string name="book_add_dialog_exit">출구</string>
-    <string name="book_add_dialog_save">변경 사항을 취소하고 지금 종료하시겠습니까?</string>
+    <string name="book_add_dialog_save">변경사항을 취소하고 지금 종료하시겠습니까?</string>
     <string name="book_after_tomorow">2 일 후</string>
     <string name="book_arr_city">목적지</string>
     <string name="book_arr_station">목적지 추가</string>
@@ -493,7 +493,7 @@
     <string name="cta_title">환영합니다!</string>
     <string name="currency_china">위안(CNY)</string>
     <string name="daily_greeting">기본 인사말</string>
-    <string name="data_error">에러가 발생할 경우, 몇분 후에 다시 시도하세요.</string>
+    <string name="data_error">에러가 발생할 경우, 몇 분 후에 다시 시도하세요.</string>
     <string name="data_error_show">주문이 완료되었으나 정보를 불러올수 없습니다.</string>
     <string name="delete">삭제</string>
     <string name="dep_airport">출발 공항</string>
@@ -576,10 +576,10 @@
     <string name="entrance">카드</string>
     <string name="error_share_not_support">이 항목은 즐겨찾기에 추가될수 없는 항목입니다.</string>
     <string name="exception_network_error_check_network">네트워크에 연결할수 없습니다.</string>
-    <string name="exception_network_error_retry">네트워크 오류입니다. 몇분후에 다시 시도하세요.</string>
-    <string name="exception_network_error_wait_retry">네트워크에 연결할수 없습니다. 몇분후에 다시 시도하세요.</string>
+    <string name="exception_network_error_retry">네트워크 오류입니다. 몇 분후에 다시 시도하세요.</string>
+    <string name="exception_network_error_wait_retry">네트워크에 연결할수 없습니다. 몇 분후에 다시 시도하세요.</string>
     <string name="exception_network_slow">네트워크가 너무 느립니다.</string>
-    <string name="exception_too_many_people_wait_retry">트래픽 쏠림 현상이 감지되었습니다. 몇분후에 다시 시도하시거나 인터넷 관리자에게 문의하세요.</string>
+    <string name="exception_too_many_people_wait_retry">트래픽 쏠림 현상이 감지되었습니다. 몇 분후에 다시 시도하시거나 인터넷 관리자에게 문의하세요.</string>
     <string name="exercise_setting_brief">거리를 측정하고 하루에 몇 걸음을 걷는지 확인하세요.</string>
     <string name="exercise_setting_misport_detail">거리를 측정하고 하루에 몇 걸음을 걷는지 확인하려면 설정 &gt; 권한 &gt; 자동 시작에서 Mi Fit이 자동시작될수 있도록 설정하세요.</string>
     <string name="express">특송</string>
@@ -1158,7 +1158,7 @@
     <string name="miot_device_empty_text">신속한 제어를 위해 공기 청정기, 카메라, 연소 로봇 및 기타 스마트 장치를 추가하세요.</string>
     <string name="miot_device_install_mijia">다운로드</string>
     <string name="miot_device_introduction">스마트 기기를 빠르게 컨트롤하세요(확인하려면 퀵 카드에서 아래로 당기세요)</string>
-    <string name="miot_device_loading">로딩중</string>
+    <string name="miot_device_loading">불러오는 중</string>
     <string name="miot_device_login">로그인</string>
     <string name="miot_device_mijia_logout_message">기기를 추가하고 사용하기 전에 계정에 로그인해야 합니다. 로그인하시겠습니까?</string>
     <string name="miot_device_mijia_logout_title">로그아웃</string>
@@ -1417,7 +1417,7 @@
     <string name="req_no_sdata">결과를 찾을 수 없습니다.</string>
     <string name="retry">다시 시도하세요.</string>
     <string name="save">구하다</string>
-    <string name="save_edit">변경 사항 저장</string>
+    <string name="save_edit">변경사항 저장</string>
     <string name="save_to_note">메모로 전송</string>
     <string name="scan">스캔</string>
     <string name="scan_app">스캐너</string>
@@ -1469,7 +1469,7 @@
     <string name="setting_commute_label">갈다</string>
     <string name="setting_dialog_cancel">취소</string>
     <string name="setting_dialog_quit">종료</string>
-    <string name="setting_dialog_title">모든 변경 사항이 손실됩니다. 지금 종료하시겠습니까?</string>
+    <string name="setting_dialog_title">모든 변경사항이 손실됩니다. 지금 종료하시겠습니까?</string>
     <string name="setting_didi_always_sdk">항상 DiDi 클라이언트 사용</string>
     <string name="setting_didi_default_way">기본 택시 경로</string>
     <string name="setting_disable">끄기</string>

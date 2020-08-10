@@ -12,7 +12,7 @@
     <item quantity="other">%1$d개 파일을 옮기는 중입니다.</item>
         </plurals>
     <plurals name="deleting">
-        <item quantity="other">%1$d개 파일을 삭제중입니다.</item>
+        <item quantity="other">%1$d개 파일을 삭제 중입니다.</item>
     </plurals>
     <plurals name="move_error_notification_title">
         <item quantity="other">%1$d 파일을 옮길 수 없습니다.</item>

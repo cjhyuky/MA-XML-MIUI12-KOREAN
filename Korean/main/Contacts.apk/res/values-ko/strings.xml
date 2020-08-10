@@ -148,10 +148,10 @@
     <string name="savingDisplayGroups">화면 옵션 저장 중…</string>
     <string name="contactSavedToast">연락처 저장됨</string>
     <string name="profileSavedToast">프로필 저장됨</string>
-    <string name="contactSavedErrorToast">연락처 변경 사항을 저장하지 못했습니다.</string>
-    <string name="profileSavedErrorToast">프로필 변경 사항을 저장할 수 없습니다.</string>
+    <string name="contactSavedErrorToast">연락처 변경사항을 저장하지 못했습니다.</string>
+    <string name="profileSavedErrorToast">프로필 변경사항을 저장할 수 없습니다.</string>
     <string name="groupSavedToast">그룹 저장됨</string>
-    <string name="groupSavedErrorToast">그룹 변경 사항을 저장하지 못했습니다.</string>
+    <string name="groupSavedErrorToast">그룹 변경사항을 저장하지 못했습니다.</string>
     <string name="listTotalPhoneContactsZero">전화번호를 포함한 연락처 없음</string>
     <string name="listTotalAllContactsZero">연락처 없음</string>
     <string name="listTotalAllContactsZeroCustom">볼 수 있는 연락처가 없습니다.</string>
@@ -551,7 +551,7 @@
     <string name="clear_default">기본값 지우기</string>
     <string name="toast_text_copied">텍스트 복사됨</string>
     <string name="cancel_confirmation_dialog_title">취소</string>
-    <string name="cancel_confirmation_dialog_message">변경 사항을 버리시겠습니까?</string>
+    <string name="cancel_confirmation_dialog_message">변경사항을 버리시겠습니까?</string>
     <string name="profile_display_name">내 프로필 설정</string>
     <string name="enter_contact_name">사람의 이름 입력</string>
     <string name="view_updates_from_group">업데이트 보기</string>
@@ -728,7 +728,7 @@
     <string name="miprofile_contact_added">추가됨</string>
     <string name="miprofile_contact_verifying">승인</string>
     <string name="miprofile_contact_meaasge">로컬 연락처</string>
-    <string name="miprofile_find_profile_loading">로딩 중…</string>
+    <string name="miprofile_find_profile_loading">불러오는 중…</string>
     <string name="miprofile_find_profile_batch_add">전체 추가</string>
     <string name="miprofile_find_profile_batch_finish">완료</string>
     <string name="miprofile_find_miprofile_title">추가하여 모든 정보 표시</string>
@@ -1188,7 +1188,7 @@
     <string name="call_problem_report">문제 보고</string>
     <string name="call_not_found">--</string>
     <string name="disclaimer_title">면책 조항</string>
-    <string name="disclaimer_text">"옐로우 페이지는 SMS을 통해 사용자의 요금 정보를 가져옵니다. 통신사에서 정보 업데이트중에 지연이 발생하면 표시되는 숫자가 실제와 다를 수 있습니다. 실수를 발견했다면 SMS 문의를 통해 이 서비스를 향상시킬 수 있습니다. 
+    <string name="disclaimer_text">"옐로우 페이지는 SMS을 통해 사용자의 요금 정보를 가져옵니다. 통신사에서 정보 업데이트 중에 지연이 발생하면 표시되는 숫자가 실제와 다를 수 있습니다. 실수를 발견했다면 SMS 문의를 통해 이 서비스를 향상시킬 수 있습니다. 
 
 자주 업데이트되는게 싫다면 하루에 한 번만 요금 정보를 업데이트하겠습니다."</string>
     <string name="report_inquiry_mms">SMS 신고</string>
@@ -1234,7 +1234,7 @@
     <string name="voip_audio_description">VoIP 통화</string>
     <string name="voip_video_description">VoIP 영상 통화</string>
     <string name="menu_newContactButton">추가</string>
-    <string name="missing_required_permission">귀하께서는 필수 권한을 비활성화했습니다.</string>
+    <string name="missing_required_permission">사용자가 필수 권한을 비활성화했습니다.</string>
     <string name="dialer_digits_copy_number_label">복사된 번호</string>
     <string name="dialer_copy_view_delete_description">복사된 번호 지우기</string>
     <string name="contact_detail_action_item_calllog">통화 기록</string>

@@ -90,7 +90,7 @@
     <string name="recover_notes_hint">오류가 발생했습니다. i.mi.com으로 이동하여 메모를 복구하세요.</string>
     <string name="force_touch_menu_add">메모 추가</string>
     <string name="pref_title_skip_confirm_for_quick_delete">빠른 삭제</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">제스쳐를 사용하여 메모 삭제시 확인 메시지 묻지 않기</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">제스처를 사용하여 메모 삭제시 확인 메시지 묻지 않기</string>
     <string name="pref_title_show_root_folder_in_homepage">시작 페이지의 빠른 메모에만 표시</string>
     <string name="alert_title_hidden_note">숨김 메모 수신 알림</string>
     <string name="hint_cannot_view_hidden_note_content">숨겨진 메모의 내용을 표시할 수 없습니다.</string>
@@ -232,7 +232,7 @@
     <string name="cloud_service_state_open_reminder">Mi 클라우드 동기화를 활성화하여 메모를 동기화 하세요.</string>
     <string name="refuse_to_open_as_pic_because_of_loading">메모가 불러진 후 다시 시도하세요.</string>
     <string name="toast_cancel_to_insert_image">이미지 추가 취소.</string>
-    <string name="dialog_privacy_revoke_tips">"권한을 거절하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 이로 인해 앱을 사실상 사용할 수 없게 될 수도 있습니다. 승인을 취소하시겠습니까? 계정 보안을 유지하려면 Mi Cloud 서비스에 대한 승인을 취소하기 전에 i.mi.com에 로그인하세요."</string>
+    <string name="dialog_privacy_revoke_tips">"권한을 거절하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 이로 인해 앱을 사실상 사용할 수 없게 될 수도 있습니다. 승인을 취소하시겠습니까? 계정 보안을 유지하려면 Mi 클라우드 서비스에 대한 승인을 취소하기 전에 i.mi.com에 로그인하세요."</string>
     <string name="application_icon">앱 아이콘</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">오디오 파일이 잘못되었습니다.</string>
@@ -402,7 +402,7 @@
     <string name="note_gesture_guide_step1">음성 메모를 남기시려면 플러스 버튼을 누르고 계세요.</string>
     <string name="note_gesture_guide_step2">폴더를 생성하려면 하나의 메모를 누르고 계신후 다른 메모에 드래그하세요.</string>
     <string name="note_gesture_guide_step3">하나의 메모를 누르고 계신 후 폴더로 드래그하시면 메모가 이동됩니다.</string>
-    <string name="cloud_service_state_open_reminder_note_and_todo">Mi Cloud 동기화를 이용하면 메모와 할 일이 손실되지 않습니다.</string>
+    <string name="cloud_service_state_open_reminder_note_and_todo">Mi 클라우드 동기화를 이용하면 메모와 할 일이 손실되지 않습니다.</string>
     <string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>
     <string name="sync_note_folder">%1$s 및 %2$s</string>
     <string name="cta_v2_agree_desc">이 앱이 인터넷에 연결하고 위에 표시된 필수 권한을 부여하도록 허용합니다.</string>

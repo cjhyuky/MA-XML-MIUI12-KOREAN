@@ -366,7 +366,7 @@
     <string name="content_description_shortcut_icon_unchecked">%1$s，체크해제됨</string>
     <string name="content_description_workspace_thumbnail_item">화면 미리보기，%1$s</string>
     <string name="recommend_apps_no_data">데이터 없음</string>
-    <string name="recommend_loading">로딩중</string>
+    <string name="recommend_loading">불러오는 중</string>
     <string name="announce_for_delete_gadget_and_widget">위젯</string>
     <string name="gadget_clock_34_label">시계 4x3</string>
     <string name="defalut_launcher_title">기본 런처</string>
@@ -551,8 +551,8 @@
     <string name="work_mode_off_label">알림 및 앱이 꺼져 있습니다.</string>
     <string name="work_mode_on_label">조직에서 관리</string>
     <string name="work_profile_toggle_label">업무용 프로필</string>
-    <string name="navigation_type_full_screen">제스쳐</string>
-    <string name="navigation_type_title">시스템 네비게이션</string>
+    <string name="navigation_type_full_screen">제스처</string>
+    <string name="navigation_type_title">시스템 내비게이션</string>
     <string name="navigation_type_virtual_key">버튼</string>
     <string name="fsg_mistake_touch_summary">경우에 따라(예:게임을하거나 동영상을 볼 때)제스처는 반복된 후에만 작동합니다.</string>
     <string name="fsg_mistake_touch_title">제스처 확인</string>

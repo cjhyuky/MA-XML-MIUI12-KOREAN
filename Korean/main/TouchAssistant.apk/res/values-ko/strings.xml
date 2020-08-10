@@ -32,13 +32,13 @@
     <string name="close_panel">터치 도우미 끄기</string>
     <string name="customize_entries">바로가기 선택</string>
     <string name="enable_touch_assistant">터치 도우미 켜기</string>
-    <string name="enabled_for_pad_hint">\"가로 화면에서 네비게이션 버튼 숨기기\"가 켜져있을 때 작동합니다.</string>
+    <string name="enabled_for_pad_hint">\"가로 화면에서 내비게이션 버튼 숨기기\"가 켜져있을 때 작동합니다.</string>
     <string name="function_settings">바로가기 설정</string>
     <string name="hide_touch_assistant">자동 숨기기</string>
     <string name="hide_touch_assistant_intro">선택된 앱에서 터치 도우미 숨기기</string>
     <string name="hide_when_fullscreen">전체 화면시 옆으로 이동</string>
     <string name="hide_when_fullscreen_intro">전체 화면 모드 진입시 옆으로 이동</string>
-    <string name="motion_behavior">선호 제스쳐</string>
+    <string name="motion_behavior">선호 제스처</string>
     <string name="name_alipay_payment_code">Alipay 지불</string>
     <string name="name_alipay_scan">Alipay 스캐너</string>
     <string name="name_all_mipay_cards">Mi Pay</string>
@@ -55,7 +55,7 @@
     <string name="name_quick_lock">화면 꺼짐</string>
     <string name="name_quick_search">검색</string>
     <string name="name_scan_to_pay">스캔하여 지불</string>
-    <string name="name_screenshot">스크린 샷</string>
+    <string name="name_screenshot">스크린샷</string>
     <string name="name_trans_cards">교통 카드</string>
     <string name="name_wechat_payment_code">WeChat 결제</string>
     <string name="name_wechat_scan">WeChat 스캐너</string>

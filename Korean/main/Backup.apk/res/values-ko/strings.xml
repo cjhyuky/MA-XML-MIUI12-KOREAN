@@ -390,10 +390,10 @@
     <string name="close_twice_auth_btn">이중 보안설정 끄기</string>
     <string name="close_twice_auth_note">"주의:이중 보안설정을 취소할 경우 다시 생성할 수 없습니다."</string>
     <string name="close_twice_auth_step_1">1. appleid.apple.com에 접속하세요.</string>
-    <string name="close_twice_auth_step_2">2. 이중 보안설정을 취소하려면 애플 ID에 로그인하고, \"보안\" 메뉴에 들어가 \"수정\"을 클릭하세요.</string>
+    <string name="close_twice_auth_step_2">2. 이중 보안설정을 취소하려면 Apple ID에 로그인하고, \"보안\" 메뉴에 들어가 \"수정\"을 클릭하세요.</string>
     <string name="close_twice_auth_step_3">3. \"이중 보안설정 끄기\"를 선택하세요.</string>
-    <string name="close_twice_auth_steps">아래를 참고하여 애플 ID의 이중 보안설정을 끄세요:</string>
-    <string name="close_twice_auth_tutor">애플 ID 이중 보안설정 끄기</string>
+    <string name="close_twice_auth_steps">아래를 참고하여 Apple ID의 이중 보안설정을 끄세요:</string>
+    <string name="close_twice_auth_tutor">Apple ID 이중 보안설정 끄기</string>
     <string name="connect_wifi_tip">"네트워크에 연결할 수 없습니다. iCloud에서 파일을 가져오려면 네트워크에 연결하세요."</string>
     <string name="data_detail_description">자세히</string>
     <string name="disable_encrypt_description">암호화하지 않음</string>
@@ -402,7 +402,7 @@
     <string name="hide_password_description">비밀번호 숨기기</string>
     <string name="hsa_code_null">"보안코드를 입력하세요."</string>
     <string name="hsa_input_hint">이중 보안 답변</string>
-    <string name="hsa_input_tip">귀하의 애플 ID는 이중 보안설정 상태입니다. 확인 코드를 입력하세요.</string>
+    <string name="hsa_input_tip">귀하의 Apple ID는 이중 보안설정 상태입니다. 확인 코드를 입력하세요.</string>
     <string name="hsa_send_again">재전송</string>
     <string name="hsa_send_again_countdown">재전송 (%ds)</string>
     <string name="hsa_send_failed">"보안코드를 전송할 수 없습니다. 잠시 후에 다시 시도하세요."</string>
@@ -410,7 +410,7 @@
     <string name="hsa_tip_message">"1. 인증 코드를 받을 수 없다면 이미 Apple 기기에서 iCloud에 로그인했는지 확인하세요
 2. 인증 코드를 입력해도 도움이 되지 않는다면, 이중 인증을 해제하세요."</string>
     <string name="hsa_tip_message_shutdown_hsa">이중 보안설정을 해제하는 방법</string>
-    <string name="hsa_tip_message_with_device">"1.%s 애플 ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.
+    <string name="hsa_tip_message_with_device">"1. %s Apple ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.
 2. 보안 코드가 도착하지 않은 경우 이중 보안 설정을 해제하세요."</string>
     <string name="hsa_tip_title">팁:</string>
     <string name="hsa_title">이중 보안설정</string>
@@ -418,13 +418,13 @@
     <string name="hsa_verify_failed_message">이중 보안 확인에 실패했습니다. 다시 시도하시거나 이중 보안설정을 해제하세요.</string>
     <string name="hsa_verify_retry">다시 시도하기</string>
     <string name="hsa_verify_shutdown">끄기</string>
-    <string name="icloud_backup_tip">기존 애플 기기에 연결되어 있는 애플 ID에 로그인</string>
-    <string name="icloud_how_to_backup_tip_steps">"1. 이전 애플 기기 설정에 들어가서, iCloud를 선택하세요.
+    <string name="icloud_backup_tip">기존 Apple 기기에 연결되어 있는 Apple ID에 로그인</string>
+    <string name="icloud_how_to_backup_tip_steps">"1. 이전 Apple 기기 설정에 들어가서, iCloud를 선택하세요.
 2. 연락처와 다른 항목 동기화를 선택하세요."</string>
-    <string name="icloud_how_to_backup_tip_summary">애플 기기에서 데이터를 불로오려면, iCloud 백업을 선택해야 합니다.</string>
+    <string name="icloud_how_to_backup_tip_summary">Apple 기기에서 데이터를 불로오려면, iCloud 백업을 선택해야 합니다.</string>
     <string name="icloud_how_to_backup_tip_title">팁:</string>
     <string name="icloud_login_title">iCloud에 로그인</string>
-    <string name="icloud_need_sync">"애플 기기의 데이터를 불러오려면, iCloud 백업을 선택해야 합니다."</string>
+    <string name="icloud_need_sync">"Apple 기기의 데이터를 불러오려면, iCloud 백업을 선택해야 합니다."</string>
     <string name="icloud_need_wifi_message">"Wi-Fi에 연결되지 않았습니다. Wi-Fi에 연결하세요."</string>
     <string name="icloud_need_wifi_title">Wi-Fi에 연결</string>
     <string name="import_again">다시 불러오기</string>
@@ -437,7 +437,7 @@
     <string name="notif_icloud_canceling_summary">취소중…</string>
     <string name="notif_icloud_import_title">iCloud에서 데이터 가져오는 중</string>
     <string name="notif_icloud_loaded_summary">기다리는 중…</string>
-    <string name="notif_icloud_loading_summary">데이터 로딩중…</string>
+    <string name="notif_icloud_loading_summary">데이터 불러오는 중…</string>
     <string name="notif_icloud_logining">이전 기기에서 iCloud에 로그인 중…</string>
     <string name="notif_icloud_need_wifi_summary">Wi-Fi 연결 대기중</string>
     <string name="notif_icloud_saved_summary">성공적으로 데이터를 가져옴</string>
@@ -447,7 +447,7 @@
     <string name="notif_trans_wait_for_reconnecting">연결에 문제가 발생하였습니다. 다시 연결하세요.</string>
     <string name="password_null">"비밀번호를 입력하세요."</string>
     <string name="platform_chooser_item_android">Android 기기 (삼성, LG 등)에서 불러오기</string>
-    <string name="platform_chooser_item_ios">애플 기기 (iPhone, iPad 등)에서 불러오기</string>
+    <string name="platform_chooser_item_ios">Apple 기기 (iPhone, iPad 등)에서 불러오기</string>
     <string name="platform_chooser_title">이전 기기 선택</string>
     <string name="reconnect">다시 연결</string>
     <string name="save_finish_with_failing_items">"연결에 문제가 발생하였습니다. 불러오지 못한 데이터를 백업하세요."</string>
@@ -460,7 +460,7 @@
     <string name="select_item_empty_summary">자료 없음</string>
     <string name="select_item_notes">메모</string>
     <string name="select_item_photos">사진</string>
-    <string name="select_item_summary_loading">데이터 로딩중…</string>
+    <string name="select_item_summary_loading">데이터 불러오는 중…</string>
     <string name="select_item_summary_wait">기다리는 중…</string>
     <string name="succ_description">성공적</string>
     <string name="trans_button_cancel">취소</string>

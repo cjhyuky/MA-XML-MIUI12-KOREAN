@@ -106,7 +106,7 @@
     <string name="passport_completed">완료</string>
     <string name="passport_verify">확인</string>
     <string name="passport_restart">다시 시작</string>
-    <string name="passport_loading">로딩 중…</string>
+    <string name="passport_loading">불러오는 중…</string>
     <string name="passport_reging">계정 만드는 중…</string>
     <string name="passport_checking_account">비밀번호 확인 중…</string>
     <string name="passport_checking_input">입력 확인 중…</string>
@@ -362,7 +362,7 @@
     <string name="mibi_process_expired">"작업 시간이 초과되었습니다."</string>
     <string name="mibi_progress_creating">주문 정보 검색 중…</string>
     <string name="mibi_progress_deduct_creating">%1$s 자동 결제 프로토콜 활성화중…</string>
-    <string name="mibi_progress_downloading">로딩중…</string>
+    <string name="mibi_progress_downloading">불러오는 중…</string>
     <string name="mibi_progress_error_pay_summary">%1$s Mi크레딧이 충전되었지만 결제를 실패했습니다. 나중에 다시 시도하세요.</string>
     <string name="mibi_progress_error_pay_title">결제 실패</string>
     <string name="mibi_progress_error_recharge_summary">충전 실패, 나중에 다시 시도하세요.</string>

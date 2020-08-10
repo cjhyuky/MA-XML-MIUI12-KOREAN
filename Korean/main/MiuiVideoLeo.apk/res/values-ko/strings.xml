@@ -446,7 +446,7 @@
     <string name="vp_hint">주의</string>
     <string name="vp_install">설치</string>
     <string name="vp_install_title">설치</string>
-    <string name="vp_loading_video">로딩 중…</string>
+    <string name="vp_loading_video">불러오는 중…</string>
     <string name="vp_low_definition">낮음</string>
     <string name="vp_maintitlearea">어디서든 HD 동영상 시청</string>
     <string name="vp_media_info">동영상 정보 표시</string>

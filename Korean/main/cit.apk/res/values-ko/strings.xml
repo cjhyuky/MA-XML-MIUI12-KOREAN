@@ -596,8 +596,8 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="mic1_spk_loop">마이크 스피커 루프</string>
     <string name="mic1test">마이크1</string>
     <string name="micphone_test">마이크 ＆ SPK</string>
-    <string name="navigation_drawer_close">네비게이션 그리기 도구 닫기</string>
-    <string name="navigation_drawer_open">네비게이션 그리기 도구 열기</string>
+    <string name="navigation_drawer_close">내비게이션 그리기 도구 닫기</string>
+    <string name="navigation_drawer_open">내비게이션 그리기 도구 열기</string>
     <string name="noise">소음:</string>
     <string name="radio_info_cellinfo_label">모든 셀 측정 정보:</string>
     <string name="radio_info_data_connected">연결됨</string>

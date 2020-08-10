@@ -949,11 +949,11 @@
     <string name="subscribe">구독하기</string>
     <string name="summary_pref_cm_smart_sms">카드 켐플릿, SMS 서비스 번호, 등등.</string>
     <string name="title_pref_cm_smart_sms">차이나 모바일 스마트 SMS</string>
-    <string name="updating">업데이트중…</string>
+    <string name="updating">업데이트 중…</string>
     <string name="auto_identify_btn_text_only_smart_messaging">스마트 메시징 사용 켜기</string>
     <string name="auto_identify_btn_text_when_all_disabled">발신자 ID 자동 감별</string>
     <string name="auto_identify_btn_title">모르는 번호로부터 온 메시지 입니다.</string>
-    <string name="auto_identify_confirmation">이 기능을 활성화하는데 몇분의 시간이 소요될 수 있습니다.</string>
+    <string name="auto_identify_confirmation">이 기능을 활성화하는데 몇 분의 시간이 소요될 수 있습니다.</string>
     <string name="menu_traffic_destination">목적지</string>
     <string name="number_recognition_partner">발신번호 확인 서비스 제공자</string>
     <string name="train_edit_destination">추가</string>

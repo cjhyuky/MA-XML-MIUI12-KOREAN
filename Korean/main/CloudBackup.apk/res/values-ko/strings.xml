@@ -116,7 +116,7 @@
     <string name="query_restore_back_view">Mi 클라우드 백업</string>
     <string name="restore_home_screen_apps">Mi 클라우드 백업에서 복원</string>
     <string name="restoring_home_screen_apps">Xiaomi 클라우드에서 복원중…</string>
-    <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 어플을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
+    <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 앱을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
     <string name="restore_from_this_device">이 백업을 사용하여 복원</string>
     <string name="confirm_restore_title">복원</string>
     <string name="confirm_restore_summary">홈 화면이 다시시작됩니다. 백업된 앱이 자동으로 다운로드됩니다.</string>
@@ -167,7 +167,7 @@
     <string name="notification_channel_service">서비스</string>
     <string name="open_backup_switch">백업 스위치를 탭하세요.</string>
     <string name="remove_again">다시 시도</string>
-    <string name="remove_unfinished">삭제중, 나중에 다시 시도하세요.</string>
+    <string name="remove_unfinished">삭제 중, 나중에 다시 시도하세요.</string>
     <string name="restore_cloud_backup_to_phone">Mi 클라우드에서 항목 복원</string>
     <string name="restore_data_title">데이터 복원중</string>
     <string name="restore_finished_notification_content">홈 화면, 시스템 설정 등을 복원했습니다.</string>
