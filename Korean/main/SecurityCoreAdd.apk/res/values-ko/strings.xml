@@ -285,7 +285,7 @@
     <string name="downloading_space">다운로드 중…</string>
     <string name="air_space_deleted">워크 스페이스 삭제에 성공했습니다.</string>
     <string name="need_reset_passwd">워크 스페이스에 진입하기 전에 비밀번호를 다시 설정하세요.</string>
-    <string name="reset_passwd_success">비밀번호 다시 설정에 성공했습니다.</string>
+    <string name="reset_passwd_success">비밀번호 재설정에 성공했습니다.</string>
     <string name="air_space_exit">공간에서 나가기</string>
     <string name="air_space_setting">공간 설정</string>
     <string name="other">기타</string>

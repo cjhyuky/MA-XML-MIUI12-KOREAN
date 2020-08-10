@@ -24,7 +24,7 @@
     <string name="system_app_is_restore">시스템 항목 복원 중…</string>
     <string name="system_app_restore_completed">성공적으로 복원되었습니다.</string>
     <string name="system_app_restore_completed_detail">모든 시스템 항목이 성공적으로 복원되었습니다.</string>
-    <string name="click_to_restore">공장 다시 설정 후 MIUI를 정상적으로 사용할 수 있도록 시스템 항목을 복원하세요. 시작하려면 탭하세요.</string>
+    <string name="click_to_restore">공장 초기화 후 MIUI를 정상적으로 사용할 수 있도록 시스템 항목을 복원하세요. 시작하려면 탭하세요.</string>
     <string name="system_app_restore_failed">오류가 발생했습니다.</string>
     <string name="system_app_restore_failed_detail">"시스템 항목을 복원할 수 없습니다. 네트워크 설정을 확인하고 항목이 완전히 복원 될 때까지 기기를 다시 시작하거나 전원을 끄지 마세요. 아래 버튼을 눌러 다시 시도하세요."</string>
     <string name="do_not_restore_temporarily">지금은 아닙니다.</string>

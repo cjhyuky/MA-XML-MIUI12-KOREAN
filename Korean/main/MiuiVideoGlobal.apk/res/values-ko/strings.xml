@@ -249,7 +249,7 @@
     <string name="lv_screenrecord_slience">시스템에서 소리 녹음을 지원하지 않습니다. 녹음내용은 무음입니다.</string>
     <string name="lv_screenrecord_success">성공적으로 녹음되었습니다. 지금 공유할 수 있습니다.</string>
     <string name="lv_send_title">보내기</string>
-    <string name="lv_set_password">숨겨진 동영상을보기위한 비밀번호 설정</string>
+    <string name="lv_set_password">숨겨진 동영상을 보기 위한 비밀번호 설정</string>
     <string name="lv_setting">설정</string>
     <string name="lv_share_tips">스크린 샷을 성공적으로 가져 왔습니다. 지금 공유할 수 있습니다.</string>
     <string name="lv_skip_update">지금은 아닙니다.</string>

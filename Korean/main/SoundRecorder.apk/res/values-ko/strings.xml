@@ -137,7 +137,7 @@
     <string name="recognition_error_engine">식별 엔진 오류</string>
     <string name="recognition_error_engine_singleton">식별 엔진이 과부하 상태입니다.</string>
     <string name="recognition_error_download_title">식별 엔진 없음</string>
-    <string name="recognition_error_download_msg">서비스를 사용하시려면 식별 엔진 다운로드하세요.</string>
+    <string name="recognition_error_download_msg">서비스를 사용하시려면 식별 엔진을 다운로드하세요.</string>
     <string name="recognition_error_download_ok">다운로드</string>
     <string name="recognition_error_download_cancel">나중에</string>
     <string name="recognition_error_download_fail">다운로드 실패, 네트워크 설정을 확인하시고 다시 시도하세요.</string>
