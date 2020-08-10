@@ -61,10 +61,10 @@
     <string name="down_kitguard">카이트가드 다운로드</string>
     <string name="event_app_lock">기기가 잠김 상태로 복원되었으며 앱 정책이 적용되었습니다.</string>
     <string name="event_app_policy">새로운 앱 정책</string>
-    <string name="event_app_unlock">기기가 일시적으로 잠금해제되어 % s, 앱을 자유롭게 사용할 수 있습니다.</string>
+    <string name="event_app_unlock">기기가 일시적으로 잠금해제되어 %s, 앱을 자유롭게 사용할 수 있습니다.</string>
     <string name="event_fence_in">%s 앱에 들어왔습니다.</string>
     <string name="event_fence_out">%s 앱을 끝냈습니다.</string>
-    <string name="event_location">%s 앱이 귀하의 위치를.확인ㄹㅋchecked your location</string>
+    <string name="event_location">%s 앱이 귀하의 위치를 확인하였습니다.</string>
     <string name="event_low_battery">배터리 부족</string>
     <string name="event_offline">기기가 지금 오프라인 상태입니다.</string>
     <string name="event_online">기기가 지금 온라인 상태입니다.</string>

@@ -3315,7 +3315,7 @@
     <string name="lock_settings_with_fingerprint">"잠금 화면 &amp; 보안 "</string>
     <string name="lock_setup">설정이 완료되었습니다.</string>
     <string name="lock_sounds_enable_title">화면 잠금 사운드</string>
-    <string name="lockdown_settings_summary">스마트 럭, 지문 잠금해제 및 잠금 화면의 알림을 끄는 전원 버튼 옵션 표시</string>
+    <string name="lockdown_settings_summary">스마트 잠금, 지문 잠금해제 및 잠금 화면의 알림을 끄는 전원 버튼 옵션 표시</string>
     <string name="lockdown_settings_title">잠금 옵션 보기</string>
     <string name="locked_work_profile_notification_title">업무 프로필 잠김</string>
     <string name="lockpassword_cancel_label">취소</string>
