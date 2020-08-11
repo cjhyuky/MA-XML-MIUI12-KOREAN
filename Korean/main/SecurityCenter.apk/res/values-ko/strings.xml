@@ -118,9 +118,9 @@
     <string name="app_behavior_location_bg">%1s 앱이 백그라운드에서 사용자 위치에 접근했습니다.</string>
     <string name="app_behavior_location_bg_single">이 앱이 백그라운드에서 사용자 위치에 접근했습니다.</string>
     <string name="app_behavior_location_single">이 앱이 사용자 위치에 접근했습니다.</string>
-    <string name="app_behavior_phonenum_single">%1s 앱이 전화번호에 접근했습니다.</string>
+    <string name="app_behavior_phonenum">%1s 앱이 전화번호에 접근했습니다.</string>
     <string name="app_behavior_phonenum_single">이 앱이 전화번호에 접근했습니다.</string>
-    <string name="app_behavior_phonestate_single">%1s 앱이 기기 정보에 접근했습니다.</string>
+    <string name="app_behavior_phonestate">%1s 앱이 기기 정보에 접근했습니다.</string>
     <string name="app_behavior_phonestate_single">이 앱이 기기 정보에 접근했습니다.</string>
     <string name="app_behavior_recognition_single">이 앱이 활동 정보에 접근했습니다.</string>
     <string name="app_behavior_search">검색</string>
@@ -2584,7 +2584,6 @@
     <string name="system_permission_declare_revoke_uninstallable">보안에서 로그아웃하거나 이 앱을 제거하거나 승인을 취소할 수 있습니다. 보안 &gt; 앱 관리 &gt; 권한 &gt; 권한.</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자의 권리와 데이터 사용 방식을 완전히 이해한다면 &lt;a href=\"%1$s\">이용 약관&lt;/a>을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">통화 하기</string>
     <string name="system_permission_perm_read_mms">MMS 읽기</string>
