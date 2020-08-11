@@ -587,4 +587,7 @@
     <string name="navigation_guide_settings">제스처 데모</string>
     <string name="switch_screen_button_order">버튼 위치 반전</string>
     <string name="switch_screen_button_order_desc">뒤로가기 버튼과 메뉴 버튼의 위치를 서로 바꿉니다.</string>
+    <string name="auto_disable_screenbuttons_summary">다시 활성화하려면 탐색 버튼을 두 번 탭하세요.</string>
+    <string name="auto_disable_screenbuttons_title">탐색 버튼 자동 비활성화</string>
+    <string name="key_shortcut_settings_title">버튼 단축키</string>
 </resources>
