@@ -124,7 +124,7 @@
     <string name="card_detail_dialog_negative">나중에 구독</string>
     <string name="card_detail_dialog_positive">지금 구독</string>
     <string name="card_detail_dialog_title">지금 구독하시겠습니까?</string>
-    <string name="card_detail_hint">구독 후 콘텐츠가 시작 페이지에 표시되며 매일 한 번 업데이트될 것입니다.</string>
+    <string name="card_detail_hint">구독 후 컨텐츠가 시작 페이지에 표시되며 매일 한 번 업데이트될 것입니다.</string>
     <string name="card_detail_title">세부사항</string>
     <string name="card_manager_no_data">아직 구독하지 않음</string>
     <string name="card_title_change">더 보기</string>
@@ -411,7 +411,7 @@
     <string name="today_no_events">일정 없음</string>
     <string name="tomorrow">내일</string>
     <string name="tomorrow_at_time_fmt">내일 %s</string>
-    <string name="too_long_content">콘텐츠가 너무 깁니다.</string>
+    <string name="too_long_content">컨텐츠가 너무 깁니다.</string>
     <string name="too_long_description">설명이 너무 깁니다.</string>
     <string name="too_long_location">위치가 너무 깁니다.</string>
     <string name="too_long_name">이름이 너무 깁니다.</string>
@@ -491,7 +491,7 @@
     <string name="miuishare_wechat_timeline_title">WeChat 모멘트</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="receive_net_mock_success">모의 네트워크 수신 완료</string>
-    <string name="edit_event_dislike_title">취소하신 이유가 무엇인가요?</string>
+    <string name="edit_event_dislike_title">취소한 이유가 무엇인가요?</string>
     <string name="app_name">공통</string>
     <string name="download">다운로드</string>
     <string name="email_subject_prefix">"답장: "</string>

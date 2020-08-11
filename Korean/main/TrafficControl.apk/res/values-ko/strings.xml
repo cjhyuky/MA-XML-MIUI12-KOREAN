@@ -335,8 +335,8 @@
     <string name="v2_my_passes_suggested">추천된 패스</string>
     <string name="v2_new_opera_max_button">Google Play로 이동</string>
     <string name="v2_new_opera_max_detected_button">최신 Opera Max 열기</string>
-    <string name="v2_new_opera_max_detected_text">새로운 버전의 Opera Max가 이미 설치되어 있습니다. 귀하의 데이터 기록과 설정은 유지하고 모든 세로운 기능을 경험하세요.</string>
-    <string name="v2_new_opera_max_text">이 버전은 더이상 지원되지 않습니다. 새로운 버전의 Opera Max를 다운로드 받으세요. 귀하의 데이터 기록과 설정은 유지하고 모든 세로운 기능을 경험하세요.</string>
+    <string name="v2_new_opera_max_detected_text">새로운 버전의 Opera Max가 이미 설치되어 있습니다. 귀하의 데이터 기록과 설정은 유지하고 모든 새로운 기능을 경험하세요.</string>
+    <string name="v2_new_opera_max_text">이 버전은 더 이상 지원되지 않습니다. 새로운 버전의 Opera Max를 다운로드 받으세요. 귀하의 데이터 기록과 설정은 유지하고 모든 새로운 기능을 경험하세요.</string>
     <string name="v2_new_opera_max_title">새로운 Opera Max</string>
     <string name="v2_no">아니오</string>
     <string name="v2_no_network_connection">네트워크 연결 없음.</string>

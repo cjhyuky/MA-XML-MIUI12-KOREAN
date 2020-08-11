@@ -107,7 +107,7 @@
     <string name="dlg_game_center_intercept_title">주의</string>
     <string name="dlg_mimarket_intercept_mimarket_install">Mi 앱스토어에서 설치</string>
     <string name="dlg_mimarket_intercept_msg">타사 앱을 설치하면 보안 위험이 발생할 수 있습니다. 안전한 앱 버전에 액세스하려면 Mi 앱스토어를 다운로드하여 설치하세요.</string>
-    <string name="dlg_msg_unoffical">"비공식 채널에서 시스템 응용프로그램을 설치할 수 없습니다."</string>
+    <string name="dlg_msg_unoffical">"비공식 채널의 시스템 앱을 설치할 수 없습니다."</string>
     <string name="dlg_msg_unoffical_ok">확인</string>
     <string name="dlg_ok">확인</string>
     <string name="dlg_sys_app_replacement_statement">"시스템 앱입니다. 이전의 모든 사용자 데이터가 저장됩니다."</string>
@@ -135,7 +135,7 @@
     <string name="increment_preparing">준비…</string>
     <string name="install">설치</string>
     <string name="installing">설치중…</string>
-    <string name="install_confirm_question">이 응용 프로그램을 설치하시겠습니까? 다음에 액세스할 수 있습니다.</string>
+    <string name="install_confirm_question">이 앱을 설치하시겠습니까? 다음에 액세스할 수 있습니다.</string>
     <string name="install_confirm_question_no_perms">"이 앱을 설치하시겠습니까? 특별한 권한이 필요하지 않습니다."</string>
     <string name="install_confirm_question_update">"기존 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 업데이트 된 애플리케이션은 다음에 액세스할 수 있습니다."</string>
     <string name="install_confirm_question_update_no_perms">"기존 앱에 대한 업데이트를 설치하시겠습니까? 기존 앱 데이터가 손실되지 않습니다. 특별한 권한이 필요하지 않습니다."</string>
@@ -255,7 +255,7 @@
     <string name="no_new_perms">"이 업데이트는 새로운 권한이 필요하지 않습니다."</string>
     <string name="no_permissions">권한 없음</string>
     <string name="ok">확인</string>
-    <string name="old_sdk_deny_warning">이 앱은 이전 버전의 Android용으로 설계되었습니다. 권한을 거부하면 더이상 의도한대로 작동하지 않을 수 있습니다.</string>
+    <string name="old_sdk_deny_warning">이 앱은 이전 버전의 Android용으로 설계되었습니다. 권한을 거부하면 더 이상 의도한대로 작동하지 않을 수 있습니다.</string>
     <string name="other_permissions">기타 앱 기능</string>
     <string name="other_relative">기타</string>
     <string name="out_of_space_dlg_text">"%1$s 앱을 설치할 수 없습니다. 여유 공간을 확보한 후 다시시도하세요."</string>
@@ -288,7 +288,7 @@
     <string name="perm_privacy_app_launch">시작</string>
     <string name="perm_privacy_app_trust">허가 요청</string>
     <string name="perm_privacy_app_trust_summary">이 앱이 시스템의 다른 부분에 액세스하려고 할 때 확인 </string>
-    <string name="perm_sysopt_boost_auto_start">자동 시작 권한</string>
+    <string name="perm_sysopt_boost_auto_start">자동 실행 권한</string>
     <string name="perm_sysopt_boost_auto_start_summary">이 앱은 자동으로 시작될 수 있습니다.</string>
     <string name="pref_ads">권장 사항</string>
     <string name="pref_key_about_privacy_title">개인정보 보호 정책</string>
@@ -349,7 +349,7 @@
     <string name="virus_scan_install"><u>그래도 설치</u></string>
     <string name="virus_scan_is_risk">"이 앱은 기기 보안에 위험을 초래합니다."</string>
     <string name="virus_scan_is_virus">이 앱에는 바이러스가 포함되어 있습니다.</string>
-    <string name="virus_title_subtext">"이 응용 프로그램은 바이러스를 포함 할 수 있습니다:"</string>
+    <string name="virus_title_subtext">"이 앱은 바이러스를 포함 할 수 있습니다:"</string>
     <string name="waiting_tip">시간이 걸릴 수 있지만 그만한 가치가 있습니다.</string>
     <string name="wear_app_channel">Android 웨어 앱 설치/제거</string>
     <string name="wear_not_allowed_dlg_text">웨어에서 설치/제거 작업이 지원되지 않습니다.</string>

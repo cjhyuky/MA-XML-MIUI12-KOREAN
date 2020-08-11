@@ -122,7 +122,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="agree_terms_input_method_kika">"나는 Kika 개인정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
     <string name="terms_of_use_lable_apps">MI 서비스, Mi SIM 활성화 서비스, Mi 클라우드, 장치 찾기, 홈 스크린, 게임 센터, MAB, MIUI 데몬 및 MSA 시스템 구성 요소,
-번역 서비스, 빠른 응용 프로그램, 퀵 카드, 통계, Mi 링크</string>
+번역 서비스, 빠른 앱, 퀵 카드, 통계, Mi 링크</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"이 기능을 사용하기 전에 Facemoji 개인정보 취급 방침에 동의해야 합니다."</string>
     <string name="terms_of_use_lable_default_input_method_kika">"이 기능을 사용하기 전에 Kika 개인정보 취급 방침에 동의해야 합니다."</string>
     <string name="terms_of_use_lable_gms">, Google Play 서비스</string>
@@ -142,7 +142,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="ai_button_single_press">누르기</string>
     <string name="ai_button_single_press_desc">Mi AI 켜기</string>
     <string name="ai_button_title">AI 버튼에 관하여</string>
-    <string name="poco_agree_terms_other">(POCO 런쳐 개인정보 보호정책과 사용자 약관 포함)</string>
+    <string name="poco_agree_terms_other">(POCO 런처 개인정보 보호정책과 사용자 약관 포함)</string>
     <string name="zone_picker_title">타임존을 선택하세요.</string>
     <string name="other_settings_enhanced_lockscreen">향상된 잠금 화면을 사용해보세요.</string>
     <string name="other_settings_enhanced_lockscreen_summary">선별된 이미지와 스토리를 매일 잠금 화면으로 가져옵니다. 이용 약관에 동의하세요.</string>
@@ -152,12 +152,12 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="terms_of_use_label_Mistore">, Mi 스토어 시스템 플러그인</string>
     <string name="terms_of_use_label_package">, 패키지설치자</string>
     <string name="terms_of_use_label_phrase">, 상용구</string>
-    <string name="other_settings_ad_dialog_content">"이 기능을 해제하면 더이상 맞춤형 광고를 수신하지 않지만 관심분야와 관련 없는 광고는 계속 게재됩니다. 개인정보 보호 정책에서 맞춤형 광고에 대해 자세히 알아볼 수 있습니다.
+    <string name="other_settings_ad_dialog_content">"이 기능을 해제하면 더 이상 맞춤형 광고를 수신하지 않지만 관심분야와 관련 없는 광고는 계속 게재됩니다. 개인정보 보호 정책에서 맞춤형 광고에 대해 자세히 알아볼 수 있습니다.
 정말로 맞춤형 광고를 끄시겠습니까?"</string>
     <string name="other_settings_ad_disable_summary">맞춤형 광고를 사용하려면 켜세요.</string>
     <string name="agree_and_next">동의</string>
     <string name="album_introduction">갤러리를 사용하면 기기에서 사진과 동영상을 관리, 최적화 및 편집하고 Xiaomi 클라우드에 동기화할 수 있습니다.</string>
-    <string name="application_package_introduction">이 응용 프로그램은 타사 응용 프로그램을 설치 설치 설치, 설치하기 전에 그들을 스캔하고, 그 후 권장 사항을 제공 할 수 있습니다.</string>
+    <string name="application_package_introduction">이 앱은 타사 앱을 설치 설치 설치, 설치하기 전에 그들을 스캔하고, 그 후 권장 사항을 제공 할 수 있습니다.</string>
     <string name="calculator_introduction">이 앱을 사용하여 계산, 단위 및 통화 변환 및 모기지 상환 추정에 사용할 수 있습니다.</string>
     <string name="camera_introduction">카메라를 사용하여 사진을 찍고 동영상을 촬영할 수 있습니다.</string>
     <string name="carrier_introduction">더 나은 서비스를 제공하기 위해 장치는 장치 버전 정보, 장치 식별 데이터 (IMEI/IMSI/MSISDN/MAC 주소, MEID/ICCID 포함) 및 대략적인 위치 정보 (기지국 ID 포함)를 정기적으로 보낼 수 있습니다. Wi-Fi, 모바일 데이터 네트워크 또는 무료 SMS를 통한 이동통신사. 운송 업체는 서비스 품질을 개선하거나 맞춤형 서비스 또는 기술을 제공하기 위해서만 관련 정보를 분석 할 것을 약속하며, 귀하를 개인적으로 식별하는 형태로 관련 정보를 제 3 자에게 공개하지 않습니다. 특정 운송 업체 명세서가 우선합니다. 이 서비스 사용 비용에 대해서는 이동통신사에 문의하세요.</string>
@@ -229,7 +229,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="recorder_introduction">이 앱을 사용하여 오디오를 녹음하고 녹음을 클라우드에 백업할 수 있습니다.</string>
     <string name="require_authority_statement">기본 서비스를 제공하려면 개인정보를 수집 할 수 있도록 다음 권한을 부여해야 합니다.</string>
     <string name="require_network_authority_statement">기본 서비스를 제공하려면 개인정보를 수집 할 수 있도록 인터넷에 연결하고 다음 권한을 부여해야 합니다.</string>
-    <string name="screen_recording_introduction">이 응용 프로그램은 화면에 무슨 일이 일어나고 있는지 기록 할 수 있습니다.</string>
+    <string name="screen_recording_introduction">이 앱은 화면에 무슨 일이 일어나고 있는지 기록 할 수 있습니다.</string>
     <string name="security_introduction">이 앱을 사용하면 기기의 휴지통을 지우고 바이러스를 찾아서 무효화하고 게임 성능을 최적화하며 배터리를 절약하고 앱, 권한을 관리하는 등의 작업을 할 수 있습니다.</string>
     <string name="security_mobile_account_introduction">시스템 계정 로그인 및 관리</string>
     <string name="service_agreement">이용 약관을 읽고 동의했습니다.</string>

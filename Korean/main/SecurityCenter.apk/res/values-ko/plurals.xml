@@ -221,10 +221,10 @@
         <item quantity="other">%d개의 바이러스 정리됨</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d 앱이 자동 시작 가능</item>
+        <item quantity="other">%d 앱이 자동 실행 가능</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d 앱의 자동 시작 불허</item>
+        <item quantity="other">%d 앱의 자동 실행 불허</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d개의 권한</item>

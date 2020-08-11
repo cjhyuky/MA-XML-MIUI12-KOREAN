@@ -55,8 +55,8 @@
     <string name="usage_state_show_category">카테고리</string>
     <string name="usage_state_show_detail">세부사항 보기</string>
     <string name="usage_state_show_more">더보기</string>
-    <string name="usage_state_time_end">금일 설정하신 화면켜짐 시간에 도달했습니다.</string>
-    <string name="usage_state_unusage">"오늘 서용한 적 없음"</string>
+    <string name="usage_state_time_end">오늘 설정한 화면켜짐 시간에 도달했습니다.</string>
+    <string name="usage_state_unusage">"오늘 사용한 적 없음"</string>
     <string name="usage_state_usage_time_weekday_title">주중</string>
     <string name="usage_state_usage_time_weekend_title">주말</string>
     <string name="usagestats_app_category_miui_education">교육</string>
@@ -250,7 +250,7 @@
     <string name="hsv_space_color_value">설정값</string>
     <string name="other_parameter">기타</string>
     <string name="p3_color_region_summary">P3 색 영역으로 모든 화면 내용 표시</string>
-    <string name="preview">미리 보기</string>
+    <string name="preview">미리보기</string>
     <string name="primary_color_region">원본</string>
     <string name="primary_color_region_summary">색상 보정을 통해 색 영역을 자동으로 식별</string>
     <string name="reset_edit">변경사항 취소</string>
@@ -287,7 +287,7 @@
     <string name="usage_home_premission_main_summary_new_o">"스크린 시간 관리에 오신 것을 환영합니다.
 서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
 기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야 합니다."</string>
-    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 응용 프로그램이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
+    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 앱이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
     <string name="usage_creating_weekly_report">주간 보고서</string>
     <string name="usage_focus_new_summary">더 멋진 프로필 사진</string>
     <string name="usage_no_net_summary">네트워크 연결이 정상적인지 확인하세요.</string>

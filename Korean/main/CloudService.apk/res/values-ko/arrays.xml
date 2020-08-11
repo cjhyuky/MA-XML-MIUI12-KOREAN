@@ -2,7 +2,7 @@
 <resources>
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>연락처, 메시지, 메모, 캘린더 등을 동기화</item>
-        <item>앱, 홈 화면 레이아웃 및 배경 화면 백업</item>
+        <item>앱, 홈 화면 레이아웃 및 배경화면 백업</item>
         <item>Wi-Fi 및 디스플레이를 포함한 중요 설정 백업</item>
         <item>"기기를 분실한 경우 원격으로 기기 잠금"</item>
     </string-array>

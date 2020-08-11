@@ -374,7 +374,7 @@
     <string name="error_title">동기화 할수 없음</string>
     <string name="error_unauthorized">과도한 로그인 시도로 인하여 Mi 계정의 동기화가 해제되었습니다.</string>
     <string name="exit">종료</string>
-    <string name="exit_browser_confirmation">데스크톱으로 돌아가려면 다시 누르세요.</string>
+    <string name="exit_browser_confirmation">데스크탑으로 돌아가려면 다시 누르세요.</string>
     <string name="exit_browser_warning">브라우저를 지금 종료하시겠습니까?</string>
     <string name="exit_fullscreen">전체 화면 끄기</string>
     <string name="expand_button_title">고급</string>
@@ -479,7 +479,7 @@
     <string name="loading_dialog_title">이동중…</string>
     <string name="loading_tips">아래로 당겨 새로고침</string>
     <string name="local_bookmarks">Mi</string>
-    <string name="login_failed_toast">로그인할 수 없습니다. 새로고침 하신 후 다시 시도하세요.</string>
+    <string name="login_failed_toast">로그인할 수 없습니다. 새로고침 한 후 다시 시도하세요.</string>
     <string name="low_memory_toast">메모리가 부족해 계속 사용할 수 없습니다.</string>
     <string name="max_tabs_warning">탭을 더 열 수 없습니다.</string>
     <string name="maximum_input_alert">2048개 이상의 문자를 입력할 수 없습니다.</string>
@@ -685,7 +685,7 @@
     <string name="mw_miuichromium_error_page_network_hijack">현재 네트워크는 안전하지 않습니다.</string>
     <string name="mw_miuichromium_error_page_network_off">Wi-Fi 또는 모바일 데이터 켜기</string>
     <string name="mw_miuichromium_error_page_no_network">네트워크에 연결할 수 없습니다.</string>
-    <string name="mw_miuichromium_error_page_problem_access_denied">%s0 엑세스가 거부었습니다.</string>
+    <string name="mw_miuichromium_error_page_problem_access_denied">%s0 액세스가 거부었습니다.</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">페이지가 로드될 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">이 페이지를 열 수 없습니다.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">이 페이지를 열 수 없습니다. %s0에 의해 차단되었습니다.</string>
@@ -724,7 +724,7 @@
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">기기에 설치된 프록시 앱을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">인터넷 연결 상태를 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(모바일 데이터) %s1APN 설정%s2을 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_url">입력하신 URL을 다시 확인하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_url">입력한 URL을 다시 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1프록시 설정%s2을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">캐시를 삭제하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">쿠키와 캐시 데이터를 초기화하세요. (계정 정보가 삭제될 수 있습니다).</string>
@@ -732,7 +732,7 @@
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">캐시 삭제.</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">인터넷에 연결된 후에 새로고침하기</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">시스템 관리자에게 연락해주세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_correct_url">입력하신 URL이 올바른지 확인.</string>
+    <string name="mw_miuichromium_error_page_suggestion_correct_url">입력한 URL이 올바른지 확인.</string>
     <string name="mw_miuichromium_error_page_suggestion_grant_permission">새로고침</string>
     <string name="mw_miuichromium_error_page_suggestion_title">다음을 시도해보세요:</string>
     <string name="mw_miuichromium_error_page_title">오류가 발생함</string>
@@ -885,8 +885,8 @@
     <string name="mw_save_password_notnow">나중에</string>
     <string name="mw_save_password_remember">저장하기</string>
     <string name="mw_search_menu_title">검색</string>
-    <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 콘텐츠 가져오기</string>
-    <string name="mw_snippets_disabled_signed_out_instructions">Google에서 제안한 맞춤형 콘텐츠를 얻으려면 Chrome에 로그인하세요.</string>
+    <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 컨텐츠 가져오기</string>
+    <string name="mw_snippets_disabled_signed_out_instructions">Google에서 제안한 맞춤형 컨텐츠를 얻으려면 Chrome에 로그인하세요.</string>
     <string name="mw_time_picker_dialog_am">오전</string>
     <string name="mw_time_picker_dialog_pm">오후</string>
     <string name="mw_time_picker_dialog_title">시간 설정</string>
@@ -916,7 +916,7 @@
     <string name="navigate_feedback_report_input_tips">질문을 남겨주세요, 가능한 빨리 처리해 드리겠습니다.</string>
     <string name="navigate_feedback_report_success">제보 완료</string>
     <string name="navigate_feedback_report_title">제보 이유</string>
-    <string name="navigate_feedback_select_report_label">제보하신 이유를 선택하세요.</string>
+    <string name="navigate_feedback_select_report_label">제보한 이유를 선택하세요.</string>
     <string name="navigate_feedback_submit">제출</string>
     <string name="navigation_delete_all">왼쪽과 오른쪽으로 스와이프하면 모든 탭이 닫힙니다.</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">취소</string>
@@ -962,7 +962,7 @@
     <string name="permission_unknown">알 수 없는 옵션</string>
     <string name="permissions_prompt_message">"%s 이 다음을 원합니다 : "</string>
     <string name="play_pause_video">동영상 재생 또는 멈춤</string>
-    <string name="play_retry">다시보기</string>
+    <string name="play_retry">다시 보기</string>
     <string name="play_video">동영상 재생</string>
     <string name="player_3g_tip_sub_title">재생하시면 데이터 요금이 발생합니다.</string>
     <string name="player_3g_tip_title">현재 모바일 네트워크 이용중입니다, 계속 재생하시면 요금이 발생할 수 있습니다.</string>
@@ -997,7 +997,7 @@
     <string name="pref_confirm_for_exit">브라우저 종료 전에 알림 창 표시</string>
     <string name="pref_content_auto_light_mode">자동 밝기</string>
     <string name="pref_content_block_popups">팝업 차단</string>
-    <string name="pref_content_cloud_speedup">프록시 서버 사용하여 콘텐츠 더 빠르게 불러오기</string>
+    <string name="pref_content_cloud_speedup">프록시 서버 사용하여 컨텐츠 더 빠르게 불러오기</string>
     <string name="pref_content_fontsize_setting">폰트 설정</string>
     <string name="pref_content_homepage">시작 페이지 설정</string>
     <string name="pref_content_javascript">JavaScript 사용</string>
@@ -1042,8 +1042,8 @@
     <string name="pref_other_title">기타</string>
     <string name="pref_paper_mode_title">독서 모드</string>
     <string name="pref_privacy_clear_cache">캐시 지우기</string>
-    <string name="pref_privacy_clear_cache_dlg">캐시된 로컬 콘텐츠와 데이터베이스를 삭제하시겠습니까?</string>
-    <string name="pref_privacy_clear_cache_summary">캐시된 로컬 콘텐츠와 데이터베이스 지우기</string>
+    <string name="pref_privacy_clear_cache_dlg">캐시된 로컬 컨텐츠와 데이터베이스를 삭제하시겠습니까?</string>
+    <string name="pref_privacy_clear_cache_summary">캐시된 로컬 컨텐츠와 데이터베이스 지우기</string>
     <string name="pref_privacy_clear_cookies">모든 쿠키 데이터 지우기</string>
     <string name="pref_privacy_clear_cookies_dlg">모든 쿠기를 삭제하시겠습니까?</string>
     <string name="pref_privacy_clear_cookies_summary">모든 브라우저 쿠기 지우기</string>
@@ -1097,7 +1097,7 @@
     <string name="quicklink_cannot_save_url">이 URL은 추가할 수 없습니다.</string>
     <string name="quicklink_folder_text">상위 앱</string>
     <string name="quicklink_not_saved">시작 페이지에 추가하지 못했습니다.</string>
-    <string name="quicklink_push_confirm_message">이 기능을 끄시면 더이상 업데이트 소식을 받지 않습니다. 끄시겠습니까?</string>
+    <string name="quicklink_push_confirm_message">이 기능을 끄시면 더 이상 업데이트 소식을 받지 않습니다. 끄시겠습니까?</string>
     <string name="quicklink_saved">시작 페이지에 저장됨</string>
     <string name="quicklink_saved_before">이 사이트는 이미 추가되었습니다.</string>
     <string name="quicklink_user_define_webpage_title">이름</string>
@@ -1209,7 +1209,7 @@
     <string name="share_video">동영상 공유</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 컨텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 컨텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="sign_and_open">로그인 후 열기</string>
     <string name="sign_in">체크인</string>
@@ -1414,7 +1414,7 @@
     <string name="video_unknown_duration">알 수 없는 길이</string>
     <string name="view_certificate">인증서 보기</string>
     <string name="view_document_downloaded_files">다운로드 목록에서 다운로드된 파일 보기</string>
-    <string name="voice_check_network">네트워크 설정을 확인하신 후 다시 시도하세요.</string>
+    <string name="voice_check_network">네트워크 설정을 확인한 후 다시 시도하세요.</string>
     <string name="voice_close_description">닫기</string>
     <string name="voice_connect_network">네트워크에 연결할 수 없습니다.</string>
     <string name="voice_description">음성 검색</string>
@@ -1512,10 +1512,10 @@
     <string name="vo_comment_text">댓글</string>
     <string name="vo_feedback_back">뒤로</string>
     <string name="vo_feedback_black">차단 : %s</string>
-    <string name="vo_feedback_content">콘텐츠 품질 저하</string>
+    <string name="vo_feedback_content">컨텐츠 품질 저하</string>
     <string name="vo_feedback_dislike">관심 없음</string>
     <string name="vo_feedback_frequent">너무 자주 나타납니다.</string>
-    <string name="vo_feedback_quality">콘텐츠 품질에 대한 피드백</string>
+    <string name="vo_feedback_quality">컨텐츠 품질에 대한 피드백</string>
     <string name="vo_feedback_shield">차단 목록</string>
     <string name="vo_feedback_sub_quality">클릭 베이트, 욕설 등</string>
     <string name="vo_info_flow_load_error_content">다시 시도</string>
@@ -1568,7 +1568,7 @@
     <string name="vo_feedback_sub_shield">, 등.</string>
     <string name="vo_info_flow_rs_hint">검색</string>
     <string name="channel_network_error">네트워크 에러가 발생했습니다. 네트워크 설정을 확인 후 다시 시도하세요.</string>
-    <string name="channel_no_data">"더이상 없습니다. 다른 채널을 확인해보세요!"</string>
+    <string name="channel_no_data">"더 이상 없습니다. 다른 채널을 확인해보세요!"</string>
     <string name="comment_fail">"댓글 추가 실패. 다시 시도하세요."</string>
     <string name="comment_success">댓글 추가 완료</string>
     <string name="feedback_not_interested_response">"이 종류의 항목이 더 적습니다."</string>
@@ -1576,7 +1576,7 @@
     <string name="tt_ad">광고</string>
     <string name="comment_add_fail">"댓글 추가 실패"</string>
     <string name="comment_add_sucess">댓글 추가 완료</string>
-    <string name="comment_all_display">"더이상 없습니다."</string>
+    <string name="comment_all_display">"더 이상 없습니다."</string>
     <string name="comment_confirm_report">신고</string>
     <string name="comment_copied">복사 완료</string>
     <string name="comment_delete">삭제</string>
@@ -1594,7 +1594,7 @@
     <string name="comment_reply_sucess">답장 완료</string>
     <string name="comment_report_advertising_marketing">마케팅 또는 잠재 광고</string>
     <string name="comment_report_harassment_abuse">희롱 또는 증오심 표현</string>
-    <string name="comment_report_pornographic_violence">성적으로 명백하거나 폭력적인 콘텐츠</string>
+    <string name="comment_report_pornographic_violence">성적으로 명백하거나 폭력적인 컨텐츠</string>
     <string name="comment_report_reactionary_politics">Political 정치 극단주의</string>
     <string name="comment_report_send">제출 완료</string>
     <string name="comment_select_report_reason">신고하는 이유가 무엇인가요?</string>

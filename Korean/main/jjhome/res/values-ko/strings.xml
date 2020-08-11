@@ -393,7 +393,7 @@ Jeejen 폰이 현재 사용 가능합니다."</string>
     <string name="welcome_goto_launcher">홈 화면으로 이동</string>
     <string name="box_uninstall_empty_hint">표시할 앱이 없습니다.</string>
     <string name="use_statusment">앱이 정상적으로 작동하기 위해 모바일 데이터, 위치 서비스 등에 접근 권한이 필요합니다.</string>
-    <string name="box_multi_insert_to_launcher_hint">홈 화면에 선택하신 앱을 추가하시겠습니까?</string>
+    <string name="box_multi_insert_to_launcher_hint">홈 화면에 선택한 앱을 추가하시겠습니까?</string>
     <string name="box_multi_remove_from_launcher_hint">홈 화면에서 선택된 앱을 제거하시겠습니까?</string>
     <string name="box_menu_remove_destop_hint">홈 화면에서 제거</string>
     <string name="box_menu_add_destop_hint">홈 화면에 앱 추가</string>

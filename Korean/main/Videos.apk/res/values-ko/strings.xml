@@ -121,7 +121,7 @@
     <string name="collection_top_movies">인기 영화</string>
     <string name="collection_top_shows">인기 TV 프로그램</string>
     <string name="athome_detail_details_section">세부정보</string>
-    <string name="athome_detail_related_section">관련 콘텐츠</string>
+    <string name="athome_detail_related_section">관련 컨텐츠</string>
     <string name="athome_detail_seasons_section">시즌</string>
     <string name="athome_detail_episodes_section">에피소드</string>
     <string name="athome_detail_reviews_section">리뷰</string>
@@ -185,7 +185,7 @@
     <string name="welcome_button_label_add">라이브러리에 추가</string>
     <string name="welcome_button_label_no_thanks">아니요</string>
     <string name="welcome_title_revisit">환영합니다.</string>
-    <string name="welcome_instructions_revisit">라이브러리에 저장된 영화를 보거나 Play 스토어에서 새로운 콘텐츠를 찾아보세요.</string>
+    <string name="welcome_instructions_revisit">라이브러리에 저장된 영화를 보거나 Play 스토어에서 새로운 컨텐츠를 찾아보세요.</string>
     <string name="welcome_button_label_revisit">라이브러리 탐색</string>
     <string name="welcome_title_cast">TV에서 캐스트</string>
     <string name="welcome_instructions_cast">큰 화면에서 영화를 감상하려면 위의 캐스트 아이콘을 탭하세요.</string>
@@ -211,7 +211,7 @@
     <string name="welcome_button_label_shows_free">무료 에피소드 보기</string>
     <string name="welcome_button_label_free">시작하기</string>
     <string name="welcome_button_label_got_it">확인</string>
-    <string name="welcome_update_needed_device">기기에 설치된 시스템 소프트웨어 버전이 너무 오래되어 프리미엄 콘텐츠를 사용할 수 없습니다. 최신 버전으로 업데이트하세요.</string>
+    <string name="welcome_update_needed_device">기기에 설치된 시스템 소프트웨어 버전이 너무 오래되어 프리미엄 컨텐츠를 사용할 수 없습니다. 최신 버전으로 업데이트하세요.</string>
     <string name="welcome_update_needed_application">&lt;a href=%1$s>Play 스토어&lt;/a>에 방문하여 애플리케이션을 최선 버전으로 업데이트하세요.</string>
     <string name="pano_welcome_update_needed_application">이 애플리케이션을 최신 버전으로 업데이트하시기 바랍니다.</string>
     <string name="welcome_system_clock_incorrect">기기의 날짜 및 시간이 올바른지 확인한 다음 다시 시도하세요.</string>
@@ -273,7 +273,7 @@
     <string name="dont_show_again">다시 표시하지 않음</string>
     <string name="recommended">Play 추천</string>
     <string name="related_suggestions">%1$s와(과) 비슷한 영화 더보기</string>
-    <string name="movie_extras">보너스 콘텐츠</string>
+    <string name="movie_extras">보너스 컨텐츠</string>
     <string name="dismiss_recommendations_welcome_title">추천 항목 닫기</string>
     <string name="dismiss_recommendations_welcome_description">이제 카드를 스와이프하여 추천 항목을 닫을 수 있습니다. 지금 시도해 보세요.</string>
     <string name="recommendation_removed">추천 항목 삭제</string>
@@ -296,7 +296,7 @@
     <string name="warning_movie_bandwidth">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="error_browser_not_available">사용 가능한 웹 브라우저가 없습니다.</string>
     <string name="error_play_store_is_updating">Play 스토어를 업데이트하는 중입니다. 잠시 후 다시 시도하세요.</string>
-    <string name="error_play_store_not_available">Play 스토어를 사용할 수 없습니다. play.google.com 페이지에서 콘텐츠를 구매할 수 있습니다.</string>
+    <string name="error_play_store_not_available">Play 스토어를 사용할 수 없습니다. play.google.com 페이지에서 컨텐츠를 구매할 수 있습니다.</string>
     <string name="error_no_web_search_intent_handler">기기에 웹 검색을 위해 설치된 애플리케이션이 없습니다.</string>
     <string name="error_network">네트워크에 문제가 발생했습니다.</string>
     <string name="error_connection">네트워크에 연결할 수 없습니다.</string>
@@ -316,7 +316,7 @@
     <string name="error_purchase_pinned_elsewhere">동영상을 다운로드할 수 있는 기기 한도를 초과했습니다. 여기에서 재생하려면 다른 기기에서 동영상을 삭제하세요.</string>
     <string name="error_rental_pinned_elsewhere">대여한 동영상이 다른 기기에 다운로드되었습니다. 여기에서 재생하려면 다른 기기에서 동영상을 삭제하세요.</string>
     <string name="error_protected_buffer_not_supported">선택한 화면에 동영상을 스트리밍하려면 먼저 동영상을 기기에서 삭제해야 합니다.</string>
-    <string name="error_display_not_secure">보안상의 이유로 이 화면에서 프리미엄 콘텐츠를 재생할 수 없습니다.</string>
+    <string name="error_display_not_secure">보안상의 이유로 이 화면에서 프리미엄 컨텐츠를 재생할 수 없습니다.</string>
     <string name="error_unusual_account_activity">비정상적인 계정 활동으로 인해 동영상을 볼 수 없습니다.</string>
     <string name="error_cannot_activate_rental">대여를 실행할 수 없습니다.</string>
     <string name="error_preorder_not_released">이 선주문 동영상은 아직 출시되지 않았습니다.</string>
@@ -329,7 +329,7 @@
     <string name="error_attempting_to_reconnect">다시 연결 시도 중(%1$s/%2$s)…</string>
     <string name="error_remote_generic">"'%1$s'에 연결하는 중에 오류가 발생했습니다."</string>
     <string name="error_connecting_to_play">Google Play에 연결할 수 없습니다(오류 %1$d).</string>
-    <string name="error_provisioning_device">기기에서 라이선스 콘텐츠의 재생을 준비하지 못했습니다.</string>
+    <string name="error_provisioning_device">기기에서 라이선스 컨텐츠의 재생을 준비하지 못했습니다.</string>
     <string name="error_fetching_license">라이선스를 가져올 수 없습니다(오류 %1$d).</string>
     <string name="error_fetching_license_emm_decode_failed">라이선스를 가져오지 못했습니다(오류 16). 문제가 지속되면 기기를 다시 시작해 보세요.</string>
     <string name="error_invalid_offline_license">라이선스를 가져오지 못했습니다. 문제가 지속되면 동영상을 다시 다운로드해 보세요.</string>
@@ -344,7 +344,7 @@
     <string name="pinning_error_fetching_license">라이선스를 가져올 수 없습니다(오류 %1$d).</string>
     <string name="pinning_error_download_corrupt">다운로드한 동영상에 문제가 있습니다. 이 동영상을 오프라인에서 보려면 다시 다운로드하세요.</string>
     <string name="pinning_error_fetching_license_emm_decode_failed">라이선스를 가져오지 못했습니다(오류 16). 문제가 지속되면 기기를 다시 시작해 보세요.</string>
-    <string name="pinning_error_rental_pinned_elsewhere">대여한 콘텐츠는 한 번에 하나의 기기에만 다운로드할 수 있습니다. 여기에 대여한 콘텐츠를 다운로드하려면 다른 기기에서 콘텐츠를 삭제하세요.</string>
+    <string name="pinning_error_rental_pinned_elsewhere">대여한 컨텐츠는 한 번에 하나의 기기에만 다운로드할 수 있습니다. 여기에 대여한 컨텐츠를 다운로드하려면 다른 기기에서 컨텐츠를 삭제하세요.</string>
     <string name="pinning_error_purchase_pinned_elsewhere">동영상을 다운로드할 수 있는 기기 한도를 초과했습니다. 여기에 다운로드하려면 다른 기기에서 동영상을 삭제하세요.</string>
     <string name="pinning_error_unsupported_video_format">이 동영상 형식은 지원되지 않습니다.</string>
     <string name="pinning_error_restricted_in_region">해당 국가에서 볼 수 없는 동영상입니다.</string>
@@ -513,12 +513,12 @@
     <string name="rental_expire_policy_dual_timers_description_finish_hours">대여 기간: %1$d일 이내에 시작, %2$d시간 이내에 종료</string>
     <string name="rental_expire_policy_dual_timers_description_finish_days">대여 기간: %1$d일 이내에 시작, %2$d일 이내에 종료</string>
     <string name="rental_expire_fixed_timer_description">대여 기간: %1$s 전에 종료</string>
-    <string name="content_restrictions">콘텐츠 제한</string>
+    <string name="content_restrictions">컨텐츠 제한</string>
     <string name="content_restrictions_summary">Play 무비 및 TV 앱에서 볼 수 있는 항목을 제한합니다.</string>
-    <string name="allow_unrated">등급 없는 콘텐츠 허용</string>
+    <string name="allow_unrated">등급 없는 컨텐츠 허용</string>
     <string name="allow_movies_rated">허용되는 영화 등급</string>
     <string name="allow_episodes_rated">허용되는 에피소드 등급</string>
-    <string name="allow_content_rated">허용되는 콘텐츠 등급</string>
+    <string name="allow_content_rated">허용되는 컨텐츠 등급</string>
     <string name="primary_storage">내부 저장소</string>
     <string name="sd_card">SD 카드</string>
     <string name="download_option_hd">HD(더 나은 화질)</string>
@@ -544,7 +544,7 @@
     <string name="pref_content_filtering_title">자녀 보호 기능</string>
     <string name="pref_content_filtering_on_summary">자녀 보호 기능 사용</string>
     <string name="pref_content_filtering_off_summary">모두 표시</string>
-    <string name="pref_content_filtering_unsupported_summary">Play 무비 앱의 연령 제한 콘텐츠</string>
+    <string name="pref_content_filtering_unsupported_summary">Play 무비 앱의 연령 제한 컨텐츠</string>
     <string name="pref_category_downloads">다운로드</string>
     <string name="pref_download_network_title">네트워크</string>
     <string name="pref_download_quality_title">화질</string>

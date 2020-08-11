@@ -444,7 +444,7 @@
     <string name="permission_locale_summary">근처 기기 연결 용</string>
     <string name="permission_locale_title">액세스 위치</string>
     <string name="permission_message_summary">새 기기로 메시지 전송 용</string>
-    <string name="permission_message_title">SMS 콘텐츠 액세스</string>
+    <string name="permission_message_title">SMS 컨텐츠 액세스</string>
     <string name="permission_storage_summary">파일과 사진을 새 기기로 전송하는 경우</string>
     <string name="permission_storage_title">기기에 저장된 파일 및 사진 액세스 및 저장</string>
     <string name="permission_wifi_summary">항목을 새 기기로 전송하는 경우</string>
@@ -714,7 +714,7 @@
     <string name="wednesday">수요일</string>
     <string name="wednesday_short">수</string>
     <string name="xiaomi_mobile">Mi 모바일</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 응용 프로그램 관리에서 다운로드 관리자 상태를 확인하세요.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 앱 관리에서 다운로드 관리자 상태를 확인하세요.</string>
     <string name="xiaomi_update_sdk_dialog_message">"버전 %1$s 크기 소개 : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$sDelta 업데이트 크기 소개 : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>

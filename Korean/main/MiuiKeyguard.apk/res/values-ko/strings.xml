@@ -23,7 +23,7 @@
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
     <string name="phone_locked_forget_password_suggesstion_one_content"><Data>기기를 끄신 후 &lt;font color=#a5220e>전원 버튼&lt;/font>과 &lt;font color=#a5220e>볼륨 업 버튼&lt;/font>을 Mi 로고가 표시될 때까지 길게 누르세요.;</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font>을 선택하신 후 기기가 다시 시작될 때까지 기다려주세요.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e>\"Wipe &amp;amp; Reset\"&lt;/font>을 선택한 후 기기가 다시 시작될 때까지 기다려주세요.;</Data></string>
     <string name="phone_locked_foget_password_ok">알겠습니다.</string>
     <string name="lockscreen_access_pattern_start">패턴 시작됨</string>
     <string name="lockscreen_access_pattern_cleared">패턴 삭제됨</string>

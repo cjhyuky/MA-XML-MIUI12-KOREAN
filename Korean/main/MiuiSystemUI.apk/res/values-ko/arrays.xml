@@ -159,7 +159,7 @@
         <item>아주 조금 빠르게</item>
         <item>매우 빠르게</item>
         <item>극도로 빠르게</item>
-        <item>제일 빠르게</item>
+        <item>가장 빠르게</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>

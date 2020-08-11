@@ -91,7 +91,7 @@
     <string name="clone_photo_mode_start_hint">사진 촬영을 시작하려면 셔터 버튼을 클릭하세요.</string>
     <string name="clone_preview_no_person">인식할 수 없는 사람, 촬영에 실패했을 수 있습니다.</string>
     <string name="clone_video_mode_start_hint">녹화를 시작하려면 셔터 버튼을 클릭하세요.</string>
-    <string name="only_mimoji_multi_window_mode_not_supported">"이 기능은 분할화면에서 사용할 수 없습니다."</string>
+    <string name="only_mimoji_multi_window_mode_not_supported">"이 기능은 분할 화면에서 사용할 수 없습니다."</string>
     <string name="music_hint_tt">서비스 소스</string>
     <string name="mimoji_gif_record_time_short">녹화된 영상이 너무 짧습니다.</string>
     <string name="pro_color_mode">프로 컬러 모드</string>

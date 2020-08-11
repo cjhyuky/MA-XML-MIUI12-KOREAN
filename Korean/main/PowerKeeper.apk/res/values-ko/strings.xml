@@ -41,7 +41,7 @@
     <string name="extreme_add_white_list_title">백그라운드 예외</string>
     <string name="extreme_mode_max_item_alert">익스트림 모드에서 백그라운드로 실행할 앱을 4개까지만 선택할 수 있습니다.</string>
     <string name="extreme_power_config_mode_category">최대 절약 모드</string>
-    <string name="extreme_power_config_mode_desc">&lt;li&gt;\"배터리 세이버는 앱을 끄고 홈 화면으로 돌아간 후 앱의 모든 백그라운드 활동을 중지합니다. 이 앱은 알림을 보내거나 업데이트를 받지 않습니다.\"&lt;/li&gt;\"\n\"&lt;li&gt;앱을 백그라운드에서 실행하려면 최근앱 목록에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하세요. 배터리 세이버가 켜져 있으면 최대 4개의 앱만을 백그라운드에서 실행할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 세이버 기능은 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 30%이상 충전되면 자동으로 배터리 세이버 기능은 꺼지고 기기의 모든 기능을 정상적으로 사용할 수 있습니다.&lt;/li&gt;</string>
+    <string name="extreme_power_config_mode_desc">&lt;li&gt;\"배터리 세이버는 앱을 끄고 홈 화면으로 돌아간 후 앱의 모든 백그라운드 활동을 중지합니다. 이 앱은 알림을 보내거나 업데이트를 받지 않습니다.\"&lt;/li&gt;\"\n\"&lt;li&gt;앱을 백그라운드에서 실행하려면 최근 앱 목록에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하세요. 배터리 세이버가 켜져 있으면 최대 4개의 앱만을 백그라운드에서 실행할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 세이버 기능은 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 30%이상 충전되면 자동으로 배터리 세이버 기능은 꺼지고 기기의 모든 기능을 정상적으로 사용할 수 있습니다.&lt;/li&gt;</string>
     <string name="extreme_power_config_mode_summary">배터리 세이버는 백그라운드 작업을 제한하고 동기화를 중지합니다.</string>
     <string name="extreme_power_config_mode_title">최대 절약 모드</string>
     <string name="extreme_power_settings_title">설정</string>

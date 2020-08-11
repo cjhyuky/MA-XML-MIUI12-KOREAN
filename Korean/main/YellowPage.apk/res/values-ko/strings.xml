@@ -149,7 +149,7 @@
     <string name="turn_off_phone_event_hint">끄신 후에는 알 수 없는 번호에 대한 표기 정보를 볼 수 없습니다.</string>
     <string name="turn_off_smart_antispam_hint">끄신 후에는 알 수 없는 번호의 수신 통화 표기 정보를 볼 수 없습니다.</string>
     <string name="about_phone_event">서비스 메시지에 관하여</string>
-    <string name="phone_event_setting_notice_text">이 기능을 사용하시면 저희의 %1$s와(과) %2$s에 동의하신것으로 간주됩니다.</string>
+    <string name="phone_event_setting_notice_text">이 기능을 사용하시면 저희의 %1$s와(과) %2$s에 동의한 것으로 간주됩니다.</string>
     <string name="phone_event_setting_notice_text_with_contacts_permission">이 기능을 사용하시면 귀하는 저희의 %1$s과 %2$s에 동의하시는 것이며, 귀하의 연락처 접근이 요구됩니다.</string>
     <string name="agree_to_turn_on">동의</string>
     <string name="payment_back">뒤로</string>
@@ -249,7 +249,7 @@
     <string name="express_sender_info">보낸 사람 정보</string>
     <string name="express_addressee_info">받는 사람 정보</string>
     <string name="express_add_new_address">주소 추가</string>
-    <string name="express_preview_order">미리 보기</string>
+    <string name="express_preview_order">미리보기</string>
     <string name="express_view_order">주문 보기</string>
     <string name="express_submit_order">제출</string>
     <string name="express_go_back">뒤로 가기</string>
@@ -322,10 +322,10 @@
     <string name="express_send_mms_format">%1$s로 발송함 | 운송장 번호: %2$s</string>
     <string name="express_copied">배송 추적 번호 복사됨</string>
     <string name="more_express_numbers">더 많은 택배 번호</string>
-    <string name="add_to_desktop">데스크톱에 추가</string>
+    <string name="add_to_desktop">데스크탑에 추가</string>
     <string name="express_shortcut_name">택배 발송 확인</string>
     <string name="remind_user_suspect_number_title">의심스러운 번호</string>
-    <string name="remind_user_suspect_number_message">주의: 항상 전화한 사람의 신원을 확인하신 후 개인정보를 공유하세요.</string>
+    <string name="remind_user_suspect_number_message">주의: 항상 전화한 사람의 신원을 확인한 후 개인정보를 공유하세요.</string>
     <string name="remind_another_time">다시 표시하지 않기</string>
     <string name="remind_user_confirm">확인</string>
     <string name="balance_inquiry_title">잔액 조회</string>

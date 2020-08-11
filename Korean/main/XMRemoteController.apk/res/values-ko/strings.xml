@@ -597,7 +597,7 @@
     <string name="share">공유</string>
     <string name="share_action_cancel">취소</string>
     <string name="share_action_confirm">전송</string>
-    <string name="share_address_desc">실제 위치는 근처에 있는 사람들이 공유하신 리모컨을 볼 수 있게 도와줄 것입니다.</string>
+    <string name="share_address_desc">실제 위치는 근처에 있는 사람들이 공유한 리모컨을 볼 수 있게 도와줄 것입니다.</string>
     <string name="share_address_hint">실제 위치 입력</string>
     <string name="share_address_title">실제 위치 (권장됨)</string>
     <string name="share_app_category">"카테고리: "</string>
@@ -647,7 +647,7 @@
     <string name="share_title_to_mitalk_ellipsis">…</string>
     <string name="share_title_to_sina_weibo">Sina Weibo를 이용하여 공유</string>
     <string name="share_to_others">공유</string>
-    <string name="sharerc_tips">이 리모컨을 공유하신 후에는 주변에 있는 사람들도 이용이 가능해질 것입니다.</string>
+    <string name="sharerc_tips">이 리모컨을 공유한 후에는 주변에 있는 사람들도 이용이 가능해질 것입니다.</string>
     <string name="shortcut_pop_desc">Mi 리모트를 자주 사용하는것으로 보입니다. 홈 화면에 바로 가기를 생성하시겠습니까?</string>
     <string name="shortcut_pop_title">바로 가기</string>
     <string name="show_remote_when_lock_screen">잠금 화면에 컨트롤 표시</string>

@@ -9,7 +9,7 @@
     <string name="mibi_license">Mi 크레딧 이용 약관</string>
     <string name="license_host_unreachable">"네트워크 연결 실패, 이 정보를 바로 확인하려면
 다른 기기로 %s을 방문하세요."</string>
-    <string name="permdesc_accessDrm">앱의 DRM-protected 콘텐츠 접근 허용</string>
+    <string name="permdesc_accessDrm">앱의 DRM 보호 컨텐츠 접근 허용</string>
     <string name="open_wifi_connect_title">%1$s에 연결됨</string>
     <string name="open_wifi_connect_summary">탭하여 세부사항 보기</string>
     <string name="settings_license_activity_title">오픈 소스 라이센스</string>
@@ -26,9 +26,9 @@
     <string name="settings_ad_loading_unavailable">정보를 불러오지 못했습니다.</string>
     <string name="autoconnect">자동연결</string>
     <string name="open_wifi_connect_and_use_data_summary">모바일 데이터 사용중. 탭하여 Wi-Fi로 전환하세요.</string>
-    <string name="poco_privacy_policy">POCO 런쳐 개인정보 보호 정책 &amp; POCO 런쳐 사용자 동의</string>
-    <string name="poco_launcher_privacy_policy">POCO 런쳐 개인정보 보호정책</string>
-    <string name="poco_launcher_user_agreement">POCO 런쳐 사용자 약관</string>
+    <string name="poco_privacy_policy">POCO 런처 개인정보 보호 정책 &amp; POCO 런처 사용자 동의</string>
+    <string name="poco_launcher_privacy_policy">POCO 런처 개인정보 보호정책</string>
+    <string name="poco_launcher_user_agreement">POCO 런처 사용자 약관</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>

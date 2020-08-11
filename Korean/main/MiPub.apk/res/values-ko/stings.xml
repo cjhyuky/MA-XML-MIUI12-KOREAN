@@ -122,7 +122,7 @@
     <string name="pref_advanced_settings_title">추가 설정</string>
     <string name="pref_edit_smsc_address">짧은 메시지 서비스 센터 (SMSC)</string>
     <string name="pref_title_allow_si_sl_push">WAP 푸시 메시지 허용 (SI/SL)</string>
-    <string name="pref_summary_allow_si_sl_push">메시지가 웹 사이트에서 콘텐츠를 로드하도록 허용</string>
+    <string name="pref_summary_allow_si_sl_push">메시지가 웹 사이트에서 컨텐츠를 불러오도록 허용</string>
     <string name="pref_title_show_recent_contacts">최근 연락처 보기</string>
     <string name="pref_summary_show_recent_contacts">새 텍스트 작성시 최근 연락처 표시</string>
     <string name="pref_title_hide_festival">중국어 숨기기</string>

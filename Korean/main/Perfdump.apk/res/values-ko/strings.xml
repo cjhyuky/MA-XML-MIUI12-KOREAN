@@ -7,7 +7,7 @@
     <string name="action_other_log_setting">기타 로그 설정</string>
     <string name="action_trace_setting">Systrace 설정</string>
     <string name="am">활동 관리자</string>
-    <string name="app">응용 프로그램</string>
+    <string name="app">앱</string>
     <string name="atrace_dump">Systrace 덤프</string>
     <string name="atrace_start">Systrace 시작</string>
     <string name="audio">오디오</string>

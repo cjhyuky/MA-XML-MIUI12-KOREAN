@@ -669,7 +669,7 @@
     <string name="contact_detail_miprofile_accept_success_toast">연락처 카드 교환함</string>
     <string name="contact_detail_miprofile_accept_fail_toast">연락처 카드를 교환하지 못했습니다.</string>
     <string name="add_incall_show_entry">동영상 추가</string>
-    <string name="preview_incall_show_entry">동영상 미리 보기</string>
+    <string name="preview_incall_show_entry">동영상 미리보기</string>
     <string name="play_incall_show_entry">동영상 재생</string>
     <string name="add_display_photo_entry">프로필 사진 추가</string>
     <string name="play_add_incall_show_entry">재생 또는 동영상 추가</string>
@@ -704,7 +704,7 @@
     <string name="miprofile_alertdialog_title">이름 입력</string>
     <string name="miprofile_alertdialog_message">카드 교환 요청 시 연락처에 이 이름을 보이게 하세요.</string>
     <string name="miprofile_alertdialog_edit">이름 입력</string>
-    <string name="miprofile_switch_off_alertdialog_message">끄신 후에는 더이상 다른 사용자와 연락처 카드를 교환하실 수 없습니다.</string>
+    <string name="miprofile_switch_off_alertdialog_message">끄신 후에는 더 이상 다른 사용자와 연락처 카드를 교환하실 수 없습니다.</string>
     <string name="miprofile_bind_account_alertdialog_title">전화번호 추가</string>
     <string name="miprofile_bind_account_alertdialog_message">이 기능을 사용하려면 귀하의 Mi 계정에 기기의 전화번호를 추가해야 합니다.</string>
     <string name="miprofile_bind_account_alertdialog_positive">번호 추가</string>
@@ -1092,7 +1092,7 @@
 3. Tap \"다음\"을 탭하시고 연락처에 요구된 권한을 부여하세요."</string>
     <string name="device_transfer_by_sim_message">"\"1. 다른 기기의 연락처를 SIM 카드에 저장하세요; 
 
-2. 설정의 연락처에서 \"가져오기/연락처 내보내기\" -- \"SIM 카드에서 가져오기\"로 이동하시고 SIM 연락처를 길게눌러 선택하신 후 \"가져오기\"를 탭하세요."</string>
+2. 설정의 연락처에서 \"가져오기/연락처 내보내기\" -- \"SIM 카드에서 가져오기\"로 이동하시고 SIM 연락처를 길게눌러 선택한 후 \"가져오기\"를 탭하세요."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Weibo 연락쳐 가져오기</string>
     <string name="import_weibo_fetch_followers">연락처 페치 중…</string>
@@ -1357,7 +1357,7 @@
     <string name="import_from_other_device">다른 기기에서 불러오기</string>
     <string name="contact_detail_entry_pay_request">금전 요구</string>
     <string name="no_setting_menu">사용 가능한 메뉴 옵션 없음</string>
-    <string name="preference_show_firewall_calllog">통화기록에서 차단된 통화 표시</string>
+    <string name="preference_show_firewall_calllog">통화 기록에서 차단된 통화 표시</string>
     <string name="toast_call_no_SoundRecorder">녹음기 앱을 사용할 수 없음</string>
     <string name="toast_call_no_notes">메모 앱을 사용할 수 없음</string>
     <string name="preference_privacy_policy_title">개인정보 보호정책</string>
@@ -1369,7 +1369,7 @@
     <string name="description_image_button_sim2_named_dial">SIM2 %s으로 통화</string>
     <string name="account_dual_sim">SIM 카드 %s</string>
     <string name="confirm_call_log_dial_summary">실수로 전화를 걸지 않도록 통화 기록에서 전화를 걸기 전에 확인을 요청합니다.</string>
-    <string name="confirm_call_log_dial_title">통화기록에서 바로 통화연결여부 확인</string>
+    <string name="confirm_call_log_dial_title">통화 기록에서 바로 통화연결여부 확인</string>
     <string name="contact_is_deleted">연락처가 삭제되었습니다.</string>
     <string name="shortcut_new_contact_label">새로운 연락처</string>
     <string name="shortcut_scan_label">명함 스캔</string>

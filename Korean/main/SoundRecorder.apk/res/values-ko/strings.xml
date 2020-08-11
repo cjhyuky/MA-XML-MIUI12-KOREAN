@@ -163,7 +163,7 @@
     <string name="record_format_preference_title">녹음 포맷</string>
     <string name="alert_message_delete_local_record">이 녹음을 지우시겠습니까?</string>
     <string name="korea_permission_phone">통화</string>
-    <string name="korea_permission_phone_resc">기기 상태 접근 권한과 통화중 녹음기능 권한</string>
+    <string name="korea_permission_phone_resc">기기 상태 접근 권한과 통화 중 녹음기능 권한</string>
     <string name="korea_permission_record">마이크 권한</string>
     <string name="korea_permission_record_resc">음성 녹음</string>
     <string name="korea_permission_storage">저장공간</string>

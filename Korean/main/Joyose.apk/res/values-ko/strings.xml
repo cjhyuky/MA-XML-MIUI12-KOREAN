@@ -16,7 +16,7 @@
     <string name="lab_switch_server">스위치 서버</string>
     <string name="not_support_forbidden_fakecell">"기기는 가짜 기지국에서 칩 레벨 보호를 지원하지 않습니다."</string>
     <string name="open_cta">설정에서 보안 앱을 열고 \"인터넷 연결 허용\"</string>
-    <string name="permstep_description">"응용 프로그램이 휴대전화의 단계 정보를 읽도록 허용"</string>
+    <string name="permstep_description">"앱이 휴대전화의 단계 정보를 읽도록 허용"</string>
     <string name="permstep_label">읽기 단계</string>
     <string name="restart_details">이 기능을 켜거나 끄려면 기기를 다시 시작해야 합니다. 지금 다시 시작하시겠습니까?</string>
     <string name="restart_later">나중에</string>

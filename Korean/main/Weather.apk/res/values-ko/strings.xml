@@ -209,7 +209,7 @@
     <string name="your_location">사용자의 위치</string>
     <string name="update_setting_title_text">날씨 정보 업데이트</string>
     <string name="update_night_setting_title_text">밤에 자동으로 날씨 정보 업데이트하기</string>
-    <string name="update_night_setting_summary_text">오후 11시~익일 오전 7시 사이에 날씨 정보를 자동으로 업데이트합니다.</string>
+    <string name="update_night_setting_summary_text">오후 11시에서 다음 날 오전 7시 사이에 날씨 정보를 자동으로 업데이트합니다.</string>
     <string name="unit">단위</string>
     <string name="information_set">기타 설정</string>
     <string name="other">기타</string>
@@ -379,7 +379,7 @@
     <string name="manager_city_option_add_city_title">추가 완료</string>
     <string name="manager_city_option_add_home">시작 페이지에 추가</string>
     <string name="manager_city_option_view_on_home">시작 페이지에서 보기</string>
-    <string name="dislike_alert_dialog_title">이 콘텐츠의 어떤 부분이 싫으신가요?</string>
+    <string name="dislike_alert_dialog_title">이 컨텐츠의 어떤 부분이 싫으신가요?</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
     <string name="miuix_sbl_trackin g_progress_labe_refreshing">새로고침…</string>

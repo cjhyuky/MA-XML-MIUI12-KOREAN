@@ -305,7 +305,7 @@
     <string name="confirm_activate_email">인증됨</string>
     <string name="resend_email_success">이메일 재전송됨</string>
     <string name="resend_email_reach_limit_title">이메일을 보낼 수 없음</string>
-    <string name="resend_email_reach_limit_message">요청하신 인증 이메일이 너무 많습니다. 인증 이메일이 스팸 폴더로 이동되지는 않았는지 확인하세요.</string>
+    <string name="resend_email_reach_limit_message">요청한 인증 이메일이 너무 많습니다. 인증 이메일이 스팸 폴더로 이동되지는 않았는지 확인하세요.</string>
     <string name="update_email_address_dialog_title">이메일 업데이트</string>
     <string name="update_email_address_dialog_message">업데이트하기 전 신분 인증이 요구됩니다.</string>
     <string name="account_user_details">개인정보</string>
@@ -328,7 +328,7 @@
     <string name="other_devices_title">다른 기기</string>
     <string name="remove_trust_notice">신뢰하는 기기에서 제거 및 로그아웃</string>
     <string name="remove_trust_btn">신뢰하는 기기에서 제거</string>
-    <string name="delete_device_notice">기기가 제거되면 자동으로 Mi 계정에서 로그아웃됩니다. 기기에서 계정에 저장된 사진, 메시지, 또는 다른 콘텐츠에 접근할 수 없습니다.</string>
+    <string name="delete_device_notice">기기가 제거되면 자동으로 Mi 계정에서 로그아웃됩니다. 기기에서 계정에 저장된 사진, 메시지, 또는 다른 컨텐츠에 접근할 수 없습니다.</string>
     <string name="delete_device_btn">제거</string>
     <string name="phone_activated">%s 활성화됨</string>
     <string name="no_sim_card_or_unactivated">SIM 카드가 장착되지 않았거나 활성화되지 않음</string>
@@ -353,7 +353,7 @@
     <string name="find_device_interrupted">작업 중단됨, 1분에서 2분정도 기다리신 후 다시 시도하세요.</string>
     <string name="find_device_operation_failed_error">서버 오류 발생, 1분에서 2분정도 기다리신 후 다시 시도하세요.</string>
     <string name="find_device_unknown_error">기기 상태를 가져올 수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도하여 주세요.</string>
-    <string name="find_device_error_password_recently_changed">최근 3일 내에 비밀번호를 변경하신 기록이 있습니다. 보안상의 이유로 지금은 기기 찾기를 끄실 수 없습니다.</string>
+    <string name="find_device_error_password_recently_changed">최근 3일 내에 비밀번호를 변경한 기록이 있습니다. 보안상의 이유로 지금은 기기 찾기를 끄실 수 없습니다.</string>
     <string name="find_device_error_password_not_confirmed">기기 찾기를 끄실 수 없습니다. Mi 계정 비밀번호를 다시 입력하세요.</string>
     <string name="find_device_operation_failed_error_unknown">오류가 발생하였습니다. 나중에 다시 시도하세요.</string>
     <string name="find_device_remote_exception">RPC 오류</string>
@@ -370,15 +370,15 @@
     <string name="verified_devices">인증된 기기</string>
     <string name="verified_apps">인증된 앱</string>
     <string name="trusted_browsers">신뢰하는 브라우저</string>
-    <string name="trusted_browsers_prompt">쿠키를 삭제하시면 브라우저가 더이상 신뢰되지 않을 것입니다.</string>
+    <string name="trusted_browsers_prompt">쿠키를 삭제하면 브라우저가 더 이상 신뢰되지 않을 것입니다.</string>
     <string name="first_login_time">처음 로그인 시도: %s</string>
     <string name="local_device">(이 기기)</string>
     <string name="delete_device">기기 삭제</string>
     <string name="delete_app">앱 삭제</string>
     <string name="delete_browser">브라우저 삭제</string>
-    <string name="confirm_delete_device_message">이 기기를 삭제하신 후 Mi 계정</string>
-    <string name="confirm_delete_app_message">이 앱의 기록을 삭제하신 후 Mi 계정으로 다시 로그인하려면 전화번호 인증을 해야 합니다.</string>
-    <string name="confirm_delete_browser_message">이 브라우저를 삭제하신 후 Mi 계정으로 다시 로그인하려면 전화번호 인증을 해야 합니다.</string>
+    <string name="confirm_delete_device_message">이 기기를 삭제한 후 Mi 계정</string>
+    <string name="confirm_delete_app_message">이 앱의 기록을 삭제한 후 Mi 계정으로 다시 로그인하려면 전화번호 인증을 해야 합니다.</string>
+    <string name="confirm_delete_browser_message">이 브라우저를 삭제한 후 Mi 계정으로 다시 로그인하려면 전화번호 인증을 해야 합니다.</string>
     <string name="delete_lock_device_success">삭제 성공</string>
     <string name="verify_phone_title">전화번호 인증</string>
     <string name="verify_phone_prompt">전화번호 선택하여 인증</string>
@@ -456,7 +456,7 @@
     <string name="update_phone_notice">보안 설정 변경</string>
     <string name="vip_settings_info">VIP 설정</string>
     <string name="account_global_region">해외</string>
-    <string name="account_error_user_name">입력하신 사용자명이 잘못되었습니다.</string>
+    <string name="account_error_user_name">입력한 사용자명이 잘못되었습니다.</string>
     <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi 계정이 이미 연결되어있습니다. 귀하의 계정인가요?"</string>
     <string name="passport_get_innetdate_agree">확인</string>
     <string name="passport_get_innetdate_disagree">아니오</string>
@@ -470,7 +470,7 @@
     <string name="passport_sms_verification_code_login">SMS 인증 코드 로그인</string>
     <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
     <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
-    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증 코드, 세컨드 스페이스 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 취급 방침을 참조하세요.</string>
+    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증 코드, 보조 공간 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 취급 방침을 참조하세요.</string>
     <string name="passport_talkback_image_captcha">이미지 인증 코드</string>
     <string name="passport_talkback_switch_image_captcha">이미지 인증 코드로 전환</string>
     <string name="passport_talkback_switch_voice_captcha">음성 인증 코드로 전환</string>
@@ -484,7 +484,7 @@
     <string name="passport_license_info_open">세부사항</string>
     <string name="passport_new_user_register">계정 생성</string>
     <string name="passport_register_using_other_ways">다른 방법으로 등록</string>
-    <string name="passport_wrong_voice">입력하신 코드가 맞지 않습니다.</string>
+    <string name="passport_wrong_voice">입력한 코드가 맞지 않습니다.</string>
     <string name="account_invalid_user_avatar">이 사진은 유효하지 않습니다. 다른 사진으로 시도해보세요.</string>
     <string name="passport_input_phone_password">%s 휴대전화를 위한 비밀번호를 입력하세요.</string>
     <string name="passport_international_register_by_email">이메일 주소로 계정 생성</string>

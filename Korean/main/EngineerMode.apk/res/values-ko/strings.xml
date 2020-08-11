@@ -817,7 +817,7 @@
     <string name="New_MSDC">MSDC</string>
     <string name="PMU">PMU</string>
     <string name="Root">루팅</string>
-    <string name="RxAccessCode">엑세스 코드</string>
+    <string name="RxAccessCode">액세스 코드</string>
     <string name="RxDataLength">데이터 길이 : </string>
     <string name="RxFrequency">Rx 주파수 : </string>
     <string name="RxPacketType">포켓 유형 : </string>

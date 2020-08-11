@@ -207,7 +207,7 @@
     <string name="storage_phone">내부 저장소</string>
     <string name="hdmi_replace_mhl">MHL</string>
     <string name="permdesc_bindTerminal">"이 권한이 있는 앱은 시스템의 OMAPI 터미널에 바인딩 할 수 있습니다. SmartcardService만 이 권한을 사용해야 합니다."</string>
-    <string name="permdesc_systemTerminal">이 권한이있는 응용 프로그램은 시스템의 OMAPI 터미널임을 나타냅니다.</string>
+    <string name="permdesc_systemTerminal">이 권한이있는 앱은 시스템의 OMAPI 터미널임을 나타냅니다.</string>
     <string name="permlab_bindTerminal">OMAPI 터미널 바인딩</string>
     <string name="permlab_systemTerminal">OMAPI 시스템 터미널</string>
     <string name="aerr_application_permission">\"%1$s\" 앱이 %2$s 권한 획득에 실패했습니다. 허용하시겠습니까?</string>

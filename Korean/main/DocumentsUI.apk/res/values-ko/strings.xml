@@ -92,9 +92,9 @@
     <string name="no_results">%1$s와 일치하는 항목이 없습니다.</string>
     <string name="notification_copy_files_converted_title">일부 파일만 변환되었습니다.</string>
     <string name="notification_touch_for_details">탭하여 보기</string>
-    <string name="open_external_dialog_request"><b>^1</b> 의 엑세스 권한을 <i>^2</i> 에게 <i>^3</i> 허용합니까?</string>
+    <string name="open_external_dialog_request"><b>^1</b> 의 액세스 권한을 <i>^2</i> 에게 <i>^3</i> 허용합니까?</string>
     <string name="open_external_dialog_request_primary_volume"><b>^1</b>의 접근 권한을 <i>^2</i> 에게 허용합니까?</string>
-    <string name="open_external_dialog_root_request"><b>^1</b> 에게 <i>^2</i>의 엑세스 권한을 허용합니까?</string>
+    <string name="open_external_dialog_root_request"><b>^1</b> 에게 <i>^2</i>의 액세스 권한을 허용합니까?</string>
     <string name="rename_error">파일 이름 변경 실패</string>
     <string name="too_many_in_select_all">최대 1000개까지만 선택 가능</string>
     <string name="too_many_selected">한 번에 최대 1000개까지만 선택하실 수 있습니다.</string>

@@ -265,7 +265,7 @@
     <string name="priority_storage">외부 SD 카드에 저장</string>
     <string name="priority_storage_summary">"설치 시 SD 카드에 파일을 저장합니다."</string>
     <string name="products_info_error">"주문 정보를 가져올 수 없습니다. 다시 시도하세요."</string>
-    <string name="provid_online_server">온라인 콘텐츠를 시청하려면 켜세요.</string>
+    <string name="provid_online_server">온라인 컨텐츠를 시청하려면 켜세요.</string>
     <string name="pull_to_refresh_from_bottom_pull_label">새로고침하려면 위로 당기세요…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">잠시만 기다려주세요…</string>
     <string name="pull_to_refresh_from_bottom_release_label">새로고침하려면 놓으세요…</string>
@@ -282,7 +282,7 @@
     <string name="receive_mipush_summary">인기있는 동영상에 대한 알림을 수신하도록 설정합니다.</string>
     <string name="reload_sub_title">다시 시도하려면 탭하세요.</string>
     <string name="reload_title">"네트워크에 연결할 수 없습니다."</string>
-    <string name="replay">다시보기</string>
+    <string name="replay">다시 보기</string>
     <string name="score">평점</string>
     <string name="search_hint">영화, 배우, 카테고리 검색…</string>
     <string name="search_settings">동영상;동영상 설정;모바일 데이터;푸시;푸시 알림;알림;사용자 경험;사용자 경험;Wi-Fi;Wi-Fi</string>
@@ -295,7 +295,7 @@
     <string name="share_device_video">영상 공유</string>
     <string name="share_to_other">공유하기</string>
     <string name="show_source_select">공급자 옵션</string>
-    <string name="show_source_select_desc">콘텐츠 제공 업체를 선택할 수 있도록 설정</string>
+    <string name="show_source_select_desc">컨텐츠 제공 업체를 선택할 수 있도록 설정</string>
     <string name="single_pay">단일 품목 구입</string>
     <string name="source_ad_after_play">%1$s (Ep. %2$s) 영상을 재생합니다.</string>
     <string name="source_ad_count_down">"광고: %1$ds | "</string>
@@ -348,7 +348,7 @@
     <string name="v_canceled">취소됨</string>
     <string name="v_category">카테고리</string>
     <string name="v_clause_info">1. Sohu TV, iQiyi 및 기타 컨텐츠 제공 업체가 제공하는 온라인 서비스를 사용하려면 먼저 우리의<a href="https://a.video.xiaomi.com/mvideo/user_agreement.html">사용자 동의</a> 와 <a href="https://privacy.mi.com/all/">개인정보 보호정책</a>을 읽고 동의해야 합니다.".
-2. 우리는 사용자의 장치에 대한 정보와 Mi 동영상 사용 방법을 수집 할 것입니다. 콘텐츠 제공 업체가 기기 ID를 수집합니다.
+2. 우리는 사용자의 장치에 대한 정보와 Mi 동영상 사용 방법을 수집 할 것입니다. 컨텐츠 제공 업체가 기기 ID를 수집합니다.
 3. Mi 동영상이 정상적으로 작동하려면 네트워크에 연결되어 있어야 합니다.
 4. 동영상을 스트리밍하려면 Mi 동영상에서 HD 동영상 플러그인을 다운로드하여 설치해야 합니다."</string>
     <string name="v_clause_notips">"다시보지않기"</string>
@@ -517,7 +517,7 @@
     <string name="vp_mobile_network_using_warning_new">"모바일 데이터를 사용하고 있습니다. 동영상 시청은 많은 데이터를 소모합니다."</string>
     <string name="vp_more_show_video">광고 보기</string>
     <string name="vp_mplayer_error_io">IO 오퍼레이션 에러</string>
-    <string name="vp_mplayer_error_malformed">멜웨어성 미디어 콘텐츠</string>
+    <string name="vp_mplayer_error_malformed">멜웨어성 미디어 컨텐츠</string>
     <string name="vp_mplayer_error_server_died">미디어 서버 다운</string>
     <string name="vp_mplayer_error_timed_out">시간 초과</string>
     <string name="vp_newest_ep">새</string>
@@ -558,7 +558,7 @@
     <string name="vp_using_4_3">강제 4:3</string>
     <string name="vp_video_bad_network_condition">인터넷 연결 상태가 좋지 않습니다. 나중에 다시 시도하세요.</string>
     <string name="vp_video_create_video_error_info">"플러그인을 초기화 할 수 없습니다. 잠시후 다시 시도하세요."</string>
-    <string name="vp_video_invalid_cp_info">콘텐츠 제공 업체 정보가 유효하지 않습니다. 앱을 다시 시작하세요.</string>
+    <string name="vp_video_invalid_cp_info">컨텐츠 제공 업체 정보가 유효하지 않습니다. 앱을 다시 시작하세요.</string>
     <string name="vp_video_loading"><CDATA>잠시만 기다려주세요…</CDATA></string>
     <string name="vp_video_plugin_installation">%1$s 설치 중…</string>
     <string name="common_agree">동의</string>
@@ -961,7 +961,7 @@
     <string name="episode_play_complete">이 에피소드 재생을 마쳤습니다.</string>
     <string name="follower_count">팔로워</string>
     <string name="gallery_video_adjust_hint">960fps 영상만 지원합니다.</string>
-    <string name="no_more_data">"더이상 없습니다."</string>
+    <string name="no_more_data">"더 이상 없습니다."</string>
     <string name="no_works">"아직 아무것도 게시하지 않았습니다."</string>
     <string name="play_now">재생</string>
     <string name="recently_watch">재생 기록</string>
@@ -976,7 +976,7 @@
     <string name="small_video_guide_click_heart">두 번 탭하면 좋아요 처리됩니다.</string>
     <string name="small_video_guide_slide_left_right">이 계정에서 더 많은 동영상보기</string>
     <string name="small_video_guide_slide_top_bottom">더 많이 보려면 스와이프</string>
-    <string name="small_video_last_video_tip">"더이상 없습니다."</string>
+    <string name="small_video_last_video_tip">"더 이상 없습니다."</string>
     <string name="small_video_no_interested">관심 없음</string>
     <string name="small_video_no_interested_msg">이러한 영상이 표시되는것을 줄이시려면 탭하세요.</string>
     <string name="small_video_no_interested_success">이러한 영상이 표시되는것이 줄어듭니다.</string>
@@ -1009,7 +1009,7 @@
     <string name="close_sub_comments">숨기기</string>
     <string name="copy">복사</string>
     <string name="delete">삭제</string>
-    <string name="have_no_more_comments">더이상 없습니다.</string>
+    <string name="have_no_more_comments">더 이상 없습니다.</string>
     <string name="just_now">방금</string>
     <string name="menu_item_enable_auto_change_resolution">자동 해상도 조정</string>
     <string name="new_app_update_button_text">지금 업데이트</string>

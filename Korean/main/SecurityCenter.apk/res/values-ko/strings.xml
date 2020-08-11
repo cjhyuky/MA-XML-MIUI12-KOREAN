@@ -43,35 +43,35 @@
     <string name="permission_action_tag">개인정보 보호정책</string>
     <string name="permission_action_virtual">빈 메시지 반환</string>
     <string name="permission_upgrade_more">추가 개인정보 보호기능</string>
-    <string name="permission_upgrade_privacy_title">"오디오를 녹음하고 연락처에 액세스할 수 있는 권한에는 이제 해당 앱을 사용하는 동안에 만 권한을 부여 할 수 있는 옵션이 있습니다. 개인정보의 개인정보를 보호하기 위해 앱은 '    백그라운드에서 이러한 작업을 수행하지 마세요."</string>
+    <string name="permission_upgrade_privacy_title">"오디오를 녹음하고 연락처에 액세스할 수 있는 권한에는 이제 해당 앱을 사용하는 동안에만 권한을 부여 할 수 있는 옵션이 있습니다. 개인정보의 개인정보를 보호하기 위해 앱은 '    백그라운드에서 이러한 작업을 수행하지 마세요."</string>
     <string name="permission_upgrade_runtime">"현재 위치에 액세스하거나 사진을 찍을 수 있는 권한에는 이러한 권한을 한 번만 부여 할 수 있는 옵션이 있습니다. 개인정보의 프라이버시를 보호하기 위해 이러한 조치는 수행 된 후에 수행되지 않습니다. 다음에 관련 기능을 사용할 때 다시 권한을 요청하는 메시지가 표시됩니다."</string>
     <string name="permission_upgrade_title">업그레이드된 권한 관리</string>
     <string name="permission_upgrade_virtual">"앱이 연락처 또는 통화 기록에 액세스하지 못하게하려면 해당 권한을 부여 할 때 \"빈 메시지 반환\"을 선택할 수 있습니다."</string>
-     <string name="app_behavior_key_audio">녹음</string>
-     <string name="app_behavior_key_camera">사진 찍기</string>
-     <string name="app_behavior_key_location">위치</string>
-     <string name="app_behavior_key_protect">개인정보 보호정책</string>
-     <string name="app_behavior_notification_audio_now_one">\"%1s\"기록</string>
-     <string name="app_behavior_notification_audio_now_two">\"%1s\"기록</string>
-     <string name="app_behavior_notification_camera_one">\"%1s\" 앱이 사진을 찍고 있습니다.</string>
-     <string name="app_behavior_notification_camera_two">\"%1s\" 앱이 사진을 찍고 있습니다.</string>
-     <string name="app_behavior_notification_location_one">\"%1s\" 앱이 위치 정보 얻었습니다.</string>
-     <string name="app_behavior_notification_location_two">\"%1s\" 앱이 위치 정보 얻었습니다.</string>
-     <string name="app_behavior_settings_category_perm">권한 사용 알림</string>
-     <string name="app_behavior_settings_category_privacy">개인정보 보호정책</string>
-     <string name="app_behavior_settings_perm_tips">앱이 위치, 녹화 및 사진 권한을 사용하는 경우 해당 권한 프롬프트가 상태 표시줄에 표시됩니다.</string>
-     <string name="app_behavior_settings_privacy_tips">앱이 연락처, 통화 기록 및 기타 정보를 백그라운드에서 읽거나 쓰는 경우 알림 메시지가 백그라운드로 전송됩니다.</string>
-     <string name="app_behavior_start_from_app_single">%1s 앱으로 시작</string>
-     <string name="app_behavior_start_from_launcher">%1s 데스크탑 아이콘에서 시작</string>
-     <string name="app_behavior_start_from_launcher_single">데스크탑 아이콘에서 시작</string>
-     <string name="app_behavior_start_from_notification">%1s 알림에서 시작</string>
-     <string name="app_behavior_start_from_notification_single">알림에서 시작</string>
-     <string name="app_behavior_start_from_recent">최근 작업에서 시작한 %1s</string>
-     <string name="app_behavior_start_from_recent_single">가장 최근 작업에서 시작</string>
-     <string name="app_behavior_time_today">오늘</string>
-     <string name="app_behavior_time_yesterday">어제</string>
-     <string name="app_perm_manager_service">권한 관리 서비스</string>
-     <string name="notify_channel_name_behavior">행동 내역</string>
+    <string name="app_behavior_key_audio">녹음</string>
+    <string name="app_behavior_key_camera">사진 찍기</string>
+    <string name="app_behavior_key_location">위치</string>
+    <string name="app_behavior_key_protect">개인정보 보호정책</string>
+    <string name="app_behavior_notification_audio_now_one">\"%1s\"기록</string>
+    <string name="app_behavior_notification_audio_now_two">\"%1s\"기록</string>
+    <string name="app_behavior_notification_camera_one">\"%1s\" 앱이 사진을 찍고 있습니다.</string>
+    <string name="app_behavior_notification_camera_two">\"%1s\" 앱이 사진을 찍고 있습니다.</string>
+    <string name="app_behavior_notification_location_one">\"%1s\" 앱이 위치 정보 얻었습니다.</string>
+    <string name="app_behavior_notification_location_two">\"%1s\" 앱이 위치 정보 얻었습니다.</string>
+    <string name="app_behavior_settings_category_perm">권한 사용 알림</string>
+    <string name="app_behavior_settings_category_privacy">개인정보 보호정책</string>
+    <string name="app_behavior_settings_perm_tips">앱이 위치, 녹화 및 사진 권한을 사용하는 경우 해당 권한 프롬프트가 상태 표시줄에 표시됩니다.</string>
+    <string name="app_behavior_settings_privacy_tips">앱이 연락처, 통화 기록 및 기타 정보를 백그라운드에서 읽거나 쓰는 경우 알림 메시지가 백그라운드로 전송됩니다.</string>
+    <string name="app_behavior_start_from_app_single">%1s 앱으로 시작</string>
+    <string name="app_behavior_start_from_launcher">%1s 데스크탑 아이콘에서 시작</string>
+    <string name="app_behavior_start_from_launcher_single">데스크탑 아이콘에서 시작</string>
+    <string name="app_behavior_start_from_notification">%1s 알림에서 시작</string>
+    <string name="app_behavior_start_from_notification_single">알림에서 시작</string>
+    <string name="app_behavior_start_from_recent">최근 작업에서 시작한 %1s</string>
+    <string name="app_behavior_start_from_recent_single">가장 최근 작업에서 시작</string>
+    <string name="app_behavior_time_today">오늘</string>
+    <string name="app_behavior_time_yesterday">어제</string>
+    <string name="app_perm_manager_service">권한 관리 서비스</string>
+    <string name="notify_channel_name_behavior">행동 내역</string>
     <string name="warningcenter_action_check">보기</string>
     <string name="warningcenter_alert_home">위치</string>
     <string name="warningcenter_alert_room">공간</string>
@@ -99,35 +99,49 @@
     <string name="warningcenter_mijia_open_title">스마트 기기에서 알림 받기</string>
     <string name="warningcenter_mijia_page_title">경고</string>
     <string name="warningcenter_mijia_title">스마트 홈 기기의 경고</string>
-    <string name="warningcenter_smarthome">Mi 홈</string>
+    <string name="warningcenter_smarthome">Mi Home</string>
     <string name="warningcenter_title">MIUI 경고 센터</string>
-    <string name="app_behavior_audio_bg_single">이 앱은 백그라운드에서 오디오를 녹음했습니다.</string>
-    <string name="app_behavior_audio_single">이 앱은 오디오를 녹음했습니다.</string>
-    <string name="app_behavior_autostart_single">이 앱은 자동으로 시작되었습니다.</string>
-    <string name="app_behavior_calendar_bg_single">이 앱은 백그라운드에서 캘린더 일정에 액세스했습니다.</string>
-    <string name="app_behavior_calendar_single">이 앱은 캘린더 일정에 액세스했습니다.</string>
-    <string name="app_behavior_calllog_bg_single">이 앱은 백그라운드에서 통화 기록에 액세스했습니다.</string>
-    <string name="app_behavior_calllog_single">이 앱은 통화 기록에 액세스했습니다.</string>
-    <string name="app_behavior_callphone_single">이 앱은 전화를 걸었습니다.</string>
-    <string name="app_behavior_camera_single">이 앱은 사진을 찍거나 동영상을 녹화했습니다.</string>
-    <string name="app_behavior_clipboard_bg_single">이 앱은 백그라운드에서 클립보드에 항목을 액세스하거나 저장했습니다.</string>
-    <string name="app_behavior_clipboard_single">이 앱은 클립보드에 항목을 액세스하거나 저장했습니다.</string>
-    <string name="app_behavior_contacts_bg_single">이 앱은 백그라운드에서 연락처에 액세스했습니다.</string>
-    <string name="app_behavior_contacts_single">이 앱은 연락처에 액세스했습니다.</string>
-    <string name="app_behavior_location_bg_single">이 앱은 백그라운드에서 내 위치에 액세스했습니다.</string>
-    <string name="app_behavior_location_single">이 앱이 사용자 위치에 액세스했습니다.</string>
-    <string name="app_behavior_phonenum_single">이 앱은 전화번호에 액세스했습니다.</string>
-    <string name="app_behavior_phonestate_single">이 앱은 기기 정보에 액세스했습니다.</string>
-    <string name="app_behavior_recognition_single">이 앱은 활동 정보에 액세스했습니다.</string>
-    <string name="app_behavior_sensor_single">이 앱은 센서 데이터에 액세스했습니다.</string>
-    <string name="app_behavior_sms_read_single">이 앱은 SMS를 읽습니다.</string>
-    <string name="app_behavior_sms_send_single">이 앱은 SMS를 보냈습니다.</string>
-    <string name="app_behavior_storage_bg_single">이 앱은 백그라운드에서 파일에 액세스하거나 파일을 저장했습니다.</string>
-    <string name="app_behavior_storage_single">이 앱은 파일에 액세스하거나 파일을 저장했습니다.</string>
-    <string name="app_behavior_wakepath_single">이 앱은 %2s를 시작했습니다.</string>
-    <string name="app_statusbar_audio_now">녹음중</string>
-    <string name="app_statusbar_camera_now">촬영중</string>
-    <string name="app_statusbar_location_now">위치 지정</string>
+    <string name="app_behavior_audio_bg_single">이 앱이 백그라운드에서 오디오를 녹음했습니다.</string>
+    <string name="app_behavior_audio_single">이 앱이 오디오를 녹음했습니다.</string>
+    <string name="app_behavior_autostart_single">이 앱이 자동으로 시작되었습니다.</string>
+    <string name="app_behavior_calendar_bg_single">이 앱이 백그라운드에서 캘린더 일정에 접근했습니다.</string>
+    <string name="app_behavior_calendar_single">이 앱이 캘린더 일정에 접근했습니다.</string>
+    <string name="app_behavior_calllog_bg_single">이 앱이 백그라운드에서 통화 기록에 접근했습니다.</string>
+    <string name="app_behavior_calllog_single">이 앱이 통화 기록에 접근했습니다.</string>
+    <string name="app_behavior_callphone_single">이 앱이 전화를 걸었습니다.</string>
+    <string name="app_behavior_camera_single">이 앱이 사진을 찍거나 동영상을 녹화했습니다.</string>
+    <string name="app_behavior_clipboard_bg_single">이 앱이 백그라운드에서 클립보드에 항목을 액세스하거나 저장했습니다.</string>
+    <string name="app_behavior_clipboard_single">이 앱이 클립보드에 항목을 액세스하거나 저장했습니다.</string>
+    <string name="app_behavior_contacts_bg_single">이 앱이 백그라운드에서 연락처에 접근했습니다.</string>
+    <string name="app_behavior_contacts_single">이 앱이 연락처에 접근했습니다.</string>
+    <string name="app_behavior_location">%1s 앱이 사용자 위치에 접근했습니다.</string>
+    <string name="app_behavior_location_bg">%1s 앱이 백그라운드에서 사용자 위치에 접근했습니다.</string>
+    <string name="app_behavior_location_bg_single">이 앱이 백그라운드에서 사용자 위치에 접근했습니다.</string>
+    <string name="app_behavior_location_single">이 앱이 사용자 위치에 접근했습니다.</string>
+    <string name="app_behavior_phonenum_single">%1s 앱이 전화번호에 접근했습니다.</string>
+    <string name="app_behavior_phonenum_single">이 앱이 전화번호에 접근했습니다.</string>
+    <string name="app_behavior_phonestate_single">%1s 앱이 기기 정보에 접근했습니다.</string>
+    <string name="app_behavior_phonestate_single">이 앱이 기기 정보에 접근했습니다.</string>
+    <string name="app_behavior_recognition_single">이 앱이 활동 정보에 접근했습니다.</string>
+    <string name="app_behavior_search">검색</string>
+    <string name="app_behavior_sensor">%1s 앱이 센서 데이터에 접근했습니다.</string>
+    <string name="app_behavior_sensor_single">이 앱이 센서 데이터에 접근했습니다.</string>
+    <string name="app_behavior_sms_read">%1s 앱이 SMS를 읽었습니다.</string>
+    <string name="app_behavior_sms_read_single">이 앱이 SMS를 읽었습니다.</string>
+    <string name="app_behavior_sms_send">%1s 앱이 SMS를 보냈습니다.</string>
+    <string name="app_behavior_sms_send_single">이 앱이 SMS를 보냈습니다.</string>
+    <string name="app_behavior_storage">%1s 앱이 파일에 접근했거나 파일을 저장했습니다.</string>
+    <string name="app_behavior_storage_bg">%1s 앱이 백그라운드에서 파일에 접근했거나 파일을 저장했습니다.</string>
+    <string name="app_behavior_storage_bg_single">이 앱이 백그라운드에서 파일에 접근했거나 파일을 저장했습니다.</string>
+    <string name="app_behavior_storage_single">이 앱이 파일에 접근했거나 파일을 저장했습니다.</string>
+    <string name="app_behavior_wakepath" formatted="false">%1s 앱이 %2s 앱을 실행했습니다.</string>
+    <string name="app_behavior_wakepath_single">이 앱이 %2s 앱을 실행했습니다.</string>
+    <string name="app_behavior_warning_audio_title">%1s 앱이 백그라운드에서 오디오를 녹음 중입니다.</string>
+    <string name="app_behavior_warning_content">"허용한 적 없다면 이 앱을 중지하세요."</string>
+    <string name="app_behavior_warning_location_title">%1s 앱이 사용자의 위치를 확인 중입니다.</string>
+    <string name="app_statusbar_audio_now">녹음 중</string>
+    <string name="app_statusbar_camera_now">촬영 중</string>
+    <string name="app_statusbar_location_now">위치 확인 중</string>
     <string name="antivirus_monitored_app_empty">"호환 가능한 결제 앱을 찾을 수 없습니다."</string>
     <string name="power_save_ps_close_setting_3">전력 소비량이 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s)</string>
     <string name="power_save_ps_close_setting_4">전력 소비가 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s, %4$s)</string>
@@ -170,7 +184,7 @@
     <string name="activity_title_antispam">차단 목록</string>
     <string name="activity_title_antivirus">보안 스캔</string>
     <string name="activity_title_apps_manager">앱</string>
-    <string name="activity_title_auto_start_manager">자동 시작</string>
+    <string name="activity_title_auto_start_manager">자동 실행</string>
     <string name="activity_title_create_shortcut">바로가기 관리</string>
     <string name="activity_title_garbage_cleanup">클리너</string>
     <string name="activity_title_license_manager">권한</string>
@@ -262,7 +276,7 @@
     <string name="antivirus_update_btn_update">업데이트</string>
     <string name="apn_exception_summary">통신사의 APN 구성 테스트</string>
     <string name="apn_exception_title">APN 구성 확인</string>
-    <string name="app_bg_restrict_dialog_message">"백그라운드에서 네트워크 연결을 제한하면 앱이 정상적으로 작동하지 않을 수 있습니다. 예를 들어 더 이상 메시지를 수신하거나 콘텐츠를 업데이트하지 못할 수 있습니다. 제한하시겠습니까? "</string>
+    <string name="app_bg_restrict_dialog_message">"백그라운드에서 네트워크 연결을 제한하면 앱이 정상적으로 작동하지 않을 수 있습니다. 예를 들어 더 이상 메시지를 수신하거나 컨텐츠를 업데이트하지 못할 수 있습니다. 제한하시겠습니까? "</string>
     <string name="app_check_no_issue">배터리 문제가 없는 것 같습니다. 좋습니다!</string>
     <string name="app_detail">세부사항</string>
     <string name="app_error_tip_for_launcher">기기의 하드웨어 구성요소 또는 Android 시스템 버전의 원인으로 몇몇 앱에서 오작동, 멈춤, 강제 종료 등의 호환성 문제가 발생할 수 있습니다. 이러한 문제가 발생하셨다면 앱 개발자에게 피드백 하세요.</string>
@@ -282,7 +296,7 @@
     <string name="app_manager_app_update">업데이트</string>
     <string name="app_manager_app_version_name">버전:</string>
     <string name="app_manager_appupdate_remind">업데이트 알림</string>
-    <string name="app_manager_as_dlg_msg">앱 자동시작을 허용할 경우 램과 배터리를 더 소모할 수 있습니다. 그래도 허용하시겠습니까?</string>
+    <string name="app_manager_as_dlg_msg">앱 자동 실행을 허용할 경우 램과 배터리를 더 소모할 수 있습니다. 그래도 허용하시겠습니까?</string>
     <string name="app_manager_as_dlg_title">주의</string>
     <string name="app_manager_back">뒤로가기</string>
     <string name="app_manager_bipartition">듀얼 앱</string>
@@ -347,7 +361,7 @@
     <string name="app_manager_permission_manager_title">권한</string>
     <string name="app_manager_permission_notify_title">알림</string>
     <string name="app_manager_permission_power_saving_title">배터리 절약</string>
-    <string name="app_manager_permission_startself_title">자동시작</string>
+    <string name="app_manager_permission_startself_title">자동 실행</string>
     <string name="app_manager_permission_summary_reject">모두 제한</string>
     <string name="app_manager_powerkeeper_miui_auto">MIUI 배터리 절약</string>
     <string name="app_manager_powerkeeper_no_bg">백그라운드 활동 제한</string>
@@ -364,7 +378,7 @@
     <string name="app_manager_show_detail_infos">모두 보기</string>
     <string name="app_manager_start_by">%s에 의해 시작됨</string>
     <string name="app_manager_system_mobile_disable">데이터 끄기</string>
-    <string name="app_manager_thumbnail_blur_summary">최근앱에서 앱 미리보기를 흐리게 처리합니다.</string>
+    <string name="app_manager_thumbnail_blur_summary">최근 앱에서 앱 미리보기를 흐리게 처리합니다.</string>
     <string name="app_manager_thumbnail_blur_title">앱 미리보기 흐림처리</string>
     <string name="app_manager_title">앱 관리</string>
     <string name="app_manager_total_size">총</string>
@@ -405,9 +419,9 @@
     <string name="app_permission_use_title">권한</string>
     <string name="app_right">xiaomi 회사는 공식적으로 생산</string>
     <string name="app_summary">微 信/QQ/米 聊 抢 红包 神器\n개인용 빨간 봉투 및 그룹 빨간 봉투 지원\n봄 축제 빨간 봉투 활동, 모든 빨간 봉투를 놓치지 마세요.</string>
-    <string name="app_usage_never">사용되지 않음</string>
-    <string name="app_usage_recently">최근 사용됨</string>
-    <string name="app_version">버전</string>
+    <string name="app_usage_never">사용한 적 없음</string>
+    <string name="app_usage_recently">최근 사용</string>
+    <string name="app_version">버전:</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_item_already_permission">허용됨</string>
     <string name="application_item_disable">제한됨</string>
@@ -415,11 +429,11 @@
     <string name="applock_add_account_info">비밀번호를 잊었을 때 초기화할 수 있도록 Mi 계정을 추가하세요.</string>
     <string name="applock_add_account_setting">계정 &amp; 개인정보</string>
     <string name="applock_bind_account_title">비밀번호 찾기</string>
-    <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더이상 보호되지 않을 것이고 비밀번호가 삭제될 것입니다.</string>
+    <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더 이상 보호되지 않을 것이고 비밀번호가 삭제될 것입니다.</string>
     <string name="applock_close_dialog_title">앱 잠금을 끄시겠습니까?</string>
     <string name="applock_exit_account_info">로그아웃시 자동으로 계정이 제거될 것입니다.</string>
-    <string name="applock_face_unlock_summary">안면인식으로 앱 잠금해제</string>
-    <string name="applock_face_unlock_title">안면인식 잠금해제</string>
+    <string name="applock_face_unlock_summary">얼굴인식으로 앱 잠금해제</string>
+    <string name="applock_face_unlock_title">얼굴인식 잠금해제</string>
     <string name="applock_function_base_settings">앱 잠금</string>
     <string name="applock_function_pwd_settings">비밀번호</string>
     <string name="applock_header_text_less_than_half">이 앱에 사용할 공간이 너무 적습니다.</string>
@@ -427,7 +441,7 @@
     <string name="applock_not_add_account">&lt;u&gt;지금 하지않음&lt;/u&gt;</string>
     <string name="applock_not_login_account">로그인되어 있지 않습니다.</string>
     <string name="applock_toast_tip">인증된 앱 잠금 완료</string>
-    <string name="apps_item_sign_dialog_content">%s 앱의 서명이 공식 앱스토어의 앱과 다릅니다. 이 앱을 삭제하시고 공식 버전의 앱을 설치하시겠습니까? 주의: 서로 다른 서명의 앱 설치 시 기존 앱의 데이터가 손실될 수 있으니 주의하세요.</string>
+    <string name="apps_item_sign_dialog_content">%s 앱의 서명이 공식 앱스토어의 앱과 다릅니다. 이 앱을 삭제하고 공식 버전의 앱을 설치하시겠습니까? 주의: 서로 다른 서명의 앱 설치 시 기존 앱의 데이터가 손실될 수 있으니 주의하세요.</string>
     <string name="apps_item_sign_dialog_title">공식 앱 설치</string>
     <string name="apps_item_sign_install_button_text">교체</string>
     <string name="apps_item_sms_default_set_success">설정 성공</string>
@@ -566,7 +580,7 @@
     <string name="battery_status_unknown">알 수 없는 오류</string>
     <string name="battery_temperature_title">온도</string>
     <string name="begin_date">사용량 초기화 날짜</string>
-    <string name="best_booster_status">게임 속도는 지금이 제일 최적의 상태입니다.</string>
+    <string name="best_booster_status">게임 속도는 지금이 가장 최적의 상태입니다.</string>
     <string name="best_warning_dialog_button">알아</string>
     <string name="best_warning_dialog_message">팁 : Xiaomi 빨간 봉투 도우미를 사용하면 빨간 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~</string>
     <string name="best_warning_dialog_message1">Xiaomi 빨간 봉투 도우미를 사용하면 빨간색 봉투의 속도가 빨라집니다. 그러나 손이 너무 빠르고 자세가 너무 빠르면 매번 빨간 봉투를 가장 먼저 잡습니다.&lt;font color=\'#e56255\'&gt;mistext에서 자동 캡처 빨간색 플러그인이 사용되었다고 잘못 판단 할 가능성이 있습니다.&lt;/font&gt;, 뒤에있는 빨간 봉투 기능에 영향을줍니다. 따라서 때로는 리듬을 조절하고 빨간 봉투를 잡는 것이 좋습니다. 빨간 봉투는 좋지만 탐욕하지 마세요 ~~</string>
@@ -822,7 +836,7 @@
     <string name="dialog_roaming_warning_message">국제 데이터 로밍을 설정하면 통신사에서 요금을 부과합니다. 로밍을 사용하시겠습니까?</string>
     <string name="dialog_roaming_warning_ok">사용</string>
     <string name="dialog_title_attention">주의</string>
-    <string name="dialog_title_auto_start_declare">자동 시작 정보</string>
+    <string name="dialog_title_auto_start_declare">자동 실행 정보</string>
     <string name="dialog_title_stop_virus_scan">보안 스캔 중지</string>
     <string name="disable_air_mode">먼저 비행기 탑승 모드 끄기</string>
     <string name="dlg_add_blacklist">이 번호를 차단하시겠습니까?</string>
@@ -888,7 +902,7 @@
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="email">이메일</string>
     <string name="empty_app">앱 없음</string>
-    <string name="empty_title_auto_start_list">자동 시작 가능한 앱 없음</string>
+    <string name="empty_title_auto_start_list">자동 실행 가능한 앱 없음</string>
     <string name="empty_title_garbage_virus_white_list">다음 스캔에서 건너뛰려면 목록의 항목을 누른 채로 유지하세요.</string>
     <string name="empty_title_manual_item_white_list">예외 없음</string>
     <string name="empty_title_perm_apps">이 권한을 가진 앱 없음</string>
@@ -1035,8 +1049,8 @@
     <string name="face_unlock_face_auth_failed_title">얼굴인식 불가. 다른 잠금하제 방법으로 전환중…</string>
     <string name="face_unlock_face_start_title">얼굴인식중…</string>
     <string name="face_unlock_finger_or_password_switch">지문인식 또는 비밀번호를 사용하여 잠금해제하세요.</string>
-    <string name="face_unlock_guide_confirm">안면인식 잠금해제 사용</string>
-    <string name="face_unlock_guide_dialog_summary">얼굴인식으로 기기를 잠금해제할 수 있습니다. 안면인식 잠금해제를 켜시겠습니까?</string>
+    <string name="face_unlock_guide_confirm">얼굴인식 잠금해제 사용</string>
+    <string name="face_unlock_guide_dialog_summary">얼굴인식으로 기기를 잠금해제할 수 있습니다. 얼굴인식 잠금해제를 켜시겠습니까?</string>
     <string name="face_unlock_not_found">인식 불가</string>
     <string name="face_unlock_open_eye">눈을 조금 더 크게 떠보세요.</string>
     <string name="face_unlock_reveal_eye">눈 부분이 잘 보이게 하세요.</string>
@@ -1047,12 +1061,12 @@
     <string name="face_unlock_verity_dialog_title_succeed">인식 완료</string>
     <string name="fast_open">스피드 그랩 모드</string>
     <string name="fast_open_dialog_message">빠른 캡처 모드가 활성화 된 후 빨간색 봉투를 받으면 시스템에서 자동으로 빨간색 봉투 페이지를 열며 빨간색 봉투를 잡는 것이 더 빠르고 편리합니다.</string>
-    <string name="fast_open_dialog_message_summary">참고 : 응용 프로그램의 정상적인 작동에 영향을주지 않으려면 빠른 탐색, 동영상 및 게임 응용 프로그램 모드를 끄는 것이 좋습니다. 전화가 잠겼을 때 빨간 봉투는 강탈되지 않습니다.</string>
+    <string name="fast_open_dialog_message_summary">참고 : 앱의 정상적인 작동에 영향을주지 않으려면 빠른 탐색, 동영상 및 게임 앱 모드를 끄는 것이 좋습니다. 전화가 잠겼을 때 빨간 봉투는 강탈되지 않습니다.</string>
     <string name="fast_open_dialog_ok">오픈</string>
     <string name="fast_open_list_not_open_title">%s 애플리케이션을 서두르는 것은 금지되어 있습니다.</string>
     <string name="fast_open_list_open_title">%s 앱에서 빠른 로빙 허용</string>
     <string name="fast_open_noti_summary">%s님이 빨간 봉투를 보냈습니다.</string>
-    <string name="fast_open_summary">빠른 캡처 모드가 활성화 된 후 빨간색 봉투 새 메시지를 수신하면 현재 응용 프로그램의 사용이 빨간색 봉투 창으로 전환되지 않습니다.</string>
+    <string name="fast_open_summary">빠른 캡처 모드가 활성화 된 후 빨간색 봉투 새 메시지를 수신하면 현재 앱의 사용이 빨간색 봉투 창으로 전환되지 않습니다.</string>
     <string name="finger_remind_message">먼저 지문을 추가하세요. 탭하여 설정 열기</string>
     <string name="fingerprint_identify_msg">지문 인증을 켜주세요.</string>
     <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력하세요.</string>
@@ -1094,7 +1108,7 @@
     <string name="first_aid_card_airplane_title">전화를 걸거나 네트워크에 연결할 수 없습니다.</string>
     <string name="first_aid_card_consume_power_button1">제한</string>
     <string name="first_aid_card_consume_power_button2">끄기</string>
-    <string name="first_aid_card_consume_power_summary1">5개 이상의 앱이 자동 시작되고 있습니다. 배터리 절약을 위해 제한하세요.</string>
+    <string name="first_aid_card_consume_power_summary1">5개 이상의 앱이 자동 실행되고 있습니다. 배터리 절약을 위해 제한하세요.</string>
     <string name="first_aid_card_consume_power_summary2">배터리를 절약하기 위해 개인용 핫스팟을 끄세요.</string>
     <string name="first_aid_card_consume_power_title">배터리 사용량</string>
     <string name="first_aid_card_kadun_button1">여유 공간 확보</string>
@@ -1296,7 +1310,7 @@
     <string name="gb_xunyou_gift_type_one">Xunyou 1일 부스트</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3일 부스트</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2일 부스트</string>
-    <string name="gdpr_msg">&lt;Data&gt;"보안 위험을 감지하고 데이터를 보호하려면 장치에 필요한 양의 정보를 수집해야 합니다. 서비스를 사용하기 전에 &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하세요. 이러한 정보를 수집할 수 없는 경우 이 앱은 계속 사용할 수 있지만 일부 기능은 사용할 수 없습니다. "&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;"보안 위험을 감지하고 데이터를 보호하려면 장치에 필요한 양의 정보를 수집해야 합니다. 서비스를 사용하기 전에 &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하세요. 이러한 정보를 수집할 수 없는 경우 이 앱을 계속 사용할 수 있지만 일부 기능은 사용할 수 없습니다. "&lt;/Data&gt;</string>
     <string name="ge">개</string>
     <string name="get_sys_info">정보를 가져오는 중…</string>
     <string name="gigabyteShort">GB</string>
@@ -1343,7 +1357,7 @@
     <string name="guide_get_operator_error">&lt;font color=\'#33b4ff\'&gt;&lt;U&gt;통신사가 잘못되었습니까?&lt;/U&gt;&lt;/font&gt;</string>
     <string name="guide_operator_text">"현재 통신사: "</string>
     <string name="guide_quck_open">켜기</string>
-    <string name="guide_second_text">통신사를 설정하신 후, MIUI는 귀하의 데이터 사용량을 모니터링할 것이며 매일 통신사에 무료 SMS를 발송하여 이를 검토합니다. MIUI는 귀하가 데이터를 모두 소진시, 네트워크에서 연결 해제 후 귀하에게 알려드립니다.</string>
+    <string name="guide_second_text">통신사를 설정한 후, MIUI는 귀하의 데이터 사용량을 모니터링할 것이며 매일 통신사에 무료 SMS를 발송하여 이를 검토합니다. MIUI는 귀하가 데이터를 모두 소진시, 네트워크에서 연결 해제 후 귀하에게 알려드립니다.</string>
     <string name="guide_wait_setting">지금 안함</string>
     <string name="handle_bar_summary_wifi_unknown">알 수 없음</string>
     <string name="handle_bar_title_system">시스템</string>
@@ -1532,7 +1546,7 @@
     <string name="main_toolbar_purchase">충전</string>
     <string name="main_toolbar_statistic">데이터 사용량 통계</string>
     <string name="main_traffic_detail">데이터 사용량</string>
-    <string name="man_add_application">수동으로 자동 시작 앱 추가</string>
+    <string name="man_add_application">수동으로 자동 실행 앱 추가</string>
     <string name="manage_hybrid_permissions">앱 권한 관리</string>
     <string name="managed_user_title">모든 업무 앱</string>
     <string name="manual_input_free_traffic">오프 피크 데이터 사용량 설정</string>
@@ -1755,7 +1769,7 @@
     <string name="om_not_finish_speedboost">속도 향상이 필요합니다.</string>
     <string name="om_running_locked_apps">실행중인 잠긴 앱</string>
     <string name="om_running_system_apps">실행중인 시스템 앱</string>
-    <string name="om_running_third_apps">실행중인 써드파티 앱</string>
+    <string name="om_running_third_apps">실행중인 타사 앱</string>
     <string name="om_settings_cpu_over_load_notify">CPU 사용량</string>
     <string name="om_settings_cpu_over_load_summary">CPU 사용량이 너무 높을 때 알림</string>
     <string name="om_settings_lock_app">앱 잠금</string>
@@ -1911,7 +1925,7 @@
     <string name="pm_auto_start_by_other">시작 유발됨</string>
     <string name="pm_auto_start_by_other_app">다른 앱에 의해 앱 시작 허용</string>
     <string name="pm_auto_start_by_system">앱 시작</string>
-    <string name="pm_auto_start_by_system_event">앱의 자동 시작 허용</string>
+    <string name="pm_auto_start_by_system_event">앱의 자동 실행 허용</string>
     <string name="pm_auto_start_proc_is_running">구동 중</string>
     <string name="pm_remember_choice">내 선택 기억하기</string>
     <string name="pm_root_success_notification_infomation">루트 권한과 연관된 위험성에 대하여 충분히 이해하세요.</string>
@@ -1920,7 +1934,7 @@
     <string name="power_ambient_display">화면 항상켜짐</string>
     <string name="power_analysis_consume_title">배터리 사용량</string>
     <string name="power_analysis_suggestion_need_optimize">배터리 사용량 문제가 감지되었습니다.</string>
-    <string name="power_autorun_apps_empty">자동 시작 앱 없음</string>
+    <string name="power_autorun_apps_empty">자동 실행 앱 없음</string>
     <string name="power_bluetooth">블루투스</string>
     <string name="power_btn_analyze">배터리 사용량 분석</string>
     <string name="power_cell">전화 대기</string>
@@ -1945,7 +1959,7 @@
     <string name="power_center_scan_item_title_abnormal">배터리 문제</string>
     <string name="power_center_scan_item_title_abnormal_apps">배터리 소모가 많은 앱</string>
     <string name="power_center_scan_item_title_auto_invoke">체인 시작</string>
-    <string name="power_center_scan_item_title_auto_start">자동시작</string>
+    <string name="power_center_scan_item_title_auto_start">자동 실행</string>
     <string name="power_center_scan_item_title_battery_details">배터리 사용 세부내용</string>
     <string name="power_center_scan_item_title_brightness">화면 밝기 조정</string>
     <string name="power_center_scan_item_title_clean_memory">메모리 정리</string>
@@ -2005,7 +2019,7 @@
     <string name="power_save_ps_clean">화면을 끌때마다 캐시 삭제</string>
     <string name="power_save_ps_close_setting">전력 소비가 높은 서비스 및 기능 끄기(동기화, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
     <string name="power_save_ps_freeze">백그라운드에 고정</string>
-    <string name="power_save_ps_limit">시스템앱 활동 제한</string>
+    <string name="power_save_ps_limit">시스템 앱 활동 제한</string>
     <string name="power_save_started_summary_text">배터리 절약 기능이 켜져 있습니다. 앱의 백그라운드 활동을 줄이고 동기화를 중지하며 시스템 애니메이션을 최소화합니다.</string>
     <string name="power_save_summary_text">배터리 절약을 켜서 앱의 백그라운드 활동을 줄입니다. 동기화를 중지하고 시스템 애니메이션을 최소화합니다.</string>
     <string name="power_save_title_text">배터리 절약</string>
@@ -2124,14 +2138,14 @@
     <string name="privacy_apps_shield_message_title">알림 보지 않음</string>
     <string name="privacy_apps_tutorial">튜토리얼</string>
     <string name="privacy_apps_tutorial_dlg_title">숨겨진 앱을 찾는 방법</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">이 기능을 사용하면 응용 프로그램 아이콘을 숨겨서 홈 화면에 더 이상 나타나지 않도록 할 수 있습니다.</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">이 기능을 사용하면 앱 아이콘을 숨겨서 홈 화면에 더 이상 나타나지 않도록 할 수 있습니다.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">비밀번호를 입력하면 숨겨진 앱이 있는 폴더가 나타납니다.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">손가락 두 개를 펴면 앱 잠금 비밀번호를 입력하라는 메시지가 나타납니다.</string>
     <string name="privacy_declare_dialog_title">서비스 약관</string>
     <string name="privacy_dialog_message">인터넷에 연결하면 이동통신사 정보와 함께이 메시지가 암호화되어 Mi의 서버에 업로드되어 데이터 사용 모니터링을 향상시킬 수 있습니다.</string>
     <string name="privacy_mode_dialog_title">게스트 모드</string>
     <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
-    <string name="privacy_prompt_traffic_adjust_message">보정을 클릭하신 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출하신 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
+    <string name="privacy_prompt_traffic_adjust_message">보정을 클릭한 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출한 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
     <string name="privacy_prompt_upload">업로드</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="promotion">광고</string>
@@ -2226,7 +2240,7 @@
     <string name="safepay_alert_dialog_button_fix">고치기</string>
     <string name="sc_allow_network_dialog_message">이 앱이 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
     <string name="sc_allow_network_dialog_tiltle">이 기능을 사용할 수 없습니다.</string>
-    <string name="sc_system_risk_fix_info_xspace">세컨드 스페이스 오류. 메인 계정에서 다시 시도하세요.</string>
+    <string name="sc_system_risk_fix_info_xspace">보조 공간 오류. 메인 계정에서 다시 시도하세요.</string>
     <string name="sc_warning_updater_not_found">업데이트 앱을 발견하지 못했습니다. 업데이트할 수 없습니다!</string>
     <string name="scan_installed_games">설치된 게임을 확인하는 중…</string>
     <string name="scan_status_risk">위험</string>
@@ -2487,7 +2501,7 @@
     <string name="summary_cloud_space_full">더 많은 저장 공간을 확보해서 더 많은 기능을 사용합니다.</string>
     <string name="summary_cmcc_app_check">일부 앱이 검증되지 않았습니다.</string>
     <string name="summary_consume_power">발열 이슈 발견됨. 배터리 수명에 영향을 줄 수 있습니다.</string>
-    <string name="summary_dark_mode">써드파티 서비스로 인해 몇몇 페이지는 검게 보입니다.</string>
+    <string name="summary_dark_mode">타사 서비스로 인해 몇몇 페이지는 검게 보입니다.</string>
     <string name="summary_data_flow">추가 비용 방지를 위해 모바일 데이터 사용량 제어하기</string>
     <string name="summary_default_app">%s를 기본 시스템 앱으로 설정할 수 없습니다.</string>
     <string name="summary_dev">악성코드를 방지하고 개인정보를 보호합니다.</string>
@@ -2556,21 +2570,22 @@
     <string name="system_app">시스템 앱</string>
     <string name="system_application">시스템 앱</string>
     <string name="system_permission_declare_agree">동의</string>
-    <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 등록하도록 초대합니다.이 앱은 인터넷에 연결하고 다음 권한 또는 기능을 사용하여 서비스를 개선하기 위해 통계를 수집해야 합니다. 여기에서는 통계 목적으로 만 데이터를 수집하며 수집 한 데이터를 기반으로 개인을 식별 할 수 없습니다. "</string>
+    <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 초대합니다. 이 앱은 인터넷에 연결하고 다음 권한 또는 기능을 사용하여 서비스를 개선하기 위해 통계를 수집해야 합니다. 여기에서는 통계 목적으로만 데이터를 수집하며 수집한 데이터를 기반으로 개인을 식별할 수 없습니다. "</string>
     <string name="system_permission_declare_disagree">동의하지 않음</string>
     <string name="system_permission_declare_double_link"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href =\"%2$\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">%1s 오신걸 환영합니다! 이 앱은 아래의 기능을 사용하도록 허용되어있습니다: %2s.</string>
-    <string name="system_permission_declare_no_say_no">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱은 정상적으로 작동하지 않습니다.</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">%1s 오신 것을 환영합니다! 이 앱은 아래의 기능을 사용하도록 허용되어 있습니다: %2s.</string>
+    <string name="system_permission_declare_no_say_no">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
     <string name="system_permission_declare_no_say_no_analytics">이러한 권한을 부여하지 않으려면 설정에서 등록을 취소할 수 있습니다 .</string>
-    <string name="system_permission_declare_no_say_no_non_mandatory">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱은 부분적으로 작동하지 않습니다.</string>
-    <string name="system_permission_declare_privacy_declare">이 앱을 인터넷에 연결해야하며 정상적으로 작동하려면 다음 권한이 필요합니다.</string>
-    <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷에 연결하고 정상적으로 작동하려면 필요한 개인 데이터를 수집해야 합니다.</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 일부 작동하지 않습니다.</string>
+    <string name="system_permission_declare_privacy_declare">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 다음 권한을 필요로 합니다.</string>
+    <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 필요한 개인 데이터를 수집해야 합니다.</string>
     <string name="system_permission_declare_privacy_policy"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_revoke_system">이 기능을 끝낼 수 있습니다.</string>
     <string name="system_permission_declare_revoke_uninstallable">보안에서 로그아웃하거나 이 앱을 제거하거나 승인을 취소할 수 있습니다. 보안 &gt; 앱 관리 &gt; 권한 &gt; 권한.</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
-    <string name="system_permission_declare_user_agreement"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s\">이용 약관&lt;/a>을 읽고 동의하세요..</Data></string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자의 권리와 데이터 사용 방식을 완전히 이해한다면 &lt;a href=\"%1$s\">이용 약관&lt;/a>을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">통화 하기</string>
     <string name="system_permission_perm_read_mms">MMS 읽기</string>
     <string name="system_permission_perm_read_numbers">전화번호 읽기</string>
@@ -2689,7 +2704,7 @@
     <string name="tips_dialog_title">한도 알지 못함</string>
     <string name="tips_message">데이터 계획의 세부사항를 보려면, %2$s(%1$s) 번으로 전화하세요.</string>
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
-    <string name="tips_of_auto_launch_manage">거의 사용하지 않는 앱의 자동 시작을 방지하세요.</string>
+    <string name="tips_of_auto_launch_manage">거의 사용하지 않는 앱의 자동 실행을 방지하세요.</string>
     <string name="title_app_lock_disable">앱 잠금</string>
     <string name="title_app_update">업데이트 가능</string>
     <string name="title_auto_update">자동 업데이트</string>
@@ -2735,7 +2750,7 @@
     <string name="title_more_setting">더 많은 설정</string>
     <string name="title_network_switch">네트워크 연결</string>
     <string name="title_of_app_manage">앱</string>
-    <string name="title_of_auto_launch_manage">자동 시작</string>
+    <string name="title_of_auto_launch_manage">자동 실행</string>
     <string name="title_payment_protection">결제 환경이 안전합니다.</string>
     <string name="title_payment_risk">결제 문제 발견</string>
     <string name="title_permission_no">권한 관리자 꺼짐</string>
@@ -2781,7 +2796,7 @@
     <string name="toast_update_success">업데이트 완료</string>
     <string name="top_game">인기 게임</string>
     <string name="top_load_fail_detail">불러올 수 없습니다. 다시 시도하려면 탭하세요.</string>
-    <string name="top_no_network_detial">불러올 수 없습니다. 네트워크 연결 상태를 확인하신 후 다시 시도하세요.</string>
+    <string name="top_no_network_detial">불러올 수 없습니다. 네트워크 연결 상태를 확인한 후 다시 시도하세요.</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">월간 플랜이 %s로 변경되었습니다.</string>
     <string name="traffic_alert_auto_modify_notification_titile">데이터 플랜 업데이트됨</string>
     <string name="traffic_alert_auto_modify_package_summary">통신사의 정보를 바탕으로 데이터 패키지를 자동으로 조정합니다.</string>
@@ -3164,24 +3179,26 @@
     <string name="gb_voice_changer_dlg_button_agree">허용</string>
     <string name="antispam_mms_text">차단된 메시지를 볼 수 있도록 메시지를 기본 SMS 문자 메시지 앱으로 설정</string>
     <string name="antispam_mms_text_setting">메시지를 차단 목록을 사용할 수 있도록 기본 SMS 문자 메시지 앱으로 설정</string>
-    <string name="app_behavior_about_content_no_link">"사용자 개인정보를 보호하기 위해 MIUI가 서드파티 애플리케이션 실행 및 시스템에서 권한을 시스템으로 로그 항목의 형태로 전송하는 것과 관련된 메시지를 표시합니다. Android 시스템 제한으로 인해이 항목 기록에서 오류가 발견되면 서비스 및 리뷰를 통해 오류의 내용을 당사에 보내서 로깅의 정확성을 수정하세요."</string>
-    <string name="app_behavior_about_negative">다시보기</string>
+    <string name="app_behavior_about_content_no_link">"다른 앱을 실행하거나, 자동 실행, 권한 사용, 민감한 행동을 취한 앱을 표시합니다. Android 버전 호환성 문제로 인해이, 일부 내역은 정확하지 않을 수도 있습니다. 정확하지 않은 앱 행동 내역을 발견한다면 \"서비스 &amp; 피드백\" 앱으로 제보해주세요."</string>
+    <string name="app_behavior_about_negative">문제 제보</string>
     <string name="app_behavior_about_positive">확인</string>
     <string name="app_behavior_allowed">승인</string>
-    <string name="app_behavior_audio">녹음된 오디오 %1s개</string>
-    <string name="app_behavior_audio_bg">백그라운드에서 %1s개 오디오를 녹음했습니다.</string>
-    <string name="app_behavior_autostart">자동 시작 %1s개</string>
-    <string name="app_behavior_calendar">캘린더 일정 %1s개에 액세스했습니다.</string>
-    <string name="app_behavior_calendar_bg">백그라운드에서 캘린더 일정 %1s개에 액세스했습니다.</string>
-    <string name="app_behavior_calllog">액세스 한 통화 기록 %1s개</string>
-    <string name="app_behavior_calllog_bg">백그라운드에서 통화 기록 %1s개에 액세스했습니다.</string>
-    <string name="app_behavior_callphone">%1s회 전화를 걸었습니다.</string>
-    <string name="app_behavior_camera">%1s개의 사진을 찍거나 동영상을 녹화했습니다.</string>
-    <string name="app_behavior_clipboard">항목 %1s개를 클립보드에 저장</string>
-    <string name="app_behavior_clipboard_bg">백그라운드에서 클립보드에 항목 %1s개 저장</string>
-    <string name="app_behavior_contacts">%1s개 연락처에 액세스했습니다.</string>
-    <string name="app_behavior_contacts_bg">백그라운드에서 %1s개 연락처에 액세스했습니다.</string>
+    <string name="app_behavior_audio">%1s 앱이 오디오를 녹음했습니다.</string>
+    <string name="app_behavior_audio_bg">%1s 앱이 백그라운드에서 오디오를 녹음했습니다.</string>
+    <string name="app_behavior_autostart">%1s 앱이 자동으로 실행되었습니다.</string>
+    <string name="app_behavior_calendar">%1s 앱이 캘린더 일정에 접근했습니다.</string>
+    <string name="app_behavior_calendar_bg">%1s 앱이 백그라운드에서 캘린더 일정에 접근했습니다.</string>
+    <string name="app_behavior_calllog">%1s 앱이 통화 기록에 접근했습니다.</string>
+    <string name="app_behavior_calllog_bg">%1s 앱이 백그라운드에서 통화 기록에 접근했습니다.</string>
+    <string name="app_behavior_callphone">%1s 앱이 전화를 걸었습니다.</string>
+    <string name="app_behavior_camera">%1s 앱이 사진이나 동영상을 촬영했습니다.</string>
+    <string name="app_behavior_clipboard">%1s 앱이 클립보드에 접근했거나 항목을 저장했습니다.</string>
+    <string name="app_behavior_clipboard_bg">%1s 앱이 백그라운드에서 클립보드에 접근했거나 항목을 저장했습니다.</string>
+    <string name="app_behavior_contacts">%1s 앱이 연락처에 접근했습니다.</string>
+    <string name="app_behavior_contacts_bg">%1s 앱이 백그라운드에서 연락처에 접근했습니다.</string>
     <string name="app_behavior_denied">거부</string>
+    <string name="app_behavior_desc_allow_once">%1$s에 허용됨</string>
+    <string name="app_behavior_desc_deny_once">%1$s에 거부됨</string>
     <string name="antivirus_privacy_dialog_summary_new">&lt;Data>이 기능은 Avast, AVL 및 Tencent에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으세요.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>이 기능은 AVL 및 Tencent에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으세요.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>이 기능은 Avast 및 AVL에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으세요.&lt;/Data></string>
@@ -3236,4 +3253,5 @@
     <string name="risk_app_install_history">인증 내역</string>
     <string name="risk_app_install_item_des">버전: %1$s</string>
     <string name="risk_app_install_manager">잠재적 위험 앱</string>
+    <string name="app_behavior_door">앱 행동</string>
 </resources>

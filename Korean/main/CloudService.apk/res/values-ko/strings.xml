@@ -115,7 +115,7 @@
     <string name="sync_dspt_provision">"동기화하여 모든 기기에서 사용자의 사진, 연락처, 노트, 기타 자료에 접근 할 수 있습니다. "</string>
     <string name="sync_dspt_provision3">". 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.
 "</string>
-    <string name="sync_dspt_entrance_provision">모든 장치에서 사진, 연락처, 통화기록 및 메시지를 동기화하면 %s의 모든 장치에서 접근할 수 있습니다.</string>
+    <string name="sync_dspt_entrance_provision">모든 장치에서 사진, 연락처, 통화 기록 및 메시지를 동기화하면 %s의 모든 장치에서 접근할 수 있습니다.</string>
     <string name="sync_dspt_entrance_provision_2">더 알아보기</string>
     <string name="sync_dspt_entrance_provision_confirm_close">사용 안 함</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Mi 클라우드 사용</string>
@@ -163,7 +163,7 @@
     <string name="activate_find_device_success">기기 찾기가 활성화되었습니다.</string>
     <string name="disable_find_device_success">기기 찾기 꺼짐</string>
     <string name="find_device_pref_alert_title">Mi 계정 ID 및 비밀번호를 기억하세요.</string>
-    <string name="find_device_pref_alert_content">기기 찾기는 Mi 계정과 연관되어 있습니다. 비밀번호를 설정하시거나 이미 설정하신 비밀번호를 입력이 필요하므로 Mi 계정 ID 및 비밀번호를 항상 잊어버리지 않도록 유념하세요. SIM 카드가 변경될 때 이 기능의 재활성화를 위해 자동으로 메시지를 전송할 것입니다. 이 발신 메시지는 귀하의 통신사에 따라 요금이 달라질 수 있으며 본인 부담입니다.</string>
+    <string name="find_device_pref_alert_content">기기 찾기는 Mi 계정과 연관되어 있습니다. 비밀번호를 설정하시거나 이미 설정한 비밀번호를 입력이 필요하므로 Mi 계정 ID 및 비밀번호를 항상 잊어버리지 않도록 유념하세요. SIM 카드가 변경될 때 이 기능의 재활성화를 위해 자동으로 메시지를 전송할 것입니다. 이 발신 메시지는 귀하의 통신사에 따라 요금이 달라질 수 있으며 본인 부담입니다.</string>
     <string name="find_device_pref_alert_positive">확인</string>
     <string name="find_device_pref_alert_negtive">사양하겠습니다.</string>
     <string name="enable_find_device_error">\"기기 찾기를 켤 수 없습니다.\"%1$s</string>
@@ -450,7 +450,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_confusion_cancel">취소</string>
     <string name="micloud_confusion_ok">확인</string>
     <string name="micloud_confusion_entrance_title">데이터 수정됨</string>
-    <string name="micloud_confusion_entrance_question">최근에 %s 계정을 사용하여 Mi 계정을 수정하신 적이 있으십니까?</string>
+    <string name="micloud_confusion_entrance_question">최근에 %s 계정을 사용하여 Mi 계정을 수정한 적이 있으십니까?</string>
     <string name="micloud_confusion_entrance_hint">공용 기기에서 Mi 계정을 로그인하지 마세요.</string>
     <string name="micloud_confusion_account_title">Mi 계정</string>
     <string name="micloud_confusion_account_question">Mi 계정 ID: %s 아이디가 사용자의 것입니까?</string>
@@ -466,7 +466,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_confusion_account_notify_text">다른 기기에서 귀하의 Mi 계정를 수정 중입니다. 바로 계정을 확인하세요.</string>
     <string name="micloud_confusion_setting_notify_title">계정 보호</string>
     <string name="micloud_confusion_setting_notify_text">귀하의 계정과 관련된 다른 기기들과의 동기화 해제</string>
-    <string name="micloud_confusion_setting_password_error">입력하신 비밀번호가 올바르지 않습니다.,</string>
+    <string name="micloud_confusion_setting_password_error">입력한 비밀번호가 올바르지 않습니다.,</string>
     <string name="micloud_confusion_toast_confirm">기기 확인됨</string>
     <string name="micloud_confusion_toast_deny">Mi 계정에 로그인</string>
     <string name="micloud_confusion_alert_title">다른 기기에서 귀하의 계정이 수정 중입니다.</string>
@@ -498,7 +498,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_notif_content_sync_finish">계정</string>
     <string name="micloud_notif_title_sync_not_finish">일부 항목이 동기화되지 않았습니다.</string>
     <string name="micloud_notif_content_sync_not_finish">자세히</string>
-    <string name="micloud_notif_title_clipboard_push">콘텐츠가 클립보드에 복사됨</string>
+    <string name="micloud_notif_title_clipboard_push">컨텐츠가 클립보드에 복사됨</string>
     <string name="micloud_notif_content_clipboard_push">이것을 아무곳에나 붙여넣을 수 있습니다.</string>
     <string name="micloud_notif_title_multi_user_error">Mi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_multi_user_error">같은 계정으로 기본 공간에 로그인 했습니다.</string>
@@ -521,7 +521,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_find_device_guide_micloud">Mi 클라우드 동기화 켜기</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Mi 클라우드와 연락처, 사진, 노트, 기타 등등을 동기화</string>
     <string name="micloud_find_device_guide_fail_reopen">Mi 계정 - Mi 클라우드에서 기기 찾기를 켜실 수 있습니다.</string>
-    <string name="micloud_find_device_guide_fail_sub_net">네트워크 연결을 확인하신 후 다시 시도하세요.</string>
+    <string name="micloud_find_device_guide_fail_sub_net">네트워크 연결을 확인한 후 다시 시도하세요.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">연결 시간이 초과되었습니다. 나중에 다시 시도하여 주세요.</string>
     <string name="micloud_find_device_guide_noti_title">기기 찾기 켜기</string>
     <string name="micloud_find_device_guide_noti_content">기기 분실시에도 귀하의 데이터는 보호됩니다.</string>
@@ -532,7 +532,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ는 기기 찾기 활성화를 권장합니다.</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">귀하의 QQ 데이터는 기기 분실시에도 안전하게 보호될 것입니다.</string>
     <string name="micloud_find_device_guide_alert_title">Mi 계정의 비밀번호를 기억하세요.</string>
-    <string name="micloud_find_device_guide_alert_content">기기 찾기는 Mi 계정과 연관되어 있습니다. 비밀번호를 설정하시거나 이미 설정하신 비밀번호를 입력이 필요하므로 Mi 계정 ID 및 비밀번호를 항상 잊어버리지 않도록 유념하세요.</string>
+    <string name="micloud_find_device_guide_alert_content">기기 찾기는 Mi 계정과 연관되어 있습니다. 비밀번호를 설정하시거나 이미 설정한 비밀번호를 입력이 필요하므로 Mi 계정 ID 및 비밀번호를 항상 잊어버리지 않도록 유념하세요.</string>
     <string name="micloud_find_device_guide_alert_positive">확인</string>
     <string name="micloud_find_device_guide_alert_negtive">사양하겠습니다.</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">사양하겠습니다.</string>
@@ -630,7 +630,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="reading_status_failure">"상태를 불러올 수 없습니다."</string>
     <string name="micloud_alert_dialog_negative">취소</string>
     <string name="micloud_alert_dialog_positive">확인</string>
-    <string name="micloud_main_head_menu_finddevice_unavailable">세컨드 스페이스에서는 기기 찾기 기능이 비활성화됩니다.</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">보조 공간에서는 기기 찾기 기능이 비활성화됩니다.</string>
     <string name="find_device_gdpr_prompt">기기 찾기를 켜시면 \"개인정보 보호정책\"에 동의하시는 것으로 간주됩니다. 이 약관에 동의하지 않는 경우 이 기능을 해제하세요.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">\"개인정보 보호정책\"</string>
     <string name="micloud_notif_content_privacy_reopen_failed">자세히 보기</string>
@@ -730,7 +730,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_sync_result_parse_exception">데이터 구문 분석 실패</string>
     <string name="micloud_sync_result_permission_error">권한 관련 에러</string>
     <string name="micloud_sync_result_request_error">동기화 요청 에러</string>
-    <string name="micloud_sync_result_secure_space_limit">세컨드 스페이스에 있는 항목 동기화 하지 않기</string>
+    <string name="micloud_sync_result_secure_space_limit">보조 공간에 있는 항목 동기화 하지 않기</string>
     <string name="micloud_sync_result_sim_activated_error">SIM 카드를 활성화할 수 없습니다.</string>
     <string name="micloud_sync_result_wifi_only">이 항목은 너무 큽니다. Wi-Fi에 연결 후 동기화하세요.</string>
     <string name="sync_detail_summary_off">동기화 꺼짐</string>

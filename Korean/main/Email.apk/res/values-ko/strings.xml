@@ -419,7 +419,7 @@
 %s "</string>
     <string name="exception_updated">이 이벤트의 세부 정보가 다음으로 변경 되었습니다: %s</string>
     <string name="exchange_name">기업</string>
-    <string name="exchange_name_alternate">마이크로소프트 익스체인지 엑티브씽크</string>
+    <string name="exchange_name_alternate">Microsoft 익스체인지 엑티브씽크</string>
     <string name="expand_recipient_details">받는 사람 세부 정보 확장</string>
     <string name="fail_get_email_message">메시지 받기 실패함.</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
@@ -754,11 +754,11 @@
     <string name="preferences_signature_dialog_title">서명</string>
     <string name="preferences_signature_summary_not_set">설정되지 않음</string>
     <string name="preferences_signature_title">서명</string>
-    <string name="preview_attachment">미리 보기</string>
+    <string name="preview_attachment">미리보기</string>
     <string name="previous_action">뒤로</string>
     <string name="print">인쇄</string>
     <string name="prompt_title">프롬프트</string>
-    <string name="protocol_setting_toast">동의하신 후 오른쪽 상단 모서리를 탭하여 설정 페이지로 이동하세요.</string>
+    <string name="protocol_setting_toast">동의한 후 오른쪽 상단 모서리를 탭하여 설정 페이지로 이동하세요.</string>
     <string name="pull_to_refresh">아래로 당겨서 새로고침</string>
     <string name="push_wps_better_confirm_download">다운로드</string>
     <string name="push_wps_better_confirm_exit">기타 앱</string>
@@ -810,7 +810,7 @@
     <string name="recognize_hotel_check_in_date">체크인 시간</string>
     <string name="recognize_hotel_hotel_money">가격 %1$s</string>
     <string name="recognize_hotel_notification_content">좋은 시간되세요!</string>
-    <string name="recognize_hotel_notification_title">예약하신 방이 %2$s/%3$s %1$s부터 입니다. 도착 전 예약을 확인하세요.</string>
+    <string name="recognize_hotel_notification_title">예약한 방이 %2$s/%3$s %1$s부터 입니다. 도착 전 예약을 확인하세요.</string>
     <string name="recognize_hotel_order_money">총 금액</string>
     <string name="recognize_hotel_other_money">기타 비용 %1$s</string>
     <string name="recognize_hotel_reverse_date">%1$s:%2$s %3$s 전에 체크인</string>
@@ -842,7 +842,7 @@
     <string name="remove_folder">%1$s에서 제거</string>
     <string name="remove_star">별 표시 해제</string>
     <string name="reply">답장</string>
-    <string name="reply_add_bodycontent">빠른 회신 텍스트 메시지 콘텐츠를 추가하시겠습니까?</string>
+    <string name="reply_add_bodycontent">빠른 회신 텍스트 메시지 컨텐츠를 추가하시겠습니까?</string>
     <string name="reply_all">전체 회신</string>
     <string name="reply_attribution" formatted="false">%2$s가 %1$s에 썼습니다:</string>
     <string name="report_phishing">피싱 신고</string>
@@ -1004,7 +1004,7 @@
     <string name="widget_other_views">기타</string>
     <string name="wipe_account_fail_description">허용</string>
     <string name="wipe_account_fail_title">개인정보를 삭제할 수 없음</string>
-    <string name="wrong_password">입력하신 비밀번호가 잘못되었습니다.</string>
+    <string name="wrong_password">입력한 비밀번호가 잘못되었습니다.</string>
     <string name="yes">예</string>
     <string name="you_are_in_mobile_network">모바일 데이터 연결을 사용하여 기록을 전송하시겠습니까? 계획한 데이터 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="youfuli">프로모션</string>
@@ -1066,7 +1066,7 @@
     <string name="open_external_storage_and_contacts_permission">설정에서 메일의 저장소 및 연락처 정보 접근 허용</string>
     <string name="overlays_fail_tip">사서함이 성공적으로 구성되지 않았다면 유감스럽게 생각합니다. 팝업 창 표시 사용 권한을 열고 다시 시도하세요.</string>
     <string name="overlays_ok">권한 열기</string>
-    <string name="overlays_tip">전화 설정 - 응용 프로그램 - 응용 프로그램 세부 정보 - 권한 관리자에서 플로팅 알림 권한을 열고 허용하세요.</string>
+    <string name="overlays_tip">전화 설정 - 앱 - 앱 세부 정보 - 권한 관리자에서 플로팅 알림 권한을 열고 허용하세요.</string>
     <string name="overlays_title">팝업 창 권한 열기</string>
     <string name="permission_tip">구성 실패합니다. 구성 권한 중에 전화 및 문자 메시지를 허용하세요.</string>
     <string name="quote_divider_6">---원본---</string>
@@ -1140,7 +1140,7 @@
     <string name="others_mail_des">기타 개인 또는 회사 이메일 서비스</string>
     <string name="qq_authorization_help_get">도움을 받으세요.</string>
     <string name="qq_authorization_know">인증코드 인식</string>
-    <string name="qq_authorization_tips">더이상 시도되지 않습니다.</string>
+    <string name="qq_authorization_tips">더 이상 시도되지 않습니다.</string>
     <string name="qq_verify_code">(QQ 인증 코드 필요함)</string>
     <string name="title_activity_about">정보</string>
     <string name="verify_code">인증 코드</string>
@@ -1212,7 +1212,7 @@
     <string name="login_qq_psw">코드로 로그인</string>
     <string name="mi_sync_erroe_toast">"네트워크 에러 발생: "</string>
     <string name="mi_sync_erroe_toast_other">"네트워크 에러 발생: "</string>
-    <string name="no_more_mail">메시지가 더이상 없습니다.</string>
+    <string name="no_more_mail">메시지가 더 이상 없습니다.</string>
     <string name="no_search_results">서버에서 계속 검색</string>
     <string name="pull_load_more">위로 당겨 더 불러오기</string>
     <string name="remote_search_body_too_large_prompt">"이 이메일은 너무 깁니다.
@@ -1225,7 +1225,7 @@
     <string name="attachment_opening_mode">첨부 파일 앱</string>
     <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>
     <string name="account_options_actionbar_title">계정 설정</string>
-    <string name="mail_outlook_login_tips">"비밀번호를 입력하도록 마이크로소프트로 리디렉션됩니다."</string>
+    <string name="mail_outlook_login_tips">"비밀번호를 입력하도록 Microsoft로 리디렉션됩니다."</string>
     <string name="mail_outlook_oauth_login">OAuth로 로그인</string>
     <string name="mail_outlook_psw_login">비밀번호로 로그인</string>
     <string name="outlook_login_failed_non_proxy_title">"아웃룩 서버에 액세스할 수 없습니다."</string>

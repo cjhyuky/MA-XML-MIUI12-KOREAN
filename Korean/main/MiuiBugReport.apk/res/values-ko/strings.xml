@@ -14,7 +14,7 @@
     <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다.</string>
     <string name="bugreport_dump_start_notification_title">버그 보고서 작성 중…</string>
-    <string name="bugreport_tool_log_dumping_desc">몇 분정도 걸릴 수 있습니다.</string>
+    <string name="bugreport_tool_log_dumping_desc">몇 분 정도 걸릴 수 있습니다.</string>
     <string name="bugreport_tool_log_dumping_title">버그 보고서 생성중</string>
     <string name="catch_full_log_action_cancel">취소</string>
     <string name="catch_full_log_action_complete">완료 후 업로드</string>
@@ -74,7 +74,7 @@
     <string name="err_type_systemapp">MIUI 앱</string>
     <string name="err_type_translate">언어</string>
     <string name="err_type_wifi">Wi-Fi</string>
-    <string name="err_type_xiaomi_family">Mi 홈</string>
+    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">고객 서비스</string>
     <string name="error_no_connection">네트워크에 연결할 수 없음</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s 문제 \"%2$s\"</string>
@@ -155,7 +155,7 @@
     <string name="feedback_submit_succ_button">완료</string>
     <string name="feedback_submitting">제출 중...</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s 건의 \"%2$s\"</string>
-    <string name="feedback_third_packagename_hint">어떤 서드파티 앱이 문제를 일으켰습니까?</string>
+    <string name="feedback_third_packagename_hint">어떤 타사 앱이 문제를 일으켰습니까?</string>
     <string name="feedback_title">제목</string>
     <string name="feedback_title_hint">문제점을 간략하게 설명해주세요.</string>
     <string name="feedback_title_reproductivity">생산성 선택</string>
@@ -328,8 +328,8 @@
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
     <string name="passport_email_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
-    <string name="passport_error_dup_email">입력하신 이메일은 이미 다른 계정과 연결되어 있습니다.</string>
-    <string name="passport_error_email">입력하신 이메일 주소가 잘못되었습니다.</string>
+    <string name="passport_error_dup_email">입력한 이메일은 이미 다른 계정과 연결되어 있습니다.</string>
+    <string name="passport_error_email">입력한 이메일 주소가 잘못되었습니다.</string>
     <string name="passport_error_empty_captcha_code">보안 문자 입력</string>
     <string name="passport_error_empty_email">사용자의 이메일 주소를 입력하세요.</string>
     <string name="passport_error_empty_phone_num">전화번호를 입력하세요.</string>
@@ -572,7 +572,7 @@
 크기: %2$s"</string>
     <string name="update_dialog_content_version">지금 %1$s 버전으로 업데이트 할 수 있습니다.</string>
     <string name="update_dialog_title">업데이트 가능</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 매니저 연결에 실패했습니다. 응용 프로그램 관리에서 다운로드 관리자 상태를 확인하세요.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 매니저 연결에 실패했습니다. 앱 관리에서 다운로드 관리자 상태를 확인하세요.</string>
     <string name="xiaomi_update_sdk_dialog_message">"버전 %1$s 소개
 크기: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$s 소개
@@ -668,7 +668,7 @@
     <string name="confirm_activate_email">확인됨</string>
     <string name="confirm_bundled_phone_dialog_title">관련 전화번호 확인</string>
     <string name="confirm_new_pwd">새 비밀번호 확인</string>
-    <string name="confirm_unbundled_phone_dialog_message">이 전화번호는 %1$s님의 Mi 계정 %2$s에 연결되어있습니다. 계속하면 더이상 Mi 계정 %3$s과 연결되지 않습니다. 계속하시겠습니까?</string>
+    <string name="confirm_unbundled_phone_dialog_message">이 전화번호는 %1$s님의 Mi 계정 %2$s에 연결되어있습니다. 계속하면 더 이상 Mi 계정 %3$s과 연결되지 않습니다. 계속하시겠습니까?</string>
     <string name="diagnosis_log_send_failed">"로그를 보낼 수 없습니다. 다시 시도하세요."</string>
     <string name="diagnosis_log_sent_format">"보낸 로그가 성공적으로 전송되었습니다.
 ID : %s
@@ -776,5 +776,5 @@ ID : %s
     <string name="v_code_title">보안코드 입력</string>
     <string name="open_settings">설정으로 이동</string>
     <string name="passport_can_not_receive_verification_code">"확인 코드를받을 수 없습니까?"</string>
-    <string name="request_camera_permission_message">이 서비스는 귀하의 허가를 요청해야하며, 당사는 귀하의 개인정보를 보호하기 위해 관련 법률을 엄격히 준수합니다. 카메라 액세스 : 아바타 설정을위한 실시간 녹화 서비스 경험 위의 권한에서이 기능은 제대로 작동하지 않지만이 응용 프로그램의 기본 기능 사용에는 영향을 미치지 않습니다. 시스템 설정에서 위의 권한 호출을 해제하여 동의를 철회 할 수 있습니다.</string>
+    <string name="request_camera_permission_message">이 서비스는 귀하의 허가를 요청해야하며, 당사는 귀하의 개인정보를 보호하기 위해 관련 법률을 엄격히 준수합니다. 카메라 액세스 : 아바타 설정을위한 실시간 녹화 서비스 경험 위의 권한에서이 기능은 제대로 작동하지 않지만이 앱의 기본 기능 사용에는 영향을 미치지 않습니다. 시스템 설정에서 위의 권한 호출을 해제하여 동의를 철회 할 수 있습니다.</string>
 </resources>

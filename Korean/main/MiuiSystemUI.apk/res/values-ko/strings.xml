@@ -363,7 +363,7 @@
     <string name="accessibility_recent_task_memory_info">총 RAM: %2$s | 사용가능한 RAM: %1$s. 더블 탭하여 지우기.</string>
     <string name="accessibility_recent_task_unlocked">잠금해제됨</string>
     <string name="accessibility_recent_task_unlocked_state">풀림 상태</string>
-    <string name="accessibility_recents_all_items_dismissed">모든 최근앱이 삭제되었습니다.</string>
+    <string name="accessibility_recents_all_items_dismissed">모든 최근 앱이 삭제되었습니다.</string>
     <string name="accessibility_recents_item_dismissed">%s 제거됨</string>
     <string name="accessibility_recents_item_launched">%s 시작중…</string>
     <string name="accessibility_recents_item_open_app_info">%s 앱 정보 보기.</string>
@@ -418,8 +418,8 @@
     <string name="active_input_method_subtypes">입력 방법</string>
     <string name="activity_launch_on_secondary_display_failed_text">앱이 세컨드 디스플레이에서 작동하지 않습니다.</string>
     <string name="activity_not_found">이 기기에 앱이 설치되어 있지 않습니다.</string>
-    <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로 만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="add_tile">타일 추가</string>
     <string name="adjust_button_width">버튼 넓이 조절</string>
@@ -697,7 +697,7 @@
     <string name="development_settings_summary">앱 개발을 위한 옵션 설정</string>
     <string name="development_settings_title">개발자 옵션</string>
     <string name="direct_boot_unaware_dialog_message">참고 : 다시 시작 후 휴대전화 잠금을 해제해야이 앱을 시작할 수 있습니다.</string>
-    <string name="disable_notification_summary">선택된 앱들에서 더이상 알림을 받지않기</string>
+    <string name="disable_notification_summary">선택된 앱들에서 더 이상 알림을 받지않기</string>
     <string name="disable_notification_title">알림 숨기기</string>
     <string name="disable_overlays">하드웨어 오버레이 비활성화</string>
     <string name="disable_overlays_summary">화면 렌더링에 GPU 항상 사용</string>
@@ -940,8 +940,8 @@
     <string name="incorrect_pukcode">잘못된 PUK 코드</string>
     <string name="input_password_after_boot_msg">기기 잠금을 해제하려면
 비밀번호를 입력하세요.</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화중에는 공간 간의 전환을 할 수 없습니다.</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">자녀보호 모드에서는 세컨드 스페이스로의 이동이 불가합니다.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">자녀보호 모드에서는 보조 공간로의 이동이 불가합니다.</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">기기 다시 시작 후에는 기본공간으로 진입해야 합니다.</string>
     <string name="input_password_hint_text">비밀번호 입력</string>
     <string name="input_pattern_hint_text">잠금해제 패턴 그리기</string>
@@ -1227,7 +1227,7 @@
     <string name="monitoring_description_management">이 기기는 귀하의 조직에서 관리합니다. 관리자는 설정, 회사 액세스, 앱, 기기와 연결된 데이터 및 기기의 위치 정보를 모니터링하고 관리할 수 있습니다. 자세한 정보는 관리자에게 문의하세요.</string>
     <string name="monitoring_description_management_ca_certificate">귀하의 조직에서 기기에 인증서를 설치하였습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_management_network_logging">관리자가 기기의 트래픽을 모니터링하는 네트워크 로깅을 사용하도록 설정했습니다.</string>
-    <string name="monitoring_description_named_management">귀하의 장치는 %1$s에 의해 관리됩니다. 귀하의 관리자는 설정, 회사 액세스, 응용 프로그램, 장치와 관련된 데이터 및 장치의 위치 정보를 모니터링하고 관리할 수 있습니다. 자세한 정보는 관리자에게 문의하세요.</string>
+    <string name="monitoring_description_named_management">귀하의 장치는 %1$s에 의해 관리됩니다. 귀하의 관리자는 설정, 회사 액세스, 앱, 장치와 관련된 데이터 및 장치의 위치 정보를 모니터링하고 관리할 수 있습니다. 자세한 정보는 관리자에게 문의하세요.</string>
     <string name="monitoring_description_named_vpn">이 기기는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s에 연결되어 있습니다.</string>
     <string name="monitoring_description_network_logging">관리자가 기기의 트래픽을 모니터링하는 네트워크 로깅을 사용하도록 설정했습니다. \n\n 자세한 정보는 관리자에게 문의하세요.</string>
     <string name="monitoring_description_personal_profile_named_vpn">개인 프로필이 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s에 연결되어 있습니다.</string>
@@ -1261,7 +1261,7 @@
     <string name="notification_channel_battery">배터리</string>
     <string name="notification_channel_controls_closed_accessibility">%1$s 앱을 위한 알림 컨트롤이 닫힘</string>
     <string name="notification_channel_controls_opened_accessibility">%1$s 앱을 위한 알림 컨트롤이 열림</string>
-    <string name="notification_channel_disabled">이 알림을 더이상 받지 않습니다.</string>
+    <string name="notification_channel_disabled">이 알림을 더 이상 받지 않습니다.</string>
     <string name="notification_channel_dnd">방해 금지 모드</string>
     <string name="notification_channel_general">문자</string>
     <string name="notification_channel_location">위치</string>
@@ -1336,7 +1336,7 @@
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_foget_password_ok">알겠습니다.</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;기기를 끄신 후 &lt;font color=#a5220e&gt;전원 버튼&lt;/font&gt;과 &lt;font color=#a5220e&gt;볼륨 업 버튼&lt;/font&gt;을 Mi 로고가 표시될 때까지 길게 누르세요.;&lt;/Data&gt;</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;&lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt;을 선택하신 후 기기가 다시 시작될 때까지 기다려주세요.;&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;&lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt;을 선택한 후 기기가 다시 시작될 때까지 기다려주세요.;&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="picture_color_mode">사진 모드</string>
@@ -1380,7 +1380,7 @@
     <string name="power_save_ps_clean">화면을 끌때마다 캐시 삭제</string>
     <string name="power_save_ps_close_setting">배터리 절약을 위해 백그라운드 서비스 끄기 (동기화, GPS)</string>
     <string name="power_save_ps_freeze">백그라운드에 앱 고정</string>
-    <string name="power_save_ps_limit">시스템앱 활동 제한</string>
+    <string name="power_save_ps_limit">시스템 앱 활동 제한</string>
     <string name="private_dns_mode_off">끄기</string>
     <string name="private_dns_mode_opportunistic">자동</string>
     <string name="private_dns_mode_provider">개인 DNS 제공자 호스트명</string>
@@ -1506,7 +1506,7 @@
     <string name="quick_settings_wifi_on_label">Wi-Fi가 켜져있습니다.</string>
     <string name="quick_settings_work_mode_label">업무 모드</string>
     <string name="rapid_charge_mode_tip">빠른 충전 모드</string>
-    <string name="recent_cannot_dock">세컨드 스페이스에서는 분할 화면을 이용할 수 없습니다.</string>
+    <string name="recent_cannot_dock">보조 공간에서는 분할 화면을 이용할 수 없습니다.</string>
     <string name="recent_dock_tip">탭하여 앱을 선택하세요.</string>
     <string name="recent_menu_item_info">정보</string>
     <string name="recent_menu_item_lock">잠금</string>
@@ -1527,7 +1527,7 @@
     <string name="recents_empty_message_dismissed_all">모든 항목을 삭제하였습니다.</string>
     <string name="recents_empty_message_multi_window">홈 화면으로 이동하여 앱 실행</string>
     <string name="recents_exit_multi_window_mode">종료</string>
-    <string name="recents_incompatible_app_message">이 앱은 분할화면을 지원하지 않습니다.</string>
+    <string name="recents_incompatible_app_message">이 앱은 분할 화면을 지원하지 않습니다.</string>
     <string name="recents_launch_disabled_message">%s 앱이 안전모드에서 중지되었습니다.</string>
     <string name="recents_launch_error_message">%s 시작 불가</string>
     <string name="recents_lock_to_app_button_label">화면 고정</string>
@@ -1611,7 +1611,7 @@
     <string name="select_usb_configuration_title">USB 설정 선택</string>
     <string name="select_webview_provider_dialog_title">웹뷰 실행 설정</string>
     <string name="select_webview_provider_title">웹뷰 실행</string>
-    <string name="select_webview_provider_toast_text">이 선택은 더이상 사용할 수 없습니다. 다시 시도하세요.</string>
+    <string name="select_webview_provider_toast_text">이 선택은 더 이상 사용할 수 없습니다. 다시 시도하세요.</string>
     <string name="settings_custom_notification">알림 관리</string>
     <string name="settings_toggle_position">토글 관리</string>
     <string name="settings_toggle_position_divider_list">이 바 위의 토글들이 활성화되어 있습니다.</string>
@@ -1965,7 +1965,7 @@
     <string name="wapi_psk_type_hex">Hexadecimal</string>
     <string name="wapi_yes">예</string>
     <string name="weather_publish_time">%1$s 업데이트됨</string>
-    <string name="wifi_ap_unable_to_handle_new_sta">엑세스 포인트가 일시적으로 가득참</string>
+    <string name="wifi_ap_unable_to_handle_new_sta">액세스 포인트가 일시적으로 가득참</string>
     <string name="wifi_auto_sel_wapi_cert">자동으로 선택</string>
     <string name="wifi_cant_connect">연결불가</string>
     <string name="wifi_cant_connect_to_ap">\'%1$s\' 기기에 연결 실패</string>

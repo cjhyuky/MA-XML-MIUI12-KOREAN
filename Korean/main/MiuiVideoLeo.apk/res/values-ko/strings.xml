@@ -302,7 +302,7 @@
     <string name="receive_develop_summary">이 앱의 베타 버젼 업데이트가 나오면 알림으로 알려줍니다.</string>
     <string name="receive_follow">새로운 에피소드 알림</string>
     <string name="receive_follow_summary">새로운 에피소드가 나오면 알림으로 알려줍니다.</string>
-    <string name="receive_mipush">콘텐츠 알림</string>
+    <string name="receive_mipush">컨텐츠 알림</string>
     <string name="receive_mipush_summary">새로운 컨텐츠가 나오면 알림으로 알려줍니다.</string>
     <string name="recentplay">최근 재생됨</string>
     <string name="refreshing">잠시만 기다려주세요…</string>
@@ -372,8 +372,8 @@
     <string name="tudou">투도우</string>
     <string name="tv_channel_empty_hint">채널 없음</string>
     <string name="tv_cp_info_format">%1$s 제공</string>
-    <string name="ui_style">콘텐츠 레이아웃</string>
-    <string name="ui_style_summary">콘텐츠 레이아웃 스타일을 선택하세요.</string>
+    <string name="ui_style">컨텐츠 레이아웃</string>
+    <string name="ui_style_summary">컨텐츠 레이아웃 스타일을 선택하세요.</string>
     <string name="unfavorite">즐겨찾기 취소</string>
     <string name="unknown_source">알 수 없는 출처</string>
     <string name="update">업데이트됨</string>
@@ -460,7 +460,7 @@
     <string name="vp_mobile_network_using_warning_line_2">데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="vp_more_show_video">광고 보기</string>
     <string name="vp_mplayer_error_io">IO 오퍼레이션 에러</string>
-    <string name="vp_mplayer_error_malformed">멜웨어성 미디어 콘텐츠</string>
+    <string name="vp_mplayer_error_malformed">멜웨어성 미디어 컨텐츠</string>
     <string name="vp_mplayer_error_server_died">미디어 서버 다운</string>
     <string name="vp_mplayer_error_timed_out">시간 초과</string>
     <string name="vp_newest_ep">새</string>
@@ -610,7 +610,7 @@
     <string name="subtitles">자막</string>
     <string name="synchronization">씽크</string>
     <string name="toast_player_list_header">재생 목록</string>
-    <string name="toast_player_list_none">더이상 컨텐츠 없음</string>
+    <string name="toast_player_list_none">더 이상 컨텐츠 없음</string>
     <string name="toast_screen_text_add">추가 완료</string>
     <string name="toast_screen_text_default">기본 크기</string>
     <string name="toast_screen_text_full">전체 화면</string>

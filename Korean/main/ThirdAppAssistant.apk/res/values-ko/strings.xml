@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
-    <string name="app_name">써드파티 앱 문제</string>
+    <string name="app_name">타사 앱 문제</string>
     <string name="dialog_content_message2_feedback">"이 문제에 대해 개발자에게 알리겠습니다. 업데이트를 확인하세요."</string>
     <string name="dialog_content_message2_update">"이 앱의 오래된 버전을 사용중이신걸로 보입니다. 지금 업데이트하시겠습니까?"</string>
     <string name="dialog_content_message_func_path">경로: 설정 > 앱 > 앱 관리 > 설정 > %s</string>
@@ -25,7 +25,7 @@
     <string name="dialog_content_message_unknown">"%s앱이 강제종료되었습니다. "</string>
     <string name="go_update">업데이트</string>
     <string name="i_know">확인</string>
-    <string name="no_reminder">"이 버전에서 더이상 이 문제 알리지 않기"</string>
+    <string name="no_reminder">"이 버전에서 더 이상 이 문제 알리지 않기"</string>
     <string name="notification_channel_name">앱 문제</string>
     <string name="notification_content_message">자세히 보시려면 탭하세요.</string>
     <string name="notification_title_message_shell">내부 에러로 인해 %s앱이 강제 종료되었습니다.</string>

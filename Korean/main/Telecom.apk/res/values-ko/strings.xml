@@ -79,12 +79,12 @@
     <string name="accessibility_wifi_three_bars">Wi-Fi 신호 양호함</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi 신호 약함.</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 기기간에 데이터를 복사하고, 알림없이 장치에 응용 프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 기기간에 데이터를 복사하고, 알림없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="allow_mock_location">위치 서비스 사용 허용</string>
     <string name="allow_mock_location_summary">위치 서비스 사용 허용</string>
     <string name="animator_duration_scale_title">에니메이터 스케일</string>
-    <string name="apn_settings_not_available">엑세스 포인트 이름 설정 수정 불가능</string>
+    <string name="apn_settings_not_available">액세스 포인트 이름 설정 수정 불가능</string>
     <string name="app_process_limit_title">백그라운드 제한</string>
     <string name="available_via_passpoint">%1$s에 의해 가능</string>
     <string name="battery_info_status_charging">충전중</string>
@@ -131,13 +131,13 @@
     <string name="bluetooth_pairing_rejected_error_message">%1$s에 연결 거절됨.</string>
     <string name="bluetooth_pairing_will_share_phonebook">연결은 연결될 때 연락처 및 통화 기록에 대한 액세스 권한을 부여합니다.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">장치와 로컬 인터넷 연결 공유</string>
-    <string name="bluetooth_pan_profile_summary_use_for">인터넷 엑세스를 위해 사용</string>
+    <string name="bluetooth_pan_profile_summary_use_for">인터넷 액세스를 위해 사용</string>
     <string name="bluetooth_pan_user_profile_summary_connected">인터넷 사용을 위해 기기 연결</string>
     <string name="bluetooth_profile_a2dp">미디어 오디오</string>
     <string name="bluetooth_profile_dun">Dial-up 네트워크 접근 권한</string>
     <string name="bluetooth_profile_headset">기기 오디오</string>
     <string name="bluetooth_profile_hid">입력 기기</string>
-    <string name="bluetooth_profile_map">메시지 엑세스</string>
+    <string name="bluetooth_profile_map">메시지 액세스</string>
     <string name="bluetooth_profile_opp">파일 전송</string>
     <string name="bluetooth_profile_pan">인터넷 연결</string>
     <string name="bluetooth_profile_pan_nap">인터넷 연결 공유</string>
@@ -214,7 +214,7 @@
     <string name="force_hw_ui">강제로 GPU 렌더링</string>
     <string name="force_hw_ui_summary">2D 드로잉용으로 GPU 강제 사용</string>
     <string name="force_msaa">4x MSAA 강제 사용</string>
-    <string name="force_msaa_summary">OpenGL ES 2.0 응용 프로그램에서 4x MSAA 사용</string>
+    <string name="force_msaa_summary">OpenGL ES 2.0 앱에서 4x MSAA 사용</string>
     <string name="force_resizable_activities">활동 크기 조정 가능</string>
     <string name="force_resizable_activities_summary">모든 앱에서 다중 창 크기를 조정할 수 있게 합니다.</string>
     <string name="force_rtl_layout_all_locales">강제 RTL 레이아웃 방향</string>
@@ -294,7 +294,7 @@
     <string name="select_usb_configuration_title">USB 설정 선택</string>
     <string name="select_webview_provider_dialog_title">웹뷰 실행 설정</string>
     <string name="select_webview_provider_title">웹뷰 실행</string>
-    <string name="select_webview_provider_toast_text">이 선택은 더이상 사용할 수 없습니다. 다시 시도하세요.</string>
+    <string name="select_webview_provider_toast_text">이 선택은 더 이상 사용할 수 없습니다. 다시 시도하세요.</string>
     <string name="show_all_anrs">모든 ANR 보기</string>
     <string name="show_all_anrs_summary">백그라운드 앱을 위해 \"앱 응답 없음\" 창을 보여줍니다.</string>
     <string name="show_hw_layers_updates">하드웨어 레벨 업데이트 보기</string>
@@ -437,7 +437,7 @@
     <string name="video_call_not_allowed_if_tty_enabled">영상 통화를 하려면 TTY 모드를 해제하세요.</string>
     <string name="alert_device_error">오디오 기기에 오류가 발생하였습니다.</string>
     <string name="call_duration_format">%1$s시간 %2$s분 %3$s초</string>
-    <string name="call_waiting_indication">상대방이 통화중입니다. 잠시만 기다려주세요...</string>
+    <string name="call_waiting_indication">상대방이 통화 중입니다. 잠시만 기다려주세요...</string>
     <string name="confirm_device_info_full">SD 카드 용량이 없어 내부 저장소에 녹음 파일이 저장되었습니다.</string>
     <string name="confirm_save_info_saved">녹음 파일이 저장되었습니다.</string>
     <string name="confirm_save_info_saved_to">녹음 파일이 다음 장소에 저장되었습니다 : </string>
@@ -482,8 +482,8 @@
     <string name="alert_outgoing_call">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>
     <string name="answering_ends_other_call">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>
     <string name="answering_ends_other_calls">이 전화를 연결할 경우 %1$s 전화가 끊어집니다.</string>
-    <string name="answering_ends_other_managed_call">이 전화를 연결할 경우 현재 통화중인 상대와 전화가 끊어집니다.</string>
-    <string name="answering_ends_other_managed_calls">이 전화를 연결할 경우 현재 통화중인 상대와 전화가 끊어집니다.</string>
+    <string name="answering_ends_other_managed_call">이 전화를 연결할 경우 현재 통화 중인 상대와 전화가 끊어집니다.</string>
+    <string name="answering_ends_other_managed_calls">이 전화를 연결할 경우 현재 통화 중인 상대와 전화가 끊어집니다.</string>
     <string name="answering_ends_other_managed_video_call">이 전화를 연결할 경우 현재 연결 중인 영상 통화가 끊어집니다.</string>
     <string name="answering_ends_other_video_call">이 전화를 연결할 경우 %1$s 영상 통화가 끊어집니다.</string>
     <string name="bluetooth_enable_inband_ringing">인 밴드 벨소리 사용</string>
@@ -649,7 +649,7 @@
     <string name="time_unit_just_now">방금</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
-    <string name="wifi_ap_unable_to_handle_new_sta">엑세스 포인트가 일시적으로 가득참</string>
+    <string name="wifi_ap_unable_to_handle_new_sta">액세스 포인트가 일시적으로 가득참</string>
     <string name="wifi_cant_connect">"연결불가"</string>
     <string name="wifi_cant_connect_to_ap">"'%1$s' 기기에 연결 실패"</string>
     <string name="wifi_check_password_try_again">비밀번호 확인후 다시 시도하세요.</string>

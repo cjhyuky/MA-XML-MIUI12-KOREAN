@@ -156,7 +156,7 @@
     <string name="title_delete_large_file">용량이 큰 파일 삭제</string>
     <string name="summary_delete_large_file">선택된 파일을 영구적으로 삭제하시겠습니까?</string>
     <string name="title_delete_cache">앱 캐시 삭제</string>
-    <string name="summary_delete_cache">선택된 응용 프로그램의 캐시를 지우시겠습니까?</string>
+    <string name="summary_delete_cache">선택된 앱의 캐시를 지우시겠습니까?</string>
     <string name="positive_confirm">확인</string>
     <string name="title_auto_cleaner">청소 미리 알림</string>
     <string name="summary_auto_cleaner">아무때나 쓰레기 크기가 100MB에 도달할 때 알림을 받으시겠습니까?</string>
@@ -312,8 +312,8 @@
     <string name="buy_traffic_pack">더 많은 데이터 구매</string>
     <string name="tips_of_traffic_pack_threshold">사용자가 트래픽 한계에 도달했을 때 더 많은 데이터를 구매하세요.</string>
     <string name="buy_immediately">구매</string>
-    <string name="title_of_auto_launch_manage">자동 시작</string>
-    <string name="tips_of_auto_launch_manage">사용하지 않는 앱이 자동시작되는 것을 방지하세요.</string>
+    <string name="title_of_auto_launch_manage">자동 실행</string>
+    <string name="tips_of_auto_launch_manage">사용하지 않는 앱이 자동 실행되는 것을 방지하세요.</string>
     <string name="title_of_app_manage">앱</string>
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
     <string name="title_of_traffic_notification">데이터 상태창</string>
@@ -360,7 +360,7 @@
     <string name="hints_quick_deep_clean">지금 청소</string>
     <string name="hints_quick_deep_uninstall">지금 삭제</string>
     <string name="hints_cache_msd_title">델타 업데이트</string>
-    <string name="hints_cache_msd_desc">델타 업데이트를 삭제해도 응용 프로그램 사용에 영향을주지 않습니다.</string>
+    <string name="hints_cache_msd_desc">델타 업데이트를 삭제해도 앱 사용에 영향을주지 않습니다.</string>
     <string name="hints_installed_app_never">사용되지 않음</string>
     <string name="hints_installed_app_fewer">가끔 사용됨</string>
     <string name="hints_installed_app_near">최근 사용됨</string>
@@ -746,7 +746,7 @@
     <string name="global_wa_shortcut_dialog_content">이 기능에 쉽게 액세스할 수 있도록 WhatsApp Cleaner의 홈 화면 바로 가기를 만듭니다.</string>
     <string name="global_wa_shortcut_dialog_title">홈 화면 바로 가기</string>
     <string name="global_wa_shortcut_toast">홈 화면 바로 가기 생성</string>
-    <string name="global_wa_wrapper">배경 화면</string>
+    <string name="global_wa_wrapper">배경화면</string>
     <string name="golbal_wa_backend_alert_dialog_btn">열기</string>
     <string name="abc_action_bar_home_description">홈 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>

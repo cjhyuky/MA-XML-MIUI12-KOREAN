@@ -315,10 +315,10 @@
     <string name="trans_intro_desc_8">"WeChat의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. WeChat 로그아웃 후에 Mi Mover를 이용하세요."</string>
     <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
-    <string name="trans_intro_desc_multiuser">"Mi Mover가 세컨드 스페이스에 엑세스할수 없습니다. 일부 정보들을 삭제한 후에 시도하세요."</string>
+    <string name="trans_intro_desc_multiuser">"Mi Mover가 보조 공간에 액세스할수 없습니다. 일부 정보들을 삭제한 후에 시도하세요."</string>
     <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR 코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
     <string name="trans_intro_desc_old">"Tap \"I'm a sender\". 새로운 휴대전화에서 QR 코드를 스캔하시고, \"전송\" 버튼을 눌러주세요."</string>
-    <string name="trans_intro_desc_private">"사진이 암호화되어 엑세스할수 없습니다. 이 사진들은 Mi 클라우드에서 확인하실 수 있습니다."</string>
+    <string name="trans_intro_desc_private">"사진이 암호화되어 액세스할수 없습니다. 이 사진들은 Mi 클라우드에서 확인하실 수 있습니다."</string>
     <string name="trans_intro_question_1">%d. iPhone에서 데이터 전송은 어떻게 하나요?</string>
     <string name="trans_intro_question_2">%d. 타 Android 기기들에서 데이터 전송을 어떻게 하나요?</string>
     <string name="trans_intro_question_3">%d. Mi Mover가 전송 도중 문제가 생겨 연결이 끊기면 어떻게 해야 하나요?</string>
@@ -330,7 +330,7 @@
     <string name="trans_intro_title">자주하는질문</string>
     <string name="trans_intro_title_account">계정 및 비밀번호:</string>
     <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
-    <string name="trans_intro_title_multiuser">세컨드 스페이스 데이터:</string>
+    <string name="trans_intro_title_multiuser">보조 공간 데이터:</string>
     <string name="trans_intro_title_new">새로운 기기에서의 데이터 전송</string>
     <string name="trans_intro_title_old">이전 기기에서의 데이터 전송</string>
     <string name="trans_intro_title_private">숨김처리된 앨범:</string>
@@ -548,7 +548,7 @@
     <string name="lack_perm_title">권한 요구됨</string>
     <string name="perm_camera">카메라</string>
     <string name="perm_location">GPS</string>
-    <string name="perm_read_call_log">통화기록 읽기</string>
+    <string name="perm_read_call_log">통화 기록 읽기</string>
     <string name="perm_read_contacts">연락처 읽기</string>
     <string name="perm_read_phone_state">"폰 상태 읽기"</string>
     <string name="perm_read_sms">문자 메시지 읽기</string>
@@ -603,7 +603,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="trans_cancel_selection_title">Mi Mover 대기</string>
     <string name="trans_select_notification_message">탭하여 보기</string>
     <string name="trans_select_notification_title">Mi Mover가 동작중입니다.</string>
-    <string name="trans_cancel_dialog_survey_title">전송을 중단하신 이유가 무엇입니까?</string>
+    <string name="trans_cancel_dialog_survey_title">전송을 중단한 이유가 무엇입니까?</string>
     <string name="trans_dialog_survey_finish">보내기</string>
     <string name="trans_success_dialog_button_market_comment">댓글</string>
     <string name="trans_success_dialog_button_survey">설문 조사</string>
@@ -732,13 +732,13 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_pc_restore_content3">%1$d. 열기 \"%2$s\" 그리고 복원 할 항목을 선택하세요.</string>
     <string name="new_pc_title">백업 복사</string>
     <string name="new_select_file">오디오, 동영상, 파일</string>
-    <string name="new_select_message">SMS, 연락처, 통화기록</string>
+    <string name="new_select_message">SMS, 연락처, 통화 기록</string>
     <string name="new_select_pic">이미지</string>
     <string name="new_select_system">기타 시스템 앱 데이터</string>
     <string name="new_select_tencent">QQ와 WeChat</string>
-    <string name="new_select_third">서드파티 앱과 데이터</string>
-    <string name="new_select_third_apk">서드파티 앱</string>
-    <string name="new_select_third_data">서드파티 앱과 데이터</string>
+    <string name="new_select_third">타사 앱과 데이터</string>
+    <string name="new_select_third_apk">타사 앱</string>
+    <string name="new_select_third_data">타사 앱과 데이터</string>
     <string name="new_tab_pc_backup">컴퓨터에서 백업</string>
     <string name="new_tab_pc_restore">컴퓨터에서 복원</string>
     <string name="new_task_finished">완료</string>

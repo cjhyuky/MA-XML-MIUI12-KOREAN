@@ -110,13 +110,13 @@
     <string name="device_owner_error_already_provisioned_user">이 기기는 이미 해당 유저를 위해 설정되어 있습니다.</string>
     <string name="device_owner_error_package_name_invalid">"관리 앱을 설치할 수 없습니다. 패키지 이름이 유효하지 않습니다. IT 부서에 문의하세요."</string>
     <string name="accept_and_continue">수용 &amp; 계속 진행</string>
-    <string name="access_links">엑세스 링크</string>
-    <string name="access_list_of_links">엑세스</string>
-    <string name="access_terms">엑세스 약관</string>
+    <string name="access_links">액세스 링크</string>
+    <string name="access_list_of_links">액세스</string>
+    <string name="access_terms">액세스 약관</string>
     <string name="cant_add_work_profile">"업무 프로필을 추가할 수 없습니다."</string>
     <string name="cant_set_up_device">"기기를 설정할 수 없습니다."</string>
     <string name="cant_set_up_profile">"프로필을 설정할 수 없습니다."</string>
-    <string name="change_device_launcher">기기 런쳐 변경</string>
+    <string name="change_device_launcher">기기 런처 변경</string>
     <string name="close_list">리스트 닫기</string>
     <string name="comp_profile_benefits_description">업무용 프로필을 사용하면 업무용 앱을 한 곳에서 관리할 수 있습니다.</string>
     <string name="contact_device_provider">문의 사항이 있을 경우 %1$s에게 문의하세요.</string>

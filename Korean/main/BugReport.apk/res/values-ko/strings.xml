@@ -9,7 +9,7 @@
     <string name="app_search">앱 검색</string>
     <string name="btn_send">전송</string>
     <string name="bugreport_dialog_not_show_again">다시 표시하지 않기</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"이제 이 기기의 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 공개하지 않으려면 다른 사람과 로그를 공유하지 마세요. 동의를 선택하시면 저희의 개인정보 보호정책과 사용자 동의에 동의하신걸로 처리됩니다.\"&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"이제 이 기기의 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 공개하지 않으려면 다른 사람과 로그를 공유하지 마세요. 동의를 선택하시면 저희의 개인정보 보호정책과 사용자 동의에 동의한걸로 처리됩니다.\"&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">탭하여 보기</string>
     <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다.</string>
@@ -74,7 +74,7 @@
     <string name="err_type_systemapp">MIUI 앱</string>
     <string name="err_type_translate">언어</string>
     <string name="err_type_wifi">Wi-Fi</string>
-    <string name="err_type_xiaomi_family">Mi 홈</string>
+    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">고객 서비스</string>
     <string name="error_no_connection">네트워크에 연결할 수 없음</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s 문제 \"%2$s\"</string>
@@ -155,7 +155,7 @@
     <string name="feedback_submit_succ_button">완료</string>
     <string name="feedback_submitting">제출 중...</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s 건의 \"%2$s\"</string>
-    <string name="feedback_third_packagename_hint">어떤 서드파티 앱이 문제를 일으켰습니까?</string>
+    <string name="feedback_third_packagename_hint">어떤 타사 앱이 문제를 일으켰습니까?</string>
     <string name="feedback_title">제목</string>
     <string name="feedback_title_hint">문제점을 간략하게 설명해주세요.</string>
     <string name="feedback_title_reproductivity">생산성 선택</string>
@@ -328,8 +328,8 @@
     <string name="passport_email_or_id_hint_text">이메일 주소 또는 Mi 계정 ID</string>
     <string name="passport_email_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화할 수 있습니다.</string>
     <string name="passport_error_device_id">기기 ID를 가져올 수 없습니다.</string>
-    <string name="passport_error_dup_email">입력하신 이메일은 이미 다른 계정과 연결되어 있습니다.</string>
-    <string name="passport_error_email">입력하신 이메일 주소가 잘못되었습니다.</string>
+    <string name="passport_error_dup_email">입력한 이메일은 이미 다른 계정과 연결되어 있습니다.</string>
+    <string name="passport_error_email">입력한 이메일 주소가 잘못되었습니다.</string>
     <string name="passport_error_empty_captcha_code">보안 문자 입력</string>
     <string name="passport_error_empty_email">사용자의 이메일 주소를 입력하세요.</string>
     <string name="passport_error_empty_phone_num">전화번호를 입력하세요.</string>
@@ -494,7 +494,7 @@
     <string name="title_customer_service">고객 서비스</string>
     <string name="title_first_aid">응급처치</string>
     <string name="title_frequent_question_feedback_main">FAQ</string>
-    <string name="title_mi_family">근처 Mi 홈</string>
+    <string name="title_mi_family">근처 Mi Home</string>
     <string name="title_nonsystem_app">기타 앱</string>
     <string name="title_same_question_feedback_main">MIUI 포럼에 비슷한 문제가 제기됐습니다.</string>
     <string name="title_system_app">MIUI 앱</string>

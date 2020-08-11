@@ -269,7 +269,7 @@
     <string name="life_post_setting_open_desc">현재 날씨 보고서 청취를 위해 오전 04:00에서 10:00 사이의 알람 반복을 해제합니다.</string>
     <string name="module_download_data_msg_timer">시계는 주변 소음 타이머 용 오디오 파일을 다운로드해야 합니다. 이 다운로드에는 약 20MB의 모바일 데이터가 필요합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_download_msg_timer">시계는 주변 소음 타이머 용 오디오 파일을 다운로드해야 합니다. 지금 다운로드하시겠습니까?</string>
-    <string name="personal_recommend">맞춤 콘텐츠 권장 사항</string>
+    <string name="personal_recommend">맞춤 컨텐츠 권장 사항</string>
     <string name="user_agreement">사용자 동의</string>
     <string name="update_notification_info">백그라운드에서 데이터 업데이트 중…</string>
     <string name="shortcut_new_alarm">알람 설정</string>
@@ -365,7 +365,7 @@
     <string name="bedtime_setting_repeat_type">취침 시간표는 언제 적용됩니까??</string>
     <string name="bedtime_setting_repeat_type_desc">"알림을 받을 요일을 선택하세요"</string>
     <string name="bedtime_settings">취침시간 설정</string>
-    <string name="bedtime_sleep_time_remind">"설정하신 이 시간 15분 전에 잠자리에 들게됩니다."</string>
+    <string name="bedtime_sleep_time_remind">"설정한 이 시간 15분 전에 잠자리에 들게됩니다."</string>
     <string name="bedtime_sleep_time_setting">언제 주무시나요?</string>
     <string name="bedtime_wake_up_time_remind">이때 알람이 울립니다.</string>
     <string name="bedtime_wake_up_time_setting">언제 일어나시나요?</string>
@@ -395,7 +395,7 @@
     <string name="sleep_notification_title">취침할 시간</string>
     <string name="sleep_record">수면 추적</string>
     <string name="sleep_record_desc">수면 데이터 기록 시작 켜기</string>
-    <string name="sleep_record_desc_detailed">수면 추적 기능은 Mi 건강에서 제공합니다. 전원을 켜면 Mi 건강은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록하여 통계를 차트 형태로 보여줍니다. 수면을 보다 정확하게 추적하려면 Mi 건강이 자동 시작되도록 하세요. 모든 관련 데이터가 기기에 로컬로 저장되므로 쉽게 관리할 수 ​​있습니다.</string>
+    <string name="sleep_record_desc_detailed">수면 추적 기능은 Mi 건강에서 제공합니다. 전원을 켜면 Mi 건강은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록하여 통계를 차트 형태로 보여줍니다. 수면을 보다 정확하게 추적하려면 Mi 건강이 자동 실행되도록 하세요. 모든 관련 데이터가 기기에 로컬로 저장되므로 쉽게 관리할 수 ​​있습니다.</string>
     <string name="sleep_record_no_data">Mi 건강이 충분한 데이터를 분석한 후 통계가 여기에 표시됩니다.</string>
     <string name="sleep_remind">취침시간 알림</string>
     <string name="sleep_time">잠듬</string>

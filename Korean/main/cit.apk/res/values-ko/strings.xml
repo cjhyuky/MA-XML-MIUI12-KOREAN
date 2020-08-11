@@ -894,8 +894,8 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_tof_sensor_check_title">Tof센서</string>
     <string name="cit_proximity_data_check_summary">근접 센서(수신기 근처에있는 휴대전화의 상단에 위치)를 손으로 덮은 다음 손을 멀리 움직입니다. 손을 멀리 떨어 뜨리면 값이 0.0에서 증가합니다 장치.
 초음파 근접 센서 인 경우 테스트 도중 전화를받는 동작을 시뮬레이션하세요.</string>
-    <string name="cit_tool_check_opt">확실하신가요?</string>
-    <string name="cit_tool_check_opt_with_reboot">다시 시작 됩니다, 확실하신가요?</string>
+    <string name="cit_tool_check_opt">확실한가요?</string>
+    <string name="cit_tool_check_opt_with_reboot">다시 시작 됩니다, 확실한가요?</string>
     <string name="cit_tool_current_modem_test_mode">네트워크 테스트 모드:</string>
     <string name="cit_tool_modem_rf_ant_test">모뎀 rf ant 테스트 설정</string>
     <string name="cit_tool_modem_test_clr">gpio 테스트 닫기</string>

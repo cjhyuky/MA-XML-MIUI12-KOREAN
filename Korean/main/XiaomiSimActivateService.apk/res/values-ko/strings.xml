@@ -72,7 +72,7 @@
     <string name="activate_popup_desc_failed_query_info">전화번호를 찾을 수 없습니다. SIM 카드가 활성화 되었는지 확인하세요.</string>
     <string name="activate_popup_confirm_failed_query_info">재전송</string>
     <string name="activate_popup_title_failed_server">서버 오류</string>
-    <string name="activate_popup_desc_failed_server">네트워크 연결을 확인하신 후 다시 시도하세요.</string>
+    <string name="activate_popup_desc_failed_server">네트워크 연결을 확인한 후 다시 시도하세요.</string>
     <string name="activate_popup_confirm_failed_server">다시 시도</string>
     <string name="activate_popup_title_failed_receive_sms">서버의 응답을 받지 못했습니다.</string>
     <string name="activate_popup_desc_failed_receive_sms">입력한 전화번호가 올바른지, SIM 카드가 활성화 되었는지 확인하세요.</string>

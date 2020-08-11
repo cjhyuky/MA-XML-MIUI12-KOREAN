@@ -19,7 +19,7 @@
     <string name="menu_setting_toast_recommend_normal">"%s의 알림이 줄어들지 않습니다."</string>
     <string name="menu_setting_toast_show_in_home">"%s의 알림은 그룹화되지 않습니다."</string>
     <string name="notification_aggregate_description1">MIUI는 푸시 알림 및 판촉 알림을 자동으로 그룹화하여 알림 음영이 덜 혼잡해질 수 있습니다.</string>
-    <string name="notification_aggregate_description2">"Google 알고리즘은 알림 콘텐츠를 분석하고 이 기능을 인스턴트 메신저의 중요한 알림 및 알림에는 적용하지 않습니다. 중요한 알림이 실수로 그룹화되어있는 경우 Google 알림을 사용하여 발생한 문제를 보고해주세요    \ "피드백 \"기능. "</string>
+    <string name="notification_aggregate_description2">"Google 알고리즘은 알림 컨텐츠를 분석하고 이 기능을 인스턴트 메신저의 중요한 알림 및 알림에는 적용하지 않습니다. 중요한 알림이 실수로 그룹화되어있는 경우 Google 알림을 사용하여 발생한 문제를 보고해주세요    \ "피드백 \"기능. "</string>
     <string name="notification_aggregate_summary">MIUI가 알림을 자동으로 그룹화하도록 허용</string>
     <string name="notification_aggregate_summary_inner">자동으로 푸시 및 프로모션 알림을 그룹화하도록 설정</string>
     <string name="notification_aggregate_title">그룹 알림</string>
@@ -80,7 +80,7 @@
     <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="search_menu_title">검색</string>
     <string name="category_ad">광고 마케팅</string>
-    <string name="category_content">콘텐츠 정보</string>
+    <string name="category_content">컨텐츠 정보</string>
     <string name="app_name">알림</string>
     <string name="default_list_type">설치된 순서로 정렬</string>
     <string name="disable_float_notification">"플로팅 알림 허용되지 않음"</string>
@@ -111,7 +111,7 @@
     <string name="notification_style_miui">MIUI 스타일</string>
     <string name="off">꺼짐</string>
     <string name="on">켜짐</string>
-    <string name="settings_guide_title">다른 설정이 필요하신가요?</string>
+    <string name="settings_guide_title">다른 설정이 필요한가요?</string>
     <string name="show_badge_notifications">알림 배지</string>
     <string name="status_bar_setting">상태 표시줄</string>
     <string name="summary_disable_float_notification">"플로팅 알림 허용되지 않음"</string>
