@@ -41,7 +41,7 @@
     <string name="basic_info_label_weight">몸무게</string>
     <string name="basic_info_save">저장</string>
     <string name="bg_control_dialog_go_set">설정</string>
-    <string name="bg_control_dialog_msg">"배터리 절약 기능은 Mi 건강의 백그라운드 활동을 제한합니다. 정확한 상태를 얻으려면 Mi 건강 앱이 백그라운드에서 항상 실행되도록 하세요."</string>
+    <string name="bg_control_dialog_msg">"절전 모드는 Mi 건강의 백그라운드 활동을 제한합니다. 정확한 상태를 얻으려면 Mi 건강 앱이 백그라운드에서 항상 실행되도록 하세요."</string>
     <string name="bg_control_dialog_title">백그라운드 제한</string>
     <string name="body_weight">몸무게</string>
     <string name="body_weight_descripe_content">체질량 지수(BMI)는 체질량을 키의 제곱(kg/?)으로 나눈 값입니다.</string>
@@ -259,7 +259,7 @@
     <string name="prompt_sleep_time_night">야간 수면</string>
     <string name="prompt_sleep_time_noon">낮잠</string>
     <string name="recommand_body_weight_msg">권장 목표 중량 : %1$.1f kg. 심혈관 질환 및 간 질환의 위험을 줄이려면 BMI %2$.1f에 도달하세요.</string>
-    <string name="recorded_menstruation">기록 된 기간</string>
+    <string name="recorded_menstruation">기록된 기간</string>
     <string name="record_body_weight_button">기록 무게</string>
     <string name="record_detail_page_title">세부 사항</string>
     <string name="remind">알림</string>
@@ -526,11 +526,11 @@
     <string name="data_delete_tip">이 기기에서 건강 데이터 삭제 중…</string>
     <string name="data_details">세부 사항</string>
     <string name="data_safety_tip_details">로그아웃 한 후에 건강 데이터가이 장치에 유지됩니다. 건강> 데이터 소스에서 건강 데이터를 삭제할 수 있습니다.</string>
-    <string name="data_safety_tip_details2">"일부 건강 데이터가 클라우드에 업로드되었습니다. 건강 데이터를이 기기에 유지하거나 삭제하도록 선택할 수 있습니다. 아래 \"삭제 \ "를 선택하면이 기기의 데이터 만 삭제됩니다 동기화 된 항목은 계속 클라우드에 저장됩니다. 보관하기로 선택한 후에 건강 데이터를 삭제하기로 결정한 경우 건강> 데이터 소스에서 수행 할 수 있습니다. "</string>
+    <string name="data_safety_tip_details2">"일부 건강 데이터가 클라우드에 업로드되었습니다. 건강 데이터를이 기기에 유지하거나 삭제하도록 선택할 수 있습니다. 아래 \"삭제 \ "를 선택하면 이 기기의 데이터만 삭제되며 동기화된 항목은 계속 클라우드에 저장됩니다. 보관하기로 선택한 후에 건강 데이터를 삭제하기로 결정한 경우 건강> 데이터 소스에서 수행 할 수 있습니다. "</string>
     <string name="data_safety_tip_title">건강 데이터 삭제</string>
     <string name="data_source">데이터 소스</string>
     <string name="data_source_data_updating">건강 데이터 업데이트 중…</string>
-    <string name="data_source_list_description">"Xiaomi 건강은 이러한 소스에서 상태 데이터 (%1$s)를 가져옵니다. 데이터가 여러 소스로 복제 된 경우 Xiaomi의 목록에서 첫 번째로 나타나는 소스의 데이터가 표시됩니다 건강. "</string>
+    <string name="data_source_list_description">"Xiaomi 건강은 이러한 소스에서 상태 데이터 (%1$s)를 가져옵니다. 데이터가 여러 소스로 복제된 경우 Xiaomi의 목록에서 첫 번째로 나타나는 소스의 데이터가 표시됩니다 건강. "</string>
     <string name="data_source_manage">데이터 소스 관리</string>
     <string name="data_source_not_support_hm_description">"%1$s은(는) 자세한 걸음 수를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스로 전환 해보세요."</string>
     <string name="date">날짜</string>
@@ -544,8 +544,8 @@
     <string name="delete">삭제</string>
     <string name="delete_all_data">모든 데이터 삭제</string>
     <string name="delete_all_data_sources">모든 데이터 소스 삭제</string>
-    <string name="delete_all_data_sources_description">추가 된 모든 데이터 소스를 삭제하시겠습니까?</string>
-    <string name="delete_origin_data_description">%1$s에 의해 생성 된 모든 데이터를 삭제하시겠습니까?</string>
+    <string name="delete_all_data_sources_description">추가된 모든 데이터 소스를 삭제하시겠습니까?</string>
+    <string name="delete_origin_data_description">%1$s에 의해 생성된 모든 데이터를 삭제하시겠습니까?</string>
     <string name="delete_record">레코드 삭제</string>
     <string name="description">세부 사항</string>
     <string name="detection_stop">이 세션은 일어나면 종료됩니다.</string>

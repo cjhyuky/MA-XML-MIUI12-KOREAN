@@ -72,7 +72,7 @@
     <string name="mms_asr_failed_error_network">인터넷에 연결하지 못했습니다.</string>
     <string name="mms_asr_loading_hint">인식 중…</string>
     <string name="mms_asr_recording_hint">녹음 중…</string>
-    <string name="mms_mms_not_download_completed_hint">MMS를 수신하였습니다.</string>
+    <string name="mms_mms_not_download_completed_hint">MMS를 수신했습니다.</string>
     <string name="mms_mms_self_not_download_completed_hint">MMS</string>
     <string name="mms_content_title">MMS</string>
     <string name="mms_mms_content_delete_mms_hint">이 메시지를 삭제하시겠습니까?</string>
@@ -87,7 +87,7 @@
     <string name="mms_player_dialog_play_audio">재생</string>
     <string name="mms_player_dialog_stop_audio">중지</string>
     <string name="mms_sms_status_send_sms_succeed_hint">전송됨</string>
-    <string name="mms_sms_status_received_hint">%1$s님이 귀하의 메시지를 수신하였습니다.</string>
+    <string name="mms_sms_status_received_hint">%1$s님이 귀하의 메시지를 수신했습니다.</string>
     <string name="mms_sms_status_send_sms_failed_hint">SMS를 전송하지 못했습니다.</string>
     <string name="mms_choose_phone_number_title">메시지 전송 대상</string>
     <string name="mms_multi_send_sms_btn_text_1">SIM 1 사용</string>
@@ -232,8 +232,8 @@
     <string name="text_sms_content_more_delete">삭제</string>
     <string name="text_sms_content_more_copy">복사</string>
     <string name="text_sms_content_more_copy_msg">복사됨</string>
-    <string name="launcher_select_guide_title">연락처 바로 가기</string>
-    <string name="launcher_select_guide_desc">전화나 메시지를 빠르게 보내기 위해 연락처 바로 가기를 만듭니다.</string>
+    <string name="launcher_select_guide_title">연락처 바로가기</string>
+    <string name="launcher_select_guide_desc">전화나 메시지를 빠르게 보내기 위해 연락처 바로가기를 만듭니다.</string>
     <string name="launcher_select_guide_btn_new_contact">연락처 추가</string>
     <string name="launcher_select_guide_btn_select_contact">연락처에서 선택</string>
     <string name="camera_rc_flip">뒤집기</string>

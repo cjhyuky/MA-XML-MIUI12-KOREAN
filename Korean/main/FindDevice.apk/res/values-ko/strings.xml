@@ -26,8 +26,8 @@
  SIM 카드를 교체하면, 이 기능을 다시 활성화하기 위해서 또 다른 SMS 메시지가 전송됩니다."</string>
     <string name="i_know">확인</string>
     <string name="unlock_error_network">네트워크에 연결할 수 없습니다.</string>
-    <string name="unlock_error_device_id">기기 ID를 가져오지 못하였습니다.</string>
-    <string name="unlock_error_ssl_hand_shake">서버에 연결하지 못하였습니다. 날짜와 시간을 수동으로 설정해보세요.</string>
+    <string name="unlock_error_device_id">기기 ID를 가져오지 못했습니다.</string>
+    <string name="unlock_error_ssl_hand_shake">서버에 연결하지 못했습니다. 날짜와 시간을 수동으로 설정해보세요.</string>
     <string name="unlock_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="unlock_error_server">서버 오류</string>
     <string name="unlock_access_denied">접근 거부됨</string>
@@ -52,9 +52,9 @@
     <string name="adding_or_updating_account">계정 업데이트 중…</string>
     <string name="unlocking">활성화 중…</string>
     <string name="unlock">활성화</string>
-    <string name="verify_password_failed">Mi 계정 %s ID를 인증하지 못하였습니다.</string>
+    <string name="verify_password_failed">Mi 계정 %s ID를 인증하지 못했습니다.</string>
     <string name="login_failed">로그인할 수 없습니다. %s.</string>
-    <string name="change_find_device_status_failed">%s 기기를 잠금해제하지 못하였습니다.</string>
+    <string name="change_find_device_status_failed">%s 기기를 잠금해제하지 못했습니다.</string>
     <string name="unlock_help_title">잠금해제 도움말:</string>
     <string name="unlock_help">"네트워크에 연결하세요.
  작동하는 SIM 카드를 삽입하고 유효하지 않은 Wi-Fi 네트워크에 연결하지 마세요.

@@ -24,14 +24,14 @@
     <string name="config_mode_title">백그라운드 설정</string>
     <string name="config_no_restrict_description">배터리 절약은 앱 활동을 제한하지 않습니다.</string>
     <string name="config_no_restrict_title">제한 없음</string>
-    <string name="config_restrict_function_description">몇몇 기능(예: 푸쉬 알림)은 영향을 받을 수 있습니다. 하지만 앱이 종료되지는 않습니다.</string>
+    <string name="config_restrict_function_description">일부 기능(예: 푸쉬 알림)은 영향을 받을 수 있습니다. 하지만 앱이 종료되지는 않습니다.</string>
     <string name="config_restrict_function_title">백그라운드 앱 제한</string>
     <string name="config_restrict_running_description">앱이 전력 절약을 위해서 종료될 것입니다.</string>
     <string name="config_restrict_running_title">백그라운드 활동 제한</string>
     <string name="config_restrict_running_warning">백그라운드 상태에서는 앱이 종료될 것입니다. 작업이 정상적이지 않을 수 있습니다.</string>
     <string name="config_scenario_policies_title">시나리오</string>
     <string name="config_suggest_description">앱과 활동 식별은 중요 작업에 영향을 주지 않습니다.\n배터리 절약은 선택한 앱에 대해서만 절전 작용을 합니다.</string>
-    <string name="config_suggest_suffix_title">MIUI 배터리 세이버 (추천)</string>
+    <string name="config_suggest_suffix_title">절전 모드 (추천)</string>
     <string name="confirm">승인</string>
     <string name="current_cloud_addr_is">클라우드 제어 서버 주소:</string>
     <string name="empty_title_apps_container_list">앱 없음</string>
@@ -41,8 +41,8 @@
     <string name="extreme_add_white_list_title">백그라운드 예외</string>
     <string name="extreme_mode_max_item_alert">익스트림 모드에서 백그라운드로 실행할 앱을 4개까지만 선택할 수 있습니다.</string>
     <string name="extreme_power_config_mode_category">최대 절약 모드</string>
-    <string name="extreme_power_config_mode_desc">&lt;li&gt;\"배터리 세이버는 앱을 끄고 홈 화면으로 돌아간 후 앱의 모든 백그라운드 활동을 중지합니다. 이 앱은 알림을 보내거나 업데이트를 받지 않습니다.\"&lt;/li&gt;\"\n\"&lt;li&gt;앱을 백그라운드에서 실행하려면 최근 앱 목록에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하세요. 배터리 세이버가 켜져 있으면 최대 4개의 앱만을 백그라운드에서 실행할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 세이버 기능은 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 30%이상 충전되면 자동으로 배터리 세이버 기능은 꺼지고 기기의 모든 기능을 정상적으로 사용할 수 있습니다.&lt;/li&gt;</string>
-    <string name="extreme_power_config_mode_summary">배터리 세이버는 백그라운드 작업을 제한하고 동기화를 중지합니다.</string>
+    <string name="extreme_power_config_mode_desc">&lt;li&gt;\"절전 모드는 앱을 끄고 홈 화면으로 돌아간 후 앱의 모든 백그라운드 활동을 중지합니다. 이 앱은 알림을 보내거나 업데이트를 받지 않습니다.\"&lt;/li&gt;\"\n\"&lt;li&gt;앱을 백그라운드에서 실행하려면 최근 앱 목록에서 앱을 잠그거나 아래의 백그라운드 예외에 앱을 추가하세요. 절전 모드가 켜져 있으면 최대 4개의 앱만을 백그라운드에서 실행할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;절전 모드 기능은 기본적으로 NFC를 끕니다. 설정에서 변경할 수 있습니다.&lt;/li&gt;\"\n\"&lt;li&gt;배터리 30%이상 충전되면 자동으로 절전 모드 기능은 꺼지고 기기의 모든 기능을 정상적으로 사용할 수 있습니다.&lt;/li&gt;</string>
+    <string name="extreme_power_config_mode_summary">절전 모드는 백그라운드 작업을 제한하고 동기화를 중지합니다.</string>
     <string name="extreme_power_config_mode_title">최대 절약 모드</string>
     <string name="extreme_power_settings_title">설정</string>
     <string name="failure">실패</string>
@@ -58,8 +58,8 @@
     <string name="nonui_mode_config_description">MIUI는 사용자가 기기를 사용하지 않는다는 걸 감지할 경우 화면을 포함한 모든 기능을 비활성화시킵니다.</string>
     <string name="nonui_mode_config_title">방해 금지 모드</string>
     <string name="notification_exit_extreme_mode_text">배터리가 %s 이상 충전 되었습니다.</string>
-    <string name="notification_exit_extreme_mode_title">배터리 세이버 끄기</string>
-    <string name="notification_open_extreme_mode_text">배터리 세이버 켜기</string>
+    <string name="notification_exit_extreme_mode_title">절전 모드 끄기</string>
+    <string name="notification_open_extreme_mode_text">절전 모드 켜기</string>
     <string name="performance_category">퍼포먼스</string>
     <string name="power_center">배터리 최적화</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s앱이 비정상적으로 동작합니다.</string>
@@ -100,7 +100,7 @@
     <string name="sleepmode_privacy_link">보안 및 개인정보 보호 더보기</string>
     <string name="sleepmode_privacy_title">잠자기 모드</string>
     <string name="sucess">성공</string>
-    <string name="update_profile_failture_not_connect_wifi">변경에 실패하였습니다. Wi-Fi에 연결되어있지 않습니다.</string>
+    <string name="update_profile_failture_not_connect_wifi">변경에 실패했습니다. Wi-Fi에 연결되어있지 않습니다.</string>
     <string name="update_profile_sucess">서버에서 업데이트 성공</string>
     <string name="vip_feedback">Vip 피드백</string>
     <string name="vip_feedback_enable">Vip 자동 피드백 활성화</string>

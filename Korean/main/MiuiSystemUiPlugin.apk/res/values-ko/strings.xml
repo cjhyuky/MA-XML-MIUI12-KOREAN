@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="quick_settings_scanner_label">스캐너</string>
-    <string name="already_in_small_freeform">몇몇 앱이 플로팅 창으로 열려있습니다.</string>
+    <string name="already_in_small_freeform">일부 앱이 플로팅 창으로 열려있습니다.</string>
     <string name="no_avaliable_application">사용가능한 앱 없음</string>
     <string name="quick_settings_hang_label">플로팅 창</string>
     <string name="quick_settings_hang_on">이제 플로팅 창을 사용할 수 있습니다.</string>

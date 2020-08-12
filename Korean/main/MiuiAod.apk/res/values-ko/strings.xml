@@ -130,7 +130,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="accessibility_battery_level">배터리 %d 퍼센트.</string>
-    <string name="accessibility_battery_level_charging">배터리 충전중, %d 퍼센트.</string>
+    <string name="accessibility_battery_level_charging">배터리 충전 중, %d 퍼센트.</string>
     <string name="aod_close_color_inversion">"이 기능은 색상 반전과 함께 사용할 수 없습니다. 먼저 색상 반전을 끄세요."</string>
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_dual_togother_12">aa hh:mm</string>

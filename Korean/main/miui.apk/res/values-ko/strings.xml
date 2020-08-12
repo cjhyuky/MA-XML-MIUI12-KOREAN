@@ -534,7 +534,7 @@
     <string name="deselect_all_description">전부 해제</string>
     <string name="select_all_description">전부 선택</string>
     <string name="search_action_mode_cancel">취소</string>
-    <string name="ota_recovery_theme_dialog_message">이전에 사용 된 테마의 일부 요소가 새로운 버전의 MIUI와 호환되지 않을 수 있습니다. 호환되지 않는 요소는 기본 옵션으로 대체됩니다.</string>
+    <string name="ota_recovery_theme_dialog_message">이전에 사용된 테마의 일부 요소가 새로운 버전의 MIUI와 호환되지 않을 수 있습니다. 호환되지 않는 요소는 기본 옵션으로 대체됩니다.</string>
     <string name="ota_recovery_theme_dialog_title">원본 테마 복원</string>
     <string name="ota_recovery_theme_notity_btn">복원</string>
     <string name="ota_recovery_theme_notity_content">"업데이트 전에 사용한 테마로 돌아갈 수 있습니다."</string>
@@ -546,9 +546,9 @@
     <string name="swipe_find_more">더 보려면 왼쪽으로 스와이프하세요.</string>
     <string name="date_picker_lunar">음력</string>
     <string name="device_status_failed">"전송할 수 없음</string>
-    <string name="device_status_sending">전송중…</string>
+    <string name="device_status_sending">전송 중…</string>
     <string name="device_status_success">전송 완료</string>
-    <string name="device_status_waiting">대기중…</string>
+    <string name="device_status_waiting">대기 중…</string>
     <string name="drag_failed_because_baby_album_cant_sort">"아기 앨범은 삭제할 수 없습니다."</string>
     <string name="drag_failed_because_not_custom_sort">맞춤 정렬 순서를 선택한 경우에만 항목을 다시 정렬 할 수 있습니다.</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"스크린샷 앨범을 삭제할 수 없습니다."</string>
@@ -624,12 +624,12 @@
     <string name="multi_view_tip_sub_title">표시된 항목의 크기를 조정하려면 두 손가락을 벌리거나 축소해 움직입니다.</string>
     <string name="multi_view_tip_title">확대 &amp; 축소</string>
     <string name="photo_editor_sky">하늘</string>
-    <string name="pick_people_cover_fail">오류가 발생하였습니다. 다시 시도하세요.</string>
+    <string name="pick_people_cover_fail">오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="pick_people_cover_page_title">커버 사진 선택</string>
     <string name="pick_people_cover_processing">잠시만 기다려 주세요…</string>
     <string name="pick_people_cover_success">커버 사진 적용 완료</string>
     <string name="picker_download_progress_file_message">파일 다운로드 중… (%1$d/%2$d)</string>
-    <string name="preference_copied">\"%1$s\"항목을 클립보드에 복사하였습니다.</string>
+    <string name="preference_copied">\"%1$s\"항목을 클립보드에 복사했습니다.</string>
     <string name="private_entry_lock_state_activated_text">보안 폴더 열기</string>
     <string name="private_entry_lock_state_enterd_text">보안 폴더 열기</string>
     <string name="prompt_not_support_format">"이 이미지를 사용하여 사진을 생성할 수 없습니다."</string>

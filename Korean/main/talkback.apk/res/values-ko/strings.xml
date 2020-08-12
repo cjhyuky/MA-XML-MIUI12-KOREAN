@@ -126,7 +126,7 @@
     <string name="granularity_line">줄</string>
     <string name="granularity_page">페이지</string>
     <string name="granularity_paragraph">단락</string>
-    <string name="granularity_pseudo_web_special_content">특별한 컨텐츠 탐색</string>
+    <string name="granularity_pseudo_web_special_content">특별한 콘텐츠 탐색</string>
     <string name="granularity_web_control">컨트롤 탐색</string>
     <string name="granularity_web_list">목록 탐색</string>
     <string name="granularity_web_section">섹션 탐색</string>

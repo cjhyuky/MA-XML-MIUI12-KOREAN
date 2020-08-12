@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="btn_restore_wait_china">Wi-Fi 대기중</string>
+    <string name="btn_restore_wait_china">Wi-Fi 대기 중</string>
     <string name="cloud_back_up_detail_discription_china">"이 항목은 장치가 Wi-Fi에 연결되면 Xiaomi 클라우드에 백업됩니다.
 * 앱, 홈 화면 레이아웃 및 배경화면
 * 알람, 시계 및 시간 설정
@@ -26,7 +26,7 @@
     <string name="cloud_app_dont_restore">새 기기로 설정</string>
     <string name="cloud_app_restore_wifi_prompt">Mi 클라우드 백업에서 복원하려면 Wi-Fi 네트워크에 연결해야 합니다.</string>
     <string name="cloud_backup_detail_state">자동 백업</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi 연결시 자동으로 Mi 클라우드 백업을 생성합니다.</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi 연결 시 자동으로 Mi 클라우드 백업을 생성합니다.</string>
     <string name="cloud_backup_detail_frequence">일정 백업</string>
     <string name="cloud_back_up_interval_long">일주일</string>
     <string name="cloud_back_up_interval_short">일</string>
@@ -138,7 +138,7 @@
     <string name="miui_device_name">Android</string>
     <string name="network_error">연결 없음</string>
     <string name="cancel_backup">중지</string>
-    <string name="app_is_running">앱이 작동중입니다…</string>
+    <string name="app_is_running">앱이 작동 중입니다…</string>
     <string name="arrange_restore_order">앱 복원중…</string>
     <string name="authentication_failed">"계정을 확인할 수 없습니다."</string>
     <string name="backup_fail_wifi_needed">"백업할 수 없습니다. Wi-Fi 연결이 필요합니다."</string>
@@ -217,15 +217,15 @@
     <string name="other_device_second_space">보조 공간</string>
     <string name="self_device_main_space">"이 휴대전화의 메인 공간"</string>
     <string name="self_device_second_space">"이 휴대전화의 보조 공간"</string>
-    <string name="desktop_wait_network">대기중…</string>
+    <string name="desktop_wait_network">대기 중…</string>
     <string name="doing_calc_backup_data_size">크기 계산중…</string>
     <string name="btn_restore_wait">Wi-Fi 기다리는 중</string>
     <string name="btn_restore_continue">그래도 복원</string>
     <string name="msg_restore_with_metered_network_pattern">%s개 파일이 다운로드 됩니다."</string>
     <string name="msg_restore_with_metered_network_hint">이 항목을 복원하면 모바일 데이터가 다운로드에 사용됩니다.</string>
-    <string name="msg_restore_start_with_metered_network">"홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다. %s개 파일이 다운로드됩니다."</string>
-    <string name="title_restore_with_current_network">홈 화면이 다시 시작됩니다. 백업 된 앱이 자동으로 다운로드됩니다.</string>
-    <string name="restore_network_unconnect">%s (연결 대기중)</string>
+    <string name="msg_restore_start_with_metered_network">"홈 화면이 다시 시작됩니다. 백업된 앱이 자동으로 다운로드됩니다. %s개 파일이 다운로드됩니다."</string>
+    <string name="title_restore_with_current_network">홈 화면이 다시 시작됩니다. 백업된 앱이 자동으로 다운로드됩니다.</string>
+    <string name="restore_network_unconnect">%s (연결 대기 중)</string>
     <string name="restore_network_pause">%s (다시 시작하려면 누르세요)</string>
     <string name="restore_detail_title">복원할 항목 선택</string>
     <string name="restore_detail_category_settings">설정</string>

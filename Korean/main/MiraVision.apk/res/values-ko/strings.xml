@@ -18,7 +18,7 @@
     <string name="clear_motion_title">선명한모션</string>
     <string name="color_effect_item">색 효과</string>
     <string name="content_sensitive_bright_summary">디스플레이 내용에 따라 패널 소비 전력 최소화</string>
-    <string name="content_sensitive_bright_title">컨텐츠 맞춤형 절전</string>
+    <string name="content_sensitive_bright_title">콘텐츠 맞춤형 절전</string>
     <string name="contrast_item">다이나믹 대비</string>
     <string name="display_effect_categroy">디스플레이 효과</string>
     <string name="drawer_close">탐색 창 닫기</string>

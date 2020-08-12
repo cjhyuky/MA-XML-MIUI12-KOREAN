@@ -59,7 +59,7 @@
     <string name="rcs_chatbot_audio_message">오디오 메시지를 받았습니다. 세부 정보를 보려면 탭하세요.</string>
     <string name="rcs_chatbot_card_message">카드를 받았습니다. 세부 정보를 보려면 탭하세요.</string>
     <string name="rcs_chatbot_file_message">파일을 받았습니다. 세부 정보를 보려면 탭하세요.</string>
-    <string name="rcs_chatbot_geo_message">위치 정보가 포함 된 메시지를 받았습니다. 세부 정보를 보려면 탭하세요.</string>
+    <string name="rcs_chatbot_geo_message">위치 정보가 포함된 메시지를 받았습니다. 세부 정보를 보려면 탭하세요.</string>
     <string name="rcs_chatbot_image_message">이미지를 받았습니다. 세부 정보를 보려면 탭하세요.</string>
     <string name="rcs_chatbot_local_net_error">"데이터를 가져올 수 없습니다.
 모바일 데이터를 켜고이 페이지를 다시여세요."</string>
@@ -81,7 +81,7 @@
     <string name="rcs_chatbot_progress_loading">잠깐만 기다려주세요…</string>
     <string name="rcs_chatbot_recommend_tab_empty">여기에 권장되는 앱이 없습니다.</string>
     <string name="rcs_chatbot_send_message">%s님과 기기의 데이터를 공유하시겠습니까?</string>
-    <string name="rcs_chatbot_server_error">"데이터를 가져올 수 없습니다.이 페이지를 다시여세요."</string>
+    <string name="rcs_chatbot_server_error">"데이터를 가져올 수 없습니다. 이 페이지를 다시여세요."</string>
     <string name="rcs_chatbot_service">고객 지원</string>
     <string name="rcs_chatbot_sms_remind_desp">이 메시지를 SMS로 변환하여 보내시겠습니까?</string>
     <string name="rcs_chatbot_sms_remind_title">SMS로 변환</string>
@@ -279,9 +279,9 @@
     <string name="error_timed_msg">잘못된 시간</string>
     <string name="ex_type_mx">Mi 메시지</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_message_size_limitation">메시지 크기 제한에 도달하였습니다.</string>
+    <string name="exceed_message_size_limitation">메시지 크기 제한에 도달했습니다.</string>
     <string name="exceed_message_size_limitation_add_slide">메시지 사이즈가 부족해 슬라이드를 추가할 수 없습니다.</string>
-    <string name="exceed_message_text_limitation">메시지 문자 길이 제한에 도달하였습니다.</string>
+    <string name="exceed_message_text_limitation">메시지 문자 길이 제한에 도달했습니다.</string>
     <string name="expire_on">만료: %s</string>
     <string name="exporting_progress_private_message">내보내는 중…</string>
     <string name="fail_to_add_attachment">첨부 파일을 추가하지 못했습니다.</string>
@@ -321,7 +321,7 @@
     <string name="hidden_sender_address">숨겨진 보낸 사람</string>
     <string name="hold_to_talk">길게 눌러 대화</string>
     <string name="hybrid_check_network">네트워크 설정</string>
-    <string name="hybrid_data_error">에러가 발생하였습니다.</string>
+    <string name="hybrid_data_error">오류가 발생했습니다.</string>
     <string name="hybrid_locating_fail">위치를 찾을 수 없음</string>
     <string name="hybrid_network_access_denied">네트워크 접근 거부됨</string>
     <string name="hybrid_network_unavaliable">네트워크에 연결할 수 없습니다.</string>
@@ -536,10 +536,10 @@
     <string name="pref_title_fwd_sender_info">전송자 정보 전달</string>
     <string name="pref_title_manage_sim_messages">SIM 카드 저장소</string>
     <string name="pref_title_miui_card">카드를 통해 전송</string>
-    <string name="pref_title_mms_auto_retrieval">MMS 컨텐츠 자동 다운로드</string>
+    <string name="pref_title_mms_auto_retrieval">MMS 콘텐츠 자동 다운로드</string>
     <string name="pref_title_mms_delete">MMS 메시지 제한</string>
     <string name="pref_title_mms_read_reports">MMS 수신 확인 보고서</string>
-    <string name="pref_title_mms_retrieval_during_roaming">로밍중에 MMS 컨텐츠 다운로드</string>
+    <string name="pref_title_mms_retrieval_during_roaming">로밍중에 MMS 콘텐츠 다운로드</string>
     <string name="pref_title_mms_validity_period">MMS 만료</string>
     <string name="pref_title_notification_body_enabled">잠금 화면에 메시지 보이기</string>
     <string name="pref_title_ringtone_repeat">소리 알림</string>
@@ -645,7 +645,7 @@
     <string name="send_message_notification_msg">탭하여 요청 세부사항 보기</string>
     <string name="send_message_notification_tickerText">기기가 권한을 요청 중입니다.</string>
     <string name="send_message_notification_title">권한 요청</string>
-    <string name="send_signature_confirm_dialog_message">발견된 컨텐츠 없음. 서명만 전송하시겠습니까?</string>
+    <string name="send_signature_confirm_dialog_message">발견된 콘텐츠 없음. 서명만 전송하시겠습니까?</string>
     <string name="send_signature_confirm_dialog_title">메시지 전송</string>
     <string name="send_sms">메시지 전송</string>
     <string name="send_to">받는 사람:</string>
@@ -794,8 +794,8 @@
     <string name="pref_summary_auto_delete">보관함이 꽉차면 오래된 메시지부터 순차적으로 삭제합니다.</string>
     <string name="pref_title_allow_upload_message_info">스팸 메시지 업로드</string>
     <string name="pref_title_auto_delete">오래된 메시지부터 삭제</string>
-    <string name="pref_title_mms_retrieval_during_international_roaming">해외로밍시 MMS 컨텐츠 다운로드</string>
-    <string name="pref_title_mms_retrieval_during_national_roaming">국내 사용중 MMS 컨텐츠 다운로드</string>
+    <string name="pref_title_mms_retrieval_during_international_roaming">해외로밍시 MMS 콘텐츠 다운로드</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">국내 사용중 MMS 콘텐츠 다운로드</string>
     <string name="sms_report">스팸 메시지 신고</string>
     <string name="verification_code_icon_name">인</string>
     <string name="yellowpage_recommend_msg">"MIUI의 메시지 기능을 살펴보세요"</string>
@@ -847,7 +847,7 @@
     <string name="dialog_title_networking">이용 약관</string>
     <string name="forward_message_select_title">전달 메시지</string>
     <string name="msg_type_sms_rcs">문자, MMS, 그리고 인터넷 메시지</string>
-    <string name="network_error_description">네트워크 에러가 발생했습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="network_error_description">네트워크 오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
     <string name="not_prepare_for_send">보낼 메시지 없음</string>
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="rcs_auto_resend_mms">MMS로 전환</string>
@@ -925,7 +925,7 @@
     <string name="cm_privacy_dialog_allow">동의</string>
     <string name="cm_privacy_dialog_cancel">취소</string>
     <string name="cm_privacy_dialog_spannable_tips">개인정보 보호정책</string>
-    <string name="cm_privacy_dialog_tips">"통신사에서 스마트 메시지 서비스를 허용하였습니다. 이 서비스를 사용하려면 인터넷과 위치서비스 사용이 필요합니다. 사용전 먼저 통신사의 약관에 동의해야 합니다. 동의하시겠습니까?"</string>
+    <string name="cm_privacy_dialog_tips">"통신사에서 스마트 메시지 서비스를 허용했습니다. 이 서비스를 사용하려면 인터넷과 위치서비스 사용이 필요합니다. 사용전 먼저 통신사의 약관에 동의해야 합니다. 동의하시겠습니까?"</string>
     <string name="cm_privacy_dialog_title">주의</string>
     <string name="current_data_version">Mi 메시지 버전</string>
     <string name="imageview_ad">광고</string>
@@ -972,7 +972,7 @@
     <string name="rcs_hello_from_pc">컴퓨터에서 Fetion에 로그인하여 파일을 전송하세요.</string>
     <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시후 다시 시도하세요.</string>
     <string name="dialog_sim_locked_confirm">확인</string>
-    <string name="dialog_sim_locked_message">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대전화에서 완벽하게 작동하지 않습니다.이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 Xiaomi 서비스 센터 또는 제품을 판매한 상점에 문의하세요."</string>
+    <string name="dialog_sim_locked_message">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대전화에서 완벽하게 작동하지 않습니다. 이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 Xiaomi 서비스 센터 또는 제품을 판매한 상점에 문의하세요."</string>
     <string name="dialog_complain_tips">메시지 앱이 항목을 보고할 수 있도록 네트워크 연결을 허용합니다.</string>
     <string name="action_get_otp">코드 받기</string>
     <string name="action_sign_in">로그인</string>

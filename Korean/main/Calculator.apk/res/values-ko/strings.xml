@@ -314,7 +314,7 @@
     <string name="install">설치</string>
     <string name="install_scanner_to_continued_use">스캐너가 설치되지 않았습니다. 다시 설치하시겠습니까?</string>
     <string name="scannerDesc">스캐너</string>
-    <string name="scanner_had_been_uninstalled">스캐너를 삭제하였습니다.</string>
+    <string name="scanner_had_been_uninstalled">스캐너를 삭제했습니다.</string>
     <string name="secondFunction">추가</string>
     <string name="secondFunctionDesc">추가 기능으로 전환</string>
     <string name="switchDesc">전환</string>

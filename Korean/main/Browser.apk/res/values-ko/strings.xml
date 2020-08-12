@@ -155,7 +155,7 @@
     <string name="bookmark_btn_select_none">전체 선택 해제</string>
     <string name="bookmark_cannot_save_url">이 URL 은 북마크 할 수 없습니다.</string>
     <string name="bookmark_deleted">북마크 삭제</string>
-    <string name="bookmark_error_page_title">에러 발생됨</string>
+    <string name="bookmark_error_page_title">오류 발생됨</string>
     <string name="bookmark_folder_needs_title">그룹 이름 입력</string>
     <string name="bookmark_group_lable">그룹</string>
     <string name="bookmark_move_to">이동</string>
@@ -581,7 +581,7 @@
     <string name="mw_autofill_clear_local_copy_button">복사본 삭제</string>
     <string name="mw_autofill_from_google_account_long">Google 페이에서</string>
     <string name="mw_autofill_keyboard_accessory_content_description">제안 가능함</string>
-    <string name="mw_autofill_popup_content_description">자동채우기 팝업 보기</string>
+    <string name="mw_autofill_popup_content_description">자동 채우기 팝업 보기</string>
     <string name="mw_autofill_scan_credit_card">새로운 카드 스캔</string>
     <string name="mw_autofill_wallet_management_link_text">나가기</string>
     <string name="mw_cast_notification_connected_message">%1$s에 접속중</string>
@@ -765,7 +765,7 @@
     <string name="mw_new_tab_otr_visible">사용자의 활동은 방문한 웹사이트와 인터넷 서비스 제공업체에 여전히 보여집니다.</string>
     <string name="mw_no_matches">일치하지 않음</string>
     <string name="mw_notification_category_browser">브라우저</string>
-    <string name="mw_notification_category_content_suggestions">컨텐츠 제안</string>
+    <string name="mw_notification_category_content_suggestions">콘텐츠 제안</string>
     <string name="mw_notification_category_downloads">다운로드</string>
     <string name="mw_notification_category_fullscreen_controls">전체 화면 사이트 설정</string>
     <string name="mw_notification_category_group_general">일반 설정</string>
@@ -773,7 +773,7 @@
     <string name="mw_notification_category_media">미디어</string>
     <string name="mw_notification_category_screen_capture">화면 캡처</string>
     <string name="mw_notification_category_sites">사이트</string>
-    <string name="mw_notification_hidden_text">숨겨진 컨텐츠</string>
+    <string name="mw_notification_hidden_text">숨겨진 콘텐츠</string>
     <string name="mw_ntp_title_no_suggestions">그게 전부입니다.</string>
     <string name="mw_older">이전</string>
     <string name="mw_opening_file_error">선택한 파일을 열지 못했습니다.</string>
@@ -885,7 +885,7 @@
     <string name="mw_save_password_notnow">나중에</string>
     <string name="mw_save_password_remember">저장하기</string>
     <string name="mw_search_menu_title">검색</string>
-    <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 컨텐츠 가져오기</string>
+    <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 콘텐츠 가져오기</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Google에서 제안한 맞춤형 컨텐츠를 얻으려면 Chrome에 로그인하세요.</string>
     <string name="mw_time_picker_dialog_am">오전</string>
     <string name="mw_time_picker_dialog_pm">오후</string>
@@ -997,7 +997,7 @@
     <string name="pref_confirm_for_exit">브라우저 종료 전에 알림 창 표시</string>
     <string name="pref_content_auto_light_mode">자동 밝기</string>
     <string name="pref_content_block_popups">팝업 차단</string>
-    <string name="pref_content_cloud_speedup">프록시 서버 사용하여 컨텐츠 더 빠르게 불러오기</string>
+    <string name="pref_content_cloud_speedup">프록시 서버 사용하여 콘텐츠 더 빠르게 불러오기</string>
     <string name="pref_content_fontsize_setting">폰트 설정</string>
     <string name="pref_content_homepage">시작 페이지 설정</string>
     <string name="pref_content_javascript">JavaScript 사용</string>
@@ -1200,7 +1200,7 @@
     <string name="send_comment_title">댓글</string>
     <string name="send_diagnosis_log">진단 로그 보내기</string>
     <string name="senddesktop">홈 화면</string>
-    <string name="sending">전송중…</string>
+    <string name="sending">전송 중…</string>
     <string name="sendstartpage">시작 페이지</string>
     <string name="sequence_bookmark_description">길게 눌러 북마크 수정</string>
     <string name="share_by_yidianzixun">[약간의 정보]</string>
@@ -1209,7 +1209,7 @@
     <string name="share_video">동영상 공유</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 컨텐츠 : 귀하의 데이터는 관련 현지화 된 뉴스 컨텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화된 뉴스 컨텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="sign_and_open">로그인 후 열기</string>
     <string name="sign_in">체크인</string>
@@ -1229,7 +1229,7 @@
     <string name="small_video_loading">불러오는 중...</string>
     <string name="small_video_main_tab">추천</string>
     <string name="small_video_native_tab">짧은 동영상</string>
-    <string name="small_video_net_error">연결 에러</string>
+    <string name="small_video_net_error">연결 오류</string>
     <string name="small_video_no_more_date">데이터 없음</string>
     <string name="snapshot">로컬</string>
     <string name="snapshot_failed">오프라인에서 읽기 위해 저장하지 못했습니다.</string>
@@ -1439,7 +1439,7 @@
     <string name="action_menu_text_add_shortcut">바로가기 추가</string>
     <string name="ad_download_continue">계속하기</string>
     <string name="ad_download_downloading">다운로드 중</string>
-    <string name="ad_download_error">에러</string>
+    <string name="ad_download_error">오류</string>
     <string name="ad_download_immediately">다운로드</string>
     <string name="ad_download_open">열기</string>
     <string name="channel_complete">완료</string>
@@ -1452,7 +1452,7 @@
     <string name="data_traffic_download_toast_msg">현재 데이터 트래픽을 사용하여 동영상 수집</string>
     <string name="document_open_txt_message">읽기 경험과 확실한 보안 향상을 하려면 책장 기능을 사용하세요.</string>
     <string name="document_open_txt_start_read">읽기 시작</string>
-    <string name="multi_window_max_tips">최대 허용창 수를 초과하였습니다.</string>
+    <string name="multi_window_max_tips">최대 허용창 수를 초과했습니다.</string>
     <string name="mw_add_to_dictionary">사전에 추가</string>
     <string name="mw_delete_suggestion_text">삭제</string>
     <string name="search_description">검색 바</string>
@@ -1460,8 +1460,8 @@
     <string name="send_desktop">홈 화면</string>
     <string name="send_startpage">시작 페이지</string>
     <string name="toast_feedback">이런 종류의 컨텐츠를 원치 않으십니까</string>
-    <string name="video_download_wait_for_caching">캐싱 대기중</string>
-    <string name="video_download_wait_for_network">네트워크 대기중</string>
+    <string name="video_download_wait_for_caching">캐싱 대기 중</string>
+    <string name="video_download_wait_for_network">네트워크 대기 중</string>
     <string name="vo_info_flow_debug_title">데이터 디버그</string>
     <string name="no_memory_space">저장공간이 부족합니다.</string>
     <string name="wechat_not_installed">WeChat이 설치되어 있지 않습니다.</string>
@@ -1512,10 +1512,10 @@
     <string name="vo_comment_text">댓글</string>
     <string name="vo_feedback_back">뒤로</string>
     <string name="vo_feedback_black">차단 : %s</string>
-    <string name="vo_feedback_content">컨텐츠 품질 저하</string>
+    <string name="vo_feedback_content">콘텐츠 품질 저하</string>
     <string name="vo_feedback_dislike">관심 없음</string>
     <string name="vo_feedback_frequent">너무 자주 나타납니다.</string>
-    <string name="vo_feedback_quality">컨텐츠 품질에 대한 피드백</string>
+    <string name="vo_feedback_quality">콘텐츠 품질에 대한 피드백</string>
     <string name="vo_feedback_shield">차단 목록</string>
     <string name="vo_feedback_sub_quality">클릭 베이트, 욕설 등</string>
     <string name="vo_info_flow_load_error_content">다시 시도</string>
@@ -1551,7 +1551,7 @@
     <string name="browser_default_setting_content">빠르고 안전한 웹 브라우징</string>
     <string name="browser_default_setting_title">기본 브라우저로 설정</string>
     <string name="load_error_tip">"항목 로딩 실패. 탭하여 다시 시도하세요."</string>
-    <string name="network_error_tips">네트워크 에러가 발생했습니다. 다시 시도하세요.</string>
+    <string name="network_error_tips">네트워크 오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="notification_channel_name_local_push">브라우저 알림</string>
     <string name="refresh_text">다시 시도</string>
     <string name="add_tag">태그 추가</string>
@@ -1567,7 +1567,7 @@
     <string name="system_permission_storage_purpose">저장된 이미지와 같은 파일을 읽고 쓰거나 파일 업로드 / 다운로드 기능을 활성화하는 데 사용됩니다.</string>
     <string name="vo_feedback_sub_shield">, 등.</string>
     <string name="vo_info_flow_rs_hint">검색</string>
-    <string name="channel_network_error">네트워크 에러가 발생했습니다. 네트워크 설정을 확인 후 다시 시도하세요.</string>
+    <string name="channel_network_error">네트워크 오류가 발생했습니다. 네트워크 설정을 확인 후 다시 시도하세요.</string>
     <string name="channel_no_data">"더 이상 없습니다. 다른 채널을 확인해보세요!"</string>
     <string name="comment_fail">"댓글 추가 실패. 다시 시도하세요."</string>
     <string name="comment_success">댓글 추가 완료</string>
@@ -1594,7 +1594,7 @@
     <string name="comment_reply_sucess">답장 완료</string>
     <string name="comment_report_advertising_marketing">마케팅 또는 잠재 광고</string>
     <string name="comment_report_harassment_abuse">희롱 또는 증오심 표현</string>
-    <string name="comment_report_pornographic_violence">성적으로 명백하거나 폭력적인 컨텐츠</string>
+    <string name="comment_report_pornographic_violence">성적으로 명백하거나 폭력적인 콘텐츠</string>
     <string name="comment_report_reactionary_politics">Political 정치 극단주의</string>
     <string name="comment_report_send">제출 완료</string>
     <string name="comment_select_report_reason">신고하는 이유가 무엇인가요?</string>

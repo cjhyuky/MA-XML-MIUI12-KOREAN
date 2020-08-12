@@ -88,7 +88,7 @@
     <string name="goto_sign_up">회원가입</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei 체험판이 시작되었습니다.</string>
     <string name="passport_sign_in_or_sign_up">계정으로 로그인/회원가입</string>
-    <string name="add_shortcut_success">홈 스크린 바로 가기가 성공적으로 생성됨</string>
+    <string name="add_shortcut_success">홈 스크린 바로가기가 성공적으로 생성됨</string>
     <string name="broadcast_list">채널</string>
     <string name="cancel_delay_stop">타이머 끄기</string>
     <string name="favor_list">즐겨찾기</string>
@@ -212,8 +212,8 @@ ID:%s
     <string name="get_phone_bind_exceed_limit">한 개의 전화번호로 최대 3개의 Mi 계정을 연결할 수 있습니다. 새로운 계정을 추가할 수 없습니다.</string>
     <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="headline_shortcut_confirm">확인</string>
-    <string name="headline_shortcut_message">한 번의 클릭으로 데스크탑 바로 가기, 인기 뉴스에 헤드 라인 추가!</string>
-    <string name="headline_shortcut_title">제목 바로 가기 항목 듣기</string>
+    <string name="headline_shortcut_message">한 번의 클릭으로 데스크탑 바로가기, 인기 뉴스에 헤드 라인 추가!</string>
+    <string name="headline_shortcut_title">제목 바로가기 항목 듣기</string>
     <string name="identity">확인</string>
     <string name="inconsistent_pwd">"비밀번호가 같지 않습니다."</string>
     <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 될 것입니다.</string>
@@ -228,7 +228,7 @@ ID:%s
     <string name="no_account">로그인되지 않음</string>
     <string name="no_phone">전화번호 없음</string>
     <string name="ok">확인</string>
-    <string name="online_setting_message">더 인기있는 컨텐츠를 들으려면 온라인 컨텐츠 서비스를여세요.</string>
+    <string name="online_setting_message">더 인기있는 컨텐츠를 들으려면 온라인 콘텐츠 서비스를 여세요.</string>
     <string name="online_setting_title">더보기</string>
     <string name="passport_access_denied">접근 거부됨</string>
     <string name="passport_account_label">Mi 계정</string>
@@ -295,7 +295,7 @@ ID:%s
     <string name="passport_trying_read_verify_code_sms">인증 코드 얻는 중…</string>
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
-    <string name="passport_user_agreement_link"><Data>"Xiaomi의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하였습니다."</Data></string>
+    <string name="passport_user_agreement_link"><Data>"Xiaomi의 &lt;a href=%1$s>사용자 동의&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의했습니다."</Data></string>
     <string name="passport_user_agreement_link_more">"&lt;Data>Xiaomi의 &lt;a href=%1$s>사용자 동의&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 문서를 읽었으며 이에 동의합니다.&lt;/Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>

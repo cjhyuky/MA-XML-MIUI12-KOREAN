@@ -118,7 +118,7 @@
         <item>최대 4개 처리</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>충전중</item>
+        <item>충전 중</item>
         <item>MTP (미디어 전송 프로트콜)</item>
         <item>PTP (사진 전송 프로트콜)</item>
         <item>RNDIS (USB 이더넷)</item>

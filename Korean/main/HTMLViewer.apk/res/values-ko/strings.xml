@@ -9,7 +9,7 @@
     <string name="mibi_license">Mi 크레딧 이용 약관</string>
     <string name="license_host_unreachable">"네트워크 연결 실패, 이 정보를 바로 확인하려면
 다른 기기로 %s을 방문하세요."</string>
-    <string name="permdesc_accessDrm">앱의 DRM 보호 컨텐츠 접근 허용</string>
+    <string name="permdesc_accessDrm">앱의 DRM 보호 콘텐츠 접근 허용</string>
     <string name="open_wifi_connect_title">%1$s에 연결됨</string>
     <string name="open_wifi_connect_summary">탭하여 세부사항 보기</string>
     <string name="settings_license_activity_title">오픈 소스 라이센스</string>

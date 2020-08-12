@@ -137,7 +137,7 @@
     <string name="dialog_revoke_privacy_info_new2">승인을 취소하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 Google 서버에서 삭제됩니다. 이로 인해 앱을 사실상 사용할 수 없게 될 수도 있습니다. 그래도 권한을 취소하시겠습니까?</string>
     <string name="dialog_revoke_privacy_title">인증 취소</string>
     <string name="enable_background_audio">백그라운드에서 재생</string>
-    <string name="error_drm_not_supported">18세 미만의 API 수준에서 보호되지 않는 컨텐츠</string>
+    <string name="error_drm_not_supported">18세 미만의 API 수준에서 보호되지 않는 콘텐츠</string>
     <string name="error_drm_unknown">알수 없는 DRM 오류가 발생했습니다.</string>
     <string name="error_drm_unsupported_scheme">이 장치는 필수 DRM 체계를 지원하지 않습니다.</string>
     <string name="error_mg_content_not_available">귀하의 국가에서는이 컨텐츠를 사용할 수 없습니다.</string>
@@ -206,7 +206,7 @@
     <string name="lv_auto_update">나중에 업데이트하세요.</string>
     <string name="lv_brightness">밝기</string>
     <string name="lv_check_delete_file">삭제할 항목 선택</string>
-    <string name="lv_check_send_file">한 번에 하나의 파일 만 보낼 수 있습니다.</string>
+    <string name="lv_check_send_file">한 번에 하나의 파일만 보낼 수 있습니다.</string>
     <string name="lv_confirm_delete_history">선택한 항목 삭제?</string>
     <string name="lv_confirm_delete_videos">항목을 삭제하시겠습니까?</string>
     <string name="lv_confirm_hide_videos">동영상을 숨기시겠습니까?</string>
@@ -344,7 +344,7 @@
     <string name="ovp_detail_require_pay">임대료</string>
     <string name="ovp_detail_require_subscription">구독이 필요합니다.</string>
     <string name="ovp_detail_score">등급 :</string>
-    <string name="ovp_detail_shortcut">바로 가기</string>
+    <string name="ovp_detail_shortcut">바로가기</string>
     <string name="ovp_detail_summary">요약</string>
     <string name="ovp_detail_v_all_episode">모든 에피소드</string>
     <string name="ovp_detail_v_episode">에피소드</string>
@@ -412,7 +412,7 @@
     <string name="passport_password_req_notice">비밀번호는 길이가 8-16자 여야하며 숫자와 문자를 모두 포함해야 합니다 (대소문자 구분).</string>
     <string name="passport_privacy_policy">개인정보 보호 정책</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
-    <string name="passport_send_too_many_sms">이 번호로 전송 된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
+    <string name="passport_send_too_many_sms">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_sign_in">로그인</string>
     <string name="passport_sign_in_or_sign_up">로그인 / 계정 만들기</string>
@@ -509,7 +509,7 @@
     <string name="search_menu_title">검색</string>
     <string name="selectall">전체 선택</string>
     <string name="selectnull">전체 선택 해제</string>
-    <string name="session_create_error">서버가 세션 생성 에러코드를 반환했습니다. SDK 개발자에게 문의하세요!</string>
+    <string name="session_create_error">서버가 세션 생성 오류코드를 반환했습니다. SDK 개발자에게 문의하세요!</string>
     <string name="share">공유</string>
     <string name="share_ugc_content">%1$s을 살펴보세요! #%2$s(%3$s)</string>
     <string name="share_ugc_join">참여</string>

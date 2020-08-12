@@ -121,7 +121,7 @@
     <string name="collection_top_movies">인기 영화</string>
     <string name="collection_top_shows">인기 TV 프로그램</string>
     <string name="athome_detail_details_section">세부정보</string>
-    <string name="athome_detail_related_section">관련 컨텐츠</string>
+    <string name="athome_detail_related_section">관련 콘텐츠</string>
     <string name="athome_detail_seasons_section">시즌</string>
     <string name="athome_detail_episodes_section">에피소드</string>
     <string name="athome_detail_reviews_section">리뷰</string>
@@ -273,7 +273,7 @@
     <string name="dont_show_again">다시 표시하지 않음</string>
     <string name="recommended">Play 추천</string>
     <string name="related_suggestions">%1$s와(과) 비슷한 영화 더보기</string>
-    <string name="movie_extras">보너스 컨텐츠</string>
+    <string name="movie_extras">보너스 콘텐츠</string>
     <string name="dismiss_recommendations_welcome_title">추천 항목 닫기</string>
     <string name="dismiss_recommendations_welcome_description">이제 카드를 스와이프하여 추천 항목을 닫을 수 있습니다. 지금 시도해 보세요.</string>
     <string name="recommendation_removed">추천 항목 삭제</string>
@@ -513,12 +513,12 @@
     <string name="rental_expire_policy_dual_timers_description_finish_hours">대여 기간: %1$d일 이내에 시작, %2$d시간 이내에 종료</string>
     <string name="rental_expire_policy_dual_timers_description_finish_days">대여 기간: %1$d일 이내에 시작, %2$d일 이내에 종료</string>
     <string name="rental_expire_fixed_timer_description">대여 기간: %1$s 전에 종료</string>
-    <string name="content_restrictions">컨텐츠 제한</string>
+    <string name="content_restrictions">콘텐츠 제한</string>
     <string name="content_restrictions_summary">Play 무비 및 TV 앱에서 볼 수 있는 항목을 제한합니다.</string>
-    <string name="allow_unrated">등급 없는 컨텐츠 허용</string>
+    <string name="allow_unrated">등급 없는 콘텐츠 허용</string>
     <string name="allow_movies_rated">허용되는 영화 등급</string>
     <string name="allow_episodes_rated">허용되는 에피소드 등급</string>
-    <string name="allow_content_rated">허용되는 컨텐츠 등급</string>
+    <string name="allow_content_rated">허용되는 콘텐츠 등급</string>
     <string name="primary_storage">내부 저장소</string>
     <string name="sd_card">SD 카드</string>
     <string name="download_option_hd">HD(더 나은 화질)</string>
@@ -544,7 +544,7 @@
     <string name="pref_content_filtering_title">자녀 보호 기능</string>
     <string name="pref_content_filtering_on_summary">자녀 보호 기능 사용</string>
     <string name="pref_content_filtering_off_summary">모두 표시</string>
-    <string name="pref_content_filtering_unsupported_summary">Play 무비 앱의 연령 제한 컨텐츠</string>
+    <string name="pref_content_filtering_unsupported_summary">Play 무비 앱의 연령 제한 콘텐츠</string>
     <string name="pref_category_downloads">다운로드</string>
     <string name="pref_download_network_title">네트워크</string>
     <string name="pref_download_quality_title">화질</string>

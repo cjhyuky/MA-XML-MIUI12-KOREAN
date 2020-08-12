@@ -90,7 +90,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="enable_accessibility_dialog_positive_btn">확인</string>
     <string name="enable_accessibility_dialog_negative_btn">취소</string>
     <string name="cm_terms_title">모바일 네트워크 운영자 동의</string>
-    <string name="cm_terms_content">사용자에게 제공되는 서비스의 품질을 향상시키려면 Wi-Fi 네트워크나 모바일 데이터 연결을 통해 선택한 모바일 네트워크 운영자가 서버에 사용자의 개인정보와 이 기기의 정보를 업로드해야할 수 있습니다. 제공된 정보는 서비스 품질 향상과 개인화된 컨텐츠 제공을 위해 통계 목적으로만 사용됩니다. 제공된 정보는 개인을 특정하기 위해 사용하거나 제 3자에게 제공하지 않습니다.</string>
+    <string name="cm_terms_content">사용자에게 제공되는 서비스의 품질을 향상시키려면 Wi-Fi 네트워크나 모바일 데이터 연결을 통해 선택한 모바일 네트워크 운영자가 서버에 사용자의 개인정보와 이 기기의 정보를 업로드해야할 수 있습니다. 제공된 정보는 서비스 품질 향상과 개인화된 콘텐츠 제공을 위해 통계 목적으로만 사용됩니다. 제공된 정보는 개인을 특정하기 위해 사용하거나 제 3자에게 제공하지 않습니다.</string>
     <string name="two_dimensional_code_scan">QR 코드 스캔</string>
     <string name="user_strayed_warning">이 페이지는 공장 테스트를 위해 설계되었으며, 종료 버튼을 클릭하여 종료합니다.</string>
     <string name="fail_to_generate_qr_code">QR 코드를 생성하지 못했습니다. 이 페이지를 다시 입력하세요.</string>
@@ -164,7 +164,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="clock_introduction">이 앱을 사용하면 시간을 볼 수 있을 뿐만 아니라 타이머, 세계 시계, 스톱워치, 알람 설정 등을 사용할 수 있습니다.</string>
     <string name="close_location_service_setting">보안&gt; 설정&gt; 추가 설정&gt; 개인정보에서 위치 액세스 끄기를 선택하거나 개별 앱에 대한 권한을 제한할 수 있습니다.</string>
     <string name="compass_introduction">내비게이션, 대기압 및 고도를 볼 뿐만 아니라 내비게이션으로도 이 앱을 사용할 수 있습니다.</string>
-    <string name="content_introduction">컨텐츠 센터는 여러 채널에서 컨텐츠 및 서비스를 집계. 여기에서 기사를 읽고, 동영상을 보고, 일일 추천 항목을 보고, 컨텐츠 추천을 받을 수 있습니다.</string>
+    <string name="content_introduction">콘텐츠 센터는 여러 채널에서 콘텐츠 및 서비스를 집계. 여기에서 기사를 읽고, 동영상을 보고, 일일 추천 항목을 보고, 콘텐츠 추천을 받을 수 있습니다.</string>
     <string name="diagnose_report">시스템 문제를 찾아서 분석하고 사용자 경험을 향상시키기 위해 진단 데이터를 보냅니다. 이러한 데이터에는 개인정보 (예 :. IP, 위치 등)이 있습니다.</string>
     <string name="disageement_abnormal_download">그러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 서비스를 사용할 수 없습니다.</string>
     <string name="disagreement_abnormal_running">이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않는 경우 이 앱을 사용할 수 없습니다. 이러한 경우 설정에서 이 앱을 사용하지 않도록 선택하거나 권한을 제한할 수 있습니다.</string>
@@ -188,7 +188,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="permission_account_introduction">Mi 계정으로 로그인</string>
     <string name="permission_application_package_introduction">설치 패키지를 구문 분석하고 스캔하기 위해 스토리지에 액세스</string>
     <string name="permission_call_records">통화 기록에 액세스 :</string>
-    <string name="permission_call_records_introduction">차단 된 항목을 표시하기 위해 통화 내역에 액세스</string>
+    <string name="permission_call_records_introduction">차단된 항목을 표시하기 위해 통화 내역에 액세스</string>
     <string name="permission_call_state_introduction">전화 상태 액세스, 통화 녹음 및 수신 통화 중 녹음 일시 중지</string>
     <string name="permission_clock_info_introduction">알람 데이터 저장</string>
     <string name="permission_contact">연락처에 액세스:</string>
@@ -213,7 +213,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="permission_photo_video_introduction">사진 촬영, 동영상 녹화 및 플래시 사용</string>
     <string name="permission_picture_introduction">사진 및 동영상 저장, 편집 및 동기화</string>
     <string name="permission_read_call_records">통화 내역 편집 :</string>
-    <string name="permission_read_call_records_introduction">통화 내역에 항목 추가 및 차단 된 통화 삭제</string>
+    <string name="permission_read_call_records_introduction">통화 내역에 항목 추가 및 차단된 통화 삭제</string>
     <string name="permission_read_note_introduction">메모 및 첨부 파일에 액세스</string>
     <string name="permission_read_write_file">장치에서 파일 및 사진에 액세스하고 저장:</string>
     <string name="permission_read_write_file_introduction">장치의 항목에 액세스, 저장 및 캐싱</string>
@@ -240,7 +240,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="service_name_carrier">이동통신사 서비스 상태</string>
     <string name="service_name_clock">시계</string>
     <string name="service_name_compass">나침반</string>
-    <string name="service_name_content_center">컨텐츠 센터</string>
+    <string name="service_name_content_center">콘텐츠 센터</string>
     <string name="service_name_download">다운로드</string>
     <string name="service_name_fast_application">빠른 앱 프레임 워크</string>
     <string name="service_name_game">게임 플러그인</string>

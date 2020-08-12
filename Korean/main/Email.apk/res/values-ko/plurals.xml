@@ -25,7 +25,7 @@
         <item quantity="other">변경된 폴더</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">%1$d개 대화를 무시하였습니다.</item>
+        <item quantity="other">%1$d개 대화를 무시했습니다.</item>
     </plurals>
     <plurals name="conversation_not_important">
         <item quantity="other">%1$d개 대화가 중요 목록에서 제외되었습니다.</item>
@@ -34,10 +34,10 @@
         <item quantity="other">%1$d개 대화가 스팸에서 해제되었습니다.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">%1$d개 대화를 사기로 리포트하였습니다.</item>
+        <item quantity="other">%1$d개 대화를 사기로 리포트했습니다.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">%1$d개 대화를 스팸으로 리포트하였습니다.</item>
+        <item quantity="other">%1$d개 대화를 스팸으로 리포트했습니다.</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%d일</item>

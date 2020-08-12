@@ -9,8 +9,8 @@
     <string name="beam_complete">빔 작업 완료</string>
     <string name="beam_failed">빔 작업 미완료</string>
     <string name="beam_handover_not_supported">"상대 기기가 빔을 통한 대용량 파일 전송을 지원하지 않습니다."</string>
-    <string name="beam_outgoing">전송중...</string>
-    <string name="beam_progress">수신중...</string>
+    <string name="beam_outgoing">전송 중...</string>
+    <string name="beam_progress">수신 중...</string>
     <string name="beam_requires_nfc_enabled">Android Beam을 사용하기 위해서 NFC를 활성화해야 합니다. 지금 활성화하시겠습니까?</string>
     <string name="beam_tap_to_view">탭하여 보기</string>
     <string name="beam_try_again">기기를 다시 가까이 가져다 대세요.</string>

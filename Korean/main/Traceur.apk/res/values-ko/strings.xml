@@ -31,7 +31,7 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi 2 개의 바.</string>
     <string name="active_input_method_subtypes">활성 입력 방법</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로 만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림 없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="alarm_template">"%1$s에서 "</string>
     <string name="alarm_template_far">%1$s에</string>
@@ -44,9 +44,9 @@
     <string name="applications">앱</string>
     <string name="available_via_carrier">%1$s로 가능</string>
     <string name="available_via_passpoint">%1$s로 가능</string>
-    <string name="battery_info_status_charging">충전중</string>
-    <string name="battery_info_status_charging_lower">충전중</string>
-    <string name="battery_info_status_discharging">충전중이지 않음</string>
+    <string name="battery_info_status_charging">충전 중</string>
+    <string name="battery_info_status_charging_lower">충전 중</string>
+    <string name="battery_info_status_discharging">충전 중이지 않음</string>
     <string name="battery_info_status_full">가득참</string>
     <string name="battery_info_status_not_charging">연결되어있어 지금 충전 할 수 없습니다.</string>
     <string name="battery_info_status_unknown">알 수 없는</string>
@@ -94,7 +94,7 @@
     <string name="bluetooth_pairing_device_down_error_message">"%1$s 기기와 통신 할 수 없습니다. "</string>
     <string name="bluetooth_pairing_error_message">"%1$s 기기와 연결할 수 없습니다. "</string>
     <string name="bluetooth_pairing_pin_error_message">잘못된 PIN 또는 비밀번호 키 때문에 %1$s 기기와 연결할 수 없습니다.</string>
-    <string name="bluetooth_pairing_rejected_error_message">%1$s에 의해 거부 된 연결</string>
+    <string name="bluetooth_pairing_rejected_error_message">%1$s에 의해 거부된 연결</string>
     <string name="bluetooth_pairing_will_share_phonebook">연결은 연결될 때 연락처 및 통화 기록에 대한 액세스 권한을 부여합니다.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">장치와 로컬 인터넷 연결 공유</string>
     <string name="bluetooth_pan_profile_summary_use_for">인터넷 접속에 사용</string>
@@ -140,7 +140,7 @@
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그 사용</string>
     <string name="bt_hci_snoop_log_summary">파일에서 모든 블루투스 HCI 패킷 캡처 (이 설정을 변경 한 후 블루투스 전환)</string>
     <string name="buffer_size">버퍼 크기</string>
-    <string name="bugreport_in_power">버그보고 바로 가기</string>
+    <string name="bugreport_in_power">버그 보고 바로가기</string>
     <string name="bugreport_in_power_summary">전원 메뉴에 버그보고를하는 버튼 표시</string>
     <string name="button_convert_fbe">초기화 및 변환…</string>
     <string name="cancel">취소</string>
@@ -170,8 +170,8 @@
     <string name="daltonizer_mode_protanomaly">Protanomaly (빨강 - 녹색)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomaly (파랗 노란)</string>
     <string name="daltonizer_type_overridden">에 의해 재정의 됨 %1$s</string>
-    <string name="data_usage_uninstalled_apps">제거 된 앱</string>
-    <string name="data_usage_uninstalled_apps_users">삭제 된 앱 및 사용자</string>
+    <string name="data_usage_uninstalled_apps">제거된 앱</string>
+    <string name="data_usage_uninstalled_apps_users">삭제된 앱 및 사용자</string>
     <string name="debug_app">디버그 앱 선택</string>
     <string name="debug_app_not_set">디버그 앱이 설정되지 않았습니다.</string>
     <string name="debug_app_set">앱 디버깅 : %1$s</string>
@@ -189,7 +189,7 @@
     <string name="default_categories_restored">기본 카테고리 복원됨</string>
     <string name="dev_logpersist_clear_warning_message">지속적 로거를 사용하여 더 이상 모니터링하지 않는 경우 장치에있는 로거 데이터를 지워야합니다.</string>
     <string name="dev_logpersist_clear_warning_title">로거 영구 저장 장치를 지우시겠습니까?</string>
-    <string name="dev_settings_warning_message">이 설정은 개발 용으로 만 사용됩니다. 이로 인해 장치와 앱이 손상되거나 오작동을 일으킬 수 있습니다.</string>
+    <string name="dev_settings_warning_message">이 설정은 개발용으로만 사용됩니다. 이로 인해 장치와 앱이 손상되거나 오작동을 일으킬 수 있습니다.</string>
     <string name="dev_settings_warning_title">개발자 설정을 허용하시겠습니까?</string>
     <string name="development_settings_enable">개발자 옵션 사용</string>
     <string name="development_settings_not_available">이 사용자는 개발자 옵션을 사용할 수 없습니다.</string>
@@ -202,7 +202,7 @@
     <string name="disabled_by_admin">관리자가 사용 중지 함</string>
     <string name="disabled_by_admin_summary_text">관리자가 제어 함</string>
     <string name="enable_adb">USB 디버깅</string>
-    <string name="enable_adb_summary">USB 연결시 디버그 모드</string>
+    <string name="enable_adb_summary">USB 연결 시 디버그 모드</string>
     <string name="enable_freeform_support">자유형 창 사용</string>
     <string name="enable_freeform_support_summary">실험용 자유형 윈도우에 대한 지원을 사용합니다.</string>
     <string name="enable_gpu_debug_layers">GPU 디버그 레이어 사용</string>
@@ -405,7 +405,7 @@
     <string name="transition_animation_scale_title">전환 애니메이션 스케일</string>
     <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
     <string name="tts_default_lang_title">언어</string>
-    <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을 미칩니다.</string>
+    <string name="tts_default_pitch_summary">합성된 음성의 톤에 영향을 미칩니다.</string>
     <string name="tts_default_pitch_title">피치</string>
     <string name="tts_default_rate_summary">텍스트가 읽히는 속도</string>
     <string name="tts_default_rate_title">말하기 속도</string>
@@ -442,7 +442,7 @@
     <string name="verify_apps_over_usb_title">USB를 통한 앱 확인</string>
     <string name="vpn_settings_not_available">이 사용자는 VPN 설정을 사용할 수 없습니다.</string>
     <string name="wait_for_debugger">디버거 접속대기</string>
-    <string name="wait_for_debugger_summary">디버깅 된 앱은 디버거가 실행되기 전에 연결될 때까지 대기합니다.</string>
+    <string name="wait_for_debugger_summary">디버깅된 앱은 디버거가 실행되기 전에 연결될 때까지 대기합니다.</string>
     <string name="wapi_all_sel_mode">모드 선택</string>
     <string name="wapi_auto_sel_cert_fail">인증서를 자동으로 선택할 수 없습니다. 목록에서 인증서를 선택한 다음 연결을 시도하세요.</string>
     <string name="wapi_cert_is_not_exist">사용 가능한 인증서가 없으므로 먼저 인증서를 설치하세요.</string>

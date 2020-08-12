@@ -34,8 +34,8 @@
     <string name="all">전부</string>
     <string name="all_ep">전부 제거</string>
     <string name="all_episode">모든 에피소드</string>
-    <string name="app_charging_wifi_mode">충전중일때 앱 업데이트</string>
-    <string name="app_charging_wifi_mode_summary">충전중이고 WI-FI연결시에 자동으로 앱 업데이트</string>
+    <string name="app_charging_wifi_mode">충전 중일때 앱 업데이트</string>
+    <string name="app_charging_wifi_mode_summary">충전 중이고 Wi-Fi 연결 시에 자동으로 앱 업데이트</string>
     <string name="app_latest_version">새로운 업데이트가 없습니다.</string>
     <string name="app_name">동영상</string>
     <string name="app_plugin_ready">%1$s 설치됨</string>
@@ -45,7 +45,7 @@
     <string name="app_upgrade_version">업데이트 가능함</string>
     <string name="app_version">버젼</string>
     <string name="app_wifi_mode">자동 업데이트</string>
-    <string name="app_wifi_mode_summary">앱 실행시 WI-FI에 연결되어 있으면 자동으로 업데이트합니다.</string>
+    <string name="app_wifi_mode_summary">앱 실행 시 Wi-Fi에 연결되어 있으면 자동으로 업데이트합니다.</string>
     <string name="authenticated_failed">로그인하지 못했습니다.</string>
     <string name="authenticating">&lt;CDATA&gt;&amp;#54869;&amp;#51064; &amp;#51473;&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="authenticating_manually">인증하지 못했습니다.</string>
@@ -101,7 +101,7 @@
     <string name="debug_mode_desc">디버그 모드로 앱을 실행하고 왼쪽 상단 코너에 동영상 ID를 보여줍니다.</string>
     <string name="declaration">서비스 약관</string>
     <string name="declaration_allow">동의</string>
-    <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 동영상, iQiyi, 그리고 다른 컨텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
+    <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 동영상, iQiyi, 그리고 다른 콘텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
 2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 컨텐츠의 일부 데이터를 수집할 것입니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집할 것입니다.&amp;#8203;
 3. 저희의 HD 동영상 플러그인이 자동으로 설치될 것입니다.
 4. 이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다."</string>
@@ -140,12 +140,12 @@
     <string name="download_start_message">%1$s를 다운로드하고 설치하시겠습니까?</string>
     <string name="download_task_with">%d개 다운로드 중</string>
     <string name="download_url_waiting">URL정보를 가져오는 중…</string>
-    <string name="download_url_waiting_no_wifi">WI-FI연결 대기중</string>
+    <string name="download_url_waiting_no_wifi">Wi-Fi 연결 대기 중</string>
     <string name="download_with">다운로드 중 %1$s/%2$s</string>
     <string name="downloading_app_plugin">다운로드 중 %1$s…</string>
     <string name="edit">편집</string>
     <string name="edit_comment">리뷰 작성</string>
-    <string name="empty_data">에러가 발생했음.</string>
+    <string name="empty_data">오류가 발생했음.</string>
     <string name="empty_keyword_hint">위의 박스에 검색어를 입력하세요.</string>
     <string name="empty_tv_exiting">나가는 중…</string>
     <string name="enter_detail">더 많은 정보</string>
@@ -246,9 +246,9 @@
     <string name="offline">오프라인</string>
     <string name="offline_add_queue_fail">"\"%1$s\" 다운로드 실패"</string>
     <string name="offline_alert_title">데이터 사용량</string>
-    <string name="offline_alert_wifi">WI-FI에 연결되면 다운로드가 시작됩니다.</string>
-    <string name="offline_already_in">\"%1$s\" 다운로드 대기중</string>
-    <string name="offline_created_order">추가된 \"%1$s\" 이미 다운로드 대기중</string>
+    <string name="offline_alert_wifi">Wi-Fi에 연결되면 다운로드가 시작됩니다.</string>
+    <string name="offline_already_in">\"%1$s\" 다운로드 대기 중</string>
+    <string name="offline_created_order">추가된 \"%1$s\" 이미 다운로드 대기 중</string>
     <string name="offline_loaded">오프라인 동영상</string>
     <string name="offline_loading">오프라인</string>
     <string name="offline_max_promote">캐시를 기다리는 중, 동시에 최대 2개의 캐싱 작업을 할 수 있습니다.</string>
@@ -302,7 +302,7 @@
     <string name="receive_develop_summary">이 앱의 베타 버젼 업데이트가 나오면 알림으로 알려줍니다.</string>
     <string name="receive_follow">새로운 에피소드 알림</string>
     <string name="receive_follow_summary">새로운 에피소드가 나오면 알림으로 알려줍니다.</string>
-    <string name="receive_mipush">컨텐츠 알림</string>
+    <string name="receive_mipush">콘텐츠 알림</string>
     <string name="receive_mipush_summary">새로운 컨텐츠가 나오면 알림으로 알려줍니다.</string>
     <string name="recentplay">최근 재생됨</string>
     <string name="refreshing">잠시만 기다려주세요…</string>
@@ -372,8 +372,8 @@
     <string name="tudou">투도우</string>
     <string name="tv_channel_empty_hint">채널 없음</string>
     <string name="tv_cp_info_format">%1$s 제공</string>
-    <string name="ui_style">컨텐츠 레이아웃</string>
-    <string name="ui_style_summary">컨텐츠 레이아웃 스타일을 선택하세요.</string>
+    <string name="ui_style">콘텐츠 레이아웃</string>
+    <string name="ui_style_summary">콘텐츠 레이아웃 스타일을 선택하세요.</string>
     <string name="unfavorite">즐겨찾기 취소</string>
     <string name="unknown_source">알 수 없는 출처</string>
     <string name="update">업데이트됨</string>
@@ -459,8 +459,8 @@
     <string name="vp_mobile_network_using_warning_line_1">모바일 데이터를 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다.</string>
     <string name="vp_mobile_network_using_warning_line_2">데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
     <string name="vp_more_show_video">광고 보기</string>
-    <string name="vp_mplayer_error_io">IO 오퍼레이션 에러</string>
-    <string name="vp_mplayer_error_malformed">멜웨어성 미디어 컨텐츠</string>
+    <string name="vp_mplayer_error_io">IO 오퍼레이션 오류</string>
+    <string name="vp_mplayer_error_malformed">멜웨어성 미디어 콘텐츠</string>
     <string name="vp_mplayer_error_server_died">미디어 서버 다운</string>
     <string name="vp_mplayer_error_timed_out">시간 초과</string>
     <string name="vp_newest_ep">새</string>
@@ -541,7 +541,7 @@
     <string name="delete_file_tips">이 파일을 삭제하시겠습니까?</string>
     <string name="details">자세히</string>
     <string name="dselect_all">전부 선택해제</string>
-    <string name="encountered_error_message">"이 미디어 재생에 오류가 발생하였습니다.."</string>
+    <string name="encountered_error_message">"이 미디어 재생에 오류가 발생했습니다.."</string>
     <string name="encountered_error_title">재생 오류</string>
     <string name="error_text_invalid_progressive_playback">"이 파일 형식은 지원하지 않습니다."</string>
     <string name="exit_app">플레이어 닫기</string>
@@ -591,8 +591,8 @@
     <string name="rename_hidden_error">이 파일은 숨겨집니다.</string>
     <string name="replace_num_files">%d개의 파일</string>
     <string name="replace_num_videos">%d개의 동영상</string>
-    <string name="ringtone_error">벨소리 설정 중 에러가 발생하였습니다.</string>
-    <string name="ringtone_set">"'%1$s' 파일을 벨소리로 설정하였습니다."</string>
+    <string name="ringtone_error">벨소리 설정 중 오류가 발생했습니다.</string>
+    <string name="ringtone_set">"'%1$s' 파일을 벨소리로 설정했습니다."</string>
     <string name="sdcard_text">SD 카드</string>
     <string name="sdcard_tips">SD 카드/</string>
     <string name="search_history">검색 기록</string>
@@ -610,7 +610,7 @@
     <string name="subtitles">자막</string>
     <string name="synchronization">씽크</string>
     <string name="toast_player_list_header">재생 목록</string>
-    <string name="toast_player_list_none">더 이상 컨텐츠 없음</string>
+    <string name="toast_player_list_none">더 이상 콘텐츠 없음</string>
     <string name="toast_screen_text_add">추가 완료</string>
     <string name="toast_screen_text_default">기본 크기</string>
     <string name="toast_screen_text_full">전체 화면</string>
@@ -791,7 +791,7 @@
     <string name="passport_wrong_vcode">입력한 코드가 올바르지 않습니다.</string>
     <string name="alert_dialog_download_install_task">플러그인 설치를 기다리는 중…</string>
     <string name="already_buy_vip">는 이미 VIP 멤버입니다.</string>
-    <string name="create_tencent_shortcut_message">Tencent 동영상 단축키를 이미 바탕화면에 생성하였습니다.</string>
+    <string name="create_tencent_shortcut_message">Tencent 동영상 단축키를 이미 바탕화면에 생성했습니다.</string>
     <string name="current_price">현재 가격</string>
     <string name="do_not_buy_vip">VIP 패키지를 구매하지 마세요.</string>
     <string name="expired_buy_vip">VIP 멤버십이 만료되었습니다.</string>

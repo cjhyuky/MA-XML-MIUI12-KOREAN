@@ -8,8 +8,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
-    <string name="mru_setting_brief">퀵 카드에서 아래로 스와이프한 후 나타나는 빠른 앱 및 바로 가기</string>
-    <string name="mru_setting_brief_detail">"최근에 사용된 빠른 앱 및 바로 가기"</string>
+    <string name="mru_setting_brief">퀵 카드에서 아래로 스와이프한 후 나타나는 빠른 앱 및 바로가기</string>
+    <string name="mru_setting_brief_detail">"최근에 사용된 빠른 앱 및 바로가기"</string>
     <string name="mru_title">최근 항목</string>
     <string name="app_debug_settings">앱 디버그 설정</string>
     <string name="app_debug_settings_copied_to_clipboard">클립보드에 복사했습니다.</string>
@@ -211,9 +211,9 @@
     <string name="alipay_newUserRegister">신규 사용자 등록</string>
     <string name="alipay_password">비밀번호</string>
     <string name="alipay_password_login">비밀번호 로그인</string>
-    <string name="alipay_pre_router_alipay_account">등록 된 alipay 계정을 사용하세요.</string>
+    <string name="alipay_pre_router_alipay_account">등록된 alipay 계정을 사용하세요.</string>
     <string name="alipay_pre_router_cancel">취소</string>
-    <string name="alipay_pre_router_has_auth_account">인증 된 계정 사용</string>
+    <string name="alipay_pre_router_has_auth_account">인증된 계정 사용</string>
     <string name="alipay_processing">로딩</string>
     <string name="alipay_protocol">서비스 계약</string>
     <string name="alipay_pwd_input_dialog_disc">설명</string>
@@ -239,8 +239,8 @@
     <string name="alipay_regist_rds_suspect">작동 빈도가 너무 빠릅니다. 나중에 다시 시도하세요.</string>
     <string name="alipay_register_password_error">비밀번호는</string>
     <string name="alipay_registNew">등록</string>
-    <string name="alipay_registNewAccount">등록 된 계정</string>
-    <string name="alipay_reigsterSuccess">성공적인 등록</string>
+    <string name="alipay_registNewAccount">등록된 계정</string>
+    <string name="alipay_reigsterSuccess">등록 성공</string>
     <string name="alipay_reinput">다시 입력</string>
     <string name="alipay_risk_account_dialog_tip">현재 계정에 로그인할 수 없습니다 다음과 같은 방법으로 작업을 완료할 수 있습니다.</string>
     <string name="alipay_risk_process_cancel">취소</string>
@@ -493,7 +493,7 @@
     <string name="cta_title">환영합니다!</string>
     <string name="currency_china">위안(CNY)</string>
     <string name="daily_greeting">기본 인사말</string>
-    <string name="data_error">에러가 발생할 경우, 몇 분 후에 다시 시도하세요.</string>
+    <string name="data_error">오류가 발생할 경우, 몇 분 후에 다시 시도하세요.</string>
     <string name="data_error_show">주문이 완료되었으나 정보를 불러올수 없습니다.</string>
     <string name="delete">삭제</string>
     <string name="dep_airport">출발 공항</string>
@@ -518,8 +518,8 @@
     <string name="dialog_mark_like">중요 표시</string>
     <string name="dialog_report_cancel">취소</string>
     <string name="dialog_report_confirm">보고</string>
-    <string name="dialog_report_desc">개선된 서비스를 위해 페이지 에러를 보고하실수 있습니다. 보고하시겠습니까?</string>
-    <string name="dialog_report_title">포맷 에러</string>
+    <string name="dialog_report_desc">개선된 서비스를 위해 페이지 오류를 보고하실수 있습니다. 보고하시겠습니까?</string>
+    <string name="dialog_report_title">포맷 오류</string>
     <string name="dialog_report_toast">성공적으로 보고되었습니다.</string>
     <string name="didi_app_name">디디</string>
     <string name="didi_back">뒤로가기</string>
@@ -904,7 +904,7 @@
     <string name="function_music_recognize">음악 인식</string>
     <string name="function_music_title">음악</string>
     <string name="function_not_support">이 기기에서는 지원되지 않습니다.</string>
-    <string name="function_open_error_content">이 바로가기는 앱이 제거 되었기 때문에 작동하지 않습니다. 다른 바로 가기를 선택하거나 앱을 다시 설치하세요.</string>
+    <string name="function_open_error_content">이 바로가기는 앱이 제거 되었기 때문에 작동하지 않습니다. 다른 바로가기를 선택하거나 앱을 다시 설치하세요.</string>
     <string name="function_open_error_content_app">이 앱이 제거되었습니다. 다른 바로가기를 선택하거나 앱을 다시 설치하세요.</string>
     <string name="function_open_error_content_app_xspace">이 바로가기는 듀얼 앱이 제거 되었기 때문에 작동하지 않습니다. 다른 바로가기를 선택하거나 새 듀얼 앱을 만드세요.</string>
     <string name="function_open_error_content_xspace">이 바로가기는 앱이 제거 되었기 때문에 작동하지 않습니다. 다른 바로가기를 선택하거나 새 듀얼 앱을 만드세요.</string>
@@ -1004,7 +1004,7 @@
     <string name="list_icon_add">추가</string>
     <string name="list_icon_delete">삭제</string>
     <string name="list_icon_drag">주문을 드래그하세요.</string>
-    <string name="load_more_error">네트워크 에러가 발생하였습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="load_more_error">네트워크 오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
     <string name="load_no_more">더 이상 없습니다.</string>
     <string name="loading_desktop">잠시만 기다려주세요...</string>
     <string name="locating_fail">위치를 가져올 수 없습니다.</string>
@@ -1060,7 +1060,7 @@
     <string name="mi_delivery">Mi 배달</string>
     <string name="mi_express">빠른 배송</string>
     <string name="mi_football">축구</string>
-    <string name="mi_function">앱 바로 가기</string>
+    <string name="mi_function">앱 바로가기</string>
     <string name="mi_payment">지불 내역</string>
     <string name="mi_payment_setting_brief">지불 정보를 수집하세요.</string>
     <string name="mi_payment_setting_brief_detail">메시지 및 기타 앱에서 결제 정보를 수집하세요.</string>
@@ -1073,7 +1073,7 @@
     <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 알리페이 지문을 설정하세요...</string>
     <string name="mini_agree">동의함</string>
     <string name="mini_already_download">다운로드 됨</string>
-    <string name="mini_app_error">앱 오류가 발생하였습니다. 앱을 다시 실행하세요.</string>
+    <string name="mini_app_error">앱 오류가 발생했습니다. 앱을 다시 실행하세요.</string>
     <string name="mini_auth_bracelet">검증 팔찌</string>
     <string name="mini_auth_service_down_tips">보안 프로그램이 바이러스 검사 프로그램 (백신 프로그램 등)에서 차단되지 않게 설정하세요. 보통 백신 프로그램 환경설정에서 프로그램 차단 여부를 변경하실 수 있습니다.</string>
     <string name="mini_back">귀국</string>
@@ -1095,7 +1095,7 @@
     <string name="mini_debug_app_error">프로그램에서 오류가 발생했습니다! 확인을 클릭하여 프로그램을 종료하세요.</string>
     <string name="mini_download">다운로드</string>
     <string name="mini_error_title_default">힌트</string>
-    <string name="mini_expiry_date_content">만료일은 신용 카드의 앞면 카드 번호 아래에 연도 전후의 표준 형식으로 인쇄 된 일련의 숫자입니다.</string>
+    <string name="mini_expiry_date_content">만료일은 신용 카드의 앞면 카드 번호 아래에 연도 전후의 표준 형식으로 인쇄된 일련의 숫자입니다.</string>
     <string name="mini_expiry_date_title">만료일</string>
     <string name="mini_format_error">형식이 잘못되었습니다.</string>
     <string name="mini_fp_no_open_pay">지문이 변경되었습니다. 비밀번호를 다시 열어주세요.</string>
@@ -1134,7 +1134,7 @@
     <string name="mini_safe_no">보안 코드</string>
     <string name="mini_safe_no_hint">카드 뒷면의 마지막 세 자리</string>
     <string name="mini_start_download">다운로드 시작...</string>
-    <string name="mini_temp_support_xiaomi">일시적으로 xiaomi 브레이슬릿 만 지원</string>
+    <string name="mini_temp_support_xiaomi">일시적으로 xiaomi 브레이슬릿만 지원</string>
     <string name="mini_to_open">켜려면</string>
     <string name="mini_to_open_error">지문 수집 소프트웨어 시작 오류가 있는지 확인하세요.</string>
     <string name="mini_weakpassword_error_same">같은 번호를 사용하지 마세요.</string>
@@ -1150,7 +1150,7 @@
     <string name="miot_device_card_title">Mi홈</string>
     <string name="miot_device_click_show_detail">.(스마트 가전 기기에 대해 알아보시려면 탭하세요)</string>
     <string name="miot_device_cta_and">및</string>
-    <string name="miot_device_cta_message">빠른 제어를 위해 스마트 장치를 여기에 추가하세요. \"승인 된 사용자\"를 클릭하면 Mi홈 앱에 동의하게됩니다.</string>
+    <string name="miot_device_cta_message">빠른 제어를 위해 스마트 장치를 여기에 추가하세요. \"승인된 사용자\"를 클릭하면 Mi홈 앱에 동의하게됩니다.</string>
     <string name="miot_device_cta_priv">개인정보 보호 규정</string>
     <string name="miot_device_cta_use_info">이용 약관</string>
     <string name="miot_device_edit">편집</string>
@@ -1203,7 +1203,7 @@
     <string name="msp_mini_read_protocal_title">읽기 계약을 선택하세요.</string>
     <string name="msp_mini_safty_code_info">安全 码 是 打印 在 信用卡 背面 签名 区 的 一 组 数字, 一般 是 后 3 位 数字</string>
     <string name="msp_mini_safty_code_title">보안 코드 설명</string>
-    <string name="msp_phone_num_info">은행에서 예약 한 휴대전화 번호는 은행 카드를 처리 할 때 입력 된 휴대전화 번호입니다.\n\n예약이 없거나 휴대전화 번호를 잊어 버렸거나 비활성화 된 경우 은행 고객 서비스 업데이트 프로세스에 문의하세요.</string>
+    <string name="msp_phone_num_info">은행에서 예약 한 휴대전화 번호는 은행 카드를 처리 할 때 입력된 휴대전화 번호입니다.\n\n예약이 없거나 휴대전화 번호를 잊어 버렸거나 비활성화된 경우 은행 고객 서비스 업데이트 프로세스에 문의하세요.</string>
     <string name="msp_phone_num_title">휴대전화 번호 설명</string>
     <string name="msp_secure_key_and">合</string>
     <string name="msp_secure_key_apostrophe">닉네임</string>
@@ -1250,7 +1250,7 @@
     <string name="msp_secure_keyboard_type_uppercase_letter">대문자 키보드로 전환</string>
     <string name="msp_security_monitor">안전 점검</string>
     <string name="music">음악 &amp; 라디오</string>
-    <string name="music_card_error_str">에러 발생, 뮤직 앱을 통해 음악을 재생시켜 주세요.</string>
+    <string name="music_card_error_str">오류 발생, 뮤직 앱을 통해 음악을 재생시켜 주세요.</string>
     <string name="music_open">음악 &amp; 라디오 보기</string>
     <string name="music_setting_brief">음악이나 라디오를 듣기 위해서는 이어폰을 연결하세요.</string>
     <string name="navigation_network_location_enable">동의</string>
@@ -1408,7 +1408,7 @@
     <string name="record_parent">녹음기</string>
     <string name="red_dowm_blue_grow">녹색 : 플러스, 적색 : 마이너스</string>
     <string name="red_grow_blue_dowm">적색 : 플러스, 녹색 : 마이너스</string>
-    <string name="refresh_error">네트워크 에러가 발생했습니다. 잠시후 다시 시도하세요.</string>
+    <string name="refresh_error">네트워크 오류가 발생했습니다. 잠시후 다시 시도하세요.</string>
     <string name="refresh_over_pull">놓아서 새로고침</string>
     <string name="refresh_pull">당겨서 새로고침</string>
     <string name="refresh_refreshing">새로고침중…</string>
@@ -1555,7 +1555,7 @@
     <string name="shopping_setting_tmall">티몰</string>
     <string name="shopping_source">%s에서</string>
     <string name="shopping_support">지원되는 앱</string>
-    <string name="shortcut">앱 바로 가기</string>
+    <string name="shortcut">앱 바로가기</string>
     <string name="show_more">더보기</string>
     <string name="smart_assistant_enter_tip">정보 도우미</string>
     <string name="sms_address">주소</string>
@@ -1631,11 +1631,11 @@
     <string name="taxi_target">목적지</string>
     <string name="tb_setting_xiaoai">Mi AI</string>
     <string name="team_selected">%s,已选中</string>
-    <string name="temp_support_xiaomi">일시적으로 xiaomi 브레이슬릿 만 지원</string>
+    <string name="temp_support_xiaomi">일시적으로 xiaomi 브레이슬릿만 지원</string>
     <string name="template_args_invalid">컨텍스트 매개 변수가 유효하지 않습니다.</string>
     <string name="template_bussiness_data_error">서버가 데이터 구문 분석 예외를 리턴하고 인터페이스를 표시 할 수 없습니다.</string>
     <string name="template_data_error">인기가 너무 바빠서 나중에 다시 시도하세요.</string>
-    <string name="template_error">데이터 에러</string>
+    <string name="template_error">데이터 오류</string>
     <string name="template_loading">로딩...</string>
     <string name="template_network_error_try_later">네트워크 오류입니다. 나중에 다시 시도하세요.</string>
     <string name="template_retry_button">다시 시도</string>

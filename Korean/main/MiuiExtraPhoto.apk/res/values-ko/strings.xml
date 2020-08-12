@@ -25,7 +25,7 @@
     <string name="save_error">사진 저장 실패</string>
     <string name="saving_image">사진 저장 중…</string>
     <string name="wait_error">잠시 기다려주세요…</string>
-    <string name="app_error">에러 발생, 앱을 종료합니다…</string>
+    <string name="app_error">오류 발생, 앱을 종료합니다…</string>
     <string name="background_effect">배경 효과</string>
     <string name="fancy_color_tip">특정 포인트를 탭하여 사진을 꾸며보세요!</string>
     <string name="fancycolor_title">배경 효과</string>

@@ -48,7 +48,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">임시 보관함을 삭제하시겠습니까?</string>
     <string name="miui_feedback_edit_hint">문제가 발생할 때마다 버그를 신고하여 더 빨리 해결하도록 도와주세요.</string>
     <string name="miui_feedback_edit_hint_gone">완료된 메시지</string>
-    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi 대기중</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi 대기 중</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">업로드</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"유료 네트워크에 연결된 것 같습니다. 로그를 업로드하면 추가 요금이 발생할 수 있습니다."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_title">데이터 사용 경고</string>

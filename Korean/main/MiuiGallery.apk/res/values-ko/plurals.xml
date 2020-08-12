@@ -139,7 +139,7 @@
         <item quantity="other">%1$d개의 동영상이 백업 대기 중</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d개 항목 백업 대기중</item>
+        <item quantity="other">%1$d개 항목 백업 대기 중</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">%1$d개의 사진 백업 중…</item>

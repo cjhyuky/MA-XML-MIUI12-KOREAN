@@ -156,7 +156,7 @@
     <string name="b_">"기기에 Google Play 서비스가 설치되어 있어야 %1$s 앱이 실행됩니다."</string>
     <string name="ba">Google Play 서비스 받기</string>
     <string name="bb">Google Play 서비스 가능여부</string>
-    <string name="bc">Google Play 서비스 에러</string>
+    <string name="bc">Google Play 서비스 오류</string>
     <string name="bd">Google Play 서비스가 %1$s 앱과 충돌이 있습니다. 다시 시도해보세요.</string>
     <string name="be">"%1$s에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다."</string>
     <string name="bf">업데이트</string>
@@ -275,7 +275,7 @@
     <string name="er">"친구에게 장치에 Mi 드롭이없는 경우 이 링크를 공유할 수 있습니다."</string>
     <string name="es">"한 행에 여러 파일을 전송할 수 없습니다. 다른 장치의 Mi 드롭 버전이 너무 오래되었습니다."</string>
     <string name="et">세부 정보보기</string>
-    <string name="eu">%1$s 님에게 보내는 취소 된 전송</string>
+    <string name="eu">%1$s 님에게 보내는 취소된 전송</string>
     <string name="ev">파일을 %1$s 님에게 보내는 중입니다.</string>
     <string name="ew">%1$s 님에게 성공적으로 전송되었습니다.</string>
     <string name="ex">FTP 서버 시작 중 ...</string>
@@ -410,7 +410,7 @@
     <string name="il">연결됨</string>
     <string name="im">전송 완료</string>
     <string name="in">취소됨</string>
-    <string name="io">전송중</string>
+    <string name="io">전송 중</string>
     <string name="ip">알 수 없음</string>
     <string name="iq">지금 업데이트</string>
     <string name="is">나가기</string>

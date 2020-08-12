@@ -62,7 +62,7 @@
     <string name="sound_recorder_settings">설정</string>
     <string name="preference_led_indicator">잠금 화면 알림</string>
     <string name="preference_tip_rename">녹음 후 파일 이름 직접 입력</string>
-    <string name="preference_led_indicator_prompt">녹음중에는 상태표시줄에 바로가기가 표시되고, 알림 표시등이 깜빡입니다.</string>
+    <string name="preference_led_indicator_prompt">녹음 중에는 상태 표시줄에 바로가기가 표시되고, 알림 표시등이 깜빡입니다.</string>
     <string name="preference_scenes">녹음 유형</string>
     <string name="preference_record_scenes_dialog_title">녹음 유형 선택</string>
     <string name="preference_silent_mode">녹음 중 벨소리 음소거</string>
@@ -74,7 +74,7 @@
     <string name="duration_format_minute">%s분</string>
     <string name="duration_format_second">%s초</string>
     <string name="toast_max_record_time">%1$s, 약 %2$s 녹음할 수 있음</string>
-    <string name="message_file_size_error">녹음이 지원하는 %s의 최대 길이에 도달하였습니다.</string>
+    <string name="message_file_size_error">녹음이 지원하는 %s의 최대 길이에 도달했습니다.</string>
     <string name="pause">일시 중지</string>
     <string name="back">뒤로</string>
     <string name="toast_uninstall_fileexplorer">탐색기 앱이 설치되지 않았습니다.</string>
@@ -189,7 +189,7 @@
     <string name="loading_order_list">주문목록 로딩</string>
     <string name="loading_order_list_empty">비어 있음</string>
     <string name="lyric_item_point_count">%2$d 중 %1$d</string>
-    <string name="mi_account_msg">새로운 사용자가 30 분 동안 온라인 정확한 인식을 사용하려면 mi 계정에 로그인하세요.</string>
+    <string name="mi_account_msg">새로운 사용자가 30분 동안 온라인 정확한 인식을 사용하려면 mi 계정에 로그인하세요.</string>
     <string name="mi_account_ok">로그인</string>
     <string name="mi_account_title">Mi 계정에 로그인</string>
     <string name="network_unavailable_tip">네트워크에 연결하세요.</string>
@@ -269,7 +269,7 @@
     <string name="call_record_list_group_all">모두</string>
     <string name="call_record_list_group_connected">연결됨</string>
     <string name="call_record_list_group_unconnected">연결되지 않음</string>
-    <string name="preference_status_bar_indicator_prompt">녹음 중 상태바 바로가기 표시</string>
+    <string name="preference_status_bar_indicator_prompt">녹음 중 상태 표시줄 바로가기 표시</string>
     <string name="shortcut_records">녹음</string>
     <string name="shortcut_start_record">녹음 시작</string>
     <string name="shortcut_stop_record">녹음 멈춤</string>
@@ -291,8 +291,8 @@
     <string name="recognition_button_add_to_queue">대기열에 추가</string>
     <string name="recognition_button_cancel">나중에</string>
     <string name="recognition_button_start">전사</string>
-    <string name="recognition_confirm_dialog_body">"기록 작성에 시간이 걸릴 수 있습니다.이 작업이 완료되면 알림을 받게됩니다. 지금 기록하시겠습니까?"</string>
-    <string name="recognition_interrupt_current_dialog_body">"전송에 시간이 걸릴 수 있습니다.이 작업이 완료되면 알림을 받습니다. \"%s\"이(가) 지금 전송중입니다.이 작업을 전송 큐에 추가하시겠습니까?"</string>
+    <string name="recognition_confirm_dialog_body">"기록 작성에 시간이 걸릴 수 있습니다. 이 작업이 완료되면 알림을 받게됩니다. 지금 기록하시겠습니까?"</string>
+    <string name="recognition_interrupt_current_dialog_body">"전송에 시간이 걸릴 수 있습니다. 이 작업이 완료되면 알림을 받습니다. \"%s\"이(가) 지금 전송 중입니다. 이 작업을 전송 대기열에 추가하시겠습니까?"</string>
     <string name="recognition_notification_channel">전사</string>
     <string name="recognition_notification_complete_success">\"%s\"을(를) 기록했습니다. 보려면 탭하세요.</string>
     <string name="recognition_notification_error">"\"%s\"을(를) 기록할 수 없습니다.</string>

@@ -422,7 +422,7 @@
     <string name="train_event_depart">%1$s 출발</string>
     <string name="train_event_disclaimer">면책 조항 : 데이터 및 서비스는 GaoTieGuanJia에서 제공합니다. 문제가 있으면 회사의 고객 서비스에 문의하세요. 기차 정보는 참고용이며 공식정보를 참조하세요.</string>
     <string name="train_event_error_toast">죄송합니다, 로딩 실패!</string>
-    <string name="train_event_error_train_info">기차표 에러</string>
+    <string name="train_event_error_train_info">기차표 오류</string>
     <string name="train_event_more_info">기차 정시도착 또는 지연, 기차 Wi-Fi서비스 등</string>
     <string name="train_event_service">기차 서비스</string>
     <string name="train_event_station_date_format">MM월 dd일</string>
@@ -457,7 +457,7 @@
     <string name="unsubscribing_card">구독 해제 중</string>
     <string name="user_notice_button_exit">종료</string>
     <string name="user_notice_button_ok">확인</string>
-    <string name="user_notice_message">이 제품을 사용함으로서 Xiaomi의 %1$s와 %2$s에 동의하시는 것입니다. 몇몇 기능의 정상적인 작동을 위해서 인터넷 연결과 위치 서비스, 연락처, SMS의 접근이 요구됩니다.</string>
+    <string name="user_notice_message">이 제품을 사용함으로서 Xiaomi의 %1$s와 %2$s에 동의하시는 것입니다. 일부 기능의 정상적인 작동을 위해서 인터넷 연결과 위치 서비스, 연락처, SMS의 접근이 요구됩니다.</string>
     <string name="user_notice_title">주의</string>
     <string name="view_event_calendar_label">캘린더:</string>
     <string name="view_event_organizer_label">주최자:</string>

@@ -171,7 +171,7 @@
     <string name="incoming_file_confirm_Notification_content">%1$s에서 %2$s를 전송할 준비가 되었습니다.</string>
     <string name="permdesc_bluetoothAvrcpDataManager">앱이 블루투스 관련 앱을 사용할 수 있게 설정합니다.</string>
     <string name="permlab_bluetoothAvrcpDataManager">데이터 접근</string>
-    <string name="upload_fail_waiting">업로드 실패, 재전송 대기중</string>
+    <string name="upload_fail_waiting">업로드 실패, 재전송 대기 중</string>
     <string name="bluetooth_dun_authorize_allow">허용</string>
     <string name="bluetooth_dun_authorize_decline">거절하기</string>
     <string name="map_datasource_smsmms_name">SMS와 MMS</string>

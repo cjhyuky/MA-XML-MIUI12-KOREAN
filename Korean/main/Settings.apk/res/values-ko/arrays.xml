@@ -1131,7 +1131,7 @@
     </string-array>
     <string-array name="wifi_metered_entries">
         <item>자동으로 탐색</item>
-        <item>연결됐던 것으로 취급</item>
+        <item>연결되었던 것으로 취급</item>
         <item>연결되지 않았던 것으로 취급</item>
     </string-array>
     <string-array name="wifi_p2p_status">
@@ -1305,7 +1305,7 @@
         <item>"그룹화하지 않음"</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>프로모션 및 컨텐츠 관련 푸시 알림이 그룹화됩니다.</item>
+        <item>프로모션 및 콘텐츠 관련 푸시 알림이 그룹화됩니다.</item>
         <item>푸시 알림이 그룹화되어 다른 알림 아래에 표시됩니다.</item>
         <item>"푸시 알림이 그룹화되지 않습니다."</item>
     </string-array>

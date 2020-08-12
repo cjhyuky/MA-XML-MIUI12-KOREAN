@@ -44,7 +44,7 @@
     <string name="permission_action_virtual">빈 메시지 반환</string>
     <string name="permission_upgrade_more">추가 개인정보 보호기능</string>
     <string name="permission_upgrade_privacy_title">"오디오를 녹음하고 연락처에 액세스할 수 있는 권한에는 이제 해당 앱을 사용하는 동안에만 권한을 부여 할 수 있는 옵션이 있습니다. 개인정보의 개인정보를 보호하기 위해 앱은 '    백그라운드에서 이러한 작업을 수행하지 마세요."</string>
-    <string name="permission_upgrade_runtime">"현재 위치에 액세스하거나 사진을 찍을 수 있는 권한에는 이러한 권한을 한 번만 부여 할 수 있는 옵션이 있습니다. 개인정보의 프라이버시를 보호하기 위해 이러한 조치는 수행 된 후에 수행되지 않습니다. 다음에 관련 기능을 사용할 때 다시 권한을 요청하는 메시지가 표시됩니다."</string>
+    <string name="permission_upgrade_runtime">"현재 위치에 액세스하거나 사진을 찍을 수 있는 권한에는 이러한 권한을 한 번만 부여 할 수 있는 옵션이 있습니다. 개인정보의 프라이버시를 보호하기 위해 이러한 조치는 수행된 후에 수행되지 않습니다. 다음에 관련 기능을 사용할 때 다시 권한을 요청하는 메시지가 표시됩니다."</string>
     <string name="permission_upgrade_title">업그레이드된 권한 관리</string>
     <string name="permission_upgrade_virtual">"앱이 연락처 또는 통화 기록에 액세스하지 못하게하려면 해당 권한을 부여 할 때 \"빈 메시지 반환\"을 선택할 수 있습니다."</string>
     <string name="app_behavior_key_audio">녹음</string>
@@ -279,8 +279,8 @@
     <string name="app_bg_restrict_dialog_message">"백그라운드에서 네트워크 연결을 제한하면 앱이 정상적으로 작동하지 않을 수 있습니다. 예를 들어 더 이상 메시지를 수신하거나 컨텐츠를 업데이트하지 못할 수 있습니다. 제한하시겠습니까? "</string>
     <string name="app_check_no_issue">배터리 문제가 없는 것 같습니다. 좋습니다!</string>
     <string name="app_detail">세부사항</string>
-    <string name="app_error_tip_for_launcher">기기의 하드웨어 구성요소 또는 Android 시스템 버전의 원인으로 몇몇 앱에서 오작동, 멈춤, 강제 종료 등의 호환성 문제가 발생할 수 있습니다. 이러한 문제가 발생하셨다면 앱 개발자에게 피드백 하세요.</string>
-    <string name="app_error_tip_for_store">기기의 하드웨어 또는 Android 시스템 버전의 호환성 문제의 결과로 몇몇 앱의 설치를 실패할 수 있으며 또한 이 문제로 인해 앱의 오작동, 멈춤, 강제 종료등의 문제가 발생할 수 있습니다. 앱 개발자가 버그를 고칠 때까지 기다리시고 나중에 앱을 다시 설치하세요.</string>
+    <string name="app_error_tip_for_launcher">기기의 하드웨어 구성요소 또는 Android 시스템 버전의 원인으로 일부 앱에서 오작동, 멈춤, 강제 종료 등의 호환성 문제가 발생할 수 있습니다. 이러한 문제가 발생하셨다면 앱 개발자에게 피드백 하세요.</string>
+    <string name="app_error_tip_for_store">기기의 하드웨어 또는 Android 시스템 버전의 호환성 문제의 결과로 일부 앱의 설치를 실패할 수 있으며 또한 이 문제로 인해 앱의 오작동, 멈춤, 강제 종료등의 문제가 발생할 수 있습니다. 앱 개발자가 버그를 고칠 때까지 기다리시고 나중에 앱을 다시 설치하세요.</string>
     <string name="app_install_intercept">설치 차단</string>
     <string name="app_install_tips_go_to">열기</string>
     <string name="app_install_tips_install_success">성공적으로 %1$s 설치됨</string>
@@ -294,7 +294,7 @@
     <string name="app_manager_app_storage">"저장소: "</string>
     <string name="app_manager_app_traffic">"데이터 사용량: "</string>
     <string name="app_manager_app_update">업데이트</string>
-    <string name="app_manager_app_version_name">버전:</string>
+    <string name="app_manager_app_version_name">"버전: "</string>
     <string name="app_manager_appupdate_remind">업데이트 알림</string>
     <string name="app_manager_as_dlg_msg">앱 자동 실행을 허용할 경우 램과 배터리를 더 소모할 수 있습니다. 그래도 허용하시겠습니까?</string>
     <string name="app_manager_as_dlg_title">주의</string>
@@ -314,7 +314,7 @@
     <string name="app_manager_data_size">사용자 데이터</string>
     <string name="app_manager_default_cleared">삭제됨</string>
     <string name="app_manager_default_close_summary">기본 작업 없음</string>
-    <string name="app_manager_default_open_summary">이 앱을 몇몇 작업의 기본 실행 앱으로 선택했습니다.</string>
+    <string name="app_manager_default_open_summary">이 앱을 일부 작업의 기본 실행 앱으로 선택했습니다.</string>
     <string name="app_manager_default_open_title">기본 작업 제거</string>
     <string name="app_manager_defaults_setting">기본 앱</string>
     <string name="app_manager_details_electric_title">배터리</string>
@@ -449,7 +449,7 @@
     <string name="apps_item_sms_title">기본 메시지 설정</string>
     <string name="apps_item_summary_sms">%s 앱이 귀하의 메시지에 접근했습니다. 보안 문제의 원인이 될 수 있습니다.</string>
     <string name="apps_item_summary_system_rooted">루트 접근이 허용되었습니다. 보안 위협을 피하기 위해 기본 설정으로 복구합니다.</string>
-    <string name="apps_item_summary_system_update">더 안전한 지불을 위해 새 버전에서는 몇몇 버그가 수정되었습니다.</string>
+    <string name="apps_item_summary_system_update">더 안전한 지불을 위해 새 버전에서는 일부 버그가 수정되었습니다.</string>
     <string name="apps_item_title_system">시스템 업데이트</string>
     <string name="apps_item_virus_cleanup_success">제거 성공</string>
     <string name="apps_item_virus_cleanup_text">정리</string>
@@ -457,11 +457,11 @@
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">메시지 앱 확인</string>
     <string name="apps_list_header_title_sms_access">인증 코드로의 접근 제한</string>
-    <string name="ask_create_shortcut">홈 스크린 바로 가기를 만드시겠습니까?</string>
+    <string name="ask_create_shortcut">홈 스크린 바로가기를 만드시겠습니까?</string>
     <string name="audio_optimization_summary">통화 중 음질 향상 및 주변 소음 감소</string>
     <string name="audio_optimization_title">음질 향상</string>
     <string name="auto_atsk_condition_battery_level_text_down">배터리가 %s에 도달했을 때</string>
-    <string name="auto_atsk_condition_battery_level_text_up">배터리가 %s까지 충전됐을 때</string>
+    <string name="auto_atsk_condition_battery_level_text_up">배터리가 %s까지 충전되었을 때</string>
     <string name="auto_back_booster">속도 향상 중단</string>
     <string name="auto_booster_suc">가속 성공</string>
     <string name="auto_clean_close">자동 청소 꺼짐</string>
@@ -494,7 +494,7 @@
     <string name="auto_task_edit_step2">2.</string>
     <string name="auto_task_edit_task_name">이름</string>
     <string name="auto_task_main_title">자동 작업</string>
-    <string name="auto_task_mamange_activity_title">자동화 된 작업</string>
+    <string name="auto_task_mamange_activity_title">자동화된 작업</string>
     <string name="auto_task_manage_delete_prompt">선택된 작업을 삭제하시겠습니까?</string>
     <string name="auto_task_manage_new_task">새 자동 작업</string>
     <string name="auto_task_manager_group_title">내 자동 작업</string>
@@ -545,7 +545,7 @@
     <string name="battery_capacity_title">배터리 용량</string>
     <string name="battery_charge_estimating">계산중</string>
     <string name="battery_charge_full">충전됨</string>
-    <string name="battery_charging_prompt">충전중</string>
+    <string name="battery_charging_prompt">충전 중</string>
     <string name="battery_desc_ambient_display">화면 항상켜짐으로 배터리 소모</string>
     <string name="battery_desc_apps">앱에 사용된 배터리</string>
     <string name="battery_desc_bluetooth">블루투스에 사용된 배터리</string>
@@ -764,7 +764,7 @@
     <string name="daily_card_setting_fragment_package_summary">일일 데이터 패키지에 월간 데이터 패키지가 포함되어 있으면 일일 패키지보다 먼저 사용됩니다.</string>
     <string name="daily_limit_and_lock_screen">데이터 한도 &amp; 알림</string>
     <string name="daily_limit_network_available_body">탭하여 데이터 사용량 통계 보기</string>
-    <string name="daily_limit_over_message">1일 데이터 한도를 초과하였습니다.</string>
+    <string name="daily_limit_over_message">1일 데이터 한도를 초과했습니다.</string>
     <string name="daily_pkg_traffic">피크 데이터 한도</string>
     <string name="data_booster_desc">원활한 네트워크 상태 유지를 위해 다른 SIM 카드들을 비활성화합니다.</string>
     <string name="data_booster_title">네트워크 연결 새로고침</string>
@@ -780,8 +780,8 @@
     <string name="data_usage_no_total_package_body">탭하여 데이터 한도 설정</string>
     <string name="data_usage_no_total_package_body_dual">%s에 대한 데이터 한도 설정 없음</string>
     <string name="data_usage_no_total_package_title">데이터 사용량 한도 설정</string>
-    <string name="data_usage_protected_dialog_message">통신사의 추가 비용 과금을 방지 하기 위해 MIUI가 자체적으로 데이터를 차단하였습니다. 모바일 데이터를 다시 활성화할 경우 추가 비용이 발생할 수 있습니다.</string>
-    <string name="data_usage_protected_notify_message">통신사의 추가 비용 과금을 방지 하기 위해 MIUI가 자체적으로 데이터를 차단하였습니다.</string>
+    <string name="data_usage_protected_dialog_message">통신사의 추가 비용 과금을 방지 하기 위해 MIUI가 자체적으로 데이터를 차단했습니다. 모바일 데이터를 다시 활성화할 경우 추가 비용이 발생할 수 있습니다.</string>
+    <string name="data_usage_protected_notify_message">통신사의 추가 비용 과금을 방지 하기 위해 MIUI가 자체적으로 데이터를 차단했습니다.</string>
     <string name="data_usage_protected_notify_title">이미 5GB 모바일 데이터를 사용했습니다.</string>
     <string name="data_usage_warning_body">탭하여 데이터 사용량 세부사항 보기</string>
     <string name="data_usage_warning_body_notify">탭하여 세부사항 보기</string>
@@ -888,7 +888,7 @@
     <string name="dlg_white_antispam_message">이 번호를 예외에 추가하시겠습니까?</string>
     <string name="dnd_mode_type">방해 금지 모드</string>
     <string name="dnd_no_everything">알림 없음</string>
-    <string name="dnd_no_sound">무음모드</string>
+    <string name="dnd_no_sound">무음 모드</string>
     <string name="dns_exception_summary">공유기의 DNS 설정 확인</string>
     <string name="dns_exception_title">DNS 설정 확인</string>
     <string name="do_clean">청소 중…</string>
@@ -966,12 +966,12 @@
     <string name="ew_guide_law_agree">동의</string>
     <string name="ew_guide_law_done">확인</string>
     <string name="ew_guide_law_exit">동의하지 않기</string>
-    <string name="ew_guide_law_text">이 기능은 지진 경고 기능을 제공합니다. 지진 경고 정보는 제 3 자 조기 경보 기관에서 제공한다는 것을 이해해야 합니다. Xiaomi는 타사 기관을 감독하지 않으며 해당 기관을 제어 할 수 없습니다. Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족시킬 것이라고 보장하지 않습니다. 이 기능은 참조 용으로 만 제공됨을 이해해야 합니다. 이 기능이 제공하는 정보를 기반으로 수행 한 모든 작업의 ​​위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다.</string>
+    <string name="ew_guide_law_text">이 기능은 지진 경고 기능을 제공합니다. 지진 경고 정보는 제 3 자 조기 경보 기관에서 제공한다는 것을 이해해야 합니다. Xiaomi는 타사 기관을 감독하지 않으며 해당 기관을 제어 할 수 없습니다. Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족시킬 것이라고 보장하지 않습니다. 이 기능은 참조 용으로만 제공됨을 이해해야 합니다. 이 기능이 제공하는 정보를 기반으로 수행 한 모든 작업의 ​​위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다.</string>
     <string name="ew_guide_law_title">기권</string>
     <string name="ew_guide_next_text">다음</string>
     <string name="ew_guide_play_audio">경고음 재생</string>
     <string name="ew_guide_play_audio_last">경고음 재생 (%d초)</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;사용자가 지진 경고 기능을 활성화 할 때마다 Xiaomi 및 그 계열사(이하 Xiaomi)와 법적 구속력이 있는 계약을 체결합니다. 이 기능을 사용함으로써 귀하는이 고지 사항을 읽었으며이 고지 사항의 전체 내용을 완전히 이해하고 이에 동의합니다. 이 고지 사항에 동의하지 않으면 즉시 지진 경고 기능을 해제해야 합니다. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 특별 진술 &amp;lt;b&amp;gt; 관련 법규에 따라 지진 조기 경보 서비스는 관련 정부 부서에서 승인 한 지역에만 제공됩니다. 즉, 지진 경고 기능을 켜고 장치가 승인 된 지역에 있으면 지진 경고 서비스를받을 수 있습니다. 현재 지진 경보 서비스가 제공되는 지역 목록을 확인할 수 있습니다. 앞으로 더 많은 지역이 지원 될 예정입니다. 계속 지켜봐주세요! &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 고지 사항 &amp;lt;b&amp;gt; 보안 앱은 지진 경고 기능을 제공합니다. 지진 경보 정보는 정부 조기 경보 기관에서 제공한다는 것을 이해해야 합니다. Xiaomi는 그러한 기관을 감독하지 않으며 그 기관을 통제할 수 없습니다. &amp;lt;br&amp;gt; Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족한다고 보장하지도 않습니다. 지진 경고 정보를 받으려면 장치를 모바일 네트워크에 연결되어 있어야합니다. 타사 통신 회선 장애, 기술 문제, 네트워크 또는 터미널 장비 장애, 시스템 불안정성 및 기타 다양한 불가항력 이벤트로 인해 지진 경고 정보를 받지 못할 수 있습니다. Xiaomi는 그러한 사건으로 인한 손실에 대해 책임을 지지 않습니다. &amp;lt;br&amp;gt; 이 기능은 참조용으로만 제공됨을 이해해야 합니다. 이 기능이 제공하는 정보를 기반으로 수행한 모든 작업의 위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다. &amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
+    <string name="ew_guide_statement_text">&lt;Data&gt;사용자가 지진 경고 기능을 활성화 할 때마다 Xiaomi 및 그 계열사(이하 Xiaomi)와 법적 구속력이 있는 계약을 체결합니다. 이 기능을 사용함으로써 귀하는이 고지 사항을 읽었으며이 고지 사항의 전체 내용을 완전히 이해하고 이에 동의합니다. 이 고지 사항에 동의하지 않으면 즉시 지진 경고 기능을 해제해야 합니다. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 특별 진술 &amp;lt;b&amp;gt; 관련 법규에 따라 지진 조기 경보 서비스는 관련 정부 부서에서 승인 한 지역에만 제공됩니다. 즉, 지진 경고 기능을 켜고 장치가 승인된 지역에 있으면 지진 경고 서비스를받을 수 있습니다. 현재 지진 경보 서비스가 제공되는 지역 목록을 확인할 수 있습니다. 앞으로 더 많은 지역이 지원 될 예정입니다. 계속 지켜봐주세요! &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 고지 사항 &amp;lt;b&amp;gt; 보안 앱은 지진 경고 기능을 제공합니다. 지진 경보 정보는 정부 조기 경보 기관에서 제공한다는 것을 이해해야 합니다. Xiaomi는 그러한 기관을 감독하지 않으며 그 기관을 통제할 수 없습니다. &amp;lt;br&amp;gt; Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족한다고 보장하지도 않습니다. 지진 경고 정보를 받으려면 장치를 모바일 네트워크에 연결되어 있어야합니다. 타사 통신 회선 장애, 기술 문제, 네트워크 또는 터미널 장비 장애, 시스템 불안정성 및 기타 다양한 불가항력 이벤트로 인해 지진 경고 정보를 받지 못할 수 있습니다. Xiaomi는 그러한 사건으로 인한 손실에 대해 책임을 지지 않습니다. &amp;lt;br&amp;gt; 이 기능은 참조용으로만 제공됨을 이해해야 합니다. 이 기능이 제공하는 정보를 기반으로 수행한 모든 작업의 위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다. &amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
     <string name="ew_guide_tips_1">다가오는 지진에 대한 알림을 받고 경고음이 들립니다.</string>
     <string name="ew_guide_tips_2">지진 발생시 정보 및 경고음이 업데이트됩니다.</string>
     <string name="ew_guide_tips_3">가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다.</string>
@@ -988,7 +988,7 @@
     <string name="ew_main_detail_title">설정</string>
     <string name="ew_main_emergency_tips">기본 의료 정보를 항상 기록해 두세요.</string>
     <string name="ew_main_emergency_title">의료 카드</string>
-    <string name="ew_main_open_tips">이 기능은 다가오는 지진에 대해 알려주고 경고음을 재생합니다. 비상 카운트 다운이 중지 된 후 비상 서비스에 대한 정보도 제공됩니다.</string>
+    <string name="ew_main_open_tips">이 기능은 다가오는 지진에 대해 알려주고 경고음을 재생합니다. 비상 카운트 다운이 중지된 후 비상 서비스에 대한 정보도 제공됩니다.</string>
     <string name="ew_main_open_title">알림 받기 및 도움 받기</string>
     <string name="ew_main_place_tips">필요할 때마다 가장 가까운 비상 대피소가 어디에 있는지 알아보세요.</string>
     <string name="ew_main_place_title">근처에 비상 대피소</string>
@@ -1043,10 +1043,10 @@
     <string name="exo_track_surround_7_point_1">7.1 서라운드 사운드</string>
     <string name="exo_track_unknown">알수없음</string>
     <string name="extreme_power_save_mode_card_summary">배터리가 부족할 때 최대 절약모드를 켜보세요.</string>
-    <string name="extreme_power_save_mode_title">배터리 세이버</string>
+    <string name="extreme_power_save_mode_title">절전 모드</string>
     <string name="face_unlock_be_on_the_screen">기기를 얼굴 앞에 댑니다.</string>
     <string name="face_unlock_check_failed">얼굴을 인식할 수 없습니다.</string>
-    <string name="face_unlock_face_auth_failed_title">얼굴인식 불가. 다른 잠금하제 방법으로 전환중…</string>
+    <string name="face_unlock_face_auth_failed_title">얼굴인식 불가. 다른 잠금하제 방법으로 전환 중…</string>
     <string name="face_unlock_face_start_title">얼굴인식중…</string>
     <string name="face_unlock_finger_or_password_switch">지문인식 또는 비밀번호를 사용하여 잠금해제하세요.</string>
     <string name="face_unlock_guide_confirm">얼굴인식 잠금해제 사용</string>
@@ -1060,13 +1060,13 @@
     <string name="face_unlock_verity_dialog_title_failed">인식 불가</string>
     <string name="face_unlock_verity_dialog_title_succeed">인식 완료</string>
     <string name="fast_open">스피드 그랩 모드</string>
-    <string name="fast_open_dialog_message">빠른 캡처 모드가 활성화 된 후 빨간색 봉투를 받으면 시스템에서 자동으로 빨간색 봉투 페이지를 열며 빨간색 봉투를 잡는 것이 더 빠르고 편리합니다.</string>
+    <string name="fast_open_dialog_message">빠른 캡처 모드가 활성화된 후 빨간색 봉투를 받으면 시스템에서 자동으로 빨간색 봉투 페이지를 열며 빨간색 봉투를 잡는 것이 더 빠르고 편리합니다.</string>
     <string name="fast_open_dialog_message_summary">참고 : 앱의 정상적인 작동에 영향을주지 않으려면 빠른 탐색, 동영상 및 게임 앱 모드를 끄는 것이 좋습니다. 전화가 잠겼을 때 빨간 봉투는 강탈되지 않습니다.</string>
     <string name="fast_open_dialog_ok">오픈</string>
     <string name="fast_open_list_not_open_title">%s 애플리케이션을 서두르는 것은 금지되어 있습니다.</string>
     <string name="fast_open_list_open_title">%s 앱에서 빠른 로빙 허용</string>
     <string name="fast_open_noti_summary">%s님이 빨간 봉투를 보냈습니다.</string>
-    <string name="fast_open_summary">빠른 캡처 모드가 활성화 된 후 빨간색 봉투 새 메시지를 수신하면 현재 앱의 사용이 빨간색 봉투 창으로 전환되지 않습니다.</string>
+    <string name="fast_open_summary">빠른 캡처 모드가 활성화된 후 빨간색 봉투 새 메시지를 수신하면 현재 앱의 사용이 빨간색 봉투 창으로 전환되지 않습니다.</string>
     <string name="finger_remind_message">먼저 지문을 추가하세요. 탭하여 설정 열기</string>
     <string name="fingerprint_identify_msg">지문 인증을 켜주세요.</string>
     <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력하세요.</string>
@@ -1090,9 +1090,9 @@
     <string name="firewall_network_allow">%1$s의 %2$s 연결이 허용됨</string>
     <string name="firewall_network_restrict_notify_message">탭하여 설정 변경</string>
     <string name="firewall_network_restrict_notify_mobile">모바일 데이터</string>
-    <string name="firewall_partial">다음의 방식을 사용하여 몇몇 앱의 연결 허용</string>
+    <string name="firewall_partial">다음의 방식을 사용하여 일부 앱의 연결 허용</string>
     <string name="firewall_restrict_all">다음의 방식을 사용하여 모든 앱 연결 제한</string>
-    <string name="firewall_restrict_android_dialog_content">기기가 정상적으로 작동하는지 확인하기 위해서 몇몇 Android 시스템 앱들이 아직 인터넷에 연결 중일 수도 있습니다. 이 앱들은 귀하의 모바일 데이터 연결을 사용할 수 있으며 귀하가 이용중인 통신사에서 많지 않은 요금이 청구될 수도 있습니다.</string>
+    <string name="firewall_restrict_android_dialog_content">기기가 정상적으로 작동하는지 확인하기 위해서 일부 Android 시스템 앱들이 아직 인터넷에 연결 중일 수도 있습니다. 이 앱들은 귀하의 모바일 데이터 연결을 사용할 수 있으며 귀하가 이용중인 통신사에서 많지 않은 요금이 청구될 수도 있습니다.</string>
     <string name="firewall_restrict_android_dialog_title">주의</string>
     <string name="firewall_restrict_data">모바일 데이터 사용량 제한</string>
     <string name="firewall_restrict_notify_title">%s 네트워크 사용 제한됨</string>
@@ -1205,7 +1205,7 @@
     <string name="gamebooster_lowbattery_notification_title">배터리가 5 %% 미만입니다.</string>
     <string name="gamebooster_main_activity_back">뒤로</string>
     <string name="gamebooster_network_dialog_message">보안 네트워크를 허용하여 게임 스피드 부스터의 전체 기능을 사용하시겠습니까?</string>
-    <string name="gamebooster_network_dialog_title">몇몇 기능을 사용할 수 없음</string>
+    <string name="gamebooster_network_dialog_title">일부 기능을 사용할 수 없음</string>
     <string name="gamebox_app_not_find">앱을 먼저 설치하세요.</string>
     <string name="gamebox_browser_not_find">Mi 브라우저를 설치하세요.</string>
     <string name="gamebox_display_1">없음</string>
@@ -1353,7 +1353,7 @@
     <string name="gs_show_way_horizontal">가로</string>
     <string name="gs_show_way_vertical">세로</string>
     <string name="gs_sign_notification">매일 오후 8시에 체크인하세요.</string>
-    <string name="gs_slip_gamebox_detail">화면의 상단 가장자리에서 슬라이더를 사용하거나 스와이프하여 바로 가기 패널을 표시합니다.</string>
+    <string name="gs_slip_gamebox_detail">화면의 상단 가장자리에서 슬라이더를 사용하거나 스와이프하여 바로가기 패널을 표시합니다.</string>
     <string name="guide_get_operator_error">&lt;font color=\'#33b4ff\'&gt;&lt;U&gt;통신사가 잘못되었습니까?&lt;/U&gt;&lt;/font&gt;</string>
     <string name="guide_operator_text">"현재 통신사: "</string>
     <string name="guide_quck_open">켜기</string>
@@ -1369,7 +1369,7 @@
     <string name="handle_title_privacy">개인정보 보호 &amp; 보안</string>
     <string name="handle_title_system">시스템 배터리 사용량</string>
     <string name="hide_mode_app_background_setting_text">앱 배터리 절약</string>
-    <string name="hide_mode_result_summary_text">개별앱의 배터리 세이버 사용자 맞춤 설정</string>
+    <string name="hide_mode_result_summary_text">개별앱의 절전 모드 사용자 맞춤 설정</string>
     <string name="hide_mode_summary_text">앱의 백그라운드 활동을 관리하여 배터리를 절약합니다.</string>
     <string name="hide_system_app">시스템 앱 숨기기</string>
     <string name="hint_antispam_mode_edit">사용자 지정 모드</string>
@@ -1498,10 +1498,10 @@
     <string name="lucky_alarm_open_summary">열린 후에는 빨간 봉투 활동이 시작되기 1분전에 팝업창이 표시되며 모든 빨간 봉투 활동 시간은 유동창을 통해 볼 수 있습니다.</string>
     <string name="lucky_alarm_open_title">빨간 봉투 알람 시계</string>
     <string name="lucky_alarm_sound_title">활동 사운드 알림</string>
-    <string name="lucky_assistant_description">Xiaomi 공식 제작\nWeChat/QQ/Xiaomi 채팅컴퓨터 로그인 dnd를 켜는 차단 된 그룹 및 소프트웨어를 상기시킵니다.</string>
+    <string name="lucky_assistant_description">Xiaomi 공식 제작\nWeChat/QQ/Xiaomi 채팅컴퓨터 로그인 dnd를 켜는 차단된 그룹 및 소프트웨어를 상기시킵니다.</string>
     <string name="lucky_max_chat_title">QQ로부터</string>
     <string name="lucky_money_close">닫기</string>
-    <string name="lucky_money_group_summary">개인이 보낸 빨간 봉투는 강탈 할 필요가 없으며, 너무 많은 알림을 피하기 위해 그룹 빨간 봉투 만 상기시키는 것이 좋습니다.</string>
+    <string name="lucky_money_group_summary">개인이 보낸 빨간 봉투는 강탈 할 필요가 없으며, 너무 많은 알림을 피하기 위해 그룹 빨간 봉투만 상기시키는 것이 좋습니다.</string>
     <string name="lucky_my_luckymoney">내 빨간 봉투 기록</string>
     <string name="lucky_sound_mode_lucky">빨간 봉투가오고있다</string>
     <string name="lucky_sound_warn">빨간 봉투 소리 알림</string>
@@ -1523,7 +1523,7 @@
     <string name="main_daily_card_guide_dialog_summary">월별, 일별, 무제한 요금제 중 선택할 수 있습니다. 지금 선택하시겠습니까?</string>
     <string name="main_daily_card_guide_dialog_title">데이터 요금제 유형 설정</string>
     <string name="main_daily_package">일일 데이터 플랜</string>
-    <string name="main_indicator_title">활성화 대기중</string>
+    <string name="main_indicator_title">활성화 대기 중</string>
     <string name="main_leisure_remained">오프 피크 데이터 잔량</string>
     <string name="main_month_total_used">이번 달 사용량</string>
     <string name="main_month_used">데이터 플랜</string>
@@ -1572,7 +1572,7 @@
     <string name="mark_number_sell">텔레마케터</string>
     <string name="mark_number_setting_guide_content1">신고된 번호로부터 걸려 오는 통화를 차단하시겠습니까?</string>
     <string name="mark_number_setting_guide_content2">다른 사용자들이 신고한 번호로부터 걸려 오는 통화 자동 차단</string>
-    <string name="mark_number_setting_guide_content3">%1$s 번호를 신고하였습니다. 신고된 %2$s 번호에서 오는 통화를 차단하시겠습니까?</string>
+    <string name="mark_number_setting_guide_content3">%1$s 번호를 신고했습니다. 신고된 %2$s 번호에서 오는 통화를 차단하시겠습니까?</string>
     <string name="mark_number_setting_guide_forward">차단 목록 설정</string>
     <string name="mark_number_setting_guide_title">신고된 번호 차단</string>
     <string name="mark_sell">유통판매업자로 신고된 번호 차단</string>
@@ -1636,7 +1636,7 @@
     <string name="menu_summary_networkassistants_2">제한된 사용량을 초과함</string>
     <string name="menu_summary_networkassistants_3">남은 데이터가 충분함</string>
     <string name="menu_summary_networkassistants_4">데이터 소진됨</string>
-    <string name="menu_summary_power_manager">배터리 세이버는 여러분의 기기 사용가능 시간을 늘려줍니다.</string>
+    <string name="menu_summary_power_manager">절전 모드는 여러분의 기기 사용가능 시간을 늘려줍니다.</string>
     <string name="menu_summary_power_manager_1">완전 충전됨</string>
     <string name="menu_summary_power_manager_2">%s 남음</string>
     <string name="menu_summary_power_manager_3">충전기 연결</string>
@@ -1733,7 +1733,7 @@
     <string name="notification_exit_power_save_mode">배터리 절약 꺼짐</string>
     <string name="notification_exit_power_save_mode_subtitle">배터리 %s 충전됨</string>
     <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안함</string>
-    <string name="notification_mask_title">알림 컨텐츠 숨기기</string>
+    <string name="notification_mask_title">알림 콘텐츠 숨기기</string>
     <string name="notification_masked_item">어떻게 알림 컨텐츠를 숨길 수 있나요?</string>
     <string name="notification_masked_subtitle">앱 잠금을 통해 선택된 앱에 대한 알림 컨텐츠를 숨겨보세요.</string> <string name="notification_summary_cmcc_app_check">터치하여 세부사항 보기</string>
     <string name="notify_channel_mipush">보안관련 푸시 메시지</string>
@@ -1819,7 +1819,7 @@
     <string name="optimize_result_button_see_detaills">자세히</string>
     <string name="optimize_result_button_to_set">설정</string>
     <string name="optimize_result_button_update_now">업데이트</string>
-    <string name="optimize_result_summary_sucurity_risk">몇몇 보안 기능이 꺼져있습니다. 이 기능들을 켜시고 기기를 안전하게 보호하세요:</string>
+    <string name="optimize_result_summary_sucurity_risk">일부 보안 기능이 꺼져있습니다. 이 기능들을 켜시고 기기를 안전하게 보호하세요:</string>
     <string name="optimize_result_summary_system_default_settings">기본 MIUI 앱을 사용하시면 시스템의 안정성과 보안 수준이 증가합니다.</string>
     <string name="optimize_result_title_sucurity_risk">보안 위험 발견됨</string>
     <string name="optimize_result_title_system_default_settings">기본 설정이 변경되었습니다.</string>
@@ -1882,7 +1882,7 @@
     <string name="pc_main_sub_battery_text_day_hour">%1$s일 %2$s시간 남음</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s시간 %2$s분 남음</string>
     <string name="pc_search_keywords_battery">배터리</string>
-    <string name="pc_search_keywords_battery_save">배터리 세이버</string>
+    <string name="pc_search_keywords_battery_save">절전 모드</string>
     <string name="pc_search_keywords_battery_use">배터리 사용량</string>
     <string name="pc_search_keywords_capacity">배터리 용량</string>
     <string name="pc_search_keywords_property">성능</string>
@@ -1965,7 +1965,7 @@
     <string name="power_center_scan_item_title_clean_memory">메모리 정리</string>
     <string name="power_center_scan_item_title_GPS">GPS 정확도 조정</string>
     <string name="power_center_scan_item_title_hide">배터리 사용 관리</string>
-    <string name="power_center_scan_item_title_power_saver">배터리 세이버 켜기</string>
+    <string name="power_center_scan_item_title_power_saver">절전 모드 켜기</string>
     <string name="power_center_scan_item_title_running_app">백그라운드에서 실행중인 앱</string>
     <string name="power_center_scan_result_safe">발견된 배터리 문제가 없습니다.</string>
     <string name="power_center_state_off">꺼짐</string>
@@ -2007,7 +2007,7 @@
     <string name="power_phone">음성 통화</string>
     <string name="power_save_mode_auto_exit_summary">배터리가 60%보다 많으면 끕니다.</string>
     <string name="power_save_mode_auto_exit_title">충전이 완료되었을 때 끄기</string>
-    <string name="power_save_mode_close_warn_text">배터리 절약은 백그라운드의 작업과 동기화를 제한합니다. 기기가 완전히 충전되어있을 때 사용하시면 몇몇 기능이 정상적으로 작동하지 않을 수 있습니다. 완전히 충전되어있는 상황에서도 배터리 절약을 사용하시겠습니까?</string>
+    <string name="power_save_mode_close_warn_text">배터리 절약은 백그라운드의 작업과 동기화를 제한합니다. 기기가 완전히 충전되어있을 때 사용하시면 일부 기능이 정상적으로 작동하지 않을 수 있습니다. 완전히 충전되어있는 상황에서도 배터리 절약을 사용하시겠습니까?</string>
     <string name="power_save_mode_close_warn_title">배터리 절약</string>
     <string name="power_save_mode_enable">배터리 절약</string>
     <string name="power_save_mode_end_time">종료</string>
@@ -2020,7 +2020,7 @@
     <string name="power_save_ps_close_setting">전력 소비가 높은 서비스 및 기능 끄기(동기화, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
     <string name="power_save_ps_freeze">백그라운드에 고정</string>
     <string name="power_save_ps_limit">시스템 앱 활동 제한</string>
-    <string name="power_save_started_summary_text">배터리 절약 기능이 켜져 있습니다. 앱의 백그라운드 활동을 줄이고 동기화를 중지하며 시스템 애니메이션을 최소화합니다.</string>
+    <string name="power_save_started_summary_text">절전 모드가 켜져 있습니다. 앱의 백그라운드 활동을 줄이고 동기화를 중지하며 시스템 애니메이션을 최소화합니다.</string>
     <string name="power_save_summary_text">배터리 절약을 켜서 앱의 백그라운드 활동을 줄입니다. 동기화를 중지하고 시스템 애니메이션을 최소화합니다.</string>
     <string name="power_save_title_text">배터리 절약</string>
     <string name="power_screen">화면</string>
@@ -2128,7 +2128,7 @@
     <string name="privacy_apps_category_title">숨겨진 앱</string>
     <string name="privacy_apps_checkbox_remind_choice">다시 보지 않기</string>
     <string name="privacy_apps_close">닫기</string>
-    <string name="privacy_apps_enable_summary">앱을 숨겨진 폴더로 이동하고 홈 화면 바로 가기를 제거합니다.</string>
+    <string name="privacy_apps_enable_summary">앱을 숨겨진 폴더로 이동하고 홈 화면 바로가기를 제거합니다.</string>
     <string name="privacy_apps_go_to_use">시작</string>
     <string name="privacy_apps_manage">숨겨진 앱 관리</string>
     <string name="privacy_apps_manage_dialog_title">숨겨진 앱 정보</string>
@@ -2486,7 +2486,7 @@
     <string name="still_retain_btn">유지</string>
     <string name="stop_milink_connect">캐스팅 멈춤</string>
     <string name="suggest_app_tolock">제안</string>
-    <string name="suggest_app_tolock_masked">컨텐츠 숨김</string>
+    <string name="suggest_app_tolock_masked">콘텐츠 숨김</string>
     <string name="suggest_app_tolock_unmasked">알림 보이기</string>
     <string name="suggest_scan_again">스캔을 완료하셔서 기기의 안전을 보장하세요.</string>
     <string name="summary_app_lock_disable">앱 잠금으로 데이터 보호하기</string>
@@ -2501,7 +2501,7 @@
     <string name="summary_cloud_space_full">더 많은 저장 공간을 확보해서 더 많은 기능을 사용합니다.</string>
     <string name="summary_cmcc_app_check">일부 앱이 검증되지 않았습니다.</string>
     <string name="summary_consume_power">발열 이슈 발견됨. 배터리 수명에 영향을 줄 수 있습니다.</string>
-    <string name="summary_dark_mode">타사 서비스로 인해 몇몇 페이지는 검게 보입니다.</string>
+    <string name="summary_dark_mode">타사 서비스로 인해 일부 페이지는 검게 보입니다.</string>
     <string name="summary_data_flow">추가 비용 방지를 위해 모바일 데이터 사용량 제어하기</string>
     <string name="summary_default_app">%s를 기본 시스템 앱으로 설정할 수 없습니다.</string>
     <string name="summary_dev">악성코드를 방지하고 개인정보를 보호합니다.</string>
@@ -2536,14 +2536,14 @@
     <string name="summary_xiaomi_roaming">모바일 데이터 로밍 CNY 0.01/MB</string>
     <string name="superpower_dialog_button_disable_dialog">다시 보지 않기</string>
     <string name="superpower_dialog_button_ok">확인</string>
-    <string name="superpower_dialog_massage">배터리 세이버는 가능한 한 오랫동안 사용할 수 있는 기본 기능 (예 : 전화, SMS 및 네트워크 연결)을 유지하기 위해 대부분의 전력 소비 기능을 제한하고 장치의 성능을 저하시킵니다. 배터리 세이버를 켜시겠습니까?</string>
-    <string name="superpower_dialog_title">배터리 세이버</string>
+    <string name="superpower_dialog_massage">초절전 모드는 기기의 기본 기능(예: 통화, 메시지, 네트워크 연결)을 최대한 오래 유지하기 위해, 배터리를 소모하는 대부분의 기능을 제한하고 기기 성능을 낮춥니다. 초절전 모드를 켜시겠습니까?</string>
+    <string name="superpower_dialog_title">초절전 모드</string>
     <string name="superpower_notification_hint_enter">켜기</string>
-    <string name="superpower_notification_summary">배터리 세이버 켜기</string>
+    <string name="superpower_notification_summary">초절전 모드 켜기</string>
     <string name="superpower_notification_time_12">M월 d일, EEEE</string>
     <string name="superpower_notification_time_24">M월 d일, EEEE</string>
     <string name="superpower_notification_title">남은 배터리가 10% 미만입니다.</string>
-    <string name="superpower_progress_content">배터리 세이버 켜는 중…</string>
+    <string name="superpower_progress_content">초절전 모드 켜는 중…</string>
     <string name="superpower_progress_left_time">%1$d시간 %2$d분</string>
     <string name="superpower_progress_switch_home">어두운 테마로 전환하기</string>
     <string name="superpower_progress_title">남은 시간</string>
@@ -2554,13 +2554,13 @@
     <string name="superpower_savemode_limit2">백그라운드 활동 제한</string>
     <string name="superpower_savemode_limit3">전력소비 제한(동기화, GPS, 진동, AOD 등)</string>
     <string name="superpower_savemode_limit4">선택한 앱이 정상적으로 작동하도록 허용</string>
-    <string name="superpower_settings">배터리 세이버</string>
-    <string name="superpower_settins_autoenter_summary">배터리가 10%만 충전되면 자동으로 배터리 절약 기능을 켭니다.</string>
+    <string name="superpower_settings">초절전 모드</string>
+    <string name="superpower_settins_autoenter_summary">배터리가 10% 남았을 때 초절전 모드를 자동으로 켭니다.</string>
     <string name="superpower_settins_autoenter_title">자동으로 켜기</string>
-    <string name="superpower_settins_autoleave_summary">배터리가 50% 충전되면 자동으로 배터리 절약 기능을 끕니다.</string>
+    <string name="superpower_settins_autoleave_summary">배터리가 50% 충전되었을 때 초절전 모드를 자동으로 끕니다.</string>
     <string name="superpower_settins_autoleave_title">자동으로 끄기</string>
     <string name="superpower_settins_other">추가 설정</string>
-    <string name="superpower_settins_switch_summary">"가능한 한 오랫동안 기본 기능 (예 : 전화, SMS 및 선택한 앱)을 사용할 수 있도록 대부분의 전력 소비 기능을 제한합니다. "</string>
+    <string name="superpower_settins_switch_summary">"기본 기능(예 : 통화, 메시지, 선택한 앱)을 최대한 오래 사용할 수 있도록 배터리를 소모하는 대부분의 기능을 제한합니다. "</string>
     <string name="support_game_booster_tips">속도 향상 &amp; 게임 성능 향상</string>
     <string name="sys_app_prot_cracked_confirm">알겠습니다.</string>
     <string name="sys_cpu_title">CPU 사용량</string>
@@ -2581,7 +2581,7 @@
     <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 필요한 개인 데이터를 수집해야 합니다.</string>
     <string name="system_permission_declare_privacy_policy"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_revoke_system">이 기능을 끝낼 수 있습니다.</string>
-    <string name="system_permission_declare_revoke_uninstallable">보안에서 로그아웃하거나 이 앱을 제거하거나 승인을 취소할 수 있습니다. 보안 &gt; 앱 관리 &gt; 권한 &gt; 권한.</string>
+    <string name="system_permission_declare_revoke_uninstallable">보안 &gt; 앱 관리 &gt; 권한에서 로그아웃을 하거나 이 앱을 제거 또는 승인을 취소할 수 있습니다.</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
     <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
@@ -2694,13 +2694,13 @@
     <string name="third_application">설치된 앱</string>
     <string name="third_desktop_dialog_content">타사의 런처 앱은 데이터 유출, 비정상적인 배터리 소모 및 지연 등과 같은 문제를 일으킬 수 있으므로 MIUI에서 확인한 애플리케이션만 기본런처로 설정할 수 있습니다.</string>
     <string name="third_desktop_dialog_ok">확인</string>
-    <string name="third_desktop_dialog_title">에러</string>
+    <string name="third_desktop_dialog_title">오류</string>
     <string name="three_percent_total_pkg">%s (월간 데이터의 3%%)</string>
     <string name="timeshow_h">%.1f 시간</string>
     <string name="timeshow_h_int">%d시간</string>
     <string name="timeshow_m">%d분</string>
     <string name="timeshow_s">%d초</string>
-    <string name="tips_dialog_title">한도 알지 못함</string>
+    <string name="tips_dialog_title">한도 모름</string>
     <string name="tips_message">데이터 계획의 세부사항를 보려면, %2$s(%1$s) 번으로 전화하세요.</string>
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
     <string name="tips_of_auto_launch_manage">거의 사용하지 않는 앱의 자동 실행을 방지하세요.</string>
@@ -2718,7 +2718,7 @@
     <string name="title_cloud_space_full">클라우드가 꽉 찼습니다.</string>
     <string name="title_cmcc_app_check">검증이 완료되지 않음</string>
     <string name="title_consume_power_rank">앱 전원 사용량</string>
-    <string name="title_dark_mode">몇몇 항목은 제대로 보이지 않습니다.</string>
+    <string name="title_dark_mode">일부 항목은 제대로 보이지 않습니다.</string>
     <string name="title_data_flow">모바일 데이터 제어</string>
     <string name="title_data_flow_monitor">데이터 사용량 모니터링 켜짐</string>
     <string name="title_dev_model_off">개발자 옵션이 꺼져있습니다.</string>
@@ -2801,8 +2801,8 @@
     <string name="traffic_alert_auto_modify_package_summary">통신사의 정보를 바탕으로 데이터 패키지를 자동으로 조정합니다.</string>
     <string name="traffic_config_alert_auto_modify">자동으로 데이터 계획 업데이트</string>
     <string name="traffic_config_alert_body">통신사 계정엔 %s로 표시됩니다.\n\n수락하시겠습니까?</string>
-    <string name="traffic_config_alert_body_extra">\n이번 달에 %1$s의 추가 데이터를 구매하였습니다. 이것은 수동으로 추가한 %2$s와 다릅니다.</string>
-    <string name="traffic_config_alert_body_extra_notset">\n이번 달에 %s의 추가 데이터를 구매하였습니다. 이것은 수동으로 설정한 월간 데이터 한도에 반영되지 않습니다.</string>
+    <string name="traffic_config_alert_body_extra">\n이번 달에 %1$s의 추가 데이터를 구매했습니다. 이것은 수동으로 추가한 %2$s와 다릅니다.</string>
+    <string name="traffic_config_alert_body_extra_notset">\n이번 달에 %s의 추가 데이터를 구매했습니다. 이것은 수동으로 설정한 월간 데이터 한도에 반영되지 않습니다.</string>
     <string name="traffic_config_alert_body_leisure">\n계획한 월간 오프 피크 데이터 사용량 한도는 %1$s입니다. 이것은 수동으로 설정한 한도 %2$s와(과) 다릅니다.</string>
     <string name="traffic_config_alert_body_leisure_notset">\n계획한 월간 오프 피크 데이터 사용량 한도는 %1$s입니다. 오프 피크 데이터 사용량 한도를 설정하지 않았습니다.</string>
     <string name="traffic_config_alert_body_normal">\n계획한 월간 피크 타임 데이터 사용량 한도는 %1$s입니다. 이것은 수동으로 설정한 한도 %2$s와(과) 다릅니다.</string>
@@ -2855,9 +2855,9 @@
     <string name="txv_dnd_start_time_title">시작 시간</string>
     <string name="txv_dnd_type_demo">음소거</string>
     <string name="txv_dnd_type_title">방해 금지 모드</string>
-    <string name="txv_lucky_money_group_text">그룹 빨간 봉투 만 상기</string>
+    <string name="txv_lucky_money_group_text">그룹 빨간 봉투만 상기</string>
     <string name="unable_connect_internet">인터넷 연결 없음</string>
-    <string name="uninstall_app_dialog_msg">제거시 모든 앱 데이터가 삭제됩니다.</string>
+    <string name="uninstall_app_dialog_msg">제거 시 모든 앱 데이터가 삭제됩니다.</string>
     <string name="uninstall_app_dialog_title">지금 제거하시겠습니까?</string>
     <string name="uninstall_app_done">성공적으로 제거됨</string>
     <string name="uninstall_danagerous_btn">제거</string>
@@ -2865,7 +2865,7 @@
     <string name="uninstall_danagerous_msg">\"%s\" 앱이 기기를 손상시키거나 성능 저하 또는 다시 시작을 일으킬 수 있습니다.</string>
     <string name="uninstall_danagerous_title">악성 앱을 삭제합니다.</string>
     <string name="unlike">사양하겠습니다.</string>
-    <string name="unlock_failed">내부 에러</string>
+    <string name="unlock_failed">내부 오류</string>
     <string name="unlock_pattern">&lt;u&gt;패턴&lt;/u&gt;</string>
     <string name="unlock_pattern_to_bind_fingerprint">비밀번호를 입력하여 지문 활성화</string>
     <string name="unlock_set_unlock_password_summary">다른 문자가 포함되어야 합니다.</string>
@@ -2948,17 +2948,17 @@
     <string name="phone_manage_special_title">스폐셜 기능</string>
     <string name="phone_manage_system_tool_summary">유용한 시스템 도구</string>
     <string name="phone_manage_system_tool_title">도구</string>
-    <string name="power_save_mode">배터리 세이버</string>
+    <string name="power_save_mode">절전 모드</string>
     <string name="power_save_settings">배터리 설정</string>
     <string name="securitycenter_tab_title">보안</string>
     <string name="system_tool_green_guard">패밀리 가드</string>
     <string name="system_tool_sos">긴급 SOS</string>
     <string name="superpower_notification_new_title">남은 배터리 %d%% 미만</string>
-    <string name="power_center_5g_save_close_detail">5G 배터리 세이버는 5G 연결에 영향을 주지 않으면서 배터리 수명을 늘립니다. 정말로 끄겠습니까?</string>
+    <string name="power_center_5g_save_close_detail">5G 절전 모드는 5G 연결에 영향을 주지 않으면서 배터리 수명을 늘립니다. 정말로 끄겠습니까?</string>
     <string name="power_center_5g_save_close_later">"끄지 않음"</string>
-    <string name="power_center_5g_save_close_title">5G 배터리 세이버 끄기</string>
+    <string name="power_center_5g_save_close_title">5G 절전 모드 끄기</string>
     <string name="power_center_5g_save_summary_text">특정 상황에서 5G 전력 소비를 줄입니다.</string>
-    <string name="power_center_5g_save_title_text">5G 배터리 세이버</string>
+    <string name="power_center_5g_save_title_text">5G 절전 모드</string>
     <string name="process_vpnsdkmanager_label">게임 터보</string>
     <string name="privacy_description_camera">%1s 앱이 백그라운드에서 카메라를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
     <string name="privacy_description_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
@@ -2971,15 +2971,15 @@
     <string name="power_dialog_super_save_msg_5g">초 절전 모드는 가장 전력 소모가 심한 기능들을 끕니다. (예. 5G 연결) 그래서 기기의 성능이 낮아질 수 있습니다. 통화, 메시지, 네트워크 연결만이 영향을 받지 않습니다. 그래도 켜시겠습니까?</string>
     <string name="power_optimize_disable_5g">5G 연결 제한</string>
     <string name="power_save_ps_close_setting_5g">전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면 깨우거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
-    <string name="privacyapp_number_masked_text">알림 컨텐츠 숨겨짐</string>
+    <string name="privacyapp_number_masked_text">알림 콘텐츠 숨겨짐</string>
     <string name="privacyapp_number_unmasked_text">알림 컨텐츠를 숨길 수 있습니다.</string>
     <string name="battery_can_use_time">%s 남음</string>
     <string name="battery_low_button_not_open_power_save">나중에</string>
     <string name="battery_low_button_open_power_save">켜기</string>
     <string name="battery_low_percent_format_save_mode_closed">"현재 배터리 잔량이 %s 미만입니다. 기기를 충전하는 것을 잊지 마세요."</string>
-    <string name="battery_low_percent_format_save_mode_open">"현재 배터리 잔량이 %1$s 미만입니다. 배터리 절약 기능을 켜서 %2$s의 추가 시간을 추가하세요."</string>
+    <string name="battery_low_percent_format_save_mode_open">"현재 배터리 잔량이 %1$s 미만입니다. 절전 모드를 켜서 %2$s의 추가 시간을 추가하세요."</string>
     <string name="battery_low_title">배터리가 부족합니다.</string>
-    <string name="battery_low_title_power_save">배터리 세이버</string>
+    <string name="battery_low_title_power_save">절전 모드</string>
     <string name="dlg_cancel">취소</string>
     <string name="dlg_confirm">켜기</string>
     <string name="dlg_summary_close_app">"앱이 백그라운드에서 실행되지 않습니다. 알림이 차단될 것입니다."</string>
@@ -2995,7 +2995,7 @@
     <string name="notification_channel_battery">배터리</string>
     <string name="notification_low_battery_action_btn">켜기</string>
     <string name="notification_low_battery_need_charge">기기를 충전하세요.</string>
-    <string name="notification_low_battery_open_save_mode">배터리 세이버 켜기</string>
+    <string name="notification_low_battery_open_save_mode">절전 모드 켜기</string>
     <string name="notification_low_battery_title">배터리 %s 이하 남음</string>
     <string name="open_extreme_power_save_mode_title">초절전 모드 켜기</string>
     <string name="save_mode_btn_ok">확인</string>
@@ -3008,9 +3008,9 @@
     <string name="power_center_list_item_wake_notification">"알림시 화면 켜지 않기"</string>
     <string name="power_optimize_disable_gps_high_accuracy">높은 정확성 모드 끄기</string>
     <string name="power_center_dialog_msg_title">%1$s 추가시간을 얻도록 설정하세요. 배터리를 절약하기 위해 다음 작업이 수행됩니다:</string>
-    <string name="power_save_mode_close_notification_screenon_summary">배터리 세이버가 켜져있을 때 작동합니다.</string>
-    <string name="power_save_mode_close_notification_screenon_title">"알림 수신시 화면 깨우지 않기"</string>
-    <string name="power_save_mode_close_xiaoai_wakeup_summary">배터리 세이버가 켜져있을 때 작동합니다.</string>
+    <string name="power_save_mode_close_notification_screenon_summary">절전 모드가 켜져있을 때 작동합니다.</string>
+    <string name="power_save_mode_close_notification_screenon_title">"알림 수신 시 화면 깨우지 않기"</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_summary">절전 모드가 켜져있을 때 작동합니다.</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
     <string name="power_save_mode_other_optimization">추가 최적화</string>
     <string name="power_save_ps_close_setting_5g_q">전력 소비가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, 햅틱 피드백, \"폰을 들어 깨우기\", \"더블 탭하여 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
@@ -3082,7 +3082,7 @@
     <string name="permdesc_out_calls">발신 통화 모니터링</string>
     <string name="permission_action_always">항상 허용</string>
     <string name="permission_action_foreground">​​앱을 사용하는 동안</string>
-    <string name="phone_manage_recent_use">최근에 사용 된</string>
+    <string name="phone_manage_recent_use">최근에 사용된</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">%d초 동안 활동이 없으면 장치잠금</string>
     <string name="shortcut_title_scan">검사</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp 클리너</string>
@@ -3111,7 +3111,7 @@
     <string name="vb_video_effects_srs_premium_sound">사운드</string>
     <string name="videobox_hangup_tips_content">화면이 잠겨 있지만 이 기능이 켜져 있으면 앱이 백그라운드에서 계속 실행됩니다. 전원 버튼을 눌러 화면을 다시 켜세요. 지금이 기능을 사용하시겠습니까?</string>
     <string name="videobox_hangup_tips_title">주의</string>
-    <string name="videobox_settings_line_location">바로 가기 위치</string>
+    <string name="videobox_settings_line_location">바로가기 위치</string>
     <string name="videobox_settings_line_location_desc">화면 가장자리에 바로가기 표시</string>
     <string name="videobox_settings_line_location_left">왼쪽</string>
     <string name="videobox_settings_line_location_right">오른쪽</string>
@@ -3202,9 +3202,9 @@
     <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data>이 기능은 AVL 및 Tencent에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으세요.&lt;/Data></string>
     <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data>이 기능은 Avast 및 AVL에서 제공하는 바이러스 백신 엔진을 사용합니다. 자세한 내용은 관련 &lt;a href=\"%1$s\">라이센스&lt;/a>를 읽으세요.&lt;/Data></string>
     <string name="clean_master_icon_recall_button_text">추가</string>
-    <string name="clean_master_icon_recall_summary">언제든지 휴지통을 지우려면 홈 화면 바로 가기를 추가하세요.</string>
+    <string name="clean_master_icon_recall_summary">언제든지 휴지통을 지우려면 홈 화면 바로가기를 추가하세요.</string>
     <string name="clean_master_icon_recall_title">쓰레기를 더 빨리 지우세요.</string>
-    <string name="clean_master_icon_recall_toast_text">청소기를 위한 홈 화면 바로 가기 추가</string>
+    <string name="clean_master_icon_recall_toast_text">청소기를 위한 홈 화면 바로가기 추가</string>
     <string name="first_settings_default_camera_title">기본적으로 메타 데이터없이 공유</string>
     <string name="first_settings_default_location_subtitle">공유 사진에서 위치 정보 제거</string>
     <string name="first_settings_default_location_title">기본적으로 위치 정보없이 공유</string>
@@ -3234,9 +3234,9 @@
     <string name="vb_quick_func_auto_bgm">배경 음악 인식</string>
     <string name="clean_master_icon_recall_dialog_button_negative">괜찮습니다.</string>
     <string name="clean_master_icon_recall_dialog_button_positive">추가</string>
-    <string name="clean_master_icon_recall_dialog_summary">필요할 때마다 휴지통을 지우려면 홈 화면 바로 가기를 추가하세요.</string>
+    <string name="clean_master_icon_recall_dialog_summary">필요할 때마다 휴지통을 지우려면 홈 화면 바로가기를 추가하세요.</string>
     <string name="clean_master_icon_recall_dialog_title">휴지통을 더 빨리 지우세요.</string>
-    <string name="clean_master_icon_recall_hint">홈 화면 바로 가기 추가</string>
+    <string name="clean_master_icon_recall_hint">홈 화면 바로가기 추가</string>
     <string name="gb_gpu_driver_btn_update">업데이트 확인</string>
     <string name="gb_gpu_driver_update">GPU 드라이버 업데이터</string>
     <string name="gb_gpu_driver_update_app">업데이트</string>
@@ -3245,7 +3245,7 @@
     <string name="activity_title_risk_app_install_manager">잠재적 위험 앱</string>
     <string name="risk_app_install_agree_button">이 앱을 신뢰</string>
     <string name="risk_app_install_agree_checkbox">"사용자 본인이 모든 잠재적 위험을 감수합니다."</string>
-    <string name="risk_app_install_agree_message">"타사가 개발한 앱으로, 이 지역의 법과 규제에 위배될 수도 있습니다. Xiaomi는 이 앱의 사용 가능 여부, 사후 지원, 컨텐츠 및 서비스의 접근성을 보장하지 않습니다. 이 앱 사용으로 인한 모든 피해나 손상의 귀책 사유는 사용자에 있습니다."</string>
+    <string name="risk_app_install_agree_message">"타사가 개발한 앱으로, 이 지역의 법과 규제에 위배될 수도 있습니다. Xiaomi는 이 앱의 사용 가능 여부, 사후 지원, 콘텐츠 및 서비스의 접근성을 보장하지 않습니다. 이 앱 사용으로 인한 모든 피해나 손상의 귀책 사유는 사용자에 있습니다."</string>
     <string name="risk_app_install_agree_title">약관</string>
     <string name="risk_app_install_auth_result">"%1$s 설치를 승인했습니다. 이제 패키지를 설치할 수 있습니다."</string>
     <string name="risk_app_install_empty_text">아직 아무것도 없어요.</string>

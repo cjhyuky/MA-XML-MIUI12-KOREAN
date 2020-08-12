@@ -5,9 +5,9 @@
     <string name="micloud_wipe_data_confirm_title">다음 앱의 일부 항목은 Xiaomi 클라우드와 동기화됩니다. 클라우드에서 계속 유지하면서 이 기기에서 삭제할 수 있습니다.</string>
     <string name="serviceEnabled">서비스가 활성화되었습니다.</string>
     <string name="device_status_failed">"보내지 못했습니다."</string>
-    <string name="device_status_sending">전송중...</string>
+    <string name="device_status_sending">전송 중...</string>
     <string name="device_status_success">보냈습니다.</string>
-    <string name="device_status_waiting">대기중...</string>
+    <string name="device_status_waiting">대기 중...</string>
     <string name="open_close_tip_action">확인</string>
     <string name="open_close_tip_content">플로팅 창을 닫으려면 작업 표시줄을 길게 누른 다음 위로 스와이프합니다.</string>
     <string name="security_share_text">개인정보 보호정책</string>
@@ -186,10 +186,10 @@
     <string name="miui_screen_ratio_hint_dont_show_again">다시 표시하지 않기</string>
     <string name="miui_screen_ratio_hint_ok">확인</string>
     <string name="miui_screen_ratio_hint_go_to_settings">설정으로 이동</string>
-    <string name="switching_tv">전환중…</string>
+    <string name="switching_tv">전환 중…</string>
     <string name="switch_desc_tv">두 개의 공간. 하나의 기기.</string>
     <string name="switch_brand_desc_tv">보안 서비스 제공 : Graphite</string>
-    <string name="autofill">자동채우기</string>
+    <string name="autofill">자동 채우기</string>
     <string name="miui_forbid_poweroff_when_device_locked">"전원을 끌 수 없으며 기기가 잠겨 있습니다."</string>
     <string name="super_resolution_maintain_tips">"아직 슈퍼 해상도를 사용할 수 없습니다."</string>
     <string name="wifi_assistant_wifi_no_internet">이 무선 네트워크는 인터넷에 접속할 수 없습니다.</string>
@@ -203,7 +203,7 @@
     <string name="voice_input_error_other">오류 발생. 2분 정도 기다린 후 다시 시도하세요.</string>
     <string name="miui_warning_button_cancel">취소</string>
     <string name="miui_warning_button_ok">확인</string>
-    <string name="miui_warning_tip_info">%1$s 앱에서 에러가 발생했습니다. 이 앱을 닫으시겠습니까?</string>
+    <string name="miui_warning_tip_info">%1$s 앱에서 오류가 발생했습니다. 이 앱을 닫으시겠습니까?</string>
     <string name="talk_back_water_mark_string1">TalkBack 켜짐</string>
     <string name="talk_back_water_mark_string2">\"볼륨+\" 와 \"볼륨-\"를 3초 동안 동시에 누르면 꺼집니다.</string>
     <string name="security_permission_network_failed_text">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
@@ -213,7 +213,7 @@
     <string name="resolver_checkbox_always">항상</string>
     <string name="resolver_checkbox_once">한 번만</string>
     <string name="resolver_mi_browser">Mi 브라우저</string>
-    <string name="resolver_offical_recommend">기본앱</string>
+    <string name="resolver_offical_recommend">기본 앱</string>
     <string name="resolver_other_method">기타 옵션</string>
     <string name="resolver_recommend_options_tag">추천 옵션</string>
     <string name="popup_camera_calibrate_failed">"보정 실패"</string>
@@ -242,8 +242,8 @@
     <string name="content_description_web_url">브라우저</string>
     <string name="content_description_translate">번역</string>
     <string name="content_description_share">공유</string>
-    <string name="user_switching_dialog_switch_into_kid_space">키즈공간으로 전환중…</string>
-    <string name="user_switching_dialog_switch_out_kid_space">키즈공간 나가는중…</string>
+    <string name="user_switching_dialog_switch_into_kid_space">키즈 공간으로 전환 중…</string>
+    <string name="user_switching_dialog_switch_out_kid_space">키즈 공간 나가는중…</string>
     <string name="btn_cancel">취소</string>
     <string name="btn_sure">확인</string>
     <string name="confirm_cancel_task">%1$s 파일을 %2$s 님에게 보내겠습니까?</string>
@@ -253,7 +253,7 @@
     <string name="file">파일</string>
     <string name="file_cannot_print">이 컨텐츠는 인쇄를 지원하지 않습니다.</string>
     <string name="file_cannot_screen_throw">이 컨텐츠는 프로젝션 스크린을 지원하지 않습니다.</string>
-    <string name="file_sending">전송중</string>
+    <string name="file_sending">전송 중</string>
     <string name="file_type_detail_count">%1$d 파일</string>
     <string name="functions_are_being_developed">기능이 개발중입니다. 조금만 기다려주세요.</string>
     <string name="mi_drop">Xiaomi Mi Drop</string>
@@ -304,7 +304,7 @@
     <string name="slavewifi_notification_title">듀얼밴드 Wi-Fi 가속</string>
     <string name="slavewifi_settings">설정을 변경하려면 터치하세요.</string>  
     <string name="flip_screen_camera_tip">카메라를 사용하려면 기기를 뒤로 돌리세요.</string>
-    <string name="can_not_transfer_when_screening">"전송중 캐스트 불가"</string>
+    <string name="can_not_transfer_when_screening">"전송 중 캐스트 불가"</string>
     <string name="autofill_service_name">비밀번호 관리</string>
     <string name="confirm_cancel_task_files">%1$s 위치로 파일 보내기를 취소하시겠습니까?</string>
     <string name="confirm_cancel_task_images">%1$s 위치로 사진 보내기를 취소하시겠습니까?</string>
@@ -313,7 +313,7 @@
     <string name="popup_camera_remove_hid_device">기기가 게임컨트롤러에 연결된 것 같습니다. 게임컨트롤러가 연결되어 있으면 전면 카메라를 열지 못할 수 있습니다.</string>
     <string name="wireless_charging_notification_message1">충전할 무선장치를 찾을 수 없습니다. 역 무선충전이 해제되었습니다.</string>
     <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역 무선충전이 해제되었습니다.</string>
-    <string name="wireless_charging_notification_message3">충전중 오류가 발생했습니다. 역 무선충전이 해제되었습니다.</string>
+    <string name="wireless_charging_notification_message3">충전 중 오류가 발생했습니다. 역 무선충전이 해제되었습니다.</string>
     <string name="wireless_charging_notification_titile">역 무선충전 끄기</string>
     <string name="frequent_email">자주 사용하는 이메일</string>
     <string name="data_usage_context">Wi-Fi가 켜지지 않으면 기기가 모바일 네트워크에 연결되어 요금제에 따라 추가 요금이 부과될 수 있습니다. 주의하세요!</string>

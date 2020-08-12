@@ -268,7 +268,7 @@
     <string name="clear_display_images_whitelist_dialog_message">이전에 허용한 발신자부터 온 인라인 이미지의 표시를 중단하세요.</string>
     <string name="clear_display_images_whitelist_dialog_title">사진 승인을 삭제하시겠습니까?</string>
     <string name="clear_display_images_whitelist_title">사진 승인 삭제</string>
-    <string name="click_download_all_content">[탭하여 컨텐츠 다운로드]</string>
+    <string name="click_download_all_content">[탭하여 콘텐츠 다운로드]</string>
     <string name="click_to_reload">화면을 탭하여 새로고침</string>
     <string name="collapse_recipient_details">받는 사람 세부 정보 축소</string>
     <string name="compose">작성</string>
@@ -419,7 +419,7 @@
 %s "</string>
     <string name="exception_updated">이 이벤트의 세부 정보가 다음으로 변경 되었습니다: %s</string>
     <string name="exchange_name">기업</string>
-    <string name="exchange_name_alternate">Microsoft 익스체인지 엑티브씽크</string>
+    <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">받는 사람 세부 정보 확장</string>
     <string name="fail_get_email_message">메시지 받기 실패함.</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
@@ -508,7 +508,7 @@
     <string name="mail">메일</string>
     <string name="mail_body_turncated">이 이메일은 너무 커서 불러올 수 없습니다. 일부분만 출력되니 전체는 나중에 PC로 확인하세요.</string>
     <string name="mail_header_network_not_available">네트워크에 연결되지 않았습니다.</string>
-    <string name="mailbox_list_account_selector_combined_view">결합 된 계정</string>
+    <string name="mailbox_list_account_selector_combined_view">결합된 계정</string>
     <string name="mailbox_name_display_ad">광고</string>
     <string name="mailbox_name_display_add_account">이메일 계정 추가</string>
     <string name="mailbox_name_display_circular">알림</string>
@@ -649,7 +649,7 @@
     <string name="notification_action_undo_archive">보관됨</string>
     <string name="notification_action_undo_delete">삭제됨</string>
     <string name="notification_action_undo_remove_label">태그 제거됨</string>
-    <string name="notification_exchange_calendar_added">익스체인지 달력 추가됨</string>
+    <string name="notification_exchange_calendar_added">Exchange 달력 추가됨</string>
     <string name="oauth_error_description">인증하지 못했습니다.</string>
     <string name="oauth_gmail_login_notify">다음 로그인 페이지에서 Google 계정의 사용자 이름과 비밀번호를 입력하세요.</string>
     <string name="oauth_login_continue">계속</string>
@@ -664,9 +664,9 @@
     <string name="outbox_alert_description_email_size_error">이메일의용량이 한계에 도달했습니다.</string>
     <string name="outbox_alert_description_fail_authentication">사용자 이름 또는 비밀번호가 잘못되었습니다.</string>
     <string name="outbox_alert_description_fail_network">네트워크에 연결할 수 없습니다.</string>
-    <string name="outbox_alert_description_http_error">보낸 메일함 동기화 중 HTTP 오류가 발생하였습니다.</string>
+    <string name="outbox_alert_description_http_error">보낸 메일함 동기화 중 HTTP 오류가 발생했습니다.</string>
     <string name="outbox_alert_description_insufficient_storage_error">메일 서버 저장 공간 부족</string>
-    <string name="outbox_alert_description_provision_error">보낸 메일함 동기화 중 서버 구축 오류가 발생하였습니다.</string>
+    <string name="outbox_alert_description_provision_error">보낸 메일함 동기화 중 서버 구축 오류가 발생했습니다.</string>
     <string name="outbox_alert_description_reject_by_server">%s에 의해 거부됨</string>
     <string name="outbox_alert_description_sent_failed">첨부파일 크기가 서버 제한을 초과합니다.</string>
     <string name="outbox_alert_duplicate_click">지금 전송 중…</string>
@@ -853,7 +853,7 @@
     <string name="save_attachment">저장</string>
     <string name="save_draft_failed">임시 보관함에 저장 실패</string>
     <string name="save_power_summary">절전 시간 설정</string>
-    <string name="save_power_title">배터리 세이버</string>
+    <string name="save_power_title">절전 모드</string>
     <string name="saved">저장됨, %s</string>
     <string name="saving">저장 중...</string>
     <string name="sdcard_cannot_use">SD 카드를 사용할 수 없습니다.</string>
@@ -1109,7 +1109,7 @@
     <string name="float_window_info">"139 사서함을 구성 할 때, 구성이 실패할 수 있으니 전화를 작동하지 마세요."</string>
     <string name="float_window_title">설정 중………</string>
     <string name="auto_login_fail">자동 로그인 실패</string>
-    <string name="auto_login_fail_to_retry">자동 로그인에 실패하였습니다. 다시 로그인하세요.</string>
+    <string name="auto_login_fail_to_retry">자동 로그인에 실패했습니다. 다시 로그인하세요.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">인증 코드를 복사하세요.</string>
     <string name="retry_login">다시 로그인하세요.</string>
     <string name="unbind_dialog_text">"메일 앱은 계정을 삭제한 이후로 더 이상 이메일을 분석하지 않습니다. 계정을 삭제하시겠습니까?"</string>
@@ -1210,8 +1210,8 @@
     <string name="get_oauth_code">코드 가져오기</string>
     <string name="help_weixin_title">"질문이 있으시면, 언제든지 공식 WeChat 계정에 대화를 남겨주세요: "</string>
     <string name="login_qq_psw">코드로 로그인</string>
-    <string name="mi_sync_erroe_toast">"네트워크 에러 발생: "</string>
-    <string name="mi_sync_erroe_toast_other">"네트워크 에러 발생: "</string>
+    <string name="mi_sync_erroe_toast">"네트워크 오류 발생: "</string>
+    <string name="mi_sync_erroe_toast_other">"네트워크 오류 발생: "</string>
     <string name="no_more_mail">메시지가 더 이상 없습니다.</string>
     <string name="no_search_results">서버에서 계속 검색</string>
     <string name="pull_load_more">위로 당겨 더 불러오기</string>
@@ -1240,19 +1240,19 @@
     <string name="confirm_age">연령 확인</string>
     <string name="delete_contact_content">지금이 연락처를 삭제하시겠습니까?</string>
     <string name="email_sync_failed">"메일을 동기화할 수 없습니다."</string>
-    <string name="login_err_message">이 옵션을 이전에 선택한 경우 인증 된 비밀번호를 사용하여 %1$s에 로그인하세요. 비밀번호 또는 비밀번호를 초기화하려면 https://email.163.com/으로 이동하세요.</string>
-    <string name="login_err_sina_message">이 옵션을 이전에 선택한 경우 인증 된 비밀번호를 사용하여 %1$s에 로그인하세요. 비밀번호 또는 비밀번호를 초기화하려면 https://mail.sina.com.cn/으로 이동하세요.</string>
+    <string name="login_err_message">이 옵션을 이전에 선택한 경우 인증된 비밀번호를 사용하여 %1$s에 로그인하세요. 비밀번호 또는 비밀번호를 초기화하려면 https://email.163.com/으로 이동하세요.</string>
+    <string name="login_err_sina_message">이 옵션을 이전에 선택한 경우 인증된 비밀번호를 사용하여 %1$s에 로그인하세요. 비밀번호 또는 비밀번호를 초기화하려면 https://mail.sina.com.cn/으로 이동하세요.</string>
     <string name="login_failed_tip">"WeChat으로 문의하세요:"</string>
     <string name="mail_login_help">로그인 방법</string>
     <string name="mail_login_help_bottom_tip">"비밀번호를 잊었거나 계정 상태를 확인해야하는 경우 웹 버전의 NetEase Mail을 사용하세요. WeChat에서 도움을 받을 수도 있습니다:"</string>
-    <string name="mail_login_help_details1">1. 이메일 클라이언트에 인증 코드가 설정되어 있지 않고 POP3/IMAP/SMTP 서비스가 활성화 된 경우 이메일 비밀번호를 사용할 수 있습니다.</string>
-    <string name="mail_login_help_details2">2. POP3/IMAP/SMTP 서비스가 활성화 된 경우 타사 인증 코드를 사용하여 타사 이메일 클라이언트에 로그인할 수 있습니다.</string>
+    <string name="mail_login_help_details1">1. 이메일 클라이언트에 인증 코드가 설정되어 있지 않고 POP3/IMAP/SMTP 서비스가 활성화된 경우 이메일 비밀번호를 사용할 수 있습니다.</string>
+    <string name="mail_login_help_details2">2. POP3/IMAP/SMTP 서비스가 활성화된 경우 타사 인증 코드를 사용하여 타사 이메일 클라이언트에 로그인할 수 있습니다.</string>
     <string name="mail_login_help_title">이메일 비밀번호/타사 클라이언트 :</string>
     <string name="over_16_content">16세 이상인가요?</string>
     <string name="over_sixteen">"16세 이상입니다."</string>
     <string name="permission_des_calendar">캘린더 이벤트 동기화용</string>
     <string name="permission_des_contact">받는사람을 자동완성하기 위해 연락처의 이메일에 액세스하는 경우</string>
-    <string name="permission_des_detail">"이러한 권한 부여 또는 개인정보 공유 및 업로드에 동의하지 않으면이 앱을 사용할 수 없습니다.이 앱을 제거하거나 로그 아웃하거나 이 경우 설정에서 권한을 제한하세요. "</string>
+    <string name="permission_des_detail">"이러한 권한 부여 또는 개인정보 공유 및 업로드에 동의하지 않으면이 앱을 사용할 수 없습니다. 이 앱을 제거하거나 로그 아웃하거나 이 경우 설정에서 권한을 제한하세요. "</string>
     <string name="permission_des_external_storage">첨부파일 저장 및 추가뿐만 아니라 새 이메일 작성</string>
     <string name="permission_des_phone_status">기기를 식별하기 위해 IMEI에 액세스하는 경우</string>
     <string name="permission_des_storage">첨부 파일 저장 및 추가뿐만 아니라 새 이메일 작성</string>
@@ -1339,7 +1339,7 @@
     <string name="message_invite_start_time">시작 시작</string>
     <string name="message_invite_state_accpt">승인됨</string>
     <string name="message_invite_state_decline">거부됨</string>
-    <string name="message_invite_state_tentative">대기중</string>
+    <string name="message_invite_state_tentative">대기 중</string>
     <string name="no_img_application_found">"이 이미지를 열 수 있는 앱을 찾지 못했습니다."</string>
     <string name="no_img_application_found_title">"이 이미지를 열 수 없습니다."</string>
     <string name="reminder">알림</string>

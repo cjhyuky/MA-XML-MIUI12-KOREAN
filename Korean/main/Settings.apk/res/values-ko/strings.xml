@@ -165,7 +165,7 @@
     <string name="accessibility_preference_magnification_summary">돋보기</string>
     <string name="accessibility_screen_magnification_enable">확대 제스처</string>
     <string name="accessibility_screen_magnification_gestures_title">화면을 세 번 탭하여 돋보기 기능 활성화</string>
-    <string name="accessibility_screen_magnification_navbar_configuration_warning">%1$s를 접근성 버튼으로 설정하였습니다. 돋보기 기능을 사용하려면 &amp;를 탭하여 선택하세요.</string>
+    <string name="accessibility_screen_magnification_navbar_configuration_warning">%1$s를 접근성 버튼으로 설정했습니다. 돋보기 기능을 사용하려면 &amp;를 탭하여 선택하세요.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">버튼을 눌러 돋보기 기능 사용하기</string>
     <string name="accessibility_screen_magnification_short_summary">3번 탭하여 줌하기</string>
     <string name="accessibility_screen_magnification_summary">이 기능을 사용하면 화면을 3번 탭하여 확대 및 축소할 수 있습니다.\n\n화면을 확대한 상태에서 다음 작업을 수행할 수 있습니다.\n\이동: 화면에서 두 개 이상의 손가락을 드래그\n\확대/축소 수준 조정: 두 개 이상의 손가락을 오므리거나 벌림\n\n또한 3번 탭한 상태를 유지하여 손가락 아래에 있는 항목을 일시적으로 확대할 수 있습니다. 확대한 상태에서 손가락을 드래그하여 화면의 다른 부분을 탐색할 수 있습니다. 손가락을 떼면 이전 상태로 돌아갑니다.\n\n참고: 세 번 탭하여 확대 기능은 키보드와 탐색 바에서는 작동하지 않습니다.</string>
@@ -252,7 +252,7 @@
     <string name="activity_title_auto_start_manager">자동실행</string>
     <string name="activity_title_permission_manager">권한</string>
     <string name="activity_title_permissions_manager">권한</string>
-    <string name="activity_title_power_manager">배터리 세이버;배터리 절약</string>
+    <string name="activity_title_power_manager">절전 모드;배터리 절약</string>
     <string name="ad_service">광고 서비스</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스 권한을 취소하시겠습니까?</string>
     <string name="adb_warning_message">USB 디버깅은 개발용으로만 설계되었습니다. 이 기능을 사용하면 컴퓨터와 기기 간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하며 로그 데이터를 읽을 수 있습니다.</string>
@@ -327,7 +327,7 @@
     <string name="alarm_ringtone_title">기본 알람음</string>
     <string name="alarm_sound_dialog_title">알람음 선택</string>
     <string name="alarm_sound_title">알람</string>
-    <string name="alarm_stop">알람은 무음모드에서도 울릴 수 있습니다.</string>
+    <string name="alarm_stop">알람은 무음 모드에서도 울릴 수 있습니다.</string>
     <string name="alarm_stop_info">설정이 끝나기 전에 알람이 울리면 묵음을 종료 할 수 있습니다.</string>
     <string name="alarm_template">%1$s 에서</string>
     <string name="alarm_template_far">%1$s 에</string>
@@ -384,8 +384,8 @@
     <string name="android_beam_disabled_summary">이 기능을 사용하려면 NFC를 켜세요.</string>
     <string name="android_beam_explained">기기를 접촉시킴으로써(일반적으로 뒷면과 뒷면) 사용자의 화면에 있는 웹페이지, 동영상 또는 다른 컨텐츠를 상대 기기로 보낼 수 있습니다.</string>
     <string name="android_beam_label">Android Beam</string>
-    <string name="android_beam_off_summary">NFC 컨텐츠 공유가 꺼졌습니다.</string>
-    <string name="android_beam_on_summary">NFC 컨텐츠 공유가 켜졌습니다.</string>
+    <string name="android_beam_off_summary">NFC 콘텐츠 공유가 꺼졌습니다.</string>
+    <string name="android_beam_on_summary">NFC 콘텐츠 공유가 켜졌습니다.</string>
     <string name="android_beam_settings_title">Android Beam</string>
     <string name="android_beam_tips">두 기기를 접촉시킨 후 보내실 컨텐츠를 터치하세요.</string>
     <string name="android_beam_witch_label">Android Beam</string>
@@ -532,7 +532,7 @@
     <string name="application_manager_section_title">앱</string>
     <string name="application_permission_manager">앱 권한</string>
     <string name="application_permissions">앱 권한</string>
-    <string name="application_restrictions">앱 및 컨텐츠 허용</string>
+    <string name="application_restrictions">앱 및 콘텐츠 허용</string>
     <string name="application_size_label">앱</string>
     <string name="applications_settings">앱 관리</string>
     <string name="applications_settings_header">앱 설정</string>
@@ -786,12 +786,12 @@
     <string name="battery_info_screen_on">화면 켜짐 시간:</string>
     <string name="battery_info_status_charging">충전 중</string>
     <string name="battery_info_status_charging_ac">AC로 충전 중</string>
-    <string name="battery_info_status_charging_ac_short">충전중</string>
-    <string name="battery_info_status_charging_lower">충전중</string>
+    <string name="battery_info_status_charging_ac_short">충전 중</string>
+    <string name="battery_info_status_charging_lower">충전 중</string>
     <string name="battery_info_status_charging_usb">USB로 충전 중</string>
-    <string name="battery_info_status_charging_usb_short">충전중</string>
+    <string name="battery_info_status_charging_usb_short">충전 중</string>
     <string name="battery_info_status_charging_wireless">무선으로 충전 중</string>
-    <string name="battery_info_status_charging_wireless_short">충전중</string>
+    <string name="battery_info_status_charging_wireless_short">충전 중</string>
     <string name="battery_info_status_discharging">충전되고 있지 않음</string>
     <string name="battery_info_status_full">가득참</string>
     <string name="battery_info_status_label">배터리 상태:</string>
@@ -815,13 +815,13 @@
     <string name="battery_percentage">배터리 퍼센트</string>
     <string name="battery_percentage_description">상단 알림바에 배터리 잔량 표시하기</string>
     <string name="battery_power_management">전원 관리</string>
-    <string name="battery_saver">배터리 세이버</string>
+    <string name="battery_saver">절전 모드</string>
     <string name="battery_saver_auto_title">자동으로 켜기</string>
     <string name="battery_saver_button_turn_off">지금 끄기</string>
     <string name="battery_saver_button_turn_on">지금 켜기</string>
     <string name="battery_saver_desc_turn_on_auto_never">자동 실행 비활성화</string>
     <string name="battery_saver_desc_turn_on_auto_pct">%1$s 이하일 경우 자동 실행</string>
-    <string name="battery_saver_master_switch_title">배터리 세이버 사용</string>
+    <string name="battery_saver_master_switch_title">절전 모드 사용</string>
     <string name="battery_saver_off_scheduled_summary">%1$s 시간에 켜질 것입니다.</string>
     <string name="battery_saver_seekbar_title">%1$s에</string>
     <string name="battery_saver_seekbar_title_placeholder">켜기</string>
@@ -854,11 +854,11 @@
     <string name="battery_sugg_wifi">사용하지 않거나 사용 불가능할 때 Wi-Fi 끄기</string>
     <string name="battery_suggestion_title">향상된 배터리 사용시간</string>
     <string name="battery_summary">마지막 충전 완료 이후 %1$s%% 사용함</string>
-    <string name="battery_tip_dialog_summary_message">앱이 정상적인 배터리를 사용하고 있습니다. 앱이 배터리를 너무 많이 사용하면 휴대전화에서 취할 수 있는 행동을 제안합니다. 배터리가 부족한 경우 배터리 세이버를 항상 켤 수 있습니다.</string>
+    <string name="battery_tip_dialog_summary_message">앱이 정상적인 배터리를 사용하고 있습니다. 앱이 배터리를 너무 많이 사용하면 휴대전화에서 취할 수 있는 행동을 제안합니다. 배터리가 부족한 경우 절전 모드를 항상 켤 수 있습니다.</string>
     <string name="battery_tip_early_heads_up_done_summary">일부 기능이 제한 될 수 있습니다.</string>
-    <string name="battery_tip_early_heads_up_done_title">배터리 세이버가 켜짐</string>
+    <string name="battery_tip_early_heads_up_done_title">절전 모드가 켜짐</string>
     <string name="battery_tip_early_heads_up_summary">배터리가 평소보다 빨리 소모 될 수 있습니다.</string>
-    <string name="battery_tip_early_heads_up_title">배터리 세이버 켜기</string>
+    <string name="battery_tip_early_heads_up_title">절전 모드 켜기</string>
     <string name="battery_tip_high_usage_summary">배터리가 곧 소진될 것입니다.</string>
     <string name="battery_tip_high_usage_title">전화가 평소보다 많이 사용되었습니다.</string>
     <string name="battery_tip_low_battery_summary">배터리가 충분한 사용시간을 제공할 수 없습니다.</string>
@@ -1182,7 +1182,7 @@
     <string name="bluetooth_unpair_dialog_forget_confirm_button">기기 삭제</string>
     <string name="bluetooth_unpair_dialog_title">기기를 잊어버리셨나요?</string>
     <string name="bluetooth_untether_blank">%1$s 기기의 테더링이 끊깁니다.</string>
-    <string name="bluetooth_visibility_timeout">검색 가능 제한시간</string>
+    <string name="bluetooth_visibility_timeout">검색 가능 제한 시간</string>
     <string name="bluetooth_wake">블루투스 오디오로 깨우기</string>
     <string name="boot_sounds_title">오디오 재생</string>
     <string name="bootloader">Fastboot 모드</string>
@@ -1200,7 +1200,7 @@
     <string name="bootloader_device_bind_no_data_network">Wi-Fi를 끄고 모바일 데이터를 사용하여 계정과 장치를 추가하세요.</string>
     <string name="bootloader_device_bind_no_network">네트워크에 연결한 뒤에 다시 시도하세요.</string>
     <string name="bootloader_device_bind_no_sim">SIM 카드를 삽입하고 다시 시도하세요.</string>
-    <string name="bootloader_device_bind_server_code">추가 실패. 에러 코드:</string>
+    <string name="bootloader_device_bind_server_code">추가 실패. 오류 코드:</string>
     <string name="bootloader_device_bind_server_token_expired_1">확인할 수 없습니다. 계정과 장치를 다시 추가하세요.</string>
     <string name="bootloader_device_bind_server_token_expired_2">확인할 수 없습니다. 계정에 다시 로그인하여 다시 시작하세요.</string>
     <string name="bootloader_device_bind_sim_invalid">SIM 카드가 잘못됨. 교체후 다시 시도하세요.</string>
@@ -1240,7 +1240,7 @@
     <string name="bt_aac_dialog_summary">현재 장치는 AAC 코덱을 지원합니다. 그러나 AAC는 호환성 문제로 인해 사운드를 재생하지 못할 수 있습니다. 장치가 자동으로 SBC 코덱으로 전환되었습니다.\n설정에서 이를 변경할 수 있습니다.</string>
     <string name="bt_aac_dialog_title">블루투스 연결</string>
     <string name="bt_aac_open_dialog_summary">AAC는 호환성 문제로 인해 사운드를 재생하지 못할 수 있습니다.\n설정&gt;블루투스&gt;연결된 기기에서 이 기능을 해제할 수 있습니다.</string>
-    <string name="bt_aac_open_dialog_title">AAC 코덱으로 전환중</string>
+    <string name="bt_aac_open_dialog_title">AAC 코덱으로 전환 중</string>
     <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_dialog_remember_choice">선택 기억하기</string>
     <string name="bt_dialog_settings">설정</string>
@@ -1540,7 +1540,7 @@
     <string name="condition_work_summary">앱, 백그라운드 동기화 등 관련 기능들이 비활성화됩니다.</string>
     <string name="condition_work_title">Work profile 꺼짐</string>
     <string name="condition_zen_title">방해 금지 모드가 켜져 있습니다.</string>
-    <string name="config_charging_function_name">충전중</string>
+    <string name="config_charging_function_name">충전 중</string>
     <string name="config_list_label">구성된 네트워크</string>
     <string name="configure">구성</string>
     <string name="configure_apps">구성된 앱</string>
@@ -1913,7 +1913,7 @@
     <string name="deletion_helper_manual_title">수동</string>
     <string name="deletion_helper_preference_title">기기 공간을 확보하세요.</string>
     <string name="demo_mode">데모 모드</string>
-    <string name="demo_mode_summary">데모를 위한 특정 상태표시줄 아이콘 보기</string>
+    <string name="demo_mode_summary">데모를 위한 특정 상태 표시줄 아이콘 보기</string>
     <string name="density_pixel_summary">%1$s dp</string>
     <string name="deny">거부</string>
     <string name="deselect_all">전체 선택 해제</string>
@@ -2093,11 +2093,11 @@
     <string name="display_vr_pref_title">기기가 VR 모드에 있는 경우</string>
     <string name="dlg_cancel">취소</string>
     <string name="dlg_close">닫기</string>
-    <string name="dlg_confirm_uicc_unmount_text">UICC 저장소를 꺼내시면 다시 장착하실 때까지 몇몇 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
+    <string name="dlg_confirm_uicc_unmount_text">UICC 저장소를 꺼내시면 다시 장착하실 때까지 일부 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
     <string name="dlg_confirm_uicc_unmount_title">UICC 저장소를 꺼내시겠습니까?</string>
     <string name="dlg_confirm_unmount_text">SD 카드를 마운트 해제하면 사용 중인 일부 앱이 중지되고 SD 카드를 다시 마운트할 때까지 사용할 수 없게 됩니다.</string>
     <string name="dlg_confirm_unmount_title">SD 카드를 마운트 해제하시겠습니까?</string>
-    <string name="dlg_confirm_usb_unmount_text">USB 저장소를 꺼내시면 다시 장착하실 때까지 몇몇 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
+    <string name="dlg_confirm_usb_unmount_text">USB 저장소를 꺼내시면 다시 장착하실 때까지 일부 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
     <string name="dlg_confirm_usb_unmount_title">USB 저장소를 꺼내시겠습니까?</string>
     <string name="dlg_error_uicc_unmount_text">UICC 저장소를 꺼낼 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="dlg_error_unmount_text">SD 카드를 마운트 해제하지 못했습니다. 나중에 다시 시도하세요.</string>
@@ -2130,7 +2130,7 @@
     <string name="dndm_notification">방해 금지 모드가 켜져 있습니다.</string>
     <string name="dndm_open">방해 금지 모드</string>
     <string name="dndm_repeated_call_setting_title">반복된 통화</string>
-    <string name="dndm_repeated_call_summary_3min">3분 이내에 같은 번호의 두 번째 전화 수신시 벨소리 울림</string>
+    <string name="dndm_repeated_call_summary_3min">3분 이내에 같은 번호의 두 번째 전화 수신 시 벨소리 울림</string>
     <string name="dndm_repeated_call_summary_none">동일한 번호로부터 오는 반복된 통화 무음 설정</string>
     <string name="dndm_special_call_setting_group">예외</string>
     <string name="dndm_summary">방해 금지 모드 상태시 통화 및 알림 무음</string>
@@ -2271,7 +2271,7 @@
     <string name="empty_title_permission_apps_list">앱 없음</string>
     <string name="enable_adb">USB 디버깅</string>
     <string name="enable_adb_summary">USB가 연결된 경우 디버그 모드 사용</string>
-    <string name="enable_adb_summary_charging">기기가 충전중 / USB 디버깅 비활성화됨</string>
+    <string name="enable_adb_summary_charging">기기가 충전 중 / USB 디버깅 비활성화됨</string>
     <string name="enable_atrace">A추적 켜기</string>
     <string name="enable_atrace_summary">A추적 사용하며 발생한 커널 이벤트 캡처</string>
     <string name="enable_compatibility">앱 확장</string>
@@ -2418,7 +2418,7 @@
     <string name="erase_esim_storage_description">기기에 있는 모든 eSIM들을 제거합니다. 요금제는 해지되지 않습니다.</string>
     <string name="erase_external_storage">SD 카드 지우기</string>
     <string name="erase_external_storage_description">SD 카드에 있는 모든 데이터(예: 음악 또는 사진)를 지웁니다.</string>
-    <string name="erase_internal_storage">저장된 컨텐츠 지우기</string>
+    <string name="erase_internal_storage">저장된 콘텐츠 지우기</string>
     <string name="erase_internal_storage_description">음악, 사진, 동영상, 기타 사용자 데이터 지우기</string>
     <string name="erase_optional">선택적으로 정리</string>
     <string name="erase_personal_data">개인 데이터</string>
@@ -2528,7 +2528,7 @@
     <string name="filter_notif_low_channels">카테고리 : 중요</string>
     <string name="filter_notif_no_peeking">엿보기 비활성화</string>
     <string name="filter_notif_priority_apps">"방해 금지 모드 "</string>
-    <string name="filter_notif_sensitive_apps">잠금 화면에 민감한 컨텐츠 배제하기</string>
+    <string name="filter_notif_sensitive_apps">잠금 화면에 민감한 콘텐츠 배제하기</string>
     <string name="filter_notif_silent">무음으로 표시</string>
     <string name="filter_notif_urgent_channels">카테고리 : 긴급</string>
     <string name="filter_overlay_apps">권한을 가진 앱들만</string>
@@ -2621,9 +2621,9 @@
     <string name="floating_window_switch_label_disable">플로팅 창 닫기</string>
     <string name="fluency_mode">시스템 애니메이션</string>
     <string name="fluency_mode_confirm_and_reboot">지금 다시 시작</string>
-    <string name="fold_title">그룹화 된 알림 규칙</string>
+    <string name="fold_title">그룹화된 알림 규칙</string>
     <string name="following_us_facebook">페이스북</string>
-    <string name="following_us_instagram">인스타그램</string>
+    <string name="following_us_instagram">Instagram</string>
     <string name="following_us_linkedin">링크에딘</string>
     <string name="following_us_title">팔로우하기</string>
     <string name="following_us_twitter">트위터</string>
@@ -2748,7 +2748,7 @@
     <string name="gesture_preference_summary">제스처로 기기 제어하기</string>
     <string name="gesture_preference_title">제스처</string>
     <string name="gesture_prevent_ringing_screen_title">알림 방지</string>
-    <string name="gesture_prevent_ringing_sound_title">벨소리 방지 바로 가기</string>
+    <string name="gesture_prevent_ringing_sound_title">벨소리 방지 바로가기</string>
     <string name="gesture_prevent_ringing_title">전원과 볼륨 상 버튼을 동시에 누르세요.</string>
     <string name="gesture_setting_off">끔</string>
     <string name="gesture_setting_on">켜짐</string>
@@ -2793,7 +2793,7 @@
     <string name="gxzw_dialog_ok">확인</string>
     <string name="gxzw_dialog_title">화면내의 지문인식 센서 정보</string>
     <string name="gxzw_enroll_again">손가락을 들어 지문 스캐너를 다시 누르세요.</string>
-    <string name="gxzw_quick_open_enable_summary">제스처 바로 가기를 사용하여 기기를 잠금해제 할 때 앱을 열거나 앱 기능을 사용할 수 있습니다.</string>
+    <string name="gxzw_quick_open_enable_summary">제스처 바로가기를 사용하여 기기를 잠금해제 할 때 앱을 열거나 앱 기능을 사용할 수 있습니다.</string>
     <string name="gxzw_quick_open_enable_title">지문 단축키</string>
     <string name="gxzw_quick_open_fast_summary">기기가 잠금해제되면 스와이프하여 단축키를 사용하세요.</string>
     <string name="gxzw_quick_open_fast_title">빠른 스와이프(고급)</string>
@@ -2868,7 +2868,7 @@
     <string name="hsa_send_again">재전송</string>
     <string name="hsa_send_again_countdown">재전송 (%d초)</string>
     <string name="hsa_send_failed">확인 코드를 보낼 수 없습니다. 1~2분 정도 기다린 후 다시 시도하세요.</string>
-    <string name="hsa_sending">전송중…</string>
+    <string name="hsa_sending">전송 중…</string>
     <string name="hsa_tip_message">1. Apple ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.\n    2. 보안 코드가 도착하지 않은 경우 이중 보안 설정을 해제하세요.</string>
     <string name="hsa_tip_message_shutdown_hsa">이중 보안설정을 해제하는 방법</string>
     <string name="hsa_tip_message_with_device">1. %s Apple ID에 연결된 이메일 주소로 보안 코드가 담긴 이메일이 전송됩니다.\n    2. 보안 코드가 도착하지 않은 경우 이중 보안 설정을 해제하세요.</string>
@@ -3023,7 +3023,7 @@
     <string name="keyboard_shortcuts_helper_summary">사용 가능한 단축키</string>
     <string name="keyguard_advance_setting_title">고급 설정</string>
     <string name="keyguard_double_tap_to_sleep_title">더블탭하여 재우기</string>
-    <string name="keyguard_notification_status_title">알림 수신시 화면 꺼짐</string>
+    <string name="keyguard_notification_status_title">알림 수신 시 화면 꺼짐</string>
     <string name="keyguard_security_setting_others">기타 설정</string>
     <string name="keyguard_security_setting_privacy_policy">개인정보 보호정책</string>
     <string name="keyguard_vertical_clock_title">세로방향 시계</string>
@@ -3139,7 +3139,7 @@
     <string name="learn_more">자세히 알아보기</string>
     <string name="led_colors_summary">알림</string>
     <string name="led_frequence_summary">LED 등의 점등 간격 설정</string>
-    <string name="led_pulse_summary">새 알림이 수신됐을 때 알림 표시등 반복 점등</string>
+    <string name="led_pulse_summary">새 알림이 수신되었을 때 알림 표시등 반복 점등</string>
     <string name="led_settings">알림 표시등</string>
     <string name="legacy_dhcp_client">레거시 DHCP 클라이언트 사용</string>
     <string name="legacy_dhcp_client_summary">Android 롤리팝 버전의 DHCP 클라이언트를 사용합니다.</string>
@@ -3574,7 +3574,7 @@
     <string name="mem_use_total">총 사용량</string>
     <string name="mem_use_zram_type">ZRam 교환</string>
     <string name="memory">메모리</string>
-    <string name="memory_apps_usage">앱(앱 데이터 및 미디어 컨텐츠)</string>
+    <string name="memory_apps_usage">앱(앱 데이터 및 미디어 콘텐츠)</string>
     <string name="memory_available">사용 가능</string>
     <string name="memory_available_read_only">사용 가능(읽기 전용)</string>
     <string name="memory_avg_desc">평균 %1$s</string>
@@ -3747,12 +3747,12 @@
     <string name="miui_sos_play_voice">SOS 메시지 재생</string>
     <string name="miui_sos_remind_add">추가</string>
     <string name="miui_sos_remind_infocontent">비상 연락처로 추가 했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함된 메시지를 받게됩니다. [Mi 긴급 SOS]</string>
-    <string name="miui_sos_remind_infocontent ">"비상 연락처로 추가했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함 된 메시지를 받게됩니다. [Mi 긴급 SOS] "</string>
+    <string name="miui_sos_remind_infocontent ">"비상 연락처로 추가했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함된 메시지를 받게됩니다. [Mi 긴급 SOS] "</string>
     <string name="miui_sos_remind_open">긴급 SOS는 정상적으로 작동하려면 적어도 1 명의 긴급 연락처가 필요합니다.</string>
     <string name="miui_sos_remind_sendinfo">이 사람들에게 사용자의 비상 연락처가 있음을 잊지 말고 응급 상황 발생시 더 빨리 사용자를 도울 수 있습니다.</string>
     <string name="miui_sos_remind_sendnow">지금 보내기</string>
     <string name="miui_sos_remind_title">주의</string>
-    <string name="miui_sos_settings_alert_contacts_repeat">중복 된 연락처를 추가할 수 없습니다.</string>
+    <string name="miui_sos_settings_alert_contacts_repeat">중복된 연락처를 추가할 수 없습니다.</string>
     <string name="miui_sos_settings_alert_contacts_too_many">비상 연락망을 최대 3개까지 추가할 수 있습니다.</string>
     <string name="miui_sos_settings_category">SOS 설정</string>
     <string name="miui_sos_statusbar_summary">탭하여 해제하세요.</string>
@@ -3794,7 +3794,7 @@
     <string name="mqs_privacy_dialog_cancel">취소</string>
     <string name="mqs_privacy_dialog_confirm">업로드</string>
     <string name="mqs_privacy_dialog_content">로그를 업로드하여 문제를 해결 할 수 있게 도와주시겠습니까?</string>
-    <string name="mqs_privacy_dialog_title">오류가 발생하였습니다.</string>
+    <string name="mqs_privacy_dialog_title">오류가 발생했습니다.</string>
     <string name="msd_driver_download">드라이버 다운로드</string>
     <string name="msd_driver_download_mac">OSX: 드라이버를 다운로드하여 AndroidFileTransfer.dmg를 설치하세요.</string>
     <string name="msd_driver_download_mac_url">http://www.android.com/filetransfer/에서 드라이버 받기</string>
@@ -4088,7 +4088,7 @@
     <string name="notif_icloud_loaded_summary">기다리는중…</string>
     <string name="notif_icloud_loading_summary">데이터 불러오는 중…</string>
     <string name="notif_icloud_logining">이전 기기에서 iCloud에 로그인 중…</string>
-    <string name="notif_icloud_need_wifi_summary">Wi-Fi 연결 대기중</string>
+    <string name="notif_icloud_need_wifi_summary">Wi-Fi 연결 대기 중</string>
     <string name="notif_icloud_saved_summary">성공적으로 데이터를 가져옴</string>
     <string name="notif_icloud_saving_summary">데이터 저장중…</string>
     <string name="notif_miasist_try_to_connect">Mi PC 슈트가 기기에 연결을 시도하고 있습니다.</string>
@@ -4099,12 +4099,12 @@
     <string name="notif_restore_title">데이터 복원</string>
     <string name="notif_sending_transingsd">보내는중 %1$s (%2$s)…</string>
     <string name="notif_trans_auto_reconnecting_content">현재 작업을 취소할 수 있습니다.</string>
-    <string name="notif_trans_auto_reconnecting_title">연결에 문제가 발생하였습니다. 자동으로 다시 연결됩니다…</string>
+    <string name="notif_trans_auto_reconnecting_title">연결에 문제가 발생했습니다. 자동으로 다시 연결됩니다…</string>
     <string name="notif_trans_receiving_completed">데이터 수신 성공</string>
     <string name="notif_trans_receiving_failed">데이터를 수신할 수 없습니다.</string>
     <string name="notif_trans_sending_completed">데이터 전송 성공</string>
     <string name="notif_trans_sending_failed">데이터를 전송할 수 없습니다.</string>
-    <string name="notif_trans_wait_for_reconnecting">연결에 문제가 발생하였습니다. 다시 연결하세요.</string>
+    <string name="notif_trans_wait_for_reconnecting">연결에 문제가 발생했습니다. 다시 연결하세요.</string>
     <string name="notifi_channels">알림 카테고리</string>
     <string name="notifi_channels_other">기타</string>
     <string name="gesture_wakeup_summary">이 기능은 기본 테마 또는 클래식 테마가 적용되면 작동합니다.</string>
@@ -4128,7 +4128,7 @@
     <string name="notification_channels_other">기타</string>
     <string name="notification_content_block_summary">주변 장치에 알림을 표시하지 않음</string>
     <string name="notification_content_block_title">알림 표시</string>
-    <string name="notification_fold_description1">MIUI 9에 알림 폴더가 도입되었습니다.이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 저장합니다.</string>
+    <string name="notification_fold_description1">MIUI 9에 알림 폴더가 도입되었습니다. 이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 저장합니다.</string>
     <string name="notification_fold_description2">MIUI는 탭 한 알림을 기억하고 여러 기준을 사용하여 중요 여부를 판단합니다.</string>
     <string name="notification_fold_description3">중요하다고 생각하는 알림이 알림 폴더에 계속 들어가면 그러한 문제를 Google에 보고해야 합니다. 피드백을 보내주시면 감사하겠습니다.</string>
     <string name="notification_fold_footer_icon_summary">모든 중요하지 않은 알림들의 아이콘이 폴더 오른쪽에 표시됩니다.</string>
@@ -4199,7 +4199,7 @@
     <string name="notification_sound_dialog_title">기본 알림 소리</string>
     <string name="notification_sound_title">기본 알림음</string>
     <string name="notification_style_title">알림 스타일</string>
-    <string name="notification_suggestion_summary">알림 컨텐츠 보이거나 숨기기</string>
+    <string name="notification_suggestion_summary">알림 콘텐츠 보이거나 숨기기</string>
     <string name="notification_suggestion_title">잠금 화면 알림 제어</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">%d단계</string>
@@ -4220,8 +4220,8 @@
     <string name="notifications_no_peeking">엿보기 없음</string>
     <string name="notifications_partly_blocked">%2$d 중 %1$d 카테고리가 비활성화되었습니다.</string>
     <string name="notifications_priority">방해 금지 모드 무시</string>
-    <string name="notifications_redacted">민감한 컨텐츠 잠금 화면에 보이지 않기</string>
-    <string name="notifications_sensitive">민감한 컨텐츠 감추기</string>
+    <string name="notifications_redacted">민감한 콘텐츠 잠금 화면에 보이지 않기</string>
+    <string name="notifications_sensitive">민감한 콘텐츠 감추기</string>
     <string name="notifications_sent_daily">~%1$s (하루)</string>
     <string name="notifications_sent_never">절대하지않음</string>
     <string name="notifications_sent_weekly">~%1$s (일주일)</string>
@@ -4263,7 +4263,7 @@
     <string name="oldman_mode_summary">간단한 홈 화면 및 메뉴 사용</string>
     <string name="oldman_mode_summary_cta">라이트 모드는 정상적으로 작동하려면 인터넷에 연결하여 연락처, 메시지 및 위치 정보를 읽어야합니다.</string>
     <string name="oldman_uninstalled_btn">설치</string>
-    <string name="oldman_uninstalled_des">라이트 모드는 복잡한 기능들을 없애고 홈 화면을 단순하고 심플하게 유지합니다.</string>
+    <string name="oldman_uninstalled_des">라이트 모드는 복잡한 기능들을 없애고 홈 화면을 쉽고 단순하게 유지합니다.</string>
     <string name="on">켜짐</string>
     <string name="one_cacrt">" CA 인증서"</string>
     <string name="one_usercrt">사용자 인증서</string>
@@ -4399,7 +4399,7 @@
     <string name="passwordIncorrect">입력한 비밀번호가 올바르지 않습니다.</string>
     <string name="pause">멈춤</string>
     <string name="payment_summary">%1$s 이 기본 앱으로 지정됨</string>
-    <string name="peek_notification_icon_title">알림 수신시 아이콘 표시</string>
+    <string name="peek_notification_icon_title">알림 수신 시 아이콘 표시</string>
     <string name="performance_category">성능</string>
     <string name="perm_camera">카메라</string>
     <string name="perm_location">위치</string>
@@ -4908,7 +4908,7 @@
     <string name="remove_from_frequently_fragment">빠른 설정에서 %s 항목을 제거하시겠습니까?</string>
     <string name="remove_managed_profile_label">업무용 프로필 삭제</string>
     <string name="repeat">반복</string>
-    <string name="repeat_call">반복 된 발신자 알림</string>
+    <string name="repeat_call">반복된 발신자 알림</string>
     <string name="repeat_call_info">무음 모드에서 15분 이내에 반복되는 통화의 소리 허용</string>
     <string name="repeat_title">반복</string>
     <string name="reset_aaid">광고 식별기 초기화</string>
@@ -4919,7 +4919,7 @@
     <string name="reset_dashboard_summary">네트워크, 앱 또는 기기를 초기화할 수 있습니다.</string>
     <string name="reset_dashboard_title">초기화</string>
     <string name="reset_esim_desc">모든 eSIM을 지웁니다. eSIM을 다시 다운로드하려면 이동통신사에 문의해야 합니다. 그러면 모바일 서비스 요금제가 취소되지 않습니다.</string>
-    <string name="reset_esim_error_msg">에러때문에 eSIMs을 설정할 수 없습니다.</string>
+    <string name="reset_esim_error_msg">오류때문에 eSIMs을 설정할 수 없습니다.</string>
     <string name="reset_esim_error_title">eSIMs 설정 실패</string>
     <string name="reset_esim_title">eSIM도 초기화</string>
     <string name="reset_legacy_password_settings_preface_text">잠금 화면 비밀번호를 초기화해야 합니다.</string>
@@ -4948,7 +4948,7 @@
     <string name="restore_backup">복원</string>
     <string name="restore_contact">연락처 복원</string>
     <string name="restore_contact_content">복원 시 중복 연락처가 생성될 수 있습니다.</string>
-    <string name="restore_contacts_hit">복원 된 데이터를 보시려면 Mi 계정에 로그인 해야 합니다.</string>
+    <string name="restore_contacts_hit">복원된 데이터를 보시려면 Mi 계정에 로그인 해야 합니다.</string>
     <string name="restore_counts">복원:</string>
     <string name="restore_data">백업할 항목 선택</string>
     <string name="restore_default_apn">기본 APN 설정 복원 중</string>
@@ -5048,7 +5048,7 @@
     <string name="sc_bad_request">잘못된 요청</string>
     <string name="sc_internal_server_error">내부 서버 오류</string>
     <string name="sc_network_unavailable">인터넷 연결을 확인한 후 다시 시도하세요.</string>
-    <string name="sc_others">에러가 발생하였습니다.</string>
+    <string name="sc_others">오류가 발생했습니다.</string>
     <string name="sc_precondition_failed">먼저 Mi 계정에 이메일 주소를 추가해야 합니다.</string>
     <string name="sc_request_timeout">요청 시간 초과</string>
     <string name="sc_service_unavailable">Mi 클라우드 사용 불가능</string>
@@ -5320,7 +5320,7 @@
     <string name="search_power_hide_mode_title">앱 배터리 사용량 관리;앱 배터리 사용량;배터리 사용량;배터리 상태</string>
     <string name="search_power_mode">전원 설정;전원</string>
     <string name="search_power_optimize">배터리 절약;절약 배터리</string>
-    <string name="search_power_usage_summary_title">배터리 &amp; 성능;배터리 및 성능;배터리;성능;배터리 세이버;배터리 절약</string>
+    <string name="search_power_usage_summary_title">배터리 &amp; 성능;배터리 및 성능;배터리;성능;절전 모드;배터리 절약</string>
     <string name="search_pref_edge_handgrip">엣지 컨트롤</string>
     <string name="search_pref_volume_wake_title">볼륨 버튼으로 깨우기;볼륨 버튼</string>
     <string name="search_preferred_network_type_title">선호하는 네트워크 유형;선호하는 네트워크;네트워크 유형</string>
@@ -5427,7 +5427,7 @@
     <string name="security_encryption_attention_4">잠금 화면 비밀번호를 잘 기억하세요. 잘못하면 기기의 모든 데이터가 지워지는 공장 초기화를 해야 할 수도 있습니다,</string>
     <string name="security_encryption_attention_info">계정, 설정, 다운로드한 앱과 데이터, 미디어, 기타 파일 등을 암호화할 수 있습니다.</string>
     <string name="security_encryption_attention_title">중요</string>
-    <string name="security_encryption_close_dialog_info">잠금 화면 비밀번호를 사용하는 기기 암호화를 사용하지 않으신다면 몇몇 Google 서비스를 사용할 수 없을 것입니다.</string>
+    <string name="security_encryption_close_dialog_info">잠금 화면 비밀번호를 사용하는 기기 암호화를 사용하지 않으신다면 일부 Google 서비스를 사용할 수 없을 것입니다.</string>
     <string name="security_encryption_close_dialog_title">기본 보안 비밀번호로 돌아가기</string>
     <string name="security_encryption_diaglog_continue">다음</string>
     <string name="security_encryption_is_used">켜짐</string>
@@ -5465,7 +5465,7 @@
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">건너뛰기</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">계속</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">지문 추가</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">\"지문 인식 센서에 지문을 올려놓아 휴대전화를 잠금해제하거나, 구매 권한을 부여하거나, 앱에 로그인하세요. 지문을 추가 할 때 주의하세요. 하나의 추가 된 지문으로도 이러한 작업을 수행 할 수 있습니다.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">\"지문 인식 센서에 지문을 올려놓아 휴대전화를 잠금해제하거나, 구매 권한을 부여하거나, 앱에 로그인하세요. 지문을 추가 할 때 주의하세요. 하나의 추가된 지문으로도 이러한 작업을 수행 할 수 있습니다.</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_setup">지문을 스캔하여 잠금을 해제하고, 결제하세요. 주의 : 지문인식은 다른 잠금장치보다 안전에 다소 취약할 수 있습니다.</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">지문을 스캔하여 잠금을 해제할 수 없습니다. 기기 관리자에게 문의하세요.</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_warning">주의 : 지문 잠금은 비밀번호나 PIN 번호보다 안전하지 않을 수 있습니다.</string>
@@ -5558,7 +5558,7 @@
     <string name="settings_license_activity_title">오픈소스 라이선스</string>
     <string name="settings_license_activity_unavailable">라이선스를 로드하는 동안 문제가 발생했습니다.</string>
     <string name="settings_manual_activity_title">메뉴얼</string>
-    <string name="settings_manual_activity_unavailable">메뉴얼을 불러오는데 문제가 발생하였습니다.</string>
+    <string name="settings_manual_activity_unavailable">메뉴얼을 불러오는데 문제가 발생했습니다.</string>
     <string name="settings_notify_need_backup">Mi 클라우드에 데이터를 백업하세요.</string>
     <string name="settings_notify_new_version">업데이트가 있습니다. 자세한 사항을 보시려면 탭하세요.</string>
     <string name="settings_notify_phone_recycled">입력한 휴대전화 번호가 재사용되었습니다. 다른 휴대전화 번호를 입력하세요.</string>
@@ -5634,7 +5634,7 @@
     <string name="show_notification_channel_warnings">알림 채널 경고 표시</string>
     <string name="show_notification_channel_warnings_summary">앱이 유효한 채널이 없는 알림을 게시하면 화면에 경고가 표시됩니다.</string>
     <string name="show_notification_icon_title">알림 아이콘 표시</string>
-    <string name="show_operator_name_summary">상태바에 네트워크 이름 표시</string>
+    <string name="show_operator_name_summary">상태 표시줄에 네트워크 이름 표시</string>
     <string name="show_operator_name_title">네트워크 명</string>
     <string name="show_owner_info_on_lockscreen_label">잠금 화면에서 소유자 정보 표시</string>
     <string name="show_password">비밀번호 표시</string>
@@ -5691,11 +5691,11 @@
     <string name="sim_enable_disable_lock_not_supported">SIM/RUIM 잠금을 변경할 수 없습니다. 이 SIM/RUIM이 지원하지 않습니다.</string>
     <string name="sim_enable_sim_lock">SIM 카드 잠금</string>
     <string name="sim_enabled">활성화됨</string>
-    <string name="sim_enabler_airplane_on">에러 발생, 비행기 모드가 활성화되어 있습니다!</string>
-    <string name="sim_enabler_both_inactive">에러 발생, 모든 SIM 카드들을 비활성화할 수 없습니다.</string>
+    <string name="sim_enabler_airplane_on">오류 발생, 비행기 모드가 활성화되어 있습니다!</string>
+    <string name="sim_enabler_both_inactive">오류 발생, 모든 SIM 카드들을 비활성화할 수 없습니다.</string>
     <string name="sim_enabler_disabling">비활성화중...</string>
     <string name="sim_enabler_enabling">… 활성화 중</string>
-    <string name="sim_enabler_in_call">에러 발생, 통화 중입니다!</string>
+    <string name="sim_enabler_in_call">오류 발생, 통화 중입니다!</string>
     <string name="sim_enabler_need_disable_sim">정말 이 SIM 카드를 비활성화하시겠습니까?</string>
     <string name="sim_enabler_need_enable_sim">정말 이 SIM 카드를 활성화하시겠습니까?</string>
     <string name="sim_enabler_summary">SIM : %1$s</string>
@@ -5716,7 +5716,7 @@
     <string name="sim_management_title">모바일 네트워크</string>
     <string name="sim_management_title_cr_kolbi">SIM 카드 &amp; 모바일 네트워크</string>
     <string name="sim_management_title_singlesim">SIM 카드 &amp; 모바일 네트워크</string>
-    <string name="sim_missing">없거나 에러가 발생했습니다.</string>
+    <string name="sim_missing">없거나 오류가 발생했습니다.</string>
     <string name="sim_multi_sims_summary">셀룰러 데이터에 사용할 SIM을 선택하세요.</string>
     <string name="sim_multi_sims_title">여러 개의 SIM이 있음</string>
     <string name="sim_name_hint">SIM 이름을 입력하세요.</string>
@@ -5902,7 +5902,7 @@
     <string name="status_bar_screen_key_home">홈 버튼</string>
     <string name="status_bar_screen_key_menu">메뉴 버튼</string>
     <string name="status_bar_screen_key_recent_apps">최근 앱 버튼</string>
-    <string name="status_bar_settings">알림 &amp; 상태표시줄</string>
+    <string name="status_bar_settings">알림 &amp; 상태 표시줄</string>
     <string name="status_bar_settings_advanced">추가 설정</string>
     <string name="status_bar_settings_all_app_display_loading">잠시 기다려 주세요…</string>
     <string name="status_bar_settings_app_notification_preferences">앱 설정</string>
@@ -6056,7 +6056,7 @@
     <string name="storage_type_internal">내부 저장소</string>
     <string name="storage_uicc">UICC 저장소</string>
     <string name="storage_unmount_failure">%1$s 저장소를 안전하게 제거하지 못했습니다.</string>
-    <string name="storage_unmount_success">%1$s 저장소를 안전하게 제거하였습니다.</string>
+    <string name="storage_unmount_success">%1$s 저장소를 안전하게 제거했습니다.</string>
     <string name="storage_usb">USB 저장소</string>
     <string name="storage_usb_settings">저장소</string>
     <string name="storage_used">저장소 사용됨</string>
@@ -6097,15 +6097,15 @@
     <string name="storage_wizard_migrate_later">나중에 이동</string>
     <string name="storage_wizard_migrate_now">지금 이동</string>
     <string name="storage_wizard_migrate_progress_title">데이터 이동중…</string>
-    <string name="storage_wizard_migrate_progress_v2_title">컨텐츠 이동중…</string>
+    <string name="storage_wizard_migrate_progress_v2_title">콘텐츠 이동중…</string>
     <string name="storage_wizard_migrate_title">새로운 저장소로 데이터 이동</string>
     <string name="storage_wizard_migrate_v2_body">파일, 미디어 및 특정 앱을 이 ^1로 이동할 수 있습니다. 이 이동으로 휴대전화의 저장 공간이 ^2 생겼으며 ^3 정도 걸립니다.</string>
     <string name="storage_wizard_migrate_v2_checklist">이동하는 동안:</string>
     <string name="storage_wizard_migrate_v2_checklist_apps">일부 앱은 작동하지 않습니다.</string>
     <string name="storage_wizard_migrate_v2_checklist_battery">충전상태를 유지하세요.</string>
     <string name="storage_wizard_migrate_v2_checklist_media">^1 를 제거하지 마세요.</string>
-    <string name="storage_wizard_migrate_v2_later">컨텐츠 나중에 이동</string>
-    <string name="storage_wizard_migrate_v2_now">컨텐츠 이동</string>
+    <string name="storage_wizard_migrate_v2_later">콘텐츠 나중에 이동</string>
+    <string name="storage_wizard_migrate_v2_now">콘텐츠 이동</string>
     <string name="storage_wizard_migrate_v2_title">컨텐츠를 ^1 로 이동하시겠습니까?</string>
     <string name="storage_wizard_move_confirm_body">\"^1의 데이터를 ^2로 이동하데에 몇 분 정도 소요될 수 있습니다. 작업이 끝날때까지 앱들을 사용할 수 없게 됩니다.</string>
     <string name="storage_wizard_move_confirm_title">^1 이동</string>
@@ -6471,8 +6471,8 @@
     <string name="trans_intro_desc_9_method_3_dec">Mi Mover QQ 그룹 : 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. QQ에서 이슈 레포트</string>
     <string name="trans_intro_desc_10">새로운 기기에서 \"QR 코드로 연결\"을 탭하시고 이전 기기의 QR 코드를 스캔하세요.</string>
-    <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
-    <string name="trans_intro_desc_gms">호환성 문제로 인해 전송에 실패 할 확률이 높으므로 Mi무버는 Google앱에서 생성된 데이터 전송을 지원하지 않습니다.</string>
+    <string name="trans_intro_desc_account">보안상의 이유로 Mi 계정, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
+    <string name="trans_intro_desc_gms">호환성 문제로 인해 전송에 실패 할 확률이 높으므로 Mi Mover는 Google 앱에서 생성된 데이터 전송을 지원하지 않습니다.</string>
     <string name="trans_intro_desc_multiapp">Mi Mover는 파일 간의 충돌을 방지하기 위해 듀얼 앱 데이터를 전송하지 않습니다.</string>
     <string name="trans_intro_desc_multiuser">Mi Mover는 Second Space의 항목에 액세스할 수 없습니다. 첫 번째 공간으로 이동하여 Mi Mover를 실행합니다.</string>
     <string name="trans_intro_desc_new">\"수신\"을 누릅니다. QR 코드가 생성됩니다.</string>
@@ -6492,7 +6492,7 @@
     <string name="trans_intro_question_10">%d. 이전 기기에서 핫스팟을 찾을 수 없으신가요?</string>
     <string name="trans_intro_title">자주하는 질문</string>
     <string name="trans_intro_title_account">계정 및 비밀번호:</string>
-    <string name="trans_intro_title_gms">Google앱에 의해 생성된 데이터:</string>
+    <string name="trans_intro_title_gms">Google 앱에 의해 생성된 데이터:</string>
     <string name="trans_intro_title_multiapp">듀얼 앱 데이터:</string>
     <string name="trans_intro_title_multiuser">보조 공간 데이터:</string>
     <string name="trans_intro_title_new">새로운 기기에서의 데이터 전송</string>
@@ -6522,14 +6522,14 @@
     <string name="trans_progress_subdescript_br_receiver">%1$s 개 항목 복원중, %2$s개 항목 완료됨</string>
     <string name="trans_progress_subdescript_br_sender">%1$s개 항목    백업중, %2$s개 항목 완료됨</string>
     <string name="trans_progress_subdescript_br_sender_finish">%s 개 항목 백업됨, 전송을 기다리는 중…</string>
-    <string name="trans_progress_subdescript_transing_receiver">%1$s 수신중, %2$s 완료됨</string>
+    <string name="trans_progress_subdescript_transing_receiver">%1$s 수신 중, %2$s 완료됨</string>
     <string name="trans_progress_subdescript_transing_receiver_finish">%s 수신 완료, 복원 대시중…</string>
     <string name="trans_progress_subdescript_transing_sender">%1$s 송신중, %2$s 완료됨</string>
-    <string name="trans_progress_subdescript_transingsd_receiver">파일 수신중, %s 완료됨</string>
+    <string name="trans_progress_subdescript_transingsd_receiver">파일 수신 중, %s 완료됨</string>
     <string name="trans_progress_subdescript_transingsd_sender">파일 송신중, %s 완료됨</string>
-    <string name="trans_progress_subdescript_transingsddata_receiver">%1$s개 SD 카드 파일 수신중, %2$s개 파일 완료됨</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">%1$s개 SD 카드 파일 수신 중, %2$s개 파일 완료됨</string>
     <string name="trans_progress_subdescript_transingsddata_sender">%1$s개 SD 카드 파일 송신중, %2$s개 파일 완료됨</string>
-    <string name="trans_progress_subdescript_waiting">%s 수신 대기중</string>
+    <string name="trans_progress_subdescript_waiting">%s 수신 대기 중</string>
     <string name="trans_receiver">받는 사람</string>
     <string name="trans_receiver_time_remained">%s 남음. 핫스팟을 끄지마세요. 기기들을 서로 가까이 두세요.</string>
     <string name="trans_receiving_completed">수신 완료</string>
@@ -6538,7 +6538,7 @@
     <string name="trans_retry">다시 시도</string>
     <string name="trans_scan_invalid_qrcode">잘못된 QR 코드</string>
     <string name="trans_scan_qr_code_tips">새로운 기기로 QR 코드를 스캔하세요.</string>
-    <string name="trans_security_tips_message">몇몇 앱은 Mi무버를 지원하지 않습니다.</string>
+    <string name="trans_security_tips_message">일부 앱은 Mi Mover를 지원하지 않습니다.</string>
     <string name="trans_security_tips_title">Mi Mover 호환성</string>
     <string name="trans_select_data">보낼 항목을 선택하세요.</string>
     <string name="trans_select_data_no_space">새로운 기기에 충분한 여유공간이 없습니다(%s 사용가능). 여유공간을 늘리거나 중요한 항목만 전송하세요.</string>
@@ -6547,7 +6547,7 @@
     <string name="trans_select_device_receive">자료를 수신할 기기를 하나만 선택하세요.</string>
     <string name="trans_select_device_send">데이터를 전송할 기기를 하나만 선택하세요.</string>
     <string name="trans_select_notification_message">내용을 표시하려면 탭하세요.</string>
-    <string name="trans_select_notification_title">Mi무버가 작동중입니다…</string>
+    <string name="trans_select_notification_title">Mi Mover가 작동 중입니다…</string>
     <string name="trans_sender">보내는 사람</string>
     <string name="trans_sender_connectting">새로운 기기에서 확인</string>
     <string name="trans_sender_searching">새로운 기기를 검색중</string>
@@ -6565,13 +6565,13 @@
     <string name="trans_success_dialog_market_comment_title">새로운 기기가 여러분의 집처럼 친숙해졌습니다. Mi Mover에 만족하시나요?</string>
     <string name="trans_success_dialog_survey_title">피드백 감사합니다.</string>
     <string name="trans_success_survey_hint">모든 칸을 먼저 채워주세요.</string>
-    <string name="trans_switching_5g">5GHz Wi-Fi로 전환중…</string>
+    <string name="trans_switching_5g">5GHz Wi-Fi로 전환 중…</string>
     <string name="trans_time_format_second">1분 미만</string>
     <string name="trans_time_spent">시간 경과: %s</string>
-    <string name="trans_wait_trans_data">이전 기기에 연결됨. 전송 대기중…</string>
-    <string name="trans_waiting_ensurance">이전 기기가 켜져있고 Mi Mover가 작동중인지 확인하세요.</string>
+    <string name="trans_wait_trans_data">이전 기기에 연결됨. 전송 대기 중…</string>
+    <string name="trans_waiting_ensurance">이전 기기가 켜져있고 Mi Mover가 작동 중인지 확인하세요.</string>
     <string name="trans_waiting_for_sender">이전 기기의 접속을 기다리는중…</string>
-    <string name="trans_wlan_tips_message">전송중에 Wi-fi를 끄거나 다른 Wi-Fi로 전환하지 마세요. Mi무버가 자료를 주고받을 수 없습니다.</string>
+    <string name="trans_wlan_tips_message">전송 중에 Wi-Fi를 끄거나 다른 Wi-Fi로 전환하지 마세요. Mi Mover가 자료를 주고받을 수 없습니다.</string>
     <string name="trans_wlan_tips_title">Wi-Fi를 끄지 마세요.</string>
     <string name="transition_animation_scale_title">전환 애니메이션 배율</string>
     <string name="translation_contributors_title">도와주신 분들</string>
@@ -6647,11 +6647,11 @@
     <string name="tts_status_title">기본 언어 상태</string>
     <string name="turn_off_common_password_confirm_msg">이 옵션을 끄시면 비밀번호도 잠길 것입니다.</string>
     <string name="turn_off_keyguard_password_alert_title">끄기</string>
-    <string name="turn_off_keyguard_password_confirm_msg">몇몇 기능은 비밀번호를 입력하지 않으면 작동되지 않을 것입니다.</string>
+    <string name="turn_off_keyguard_password_confirm_msg">일부 기능은 비밀번호를 입력하지 않으면 작동되지 않을 것입니다.</string>
     <string name="turn_off_keyguard_password_wait_dialog">비밀번호 끄기…</string>
-    <string name="turn_off_keyguard_password_with_face_confirm_msg">잠금 화면 비밀번호를 끄면 기록 된 얼굴 데이터가 삭제됩니다. 얼굴을 사용하여 기기의 잠금을 해제할 수 없습니다.</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">잠금 화면 비밀번호를 끄면 기록된 얼굴 데이터가 삭제됩니다. 얼굴을 사용하여 기기의 잠금을 해제할 수 없습니다.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">잠금 화면 비밀번호를 끈 뒤에는 지문을 사용하여 기기의 잠금을 해제할 수 없습니다.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">잠금 화면 비밀번호를 끄면 기록 된 지문과 얼굴 데이터가 삭제됩니다. 얼굴이나 지문을 사용하여 장치의 잠금을 해제할 수 없습니다.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">잠금 화면 비밀번호를 끄면 기록된 지문과 얼굴 데이터가 삭제됩니다. 얼굴이나 지문을 사용하여 장치의 잠금을 해제할 수 없습니다.</string>
     <string name="turn_off_radio">무선 끄기</string>
     <string name="turn_off_security_lock">잠금 끄기</string>
     <string name="turn_on_keyguard_password">잠금 화면 비밀번호 켜기</string>
@@ -6667,7 +6667,7 @@
     <string name="turn_on_torch">손전등 켜기</string>
     <string name="turn_on_wifi_dialog_text">모바일 핫스팟이 활성화된 경우 Wi-Fi가 자동으로 꺼집니다. Wi-Fi를 사용하려면 모바일 핫스팟을 끄세요.</string>
     <string name="turn_on_wifi_dialog_title">Wi-Fi 켜기</string>
-    <string name="turn_update_keyguard_password_wait_dialog">비밀번호 변경중…</string>
+    <string name="turn_update_keyguard_password_wait_dialog">비밀번호 변경 중…</string>
     <string name="twohours">2시간</string>
     <string name="uicc_eject">UICC 저장소 꺼내기</string>
     <string name="uicc_eject_summary">UICC 저장소를 꺼내서 안전하게 제거합니다.</string>
@@ -6677,7 +6677,7 @@
     <string name="uicc_media_format_button_text">UICC 저장소 지우기</string>
     <string name="uicc_media_format_desc">UICC 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 될 것입니다.</string>
     <string name="uicc_media_format_final_desc">UICC 저장소에 저장되어있던 모든 파일이 영구적으로 삭제될 것입니다.</string>
-    <string name="uicc_media_format_gesture_explanation">UICC 저장소를 지우시려면 잠금 패턴을 해제하여 승인하세요.</string>
+    <string name="uicc_media_format_gesture_explanation">UICC 저장소를 지우려면 잠금 패턴을 해제하여 승인하세요.</string>
     <string name="uicc_media_format_summary">UICC 저장소의 모든 데이터가 지워집니다.</string>
     <string name="uicc_media_format_title">UICC 저장소 지우기</string>
     <string name="uicc_mount">UICC 저장소 장착</string>
@@ -6816,7 +6816,7 @@
     <string name="usb_control_title">USB로 조작됨</string>
     <string name="usb_default_info">다른 장치가 연결되어 있고 휴대전화 잠금이 해제되면이 설정이 적용됩니다. 신뢰할 수 있는 장치에만 연결하세요.</string>
     <string name="usb_default_label">기본 USB 설정</string>
-    <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리한다면 다시 장착하실 때까지 사용 중이신 몇몇 앱이 멈춰지거나 사용하실 수 없게 될 것입니다.</string>
+    <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리한다면 다시 장착하실 때까지 사용 중이신 일부 앱이 멈춰지거나 사용하실 수 없게 될 것입니다.</string>
     <string name="usb_dlg_confirm_unmount_title">USB 저장소를 분리하시겠습니까?</string>
     <string name="usb_eject">USB 저장소 꺼내기</string>
     <string name="usb_eject_summary">USB 저장소를 꺼내서 안전하게 제거합니다.</string>
@@ -6850,7 +6850,7 @@
     <string name="usb_restore_select_data_too_large">백업 파일이 크기 때문에 복원하는데 시간이 오래 걸릴 수 있습니다. 중요한 항목만 복원하는 것이 더 빠릅니다.</string>
     <string name="usb_sdcard_summary">SD 카드나 컴퓨터에 미디어 파일을 전송할 수 있습니다.</string>
     <string name="usb_sdcard_title">SD 카드 장착</string>
-    <string name="usb_summary_charging_only">기기 충전중</string>
+    <string name="usb_summary_charging_only">기기 충전 중</string>
     <string name="usb_summary_file_transfers">파일 전송</string>
     <string name="usb_summary_file_transfers_power">파일 전송과 전원 공급</string>
     <string name="usb_summary_MIDI">기기를 MIDI로 사용</string>
@@ -6860,7 +6860,7 @@
     <string name="usb_summary_power_only">전원 공급</string>
     <string name="usb_summary_tether">USB 테더링</string>
     <string name="usb_summary_tether_power">USB 테더링과 전원 공급</string>
-    <string name="usb_switching">전환중...</string>
+    <string name="usb_switching">전환 중...</string>
     <string name="usb_switching_failed">전환 실패</string>
     <string name="usb_tethering_active_subtext">테더링됨</string>
     <string name="usb_tethering_available_subtext">USB 연결됨, 테더링하려면 선택</string>
@@ -6984,7 +6984,7 @@
     <string name="user_new_user_name">새 사용자</string>
     <string name="user_nickname">닉네임</string>
     <string name="user_notice_declaration_ignore">다시 보지 않기</string>
-    <string name="user_notice_message">몇몇 기능은 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
+    <string name="user_notice_message">일부 기능은 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
     <string name="user_notice_title">주의</string>
     <string name="user_owner">소유자</string>
     <string name="user_picture_title">사진 ID</string>
@@ -6994,7 +6994,7 @@
     <string name="user_remove_user_menu">이 기기에서 %1$s님 삭제</string>
     <string name="user_rename">이름 바꾸기</string>
     <string name="user_restrictions_controlled_by">%1$s에서 관리</string>
-    <string name="user_restrictions_title">앱 및 컨텐츠 액세스</string>
+    <string name="user_restrictions_title">앱 및 콘텐츠 액세스</string>
     <string name="user_set_lock_button">잠금 설정</string>
     <string name="user_settings_forbidden">현재 공간에서는 관리자 설정을 변경할 수 없습니다. 기본 공간으로 돌아가세요.</string>
     <string name="user_settings_title">사용자</string>
@@ -7031,7 +7031,7 @@
     <string name="video_pip_tips">플로트 보기를 클릭하여 PIP 모드로 들어갑니다.</string>
     <string name="view_password_description">비밀번호 표시</string>
     <string name="vip_list">VIP 목록</string>
-    <string name="vip_mode_info">무음모드에서는 통화 또는 SMS의 연락처 VIP 목록에 링 알림이 계속 울립니다.</string>
+    <string name="vip_mode_info">무음 모드에서는 통화 또는 SMS의 연락처 VIP 목록에 링 알림이 계속 울립니다.</string>
     <string name="virtual_keyboard_category">가상 키보드</string>
     <string name="virtual_sim_category_title">가상 SIM</string>
     <string name="virtual_sim_description">신뢰할 수 있는 국제 로밍 서비스</string>
@@ -7197,7 +7197,7 @@
     <string name="wait_for_debugger_summary">디버깅된 애플리케이션이 실행되기 전에 디버거 연결을 위해 대기</string>
     <string name="wait_link">이전 기기로 이 핫스팟에 연결하세요. 연결이 완료될 때까지 이 페이지를 벗어나지 마세요.</string>
     <string name="waiting">잠시만 기다려주세요…</string>
-    <string name="wakeup_for_keyguard_notification_title">알림 수신시 잠금 화면 켜기</string>
+    <string name="wakeup_for_keyguard_notification_title">알림 수신 시 잠금 화면 켜기</string>
     <string name="wallpaper_attributions">배경화면</string>
     <string name="wallpaper_attributions_values">위성 이미지 제공업체:\n©2014 CNES / Astrium, DigitalGlobe, Bluesky</string>
     <string name="wallpaper_desktop">홈 화면</string>
@@ -7370,7 +7370,7 @@
     <string name="wifi_connect_cmcc_dialog_title">데이터 사용량 알림</string>
     <string name="wifi_connect_failed_message">Wi-Fi 네트워크에 연결하지 못했습니다.</string>
     <string name="wifi_connected_mac_randomization">MAC 주소 랜덤화 연결됨</string>
-    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결시 MAC 주소 랜덤화</string>
+    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결 시 MAC 주소 랜덤화</string>
     <string name="wifi_connected_no_internet">연결되었으나 인터넷 사용이 불가능합니다.</string>
     <string name="wifi_connection_management">Wi-Fi 연결 관리</string>
     <string name="wifi_context_menu_change_password">비밀번호 변경</string>
@@ -7514,7 +7514,7 @@
     <string name="wifi_modify">편집</string>
     <string name="wifi_more">더보기</string>
     <string name="wifi_multiple_cert_added">(다중 증명서 추가됨)</string>
-    <string name="wifi_network_optimization">최적화 된 연결</string>
+    <string name="wifi_network_optimization">최적화된 연결</string>
     <string name="wifi_network_prefix_length">접두어 길이</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_domain_warning">도메인은 반드시 적어야 합니다.</string>
@@ -7597,7 +7597,7 @@
     <string name="wifi_set_priority_settings_summary">액세스포인트 중요도 선택</string>
     <string name="wifi_set_priority_settings_title">AP 중요도 설정</string>
     <string name="wifi_setting_category">사용 가능한 네트워크</string>
-    <string name="wifi_setting_connect_type_error">연결에 문제가 발생하였습니다.</string>
+    <string name="wifi_setting_connect_type_error">연결에 문제가 발생했습니다.</string>
     <string name="wifi_setting_frequency_band_error">주파수 설정에 문제가 있습니다.</string>
     <string name="wifi_setting_frequency_band_summary">특정 작업의 주파수 범위</string>
     <string name="wifi_setting_frequency_band_title">Wi-Fi 주파수 밴드</string>
@@ -7775,7 +7775,7 @@
     <string name="wifi_wps_complete">WPS 성공. 네트워크에 연결 중…</string>
     <string name="wifi_wps_connected">Wi-Fi 네트워크 %s에 연결됨</string>
     <string name="wifi_wps_failed_auth">인증하지 못했습니다. 다시 시도하세요.</string>
-    <string name="wifi_wps_failed_generic">WPS가 실패하였습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="wifi_wps_failed_generic">WPS가 실패했습니다. 잠시 후 다시 시도하세요.</string>
     <string name="wifi_wps_failed_overlap">다른 WPS 세션이 감지되었습니다. 잠시 후 다시 시도하세요.</string>
     <string name="wifi_wps_failed_tkip">무선 공유기 보안 설정(TKIP)은 지원되지 않습니다.</string>
     <string name="wifi_wps_failed_wep">무선 공유기 보안 설정(WEP)은 지원되지 않습니다.</string>
@@ -7848,7 +7848,7 @@
     <string name="xiaomi_cloud_service_description">Mi 클라우드는 귀하의 연락처 및 사진을 동기화하고 앱과 설정을 백업하며, 기기 찾기 기능으로 휴대전화를 찾을 수 있게 도와줍니다.</string>
     <string name="xiaomi_cloud_service_disabled">꺼짐</string>
     <string name="xiaomi_cloud_service_unknown">알 수 없음</string>
-    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 매니저가 정상작동중인지 확인하세요.</string>
+    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 매니저가 정상작동 중인지 확인하세요.</string>
     <string name="xiaomi_external_storage_unavailable">저장소 사용이 불가능합니다, SD 카드를 확인하세요.</string>
     <string name="xiaomi_money_service">Mi 크레딧</string>
     <string name="xiaomi_router">Mi 라우터</string>
@@ -7911,7 +7911,7 @@
     <string name="zen_mode_block_effect_light">빛을 깜빡이지 마세요.</string>
     <string name="zen_mode_block_effect_peek">화면에 알림 팝업 표시하지 않기</string>
     <string name="zen_mode_block_effect_sound">무음 및 진동</string>
-    <string name="zen_mode_block_effect_status">상태바 아이콘 숨기기</string>
+    <string name="zen_mode_block_effect_status">상태 표시줄 아이콘 숨기기</string>
     <string name="zen_mode_block_effect_summary_all">알림의 소리, 진동, 시각적 표시</string>
     <string name="zen_mode_block_effect_summary_none">절대하지않음</string>
     <string name="zen_mode_block_effect_summary_screen_off">화면이 꺼져있을 때</string>
@@ -8017,7 +8017,7 @@
     <string name="zen_mode_schedule_rule_days_all">매일</string>
     <string name="zen_mode_schedule_rule_days_none">없음</string>
     <string name="zen_mode_screen_off">화면이 꺼져있을 때 차단</string>
-    <string name="zen_mode_screen_off_summary">방해 금지로 무음 된 알림이 화면을 켜거나 알림 표시를 깜박 거리지 않도록 합니다.</string>
+    <string name="zen_mode_screen_off_summary">방해 금지로 무음된 알림이 화면을 켜거나 알림 표시를 깜박 거리지 않도록 합니다.</string>
     <string name="zen_mode_screen_off_summary_no_led">방해 금지로 인해 알림이 화면에 표시되지 않도록 합니다.</string>
     <string name="zen_mode_screen_off_visual_interruptions">화면이 꺼져있는 경우</string>
     <string name="zen_mode_screen_on">화면이 켜지면 차단됩니다.</string>
@@ -8199,15 +8199,15 @@
     <string name="bluetooth_device_misc_title">자주 사용하지 않는 기기</string>
     <string name="color_led_applications_title">앱 선택</string>
     <string name="color_led_applications_title_summary">개별 앱에 LED 라이트 사용을 제한할 수 있습니다.</string>
-    <string name="color_led_battery_title">충전중 계속 켜기</string>
+    <string name="color_led_battery_title">충전 중 계속 켜기</string>
     <string name="color_led_end_time">종료 시간</string>
     <string name="color_led_game_mode_title">게임 터보</string>
     <string name="color_led_hint">LED 조명을 사용해야하는 시나리오를 선택하세요. 화면이 아래를 향하고 DND가 꺼지면 LED 표시등이 켜집니다.</string>
-    <string name="color_led_incall_pulse_title">전화 수신시 플래시 작동</string>
+    <string name="color_led_incall_pulse_title">전화 수신 시 플래시 작동</string>
     <string name="color_led_lucky_dialog_title">빨간 봉투 도우미를 켜세요.</string>
     <string name="color_led_lucky_dialog_message">이 기능을 사용하려면 빨간 봉투 도우미가 필요합니다. 지금 시작하시겠습니까?</string>
     <string name="color_led_music_mode_title">음악</string>
-    <string name="color_led_music_mode_summary">음악을 재생할 때 리드미컬한 조명효과 표시</string>
+    <string name="color_led_music_mode_summary">음악을 재생할 때 리드미컬한 조명 효과 표시</string>
     <string name="color_led_notification_pulse_title">펄스 알림</string>
     <string name="color_led_red_more_feature">스페셜 효과</string>
     <string name="color_led_red_package_title">빨단 봉투</string>
@@ -8232,7 +8232,7 @@
     <string name="device_miui_version_parameters">MIUI 버전</string>
     <string name="quick_reply_title">빠른 답장</string>
     <string name="a11y_settings_label">접근성 설정</string>
-    <string name="accessibility_menu_description">"접근성 메뉴는 장치를 제어할 수 있는 편리한 바로 가기를 제공합니다.
+    <string name="accessibility_menu_description">"접근성 메뉴는 장치를 제어할 수 있는 편리한 바로가기를 제공합니다.
 이 기능을 켜고 화면하단의 접근성 버튼을 눌러 메뉴를 엽니다."</string>
     <string name="accessibility_menu_service_name">접근성 메뉴</string>
     <string name="accessibility_menu_summary">편리한 바로가기를 사용하여 장치 제어</string>
@@ -8260,8 +8260,8 @@
     <string name="usage_app_limit_summary">"한도에 도달하면 선택한 앱을 사용할 수 없습니다."</string>
     <string name="usage_app_limit_title">화면 시간 제한</string>
     <string name="usage_app_other_settings">추가 설정</string>
-    <string name="usage_app_over_content">"오늘 이 앱을 %s 동안 이미 사용하였습니다."</string>
-    <string name="usage_app_over_summary">"제한시간에 도달하였습니다. 시간이 다되었습니다!"</string>
+    <string name="usage_app_over_content">"오늘 이 앱을 %s 동안 이미 사용했습니다."</string>
+    <string name="usage_app_over_summary">"제한 시간에 도달했습니다. 시간이 다되었습니다!"</string>
     <string name="usage_app_set_limit_time">제한 설정</string>
     <string name="usage_app_system_app_summary">"시스템 앱은 화면 시간 제한 설정을 할 수 없습니다."</string>
     <string name="usage_app_weekday_limit">주중</string>
@@ -8344,7 +8344,7 @@
     <string name="screen_dark_mode_time_title">스케쥴</string>
     <string name="screen_dark_mode_advanced_title">고급 설정</string>
     <string name="screen_dark_mode_smart_dark_title">글로벌 다크 모드</string>
-    <string name="screen_dark_mode_smart_dark_summary">타사 앱에도 다크 모드를 적용합니다. 몇몇 앱은 제대로 보이지 않을 수 있습니다.</string>
+    <string name="screen_dark_mode_smart_dark_summary">타사 앱에도 다크 모드를 적용합니다. 일부 앱은 제대로 보이지 않을 수 있습니다.</string>
     <string name="screen_dark_mode_select_time_error_summary">"시작 시간과 끝 시간을 다르게 설정하세요"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency">블루투스 오디오 LHDC 코덱: 지연</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"블루투스 오디오 LHDC 코덱 선택:
@@ -8379,7 +8379,7 @@
     <string name="raise_bottom_height_of_keyboard_title">키보드를 전체 화면으로 조정</string>
     <string name="right_function_key">오른쪽 바로가기</string>
     <string name="connection_and_sharing">연결 &amp; 공유</string>
-    <string name="enable_screen_projection_summary">외부 모니터로 화면 컨텐츠 캐스트</string>
+    <string name="enable_screen_projection_summary">외부 모니터로 화면 콘텐츠 캐스트</string>
     <string name="screen_projection">캐스트</string> <string name="screen_projection_characteristics">특별한 기능</string>
     <string name="screen_projection_characteristics_off_screen_summary">기기 화면이 꺼져도 계속 전송을 할 수 있습니다. 이 기능은 전력 소비를 줄입니다.</string>
     <string name="screen_projection_characteristics_off_screen_title">화면을 끄고 캐스트</string>
@@ -8391,7 +8391,7 @@
     <string name="screen_projection_example_document_title">문서</string>
     <string name="screen_projection_example_gallery_summary">갤러리 앱의 항목 아래에 있는 공유 버튼을 눌러 외부 모니터에 표시하세요.</string>
     <string name="screen_projection_example_gallery_title">사진 &amp; 동영상</string>
-    <string name="screen_projection_example_game_summary">게임 터보를 사용하면 게임을 외부 모니터로 전송할 수 있습니다. 이 기능을 켜려면 게임 터보 도구 상자의 바로 가기를 사용하세요.</string>
+    <string name="screen_projection_example_game_summary">게임 터보를 사용하면 게임을 외부 모니터로 전송할 수 있습니다. 이 기능을 켜려면 게임 터보 도구 상자의 바로가기를 사용하세요.</string>
     <string name="screen_projection_example_game_title">게임</string>
     <string name="screen_projection_help">도움말</string>
     <string name="screen_projection_sample_summary">문서, 게임, 사진, 동영상 캐스팅</string>
@@ -8408,7 +8408,7 @@
     <string name="input_method_settings_text">설정</string>
     <string name="keyboard_mouse_touch">키보드, 마우스, 트랙패드</string>
     <string name="other_input_settings">추가 키보드 설정</string>
-    <string name="link_turbo_prompt">"이 페이지의 통계는 Wi-Fi 연결 속도를 높이기 위해 사용 된 데이터의 양만 보여줍니다.이 통계는 실제 모바일 데이터 사용량을 반영하지 않습니다."</string>
+    <string name="link_turbo_prompt">"이 페이지의 통계는 Wi-Fi 연결 속도를 높이기 위해 사용된 데이터의 양만 보여줍니다. 이 통계는 실제 모바일 데이터 사용량을 반영하지 않습니다."</string>
     <string name="link_turbo_settings_all_app_display_loading">잠시만 기다려주세요…</string>
     <string name="link_turbo_settings_all_app_reach_max">최대 15 개의 앱을 선택할 수 있습니다.</string>
     <string name="link_turbo_usage_state_month">이번 달</string>
@@ -8705,7 +8705,7 @@
     <string name="keywords_battery_saver_schedule">루틴, 일정, 절전 모드, 전력 절약 모드, 배터리, 자동, 퍼센트</string>
     <string name="keywords_battery_saver_sticky">절전 모드, 고정, 지속, 절전, 배터리</string>
     <string name="keywords_change_wifi_state">WiFi, Wi-Fi, 전환, 제어</string>
-    <string name="keywords_content_capture">컨텐츠 캡처, 앱 컨텐츠, 앱 데이터</string>
+    <string name="keywords_content_capture">콘텐츠 캡처, 앱 콘텐츠, 앱 데이터</string>
     <string name="keywords_dark_ui_mode">테마, 밝게, 어둡게, 모드</string>
     <string name="keywords_device_feedback">버그</string>
     <string name="keywords_display_adaptive_sleep">화면 어둡게, 절전 모드, 배터리, 자동 잠금 시간, 시선 감지, 디스플레이, 화면, 활동 없음</string>
@@ -8746,9 +8746,9 @@
     <string name="lock_screen_notifications_interstitial_title">잠금 화면</string>
     <string name="lock_screen_notifications_title">잠금 화면</string>
     <string name="lock_screen_notifs_redact">민감한 알림</string>
-    <string name="lock_screen_notifs_redact_summary">잠금 상태일 때 민감한 컨텐츠 표시</string>
+    <string name="lock_screen_notifs_redact_summary">잠금 상태일 때 민감한 콘텐츠 표시</string>
     <string name="lock_screen_notifs_redact_work">민감한 업무용 프로필 알림</string>
-    <string name="lock_screen_notifs_redact_work_summary">잠금 상태일 때 민감한 업무용 프로필 컨텐츠 표시</string>
+    <string name="lock_screen_notifs_redact_work_summary">잠금 상태일 때 민감한 업무용 프로필 콘텐츠 표시</string>
     <string name="lock_screen_notifs_show_alerting">경고 알림만 표시</string>
     <string name="lock_screen_notifs_show_all">경고 및 무음 알림 표시</string>
     <string name="lock_screen_notifs_show_none">알림 표시 안함</string>
@@ -8930,7 +8930,7 @@
     <string name="preferred_network_mode_wcdma_only_summary">기본 네트워크 모드: WCDMA 전용</string>
     <string name="preferred_network_mode_wcdma_perf_summary">기본 네트워크 모드: WCDMA 선호</string>
     <string name="previous_connected_see_all">전체 보기</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"이 서비스의 기본 기능을 사용하려면 Xiaomi가 개인 데이터를 수집, 처리 및 사용한다는 데 동의해야 합니다. 개인 데이터를 수집하고 처리하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요. \"동의\"를 선택하는 것은 우리의 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;개인정보 보호정책&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;사용자 동의&lt;/a&gt;를 읽고 동의하였음을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"이 서비스의 기본 기능을 사용하려면 Xiaomi가 개인 데이터를 수집, 처리 및 사용한다는 데 동의해야 합니다. 개인 데이터를 수집하고 처리하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요. \"동의\"를 선택하는 것은 우리의 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;개인정보 보호정책&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;사용자 동의&lt;/a&gt;를 읽고 동의했음을 의미합니다.\"&lt;/Data&gt;</string>
     <string name="privacy_dashboard_summary">권한, 계정 활동, 개인정보</string>
     <string name="privacy_dashboard_title">개인정보</string>
     <string name="profile_owner_add_title_simplified">감독을 허용하시겠습니까?</string>
@@ -9199,10 +9199,10 @@
     <string name="bluetooth_inform_messgae_title">"연결 실패"</string>
     <string name="color_lamp_applications_title">알림 관리</string>
     <string name="color_lamp_applications_title_summary">\"알림 카테고리\에서 LED 라이트 허용 또는 제한"</string>
-    <string name="color_lamp_battery_title">충전중 항상 켜기</string>
+    <string name="color_lamp_battery_title">충전 중 항상 켜기</string>
     <string name="color_lamp_charging_summary">충전 완료 시 LED 라이트가 꺼집니다.</string>
-    <string name="color_lamp_incall_pulse_title">전화 수신시 플래시</string>
-    <string name="color_lamp_notification_pulse_title">화면이 꺼져있을 때 알림 수신시 플래시</string>
+    <string name="color_lamp_incall_pulse_title">전화 수신 시 플래시</string>
+    <string name="color_lamp_notification_pulse_title">화면이 꺼져있을 때 알림 수신 시 플래시</string>
     <string name="color_lamp_title">LED 라이트</string>
     <string name="color_led_charging_summary">배터리 충전 완료 시 꺼집니다.</string>
     <string name="color_led_game_mode_summary">게임 터보가 켜져있을 때 게임 이펙트 표시</string>
@@ -9230,7 +9230,7 @@
     <string name="fingerprint_unlock_type">지문인식 방법</string>
     <string name="gallery_summary">갤러리 설정(사진 미포함)</string>
     <string name="gxzw_anim_aurora">오로라</string>
-    <string name="iCloud_ID_verification_tip">"Apple ID와 관련된 전화번호로 전송 된 SMS 인증 코드를 입력하세요. iPhone 화면에 표시된 팝업 코드를 무시하세요."</string>
+    <string name="iCloud_ID_verification_tip">"Apple ID와 관련된 전화번호로 전송된 SMS 인증 코드를 입력하세요. iPhone 화면에 표시된 팝업 코드를 무시하세요."</string>
     <string name="launcher_minus_screen_title">마이너스 원 화면</string>
     <string name="legal_written_offer">제공된 제안</string>
     <string name="lockscreen_magazine_india">Mi 요금제</string>
@@ -9287,7 +9287,7 @@
     <string name="codec_low_latency_title">낮은 지연 시간</string>
     <string name="use_otg_charge_only">역 충전</string>
     <string name="use_otg_charge_only_summary">빠른 1.8A 충전</string>
-    <string name="use_otg_file_transfers">역 충전 및 파일 전송중</string>
+    <string name="use_otg_file_transfers">역 충전 및 파일 전송 중</string>
     <string name="use_otg_file_transfers_summary">약 500mA 충전 및 파일 전송</string>
     <string name="use_otg_title">USB OTG</string>
     <string name="poco_launcher_privacy_policy">POCO 런처 개인정보 보호정책</string>
@@ -9335,7 +9335,7 @@ USB 드라이브
 Xiaomi 클라우드
 연락처, 사진, 동영상, 앱 목록, 시스템 설정 및 홈 화면 레이아웃을 클라우드와 동기화하세요."</string>
     <string name="how_backup_title">항목을 어떻게 백업할 수 있습니까?</string>
-    <string name="how_encrypt_content">"로컬 백업 만 암호화 할 수 있습니다. 사용할 수 있는 암호화 방법은 다음과 같습니다.
+    <string name="how_encrypt_content">"로컬 백업만 암호화 할 수 있습니다. 사용할 수 있는 암호화 방법은 다음과 같습니다.
 a) 로컬 백업이있는 페이지에서 설정> 추가 설정으로 이동하고 버튼을 눌러 암호화를 켜고 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야 합니다.
 b) Mi PC Suite를 사용하여 항목을 백업하는 경우 암호화 옵션을 사용할 수 있습니다.
 
@@ -9354,7 +9354,7 @@ USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB �
 
 Xiaomi 클라우드
 Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
-    <string name="how_restore_backup_title">백업 된 항목을 어떻게 복원하시겠습니까?</string>
+    <string name="how_restore_backup_title">백업된 항목을 어떻게 복원하시겠습니까?</string>
     <string name="local_backup_section_summary_new">계정, 앱 데이터, 시스템 설정 등을 백업</string>
     <string name="local_backup_section_title_new">이 기기에서</string>
     <string name="master_clear_title_new">초기화</string>
@@ -9375,7 +9375,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">다크 모드에서 일부 앱이 잘못 표시 될 수 있습니다. 여기에서 개별 앱에 다크 모드 사용을 제한할 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">개별 앱</string>
     <string name="restore_oaid_positive_step">초기화(%1$d)</string>
-    <string name="allow_oaid_used_desc">"사용자가 명시적으로 허용하지 않으면 앱이 ID에 액세스할 수 없습니다.이 기능이 켜져 있으면 일부 개인 추천 기능이 제대로 작동하지 않을 수 있습니다."</string>
+    <string name="allow_oaid_used_desc">"사용자가 명시적으로 허용하지 않으면 앱이 ID에 액세스할 수 없습니다. 이 기능이 켜져 있으면 일부 개인 추천 기능이 제대로 작동하지 않을 수 있습니다."</string>
     <string name="backup_at_once">백업</string>
     <string name="backup_more_settings">설정</string>
     <string name="bluetooth_device_nearby_title">주변 기기</string>
@@ -9413,7 +9413,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="face_data_manage_delete_sure">"얼굴 데이터를 삭제 한 후에는 얼굴 데이터를 사용하여 기기를 잠금해제할 수 없습니다."</string>
     <string name="face_data_manage_unlock_liftcamera_msg">화면이 켜진 후 위로 스와이프하여 얼굴 데이터를 사용하여 기기의 잠금을 해제합니다.</string>
     <string name="face_data_manage_unlock_msg">얼굴 데이터를 사용하여 기기 잠금해제</string>
-    <string name="face_data_manage_unlock_slide_msg">얼굴인식 잠금해제로 슬라이더 바로 가기 교체</string>
+    <string name="face_data_manage_unlock_slide_msg">얼굴인식 잠금해제로 슬라이더 바로가기 교체</string>
     <string name="face_data_manage_unlock_title">얼굴 데이터를 사용하여 잠금해제</string>
     <string name="face_data_siggesstion_next">다음</string>
     <string name="face_data_siggesstion_next_time">다음 (%d초)</string>
@@ -9448,7 +9448,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="face_unlock_success_show_message_msg">기기가 잠겨있을 때 알림 소스만 표시하고 얼굴 데이터를 확인한 후 알림 세부 정보를 추가합니다.</string>
     <string name="face_unlock_success_show_message_title">얼굴 데이터를 확인한 후 알림 정보 표시</string>
     <string name="face_unlock_success_show_message_toast">알림은 잠금 화면에 표시됩니다.</string>
-    <string name="face_unlock_success_stay_screen_msg">얼굴이 확인 된 후 잠금 화면을 유지하세요. 홈 화면을 열려면 위로 스와이프합니다.</string>
+    <string name="face_unlock_success_stay_screen_msg">얼굴이 확인된 후 잠금 화면을 유지하세요. 홈 화면을 열려면 위로 스와이프합니다.</string>
     <string name="face_unlock_success_stay_screen_title">잠금해제 후 잠금 화면 유지</string>
     <string name="feedback_btn_text">의견 제출</string>
     <string name="flash_drive_backup_disable">먼저 USB 드라이브 연결</string>
@@ -9581,7 +9581,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="structure_face_unlock_model_other_msg_2d">2D 인식</string>
     <string name="structure_face_unlock_model_other_msg_3d">3D 인식</string>
     <string name="structure_face_unlock_model_other_suggestion_2d">2D 얼굴인식은 패턴, PIN 또는 비밀번호보다 덜 안전합니다. 이 기능이 켜져 있으면 사진은 물론 사람이나 사물과 같은 기기로 기기가 잠금해제 될 수 있습니다.</string>
-    <string name="structure_face_unlock_model_other_suggestion_3d">"3D 얼굴인식은 비교적 안전합니다.이 기능이 켜져있을 때 사진으로 장치를 잠금해제 할 가능성은 거의 없습니다. 그러나 사람이나 물체가 사람처럼 보이지 않을 수 있습니다."</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">"3D 얼굴인식은 비교적 안전합니다. 이 기능이 켜져있을 때 사진으로 장치를 잠금해제 할 가능성은 거의 없습니다. 그러나 사람이나 물체가 사람처럼 보이지 않을 수 있습니다."</string>
     <string name="structure_face_unlock_model_other_title">얼굴인식</string>
     <string name="structure_face_unlock_not_same_person">"모든 단계를 직접 완료해야 합니다. 다른 사람과 장소를 바꾸지 마세요."</string>
     <string name="structure_face_unlock_tof_covered">"얼굴 데이터를 추가할 수 없습니다. 화면에서 더 멀리 이동하세요."</string>
@@ -9647,7 +9647,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="forget_passpoint_wifi_message">휴대전화가 이 네트워크 연결을 자동으로 중단합니다.</string>
     <string name="passpoint_r1_privacy_dialog_message">"Passpoint는 Wi-Fi Alliance에서 시작한 안정적이고 안전한 자동 Wi-Fi 연결 기술입니다. Wi-Fi로 구성된 네트워크와 모바일 장치 간의 완벽한 연결을 달성하기 위해 계정을 자동으로 구성합니다.
 
-이 기능은 처음으로 계정 등록을위한 Wi-Fi MAC 주소 만 얻습니다. 우리는 %s에 따라 데이터를 처리합니다. 이 정책을주의 깊게 읽고 계속하기로 동의하세요. "</string>
+이 기능은 처음으로 계정 등록을위한 Wi-Fi MAC 주소만 얻습니다. 우리는 %s에 따라 데이터를 처리합니다. 이 정책을주의 깊게 읽고 계속하기로 동의하세요. "</string>
     <string name="passpoint_r1_privacy_dialog_no">취소</string>
     <string name="passpoint_r1_privacy_dialog_title">주의</string>
     <string name="passpoint_r1_privacy_dialog_url_text">개인정보 보호 정책</string>
@@ -9762,8 +9762,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">트리플 탭 화면</string>
     <string name="accessibility_shortcut_edit_summary_software">접근성 버튼</string>
     <string name="accessibility_shortcut_hardware_keyword">볼륨 키 유지</string>
-    <string name="accessibility_shortcut_settings">바로 가기 설정</string>
-    <string name="accessibility_shortcut_title">%1$s 바로 가기</string>
+    <string name="accessibility_shortcut_settings">바로가기 설정</string>
+    <string name="accessibility_shortcut_title">%1$s 바로가기</string>
     <string name="accessibility_shortcut_triple_tap_keyword">트리플 탭 화면</string>
     <string name="accessibility_shortcut_type_hardware">볼륨 키 유지</string>
     <string name="accessibility_shortcut_type_software">접근성 버튼</string>
@@ -9787,13 +9787,13 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="adaptive_sleep_contextual_slice_title">화면유지 켜기</string>
     <string name="adaptive_sleep_summary_no_permission">탭하여 기기 개인화 서비스에 대한 권한 관리</string>
     <string name="adaptive_sleep_title_no_permission">카메라 액세스 필요</string>
-    <string name="adbwifi_warning_message">무선 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 기기간에 데이터를 복사하고 알림없이 기기에 앱을 설치하고 로그 데이터를 읽을 수 있습니다.</string>
+    <string name="adbwifi_warning_message">무선 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 기기간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하고 로그 데이터를 읽을 수 있습니다.</string>
     <string name="adbwifi_warning_title">무선 디버깅을 허용 하시겠습니까?</string>
     <string name="adb_authorization_timeout_summary">기본값(7일) 또는 사용자가 구성한(최소1일) 시간 내에 다시 연결되지 않은 시스템에 대한 adb 인증 자동취소를 비활성화합니다.</string>
     <string name="adb_authorization_timeout_title">adb 인증 제한 시간 사용 안함</string>
     <string name="adb_device_fingerprint_title_format">기기 지문 : %1$s</string>
     <string name="adb_device_forget">삭제</string>
-    <string name="adb_paired_devices_title">연결 된 기기</string>
+    <string name="adb_paired_devices_title">연결된 기기</string>
     <string name="adb_pairing_device_dialog_failed_msg">기기가 동일한 네트워크에 연결되어 있는지 확인합니다.</string>
     <string name="adb_pairing_device_dialog_failed_title">연결 실패</string>
     <string name="adb_pairing_device_dialog_pairing_code_label">Wi-Fi 연결 코드</string>
@@ -9836,7 +9836,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="bluetooth_select_map_version_string">블루투스 MAP 버전</string>
     <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">기기에서 확인</string>
     <string name="bluetooth_unlock_reject">원격 장치가 잠금해제 요청을 거부</string>
-    <string name="bluetooth_unlock_settings_devices_prompt">선택한 웨어러블 블루투스 장치 만 지원됩니다 (예 : 피트니스 밴드 및 스마트 워치).</string>
+    <string name="bluetooth_unlock_settings_devices_prompt">선택한 웨어러블 블루투스 장치만 지원됩니다 (예 : 피트니스 밴드 및 스마트 워치).</string>
     <string name="bluetooth_unlock_unsupport">지원되지 않는 버전</string>
     <string name="bubbles_conversation_app_link">모든 풍선 설정</string>
     <string name="bubbles_conversation_toggle_summary">앱 위에 플로팅 아이콘 표시</string>
@@ -9846,9 +9846,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="bubble_app_setting_none">아무것도 버블 링 할 수 없음</string>
     <string name="bubble_app_setting_selected">선택한 대화에 버블 링 가능</string>
     <string name="bubble_app_setting_selected_conversation_title">대화</string>
-    <string name="bug_report_handler_picker_footer_text">기기에서 버그 신고 바로 가기를 처리하는 앱을 결정합니다.</string>
+    <string name="bug_report_handler_picker_footer_text">기기에서 버그 신고 바로가기를 처리하는 앱을 결정합니다.</string>
     <string name="bug_report_handler_title">버그 신고 핸들러</string>
-    <string name="cached_apps_freezer">캐시 된 앱 실행 일시 중지</string>
+    <string name="cached_apps_freezer">캐시된 앱 실행 일시 중지</string>
     <string name="cached_apps_freezer_device_default">기기 기본값</string>
     <string name="cached_apps_freezer_disabled">사용 안함</string>
     <string name="cached_apps_freezer_enabled">사용</string>
@@ -9877,8 +9877,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="connected_device_call_device_title">기기 통화</string>
     <string name="connected_device_media_device_title">미디어 장치</string>
     <string name="connected_device_other_device_title">기타 기기</string>
-    <string name="contact_discovery_opt_in_dialog_message">"연락처의 전화번호가 주기적으로 %1$s로 전송됩니다.이 정보는 연락처가 화상 통화 또는 일부 메시지 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
-    <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"연락처의 전화번호가 주기적으로 이동통신사로 전송됩니다.이 정보는 연락처가 화상 통화 또는 일부 메시징 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
+    <string name="contact_discovery_opt_in_dialog_message">"연락처의 전화번호가 주기적으로 %1$s로 전송됩니다. 이 정보는 연락처가 화상 통화 또는 일부 메시지 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
+    <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"연락처의 전화번호가 주기적으로 이동통신사로 전송됩니다. 이 정보는 연락처가 화상 통화 또는 일부 메시징 기능과 같은 특정 기능을 사용할 수 있는지 여부를 식별합니다."</string>
     <string name="contact_discovery_opt_in_dialog_title">연락처를 %1$s에 보내시겠습니까?</string>
     <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">연락처를 이동통신사로 보내시겠습니까?</string>
     <string name="contact_discovery_opt_in_summary">향상된 기능을 제공하기 위해 연락처의 전화번호 보내기</string>
@@ -9886,7 +9886,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="conversations_category_title">대화</string>
     <string name="conversation_category_title">대화</string>
     <string name="conversation_onboarding_summary">"대화를 우선 순위로 표시하거나 대화를 변경하면 여기에 표시됩니다. 대화 설정을 변경하려면 화면 상단에서 아래로 스와이프하여 풀다운 창을 엽니 다. 을 탭한 다음 대화를 길게 터치하세요. "</string>
-    <string name="conversation_onboarding_title">우선 순위 및 수정 된 대화가 여기에 표시됩니다.</string>
+    <string name="conversation_onboarding_title">우선 순위 및 수정된 대화가 여기에 표시됩니다.</string>
     <string name="daltonizer_mode_deuteranomaly_summary">빨강-녹색</string>
     <string name="daltonizer_mode_deuteranomaly_title">신명</string>
     <string name="daltonizer_mode_protanomaly_summary">빨강-녹색</string>
@@ -9942,7 +9942,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="empty_title">""</string>
     <string name="enabled_5g_mode_title">5G 활성화</string>
     <string name="enable_adb_wireless">무선 디버깅</string>
-    <string name="enable_adb_wireless_summary">Wi-Fi 연결시 디버그 모드</string>
+    <string name="enable_adb_wireless_summary">Wi-Fi 연결 시 디버그 모드</string>
     <string name="enable_blurs_on_windows_summary">합성기 수준에서 창 흐림을 활성화합니다. 기기 재부팅이 필요합니다.</string>
     <string name="enable_blurs_on_windows_title">흐림 효과 사용</string>
     <string name="enable_sizecompat_freeform">자유형 sizecompat 사용</string>
@@ -9968,7 +9968,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="graphics_driver_app_preference_title">그래픽 드라이버 선택</string>
     <string name="graphics_driver_dashboard_summary">그래픽 드라이버 설정 수정</string>
     <string name="graphics_driver_dashboard_title">그래픽 드라이버 기본 설정</string>
-    <string name="graphics_driver_footer_text">그래픽 드라이버가 여러 개인 경우 기기에 설치된 앱에 대해 업데이트 된 그래픽 드라이버를 사용하도록 선택할 수 있습니다.</string>
+    <string name="graphics_driver_footer_text">그래픽 드라이버가 여러 개인 경우 기기에 설치된 앱에 대해 업데이트된 그래픽 드라이버를 사용하도록 선택할 수 있습니다.</string>
     <string name="guest_exit_guest">손님 제거</string>
     <string name="guest_new_guest">게스트 추가</string>
     <string name="guest_nickname">게스트</string>
@@ -10062,7 +10062,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="notification_conversation_summary">%1$s• %2$s</string>
     <string name="notification_history">알림 내역</string>
     <string name="notification_history_dismiss">최근 닫힘</string>
-    <string name="notification_history_off_summary">최근 알림 및 일시 중지 된 알림을 보려면 알림 내역을 사용 설정</string>
+    <string name="notification_history_off_summary">최근 알림 및 일시 중지된 알림을 보려면 알림 내역을 사용 설정</string>
     <string name="notification_history_off_title_extended">알림 기록 사용 안함</string>
     <string name="notification_history_open_notification">공지 개시</string>
     <string name="notification_history_snooze">일시 중지됨</string>
@@ -10089,16 +10089,16 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="personal_profile_app_subtext">개인</string>
     <string name="platform_compat_dashboard_summary">앱 호환성 변경 전환</string>
     <string name="platform_compat_dashboard_title">앱 호환성 변경사항</string>
-    <string name="platform_compat_default_disabled_title">기본 비활성화 된 변경사항</string>
-    <string name="platform_compat_default_enabled_title">기본적으로 활성화 된 변경</string>
+    <string name="platform_compat_default_disabled_title">기본 비활성화된 변경사항</string>
+    <string name="platform_compat_default_enabled_title">기본적으로 활성화된 변경</string>
     <string name="platform_compat_selected_app_summary">%1$stargetSdkVersion %2$d</string>
     <string name="platform_compat_target_sdk_title">targetSdkVersion> %d에 대해 활성화 됨</string>
     <string name="power_menu_cards_passes">카드 및 패스 표시</string>
     <string name="power_menu_cards_passes_device_controls">카드, 패스 및 기기 컨트롤 표시</string>
     <string name="power_menu_device_controls">장치 컨트롤 표시</string>
     <string name="power_menu_lock_screen_category">잠금 화면</string>
-    <string name="power_menu_none">컨텐츠 표시 안함</string>
-    <string name="power_menu_privacy">민감한 컨텐츠</string>
+    <string name="power_menu_none">콘텐츠 표시 안함</string>
+    <string name="power_menu_privacy">민감한 콘텐츠</string>
     <string name="power_menu_privacy_hide">잠겼을 때 카드 및 컨트롤 숨기기</string>
     <string name="power_menu_privacy_not_secure">사용하려면 먼저 화면 잠금을 설정</string>
     <string name="power_menu_privacy_show">잠겼을 때 카드 및 컨트롤 표시</string>
@@ -10138,8 +10138,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="right_edge">오른쪽 가장자리</string>
     <string name="ringer_mode_setting_title">무음 모드</string>
     <string name="screen_fps_unit">% dHz</string>
-    <string name="screen_pinning_dialog_message">"앱이 고정 된 경우 : • \ u0009 \ u0009 개인 데이터에 액세스할 수 있습니다. \ u0009 \ u0009 (연락처 및 이메일 컨텐츠 등) • \ u0009 \ u0009 고정 된 앱이 다른 앱을 열 수 있음 당신이 신뢰하는 사람들. "</string>
-    <string name="screen_pinning_guest_user_description">"앱 고정을 사용하면 고정을 해제할 때까지 현재 앱을 계속 볼 수 있습니다. 예를 들어이 기능을 사용하여 신뢰할 수 있는 친구가 특정 게임을 플레이하도록 할 수 있습니다. 앱이 고정되면, 고정 된 앱은 다른 앱을 열 수 있으며 개인 데이터에 액세스할 수 있습니다. 기기를 다른 사람과 안전하게 공유하려면 대신 게스트 사용자를 사용해보세요. 앱 고정을 사용하려면 다음을 따르세요. \ u00091. \ u0009 앱 고정을 사용 설정하세요. \ u0009 열기 개요 \ u00093. \ u0009 화면 상단의 앱 아이콘을 탭한 다음 고정을 탭하세요. "</string>
+    <string name="screen_pinning_dialog_message">"앱이 고정된 경우 : • \ u0009 \ u0009 개인 데이터에 액세스할 수 있습니다. \ u0009 \ u0009 (연락처 및 이메일 콘텐츠 등) • \ u0009 \ u0009 고정된 앱이 다른 앱을 열 수 있음 당신이 신뢰하는 사람들. "</string>
+    <string name="screen_pinning_guest_user_description">"앱 고정을 사용하면 고정을 해제할 때까지 현재 앱을 계속 볼 수 있습니다. 예를 들어이 기능을 사용하여 신뢰할 수 있는 친구가 특정 게임을 플레이하도록 할 수 있습니다. 앱이 고정되면, 고정된 앱은 다른 앱을 열 수 있으며 개인 데이터에 액세스할 수 있습니다. 기기를 다른 사람과 안전하게 공유하려면 대신 게스트 사용자를 사용해보세요. 앱 고정을 사용하려면 다음을 따르세요. \ u00091. \ u0009 앱 고정을 사용 설정하세요. \ u0009 열기 개요 \ u00093. \ u0009 화면 상단의 앱 아이콘을 탭한 다음 고정을 탭하세요. "</string>
     <string name="screen_zoom_small">XS</string>
     <string name="search_input_txt_na">"&lt;font color = '# ff0000'> %s &lt;/font>"</string>
     <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴인식 잠금해제를 초기화하려면 현재 얼굴 데이터를 삭제하세요. 얼굴인식 잠금해제에 사용되는 얼굴 데이터는 영구적이고 안전하게 삭제됩니다. 제거 후 잠금을 해제하려면 PIN, 패턴 또는 비밀번호가 필요합니다. 휴대 전화, 앱에 로그인하고 결제를 확인하세요. "</string>

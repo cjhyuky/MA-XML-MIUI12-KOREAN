@@ -98,7 +98,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>사용자 설정</item>
-        <item>MIUI 배터리 세이버</item>
+        <item>MIUI 절전 모드</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>사용중인 앱</item>

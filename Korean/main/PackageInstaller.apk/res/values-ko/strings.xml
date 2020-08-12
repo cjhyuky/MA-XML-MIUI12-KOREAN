@@ -82,7 +82,7 @@
     <string name="message_install_in_market">앱 스토어에서 설치하기를 권장합니다.</string>
     <string name="message_appstore_verify_has_new_version">앱 스토어에서 이 앱의 새로운 버전이 사용 가능합니다. 설치하시겠습니까?</string>
     <string name="message_appstore_verify_inconsistent">이 앱의 서명이 앱스토어와 일치 하지 않습니다. 앱스토어의 앱을 설치하는 것이 더욱 안전합니다.</string>
-    <string name="message_appstore_verify_ok">이 앱의 버전은 앱 스토어의 안전 검사에 통과 하였습니다, 앱스토어에서의 앱 설치를 추천합니다.</string>
+    <string name="message_appstore_verify_ok">이 앱의 버전은 앱 스토어의 안전 검사에 통과했습니다, 앱스토어에서의 앱 설치를 추천합니다.</string>
     <string name="install_from_appstore_hint">앱 스토어에서의 앱 설치를 추천합니다.</string>
     <string name="waiting_tip">시간이 좀 걸리겠지만 가치 있을 것입니다.</string>
     <string name="toast_network_eror">네트워크에 연결할 수 없습니다.</string>
@@ -205,7 +205,7 @@
     <string name="uninstall_application_text_user">사용자 %1$s님을 위해 이 앱을 제거하시겠습니까?</string>
     <string name="uninstall_update_text_multiuser">이 앱을 공장 초기 버전으로 교체하시겠습니까? 모든 데이터가 삭제될 것입니다. 이 작업은 작업 프로필을 포함한 이 기기의 모든 사용자에게 영향을 주게됩니다.</string>
     <string name="uninstall_failed_device_policy_manager_of_user">이 패키지는 %1$s 사용자의 기기 관리자로 설정되어 있어 제거할 수 없습니다.</string>
-    <string name="uninstall_all_blocked_profile_owner">이 앱은 몇몇 사용자 또는 프로필에 필요하므로 제거될 수 없습니다.</string>
+    <string name="uninstall_all_blocked_profile_owner">이 앱은 일부 사용자 또는 프로필에 필요하므로 제거될 수 없습니다.</string>
     <string name="uninstall_blocked_profile_owner">이 앱은 프로필에 필요하므로 제거될 수 없습니다.</string>
     <string name="uninstall_blocked_device_owner">이 앱은 기기 관리자에 필요하므로 제거될 수 없습니다.</string>
     <string name="manage_users">사용자 관리</string>
@@ -291,13 +291,13 @@
     <string name="apn_settings_not_available">이 사용자는 액세스포인트 네임(APN) 설정을 수정할 수 없습니다.</string>
     <string name="app_process_limit_title">백그라운드 프로세스 제한</string>
     <string name="available_via_passpoint">사용 가능</string>
-    <string name="battery_info_status_charging">충전중</string>
+    <string name="battery_info_status_charging">충전 중</string>
     <string name="battery_info_status_charging_ac">충전기로 충전</string>
-    <string name="battery_info_status_charging_ac_short">충전중</string>
+    <string name="battery_info_status_charging_ac_short">충전 중</string>
     <string name="battery_info_status_charging_usb">USB를 통해 충전</string>
-    <string name="battery_info_status_charging_usb_short">충전중</string>
+    <string name="battery_info_status_charging_usb_short">충전 중</string>
     <string name="battery_info_status_charging_wireless">무선으로 충전 중</string>
-    <string name="battery_info_status_charging_wireless_short">충전중</string>
+    <string name="battery_info_status_charging_wireless_short">충전 중</string>
     <string name="battery_info_status_discharging">충전되지 않음</string>
     <string name="battery_info_status_full">전체</string>
     <string name="battery_info_status_not_charging">충전하지 않음</string>
@@ -506,7 +506,7 @@
     <string name="transition_animation_scale_title">전환 애니메이션 크기</string>
     <string name="tts_default_lang_summary">음성 텍스트의 언어 별 음성을 설정합니다.</string>
     <string name="tts_default_lang_title">언어</string>
-    <string name="tts_default_pitch_summary">합성 된 음성의 톤에 영향을줍니다.</string>
+    <string name="tts_default_pitch_summary">합성된 음성의 톤에 영향을줍니다.</string>
     <string name="tts_default_pitch_title">피치</string>
     <string name="tts_default_rate_summary">텍스트를 읽어주는 속도를 조절합니다.</string>
     <string name="tts_default_rate_title">목소리 빠르기</string>
@@ -614,7 +614,7 @@
     <string name="package_delete_confirm_step_1">%s앱을 삭제하시겠습니까?</string>
     <string name="active_input_method_subtypes">입력 방법</string>
     <string name="anonymous_source_continue">계속</string>
-    <string name="battery_info_status_charging_lower">충전중</string>
+    <string name="battery_info_status_charging_lower">충전 중</string>
     <string name="disabled">비활성화됨</string>
     <string name="external_sources_settings">설정</string>
     <string name="external_source_trusted">허가됨</string>
@@ -678,7 +678,7 @@
     <string name="generic_error_dlg_text">앱이 설치될 수 없습니다.</string>
     <string name="grant_dialog_button_more_info">더보기</string>
     <string name="install_other_apps">알 수 없는 앱 설치</string>
-    <string name="lb_media_player_error">에러 코드 : %1$d</string>
+    <string name="lb_media_player_error">오류 코드 : %1$d</string>
     <string name="lb_playback_controls_hidden">미디어 컨트롤러 숨김처리됨, D패드를 눌러 표시하기</string>
     <string name="lb_playback_controls_shown">미디어 컨트롤러 표시하기</string>
     <string name="lb_playback_time_separator">/</string>
@@ -786,7 +786,7 @@
     <string name="wifi_cant_connect_to_ap">"'%1$s' 기기에 연결 실패"</string>
     <string name="wifi_check_password_try_again">비밀번호 확인후 다시 시도하세요.</string>
     <string name="wifi_connected_mac_randomization">MAC 랜덤화에 연결됨</string>
-    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결시 MAC주소를 랜덤화합니다.</string>
+    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결 시 MAC주소를 랜덤화합니다.</string>
     <string name="wifi_coverage_extend">Wi-Fi 접속거리 확장기능 활성화</string>
     <string name="wifi_coverage_extend_summary">핫스팟을 통한 Wi-Fi 접속거리 확장을 활성화합니다.</string>
     <string name="wifi_metered_label">저장됨</string>

@@ -154,7 +154,7 @@
     <string name="progress_finishing_touches">마무리 중입니다…</string>
     <string name="progress_initialize">장치 초기화중…</string>
     <string name="read_terms">약관 읽기</string>
-    <string name="section_content">%1$s 섹션 컨텐츠: %2$s</string>
+    <string name="section_content">%1$s 섹션 콘텐츠: %2$s</string>
     <string name="section_heading">%1$s 섹션의 서두</string>
     <string name="setup_isnt_finished_contact_admin">"설치가 완료되지 않았습니다. 도움이 필요하면 관리자에게 문의하세요."</string>
     <string name="stop_setup_reset_device_question">설정을 중단하고 기기를 초기화하시겠습니까?</string>
@@ -218,7 +218,7 @@
     <string name="fully_managed_device_provisioning_step_1_header">업무용 앱을 손끝으로 유지</string>
     <string name="fully_managed_device_provisioning_step_2_header">"이 기기는 비공개가 아닙니다."</string>
     <string name="fully_managed_device_provisioning_step_2_subheader">IT 관리자가이 장치에서 데이터와 활동을 볼 수 있습니다.</string>
-    <string name="fully_managed_device_provisioning_summary">"이 기기를 사용하여 업무용 앱에 쉽게 액세스할 수 있습니다.이 기기는 개인용이 아니므로 IT 관리자가 데이터 및 활동을 볼 수 있습니다. 자세한 내용은 IT 관리자에게 문의하세요."</string>
+    <string name="fully_managed_device_provisioning_summary">"이 기기를 사용하여 업무용 앱에 쉽게 액세스할 수 있습니다. 이 기기는 개인용이 아니므로 IT 관리자가 데이터 및 활동을 볼 수 있습니다. 자세한 내용은 IT 관리자에게 문의하세요."</string>
     <string name="icon_content_description">대화 상자 아이콘</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="mtrl_picker_cancel">취소</string>

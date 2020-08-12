@@ -87,9 +87,9 @@
     <string name="comment_pop_ok">평가</string>
     <string name="comment_pop_title">배경화면 회전 목마 평가하기</string>
     <string name="confirm">확인</string>
-    <string name="create_shortcut">홈 화면 바로 가기 만들기</string>
+    <string name="create_shortcut">홈 화면 바로가기 만들기</string>
     <string name="create_shortcut_btn">생성</string>
-    <string name="create_shortcut_title">홈 화면 바로 가기 만들기</string>
+    <string name="create_shortcut_title">홈 화면 바로가기 만들기</string>
     <string name="current_connection_invalid">장치가 네트워크에 연결될 때까지 기다립니다.</string>
     <string name="current_data_invalid">오류가 발생했습니다.</string>
     <string name="current_network_invalid">먼저 네트워크에 연결하세요.</string>
@@ -231,7 +231,7 @@
     <string name="loading">잠시만 기다려주세요.</string>
     <string name="lock_screen_date">M월 d일 EEEE</string>
     <string name="lock_screen_date_12">M월 d일 EEEE</string>
-    <string name="lock_show_permission_exception">오류가 발생하였습니다. 보안의 잠금 화면에 슬라이드형 배경화면이 표시되도록 허용합니다.</string>
+    <string name="lock_show_permission_exception">오류가 발생했습니다. 보안의 잠금 화면에 슬라이드형 배경화면이 표시되도록 허용합니다.</string>
     <string name="lockscreen_h5_back_tv">뒤로</string>
     <string name="lockscreen_h5_close_tv">닫기</string>
     <string name="lockscreen_h5_refresh_btn_tv">새로고침</string>
@@ -332,7 +332,7 @@
     <string name="pull_to_refresh_pull_up_label">위로 밀어 새로고침</string>
     <string name="pull_to_refresh_refreshing_label">새로고침 중...</string>
     <string name="pull_to_refresh_release_label">놓아서 새로고침</string>
-    <string name="recommend_switch_desc">선호도에 따라 컨텐츠 권장 사항 수신</string>
+    <string name="recommend_switch_desc">선호도에 따라 콘텐츠 권장 사항 수신</string>
     <string name="recommend_switch_dlg_close">끄기</string>
     <string name="recommend_switch_dlg_desc">이 기능을 해제하면 기본 설정에 따라 권장 사항을받을 수 없습니다.</string>
     <string name="recommend_switch_dlg_other">끄지 않기</string>
@@ -379,10 +379,10 @@
     <string name="shield_tag_list_empty">아직 상품이 없습니다.</string>
     <string name="shield_tag_list_title">차단된 항목</string>
     <string name="shield_tag_select_title">항목 차단</string>
-    <string name="shortcut_ask">보안 설정에서 바로 가기 만들기 허용</string>
-    <string name="shortcut_created">바로 가기를 만들었습니다.</string>
-    <string name="shortcut_exist">바로 가기가 이미 존재합니다.</string>
-    <string name="shortcut_failed">바로 가기를 생성할 수 없습니다.</string>
+    <string name="shortcut_ask">보안 설정에서 바로가기 만들기 허용</string>
+    <string name="shortcut_created">바로가기를 만들었습니다.</string>
+    <string name="shortcut_exist">바로가기가 이미 존재합니다.</string>
+    <string name="shortcut_failed">바로가기를 생성할 수 없습니다.</string>
     <string name="sign_in_title">Mi 계정으로 로그인하세요.</string>
     <string name="sliding_on_unlock">위로 밀어서 잠금해제</string>
     <string name="sns_sign_in">로그인하는 다른 방법</string>
@@ -395,8 +395,8 @@
     <string name="sst_change_wallpaper_title">배경화면 적용</string>
     <string name="sst_close_wallpaper">배경화면 회전을 끕니다.</string>
     <string name="sst_common_question">자주하는 질문</string>
-    <string name="sst_cover_chg_enable_desc">충전중일때 슬라이드형 배경화면 표시</string>
-    <string name="sst_cover_chg_enable_title">충전중 슬라이드형 배경화면 표시</string>
+    <string name="sst_cover_chg_enable_desc">충전 중일때 슬라이드형 배경화면 표시</string>
+    <string name="sst_cover_chg_enable_title">충전 중 슬라이드형 배경화면 표시</string>
     <string name="sst_custom_wallpaper_desc">갤러리 및 추천에서 이미지 선택</string>
     <string name="sst_custom_wallpaper_title">맞춤 슬라이드 쇼</string>
     <string name="sst_custom_wallpaper_title2">슬라이드 쇼</string>
@@ -426,8 +426,8 @@
     <string name="sst_selected_tip">현재</string>
     <string name="sst_shield_tag_desc">차단된 카테고리 관리</string>
     <string name="sst_shield_tag_title">차단된 항목</string>
-    <string name="sst_show_lockscreen_entry_desc">잠금 화면에 바로 가기 표시</string>
-    <string name="sst_show_lockscreen_entry_title">잠금 화면 바로 가기</string>
+    <string name="sst_show_lockscreen_entry_desc">잠금 화면에 바로가기 표시</string>
+    <string name="sst_show_lockscreen_entry_title">잠금 화면 바로가기</string>
     <string name="sst_sliding_checkbox_checked">설정</string>
     <string name="sst_sliding_checkbox_unchecked">끄기</string>
     <string name="sst_sti_desc">배경화면 업데이트 빈도 설정</string>

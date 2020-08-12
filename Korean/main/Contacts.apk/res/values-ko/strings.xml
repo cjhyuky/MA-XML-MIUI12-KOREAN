@@ -678,7 +678,7 @@
     <string name="contact_detail_profile_switch_off">탭하여 연락처 카드 끄기</string>
     <string name="contact_detail_profile_switch_on_success_toast">연락처 카드 켜짐</string>
     <string name="contact_detail_profile_switch_on_fail_toast">연락처 카드를 켜지 못했습니다.</string>
-    <string name="contact_detail_profile_switch_fail_toast">서버에 문제가 발생하였습니다.</string>
+    <string name="contact_detail_profile_switch_fail_toast">서버에 문제가 발생했습니다.</string>
     <string name="contact_detail_profile_switch_off_success_toast">연락처 카드 꺼짐</string>
     <string name="contact_detail_profile_switch_off_fail_toast">연락처 카드를 끄지 못했습니다.</string>
     <string name="contact_detail_profile_switch_fail_network_toast">네크워크에 연결할 수 없습니다.</string>

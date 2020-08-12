@@ -90,7 +90,7 @@
     <string name="download_remaining">%s 남음</string>
     <string name="download_no_application_title">파일을 열 수 없음</string>
     <string name="root_downloads">다운로드</string>
-    <string name="download_queued">대기중</string>
+    <string name="download_queued">대기 중</string>
     <string name="download_running">진행중</string>
     <string name="download_error">실패</string>
     <string name="byteShort">B</string>
@@ -113,5 +113,5 @@
     <string name="channel_active">다운로드 중</string>
     <string name="channel_complete">다운로드 완료</string>
     <string name="channel_insufficient_space">공간 부족</string>
-    <string name="channel_waiting">다운로드 대기중</string>
+    <string name="channel_waiting">다운로드 대기 중</string>
 </resources>

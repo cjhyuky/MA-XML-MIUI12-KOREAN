@@ -719,7 +719,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="package_tracking_card">배송</string>
     <string name="package_status">배송 상태: %1$s</string>
     <string name="show_more">더보기</string>
-    <string name="show_more_recommendations_footer">추천 컨텐츠 더보기</string>
+    <string name="show_more_recommendations_footer">추천 콘텐츠 더보기</string>
     <string name="show_full_agenda">전체 일정목록 보기</string>
     <string name="view_email">이메일 보기</string>
     <string name="failed_to_open_webview">페이지를 열지 못했습니다.</string>

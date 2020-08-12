@@ -242,9 +242,9 @@
     <string name="mibi_error_recharge_result_fail">충전 실패.</string>
     <string name="mibi_error_recharge_result_uncertain">충전 결과가 불확실합니다.</string>
     <string name="mibi_error_recharge_success_pay_fail">충전 성공 지불 실패.</string>
-    <string name="mibi_error_server_summary">서버 에러. 잠시후 다시 시도하세요.</string>
+    <string name="mibi_error_server_summary">서버 오류. 잠시후 다시 시도하세요.</string>
     <string name="mibi_error_user_id_mismatch_summary">계정 체크 후 재로그인하세요.</string>
-    <string name="mibi_error_web_summary">서버 에러</string>
+    <string name="mibi_error_web_summary">서버 오류</string>
     <string name="mibi_fee">%1$s Mi 크레딧</string>
     <string name="mibi_forget_password"><u>비밀번호 분실</u></string>
     <string name="mibi_frozen">잠김</string>
@@ -265,7 +265,7 @@
     <string name="mibi_giftcard_discount_detail">쿠폰(%1$s Mi 크레딧 사용)</string>
     <string name="mibi_giftcard_empty">기프트카드 없음.</string>
     <string name="mibi_giftcard_has_expired">유효기한: %1$s</string>
-    <string name="mibi_giftcard_hint">기프트 카드를 통해 추가된 Mi크레딧부터 자동으로 먼저 사용됩니다.</string>
+    <string name="mibi_giftcard_hint">기프트 카드를 통해 추가된 Mi 크레딧부터 자동으로 먼저 사용됩니다.</string>
     <string name="mibi_giftcard_payment">상품권</string>
     <string name="mibi_giftcard_payment_with_append">상품권 적용</string>
     <string name="mibi_giftcard_push_notification_prime_title">"상품권을 받았습니다."</string>
@@ -280,8 +280,8 @@
     <string name="mibi_label_balance">잔액</string>
     <string name="mibi_label_giftcard">기프트 카드</string>
     <string name="mibi_label_pay_remain">금액: %1$s Mi 크레딧</string>
-    <string name="mibi_license_message">"Xiaomi Inc.에서 제공하는 서비스인 Mi크레딧을 사용하려고합니다.이 서비스를 사용하려면 %1$s에 명시된 서비스 약관에 동의해야 합니다. %1$s에 명시된 이용약관에 동의하면 인터넷에 연결하고 Mi 크레딧을 사용하려면 기기를 찾으세요.You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s. You need to connect to the internet, locate you device to use Mi Credit."</string>
-    <string name="mibi_license_message_span">Mi크레딧 사용자 계약사항</string>
+    <string name="mibi_license_message">"Xiaomi Inc.에서 제공하는 서비스인 Mi 크레딧을 사용하려고합니다. 이 서비스를 사용하려면 %1$s에 명시된 서비스 약관에 동의해야 합니다. %1$s에 명시된 이용약관에 동의하면 확인을 누르세요. Mi 크레딧을 사용하려면 인터넷에 연결하고 기기 위치 확인을 허용해야 합니다."</string>
+    <string name="mibi_license_message_span">Mi 크레딧 사용자 계약사항</string>
     <string name="mibi_license_title">이용 약관</string>
     <string name="mibi_list_item_bottom_hint">"목록 맨 하단입니다."</string>
     <string name="mibi_login">로그인</string>
@@ -290,14 +290,14 @@
     <string name="mibi_menu_lock">앱 잠금 추가</string>
     <string name="mibi_menu_qa">묻고답하기</string>
     <string name="mibi_menu_shotcut">홈 화면에 배치</string>
-    <string name="mibi_mili_center">Mi크레딧</string>
-    <string name="mibi_milicenter_title">Mi크레딧</string>
+    <string name="mibi_mili_center">Mi 크레딧</string>
+    <string name="mibi_milicenter_title">Mi 크레딧</string>
     <string name="mibi_mipay_error">Mi페이 실패</string>
-    <string name="mibi_msg_denomination_type">Mi크레딧</string>
+    <string name="mibi_msg_denomination_type">Mi 크레딧</string>
     <string name="mibi_msg_error">팝업 실패</string>
     <string name="mibi_msg_order_hint_1_1">구매 확인을 터치하면 휴대전화가</string>
     <string name="mibi_msg_order_hint_1_2">자동으로 서비스 제공 업체로 연결할 것입니다.</string>
-    <string name="mibi_msg_picker_hint_1_2">문자로 충전하시면 더 비쌉니다: %1$d 위안 = %2$d Mi크레딧</string>
+    <string name="mibi_msg_picker_hint_1_2">문자로 충전하시면 더 비쌉니다: %1$d 위안 = %2$d Mi 크레딧</string>
     <string name="mibi_msg_picker_hint_2_a">이동통신사를 거쳐서 충전시 충전당 %1$s 위안의 서비스 요금이 부과됩니다.</string>
     <string name="mibi_msg_picker_hint_2_b">\"충전\"을 탭하면 통신사에서 문자를 보냅니다. 통신사에서는 문자요금을 청구할 것입니다.</string>
     <string name="mibi_msg_picker_hint_3_2">월 최대 충전량: %1$s 위안</string>
@@ -307,15 +307,15 @@
     <string name="mibi_msg_send_send_fail_error">메시지 전송 실패</string>
     <string name="mibi_msg_telecom_order_denom">%1s위안（모바일 네트워크 데이터 요금 제외）</string>
     <string name="mibi_msg_telecom_order_denom_label">금액</string>
-    <string name="mibi_msg_telecom_order_goods">%1s Mi크레딧</string>
+    <string name="mibi_msg_telecom_order_goods">%1s Mi 크레딧</string>
     <string name="mibi_msg_telecom_order_goods_label">상품</string>
     <string name="mibi_msg_telecom_picker_hint_1_1">구매 확인을 터치하면 휴대전화가</string>
     <string name="mibi_msg_telecom_picker_hint_1_2">자동으로 서비스 제공 업체로 연결할 것입니다.</string>
     <string name="mibi_msg_telecom_picker_hint_2_1">네트워크 제공 업체에 연락했습니다!</string>
     <string name="mibi_msg_telecom_picker_hint_2_2">곧 문자 확인 메시지가 전송됩니다.</string>
     <string name="mibi_msg_telecom_sending">네트워크 제공 업체에 문의 중…</string>
-    <string name="mibi_order_balance_lable">Mi크레딧</string>
-    <string name="mibi_order_balance_lable_append">Mi크레딧 + 쿠폰</string>
+    <string name="mibi_order_balance_lable">Mi 크레딧</string>
+    <string name="mibi_order_balance_lable_append">Mi 크레딧 + 쿠폰</string>
     <string name="mibi_order_balance_title">나의 Mi 크레딧</string>
     <string name="mibi_order_no_use_balance">사용하지 않음</string>
     <string name="mibi_order_pay_back">확인</string>
@@ -355,7 +355,7 @@
     <string name="mibi_prepaid_number_edit_hint">번호</string>
     <string name="mibi_prepaid_password_edit_hint">비밀번호</string>
     <string name="mibi_prepaid_picker_hint_1_2">일회성 요금만 지원합니다;</string>
-    <string name="mibi_prepaid_picker_hint_2_2_a">"선불 카드의 공칭 값과 일치해야 합니다. 다른 값을 선택하면 카드가 무효화됩니다.이 작업은 취소 할 수 없습니다."</string>
+    <string name="mibi_prepaid_picker_hint_2_2_a">"선불 카드의 공칭 값과 일치해야 합니다. 다른 값을 선택하면 카드가 무효화됩니다. 이 작업은 취소 할 수 없습니다."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">선불 카드의 명목 가치가 %1$s 위안이 아닌 경우 카드는 무효가 됩니다. Xiaomi는 사용자 오류로 인한 금전적 손실에 대해 책임을지지 않습니다.</string>
     <string name="mibi_prepaid_picker_title_default">금액 선택</string>
     <string name="mibi_prepaid_picker_title_selected">금액</string>
@@ -363,7 +363,7 @@
     <string name="mibi_progress_creating">주문 정보 검색 중…</string>
     <string name="mibi_progress_deduct_creating">%1$s 자동 결제 프로토콜 활성화중…</string>
     <string name="mibi_progress_downloading">불러오는 중…</string>
-    <string name="mibi_progress_error_pay_summary">%1$s Mi크레딧이 충전되었지만 결제를 실패했습니다. 나중에 다시 시도하세요.</string>
+    <string name="mibi_progress_error_pay_summary">%1$s Mi 크레딧이 충전되었지만 결제를 실패했습니다. 나중에 다시 시도하세요.</string>
     <string name="mibi_progress_error_pay_title">결제 실패</string>
     <string name="mibi_progress_error_recharge_summary">충전 실패, 나중에 다시 시도하세요.</string>
     <string name="mibi_progress_error_recharge_title">충전 실패</string>
@@ -375,12 +375,12 @@
     <string name="mibi_progress_prepaid_creating">주문 생성 중…</string>
     <string name="mibi_progress_querying">처리중…</string>
     <string name="mibi_progress_submit_hint">3 분 안에 계정 잔액에 충전 내역이 반영됩니다.</string>
-    <string name="mibi_progress_submit_recharge_summary">충전하기: %1$s Mi크레딧.</string>
+    <string name="mibi_progress_submit_recharge_summary">충전하기: %1$s Mi 크레딧.</string>
     <string name="mibi_progress_submit_title">제출 요청</string>
-    <string name="mibi_progress_success_pay_summary">%1$s Mi크레딧 충전 완료，%2$s Mi크레딧 사용</string>
+    <string name="mibi_progress_success_pay_summary">%1$s Mi 크레딧 충전 완료，%2$s Mi 크레딧 사용</string>
     <string name="mibi_progress_success_pay_title">%1$s Mi 크레딧 충전 완료 </string>
-    <string name="mibi_progress_success_recharge_summary">계정 잔액: %1$s Mi크레딧.</string>
-    <string name="mibi_progress_success_recharge_title">%1$s Mi크레딧 충전 완료</string>
+    <string name="mibi_progress_success_recharge_summary">계정 잔액: %1$s Mi 크레딧.</string>
+    <string name="mibi_progress_success_recharge_title">%1$s Mi 크레딧 충전 완료</string>
     <string name="mibi_progress_voucher_creating">Mi 신용카드 충전…</string>
     <string name="mibi_progress_warning_check_with_contact">"귀하의 계좌에 아직 지불하지 않았습니다. 근무일 기준 2 일 이내에 다시 확인합니다. 고객 서비스 센터 : 400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"아직 귀하의 계정에 지불하지 않았습니다."</string>
@@ -470,7 +470,7 @@
     <string name="mibi_giftcard_used">사용됨</string>
     <string name="mibi_giftcard_vaild_util">%1$s 까지 사용불가</string>
     <string name="mibi_pay_grid_error_denomination">총 수량은 Mi 크레딧 %1$s 에서 %2$s 사이여야 합니다.</string>
-    <string name="mibi_pay_success_summary">"%1$s Mi 크레딧을 지불하였습니다."</string>
+    <string name="mibi_pay_success_summary">"%1$s Mi 크레딧을 지불했습니다."</string>
     <string name="mibi_pay_success_with_recharge_summary">%1$s Mi 크레딧 충전됨，%2$s Mi 크레딧으로 결제됨</string>
     <string name="passport_account_set_password">비밀번호 설정</string>
     <string name="passport_account_set_password_prompt">다음번 로그인을 위해 비밀번호를 설정하세요.</string>
@@ -522,7 +522,7 @@
     <string name="mibi_error_mipay_no_installed">"Mi지갑이 기기에 설치되어 있지 않습니다."</string>
     <string name="mibi_error_privacy_summary">승인을 취소했습니다.</string>
     <string name="mibi_giftcard_in_available">사용 가능</string>
-    <string name="mibi_privacy_tip_message">"승인이 철회 된 후 Mi 크레딧을 사용할 수 없습니다."</string>
+    <string name="mibi_privacy_tip_message">"승인이 철회된 후 Mi 크레딧을 사용할 수 없습니다."</string>
     <string name="mibi_privacy_tip_title">승인 우선 처리</string>
     <string name="mibi_recharge_value_money">Mi지갑으로 CNY %s 결제</string>
     <string name="mibi_recharge_value_money_special_unit">Mi지갑으로 %1$s %2$s 결제</string>

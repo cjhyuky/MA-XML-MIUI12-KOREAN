@@ -24,7 +24,7 @@
     <string name="address_choose_hint">%1$s, %2$s 및 다른 위치 %3$d개</string>
     <string name="two_address_choose_hint">%1$s, %2$s</string>
     <string name="one_address_choose_hint">%s1</string>
-    <string name="marked_by_user">"다른 이름으로 표시하였습니다. "</string>
+    <string name="marked_by_user">"다른 이름으로 표시했습니다. "</string>
     <string name="marked_by_others">"다른 사용자 %d명은 이것에 다음과 같이 표시함: "</string>
     <string name="dlg_black_antispam_message">이 번호를 차단 목록에 추가하시겠습니까?</string>
     <string name="dlg_white_antispam_message">이 번호를 예외에 추가하시겠습니까?</string>
@@ -324,7 +324,7 @@
     <string name="mark_number_setting_guide_title">신고된 번호 차단</string>
     <string name="mark_number_setting_guide_content1">신고된 번호로부터 걸려 오는 통화를 차단하시겠습니까?</string>
     <string name="mark_number_setting_guide_content2">다른 사용자들이 신고한 번호로부터 걸려 오는 통화 자동 차단</string>
-    <string name="mark_number_setting_guide_content3">%1$s 번호를 신고하였습니다. 신고된 %2$s 번호에서 오는 통화를 차단하시겠습니까?</string>
+    <string name="mark_number_setting_guide_content3">%1$s 번호를 신고했습니다. 신고된 %2$s 번호에서 오는 통화를 차단하시겠습니까?</string>
     <string name="mark_number_setting_guide_forward">차단 목록 설정</string>
     <string name="mark_number_fraud">사기 행위</string>
     <string name="mark_number_agent">대리인</string>

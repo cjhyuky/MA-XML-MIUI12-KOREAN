@@ -14,7 +14,7 @@
     <string name="default_voice_phone">기본 음성 기기</string>
     <string name="network_status_and_signal_strength">네트워크 상태 &amp; 신호 세기</string>
     <string name="no_sim_inserted">SIM 카드 없음</string>
-    <string name="perform_switch">전환중...</string>
+    <string name="perform_switch">전환 중...</string>
     <string name="phone1">1번 기기</string>
     <string name="phone2">2번 기기</string>
     <string name="phone3">3번 기기</string>

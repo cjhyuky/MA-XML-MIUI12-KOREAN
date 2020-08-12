@@ -81,7 +81,7 @@
 2.\"뒤로\" 버튼을 눌러 카메라 인터페이스를 종료합니다
 3.손 떨림 방지 기능이 보정되었음을 나타내는 보정 통과 라벨이 표시됩니다."</string>
     <string name="cit_camera_sdcard_error">사진을 가져올 수 없습니다. SD 카드가 가득 찼습니다.</string>
-    <string name="cit_charger_plugin_check_summary">USB 충전기가 연결되면 \"USB/AC를 통해 충전중\"이란 문구가 아래에 표시됩니다.</string>
+    <string name="cit_charger_plugin_check_summary">USB 충전기가 연결되면 \"USB/AC를 통해 충전 중\"이란 문구가 아래에 표시됩니다.</string>
     <string name="cit_charger_plugin_check_title">충전기(연결)</string>
     <string name="cit_charger_plugout_check_summary">USB 충전기가 분리되면 \"USB/AC충전기 분리됨\"이란 문구가 아래에 표시됩니다.</string>
     <string name="cit_charger_plugout_check_title">충전기(분리)</string>
@@ -484,7 +484,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="SD_SDCard_total_size">전체 크기</string>
     <string name="SD_SDCard_unmounted">SD 카드 사용 불가능</string>
     <string name="action_example">예시</string>
-    <string name="action_nothing">테스트 대기중</string>
+    <string name="action_nothing">테스트 대기 중</string>
     <string name="afdcalibration_test">AFD 캘리브레이션 테스트</string>
     <string name="afdcalibrationrubberstamp_test">AFD 캘리브레이션 러버 스탬프 테스트</string>
     <string name="afdrubberstamp_test">AFD 러버 스탬프 테스트</string>
@@ -578,8 +578,8 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="error_failed_to_get_data">데이터를 불러오지 못했습니다.</string>
     <string name="error_file_not_found">데이터를 찾지 못했습니다.</string>
     <string name="error_getting_sensor_info">센서 정보를 불러오지 못했습니다.</string>
-    <string name="error_initializing_sensor">센서 초기화 에러 : %1$s</string>
-    <string name="error_unknown_error">알 수 없는 에러</string>
+    <string name="error_initializing_sensor">센서 초기화 오류 : %1$s</string>
+    <string name="error_unknown_error">알 수 없는 오류</string>
     <string name="failed_to_test">테스트 실패</string>
     <string name="fpc_app_name">센서 테스트 도구</string>
     <string name="get_base_finger">이미지 추출</string>
@@ -661,7 +661,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="touch_auto">터치패널 자동진단중, 잠시만 기다려주세요....</string>
     <string name="tp_color">TP 색상:</string>
     <string name="tp_version">TP 버전:</string>
-    <string name="wait_test">테스트 대기중</string>
+    <string name="wait_test">테스트 대기 중</string>
     <string name="cit_hall_test_summary">녹색 영역에 자석이 가까워지면 문자가 가까워야하며 그렇지 않으면 문자가 멀리 떨어져야합니다.</string>
     <string name="cit_button_light_writein">점등된 불의 밝기</string>
     <string name="cit_left_button_light">좌측 빨간불</string>
@@ -687,13 +687,13 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="battery_info_health_overheat">과열</string>
     <string name="battery_info_health_over_voltage">과전압</string>
     <string name="battery_info_health_unknown">알 수 없음</string>
-    <string name="battery_info_health_unspecified_failure">알 수 없는 에러</string>
+    <string name="battery_info_health_unspecified_failure">알 수 없는 오류</string>
     <string name="battery_info_level_label">배터리 수준:</string>
     <string name="battery_info_power_label">전원 플러그:</string>
     <string name="battery_info_power_unknown">알 수 없음</string>
     <string name="battery_info_power_unplugged">플러그 뽑힘</string>
     <string name="battery_info_scale_label">배터리 용량:</string>
-    <string name="battery_info_status_charging">충전중</string>
+    <string name="battery_info_status_charging">충전 중</string>
     <string name="battery_info_status_full">완전 충전됨</string>
     <string name="battery_info_status_label">배터리 상태:</string>
     <string name="battery_info_status_not_charging">충전 중이 아님</string>
@@ -848,7 +848,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="serial_no">시리얼 번호</string>
     <string name="swversion">SW 버전</string>
     <string name="timeout">제한 시간</string>
-    <string name="battery_info_status_discharging">충전중이 아님</string>
+    <string name="battery_info_status_discharging">충전 중이 아님</string>
     <string name="toast_listen">듣기</string>
     <string name="hwversion_label">하드웨어 버전</string>
     <string name="cit_camera_fast_check_title">카메라 퀵 테스트</string>

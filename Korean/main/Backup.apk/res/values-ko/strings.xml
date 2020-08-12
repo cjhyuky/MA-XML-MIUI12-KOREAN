@@ -35,13 +35,13 @@
     <string name="delete_failed_backup_confirm">이 백업에 오류가 있습니다.</string>
     <string name="batch_delete_backup_confirm">선택한 백업을 삭제하시겠습니까?</string>
     <string name="start_restore">복원</string>
-    <string name="backup_file_error">백업에 실패하였습니다.</string>
+    <string name="backup_file_error">백업에 실패했습니다.</string>
     <string name="unit_byte">B</string>
     <string name="unit_piece">"    항목"</string>
     <string name="restore_finished">성공적으로 복원되었습니다.</string>
     <string name="restore_report">복구 세부사항</string>
     <string name="restore_progress">복원 중…</string>
-    <string name="restore_contacts_hit">복원 된 데이터를 보시려면 Mi 계정에 로그인 해야 합니다.</string>
+    <string name="restore_contacts_hit">복원된 데이터를 보시려면 Mi 계정에 로그인 해야 합니다.</string>
     <string name="restore_telephony_hit">복원 작업을 위해 폰 앱을 다시 시작합니다.</string>
     <string name="restore_launcher_layout_hit">런처 설정 복원</string>
     <string name="settings_summary">휴대전화 및 메시지 설정</string>
@@ -313,7 +313,7 @@
     <string name="trans_intro_desc_6">"앱 호환성, 인터넷 문제, Android 버전 호환성 문제로 Mi Mover가 정상적으로 작동되지 않을 수 있습니다." </string>
     <string name="trans_intro_desc_7">금융앱 같은 앱들은 보안상의 이유로 자동으로 옮겨지지 않을 수 있습니다. 이 경우, 앱을 삭제하고 새로운 폰에서 앱을 다시 다운받아주세요.</string>
     <string name="trans_intro_desc_8">"WeChat의 채팅 기록이나 앱 데이터는 완전히 옮겨지지 않을 수 있습니다. WeChat 로그아웃 후에 Mi Mover를 이용하세요."</string>
-    <string name="trans_intro_desc_account">보안상의 이유로 Mi Account, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
+    <string name="trans_intro_desc_account">보안상의 이유로 Mi 계정, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover가 보조 공간에 액세스할수 없습니다. 일부 정보들을 삭제한 후에 시도하세요."</string>
     <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR 코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
@@ -406,7 +406,7 @@
     <string name="hsa_send_again">재전송</string>
     <string name="hsa_send_again_countdown">재전송 (%ds)</string>
     <string name="hsa_send_failed">"보안코드를 전송할 수 없습니다. 잠시 후에 다시 시도하세요."</string>
-    <string name="hsa_sending">전송중…</string>
+    <string name="hsa_sending">전송 중…</string>
     <string name="hsa_tip_message">"1. 인증 코드를 받을 수 없다면 이미 Apple 기기에서 iCloud에 로그인했는지 확인하세요
 2. 인증 코드를 입력해도 도움이 되지 않는다면, 이중 인증을 해제하세요."</string>
     <string name="hsa_tip_message_shutdown_hsa">이중 보안설정을 해제하는 방법</string>
@@ -439,18 +439,18 @@
     <string name="notif_icloud_loaded_summary">기다리는 중…</string>
     <string name="notif_icloud_loading_summary">데이터 불러오는 중…</string>
     <string name="notif_icloud_logining">이전 기기에서 iCloud에 로그인 중…</string>
-    <string name="notif_icloud_need_wifi_summary">Wi-Fi 연결 대기중</string>
+    <string name="notif_icloud_need_wifi_summary">Wi-Fi 연결 대기 중</string>
     <string name="notif_icloud_saved_summary">성공적으로 데이터를 가져옴</string>
     <string name="notif_icloud_saving_summary">데이터 저장중…</string>
     <string name="notif_trans_auto_reconnecting_content">현재 작업을 취소할 수 있습니다.</string>
-    <string name="notif_trans_auto_reconnecting_title">연결에 문제가 발생하였습니다. 자동으로 다시 연결됩니다…</string>
-    <string name="notif_trans_wait_for_reconnecting">연결에 문제가 발생하였습니다. 다시 연결하세요.</string>
+    <string name="notif_trans_auto_reconnecting_title">연결에 문제가 발생했습니다. 자동으로 다시 연결됩니다…</string>
+    <string name="notif_trans_wait_for_reconnecting">연결에 문제가 발생했습니다. 다시 연결하세요.</string>
     <string name="password_null">"비밀번호를 입력하세요."</string>
     <string name="platform_chooser_item_android">Android 기기 (삼성, LG 등)에서 불러오기</string>
     <string name="platform_chooser_item_ios">Apple 기기 (iPhone, iPad 등)에서 불러오기</string>
     <string name="platform_chooser_title">이전 기기 선택</string>
     <string name="reconnect">다시 연결</string>
-    <string name="save_finish_with_failing_items">"연결에 문제가 발생하였습니다. 불러오지 못한 데이터를 백업하세요."</string>
+    <string name="save_finish_with_failing_items">"연결에 문제가 발생했습니다. 불러오지 못한 데이터를 백업하세요."</string>
     <string name="saving_data">"iCloud에서 데이터를 불러오는 중입니다. Wi-Fi 연결을 해제하지 마세요."</string>
     <string name="saving_data_no_time">데이터 저장중…</string>
     <string name="saving_data_space_low">저장 공간이 부족합니다. 최소 %s 의 저장공간을 마련하세요."</string>
@@ -465,14 +465,14 @@
     <string name="succ_description">성공적</string>
     <string name="trans_button_cancel">취소</string>
     <string name="trans_connect_failed_device_incompatible">"기기가 호환되지 않습니다. 전송을 취소하고 다시 시도하세요."</string>
-    <string name="trans_operate_reconnect_new_tips">"새 기기에서 \"연결에 문제가 발생하였습니다.\" 문구가 보일때까지 기다리세요. 문제 발생 문구가 보인다면 \"다시 연결하기\"를 눌러 QR 코드를 생성하세요."</string>
-    <string name="trans_operate_reconnect_old_tips">"이전 기기에서 \"연결에 문제가 발생하였습니다.\" 문구가 보일 때까지 기다리세요. 문제 발생 문구가 보인다면 \"다시 연결하기\"를 눌러 QR 코드를 생성하세요."</string>
+    <string name="trans_operate_reconnect_new_tips">"새 기기에서 \"연결에 문제가 발생했습니다.\" 문구가 보일때까지 기다리세요. 문제 발생 문구가 보인다면 \"다시 연결하기\"를 눌러 QR 코드를 생성하세요."</string>
+    <string name="trans_operate_reconnect_old_tips">"이전 기기에서 \"연결에 문제가 발생했습니다.\" 문구가 보일 때까지 기다리세요. 문제 발생 문구가 보인다면 \"다시 연결하기\"를 눌러 QR 코드를 생성하세요."</string>
     <string name="trans_Wi-Fi_tips_message">"Wi-Fi를 끄지 마세요. 데이터 전송 중에 문제가 발생할 수 있습니다."</string>
     <string name="trans_Wi-Fi_tips_title">"Wi-Fi를 끄지 마세요."</string>
     <string name="user_name">Apple ID 또는 이메일 주소</string>
     <string name="user_name_null">"ID를 입력하세요."</string>
     <string name="view_password_description">비밀번호 표시</string>
-    <string name="trans_wlan_tips_message">"데이터 전송중 Wi-Fi를 끄거나 변경하지 마세요. Mi Mover가 정상적으로 작동하지 않을 수 있습니다."</string>
+    <string name="trans_wlan_tips_message">"데이터 전송 중 Wi-Fi를 끄거나 변경하지 마세요. Mi Mover가 정상적으로 작동하지 않을 수 있습니다."</string>
     <string name="trans_wlan_tips_title">"Wi-Fi를 끄지 마세요."</string>
     <string name="mms_title">멀티미디어 메시지</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
@@ -504,7 +504,7 @@
     <string name="trans_detail_wechat_qq_list_title">WeChat과 QQ</string>
     <string name="trans_detail_wechat_qq_page_title">WeChat, QQ, 앱 데이터 선택</string>
     <string name="trans_pausing">일시 중지중…</string>
-    <string name="trans_select_data_too_large">"전송할 아이템을 너무 많이 선택했습니다. 전송 속도를 높이려면 중요한 항목 만 선택하세요."</string>
+    <string name="trans_select_data_too_large">"전송할 아이템을 너무 많이 선택했습니다. 전송 속도를 높이려면 중요한 항목만 선택하세요."</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite가 컴퓨터에 백업을 만들 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
     <string name="alert_message_restore_from_miasist"> Mi PC Suite가 휴대전화의 항목 복원 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
     <string name="alert_miasist_occupy_backup">Mi PC Suite를 사용하여 항목 백업중... 백업이 완료 될 때까지 기다렸다가 다시 시도하세요.</string>
@@ -568,7 +568,7 @@
     <string name="trans_install_guide_step1_title">스텝 1</string>
     <string name="trans_install_guide_step2_content">설치 완료 후, \"시작\" 버튼을 탭하세요.</string>
     <string name="trans_install_guide_step2_title">스텝 2</string>
-    <string name="trans_intro_desc_4_market">"Mi Mover는 데이터 송수신시 Wi-Fi를 이용합니다. 파일 전송중에 인터넷이 되지 않는 이유는 이것때문입니다. 하지만 모바일 데이터는 여전히 사용하실 수 있습니다."</string>
+    <string name="trans_intro_desc_4_market">"Mi Mover는 데이터 송수신 시 Wi-Fi를 이용합니다. 파일 전송 중에 인터넷이 되지 않는 이유는 이것때문입니다. 하지만 모바일 데이터는 여전히 사용하실 수 있습니다."</string>
     <string name="trans_intro_desc_9_method_1_dec">홈 화면 &gt; 툴 폴더안에 있는 &gt; 피드백으로 가세요.</string>
     <string name="trans_intro_desc_9_method_1_title">1. \"피드백\" 앱을 사용하여 사용자의 피드백을 공유하세요.</string>
     <string name="trans_intro_desc_9_method_2_dec">사용자의 피드백을 miui-mover@xiaomi.com로 보내주세요.</string>
@@ -592,7 +592,7 @@ Mi Mover가 마음에 드시나요?"</string>
 중요한 항목만 복원하시면 훨씬 빠르게 복원하실 수 있습니다."</string>
     <string name="usb_trans_native_no_space">"%s 항목만 귀하의 기기에서 사용가능합니다.
 여유공간을 늘리거나 파일을 나눠서 옮기세요."</string>
-    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장 공간이 필요합니다. 전송을 계속할 수 있는 저장 공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목 만 전송 해보세요."</string>
+    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장 공간이 필요합니다. 전송을 계속할 수 있는 저장 공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목만 전송 해보세요."</string>
     <string name="usb_trans_old_phone_low_space_title">저장 공간이 부족합니다.</string>
     <string name="usb_trans_select_data_no_space">"USB 저장소에서 %s 항목만 사용가능합니다.
 여유공간을 늘리거나 중요한 항목만 전송하세요."</string>
@@ -624,9 +624,9 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="soft_ap_create_failed">"핫스팟 생성 실패"</string>
     <string name="soft_ap_creating">핫스팟 생성중…</string>
     <string name="trans_intro_desc_10">새 장치에서 \"QR 코드로 연결\"을 선택하시고 QR 코드를 선택하셔서 연결을 생성하세요.</string>
-    <string name="trans_intro_desc_gms">"호환성 문제로 인해 전송에 실패할 확률이 높으므로 Mi Mover는 Google앱에서 생성된 데이터 전송을 지원하지 않습니다."</string>
+    <string name="trans_intro_desc_gms">"호환성 문제로 인해 전송에 실패할 확률이 높으므로 Mi Mover는 Google 앱에서 생성된 데이터 전송을 지원하지 않습니다."</string>
     <string name="trans_intro_question_10">"%d. 이전 기기에서 핫스팟을 찾을 수 없습니까?"</string>
-    <string name="trans_intro_title_gms">Google앱에서 생성된 데이터:</string>
+    <string name="trans_intro_title_gms">Google 앱에서 생성된 데이터:</string>
     <string name="wait_link">"이전 장치에서 Mi Mover를 열고 ￦"보내는 사람￦"을 누르고 연결하려는 핫스팟을 선택하세요. 연결이 설정되기 전에 페이지를 닫지 마세요."</string>
     <string name="waiting">잠시만 기다려주세요…</string>
     <string name="err_no_gms">호환되지 않는 앱 버전입니다.</string>
@@ -726,10 +726,10 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_pc_backup_restore_link">모바일 기기</string>
     <string name="new_pc_backup_summary1">항목을 선택하고 \"백업\"을 터치하세요.</string>
     <string name="new_pc_backup_summary2">USB 케이블을 통해 모바일 장치를 컴퓨터에 연결.</string>
-    <string name="new_pc_backup_summary4">안내 : MIUI-DCIM에서 사진 및 동영상을 복사 할 수 있습니다.</string>
+    <string name="new_pc_backup_summary4">안내 : MIUI-DCIM에서 사진 및 동영상을 복사할 수 있습니다.</string>
     <string name="new_pc_restore_content1">%d. USB 케이블을 통해 모바일 장치를 컴퓨터에 연결.</string>
     <string name="new_pc_restore_content2">%d. 컴퓨터에서 MIUI-Backup-AllBackup으로 백업 복사.</string>
-    <string name="new_pc_restore_content3">%1$d. 열기 \"%2$s\" 그리고 복원 할 항목을 선택하세요.</string>
+    <string name="new_pc_restore_content3">%1$d. 열기 \"%2$s\" 그리고 복원할 항목을 선택하세요.</string>
     <string name="new_pc_title">백업 복사</string>
     <string name="new_select_file">오디오, 동영상, 파일</string>
     <string name="new_select_message">SMS, 연락처, 통화 기록</string>
@@ -747,7 +747,7 @@ Mi Mover가 마음에 드시나요?"</string>
 %2$d. 백업을 저장하기 위해 USB 드라이브에 충분한 저장 공간이 있는지 확인하세요."</string>
     <string name="new_usb_disconnect_dialog_message">먼저 USB드라이브를 연결하세요.</string>
     <string name="new_usb_disconnect_dialog_title">"USB드라이브를 찾을 수 없습니다."</string>
-    <string name="new_usb_select_data_no_space">USB드라이브에서 저장 용량의 %s 만 사용할 수 있습니다. 저장 공간을 확보하세요.</string>
+    <string name="new_usb_select_data_no_space">USB드라이브에서 저장 용량의 %s만 사용할 수 있습니다. 저장 공간을 확보하세요.</string>
     <string name="new_usb_tab_backup">USB드라이브로 백업</string>
     <string name="new_usb_tab_restore">USB드라이브에서 복원</string>
     <string name="not_set">설정 안함</string>

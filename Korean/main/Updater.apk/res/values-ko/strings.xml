@@ -5,7 +5,7 @@
     <string name="battery_islow_desc">파일을 안전하게 설치하기 위해 충전기를 연결하고 나중에 다시 시도하세요!</string>
     <string name="btn_changelog">변경사항</string>
     <string name="btn_download">다운로드 (%1$s)</string>
-    <string name="btn_error">에러 발생, 다시 시도하시겠습니까?</string>
+    <string name="btn_error">오류 발생, 다시 시도하시겠습니까?</string>
     <string name="btn_install">설치</string>
     <string name="btn_no">취소</string>
     <string name="btn_ok">확인</string>

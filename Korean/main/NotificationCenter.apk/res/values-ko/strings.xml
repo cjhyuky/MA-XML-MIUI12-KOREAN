@@ -80,7 +80,7 @@
     <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="search_menu_title">검색</string>
     <string name="category_ad">광고 마케팅</string>
-    <string name="category_content">컨텐츠 정보</string>
+    <string name="category_content">콘텐츠 정보</string>
     <string name="app_name">알림</string>
     <string name="default_list_type">설치된 순서로 정렬</string>
     <string name="disable_float_notification">"플로팅 알림 허용되지 않음"</string>

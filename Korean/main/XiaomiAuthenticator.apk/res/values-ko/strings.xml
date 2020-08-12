@@ -19,7 +19,7 @@
     <string name="enter_key_hint">키를 입력하세요.</string>
     <string name="enter_key_too_short">키가 너무 짧습니다.</string>
     <string name="enter_key_illegal_char">키에 잘못된 문자가 있습니다.</string>
-    <string name="error_title">에러</string>
+    <string name="error_title">오류</string>
     <string name="error_uri">키가 인식되지 않습니다.</string>
     <string name="error_qr">QR 코드를 해석할 수 없습니다.</string>
     <string name="secret_saved">키가 저장되었습니다.</string>

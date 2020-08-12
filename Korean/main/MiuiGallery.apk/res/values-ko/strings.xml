@@ -57,7 +57,7 @@
     <string name="cloud_watch_on_tv">TV로 보기</string>
     <string name="confirm_delete_selected_albums">선택한 앨범을 삭제하시겠습니까?</string>
     <string name="confirm_hide_selected_albums">선택한 앨범을 숨기시겠습니까?</string>
-    <string name="delete_album_msg_format_cloud">Xiaomi 클라우드 및 모든 동기화 된 장치에서 %1$s, %2$s을(를) 삭제하시겠습니까?</string>
+    <string name="delete_album_msg_format_cloud">Xiaomi 클라우드 및 모든 동기화된 장치에서 %1$s, %2$s을(를) 삭제하시겠습니까?</string>
     <string name="delete_album_msg_format_local">%1$s, %2$s를삭제하시겠습니까?</string>
     <string name="empty_album_other_list_title">여기에 앨범이 없습니다.</string>
     <string name="empty_album_rubbish_list_title">여기에 앨범이 없습니다.</string>
@@ -824,9 +824,9 @@
     <string name="error_external_sdcard_write_tip">SD 카드에 저장할 수 없습니다.</string>
     <string name="error_forbidden">Mi 계정 문제로 인해 동기화가 중단되었습니다.</string>
     <string name="error_install_connect_fail">플러그인을 불러울 수 없습니다. 인터넷 연결상태를 확인하세요.</string>
-    <string name="error_install_sdcard_not_available">SD 카드 에러로 인해 플러그인을 불러올 수 없습니다.</string>
+    <string name="error_install_sdcard_not_available">SD 카드 오류로 인해 플러그인을 불러올 수 없습니다.</string>
     <string name="error_install_storage_not_enough">기기 저장공간을 확보한 후에 플러그인을 설치하세요.</string>
-    <string name="error_internal_sdcard_write_tip">에러가 발생하였습니다. 기기를 다시 시작한 뒤 다시 시도하세요.</string>
+    <string name="error_internal_sdcard_write_tip">오류가 발생했습니다. 기기를 다시 시작한 뒤 다시 시도하세요.</string>
     <string name="error_invalid_link">잘못된 URL</string>
     <string name="error_link_has_expired">URL 만료됨</string>
     <string name="error_network_restrict_action">더 보기</string>
@@ -1042,7 +1042,7 @@
     <string name="input_nickname_toast">아기 이름 입력</string>
     <string name="input_or_select_a_name">이름을 입력하거나 선택하세요.</string>
     <string name="input_relation_name">그룹 이름 입력</string>
-    <string name="install_fail">에러로 인해 플러그인을 불러올 수 없습니다.</string>
+    <string name="install_fail">오류로 인해 플러그인을 불러올 수 없습니다.</string>
     <string name="invalid_invition_url">잘못된 초대 URL</string>
     <string name="invalid_recipient_message">입력한 수신자 이름이 잘못되었습니다.</string>
     <string name="invite_sharer_confirm_button_text">초대</string>
@@ -1336,7 +1336,7 @@
     <string name="photo_editor_navigator_module_download_failed">%s 모듈을 다운로드할 수 없습니다.</string>
     <string name="photo_editor_navigator_module_download_now">다운로드</string>
     <string name="photo_editor_navigator_module_download_success">성공적으로 다운로드됨</string>
-    <string name="photo_editor_navigator_module_download_wait_wlan">Wi-Fi 대기중</string>
+    <string name="photo_editor_navigator_module_download_wait_wlan">Wi-Fi 대기 중</string>
     <string name="photo_editor_navigator_module_downloading">%s 다운로드 중…</string>
     <string name="photo_editor_navigator_need_download">%s 파일을 다운받기 위해서는 인터넷에 연결하세요.</string>
     <string name="photo_editor_remove_watermark">워터 마크 제거</string>
@@ -1394,7 +1394,7 @@
     <string name="picker_image_will_download">선택된 사진 %d개가 기기에 존재하지 않습니다. 다운로드될 것입니다.</string>
     <string name="picker_no_network_message">네트워크에 연결하여 다운로드하세요.</string>
     <string name="picker_origin_need_download">선택한 사진 %1$d개(%2$dMB) 가 기기에 존재하지 않습니다. 모바일 데이터로 다운로드하시겠습니까?</string>
-    <string name="picker_origin_request_progress_fail">네트워크 오류로 인해 원본 이미지을 다운로드하지 못하였습니다.</string>
+    <string name="picker_origin_request_progress_fail">네트워크 오류로 인해 원본 이미지을 다운로드하지 못했습니다.</string>
     <string name="picker_origin_request_progress_message">원본 파일 준비 중... (%1$d/%2$d)…</string>
     <string name="picker_title_format">%1$d개에서 %2$d개 사진을 선택하세요.</string>
     <string name="picker_title_selection_format">선택된 사진: %d</string>
@@ -1503,7 +1503,7 @@
     <string name="search_connection_error_and_set">네트워크 설정을 확인하려면 탭</string>
     <string name="search_empty_title">갤러리의 특정 인물, 장소 및 개체로 사진 찾기</string>
     <string name="search_error">오류가 발생했습니다.</string>
-    <string name="search_error_and_retry">오류가 발생하였습니다. 다시 시도하려면 탭하세요.</string>
+    <string name="search_error_and_retry">오류가 발생했습니다. 다시 시도하려면 탭하세요.</string>
     <string name="search_failed_mark_feedback_false_negative">추가할 수 없음</string>
     <string name="search_failed_mark_feedback_false_positive">삭제할 수 없음</string>
     <string name="search_feedback_contribute">AI 알고리즘 데이터베이스에 사진 전송</string>
@@ -1517,7 +1517,7 @@
     <string name="search_feedback_task_progress">미션 %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">리워드를 받지 못했습니다. 나중에 다시 시도하세요.​</string>
     <string name="search_feedback_task_requesting_award">리워드 받는 중…</string>
-    <string name="search_feedback_user_notice">%s를 모두 읽고 동의하였습니다.</string>
+    <string name="search_feedback_user_notice">%s를 모두 읽고 동의했습니다.</string>
     <string name="search_feedback_user_policy">MIUI 갤러리 AI 알고리즘 데이터베이스 프로그램 약관</string>
     <string name="search_hint">이미지 검색</string>
     <string name="search_image_result_title">검색 결과</string>
@@ -1627,7 +1627,7 @@
     <string name="special_type_night_beauty">AI 저조도 셀카</string>
     <string name="special_type_night_mode">AI 야간 모드</string>
     <string name="special_type_portrait">AI 라이트 페인팅 초상화</string>
-    <string name="special_type_wide_angle">AI 울트라 와이드 앵글</string>
+    <string name="special_type_wide_angle">AI 초광각</string>
     <string name="start_debug">갤러리 디버그</string>
     <string name="start_to_use_face_albumset">사람들로 정렬</string>
     <string name="sticker_ad">광고</string>
@@ -1806,7 +1806,7 @@
     <string name="video_editor_intelligent_special_effect">효과</string>
     <string name="video_editor_invalid_trim_arguments">1초 보다는 길어야 합니다.</string>
     <string name="video_editor_loading_plugin">불러오는 중…</string>
-    <string name="video_editor_loading_warning_msg">이 동영상은 인코딩에 오류가 있습니다. 최종 동영상 파일에는 영향이 없지만 편집시에 몇몇 기능이 사용 불가 하거나 미리보기가 불가할 수 있습니다.</string>
+    <string name="video_editor_loading_warning_msg">이 동영상은 인코딩에 오류가 있습니다. 최종 동영상 파일에는 영향이 없지만 편집시에 일부 기능이 사용 불가 하거나 미리보기가 불가할 수 있습니다.</string>
     <string name="video_editor_loading_warning_title">인코딩 오류</string>
     <string name="video_editor_more">고급</string>
     <string name="video_editor_not_support_tips">지원하지 않는 동영상 파일입니다.</string>
@@ -1897,7 +1897,7 @@
     <string name="enable_midrop">켜기</string>
     <string name="file_cannot_print">"이 항목을 인쇄할 수 없습니다."</string>
     <string name="file_cannot_screen_throw">"이 아이템을 사용할 수 없습니다."</string>
-    <string name="file_sending">파일 전송중…</string>
+    <string name="file_sending">파일 전송 중…</string>
     <string name="functions_are_being_developed">이 기능은 곧 제공될 예정입니다. 지켜봐주세요!</string>
     <string name="hr_preview_108m">108MP 미리보기로 전환</string>
     <string name="mi_drop">Mi 공유</string>
@@ -1943,7 +1943,7 @@
     <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
     <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H시 정각"</string>
-    <string name="can_not_transfer_when_screening">"전송중에는 캐스트할 수 없습니다."</string>
+    <string name="can_not_transfer_when_screening">"전송 중에는 캐스트할 수 없습니다."</string>
     <string name="dump_db_info">덤프 데이터베이스 정보</string>
     <string name="filter_portrait_hint">컬러 포커스</string>
     <string name="photo_portrait_color_download_fail">"플러그인 다운로드 실패. 네트워크 연결 후 다시 시도하세요."</string>
@@ -1955,7 +1955,7 @@
     <string name="send_heif_title">전송하기 전에 HEIF를 JPEG로 변환</string>
     <string name="unsupported_media_downloading_tip_common">"이 Android 버전에서는 이 형식으로 원본 이미지를 볼 수 없습니다. 그래도 다운로드하시겠습니까?"</string>
     <string name="unsupported_media_downloading_tip_format">"이 Android 버전에서는 원본 %s 이미지를 볼 수 없습니다. 다운로드하시겠습니까?"</string>
-    <string name="unsupported_media_scanned_tip">"%1$s 이미지가 감지되었습니다.이 버전의 Android에서는 %2$s 이미지보기가 지원되지 않습니다."</string>
+    <string name="unsupported_media_scanned_tip">"%1$s 이미지가 감지되었습니다. 이 버전의 Android에서는 %2$s 이미지보기가 지원되지 않습니다."</string>
     <string name="unsupported_media_view_tip">"이 버전의 Android에서는 원본 %s 이미지를 볼 수 없습니다."</string>
     <string name="risk_control_deleted_message">누군가 %2$s의 %1$s에서 %3$s항목을 사용하여 클라우드에서 갤러리 항목을 삭제했습니다. 사용자인가요?</string>
     <string name="risk_control_deleted_title">보안 경고</string>

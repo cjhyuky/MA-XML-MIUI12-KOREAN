@@ -182,7 +182,7 @@
         <item quantity="other">%d개의 배터리 문제</item>
     </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
-        <item quantity="other">%d개의 배터리 문제를 발견하였습니다. 문제를 해결하세요.</item>
+        <item quantity="other">%d개의 배터리 문제를 발견했습니다. 문제를 해결하세요.</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">%1$d명의 사람이 다운로드함</item>

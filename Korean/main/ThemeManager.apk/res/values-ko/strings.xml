@@ -193,15 +193,15 @@
     <string name="resource_exchange_universal_finish">이 코드를 테마 스토어에서 테마를 다운로드하는 데 사용하세요.</string>
     <string name="resource_exchange_empty_format">기프트 코드 입력</string>
     <string name="resource_exchange_wrong_format_by_local">입력한 코드의 형식이 올바르지 않습니다.</string>
-    <string name="resource_exchange_wrong_format_by_server">확인되지 않은 코드입니다. 올바르게 입력하였는지 확인하세요.</string>
+    <string name="resource_exchange_wrong_format_by_server">확인되지 않은 코드입니다. 올바르게 입력했는지 확인하세요.</string>
     <string name="resource_exchange_has_used">입력한 코드는 이미 사용되었습니다.</string>
     <string name="resource_exchange_has_expired">입력한 코드는 만료되었습니다.</string>
     <string name="resource_exchange_unavailable">입력한 코드와 연관된 테마는 이용할 수 없습니다.</string>
-    <string name="resource_exchange_has_bought">이미 이 테마를 구매하였습니다.</string>
+    <string name="resource_exchange_has_bought">이미 이 테마를 구매했습니다.</string>
     <string name="resource_exchange_share_code_dlg_title">전송 중</string>
     <string name="resource_exchange_share_code_dlg_content">기프트 코드 \"%1$s\": %2$s. 다른 MIUI 사용자에게 전송 시, 사용하여 이 테마를 다운로드할 수 있습니다.</string>
     <string name="resource_exchange_share_code_content">MIUI 테마 스토어에서 테마 \"%1$s\" 기프트 코드(%2$s)를 받았습니다. %3$s 링크를 탭하여 지금 사용하세요.</string>
-    <string name="resource_exchange_purchase_unkown_error">이런! 알 수 없는 오류가 발생하였습니다. 결제 상태를 보려면 http://market.xiaomi.com에 로그인하세요.</string>
+    <string name="resource_exchange_purchase_unkown_error">이런! 알 수 없는 오류가 발생했습니다. 결제 상태를 보려면 http://market.xiaomi.com에 로그인하세요.</string>
     <string name="resource_comment_all_comments">전체</string>
     <string name="resource_comment_good_comments">긍정적</string>
     <string name="resource_comment_bad_comments">부정적</string>
@@ -441,7 +441,7 @@
     <string name="reload">다시 시도</string>
     <string name="browser_local_resource">로컬 리소스</string>
     <string name="incompatible_dialog_title">호환성 문제</string>
-    <string name="incompatible_dialog_message">"이 테마는 아직 MIUI 11과 완전히 호환되지 않습니다. 몇몇 페이지는 제대로 작동하지 않을 수 있습니다."</string>
+    <string name="incompatible_dialog_message">"이 테마는 아직 MIUI 11과 완전히 호환되지 않습니다. 일부 페이지는 제대로 작동하지 않을 수 있습니다."</string>
     <string name="incompatible_dialog_ok">알겠습니다.</string>
     <string name="multi_sim_ringtone_settings_dialog_title">호환성 문제</string>
     <string name="multi_sim_ringtone_settings_dialog_message">벨소리가 두 SIM 카드에 적용되었습니다.</string>
@@ -459,8 +459,8 @@
     <string name="lockscreen_apply_failured">잠금 화면 배경화면을 적용할 수 없습니다.</string>
     <string name="home_apply_success">홈 화면 배경화면 적용됨</string>
     <string name="home_apply_failured">홈 화면 배경화면을 적용할 수 없습니다.</string>
-    <string name="lockscreen_apply_success_but_home_apply_failured">잠금 화면 배경화면을 적용하였으나 홈 화면 배경화면을 적용할 수 없습니다.</string>
-    <string name="lockscreen_apply_failured_but_home_apply_success">홈 화면 배경화면을 적용하였으나 잠금 화면 배경화면을 적용할 수 없습니다.</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">잠금 화면 배경화면을 적용했으나 홈 화면 배경화면을 적용할 수 없습니다.</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">홈 화면 배경화면을 적용했으나 잠금 화면 배경화면을 적용할 수 없습니다.</string>
     <string name="the_picture_is_too_small">이미지가 너무 작습니다.</string>
     <string name="the_picture_is_not_support">이미지가 지원되지 않습니다.</string>
     <string name="is_setting_wallpaper_message">배경화면 설정 중…</string>
@@ -603,7 +603,7 @@
     <string name="update_fail">"정보 불러오기 실패. 다시 시도하세요."</string>
     <string name="update_immediately">지금 업데이트</string>
     <string name="update_latest">앱이 최신 버전입니다.</string>
-    <string name="update_no_net">네트워크 에러 발생. 다시 시도하세요.</string>
+    <string name="update_no_net">네트워크 오류 발생. 다시 시도하세요.</string>
     <string name="update_title">새로운 업데이트가 있습니다.</string>
     <string name="using_theme_has_update_tips">이 테마의 업데이트가 있습니다.</string>
     <string name="using_theme_next_automatic_update">자동 업데이트</string>
@@ -794,7 +794,7 @@
     <string name="transparent_wallpaper_filter_pref_title">투명한 배경화면에서 작동해야하는 앱을 선택하세요.</string>
     <string name="transparent_wallpaper_filter_setting">개별 앱</string>
     <string name="transparent_wallpaper_filter_set_successfully">설정 완료</string>
-    <string name="transparent_wallpaper_pref_summary">배경 불투명도가 감소 된 배경화면</string>
+    <string name="transparent_wallpaper_pref_summary">배경 불투명도가 감소된 배경화면</string>
     <string name="wallpaper_loop_add_success">성공적으로 추가되었습니다.</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">홈 화면 슬라이드 쇼에 추가</string>
     <string name="wallpaper_loop_add_to_loop_lock_wallpaper">잠금 화면 슬라이드 쇼 추가</string>
@@ -895,7 +895,7 @@
     <string name="miuishare_sys_title_share">추가 옵션</string>
     <string name="apply_not_support_maml_aod">"항상 디스플레이를이 기기의 테마와 결합 할 수 없습니다."</string>
     <string name="apply_success_not_enable_aod">설정시 항상 켜기 표시</string>
-    <string name="apply_success_not_support_aod">"항상 디스플레이를이 기기의 테마와 결합 할 수 없습니다.이 테마의 나머지 구성 요소가 성공적으로 적용되었습니다."</string>
+    <string name="apply_success_not_support_aod">"항상 디스플레이를이 기기의 테마와 결합 할 수 없습니다. 이 테마의 나머지 구성 요소가 성공적으로 적용되었습니다."</string>
     <string name="copy">복사</string>
     <string name="de_component_aod_author">제작자</string>
     <string name="de_mix_mode_aod">항상 켜짐 표시</string>

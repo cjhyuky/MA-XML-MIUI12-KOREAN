@@ -13,7 +13,7 @@
     <string name="ingest_label">카메라 가져오기 도구</string>
     <string name="ingest_import">가져오기</string>
     <string name="ingest_import_complete">가져오기 완료</string>
-    <string name="ingest_scanning">컨텐츠 검색 중...</string>
+    <string name="ingest_scanning">콘텐츠 검색 중...</string>
     <string name="ingest_sorting">정렬하는 중...</string>
     <string name="ingest_scanning_done">검색 완료</string>
     <string name="ingest_importing">가져오는 중...</string>
@@ -571,7 +571,7 @@
     <string name="photos_allphotos_ui_actionconfirmation_interstitial_message">휴지통으로 이동된 항목은 다음 위치에서 삭제됨</string>
     <string name="photos_allphotos_ui_actionconfirmation_interstitial_google_photos">Google 포토 라이브러리</string>
     <string name="photos_allphotos_ui_actionconfirmation_interstitial_all_synced_device">동기화된 모든 기기</string>
-    <string name="photos_allphotos_ui_actionconfirmation_interstitial_album">앨범 등의 컨텐츠</string>
+    <string name="photos_allphotos_ui_actionconfirmation_interstitial_album">앨범 등의 콘텐츠</string>
     <string name="delete_interstitial_positive_text">휴지통으로 이동</string>
     <string name="delete_interstitial_negative_text">취소</string>
     <string name="photos_allphotos_ui_actionconfirmation_confirm_local_delete">삭제</string>
@@ -635,7 +635,7 @@
     <string name="photos_reportabuse_dialog_title">악용사례 신고</string>
     <string name="photos_reportabuse_dialog_report_button">신고</string>
     <string name="photos_reportabuse_dialog_cancel_button">취소</string>
-    <string name="photos_reportabuse_dialog_spam">원치 않는 상업성 컨텐츠 또는 스팸</string>
+    <string name="photos_reportabuse_dialog_spam">원치 않는 상업성 콘텐츠 또는 스팸</string>
     <string name="photos_reportabuse_dialog_porn">포르노 또는 음란물</string>
     <string name="photos_reportabuse_dialog_hate">증오심 표현 또는 노골적인 폭력</string>
     <string name="photos_reportabuse_dialog_harassment">권리침해 또는 괴롭힘</string>
@@ -996,7 +996,7 @@
     <string name="mm_nothing_to_play_message_body">동영상 또는 사진을 추가해야 합니다.</string>
     <string name="mm_invalid_cloud_storyboard_title">오류</string>
     <string name="mm_invalid_cloud_storyboard_message">문제가 발생했습니다. 이 영화는 편집할 수 없습니다.</string>
-    <string name="mm_deleted_media_found_title">누락된 컨텐츠</string>
+    <string name="mm_deleted_media_found_title">누락된 콘텐츠</string>
     <string name="mm_deleted_media_found_message">이 영화에는 포토 라이브러리에서 삭제된 항목이 포함되어 있습니다. 업데이트하면 영화에서 이러한 항목이 삭제되고 영화를 수정할 수 있게 됩니다.</string>
     <string name="mm_deleted_media_found_not_proceed_button">취소</string>
     <string name="mm_deleted_media_found_proceed_button">업데이트</string>

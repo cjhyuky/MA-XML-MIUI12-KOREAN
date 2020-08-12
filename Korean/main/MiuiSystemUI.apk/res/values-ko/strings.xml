@@ -149,10 +149,10 @@
     <string name="stream_voice_assist">음성 도우미</string>
     <string name="wifi_security_wapi_psk_hexadecimal">16진수</string>
     <string name="wireless_charging_connected_message">기기가 무선으로 충전 중일 때는 역 무선 충전을 사용할 수 없습니다.</string>
-    <string name="wireless_charging_low_battery_level_message">배터리가 30 % 미만인 경우 역 무선 충전을 사용할 수 없습니다.</string>
+    <string name="wireless_charging_low_battery_level_message">배터리가 30% 미만인 경우 역 무선 충전을 사용할 수 없습니다.</string>
     <string name="wireless_charging_ok">확인</string>
     <string name="wireless_charging_saver_cancel">끄기</string>
-    <string name="wireless_charging_saver_message">배터리 절약 기능이 시작되었습니다. 무선 충전을 계속 사용할 수 있습니까?</string>
+    <string name="wireless_charging_saver_message">절전 모드가 활성화되었습니다. 역 무선 충전을 계속 사용시겠습니까?</string>
     <string name="wireless_charging_saver_ok">계속</string>
     <string name="wireless_charging_tips_disable">다시 표시하지 않음</string>
     <string name="wireless_charging_tips_message">이 장치 뒷면에서 Qi 무선 충전 (전화, 액세서리 등)을 지원하는 장치를 배치하세요.</string>
@@ -188,14 +188,14 @@
     <string name="accessibility_action_divider_top_70">상단 70%</string>
     <string name="accessibility_action_divider_top_full">상단 풀스크린</string>
     <string name="accessibility_airplane_mode">비행기 탑승 모드</string>
-    <string name="accessibility_ambient_display_charging">충전중</string>
+    <string name="accessibility_ambient_display_charging">충전 중</string>
     <string name="accessibility_aspect_button">전체 화면 모드</string>
     <string name="accessibility_assistant">터치 도우미</string>
     <string name="accessibility_back">뒤로</string>
     <string name="accessibility_battery_details">배터리 정보 열기</string>
     <string name="accessibility_battery_full">완전 충전됨</string>
     <string name="accessibility_battery_level">배터리 %d%%</string>
-    <string name="accessibility_battery_level_charging">배터리 충전중 (%d 충전완료)</string>
+    <string name="accessibility_battery_level_charging">배터리 충전 중 (%d 충전완료)</string>
     <string name="accessibility_battery_one_bar">배터리 20% 남음</string>
     <string name="accessibility_battery_three_bars">배터리 60% 남음</string>
     <string name="accessibility_battery_two_bars">배터리 40% 남음</string>
@@ -419,7 +419,7 @@
     <string name="activity_launch_on_secondary_display_failed_text">앱이 세컨드 디스플레이에서 작동하지 않습니다.</string>
     <string name="activity_not_found">이 기기에 앱이 설치되어 있지 않습니다.</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림없이 장치에 응용프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림 없이 장치에 응용프로그램을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="add_tile">타일 추가</string>
     <string name="adjust_button_width">버튼 넓이 조절</string>
@@ -458,8 +458,8 @@
     <string name="battery_detail_charging_summary">충전 중에는 배터리 절약 모드를 실행할 수 없습니다.</string>
     <string name="battery_detail_switch_summary">성능 저하와 백그라운드 데이터 제어를 통한 배터리 절약</string>
     <string name="battery_detail_switch_title">배터리 절약 모드</string>
-    <string name="battery_info_status_charging">충전중</string>
-    <string name="battery_info_status_charging_lower">충전중</string>
+    <string name="battery_info_status_charging">충전 중</string>
+    <string name="battery_info_status_charging_lower">충전 중</string>
     <string name="battery_info_status_discharging">충전되지 않음</string>
     <string name="battery_info_status_full">완전 충전됨</string>
     <string name="battery_info_status_not_charging">충전되지 않음</string>
@@ -468,7 +468,7 @@
     <string name="battery_low_button_open_power_save">활성화</string>
     <string name="battery_low_percent_format">%d%% 남음</string>
     <string name="battery_low_percent_format_save_mode_closed">배터리가 %d%% 미만입니다. 장치를 충전하세요.</string>
-    <string name="battery_low_percent_format_save_mode_open">배터리가 %d%% 미만입니다. 배터리 세이버를 활성화하세요.</string>
+    <string name="battery_low_percent_format_save_mode_open">배터리가 %d%% 미만입니다. 절전 모드를 활성화하세요.</string>
     <string name="battery_low_percent_format_saver_started">%s 이 남았습니다. 배터리 절약 모드가 활성화됩니다.</string>
     <string name="battery_low_title">충전기 연결</string>
     <string name="battery_low_title_power_save">절전 모드</string>
@@ -759,7 +759,7 @@
     <string name="expand_button_title">고급 설정</string>
     <string name="expanded_confirm_disable_notification">숨기기</string>
     <string name="expanded_header_battery_charged">충전 완료</string>
-    <string name="expanded_header_battery_charging">충전중</string>
+    <string name="expanded_header_battery_charging">충전 중</string>
     <string name="expanded_header_battery_charging_with_time">완전 충전까지 %s 남음</string>
     <string name="expanded_header_battery_not_charging">충전 중이 아님</string>
     <string name="expanded_notification_manager">알림 관리</string>
@@ -841,7 +841,7 @@
     <string name="face_unlock_success_show_message_dialog_negative_btn">괜찮습니다.</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">허용</string>
     <string name="face_unlock_success_show_message_dialog_title">잠금 화면 알림</string>
-    <string name="face_unlock_success_show_message_msg">기기가 잠겨있을 때 알림 출처만 표시하고 얼굴 데이터가 확인 된 후 알림 세부 정보 표시</string>
+    <string name="face_unlock_success_show_message_msg">기기가 잠겨있을 때 알림 출처만 표시하고 얼굴 데이터가 확인된 후 알림 세부 정보 표시</string>
     <string name="face_unlock_success_show_message_title">얼굴 데이터를 확인한 후 알림 세부 정보 표시</string>
     <string name="face_unlock_success_show_message_toast">잠금 화면에 알림이 표시됩니다.</string>
     <string name="face_unlock_success_stay_screen_msg">얼굴이 인식된 후에도 잠금 화면을 유지합니다. 위로 와이프하여 홈 화면을 여세요.</string>
@@ -964,8 +964,8 @@
     <string name="invalid_confirm_pin_hint">PIN이 일치하지 않습니다.</string>
     <string name="invalid_sim_pin_hint">PIN은 4-8자리의 숫자를 포함시켜야 합니다.</string>
     <string name="invalid_sim_puk_hint">PUK는 최소 8자리 이상의 숫자여야 합니다.</string>
-    <string name="keep_screen_on">충전중 화면켜기</string>
-    <string name="keep_screen_on_summary">충전중일 때 화면을 닫지 않습니다.</string>
+    <string name="keep_screen_on">충전 중 화면켜기</string>
+    <string name="keep_screen_on_summary">충전 중일 때 화면을 닫지 않습니다.</string>
     <string name="keyboard_key_back">뒤로 가기</string>
     <string name="keyboard_key_backspace">백스페이스</string>
     <string name="keyboard_key_button_template">%1$s 버튼</string>
@@ -1029,12 +1029,12 @@
     <string name="keyguard_charging_info_tip_text4">충전 시 작업을 삼가하세요. 기기가 과열될 수 있습니다.</string>
     <string name="keyguard_charging_info_tip_text5">배터리가 과열되면 충전 속도가 평소보다 느려집니다.</string>
     <string name="keyguard_charging_info_tip_text6">화면을 꺼두시거나 기기를 시원한 곳에 잠시 두세요.</string>
-    <string name="keyguard_charging_normal_and_level_tip">충전중 %d%%</string>
-    <string name="keyguard_charging_quick_and_level_tip">빠른 충전중 %d%%</string>
-    <string name="keyguard_charging_super_quick_and_level_tip">매우 빠른 충전중 %d%%</string>
-    <string name="keyguard_indication_charging_time">충전중 (완전 충전까지 %s)</string>
-    <string name="keyguard_indication_charging_time_fast">고속 충전중 (완전 충전까지 %s)</string>
-    <string name="keyguard_indication_charging_time_slowly">저속 충전중 (완전 충전까지 %s)</string>
+    <string name="keyguard_charging_normal_and_level_tip">충전 중 %d%%</string>
+    <string name="keyguard_charging_quick_and_level_tip">빠른 충전 중 %d%%</string>
+    <string name="keyguard_charging_super_quick_and_level_tip">매우 빠른 충전 중 %d%%</string>
+    <string name="keyguard_indication_charging_time">충전 중 (완전 충전까지 %s)</string>
+    <string name="keyguard_indication_charging_time_fast">고속 충전 중 (완전 충전까지 %s)</string>
+    <string name="keyguard_indication_charging_time_slowly">저속 충전 중 (완전 충전까지 %s)</string>
     <string name="keyguard_indication_trust_disabled">직접 전원 버튼을 눌러 잠그기 전까지 기기가 깨어 있습니다.</string>
     <string name="keyguard_instructions_when_pattern_disabled">메뉴를 눌러 잠금해제하기</string>
     <string name="keyguard_left_calculator">계산기</string>
@@ -1064,8 +1064,8 @@
     <string name="keyguard_permanent_disabled_sim_instructions">SIM 카드가 영구적으로 비활성화 되어있습니다. 통신사에 다른 SIM 카드를 요청하세요.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">사용할 수 없는 SIM 카드</string>
     <string name="keyguard_plugged_in">충전 중</string>
-    <string name="keyguard_plugged_in_charging_fast">고속 충전중</string>
-    <string name="keyguard_plugged_in_charging_slowly">저속 충전중</string>
+    <string name="keyguard_plugged_in_charging_fast">고속 충전 중</string>
+    <string name="keyguard_plugged_in_charging_slowly">저속 충전 중</string>
     <string name="keyguard_quick_charging_info_click_to_detail">빠른 충전 중, 탭하여 세부사항 확인</string>
     <string name="keyguard_sim_locked_message">SIM 카드가 잠겨 있습니다.</string>
     <string name="keyguard_sim_puk_locked_message">SIM 카드가 PUK 잠김 상태입니다.</string>
@@ -1198,11 +1198,11 @@
     <string name="miui_ringer_total_description">알람을 제외한 모든 알림을 진동없이 무음처리합니다.</string>
     <string name="miui_screen_rotation_freeze_message">자동 회전 꺼짐</string>
     <string name="miui_toast_zen_dnd_to_off">방해 금지 모드가 해제되었습니다. 소리와 진동이 정상적으로 복원되었습니다.</string>
-    <string name="miui_toast_zen_standard_to_off">"무음모드가 해제되었습니다."</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">"무음모드가 해제되었습니다."</string>
+    <string name="miui_toast_zen_standard_to_off">"무음 모드가 해제되었습니다."</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">"무음 모드가 해제되었습니다."</string>
     <string name="miui_toast_zen_to_dnd">방해 금지 모드로 전환되었습니다. 소리와 진동이 꺼집니다.</string>
-    <string name="miui_toast_zen_to_standard">"무음모드로 전환되었습니다. 벨소리 및 알림음이 음소거됩니다."</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">"무음모드로 전환되었습니다. 벨소리, 알림음 및 미디어 사운드가 음소거됩니다."</string>
+    <string name="miui_toast_zen_to_standard">"무음 모드로 전환되었습니다. 벨소리 및 알림음이 음소거됩니다."</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">"무음 모드로 전환되었습니다. 벨소리, 알림음 및 미디어 사운드가 음소거됩니다."</string>
     <string name="mland">마시멜로우 랜드</string>
     <string name="mobile_data">모바일 데이터</string>
     <string name="mobile_data_always_on">모바일 데이터 항상 켜기</string>
@@ -1225,7 +1225,7 @@
     <string name="monitoring_description_managed_profile_ca_certificate">조직에서 업무용 프로필에 인증서를 설치했습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_managed_profile_named_vpn">업무용 프로필이 이메일, 앱, 웹사이트 등 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
     <string name="monitoring_description_management">이 기기는 귀하의 조직에서 관리합니다. 관리자는 설정, 회사 액세스, 앱, 기기와 연결된 데이터 및 기기의 위치 정보를 모니터링하고 관리할 수 있습니다. 자세한 정보는 관리자에게 문의하세요.</string>
-    <string name="monitoring_description_management_ca_certificate">귀하의 조직에서 기기에 인증서를 설치하였습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
+    <string name="monitoring_description_management_ca_certificate">귀하의 조직에서 기기에 인증서를 설치했습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_management_network_logging">관리자가 기기의 트래픽을 모니터링하는 네트워크 로깅을 사용하도록 설정했습니다.</string>
     <string name="monitoring_description_named_management">귀하의 장치는 %1$s에 의해 관리됩니다. 귀하의 관리자는 설정, 회사 액세스, 앱, 장치와 관련된 데이터 및 장치의 위치 정보를 모니터링하고 관리할 수 있습니다. 자세한 정보는 관리자에게 문의하세요.</string>
     <string name="monitoring_description_named_vpn">이 기기는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s에 연결되어 있습니다.</string>
@@ -1278,7 +1278,7 @@
     <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_default_channel">알림</string>
     <string name="notification_header_title">알림</string>
-    <string name="notification_hidden_by_policy_text">관련 정책에 의거하여 컨텐츠 숨김처리됨</string>
+    <string name="notification_hidden_by_policy_text">관련 정책에 의거하여 콘텐츠 숨김처리됨</string>
     <string name="notification_hidden_text">새로운 메시지가 있습니다.</string>
     <string name="notification_info_channel_disabled_text">%1$s 앱의 %2$s 알림을 받지 않습니다.</string>
     <string name="notification_info_channel_enabled_text">%1$s 앱의 %2$s 알림을 받습니다.</string>
@@ -1366,7 +1366,7 @@
     <string name="power_discharge_by_only_enhanced">사용패턴상 약 %1$s 사용가능</string>
     <string name="power_discharging_duration">%1$s - 대략. %2$s 남음</string>
     <string name="power_discharging_duration_enhanced">%2$s 사용으로 약 %1$s 동안 사용가능</string>
-    <string name="power_notification_controls_description">알림 컨트롤을 사용하면 앱의 알림에 대해 0에서 5까지 중요도 수준을 설정할 수 있습니다. \n\n\"&lt;b&gt;레벨 5&lt;/b&gt;\" \n- 알림 목록 중 최상위에 표시 \n- 전체 화면 알림 허용 \n- 항상 표시 \n\n\"&lt;b&gt;레벨 4&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 항상 표시 \n\n\"&lt;b&gt;레벨 3&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 표시하지 않음 \n\n\"&lt;b&gt;레벨 2&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 표시하지 않음 \n- 소리와 진동 없음 \n\n\"&lt;b&gt;레벨 1&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 표시하지 않음 \n- 소리와 진동 없음 \n- 잠금 화면과 상태표시줄에서 숨김 \n- 알림 목록 하단에 표시 \n\n\"&lt;b&gt;레벨 0&lt;/b&gt;\" \n- 앱의 모든 알림 끔</string>
+    <string name="power_notification_controls_description">알림 컨트롤을 사용하면 앱의 알림에 대해 0에서 5까지 중요도 수준을 설정할 수 있습니다. \n\n\"&lt;b&gt;레벨 5&lt;/b&gt;\" \n- 알림 목록 중 최상위에 표시 \n- 전체 화면 알림 허용 \n- 항상 표시 \n\n\"&lt;b&gt;레벨 4&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 항상 표시 \n\n\"&lt;b&gt;레벨 3&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 표시하지 않음 \n\n\"&lt;b&gt;레벨 2&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 표시하지 않음 \n- 소리와 진동 없음 \n\n\"&lt;b&gt;레벨 1&lt;/b&gt;\" \n- 전체 화면 알림 방지 \n- 표시하지 않음 \n- 소리와 진동 없음 \n- 잠금 화면과 상태 표시줄에서 숨김 \n- 알림 목록 하단에 표시 \n\n\"&lt;b&gt;레벨 0&lt;/b&gt;\" \n- 앱의 모든 알림 끔</string>
     <string name="power_remaining_charging_duration_only">완전 충전까지 %1$s 남았습니다.</string>
     <string name="power_remaining_duration_only">대략. %1$s 남음</string>
     <string name="power_remaining_duration_only_enhanced">사용패턴상 약 %1$s 남음</string>
@@ -1524,7 +1524,7 @@
     <string name="recents_dimiss_task">삭제</string>
     <string name="recents_drag_hint_message">앱을 길게 누른 다음 여기로 드래그하세요.</string>
     <string name="recents_empty_message">최근 항목 없음</string>
-    <string name="recents_empty_message_dismissed_all">모든 항목을 삭제하였습니다.</string>
+    <string name="recents_empty_message_dismissed_all">모든 항목을 삭제했습니다.</string>
     <string name="recents_empty_message_multi_window">홈 화면으로 이동하여 앱 실행</string>
     <string name="recents_exit_multi_window_mode">종료</string>
     <string name="recents_incompatible_app_message">이 앱은 분할 화면을 지원하지 않습니다.</string>
@@ -1588,7 +1588,7 @@
     <string name="screenshot_failed_title">스크린샷 촬영 실패</string>
     <string name="screenshot_failed_to_capture_text">스크린샷 촬영이 앱이나 관리자에 의해 허용되지 않았습니다.</string>
     <string name="screenshot_failed_to_save_text">저장 공간이 부족하여 스크린샷을 저장할 수 없습니다.</string>
-    <string name="screenshot_failed_to_save_unknown_text">스크린샷 저장 중 에러가 발생했습니다.</string>
+    <string name="screenshot_failed_to_save_unknown_text">스크린샷 저장 중 오류가 발생했습니다.</string>
     <string name="screenshot_feedback_txt">피드백</string>
     <string name="screenshot_insert_failed">스크린샷을 불러올 수 없음. 다시 찍거나 갤러리에서 이미지를 확인하세요.</string>
     <string name="screenshot_long_screenshot">스크롤</string>
@@ -1620,7 +1620,7 @@
     <string name="show_all_anrs">모든 ANR 보기</string>
     <string name="show_all_anrs_summary">백그라운드 앱을 위해 \"앱 응답 없음\" 창을 보여줍니다.</string>
     <string name="show_battery_percentage">배터리 백분율 표시</string>
-    <string name="show_battery_percentage_summary">충전하지 않을 때 상태표시줄 아이콘 안에 배터리 잔량 백분율 표시</string>
+    <string name="show_battery_percentage_summary">충전하지 않을 때 상태 표시줄 아이콘 안에 배터리 잔량 백분율 표시</string>
     <string name="show_brightness">빠른 설정에서 밝기옵션 표시</string>
     <string name="show_demo_mode">데모 모드 표시</string>
     <string name="show_hw_layers_updates">하드웨어 레벨 업데이트 보기</string>
@@ -1741,7 +1741,7 @@
     <string name="structure_face_data_rgb_input_face">프레임에 얼굴을 넣으세요.</string>
     <string name="structure_face_data_suggestion_text">입력시 얼굴의 특징을 분명히 볼 수 있도록하고 모자, 선글라스, 마스크 등을 착용하지 말고 직사광선을 피하세요.</string>
     <string name="structure_face_data_suggestion_warning_text">3D 얼굴인식 잠금해제는 더 안전하지만 비슷한 생김새의 사람이나 사물을 통해 여전히 잠금해제를 할 수 있습니다.</string>
-    <string name="structure_face_delete_data_dialog_msg">카메라 에러，미리보기 인터페이스를 가져올 수 없습니다. 다시 시도하세요.</string>
+    <string name="structure_face_delete_data_dialog_msg">카메라 오류，미리보기 인터페이스를 가져올 수 없습니다. 다시 시도하세요.</string>
     <string name="structure_face_delete_data_dialog_msg_retry">다시 시도하세요.</string>
     <string name="structure_face_delete_data_dialog_title">카메라 로딩 실패</string>
     <string name="structure_face_hardware_abnormal_btn">확인</string>
@@ -1780,8 +1780,8 @@
     <string name="tethering_hardware_offload_summary">가능하면 테더링 하드웨어 가속을 사용합니다.</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링을 사용할 수 없습니다.</string>
     <string name="theme">테마</string>
-    <string name="thermal_shutdown_dialog_message">휴대전화이 너무 뜨거워서, 온도가 내려갈때까지 꺼져있었습니다. 이제 휴대전화이 정상 작동중입니다.\n\n다음 사항으로 휴대전화이 과열되었을 수 있습니다:\n\u0009• 게임이나 내비게이션 같은 리소스가 많이 필요한 앱을 사용\n\u0009• 대용량 파일을 업로드 또는 다운로드\n\u0009• 높은 온도에서 휴대전화을 사용</string>
-    <string name="thermal_shutdown_message">이제 휴대전화이 정상 작동중입니다.</string>
+    <string name="thermal_shutdown_dialog_message">휴대전화이 너무 뜨거워서, 온도가 내려갈때까지 꺼져있었습니다. 이제 휴대전화이 정상 작동 중입니다.\n\n다음 사항으로 휴대전화이 과열되었을 수 있습니다:\n\u0009• 게임이나 내비게이션 같은 리소스가 많이 필요한 앱을 사용\n\u0009• 대용량 파일을 업로드 또는 다운로드\n\u0009• 높은 온도에서 휴대전화을 사용</string>
+    <string name="thermal_shutdown_message">이제 휴대전화이 정상 작동 중입니다.</string>
     <string name="thermal_shutdown_title">온도가 너무 높아 휴대전화이 꺼집니다.</string>
     <string name="time_unit_just_now">방금</string>
     <string name="title_convert_fbe">파일 암호화 변환중…</string>
@@ -1971,7 +1971,7 @@
     <string name="wifi_cant_connect_to_ap">\'%1$s\' 기기에 연결 실패</string>
     <string name="wifi_check_password_try_again">비밀번호 확인후 다시 시도하세요.</string>
     <string name="wifi_connected_mac_randomization">MAC 랜덤화에 연결됨</string>
-    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결시 MAC주소를 랜덤화합니다.</string>
+    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결 시 MAC주소를 랜덤화합니다.</string>
     <string name="wifi_connected_no_internet">연결됨, 인터넷 안됨</string>
     <string name="wifi_coverage_extend">Wi-Fi 접속거리 확장기능 활성화</string>
     <string name="wifi_coverage_extend_summary">핫스팟을 통한 Wi-Fi 접속거리 확장을 활성화합니다.</string>
@@ -2011,7 +2011,7 @@
     <string name="wifi_wapi_user_certificate">사용자 인증서</string>
     <string name="window_animation_scale_title">창 애니메이션 길이</string>
     <string name="wireless_change_to_ac_charging">유선 충전으로 전환됨</string>
-    <string name="wireless_charge_current">무선 충전중</string>
+    <string name="wireless_charge_current">무선 충전 중</string>
     <string name="wireless_charge_dialog_cancel">알겠음</string>
     <string name="wireless_charge_dialog_title">충전 스팟 한 가운데에 기기를 올려놓으세요.</string>
     <string name="wireless_charge_reset_device">충전이 느립니다. 기기를 초기화하세요.</string>
@@ -2034,7 +2034,7 @@
     <string name="lock_screen_magazine_label">슬라이드형 배경화면 열기</string>
     <string name="long_screenshot_guide_text">"탭하여 스크롤
 스크린샷을 촬영해보세요"</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"배터리 세이버가 켜져 있으면 공간 전환을 할 수 없습니다."</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"절전 모드가 켜져 있으면 공간 전환을 할 수 없습니다."</string>
     <string name="gxzw_add_fingerprint_area">지문센서</string>
     <string name="quick_settings_nightmode_label">다크 모드</string>
     <string name="quick_settings_sim_disabled">(사용 안함)</string>

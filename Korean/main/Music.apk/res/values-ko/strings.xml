@@ -195,7 +195,7 @@
     <string name="download_apk_desktop_pause">일시 중지됨</string>
     <string name="download_apk_desktop_pending">보류 중</string>
     <string name="download_apk_desktop_running">다운로드 중</string>
-    <string name="download_auto_after_favorite_no_vip_summary">즐겨찾기한 노래 자동으로 다운로드 (유료 컨텐츠 예외)</string>
+    <string name="download_auto_after_favorite_no_vip_summary">즐겨찾기한 노래 자동으로 다운로드 (유료 콘텐츠 예외)</string>
     <string name="download_auto_after_favorite_summary">즐겨찾기한 노래 자동으로 다운로드</string>
     <string name="download_auto_after_favorite_title">즐겨찾는 노래 다운로드</string>
     <string name="download_auto_cancel">즐겨찾는 음악 다운로드 해제됨</string>
@@ -241,7 +241,7 @@
     <string name="download_toast_with_beyond_data">모바일 데이터로 음악 다운로드. 데이터 한도 : %s</string>
     <string name="download_toast_with_data">모바일 데이터로 음악 다운로드, 월 모바일 데이터 %s 남음</string>
     <string name="download_traffic_dialog_msg">남은 모바일 데이터가 %s 입니다. 모바일 데이터를 사용하여 노래를 다운로드하시겠습니까?</string>
-    <string name="download_traffic_dialog_msg_beyond">이미 설정한 데이터 제한량 %s을 초과하였습니다. 모바일 데이터로 노래를 다운로드하시겠습니까?</string>
+    <string name="download_traffic_dialog_msg_beyond">이미 설정한 데이터 제한량 %s을 초과했습니다. 모바일 데이터로 노래를 다운로드하시겠습니까?</string>
     <string name="download_traffic_dialog_msg_serious">남은 모바일 데이터는 %s뿐입니다. 모바일 데이터로 노래를 다운로드하시겠습니까?</string>
     <string name="download_traffic_dialog_msg_without_data">모바일 데이터를 사용하여 노래를 받으려고 합니다. 그래도 다운로드하시겠습니까?</string>
     <string name="download_traffic_dialog_negative_button">Wi-Fi를 기다리는중</string>
@@ -252,7 +252,7 @@
     <string name="download_traffic_dialog_title_serious">남은 모바일 데이터가 너무 적습니다.</string>
     <string name="download_unknown_title">&lt;제목 없음&gt;</string>
     <string name="download_wait_connect">연결을 기다리는 중</string>
-    <string name="download_while_playing_no_vip_summary">온라인으로 스트리밍한 노래 자동으로 다운로드 (유료 컨텐츠 제외)</string>
+    <string name="download_while_playing_no_vip_summary">온라인으로 스트리밍한 노래 자동으로 다운로드 (유료 콘텐츠 제외)</string>
     <string name="download_while_playing_summary">온라인에서 스트리밍한 음악 자동으로 다운로드</string>
     <string name="download_while_playing_title">스트리밍하는 동안 다운로드</string>
     <string name="downloaded_empty">비어있음</string>
@@ -294,7 +294,7 @@
     <string name="exo_controls_repeat_off_description">반복재생 없음</string>
     <string name="exo_controls_repeat_one_description">1회 반복재생</string>
     <string name="exo_controls_rewind_description">되감기</string>
-    <string name="exo_controls_shuffle_description">랜덤 재생</string>
+    <string name="exo_controls_shuffle_description">무작위 재생</string>
     <string name="exo_controls_stop_description">정지</string>
     <string name="exo_download_completed">다운로드 완료</string>
     <string name="exo_download_description">다운로드</string>
@@ -357,7 +357,7 @@
     <string name="home_tab_local">내 음악</string>
     <string name="home_tab_online">발견</string>
     <string name="hungama">헝가마</string>
-    <string name="hungama_batch_download_alert_summary">프로 멤버 만 여러 노래를 다운로드할 수 있습니다. 지금 프로 멤버십을 얻으시겠습니까?</string>
+    <string name="hungama_batch_download_alert_summary">프로 멤버만 여러 노래를 다운로드할 수 있습니다. 지금 프로 멤버십을 얻으시겠습니까?</string>
     <string name="hungama_category_playlist">재생목록</string>
     <string name="hungama_category_radio">라디오</string>
     <string name="hungama_category_video">동영상</string>
@@ -513,9 +513,9 @@
     <string name="online_recommend">재생 목록</string>
     <string name="online_service_open_tip">온라인 음악 서비스가 켜져있습니다.</string>
     <string name="online_service_title">온라인 서비스</string>
-    <string name="online_switch">온라인 컨텐츠 서비스</string>
+    <string name="online_switch">온라인 콘텐츠 서비스</string>
     <string name="online_switch_message">온라인 서비스를 끄시면 VIP 서비스와 추천음악 서비스가 제한됩니다. 그래도 끄시겠습니까?</string>
-    <string name="online_switch_setting">온라인 컨텐츠 설정</string>
+    <string name="online_switch_setting">온라인 콘텐츠 설정</string>
     <string name="open_online_service">이 기능을 사용하려면 온라인 서비스를 켜셔야 합니다. 켜시겠습니까?</string>
     <string name="open_service">켜기</string>
     <string name="other_song_in_album">이 앨범의 다른 곡</string>
@@ -530,20 +530,20 @@
     <string name="pay_now">현재 서비스</string>
     <string name="payment_success_message">감사해요! 결제가 성공적으로 처리되었습니다. 고급 서비스를 즐기세요.</string>
     <string name="payment_success_title">축하합니다!</string>
-    <string name="pending_apk">대기중...</string>
+    <string name="pending_apk">대기 중...</string>
     <string name="permission_declaration_message">안전하게 저장소에 접근하도록 허용 &gt; 권한 &gt; 권한 &gt; 저장소 &gt; 음악 앱이 음악을 사용할 수 있게 합니다.</string>
     <string name="permission_declaration_negative_text">나중에</string>
     <string name="permission_declaration_positive_text">보안 앱으로 가기</string>
     <string name="permission_declaration_title">접근 허용</string>
     <string name="pick_favorite_song">즐겨 찾기</string>
     <string name="pick_local_song">저장된 곡</string>
-    <string name="pick_recent_song">최근에 재생 된</string>
+    <string name="pick_recent_song">최근에 재생된</string>
     <string name="play_all_song">전체 재생</string>
     <string name="play_empty_playlist">음악을 재생할 수 없습니다. 재생 목록이 비어 있습니다.</string>
     <string name="play_mode_all_loop">전체 반복</string>
     <string name="play_mode_one_loop">한곡 반복</string>
     <string name="play_mode_play_all">모두 재생</string>
-    <string name="play_mode_shuffle_all">랜덤 재생</string>
+    <string name="play_mode_shuffle_all">무작위 재생</string>
     <string name="play_next">다음 재생</string>
     <string name="play_video_with_traffic">계속</string>
     <string name="play_video_with_traffic_toast">모바일 데이터를 사용하고 있습니다.</string>
@@ -638,11 +638,11 @@
     <string name="share_description">Mi 뮤직에서</string>
     <string name="share_end_note">Mi 뮤직에서</string>
     <string name="share_failed">공유 실패</string>
-    <string name="share_image_error">다운로드 에러로 인해 이미지를 공유할 수 없음</string>
-    <string name="share_text_list">Mi 뮤직:    에서의 재생 목록</string>
-    <string name="share_text_song">Mi 뮤직:    에 있는 노래</string>
+    <string name="share_image_error">다운로드 오류로 인해 이미지를 공유할 수 없음</string>
+    <string name="share_text_list">"Mi 뮤직의 재생 목록: "</string>
+    <string name="share_text_song">"Mi 뮤직의 곡: "</string>
     <string name="show_more">%s개 더 표시</string>
-    <string name="shuffle_music">랜덤 재생</string>
+    <string name="shuffle_music">무작위 재생</string>
     <string name="shuffle_off_notif">무작위 재생 꺼짐</string>
     <string name="shuffle_on_notif">무작위 재생 켜짐</string>
     <string name="signup_type_silent_default">무음 모드</string>
@@ -692,8 +692,8 @@
     <string name="talkback_karaoke">노래방 실행</string>
     <string name="talkback_mode">전체 목록 반복재생</string>
     <string name="talkback_mode_repeat_all">전체 반복 모드</string>
-    <string name="talkback_mode_repeat_current">한곡 반복 모드</string>
-    <string name="talkback_mode_repeat_shuffle">랜덤 재생 모드</string>
+    <string name="talkback_mode_repeat_current">한 곡 반복 모드</string>
+    <string name="talkback_mode_repeat_shuffle">무작위 재생 모드</string>
     <string name="talkback_more">더 많은 메뉴</string>
     <string name="talkback_next">다음 노래</string>
     <string name="talkback_nowplaying_bar">재생 바</string>
@@ -763,7 +763,7 @@
     <string name="unable_to_play">"재생할 수 없습니다."</string>
     <string name="view_all_news">전체 소식 보기</string>
     <string name="widget_title">좋아하는 음악을 Mi Music에서 찾아보세요.</string>
-    <string name="can_heard_not_download">"컨텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다."</string>
+    <string name="can_heard_not_download">"콘텐츠 제공 업체 요청으로 인해 다운로드가 불가능합니다."</string>
     <string name="play_all_shuffle">&lt;Data>전체 섞기&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data> </string>
     <string name="local_page_music">저장된 음악</string>
     <string name="alert_song_not_paid">"아직이 노래를 구입하지 않았습니다."</string>
@@ -828,13 +828,13 @@
     <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.</string>
     <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. Mi 뮤직을 사용하기 전에 우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;이용 약관&lt;/a&gt;과&lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.\"&lt;/Data&gt;</string>
     <string name="declaration_main_purpose">Mi 뮤직에 오신 것을 환영합니다! 이 앱을 사용하여 장치에 저장된 노래를 재생하고 온라인 컨텐츠를 스트리밍 할 수 있습니다.</string>
-    <string name="headline_content_issue_feedback">컨텐츠 문제에 대한 피드백</string>
+    <string name="headline_content_issue_feedback">콘텐츠 문제에 대한 피드백</string>
     <string name="sleep_mode_seek_bar_end">120분</string>
     <string name="sleep_mode_seek_bar_start">1분</string>
     <string name="sync_only_in_wifi_summary">Xiaomi 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동통신사가 추가 요금을 청구 할 수 있습니다.</string>
     <string name="cannot_download_to_sdcard_hint">"저작권 제한으로 인해 SD 카드로 항목을 다운로드할 수 없습니다. 대신 내부 저장소로 항목이 다운로드됩니다."</string>
     <string name="create_playlist_input_hint">재생목록 이름을 입력하세요.</string>
-    <string name="online_apk_install_tips">"이 컨텐츠 제공자의 플러그인을 한 번 다운로드해야 합니다. 다음에 직접 노래에 액세스할 수 있습니다."</string>
+    <string name="online_apk_install_tips">"이 콘텐츠 제공자의 플러그인을 한 번 다운로드해야 합니다. 다음에 직접 노래에 액세스할 수 있습니다."</string>
     <string name = "buy_vip_skip_ad">광고 제거</string>
     <string name = "columbus_player_close_desc">사용자는 보상을 잃을 것입니다.</string>
     <string name = "columbus_player_close_resume">동영상 이어보기</string>
@@ -869,8 +869,8 @@
     <string name = "joox_auth_title_download_song">노래 다운로드</string>
     <string name = "joox_auth_title_login_again">로그인</string>
     <string name = "joox_auth_title_long_time_no_network">"한동안 네트워크에 연결하지 않은 것 같습니다."</string>
-    <string name = "joox_auth_title_shuffle_play">랜덤</string>
-    <string name = "joox_auth_title_vip_content">VIP 컨텐츠</string>
+    <string name = "joox_auth_title_shuffle_play">무작위</string>
+    <string name = "joox_auth_title_vip_content">VIP 콘텐츠</string>
     <string name = "joox_auth_title_vip_expired">회원 자격이 만료되었습니다.</string>
     <string name = "joox_auth_title_vip_function">VIP 기능</string>
     <string name = "joox_download_title">JOOX 다운로드</string>

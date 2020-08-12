@@ -102,7 +102,7 @@
     <string-array name="color_mode_descriptions">
         <item>향상된 색상</item>
         <item>눈에 보이는 자연스런 색상</item>
-        <item>디지털 컨텐츠에 최적화 된 색상</item>
+        <item>디지털 컨텐츠에 최적화된 색상</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>활기찬 (기본값)</item>
@@ -127,7 +127,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>체크하지않음</item>
-        <item>DRM 컨텐츠 만 확인</item>
+        <item>DRM 콘텐츠만 확인</item>
         <item>항상 체크</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
@@ -181,7 +181,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>끄기</item>
         <item>사각형이 아닌 클립 영역을 파란색으로 그립니다.</item>
-        <item>테스트 된 도면 명령을 녹색으로 강조 표시합니다.</item>
+        <item>테스트된 도면 명령을 녹색으로 강조 표시합니다.</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>끄기</item>
