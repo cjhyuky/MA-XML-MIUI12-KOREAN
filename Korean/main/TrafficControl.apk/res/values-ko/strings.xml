@@ -88,7 +88,7 @@
     <string name="v2_app_pass_activated">패스 활성화됨</string>
     <string name="v2_app_pass_activation_error_message">%1$s 활성화시킬 수 없습니다. 접속을 확인후 나중에 다시 시도하세요.</string>
     <string name="v2_app_pass_activation_error_title">패스 활성화 실패.</string>
-    <string name="v2_app_pass_activation_in_progress">패스 활성화가 이미 처리중 입니다.</string>
+    <string name="v2_app_pass_activation_in_progress">패스 활성화가 이미 처리 중 입니다.</string>
     <string name="v2_app_pass_activation_install_app_name_to_get_pass">%2$s 얻기위해 %1$s 설치하세요.</string>
     <string name="v2_app_pass_activation_install_app_name_to_get_pass_free_download">%2$s 획득하기 위해 %1$s 설치하세요. %1$s 다운로드는 요금이 부과되지 않습니다.</string>
     <string name="v2_app_pass_activation_install_app_to_get_pass">%1$s 얻기위해 앱 설치하세요.</string>

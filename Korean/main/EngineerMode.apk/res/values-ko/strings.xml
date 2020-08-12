@@ -503,7 +503,7 @@
     <string name="BT_serial_port_number">시리얼 포트 번호</string>
     <string name="BT_turn_bt_off">블루투스를 먼저 해제하세요.</string>
     <string name="BT_tx_only_Title">TX 테스트 전용</string>
-    <string name="BT_tx_test">Tx 테스트 진행중입니다. 잠시만 기다려주세요...</string>
+    <string name="BT_tx_test">Tx 테스트 진행 중입니다. 잠시만 기다려주세요...</string>
     <string name="BandModeSIM1">SIM1 밴드 모드</string>
     <string name="BandModeSIM2">SIM2 밴드 모드</string>
     <string name="BandModeSIMSelect">SIM 선택</string>
@@ -1116,7 +1116,7 @@
     <string name="desense_back_light_frequency">PWM 주파수</string>
     <string name="desense_camera_btn">EM/카메라로 전환</string>
     <string name="desense_camera_name">현재 카메라 운행중</string>
-    <string name="desense_camera_txt">현재 사용중인 MCLOCK 카메라</string>
+    <string name="desense_camera_txt">현재 사용 중인 MCLOCK 카메라</string>
     <string name="desense_classd_activity">DesenseClassDActivity</string>
     <string name="desense_freqhopping">주파수 설정</string>
     <string name="desense_freqhopping_0x">0x</string>

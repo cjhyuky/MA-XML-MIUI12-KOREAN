@@ -187,13 +187,13 @@
         <item quantity="other">"%2$d개 항목이 숨김처리된 앨범에 추가될 수 없습니다. %1$s."</item>
     </plurals>
     <plurals name="fail_reason_processing_file">
-        <item quantity="other">사진 처리중…</item>
+        <item quantity="other">사진 처리 중…</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d개 항목이 숨김처리된 앨범에서 삭제될 수 없습니다. %1$s."</item>
     </plurals>
     <plurals name="send_processing_files_error">
-        <item quantity="other">"공유할 수 없습니다. %d개 사진을 처리중입니다."</item>
+        <item quantity="other">"공유할 수 없습니다. %d개 사진을 처리 중입니다."</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d개 사진 최적화됨</item>

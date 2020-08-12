@@ -52,7 +52,7 @@
     <string name="wifi_installer_fail_no_wifi">Wi-Fi를 켜고 다시 시도하세요.</string>
     <string name="wifi_installer_fail_no_wifi_title">설치 취소됨</string>
     <string name="wifi_installer_fail_title">"설치되지 않음"</string>
-    <string name="wifi_installing_label">설치중</string>
+    <string name="wifi_installing_label">설치 중</string>
     <string name="wifi_no_config">없음</string>
     <string name="wifi_tls_config_text">"클라이언트 증명서:%1$sKey: %2$s"</string>
     <string name="wifi_ttls_config_text">"사용자명: %s"</string>

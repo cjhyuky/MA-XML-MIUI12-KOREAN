@@ -135,7 +135,7 @@
     <string name="fp_vendor_name">센서 모델 :</string>
     <string name="fqc_test">FQC 테스트</string>
     <string name="frontflash_confirm">하얀 손전등이 괜찮은지 확인하세요!</string>
-    <string name="frontflash_tips">프론트 플래시가 원형으로 개폐됩니다, 시계를 계속하세요!</string>
+    <string name="frontflash_tips">프론트 플래시가 원형으로 개폐됩니다. 시계를 계속하세요!</string>
     <string name="frontflashlight_name">정면 Torchled</string>
     <string name="fuelgauge_hint">FuelGauge 보정이 30초 이내에 완료됩니다. 잠시 기다려주세요....</string>
     <string name="fuelgauge_name">연료 가스 교정</string>

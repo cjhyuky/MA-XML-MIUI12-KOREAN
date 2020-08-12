@@ -485,7 +485,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_battery_low_notification_message">동기화하려면 충전기를 연결하여 주세요.</string>
     <string name="micloud_upgrade_member">업그레이드</string>
     <string name="micloud_notif_content_depend_wifi">동기화를 위해 Wi-Fi에 연결합니다.</string>
-    <string name="micloud_notif_title_master_depend_wifi">"모바일 데이터 사용중에는 동기화가 일시 중지됩니다."</string>
+    <string name="micloud_notif_title_master_depend_wifi">"모바일 데이터 사용 중에는 동기화가 일시 중지됩니다."</string>
     <string name="micloud_notif_content_master_depend_wifi">Wi-Fi에 먼저 연결하거나 동기화 설정을 변경하세요. 변경하려면 탭하세요.</string>
     <string name="micloud_notif_title_memory_low">Mi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_memory_low">저장 공간이 충분하지 않습니다.</string>
@@ -719,7 +719,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_manual_title">수동 동기화</string>
     <string name="micloud_preference_last_sync_time">마지막으로 동기화 됨: %s</string>
     <string name="micloud_preference_syncing">동기화중…</string>
-    <string name="micloud_sync_result_already_in_progress">이전 동기화 진행중…</string>
+    <string name="micloud_sync_result_already_in_progress">이전 동기화 진행 중…</string>
     <string name="micloud_sync_result_auth_exception">계정 오류</string>
     <string name="micloud_sync_result_cancel">동기화 중단됨</string>
     <string name="micloud_sync_result_cloud_storage_full">Mi 클라우드 저장소가 부족하여 동기화할 수 없습니다.</string>
@@ -752,9 +752,9 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="provision_sync_items_loading">항목 동기화 준비 중</string>
     <string name="user_detail_agreement">사용자 계약</string>
     <string name="user_detail_privacy_policy">개인정보 보호 정책</string>
-    <string name="micloud_request_sync_too_frequent">요청이 너무 많습니다. 잠시후 다시 시도하세요.</string>
+    <string name="micloud_request_sync_too_frequent">요청이 너무 많습니다. 잠시 후 다시 시도하세요.</string>
     <string name="waiting_for_sync">기다리는 중…</string>
-    <string name="system_busy_or_network_error">오류가 발생했습니다. 잠시후 다시 시도하세요.</string>
+    <string name="system_busy_or_network_error">오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
     <string name="micloud_last_sync_canceled">동기화가 취소되었습니다. 다시 시도하세요.</string>
     <string name="micloud_manual_sync_now_retry">다시 시도</string>
     <string name="micloud_manaul_sync_success_time_prefix">마지막 동기화: %s</string>
@@ -988,5 +988,5 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="midrive_guide3_title">어디서나 손쉽게 파일 접근하기</string>
     <string name="midrive_guide_btn_install">Mi 드라이브 설치</string>
     <string name="midrive_guide_btn_installed">Mi 드라이브 열기</string>
-    <string name="midrive_guide_btn_installing">설치중…</string>
+    <string name="midrive_guide_btn_installing">설치 중…</string>
 </resources>

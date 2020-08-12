@@ -71,7 +71,7 @@
     <string name="ball_football_recent">대</string>
     <string name="ball_football_recent_end">종료 </string>
     <string name="ball_football_recent_end_tip">결과</string>
-    <string name="ball_football_recent_ing">진행중</string>
+    <string name="ball_football_recent_ing">진행 중</string>
     <string name="ball_football_recent_text_show">경기 분석</string>
     <string name="ball_football_title">축구</string>
     <string name="ball_football_total_rank">랭킹</string>
@@ -935,8 +935,8 @@
     <string name="express_open">배송 조회 카드 열기</string>
     <string name="express_open_txt">열기</string>
     <string name="express_origin_prev">보낸곳</string>
-    <string name="express_other_app">MIUI가 다른앱에서 주문 정보를 가져오는 것을 허용합니다.</string>
-    <string name="express_phone_tip">배송중, 조금만 기다려주세요.</string>
+    <string name="express_other_app">MIUI가 다른 앱에서 주문 정보를 가져오는 것을 허용합니다.</string>
+    <string name="express_phone_tip">배송중, 잠시 기다려주세요.</string>
     <string name="express_setting_authorized_number">인증된 휴대전화 번호</string>
     <string name="express_setting_authorized_number_add">추가</string>
     <string name="express_setting_authorized_number_delete">삭제</string>
@@ -1167,7 +1167,7 @@
     <string name="net_unavailable">"네트워크 접속 불가"</string>
     <string name="alipay_sdk_open_alipay">알리페이 실행</string>
     <string name="alipay_sdk_open_extra_money">보너스 받기</string>
-    <string name="card_title_empty_agenda">진행중인 이벤트가 없습니다.</string>
+    <string name="card_title_empty_agenda">진행 중인 이벤트가 없습니다.</string>
     <string name="card_title_empty_express">주문내역이 없습니다.</string>
     <string name="card_title_empty_note">여기에 메모를 남기세요.</string>
     <string name="express_inquiry_manual">수동으로 확인</string>
@@ -1392,7 +1392,7 @@
     <string name="uber_target">목적지는?</string>
     <string name="uber_trip">택시 호출</string>
     <string name="uber_x">우버X</string>
-    <string name="upgrade_fail_message">"업데이트 실패. 최신 버전의 MIUI를 사용중이신지 확인하세요."</string>
+    <string name="upgrade_fail_message">"업데이트 실패. 최신 버전의 MIUI를 사용 중인지 확인하세요."</string>
     <string name="Whatsapp_main">사진</string>
     <string name="year_month_day_all_format_en">yyyy/MM/dd HH:mm:ss</string>
 </resources>

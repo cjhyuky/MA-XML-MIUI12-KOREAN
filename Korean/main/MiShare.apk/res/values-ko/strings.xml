@@ -133,7 +133,7 @@
     <string name="complete">완료</string>
     <string name="confirm_cancel_receive">"지금 전송을 취소하면 이 항목을 받을 수 없습니다. 정말 취소하시겠습니까?"</string>
     <string name="error_has_occurred">오류 발생</string>
-    <string name="error_receive_file_file_opened">"이 항목을 받을 수 없습니다. 지금 사용중인 것 같습니다."</string>
+    <string name="error_receive_file_file_opened">"이 항목을 받을 수 없습니다. 지금 사용 중인 것 같습니다."</string>
     <string name="fail_in_send">"전송 실패"</string>
     <string name="file_receive_progress_title">진행</string>
     <string name="file_received_successfully_from_pc">%1$s에서 200개 이상의 파일을 받았습니다.</string>

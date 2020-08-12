@@ -96,7 +96,7 @@
     <string name="guarder">%s님이 기기를 관리하고 있습니다.</string>
     <string name="last_time">%s분 남음</string>
     <string name="loading">불러오는 중...</string>
-    <string name="mi_loading_qr">QR 코드 생성중…</string>
+    <string name="mi_loading_qr">QR 코드 생성 중…</string>
     <string name="min">분</string>
     <string name="mon">월요일</string>
     <string name="my_qr">카이트가드 APk QR 코드</string>

@@ -524,8 +524,8 @@
     <string name="abc_shareactionprovider_share_with_application">%s 님과 공유하기</string>
     <string name="abc_toolbar_collapse_description">툴바 접기</string>
     <string name="albums">앨범</string>
-    <string name="allow_draw_overlays_title">다른앱 위에 플레이어 팝업 허용</string>
-    <string name="allow_sdraw_overlays_description">다른앱 위에 플레이어 팝업이 표시되려면 권한을 부여해야 합니다.</string>
+    <string name="allow_draw_overlays_title">다른 앱 위에 플레이어 팝업 허용</string>
+    <string name="allow_sdraw_overlays_description">다른 앱 위에 플레이어 팝업을 표시하려면 권한을 부여해야 합니다.</string>
     <string name="allow_settings_access_brightness_description">플레이어로 밝기 모드를 변경하려면 권한을 부여해야 합니다.</string>
     <string name="allow_settings_access_brightness_title">플레이어로 밝기 모드 변경 허용</string>
     <string name="allow_settings_access_ringtone_description">이 노래를 벨소리로 지정하려면 권한을 부여해야 합니다.</string>

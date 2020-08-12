@@ -262,7 +262,7 @@
     <string name="insert_event_toast_add_success">일정 생성됨</string>
     <string name="install_email_app">이메일 설치</string>
     <string name="install_email_finished">이메일 설치됨</string>
-    <string name="installing_email">설치중...</string>
+    <string name="installing_email">설치 중...</string>
     <string name="item_num_selected">%1$d개 선택됨</string>
     <string name="load_more_hint">%1$d의 일정 새로고침</string>
     <string name="loading">불러오는 중...</string>
@@ -421,7 +421,7 @@
     <string name="train_event_choose_arrive_station">도착 정거장을 선택하세요.</string>
     <string name="train_event_depart">%1$s 출발</string>
     <string name="train_event_disclaimer">면책 조항 : 데이터 및 서비스는 GaoTieGuanJia에서 제공합니다. 문제가 있으면 회사의 고객 서비스에 문의하세요. 기차 정보는 참고용이며 공식정보를 참조하세요.</string>
-    <string name="train_event_error_toast">죄송합니다, 로딩 실패!</string>
+    <string name="train_event_error_toast">죄송합니다. 로딩 실패!</string>
     <string name="train_event_error_train_info">기차표 오류</string>
     <string name="train_event_more_info">기차 정시도착 또는 지연, 기차 Wi-Fi서비스 등</string>
     <string name="train_event_service">기차 서비스</string>
@@ -763,7 +763,7 @@
     <string name="setting_daysoff_no_update">공휴일 정보가 최신 상태입니다.</string>
     <string name="setting_daysoff_update">공휴일 정보 업데이트</string>
     <string name="setting_daysoff_update_cta_cancel">먼저 캘린더가 인터넷에 연결될 수 있게 허용하세요.</string>
-    <string name="setting_daysoff_update_net_err">"업데이트를 확인할 수 없습니다. 잠시후 다시 시도하세요."</string>
+    <string name="setting_daysoff_update_net_err">"업데이트를 확인할 수 없습니다. 잠시 후 다시 시도하세요."</string>
     <string name="setting_daysoff_update_schedule">업데이트 중…</string>
     <string name="setting_daysoff_update_success">업데이트 완료</string>
     <string name="talk_back_tab_switch">보기 간 전환</string>

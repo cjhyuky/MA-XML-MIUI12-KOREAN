@@ -190,7 +190,7 @@
     <string name="aqi_detail_unit">단위: µg/m³</string>
     <string name="index_item_install_now">지금 설치</string>
     <string name="index_item_experience_now">지금 설치</string>
-    <string name="index_item_installing">설치중</string>
+    <string name="index_item_installing">설치 중</string>
     <string name="index_item_install_dialog" />
     <string name="index_item_install_dialog_cancel" />
     <string name="index_item_install_dialog_open" />

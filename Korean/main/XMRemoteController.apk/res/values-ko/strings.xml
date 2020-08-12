@@ -1034,7 +1034,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="third_party_video">기타 영상</string>
     <string name="title_hot_links">인기 링크</string>
     <string name="tv_live">생방송 TV</string>
-    <string name="tv_noresponse_tips">"TV/박스가 응답하지 않습니다. 잠시후 다시 시도해보세요."</string>
+    <string name="tv_noresponse_tips">"TV/박스가 응답하지 않습니다. 잠시 후 다시 시도해보세요."</string>
     <string name="video_all_category">모든 카테고리</string>
     <string name="video_buy_vip">Mi TV 구독 구매</string>
     <string name="video_category_filter">필터 %s</string>

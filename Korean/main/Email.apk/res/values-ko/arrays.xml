@@ -62,7 +62,7 @@
         <item>우편번호:</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>감사합니다,</item>
+        <item>감사합니다.</item>
         <item>평안하세요.</item>
         <item>전송된 내 메뉴</item>
         <item>원본 이메일</item>

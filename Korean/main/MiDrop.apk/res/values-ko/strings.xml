@@ -68,7 +68,7 @@
     <string name="receiver_in_progress_summary">새 파일을 보내시려면 현재 전송이 끝날때까지 기다려 주세요.</string>
     <string name="sender_in_progress_now">취소</string>
     <string name="sender_interrupt_summary">파일을 보내고 있는 중에 Wi-Fi를 끄지 말아 주세요.</string>
-    <string name="sender_scan_error">스캔 할 수 없습니다, 다시 보내주세요.</string>
+    <string name="sender_scan_error">스캔 할 수 없습니다. 다시 보내주세요.</string>
     <string name="receiver_interrupt_summary_v21">파일을 받고 있는 중에 Wi-Fi 핫스팟을 끄지 말아 주세요.</string>
     <string name="receiver_interrupt_summary">파일을 받고 있는 중에 Wi-Fi를 끄지 말아 주세요.</string>
     <string name="transfer_interrupt">전송 중단됨</string>
@@ -78,7 +78,7 @@
     <string name="cancel_stop">계속 전송</string>
     <string name="cancel_receive_confirm">취소</string>
     <string name="cancel_receive_stop">계속 받기</string>
-    <string name="cancel_confirm_title">전송이 완료되지 않았습니다, 지금 취소하시겠습니까?</string>
+    <string name="cancel_confirm_title">전송이 완료되지 않았습니다. 지금 취소하시겠습니까?</string>
     <string name="file_not_support">지원하지 않는 형식입니다.</string>
     <string name="help">도움말</string>
     <string name="send_file_time_format_m">m:s</string>
@@ -307,8 +307,8 @@
     <string name="fr">파일 전송</string>
     <string name="fs">저장 공간이 충분하지 않습니다.</string>
     <string name="ft">"저장 공간이 충분하지 않습니다. 파일을 보낼 수 없습니다."</string>
-    <string name="fu">"진행중인 전송 중에는 Wi-Fi를 끄지 마세요."</string>
-    <string name="fv">"진행중인 전송 중에 Wi-Fi 핫스팟을 끄지 마세요."</string>
+    <string name="fu">"진행 중인 전송 중에는 Wi-Fi를 끄지 마세요."</string>
+    <string name="fv">"진행 중인 전송 중에 Wi-Fi 핫스팟을 끄지 마세요."</string>
     <string name="fw">(내 별명)</string>
     <string name="fx">다른 사람에게 Mi 드롭을 켜고 \ "보내기 \"를 누르세요.</string>
     <string name="fy">수신자에게 알림 창에서 Mi 드롭을 사용하도록 요청하세요.</string>

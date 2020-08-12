@@ -293,7 +293,7 @@
     <string name="install_sucess">%s 설치 성공</string>
     <string name="open_app">열기</string>
     <string name="downloading">다운로드 중</string>
-    <string name="installing">설치중</string>
+    <string name="installing">설치 중</string>
     <string name="start_install">지금 설치</string>
     <string name="open_browser">브라우저로 열기</string>
     <string name="title_share_link">URL 공유</string>
@@ -519,9 +519,9 @@
     <string name="auto_clean_operation_dialog_title">최적화 방법</string>
     <string name="auto_clean_operation_just_clean">최적화만</string>
     <string name="auto_clean_trigger_dialog_title">최적화 저장소</string>
-    <string name="auto_clean_trigger_percent_eighty">전체 용량의 80%를 사용중일 때</string>
-    <string name="auto_clean_trigger_percent_ninety">전체 용량의 90%를 사용중일 때</string>
-    <string name="auto_clean_trigger_percent_sixty">전체 용량의 60%를 사용중일 때</string>
+    <string name="auto_clean_trigger_percent_eighty">전체 용량의 80%를 사용 중일 때</string>
+    <string name="auto_clean_trigger_percent_ninety">전체 용량의 90%를 사용 중일 때</string>
+    <string name="auto_clean_trigger_percent_sixty">전체 용량의 60%를 사용 중일 때</string>
     <string name="pref_category_title_auto_clean_config_settings">자동 최적화</string>
     <string name="pref_title_auto_clean">자동 최적화</string>
     <string name="pref_title_auto_clean_operation">최적화 방법</string>
@@ -536,8 +536,8 @@
     <string name="guide_virus_dialog_positive">스캔</string>
     <string name="guide_virus_dialog_title">바이러스 스캔</string>
     <string name="mainbtn_text_no_trash">건너뛰기</string>
-    <string name="clean_long_msg">"%1$d개의 파일을 청소중입니다, %2$d개 완료됨. 
-초당 %3$d%%개의 항목을 처리중입니다, 남은시간:%4$s"</string> 
+    <string name="clean_long_msg">"%1$d개의 파일을 청소중입니다. %2$d개 완료됨. 
+초당 %3$d%%개의 항목을 처리 중입니다. 남은시간:%4$s"</string> 
     <string name="tips_low_storage_dialog_cancel">취소</string>
     <string name="tips_low_storage_dialog_msg_qq">QQ 캐시 크기가 3GB에 도달했습니다. 장치 속도가 느려질 수 있습니다. 지금 QQ 캐시 파일을 정리하시겠습니까?</string>
     <string name="tips_low_storage_dialog_msg_storage">"저장소 용량의 90%를 사용하고 있습니다. 사용하지 않는 앱을 제거합니다."</string>
@@ -625,7 +625,7 @@
     <string name="dc_group_title_appclean">앱</string>
     <string name="dc_header_can_clean">삭제 가능</string>
     <string name="dc_header_can_not_clean">삭제 불가</string>
-    <string name="dc_header_used_space_text">사용중인 저장 용량</string>
+    <string name="dc_header_used_space_text">사용 중인 저장 용량</string>
     <string name="dc_item_summary_wechat_chat">공간을 확보하기 위해 채팅으로 내역 채팅 지우기</string>
     <string name="dc_item_title_apk">설치 패키지 삭제</string>
     <string name="dc_item_title_app_data">앱 데이터 지우기</string>

@@ -327,7 +327,7 @@
     <string name="ball_dialog_content">이 기능을 사용하기 위해 %s 항목을 설치해야 합니다. 허용하시겠습니까?</string>
     <string name="ball_dialog_tip">다시보지 않기</string>
     <string name="ball_dialog_title">앱을 먼저 설치하세요.</string>
-    <string name="ball_football_recent_ing">진행중</string>
+    <string name="ball_football_recent_ing">진행 중</string>
     <string name="ball_hupu">후푸 스포츠</string>
     <string name="battery_history">배터리</string>
     <string name="beijing">베이징</string>
@@ -399,7 +399,7 @@
     <string name="card_plan_fly">예정된 여행</string>
     <string name="card_settings">커스텀 설정</string>
     <string name="card_settings_rule">카드 주문 설정</string>
-    <string name="card_title_empty_agenda">진행중인 이벤트가 없습니다.</string>
+    <string name="card_title_empty_agenda">진행 중인 이벤트가 없습니다.</string>
     <string name="card_title_empty_express">주문내역이 없습니다.</string>
     <string name="card_title_empty_note">여기에 메모를 남기세요.</string>
     <string name="card_title_express">내 배달주문</string>
@@ -688,9 +688,9 @@
     <string name="express_order_state_unknown">알 수 없음</string>
     <string name="express_order_state_wait_picking">수집을 기다리고 있습니다.</string>
     <string name="express_order_succeeded">완료</string>
-    <string name="express_other_app">MIUI가 다른앱에서 주문 정보를 가져오는 것을 허용합니다.</string>
+    <string name="express_other_app">MIUI가 다른 앱에서 주문 정보를 가져오는 것을 허용합니다.</string>
     <string name="express_phone">전화번호</string>
-    <string name="express_phone_tip">배송중, 조금만 기다려주세요.</string>
+    <string name="express_phone_tip">배송중, 잠시 기다려주세요.</string>
     <string name="express_pickup_code">코드 : %s</string>
     <string name="express_preview_order">미리보기</string>
     <string name="express_provider_banner">제공 %s</string>
@@ -1282,7 +1282,7 @@
     <string name="note_parent">메모장</string>
     <string name="notification_channel_default">기본값</string>
     <string name="notification_channel_default_description">기타 알림들</string>
-    <string name="notification_channel_favorite_description">다른앱의 즐겨찾기에 추가된 항목에 대한 알림</string>
+    <string name="notification_channel_favorite_description">다른 앱의 즐겨찾기에 추가된 항목에 대한 알림</string>
     <string name="notification_channel_payment_description">결제 관련 알림</string>
     <string name="notification_channel_shopping_description">즐겨찾기 또는 장바구니에 추가된 제품에 대한 알림</string>
     <string name="notification_content_fail_not_support">결제 정보를 가져올 수 없으므로 수동으로 기록을 추가하세요.</string>
@@ -1408,7 +1408,7 @@
     <string name="record_parent">녹음기</string>
     <string name="red_dowm_blue_grow">녹색 : 플러스, 적색 : 마이너스</string>
     <string name="red_grow_blue_dowm">적색 : 플러스, 녹색 : 마이너스</string>
-    <string name="refresh_error">네트워크 오류가 발생했습니다. 잠시후 다시 시도하세요.</string>
+    <string name="refresh_error">네트워크 오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
     <string name="refresh_over_pull">놓아서 새로고침</string>
     <string name="refresh_pull">당겨서 새로고침</string>
     <string name="refresh_refreshing">새로고침중…</string>

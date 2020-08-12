@@ -174,8 +174,8 @@
     <string name="global_action_silent_mode_on_status">소리 꺼짐</string>
     <string name="global_action_silent_mode_off_status">소리 켜짐</string>
     <string name="global_actions_toggle_airplane_mode">비행기 모드</string>
-    <string name="global_actions_airplane_mode_on_status">비행기 모드 사용중</string>
-    <string name="global_actions_airplane_mode_off_status">비행기 모드 사용중이 아님</string>
+    <string name="global_actions_airplane_mode_on_status">비행기 모드 사용 중</string>
+    <string name="global_actions_airplane_mode_off_status">비행기 모드 사용 중이 아님</string>
     <string name="global_action_settings">설정</string>
     <string name="global_action_lockdown">지금 잠그기</string>
     <string name="safeMode">안전 모드</string>
@@ -253,7 +253,7 @@
     <string name="capability_title_canRequestFilterKeyEvents">입력하는 텍스트 살펴보기</string>
     <string name="capability_desc_canRequestFilterKeyEvents">신용카드 번호와 비밀번호 등의 개인 데이터를 포함합니다.</string>
     <string name="permlab_statusBar">상태 표시줄 사용 중지 또는 수정</string>
-    <string name="permdesc_statusBar">앱이 상태 표시줄을 사용중지하거나 시스템 아이콘을 추가 및 제거할 수 있도록 허용합니다.</string>
+    <string name="permdesc_statusBar">앱이 상태 표시줄을 사용 중지하거나 시스템 아이콘을 추가 및 제거할 수 있도록 허용합니다.</string>
     <string name="permlab_statusBarService">상태 표시줄</string>
     <string name="permdesc_statusBarService">앱이 상태 표시줄이 되도록 허용합니다.</string>
     <string name="permlab_expandStatusBar">상태 표시줄 확장/축소</string>
@@ -521,7 +521,7 @@
     <string name="permlab_cameraDisableTransmitLed">카메라를 사용할 때 전송 표시 LED 사용 중지</string>
     <string name="permdesc_cameraDisableTransmitLed">사전 설치된 시스템 애플리케이션에서 카메라 사용 표시 LED를 사용 중지하도록 허용합니다.</string>
     <string name="permlab_brick">휴대전화를 영구적으로 사용 중지</string>
-    <string name="permdesc_brick">앱이 휴대전화를 영구적으로 사용중지할 수 있게 허용합니다. 이 기능은 매우 위험합니다.</string>
+    <string name="permdesc_brick">앱이 휴대전화를 영구적으로 사용 중지할 수 있게 허용합니다. 이 기능은 매우 위험합니다.</string>
     <string name="permlab_reboot">휴대전화 강제로 다시 시작</string>
     <string name="permdesc_reboot">앱이 휴대전화를 강제로 다시 시작할 수 있도록 허용합니다.</string>
     <string name="permlab_mount_unmount_filesystems">SD 카드 파일 시스템에 액세스</string>
@@ -631,7 +631,7 @@
     <string name="permlab_nfc">NFC(Near Field Communication) 제어</string>
     <string name="permdesc_nfc">앱이 NFC(근거리 무선 통신) 태그, 카드 및 리더와 통신할 수 있도록 허용합니다.</string>
     <string name="permlab_disableKeyguard">화면 잠금 사용 중지</string>
-    <string name="permdesc_disableKeyguard">앱이 키 잠금 및 관련 비밀번호 보안을 사용중지할 수 있도록 허용합니다. 예를 들어, 휴대전화가 수신전화를 받을 때 키 잠금을 사용중지했다가 통화가 끝나면 키 잠금을 다시 사용할 수 있습니다.</string>
+    <string name="permdesc_disableKeyguard">앱이 키 잠금 및 관련 비밀번호 보안을 사용 중지할 수 있도록 허용합니다. 예를 들어, 휴대전화가 수신전화를 받을 때 키 잠금을 사용 중지했다가 통화가 끝나면 키 잠금을 다시 사용할 수 있습니다.</string>
     <string name="permlab_readSyncSettings">동기화 설정 읽기</string>
     <string name="permdesc_readSyncSettings">앱이 계정의 동기화 설정을 읽을 수 있도록 허용합니다. 예를 들어, 계정에서 주소록 앱을 동기화할지 여부를 확인할 수 있습니다.</string>
     <string name="permlab_writeSyncSettings">동기화 사용 및 사용 중지 전환</string>
@@ -710,7 +710,7 @@
     <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 암호화해야 합니다.</string>
     <string name="policylab_disableCamera">카메라 사용 안함</string>
     <string name="policydesc_disableCamera">모든 기기 카메라의 사용 차단</string>
-    <string name="policylab_disableKeyguardFeatures">키가드에서 기능 사용중지</string>
+    <string name="policylab_disableKeyguardFeatures">키가드에서 기능 사용 중지</string>
     <string name="policydesc_disableKeyguardFeatures">키가드에서 일부 기능의 사용을 차단합니다.</string>
     <string name="phoneTypeCustom">맞춤설정</string>
     <string name="phoneTypeHome">집</string>
@@ -1140,7 +1140,7 @@
     <string name="usb_storage_stop_button_mount">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_error_message">USB 저장소를 사용하지 않도록 설정하는 동안 문제가 발생했습니다. USB 호스트를 마운트 해제했는지 확인한 다음 다시 시도하세요.</string>
     <string name="dlg_confirm_kill_storage_users_title">USB 저장소 사용</string>
-    <string name="dlg_confirm_kill_storage_users_text">USB 저장소를 사용하면 사용 중인 일부 애플리케이션이 중지되며 USB 저장소를 사용중지할 때까지 사용하지 못할 수 있습니다.</string>
+    <string name="dlg_confirm_kill_storage_users_text">USB 저장소를 사용하면 사용 중인 일부 애플리케이션이 중지되며 USB 저장소를 사용 중지할 때까지 사용하지 못할 수 있습니다.</string>
     <string name="dlg_error_title">USB 작업을 하지 못했습니다.</string>
     <string name="dlg_ok">확인</string>
     <string name="usb_mtp_notification_title">미디어 기기로 연결됨</string>
@@ -1691,7 +1691,7 @@
     <string name="global_action_voice_assist">음성 어시스턴트</string>
     <string name="immersive_cling_description">나가려면 화면을 위에서 아래로 스와이프하세요.</string>
     <string name="immersive_cling_positive">알겠습니다.</string>
-    <string name="immersive_cling_title">전체 화면 실행중</string>
+    <string name="immersive_cling_title">전체 화면 실행 중</string>
     <string name="importance_from_person">타인이 연관되어 있는 알림이기 때문에 중요합니다.</string>
     <string name="importance_from_user">알림의 중요도를 설정하세요.</string>
     <string name="language_picker_section_all">모든 언어</string>
@@ -1766,7 +1766,7 @@
     <string name="reboot_title">다시 시작</string>
     <string name="reboot_to_reset_message">다시 시작중…</string>
     <string name="reboot_to_reset_title">공장 초기화</string>
-    <string name="reboot_to_update_package">업데이트 패키지 설치중…</string>
+    <string name="reboot_to_update_package">업데이트 패키지 설치 중…</string>
     <string name="reboot_to_update_prepare">업데이트 준비 중…</string>
     <string name="reboot_to_update_reboot">다시 시작중...</string>
     <string name="reboot_to_update_title">Android 시스템 업데이트</string>
@@ -1945,9 +1945,9 @@
     <string name="accessibility_shortcut_toogle_warning">"바로가기가 켜져있을 때 볼륨 버튼을 3 초간 누르면 접근성 기능이 시작됩니다. 현재 접근성 기능: %1$s. 설정 > 접근성 에서 변경가능합니다."</string>
     <string name="accessibility_shortcut_warning_dialog_title">접근성 바로가기를 사용하시겠습니까?</string>
     <string name="alert_windows_notification_channel_group_name">앱 위에 그리기</string>
-    <string name="alert_windows_notification_channel_name">%s 앱이 다른앱 위에 표시됩니다.</string>
+    <string name="alert_windows_notification_channel_name">%s 앱이 다른 앱 위에 표시됩니다.</string>
     <string name="alert_windows_notification_message">%s 앱이 표시되는 것을 원치 않으시면 설정에서 끄실 수 있습니다.</string>
-    <string name="alert_windows_notification_title">%s 앱이 다른앱 위에 표시중입니다.</string>
+    <string name="alert_windows_notification_title">%s 앱이 다른 앱 위에 표시중입니다.</string>
     <string name="app_category_audio">음악 &amp; 소리</string>
     <string name="app_category_image">사진 &amp; 이미지</string>
     <string name="app_category_maps">지도 &amp; 내비게이션</string>
@@ -1989,7 +1989,7 @@
     <string name="notification_channel_alerts">경고</string>
     <string name="notification_channel_car_mode">저동차 모드</string>
     <string name="notification_channel_developer">개발자 메시지</string>
-    <string name="notification_channel_foreground_service">앱이 백그라운드에서 실행중입니다.</string>
+    <string name="notification_channel_foreground_service">앱이 백그라운드에서 실행 중입니다.</string>
     <string name="notification_channel_hotspot">Wi-Fi 핫스팟 알림</string>
     <string name="notification_channel_mobile_data_alert">모바일 데이터 경고</string>
     <string name="notification_channel_network_alert">경고</string>
@@ -2156,7 +2156,7 @@
     <string name="zen_upgrade_notification_visd_title">새로운 기능 : 방해 금지 알림 숨기기</string>
     <string name="notification_description">음성 통화 상태</string>
     <string name="status_communication_speaker_summary">핸즈프리 통화 중. 이어폰이 연결되어도 계속 스피커폰 상태를 유지합니다.</string>
-    <string name="status_communication_summary">통화 진행중. 이제 볼륨조절만 가능합니다.</string>
+    <string name="status_communication_summary">통화 진행 중. 이제 볼륨조절만 가능합니다.</string>
     <string name="accessibility_shortcut_spoken_feedback">%1$s 서비스를 사용하려면 두 볼륨 키를 3초 동안 길게 누르세요.</string>
     <string name="activity_resolver_app_settings">설정</string>
     <string name="autofill_update_title_with_2types">&lt;b&gt;%3$s&lt;/b&gt;에서 %1$s 및 %2$s을(를) 업데이트하시겠습니까?</string>

@@ -795,7 +795,7 @@
     <string name="pref_title_allow_upload_message_info">스팸 메시지 업로드</string>
     <string name="pref_title_auto_delete">오래된 메시지부터 삭제</string>
     <string name="pref_title_mms_retrieval_during_international_roaming">해외로밍시 MMS 콘텐츠 다운로드</string>
-    <string name="pref_title_mms_retrieval_during_national_roaming">국내 사용중 MMS 콘텐츠 다운로드</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">국내 사용 중 MMS 콘텐츠 다운로드</string>
     <string name="sms_report">스팸 메시지 신고</string>
     <string name="verification_code_icon_name">인</string>
     <string name="yellowpage_recommend_msg">"MIUI의 메시지 기능을 살펴보세요"</string>
@@ -944,7 +944,7 @@
     <string name="select_different_video">다른 동영상을 선택하세요.</string>
     <string name="sim1">Sim 1</string>
     <string name="sim2">Sim 2</string>
-    <string name="smart_messages_network_allow_message">Mi메시지가 정상적으로 작동하려면 인터넷 연결이 필요합니다, 허용하시겠습니까?</string>
+    <string name="smart_messages_network_allow_message">Mi메시지가 정상적으로 작동하려면 인터넷 연결이 필요합니다. 허용하시겠습니까?</string>
     <string name="smart_messages_network_allow_title">인터넷 연결이 필요함</string>
     <string name="subscribe">구독하기</string>
     <string name="summary_pref_cm_smart_sms">카드 켐플릿, SMS 서비스 번호, 등등.</string>
@@ -970,7 +970,7 @@
     <string name="rcs_auto_resend_as_sms_remind_desp">"네트워크 신호가 약할 때 최대 900B의 메시지를 변환하여 SMS로 보낼 수 있습니다. 메시지를 SMS로 변환하지 않으려면 \"설정 변경\"을 누르세요."</string>
     <string name="rcs_auto_resend_as_sms_remind_title">SMS로 변환</string>
     <string name="rcs_hello_from_pc">컴퓨터에서 Fetion에 로그인하여 파일을 전송하세요.</string>
-    <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시후 다시 시도하세요.</string>
+    <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시 후 다시 시도하세요.</string>
     <string name="dialog_sim_locked_confirm">확인</string>
     <string name="dialog_sim_locked_message">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대전화에서 완벽하게 작동하지 않습니다. 이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 Xiaomi 서비스 센터 또는 제품을 판매한 상점에 문의하세요."</string>
     <string name="dialog_complain_tips">메시지 앱이 항목을 보고할 수 있도록 네트워크 연결을 허용합니다.</string>

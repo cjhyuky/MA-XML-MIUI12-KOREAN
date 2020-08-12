@@ -82,13 +82,13 @@
     <string name="message_install_in_market">앱 스토어에서 설치하기를 권장합니다.</string>
     <string name="message_appstore_verify_has_new_version">앱 스토어에서 이 앱의 새로운 버전이 사용 가능합니다. 설치하시겠습니까?</string>
     <string name="message_appstore_verify_inconsistent">이 앱의 서명이 앱스토어와 일치 하지 않습니다. 앱스토어의 앱을 설치하는 것이 더욱 안전합니다.</string>
-    <string name="message_appstore_verify_ok">이 앱의 버전은 앱 스토어의 안전 검사에 통과했습니다, 앱스토어에서의 앱 설치를 추천합니다.</string>
+    <string name="message_appstore_verify_ok">이 앱의 버전은 앱 스토어의 안전 검사에 통과했습니다. 앱스토어에서의 앱 설치를 추천합니다.</string>
     <string name="install_from_appstore_hint">앱 스토어에서의 앱 설치를 추천합니다.</string>
     <string name="waiting_tip">시간이 좀 걸리겠지만 가치 있을 것입니다.</string>
     <string name="toast_network_eror">네트워크에 연결할 수 없습니다.</string>
     <string name="ads_install_button">설치</string>
     <string name="ads_install_button_isDownloading">다운로드 중</string>
-    <string name="ads_install_button_isInstalling">설치중</string>
+    <string name="ads_install_button_isInstalling">설치 중</string>
     <string name="ads_install_button_installed">열기</string>
     <string name="ads_install_button_waiting">대기 중</string>
     <string name="ads_summary">%1$s 앱을 설치한 사람들이 좋아한 것</string>
@@ -197,7 +197,7 @@
     <string name="install_confirm_question_update_system">이 시스템 앱의 업데이트를 설치하시겠습니까? 이미 존재하는 데이터는 삭제되지 않습니다. 업데이트된 앱 다음 항목 접근 가능:</string>
     <string name="install_confirm_question_update_no_perms">설치된 앱의 업데이트를 설치하시겠습니까? 이미 존재하는 데이터는 삭제되지 않습니다. 이 작업은 특별한 권한을 요구하지 않습니다.</string>
     <string name="install_confirm_question_update_system_no_perms">이 시스템 앱의 업데이트를 설치하시겠습니까? 이미 존재하는 데이터는 삭제되지 않습니다. 이 작업은 특별한 권한을 요구하지 않습니다.</string>
-    <string name="install_failed_blocked">해당 패키지는 설치중에 차단되었습니다.</string>
+    <string name="install_failed_blocked">해당 패키지는 설치 중에 차단되었습니다.</string>
     <string name="install_failed_conflict">해당 패키지가 존재하는 패키지와 이름이 같습니다.</string>
     <string name="install_failed_incompatible">이 앱은 이 휴대전화와 호환되지 않습니다.</string>
     <string name="unknown_apps_admin_dlg_text">관리자가 알 수 없는 출처의 앱 설치를 허용하지 않습니다.</string>
@@ -463,8 +463,8 @@
     <string name="power_remaining_duration_only_short">%1$s 남음</string>
     <string name="remaining_length_format">%1$s 남음</string>
     <string name="running_process_item_user_label">사용자: %1$s</string>
-    <string name="runningservices_settings_summary">현재 실행중인 서비스를 보여주고 컨트롤합니다.</string>
-    <string name="runningservices_settings_title">실행중인 서비스</string>
+    <string name="runningservices_settings_summary">현재 실행 중인 서비스를 보여주고 컨트롤합니다.</string>
+    <string name="runningservices_settings_title">실행 중인 서비스</string>
     <string name="saved_network">%1$s에 의해 저장됨</string>
     <string name="screen_zoom_summary_custom">사용자 정의 (%d)</string>
     <string name="screen_zoom_summary_default">기본값</string>

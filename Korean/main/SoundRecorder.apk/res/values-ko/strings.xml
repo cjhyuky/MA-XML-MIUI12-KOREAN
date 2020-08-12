@@ -228,7 +228,7 @@
     <string name="recognition_error_code">오류 코드 : %d</string>
     <string name="recognition_error_download_data_msg">현재 모바일 데이터 연결에서 약 20MB를 소비하는이 서비스를 사용할 수 있도록 인식 엔진을 다운로드하세요.</string>
     <string name="recognition_error_unknown">알 수 없는 오류</string>
-    <string name="recognition_process_dialog_body">기타 녹음 (%s)이 지금 복사 중입니다. 진행중인 작업을 중지하고 새 작업을 시작하시겠습니까?</string>
+    <string name="recognition_process_dialog_body">기타 녹음 (%s)이 지금 복사 중입니다. 진행 중인 작업을 중지하고 새 작업을 시작하시겠습니까?</string>
     <string name="recognition_process_dialog_cancel">대기열</string>
     <string name="recognition_process_dialog_confirm">강제 시작</string>
     <string name="recognition_process_dialog_title">인식 팁</string>
@@ -297,7 +297,7 @@
     <string name="recognition_notification_complete_success">\"%s\"을(를) 기록했습니다. 보려면 탭하세요.</string>
     <string name="recognition_notification_error">"\"%s\"을(를) 기록할 수 없습니다.</string>
     <string name="recognition_notification_running">\"%s\" 전사 중…</string>
-    <string name="recognition_stop_current">진행중인 작업 중지</string>
+    <string name="recognition_stop_current">진행 중인 작업 중지</string>
     <string name="recovery">복원</string>
     <string name="recovery_failed_dialog_button">확인</string>
     <string name="recovery_failed_dialog_title">주의</string>

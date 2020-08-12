@@ -383,7 +383,7 @@
     <string name="individuation_recommend_switch_message">이 기능을 끄면 권장 음악 기능을 사용할 수 없게 됩니다. 계속하시겠습니까?</string>
     <string name="individuation_recommend_title">사용자를 위한 음악 추천</string>
     <string name="input_hint_prefix">%1$s 입력</string>
-    <string name="installing_apk">설치중...</string>
+    <string name="installing_apk">설치 중...</string>
     <string name="insufficient_space">기기 내부 저장소에 공간이 충분하지 않습니다.</string>
     <string name="is_latest_version">최신 음악입니다.</string>
     <string name="is_scanning">저장소… 확인 중</string>

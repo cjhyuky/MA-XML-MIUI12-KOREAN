@@ -511,11 +511,11 @@
     <string name="online_precust_cartoon">만화</string>
     <string name="online_precust_entertainment">엔터테인먼트</string>
     <string name="online_precust_starry_sky">푸른 하늘</string>
-    <string name="resource_current_using_title">현재 사용중인 테마</string>
+    <string name="resource_current_using_title">현재 사용 중인 테마</string>
     <string name="resource_free_trial_15_days">15일 무료 체험</string>
     <string name="resource_free_use_last_one_day">무료 체험 기간이 내일 만료됩니다.</string>
     <string name="resource_local_picker">기기에 저장된 벨소리 선택</string>
-    <string name="resource_on_use">사용중인 파일 : %1$s</string>
+    <string name="resource_on_use">사용 중인 파일 : %1$s</string>
     <string name="resource_online_picker">온라인 벨소리 선택</string>
     <string name="resource_select_ringtone_confirm">이 벨소리를 선택하시겠습니까?</string>
     <string name="resource_trial_15_days_end_title">15일 무료 체험 만료</string>
@@ -751,7 +751,7 @@
     <string name="wallpaper_set_as_float_wallpaper">투명 배경화면(베타)</string>
     <string name="desktop_effects">홈 화면 효과</string>
     <string name="ad_begin_to_download_tip">다운로드 시작중…</string>
-    <string name="ad_begin_to_install_tip">설치중…</string>
+    <string name="ad_begin_to_install_tip">설치 중…</string>
     <string name="ad_closed_tip">"이 유형의 광고는 더 적습니다."</string>
     <string name="ad_download_download">다운로드</string>
     <string name="ad_download_download_now">다운로드</string>
@@ -835,7 +835,7 @@
     <string name="video_ad_uncomplete_tip_continue">계속 시청</string>
     <string name="current_using_float_wallpaper_text">투명</string>
     <string name="enable_all_free_mode">사용</string>
-    <string name="enabling_all_free_mode">사용중…</string>
+    <string name="enabling_all_free_mode">사용 중…</string>
     <string name="has_mamual_hide_font">숨김</string>
     <string name="has_mamual_hide_theme">숨김</string>
     <string name="has_mamual_hide_wallpaper">숨김</string>
@@ -865,7 +865,7 @@
     <string name="theme_comment_detail_sub_comment_title">모든 답변</string>
     <string name="theme_comment_detail_title">자세히</string>
     <string name="theme_comment_sub_comment_bar_hint">커뮤니티와 아이디어 공유</string>
-    <string name="transparent_wallpaper_is_running_in_background">투명 배경화면이 백그라운드에서 실행중입니다.</string>
+    <string name="transparent_wallpaper_is_running_in_background">투명 배경화면이 백그라운드에서 실행 중입니다.</string>
     <string name="unable_connect_network">"네트워크에 연결할 수 없습니다."</string>
     <string name="wallpaper_24h">24H</string>
     <string name="wallpaper_delete_all">선택한 항목을 삭제하시겠습니까?</string>

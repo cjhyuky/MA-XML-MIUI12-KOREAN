@@ -101,7 +101,7 @@
         <item>MIUI 절전 모드</item>
     </string-array>
     <string-array name="hmode_app_classify2">
-        <item>사용중인 앱</item>
+        <item>사용 중인 앱</item>
         <item>슬립 상태</item>
     </string-array>
     <string-array name="emode_app_groups">

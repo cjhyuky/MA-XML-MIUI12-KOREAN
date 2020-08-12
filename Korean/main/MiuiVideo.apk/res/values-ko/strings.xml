@@ -149,7 +149,7 @@
     <string name="buffering_video_netplay_label_v5">버퍼링 중…</string>
     <string name="buy_vip">vip 구입</string>
     <string name="check_plugin_loading">HD 동영상 플러그인 불러오는 중…</string>
-    <string name="check_plugin_message">HD 동영상 플러그인 설치중…</string>
+    <string name="check_plugin_message">HD 동영상 플러그인 설치 중…</string>
     <string name="check_plugin_tips">HD 동영상 플러그인</string>
     <string name="clear_cache">캐시 이미지 삭제</string>
     <string name="clear_cache_success">캐시 삭제 완료</string>
@@ -304,7 +304,7 @@
     <string name="storage_total">"총: "</string>
     <string name="suffix_countdown">초</string>
     <string name="t_comment_success">전송 완료</string>
-    <string name="t_install_new_version">업데이트 설치중…</string>
+    <string name="t_install_new_version">업데이트 설치 중…</string>
     <string name="t_network_error_to_retry">네트워크 오류가 발생했습니다.</string>
     <string name="t_no_miuibbs">MIUI 포럼 설치 후 다시 시도하세요.</string>
     <string name="t_search_key_not_null">검색할 키워드를 입력하세요.</string>
@@ -557,7 +557,7 @@
     <string name="vp_using_16_9">강제 16:9</string>
     <string name="vp_using_4_3">강제 4:3</string>
     <string name="vp_video_bad_network_condition">인터넷 연결 상태가 좋지 않습니다. 나중에 다시 시도하세요.</string>
-    <string name="vp_video_create_video_error_info">"플러그인을 초기화 할 수 없습니다. 잠시후 다시 시도하세요."</string>
+    <string name="vp_video_create_video_error_info">"플러그인을 초기화 할 수 없습니다. 잠시 후 다시 시도하세요."</string>
     <string name="vp_video_invalid_cp_info">콘텐츠 제공 업체 정보가 유효하지 않습니다. 앱을 다시 시작하세요.</string>
     <string name="vp_video_loading"><CDATA>잠시만 기다려주세요…</CDATA></string>
     <string name="vp_video_plugin_installation">%1$s 설치 중…</string>
@@ -736,7 +736,7 @@
     <string name="ai_music_save_success">저장 완료</string>
     <string name="ai_music_saved">저장 완료</string>
     <string name="airkan_device_my_phone">나의 휴대전화</string>
-    <string name="alert_dialog_download_install_live_plugin_task">설치중</string>
+    <string name="alert_dialog_download_install_live_plugin_task">설치 중</string>
     <string name="alert_dialog_download_live_plugin">플러그인 다운로드 중:</string>
     <string name="all_content_nums">(%d 에피소드)</string>
     <string name="cannot_support_speed">이 영상은 재생속도를 변경할 수 없습니다.</string>
@@ -772,8 +772,8 @@
     <string name="h5_unsharedable">이 항목 공유 불가</string>
     <string name="install">설치</string>
     <string name="install_now">설치하기</string>
-    <string name="installing">설치중…</string>
-    <string name="installing_nopoint">설치중</string>
+    <string name="installing">설치 중…</string>
+    <string name="installing_nopoint">설치 중</string>
     <string name="integral_exp">포인트에 대하여</string>
     <string name="lp_speed_title">재생 속도</string>
     <string name="lp_speed_toast">%s배속으로 재생중…</string>
@@ -870,7 +870,7 @@
     <string name="shared_weixin">WeChat</string>
     <string name="show_all_comment">모든 댓글 보기</string>
     <string name="slid_fail_message">동영상 저장 실패</string>
-    <string name="slide_save_message">동영상 생성중…</string>
+    <string name="slide_save_message">동영상 생성 중…</string>
     <string name="storage_clear">여유 공간 확보</string>
     <string name="storage_has_sk_card">SD 카드</string>
     <string name="storage_unused">%1$s 사용가능</string>
@@ -885,8 +885,8 @@
     <string name="toast_gprs_network">모바일 데이터를 사용하여 동영상을 스트리밍중…</string>
     <string name="toast_operate_message_delete_success">삭제 완료</string>
     <string name="toast_remind_clean_room">공간을 비우고 다시 시도하세요.</string>
-    <string name="toast_remind_no_enough_room_and_stop_task">저장 공간이 충분하지 않습니다. 진행중인 다운로드를 일시 중지했습니다.</string>
-    <string name="toast_remind_path_invalid">오류가 발생했습니다. 진행중인 다운로드를 삭제하고 다시 시도하세요.</string>
+    <string name="toast_remind_no_enough_room_and_stop_task">저장 공간이 충분하지 않습니다. 진행 중인 다운로드를 일시 중지했습니다.</string>
+    <string name="toast_remind_path_invalid">오류가 발생했습니다. 진행 중인 다운로드를 삭제하고 다시 시도하세요.</string>
     <string name="unfinished_offline_all_start_text">모두 시작</string>
     <string name="unfinished_offline_all_stop_text">모두 멈춤</string>
     <string name="unfinished_offline_network_disable">네트워크에 연결하고 다시 시도하세요.</string>
@@ -1021,7 +1021,7 @@
     <string name="reply">%s님에게 답장:</string>
     <string name="send_comment_default_txt">댓글을 입력하세요.</string>
     <string name="small_video_app_continue_download">이어보기</string>
-    <string name="small_video_app_installing">설치중…</string>
+    <string name="small_video_app_installing">설치 중…</string>
     <string name="small_video_app_open">열기</string>
     <string name="small_video_app_play">재생</string>
     <string name="small_video_not_support_comment">이 광고에 댓글을 추가할 수 없습니다.</string>

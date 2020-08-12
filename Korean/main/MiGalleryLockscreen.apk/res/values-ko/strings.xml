@@ -46,7 +46,7 @@
     <string name="and">" 및 "</string>
     <string name="app_name">슬라이드형 배경화면</string>
     <string name="app_self_upgrade_dlg_checkbox_ignore_version">이 버전 무시하기</string>
-    <string name="app_self_upgrade_dlg_content">새로운 앱 버전이 있습니다, 바로 업그레이드하시겠습니까?</string>
+    <string name="app_self_upgrade_dlg_content">새로운 앱 버전이 있습니다. 바로 업그레이드하시겠습니까?</string>
     <string name="app_self_upgrade_dlg_negative_btn">나중에 다시 알림</string>
     <string name="app_self_upgrade_dlg_postive_btn">업그레이드</string>
     <string name="app_self_upgrade_dlg_title">앱 업그레이드</string>

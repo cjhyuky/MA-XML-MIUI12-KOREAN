@@ -51,7 +51,7 @@
     <string name="cast_connecting_to_device">%1$s에 연결 중입니다.</string>
     <string name="cast_disconnect">연결 끊기</string>
     <string name="cast_expanded_controller_ad_image_description">전송 수신자가 광고를 재생하는 동안 표시되는 이미지</string>
-    <string name="cast_expanded_controller_ad_in_progress">진행중인 광고...</string>
+    <string name="cast_expanded_controller_ad_in_progress">진행 중인 광고...</string>
     <string name="cast_expanded_controller_background_image">앨범 아트</string>
     <string name="cast_expanded_controller_live_stream_indicator">라이브 스트림</string>
     <string name="cast_expanded_controller_loading">불러오는 중...</string>
@@ -147,7 +147,7 @@
     <string name="error_msg_no_network">네트워크 연결이 감지되지 않았습니다. 네트워크 소스에 연결되어 있는지 확인하고 다시 시도하세요.</string>
     <string name="error_msg_server_error">이 순간 서버를 사용할 수 없습니다. 다시 시도하세요.</string>
     <string name="error_msg_socket_timeout">소켓 시간 초과. 나중에 다시 시도하세요.</string>
-    <string name="error_msg_video_play_time_out">죄송합니다. 지금이 동영상을 재생할 수 없습니다. 잠시후 다시 시도하세요.</string>
+    <string name="error_msg_video_play_time_out">죄송합니다. 지금이 동영상을 재생할 수 없습니다. 잠시 후 다시 시도하세요.</string>
     <string name="error_msg_video_play_time_out_title">시간 초과됨</string>
     <string name="error_no_content">사용 가능한 컨텐츠가 없습니다.</string>
     <string name="error_title">정보</string>
@@ -177,7 +177,7 @@
     <string name="lbl_connection_failed_alert_title">연결 실패</string>
     <string name="lbl_player_local_video_deleted_alert_dialog_text">이 동영상은 재생할 수 없습니다.</string>
     <string name="lbl_player_no_network">네트워크 연결이 감지되지 않았습니다. 네트워크 소스에 연결되어 있는지 확인하고 다시 시도하세요.</string>
-    <string name="lbl_player_response_failed_alert_dialog_text">죄송합니다. 요청을 지금 완료할 수 없습니다. 잠시후 다시 시도하세요.</string>
+    <string name="lbl_player_response_failed_alert_dialog_text">죄송합니다. 요청을 지금 완료할 수 없습니다. 잠시 후 다시 시도하세요.</string>
     <string name="lbl_setting_playback_streaming_auto">자동</string>
     <string name="lbl_url_alert">정보</string>
     <string name="logging_normal">일반</string>
@@ -394,7 +394,7 @@
     <string name="ovp_video_create_video_error_info">플러그인을 초기화 할 수 없습니다. 잠시 후 다시 시도하세요.</string>
     <string name="ovp_video_invalid_cp_info">정보를로드 할 수 없습니다. 앱을 다시 시작하세요.</string>
     <string name="ovp_video_loading">%1$s 재생하는 중...</string>
-    <string name="ovp_video_plugin_installation">%1$s 설치중...</string>
+    <string name="ovp_video_plugin_installation">%1$s 설치 중...</string>
     <string name="ovp_video_plugin_installation_failure">%1$s 플러그인을 설치할 수 없습니다.</string>
     <string name="ovp_video_plugin_installation_two">잠시만 기다려주세요...</string>
     <string name="page_title_language">동영상 언어 환경 설정</string>
@@ -513,7 +513,7 @@
     <string name="share">공유</string>
     <string name="share_ugc_content">%1$s을 살펴보세요! #%2$s(%3$s)</string>
     <string name="share_ugc_join">참여</string>
-    <string name="share_ugc_waitting">링크 생성중</string>
+    <string name="share_ugc_waitting">링크 생성 중</string>
     <string name="sign_in_title">Mi 계정으로 로그인하세요.</string>
     <string name="signup_type_silent_default">침묵의</string>
     <string name="signup_type_user_default">로그인 SDK 소비자</string>

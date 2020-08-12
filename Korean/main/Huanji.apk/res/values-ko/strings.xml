@@ -55,7 +55,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="trans_detail_item_app_skip_data">"이 앱을 이동할 수 없습니다."</string>
     <string name="account_or_password_incorrect">잘못된 계정 ID 또는 비밀번호</string>
     <string name="cannot_use_mi_huanji_button">확인</string>
-    <string name="cannot_use_mi_huanji_summary">MIUI가 이제 항목을 백업하는 것 같습니다. Mi Mover가 전송을 시작하도록 진행중인 백업을 중지하거나 기기를 다시 시작합니다.</string>
+    <string name="cannot_use_mi_huanji_summary">MIUI가 이제 항목을 백업하는 것 같습니다. Mi Mover가 전송을 시작하도록 진행 중인 백업을 중지하거나 기기를 다시 시작합니다.</string>
     <string name="cannot_use_mi_huanji_title">"현재 전송 불가"</string>
     <string name="connect_icloud_fail">"아이클라우드에 연결할 수 없습니다."</string>
     <string name="connect_icloud_fail_tips">아이클라우드 계정이 활성화되어 있는지 확인하세요. 그렇지 않은 경우 icloud.com으로 이동하여 지침에 따라 계정을 활성화하세요.</string>
@@ -188,7 +188,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="prompt_before_transmission_message2_summary">"듀얼 앱을 전송할 수 없습니다. 그러나 원본 앱을 전송할 수 있습니다."</string>
     <string name="prompt_before_transmission_message2_title">"다음 항목에 듀얼 앱을 사용하고 있습니다."</string>
     <string name="prompt_before_transmission_message3_summary">"시스템 제한으로 인해 보조 공간 데이터를 전송할 수 없습니다."</string>
-    <string name="prompt_before_transmission_message3_title">"보조 공간을 사용중입니다."</string>
+    <string name="prompt_before_transmission_message3_title">"보조 공간을 사용 중입니다."</string>
     <string name="prompt_before_transmission_message4_summary">"전송이 완료 될 때까지 Wi-Fi를 끄지 마세요."</string>
     <string name="prompt_before_transmission_message4_title">전송 중 연결 상태 유지</string>
 </resources>

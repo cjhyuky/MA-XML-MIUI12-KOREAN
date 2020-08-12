@@ -66,14 +66,14 @@
     <string name="no_tasks">작업 없음</string>
     <string name="open_changed_file_message">"열려고 한 파일이 변경되었습니다. 파일을 다시 업로드하세요."</string>
     <string name="open_changed_file_title">변경사항이 저장되었습니다.</string>
-    <string name="operating">처리중...</string>
+    <string name="operating">처리 중...</string>
     <string name="operation_cancel">취소</string>
     <string name="operation_copy">복사</string>
     <string name="operation_copying">복사중…</string>
     <string name="operation_copying_detail">복사중 (%1$d/%2$d)</string>
     <string name="operation_create_folder">새 폴더 생성하기</string>
     <string name="operation_create_folder_message">폴더명</string>
-    <string name="operation_creating_folder">폴더 생성중...</string>
+    <string name="operation_creating_folder">폴더 생성 중...</string>
     <string name="operation_delete">삭제</string>
     <string name="operation_delete_message_folder">폴더 안에 있는 모든 파일들이 삭제됩니다.</string>
     <string name="operation_delete_selected_tasks">선택된 파일을 삭제하시겠습니까?</string>

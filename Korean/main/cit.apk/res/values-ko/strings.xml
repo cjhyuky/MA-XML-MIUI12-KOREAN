@@ -18,7 +18,7 @@
     <string name="cit_aud_spkcal">보정</string>
     <string name="cit_audio_cali_done">보정 완료</string>
     <string name="cit_audio_cali_failed">보정 실패. 다시 시도하세요.</string>
-    <string name="cit_audio_cali_file_existed">음악 파일이 존재하지 않습니다, 보정 작업을 할 수 없습니다!</string>
+    <string name="cit_audio_cali_file_existed">음악 파일이 존재하지 않습니다. 보정 작업을 할 수 없습니다!</string>
     <string name="cit_audio_cali_playing">버튼을 눌러 보정</string>
     <string name="cit_audio_cali_summary">스피커 PA 보정</string>
     <string name="cit_audio_cali_title">스피커 PA 보정 테스트</string>
@@ -199,11 +199,11 @@
     <string name="cit_sd_mount_sucess">SD 카드 장착됨</string>
     <string name="cit_sd_mp3_not_existed">"SD 카드에 \"music.mp3\" 파일이 없습니다
 SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치하여 재생하세요."</string>
-    <string name="cit_sd_plugged_in">SD 카드가 감지되었습니다, 지금 SD 카드를 제거하세요.</string>
-    <string name="cit_sd_plugged_out">SD 카드가 제거되었습니다, SD 카드를 삽입하세요.</string>
+    <string name="cit_sd_plugged_in">SD 카드가 감지되었습니다. 지금 SD 카드를 제거하세요.</string>
+    <string name="cit_sd_plugged_out">SD 카드가 제거되었습니다. SD 카드를 삽입하세요.</string>
     <string name="cit_sd_plugin_check_summary">\"SD 카드가 감지되었습니다. 지금 SD 카드를 제거하세요.\"라는 문구가 아래에 표시됩니다.</string>
     <string name="cit_sd_plugin_check_title">SD 카드(감지)</string>
-    <string name="cit_sd_plugout_check_summary">SD 카드를 제거하면, \"SD 카드가 제거되었습니다, 지금 SD 카드를 삽입하세요.\"라는 문구가 하단에 표시됩니다.</string>
+    <string name="cit_sd_plugout_check_summary">SD 카드를 제거하면, \"SD 카드가 제거되었습니다. 지금 SD 카드를 삽입하세요.\"라는 문구가 하단에 표시됩니다.</string>
     <string name="cit_sd_plugout_check_title">SD 카드(분리)</string>
     <string name="cit_sd_unmount">SD 카드 장착 해제</string>
     <string name="cit_sd_unmount_sucess">SD 카드 장착 해제됨</string>
@@ -895,7 +895,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_proximity_data_check_summary">근접 센서(수신기 근처에있는 휴대전화의 상단에 위치)를 손으로 덮은 다음 손을 멀리 움직입니다. 손을 멀리 떨어 뜨리면 값이 0.0에서 증가합니다 장치.
 초음파 근접 센서 인 경우 테스트 도중 전화를받는 동작을 시뮬레이션하세요.</string>
     <string name="cit_tool_check_opt">확실한가요?</string>
-    <string name="cit_tool_check_opt_with_reboot">다시 시작 됩니다, 확실한가요?</string>
+    <string name="cit_tool_check_opt_with_reboot">다시 시작 됩니다. 확실한가요?</string>
     <string name="cit_tool_current_modem_test_mode">네트워크 테스트 모드:</string>
     <string name="cit_tool_modem_rf_ant_test">모뎀 rf ant 테스트 설정</string>
     <string name="cit_tool_modem_test_clr">gpio 테스트 닫기</string>
@@ -939,7 +939,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_f2_cali_done">보정 완료</string>
     <string name="cit_f2_cali_failed">보정에 실패했습니다. 다시 시도하세요.</string>
     <string name="cit_f2_cali_title">카메라 보정</string>
-    <string name="cit_f2_calibrating">보정 진행중...</string>
+    <string name="cit_f2_calibrating">보정 진행 중...</string>
     <string name="cit_f2_camera_check_summary">"테스트 지침 :
 1. 보정 버튼을 누르세요.
 2. 카메라가 보정되었음을 나타내는 보정 통과 레이블이 있습니다."</string>

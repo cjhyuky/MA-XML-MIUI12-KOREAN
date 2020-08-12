@@ -4,7 +4,7 @@
     <string name="android_beam">Android Beam</string>
     <string name="app_name">NFC 서비스</string>
     <string name="ask_nfc_tap">상대 기기를 탭하여 완료하기</string>
-    <string name="beam_busy">처리중입니다. 이전 전송이 끝나면 다시 시도하세요.</string>
+    <string name="beam_busy">처리 중입니다. 이전 전송이 끝나면 다시 시도하세요.</string>
     <string name="beam_canceled">빔 작업 취소</string>
     <string name="beam_complete">빔 작업 완료</string>
     <string name="beam_failed">빔 작업 미완료</string>

@@ -122,7 +122,7 @@
     <string name="app_download_success_text">완료</string>
     <string name="app_downloading_ratio_text">%s 다운로드 중</string>
     <string name="app_downloading_text">다운로드 중</string>
-    <string name="app_installing_text">설치중</string>
+    <string name="app_installing_text">설치 중</string>
     <string name="app_name">마켓개발자</string>
     <string name="app_new_version">이미 최신 버젼의 앱이 설치되어 있습니다.</string>
     <string name="app_open_text">열기</string>
@@ -450,7 +450,7 @@
     <string name="home_hybrid_application_tips">미니 프로그램이 여기 포함되어있습니다.</string>
     <string name="homepage_delete_card_menu">삭제</string>
     <string name="homepage_get_location">위치 가져오기</string>
-    <string name="homepage_get_location_failed">위치 정보를 가져오지 못했습니다, 도시를 선택하세요.</string>
+    <string name="homepage_get_location_failed">위치 정보를 가져오지 못했습니다. 도시를 선택하세요.</string>
     <string name="homepage_more_cards">더 많은 서비스</string>
     <string name="homepage_more_sites">웹사이트 더 보기</string>
     <string name="homepage_search_hint">검색</string>
@@ -839,7 +839,7 @@
     <string name="mw_payments_pickup_option_label">수령 방법</string>
     <string name="mw_payments_pickup_summary_label">수령</string>
     <string name="mw_payments_prepaid_cards_are_accepted_label">선불카드가 등록되었습니다.</string>
-    <string name="mw_payments_processing_message">처리중</string>
+    <string name="mw_payments_processing_message">처리 중</string>
     <string name="mw_payments_recipient_required">이름이 필요합니다.</string>
     <string name="mw_payments_required_field_message">* 항목을 채워주세요.</string>
     <string name="mw_payments_save_card_to_device_checkbox">이 카드를 이 기기에 저장</string>
@@ -965,7 +965,7 @@
     <string name="play_retry">다시 보기</string>
     <string name="play_video">동영상 재생</string>
     <string name="player_3g_tip_sub_title">재생하시면 데이터 요금이 발생합니다.</string>
-    <string name="player_3g_tip_title">현재 모바일 네트워크 이용중입니다, 계속 재생하시면 요금이 발생할 수 있습니다.</string>
+    <string name="player_3g_tip_title">현재 모바일 네트워크 이용중입니다. 계속 재생하시면 요금이 발생할 수 있습니다.</string>
     <string name="player_data_error_tip">이 동영상은 현재 일시적으로 사용불가합니다. 나중에 다시 시도하세요.</string>
     <string name="player_net_error">네트워크에 연결되어있지 않습니다. 네트워크 설정을 확인하세요.</string>
     <string name="player_no_data">죄송합니다! 이 동영상은 지워졌습니다.</string>
@@ -1602,7 +1602,7 @@
     <string name="short_video_ad_download_app">%s 앱 다운로드</string>
     <string name="short_video_ad_download_immediately">다운로드</string>
     <string name="short_video_ad_downloading">%d%% 다운로드 중</string>
-    <string name="short_video_ad_installing">설치중</string>
+    <string name="short_video_ad_installing">설치 중</string>
     <string name="short_video_ad_open_app">%s 앱 열기</string>
     <string name="short_video_ad_open_immediately">열기</string>
     <string name="short_video_ad_resume_downloading">이어받기</string>

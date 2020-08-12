@@ -130,7 +130,7 @@
     <string name="package_not_available">\"%s\" 를 사용할 수 없습니다.</string>
     <string name="select_voice_call_sim">SIM 카드 선택</string>
     <string name="msim_select_default_time_left">(%d초)</string>
-    <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용중.</string>
+    <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용 중.</string>
     <string name="select_one_sim_title">SIM %1$d만 사용 가능</string>
     <string name="can_not_use">사용할 수 없음</string>
     <string name="call_description_recording">녹음 중…</string>
@@ -264,7 +264,7 @@
     <string name="sim1_heduohao_card">서브1</string>
     <string name="sim2_heduohao_card">서브2</string>
     <string name="sim3_heduohao_card">서브3</string>
-    <string name="select_sim_hint_for_heduohao">"SIM %1$d 서브 %2$d 사용중에는 나머지는 사용할 수 없습니다."</string>
+    <string name="select_sim_hint_for_heduohao">"SIM %1$d 서브 %2$d 사용 중에는 나머지는 사용할 수 없습니다."</string>
     <string name="select_one_sim_title_for_heduohao">SIM %1$d 서브 %2$d만 사용가능</string>
     <string name="incall_bubble_hangup_click_hint">통화로 돌아가려면 다시 탭하세요.</string>
     <string name="incoming_circle_text_video_answer">동영상으로 답장 공개</string>

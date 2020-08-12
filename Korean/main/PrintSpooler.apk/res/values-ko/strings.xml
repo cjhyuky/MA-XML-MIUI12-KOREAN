@@ -99,7 +99,7 @@
     <string name="print_submited">인쇄할 준비가 되었습니다.</string>
     <string name="print_title">인쇄중…</string>
     <string name="printer">프린터</string>
-    <string name="printer_busy">프린터를 사용중입니다.</string>
+    <string name="printer_busy">프린터를 사용 중입니다.</string>
     <string name="printer_error">프린터 오류</string>
     <string name="printer_error_msg">프린터 오류:…%1$s</string>
     <string name="printer_notification_error_title">"%1$s 인쇄 실패"</string>

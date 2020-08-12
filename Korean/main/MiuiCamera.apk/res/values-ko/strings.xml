@@ -722,7 +722,7 @@
     <string name="accessibility_zoom_control">줌 관리</string>
     <string name="aperture">초점</string>
     <string name="app_details">앱 정보:</string>
-    <string name="bg_replacement_message">"기기를 평평한 곳에 놓고 조금만 기다리세요."</string>
+    <string name="bg_replacement_message">"기기를 평평한 곳에 놓고 잠시 기다리세요."</string>
     <string name="can_not_play_video">화면 잠금을 해제해 재생</string>
     <string name="clear_effects">모든 효과 제거</string>
     <string name="cloud_album_details">클라우드 앨범 정보 : </string>
@@ -872,7 +872,7 @@
     <string name="wifi_connect_current_connetion">"Wi-Fi에 연결되어 있습니다."</string>
     <string name="wifi_details">Wi-Fi 정보:</string>
     <string name="wifi_ssid">SSID:</string>
-    <string name="wifi_warning">"연결하기 전에 사용중인 네트워크가 안전한지 확인하세요."</string>
+    <string name="wifi_warning">"연결하기 전에 사용 중인 네트워크가 안전한지 확인하세요."</string>
     <string name="pref_camera_parallel_process_enable_title">사진 병렬 처리 활성화</string>
     <string name="pref_face_beauty_xhigh">i:4</string>
     <string name="pref_face_beauty_xxhigh">i:5</string>
@@ -954,7 +954,7 @@
     <string name="pref_video_encoder_title">동영상 인코더</string>
     <string name="beauty_fragment_tab_name_3d_beauty">미화</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">리모델링</string>
-    <string name="lens_dirty_detected_content">"카메라 렌즈가 더럽습니다,
+    <string name="lens_dirty_detected_content">"카메라 렌즈가 더럽습니다.
 보다 나은 사진을 위해서 카메라 렌즈를 닦으세요."</string>
     <string name="lens_dirty_detected_title_back">후면 카메라 오염</string>
     <string name="lens_dirty_detected_title_front">전면 카메라 오염</string>

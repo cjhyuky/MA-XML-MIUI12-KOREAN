@@ -1161,7 +1161,7 @@
     <string name="forget_password_button_text">&lt;u&gt;비밀번호 찾기&lt;/u&gt;</string>
     <string name="forget_password_button_text_normal">비밀번호 분실</string>
     <string name="forget_pattern">&lt;u&gt;비밀번호 분실&lt;/u&gt;</string>
-    <string name="forground_network_optimization_summary">현재 실행중인 게임에 더 많은 대역폭 제공</string>
+    <string name="forground_network_optimization_summary">현재 실행 중인 게임에 더 많은 대역폭 제공</string>
     <string name="forground_network_optimization_title">대역폭 우선 순위</string>
     <string name="free_send_net_booster">무료 네트워크 스피드 부스트</string>
     <string name="free_send_net_booster_busniess">무료 Xunlei 스피드 부스트 앱 받기</string>
@@ -1767,9 +1767,9 @@
     <string name="om_lock_app_unlocked_app">잠금해제됨</string>
     <string name="om_locked_apps_summary">잠긴 앱은 속도 향상에 의해 무시됩니다.</string>
     <string name="om_not_finish_speedboost">속도 향상이 필요합니다.</string>
-    <string name="om_running_locked_apps">실행중인 잠긴 앱</string>
-    <string name="om_running_system_apps">실행중인 시스템 앱</string>
-    <string name="om_running_third_apps">실행중인 타사 앱</string>
+    <string name="om_running_locked_apps">실행 중인 잠긴 앱</string>
+    <string name="om_running_system_apps">실행 중인 시스템 앱</string>
+    <string name="om_running_third_apps">실행 중인 타사 앱</string>
     <string name="om_settings_cpu_over_load_notify">CPU 사용량</string>
     <string name="om_settings_cpu_over_load_summary">CPU 사용량이 너무 높을 때 알림</string>
     <string name="om_settings_lock_app">앱 잠금</string>
@@ -1966,7 +1966,7 @@
     <string name="power_center_scan_item_title_GPS">GPS 정확도 조정</string>
     <string name="power_center_scan_item_title_hide">배터리 사용 관리</string>
     <string name="power_center_scan_item_title_power_saver">절전 모드 켜기</string>
-    <string name="power_center_scan_item_title_running_app">백그라운드에서 실행중인 앱</string>
+    <string name="power_center_scan_item_title_running_app">백그라운드에서 실행 중인 앱</string>
     <string name="power_center_scan_result_safe">발견된 배터리 문제가 없습니다.</string>
     <string name="power_center_state_off">꺼짐</string>
     <string name="power_center_state_on">켜짐</string>
@@ -2150,7 +2150,7 @@
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="promotion">광고</string>
     <string name="prompt_all">모두 묻기</string>
-    <string name="prompt_input_time_illegal">이 시간으로 설정할 수 없습니다, 변경 후 다시 시도하세요.</string>
+    <string name="prompt_input_time_illegal">이 시간으로 설정할 수 없습니다. 변경 후 다시 시도하세요.</string>
     <string name="protocol_exception_title">네트워크 프로토콜 진단</string>
     <string name="protocol_loop_back_exception_summary">로컬 루프 백 테스트에 실패했습니다. 이 문제를 MIUI에 보고하려면 피드백 앱으로 이동하여 기기에서 로그를 전송하세요.</string>
     <string name="qq_lucky_warning">QQ 빨간 봉투</string>
@@ -2337,8 +2337,8 @@
     <string name="sp_background_risk_dialog_title_wifi_approve">공공 Wi-Fi 경고</string>
     <string name="sp_background_risk_type_messaging">시스템 메시지 앱이 교체되었습니다.</string>
     <string name="sp_background_risk_type_root">시스템이 루팅되었습니다.</string>
-    <string name="sp_background_risk_type_sign">비공식 앱이 실행중 입니다.</string>
-    <string name="sp_background_risk_type_virus">바이러스가 백그라운드에서 실행중입니다.</string>
+    <string name="sp_background_risk_type_sign">비공식 앱이 실행 중 입니다.</string>
+    <string name="sp_background_risk_type_virus">바이러스가 백그라운드에서 실행 중입니다.</string>
     <string name="sp_background_risk_type_wifi">이 Wi-Fi 네트워크는 위험합니다.</string>
     <string name="sp_button_text_ignore_alert_title">이 항목을 무시하시겠습니까?</string>
     <string name="sp_empty_title_sign_exception">앱을 길게눌러 예외사항에 추가</string>
@@ -2492,7 +2492,7 @@
     <string name="summary_app_lock_disable">앱 잠금으로 데이터 보호하기</string>
     <string name="summary_auto_update">MIUI가 사용되지 않는 시간에 자동으로 업데이트를 다운로드하고 설치할 것입니다.</string>
     <string name="summary_background_connection">이 앱의 백그라운드 연결을 제한했습니다. 수정하려면 탭하세요.</string>
-    <string name="summary_block_calls_from_cantacts">블랙리스트를 사용중입니다. 수정하려면 탭하세요.</string>
+    <string name="summary_block_calls_from_cantacts">블랙리스트를 사용 중입니다. 수정하려면 탭하세요.</string>
     <string name="summary_block_calls_from_strangers">연락처에 저장된 전화번호만 전화 연결을 허용합니다. 수정하여 탭하세요.</string>
     <string name="summary_cleaner_cloudscan">온라인 정의로 폴더 이름 업로드 및 비교</string>
     <string name="summary_cloud_account">Mi 기기 최대한 활용하기</string>
@@ -2505,8 +2505,8 @@
     <string name="summary_data_flow">추가 비용 방지를 위해 모바일 데이터 사용량 제어하기</string>
     <string name="summary_default_app">%s를 기본 시스템 앱으로 설정할 수 없습니다.</string>
     <string name="summary_dev">악성코드를 방지하고 개인정보를 보호합니다.</string>
-    <string name="summary_do_not_disturb">방해 금지 모드를 사용중입니다. 수정하여 탭하세요.</string>
-    <string name="summary_eye_shield">독서 모드를 사용중입니다. 수정하여 탭하세요.</string>
+    <string name="summary_do_not_disturb">방해 금지 모드를 사용 중입니다. 수정하여 탭하세요.</string>
+    <string name="summary_eye_shield">독서 모드를 사용 중입니다. 수정하여 탭하세요.</string>
     <string name="summary_find_device">어느곳에서나 기기 위치검색과 잠금</string>
     <string name="summary_first_aid_kit">지금 기기의 문제를 해결하세요.</string>
     <string name="summary_flow_notification">드롭다운 메뉴에 월간 데이터 사용량 통계 표시</string>
@@ -2964,9 +2964,9 @@
     <string name="privacy_description_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
     <string name="privacy_description_mic">%1s 앱이 백그라운드에서 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
     <string name="privacy_notification_subtitle">권한을 관리하려면 탭하세요.</string>
-    <string name="privacy_notification_title_camera">%1s 앱이 백그라운드에서 카메라를 사용중입니다.</string>
-    <string name="privacy_notification_title_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용중입니다.</string>
-    <string name="privacy_notification_title_mic">%1s 앱이 백그라운드에서 마이크를 사용중입니다.</string>
+    <string name="privacy_notification_title_camera">%1s 앱이 백그라운드에서 카메라를 사용 중입니다.</string>
+    <string name="privacy_notification_title_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용 중입니다.</string>
+    <string name="privacy_notification_title_mic">%1s 앱이 백그라운드에서 마이크를 사용 중입니다.</string>
     <string name="power_center_scan_item_title_5g">5G 연결</string>
     <string name="power_dialog_super_save_msg_5g">초 절전 모드는 가장 전력 소모가 심한 기능들을 끕니다. (예. 5G 연결) 그래서 기기의 성능이 낮아질 수 있습니다. 통화, 메시지, 네트워크 연결만이 영향을 받지 않습니다. 그래도 켜시겠습니까?</string>
     <string name="power_optimize_disable_5g">5G 연결 제한</string>

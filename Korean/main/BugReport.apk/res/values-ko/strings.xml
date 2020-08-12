@@ -15,7 +15,7 @@
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다.</string>
     <string name="bugreport_dump_start_notification_title">버그 보고서 작성 중…</string>
     <string name="bugreport_tool_log_dumping_desc">몇 분정도 걸릴 수 있습니다.</string>
-    <string name="bugreport_tool_log_dumping_title">버그 보고서 생성중</string>
+    <string name="bugreport_tool_log_dumping_title">버그 보고서 생성 중</string>
     <string name="catch_full_log_action_cancel">취소</string>
     <string name="catch_full_log_action_complete">완료 후 업로드</string>
     <string name="catch_full_log_action_start">로그 생성</string>
@@ -36,8 +36,8 @@
     <string name="catch_full_log_item_title_signal">전화, 신호, 그리고 모바일 네트워크</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi와 Mi 드롭</string>
     <string name="catch_full_log_notification_content">탭하여 로그로 돌아가기</string>
-    <string name="catch_full_log_notification_title">로그 생성중…</string>
-    <string name="catch_full_log_start_dump_hprof">지연 로그 생성중</string>
+    <string name="catch_full_log_notification_title">로그 생성 중…</string>
+    <string name="catch_full_log_start_dump_hprof">지연 로그 생성 중</string>
     <string name="catch_full_log_submit_directly">보내기</string>
     <string name="close_feedback_main">숨김</string>
     <string name="cta_cancel">취소</string>
@@ -380,7 +380,7 @@
     <string name="passport_prev">뒤로</string>
     <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="passport_pwd_generate_failure">비밀번호 생성 실패</string>
-    <string name="passport_pwd_generating">생성중…</string>
+    <string name="passport_pwd_generating">생성 중…</string>
     <string name="passport_quick_login_dialog_step2_title">2단계 인증</string>
     <string name="passport_quick_login_dialog_title">비밀번호 확인</string>
     <string name="passport_quick_login_step2_title">2단계 인증</string>
@@ -398,7 +398,7 @@
     <string name="passport_reg_using_other_phone_number_prompt">사용하실 새 계정을 만드세요.</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 사용하여 계정 만들기</string>
     <string name="passport_reg_via_sms_alert">이 서비스를 활성화하려면 발신 SMS 메시지가 필요할 수 있습니다. 이동통신사에서 이 메시지에 대해 요금을 청구합니다.</string>
-    <string name="passport_reging">계정 생성중…</string>
+    <string name="passport_reging">계정 생성 중…</string>
     <string name="passport_register">계정 만들기</string>
     <string name="passport_register_account_goto_email">받은 편지함으로 이동</string>
     <string name="passport_register_account_verified_confirm">계정 확인됨</string>
@@ -530,7 +530,7 @@
     <string name="warning_field_empty">%1$s 입력</string>
     <string name="warning_field_invalid">%1$s 항목을 하나 선택하세요.</string>
     <string name="feedback_description_hint_suggestion">"MIUI 개선 방안을 알려주세요."</string>
-    <string name="feedback_jira_key_place_holder">Jira 생성중…</string>
+    <string name="feedback_jira_key_place_holder">Jira 생성 중…</string>
     <string name="catch_full_log_privacy_content_audio">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 재생 기록 및 녹음 기록을 비롯하여 장치의 오디오에 대한 정보가 포함될 수 있습니다. 이러한 로그를 공개하지 마세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_bt">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 블루투스 장치 사용 정보(통화 내역, 메시지, 전송된 파일 등)가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>

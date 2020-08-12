@@ -184,7 +184,7 @@
     <string name="accessibility_summary_state_disabled">끔</string>
     <string name="accessibility_summary_state_enabled">켜짐</string>
     <string name="accessibility_summary_state_stopped">작동하지 않습니다. 정보를 보려면 누르세요.</string>
-    <string name="accessibility_sync_disabled">동기화 사용중지됨</string>
+    <string name="accessibility_sync_disabled">동기화 사용 중지됨</string>
     <string name="accessibility_sync_enabled">동기화 사용</string>
     <string name="accessibility_sync_error">동기화 오류입니다.</string>
     <string name="accessibility_sync_in_progress">지금 동기화 중</string>
@@ -392,7 +392,7 @@
     <string name="android_version_pending_update_summary">가능한 업데이트</string>
     <string name="android_version_summary">Android %1$s 버전으로 업데이트됨</string>
     <string name="animator_duration_scale_title">" 길이 배율"</string>
-    <string name="another_migration_already_in_progress">이미 다른 이동이 진행중입니다.</string>
+    <string name="another_migration_already_in_progress">이미 다른 이동이 진행 중입니다.</string>
     <string name="anti_spam">차단 목록</string>
     <string name="aod_clock_style_title">시계 스타일</string>
     <string name="aod_close_color_inversion">이 기능은 색상 반전과 함께 사용할 수 없습니다. 먼저 색상 반전을 끄세요.</string>
@@ -443,8 +443,8 @@
     <string name="app_default_dashboard_title">기본 앱</string>
     <string name="app_detail">정보</string>
     <string name="app_disable_dlg_positive">앱 비활성화</string>
-    <string name="app_disable_dlg_text">내장 앱을 사용중지하면 다른 앱에 예기치 않은 오류가 발생할 수 있습니다.</string>
-    <string name="app_disable_dlg_title">내장 앱을 사용중지하시겠습니까?</string>
+    <string name="app_disable_dlg_text">내장 앱을 사용 중지하면 다른 앱에 예기치 않은 오류가 발생할 수 있습니다.</string>
+    <string name="app_disable_dlg_title">내장 앱을 사용 중지하시겠습니까?</string>
     <string name="app_disable_notifications_dlg_text">이 앱에서 알림을 사용하도록 설정하지 않으면 중요한 알림과 업데이트를 놓칠 수 있습니다.</string>
     <string name="app_disable_notifications_dlg_title">알림을 사용 중지하시겠습니까?</string>
     <string name="app_factory_reset">업데이트 제거</string>
@@ -673,7 +673,7 @@
     <string name="background_check_title">백그라운드 접근 권한</string>
     <string name="background_data">백그라운드 데이터</string>
     <string name="background_data_dialog_message">백그라운드 데이터를 사용하지 않도록 설정하면 배터리 수명이 늘어나고 데이터 사용량이 줄어듭니다. 일부 앱에서는 백그라운드 데이터 연결을 계속 사용할 수도 있습니다.</string>
-    <string name="background_data_dialog_title">백그라운드 데이터를 사용중지하시겠습니까?</string>
+    <string name="background_data_dialog_title">백그라운드 데이터를 사용 중지하시겠습니까?</string>
     <string name="background_data_summary">앱이 언제든지 데이터를 동기화하고 보내고 받을 수 있음</string>
     <string name="background_process_stop_description">향후에 다시 필요할 경우를 위해 계속 실행 중인 이전 앱 프로세스로서 일반적으로 중지할 필요는 없습니다.</string>
     <string name="background_restrict_app_dialog_message">이 앱의 백그라운드 네트워크 액세스를 제한하면 앱이 정상적으로 작동하거나, 메시지를 받고, 컨텐츠를 다운로드하는 등의 작업이 불가능해질 수 있습니다. 계속하시겠습니까?</string>
@@ -745,7 +745,7 @@
     <string name="battery_desc_voice">음성 통화에서 배터리 사용</string>
     <string name="battery_desc_wifi">Wi-Fi에 사용된 배터리</string>
     <string name="battery_detail_background">백그라운드 활동</string>
-    <string name="battery_detail_foreground">기기 사용중</string>
+    <string name="battery_detail_foreground">기기 사용 중</string>
     <string name="battery_detail_info_title">충전 완료 이후</string>
     <string name="battery_detail_manage_title">배터리 사용량 관리</string>
     <string name="battery_detail_power_percentage">%1$s 앱의 사용량 (%2$dmAh)</string>
@@ -870,7 +870,7 @@
     <string name="battery_tip_smart_battery_summary">배터리 매니저 켜기</string>
     <string name="battery_tip_smart_battery_title">배터리 지속 시간 향상</string>
     <string name="battery_tip_summary_summary">일반적인 백그라운드 앱 사용량을 가지고 있습니다.</string>
-    <string name="battery_tip_summary_title">앱이 정상적으로 실행중입니다.</string>
+    <string name="battery_tip_summary_title">앱이 정상적으로 실행 중입니다.</string>
     <string name="battery_tip_unrestrict_app_dialog_cancel">취소</string>
     <string name="battery_tip_unrestrict_app_dialog_message">이 앱은 백그라운드에서 배터리를 사용할 수 있습니다. 배터리가 예상보다 빨리 소모 될 수 있습니다.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">삭제</string>
@@ -1559,7 +1559,7 @@
     <string name="confirm_erase">지우기</string>
     <string name="confirm_exit_link">나가기</string>
     <string name="confirm_exit_link_cancel">나가지 않기</string>
-    <string name="confirm_exit_link_msg">이제 앱을 나가면 진행중인 전송이 중단되므로 두 기기간 연결을 초기화해야 합니다. 그래도 앱을 종료하시겠습니까?</string>
+    <string name="confirm_exit_link_msg">이제 앱을 나가면 진행 중인 전송이 중단되므로 두 기기간 연결을 초기화해야 합니다. 그래도 앱을 종료하시겠습니까?</string>
     <string name="confirm_exit_link_title">전송 중단</string>
     <string name="confirm_fingerprint_icon_content_description">지문을 스캔해 계속하세요.</string>
     <string name="confirm_fingerprint_msg">센서에 손가락을 올려주세요.</string>
@@ -1682,7 +1682,7 @@
     <string name="cryptkeeper_wrong_pattern">잘못된 패턴</string>
     <string name="cryptkeeper_wrong_pin">잘못된 PIN</string>
     <string name="current_account">%s님 안녕하세요.</string>
-    <string name="current_backup_pw_prompt">전체 백업에 대한 현재 사용중인 비밀번호를 입력하세요.</string>
+    <string name="current_backup_pw_prompt">전체 백업에 대한 현재 사용 중인 비밀번호를 입력하세요.</string>
     <string name="current_input_method">현재 키보드</string>
     <string name="current_pad_location">패드</string>
     <string name="current_phone_location">휴대전화</string>
@@ -2512,7 +2512,7 @@
     <string name="filter_all_apps">모든 앱</string>
     <string name="filter_apps_all">전체</string>
     <string name="filter_apps_cached">캐시됨</string>
-    <string name="filter_apps_disabled">사용중지됨</string>
+    <string name="filter_apps_disabled">사용 중지됨</string>
     <string name="filter_apps_onsdcard">SD 카드</string>
     <string name="filter_apps_running">실행 중</string>
     <string name="filter_apps_third_party">다운로드</string>
@@ -3525,7 +3525,7 @@
     <string name="master_clear_gesture_explanation">초기화를 실행하려면 잠금해제 패턴을 그려야 합니다.</string>
     <string name="master_clear_gesture_prompt">잠금해제 패턴을 그리세요.</string>
     <string name="master_clear_not_available">초기화를 수행할 권한이 없는 사용자입니다.</string>
-    <string name="master_clear_other_users_present">다른 사용자가 기기를 사용중입니다.</string>
+    <string name="master_clear_other_users_present">다른 사용자가 기기를 사용 중입니다.</string>
     <string name="master_clear_personal_data">개인정보를 모두 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_personal_data_application">개인정보와 다운로드한 앱을 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_personal_data_sdcard">개인정보와 컨텐츠를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
@@ -3925,7 +3925,7 @@
     <string name="need_reboot_now">다시 시작하여 업데이트 설치</string>
     <string name="netcheck_title">네트워크 진단</string>
     <string name="network_assistant">데이터 사용량</string>
-    <string name="network_changed_noti_summary">모바일 데이터 사용중</string>
+    <string name="network_changed_noti_summary">모바일 데이터 사용 중</string>
     <string name="network_changed_noti_title">Wi-Fi 연결 해제됨</string>
     <string name="network_control">앱 설정 보기</string>
     <string name="network_dashboard_summary">Wi-Fi, 모바일, 데이터 사용량, 핫스팟</string>
@@ -4505,7 +4505,7 @@
     <string name="power_key_how_power_off_detail">3초 동안 전원 버튼을 길게 누르세요.</string>
     <string name="power_key_how_start">Google 어시스턴트를 깨우는 방법</string>
     <string name="power_key_how_start_detail">0.5초 동안 전원 버튼을 길게 눌렀다 떼면서 이야기하세요.</string>
-    <string name="power_key_start_enjoy">알겠습니다, 이제 Google 어시스턴트에 대해 더 배워보죠</string>
+    <string name="power_key_start_enjoy">알겠습니다. 이제 Google 어시스턴트에 대해 더 배워보죠</string>
     <string name="power_key_start_guide">전체 디스플레이 장치의 전원 버튼을 사용하여 Google 어시스턴트 사용하기</string>
     <string name="power_last_full_charge_summary">^1 전</string>
     <string name="power_menu_under_keyguard_summary">장치가 잠겨있을 때 전원 메뉴에 접근 허용</string>
@@ -5019,7 +5019,7 @@
     <string name="running_processes_header_cached_prefix">캐시된 앱</string>
     <string name="running_processes_header_footer">앱의 RAM 사용량</string>
     <string name="running_processes_header_free_prefix">사용 가능</string>
-    <string name="running_processes_header_ram">RAM %1$s 사용중</string>
+    <string name="running_processes_header_ram">RAM %1$s 사용 중</string>
     <string name="running_processes_header_system_prefix">시스템</string>
     <string name="running_processes_header_title">기기 메모리</string>
     <string name="running_processes_header_used_prefix">사용됨</string>
@@ -5424,7 +5424,7 @@
     <string name="security_encryption_attention_1">기기가 꺼져있을 때는 알람을 사용할 수 없습니다.</string>
     <string name="security_encryption_attention_2">매번 다시 시작 후에 잠금 화면 비밀번호를 입력하여 기기를 잠금해제해야 합니다. 평소보다 다시 시작이 오래 걸립니다.</string>
     <string name="security_encryption_attention_3">새로운 잠금 화면 비밀번호를 설정해야 합니다.</string>
-    <string name="security_encryption_attention_4">잠금 화면 비밀번호를 잘 기억하세요. 잘못하면 기기의 모든 데이터가 지워지는 공장 초기화를 해야 할 수도 있습니다,</string>
+    <string name="security_encryption_attention_4">잠금 화면 비밀번호를 잘 기억하세요. 잘못하면 기기의 모든 데이터가 지워지는 공장 초기화를 해야 할 수도 있습니다.</string>
     <string name="security_encryption_attention_info">계정, 설정, 다운로드한 앱과 데이터, 미디어, 기타 파일 등을 암호화할 수 있습니다.</string>
     <string name="security_encryption_attention_title">중요</string>
     <string name="security_encryption_close_dialog_info">잠금 화면 비밀번호를 사용하는 기기 암호화를 사용하지 않으신다면 일부 Google 서비스를 사용할 수 없을 것입니다.</string>
@@ -5822,7 +5822,7 @@
     <string name="sms_received_sound_title">메시지 수신 알림음</string>
     <string name="sms_title">메시지</string>
     <string name="soft_ap_create_failed">핫스팟 생성 실패</string>
-    <string name="soft_ap_creating">핫스팟 생성중…</string>
+    <string name="soft_ap_creating">핫스팟 생성 중…</string>
     <string name="software_backup_info">앱 데이터</string>
     <string name="sometimes_running">가끔 작동됨 (%s)</string>
     <string name="sort_avg_use">평균 사용량으로 정렬</string>
@@ -6404,7 +6404,7 @@
     <string name="trans_calculating_app_sd_description">SD 카드에 앱 데이터 저장</string>
     <string name="trans_calculating_media_description">미디어 파일</string>
     <string name="trans_calculating_tip">%s 계산중…</string>
-    <string name="trans_cancel_confirm">전송이 진행중입니다. 중단하시겠습니까?</string>
+    <string name="trans_cancel_confirm">전송이 진행 중입니다. 중단하시겠습니까?</string>
     <string name="trans_cancel_dialog_survey_title">왜 전송을 중단했나요?</string>
     <string name="trans_cancel_selection_message">Mi Mover를 종료하면 진행 중인 전송이 중단됩니다. 전송이 완료될 때까지 기다려주세요.</string>
     <string name="trans_cancel_selection_title">Mi Mover 대기</string>
@@ -6448,7 +6448,7 @@
     <string name="trans_failed_details_page_title">전송 실패</string>
     <string name="trans_generate_qr_code_failed">QR 코드를 생성할 수 없습니다.</string>
     <string name="trans_generate_qrcode_failed">QR 코드를 생성할 수 없습니다. 다시 시도해보세요.</string>
-    <string name="trans_generating_qrcode">QR 코드 생성중…</string>
+    <string name="trans_generating_qrcode">QR 코드 생성 중…</string>
     <string name="trans_install_guide_button_start">시작</string>
     <string name="trans_install_guide_page_title">Mi Mover를 이전 폰에 설치하세요.</string>
     <string name="trans_install_guide_scan_install_tip">Mi Mover를 다운로드받고 설치하려면이전 폰에서 이 QR 코드를 스캔하세요.</string>
@@ -6777,7 +6777,7 @@
     <string name="upload_modem_log">모뎀 기록 수집 시작</string>
     <string name="usage">사용량</string>
     <string name="usage_access">사용량 제한</string>
-    <string name="usage_access_description">사용 권한 액세스를 허용하면 사용중인 다른 앱 및 이동통신사, 언어 설정 및 기타 세부 정보를 추적할 수 있습니다.</string>
+    <string name="usage_access_description">사용 권한 액세스를 허용하면 사용 중인 다른 앱 및 이동통신사, 언어 설정 및 기타 세부 정보를 추적할 수 있습니다.</string>
     <string name="usage_access_title">사용 액세스 권한을 보유한 앱</string>
     <string name="usage_log">앱 사용 통계</string>
     <string name="usage_name_percent">%1$s - %2$s%%</string>
@@ -6873,7 +6873,7 @@
     <string name="usb_tethering_turnon_subtext">USB를 연결하여 사용하세요.</string>
     <string name="usb_tethering_unavailable_subtext">USB가 연결되어 있지 않음</string>
     <string name="usb_title">USB</string>
-    <string name="usb_trans_native_no_space">기기에 여유공간이 %s 뿐입니다. 여유공간을 확보하거나 나누어 여러번 전송하세요.</string>
+    <string name="usb_trans_native_no_space">기기에 여유공간이 %s 뿐입니다. 여유공간을 확보하거나 나누어 여러 번 전송하세요.</string>
     <string name="usb_trans_old_phone_low_space_msg">백업을 패키지화하려면 추가저장공간이 필요합니다. 전송을 계속할 수 있는 저장공간이 충분하지 않습니다. 공간에서 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목만 전송해보세요.</string>
     <string name="usb_trans_old_phone_low_space_title">저장공간 부족</string>
     <string name="usb_trans_select_data_no_space">남은 USB 저장공간이 %s 뿐입니다. 여유공간을 확보하거나 중요한 항목만 전송하세요.</string>
@@ -7724,7 +7724,7 @@
     <string name="wifi_title">Wi-Fi 설정</string>
     <string name="wifi_traffic_priority">Wi-Fi 속도 모드</string>
     <string name="wifi_traffic_priority_extreme">집중 모드</string>
-    <string name="wifi_traffic_priority_extreme_summary">대부분의 대역폭을 현재 사용중인 앱에만 집중시킵니다. 백그라운드 프로세스가 네트워크에 연결하지 못할 수 있습니다.</string>
+    <string name="wifi_traffic_priority_extreme_summary">대부분의 대역폭을 현재 사용 중인 앱에만 집중시킵니다. 백그라운드 프로세스가 네트워크에 연결하지 못할 수 있습니다.</string>
     <string name="wifi_traffic_priority_off">끄기</string>
     <string name="wifi_traffic_priority_on">켜기</string>
     <string name="wifi_traffic_priority_regular">일반 모드</string>
@@ -7849,7 +7849,7 @@
     <string name="xiaomi_cloud_service_disabled">꺼짐</string>
     <string name="xiaomi_cloud_service_unknown">알 수 없음</string>
     <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 매니저가 정상작동 중인지 확인하세요.</string>
-    <string name="xiaomi_external_storage_unavailable">저장소 사용이 불가능합니다, SD 카드를 확인하세요.</string>
+    <string name="xiaomi_external_storage_unavailable">저장소 사용이 불가능합니다. SD 카드를 확인하세요.</string>
     <string name="xiaomi_money_service">Mi 크레딧</string>
     <string name="xiaomi_router">Mi 라우터</string>
     <string name="xiaomi_router_available_notif_summary">탭하여 더 많은 정보 보기</string>
@@ -8005,7 +8005,7 @@
     <string name="zen_mode_rule_delete_button">삭제</string>
     <string name="zen_mode_rule_name">규칙 이름</string>
     <string name="zen_mode_rule_name_hint">규칙 이름 입력</string>
-    <string name="zen_mode_rule_name_warning">이미 사용중인 규칙 이름</string>
+    <string name="zen_mode_rule_name_warning">이미 사용 중인 규칙 이름</string>
     <string name="zen_mode_rule_not_found_text">규칙을 찾을 수 없습니다.</string>
     <string name="zen_mode_rule_rename_button">이름 변경</string>
     <string name="zen_mode_rule_summary_enabled_combination">설정 / %1$s</string>
@@ -8148,7 +8148,7 @@
     <string name="usagestats_device_notification_des_over">"오늘의 화면 켜짐 제한 시간에 도달했습니다."</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">오늘의 사용제한: %s | %s 남음</string>
     <string name="usagestats_device_notification_title">화면 시간 알림</string>
-    <string name="usagestats_device_timeout_des" formatted="false">"오늘 %d시간 %d분 사용하고 있습니다. 조금만 휴식하세요!"</string>
+    <string name="usagestats_device_timeout_des" formatted="false">"오늘 %d시간 %d분 사용하고 있습니다. 잠시 휴식하세요!"</string>
     <string name="usagestats_device_timeout_negative">1시간 후 알림</string>
     <string name="usagestats_device_timeout_positive">확인</string>
     <string name="usagestats_device_timeout_title">화면 시간 알림</string>
@@ -9183,7 +9183,7 @@
     <string name="dual_wifi_on">켜짐</string>
     <string name="dual_wifi_primary_wifi_connected">기본 Wi-Fi 연결됨</string>
     <string name="dual_wifi_slave_wifi_connected">보조 Wi-Fi 연결됨</string>
-    <string name="dual_wifi_summary">기본 Wi-Fi에 연결합니다, 보조 Wi-Fi를 켜세요, 그리고 네트워크 속도를 향상시키세요.</string>
+    <string name="dual_wifi_summary">기본 Wi-Fi에 연결합니다. 보조 Wi-Fi를 켜세요, 그리고 네트워크 속도를 향상시키세요.</string>
     <string name="dual_wifi_switching_not_remind">다음에는 더 이상 힌트가 없습니다.</string>
     <string name="dual_wifi_switching_prompt">Wi-Fi 전환 프롬프트</string>
     <string name="dual_wifi_switching_summary">듀얼 Wi-Fi에는 다른 주파수 대역이 필요하며 기본 Wi-Fi의 주파수 대역을 변경하려면 보조 Wi-Fi의 연결이 끊어집니다.</string>
@@ -9543,7 +9543,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
 서비스를 사용하기 전에 %s을 읽고 동의하세요. "</string>
     <string name="sound_assist_summary">사운드 설정 사용자 정의</string>
     <string name="sound_assist_title">사운드 어시스턴트</string>
-    <string name="storage_use_title">사용중</string>
+    <string name="storage_use_title">사용 중</string>
     <string name="structure_face_data_delete_fail">"3D 얼굴 데이터를 삭제할 수 없습니다. 다시 시도하세요."</string>
     <string name="structure_face_data_input_down">머리를 내립니다.</string>
     <string name="structure_face_data_input_error_away_screen">얼굴에서 조금 더 떨어진 곳으로 휴대전화를 가져옵니다.</string>

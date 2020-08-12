@@ -442,7 +442,7 @@
     <string name="as_important">중요</string>
     <string name="as_unimportant">중요하지 않음</string>
     <string name="aspect_cancel">취소</string>
-    <string name="aspect_message">"이 앱은 전체 화면 모드로 다시 시작됩니다. 문제가 발생하는 경우 설정 &gt; 전체 화면 디스플레이 &gt; 전체 화면 모드 에서 이 앱의 전체 화면 모드를 사용중지 할 수 있습니다. "</string>
+    <string name="aspect_message">"이 앱은 전체 화면 모드로 다시 시작됩니다. 문제가 발생하는 경우 설정 &gt; 전체 화면 디스플레이 &gt; 전체 화면 모드 에서 이 앱의 전체 화면 모드를 사용 중지 할 수 있습니다. "</string>
     <string name="aspect_ok">확인</string>
     <string name="aspect_title">전체 화면 모드</string>
     <string name="audio_effect_custom">환경 설정</string>
@@ -1024,7 +1024,7 @@
     <string name="keyguard_charging_info_last_charge_yesterday_time">어제 %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">마지막 충전</string>
     <string name="keyguard_charging_info_tip_text1">배터리 수명을 위해 항상 10% 이상의 배터리를 유지하세요.</string>
-    <string name="keyguard_charging_info_tip_text2">기기를 과충전하지 마세요. 여러번의 짧은 충전이 배터리 수명에 도움이 됩니다.</string>
+    <string name="keyguard_charging_info_tip_text2">기기를 과충전하지 마세요. 여러 번의 짧은 충전이 배터리 수명에 도움이 됩니다.</string>
     <string name="keyguard_charging_info_tip_text3">주변 환경의 온도가 0℃ 미만일 때 충전이 중지됩니다.</string>
     <string name="keyguard_charging_info_tip_text4">충전 시 작업을 삼가하세요. 기기가 과열될 수 있습니다.</string>
     <string name="keyguard_charging_info_tip_text5">배터리가 과열되면 충전 속도가 평소보다 느려집니다.</string>
@@ -1170,8 +1170,8 @@
     <string name="low_temperature_button_ok">확인</string>
     <string name="low_temperature_warning_message">온도가 너무 낮습니다. 기기가 언제든지 꺼질 수 있습니다. 작업중이던 데이터를 즉시 저장하세요.</string>
     <string name="low_temperature_warning_title">전원꺼짐 경고</string>
-    <string name="managed_profile_foreground_toast">작업 프로필을 사용중입니다.</string>
-    <string name="managed_user_title">실행중인 모든 앱</string>
+    <string name="managed_profile_foreground_toast">작업 프로필을 사용 중입니다.</string>
+    <string name="managed_user_title">실행 중인 모든 앱</string>
     <string name="mdb_entering">시작 중…</string>
     <string name="mdb_restore_cancel">취소</string>
     <string name="mdb_restore_info1">휴대전화 데이터 복구</string>
@@ -1388,7 +1388,7 @@
     <string name="private_dns_mode_provider_hostname_hint">DNS 제공자의 호스트명을 입력하세요.</string>
     <string name="profile_owned_footer">프로필이 모니터링될 수 있습니다.</string>
     <string name="prompt_danger">위험</string>
-    <string name="prompt_detecting">감지중</string>
+    <string name="prompt_detecting">감지 중</string>
     <string name="prompt_safe">안전함</string>
     <string name="prompt_unknown">알 수 없음</string>
     <string name="qs_customize">빠른 설정에서 오래누르기 사용자화 허용</string>
@@ -1559,10 +1559,10 @@
     <string name="right_keycode">우측 키코드</string>
     <string name="right_nav_bar_button_type">추가 오른쪽 버튼 유형</string>
     <string name="running_foreground_services_msg">배터리와 데이터 사용량을 자세히 보려면 탭하세요.</string>
-    <string name="running_foreground_services_title">앱이 백그라운드에서 실행중입니다.</string>
+    <string name="running_foreground_services_title">앱이 백그라운드에서 실행 중입니다.</string>
     <string name="running_process_item_user_label">사용자: %1$s</string>
-    <string name="runningservices_settings_summary">현재 실행중인 서비스를 보여주고 컨트롤합니다.</string>
-    <string name="runningservices_settings_title">실행중인 서비스</string>
+    <string name="runningservices_settings_summary">현재 실행 중인 서비스를 보여주고 컨트롤합니다.</string>
+    <string name="runningservices_settings_title">실행 중인 서비스</string>
     <string name="save">저장</string>
     <string name="save_mode_btn_ok">확인</string>
     <string name="saved_network">%1$s 때문에 절약됨</string>
@@ -1673,7 +1673,7 @@
     <string name="status_bar_no_recent_apps">최근 앱 없음</string>
     <string name="status_bar_notification_app_settings_title">%s 설정</string>
     <string name="status_bar_notification_inspect_item_title">앱 정보</string>
-    <string name="status_bar_ongoing_events_title">진행중</string>
+    <string name="status_bar_ongoing_events_title">진행 중</string>
     <string name="status_bar_recent_guide_all">위로 슬라이드하여 닫기\n아래로 슬라이드하여 잠그기</string>
     <string name="status_bar_recent_guide_bottom">아래로 슬라이드하여 잠그기</string>
     <string name="status_bar_recent_guide_top">위로 슬라이드하여 닫기</string>

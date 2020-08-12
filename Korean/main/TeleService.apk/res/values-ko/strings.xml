@@ -174,7 +174,7 @@
     <string name="not_supported_number_content_title">지원되지 않음</string>
     <string name="not_supported_number_content">충전 패키지는 서비스 번호를 지원하지 않습니다. 대신 기존 SIM을 사용하여 통화하시기 바랍니다. 통신사에서 이 통화에 요금을 부과할 수 있습니다.</string>
     <string name="not_sufficient_funds_content_title">잔액 부족</string>
-    <string name="not_sufficient_funds_content">계정이 잔액이 부족합니다, 대신 SIM을 사용하여 통화를 시도해보세요. 통신사에서 이 통화에 요금을 부과할 수 있습니다.</string>
+    <string name="not_sufficient_funds_content">계정에 잔액이 부족합니다. 대신 SIM을 사용하여 통화를 시도해보세요. 통신사에서 이 통화에 요금을 부과할 수 있습니다.</string>
     <string name="not_activate_sim_card_content_title">전화번호 확인되지 않음</string>
     <string name="not_activate_sim_card_content">선택한 SIM 카드에 대하여 충전 패키지가 확인되지 않았습니다. 대신 기존 SIM을 사용하여 통화를 시도해 보세요. 통신사에서 이 통화에 요금을 부과할 수 있습니다.</string>
     <string name="not_activate_sim_card_content_with_operator">선택한 SIM 카드 %1$s(%2$s)에 대하여 충전 패키지가 확인되지 않았습니다. 대신 기존 SIM을 사용하여 통화를 시도해 보세요. 통신사에서 이 통화에 요금을 부과할 수 있습니다.</string>
@@ -256,7 +256,7 @@
     <string name="chose_product_title">충전 패키지</string>
     <string name="chose_product_summary">저렴하게 전화걸기</string>
     <string name="purchase_description_title">정보</string>
-    <string name="purchase_description_summary">"- 전세계 어느곳이나 통화 할 수 있습니다, 통신사 제한이 없습니다.
+    <string name="purchase_description_summary">"- 전세계 어느곳이나 통화 할 수 있습니다. 통신사 제한이 없습니다.
 - 통신사 서비스 충돌이 없습니다.
 - 충전하시고 통화를 시작 하세요.
 - 간단한 설정만으로도 사용이 가능합니다."</string>
@@ -886,7 +886,7 @@
     <string name="network_error_message">네크워크에 연결할 수 없습니다.</string>
     <string name="managed_roaming_title">로밍 관리됨</string>
     <string name="managed_roaming_title_sub">로밍 관리됨 (SUB%d)</string>
-    <string name="managed_roaming_dialog_content">제한된 네트워크 서비스를 발견했습니다, 사용가능한 네트워크만 보시겠습니까?</string>
+    <string name="managed_roaming_dialog_content">제한된 네트워크 서비스를 발견했습니다. 사용가능한 네트워크만 보시겠습니까?</string>
     <string name="ota_title_activate">휴대전화 활성화</string>
     <string name="ota_touch_activate">"휴대전화 서비스를 활성화하려면 특별한 통화를 해야 합니다. 
 
@@ -903,7 +903,7 @@
     <string name="ota_speaker">스피커</string>
     <string name="ota_progress">휴대전화가 프로그래밍되는 동안 기다리세요.</string>
     <string name="ota_failure">프로그래밍 실패</string>
-    <string name="ota_successful">휴대전화이 활성화되었습니다, 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
+    <string name="ota_successful">휴대전화이 활성화되었습니다. 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
     <string name="ota_unsuccessful">"휴대전화가 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하세요. 더 많은 옵션을 원하시면 고객 센터로 문의하세요."</string>
     <string name="ota_spc_failure">초과 SPC 실패</string>
     <string name="ota_call_end">뒤로</string>
@@ -1458,7 +1458,7 @@
     <string name="livetalk_dial_direct">직접 전화</string>
     <string name="livetalk_sim_card_not_activated">이 카드는 활성화되지 않았습니다.</string>
     <string name="livetalk_activate_sim_card">활성화</string>
-    <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용중.</string>
+    <string name="select_sim_hint">SIM %2$d 사용할 수 없음, SIM %1$d 사용 중.</string>
     <string name="select_one_sim_title">SIM %1$d만 사용 가능</string>
     <string name="can_not_use">사용할 수 없음</string>
     <string name="phone_accounts_accounts_header">계정</string>
@@ -1890,8 +1890,8 @@
     <string name="radio_off_during_emergency_call">"긴급 통화 중에 비행기 모드로 전환할 수 없습니다."</string>
     <string name="remaining_length_format">%1$s 남음</string>
     <string name="running_process_item_user_label">사용자 : %1$s</string>
-    <string name="runningservices_settings_summary">현재 실행중인 서비스 보기 및 제어</string>
-    <string name="runningservices_settings_title">실행중인 서비스</string>
+    <string name="runningservices_settings_summary">현재 실행 중인 서비스 보기 및 제어</string>
+    <string name="runningservices_settings_title">실행 중인 서비스</string>
     <string name="saved_network">%1$s에 의해 저장되었습니다.</string>
     <string name="screen_zoom_summary_custom">사용자 정의 (%d)</string>
     <string name="screen_zoom_summary_default">기본값</string>
@@ -2145,11 +2145,11 @@
     <string name="fdn_contact_number_invalid">잘못된 연락처.</string>
     <string name="fdn_errorcode_name_info">실패, 연락처의 이름이 너무 깁니다.</string>
     <string name="fdn_errorcode_number_info">실패, 연락처의 번호가 너무 깁니다.</string>
-    <string name="fdn_errorcode_phb_info">실패, 연락처가 준비되지 않았습니다, 잠시후 다시 시도하세요.</string>
+    <string name="fdn_errorcode_phb_info">실패, 연락처가 준비되지 않았습니다. 잠시 후 다시 시도하세요.</string>
     <string name="fdn_errorcode_pin2_info">실패, 잘못된 PIN2.</string>
     <string name="fdn_errorcode_storage_info">실패, 저장공간이 가득 찼습니다.</string>
-    <string name="fdn_errorcode_unknown_info">실패, 알 수 없는 오류가 발생했습니다. 잠시후 다시 시도하세요.</string>
-    <string name="fdn_phone_book_busy">연락처를 이미 사용중입니다, 잠시후 다시 시도하세요.</string>
+    <string name="fdn_errorcode_unknown_info">실패, 알 수 없는 오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="fdn_phone_book_busy">연락처를 이미 사용 중입니다. 잠시 후 다시 시도하세요.</string>
     <string name="fdn_puk_need_tips">PIN2가 막혔습니다. PIN2를 변경한 후 다시 시도하세요!</string>
     <string name="femtocell_point_list_title">펨토셀</string>
     <string name="in_search_femtocell_networks_wait_tip">검색중...</string>
@@ -2351,7 +2351,7 @@
     <string name="wificall_switch_summary">가능하면 Wi-Fi를 사용하여 전화를 걸고받습니다.</string>
     <string name="wificall_switch_title">Wi-Fi를 이용한 통화</string>
     <string name="cloud_sim_enabled_dual_4g_summary">"Mi 로밍 중에는 듀얼 4G를 끌 수 없습니다."</string>
-    <string name="cloud_sim_enabled_preferred_network_summary">"Mi 로밍 사용중에는 네트워크 설정을 바꿀 수 없습니다."</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">"Mi 로밍 사용 중에는 네트워크 설정을 바꿀 수 없습니다."</string>
     <string name="data_plan">모바일 데이터 플랜</string>
     <string name="dc_alert_dialog_message">일부 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
     <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
@@ -2412,8 +2412,8 @@
     <string name="mobile_data_status_no_plan_subtext">남은 모바일 데이터 없음</string>
     <string name="mobile_data_status_roaming_turned_off_subtext">데이터 로밍이 꺼져있습니다.</string>
     <string name="mobile_data_status_roaming_turned_on_subtext">데이터 로밍이 켜져있습니다.</string>
-    <string name="mobile_data_status_roaming_with_plan_subtext">로밍이 진행중입니다. 데이터 계획이 활성화되어 있습니다.</string>
-    <string name="mobile_data_status_roaming_without_plan_subtext">로밍이 진행중입니다. 데이터 계획이 필요합니다.</string>
+    <string name="mobile_data_status_roaming_with_plan_subtext">로밍이 진행 중입니다. 데이터 계획이 활성화되어 있습니다.</string>
+    <string name="mobile_data_status_roaming_without_plan_subtext">로밍이 진행 중입니다. 데이터 계획이 필요합니다.</string>
     <string name="network_operator_category">네트워크</string>
     <string name="network_select_title">네트워크</string>
     <string name="search_menu_title">검색</string>

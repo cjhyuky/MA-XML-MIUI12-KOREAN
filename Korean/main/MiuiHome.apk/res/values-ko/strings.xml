@@ -109,7 +109,7 @@
     <string name="status_downloading">다운로드 중</string>
     <string name="status_paused">일시 중지됨</string>
     <string name="status_downloaded">다운로드 됨</string>
-    <string name="status_installing">설치중</string>
+    <string name="status_installing">설치 중</string>
     <string name="switch_personal_assistant_app_vault">퀵 카드</string>
     <string name="switch_personal_assistant_google">Google 디스커버</string>
     <string name="switch_personal_assistant_none">없음</string>

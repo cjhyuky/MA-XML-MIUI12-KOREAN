@@ -19,7 +19,7 @@
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="app_name">타사 앱 문제</string>
     <string name="dialog_content_message2_feedback">"이 문제에 대해 개발자에게 알리겠습니다. 업데이트를 확인하세요."</string>
-    <string name="dialog_content_message2_update">"이 앱의 오래된 버전을 사용중이신걸로 보입니다. 지금 업데이트하시겠습니까?"</string>
+    <string name="dialog_content_message2_update">"이 앱의 버전이 오래되어 보입니다. 지금 업데이트하시겠습니까?"</string>
     <string name="dialog_content_message_func_path">경로: 설정 > 앱 > 앱 관리 > 설정 > %s</string>
     <string name="dialog_content_message_shell">"내부 오류로 인해 %s앱이 강제 종료되었습니다. "</string>
     <string name="dialog_content_message_unknown">"%s앱이 강제종료되었습니다. "</string>

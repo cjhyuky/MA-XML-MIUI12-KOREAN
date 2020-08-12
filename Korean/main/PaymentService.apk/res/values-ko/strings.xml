@@ -242,7 +242,7 @@
     <string name="mibi_error_recharge_result_fail">충전 실패.</string>
     <string name="mibi_error_recharge_result_uncertain">충전 결과가 불확실합니다.</string>
     <string name="mibi_error_recharge_success_pay_fail">충전 성공 지불 실패.</string>
-    <string name="mibi_error_server_summary">서버 오류. 잠시후 다시 시도하세요.</string>
+    <string name="mibi_error_server_summary">서버 오류. 잠시 후 다시 시도하세요.</string>
     <string name="mibi_error_user_id_mismatch_summary">계정 체크 후 재로그인하세요.</string>
     <string name="mibi_error_web_summary">서버 오류</string>
     <string name="mibi_fee">%1$s Mi 크레딧</string>
@@ -367,13 +367,13 @@
     <string name="mibi_progress_error_pay_title">결제 실패</string>
     <string name="mibi_progress_error_recharge_summary">충전 실패, 나중에 다시 시도하세요.</string>
     <string name="mibi_progress_error_recharge_title">충전 실패</string>
-    <string name="mibi_progress_loading">처리중…</string>
+    <string name="mibi_progress_loading">처리 중…</string>
     <string name="mibi_progress_mipay_creating">주문 생성 중…</string>
     <string name="mibi_progress_msg_creating">충전 주문 생성 중…</string>
-    <string name="mibi_progress_paytool_creating">%1$s 주문 생성중…</string>
-    <string name="mibi_progress_paytool_installing">%1$s 모바일 보안 플러그인 설치중…</string>
+    <string name="mibi_progress_paytool_creating">%1$s 주문 생성 중…</string>
+    <string name="mibi_progress_paytool_installing">%1$s 모바일 보안 플러그인 설치 중…</string>
     <string name="mibi_progress_prepaid_creating">주문 생성 중…</string>
-    <string name="mibi_progress_querying">처리중…</string>
+    <string name="mibi_progress_querying">처리 중…</string>
     <string name="mibi_progress_submit_hint">3 분 안에 계정 잔액에 충전 내역이 반영됩니다.</string>
     <string name="mibi_progress_submit_recharge_summary">충전하기: %1$s Mi 크레딧.</string>
     <string name="mibi_progress_submit_title">제출 요청</string>

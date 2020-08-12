@@ -52,7 +52,7 @@
     <string name="station_check_favorite">미리 설정에 추가</string>
     <string name="toast_fm_recorder_internal_error">FM 녹음 오류</string>
     <string name="toast_fm_recorder_storage_full">녹음을 계속할 수 없음. 남은 공간 없음.</string>
-    <string name="toast_fm_error_startfailed">녹음 오류. 다른 앱에서 녹음 기능을 사용중인 것 같습니다.</string>
+    <string name="toast_fm_error_startfailed">녹음 오류. 다른 앱에서 녹음 기능을 사용 중인 것 같습니다.</string>
     <string name="toast_fm_recorder_access_error">게스트 모드에서는 녹음할 수 없습니다.</string>
     <string name="fm_has_turned_off">FM 라디오 꺼짐</string>
     <string name="msg_fm_starting">시작 중…</string>

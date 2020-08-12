@@ -13,7 +13,7 @@
     <string name="wifi_display_no_devices_found">근처의 기기를 찾을 수 없음</string>
     <string name="wifi_display_status_connecting">연결 중</string>
     <string name="wifi_display_status_connected">연결됨</string>
-    <string name="wifi_display_status_in_use">사용중</string>
+    <string name="wifi_display_status_in_use">사용 중</string>
     <string name="wifi_display_status_not_available">사용할 수 없는</string>
     <string name="wifi_display_details">디스플레이 설정</string>
     <string name="wifi_display_options_title">무선 디스플레이 옵션</string>

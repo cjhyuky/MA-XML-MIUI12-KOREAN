@@ -305,7 +305,7 @@
         <item quantity="other">%d개 카테고리 꺼짐</item>
     </plurals>
     <plurals name="power_high_usage_summary">
-        <item quantity="other">%2$d개 앱 비정상적 실행중</item>
+        <item quantity="other">%2$d개 앱 비정상적 실행 중</item>
     </plurals>
     <plurals name="power_high_usage_title">
         <item quantity="other">앱들이 배터리를 소모중입니다.</item>

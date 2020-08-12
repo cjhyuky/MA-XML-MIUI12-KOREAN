@@ -3,7 +3,7 @@
     <string name="get_identity_auth_url_failed">"ID 식별 불가"</string>
     <string name="character_counter_content_description">글자 수 한도를 %2$d자 중 %1$d자를 초과했습니다.</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
-    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">국내 : SIM 카드 활성화가 번호를 가져오지 못했습니다, 운영자가 번호를 가져오지 못했습니다.</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">국내 : SIM 카드 활성화가 번호를 가져오지 못했습니다. 운영자가 번호를 가져오지 못했습니다.</string>
     <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">국내 : SIM 카드 활성화 및 번호 매기기에 실패했습니다. 운영자가 성공적으로 번호를 얻었습니다(%s개 완료)</string>
     <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">국내 : SIM 카드 활성화 및 성공적인 번호 선택(%s개 완료)</string>
     <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">국제 : SIM 카드 활성화가 숫자를 가져오지 못했습니다.</string>
@@ -384,9 +384,9 @@
     <string name="verify_phone_prompt">전화번호 선택하여 인증</string>
     <string name="sms_send_success">전송됨</string>
     <string name="auth_fail_warning">세션 만료됨, 나중에 다시 로그인</string>
-    <string name="find_device_message">현재 기기가 잠겼습니다, 메시지: %1$s, 연락처 전화: %2$s.</string>
-    <string name="find_device_owner_phone">현재 기기가 잠겼습니다, 연락처 전화: %1$s.</string>
-    <string name="find_device_prompt_message">현재 기기가 잠겼습니다, 메시지: %1$s</string>
+    <string name="find_device_message">현재 기기가 잠겼습니다. 메시지: %1$s, 연락처 전화: %2$s.</string>
+    <string name="find_device_owner_phone">현재 기기가 잠겼습니다. 연락처 전화: %1$s.</string>
+    <string name="find_device_prompt_message">현재 기기가 잠겼습니다. 메시지: %1$s</string>
     <string name="find_device_activate_account">계정 활성화</string>
     <string name="login_check_find_device">기기 보안 정보 얻는 중…</string>
     <string name="unlock_help_notice">"도움말:
@@ -457,10 +457,10 @@
     <string name="vip_settings_info">VIP 설정</string>
     <string name="account_global_region">해외</string>
     <string name="account_error_user_name">입력한 사용자명이 잘못되었습니다.</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi 계정이 이미 연결되어있습니다. 귀하의 계정인가요?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용 중이며 Mi 계정이 이미 연결되어있습니다. 귀하의 계정인가요?"</string>
     <string name="passport_get_innetdate_agree">확인</string>
     <string name="passport_get_innetdate_disagree">아니오</string>
-    <string name="passport_get_innetdate_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용중이며 Mi 계정이 이미 연결되어있습니다. 통신사를 통해 온라인으로 확인하시겠습니까?"</string>
+    <string name="passport_get_innetdate_msg">"&lt;font color=Red>주의&lt;/font>%s 이 번호는 통신사를 통해 다른사람이 이미 사용 중이며 Mi 계정이 이미 연결되어있습니다. 통신사를 통해 온라인으로 확인하시겠습니까?"</string>
     <string name="passport_get_innetdate_title">번호 사용 확인</string>
     <string name="recycle_phone_notification_msg">귀하의 휴대전화 번호가 통신사를 통해 다른사람이 사용을 시작한 것 같습니다. 업데이트하려면 탭하세요.</string>
     <string name="recycle_phone_notification_title">Mi 계정 보안 리스크</string>
