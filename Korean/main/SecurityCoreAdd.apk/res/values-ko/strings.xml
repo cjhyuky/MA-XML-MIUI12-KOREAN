@@ -480,8 +480,8 @@
     <string name="dual_animation_description">듀얼 앱 실행 시 애니메이션 표시</string> 
     <string name="kid_mode_label">키즈 스페이스</string>
     <string name="close_kid_space_success">삭제된 키즈 스페이스</string>
-    <string name="xspace_whatsapp_title">왓츠앱</string>
-    <string name="whatsapp_send">왓츠앱으로 보내기</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
+    <string name="whatsapp_send">WhatsApp으로 보내기</string>
     <string name="xspace_facebook_title">페이스북</string>
     <string name="facebook_send">페이스북으로 보내기</string>
     <string name="facebook_login">페이스북 로그인</string>

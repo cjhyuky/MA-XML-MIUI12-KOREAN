@@ -68,7 +68,7 @@
     <string name="motion_photo_save_gif_ing">Gif 저장 중…</string>
     <string name="motion_photo_save_image">최고의 이미지 저장</string>
     <string name="motion_photo_save_image_ing">최고의 이미지 저장…</string>
-    <string name="motion_photo_save_video">동영상로 저장</string>
+    <string name="motion_photo_save_video">동영상으로 저장</string>
     <string name="motion_photo_save_video_ing">동영상 저장 중…</string>
     <string name="motion_photo_toast_long_press_play">재생할 사진을 길게 누르세요.</string>
     <string name="extra_photo_common_save_fail">"저장할 수 없습니다."</string>

@@ -2,13 +2,13 @@
 <resources>
     <string name="memory_clean_no_need_clean_1" formatted="false">%s를 해제했습니다.
 이제 기기의 속도가 %d%% 빨라졌습니다.</string>
-    <string name="menu_summary_optimize_manage">메모리 지우기</string>
+    <string name="menu_summary_optimize_manage">메모리 최적화</string>
     <string name="menu_summary_optimize_manage_1">기기를 %d%% 더 빠르게 만드세요.</string>
     <string name="menu_text_optimize_manage_1">부스트 속도</string>
     <string name="om_optimzing_big_button_text">부스트 속도</string>
     <string name="om_running_app_info_summary">%s 확보</string>
     <string name="om_shortcut_added_toast_text">성공적으로 추가되었습니다.</string>
-    <string name="om_shortcut_dialog_summary">"RAM 제트를 사용하면 한 번의 탭으로 메모리를 지우고 장치 속도를 높일 수 있습니다. 홈 화면에 램 제트를 추가하시겠습니까?"</string>
+    <string name="om_shortcut_dialog_summary">"RAM 제트를 사용하면 한 번의 탭으로 메모리를 지우고 장치 속도를 높일 수 있습니다. 홈 화면에 RAM 제트를 추가하시겠습니까?"</string>
     <string name="om_shortcut_dialog_title">RAM 제트</string>
     <string name="security_bottom_guide_to_pm_text">유틸리티 키트 열기…</string>
     <string name="security_guide_bubble_text">열기</string>
@@ -2122,6 +2122,15 @@
     <string name="preferred_app_entries_launcher">런처</string>
     <string name="preferred_app_entries_messaging">문자 보내기</string>
     <string name="preferred_app_entries_music">음악</string>
+    <string name="pricacy_permission_use_total">권한 상태</string>
+    <string name="priority_storage_app_settings">데이터 저장 위치: %1$s</string>
+    <string name="priority_storage_settings_summary">"SD 카드가 감지되지 않으면 사용자의 데이터를 기기 내부 저장소에 자동 저장합니다."</string>
+    <string name="priority_storage_summary">데이터 저장 위치를 선택합니다.</string>
+    <string name="priority_storage_title">저장소 설정</string>
+    <string name="privacy_app_behavior_summary">자동 실행, 권한 등</string>
+    <string name="privacy_app_behavior_title">앱 행동 내역</string>
+    <string name="privacy_app_permission_manage_summary">설치된 앱의 권한을 관리합니다.</string>
+    <string name="privacy_app_permission_manage_title">권한 관리</string>
     <string name="privacy_apps">숨겨진 앱</string>
     <string name="privacy_apps_begin_use">시작</string>
     <string name="privacy_apps_button_know">확인</string>
@@ -2141,8 +2150,22 @@
     <string name="privacy_apps_tutorial_prompt_pageone">이 기능을 사용하면 앱 아이콘을 숨겨서 홈 화면에 더 이상 나타나지 않도록 할 수 있습니다.</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">비밀번호를 입력하면 숨겨진 앱이 있는 폴더가 나타납니다.</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">손가락 두 개를 펴면 앱 잠금 비밀번호를 입력하라는 메시지가 나타납니다.</string>
+    <string name="privacy_danger_permission_status_summary">민감한 권한을 요구하는 앱을 관리합니다.</string>
+    <string name="privacy_danger_permission_status_title">민감한 행동</string>
+    <string name="privacy_danger_permission_summary">앱이 권한을 어떻게 사용하는지 감시합니다.</string>
+    <string name="privacy_danger_permission_title">권한 알림</string>
+    <string name="privacy_danger_permission_warning">고위험 권한</string>
     <string name="privacy_declare_dialog_title">서비스 약관</string>
-    <string name="privacy_dialog_message">인터넷에 연결하면 이동통신사 정보와 함께이 메시지가 암호화되어 Mi의 서버에 업로드되어 데이터 사용 모니터링을 향상시킬 수 있습니다.</string>
+    <string name="privacy_dialog_message">인터넷에 연결하면 이 메시지가 이동통신사 정보를 포함해 암호화되어 Mi의 서버에 업로드되며, 데이터 사용 감시 개선을 돕습니다.</string>
+    <string name="privacy_dialog_ok">확인</string>
+    <string name="privacy_dialog_ok_with_num">확인 (%s초)</string>
+    <string name="privacy_dialog_open">켜기</string>
+    <string name="privacy_empty_call">"오늘 통화 기록에 접근 안 함"</string>
+    <string name="privacy_empty_contact">"오늘 주소록에 접근 안 함"</string>
+    <string name="privacy_empty_location">"오늘 위치 정보에 접근 안 함"</string>
+    <string name="privacy_empty_record">"오늘 오디오를 녹음 안 함"</string>
+    <string name="privacy_empty_storage">"오늘 저장소에 접근 안 함"</string>
+    <string name="privacy_informed_title">상태</string>
     <string name="privacy_mode_dialog_title">게스트 모드</string>
     <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
     <string name="privacy_prompt_traffic_adjust_message">보정을 클릭한 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출한 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다. \n\n보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다.</string>
@@ -2154,7 +2177,7 @@
     <string name="protocol_exception_title">네트워크 프로토콜 진단</string>
     <string name="protocol_loop_back_exception_summary">로컬 루프 백 테스트에 실패했습니다. 이 문제를 MIUI에 보고하려면 피드백 앱으로 이동하여 기기에서 로그를 전송하세요.</string>
     <string name="qq_lucky_warning">QQ 빨간 봉투</string>
-    <string name="qucick_replay_instrument">선택된 메신저앱 알림에서 빠른 답장 사용(예&gt;왓츠앱, WeChat, QQ)</string>
+    <string name="qucick_replay_instrument">선택된 메신저 앱 알림에서 빠른 답장 사용(예&gt;WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">스캔 중</string>
     <string name="quick_optimize_no_fix_issue_subtitle">배터리 수명 연장 실패</string>
     <string name="quick_optimize_no_fix_issue_title">배터리 문제 수정할 수 없음</string>
@@ -2573,14 +2596,17 @@
     <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 초대합니다. 이 앱은 인터넷에 연결하고 다음 권한 또는 기능을 사용하여 서비스를 개선하기 위해 통계를 수집해야 합니다. 여기에서는 통계 목적으로만 데이터를 수집하며 수집한 데이터를 기반으로 개인을 식별할 수 없습니다. "</string>
     <string name="system_permission_declare_disagree">동의하지 않음</string>
     <string name="system_permission_declare_double_link"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href =\"%2$\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
-    <string name="system_permission_declare_main_purpose" formatted="false">%1s 오신 것을 환영합니다! 이 앱은 아래의 기능을 사용하도록 허용되어 있습니다: %2s.</string>
-    <string name="system_permission_declare_no_say_no">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! 이 앱을 통해 다음과 같은 기능을 사용할 수 있습니다: %2s.</string>
+    <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;과 &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 취급방침&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;개인정보 취급방침&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_no_say_no">필요한 권한을 부여하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
     <string name="system_permission_declare_no_say_no_analytics">이러한 권한을 부여하지 않으려면 설정에서 등록을 취소할 수 있습니다 .</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 일부 작동하지 않습니다.</string>
     <string name="system_permission_declare_privacy_declare">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 다음 권한을 필요로 합니다.</string>
     <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 필요한 개인 데이터를 수집해야 합니다.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=\"%1$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
-    <string name="system_permission_declare_revoke_system">이 기능을 끝낼 수 있습니다.</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;사용자의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;개인정보 취급방침&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_revoke_system">이 앱을 종료할 수 있습니다.</string>
     <string name="system_permission_declare_revoke_uninstallable">보안 &gt; 앱 관리 &gt; 권한에서 로그아웃을 하거나 이 앱을 제거 또는 승인을 취소할 수 있습니다.</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
@@ -2963,6 +2989,16 @@
     <string name="privacy_description_camera">%1s 앱이 백그라운드에서 카메라를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
     <string name="privacy_description_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
     <string name="privacy_description_mic">%1s 앱이 백그라운드에서 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
+    <string name="privacy_dialog_call_item_1">기기 정보 접근</string>
+    <string name="privacy_dialog_call_item_2">전화 걸기</string>
+    <string name="privacy_dialog_call_item_3">기기 상태 접근</string>
+    <string name="privacy_dialog_call_message">"MIUI는 기본적으로 타사 앱에게 다음 권한을 허용하지 않습니다:"</string>
+    <string name="privacy_dialog_call_result">"그래도 타사 앱 및 서비스 사용에는 문제 없을 것입니다. 하지만 문제가 발생한다면 저희에게 알려주세요."</string>
+    <string name="privacy_dialog_call_title">통화 보호</string>
+    <string name="privacy_dialog_camera_message">"개인정보 보호를 위해 MIUI는 앱이 백그라운드에서 카메라를 실행하도록 허용하지 않습니다."</string>
+    <string name="privacy_dialog_camera_title">백그라운드 카메라 사용 제한</string>
+    <string name="privacy_dialog_danger_mission_message">Android에는 여러 고위험 권한(예: 사용자에게 푸시 알림 보내기)이 존재합니다. 사용자의 개인정보 보호를 위해 MIUI는 사용자에게 앱의 그러한 행동을 허용할 것인지 물으며, 제한할 수 있는 옵션을 제공합니다.</string>
+    <string name="privacy_dialog_danger_mission_title">고위험 권한</string>
     <string name="privacy_notification_subtitle">권한을 관리하려면 탭하세요.</string>
     <string name="privacy_notification_title_camera">%1s 앱이 백그라운드에서 카메라를 사용 중입니다.</string>
     <string name="privacy_notification_title_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용 중입니다.</string>

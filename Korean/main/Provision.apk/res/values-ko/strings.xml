@@ -7,10 +7,10 @@
     <string name="locale_picker_other_locale_title">기타 지역</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">개인정보 보호 정책</string>
     <string name="service_name_fast_pairing">Mi 링크</string>
-    <string name="skip_gesture_guide_dialog_message">방법을 알고 있는지 확인하려고 합니다. 이 옵션을 선택하기 전에 전체화면 제스처를 사용하십시오.</string>
+    <string name="skip_gesture_guide_dialog_message">이 옵션을 선택하기 전에 전체 화면 제스처 사용 방법을 숙지하세요.</string>
     <string name="skip_gesture_guide_dialog_negative_btn">취소</string>
     <string name="skip_gesture_guide_dialog_positive_btn">확인</string>
-    <string name="skip_gesture_guide_dialog_title"> 전체 화면 제스처</string>
+    <string name="skip_gesture_guide_dialog_title">전체 화면 제스처</string>
     <string name="terms_of_use_ble_htmlViewer">, 통합 위치 공급자, HTML 뷰어</string>
     <string name="location_U">U+GPSnWPS</string>
     <string name="location_content">법에 따라 이동통신사는 보안 및 응급 구조 목적을 추구하는 응급 구조 기관(소방서 및 경찰)의 요구 사항을 준수하기 위해 모바일 장치의 위치 정보를 얻을 수 있습니다.</string>
@@ -82,11 +82,11 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">귀하의 지문을 사용하여 기기 잠금해제, 앱과 서비스에 로그인하세요.</string>
     <string name="content_description_start">시작</string>
-    <string name="content_description_miui_version">MIUI 9</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
     <string name="language_picker_other_languages_title">더 많은 언어</string>
-    <string name="enable_accessibility_dialog_message">10초이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 피드백을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 더블 탭하세요.</string>
+    <string name="enable_accessibility_dialog_message">10초 이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 피드백을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 더블 탭하세요.</string>
     <string name="enable_accessibility_dialog_positive_btn">확인</string>
     <string name="enable_accessibility_dialog_negative_btn">취소</string>
     <string name="cm_terms_title">모바일 네트워크 운영자 동의</string>
@@ -108,7 +108,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="congratulation_swipe">위로 스와이프하여 시스템으로 들어가기</string>
     <string name="navigation_picker_gesture_guide">제스처 가이드</string>
     <string name="navigation_picker_radio_text_full_screen">전체 화면 모드</string>
-    <string name="navigation_picker_radio_text_virtual_key">가상 키 모드</string>
+    <string name="navigation_picker_radio_text_virtual_key">버튼</string>
     <string name="sim_card_detecting_check">"SIM 카드를 찾을 수 없습니다. SIM 카드가 제대로 설치되어 있고 잔액이 충분한지 확인하세요."</string>
     <string name="system_navigation_mode">시스템 탐색 모드</string>
     <string name="sim_card_detecting_confirm_turn_on_network">모바일 데이터 네트워크에 연결하는 것을 허용하시겠습니까? 허용하시면 삽입되어있는 SIM 카드를 이용하여 모바일 네트워크에 접속할 것입니다.</string>
@@ -121,7 +121,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="agree_terms_input_method_kika">"나는 Kika 개인정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
-    <string name="terms_of_use_lable_apps">MI 서비스, Mi SIM 활성화 서비스, Mi 클라우드, 장치 찾기, 홈 스크린, 게임 센터, MAB, MIUI 데몬 및 MSA 시스템 구성 요소,
+    <string name="terms_of_use_lable_apps">Mi 서비스, Mi SIM 활성화 서비스, Mi 클라우드, 장치 찾기, 홈 스크린, 게임 센터, MAB, MIUI 데몬 및 MSA 시스템 구성 요소,
 번역 서비스, 빠른 앱, 퀵 카드, 통계, Mi 링크</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"이 기능을 사용하기 전에 Facemoji 개인정보 취급 방침에 동의해야 합니다."</string>
     <string name="terms_of_use_lable_default_input_method_kika">"이 기능을 사용하기 전에 Kika 개인정보 취급 방침에 동의해야 합니다."</string>

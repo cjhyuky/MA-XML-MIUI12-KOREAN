@@ -577,8 +577,8 @@
     <string name="now_playing_tab_time">%1$s/%2$s</string>
     <string name="nowplaying_art_content_description">%2$s의 %1$s 재생 중</string>
     <string name="nowplaying_title">지금 재생 중</string>
-    <string name="offline_download_later_body_online">"'%s'항목은 다음번에 기기가 인터넷에 연결되면 다운로드됩니다."</string>
-    <string name="offline_download_later_body_wifi">"'%s'항목은 다음번에 기기가 Wi-Fi에 연결되면 다운로드됩니다."</string>
+    <string name="offline_download_later_body_online">"'%s'항목은 다음 번에 기기가 인터넷에 연결되면 다운로드됩니다."</string>
+    <string name="offline_download_later_body_wifi">"'%s'항목은 다음 번에 기기가 Wi-Fi에 연결되면 다운로드됩니다."</string>
     <string name="offline_music_not_available_message">음악을 기기에 보관하려면 앨범, 재생목록 또는 아티스트 보기로 이동하세요.</string>
     <string name="offlinedl_only_on_wifi_summary">데이터 사용량 줄이기</string>
     <string name="offlinedl_only_on_wifi_title">Wi-Fi에서만 다운로드</string>

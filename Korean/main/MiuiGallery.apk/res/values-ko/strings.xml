@@ -223,7 +223,7 @@
     <string name="vlog_mi_clip_cn">동영상 편집기</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="yes">예</string>
-    <string name="filter_sky_dynamic_note">이 필터가 있는 항목은 동영상로 저장됩니다.</string>
+    <string name="filter_sky_dynamic_note">이 필터가 있는 항목은 동영상으로 저장됩니다.</string>
     <string name="filter_sky_dynamic_saving">동영상 만들기</string>
     <string name="filter_sky_dynamic_stop_saving">다시 누르면 저장을 취소합니다.</string>
     <string name="filter_sky_dynamic_unavailable">"이 이미지에는 이 필터를 적용할 수 없습니다."</string>
@@ -620,7 +620,7 @@
     <string name="cleaner_empty_value_description">모든 상태 좋음</string>
     <string name="cleaner_photo_pick_delete_selected">선택한 사진 삭제</string>
     <string name="cleaner_scan_description">항목을 최적화하면 장치의 저장공간이 확보됩니다.</string>
-    <string name="cleaner_scan_exit_dialog_message">다음번에 다시 시작해야 합니다. 지금 검색을 중지하시겠습니까?</string>
+    <string name="cleaner_scan_exit_dialog_message">다음 번에 다시 시작해야 합니다. 지금 검색을 중지하시겠습니까?</string>
     <string name="cleaner_scan_exit_dialog_positive">중지</string>
     <string name="cleaner_scan_exit_dialog_title">검색 중지</string>
     <string name="cleaner_scan_finish">스캔 완료</string>
@@ -1159,7 +1159,7 @@
     <string name="movie_audio_summertime">여름</string>
     <string name="movie_audio_vitality">활기</string>
     <string name="movie_cancel_download">취소</string>
-    <string name="movie_change_to_long_video">5장 이상의 사진을 선택했습니다. 긴 동영상로 전환되었습니다.</string>
+    <string name="movie_change_to_long_video">5장 이상의 사진을 선택했습니다. 긴 동영상으로 전환되었습니다.</string>
     <string name="movie_content_describe_add">사진 추가</string>
     <string name="movie_content_describe_delete">사진 삭제</string>
     <string name="movie_content_describe_pause">멈춤</string>
@@ -2558,7 +2558,7 @@
     <string name="xiaomi_note_3">Mi 노트 3</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="zman_title">보안 공유</string>
-    <string name="burst_save_video">동영상로 저장</string>
+    <string name="burst_save_video">동영상으로 저장</string>
     <string name="burst_save_video_fail">"저장할 수 없습니다."</string>
     <string name="burst_save_video_progerss">동영상 생성 중…</string>
     <string name="burst_save_video_title">동영상 해상도</string>
