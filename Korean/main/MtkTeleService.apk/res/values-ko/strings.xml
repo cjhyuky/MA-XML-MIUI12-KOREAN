@@ -1344,8 +1344,8 @@
     <string name="ivr_parameter_settings">IVR 매개 변수 설정</string>
     <string name="ivr_mo_area_code_settings">현재 지역 코드</string>
     <string name="ivr_mo_area_code_settings_hint">현재 지역 코드 입력</string>
-    <string name="ivr_type_settings">데이터 플랜 설정</string>
-    <string name="ivr_type_settings_hint">데이터 플랜 코드를 입력하세요.</string>
+    <string name="ivr_type_settings">데이터 한도 설정</string>
+    <string name="ivr_type_settings_hint">데이터 한도 코드를 입력하세요.</string>
     <string name="ivr_type_cm_1">M-Zone</string>
     <string name="ivr_type_cm_2">GoTone</string>
     <string name="ivr_type_cm_3">Easy own</string>
@@ -1378,8 +1378,8 @@
     <string name="call_background_lock_wallpaper">잠금 화면 배경화면</string>
     <string name="antispam_setting">차단 목록</string>
     <string name="call_advanced_setting_title">고급 설정</string>
-    <string name="preference_data_usage_title">데이터 플랜 설정</string>
-    <string name="preference_data_usage_summary">데이터 플랜을 설정하여 모바일 데이터 사용량 제어</string>
+    <string name="preference_data_usage_title">데이터 한도 설정</string>
+    <string name="preference_data_usage_summary">데이터 한도를 설정하여 모바일 데이터 사용량 제어</string>
     <string name="sim_service_setting">Mi SIM &amp; Mi 로밍</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mi_sim_settings_summary">SIM 카드 없이 모바일 데이터 사용</string>
@@ -2352,7 +2352,7 @@
     <string name="wificall_switch_title">Wi-Fi를 이용한 통화</string>
     <string name="cloud_sim_enabled_dual_4g_summary">"Mi 로밍 중에는 듀얼 4G를 끌 수 없습니다."</string>
     <string name="cloud_sim_enabled_preferred_network_summary">"Mi 로밍 사용 중에는 네트워크 설정을 바꿀 수 없습니다."</string>
-    <string name="data_plan">모바일 데이터 플랜</string>
+    <string name="data_plan">모바일 데이터 한도</string>
     <string name="dc_alert_dialog_message">일부 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
     <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
     <string name="do_not_show_again">"다시 보지 않기"</string>

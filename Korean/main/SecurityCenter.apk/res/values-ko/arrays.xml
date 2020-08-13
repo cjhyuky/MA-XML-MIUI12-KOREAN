@@ -163,10 +163,10 @@
         <item>무제한 데이터 요금제</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
-        <item>"모든 행동"</item>
+        <item>모든 행동</item>
         <item>자동 실행</item>
         <item>반복 자동 실행</item>
-        <item>권한</item>
+        <item>권한 사용</item>
         <item>민감한 행동</item>
      </string-array>
 </resources>

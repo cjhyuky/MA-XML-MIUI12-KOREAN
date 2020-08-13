@@ -352,9 +352,9 @@
     <string name="feedback_sandy">미세먼지</string>
     <string name="index_item_downloading">다운로드 중</string>
     <string name="index_item_installing2">설치</string>
-    <string name="location_provider_btn_text">위치 서비스 사용</string>
+    <string name="location_provider_btn_text">날씨 앱의 위치 정보 접근 허용</string>
     <string name="radar_cloud_update_time">%1$s 전</string>
-    <string name="translate_notification_info">백그라운드에서 번역중...</string>
+    <string name="translate_notification_info">백그라운드에서 번역 중...</string>
     <string name="update_notification_info">백그라운드에서 데이터 업데이트 중...</string>
     <string name="weather_alert_channel_name">알리미</string>
     <string name="weather_service_channel_name">백그라운드 서비스</string>
@@ -363,7 +363,7 @@
     <string name="tts_max_wind_power">최대 풍속</string>
     <string name="about_weather_setting">날씨에 대하여</string>
     <string name="about_weather_setting_feedback">피드백</string>
-    <string name="abrupt_weather_settings_summary_type">예상 강우, 대기 질 변화 및 기타 중요한 변화에 대한 경고를 받습니다.</string>
+    <string name="abrupt_weather_settings_summary_type">예상 강우, 대기질 변화 및 기타 중요한 변화에 대한 경고를 받습니다.</string>
     <string name="alert_weather_enable_settings_summary">공식 날씨 경고 수신</string>
     <string name="alert_weather_enable_settings_title">날씨 경고</string>
     <string name="feedback">잘못된 날씨 정보 신고</string>
@@ -405,4 +405,8 @@
     <string name="international_details_humidity_title">습도</string>
     <string name="indices_title_chance_of_rain">비 올 확률</string>
     <string name="indices_title_wind_speed">풍속</string>
+    <string name="dynamic_weather">Weather</string>
+    <string name="save_to_gallery_failure_message">"갤러리 저장 실패"</string>
+    <string name="save_to_gallery_icon_name">갤러리에 저장</string>
+    <string name="save_to_gallery_success_message">갤러리 저장 성공</string>
 </resources>

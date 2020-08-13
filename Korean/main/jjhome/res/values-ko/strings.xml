@@ -292,9 +292,9 @@
     <string name="about_ok">알겠습니다.</string>
     <string name="scroll_to_contact_area_error">스크롤 할 수 없습니다.</string>
     <string name="scroll_to_app_area_error">스크롤 할 수 없습니다.</string>
-    <string name="lock_launcher_hint">홈 스크린 잠김</string>
-    <string name="unlock_launcher_hint">홈 스크린 잠금해제됨</string>
-    <string name="lock_launcher_toast_hint">홈 스크린이 잠겨있어서 변경할 수 없습니다. 설정에서 잠금해제 하세요.</string>
+    <string name="lock_launcher_hint">홈 화면 잠김</string>
+    <string name="unlock_launcher_hint">홈 화면 잠금해제됨</string>
+    <string name="lock_launcher_toast_hint">홈 화면이 잠겨있어서 변경할 수 없습니다. 설정에서 잠금해제 하세요.</string>
     <string name="box_app_name">앱</string>
     <string name="box_insert_to_launcher_hint">%1$s 앱을 홈 화면에 추가하시겠습니까?</string>
     <string name="box_remove_from_launcher_hint">%1$s 앱을 홈 화면에서 제거하시겠습니까?</string>

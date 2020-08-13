@@ -259,7 +259,7 @@
     <string name="custom_progress">%d개 항목</string>
     <string name="remote_receive">수신</string>
     <string name="click_to_view">탭하여 보기</string>
-    <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 스크린 배열, 앱, 설정 등을 새 기기로 이동하세요.</string>
+    <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 화면 배열, 앱, 설정 등을 새 기기로 이동하세요.</string>
     <string name="trans_sender">이전 기기</string>
     <string name="trans_receiver">새로운 기기</string>
     <string name="trans_waiting_for_sender">이전 기기가 연결하기를 기다리는 중…</string>

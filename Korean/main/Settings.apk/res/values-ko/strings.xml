@@ -2229,7 +2229,7 @@
     <string name="drive_mode_voice_report">텍스트 음성 출력</string>
     <string name="dtmf_tone_enable_title">다이얼패드 신호음</string>
     <string name="dual_clock">듀얼 시계</string>
-    <string name="dual_clock_aod_hint">\"듀얼 시계\"는 다음과 같은 기능을 제공합니다: 1. 화면이 꺼져있는 경우 설정 - 디스플레이에서 항목표시 허용 2. 잠금 화면에서 다음 중 하나를 사용하고 있는지 확인하세요. 설정 - 테마의 기본 테마 또는 클래식 테마 3. 홈 스크린의 경우 기본 시스템 시계 위젯을 사용하고 있는지 확인하세요.</string>
+    <string name="dual_clock_aod_hint">\"듀얼 시계\"는 다음과 같은 기능을 제공합니다: 1. 화면이 꺼져있는 경우 설정 - 디스플레이에서 항목표시 허용 2. 잠금 화면에서 다음 중 하나를 사용하고 있는지 확인하세요. 설정 - 테마의 기본 테마 또는 클래식 테마 3. 홈 화면의 경우 기본 시스템 시계 위젯을 사용하고 있는지 확인하세요.</string>
     <string name="dual_clock_aod_open_message">듀얼 시계는 잠금 화면, 홈 화면 및 꺼진 화면에 표시됩니다.</string>
     <string name="dual_clock_hint">\"듀얼 시계\"는 다음 기능을 사용합니다 : 1. 잠금 화면에서 설정&gt; 테마&gt; 기본 또는 클래식 테마를 사용하고 있는지 확인하세요 2. 홈 화면 기본 시스템 시계 위젯을 사용하고 있는지 확인하세요.</string>
     <string name="dual_clock_ok">확인</string>
@@ -6050,7 +6050,7 @@
     <string name="storage_settings_title">저장소 설정</string>
     <string name="storage_summary">%2$s 중 %1$s 사용됨</string>
     <string name="storage_summary_format">%2$s 중 %1$s 사용</string>
-    <string name="storage_summary_with_sdcard">내장 저장소 : %1$s 사용됨 - %2$s 사용 가능</string>
+    <string name="storage_summary_with_sdcard">내부 저장소 : %1$s 사용됨 - %2$s 사용 가능</string>
     <string name="storage_title_usb">USB 컴퓨터 연결</string>
     <string name="storage_type_external">외부 저장소</string>
     <string name="storage_type_internal">내부 저장소</string>
@@ -6089,7 +6089,7 @@
     <string name="storage_wizard_init_v2_later">나중에 설정</string>
     <string name="storage_wizard_init_v2_or">또는</string>
     <string name="storage_wizard_init_v2_title">^1 사용방법</string>
-    <string name="storage_wizard_migrate_body">사진, 파일, 그리고 앱들을 새 ^1로 옮길 수 있습니다. \n작업은 약 ^2 시간이 소요되며 내장 저장소에 ^3의 공간을 확보할 수 있습니다. 먗몇 앱들은’작업중에 작동하지 않을 수 있습니다’s 진행.</string>
+    <string name="storage_wizard_migrate_body">사진, 파일, 그리고 앱들을 새 ^1로 옮길 수 있습니다. \n작업은 약 ^2 시간이 소요되며 내부 저장소에 ^3의 공간을 확보할 수 있습니다. 먗몇 앱들은’작업중에 작동하지 않을 수 있습니다’s 진행.</string>
     <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;이 작업은 약 ^1정도 소요될 예정입니다.^3에서 ^2를 정리할 수 있습니다.&lt;/b&gt;</string>
     <string name="storage_wizard_migrate_confirm_next">이동</string>
     <string name="storage_wizard_migrate_confirm_title">지금 데이터 이동</string>
@@ -6498,7 +6498,7 @@
     <string name="trans_intro_title_new">새로운 기기에서의 데이터 전송</string>
     <string name="trans_intro_title_old">이전 기기에서의 데이터 전송</string>
     <string name="trans_intro_title_private">숨김처리된 앨범:</string>
-    <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 스크린 배열, 앱, 설정 등을 새 기기로 이동하세요.</string>
+    <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 화면 배열, 앱, 설정 등을 새 기기로 이동하세요.</string>
     <string name="trans_my_device">내 기기</string>
     <string name="trans_native_no_space">이전 장치에 저장 공간이 부족합니다(%s 사용 가능). 저장 공간을 확보하거나 중요한 항목만 전송합니다.</string>
     <string name="trans_old_phone_low_space_msg">Mi Mover는 전송된 데이터를 패키징하는 데 약간의 저장 공간이 필요하지만 이전 장치에 사용 가능한 공간이 충분하지 않은 것 같습니다. \"보안\"의 여유 공간을 확보하거나 중요한 항목만 전송하세요.</string>
@@ -10310,4 +10310,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="gesture_settings_title">제스처 바로가기</string>
     <string name="key_combination_power_volume_down">볼륨 감소 + 전원</string>
     <string name="long_press_power_key_half_second">전원 버튼을 0.5초 동안 길게 누르세요.</string>
+    <string name="sim_card_lock">SIM 카드 상태</string>
+    <string name="smart_home_title">스마트 홈</string>
+    <string name="smart_home_value_none">없음</string>
+    <string name="smart_home_value_unknown">알 수 없음</string>
 </resources>

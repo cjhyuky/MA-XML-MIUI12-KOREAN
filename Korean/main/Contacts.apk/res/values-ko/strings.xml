@@ -1197,7 +1197,7 @@
     <string name="data_left">남은 데이터</string>
     <string name="data_unit_mb">MB</string>
     <string name="data_unit_gb">GB</string>
-    <string name="set_data_package">먼저 데이터 플랜을 설정하세요.</string>
+    <string name="set_data_package">먼저 데이터 한도를 설정하세요.</string>
     <string name="livetalk_charge">충전</string>
     <string name="livetalk_switch_on">켜기</string>
     <string name="livetalk_left">남음</string>

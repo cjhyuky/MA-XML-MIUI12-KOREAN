@@ -94,4 +94,5 @@
     <string name="miui_lock_screen_date_two_lines_12">"EEEE MMMM d"</string>
     <string name="miui_lock_screen_large_date">"EEE M/dd"</string>
     <string name="miui_lock_screen_large_date_12">"EEE M/dd"</string>
+    <string name="title_system_wallpaper_resource">시스템 배경화면</string>
 </resources>

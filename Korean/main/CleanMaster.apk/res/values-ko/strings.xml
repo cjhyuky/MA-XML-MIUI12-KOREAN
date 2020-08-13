@@ -318,8 +318,8 @@
     <string name="tips_of_app_manage">저장소를 절약하기 위해 사용하지 않는 앱 삭제</string>
     <string name="title_of_traffic_notification">데이터 상태창</string>
     <string name="tips_of_traffic_notification">알림 창에서 모바일 데이터의 통계를 보세요.</string>
-    <string name="title_of_package_set">데이터 플랜 설정</string>
-    <string name="tips_of_package_set">사용자의 데이터 플랜을 설정하고 사용하는 트래픽의 양을 제어하세요.</string>
+    <string name="title_of_package_set">데이터 한도 설정</string>
+    <string name="tips_of_package_set">사용자의 데이터 한도를 설정하고 사용하는 트래픽의 양을 제어하세요.</string>
     <string name="title_of_garbage_cloud_scan">클라우드 스캔</string>
     <string name="tips_of_garbage_cloud_scan">클라우드를 스캔해 숨겨진 쓰레기를 찾습니다.</string>
     <string name="title_of_operators_set">통신사 설정</string>

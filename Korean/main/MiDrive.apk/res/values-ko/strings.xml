@@ -131,10 +131,19 @@
     <string name="xiaomi_drive_description_title">Mi 드라이브에 대해서</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yesterday">어제</string>
-    <string name="drive_low_memory_description_content">기 내장 저장소가 부족합니다.</string>
+    <string name="drive_low_memory_description_content">기기 내부 저장소가 부족합니다.</string>
     <string name="drive_low_memory_description_title">사용 가능 메모리 낮음 경고</string>
-    <string name="drive_low_memory_description_toast">기기 내장 저장소가 부족합니다. Mi 드라이브에 백업한 후 정리하세요.</string>
+    <string name="drive_low_memory_description_toast">기기 내부 저장소가 부족합니다. Mi 드라이브에 백업한 후 정리하세요.</string>
     <string name="drive_low_memory_positive_content">정리하기</string>
     <string name="source_file_missing">파일이 없습니다.</string>
     <string name="need_get_accounts_and_storage_permission">Mi 드라이브는 정상적으로 동작하기 위하여, 계정과 외부 저장소에 접근해야 합니다.</string>
+    <string name="setting_create_shortcut">홈 화면 바로가기</string>
+    <string name="shortcut_dialog_confirm">추가</string>
+    <string name="shortcut_dialog_content">Mi 드라이브 바로가기를 홈 화면에 추가하시겠습니까?</string>
+    <string name="tip_shortcut_added_success">추가 완료</string>
+    <string name="tip_shortcut_already_added">홈 화면 바로가기가 이미 있습니다.</string>
+    <string name="dynamic_weather">날씨</string>
+    <string name="save_to_gallery_failure_message">"갤러리 저장 실패"</string>
+    <string name="save_to_gallery_icon_name">갤러리에 저장</string>
+    <string name="save_to_gallery_success_message">갤러리 저장 성공</string>
 </resources>

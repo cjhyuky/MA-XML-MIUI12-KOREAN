@@ -262,7 +262,7 @@
     <string name="free_style_edit_bar_select_app">앱 선택</string>
     <string name="free_style_londing_text">불러오는 중…</string>
     <string name="free_style_enter_tip">Mi 스페이스를 보려면 두 손가락으로 스크린의 맨 위에서 쓸어내리세요.</string>
-    <string name="free_style_exit_tip">홈 스크린으로 돌아오려면 두 손가락으로 스크린의 맨 아래에서 쓸어올리세요.</string>
+    <string name="free_style_exit_tip">홈 화면으로 돌아오려면 두 손가락으로 스크린의 맨 아래에서 쓸어올리세요.</string>
     <string name="toggle_select_title">토글 선택</string>
     <string name="toggle_title">토글</string>
     <string name="settings_shortcut">설정</string>

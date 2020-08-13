@@ -88,7 +88,7 @@
     <string name="goto_sign_up">회원가입</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei 체험판이 시작되었습니다.</string>
     <string name="passport_sign_in_or_sign_up">계정으로 로그인/회원가입</string>
-    <string name="add_shortcut_success">홈 스크린 바로가기가 성공적으로 생성됨</string>
+    <string name="add_shortcut_success">홈 화면 바로가기가 성공적으로 생성됨</string>
     <string name="broadcast_list">채널</string>
     <string name="cancel_delay_stop">타이머 끄기</string>
     <string name="favor_list">즐겨찾기</string>
