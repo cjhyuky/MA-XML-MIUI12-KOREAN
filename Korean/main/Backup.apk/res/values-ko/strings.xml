@@ -547,7 +547,6 @@
     <string name="lack_perm_msg">Mi Mover는 아래의 권한들이 필요합니다: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">권한 요구됨</string>
     <string name="perm_camera">카메라</string>
-    <string name="perm_location">GPS</string>
     <string name="perm_read_call_log">통화 기록 읽기</string>
     <string name="perm_read_contacts">연락처 읽기</string>
     <string name="perm_read_phone_state">"폰 상태 읽기"</string>
@@ -755,8 +754,5 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
-    <string name="local_main_date_format">yyyy/MM/dd HH:mm</string>
-    <string name="local_select_userapp">앱</string>
     <string name="perm_location">위치</string>
-    <string name="trans_detail_category_userdata">앱</string>
 </resources>

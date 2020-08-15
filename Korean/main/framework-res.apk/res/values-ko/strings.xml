@@ -2447,7 +2447,6 @@
     <string name="wfc_mode_ims_preferred_summary">IMS 우선</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">탭하여 개인정보 설정 변경 후 다시 시도</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">%1$s에 연결할 수 없음</string>
-    <string name="wifi_connect_default_application">애플리케이션</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">설정 변경</string>
     <string name="wifi_disable_mac_randomization_dialog_failure">개인정보 설정 변경 불가</string>
     <string name="wifi_disable_mac_randomization_dialog_message">&quot;%1$s이(가) 기기의 고유 식별자인 MAC 주소를 사용해 연결하려는 것 같습니다. 그러면 기기의 위치 정보가 근처 기기에 추적될 수 있습니다. 계속하면 %1$s이(가) 사용자의 개인정보 설정을 변경하고 연결을 다시 시도합니다.&quot;</string>

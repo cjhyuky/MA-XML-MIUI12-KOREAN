@@ -103,5 +103,4 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;표시할 항목 없음&quot;</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;항목을 불러올 수 없습니다.&quot;</string>
-    <string name="unit_degree">도</string>
 </resources>
