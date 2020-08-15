@@ -375,11 +375,11 @@
     <string name="settings_set_password_for_owner_space_desc">첫 번째 공간에서 화면 잠금을 설정하여 설정에서 바로가기를 제거하세요.</string>
     <string name="settings_set_password_for_sec_space">보조 공간의 화면 잠금 설정</string>
     <string name="settings_set_password_for_sec_space_desc">두 번째 공간에서 화면 잠금을 설정하여 설정에서 바로가기를 제거하세요.</string>
-    <string name="settings_switch_space">하나의 휴대전화을 두 기기처럼 사용하기</string>
+    <string name="settings_switch_space">하나의 휴대전화를 두 기기처럼 사용하기</string>
     <string name="space_create_guide_desc_1">앱 및 사진 따로 보관</string>
     <string name="space_create_guide_desc_2">보조 공간 사용 가능</string>
     <string name="space_create_guide_desc_3">"보조 공간은 기기에 영향을 미치지 않습니다."</string>
-    <string name="space_create_guide_switchmode_title">하나의 휴대전화을 두 기기처럼 사용하세요.</string>
+    <string name="space_create_guide_switchmode_title">하나의 휴대전화를 두 기기처럼 사용하세요.</string>
     <string name="space_create_guide_title_1">사생활 보호</string>
     <string name="space_create_guide_title_2">언제나 생성 가능</string>
     <string name="space_create_guide_title_3">부담 없는 작업</string>

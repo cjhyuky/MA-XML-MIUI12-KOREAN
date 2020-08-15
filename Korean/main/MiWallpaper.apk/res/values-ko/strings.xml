@@ -63,7 +63,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
-    <string name="not_set">설정 안함</string>
+    <string name="not_set">설정 안 함</string>
     <string name="password_toggle_content_description">비밀번호 보기</string>
     <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
     <string name="saturn_summary">토성의 고리는 태양계에서 가장 놀라운 광경을 만듭니다.</string>

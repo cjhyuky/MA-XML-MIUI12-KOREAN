@@ -248,7 +248,7 @@
     <string name="btn_sure">확인</string>
     <string name="confirm_cancel_task">%1$s 파일을 %2$s 님에게 보내겠습니까?</string>
     <string name="default_device_name">알 수 없는 장치</string>
-    <string name="device_type_pc">PC</string>
+    <string name="device_type_pc">컴퓨터</string>
     <string name="enable_midrop">열기</string>
     <string name="file">파일</string>
     <string name="file_cannot_print">이 컨텐츠는 인쇄를 지원하지 않습니다.</string>
@@ -343,4 +343,10 @@
     <string name="application_not_install_content">"이 작업을 수행하는 앱이 기기에 설치되어 있지 않은 것 같습니다. 이 앱을 설치하거나 이 동작에 다른 작업을 할당할 수 있습니다."</string>
     <string name="bluetooth_close">이 앱이 블루투스를 껐습니다.</string>
     <string name="bluetooth_open">이 앱이 블루투스를 켰습니다.</string>
+    <string name="bluetooth_disable_notification_content">%s 앱이 블루투스를 껐습니다.</string>
+    <string name="bluetooth_disable_notification_title">블루투스 꺼짐</string>
+    <string name="bluetooth_enable_notification_content">%s 앱이 블루투스를 켰습니다.</string>
+    <string name="bluetooth_enable_notification_title">블루투스 켜짐</string>
+    <string name="customer_location_judgment">중국</string>
+    <string name="input_method_clipboard_tips">복사한 항목은 48시간 뒤 클립보드에서 삭제됩니다.</string>
 </resources>

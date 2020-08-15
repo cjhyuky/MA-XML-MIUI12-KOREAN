@@ -15,4 +15,6 @@
     <string name="hide_apps_open">숨겨진 앱 아이콘</string>
     <string name="home_hide_apps">앱 아이콘 숨기기</string>
     <string name="loading">잠깐만 기다려주세요…</string>
+    <string name="home_search_bar_app">검색 바 제공자</string>
+    <string name="home_search_gesture_app">쓸어올려 검색 제공자</string>
 </resources>

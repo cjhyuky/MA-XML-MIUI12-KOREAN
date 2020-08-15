@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="usage_app_limit_reach_summay_new">%d분 추가하려면 탭하세요.</string>
-    <string name="usage_app_limit_reach_title_new" formatted="false">%1s의 남은 화면 시간 : %2s</string>
-    <string name="usage_new_home_day_category_title_new">%s의 앱 카테고리 화면 시간</string>
-    <string name="usage_new_home_day_usage_title_new">%s의 스크린 타임</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">%1s의 남은 화면켜짐 시간 : %2s</string>
+    <string name="usage_new_home_day_category_title_new">%s의 앱 카테고리 화면켜짐 시간</string>
+    <string name="usage_new_home_day_usage_title_new">%s의 화면켜짐 시간</string>
     <string name="usage_week_avg_usage_title">주중 평균</string>
     <string name="usage_week_avg_usage_title2">평균 시간</string>
     <string name="high_fps_description">높은 화면 재생률. 더 높은 전력 소비.</string>
     <string name="low_fps_description">낮은 화면 거부율. 낮은 전력 소비.</string>
     <string name="silent_ringtone_hint">오디오가 무음 상태입니다. 볼륨을 높이고 다시 시도하세요.</string>
-    <string name="usage_new_home_app_limit_summary">이 앱의 일일 화면 시간 제한 설정</string>
-    <string name="usage_new_home_app_limit_title">화면 시간 제한</string>
+    <string name="usage_new_home_app_limit_summary">이 앱의 일일 화면켜짐 시간 제한 설정</string>
+    <string name="usage_new_home_app_limit_title">화면켜짐 시간 제한</string>
     <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="steady_on_screen_notification_title">휴대전화를 내려 놓고 휴식을 취하세요.</string>
     <string name="steady_on_screen_notify">사용 중단에 대한 알림</string>
@@ -83,24 +83,24 @@
     <string name="usagestats_device_notification_des">오늘의 화면켜짐 제한 시간: %s</string>
     <string name="usagestats_device_notification_des_over">"오늘의 화면켜짐 제한 시간에 도달했습니다."</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">오늘의 사용제한: %s | %s 남음</string>
-    <string name="usagestats_device_notification_title">화면 시간 알림</string>
+    <string name="usagestats_device_notification_title">화면켜짐 시간 알림</string>
     <string name="usagestats_device_timeout_des" formatted="false">"오늘 %d시간 %d분 사용하고 있습니다. 잠시 휴식하세요!"</string>
     <string name="usagestats_device_timeout_negative">1시간 후 알림</string>
     <string name="usagestats_device_timeout_positive">확인</string>
-    <string name="usagestats_device_timeout_title">화면 시간 알림</string>
+    <string name="usagestats_device_timeout_title">화면켜짐 시간 알림</string>
     <string name="usage_app_get_it">확인</string>
     <string name="usage_app_limit_alter_summary">"이 시간제한이 오늘 이 앱을 사용한 시간보다 짧아보입니다. 그래도 제한을 설정하시겠습니까?"</string>
-    <string name="usage_app_limit_alter_title">화면 시간 제한 체크</string>
+    <string name="usage_app_limit_alter_title">화면켜짐 시간 제한 체크</string>
     <string name="usage_app_limit_prelong">시간 연장</string>
     <string name="usage_app_limit_reach_summay">%s 남음</string>
-    <string name="usage_app_limit_reach_title">%s 앱의 화면 시간 제한에 거의 도달했습니다.</string>
+    <string name="usage_app_limit_reach_title">%s 앱의 화면켜짐 시간 제한에 거의 도달했습니다.</string>
     <string name="usage_app_limit_summary">"한도에 도달하면 선택한 앱을 사용할 수 없습니다."</string>
-    <string name="usage_app_limit_title">화면 시간 제한</string>
+    <string name="usage_app_limit_title">화면켜짐 시간 제한</string>
     <string name="usage_app_other_settings">추가 설정</string>
     <string name="usage_app_over_content">"오늘 이 앱을 %s 동안 이미 사용했습니다."</string>
     <string name="usage_app_over_summary">"제한 시간에 도달했습니다. 시간이 다 되었습니다!"</string>
     <string name="usage_app_set_limit_time">제한 설정</string>
-    <string name="usage_app_system_app_summary">"시스템 앱은 화면 시간 제한 설정을 할 수 없습니다."</string>
+    <string name="usage_app_system_app_summary">"시스템 앱은 화면켜짐 시간 제한 설정을 할 수 없습니다."</string>
     <string name="usage_app_weekday_limit">주중</string>
     <string name="usage_app_weekend_limit">주말</string>
     <string name="usage_state_app_timer">화면켜짐 시간</string>
@@ -123,8 +123,8 @@
     <string name="usage_state_noti_mourth_day">"%s '알림 켜짐 시간'"</string>
     <string name="usage_state_notification">알림 관리</string>
     <string name="usage_state_notification_manager">앱 알림 관리</string>
-    <string name="usage_state_remind_summary">활성화시 화면 시간 알림을 받을 수 있습니다. 평일과 주말간 서로 다르게 설정할 수 있습니다.</string>
-    <string name="usage_state_remind_title">화면 시간 알림</string>
+    <string name="usage_state_remind_summary">활성화시 화면켜짐 시간 알림을 받을 수 있습니다. 평일과 주말간 서로 다르게 설정할 수 있습니다.</string>
+    <string name="usage_state_remind_title">화면켜짐 시간 알림</string>
     <string name="usage_state_rest_day">주말</string>
     <string name="usage_state_saturday">토</string>
     <string name="usage_state_set_invalid_time_toast">"1분 보다 적게 지정할 수 없습니다."</string>
@@ -135,11 +135,11 @@
     <string name="usage_state_tuesday">화</string>
     <string name="usage_state_unlock_mourth_day">"%s '잠금해제 시간'"</string>
     <string name="usage_state_usage_time">화면 켜짐 시간</string>
-    <string name="usage_state_usage_time_remind">화면 시간 알림</string>
-    <string name="usage_state_use_time_remind_title">화면 시간 알림</string>
+    <string name="usage_state_usage_time_remind">화면켜짐 시간 알림</string>
+    <string name="usage_state_use_time_remind_title">화면켜짐 시간 알림</string>
     <string name="usage_state_wednesday">수</string>
     <string name="usage_state_week_day_hour_minute" formatted="false">주말: %d시간 %d분</string>
-    <string name="usage_state_week_total_text">화면 시간 (최근 7일)</string>
+    <string name="usage_state_week_total_text">화면켜짐 시간 (최근 7일)</string>
     <string name="usage_state_which_mouth">M월</string>
     <string name="usage_state_work_day">평일</string>
     <string name="usage_state_work_day_hour_minute" formatted="false">평일: %d시간 %d분</string>
@@ -155,13 +155,13 @@
     <string name="usage_state_focus_mode_summary1">시작이 절반입니다.</string>
     <string name="usage_state_focus_mode_summary2">포커스 유지</string>
     <string name="usage_state_focus_mode_summary3">포커스를 유지하려면 노력이 필요합니다.</string>
-    <string name="usage_state_focus_mode_title">포커스 모드</string>
-    <string name="usage_state_focus_mode_warning_message">"포커스 모드로 설정하면 카메라와 긴급 통화만 가능합니다 포커스 모드를 미리 해제할 수 없습니다."</string>
+    <string name="usage_state_focus_mode_title">집중 모드</string>
+    <string name="usage_state_focus_mode_warning_message">"집중 모드로 설정하면 카메라와 긴급 통화만 가능합니다 집중 모드를 미리 해제할 수 없습니다."</string>
     <string name="usage_state_focus_mode_warning_title">집중</string>
     <string name="usage_state_focus_take_photo">카메라</string>
     <string name="usage_state_focus_warning_text">중요한 일에 집중하세요.</string>
     <string name="usage_state_focus_weak_summary">휴대전화를 멀리하세요.</string>
-    <string name="usage_state_open_focus_mode">포커스 모드 켜기</string>
+    <string name="usage_state_open_focus_mode">집중 모드 켜기</string>
     <string name="usage_state_running_days">달성 (일)</string>
     <string name="usage_state_statistic_data">통계</string>
     <string name="usage_state_turn_on">켜기</string>
@@ -199,7 +199,7 @@
     <string name="usage_focus_title_level3">일반적인 수준 이상으로 상승</string>
     <string name="usage_focus_title_level4">일관된 기쁨 찾기</string>
     <string name="usage_focus_title_level5">집중 유지</string>
-    <string name="usage_home_premission_main_summary">"화면 시간에 오신 것을 환영합니다!이 앱을 사용하여 화면 시간 제한을 설정하고 통계를보고 초점 모드로 전환할 수 있습니다. 이 앱은 화면 시간 정보를 수집해야 합니다 (예 : 잠금해제 횟수) 휴대전화를 켜고 화면을 켜고 앱을 사용하는 시간) 정상적으로 작동합니다."</string>
+    <string name="usage_home_premission_main_summary">"화면켜짐 시간에 오신 것을 환영합니다!이 앱을 사용하여 화면켜짐 시간 제한을 설정하고 통계를 보고 초점 모드로 전환할 수 있습니다. 이 앱은 화면켜짐 시간 정보를 수집해야 합니다 (예 : 잠금해제 횟수) 휴대전화를 켜고 화면을 켜고 앱을 사용하는 시간) 정상적으로 작동합니다."</string>
     <string name="usage_home_premission_second_summary">정상적으로 작동하려면이 앱에서 개인정보를 수집해야 합니다. 관련 법률, 규정 및 개인정보 보호 정책에 따라 귀하의 개인정보를 보호합니다.</string>
     <string name="usage_state_addup_time">모든 세션</string>
     <string name="usage_state_download">갤러리에 저장</string>
@@ -216,10 +216,10 @@
     <string name="usage_total_times">총 횟수</string>
     <string name="network_error">네트워크 연결 오류입니다. 다시 시도하세요.</string>
     <string name="retry">다시 시도</string>
-    <string name="stop_app_timer">스크린 시간 기능 사용 중지</string>
-    <string name="stop_app_timer_fail">스크린 시간 기능 비활성화 실패</string>
-    <string name="stop_app_timer_success">스크린 시간 기능이 비활성화되었습니다.</string>
-    <string name="stop_app_timer_tip">비활성화 후 설정 항목, 로컬 및 클라우드 데이터 등을 포함한 스크린 타임 기능 관련 데이터 및 호출된 권한이 지워집니다.</string>
+    <string name="stop_app_timer">화면켜짐 시간 기능 사용 중지</string>
+    <string name="stop_app_timer_fail">화면켜짐 시간 기능 비활성화 실패</string>
+    <string name="stop_app_timer_success">화면켜짐 시간 기능이 비활성화되었습니다.</string>
+    <string name="stop_app_timer_tip">비활성화 후 설정 항목, 로컬 및 클라우드 데이터 등을 포함한 화면켜짐 시간 기능 관련 데이터 및 호출된 권한이 지워집니다.</string>
     <string name="wait_tip">기다려주세요...</string>
     <string name="healthy_use_phone">휴대전화의 건강한 사용</string>
     <string name="special_feature">특수 기능</string>
@@ -239,7 +239,7 @@
     <string name="trend_from_yesterday_more_simple">어제보다 %1$s 높음</string>
     <string name="unlock_times_per_day">평균 일일 잠금해제 :</string>
     <string name="unlock_times_per_hour">평균 시간별 잠금해제 :</string>
-    <string name="usage_state_focus_mode_experience_warning_message">"포커스 모드는 카메라 실행 도중이거나 긴급 전화를 사용 중일때만 사용 가능합니다. 해당 기능들을 사용 중이지 않을 때는 이 기능을 실행할 수 없습니다."</string>
+    <string name="usage_state_focus_mode_experience_warning_message">"집중 모드 중에서 카메라 실행과 긴급 전화만 가능합니다. 집중 모드는 시간이 되기 전 미리 종료할 수 없습니다."</string>
     <string name="advanced_mode">고급 설정</string>
     <string name="color_gamut">색 영역</string>
     <string name="contrast_ratio">대비</string>
@@ -272,7 +272,7 @@
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="screen_time_lock">화면시간 관리 앱 잠금</string>
     <string name="shortcut_created">바로가기 생성 완료</string>
-    <string name="stop_summary">비활성화 후 스크린 시간 관리를 위해 모든 데이터가 지워집니다.</string>
+    <string name="stop_summary">비활성화 후 화면켜짐 시간 관리를 위해 모든 데이터가 지워집니다.</string>
     <string name="suggestion">제안 및 피드백</string>
     <string name="try_to_create">바로가기 생성을 시도했습니다.</string>
     <string name="usage_agree">동의</string>
@@ -281,13 +281,13 @@
     <string name="usage_home_permission_account_title">모바일 계정 권한 가져 오기</string>
     <string name="usage_home_permission_phone_summary">장치를 식별하기 위해 VAID를 수집</string>
     <string name="usage_home_permission_phone_title">전화 정보 권한 얻기</string>
-    <string name="usage_home_premission_main_summary_new">"스크린 시간 관리에 오신 것을 환영합니다.
-서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용 횟수를 계산하는데 사용되는 기간, 밝은 화면 및 포커스 모드 사용 횟수를 계산하는 포커스 모드 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
+    <string name="usage_home_premission_main_summary_new">"화면켜짐 시간 관리에 오신 것을 환영합니다.
+서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용 횟수를 계산하는데 사용되는 기간, 밝은 화면 및 집중 모드 사용 횟수를 계산하는 집중 모드 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
 기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야 합니다."</string>
-    <string name="usage_home_premission_main_summary_new_o">"스크린 시간 관리에 오신 것을 환영합니다.
+    <string name="usage_home_premission_main_summary_new_o">"화면켜짐 시간 관리에 오신 것을 환영합니다.
 서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
 기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야 합니다."</string>
-    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 앱이 제대로 작동하지 않으면 "스크린 시간 관리-> 설정-> 스크린 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
+    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 앱이 제대로 작동하지 않으면 "화면켜짐 시간 관리-> 설정-> 화면켜짐 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
     <string name="usage_creating_weekly_report">주간 보고서</string>
     <string name="usage_focus_new_summary">더 멋진 프로필 사진</string>
     <string name="usage_no_net_summary">네트워크 연결이 정상적인지 확인하세요.</string>
@@ -307,14 +307,14 @@
     <string name="usage_device_limit_time_over">"오늘 한도에 도달했습니다 (%1$s)"</string>
     <string name="usage_reach_device_limit">"시간 끝! 최대 한도에 도달했습니다."</string>
     <string name="usage_reach_device_limit_warning_text">"오늘 한도에 도달했습니다."</string>
-    <string name="usage_stats_device_limit">일일 화면 시간제한</string>
+    <string name="usage_stats_device_limit">일일 화면켜짐 시간제한</string>
     <string name="usage_stats_device_limit_summary">사용 한도 설정</string>
     <string name="usage_stats_limit_time_accuracy_title">남은 시간 추정의 정확성</string>
     <string name="usage_stats_limit_time_high_accuracy_summary">남은 시간을 1분 단위로 정확하게 표시할 수 있습니다. 전력 소비를 증가시킵니다.</string>
     <string name="usage_stats_limit_time_high_accuracy_title">높음</string>
     <string name="usage_stats_limit_time_low_accuracy_summary">전력소비 절감을 위해 2시간 이하로 남은 경우에만 1분단위로 남은 시간을 표시할 수 있습니다.</string>
     <string name="usage_stats_limit_time_low_accuracy_title">낮음</string>
-    <string name="usage_stats_limit_time_warn">화면 시간경고</string>
+    <string name="usage_stats_limit_time_warn">화면켜짐 시간경고</string>
     <string name="usage_stats_limit_time_warn_summary">알림 창에 남은 시간 표시</string>
     <string name="usage_stats_limit_time_warn_title">남은 화면시간 알림</string>
     <string name="usage_stats_no_limit">예외 앱</string>
@@ -327,7 +327,7 @@
     <string name="title_activity_easy_mode">라이트 모드</string>
     <string name="touch_description">최적화된 버튼과 바로가기는 실수로 닿지 않도록 도와줍니다.</string>
     <string name="touch_title">향상된 터치 컨트롤</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"우리는 관련 법률, 규정 및 개인정보 보호 정책에 따라 개인정보를 보호해야 합니다. 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 귀하는 화면 시간 &gt; 설정 &gt; 화면 시간 끄기에서 승인을 취소 할 수 있습니다."</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"우리는 관련 법률, 규정 및 개인정보 보호 정책에 따라 개인정보를 보호해야 합니다. 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 귀하는 화면켜짐 시간 &gt; 설정 &gt; 화면켜짐 시간 끄기에서 승인을 취소 할 수 있습니다."</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;이 앱을 사용하기 전에 &lt;a href='%1s'&amp;gt;사용자 약관&amp;lt;/a&amp;gt; 및 &amp;lt;a href='%2s'&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의해야 합니다.&lt;/Data&gt;"</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="afternoon">오후</string>
@@ -337,7 +337,7 @@
     <string name="anti_flicker_mode_summary">빛이 적은 환경에서 광범위한 깜빡임을 줄여 눈의 피로를 덜어줍니다.</string>
     <string name="anti_flicker_title">깜빡임 방지 모드</string>
     <string name="clearable_edittext_clear_description">지우기</string>
-    <string name="control_center_title">오늘 스크린 시간</string>
+    <string name="control_center_title">오늘 화면켜짐 시간</string>
     <string name="copy">복사</string>
     <string name="date_picker_lunar">달력 캘린더</string>
     <string name="expand_button_title">고급</string>
@@ -403,9 +403,9 @@
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>
     <string name="saturday_shortest">토</string>
-    <string name="screen_fps_summary_power_save">고정 새로고침 빈도를 사용해 배터리를 절약합니다.</string>
-    <string name="screen_fps_summary_smooth">지원하는 앱에서 새로고침 빈도를 자동으로 증가시켜 품질을 개선합니다.</string>
-    <string name="screen_fps_title">새로고침 빈도</string>
+    <string name="screen_fps_summary_power_save">재생 빈도를 고정하여 배터리를 절약합니다.</string>
+    <string name="screen_fps_summary_smooth">지원하는 앱에서 자동으로 높은 재생 빈도를 사용하여 품질을 개선합니다.</string>
+    <string name="screen_fps_title">재생 빈도</string>
     <string name="screen_fps_unit_power_save">%dHz(배터리 절약)</string>
     <string name="screen_fps_unit_smooth">%dHz(더 나은 품질)</string>
     <string name="sunday">일요일</string>
@@ -433,7 +433,7 @@
     <string name="usage_new_home_day_usage_title">개별 앱</string>
     <string name="usage_new_home_first_unlock">첫 번째 잠금해제 : %s</string>
     <string name="usage_new_home_name">이름</string>
-    <string name="usage_new_home_show_more_data_summary">개별 앱의 화면 시간을 제한할 수도 있습니다.</string>
+    <string name="usage_new_home_show_more_data_summary">개별 앱의 화면켜짐 시간을 제한할 수도 있습니다.</string>
     <string name="usage_new_home_show_more_data_title">더 많은 통계보기</string>
     <string name="usage_new_home_unlock_equals_text">전날과 동일</string>
     <string name="usage_new_home_unused">"사용하지 않았습니다."</string>
@@ -456,6 +456,6 @@
     <string name="focus_mode_custom_time">기간 설정</string>
     <string name="dc_light_hint_enable_title">주의</string>
     <string name="dc_light_hint_normal">깜빡임 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_light_hint_other">깜빡임 방지 모드는 새로고침 빈도 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_lignt_enable_hint">깜빡임 방지 모드는 화면 새로고침 빈도를 60 Hz로 설정합니다. 깜빡임 방지 모드로 전환하시겠습니까?</string>
+    <string name="dc_light_hint_other">깜빡임 방지 모드는 재생 빈도 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
+    <string name="dc_lignt_enable_hint">깜빡임 방지 모드는 화면 재생 빈도를 60 Hz로 설정합니다. 깜빡임 방지 모드로 전환하시겠습니까?</string>
 </resources>

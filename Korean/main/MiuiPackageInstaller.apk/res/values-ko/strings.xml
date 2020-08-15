@@ -92,7 +92,7 @@
     <string name="cancel">취소</string>
     <string name="cta_button_text_agree">확인</string>
     <string name="cta_button_text_cancel">종료</string>
-    <string name="cta_dialog_msg">보안을 사용하려면 업데이트를 받으려면 인터넷에 연결하고 정상적으로 작동하는 위치에 액세스해야 합니다.</string>
+    <string name="cta_dialog_msg">보안을 사용하려면 업데이트를 받으려면 인터넷에 연결하고 정상적으로 작동하는 위치 정보에 접근해야 합니다.</string>
     <string name="cta_dialog_title">인터넷 연결</string>
     <string name="current_permissions_category">현재 권한</string>
     <string name="current_permission_template">%1$s의 %2$s</string>
@@ -155,7 +155,7 @@
     <string name="lift_ban_once">한 번만 허용</string>
     <string name="loading">불러오는 중…</string>
     <string name="location_settings">위치 설정</string>
-    <string name="location_warning">%1$s은 이 장치에 대한 위치서비스 제공업체입니다. 위치 설정에서 위치 액세스를 수정할 수 있습니다.</string>
+    <string name="location_warning">%1$s은 이 장치에 대한 위치서비스 제공업체입니다. 위치 설정에서 위치 정보 접근을 수정할 수 있습니다.</string>
     <string name="low_risk_perms">낮은 위험 권한</string>
     <string name="manage_applications">앱 관리</string>
     <string name="manage_device_administrators">장치 관리자 관리</string>

@@ -349,15 +349,15 @@
     <string name="bedtime">취침시간</string>
     <string name="bedtime_analysis_more">더많은 데이터</string>
     <string name="bedtime_banner_desc">일정한 수면은 중요합니다.</string>
-    <string name="bedtime_banner_guide_desc">취침시간을 스케쥴하세요.</string>
+    <string name="bedtime_banner_guide_desc">취침시간을 스케줄하세요.</string>
     <string name="bedtime_guide_back_desc">"지금 끄시면 취침시간 알림을 수신할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="bedtime_manage">취침시간 관리</string>
-    <string name="bedtime_manage_desc">취침시간 알림과 수면 추적을 스케쥴하세요.</string>
+    <string name="bedtime_manage_desc">취침시간 알림과 수면 추적을 스케줄하세요.</string>
     <string name="bedtime_manage_open">취침 시간표</string>
     <string name="bedtime_manage_tip">여기에서 취침시간을 관리하세요.</string>
     <string name="bedtime_not_open_text">취침 시간 알림을 사용하기 시작하면 여기에 통계가 나타납니다.</string>
     <string name="bedtime_repeat_desc">취침 알림 수신할 날</string>
-    <string name="bedtime_repeat_type">스케쥴</string>
+    <string name="bedtime_repeat_type">스케줄</string>
     <string name="bedtime_setting_complete">안녕히 주무세요!</string>
     <string name="bedtime_setting_complete_desc">새로운 취침 시간표에 따라 최상의 몸상태를 만들어보세요.</string>
     <string name="bedtime_setting_no_disturbance">자고있는 동안은 방해 금지 모드로 전환하시겠습니까?</string>
@@ -456,7 +456,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="not_set">설정 안함</string>
+    <string name="not_set">설정 안 함</string>
     <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
     <string name="reach_upper_limit">"타이머를 추가할 수 없습니다."</string>
     <string name="system_permission_agree_desc">이 앱을 인터넷에 연결하여 모든 기능에 접근하도록 허용.</string>

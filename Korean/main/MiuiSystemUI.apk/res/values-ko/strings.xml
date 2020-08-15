@@ -455,9 +455,9 @@
     <string name="back">뒤로가기</string>
     <string name="battery">배터리</string>
     <string name="battery_can_use_time">대략 %s 남음</string>
-    <string name="battery_detail_charging_summary">충전 중에는 배터리 절약 모드를 실행할 수 없습니다.</string>
+    <string name="battery_detail_charging_summary">충전 중에는 절전 모드를 실행할 수 없습니다.</string>
     <string name="battery_detail_switch_summary">성능 저하와 백그라운드 데이터 제어를 통한 배터리 절약</string>
-    <string name="battery_detail_switch_title">배터리 절약 모드</string>
+    <string name="battery_detail_switch_title">절전 모드</string>
     <string name="battery_info_status_charging">충전 중</string>
     <string name="battery_info_status_charging_lower">충전 중</string>
     <string name="battery_info_status_discharging">충전되지 않음</string>
@@ -469,7 +469,7 @@
     <string name="battery_low_percent_format">%d%% 남음</string>
     <string name="battery_low_percent_format_save_mode_closed">배터리가 %d%% 미만입니다. 장치를 충전하세요.</string>
     <string name="battery_low_percent_format_save_mode_open">배터리가 %d%% 미만입니다. 절전 모드를 활성화하세요.</string>
-    <string name="battery_low_percent_format_saver_started">%s 이 남았습니다. 배터리 절약 모드가 활성화됩니다.</string>
+    <string name="battery_low_percent_format_saver_started">%s 이 남았습니다. 절전 모드가 활성화됩니다.</string>
     <string name="battery_low_title">충전기 연결</string>
     <string name="battery_low_title_power_save">절전 모드</string>
     <string name="battery_low_why">설정</string>
@@ -575,15 +575,15 @@
     <string name="bluetooth_talkback_input_peripheral">주변기기 입력</string>
     <string name="bluetooth_talkback_phone">휴대전화</string>
     <string name="bluetooth_tethered">블루투스 테더링됨</string>
-    <string name="branded_monitoring_description_app_personal">%1$s에 연결되어 있습니다. 이 네트워크는 사용자의 휴대전화을 감시할 수 있습니다.</string>
+    <string name="branded_monitoring_description_app_personal">%1$s에 연결되어 있습니다. 이 네트워크는 사용자의 휴대전화를 감시할 수 있습니다.</string>
     <string name="branded_vpn_footer">네트워크가 감시될 수 있습니다.</string>
     <string name="broadcast_tile">타일 방송</string>
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그 활성화</string>
     <string name="bt_hci_snoop_log_summary">모든 블루투스 HCI 패킷을 한 파일에 캡처합니다.</string>
     <string name="bt_is_off">블루투스가 꺼져 있습니다.</string>
     <string name="btn_camera">얼굴 입력</string>
-    <string name="bugreport_in_power">버그 리포트 바로가기</string>
-    <string name="bugreport_in_power_summary">버그 리포트 작성을 위해 전원버큰 메뉴에 버튼을 추가합니다.</string>
+    <string name="bugreport_in_power">버그 보고서 바로가기</string>
+    <string name="bugreport_in_power_summary">버그 보고서 작성을 위해 전원버큰 메뉴에 버튼을 추가합니다.</string>
     <string name="button_convert_fbe">지우고 바꾸기…</string>
     <string name="call_status_dialing">전화거는 중</string>
     <string name="call_status_holding">보류</string>
@@ -1461,7 +1461,7 @@
     <string name="quick_settings_location_label">GPS</string>
     <string name="quick_settings_location_off_label">GPS가 꺼져있습니다.</string>
     <string name="quick_settings_media_device_label">미디어 기기</string>
-    <string name="quick_settings_midrop_label">Mi 드롭</string>
+    <string name="quick_settings_midrop_label">Mi Drop</string>
     <string name="quick_settings_more_settings">기타 설정</string>
     <string name="quick_settings_mute_label">음소거</string>
     <string name="quick_settings_nfc_label">NFC</string>
@@ -1585,8 +1585,8 @@
     <string name="screenshot_dlg_cancel">취소</string>
     <string name="screenshot_dlg_delete_button">삭제</string>
     <string name="screenshot_edit">편집</string>
-    <string name="screenshot_failed_title">스크린샷 촬영 실패</string>
-    <string name="screenshot_failed_to_capture_text">스크린샷 촬영이 앱이나 관리자에 의해 허용되지 않았습니다.</string>
+    <string name="screenshot_failed_title">스크린샷 캡처 실패</string>
+    <string name="screenshot_failed_to_capture_text">스크린샷 캡처가 앱이나 관리자에 의해 허용되지 않았습니다.</string>
     <string name="screenshot_failed_to_save_text">저장 공간이 부족하여 스크린샷을 저장할 수 없습니다.</string>
     <string name="screenshot_failed_to_save_unknown_text">스크린샷 저장 중 오류가 발생했습니다.</string>
     <string name="screenshot_feedback_txt">피드백</string>
@@ -1780,9 +1780,9 @@
     <string name="tethering_hardware_offload_summary">가능하면 테더링 하드웨어 가속을 사용합니다.</string>
     <string name="tethering_settings_not_available">이 사용자는 테더링을 사용할 수 없습니다.</string>
     <string name="theme">테마</string>
-    <string name="thermal_shutdown_dialog_message">휴대전화이 너무 뜨거워서, 온도가 내려갈때까지 꺼져있었습니다. 이제 휴대전화이 정상 작동 중입니다.\n\n다음 사항으로 휴대전화이 과열되었을 수 있습니다:\n\u0009• 게임이나 내비게이션 같은 리소스가 많이 필요한 앱을 사용\n\u0009• 대용량 파일을 업로드 또는 다운로드\n\u0009• 높은 온도에서 휴대전화을 사용</string>
-    <string name="thermal_shutdown_message">이제 휴대전화이 정상 작동 중입니다.</string>
-    <string name="thermal_shutdown_title">온도가 너무 높아 휴대전화이 꺼집니다.</string>
+    <string name="thermal_shutdown_dialog_message">휴대전화가 너무 뜨거워서, 온도가 내려갈때까지 꺼져있었습니다. 이제 휴대전화가 정상 작동 중입니다.\n\n다음 사항으로 휴대전화가 과열되었을 수 있습니다:\n\u0009• 게임이나 내비게이션 같은 리소스가 많이 필요한 앱을 사용\n\u0009• 대용량 파일을 업로드 또는 다운로드\n\u0009• 높은 온도에서 휴대전화를 사용</string>
+    <string name="thermal_shutdown_message">이제 휴대전화가 정상 작동 중입니다.</string>
+    <string name="thermal_shutdown_title">온도가 너무 높아 휴대전화가 꺼집니다.</string>
     <string name="time_unit_just_now">방금</string>
     <string name="title_convert_fbe">파일 암호화 변환중…</string>
     <string name="title_usb_accessory">USB 주변기기</string>
@@ -2033,7 +2033,7 @@
     <string name="zen_silence_introduction_voice">이것은 알람, 음악, 동영상 및 게임을 포함하여 모든 소리와 진동을 차단합니다. 하지만 여전히 전화는 걸 수 있습니다.</string>
     <string name="lock_screen_magazine_label">슬라이드형 배경화면 열기</string>
     <string name="long_screenshot_guide_text">"탭하여 스크롤
-스크린샷을 촬영해보세요"</string>
+스크린샷을 캡처해보세요"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"절전 모드가 켜져 있으면 공간 전환을 할 수 없습니다."</string>
     <string name="gxzw_add_fingerprint_area">지문센서</string>
     <string name="quick_settings_nightmode_label">다크 모드</string>

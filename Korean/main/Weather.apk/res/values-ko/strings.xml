@@ -319,7 +319,7 @@
     <string name="aqi_settings_summary">AQI 경고</string>
     <string name="aqi_settings_title">AQI(대기 질 지수)</string>
     <string name="settings">설정</string>
-    <string name="activity_find_city_dialog_message_location_service">날씨 정보를 얻으려면 날씨앱이 사용자의 위치에 액세스하도록 허용하세요.</string>
+    <string name="activity_find_city_dialog_message_location_service">날씨 정보를 얻으려면 날씨앱이 사용자의 위치 정보에 접근하도록 허용하세요.</string>
     <string name="permission_device_info">기기 정보</string>
     <string name="permission_device_introduce">장치 모델 및 IMEI를 기반으로 장치 ID를 인식하고 언어 기본 설정에 따라 지역화된 서비스를 제공합니다.</string>
     <string name="permission_exit">나가기</string>

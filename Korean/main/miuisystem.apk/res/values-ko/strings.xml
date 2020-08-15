@@ -131,7 +131,7 @@
     <string name="hawaii">하와이</string>
     <string name="martix">매트릭스</string>
     <string name="monet">모네</string>
-    <string name="passionflower">꽃</string>
+    <string name="passionflower">시계꽃</string>
     <string name="secretgarden">정원</string>
     <string name="asend">전송</string>
     <string name="child">아이</string>
@@ -154,7 +154,7 @@
     <string name="wallpaper_group_natural_texture_title">자연 패턴</string>
     <string name="wallpaper_group_natural_texture_subtitle">톰 헤겐 및 기타</string>
     <string name="wallpaper_group_geometric_title">지오메트리</string>
-    <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
+    <string name="wallpaper_group_geometric_subtitle">루트거 파우루스</string>
     <string name="wallpaper_group_dynamic_nebula_title">동적 성운</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">텐 반 데르 잠부</string>
     <string name="wallpaper_group_minimalist_scenery_title">미니멀리즘</string>
@@ -171,4 +171,5 @@ EEEE"</string>
 EEEE"</string>
     <string name="miui_lock_screen_date_two_lines_12">"M월 d일
 EEEE"</string>
+    <string name="wallpaper_group_more_system_wallpaper_title">시스템 배경화면 더보기</string>
 </resources>

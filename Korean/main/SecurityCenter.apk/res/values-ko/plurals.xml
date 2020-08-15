@@ -46,10 +46,10 @@
         <item quantity="other">%d개 앱</item>
     </plurals>
     <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">%1$s에서 %2$d회 허용</item>
+        <item quantity="other">%1$s에 %2$d회 허용됨</item>
     </plurals>
     <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">%1$s에서 %2$d회 거부됨</item>
+        <item quantity="other">%1$s에 %2$d회 거부됨</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual_minute">
         <item quantity="other">%1$s에 빈 메시지 %2$d개를 반환했습니다.</item>
@@ -91,12 +91,12 @@
          <item quantity="other">\"%1$1s\"및 기타 %2$d 앱이 위치 정보를 받고 있습니다 </item>
      </plurals>
     <plurals name="app_behavior_desc_allow">
-         <item quantity="other">%1$s 부터 %2$s까지 %3$d회 허용</item>
-         <item quantity="one">%1$s 부터 %2$s까지 %3$d회 허용</item>
+         <item quantity="other">%1$s 부터 %2$s까지 %3$d회 허용됨</item>
+         <item quantity="one">%1$s 부터 %2$s까지 %3$d회 허용됨</item>
     </plurals>
     <plurals name="app_behavior_desc_deny">
-         <item quantity="other">%1$s 부터 %2$s까지 %3$d회 비허용</item>
-         <item quantity="one">%1$s 부터 %2$s까지 %3$d회 비허용</item>
+         <item quantity="other">%1$s부터 %2$s까지 %3$d회 거부됨</item>
+         <item quantity="one">%1$s부터 %2$s까지 %3$d회 거부됨</item>
     </plurals>
     <plurals name="app_behavior_privacy_manager_off">
          <item quantity="other">%1$d개의 애플리케이션의 동작 알림이 비활성화되었습니다.</item>
@@ -221,10 +221,10 @@
         <item quantity="other">%d개의 바이러스 정리됨</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d 앱이 자동 실행 가능</item>
+        <item quantity="other">%d개 앱의 자동 실행 허용</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d 앱의 자동 실행 불허</item>
+        <item quantity="other">%d개 앱의 자동 실행 거부</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d개의 권한</item>

@@ -1055,7 +1055,7 @@
     <string name="memory_clear_result">%1$sB 지워짐</string>
     <string name="menu_new">추가</string>
     <string name="metre">m</string>
-    <string name="mi_agenda">스케쥴 일정</string>
+    <string name="mi_agenda">스케줄 일정</string>
     <string name="mi_basketball">농구</string>
     <string name="mi_delivery">Mi 배달</string>
     <string name="mi_express">빠른 배송</string>
@@ -1067,7 +1067,7 @@
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sport_go_install">다운로드</string>
     <string name="mi_wallet">Mi 지갑</string>
-    <string name="midrop_parent">Mi 드롭</string>
+    <string name="midrop_parent">Mi Drop</string>
     <string name="midrop_send">보내기</string>
     <string name="mifare_card">카드 에뮬레이터</string>
     <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 알리페이 지문을 설정하세요...</string>

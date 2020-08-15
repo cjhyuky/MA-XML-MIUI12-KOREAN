@@ -2,7 +2,7 @@
 <resources>
     <string name="cloud_russion_addr">러시아 서버 데이터 업데이트</string>
     <string name="about_extreme_mode">최대 절약 모드</string>
-    <string name="about_hide_mode">앱 배터리 절약모드 정보</string>
+    <string name="about_hide_mode">앱 절전 모드 정보</string>
     <string name="active_classify">작업 상태로 정렬</string>
     <string name="adaptive_battery_summary">자주 사용하지 않는 앱의 배터리 제한</string>
     <string name="adaptive_battery_title">적응형 배터리 사용</string>
@@ -76,7 +76,7 @@
     <string name="power_checker_wakeup_alarm_title">%1$s앱이 자주 실행됩니다.</string>
     <string name="power_checker_wifi_scan_multi_apps_title">%1$s앱이 자주 Wi-Fi를 스캔합니다.</string>
     <string name="power_checker_wifi_scan_title">%1$s 앱이 자주 Wi-Fi를 스캔합니다.</string>
-    <string name="power_config_apps">앱 배터리 절약모드</string>
+    <string name="power_config_apps">앱 절전 모드</string>
     <string name="power_config_event_delete">삭제</string>
     <string name="power_config_select_apps_title">앱</string>
     <string name="power_consume_abnormal_night">야간 배터리 소비 오류</string>
@@ -106,8 +106,8 @@
     <string name="vip_feedback_enable">Vip 자동 피드백 활성화</string>
     <string name="warm_configure">고부하 컨트롤 설정</string>
     <string name="warm_performance_tip">고부하 시나리오에서는 휴대전화의 온도가 기본 모드 사용 시에 비해 높습니다.</string>
-    <string name="set_gsmcore_title">Google 플레이서비스 비활성화</string>
-    <string name="set_gsmcore_summary">배터리 절약 모드일 때 Google 플레이서비스를 비활성화합니다.</string>
+    <string name="set_gsmcore_title">Google Play 서비스 비활성화</string>
+    <string name="set_gsmcore_summary">절전 모드일 때 Google Play 서비스를 비활성화합니다.</string>
     <string name="power_tools_current">현재</string>
     <string name="power_tools_fps">FPS</string>
 </resources>

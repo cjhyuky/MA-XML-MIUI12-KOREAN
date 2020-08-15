@@ -367,7 +367,7 @@
     <string name="show_non_rect_clip">비 직사각형 클립 조작 디버그</string>
     <string name="show_notification_channel_warnings">알림채널 경고 표시</string>
     <string name="show_notification_channel_warnings_summary">앱이 유효한 채널이없는 알림을 게시하면 화면에 경고가 표시됩니다.</string>
-    <string name="show_quick_settings_tile">빠른설정 타일 표시</string>
+    <string name="show_quick_settings_tile">빠른 설정 타일 표시</string>
     <string name="show_screen_updates">표면 업데이트 표시</string>
     <string name="show_screen_updates_summary">업데이트할 때 창 전체를 플래시합니다.</string>
     <string name="show_touches">탭 표시</string>

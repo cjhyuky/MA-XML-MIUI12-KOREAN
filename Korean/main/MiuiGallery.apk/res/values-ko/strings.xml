@@ -417,7 +417,7 @@
     <string name="album_from_format">%s 폴더</string>
     <string name="album_jump_failed">앨범이 Mi 클라우드에 동기화된 후 다시 시도하세요.</string>
     <string name="album_member">앨범 멤버 %s</string>
-    <string name="album_midrop">Mi 드롭</string>
+    <string name="album_midrop">Mi Drop</string>
     <string name="album_name">앨범 이름</string>
     <string name="album_name_locations">위치</string>
     <string name="album_name_people">사람들</string>

@@ -239,7 +239,7 @@
     <string name="feedback">피드백</string>
     <string name="feedback_desc_default">일부 버튼이 동작하지 않습니다.</string>
     <string name="feedback_desc_hint">문제점을 설명해주세요.</string>
-    <string name="feedback_error">버그 리포트</string>
+    <string name="feedback_error">버그 보고서</string>
     <string name="feedback_error_success_tip">성공적으로 제출됨</string>
     <string name="feedback_error_tips">리모컨 사용에 문제가 발생, 탭하여 문제점 보고</string>
     <string name="feedback_input_desc">문제점을 설명해주세요.</string>

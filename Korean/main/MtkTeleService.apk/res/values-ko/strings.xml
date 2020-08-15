@@ -903,7 +903,7 @@
     <string name="ota_speaker">스피커</string>
     <string name="ota_progress">휴대전화가 프로그래밍되는 동안 기다리세요.</string>
     <string name="ota_failure">프로그래밍 실패</string>
-    <string name="ota_successful">휴대전화이 활성화되었습니다. 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
+    <string name="ota_successful">휴대전화가 활성화되었습니다. 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
     <string name="ota_unsuccessful">"휴대전화가 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하세요. 더 많은 옵션을 원하시면 고객 센터로 문의하세요."</string>
     <string name="ota_spc_failure">초과 SPC 실패</string>
     <string name="ota_call_end">뒤로</string>
@@ -1674,8 +1674,8 @@
     <string name="bluetooth_sap_profile_summary_use_for">SIM 액세스에 사용</string>
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그 사용</string>
     <string name="bt_hci_snoop_log_summary">파일에서 모든 블루투스 HCI 패킷 캡처</string>
-    <string name="bugreport_in_power">버그 리포트 바로가기</string>
-    <string name="bugreport_in_power_summary">버그 리포트를 보기 위해 전원 메뉴에 버튼을 표시하세요.</string>
+    <string name="bugreport_in_power">버그 보고서 바로가기</string>
+    <string name="bugreport_in_power_summary">버그 보고서를 보기 위해 전원 메뉴에 버튼을 표시하세요.</string>
     <string name="button_convert_fbe">초기화 및 변환 ...</string>
     <string name="callEnded_pulled">전화가 다른 장치로 전송되었습니다.</string>
     <string name="callFailed_QOS_unavailable">사용할 수 없음</string>
@@ -2133,7 +2133,7 @@
     <string name="sim_accounts">SIM 계정</string>
     <string name="turn_off_dual_4g_failed">"듀얼 4G를 끌 수 없음."</string>
     <string name="turn_on_dual_4g_failed">"듀얼 4G를 켤 수 없음."</string>
-    <string name="modem_dialog_body">모바일 네트워크가 방해 또는 네트워크 문제로 불안정합니다. 개선을 위해 버그리포트를 제출하시겠습니까? 이 리포트는 개인 신원 정보를 포함할 수 있습니다. 귀하의 리포트는 버그 수정에만 사용되며 상업적으로는 사용되지 않습니다.</string>
+    <string name="modem_dialog_body">모바일 네트워크가 방해 또는 네트워크 문제로 불안정합니다. 개선을 위해 버그 보고서를 제출하시겠습니까? 이 리포트는 개인 신원 정보를 포함할 수 있습니다. 귀하의 리포트는 버그 수정에만 사용되며 상업적으로는 사용되지 않습니다.</string>
     <string name="modem_dialog_title">모바일 네트워크 불안정</string>
     <string name="anc_off">ANC 끄기</string>
     <string name="anc_on">ANC 켜기</string>

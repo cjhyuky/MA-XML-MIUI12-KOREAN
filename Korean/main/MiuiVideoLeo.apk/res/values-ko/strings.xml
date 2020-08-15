@@ -536,7 +536,7 @@
     <string name="audio">오디오</string>
     <string name="back_quit_lock">재생을 끝내시려면 뒤로가기 버튼을 다시 누르세요.</string>
     <string name="brightness">밝기</string>
-    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google 플레이 서비스와 충돌하고 있습니다. 문제가 계속되면 개발자에게 문의하시기 바랍니다.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google Play 서비스와 충돌하고 있습니다. 문제가 계속되면 개발자에게 문의하시기 바랍니다.</string>
     <string name="default_text">기본값</string>
     <string name="delete_file_tips">이 파일을 삭제하시겠습니까?</string>
     <string name="details">자세히</string>

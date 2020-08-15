@@ -56,8 +56,10 @@
     <string name="voice_command_record_different_with_customized">사용자 지정 명령 중에서 다른 명령을 제공합니다. %1$s 문자열을 말해주세요.</string>
     <string name="vow_setup_intro_with_speaker">4-6 음절로 명령을 말한 후 3-6번 반복하세요.</string>
     <string name="vow_record_first_recording_with_speaker">"명령을 말해주세요.
-4-6 음절을 권장합니다."</string>
+4-6음절을 권장합니다."</string>
     <string name="vow_setup_intro_no_speaker">\"%1$s\" 문자열을 3번 반복하세요.</string>
     <string name="vow_recording_no_speaker">\"%1$s\" 문자열을 반복하세요.</string>
     <string name="voice_wakeup_setup_end_prompt">전화기 절전 모드를 해제하려면 화면이 꺼져 있을 때 음성 명령을 말하기만 하면 됩니다.</string>
+    <string name="vow_done_label">완료</string>
+    <string name="vow_one_round_ok">확인했습니다. 계속을 눌러 명령을 말해주세요.</string>
 </resources>

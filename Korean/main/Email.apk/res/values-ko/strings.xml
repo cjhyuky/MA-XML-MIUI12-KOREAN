@@ -616,7 +616,7 @@
     <string name="more_atts_remaining">%1$d개 더 남음</string>
     <string name="more_context">더 보기</string>
     <string name="move_to_selection_dialog_title">이동</string>
-    <string name="multiple_new_message_notification_item"><b>%1$s</b>"    %2$s"</string>
+    <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;&quot;   %2$s&quot;</string>
     <string name="mute">음소거</string>
     <string name="network_error">연결 없음</string>
     <string name="network_invaild">네트워크에 연결할 수 없음</string>
@@ -1352,4 +1352,17 @@
     <string name="trigger_before_hour">%d일 전</string>
     <string name="trigger_before_minute">%d분 전</string>
     <string name="trigger_before_week">%d주 전</string>
+
+    <string name="account_cache_provider">계정 캐시 제공자</string>
+    <string name="conversation_content_provider">대화 콘텐츠 제공자</string>
+    <string name="help_email_title">MI 메일</string>
+    <string name="long_string">기이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이이일게</string>
+    <string name="mailbox_name_server_all_unread">읽지 않음</string>
+    <string name="mailbox_name_server_drafts">임시 저장</string>
+    <string name="mailbox_name_server_inbox">받은 메일함</string>
+    <string name="mailbox_name_server_junk">스팸</string>
+    <string name="mailbox_name_server_outbox">보낸 메일함</string>
+    <string name="mailbox_name_server_sent">보냄</string>
+    <string name="mailbox_name_server_starred">중요</string>
+    <string name="mailbox_name_server_trash">휴지통</string>
 </resources>

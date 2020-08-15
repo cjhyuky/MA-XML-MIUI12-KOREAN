@@ -32,7 +32,7 @@
     <string name="auto_start_tips">Mi 건강 설정을 여시려면 아래쪽에 있는 \"설정\"을 탭하고 권한을 주세요.</string>
     <string name="average_cycle_days">평균 주기</string>
     <string name="average_menstruation_days">평균 기간</string>
-    <string name="avg_steps">일일 걸음수</string>
+    <string name="avg_steps">일일 걸음 수</string>
     <string name="background_run_tips">아래의 \"설정\"을 탭하고 Mi 건강 앱이 항상 백그라운드에서 실행되도록 합니다.</string>
     <string name="basic_info_label_age">나이</string>
     <string name="basic_info_label_birthday">생일</string>
@@ -69,7 +69,7 @@
     <string name="copy_done">복사 완료</string>
     <string name="daily_consumption_label">칼로리</string>
     <string name="daily_distance_label">거리</string>
-    <string name="daily_steps">걸음수</string>
+    <string name="daily_steps">걸음 수</string>
     <string name="daily_time_label">시간</string>
     <string name="data_empty">데이터 없음</string>
     <string name="date_format_mm_dd">M월 d일</string>
@@ -186,7 +186,7 @@
     <string name="label_sleep_time2">취침 시간</string>
     <string name="label_start_time">시작</string>
     <string name="label_today_exercise_consumption">소모</string>
-    <string name="label_today_exercise_summary">"오늘의 걸음수"</string>
+    <string name="label_today_exercise_summary">"오늘의 걸음 수"</string>
     <string name="label_today_sleep_summary">어제 밤에 잠들었습니다.</string>
     <string name="label_wake_up">기상</string>
     <string name="label_wake_up_time">기상 시간</string>
@@ -233,7 +233,7 @@
     <string name="need_auto_start_permission">보다 정확한 통계를 얻으려면 Mi 건강이 자동 실행되도록 하세요.</string>
     <string name="need_unrestricted_permission">보다 정확한 통계를 얻으려면 Mi 건강이 항상 백그라운드에서 실행되도록 하세요.</string>
     <string name="next_step">다음</string>
-    <string name="not_support_step">"기기에서 걸음수를 계산할 수 없습니다."</string>
+    <string name="not_support_step">"기기에서 걸음 수를 계산할 수 없습니다."</string>
     <string name="no_body_weight_record">여기에 아직 기록이 없습니다.</string>
     <string name="no_records">여기에 항목이 없습니다.</string>
     <string name="open_unrestricted_permissions">수면을 보다 정확하게 추적하려면 Mi 건강이 항상 백그라운드에서 실행되도록 하세요.</string>
@@ -444,7 +444,7 @@
     <string name="sleep_deep_light_no_data_improvement">"수면 단계를 감지할 수 없습니다. 알고리즘을 개선하고 있습니다. 계속 지켜봐주세요!"</string>
     <string name="sleep_detection_question_one_answer_1">"기기 센서가 수집한 신체 움직임 데이터를 기반으로 깊은 수면과 얕은 수면을 감지됩니다. 통계를 볼 수 없는 이유는 다음과 같습니다.
 1. Xiaomi 건강 앱이 데이터를 수집할 수 없습니다. 잠자는 동안 기기의 전원이 꺼지거나 배터리 잔량이 부족하거나 앱이 백그라운드에서 작동하지 않는 경우에 발생할 수 있습니다. Xiaomi 건강 앱이 자동 실행되도록 허용하고 배터리 절약 예외에 추가한 다음 백그라운드에서 꺼지지 않도록 하세요.
-2. Xiaomi 건강 앱이 수집된 데이터를 분석할 수 없습니다. 이것은 잠을 잘 때 휴대전화이 몸에서 너무 멀리 떨어져 있을 때 발생할 수 있습니다. 또는 몸의 움직임이 너무 미묘하면 수면주기 변화에 대한 가정을 할 수 없습니다. Xiaomi 건강 앱은 수면을 더 잘 분석할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
+2. Xiaomi 건강 앱이 수집된 데이터를 분석할 수 없습니다. 이것은 잠을 잘 때 휴대전화가 몸에서 너무 멀리 떨어져 있을 때 발생할 수 있습니다. 또는 몸의 움직임이 너무 미묘하면 수면주기 변화에 대한 가정을 할 수 없습니다. Xiaomi 건강 앱은 수면을 더 잘 분석할 수 있도록 알고리즘을 지속적으로 개선하고 있습니다."</string>
     <string name="sleep_detection_question_one_title_1">"왜 절전주기 통계가 표시되지 않습니까?"</string>
     <string name="sleep_snore_detection_desc">코골이 감지 및 수면에 대해 자세히 알아보기</string>
     <string name="snore_detection_stop_pop_title">현재 코골이 감지 세션을 중단하시겠습니까?</string>
@@ -780,7 +780,7 @@
     <string name="send_diagnosis_log">진단 로그 보내기</string>
     <string name="setting_data_cloud_sync_tip">이 기능을 사용하여 이 기기의 항목을 백업하고 다른 기기의 상태 데이터를 동기화합니다.</string>
     <string name="share">공유</string>
-    <string name="sleep_and_get_up_time">취침 스케쥴</string>
+    <string name="sleep_and_get_up_time">취침 스케줄</string>
     <string name="sleep_deep">깊은 수면</string>
     <string name="sleep_deep_light_analysis">얕은 수면과 깊은 수면</string>
     <string name="sleep_deep_light_close_tip">깊은 수면 분석이 해제되었습니다.</string>

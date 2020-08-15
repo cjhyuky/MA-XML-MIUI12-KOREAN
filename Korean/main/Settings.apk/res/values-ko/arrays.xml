@@ -913,8 +913,8 @@
         <item>색상 보정으로 화면의 표준 색상 복원</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>자동 대비</item>
-        <item>증가 대비</item>
+        <item>자동 (추천)</item>
+        <item>높은 채도</item>
         <item>표준</item>
     </string-array>
     <string-array name="screen_saturation_title">
@@ -1288,8 +1288,8 @@
         <item>색상 보정으로 화면 컨텐츠의 표준 색상 복원</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>자동(추천)</item>
-        <item>채도 높음</item>
+        <item>자동 (추천)</item>
+        <item>높은 채도</item>
         <item>원래 색상</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">

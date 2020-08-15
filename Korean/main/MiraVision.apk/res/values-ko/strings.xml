@@ -29,8 +29,8 @@
     <string name="intro_title">미라비전™에 관하여</string>
     <string name="lcd_header">패널 오버드라이브</string>
     <string name="lcd_item">LCD 응답 시간</string>
-    <string name="light_sensitive_bright_summary">주변 조명에 따라 밝기 조정</string>
-    <string name="light_sensitive_bright_title">빛에 따라 밝기 조정</string>
+    <string name="light_sensitive_bright_summary">주변 조명에 따라 밝기 조절</string>
+    <string name="light_sensitive_bright_title">빛에 따라 밝기 조절</string>
     <string name="mira_vision_summary">최상의 시각 효과 제공</string>
     <string name="mira_vision_title">미라비전</string>
     <string name="mira_vision_tm">미라비전™</string>

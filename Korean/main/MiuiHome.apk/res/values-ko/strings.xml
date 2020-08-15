@@ -54,6 +54,7 @@
     <string name="recents_title_garbage_deepclean">정밀 청소</string>
     <string name="recents_title_market">앱 찾기</string>
     <string name="recents_title_security_scan">보안 스캔</string>
+    <string name="recents_tv_small_window_text">플로팅 창</string>
     <string name="status_bar_recent_memory_info1">%1$s / %2$s 사용가능</string>
     <string name="one_key_call_title">통화하려면 탭하세요.</string>
     <string name="category_edit_back_confirm_dialog_content">변경사항을 저장하시겠습니까?</string>
@@ -423,7 +424,7 @@
     <string name="home_gesture_notification_bar">알림</string>
     <string name="home_pull_down_action">홈 화면에서 쓸어내리세요.</string>
     <string name="home_slide_up_action">홈 화면에서 쓸어올리세요.</string>
-    <string name="home_switch_personal_assistant">-1 화면</string>
+    <string name="home_switch_personal_assistant">-1번째 화면</string>
     <string name="launcher_pull_down_title">홈 화면에서 아래로 당기세요.</string>
     <string name="launcher_search_bar_provider_title">검색 바 제공자</string>
     <string name="launcher_search_bar_title">검색 바</string>
@@ -436,11 +437,11 @@
     <string name="announce_for_xiaoai">Mi AI</string>
     <string name="privacy_thumbnail_blur_summary">최근 앱에서 앱 미리보기 흐리게 처리</string>
     <string name="privacy_thumbnail_blur_title">앱 미리보기 흐리게</string>
-    <string name="all_apps_setting_desktop_desc">설치된 모든 앱이 화면에 표시됩니다. 작업을 표시하려면 앱 아이콘을 길게 누릅니다.</string>
+    <string name="all_apps_setting_desktop_desc">설치된 모든 앱이 앱 서랍에 위치하고, 홈 화면을 쓸어올려 앱 서랍을 엽니다. 홈 화면으로 앱을 이동해도 여전히 앱 서랍에서 찾을 수 있습니다.</string>
     <string name="all_apps_setting_desktop_title">표준 모드</string>
     <string name="all_apps_setting_drawer_desc">설치된 앱 목록을 표시하려면 메뉴 버튼을 클릭하세요.</string>
-    <string name="all_apps_setting_drawer_title">클래식 모드</string>
-    <string name="all_apps_setting_title">데스크탑 모드</string>
+    <string name="all_apps_setting_drawer_title">앱 서랍</string>
+    <string name="all_apps_setting_title">홈 화면</string>
     <string name="system_shortcuts_more_operation">앱 정보</string>
     <string name="shake_to_align_icons">빈 공간을 아이콘으로 채우려면 기기를 흔드세요.</string>
     <string name="shake_to_align_icons_title">흔들어서 빈 공간 채우기</string>
@@ -531,6 +532,13 @@
     <string name="permdesc_uninstall_widget">앱이 사용자의 간섭 없이 위젯을 제거하도록 허용합니다.</string>
     <string name="permlab_uninstall_widget">위젯 제거</string>
     <string name="slide_to_open_newhome">쓸어올려 콘텐츠 센터 열기</string>
+    <string name="small_window_button_complete">완료</string>
+    <string name="small_window_edit_content">최대 %d개 앱 추가 가능</string>
+    <string name="small_window_edit_title">현재 앱</string>
+    <string name="small_window_empty">사용가능한 앱에서 추가</string>
+    <string name="small_window_select_title">사용가능한 앱</string>
+    <string name="small_window_title_text">탭하여 플로팅 창 열기</string>
+    <string name="small_window_toast">최대 %d개 앱을 추가할 수 있습니다.</string>
     <string name="recents_exit_multi_window_mode">종료</string>
     <string name="accessibility_recent_task_enter">최근 사용 앱 열기</string>
     <string name="accessibility_recent_task_exit">최근 사용 앱 닫기</string>

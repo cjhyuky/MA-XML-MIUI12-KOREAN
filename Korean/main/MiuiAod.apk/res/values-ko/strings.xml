@@ -5,11 +5,11 @@
     <string name="component_date_time">날짜와 시간</string>
     <string name="component_lunar">음력 캘린더</string>
     <string name="component_notification">알림</string>
-    <string name="component_step">걸음수</string>
+    <string name="component_step">걸음 수</string>
     <string name="continue_to_use">계속</string>
-    <string name="step_component_info_active_tip">걸음수는 Xiaomi 건강에서 제공합니다. 계속하려면 Xiaomi 건강 이용약관에 동의하세요.</string>
-    <string name="step_component_info_desc">목표에 도달하면 걸음수가 트로피로 바뀝니다. 걸음수는 Xiaomi 건강에서 제공합니다.</string>
-    <string name="step_component_info_tip">걸음수는 Xiaomi 건강에서 제공합니다. Xiaomi 건강을 설치 또는 업데이트하고 계속하려면 이용약관에 동의하세요.</string>
+    <string name="step_component_info_active_tip">걸음 수는 Xiaomi 건강에서 제공합니다. 계속하려면 Xiaomi 건강 이용약관에 동의하세요.</string>
+    <string name="step_component_info_desc">목표에 도달하면 걸음 수가 트로피로 바뀝니다. 걸음 수는 Xiaomi 건강에서 제공합니다.</string>
+    <string name="step_component_info_tip">걸음 수는 Xiaomi 건강에서 제공합니다. Xiaomi 건강을 설치 또는 업데이트하고 계속하려면 이용약관에 동의하세요.</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="add_from_album">갤러리에서 추가</string>
     <string name="clearable_edittext_clear_description">지우기</string>
@@ -137,9 +137,9 @@
     <string name="aod_lock_screen_date">M월 d일 EEEE</string>
     <string name="aod_lock_screen_date_12">M월 d일 EEEE</string>
     <string name="aod_mode_style">시계 스타일과 배경 설정</string>
-    <string name="aod_mode_summary">이 기능은 시스템 전력 소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
+    <string name="aod_mode_summary">이 기능은 시스템 전력 소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 절전 모드 제한이 적용되면 전원이 꺼집니다.</string>
     <string name="aod_mode_time_summary">장치가 항상 켜기 모드로 전환되어야하는 시간을 예약하세요.</string>
-    <string name="aod_mode_time_title">스케쥴</string>
+    <string name="aod_mode_time_title">스케줄</string>
     <string name="aod_mode_title">AOD 디스플레이</string>
     <string name="aod_to_close">끄기</string>
     <string name="cancel">취소</string>
@@ -193,7 +193,7 @@
     <string name="standard_clock_panel">표준</string>
     <string name="time_style">스타일</string>
     <string name="time_style_layout">레이아웃</string>
-    <string name="deep_space_planet_des">이 테마는 하루 동안 주변에서 일어나는 빛의 변화를 반영합니다. 일출과 일몰도 내 위치와 동기화됩니다.</string>
+    <string name="deep_space_planet_des">이 테마는 하루 동안 주변에서 일어나는 빛의 변화를 반영합니다. 일출과 일몰도 사용자의 위치와 동기화됩니다.</string>
     <string name="above_image">사진 위</string>
     <string name="always_style">항상</string>
     <string name="aod_mode_preview">미리보기</string>
@@ -205,13 +205,13 @@
     <string name="custom_image">사용자 설정 이미지</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
     <string name="password_toggle_content_description">비밀번호 표시</string>
-    <string name="scheduled_style">스케쥴됨</string>
+    <string name="scheduled_style">스케줄됨</string>
     <string name="shownone_arround_image">없음</string>
-    <string name="summary">"전력 소비를 줄이기 위해 기기가 오랫동안 어두운 곳에있을 때는 항목이 표시되지 않습니다."</string>
+    <string name="summary">"전력 소비를 줄이기 위해 기기가 오랫동안 어두운 곳에 있을 때는 항목이 표시되지 않습니다."</string>
     <string name="temporary_style">탭한 후 10초 동안</string>
     <string name="time_location">시계 위치</string>
     <string name="disable_aod_in_dark_room">어두운 곳에서 누워있을 때 AOD 끄기</string>
-    <string name="disable_aod_in_power_save_mode">배터리 절약모드시 AOD 끄기</string>
+    <string name="disable_aod_in_power_save_mode">절전 모드시 AOD 끄기</string>
     <string name="disable_aod_in_power_save_mode_summary">"배터리 절약을 위해 아무것도 표시하지 않습니다."</string>
     <string name="photo_editor_saving">저장중…</string>
 </resources>

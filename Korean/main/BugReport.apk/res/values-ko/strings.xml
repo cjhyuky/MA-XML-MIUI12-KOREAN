@@ -34,7 +34,7 @@
     <string name="catch_full_log_item_title_gps">위치 서비스</string>
     <string name="catch_full_log_item_title_sensor">센서</string>
     <string name="catch_full_log_item_title_signal">전화, 신호, 그리고 모바일 네트워크</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi와 Mi 드롭</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi와 Mi Drop</string>
     <string name="catch_full_log_notification_content">탭하여 로그로 돌아가기</string>
     <string name="catch_full_log_notification_title">로그 생성 중…</string>
     <string name="catch_full_log_start_dump_hprof">지연 로그 생성 중</string>

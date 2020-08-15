@@ -111,7 +111,7 @@
         <item quantity="other">인증서 권한 설치됨</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">%d초 동안 버그리포트를 위한 스크린샷 촬영.</item>
+        <item quantity="other">%d초 동안 버그 보고서를 위한 스크린샷 캡처.</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
         <item quantity="other">%d분</item>

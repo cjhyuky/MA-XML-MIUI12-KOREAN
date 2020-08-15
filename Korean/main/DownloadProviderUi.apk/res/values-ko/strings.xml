@@ -481,7 +481,7 @@
     <string name="toast_update_data_limit_fail">"설정할 수 없음"</string>
     <string name="menu_back">Xunlei 멤버쉽으로 돌아가기</string>
     <string name="speed_result_broadband_text2">밴드위치의 %s</string>
-    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google 플레이 서비스와 충돌하고 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unknown_issue">%1$s 앱이 Google Play 서비스와 충돌하고 있습니다. 다시 시도하세요.</string>
     <string name="action_back">뒤로가기</string>
     <string name="average_speed">평균 속도</string>
     <string name="everyone_test">모두가 테스트 중입니다.</string>
@@ -531,7 +531,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="no_net">"네트워크에 연결할 수 없음"</string>
-    <string name="not_set">설정 안함</string>
+    <string name="not_set">설정 안 함</string>
     <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">끔</string>

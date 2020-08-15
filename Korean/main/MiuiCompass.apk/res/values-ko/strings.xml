@@ -92,4 +92,16 @@
     <string name="compass_settings">설정</string>
     <string name="permission_camera_desc">스피릿 레벨 사용</string>
     <string name="permission_location_desc">좌표 및 대기압 표시</string>
+    <string name="app_name">설정</string>
+    <string name="cta_agree_desc">이 앱의 모든 기능을 사용하려면 인터넷 연결을 허용하고 선택 권한을 부여해야 합니다.</string>
+    <string name="dialog_body_no_network_global">Wi-Fi 또는 모바일 데이터를 연결하세요.</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">아래로 당겨서 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 성공</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;표시할 항목 없음&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;표시할 항목 없음&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;항목을 불러올 수 없습니다.&quot;</string>
+    <string name="unit_degree">도</string>
 </resources>

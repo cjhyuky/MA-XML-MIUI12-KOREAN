@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dark_mode_setting_dark">야간 모드(어두운)</string>
-    <string name="dark_mode_setting_follow">시스템 따르기</string>
-    <string name="dark_mode_setting_light">주간 모드(표시등)</string>
-    <string name="dark_mode_setting_title">야간 모드</string>
     <string name="vo_mi_ad_detail">%s로 열기</string>
     <string name="abc_action_bar_home_description">홈으로</string>
     <string name="abc_action_bar_up_description">위로</string>
@@ -604,19 +600,19 @@
     <string name="mw_color_picker_saturation">채도</string>
     <string name="mw_color_picker_value">값</string>
     <string name="mw_common_google_play_services_enable_button">활성화</string>
-    <string name="mw_common_google_play_services_enable_text">Google 플레이 서비스를 활성화하지 않으면 %1$s 앱이 제대로 작동하지 않을 수 있습니다.</string>
-    <string name="mw_common_google_play_services_enable_title">Google 플레이 서비스 활성화</string>
+    <string name="mw_common_google_play_services_enable_text">Google Play 서비스를 활성화하지 않으면 %1$s 앱이 제대로 작동하지 않을 수 있습니다.</string>
+    <string name="mw_common_google_play_services_enable_title">Google Play 서비스 활성화</string>
     <string name="mw_common_google_play_services_install_button">설치</string>
-    <string name="mw_common_google_play_services_install_text">%1$s 앱은 Google 플레이 서비스가 필요합니다.</string>
-    <string name="mw_common_google_play_services_install_title">Google 플레이 서비스 받기</string>
-    <string name="mw_common_google_play_services_notification_ticker">Google 플레이 서비스 오류</string>
-    <string name="mw_common_google_play_services_unknown_issue">%1$s 앱이 Google 플레이 서비스와 충돌하고 있습니다. 다시 시도해보세요.</string>
-    <string name="mw_common_google_play_services_unsupported_text">%1$s 앱은 Google 플레이 서비스가 필요합니다.</string>
+    <string name="mw_common_google_play_services_install_text">%1$s 앱은 Google Play 서비스가 필요합니다.</string>
+    <string name="mw_common_google_play_services_install_title">Google Play 서비스 받기</string>
+    <string name="mw_common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="mw_common_google_play_services_unknown_issue">%1$s 앱이 Google Play 서비스와 충돌하고 있습니다. 다시 시도해보세요.</string>
+    <string name="mw_common_google_play_services_unsupported_text">%1$s 앱은 Google Play 서비스가 필요합니다.</string>
     <string name="mw_common_google_play_services_update_button">업데이트</string>
-    <string name="mw_common_google_play_services_update_text">Google 플레이 서비스를 업데이트 해야 %1$s 앱을 사용할 수 있습니다.</string>
-    <string name="mw_common_google_play_services_update_title">Google 플레이 서비스 업데이트</string>
-    <string name="mw_common_google_play_services_updating_text">%1$s 앱을 실행하려면 현재 업데이트 중인 Google 플레이 서비스가 필요합니다.</string>
-    <string name="mw_common_google_play_services_wear_update_text">새로운 버전의 Google 플레이 서비스가 필요합니다. 자동으로 업데이트 될 것입니다.</string>
+    <string name="mw_common_google_play_services_update_text">Google Play 서비스를 업데이트 해야 %1$s 앱을 사용할 수 있습니다.</string>
+    <string name="mw_common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="mw_common_google_play_services_updating_text">%1$s 앱을 실행하려면 현재 업데이트 중인 Google Play 서비스가 필요합니다.</string>
+    <string name="mw_common_google_play_services_wear_update_text">새로운 버전의 Google Play 서비스가 필요합니다. 자동으로 업데이트 될 것입니다.</string>
     <string name="mw_common_open_on_phone">폰에서 열기</string>
     <string name="mw_common_signin_button_text">로그인</string>
     <string name="mw_common_signin_button_text_long">Google 아이디로 로그인</string>
@@ -960,7 +956,7 @@
     <string name="permission_alert_window">이 기능을 사용하려면 시스템 옵션 중 디스플레이 팝업 창을 열어주세요.</string>
     <string name="permission_notification">알림 전송.</string>
     <string name="permission_unknown">알 수 없는 옵션</string>
-    <string name="permissions_prompt_message">"%s 이 다음을 원합니다 : "</string>
+    <string name="permissions_prompt_message">%s 앱이 다음 권한을 요청합니다:</string>
     <string name="play_pause_video">동영상 재생 또는 멈춤</string>
     <string name="play_retry">다시 보기</string>
     <string name="play_video">동영상 재생</string>
@@ -1472,6 +1468,10 @@
     <string name="ad_go_see">기타</string>
     <string name="ad_look_detail">세부 사항</string>
     <string name="custom_head_weather">날씨</string>
+    <string name="dark_mode_setting_dark">야간 모드(어두운)</string>
+    <string name="dark_mode_setting_follow">시스템 따르기</string>
+    <string name="dark_mode_setting_light">주간 모드(표시등)</string>
+    <string name="dark_mode_setting_title">야간 모드</string>
     <string name="dialog_ad_exit_exit_app">나중에</string>
     <string name="dialog_ad_exit_open_app">열기</string>
     <string name="dialog_nps_comment_cancel_text">고마워요</string>
@@ -1489,11 +1489,11 @@
     <string name="quicklink_add_last7day">지난 7일</string>
     <string name="quicklink_add_today">오늘</string>
     <string name="quicklink_add_yesterday">어제</string>
-    <string name="security_permission_desc_get_accounts">시스템 계정 로그인 및 관리 용</string>
-    <string name="security_permission_desc_read_phone">기기를 식별하기 위해 IMEI에 액세스하는 경우</string>
+    <string name="security_permission_desc_get_accounts">시스템 계정 로그인 및 관리</string>
+    <string name="security_permission_desc_read_phone">기기 식별을 위해 IMEI 접근</string>
     <string name="security_permission_desc_storage">이미지 및 기타 파일 액세스, 저장, 업로드 및 다운로드</string>
     <string name="security_permission_main_purpose">웹 브라우징, 검색, 책과 뉴스 읽기, 동영상 시청 등</string>
-    <string name="security_permission_message_location">"이 앱은 위치 기반 서비스를 제공하기 위해 사용자의 위치에 액세스해야 합니다. 이러한 권한을 부여하는 데 동의하지 않으면 이 앱의 일부 기능을 사용할 수 없습니다. 그러나 기본 기능은 계속 사용할 수 있습니다. 설정에서 언제든지 권한을 제한하거나 승인을 취소 할 수 있습니다. "</string>
+    <string name="security_permission_message_location">"이 앱은 위치 기반 서비스를 제공하기 위해 사용자의 위치 정보에 접근해야 합니다. 이러한 권한을 부여하는 데 동의하지 않으면 이 앱의 일부 기능을 사용할 수 없습니다. 그러나 기본 기능은 계속 사용할 수 있습니다. 설정에서 언제든지 권한을 제한하거나 승인을 취소할 수 있습니다. "</string>
     <string name="security_permission_negative_btn_location">취소</string>
     <string name="security_permission_positive_btn_location">동의합니다.</string>
     <string name="security_permission_title_location">내 위치에 대한 액세스 허용</string>
