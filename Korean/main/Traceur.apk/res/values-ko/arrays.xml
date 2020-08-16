@@ -102,7 +102,7 @@
     <string-array name="color_mode_descriptions">
         <item>향상된 색상</item>
         <item>눈에 보이는 자연스런 색상</item>
-        <item>디지털 컨텐츠에 최적화된 색상</item>
+        <item>디지털 콘텐츠에 최적화된 색상</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>활기찬 (기본값)</item>
@@ -122,7 +122,7 @@
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP 검사 사용 안 함</item>
-        <item>DRM 컨텐츠에 대해서만 HDCP 검사 사용</item>
+        <item>DRM 콘텐츠에 대해서만 HDCP 검사 사용</item>
         <item>항상 HDCP 검사 사용</item>
     </string-array>
     <string-array name="hdcp_checking_titles">

@@ -127,7 +127,7 @@
     <string name="resource_no_result">아무것도 찾지 못함</string>
     <string name="resource_failed_to_load_list">테마를 불러올 수 없습니다.</string>
     <string name="resource_search_list_empty">아무 것도 찾지 못함.</string>
-    <string name="resource_data_empty">컨텐츠가 비어있습니다.</string>
+    <string name="resource_data_empty">콘텐츠가 비어있습니다.</string>
     <string name="resource_no_network_text">네크워크에 연결할 수 없습니다.</string>
     <string name="resource_network_diagnostics"><u>네트워크 진단</u></string>
     <string name="resource_list_title">최근에 선택됨</string>
@@ -947,7 +947,7 @@
     <string name="ad_experience_now">열기</string>
     <string name="community_community_message_trigger_summary">Mi 계정 ID를 사용하여 댓글, 좋아요 및 Mi 커뮤니티 상태 업데이트에 대한 알림을 받습니다.</string>
     <string name="community_community_message_trigger_title">활동 알림</string>
-    <string name="community_entrance_summary">Mi 커뮤니티에서 테마 관련 컨텐츠를 찾으세요. 이 기능은 선택한 테마에서 지원됩니다.</string>
+    <string name="community_entrance_summary">Mi 커뮤니티에서 테마 관련 콘텐츠를 찾으세요. 이 기능은 선택한 테마에서 지원됩니다.</string>
     <string name="community_entrance_title">Mi 커뮤니티 시계 위젯</string>
     <string name="community_message_trigger_disabled">끔</string>
     <string name="community_message_trigger_triggered">켬</string>

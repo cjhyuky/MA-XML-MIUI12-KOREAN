@@ -251,8 +251,8 @@
     <string name="device_type_pc">컴퓨터</string>
     <string name="enable_midrop">열기</string>
     <string name="file">파일</string>
-    <string name="file_cannot_print">이 컨텐츠는 인쇄를 지원하지 않습니다.</string>
-    <string name="file_cannot_screen_throw">이 컨텐츠는 프로젝션 스크린을 지원하지 않습니다.</string>
+    <string name="file_cannot_print">이 콘텐츠는 인쇄를 지원하지 않습니다.</string>
+    <string name="file_cannot_screen_throw">이 콘텐츠는 프로젝션 스크린을 지원하지 않습니다.</string>
     <string name="file_sending">전송 중</string>
     <string name="file_type_detail_count">%1$d 파일</string>
     <string name="functions_are_being_developed">개발 중인 기능입니다. 추후 업데이트를 기대해주세요!</string>

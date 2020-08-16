@@ -882,7 +882,7 @@
     <string name="mw_save_password_remember">저장하기</string>
     <string name="mw_search_menu_title">검색</string>
     <string name="mw_snippets_disabled_generic_prompt">맞춤 설정된 콘텐츠 가져오기</string>
-    <string name="mw_snippets_disabled_signed_out_instructions">Google에서 제안한 맞춤형 컨텐츠를 얻으려면 Chrome에 로그인하세요.</string>
+    <string name="mw_snippets_disabled_signed_out_instructions">Google에서 제안한 맞춤형 콘텐츠를 얻으려면 Chrome에 로그인하세요.</string>
     <string name="mw_time_picker_dialog_am">오전</string>
     <string name="mw_time_picker_dialog_pm">오후</string>
     <string name="mw_time_picker_dialog_title">시간 설정</string>
@@ -1038,8 +1038,8 @@
     <string name="pref_other_title">기타</string>
     <string name="pref_paper_mode_title">독서 모드</string>
     <string name="pref_privacy_clear_cache">캐시 지우기</string>
-    <string name="pref_privacy_clear_cache_dlg">캐시된 로컬 컨텐츠와 데이터베이스를 삭제하시겠습니까?</string>
-    <string name="pref_privacy_clear_cache_summary">캐시된 로컬 컨텐츠와 데이터베이스 지우기</string>
+    <string name="pref_privacy_clear_cache_dlg">캐시된 로컬 콘텐츠와 데이터베이스를 삭제하시겠습니까?</string>
+    <string name="pref_privacy_clear_cache_summary">캐시된 로컬 콘텐츠와 데이터베이스 지우기</string>
     <string name="pref_privacy_clear_cookies">모든 쿠키 데이터 지우기</string>
     <string name="pref_privacy_clear_cookies_dlg">모든 쿠기를 삭제하시겠습니까?</string>
     <string name="pref_privacy_clear_cookies_summary">모든 브라우저 쿠기 지우기</string>
@@ -1205,7 +1205,7 @@
     <string name="share_video">동영상 공유</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화된 뉴스 컨텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="sign_and_open">로그인 후 열기</string>
     <string name="sign_in">체크인</string>
@@ -1455,7 +1455,7 @@
     <string name="send_bookmark">북마크</string>
     <string name="send_desktop">홈 화면</string>
     <string name="send_startpage">시작 페이지</string>
-    <string name="toast_feedback">이런 종류의 컨텐츠를 원치 않으십니까</string>
+    <string name="toast_feedback">이런 종류의 콘텐츠를 원치 않으십니까</string>
     <string name="video_download_wait_for_caching">캐싱 대기 중</string>
     <string name="video_download_wait_for_network">네트워크 대기 중</string>
     <string name="vo_info_flow_debug_title">데이터 디버그</string>

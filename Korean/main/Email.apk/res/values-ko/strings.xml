@@ -842,7 +842,7 @@
     <string name="remove_folder">%1$s에서 제거</string>
     <string name="remove_star">별 표시 해제</string>
     <string name="reply">답장</string>
-    <string name="reply_add_bodycontent">빠른 회신 텍스트 메시지 컨텐츠를 추가하시겠습니까?</string>
+    <string name="reply_add_bodycontent">빠른 회신 텍스트 메시지 콘텐츠를 추가하시겠습니까?</string>
     <string name="reply_all">전체 회신</string>
     <string name="reply_attribution" formatted="false">%2$s가 %1$s에 썼습니다:</string>
     <string name="report_phishing">피싱 신고</string>

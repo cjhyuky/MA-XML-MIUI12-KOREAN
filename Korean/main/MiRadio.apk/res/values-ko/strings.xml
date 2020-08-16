@@ -68,7 +68,7 @@
     <string name="toast_fm_seeking">튜닝중…</string>
     <string name="msg_try_plug_headset">이어폰을 꼽고 다시 시도하세요.</string>
     <string name="menu_privacy">개인정보 보호정책</string>
-    <string name="noheadset_dialog_info">FM 신호가 좋지 않을 수 있습니다. 온라인 컨텐츠를 추천합니다.</string>
+    <string name="noheadset_dialog_info">FM 신호가 좋지 않을 수 있습니다. 온라인 콘텐츠를 추천합니다.</string>
     <string name="noheadset_dialog_insert">헤드셋 삽입</string>
     <string name="noheadset_dialog_more">더 많은 라디오 듣기</string>
     <string name="auto_enter_nowplaying_setting_title">자동으로 최대화된 플레이어 표시</string>
@@ -228,7 +228,7 @@ ID:%s
     <string name="no_account">로그인되지 않음</string>
     <string name="no_phone">전화번호 없음</string>
     <string name="ok">확인</string>
-    <string name="online_setting_message">더 인기있는 컨텐츠를 들으려면 온라인 콘텐츠 서비스를 여세요.</string>
+    <string name="online_setting_message">더 인기있는 콘텐츠를 들으려면 온라인 콘텐츠 서비스를 여세요.</string>
     <string name="online_setting_title">더보기</string>
     <string name="passport_access_denied">접근 거부됨</string>
     <string name="passport_account_label">Mi 계정</string>

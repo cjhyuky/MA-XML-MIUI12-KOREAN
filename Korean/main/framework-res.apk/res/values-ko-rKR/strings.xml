@@ -597,7 +597,7 @@
     <string name="permdesc_broadcastPackageRemoved">앱이 앱 패키지가 삭제되었다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 실행 중인 다른 앱을 중지시킬 수 있습니다.</string>
     <string name="permdesc_broadcastSmsReceived">앱이 SMS 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 수신된 SMS 메시지를 위조할 수 있습니다.</string>
     <string name="permdesc_broadcastSticky">앱이 브로드캐스트가 끝난 후에 남은 브로드캐스트를 보낼 수 있도록 허용합니다. 앱을 지나치게 사용하면 휴대전화에서 메모리를 너무 많이 사용하도록 하여 속도를 저하시키거나 불안정하게 만들 수 있습니다.</string>
-    <string name="permdesc_broadcastWapPush">앱이 WAP PUSH 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 MMS 메시지를 받은 것처럼 위장하거나 웹페이지의 컨텐츠를 악성 컨텐츠로 몰래 바꿀 수 있습니다.</string>
+    <string name="permdesc_broadcastWapPush">앱이 WAP PUSH 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 MMS 메시지를 받은 것처럼 위장하거나 웹페이지의 콘텐츠를 악성 콘텐츠로 몰래 바꿀 수 있습니다.</string>
     <string name="permdesc_cache_filesystem">앱이 캐시 파일 시스템을 읽고 쓸 수 있도록 허용합니다.</string>
     <string name="permdesc_callPhone">앱이 사용자의 조작 없이 전화번호로 전화를 걸 수 있도록 허용합니다. 이 경우 예상치 못한 통화 요금이 부과될 수 있습니다. 앱이 비상 전화를 걸도록 하는 권한은 주어지지 않습니다. 악성 앱이 사용자의 확인 없이 전화를 걸어 요금이 부과될 수 있습니다.</string>
     <string name="permdesc_callPrivileged">앱이 사용자의 조작 없이 비상 번호를 포함한 전화번호로 전화를 걸 수 있도록 허용합니다. 이 경우 악성 앱이 응급 서비스에 불필요하거나 불법적인 전화를 걸 수 있습니다.</string>
@@ -614,7 +614,7 @@
     <string name="permdesc_clearAppCache">앱이 앱 캐시 디렉토리에 있는 파일을 삭제하여 휴대전화의 저장공간을 늘릴 수 있도록 허용합니다. 액세스는 일반적으로 시스템 프로세스로 엄격히 제한됩니다.</string>
     <string name="permdesc_clearAppUserData">앱이 사용자 데이터를 지울 수 있도록 허용합니다.</string>
     <string name="permdesc_confirm_full_backup">앱이 전체 백업 확인 UI를 실행하도록 허용합니다. 다른 앱에는 사용할 수 없습니다.</string>
-    <string name="permdesc_copyProtectedData">기본 컨테이너 서비스를 호출하여 컨텐츠를 복사할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
+    <string name="permdesc_copyProtectedData">기본 컨테이너 서비스를 호출하여 콘텐츠를 복사할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permdesc_createNetworkSockets">앱이 네트워크 소켓을 만들고 맞춤 네트워크 프로토콜을 사용할 수 있도록 허용합니다. 브라우저 및 기타 앱이 데이터를 인터넷에 전송하는 수단을 제공하므로, 이 권한이 데이터를 인터넷에 전송하는 데 필요하지 않습니다.</string>
     <string name="permdesc_deleteCacheFiles">앱이 캐시 파일을 삭제할 수 있도록 허용합니다.</string>
     <string name="permdesc_deletePackages">앱이 Android 패키지를 삭제할 수 있도록 허용합니다. 이 경우 악성 앱이 중요한 앱을 삭제할 수 있습니다.</string>
@@ -645,7 +645,7 @@
     <string name="permdesc_manageNetworkPolicy">앱이 네트워크 정책을 관리하고 앱별 규칙을 정의할 수 있도록 허용합니다.</string>
     <string name="permdesc_manageUsb">앱이 USB 기기에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
     <string name="permdesc_masterClear">앱이 모든 데이터, 구성 및 설치된 앱을 지워서 시스템을 완전히 초기화할 수 있도록 허용합니다.</string>
-    <string name="permdesc_mediaStorageWrite">앱이 내부 미디어 저장소의 컨텐츠를 수정할 수 있도록 허용합니다.</string>
+    <string name="permdesc_mediaStorageWrite">앱이 내부 미디어 저장소의 콘텐츠를 수정할 수 있도록 허용합니다.</string>
     <string name="permdesc_modifyAudioSettings">앱이 음량이나 출력을 위해 사용하는 스피커 등 전체 오디오 설정을 변경할 수 있도록 허용합니다.</string>
     <string name="permdesc_modifyNetworkAccounting">애플리케이션이 애플리케이션의 네트워크 사용량을 계산하는 방식을 수정할 수 있도록 허용합니다. 일반 애플리케이션에서는 사용하지 않습니다.</string>
     <string name="permdesc_modifyPhoneState">앱이 기기의 휴대전화 기능을 관리할 수 있도록 허용합니다. 이 권한을 갖는 앱은 사용자에게 알리지 않고 네트워크를 전환하거나 무선 기능을 켜고 끄는 등의 작업을 수행할 수 있습니다.</string>
@@ -683,7 +683,7 @@
     <string name="permdesc_recordAudio">앱이 마이크로 오디오를 녹음할 수 있도록 허용합니다. 이 권한을 사용하면 앱이 사용자의 확인 없이 언제든지 오디오를 녹음할 수 있습니다.</string>
     <string name="permdesc_removeTasks">애플리케이션이 작업을 삭제하거나 다른 애플리케이션을 중지시킬 수 있도록 허용합니다. 이 경우 악성 애플리케이션이 다른 애플리케이션의 동작을 멈추게 할 수 있습니다.</string>
     <string name="permdesc_reorderTasks">앱이 사용자의 입력 없이 작업을 포그라운드나 백그라운드로 이동할 수 있도록 허용합니다.</string>
-    <string name="permdesc_retrieve_window_content">앱이 활성 창의 컨텐츠를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 전체 창의 컨텐츠를 검색하여 비밀번호를 제외한 모든 텍스트를 살펴볼 수 있습니다.</string>
+    <string name="permdesc_retrieve_window_content">앱이 활성 창의 콘텐츠를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 전체 창의 콘텐츠를 검색하여 비밀번호를 제외한 모든 텍스트를 살펴볼 수 있습니다.</string>
     <string name="permdesc_route_media_output">앱이 미디어 출력을 기타 외부 기기에 연결할 수 있도록 허용합니다.</string>
     <string name="permdesc_runSetActivityWatcher">앱이 시스템에서 활동이 시작되는 방식을 모니터링하고 관리할 수 있도록 허용합니다. 이 경우 악성 앱이 이 기능을 이용하여 시스템을 완전히 손상시킬 수 있습니다. 이 권한은 개발 과정에만 필요하며 일반 사용 시에는 필요하지 않습니다.</string>
     <string name="permdesc_sdcardRead">앱이 미래의 기기에서 사용할 수 있는 USB 저장소의 권한을 테스트하도록 허용합니다.</string>

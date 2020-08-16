@@ -318,7 +318,7 @@
     <string name="expiration_date_separator">/</string>
     <string name="explore">탐색</string>
     <string name="external_space_bar">"'%1$s'앱을 다운로드할 수 없습니다. 외부 저장공간이 부족합니다."</string>
-    <string name="external_space_message">"'%1$s'앱을 다운로드할 수 없습니다. 필요하지 않은 앱 또는 컨텐츠를 삭제하고 다시 시도하세요."</string>
+    <string name="external_space_message">"'%1$s'앱을 다운로드할 수 없습니다. 필요하지 않은 앱 또는 콘텐츠를 삭제하고 다시 시도하세요."</string>
     <string name="external_space_missing_bar">"'%1$s'앱을 다운로드할 수 없습니다. 외부 저장공간이 필요합니다."</string>
     <string name="external_space_missing_message">"'%1$s'앱을 다운로드할 수 없습니다. 저장공간이 충분한 &lt;a href=%2$s>SD 카드&lt;/a> 또는 USB 저장소를 삽입한 후 다시 시도해 보세요."</string>
     <string name="external_space_missing_title">앱에 외부 저장소가 필요합니다.</string>
@@ -349,7 +349,7 @@
     <string name="flag_other_concern_prompt">이의 설명</string>
     <string name="flag_other_objection">기타</string>
     <string name="flag_page_description">이 콘텐츠 또는 애플리케이션이 부적절하다고 생각하는 이유:</string>
-    <string name="flag_page_description_non_app">이 컨텐츠가 불쾌감을 주는 이유:</string>
+    <string name="flag_page_description_non_app">이 콘텐츠가 불쾌감을 주는 이유:</string>
     <string name="flag_page_footer_music">&lt;a href=%1$s>저작권, 개인정보 보호, 기타 법적인 문제 신고&lt;/a></string>
     <string name="flag_pharma_content">불법 처방전 또는 다른 약물</string>
     <string name="flag_sexual_content">성적인 콘텐츠</string>
@@ -370,7 +370,7 @@
     <string name="gplus_download_required">계속하려면 최신 Google+ 앱이 필요합니다.</string>
     <string name="gplus_public_reviews">다른 사용자와 리뷰를 공유하려면 Google+ 프로필을 생성하세요. 리뷰가 내 프로필과 연결되며 공개됩니다.</string>
     <string name="gplus_public_reviews_confirmed">평점을 매길 준비가 되었습니다.</string>
-    <string name="gplus_sign_up_prompt">Google+ 프로필을 만들면 친구로부터 추천을 받고 내가 좋아하는 컨텐츠를 친구와 공유할 수 있습니다.</string>
+    <string name="gplus_sign_up_prompt">Google+ 프로필을 만들면 친구로부터 추천을 받고 내가 좋아하는 콘텐츠를 친구와 공유할 수 있습니다.</string>
     <string name="gplus_sign_up_text">Google+ 프로필을 만들어 Google Play 리뷰를 공유하고 친구의 추천을 받으세요.</string>
     <string name="gplus_view_profile">프로필 보기</string>
     <string name="help_and_feedback">도움말 및 의견</string>
@@ -424,7 +424,7 @@
     <string name="installed_section">최신 버전</string>
     <string name="installing">설치 중...</string>
     <string name="internal_space_bar">"'%1$s'앱을 다운로드할 수 없습니다. 저장공간이 충분하지 않습니다."</string>
-    <string name="internal_space_message">"기기에 '%1$s'앱을 다운로드할 공간이 충분하지 않습니다. 필요하지 않은 앱 또는 컨텐츠를 삭제하고 다시 시도하시기 바랍니다."</string>
+    <string name="internal_space_message">"기기에 '%1$s'앱을 다운로드할 공간이 충분하지 않습니다. 필요하지 않은 앱 또는 콘텐츠를 삭제하고 다시 시도하시기 바랍니다."</string>
     <string name="internal_space_title">저장용량 부족</string>
     <string name="invalid_account_password">잘못된 계정 비밀번호</string>
     <string name="invalid_account_password_max_attempts_exceeded">허용되는 최대 로그인 시도 횟수에 도달했습니다.&lt;br>&lt;a href=%1$s>비밀번호를 잊어버렸습니까?&lt;/a></string>
@@ -589,7 +589,7 @@
     <string name="os_licenses_label">오픈소스 라이선스</string>
     <string name="os_licenses_summary">오픈소스 소프트웨어에 대한 라이선스 세부정보</string>
     <string name="other_profile_empty_message">Play 활동 없음</string>
-    <string name="own_profile_empty_message">공유한 Google Play 활동이 없습니다. 좋아하는 앱과 컨텐츠를 리뷰하거나 +1하여 친구에게 추천하세요.</string>
+    <string name="own_profile_empty_message">공유한 Google Play 활동이 없습니다. 좋아하는 앱과 콘텐츠를 리뷰하거나 +1하여 친구에게 추천하세요.</string>
     <string name="owned_by_other_account">&lt;b>%s&lt;/b> 계정으로 이 항목을 소유하고 있습니다.</string>
     <string name="owned_preorder_note">선주문하여 %1$s에 이용 가능</string>
     <string name="owned_preorder_note_no_sale_date">선주문됨</string>
@@ -616,10 +616,10 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="payment_declined_get_help">도움말 보기</string>
     <string name="payment_methods">결제 수단</string>
     <string name="payment_success">결제 완료</string>
-    <string name="payment_success_auth_choices_description">"인앱 구매를 포함하여 모든 형태의 디지털 컨텐츠를 구매할 때 30분마다 한 번씩 비밀번호를 입력하도록 선택할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다.
+    <string name="payment_success_auth_choices_description">"인앱 구매를 포함하여 모든 형태의 디지털 콘텐츠를 구매할 때 30분마다 한 번씩 비밀번호를 입력하도록 선택할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다.
 
 구매 시 비밀번호 입력 빈도를 어떻게 설정하시겠습니까?"</string>
-    <string name="payment_success_via_pin_auth_choices_description">"인앱 구매를 포함하여 모든 형태의 디지털 컨텐츠를 구매할 때 30분마다 한 번씩 PIN을 입력하도록 선택할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다.
+    <string name="payment_success_via_pin_auth_choices_description">"인앱 구매를 포함하여 모든 형태의 디지털 콘텐츠를 구매할 때 30분마다 한 번씩 PIN을 입력하도록 선택할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다.
 
 구매 시 PIN 입력 빈도를 어떻게 설정하시겠습니까?"</string>
     <string name="perm_billing_desc">이 앱 내에서 Google Play를 통해 항목을 구입할 수 있습니다.</string>
@@ -729,7 +729,7 @@ Google 설정 앱에서 자세히 알아보세요."</string>
     <string name="purchase_auth_dialog_label">인증 필요</string>
     <string name="purchase_auth_message_always">현재 설정에 따라, 이 기기에서 Google Play를 통한 디지털 콘텐츠 구매(인앱 구매 포함) 시 인증이 필요합니다. &lt;a href=%1$s>설정 변경&lt;/a> 또는 &lt;a href=%2$s>자세히 알아보기&lt;/a></string>
     <string name="purchase_auth_message_never">인증을 사용 중지하면 승인되지 않은 구매가 발생할 수 있습니다. 이로 인해 발생하는 모든 비용은 본인의 책임입니다. &lt;a href=%1$s>설정 변경&lt;/a> 또는 &lt;a href=%2$s>자세히 알아보기&lt;/a></string>
-    <string name="purchase_auth_message_session">구매를 인증한 후 30분 동안 다시 인증하지 않고 Google Play를 통해 모든 형태의 디지털 컨텐츠를 구매(인앱 구매 포함)할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다. &lt;a href=%1$s>설정 변경&lt;/a> 또는 &lt;a href=%2$s>자세히 알아보기&lt;/a></string>
+    <string name="purchase_auth_message_session">구매를 인증한 후 30분 동안 다시 인증하지 않고 Google Play를 통해 모든 형태의 디지털 콘텐츠를 구매(인앱 구매 포함)할 수 있습니다. 하지만 만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통해 구매 시 항상 인증이 필요합니다. &lt;a href=%1$s>설정 변경&lt;/a> 또는 &lt;a href=%2$s>자세히 알아보기&lt;/a></string>
     <string name="purchase_auth_settings_label">구매 시 인증 필요</string>
     <string name="purchase_auth_underage_disclaimer">만 12세 이하를 대상으로 하는 앱 내에서는 Google Play를 통한 구매 시 항상 인증이 필요합니다.</string>
     <string name="purchase_flow_start_description">%1$s, %2$s</string>
@@ -1005,7 +1005,7 @@ CVC는 카드 뒷면 서명란에 있는 번호의 마지막 세 자리 숫자�
     <string name="wallet_uic_phone_number">전화번호</string>
     <string name="wallet_uic_retry">다시 시도</string>
     <string name="wallet_uic_select_location">위치 선택</string>
-    <string name="warm_welcome_own_profile_body">리뷰, +1 등 내가 공유한 Google Play 활동이 여기 표시됩니다. 좋아하는 앱과 컨텐츠를 평가하여 내 추천 항목을 모든 사용자와 공유하세요.</string>
+    <string name="warm_welcome_own_profile_body">리뷰, +1 등 내가 공유한 Google Play 활동이 여기 표시됩니다. 좋아하는 앱과 콘텐츠를 평가하여 내 추천 항목을 모든 사용자와 공유하세요.</string>
     <string name="warm_welcome_own_profile_got_it">확인</string>
     <string name="warm_welcome_own_profile_title">환영합니다.</string>
     <string name="widget_apps">Play 스토어</string>

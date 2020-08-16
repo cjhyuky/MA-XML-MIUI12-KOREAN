@@ -108,7 +108,7 @@
 사용 중지하면 화면을 터치할 때 바로가기 동작에 기기가 응답하지 않으며 항목에 대한 설명을 들을 수 없습니다."</string>
     <string name="dialog_message_enable_tree_debug">"노드 트리 디버깅을 사용 설정하시겠습니까?
 
-노드 트리 디버깅을 사용하면 화면의 컨텐츠가 기기 로그에 표시되어 다른 앱에서 읽을 수 있습니다."</string>
+노드 트리 디버깅을 사용하면 화면의 콘텐츠가 기기 로그에 표시되어 다른 앱에서 읽을 수 있습니다."</string>
     <string name="dialog_message_suspend_talkback">"중지하시겠습니까? 기기에서 피드백을 제공하지 않으며 '터치하여 탐색' 기능이 사용 중지됩니다. 알림, 잠금 화면으로 돌아가기 또는 볼륨 키 단축키를 사용하여 음성 안내 지원을 다시 시작할 수 있습니다."</string>
     <string name="dialog_title_dim_screen">화면을 어둡게하시겠습니까?</string>
     <string name="dialog_title_disable_exploration">"'터치하여 탐색'을 사용 중지하시겠습니까?"</string>
@@ -133,8 +133,8 @@
     <string name="granularity_word">단어</string>
     <string name="heading_template">제목</string>
     <string name="hint_radial_menu">화면을 터치하고 서클을 탐색하여 항목을 찾은 다음 손가락을 떼면 항목이 선택됩니다.</string>
-    <string name="hint_script_injection">"'터치하여 탐색'은 웹 컨텐츠에서는 사용할 수 없습니다. 웹 컨텐츠를 탐색하려면 접근성 설정에서 %1$s 기능을 사용하도록 설정하세요."</string>
-    <string name="hint_summary_jog_dial">화면을 터치하고 서클을 탐색하여 화면상의 컨텐츠를 찾은 다음 손가락을 떼면 컨텐츠에 초점이 맞춰집니다.</string>
+    <string name="hint_script_injection">"'터치하여 탐색'은 웹 콘텐츠에서는 사용할 수 없습니다. 웹 콘텐츠를 탐색하려면 접근성 설정에서 %1$s 기능을 사용하도록 설정하세요."</string>
+    <string name="hint_summary_jog_dial">화면을 터치하고 서클을 탐색하여 화면상의 콘텐츠를 찾은 다음 손가락을 떼면 콘텐츠에 초점이 맞춰집니다.</string>
     <string name="item_index_template">항목 %1$d</string>
     <string name="key_combo_preference_alt_plus">"ALT + "</string>
     <string name="key_combo_preference_control_plus">"CTRL + "</string>
@@ -266,7 +266,7 @@
     <string name="summary_pref_play_store">현재 음성 안내 지원 버전: %1$s</string>
     <string name="summary_pref_single_tap">(베타) 현재 초점이 맞춰진 항목을 탭하여 선택</string>
     <string name="summary_pref_use_audio_focus">말하는 동안 다른 오디오 볼륨 줄이기</string>
-    <string name="summary_pref_web_scripts">웹 컨텐츠용 접근성 스크립트 다운로드</string>
+    <string name="summary_pref_web_scripts">웹 콘텐츠용 접근성 스크립트 다운로드</string>
     <string name="switch_access_preferences_title">스위치 액세스 환경설정</string>
     <string name="switch_access_service_description">스위치 액세스를 사용하면 설정 가능한 키 조합을 사용하여 기기를 제어할 수 있습니다. 클릭할 수 있는 항목으로 초점을 이동하여 선택할 수 있습니다.</string>
     <string name="switch_service_name">스위치 액세스</string>

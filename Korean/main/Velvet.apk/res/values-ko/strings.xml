@@ -576,7 +576,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="sports_rank_header">\#</string>
     <string name="sports_rank_header_full_length">현재 순위</string>
     <string name="at_place_card_image_desc">카드에 표시되는 장소와 관련된 이미지</string>
-    <string name="generic_card_image_desc">카드의 컨텐츠와 관련된 이미지</string>
+    <string name="generic_card_image_desc">카드의 콘텐츠와 관련된 이미지</string>
     <string name="time_to_leave_start_current">현재 위치</string>
     <string name="time_to_leave_start_home">집</string>
     <string name="time_to_leave_start_work">직장</string>
@@ -930,7 +930,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="directory_for_mall">%1$s에 대한 디렉토리</string>
     <string name="mall_lookup_hint_text">상점 및 서비스 찾기</string>
     <string name="no_internet_connection">현재 Google Now에 연결할 수 없습니다.</string>
-    <string name="content_stale_ago">컨텐츠가 %1$s 전에 최종 업데이트되었습니다.</string>
+    <string name="content_stale_ago">콘텐츠가 %1$s 전에 최종 업데이트되었습니다.</string>
     <string name="city_to_city">%1$s - %2$s</string>
     <string name="bus_from_some_place">%1$s 출발 버스</string>
     <string name="train_from_some_place">%1$s 출발 기차</string>
@@ -1625,7 +1625,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="go">이동</string>
     <string name="google_play">Google Play</string>
     <string name="preview">미리보기</string>
-    <string name="media_content_image">이 카드에 표시되는 미디어 컨텐츠와 관련된 이미지</string>
+    <string name="media_content_image">이 카드에 표시되는 미디어 콘텐츠와 관련된 이미지</string>
     <string name="error_sending_sms">메시지를 보낼 수 없습니다.</string>
     <string name="error_sending_sms_tts">메시지를 보낼 수 없습니다.</string>
     <string name="opening_app">앱을 여는 중…</string>

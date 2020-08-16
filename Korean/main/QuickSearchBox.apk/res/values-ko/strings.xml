@@ -38,7 +38,7 @@
     <string name="search_group_fold">숨기기</string>
     <string name="search_group_unfold">자세히</string>
     <string name="common_setting">일반 설정</string>
-    <string name="recent_apps">최근실행 앱</string>
+    <string name="recent_apps">최근 앱</string>
     <string name="recent_apps_filter">사용하지 않는 앱 숨기기</string>
     <string name="recent_edit">편집</string>
     <string name="recent_edit_done">완료</string>

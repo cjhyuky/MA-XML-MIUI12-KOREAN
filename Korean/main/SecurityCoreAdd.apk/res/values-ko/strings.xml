@@ -482,9 +482,9 @@
     <string name="close_kid_space_success">삭제된 키즈 스페이스</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="whatsapp_send">WhatsApp으로 보내기</string>
-    <string name="xspace_facebook_title">페이스북</string>
-    <string name="facebook_send">페이스북으로 보내기</string>
-    <string name="facebook_login">페이스북 로그인</string>
+    <string name="xspace_facebook_title">Facebook</string>
+    <string name="facebook_send">Facebook으로 보내기</string>
+    <string name="facebook_login">Facebook 로그인</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="instagram_send">Instagram으로 보내기</string>
     <string name="use_google_open">Google 어시스턴트를 사용하여 깨우기</string>

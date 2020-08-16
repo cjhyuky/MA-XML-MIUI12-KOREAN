@@ -563,7 +563,7 @@
     <string-array name="color_mode_descriptions">
         <item>보정된 색상</item>
         <item>자연스러운 색상</item>
-        <item>디지털 컨텐츠를 위해 보정된 색상</item>
+        <item>디지털 콘텐츠를 위해 보정된 색상</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>활기찬(기본)</item>
@@ -674,12 +674,12 @@
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP 확인 사용 안함</item>
-        <item>DRM 컨텐츠에 대해서만 HDCP 확인 사용</item>
+        <item>DRM 콘텐츠에 대해서만 HDCP 확인 사용</item>
         <item>항상 HDCP 확인 사용</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>확인 안함</item>
-        <item>DRM 컨텐츠만 확인</item>
+        <item>DRM 콘텐츠만 확인</item>
         <item>항상 확인</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
@@ -1285,7 +1285,7 @@
     <string-array name="true_color_screen_optimize_summary">
         <item>현재 조명을 기준으로 색상 조정</item>
         <item>항상 색상 향상</item>
-        <item>색상 보정으로 화면 컨텐츠의 표준 색상 복원</item>
+        <item>색상 보정으로 화면 콘텐츠의 표준 색상 복원</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>자동 (추천)</item>

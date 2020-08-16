@@ -88,7 +88,7 @@
     <string name="status_pending">파일 전송을 시작하지 않았습니다.</string>
     <string name="status_running">파일이 전송되는 중입니다.</string>
     <string name="status_success">파일 전송이 완료되었습니다.</string>
-    <string name="status_not_accept">컨텐츠는 지원되지 않습니다.</string>
+    <string name="status_not_accept">콘텐츠는 지원되지 않습니다.</string>
     <string name="status_forbidden">상대 기기에서 전송을 금지했습니다.</string>
     <string name="status_canceled">사용자가 전송을 취소했습니다.</string>
     <string name="status_file_error">저장용량 문제</string>

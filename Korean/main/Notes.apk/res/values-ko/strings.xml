@@ -147,7 +147,7 @@
     <string name="error_note_empty_for_clock">빈 메모에 미리 알림 시간을 설정할 수 없습니다.</string>
     <string name="error_note_empty_for_send_to_desktop">빈 메모는 홈 화면에 배치할 수 없습니다.</string>
     <string name="error_widget_exist_for_send_to_desktop">이 메모는 이미 홈 화면에 배치되어 있습니다.</string>
-    <string name="error_unsupport_content">이 메모는 지원되지 않는 컨텐츠를 포함하고 있습니다. 여기를 터치하여 업데이트하세요.</string>
+    <string name="error_unsupport_content">이 메모는 지원되지 않는 콘텐츠를 포함하고 있습니다. 여기를 터치하여 업데이트하세요.</string>
     <string name="error_contact_not_exist">연락처가 존재하지 않습니다.</string>
     <string name="sync_tips">탭하여 Mi 클라우드로 메모 동기화</string>
     <string name="pref_title_font_size">글꼴 크기</string>

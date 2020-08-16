@@ -1311,12 +1311,12 @@
     <string name="company">회사</string>
     <string name="donnot_ask">"다시 보지 않기"</string>
     <string name="enter_address">주소를 입력하세요.</string>
-    <string name="facebook_parent">페이스북</string>
+    <string name="facebook_parent">Facebook</string>
     <string name="facebook_post">게시물</string>
     <string name="gmail_compose">작성</string>
     <string name="gmail_parent">지메일</string>
     <string name="google">Google</string>
-    <string name="go_to_like">페이스북 열기</string>
+    <string name="go_to_like">Facebook 열기</string>
     <string name="instagram_main">사진</string>
     <string name="instagram_parent">Instagram</string>
     <string name="launch_noapp_dialog_content">이 카드를 담당한 앱이 삭제되었습니다. 이 카드를 다른 것으로 바꿀 수 있습니다.</string>

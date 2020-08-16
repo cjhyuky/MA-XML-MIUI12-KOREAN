@@ -498,7 +498,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_notif_content_sync_finish">계정</string>
     <string name="micloud_notif_title_sync_not_finish">일부 항목이 동기화되지 않았습니다.</string>
     <string name="micloud_notif_content_sync_not_finish">자세히</string>
-    <string name="micloud_notif_title_clipboard_push">컨텐츠가 클립보드에 복사됨</string>
+    <string name="micloud_notif_title_clipboard_push">콘텐츠가 클립보드에 복사됨</string>
     <string name="micloud_notif_content_clipboard_push">이것을 아무곳에나 붙여넣을 수 있습니다.</string>
     <string name="micloud_notif_title_multi_user_error">Mi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_multi_user_error">같은 계정으로 기본 공간에 로그인 했습니다.</string>

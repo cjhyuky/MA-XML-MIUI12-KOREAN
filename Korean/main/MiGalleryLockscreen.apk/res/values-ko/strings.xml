@@ -459,7 +459,7 @@
     <string name="subscribe_success_content_per_three_hour">3시간마다 배경화면 변경</string>
     <string name="subscribe_success_content_per_unlock">기기가 잠길 때마다 배경화면 변경</string>
     <string name="subscribe_update_time_setting">다른 간격을 설정하세요.</string>
-    <string name="summary">온라인 컨텐츠를 보려면 우리의 &lt;a href=\'%s\'&gt;개인정보 보호정책&lt;/a&gt;에 동의해야 합니다. 동의하지 않아도 로컬 배경화면을 계속 사용할 수는 있습니다.</string>
+    <string name="summary">온라인 콘텐츠를 보려면 우리의 &lt;a href=\'%s\'&gt;개인정보 보호정책&lt;/a&gt;에 동의해야 합니다. 동의하지 않아도 로컬 배경화면을 계속 사용할 수는 있습니다.</string>
     <string name="summary_international">이 기능을 사용하면 &lt;a href =\'%1$s\'&gt;이용 약관&lt;/a&gt; 과&lt;a href=\'%2$s\'&gt;개인정보 보호정책&lt;/a&gt;에 동의해야 합니다. 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
     <string name="summary2">이 기능을 사용하면 &lt;font color=\'#37A5FF\'&gt;&lt;a href =\'%1$s\'&gt;이용 약관&lt;/font&gt;&lt;/a&gt;과&lt;font color=\'#37A5FF\'&gt;&lt;a href=\'%2$s\'&gt;개인정보 보호정책&lt;/font&gt;&lt;/a&gt;에 동의해야 합니다. 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
     <string name="sure_close_gallery">슬라이드형 배경화면을 끄시겠습니까?</string>

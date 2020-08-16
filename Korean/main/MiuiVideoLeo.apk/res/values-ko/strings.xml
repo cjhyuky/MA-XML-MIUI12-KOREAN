@@ -102,7 +102,7 @@
     <string name="declaration">서비스 약관</string>
     <string name="declaration_allow">동의</string>
     <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 동영상, iQiyi, 그리고 다른 콘텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
-2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 컨텐츠의 일부 데이터를 수집할 것입니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집할 것입니다.&amp;#8203;
+2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 콘텐츠의 일부 데이터를 수집할 것입니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집할 것입니다.&amp;#8203;
 3. 저희의 HD 동영상 플러그인이 자동으로 설치될 것입니다.
 4. 이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다."</string>
     <string name="declaration_content_td_custom">이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다.</string>
@@ -303,7 +303,7 @@
     <string name="receive_follow">새로운 에피소드 알림</string>
     <string name="receive_follow_summary">새로운 에피소드가 나오면 알림으로 알려줍니다.</string>
     <string name="receive_mipush">콘텐츠 알림</string>
-    <string name="receive_mipush_summary">새로운 컨텐츠가 나오면 알림으로 알려줍니다.</string>
+    <string name="receive_mipush_summary">새로운 콘텐츠가 나오면 알림으로 알려줍니다.</string>
     <string name="recentplay">최근 재생됨</string>
     <string name="refreshing">잠시만 기다려주세요…</string>
     <string name="releasetorefresh">놓아서 새로고침</string>

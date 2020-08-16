@@ -245,11 +245,11 @@
     <string name="permgrouplab_accessibilityFeatures">접근성 기능</string>
     <string name="permgroupdesc_accessibilityFeatures">장애인 보조 기술이 요청할 수 있는 기능입니다.</string>
     <string name="capability_title_canRetrieveWindowContent">창 콘텐츠 가져오기</string>
-    <string name="capability_desc_canRetrieveWindowContent">상호작용 중인 창의 컨텐츠를 검사합니다.</string>
+    <string name="capability_desc_canRetrieveWindowContent">상호작용 중인 창의 콘텐츠를 검사합니다.</string>
     <string name="capability_title_canRequestTouchExploration">터치하여 탐색 사용</string>
     <string name="capability_desc_canRequestTouchExploration">항목을 터치하면 소리 내어 알려주며 제스처를 사용하여 화면을 탐색할 수 있습니다.</string>
     <string name="capability_title_canRequestEnhancedWebAccessibility">향상된 웹 접근성 기능 사용</string>
-    <string name="capability_desc_canRequestEnhancedWebAccessibility">스크립트를 설치하여 앱 컨텐츠에 더 간편하게 액세스할 수 있습니다.</string>
+    <string name="capability_desc_canRequestEnhancedWebAccessibility">스크립트를 설치하여 앱 콘텐츠에 더 간편하게 액세스할 수 있습니다.</string>
     <string name="capability_title_canRequestFilterKeyEvents">입력하는 텍스트 살펴보기</string>
     <string name="capability_desc_canRequestFilterKeyEvents">신용카드 번호와 비밀번호 등의 개인 데이터를 포함합니다.</string>
     <string name="permlab_statusBar">상태 표시줄 사용 중지 또는 수정</string>
@@ -321,7 +321,7 @@
     <string name="permlab_dump">시스템 내부 상태 검색</string>
     <string name="permdesc_dump">앱이 시스템의 내부 상태를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 이 기능을 이용하여 일반적으로 필요하지 않은 다양한 개인정보와 보안정보를 검색할 수 있습니다.</string>
     <string name="permlab_retrieve_window_content">화면 콘텐츠 검색</string>
-    <string name="permdesc_retrieve_window_content">앱이 활성 창의 컨텐츠를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 전체 창의 컨텐츠를 검색하여 비밀번호를 제외한 모든 텍스트를 살펴볼 수 있습니다.</string>
+    <string name="permdesc_retrieve_window_content">앱이 활성 창의 콘텐츠를 검색할 수 있도록 허용합니다. 이 경우 악성 앱이 전체 창의 콘텐츠를 검색하여 비밀번호를 제외한 모든 텍스트를 살펴볼 수 있습니다.</string>
     <string name="permlab_temporary_enable_accessibility">일시적인 접근성 사용</string>
     <string name="permdesc_temporary_enable_accessibility">애플리케이션이 기기에서 일시적으로 접근성을 사용하도록 허용합니다. 이 경우 악성 앱이 사용자의 동의 없이 접근성을 사용할 수 있습니다.</string>
     <string name="permlab_retrieveWindowToken">창 토큰 검색</string>
@@ -343,7 +343,7 @@
     <string name="permlab_broadcastSmsReceived">SMS 수신 브로드캐스트 보내기</string>
     <string name="permdesc_broadcastSmsReceived">앱이 SMS 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 수신된 SMS 메시지를 위조할 수 있습니다.</string>
     <string name="permlab_broadcastWapPush">WAP-PUSH-수신 브로드캐스트 보내기</string>
-    <string name="permdesc_broadcastWapPush">앱이 WAP PUSH 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 MMS 메시지를 받은 것처럼 위장하거나 웹페이지의 컨텐츠를 악성 컨텐츠로 몰래 바꿀 수 있습니다.</string>
+    <string name="permdesc_broadcastWapPush">앱이 WAP PUSH 메시지를 받았다는 알림을 브로드캐스트할 수 있도록 허용합니다. 이 경우 악성 앱이 MMS 메시지를 받은 것처럼 위장하거나 웹페이지의 콘텐츠를 악성 콘텐츠로 몰래 바꿀 수 있습니다.</string>
     <string name="permlab_setProcessLimit">실행 중인 프로세스 수 제한</string>
     <string name="permdesc_setProcessLimit">앱이 실행할 최대 프로세스 수를 제어할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permlab_setAlwaysFinish">백그라운드 앱 강제 종료</string>
@@ -363,7 +363,7 @@
     <string name="permlab_internalSystemWindow">인증되지 않은 창 표시</string>
     <string name="permdesc_internalSystemWindow">애플리케이션이 내부 시스템 사용자 인터페이스에서 사용하는 창을 만들 수 있도록 허용합니다. 일반 애플리케이션에서는 사용하지 않습니다.</string>
     <string name="permlab_systemAlertWindow">다른 앱 위에 그리기</string>
-    <string name="permdesc_systemAlertWindow">앱이 다른 애플리케이션이나 사용자 인터페이스 부분 위에 그림을 그릴 수 있도록 합니다. 이 경우 애플리케이션에서 인터페이스 사용에 방해가 되거나 다른 애플리케이션에서 표시되는 컨텐츠가 변경될 수 있습니다.</string>
+    <string name="permdesc_systemAlertWindow">앱이 다른 애플리케이션이나 사용자 인터페이스 부분 위에 그림을 그릴 수 있도록 합니다. 이 경우 애플리케이션에서 인터페이스 사용에 방해가 되거나 다른 애플리케이션에서 표시되는 콘텐츠가 변경될 수 있습니다.</string>
     <string name="permlab_setAnimationScale">전체 애니메이션 속도 수정</string>
     <string name="permdesc_setAnimationScale">애플리케이션이 언제든지 전체 애니메이션 속도를 빠르게 또는 느리게 변경할 수 있도록 허용합니다.</string>
     <string name="permlab_manageAppTokens">앱 토큰 관리</string>
@@ -647,11 +647,11 @@
     <string name="permlab_writeDictionary">사용자 정의 사전에 단어 추가</string>
     <string name="permdesc_writeDictionary">앱이 사용자 사전에 새 단어를 입력할 수 있도록 허용합니다.</string>
     <string name="permlab_sdcardRead">SD 카드의 콘텐츠 읽기</string>
-    <string name="permdesc_sdcardRead">앱이 SD 카드의 컨텐츠를 읽을 수 있도록 허용합니다.</string>
+    <string name="permdesc_sdcardRead">앱이 SD 카드의 콘텐츠를 읽을 수 있도록 허용합니다.</string>
     <string name="permlab_sdcardWrite">SD 카드의 콘텐츠 수정 또는 삭제</string>
     <string name="permdesc_sdcardWrite">앱이 SD 카드에 쓸 수 있도록 허용합니다.</string>
     <string name="permlab_mediaStorageWrite">내부 미디어 저장소 콘텐츠 수정/삭제</string>
-    <string name="permdesc_mediaStorageWrite">앱이 내부 미디어 저장소의 컨텐츠를 수정할 수 있도록 허용합니다.</string>
+    <string name="permdesc_mediaStorageWrite">앱이 내부 미디어 저장소의 콘텐츠를 수정할 수 있도록 허용합니다.</string>
     <string name="permlab_manageDocs">문서 저장공간 관리</string>
     <string name="permdesc_manageDocs">앱이 문서 저장공간을 관리할 수 있도록 허용합니다.</string>
     <string name="permlab_sdcardAccessAll">모든 사용자의 외부 저장소에 액세스</string>
@@ -1206,7 +1206,7 @@
     <string name="permlab_pkgUsageStats">구성 요소 사용 통계 업데이트</string>
     <string name="permdesc_pkgUsageStats">앱이 수집된 구성요소 사용 통계를 수정하도록 합니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permlab_copyProtectedData">콘텐츠 복사</string>
-    <string name="permdesc_copyProtectedData">기본 컨테이너 서비스를 호출하여 컨텐츠를 복사할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
+    <string name="permdesc_copyProtectedData">기본 컨테이너 서비스를 호출하여 콘텐츠를 복사할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
     <string name="permlab_route_media_output">미디어 출력 연결</string>
     <string name="permdesc_route_media_output">앱이 미디어 출력을 기타 외부 기기에 연결할 수 있도록 허용합니다.</string>
     <string name="permlab_access_keyguard_secure_storage">키가드 보안 저장소 액세스</string>
@@ -1224,7 +1224,7 @@
     <string name="permlab_recovery">업데이트 및 복구 시스템과 상호작용</string>
     <string name="permdesc_recovery">애플리케이션이 복구 시스템 및 시스템 업데이트와 상호작용할 수 있도록 허용합니다.</string>
     <string name="permlab_manageMediaProjection">미디어 프로젝션 세션 관리</string>
-    <string name="permdesc_manageMediaProjection">애플리케이션이 미디어 프로젝션 세션을 관리하도록 허용합니다. 이 세션은 애플리케이션에 디스플레이 및 오디오 컨텐츠를 캡처하는 기능을 제공할 수 있습니다. 일반 앱에는 필요하지 않습니다.</string>
+    <string name="permdesc_manageMediaProjection">애플리케이션이 미디어 프로젝션 세션을 관리하도록 허용합니다. 이 세션은 애플리케이션에 디스플레이 및 오디오 콘텐츠를 캡처하는 기능을 제공할 수 있습니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permlab_readInstallSessions">설치 세션 읽기</string>
     <string name="permdesc_readInstallSessions">애플리케이션의 설치 세션 읽기를 허용하면, 활성 패키지 설치에 대한 세부 정보를 볼 수 있습니다.</string>
     <string name="tutorial_double_tap_to_zoom_message_short">확대/축소하려면 두 번 터치하세요.</string>
@@ -1954,7 +1954,7 @@
     <string name="app_category_news">뉴스 &amp; 잡지</string>
     <string name="app_category_social">소셜 &amp; 커뮤니케이션</string>
     <string name="app_category_video">영화 &amp; 동영상</string>
-    <string name="autofill_error_cannot_autofill">컨텐츠는 자동으로 채울 수 없습니다.</string>
+    <string name="autofill_error_cannot_autofill">콘텐츠는 자동으로 채울 수 없습니다.</string>
     <string name="autofill_picker_accessibility_title">자동 채우기 옵션</string>
     <string name="autofill_picker_no_suggestions">자동 채우기 없음</string>
     <string name="autofill_save_accessibility_title">자동 채우기로 저장</string>

@@ -68,12 +68,12 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>체크하지 않기</item>
-        <item>DRM 컨텐츠만 체크하기</item>
+        <item>DRM 콘텐츠만 체크하기</item>
         <item>항상 체크하기</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>항상 HDCP 검사 사용하지 않기</item>
-        <item>DRM 컨텐츠만 HDCP 검사 사용하기</item>
+        <item>DRM 콘텐츠만 HDCP 검사 사용하기</item>
         <item>항상 HDCP 검사 사용하기</item>
     </string-array>
     <string-array name="select_logd_size_titles">
@@ -177,7 +177,7 @@
     <string-array name="color_mode_descriptions">
         <item>보정된 색상</item>
         <item>자연스러운 색상</item>
-        <item>디지털 컨텐츠를 위해 보정된 색상</item>
+        <item>디지털 콘텐츠를 위해 보정된 색상</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>끄기</item>

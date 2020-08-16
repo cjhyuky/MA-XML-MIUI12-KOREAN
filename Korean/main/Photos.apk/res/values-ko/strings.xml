@@ -17,7 +17,7 @@
     <string name="ingest_sorting">정렬하는 중...</string>
     <string name="ingest_scanning_done">검색 완료</string>
     <string name="ingest_importing">가져오는 중...</string>
-    <string name="ingest_empty_device">이 기기로 가져올 수 있는 컨텐츠가 없습니다.</string>
+    <string name="ingest_empty_device">이 기기로 가져올 수 있는 콘텐츠가 없습니다.</string>
     <string name="ingest_no_device">연결된 MTP 기기가 없습니다.</string>
     <string name="ingest_switch_photo_grid">바둑판식 보기</string>
     <string name="ingest_switch_photo_fullscreen">전체 화면 보기</string>
@@ -476,7 +476,7 @@
 
 원하는 경우 위치 기록을 일시 중지할 수 있지만, 위치 기록을 일시 중지해도 이전 활동 기록은 삭제되지 않습니다. "<a href="https://support.google.com/accounts/answer/3118687?p=location_history">자세히 알아보기</a></string>
     <string name="device_folders_card_title">기기 폴더 백업</string>
-    <string name="device_folders_card_description">다운로드, 스크린샷 등의 폴더를 백업하면 포토 라이브러리에서 컨텐츠를 확인, 검색, 정리할 수 있습니다.</string>
+    <string name="device_folders_card_description">다운로드, 스크린샷 등의 폴더를 백업하면 포토 라이브러리에서 콘텐츠를 확인, 검색, 정리할 수 있습니다.</string>
     <string name="device_folders_card_primary_button">기기 폴더</string>
     <string name="autobackup_folder">백업 및 동기화</string>
     <string name="device_folders_title">기기 폴더</string>
