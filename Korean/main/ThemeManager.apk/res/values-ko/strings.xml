@@ -934,7 +934,7 @@
     <string name="system_aod_dialog_message">설정에서 항상 켜기를 항상 표시합니다.</string>
     <string name="system_aod_dialog_positive_button">설정</string>
     <string name="system_aod_dialog_title">항상 켜짐 디스플레이가 꺼져 있습니다.</string>
-    <string name="theme_component_aod">AOD</string>
+    <string name="theme_component_aod">항상 켜짐 디스플레이</string>
     <string name="theme_component_icon">아이콘</string>
     <string name="theme_component_title_aod">항상 표시</string>
     <string name="theme_component_video_wallpaper">동적 배경화면</string>

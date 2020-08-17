@@ -79,7 +79,7 @@
     <string name="time_picker_label_minute">분</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">항상 켜짐 디스플레이</string>
     <string name="wallpaper_setting_find_more_text">온라인 배경화면 더보기</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">홈 화면</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">잠금 화면</string>
@@ -228,7 +228,6 @@
     <string name="tuesday">화요일</string>
     <string name="tuesday_short">화요일</string>
     <string name="tuesday_shortest">화</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wednesday">수요일</string>
     <string name="wednesday_short">수요일</string>
     <string name="wednesday_shortest">수</string>

@@ -2639,7 +2639,7 @@
     <string name="superpower_progress_turnoff_process">백그라운드 활동 제한</string>
     <string name="superpower_savemode_limit1">어두운 테마</string>
     <string name="superpower_savemode_limit2">백그라운드 활동 제한</string>
-    <string name="superpower_savemode_limit3">전력소비 제한(동기화, GPS, 진동, AOD 등)</string>
+    <string name="superpower_savemode_limit3">전력소비 제한(동기화, GPS, 진동, 항상 켜짐 디스플레이 등)</string>
     <string name="superpower_savemode_limit4">선택한 앱이 정상적으로 작동하도록 허용</string>
     <string name="superpower_settings">초절전 모드</string>
     <string name="superpower_settins_autoenter_summary">배터리가 10% 남았을 때 초절전 모드를 자동으로 켭니다.</string>
