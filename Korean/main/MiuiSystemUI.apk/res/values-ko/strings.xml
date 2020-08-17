@@ -878,7 +878,7 @@
     <string name="fs_gesture_back_ready_title">이전 페이지로 어떻게 갑니까?</string>
     <string name="fs_gesture_final_over">확인</string>
     <string name="fs_gesture_final_restart">다시 학습하기</string>
-    <string name="fs_gesture_final_summary">[설정-풀 스크린]에서 초기화할 수 있습니다.</string>
+    <string name="fs_gesture_final_summary">[설정-전체 화면]에서 초기화할 수 있습니다.</string>
     <string name="fs_gesture_final_title">학습 마치기</string>
     <string name="fs_gesture_finish">수고하셨습니다!</string>
     <string name="fs_gesture_left_back_ready_summary">화면 왼쪽에서 스와이프하기</string>
@@ -925,7 +925,7 @@
     <string name="how_to_switch_recents">최근 앱으로 전환하는 방법</string>
     <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
     <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요.</string>
-    <string name="how_to_use_fsg">풀 화면 제스처를 어떻게 사용합니까?</string>
+    <string name="how_to_use_fsg">전체 화면 제스처를 어떻게 사용합니까?</string>
     <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. %1$s 앱이 수집합니다. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">백그라운드 유지하지 않음</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다.</string>

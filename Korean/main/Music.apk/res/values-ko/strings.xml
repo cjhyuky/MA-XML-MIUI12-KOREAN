@@ -403,7 +403,7 @@
     <string name="local_header_title">저장된 음악</string>
     <string name="local_music">오프라인</string>
     <string name="local_music_is_not_available">로컬 음악을 사용할 수 없습니다.</string>
-    <string name="local_page_album_more">전체보기</string>
+    <string name="local_page_album_more">전체 보기</string>
     <string name="local_page_artist_more">%s 추가 설정</string>
     <string name="local_page_playlist">나의 재생목록</string>
     <string name="local_page_song_download_history">다운로드</string>

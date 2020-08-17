@@ -505,7 +505,7 @@
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
     <string name="abc_action_mode_done">완료</string>
-    <string name="abc_activity_chooser_view_see_all">전체보기</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
     <string name="abc_capital_off">끔</string>
     <string name="abc_capital_on">켬</string>

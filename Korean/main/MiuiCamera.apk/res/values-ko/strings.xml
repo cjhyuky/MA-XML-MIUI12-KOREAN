@@ -96,7 +96,7 @@
     <string name="mimoji_gif_record_time_short">녹화된 영상이 너무 짧습니다.</string>
     <string name="pro_color_mode">프로 컬러 모드</string>
     <string name="super_night_se_tip">야간 모드</string>
-    <string name="video_beauty_tip_beautification">꾸미기</string>
+    <string name="video_beauty_tip_beautification">필터</string>
     <string name="document_mode_use_hint_text_body">"문서 모드, 스마트 보정 기능을 활성화합니다
 원터치로 문서를 스캔합니다."</string>
     <string name="document_mode_use_hint_text_title">문서 모드</string>
@@ -1409,12 +1409,12 @@
     <string name="accessibility_eis_normal">EIS 켜짐</string>
     <string name="accessibility_eis_off">EIS 꺼짐</string>
     <string name="accessibility_eis_pro">EIS 프로 켜짐</string>
-    <string name="pref_camera_eis_entry_normal">EIS 켜짐</string>
+    <string name="pref_camera_eis_entry_normal">손떨림 방지</string>
     <string name="pref_camera_eis_entry_off">꺼짐</string>
-    <string name="pref_camera_eis_entry_pro">EIS 프로 켜짐</string>
-    <string name="pref_camera_eis_title">EIS</string>
-    <string name="super_eis_pro">스태디 동영상 프로</string>
-    <string name="super_eis_pro_disabled_hint">스태디 동영상 프로 꺼짐</string>
+    <string name="pref_camera_eis_entry_pro">손떨림 방지 프로</string>
+    <string name="pref_camera_eis_title">손떨림 방지</string>
+    <string name="super_eis_pro">동영상 손떨림 방지 프로</string>
+    <string name="super_eis_pro_disabled_hint">동영상 손떨림 방지 프로 꺼짐</string>
     <string name="clone_do_not_move_phone">"기기를 움직이지 마세요"</string>
     <string name="clone_guide_tip1">복사는 인물에만 적용됩니다.</string>
     <string name="clone_guide_tip3">움직이는 물체와 모노톤 배경을 피하세요.</string>
@@ -1648,4 +1648,6 @@
     <string name="ai_scene_mode_tower">탑</string>
     <string name="ai_scene_mode_tutuk">삼륜차</string>
     <string name="ai_scene_mode_unknown">알 수 없음</string>
+    <string name="pano_click_to_toggle_direction">방향을 전환하려면 화살표를 탭하세요.</string>
+    <string name="pano_go_on_moving">휴대전화를 화살표 방향으로 일정하게 움직이세요.</string>
 </resources>
