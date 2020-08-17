@@ -25,7 +25,7 @@
         <item quantity="other">%1$d 걸음</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%1$d 시간</item>
+        <item quantity="other">%1$d시간</item>
     </plurals>
     <plurals name="last_measure_date_interval">
         <item quantity="other">%1$d 일 전 마지막 측정</item>
@@ -46,16 +46,16 @@
         <item quantity="other">%1$d 일 뒤 다음 월경</item>
     </plurals>
     <plurals name="minutes">
-        <item quantity="other">%1$d 분</item>
+        <item quantity="other">%1$d분</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d개 새로운 알림</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
-        <item quantity="other">목표: %1$d 시간</item>
+        <item quantity="other">목표: %1$d시간</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">"현재 설정은 귀하에게 하루 %1$d 시간의 수면을 보장하지는 않습니다. 더 많이 필요합니다."</item>
+        <item quantity="other">"현재 설정은 귀하에게 하루 %1$d시간의 수면을 보장하지는 않습니다. 더 많이 필요합니다."</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d 걸음</item>

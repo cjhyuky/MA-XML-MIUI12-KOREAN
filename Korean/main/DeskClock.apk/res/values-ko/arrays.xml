@@ -62,8 +62,8 @@
         <item>5분</item>
         <item>10분</item>
         <item>15분</item>
-        <item>20 분</item>
-        <item>25 분</item>
+        <item>20분</item>
+        <item>25분</item>
         <item>30분</item>
     </string-array>
     <string-array name="auto_silence_entries">

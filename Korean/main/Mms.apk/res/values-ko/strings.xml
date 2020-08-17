@@ -355,7 +355,7 @@
     <string name="menu_forward">전달</string>
     <string name="menu_lock">별</string>
     <string name="menu_mark">표시</string>
-    <string name="menu_more">더 보기</string>
+    <string name="menu_more">더보기</string>
     <string name="menu_new_contact">새 연락처</string>
     <string name="menu_new_manual">전화번호 입력</string>
     <string name="menu_pick_from_contact">연락처에서 선택</string>
@@ -395,10 +395,10 @@
     <string name="msg_type_hint_mx_omit">Mi 메시지</string>
     <string name="msg_type_hint_sms">문자 메시지</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
-    <string name="msglist_continue_to_pull_for_more">아래로 당겨 더 보기</string>
+    <string name="msglist_continue_to_pull_for_more">아래로 당겨 더보기</string>
     <string name="msglist_more_refreshing">새로고침 중…</string>
     <string name="msglist_no_more_to_refresh">이미 최신 상태임</string>
-    <string name="msglist_release_to_more">놓아서 더 보기</string>
+    <string name="msglist_release_to_more">놓아서 더보기</string>
     <string name="multimedia_message">MMS 메시지</string>
     <string name="multimedia_notification">MMS 메시지 알림</string>
     <string name="mx2_type_description">[%s]</string>
@@ -617,7 +617,7 @@
     <string name="search_label">메시지</string>
     <string name="search_path_mms">설정/시스템 앱/메시지</string>
     <string name="search_setting_description">메시지의 텍스트</string>
-    <string name="search_show_more_results">더 보기</string>
+    <string name="search_show_more_results">더보기</string>
     <string name="search_title_mms">메시지</string>
     <string name="second_mms_introduction">보조 공간으로 이동</string>
     <string name="second_mms_switch">전환</string>

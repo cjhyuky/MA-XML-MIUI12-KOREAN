@@ -82,7 +82,7 @@
     <string name="cit_miss">실패!!!</string>
     <string name="cit_pass">성공!!!</string>
     <string name="cit_success">CIT 플래그 쓰기 성공!</string>
-    <string name="cit_warn">CIT 바코드를 쓰고 있습니다. 5 초를 기다려주세요.</string>
+    <string name="cit_warn">CIT 바코드를 쓰고 있습니다. 5초를 기다려주세요.</string>
     <string name="clean_state">테스트 상태 정리</string>
     <string name="compare_result">성공을 비교하세요!</string>
     <string name="control_center_quit_confirm">종료하시겠습니까?</string>
@@ -286,8 +286,8 @@
     <string name="lightsensor_name">광 센서</string>
     <string name="low_battery_tips">배터리 용량 부족으로 인해 플래시를 켤 수 없습니다.</string>
     <string name="ls_name">라이트 센서 (PcbaTest)</string>
-    <string name="lscalib_hint">보정 버튼을 클릭하고 휴대전화를 라이트 박스에 넣고 15 초 후에 전화를 꺼냅니다.</string>
-    <string name="lscalib_hint_dark">보정 버튼을 클릭하고 휴대전화를 라이트 박스에 넣고 5 초 후에 전화를 꺼냅니다.</string>
+    <string name="lscalib_hint">보정 버튼을 클릭하고 휴대전화를 라이트 박스에 넣고 15초 후에 전화를 꺼냅니다.</string>
+    <string name="lscalib_hint_dark">보정 버튼을 클릭하고 휴대전화를 라이트 박스에 넣고 5초 후에 전화를 꺼냅니다.</string>
     <string name="lsensor_name_calibrate1">광 센서 보정</string>
     <string name="lsensor_name_calibrate2">광 센서 보정 다크</string>
     <string name="lsensor_title_dark">어두운 조건 교정</string>

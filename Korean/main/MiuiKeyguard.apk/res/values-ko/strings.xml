@@ -61,7 +61,7 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
     <string name="input_password_handle_sdcard_fs">보조 공간 진입 전 \"모의 SD 카드 최적화\"를 종료하세요.</string>
     <string name="accessibility_enter_lock_wallpaper">탭하여 음악 재생</string>
-    <string name="lock_wallpaper_learn_more">더 보기</string>
+    <string name="lock_wallpaper_learn_more">더보기</string>
     <string name="lock_wallpaper_enter">입력</string>
     <string name="custom_lock_wallpaper_enter">입력</string>
     <string name="fingerprint_enter_second_psw_title">보조 공간 비밀번호 입력</string>

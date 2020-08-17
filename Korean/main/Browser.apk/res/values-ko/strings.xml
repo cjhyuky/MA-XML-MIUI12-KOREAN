@@ -3,7 +3,7 @@
     <string name="vo_mi_ad_detail">%s로 열기</string>
     <string name="abc_action_bar_home_description">홈으로</string>
     <string name="abc_action_bar_up_description">위로</string>
-    <string name="abc_action_menu_overflow_description">더 보기</string>
+    <string name="abc_action_menu_overflow_description">더보기</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_action_mode_select_all">전체 선택</string>
     <string name="abc_activity_chooser_view_see_all">모두 보기</string>
@@ -448,7 +448,7 @@
     <string name="homepage_get_location">위치 가져오기</string>
     <string name="homepage_get_location_failed">위치 정보를 가져오지 못했습니다. 도시를 선택하세요.</string>
     <string name="homepage_more_cards">더 많은 서비스</string>
-    <string name="homepage_more_sites">웹사이트 더 보기</string>
+    <string name="homepage_more_sites">웹사이트 더보기</string>
     <string name="homepage_search_hint">검색</string>
     <string name="homepage_top_card_menu">상단</string>
     <string name="hot_word_item_mark_ads_text">광고</string>
@@ -516,13 +516,13 @@
     <string name="miuishare_publish">전송</string>
     <string name="miuishare_share_done">공유됨</string>
     <string name="miuishare_share_editor_title">공유</string>
-    <string name="miuishare_title_more">더 보기</string>
+    <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
     <string name="miuishare_wechat_timeline_title">Wechat 타임라인</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">이 경로를 변경하려면 SD 카드가 필요합니다.</string>
     <string name="more_description">메뉴</string>
-    <string name="more_option">옵션 더 보기</string>
+    <string name="more_option">옵션 더보기</string>
     <string name="movie_player_3g_tip_retry">계속하기</string>
     <string name="movie_player_loading">출시：%s</string>
     <string name="mw_abc_action_bar_home_description">홈 화면으로 이동</string>
@@ -1277,7 +1277,7 @@
     <string name="suggest_open_app_failed">이 앱을 열지 못했습니다.</string>
     <string name="suggestion_clear_item_message">이 검색 기록을 지우시겠습니까?</string>
     <string name="suggestion_clear_record_message">아무것도 입력된 것이 없습니다.</string>
-    <string name="suggestion_express_button_query_more">더 보기</string>
+    <string name="suggestion_express_button_query_more">더보기</string>
     <string name="suggestion_express_button_text_query">조회</string>
     <string name="suggestion_express_exception_net">네트워크가 비정상입니다. 네트워크 연결을 확인하세요.</string>
     <string name="suggestion_express_exception_number">번호가 잘못되었습니다. 관련 번호를 확인하세요.</string>
@@ -1296,7 +1296,7 @@
     <string name="suggestion_more_news">더 많은 뉴스</string>
     <string name="suggestion_more_news_start_title_text">관련 뉴스</string>
     <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
-    <string name="suggestion_sliding_item_more_text">더 보기</string>
+    <string name="suggestion_sliding_item_more_text">더보기</string>
     <string name="suggestion_topic_subtitle_hyphen">포커스</string>
     <string name="suggestion_translation_more">다른 번역 보기</string>
     <string name="switch_proxy_dialog_msg">네트워크 도용이 감지되었습니다. MIUI의 내장 보안 앱 사용 또는 모바일 사업자에게 신고하세요.</string>

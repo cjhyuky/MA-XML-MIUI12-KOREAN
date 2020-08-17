@@ -84,7 +84,7 @@
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>
     <string name="intro_midrop">Mi Drop</string>
-    <string name="intro_page1_text1">가까이있는 기기와 파일 공유하기</string>
+    <string name="intro_page1_text1">가까이 있는 기기와 파일 공유하기</string>
     <string name="intro_page1_text2">지금은 예전보다 더욱 쉬워졌습니다.</string>
     <string name="intro_page2_click_to_send">\"전송\"을 탭</string>
     <string name="intro_page2_choose_files">파일을 선택하시고 \"전송\"을 탭하세요.</string>

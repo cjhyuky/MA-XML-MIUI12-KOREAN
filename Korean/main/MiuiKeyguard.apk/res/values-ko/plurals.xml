@@ -34,12 +34,12 @@
         <item quantity="other">약 %1$d시간 %2$d분 남음</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%d 시간</item>
+        <item quantity="other">%d시간</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d 분</item>
+        <item quantity="other">%d분</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d 시간 %2$d 분</item>
+        <item quantity="other">%1$d시간 %2$d분</item>
     </plurals>
 </resources>

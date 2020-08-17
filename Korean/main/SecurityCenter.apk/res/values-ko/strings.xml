@@ -978,7 +978,7 @@
     <string name="ew_guide_next_text">다음</string>
     <string name="ew_guide_play_audio">경고음 재생</string>
     <string name="ew_guide_play_audio_last">경고음 재생 (%d초)</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;사용자가 지진 경고 기능을 활성화 할 때마다 Xiaomi 및 그 계열사(이하 Xiaomi)와 법적 구속력이 있는 계약을 체결합니다. 이 기능을 사용함으로써 귀하는이 고지 사항을 읽었으며이 고지 사항의 전체 내용을 완전히 이해하고 이에 동의합니다. 이 고지 사항에 동의하지 않으면 즉시 지진 경고 기능을 해제해야 합니다. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 특별 진술 &amp;lt;b&amp;gt; 관련 법규에 따라 지진 조기 경보 서비스는 관련 정부 부서에서 승인 한 지역에만 제공됩니다. 즉, 지진 경고 기능을 켜고 장치가 승인된 지역에 있으면 지진 경고 서비스를받을 수 있습니다. 현재 지진 경보 서비스가 제공되는 지역 목록을 확인할 수 있습니다. 앞으로 더 많은 지역이 지원 될 예정입니다. 계속 지켜봐주세요! &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 고지 사항 &amp;lt;b&amp;gt; 보안 앱은 지진 경고 기능을 제공합니다. 지진 경보 정보는 정부 조기 경보 기관에서 제공한다는 것을 이해해야 합니다. Xiaomi는 그러한 기관을 감독하지 않으며 그 기관을 통제할 수 없습니다. &amp;lt;br&amp;gt; Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족한다고 보장하지도 않습니다. 지진 경고 정보를 받으려면 장치를 모바일 네트워크에 연결되어 있어야합니다. 타사 통신 회선 장애, 기술 문제, 네트워크 또는 터미널 장비 장애, 시스템 불안정성 및 기타 다양한 불가항력 이벤트로 인해 지진 경고 정보를 받지 못할 수 있습니다. Xiaomi는 그러한 사건으로 인한 손실에 대해 책임을 지지 않습니다. &amp;lt;br&amp;gt; 이 기능은 참조용으로만 제공됨을 이해해야 합니다. 이 기능이 제공하는 정보를 기반으로 수행한 모든 작업의 위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다. &amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
+    <string name="ew_guide_statement_text">&lt;Data&gt;사용자가 지진 경고 기능을 활성화 할 때마다 Xiaomi 및 그 계열사(이하 Xiaomi)와 법적 구속력이 있는 계약을 체결합니다. 이 기능을 사용함으로써 귀하는 이 고지 사항을 읽었으며이 고지 사항의 전체 내용을 완전히 이해하고 이에 동의합니다. 이 고지 사항에 동의하지 않으면 즉시 지진 경고 기능을 해제해야 합니다. &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 특별 진술 &amp;lt;b&amp;gt; 관련 법규에 따라 지진 조기 경보 서비스는 관련 정부 부서에서 승인 한 지역에만 제공됩니다. 즉, 지진 경고 기능을 켜고 장치가 승인된 지역에 있으면 지진 경고 서비스를받을 수 있습니다. 현재 지진 경보 서비스가 제공되는 지역 목록을 확인할 수 있습니다. 앞으로 더 많은 지역이 지원 될 예정입니다. 계속 지켜봐주세요! &amp;lt;br&amp;gt; &amp;lt;b&amp;gt; 고지 사항 &amp;lt;b&amp;gt; 보안 앱은 지진 경고 기능을 제공합니다. 지진 경보 정보는 정부 조기 경보 기관에서 제공한다는 것을 이해해야 합니다. Xiaomi는 그러한 기관을 감독하지 않으며 그 기관을 통제할 수 없습니다. &amp;lt;br&amp;gt; Xiaomi는 지진 경고 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며 지진 경고 서비스가 모든 요구를 충족한다고 보장하지도 않습니다. 지진 경고 정보를 받으려면 장치를 모바일 네트워크에 연결되어 있어야합니다. 타사 통신 회선 장애, 기술 문제, 네트워크 또는 터미널 장비 장애, 시스템 불안정성 및 기타 다양한 불가항력 이벤트로 인해 지진 경고 정보를 받지 못할 수 있습니다. Xiaomi는 그러한 사건으로 인한 손실에 대해 책임을 지지 않습니다. &amp;lt;br&amp;gt; 이 기능은 참조용으로만 제공됨을 이해해야 합니다. 이 기능이 제공하는 정보를 기반으로 수행한 모든 작업의 위험과 결과에 대한 책임은 전적으로 귀하에게 있습니다. &amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
     <string name="ew_guide_tips_1">다가오는 지진에 대한 알림을 받고 경고음이 들립니다.</string>
     <string name="ew_guide_tips_2">지진 발생시 정보 및 경고음이 업데이트됩니다.</string>
     <string name="ew_guide_tips_3">가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다.</string>
@@ -1681,12 +1681,12 @@
     <string name="modify_password_mode">&lt;u&gt;비밀번호 유형 변경&lt;/u&gt;</string>
     <string name="modifypassword">비밀번호 변경</string>
     <string name="monitor_app_add">추가</string>
-    <string name="monitor_app_more">더 보기</string>
+    <string name="monitor_app_more">더보기</string>
     <string name="monitor_requests_from_pc">USB로 설치한 앱 관리</string>
     <string name="more_game">더 많은 게임</string>
     <string name="more_lock">자세히 보기</string>
     <string name="more_setting_summary">빨간 봉투 알림 유형, 바탕 화면 플로팅 창 지원, 시간 등을 방해하지 마세요.</string>
-    <string name="more_settings">더 보기</string>
+    <string name="more_settings">더보기</string>
     <string name="name">이름</string>
     <string name="net_booster">네트워크 스피드 부스트</string>
     <string name="net_booster_expire_notification">네트워크 가속 세션 만료 알림</string>
@@ -1999,7 +1999,7 @@
     <string name="power_main_battery_last_hour_minute">%1$s시간 %2$s분 남음</string>
     <string name="power_optimize_auto_catagory_title">배터리 문제</string>
     <string name="power_optimize_battery_save_idea">배터리 최적화</string>
-    <string name="power_optimize_battery_save_more">더 보기</string>
+    <string name="power_optimize_battery_save_more">더보기</string>
     <string name="power_optimize_brightness">화면 밝기</string>
     <string name="power_optimize_btn_text_fixed">최적화됨</string>
     <string name="power_optimize_catagory_fixed_title">최적화됨</string>

@@ -374,7 +374,7 @@
     <string name="settings_set_password_for_owner_space">첫 번째 공간에서 화면 잠금 설정</string>
     <string name="settings_set_password_for_owner_space_desc">첫 번째 공간에서 화면 잠금을 설정하여 설정에서 바로가기를 제거하세요.</string>
     <string name="settings_set_password_for_sec_space">보조 공간의 화면 잠금 설정</string>
-    <string name="settings_set_password_for_sec_space_desc">두 번째 공간에서 화면 잠금을 설정하여 설정에서 바로가기를 제거하세요.</string>
+    <string name="settings_set_password_for_sec_space_desc">보조 공간에서 화면 잠금을 설정하여 설정에서 바로가기를 제거하세요.</string>
     <string name="settings_switch_space">하나의 휴대전화를 두 기기처럼 사용하기</string>
     <string name="space_create_guide_desc_1">앱 및 사진 따로 보관</string>
     <string name="space_create_guide_desc_2">보조 공간 사용 가능</string>
@@ -394,14 +394,14 @@
     <string name="green_guard_title3">앱 관리</string>
     <string name="need_network_when_bind">기기를 추가하기 전에 네트워크에 연결하세요.</string>
     <string name="encrypt_space_delete_dialog_click_message">"*데이터 이동이 필요 없다면, %s"</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">두 번째 공간을 삭제하고 생성하세요..</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">보조 공간을 삭제하고 생성하세요..</string>
     <string name="encrypt_space_delete_dialog_message">"Android를 업데이트합니다. 업데이트 후 보조 공간에 접근할 수 없습니다. 이를 피하려면 모든 데이터를 메인 저장소로 이동하고 보조 공간을 삭제한 다음 다시 보조 공간을 생성하세요."</string>
     <string name="encrypt_space_delete_dialog_positive_text">데이터 이동</string>
     <string name="encrypt_space_delete_dialog_title">주의</string>
-    <string name="encrypt_space_delete_notification_message">두 번째 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하세요.</string>
+    <string name="encrypt_space_delete_notification_message">보조 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하세요.</string>
     <string name="encrypt_space_delete_notification_title">보조 공간</string>
-    <string name="entrance_reopen_toast_msg">다른 비밀번호 유형으로 인한 두 번째 공간 바로가기 표시</string>
-    <string name="reset_password_dialog_message">"첫 번째 공간과 두 번째 공간에 다른 비밀번호 유형을 사용하고 있습니다. 두 번째 공간은 첫 번째 공간과 동일한 비밀번호 유형을 사용하여 바로가기를 숨겨야합니다."</string>
+    <string name="entrance_reopen_toast_msg">다른 비밀번호 유형으로 인한 보조 공간 바로가기 표시</string>
+    <string name="reset_password_dialog_message">"첫 번째 공간과 보조 공간에 다른 비밀번호 유형을 사용하고 있습니다. 보조 공간은 첫 번째 공간과 동일한 비밀번호 유형을 사용하여 바로가기를 숨겨야합니다."</string>
     <string name="reset_password_dialog_positve_btn_title">변경</string>
     <string name="reset_password_dialog_title">"보조 공간 바로가기 숨김처리 불가능"</string>
     <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>
@@ -444,7 +444,7 @@
     <string name="install">설치</string>
     <string name="install_error">"다시 설치할 수 없습니다."</string>
     <string name="menu_item_about_privacy_title">개인정보 보호 정책</string>
-    <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 두 번째 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
+    <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 보조 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="confirm_close_password_title">비밀번호 끄기</string>
     <string name="xspace_remove">"듀얼 앱 계정 삭제"</string>
     <string name="greenguard_child_des">친구들과 가족의 기기를 관리해보세요.</string>

@@ -53,10 +53,10 @@
         <item quantity="other">%1$d-분 미리보기가 가능합니다. 풀버전을 보시려면, &lt;Data>&lt;font color=#ffa201>바로 구입하세요&lt;/font>&lt;/Data>.</item>
     </plurals>
     <plurals name="hours_before">
-        <item quantity="other">%d 시간 전</item>
+        <item quantity="other">%d시간 전</item>
     </plurals>
     <plurals name="minites_before">
-        <item quantity="other">%d 분 전</item>
+        <item quantity="other">%d분 전</item>
     </plurals>
     <plurals name="open_comments">
         <item quantity="other">%d개의 댓글 보기</item>

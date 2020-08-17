@@ -4,7 +4,7 @@
     <string name="accessibility_detail_switch_disable">해당 없음</string>
     <string name="accessibility_detail_switch_off">꺼짐</string>
     <string name="accessibility_detail_switch_on">켜짐</string>
-    <string name="accessibility_expand_button">더 보기</string>
+    <string name="accessibility_expand_button">더보기</string>
     <string name="alipayscan_description_talkback">알리페이 스캐너</string>
     <string name="alipay_description_talkback">알리페이 결제</string>
     <string name="alipay_title">결제</string>
@@ -799,7 +799,7 @@
     <string name="face_data_manage_delete_msg">얼굴 데이터 삭제</string>
     <string name="face_data_manage_delete_sure">데이터 삭제 후 얼굴 데이터를 사용하여 기기를 잠금해제하실 수 없습니다.</string>
     <string name="face_data_manage_delete_title">얼굴 데이터</string>
-    <string name="face_data_manage_unlock_liftcamera_msg">화면을 켜고 위쪽으로 슬라이드하면 페이스언락을 사용할 수 있습니다.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">화면을 켜고 위쪽으로 슬라이드하면 얼굴인식 잠금해제을 사용할 수 있습니다.</string>
     <string name="face_data_manage_unlock_msg">얼굴 데이터를 사용하여 기기를 잠금해제합니다.</string>
     <string name="face_data_manage_unlock_slide_msg">슬라이더 바로가기를 얼굴인식 잠금해제로 대체</string>
     <string name="face_data_manage_unlock_title">얼굴 데이터를 사용하여 잠금해제</string>
@@ -816,7 +816,7 @@
     <string name="face_unlock_down">머리를 들어주세요.</string>
     <string name="face_unlock_fail">얼굴인식 실패</string>
     <string name="face_unlock_fail_retry">얼굴을 식별할 수 없습니다. 위쪽을 터치하면 다시할 수 있습니다.</string>
-    <string name="face_unlock_fail_retry_global">페이스언락을 사용하려면 위쪽을 터치하세요.</string>
+    <string name="face_unlock_fail_retry_global">얼굴인식 잠금해제을 사용하려면 위쪽을 터치하세요.</string>
     <string name="face_unlock_identify_error">인식 오류 발생</string>
     <string name="face_unlock_not_found">인식 실패</string>
     <string name="face_unlock_not_roi">프레임안에 얼굴을 두세요.</string>
@@ -1075,8 +1075,8 @@
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="kg_enter_confirm_pin_hint">원하는 PIN 코드 확인</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 업무 프로필 및 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 업무 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 직장 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.\n\n %d초 후에 다시 시도하세요.</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. %d회 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 사라집니다.</string>
     <string name="kg_failed_attempts_now_erasing_profile">잘못된 비밀번호를 %1d번 입력했습니다. 개인 데이터가 삭제됩니다.</string>
@@ -1213,8 +1213,8 @@
     <string name="monitoring_button_view_policies">정책 보기</string>
     <string name="monitoring_description_app">이메일, 앱, 웹 사이트를 포함한 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
     <string name="monitoring_description_app_personal">이메일, 앱, 웹 사이트를 포함한 개인 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
-    <string name="monitoring_description_app_personal_work">업무용 프로필은 %1$s에 의해 관리됩니다. 프로필이 이메일, 앱, 웹 사이트를 포함한 직장 네트워크 활동을 모니터링 할 수 있는 %2$s에 연결되었습니다. \n\n 또한 개인 네트워크 활동을 모니터링 할 수 있는 %3$에 연결되어 있습니다.</string>
-    <string name="monitoring_description_app_work">업무용 프로필은 %1$s에 의해 관리됩니다. 프로필이 %2$s에 연결되어있어 이메일, 앱, 웹 사이트 등 직장 네트워크 활동을 모니터링 할 수 있습니다. \n\n 자세한 정보는 관리자에게 문의하세요.</string>
+    <string name="monitoring_description_app_personal_work">직장 프로필은 %1$s에 의해 관리됩니다. 프로필이 이메일, 앱, 웹 사이트를 포함한 직장 네트워크 활동을 모니터링 할 수 있는 %2$s에 연결되었습니다. \n\n 또한 개인 네트워크 활동을 모니터링 할 수 있는 %3$에 연결되어 있습니다.</string>
+    <string name="monitoring_description_app_work">직장 프로필은 %1$s에 의해 관리됩니다. 프로필이 %2$s에 연결되어있어 이메일, 앱, 웹 사이트 등 직장 네트워크 활동을 모니터링 할 수 있습니다. \n\n 자세한 정보는 관리자에게 문의하세요.</string>
     <string name="monitoring_description_ca_cert_settings">신뢰할 수 있는 자격증명 열기</string>
     <string name="monitoring_description_ca_certificate">이 장치에는 인증서가 설치되어 있습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_do_body">관리자는 설정, 회사 액세스, 앱, 기기와 연결된 데이터 및 기기의 위치 정보를 모니터링하고 관리할 수 ​​있습니다.</string>
@@ -1222,8 +1222,8 @@
     <string name="monitoring_description_do_header_generic">귀하의 장치는 %1$s에 의해 관리됩니다.</string>
     <string name="monitoring_description_do_header_with_name">%1$s님이 %2$s 기기를 사용하여 장치를 관리합니다.</string>
     <string name="monitoring_description_do_learn_more">자세히 알아보기</string>
-    <string name="monitoring_description_managed_profile_ca_certificate">조직에서 업무용 프로필에 인증서를 설치했습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
-    <string name="monitoring_description_managed_profile_named_vpn">업무용 프로필이 이메일, 앱, 웹사이트 등 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">조직에서 직장 프로필에 인증서를 설치했습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
+    <string name="monitoring_description_managed_profile_named_vpn">직장 프로필이 이메일, 앱, 웹사이트 등 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
     <string name="monitoring_description_management">이 기기는 귀하의 조직에서 관리합니다. 관리자는 설정, 회사 액세스, 앱, 기기와 연결된 데이터 및 기기의 위치 정보를 모니터링하고 관리할 수 있습니다. 자세한 정보는 관리자에게 문의하세요.</string>
     <string name="monitoring_description_management_ca_certificate">귀하의 조직에서 기기에 인증서를 설치했습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_management_network_logging">관리자가 기기의 트래픽을 모니터링하는 네트워크 로깅을 사용하도록 설정했습니다.</string>
@@ -1233,7 +1233,7 @@
     <string name="monitoring_description_personal_profile_named_vpn">개인 프로필이 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s에 연결되어 있습니다.</string>
     <string name="monitoring_description_two_named_vpns">이 기기는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s와 %2$s에 연결되어 있습니다.</string>
     <string name="monitoring_description_vpn">앱에 VPN 연결 설정 권한을 부여했습니다. \n\n이 앱은 이메일, 앱, 웹 사이트를 포함한 기기 및 네트워크 활동을 모니터링 할 수 있습니다.</string>
-    <string name="monitoring_description_vpn_profile_owned">업무용 프로필은 %1$s에 의해 관리됩니다. \n\n 관리자는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링 할 수 있습니다. \n\n 자세한 정보는 관리자에게 문의하세요. \n\n 또한 네트워크 활동을 모니터링 할 수 있는 VPN에 연결되어 있습니다.</string>
+    <string name="monitoring_description_vpn_profile_owned">직장 프로필은 %1$s에 의해 관리됩니다. \n\n 관리자는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링 할 수 있습니다. \n\n 자세한 정보는 관리자에게 문의하세요. \n\n 또한 네트워크 활동을 모니터링 할 수 있는 VPN에 연결되어 있습니다.</string>
     <string name="monitoring_description_vpn_settings">VPN 설정 열기</string>
     <string name="monitoring_subtitle_ca_certificate">CA 인증서</string>
     <string name="monitoring_subtitle_network_logging">네트워크 로깅</string>
@@ -1429,14 +1429,14 @@
     <string name="quick_settings_connect_success">연결됨</string>
     <string name="quick_settings_connected">연결됨</string>
     <string name="quick_settings_connecting">연결</string>
-    <string name="quick_settings_disclosure_managed_profile_monitoring">조직에서 업무용 프로필의 네트워크 트래픽을 모니터링 할 수 있습니다.</string>
-    <string name="quick_settings_disclosure_managed_profile_named_vpn">업무 프로필 %1$s에 연결됨</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">조직에서 직장 프로필의 네트워크 트래픽을 모니터링 할 수 있습니다.</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">직장 프로필 %1$s에 연결됨</string>
     <string name="quick_settings_disclosure_management">조직에서 기기를 관리합니다.</string>
     <string name="quick_settings_disclosure_management_monitoring">조직에서 이 기기를 관리하고 네트워크 트래픽을 모니터링할 수 있습니다.</string>
     <string name="quick_settings_disclosure_management_named_vpn">기기가 조직에서 관리되고 %1$s에 연결됩니다.</string>
     <string name="quick_settings_disclosure_management_vpns">장치는 조직에서 관리하며 VPN에 연결됩니다.</string>
     <string name="quick_settings_disclosure_monitoring">네트워크 모니터링 가능</string>
-    <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s이 업무용 프로필의 네트워크 트래픽을 모니터링할 수 있습니다.</string>
+    <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s이 직장 프로필의 네트워크 트래픽을 모니터링할 수 있습니다.</string>
     <string name="quick_settings_disclosure_named_management">기기가 %1$s에 의해 관리됨</string>
     <string name="quick_settings_disclosure_named_management_monitoring">%1$s이 기기를 관리하며 네트워크 트래픽을 모니터링할 수 있습니다.</string>
     <string name="quick_settings_disclosure_named_management_named_vpn">%1$s에 의해 관리되며 %2$s에 연결됨</string>
@@ -1698,7 +1698,7 @@
     <string name="status_bar_style_settings">알림</string>
     <string name="status_bar_use_physical_keyboard">물리 키보드</string>
     <string name="status_bar_volte_label">VoLTE</string>
-    <string name="status_bar_work">업무 프로필</string>
+    <string name="status_bar_work">직장 프로필</string>
     <string name="status_unavailable">사용불가</string>
     <string name="stream_accessibility">접근성</string>
     <string name="stream_alarm">알람</string>
@@ -2144,17 +2144,17 @@
     <string name="biometric_dialog_face_icon_description_confirmed">확인됨</string>
     <string name="biometric_dialog_face_icon_description_idle">다시 시도하세요.</string>
     <string name="biometric_dialog_failed_attempts_now_wiping_device">너무 많이 실패했습니다. 이 기기의 데이터가 삭제됩니다.</string>
-    <string name="biometric_dialog_failed_attempts_now_wiping_profile">너무 많이 실패했습니다. 이 업무용 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">너무 많이 실패했습니다. 이 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="biometric_dialog_failed_attempts_now_wiping_user">너무 많이 실패했습니다. 이 사용자가 삭제됩니다.</string>
     <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">데이터가 삭제됩니다.</string>
     <string name="biometric_dialog_last_password_attempt_before_wipe_device">다음 번에도 올바르지 않은 비밀번호를 입력 시, 이 기기의 데이터가 삭제됩니다.</string>
-    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">다음 번에도 올바르지 않은 비밀번호를 입력 시, 이 업무용 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">다음 번에도 올바르지 않은 비밀번호를 입력 시, 이 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="biometric_dialog_last_password_attempt_before_wipe_user">다음 번에도 올바르지 않은 비밀번호를 입력 시, 이 사용자가 삭제됩니다.</string>
     <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">다음 번에도 올바르지 않은 패턴을 입력 시, 이 기기의 데이터가 삭제됩니다.</string>
-    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">다음 번에도 올바르지 않은 패턴을 입력 시, 이 업무용 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">다음 번에도 올바르지 않은 패턴을 입력 시, 이 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">다음 번에도 올바르지 않은 패턴을 입력 시, 이 사용자가 삭제됩니다.</string>
     <string name="biometric_dialog_last_pin_attempt_before_wipe_device">다음 번에도 올바르지 않은 PIN을 입력 시, 이 기기의 데이터가 삭제됩니다.</string>
-    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">다음 번에도 올바르지 않은 PIN을 입력 시, 이 업무용 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">다음 번에도 올바르지 않은 PIN을 입력 시, 이 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="biometric_dialog_last_pin_attempt_before_wipe_user">다음 번에도 올바르지 않은 PIN을 입력 시, 이 사용자가 삭제됩니다.</string>
     <string name="biometric_dialog_now_wiping_dialog_dismiss">취소</string>
     <string name="biometric_dialog_tap_confirm">완료하려면 확인을 누르세요.</string>

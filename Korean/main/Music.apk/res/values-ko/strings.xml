@@ -329,8 +329,8 @@
     <string name="feed_back">피드백</string>
     <string name="file_not_found">파일이 존재하지 않습니다.</string>
     <string name="filter_by_duration">길이로</string>
-    <string name="filter_by_duration_max">%d 분</string>
-    <string name="filter_by_duration_min">%d 초</string>
+    <string name="filter_by_duration_max">%d분</string>
+    <string name="filter_by_duration_min">%d초</string>
     <string name="filter_by_duration_prefix">"보다 짧은 파일 숨기기 "</string>
     <string name="filter_by_duration_summary">길이가 짧은 오디오 파일 숨기기</string>
     <string name="filter_by_folder">폴더로</string>
@@ -438,7 +438,7 @@
     <string name="miuishare_no_network">네크워크에 연결할 수 없습니다.</string>
     <string name="miuishare_publish">보내기</string>
     <string name="miuishare_share_editor_title">공유</string>
-    <string name="miuishare_title_more">더 보기</string>
+    <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
     <string name="mobile_recommended_title">모바일 데이터 사용량</string>
     <string name="modify_lyric">가사 수정</string>
@@ -447,7 +447,7 @@
     <string name="modify_progress_helper">위나 아래로 스와이프하여 가사 진행 상황 조정</string>
     <string name="modify_song_info">노래 정보 수정</string>
     <string name="modify_song_info_success">노래 정보가 업데이트되었습니다.</string>
-    <string name="more">더 보기</string>
+    <string name="more">더보기</string>
     <string name="more_add_song_list">플레이리스트에 추가</string>
     <string name="more_milink_and_bluetooth">Mi 링크 및 블루투스</string>
     <string name="more_settings">고급 설정</string>
@@ -779,7 +779,7 @@
     <string name="cloud_new_user_guide_upload_sub_button">맞춤 업로드</string>
     <string name="cloud_new_user_guide_upload_subtitle">노래를 업로드하고 즐기세요!</string>
     <string name="cloud_space_fetch_error">클라우드 디스크 저장공간 오류 가져오기</string>
-    <string name="cloud_space_fetching">클라우드 디스크 저장공간 가져 오기</string>
+    <string name="cloud_space_fetching">클라우드 디스크 저장공간 가져오기</string>
     <string name="cloud_space_hint" formatted = "false">클라우드 디스크 저장공간 %.1fG/%.1fG</string>
     <string name="cloud_state_view_hint_scanning">노래 스캔중</string>
     <string name="continue_download">계속 다운로드</string>

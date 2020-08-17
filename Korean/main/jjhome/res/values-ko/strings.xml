@@ -228,7 +228,7 @@
     <string name="contact_call_not_connection">연결되지 않음</string>
     <string name="warin_phone_title_speak">스팸 전화로 신고되었습니다.</string>
     <string name="mms_message_center_title">Jeejen 알림</string>
-    <string name="text_sms_content_more">더 보기</string>
+    <string name="text_sms_content_more">더보기</string>
     <string name="text_sms_content_more_delete">삭제</string>
     <string name="text_sms_content_more_copy">복사</string>
     <string name="text_sms_content_more_copy_msg">복사됨</string>

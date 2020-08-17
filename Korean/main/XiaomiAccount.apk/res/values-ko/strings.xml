@@ -544,7 +544,7 @@ ID:%s
     <string name="passport_ticket_login_select_sim_card_cancel">취소</string>
     <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
-    <string name="abc_action_menu_overflow_description">옵션 더 보기</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
     <string name="abc_activity_chooser_view_see_all">모두 보기</string>

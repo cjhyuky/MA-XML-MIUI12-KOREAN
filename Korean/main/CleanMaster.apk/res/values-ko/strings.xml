@@ -338,7 +338,7 @@
     <string name="grabage_rank_title">오늘 삭제된 목록</string>
     <string name="flow_rank_title">데이터 사용량</string>
     <string name="hot_today">오늘의 인기 항목</string>
-    <string name="see_more">더 보기</string>
+    <string name="see_more">더보기</string>
     <string name="sponsored">스폰서</string>
     <string name="hints_deepclean_list_item_from">%s에서</string>
     <string name="deepclean_list_item_from_app">앱 스토어</string>

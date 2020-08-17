@@ -60,7 +60,7 @@
 휴대전화와 외부 모니터 (예 : TV)를 동일한 Wi-Fi 네트워크에 연결하거나 외부 모니터를 휴대전화의 핫스팟에 연결하세요. 그래도 문제가 해결되지 않으면 LeEco 캐스팅 앱을 TV에 설치하고 지침을 따르세요."</string>
     <string name="help_page_text_15">다른 기기에서 미라캐스트</string>
     <string name="help_page_text_16">Mi TV/Mi 프로젝터</string>
-    <string name="help_page_text_17">"Miracast를 수동으로 켜지 않고도 블루투스 기능이있는 대부분의 Mi TV 모델에서 Mi 전화의 항목을 투사 할 수 있습니다.
+    <string name="help_page_text_17">"Miracast를 수동으로 켜지 않고도 블루투스 기능이 있는 대부분의 Mi TV 모델에서 Mi 전화의 항목을 투사 할 수 있습니다.
 Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Miracast를 선택하세요."</string>
     <string name="help_page_text_17_1">Xiaomi 고객센터: 400-100-5678</string>
     <string name="help_page_text_18">삼성 TV</string>
@@ -99,7 +99,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="help_page_text_51">LeEco</string>
     <string name="help_page_text_52">먼저 장치에서 Miracast 기능이 지원되는지 확인하세요. 일부 모델의 경우 설정> 네트워크> 다중 화면> 무선 디스플레이에서이 기능을 켤 수 있습니다.</string>
     <string name="help_page_text_53">LeEco 고객센터 전화번호: 10109000</string>
-    <string name="help_page_text_55">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다. Miracast를 켜는 방법을 알아 보려면 아래 정보를 확인하세요.
+    <string name="help_page_text_55">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는 이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다. Miracast를 켜는 방법을 알아 보려면 아래 정보를 확인하세요.
 4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보하실 수 있습니다."</string>
     <string name="help_page_text_end">"여기에 표시되지 않은 TV 제조사는 직접 확인 부탁드립니다."</string>
     <string name="notification_rc_desc">스크린 캐스트에 가장 최적화된 Mi Box를 사용해보세요!</string>
@@ -136,7 +136,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
 2. Mi 기기에서 처음으로 사용하는 경우 확인 과정이 필요합니다.
 3. 3. Xiaomi 이외의 장치를 사용하려고하지만 사용 가능한 장치 목록에서 해당 장치를 찾을 수 없으면 다음과 같이 시도해보시기 바랍니다:
 휴대전화와 외부 모니터(예: TV)를 동일한 Wi-Fi 네트워크에 연결하거나 외부 모니터를 휴대전화의 핫스팟에 연결하세요."</string>
-    <string name="help_page_text_55_global">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다.
+    <string name="help_page_text_55_global">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는 이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다.
 4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보하실 수 있습니다."</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="dialog_nfc_cast_wifi_off">NFC를 사용하여 전송할 수 있도록 Wi-Fi를 켭니다. 지금 켜시겠습니까?</string>

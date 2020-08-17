@@ -99,7 +99,7 @@
     <string name="ims_band_settings_only_narrow_value">협대역만 지원</string>
     <string name="ims_band_settings_only_wide_value">광대역만 지원</string>
     <string name="ims_band_settings_wide_preferred_value">광대역 지원 우선</string>
-    <string name="auto_reject_toggle_summary">DDS 하위에 우선 순위가 높은 데이터 호출이있을 때 유휴 SIM 카드에서 수신 전화 자동 거부</string>
+    <string name="auto_reject_toggle_summary">DDS 하위에 우선 순위가 높은 데이터 호출이 있을 때 유휴 SIM 카드에서 수신 전화 자동 거부</string>
     <string name="auto_reject_toggle_title">수신전화 자동거부</string>
     <string name="rtt_visibility_toggle_summary">RTT 가시성 설정</string>
     <string name="rtt_visibility_toggle_title">RTT 가시성</string>

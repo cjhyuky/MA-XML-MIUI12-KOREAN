@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="miuishare_app_name">MIUI 공유</string>
-    <string name="miuishare_title_more">더 보기</string>
+    <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
     <string name="miuishare_account_login_ok">로그인</string>
     <string name="miuishare_account_activate_ok">활성화</string>

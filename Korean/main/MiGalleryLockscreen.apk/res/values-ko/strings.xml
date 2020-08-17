@@ -2,7 +2,7 @@
 <resources>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
-    <string name="abc_action_menu_overflow_description">더 보기</string>
+    <string name="abc_action_menu_overflow_description">더보기</string>
     <string name="abc_action_mode_done">마침</string>
     <string name="abc_activity_chooser_view_see_all">전체 보기</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
@@ -176,7 +176,7 @@
     <string name="find_psw">비밀번호 분실</string>
     <string name="from_migallerylockscreen">From 슬라이드형 배경화면</string>
     <string name="get_account_no_permission">로그인하기 전에 슬라이드형 배경화면이 이 기기의 계정에 액세스하도록 허용합니다.</string>
-    <string name="get_ph_ticket">코드 가져 오기</string>
+    <string name="get_ph_ticket">코드 가져오기</string>
     <string name="goto_sign_up">계정 만들기</string>
     <string name="history_list_no_data">여기에 항목이 없습니다.</string>
     <string name="hour_1">매 시간</string>
@@ -345,7 +345,7 @@
     <string name="resource_no_network_text">네트워크에 접속할 수 없습니다.</string>
     <string name="rv_with_footer_empty">아직 아무것도 없음</string>
     <string name="rv_with_footer_loading">잠시만 기다려주세요...</string>
-    <string name="rv_with_footer_pull_load_more">아래로 당겨 더 보기</string>
+    <string name="rv_with_footer_pull_load_more">아래로 당겨 더보기</string>
     <string name="save_hdpicture_in_favor">즐겨찾기에 있는 이미지를 고화질로 보기</string>
     <string name="save_picture_success">저장됨</string>
     <string name="save_to_album">갤러리에 성공적으로 저장되었습니다.</string>
@@ -529,7 +529,7 @@
  <string name="passport_reg_recycle_account_yes">네</string>
  <string name="passport_yes">네</string>
  <string name="pull_to_refresh_loading_label">잠시만 기다려주세요�</string>
- <string name="see_more_content">더 보기</string>
+ <string name="see_more_content">더보기</string>
  <string name="show_wallpaper_loop_entry_title">홈 화면 슬라이드 쇼</string>
  <string name="sst_morning_history_desc">이전 아침인사 보기</string>
  <string name="sst_morning_history_title">아침인사 히스토리</string>

@@ -369,7 +369,7 @@
     <string name="launch_setting_alipay_change">계정 전환</string>
     <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 알리페이 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
     <string name="launch_setting_alipay_change_posi">전환</string>
-    <string name="launch_setting_alipay_getversion">버전 번호 가져 오기</string>
+    <string name="launch_setting_alipay_getversion">버전 번호 가져오기</string>
     <string name="launch_setting_alipay_login">로그인</string>
     <string name="launch_setting_alipay_logout">로그아웃</string>
     <string name="launch_setting_alipay_logout_fail">"로그아웃하지 못했습니다."</string>
@@ -1095,7 +1095,7 @@
     <string name="payment_record_menu_select">선택</string>
     <string name="payment_record_new_lable">이전 구매내역 추가</string>
     <string name="payment_record_recent_title">최근 구매내역</string>
-    <string name="payment_record_show_more">더 보기</string>
+    <string name="payment_record_show_more">더보기</string>
     <string name="payment_report_failed_record_dialog_cancel">취소</string>
     <string name="payment_report_failed_record_dialog_message">"기능 향상을 위해 지불 실패한 내역을 보고합니다."<b>보내주신 내용은 퀵카드 성능개선에만 사용됩니다.</b></string>
     <string name="payment_report_failed_record_dialog_ok">보고</string>

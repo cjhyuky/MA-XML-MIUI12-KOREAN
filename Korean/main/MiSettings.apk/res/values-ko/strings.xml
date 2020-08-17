@@ -278,7 +278,7 @@
     <string name="usage_agree">동의</string>
     <string name="usage_exit">종료</string>
     <string name="usage_home_permission_account_summary">Xiaomi 계정에 로그인하고 화면 사용을 동기화하는 기능</string>
-    <string name="usage_home_permission_account_title">모바일 계정 권한 가져 오기</string>
+    <string name="usage_home_permission_account_title">모바일 계정 권한 가져오기</string>
     <string name="usage_home_permission_phone_summary">장치를 식별하기 위해 VAID를 수집</string>
     <string name="usage_home_permission_phone_title">전화 정보 권한 얻기</string>
     <string name="usage_home_premission_main_summary_new">"화면켜짐 시간 관리에 오신 것을 환영합니다.

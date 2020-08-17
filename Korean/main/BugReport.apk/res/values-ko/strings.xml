@@ -21,7 +21,7 @@
     <string name="catch_full_log_action_start">로그 생성</string>
     <string name="catch_full_log_add_original_photo">사진이나 짧은 영상 추가</string>
     <string name="catch_full_log_add_photo">사진 추가</string>
-    <string name="catch_full_log_add_photo_dialog_content">보고 할 문제가 카메라의 이미지 품질과 관련이있는 경우 원본 샘플 사진(잘리지 않음)을 추가하여 문제를 찾을 수 있도록 도와주세요. 지금 사진을 추가하시겠습니까?</string>
+    <string name="catch_full_log_add_photo_dialog_content">보고 할 문제가 카메라의 이미지 품질과 관련이 있는 경우 원본 샘플 사진(잘리지 않음)을 추가하여 문제를 찾을 수 있도록 도와주세요. 지금 사진을 추가하시겠습니까?</string>
     <string name="catch_full_log_dialog_confirm_text">홈 화면으로 이동</string>
     <string name="catch_full_log_dialog_content">MIUI가 로그를 생성하고 있는데 이는 기기의 전체 생산성에 영향을 미칠 수 있습니다.보고하려는 문제를 재현 할 수 없는 경우 로그로 돌아가서 \"취소\"를 탭하세요.</string>
     <string name="catch_full_log_dump_hprof_failed">지연 로그를 생성할 수 없습니다.</string>
@@ -63,7 +63,7 @@
     <string name="err_type_camera">카메라</string>
     <string name="err_type_hardware">하드웨어</string>
     <string name="err_type_hardware_summary">버튼, 충전, 센서 등</string>
-    <string name="err_type_more">더 보기</string>
+    <string name="err_type_more">더보기</string>
     <string name="err_type_nonsystemapp">기타 앱</string>
     <string name="err_type_power_consuming">전원 사용량</string>
     <string name="err_type_reboot">다시 시작</string>
@@ -266,9 +266,9 @@
     <string name="module_finance">금융 &amp; Mi 월렛</string>
     <string name="module_google_apps">Google 앱</string>
     <string name="module_item_less">숨김</string>
-    <string name="module_item_more">더 보기</string>
+    <string name="module_item_more">더보기</string>
     <string name="module_medias">미디어</string>
-    <string name="module_more">더 보기</string>
+    <string name="module_more">더보기</string>
     <string name="module_network">네트워크</string>
     <string name="module_search">검색</string>
     <string name="module_security">보안 &amp; Mi 클라우드</string>
@@ -296,7 +296,7 @@
     <string name="network_unavailable_dialog_title">네트워크에 연결할 수 없습니다.</string>
     <string name="non_system_app_select">다운로드한 앱</string>
     <string name="nothing">--</string>
-    <string name="open_feedback_main">더 보기</string>
+    <string name="open_feedback_main">더보기</string>
     <string name="packaging_dialog_content">보고서 작성 중…</string>
     <string name="passport_access_denied">접근 불가</string>
     <string name="passport_account_hint_text">이메일 주소 또는 Mi 계정 ID</string>
@@ -385,7 +385,7 @@
     <string name="passport_quick_login_dialog_title">비밀번호 확인</string>
     <string name="passport_quick_login_step2_title">2단계 인증</string>
     <string name="passport_quick_login_title">비밀번호를 입력하세요.</string>
-    <string name="passport_re_get_verify_code">코드 다시 가져 오기</string>
+    <string name="passport_re_get_verify_code">코드 다시 가져오기</string>
     <string name="passport_re_register">재가입</string>
     <string name="passport_recycle_account_prompt">이게 사용자의 Mi 계정입니까?</string>
     <string name="passport_reg_btn_using_other_phone">다른 전화번호를 사용하세요.</string>

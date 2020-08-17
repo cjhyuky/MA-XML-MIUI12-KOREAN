@@ -332,7 +332,7 @@
     <string name="menu_cell_setting">홈 화면 레이아웃</string>
     <string name="menu_auto_fill">빈 공간 채우기</string>
     <string name="menu_lock">홈 화면 레이아웃 잠금</string>
-    <string name="menu_more">더 보기</string>
+    <string name="menu_more">더보기</string>
     <string name="default_screen_preview_title">기본 화면으로 설정</string>
     <string name="action_add_to_workspace">워크 스페이스에 추가</string>
     <string name="edit_mode_group">그룹</string>
@@ -561,7 +561,7 @@
     <string name="all_app_category_work">업무용</string>
     <string name="work_mode_off_label">알림 및 앱이 꺼져 있습니다.</string>
     <string name="work_mode_on_label">조직에서 관리</string>
-    <string name="work_profile_toggle_label">업무용 프로필</string>
+    <string name="work_profile_toggle_label">직장 프로필</string>
     <string name="navigation_type_full_screen">제스처</string>
     <string name="navigation_type_title">시스템 내비게이션</string>
     <string name="navigation_type_virtual_key">버튼</string>

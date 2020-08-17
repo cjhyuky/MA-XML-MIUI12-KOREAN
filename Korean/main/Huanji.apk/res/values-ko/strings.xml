@@ -64,7 +64,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
 2. 새 장치의 핫스팟이 Mi Mover에 나타나지 않으면 Wi-Fi 설정을 열고 여기에 표시되는지 확인하세요. 연결되어 있다면 탭하지 마세요.
 3. Mi Mover로 돌아가서 핫스팟 이름을 누릅니다."</string>
     <string name="connection_tips_other_title">이전 기기가 타사 Android 전화 인 경우:</string>
-    <string name="connection_tips_owner_message">MI Mover는 MIUI 11을 실행하는 모든 장치에 사전 설치되어 있습니다. 이전 MIUI 버전이있는 경우 GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다: %1$s.</string>
+    <string name="connection_tips_owner_message">MI Mover는 MIUI 11을 실행하는 모든 장치에 사전 설치되어 있습니다. 이전 MIUI 버전이 있는 경우 GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다: %1$s.</string>
     <string name="connection_tips_owner_title">이전 기기가 Mi전화인 경우:</string>
     <string name="icloud_signin_fail">"로그인 실패"</string>
     <string name="icloud_signin_fail_message">보안상의 이유로 Apple ID가 잠겼습니다. iforgot.apple.com으로 이동하여 지침을 따르세요.</string>

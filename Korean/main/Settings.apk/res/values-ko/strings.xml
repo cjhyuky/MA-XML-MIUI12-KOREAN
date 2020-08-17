@@ -912,7 +912,7 @@
     <string name="bluetooth_ask_disablement">%1$s 장치가 블루투스 해제를 요청합니다.</string>
     <string name="bluetooth_ask_disablement_no_name">앱이 블루투스 해제를 요청합니다.</string>
     <string name="bluetooth_ask_discovery">%1$s 앱에서 %2$d초 동안 다른 블루투스 기기에 사용자의 휴대전화가 표시되도록 설정하려고 합니다.</string>
-    <string name="bluetooth_ask_discovery_no_name">"앱이 휴대전화를 %1$d 초 동안 다른 블루투스 기기에서 볼 수 있게 하려고 합니다. "</string>
+    <string name="bluetooth_ask_discovery_no_name">"앱이 휴대전화를 %1$d초 동안 다른 블루투스 기기에서 볼 수 있게 하려고 합니다. "</string>
     <string name="bluetooth_ask_enablement">%1$s 앱에서 블루투스를 사용하도록 설정하려고 합니다.</string>
     <string name="bluetooth_ask_enablement_and_discovery">%1$s 블루투스를 켜고 %2$d초 동안 휴대전화를 다른 기기에서 볼 수 있게 하려고 합니다.</string>
     <string name="bluetooth_ask_enablement_and_discovery_detected">" 블루투스를 켜서 %1$d초 동안 휴대전화를 다른 기기에 표시되게 하려 합니다."</string>
@@ -1970,7 +1970,7 @@
     <string name="device_info_settings">휴대전화 상태</string>
     <string name="device_internal_memory">내부 저장공간</string>
     <string name="device_memory">RAM</string>
-    <string name="device_miui_more">더 보기</string>
+    <string name="device_miui_more">더보기</string>
     <string name="device_miui_version">MIUI 버전</string>
     <string name="device_miui_version_for_POCO">MIUI 버전 (POCO를 위한)</string>
     <string name="device_miui_version_update">업데이트</string>
@@ -2362,7 +2362,7 @@
     <string name="enterprise_privacy_ca_certs">신뢰할 수 있는 자격증명</string>
     <string name="enterprise_privacy_ca_certs_device">신뢰 가능한 증명서</string>
     <string name="enterprise_privacy_ca_certs_personal">개인 프로필의 신뢰 가능한 증명서</string>
-    <string name="enterprise_privacy_ca_certs_work">업무 프로필의 신뢰 가능한 증명서</string>
+    <string name="enterprise_privacy_ca_certs_work">직장 프로필의 신뢰 가능한 증명서</string>
     <string name="enterprise_privacy_camera_access">카메라 접근 권한</string>
     <string name="enterprise_privacy_device_access_category">기기 접근 권한</string>
     <string name="enterprise_privacy_enterprise_data">이메일 및 캘린더 데이터 등이 포함되어 있습니다.</string>
@@ -2861,7 +2861,7 @@
     <string name="home_app_uninstall_button">애플리케이션 제거</string>
     <string name="home_key">홈</string>
     <string name="home_settings">홈</string>
-    <string name="home_work_profile_not_supported">업무용 프로필은 지원하지 않습니다.</string>
+    <string name="home_work_profile_not_supported">직장 프로필은 지원하지 않습니다.</string>
     <string name="hsa_code_null">인증코드는 비워 둘 수 없습니다.</string>
     <string name="hsa_input_hint">인증 코드 입력</string>
     <string name="hsa_input_tip">귀하의 Apple ID는 이중 보안설정 상태입니다. 확인 코드를 입력하세요.</string>
@@ -3253,7 +3253,7 @@
     <string name="lock_failed_attempts_before_wipe">다시 시도하세요. %2$d 시도 중 %2$d번째 시도입니다.</string>
     <string name="lock_failed_attempts_now_wiping_device">너무 많이 틀리셨습니다. 기기 데이터가 삭제됩니다.</string>
     <string name="lock_failed_attempts_now_wiping_dialog_dismiss">삭제</string>
-    <string name="lock_failed_attempts_now_wiping_profile">잘못된 시도가 너무 많습니다. 이 업무 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="lock_failed_attempts_now_wiping_profile">잘못된 시도가 너무 많습니다. 이 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="lock_failed_attempts_now_wiping_user">잘못된 시도가 너무 많습니다. 이 사용자는 삭제됩니다.</string>
     <string name="lock_immediately_summary_with_exception">%1$s에 의해 잠금해제된 상황을 제외한 화면 잠금 즉시</string>
     <string name="lock_last_attempt_before_wipe_warning_title">사용자 데이터가 삭제됩니다.</string>
@@ -3264,7 +3264,7 @@
     <string name="lock_last_pattern_attempt_before_wipe_profile">다음 시도에서 잘못된 패턴을 입력하면 작업 프로필과 데이터가 삭제됩니다.</string>
     <string name="lock_last_pattern_attempt_before_wipe_user">다음 시도에서 잘못된 패턴을 입력하면 이 사용자는 삭제됩니다.</string>
     <string name="lock_last_pin_attempt_before_wipe_device">다음 번 시도에서 잘못된 PIN을 입력하면 이 장치의 데이터가 삭제됩니다.</string>
-    <string name="lock_last_pin_attempt_before_wipe_profile">다음 번 시도에서 잘못된 PIN을 입력하면 업무용 프로필과 그 데이터가 삭제됩니다.</string>
+    <string name="lock_last_pin_attempt_before_wipe_profile">다음 번 시도에서 잘못된 PIN을 입력하면 직장 프로필과 그 데이터가 삭제됩니다.</string>
     <string name="lock_last_pin_attempt_before_wipe_user">다음 번 시도에서 잘못된 PIN을 입력하면 이 사용자가 삭제됩니다.</string>
     <string name="lock_profile_wipe_attempts">다시 시도하세요. %2$d 중 %1$d 시도됨.</string>
     <string name="lock_profile_wipe_content">너무 많이 틀렸습니다. 기기에 저장된 모든 사용자 정보가 삭제됩니다.</string>
@@ -3301,14 +3301,14 @@
     <string name="lock_settings_picker_settings">화면 잠금 설정</string>
     <string name="lock_settings_picker_title">화면 잠금 선택</string>
     <string name="lock_settings_picker_title_profile">업무용 잠금을 설정하세요.</string>
-    <string name="lock_settings_profile_screen_lock_title">업무 프로필 잠금 설정</string>
+    <string name="lock_settings_profile_screen_lock_title">직장 프로필 잠금 설정</string>
     <string name="lock_settings_profile_title">업무 정보 보안</string>
-    <string name="lock_settings_profile_unification_dialog_body">업무 프로필 잠금에 사용한 잠금 방식을 화면 잠금에서도 사용할 수 있습니다.</string>
+    <string name="lock_settings_profile_unification_dialog_body">직장 프로필 잠금에 사용한 잠금 방식을 화면 잠금에서도 사용할 수 있습니다.</string>
     <string name="lock_settings_profile_unification_dialog_confirm">기기 잠금 변경</string>
     <string name="lock_settings_profile_unification_dialog_title">같은 비밀번호를 사용하시겠습니까?</string>
-    <string name="lock_settings_profile_unification_dialog_uncompliant_body">\"업무 프로필 잠금 방식이 기기 잠금의 조건에 충족되지 않았습니다.”</string>
+    <string name="lock_settings_profile_unification_dialog_uncompliant_body">\"직장 프로필 잠금 방식이 기기 잠금의 조건에 충족되지 않았습니다.”</string>
     <string name="lock_settings_profile_unification_dialog_uncompliant_confirm">잠금 변경</string>
-    <string name="lock_settings_profile_unification_summary">기기 잠금 방식을 업무 프로필 잠금과 동일하게 변경</string>
+    <string name="lock_settings_profile_unification_summary">기기 잠금 방식을 직장 프로필 잠금과 동일하게 변경</string>
     <string name="lock_settings_profile_unification_title">같은 잠금 방식 사용</string>
     <string name="lock_settings_profile_unified_summary">화면 잠금과 같은 방식</string>
     <string name="lock_settings_title">기기 보안</string>
@@ -3317,7 +3317,7 @@
     <string name="lock_sounds_enable_title">화면 잠금 사운드</string>
     <string name="lockdown_settings_summary">스마트 잠금, 지문 잠금해제 및 잠금 화면의 알림을 끄는 전원 버튼 옵션 표시</string>
     <string name="lockdown_settings_title">잠금 옵션 보기</string>
-    <string name="locked_work_profile_notification_title">업무 프로필 잠김</string>
+    <string name="locked_work_profile_notification_title">직장 프로필 잠김</string>
     <string name="lockpassword_cancel_label">취소</string>
     <string name="lockpassword_choose_for_second_user">보조 공간 비밀번호 설정</string>
     <string name="lockpassword_choose_lock_generic_header">화면 잠금 선택</string>
@@ -3497,13 +3497,13 @@
     <string name="managed_device_admin_title">직장</string>
     <string name="managed_profile_contact_search_summary">조직의 연락처 검색을 통해 발신자와 연락처를 식별 할 수 있게 허용합니다.</string>
     <string name="managed_profile_contact_search_title">연락처 검색</string>
-    <string name="managed_profile_device_admin_info">%1$s에서 업무용 프로필에 액세스하지 못하게 하려면 설정 &gt; 계정에서 프로필을 삭제합니다.</string>
-    <string name="managed_profile_location_category">업무 프로필</string>
+    <string name="managed_profile_device_admin_info">%1$s에서 직장 프로필에 액세스하지 못하게 하려면 설정 &gt; 계정에서 프로필을 삭제합니다.</string>
+    <string name="managed_profile_location_category">직장 프로필</string>
     <string name="managed_profile_location_switch_lockdown">회사 관리자에 의해 꺼짐</string>
-    <string name="managed_profile_location_switch_title">업무 프로필 위치</string>
-    <string name="managed_profile_not_available_label">아직 업무용 프로필을 사용할 수 없습니다.</string>
-    <string name="managed_profile_settings_title">업무 프로필 설정</string>
-    <string name="managed_user_title">업무용 프로필</string>
+    <string name="managed_profile_location_switch_title">직장 프로필 위치</string>
+    <string name="managed_profile_not_available_label">아직 직장 프로필을 사용할 수 없습니다.</string>
+    <string name="managed_profile_settings_title">직장 프로필 설정</string>
+    <string name="managed_user_title">직장 프로필</string>
     <string name="managing_admin">%s에 의해 관리됨</string>
     <string name="manual">수동</string>
     <string name="manually_add_network">네트워크 추가</string>
@@ -4128,7 +4128,7 @@
     <string name="notification_channels_other">기타</string>
     <string name="notification_content_block_summary">주변 장치에 알림을 표시하지 않음</string>
     <string name="notification_content_block_title">알림 표시</string>
-    <string name="notification_fold_description1">MIUI 9에 알림 폴더가 도입되었습니다. 이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 저장합니다.</string>
+    <string name="notification_fold_description1">알림 폴더는 MIUI 9부터 도입되었습니다. 이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 저장합니다.</string>
     <string name="notification_fold_description2">MIUI는 탭 한 알림을 기억하고 여러 기준을 사용하여 중요 여부를 판단합니다.</string>
     <string name="notification_fold_description3">중요하다고 생각하는 알림이 알림 폴더에 계속 들어가면 그러한 문제를 Google에 보고해야 합니다. 피드백을 보내주시면 감사하겠습니다.</string>
     <string name="notification_fold_footer_icon_summary">모든 중요하지 않은 알림들의 아이콘이 폴더 오른쪽에 표시됩니다.</string>
@@ -4290,7 +4290,7 @@
     <string name="open_sdcard_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작될 것입니다.</string>
     <string name="open_wifi_connect_summary">탭하여 세부사항 보기</string>
     <string name="open_wifi_connect_title">%1$s에 연결</string>
-    <string name="opening_paragraph_delete_profile_unknown_company">업무 프로필 관리됨:</string>
+    <string name="opening_paragraph_delete_profile_unknown_company">직장 프로필 관리됨:</string>
     <string name="operator_warning">기기의 데이터 사용량 카운트와 통신사의 데이터 사용량 카운트가 상이할 수 있습니다.</string>
     <string name="optimization_cancel">취소</string>
     <string name="optimization_close">끄기 &amp; 다시 시작</string>
@@ -4795,7 +4795,7 @@
     <string name="quiet_no_interruptions_mode">모든 방해 무음</string>
     <string name="quiet_off_mode">항상 방해 허용</string>
     <string name="radio_controls_summary">Wi-Fi, 블루투스, 비행기 탑승 모드, 모바일 네트워크, &amp; VPN 관리</string>
-    <string name="radio_controls_title">더 보기</string>
+    <string name="radio_controls_title">더보기</string>
     <string name="radio_info_asdiv_switch_label">ASDiv 상태:</string>
     <string name="radio_info_band_mode_label">무선 주파수 대역 선택</string>
     <string name="radio_info_call_redirect_label">통화 경로 재지정:</string>
@@ -4906,7 +4906,7 @@
     <string name="remove_continue">설치 제거</string>
     <string name="remove_device_admin">비활성화</string>
     <string name="remove_from_frequently_fragment">빠른 설정에서 %s 항목을 제거하시겠습니까?</string>
-    <string name="remove_managed_profile_label">업무용 프로필 삭제</string>
+    <string name="remove_managed_profile_label">직장 프로필 삭제</string>
     <string name="repeat">반복</string>
     <string name="repeat_call">반복된 발신자 알림</string>
     <string name="repeat_call_info">무음 모드에서 15분 이내에 반복되는 통화의 소리 허용</string>
@@ -5326,7 +5326,7 @@
     <string name="search_preferred_network_type_title">선호하는 네트워크 유형;선호하는 네트워크;네트워크 유형</string>
     <string name="search_privacy_policy">개인정보 보호 정책</string>
     <string name="search_privacy_settings">백업 &amp; 초기화;백업 및 초기화;백업;리셋;백업</string>
-    <string name="search_radio_controls_title">더 보기;무선</string>
+    <string name="search_radio_controls_title">더보기;무선</string>
     <string name="search_recents_queries_label">최근 검색어</string>
     <string name="search_results_label">검색결과</string>
     <string name="search_results_title">설정</string>
@@ -5850,7 +5850,7 @@
     <string name="sound_stereo_mode_title">스테레오 사운드</string>
     <string name="sound_title">소리</string>
     <string name="sound_vibrate_settings">소리 &amp; 진동</string>
-    <string name="sound_work_settings">업무 프로필 소리</string>
+    <string name="sound_work_settings">직장 프로필 소리</string>
     <string name="speaker">스피커</string>
     <string name="speaker_clean">스피커 청소</string>
     <string name="special_access">특별 액세스 권한</string>
@@ -6739,7 +6739,7 @@
     <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s 잠자기 모드 후</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s / 잠자기 모드 즉시</string>
     <string name="unlock_set_unlock_launch_picker_title">잠금 화면</string>
-    <string name="unlock_set_unlock_launch_picker_title_profile">업무 프로필 잠금</string>
+    <string name="unlock_set_unlock_launch_picker_title_profile">직장 프로필 잠금</string>
     <string name="unlock_set_unlock_mode_biometric_weak">얼굴인식 잠금해제</string>
     <string name="unlock_set_unlock_mode_none">스와이프</string>
     <string name="unlock_set_unlock_mode_off">없음</string>
@@ -7004,8 +7004,8 @@
     <string name="user_setup_dialog_title">지금 사용자를 설정하시겠습니까?</string>
     <string name="user_setup_profile_dialog_message">지금 프로필을 설정하시겠습니까?</string>
     <string name="user_summary">%1$s 계정으로 로그인됨</string>
-    <string name="user_summary_managed_profile">업무용 프로필</string>
-    <string name="user_summary_managed_profile_not_set_up">설정되지 않음 - 업무용 프로필</string>
+    <string name="user_summary_managed_profile">직장 프로필</string>
+    <string name="user_summary_managed_profile_not_set_up">설정되지 않음 - 직장 프로필</string>
     <string name="user_summary_not_set_up">설정되지 않음</string>
     <string name="user_summary_restricted_not_set_up">설정되지 않음 - 제한된 프로필</string>
     <string name="user_summary_restricted_profile">제한된 프로필</string>
@@ -7813,9 +7813,9 @@
     <string name="work_mode_summary">앱, 백그라운드 동기화 및 관련 기능을 포함한 작업 프로필이 작동하도록 허용</string>
     <string name="work_notification_ringtone_title">기본 업무 알림 소리</string>
     <string name="work_profile_confirm_remove_message">이 프로필에 있는 모든 앱과 데이터가 삭제됩니다.</string>
-    <string name="work_profile_confirm_remove_title">업무용 프로필을 삭제하시겠습니까?</string>
-    <string name="work_profile_notification_access_blocked_summary">업무 프로필 접근 차단됨</string>
-    <string name="work_profile_usage_access_warning">이 앱의 사용 권한 액세스를 거부해도 관리자가 업무용 프로필의 앱에 대한 데이터 사용량을 추적하는 것을 막을수 있는 것은 아닙니다.</string>
+    <string name="work_profile_confirm_remove_title">직장 프로필을 삭제하시겠습니까?</string>
+    <string name="work_profile_notification_access_blocked_summary">직장 프로필 접근 차단됨</string>
+    <string name="work_profile_usage_access_warning">이 앱의 사용 권한 액세스를 거부해도 관리자가 직장 프로필의 앱에 대한 데이터 사용량을 추적하는 것을 막을수 있는 것은 아닙니다.</string>
     <string name="work_ringtone_title">업무 벨소리</string>
     <string name="work_sim_title">작업 SIM</string>
     <string name="work_sound_permission_dialog_button_text_known">확인</string>
@@ -7825,7 +7825,7 @@
     <string name="work_space_delete">워크 스페이스 삭제</string>
     <string name="work_space_delete_confirm">지금 삭제</string>
     <string name="work_space_delete_description">삭제 후에는 워크 스페이스에 진입할 수 없게됩니다. 모든 데이터가 이동되거나 삭제됩니다.</string>
-    <string name="work_sync_dialog_message">개인 프로필 소리가 업무 프로필에 사용됩니다.</string>
+    <string name="work_sync_dialog_message">개인 프로필 소리가 직장 프로필에 사용됩니다.</string>
     <string name="work_sync_dialog_title">소리를 변경하시겠습니까?</string>
     <string name="work_sync_dialog_yes">단축키 편집</string>
     <string name="work_use_personal_sounds_summary">업무 및 개인 프로필의 사운드가 동일하게 설정</string>
@@ -8224,7 +8224,7 @@
     <string name="device_oaid">가상 ID 관리</string>
     <string name="restore_oaid_content">행동 및 환경 설정 레코드를 지우려면 가상 ID를 초기화</string>
     <string name="restore_oaid_positive">리셋</string>
-    <string name="restore_oaid_title">가상 ID 초기화</string>
+    <string name="restore_oaid_title">가상 Id초기화</string>
     <string name="backup_set_new_continue">계속하기</string>
     <string name="backup_set_new_exit">나가기</string>
     <string name="backup_set_new_pw_confirm_hint">주의</string>
@@ -8447,7 +8447,7 @@
     <string name="aod_notification_style_animation">애니메이션 표시</string>
     <string name="system_print_service_help">인쇄에 관하여</string>
     <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 그래도 설정하시겠습니까?</string>
-    <string name="search_connection_and_sharing">더 보기;무선통신</string>
+    <string name="search_connection_and_sharing">더보기;무선통신</string>
     <string name="wifi_generation_title">기술</string>
     <string name="wifi_generation_status">"Wi-Fi %1$d"</string>
     <string name="wifi_generation_icon_display">아이콘</string>
@@ -8699,7 +8699,7 @@
     <string name="information_label">정보</string>
     <string name="internet_connectivity_panel_title">인터넷 연결</string>
     <string name="keyboard_disconnected">연결되지 않음</string>
-    <string name="keywords_add_an_account">업무용 프로필</string>
+    <string name="keywords_add_an_account">직장 프로필</string>
     <string name="keywords_app_default">연결 앱</string>
     <string name="keywords_applications_settings">애플리케이션</string>
     <string name="keywords_battery_saver_schedule">루틴, 일정, 절전 모드, 전력 절약 모드, 배터리, 자동, 퍼센트</string>
@@ -8726,7 +8726,7 @@
     <string name="keywords_vibrate_on_touch">진동 중지, 탭, 키보드</string>
     <string name="keywords_wifi_notify_open_networks">Wi‑Fi 알림, Wi‑Fi 알림</string>
     <string name="label_available">사용 가능한 네트워크</string>
-    <string name="language_and_input_for_work_category_title">업무용 프로필 키보드 및 도구</string>
+    <string name="language_and_input_for_work_category_title">직장 프로필 키보드 및 도구</string>
     <string name="legacy_navigation_summary">화면 하단의 버튼을 사용하여 뒤로 돌아가고 홈으로 이동하거나 앱을 전환합니다.</string>
     <string name="legacy_navigation_title">3버튼 탐색</string>
     <string name="live_caption_summary">미디어 자막 자동 생성</string>
@@ -8747,8 +8747,8 @@
     <string name="lock_screen_notifications_title">잠금 화면</string>
     <string name="lock_screen_notifs_redact">민감한 알림</string>
     <string name="lock_screen_notifs_redact_summary">잠금 상태일 때 민감한 콘텐츠 표시</string>
-    <string name="lock_screen_notifs_redact_work">민감한 업무용 프로필 알림</string>
-    <string name="lock_screen_notifs_redact_work_summary">잠금 상태일 때 민감한 업무용 프로필 콘텐츠 표시</string>
+    <string name="lock_screen_notifs_redact_work">민감한 직장 프로필 알림</string>
+    <string name="lock_screen_notifs_redact_work_summary">잠금 상태일 때 민감한 직장 프로필 콘텐츠 표시</string>
     <string name="lock_screen_notifs_show_alerting">경고 알림만 표시</string>
     <string name="lock_screen_notifs_show_all">경고 및 무음 알림 표시</string>
     <string name="lock_screen_notifs_show_none">알림 표시 안함</string>
@@ -8882,7 +8882,7 @@
     <string name="notification_channel_summary_low">소리나 진동 없이 집중할 수 있도록 도와줍니다.</string>
     <string name="notification_channel_summary_min">풀다운 창에서 알림을 한 줄로 접습니다.</string>
     <string name="notification_many_channel_count_summary">알림 채널 %1$d개. 모두 관리하려면 탭하세요.</string>
-    <string name="notification_settings_work_profile">알림 액세스는 업무용 프로필에 있는 앱에서 사용할 수 없습니다.</string>
+    <string name="notification_settings_work_profile">알림 액세스는 직장 프로필에 있는 앱에서 사용할 수 없습니다.</string>
     <string name="notification_silence_title">무음</string>
     <string name="osu_completing_sign_up">가입 완료 중…</string>
     <string name="osu_connect_failed">연결할 수 없음</string>
@@ -9336,7 +9336,7 @@ Xiaomi 클라우드
 연락처, 사진, 동영상, 앱 목록, 시스템 설정 및 홈 화면 레이아웃을 클라우드와 동기화하세요."</string>
     <string name="how_backup_title">항목을 어떻게 백업할 수 있습니까?</string>
     <string name="how_encrypt_content">"로컬 백업만 암호화 할 수 있습니다. 사용할 수 있는 암호화 방법은 다음과 같습니다.
-a) 로컬 백업이있는 페이지에서 설정> 추가 설정으로 이동하고 버튼을 눌러 암호화를 켜고 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야 합니다.
+a) 로컬 백업이 있는 페이지에서 설정> 추가 설정으로 이동하고 버튼을 눌러 암호화를 켜고 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야 합니다.
 b) Mi PC Suite를 사용하여 항목을 백업하는 경우 암호화 옵션을 사용할 수 있습니다.
 
 참고 : 암호화된 백업에 설정 한 비밀번호를 기억하세요! 백업을 잊어 버린 경우 백업을 해독 할 수 없습니다."</string>
@@ -9472,7 +9472,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="micloud_service_title">Xiaomi 클라우드</string>
     <string name="miui_accessibility_asr_summary">오디오 녹음 및 텍스트 저장</string>
     <string name="miui_accessibility_asr_title">Mi 디토</string>
-    <string name="miui_face_enroll_success">"지금 얼굴 데이터를 사용하여이 장치의 잠금을 해제할 수 있습니다.
+    <string name="miui_face_enroll_success">"지금 얼굴 데이터를 사용하여 이 장치의 잠금을 해제할 수 있습니다.
 추가 설정에 계속 액세스하세요. "</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
@@ -9693,7 +9693,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="convo_not_supported_summary">%1$s은(는) 대부분의 메시지 기능을 지원하지 않습니다. 중요 메시지를 설정할 수 없으며, 메시지가 팝업창으로 표시되지 않습니다.</string>
     <string name="interact_across_profiles_consent_dialog_summary">사용자의 IT 관리자에게 개인 데이터를 제공하지 않는다고 신뢰하는 경우에만 앱을 연결합니다.</string>
     <string name="interact_across_profiles_install_personal_app_title">이 앱을 연결하려면 개인 프로필에 %1$s를 설치하세요.</string>
-    <string name="interact_across_profiles_install_work_app_title">이 앱을 연결하려면 업무용 프로필에 %1$s를 설치하세요.</string>
+    <string name="interact_across_profiles_install_work_app_title">이 앱을 연결하려면 직장 프로필에 %1$s를 설치하세요.</string>
     <string name="interact_across_profiles_summary_2">사용자의 IT 관리자에게 개인 데이터를 제공하지 않는다고 신뢰하는 경우에만 앱을 연결합니다.</string>
     <string name="mute_media_sound_title">무음 모드에서 미디어 음소거</string>
     <string name="other_conversations">다른 메시지</string>
@@ -9951,7 +9951,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="enable_verbose_vendor_logging_summary">버그 보고서에 추가 기기 별 공급 업체 로그를 포함하세요. 여기에는 개인정보가 포함되어 있고 배터리를 더 많이 사용하거나 더 많은 저장 용량을 사용할 수 있습니다.</string>
     <string name="enhanced_connectivity">향상된 연결성</string>
     <string name="enhanced_connectivity_summary">향상된 연결 기능을 활성화합니다.</string>
-    <string name="ethernet_tethering_subtext">USB 이더넷을 통해 휴대 전화의 인터넷 연결 공유</string>
+    <string name="ethernet_tethering_subtext">USB 이더넷을 통해 휴대전화의 인터넷 연결 공유</string>
     <string name="ethernet_tether_checkbox_text">이더넷 테더링</string>
     <string name="filter_manage_external_storage">모든 파일에 액세스할 수 있음</string>
     <string name="find_my_device_summary">이 기능은 Mi 계정 로그인이 필요합니다.</string>
@@ -10078,7 +10078,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="notification_log_details_vibrate_pattern">패턴</string>
     <string name="notification_people_strip_title">최근 대화 스트립 표시</string>
     <string name="notification_priority_title">우선 순위</string>
-    <string name="no_5g_in_dsds_text">2 개의 SIM을 사용하는 경우이 휴대 전화는 4G로 제한됩니다. &lt;annotation id = "url">자세히 알아보기 &lt;/annotation></string>
+    <string name="no_5g_in_dsds_text">2 개의 SIM을 사용하는 경우이 휴대전화는 4G로 제한됩니다. &lt;annotation id = "url">자세히 알아보기 &lt;/annotation></string>
     <string name="open_supported_links_footer">앱이 다음 링크를 처리한다고 주장합니다.</string>
     <string name="other_conversations_summary">변경 한 대화</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27, -3.11 11, -7.5c-1.73, -4.39 -6,- 7.5 -11, -7.5zM12,17c-2.76,0 -5, -2.24 -5, -5s2.24, -5 5, -5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66 , 0 -3,1.34 -3,3s1.34,3 3,3 3, -1.34 3, -3 -1.34, -3 -3, -3z</string>
@@ -10137,12 +10137,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="reset_dashboard_summary_onlyApps">앱을 초기화할 수 있음</string>
     <string name="right_edge">오른쪽 가장자리</string>
     <string name="ringer_mode_setting_title">무음 모드</string>
-    <string name="screen_fps_unit">% dHz</string>
+    <string name="screen_fps_unit">%dHz</string>
     <string name="screen_pinning_dialog_message">"앱이 고정된 경우 : • \ u0009 \ u0009 개인 데이터에 액세스할 수 있습니다. \ u0009 \ u0009 (연락처 및 이메일 콘텐츠 등) • \ u0009 \ u0009 고정된 앱이 다른 앱을 열 수 있음 당신이 신뢰하는 사람들. "</string>
     <string name="screen_pinning_guest_user_description">"앱 고정을 사용하면 고정을 해제할 때까지 현재 앱을 계속 볼 수 있습니다. 예를 들어이 기능을 사용하여 신뢰할 수 있는 친구가 특정 게임을 플레이하도록 할 수 있습니다. 앱이 고정되면, 고정된 앱은 다른 앱을 열 수 있으며 개인 데이터에 액세스할 수 있습니다. 기기를 다른 사람과 안전하게 공유하려면 대신 게스트 사용자를 사용해보세요. 앱 고정을 사용하려면 다음을 따르세요. \ u00091. \ u0009 앱 고정을 사용 설정하세요. \ u0009 열기 개요 \ u00093. \ u0009 화면 상단의 앱 아이콘을 탭한 다음 고정을 탭하세요. "</string>
     <string name="screen_zoom_small">XS</string>
     <string name="search_input_txt_na">"&lt;font color = '# ff0000'> %s &lt;/font>"</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴인식 잠금해제를 초기화하려면 현재 얼굴 데이터를 삭제하세요. 얼굴인식 잠금해제에 사용되는 얼굴 데이터는 영구적이고 안전하게 삭제됩니다. 제거 후 잠금을 해제하려면 PIN, 패턴 또는 비밀번호가 필요합니다. 휴대 전화, 앱에 로그인하고 결제를 확인하세요. "</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">"얼굴인식 잠금해제를 초기화하려면 현재 얼굴 데이터를 삭제하세요. 얼굴인식 잠금해제에 사용되는 얼굴 데이터는 영구적이고 안전하게 삭제됩니다. 제거 후 잠금을 해제하려면 PIN, 패턴 또는 비밀번호가 필요합니다. 휴대전화, 앱에 로그인하고 결제를 확인하세요. "</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">얼굴인식 잠금해제 설정</string>
     <string name="security_settings_face_enroll_introduction_agree">동의</string>
     <string name="security_settings_face_enroll_introduction_more">더보기</string>
@@ -10152,8 +10152,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="security_settings_face_enroll_should_re_enroll_subtitle">얼굴인식 잠금해제 초기화</string>
     <string name="security_settings_face_enroll_should_re_enroll_title">얼굴인식 잠금해제 성능 향상</string>
     <string name="security_settings_face_profile_preference_title">업무용 얼굴인식 잠금해제</string>
-    <string name="security_settings_face_settings_context_subtitle">얼굴인식 잠금해제를 사용하여 휴대 전화 잠금해제</string>
-    <string name="security_settings_face_settings_footer_attention_not_supported">"얼굴인식 잠금해제를 사용하여 기기를 잠금해제하고, 앱에 로그인하고, 결제를 확인합니다. 유의 사항 : 의도하지 않은 경우 휴대 전화를 쳐다 보면 잠금이 해제 될 수 있습니다. 휴대 전화를 잠금해제할 수 있습니다. 눈을 감아도 얼굴에 대고 있으면 다른 사람이 휴대 전화를 잠금해제할 수 있습니다. 같은 형제 자매와 같이 나와 닮은 사람이 휴대 전화를 잠금해제할 수 있습니다. "</string>
+    <string name="security_settings_face_settings_context_subtitle">얼굴인식 잠금해제를 사용하여 휴대전화 잠금해제</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"얼굴인식 잠금해제를 사용하여 기기를 잠금해제하고, 앱에 로그인하고, 결제를 확인합니다. 유의 사항 : 의도하지 않은 경우 휴대전화를 쳐다 보면 잠금이 해제 될 수 있습니다. 휴대전화를 잠금해제할 수 있습니다. 눈을 감아도 얼굴에 대고 있으면 다른 사람이 휴대전화를 잠금해제할 수 있습니다. 같은 형제 자매와 같이 나와 닮은 사람이 휴대전화를 잠금해제할 수 있습니다. "</string>
     <string name="select_invalid_bug_report_handler_toast_text">이 선택은 더 이상 유효하지 않습니다. 다시 시도하세요.</string>
     <string name="shared_data_delete_failure_text">공유 데이터를 삭제하는 중에 오류가 발생했습니다.</string>
     <string name="shared_data_no_accessors_dialog_text">이 공유 데이터에 대해 취득한 임대가 없습니다. 삭제 하시겠습니까?</string>
@@ -10218,26 +10218,26 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="volte_5G_limited_title">VoLTE를 사용 중지 하시겠습니까?</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wifi_add_app_networks_saved_summary">저장된 네트워크</string>
-    <string name="wifi_add_app_networks_saving_summary">% d 개의 네트워크 저장 중…</string>
-    <string name="wifi_add_app_networks_summary">%1$s이 (가)이 네트워크를 휴대 전화에 저장하려고합니다</string>
+    <string name="wifi_add_app_networks_saving_summary">%d개의 네트워크 저장 중…</string>
+    <string name="wifi_add_app_networks_summary">%1$s이 (가)이 네트워크를 휴대전화에 저장하려고합니다</string>
     <string name="wifi_add_app_networks_title">네트워크를 저장 하시겠습니까?</string>
     <string name="wifi_add_app_network_save_failed_summary">저장할 수 없습니다. 다시 시도하세요.</string>
     <string name="wifi_add_app_single_network_saved_summary">저장 됨</string>
     <string name="wifi_add_app_single_network_saving_summary">저장 중…</string>
-    <string name="wifi_add_app_single_network_summary">%1$s가 휴대 전화에 네트워크를 저장하려고합니다</string>
+    <string name="wifi_add_app_single_network_summary">%1$s가 휴대전화에 네트워크를 저장하려고합니다</string>
     <string name="wifi_add_app_single_network_title">이 네트워크를 저장 하시겠습니까?</string>
     <string name="wifi_advanced_device_mac_address_title">기기 MAC 주소</string>
     <string name="wifi_advanced_randomized_mac_address_title">랜덤 MAC 주소</string>
     <string name="wifi_advanced_toggle_description">드롭 다운 목록 고급 옵션</string>
     <string name="wifi_ap_choose_vendor_dual_band">듀얼 밴드</string>
-    <string name="wifi_auto_connect_summary">휴대 전화가이 네트워크 근처에서 자동으로 연결하도록 허용</string>
+    <string name="wifi_auto_connect_summary">휴대전화가 이 네트워크 근처에서 자동으로 연결하도록 허용</string>
     <string name="wifi_auto_connect_title">자동 연결</string>
     <string name="wifi_calling_mode_ims_preferred_summary">LTE 및 Wi-Fi을 사용할 수 없는 경우 2G/3G 사용</string>
     <string name="wifi_disconnected_from">%1$s에서 연결 해제됨</string>
     <string name="wifi_dpp_failure_cannot_find_network">장치를 Wi-Fi 액세스 포인트/라우터에 더 가깝게 이동해보십시오</string>
     <string name="wifi_dpp_failure_enrollee_authentication">비밀번호를 확인하고 다시 시도하세요.</string>
     <string name="wifi_dpp_failure_enrollee_rejected_configuration">기기 제조업체에 문의</string>
-    <string name="wifi_dpp_qr_code_is_not_valid_format">"QR 코드는 유효한 형식이 아닙니다."</string>
+    <string name="wifi_dpp_qr_code_is_not_valid_format">"QR 코드가 유효한 형식이 아닙니다."</string>
     <string name="wifi_eap_ocsp">온라인 인증서 상태</string>
     <string name="wifi_enhanced_mac_randomization">Wi-Fi 강화 MAC 랜덤화</string>
     <string name="wifi_enhanced_mac_randomization_summary">이 모드가 활성화되면이 장치의 MAC 주소는 MAC 랜덤화가 활성화된 네트워크에 연결할 때마다 변경될 수 있습니다.</string>

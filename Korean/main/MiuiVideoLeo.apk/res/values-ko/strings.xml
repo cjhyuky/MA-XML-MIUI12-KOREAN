@@ -508,7 +508,7 @@
     <string name="youku">요우쿠</string>
     <string name="abc_action_bar_home_description">홈 화면으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
-    <string name="abc_action_menu_overflow_description">더 보기</string>
+    <string name="abc_action_menu_overflow_description">더보기</string>
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_activity_chooser_view_see_all">모두 보기</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
@@ -565,7 +565,7 @@
     <string name="last_added_media">최근 추가됨</string>
     <string name="load_more_and_more">더 불러오기...</string>
     <string name="locked">잠김</string>
-    <string name="more">더 보기</string>
+    <string name="more">더보기</string>
     <string name="more_file_details" formatted="false">"크기: %s"</string>
     <string name="network_stream">네트워크 스트리밍</string>
     <string name="no_filter_folder_tips">폴더 필터링 없음</string>
@@ -599,7 +599,7 @@
     <string name="search_null_text">검색어를 입력하세요.</string>
     <string name="settings">설정</string>
     <string name="show_all_files_tips">모든 파일 보기</string>
-    <string name="show_all_folder_tips">모든 폴더 보기</string>
+    <string name="show_all_folder_tips">모든 폴더보기</string>
     <string name="songs">노래</string>
     <string name="sound_off">소리 끄기</string>
     <string name="sound_on">소리 켜기</string>

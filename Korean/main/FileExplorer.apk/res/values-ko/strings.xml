@@ -191,7 +191,7 @@
     <string name="action_mode_select_all">모두 선택</string>
     <string name="can_not_send_with_too_many">한 번에 너무 많은 항목을 전송할 수 없습니다.</string>
     <string name="tab_source">앱</string>
-    <string name="tab_more">더 보기</string>
+    <string name="tab_more">더보기</string>
     <string name="title_recent">최근</string>
     <string name="title_expire_video">만료 정보</string>
     <string name="title_app_tags">앱</string>
@@ -199,7 +199,7 @@
     <string name="category_file">파일</string>
     <string name="category_photo">사진</string>
     <string name="wechat_video">%s의 동영상</string>
-    <string name="load_more">더 보기</string>
+    <string name="load_more">더보기</string>
     <string name="no_app_tags">비어있음</string>
     <string name="no_recent_files">최근 파일 없음</string>
     <string name="group_title_extra_new">새로운 그룹</string>
@@ -225,9 +225,9 @@
     <string name="search_title_hint">검색</string>
     <string name="search_keyword">태그</string>
     <string name="search_app">앱 &amp; 폴더</string>
-    <string name="search_app_more">더 보기</string>
+    <string name="search_app_more">더보기</string>
     <string name="search_empty_view_hint">아무 것도 찾지 못했습니다.</string>
-    <string name="search_result_more">더 보기</string>
+    <string name="search_result_more">더보기</string>
     <string name="search_error_hint">검색</string>
     <string name="rlv_pull_to_refresh">아래로 당겨 새로고침</string>
     <string name="rlv_release_to_refresh">놓아서 새로고침</string>
@@ -279,7 +279,7 @@
     <string name="extract">압축 풀기</string>
     <string name="private_folder">숨김 폴더</string>
     <string name="make_private">숨기기</string>
-    <string name="open_private_folder">놓아서 숨김 폴더 보기</string>
+    <string name="open_private_folder">놓아서 숨김 폴더보기</string>
     <string name="decrypt">숨기기 취소</string>
     <string name="repair_file">암호화된 파일 복구</string>
     <string name="encrypting">암호화 중…</string>
@@ -588,7 +588,7 @@
     <string name="no_topic">토픽 없음</string>
     <string name="no_message">메시지 없음</string>
     <string name="editor_commend">편집</string>
-    <string name="hot_video_load_more">더 보기 ></string>
+    <string name="hot_video_load_more">더보기 ></string>
     <string name="title_album">앨범</string>
     <string name="album_name">데일리 초이스: %s</string>
     <string name="album_creator">%s 생성</string>

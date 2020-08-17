@@ -188,7 +188,7 @@
     <string name="miui_delete">삭제</string>
     <string name="miui_solution_msg">해결 방법</string>
     <string name="miui_solution_clean">쓰레기 지우기</string>
-    <string name="miui_compatibility_desc">이 앱은 현재의 Android 버전에서 더 이상 작동하지 않습니다. 앱 개발자가이 문제를 해결할 때까지 기다리는 것이 좋습니다.</string>
+    <string name="miui_compatibility_desc">이 앱은 현재의 Android 버전에서 더 이상 작동하지 않습니다. 앱 개발자가 이 문제를 해결할 때까지 기다리는 것이 좋습니다.</string>
     <string name="miui_help_feedback_label">도움말 &amp; 피드백</string>
     <string name="miui_not_uninstall_system_app">시스템 앱을 제거할 수 없습니다.</string>
     <string name="next">다음</string>
@@ -244,7 +244,7 @@
     <string name="screen_overlay_title">화면 오버레이 감지됨</string>
     <string name="screen_overlay_message">권한 설정을 변경하려면 먼저 설정 > 앱에서 화면 오버레이를 꺼야 합니다.</string>
     <string name="screen_overlay_button">설정 열기</string>
-    <string name="wear_not_allowed_dlg_title">Android 웨어</string>
+    <string name="wear_not_allowed_dlg_title">Android Wear</string>
     <string name="wear_not_allowed_dlg_text">설치/제거 동작은 웨어에서 지원하지 않습니다.</string>
     <string name="permission_review_warning_title_template_update">%1$s 업데이트됨. %1$s앱을 허용하여 다음 항목에 접근하시겠습니까?</string>
     <string name="permission_review_title_template_install">%1$s 접근 허용 항목 선택</string>
@@ -438,7 +438,7 @@
     <string name="local_backup_password_toast_confirmation_mismatch">새 비밀번호와 확인한 비밀번호가 일치하지 않습니다.</string>
     <string name="local_backup_password_toast_success">새로운 백업 비밀번호가 설정되었습니다.</string>
     <string name="local_backup_password_toast_validation_failure">백업 비밀번호를 설정하지 못함</string>
-    <string name="managed_user_title">업무용 프로필</string>
+    <string name="managed_user_title">직장 프로필</string>
     <string name="media_category">미디어</string>
     <string name="mobile_data_always_on">모바일 데이터가 항상 활성 상태입니다.</string>
     <string name="mobile_data_always_on_summary">Wi-Fi가 켜져있어도 빠른 네트워크 전환을 위해 항상 모바일 데이터를 활성 상태로 유지합니다.</string>

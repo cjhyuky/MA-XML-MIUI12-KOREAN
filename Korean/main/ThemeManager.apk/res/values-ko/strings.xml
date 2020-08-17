@@ -441,7 +441,7 @@
     <string name="reload">다시 시도</string>
     <string name="browser_local_resource">로컬 리소스</string>
     <string name="incompatible_dialog_title">호환성 문제</string>
-    <string name="incompatible_dialog_message">"이 테마는 아직 MIUI 11과 완전히 호환되지 않습니다. 일부 페이지는 제대로 작동하지 않을 수 있습니다."</string>
+    <string name="incompatible_dialog_message">"이 테마는 아직 이 버전의 MIUI와 완전히 호환되지 않습니다. 일부 페이지가 제대로 작동하지 않을 수 있습니다."</string>
     <string name="incompatible_dialog_ok">알겠습니다.</string>
     <string name="multi_sim_ringtone_settings_dialog_title">호환성 문제</string>
     <string name="multi_sim_ringtone_settings_dialog_message">벨소리가 두 SIM 카드에 적용되었습니다.</string>
@@ -801,7 +801,7 @@
     <string name="wallpaper_loop_desc_all_walpaper">사용자 지정 바탕 화면 슬라이드 쇼 만들기</string>
     <string name="wallpaper_loop_desc_desk_walpaper">홈 화면에 맞춤 슬라이드 쇼 만들기</string>
     <string name="wallpaper_loop_desc_lock_walpaper">잠금 화면 용 맞춤 슬라이드 쇼 만들기</string>
-    <string name="wallpaper_loop_interval_15min">15 분마다</string>
+    <string name="wallpaper_loop_interval_15min">15분마다</string>
     <string name="wallpaper_loop_interval_1d">매일</string>
     <string name="wallpaper_loop_interval_1h">1시간마다</string>
     <string name="wallpaper_loop_interval_desc">슬라이드 쇼의 시간 간격 설정</string>
@@ -895,9 +895,9 @@
     <string name="wallpaper_setting_all">모든 배경화면</string>
     <string name="wallpaper_setting_live">라이브</string>
     <string name="miuishare_sys_title_share">추가 옵션</string>
-    <string name="apply_not_support_maml_aod">"항상 디스플레이를이 기기의 테마와 결합 할 수 없습니다."</string>
+    <string name="apply_not_support_maml_aod">"항상 디스플레이를 이 기기의 테마와 결합 할 수 없습니다."</string>
     <string name="apply_success_not_enable_aod">설정시 항상 켜기 표시</string>
-    <string name="apply_success_not_support_aod">"항상 디스플레이를이 기기의 테마와 결합 할 수 없습니다. 이 테마의 나머지 구성 요소가 성공적으로 적용되었습니다."</string>
+    <string name="apply_success_not_support_aod">"항상 디스플레이를 이 기기의 테마와 결합 할 수 없습니다. 이 테마의 나머지 구성 요소가 성공적으로 적용되었습니다."</string>
     <string name="copy">복사</string>
     <string name="de_component_aod_author">제작자</string>
     <string name="de_mix_mode_aod">항상 켜짐 표시</string>

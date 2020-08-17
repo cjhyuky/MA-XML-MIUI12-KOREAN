@@ -33,7 +33,7 @@
     <string name="miui_feedback_answer_detail_title">세부 사항</string>
     <string name="miui_feedback_edit_action_submit">보내기</string>
     <string name="miui_feedback_edit_add_original_images">사진 추가</string>
-    <string name="miui_feedback_edit_add_original_images_dialog_content">"보고하는 문제가 카메라의 이미지 품질과 관련이있는 경우 문제를 찾는 데 도움이되도록 원본 샘플 사진 (자르지 않음)을 추가하세요. 지금 사진을 추가하시겠습니까?"</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">"보고하는 문제가 카메라의 이미지 품질과 관련이 있는 경우 문제를 찾는 데 도움이 되도록 원본 샘플 사진 (자르지 않음)을 추가하세요. 지금 사진을 추가하시겠습니까?"</string>
     <string name="miui_feedback_edit_choose_module">항목 선택</string>
     <string name="miui_feedback_edit_choose_module_hint">필수</string>
     <string name="miui_feedback_edit_choose_reproductivity">재생산</string>

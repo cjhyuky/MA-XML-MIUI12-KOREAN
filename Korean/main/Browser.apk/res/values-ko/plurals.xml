@@ -75,13 +75,13 @@
         <item quantity="other">%d개 답글</item>
     </plurals>
     <plurals name="comment_hour_ago">
-        <item quantity="other">%d 시간 전</item>
+        <item quantity="other">%d시간 전</item>
     </plurals>
     <plurals name="comment_look_all">
         <item quantity="other">%d개 댓글 보기</item>
     </plurals>
     <plurals name="comment_minute_ago">
-        <item quantity="other">%d 분 전</item>
+        <item quantity="other">%d분 전</item>
     </plurals>
     <plurals name="comment_selected">
         <item quantity="other">%d개 이유 선택됨</item>

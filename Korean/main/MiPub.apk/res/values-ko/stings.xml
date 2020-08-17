@@ -195,9 +195,9 @@
     <string name="menu_add_black">이 번호 차단</string>
     <string name="menu_mark">표기</string>
     <string name="menu_yellowpage">%s 보기</string>
-    <string name="menu_more">더 보기</string>
-    <string name="msglist_continue_to_pull_for_more">아래로 당겨 더 보기</string>
-    <string name="msglist_release_to_more">놓아서 더 보기</string>
+    <string name="menu_more">더보기</string>
+    <string name="msglist_continue_to_pull_for_more">아래로 당겨 더보기</string>
+    <string name="msglist_release_to_more">놓아서 더보기</string>
     <string name="msglist_more_refreshing">새로고침 중…</string>
     <string name="msglist_no_more_to_refresh">이미 최신 상태임</string>
     <string name="view_hms_details">세부 정보</string>
@@ -238,7 +238,7 @@
     <string name="message_block_reminder">미리 알림</string>
     <string name="message_block_confirmation">이 계정의 메시지를 차단하시겠습니까?</string>
     <string name="current_service_number">현재 서비스 번호</string>
-    <string name="menu_more_service">더 보기</string>
+    <string name="menu_more_service">더보기</string>
     <string name="low_memory">기기 메모리가 부족합니다.</string>
     <string name="scan_result">결과</string>
 </resources>

@@ -140,7 +140,7 @@
     <string name="error_drm_not_supported">18세 미만의 API 수준에서 보호되지 않는 콘텐츠</string>
     <string name="error_drm_unknown">알수 없는 DRM 오류가 발생했습니다.</string>
     <string name="error_drm_unsupported_scheme">이 장치는 필수 DRM 체계를 지원하지 않습니다.</string>
-    <string name="error_mg_content_not_available">귀하의 국가에서는이 콘텐츠를 사용할 수 없습니다.</string>
+    <string name="error_mg_content_not_available">귀하의 국가에서는 이 콘텐츠를 사용할 수 없습니다.</string>
     <string name="error_mg_no_content">이 영화에 사용할 수 있는 콘텐츠가 없습니다. 나중에 다시 시도하세요.</string>
     <string name="error_mg_no_content_for_tv">이 TV 프로그램에 사용할 수 있는 콘텐츠가 없습니다. 나중에 다시 시도하세요.</string>
     <string name="error_msg_invalid_url">잘못된 URL입니다. 나중에 다시 시도하세요.</string>
@@ -270,7 +270,7 @@
     <string name="lv_subtitle_onlinesub_loading">자막 로드 중...</string>
     <string name="lv_subtitle_onlinesub_loading_wait">자막 로드 중...</string>
     <string name="lv_subtitle_onlinesub_right_declare">면책 조항</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">opensubtitles.org의 자막 가져 오기. 전체 온라인 자막은 opensubtitles.org에서 제공합니다.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">opensubtitles.org의 자막 가져오기. 전체 온라인 자막은 opensubtitles.org에서 제공합니다.</string>
     <string name="lv_subtitle_onlinesub_save_failed">자막을 추가할 수 없습니다.</string>
     <string name="lv_subtitle_onlinesub_save_success">부제가 성공적으로 추가되었습니다.</string>
     <string name="lv_subtitle_onlinesub_search_keyword">검색할 키워드 입력</string>

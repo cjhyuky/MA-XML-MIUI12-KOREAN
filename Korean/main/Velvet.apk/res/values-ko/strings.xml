@@ -1133,7 +1133,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="full_voice_interaction_service_label">향상된 Google 서비스</string>
     <string name="recognizer_service_label">기본 Google 인식</string>
     <string name="accessibility_menu_button">카드 메뉴</string>
-    <string name="accessibility_android_for_work_icon">업무용 프로필</string>
+    <string name="accessibility_android_for_work_icon">직장 프로필</string>
     <string name="remove_from_history">검색 기록에서 삭제</string>
     <string name="remove_from_browser_history">브라우저 방문 기록에서 삭제</string>
     <string name="remove_from_history_failed">기록에서 항목을 삭제하지 못했습니다.</string>

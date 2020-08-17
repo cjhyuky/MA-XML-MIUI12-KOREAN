@@ -75,7 +75,7 @@
         <item>운동 목표: %1$d 걸음</item>
         <item>오늘 %1$d 걸음 걸았습니다.</item>
         <item>수면 목표 계산중�</item>
-        <item>수면 목표: %1$d 시간</item>
+        <item>수면 목표: %1$d시간</item>
         <item>현재는 수면 데이터가 없습니다.</item>
         <item>Mi 건강 앱 열기</item>
     </string-array>

@@ -77,8 +77,8 @@
     <string name="scanHistory_isOpen">과거 스캔 항목 추적을 지금 시작하시겠습니까?</string>
     <string name="scanHistory_open">켜기</string>
     <string name="classesNameNull_toast">"강의 이름은 비워 둘 수 없습니다."</string>
-    <string name="classes_canfirmTitle">결과 확인 및 가져 오기 시작</string>
-    <string name="classes_company">가져 오기</string>
+    <string name="classes_canfirmTitle">결과 확인 및 가져오기 시작</string>
+    <string name="classes_company">가져오기</string>
     <string name="classes_dealalert">참고 : 가져온 강의 데이터로 이전 데이터를 덮어 씁니다.</string>
     <string name="classes_delete">강의 삭제</string>
     <string name="classes_deleteMessage">이 강의를 영구적으로 삭제하시겠습니까?</string>
@@ -469,7 +469,7 @@ Mi AI로 스캔하고 싶습니다 "</string>
     <string name="document_recognize_text">텍스트 인식</string>
     <string name="document_region">지역</string>
     <string name="document_rename">이름 바꾸기</string>
-    <string name="document_take_a_single">한 개 가져 오기</string>
+    <string name="document_take_a_single">한 개 가져오기</string>
     <string name="document_take_multiple_shots">다중 촬영하기</string>
     <string name="duplicate_file_name_please_rename">중복 파일 이름입니다. 이름을 바꾸세요.</string>
     <string name="filename_cannot_beempty">파일 이름은 비워 둘 수 없습니다.</string>

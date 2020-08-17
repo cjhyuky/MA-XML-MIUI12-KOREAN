@@ -1248,8 +1248,8 @@
     <string name="permission_request_notification_title">권한 요청됨</string>
     <string name="permission_request_notification_with_subtitle">"%s 계정에 대해
 권한 요청"</string>
-    <string name="forward_intent_to_owner">업무용 프로필 외부에서 이 앱을 사용 중입니다.</string>
-    <string name="forward_intent_to_work">업무용 프로필에서 이 앱을 사용 중입니다.</string>
+    <string name="forward_intent_to_owner">직장 프로필 외부에서 이 앱을 사용 중입니다.</string>
+    <string name="forward_intent_to_work">직장 프로필에서 이 앱을 사용 중입니다.</string>
     <string name="input_method_binding_label">입력 방법</string>
     <string name="sync_binding_label">동기화</string>
     <string name="accessibility_binding_label">접근성</string>
@@ -1389,7 +1389,7 @@
     <string name="SetupCallDefault">통화를 수락하시겠습니까?</string>
     <string name="activity_resolver_use_always">항상</string>
     <string name="activity_resolver_use_once">한 번만</string>
-    <string name="activity_resolver_work_profiles_support">%1$s에서 업무용 프로필을 지원하지 않습니다.</string>
+    <string name="activity_resolver_work_profiles_support">%1$s에서 직장 프로필을 지원하지 않습니다.</string>
     <string name="default_audio_route_name">휴대전화</string>
     <string name="default_audio_route_name_headphones">헤드폰</string>
     <string name="default_audio_route_name_dock_speakers">독 스피커</string>
@@ -1605,7 +1605,7 @@
     <string name="zen_mode_forever">무제한</string>
     <string name="usb_charging_notification_title">USB로 기기를 충전 중</string>
     <string name="decline_remote_bugreport_action">거절</string>
-    <string name="durationMinute">%1$d 분</string>
+    <string name="durationMinute">%1$d분</string>
     <string name="notification_hidden_text">알림이 숨겨져 있습니다.</string>
     <string name="other_permissions">기타 앱 기능</string>
     <string name="permission_title">%1$s 권한</string>
@@ -1712,7 +1712,7 @@
     <string name="new_sms_notification_title">새로운 메시지가 있습니다.</string>
     <string name="notification_hidden_by_policy_text">관련 정책에 의거하여 콘텐츠 숨김처리됨</string>
     <string name="notification_ranker_binding_label">알림 중요도 설정 서비스</string>
-    <string name="notification_work_profile_content_description">업무 프로필</string>
+    <string name="notification_work_profile_content_description">직장 프로필</string>
     <string name="now_string_shortest">지금</string>
     <string name="package_deleted_device_owner">관리자에 의해 삭제됨</string>
     <string name="package_installed_device_owner">관리자에 의해 설치됨</string>
@@ -1758,8 +1758,8 @@
     <string name="policydesc_wipeData_secondaryUser">"경고 없이 사용자 데이터를 삭제합니다."</string>
     <string name="policylab_wipeData_secondaryUser">사용자 데이터 삭제</string>
     <string name="power_key_emergency_number">112</string>
-    <string name="profile_encrypted_detail">업무 프로필 잠금설정됨</string>
-    <string name="profile_encrypted_message">탭하여 업무 프로필 잠금해제</string>
+    <string name="profile_encrypted_detail">직장 프로필 잠금설정됨</string>
+    <string name="profile_encrypted_message">탭하여 직장 프로필 잠금해제</string>
     <string name="prohibit_manual_network_selection_in_gobal_mode">틀림</string>
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="reboot_confirm">기기가 다시 시작됩니다.</string>
@@ -1833,13 +1833,13 @@
     <string name="wifi_connect_default_application">앱</string>
     <string name="wifi_no_internet_detailed">탭하여 옵션 보기</string>
     <string name="wifi_tether_configure_ssid_default">Android AP</string>
-    <string name="work_mode_off_message">업무 프로필에서 앱, 연락처 등 모든 데이터를 관리할 수 있도록 허용하시겠습니까?</string>
+    <string name="work_mode_off_message">직장 프로필에서 앱, 연락처 등 모든 데이터를 관리할 수 있도록 허용하시겠습니까?</string>
     <string name="work_mode_off_title">업무 모드 꺼짐</string>
     <string name="work_mode_turn_on">켜기</string>
-    <string name="work_profile_deleted">업무 프로필 삭제됨</string>
-    <string name="work_profile_deleted_description">관리자 앱 부재로 인해 업무 프로필이 삭제되었습니다.</string>
-    <string name="work_profile_deleted_description_dpm_wipe">귀하의 업무 프로필을 더 이상 이 기기에서 사용하실 수 없습니다.</string>
-    <string name="work_profile_deleted_details">귀하의 기기의 관리자 앱 부재로 인해 업무 프로필이 삭제되었으며 더 이상 사용하실 수 없습니다. 관리자에게 문의하세요.</string>
+    <string name="work_profile_deleted">직장 프로필 삭제됨</string>
+    <string name="work_profile_deleted_description">관리자 앱 부재로 인해 직장 프로필이 삭제되었습니다.</string>
+    <string name="work_profile_deleted_description_dpm_wipe">귀하의 직장 프로필을 더 이상 이 기기에서 사용하실 수 없습니다.</string>
+    <string name="work_profile_deleted_details">귀하의 기기의 관리자 앱 부재로 인해 직장 프로필이 삭제되었으며 더 이상 사용하실 수 없습니다. 관리자에게 문의하세요.</string>
     <string name="zen_mode_alarm">%1$s 전까지 (다음 알람)</string>
     <string name="zen_mode_default_events_name">이벤트</string>
     <string name="zen_mode_default_weekends_name">주간</string>
@@ -2330,7 +2330,7 @@
     <string name="wifi_p2p_show_pin_message">비밀번호:</string>
     <string name="miaudiovisual_notification_summary">잠금 화면에 효과를 표시하려면 켭니다.</string>
     <string name="miaudiovisual_notification_title">오디오 및 시각 효과</string>
-    <string name="personal_apps_suspension_soon_text">개인 앱이 %2$s에서 %1$s 동안 차단됩니다. 사용자의 IT 관리자가 이 업무용 프로필이 %3$d일 이상 꺼지지 못하게 했습니다.</string>
+    <string name="personal_apps_suspension_soon_text">개인 앱이 %2$s에서 %1$s 동안 차단됩니다. 사용자의 IT 관리자가 이 직장 프로필이 %3$d일 이상 꺼지지 못하게 했습니다.</string>
     <string name="personal_apps_suspended_turn_profile_on">켜기</string>
     <string name="accessibility_dialog_button_allow">허용</string>
     <string name="accessibility_dialog_button_deny">거부</string>

@@ -614,7 +614,7 @@
     <string name="mibill_privacy_policy_title">청구서 자동 관리</string>
     <string name="min_payment_text">최소 결제</string>
     <string name="more_atts_remaining">%1$d개 더 남음</string>
-    <string name="more_context">더 보기</string>
+    <string name="more_context">더보기</string>
     <string name="move_to_selection_dialog_title">이동</string>
     <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;&quot;   %2$s&quot;</string>
     <string name="mute">음소거</string>
@@ -1016,7 +1016,7 @@
     <string name="back">뒤로 가기</string>
     <string name="note_title">메모</string>
     <string name="show_password">비밀번호 표시</string>
-    <string name="durationMinute">%1$d 분</string>
+    <string name="durationMinute">%1$d분</string>
     <string name="permission_title">%1$s 권한</string>
     <string name="decline_remote_bugreport_action">거절</string>
     <string name="share_remote_bugreport_action">공유</string>

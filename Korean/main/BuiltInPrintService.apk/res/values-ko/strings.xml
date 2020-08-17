@@ -36,7 +36,7 @@
     <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_printers">Wi-Fi Direct 프린터</string>
     <string name="accept">허용</string>
-    <string name="certificate_update_request">이 프린터는 새로운 보안 인증서를 제공했거나 다른 장치가이를 가장하고 있습니다. 새 인증서를 수락하시겠습니까?</string>
+    <string name="certificate_update_request">이 프린터는 새로운 보안 인증서를 제공했거나 다른 장치가 이를 가장하고 있습니다. 새 인증서를 수락하시겠습니까?</string>
     <string name="connections">연결</string>
     <string name="fix">권한 검토</string>
     <string name="media_size_4x6in">4x6인치</string>

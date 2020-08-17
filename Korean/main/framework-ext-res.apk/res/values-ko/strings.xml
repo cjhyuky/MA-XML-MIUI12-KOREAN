@@ -56,7 +56,7 @@
     <string name="alwaysUsePrompt">내 선택 기억</string>
     <string name="translation_query_error">결과를 찾을 수 없음</string>
     <string name="translation_query_error_network">정보를 가져올 수 없습니다. 네트워크 연결 상태를 확인한 후 다시 시도하세요.</string>
-    <string name="translation_more">더 보기</string>
+    <string name="translation_more">더보기</string>
     <string name="auto_start_warning_title">%s의 자동 실행을 허용하시겠습니까?</string>
     <string name="auto_start_warning_allow">허용</string>
     <string name="auto_start_warning_deny">거부</string>

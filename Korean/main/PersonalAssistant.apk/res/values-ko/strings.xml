@@ -991,7 +991,7 @@
     <string name="launch_setting_alipay_change">계정 전환</string>
     <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 알리페이 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
     <string name="launch_setting_alipay_change_posi">전환</string>
-    <string name="launch_setting_alipay_getversion">버전 번호 가져 오기</string>
+    <string name="launch_setting_alipay_getversion">버전 번호 가져오기</string>
     <string name="launch_setting_alipay_login">로그인</string>
     <string name="launch_setting_alipay_logout">로그아웃</string>
     <string name="launch_setting_alipay_logout_fail">로그아웃하지 못했습니다.</string>

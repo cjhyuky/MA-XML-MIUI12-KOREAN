@@ -7,19 +7,19 @@
         <item quantity="other">스톱워치가 %s시간 동안 실행되었습니다. 보려면 탭하세요.</item>
     </plurals>
     <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d 시간 "</item>
+        <item quantity="other">"%1$d시간 "</item>
     </plurals>
     <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d 분 "</item>
+        <item quantity="other">"%1$d분 "</item>
     </plurals>
     <plurals name="timer_message_second">
-        <item quantity="other">%1$d 초</item>
+        <item quantity="other">%1$d초</item>
     </plurals>
     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d 초</item>
+        <item quantity="other">%1$d초</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d 분</item>
+        <item quantity="other">%1$d분</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">%d분 후에 다시 알람</item>

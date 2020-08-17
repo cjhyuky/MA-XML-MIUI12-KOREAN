@@ -774,7 +774,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="long_vib">긴 진동</string>
     <string name="magnetic_info_finish">종료 </string>
     <string name="magnetic_test">마그네틱 센서</string>
-    <string name="more">더 보기</string>
+    <string name="more">더보기</string>
     <string name="networktype">네트워크 유형:</string>
     <string name="newinfo">새 권한</string>
     <string name="next_text">다음</string>
