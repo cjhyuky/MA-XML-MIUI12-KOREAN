@@ -466,5 +466,10 @@
     <string name="v7_preference_on">켬</string>
     <string name="worldclock_local_time">로컬 시간</string>
     <string name="worldclock_second_time">시간: %s</string>
-    <string name="worldcolock_time_date">yyyy/MM/dd</string> - convert to your format, for example pl dd.MM.yyyy
+    <string name="worldcolock_time_date">yyyy/MM/dd</string>
+    <string name="action_for_continue_timer">계속</string>
+    <string name="action_for_pause_timer">일시 중지</string>
+    <string name="action_for_restart">반복</string>
+    <string name="action_for_snooze">다시 알림</string>
+    <string name="action_for_stop">정지</string>
 </resources>

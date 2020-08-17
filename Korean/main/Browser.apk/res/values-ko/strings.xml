@@ -877,7 +877,7 @@
     <string name="mw_sad_tab_title">이런, 오류입니다!</string>
     <string name="mw_sad_tab_uma_optin">사용 통계 및 충돌 보고서를 Google에 자동 전송</string>
     <string name="mw_save_password_message">브라우저가 이 비밀번호를 기억하도록하시겠습니까?</string>
-    <string name="mw_save_password_never">다시보지않기</string>
+    <string name="mw_save_password_never">다시 보지 않기</string>
     <string name="mw_save_password_notnow">나중에</string>
     <string name="mw_save_password_remember">저장하기</string>
     <string name="mw_search_menu_title">검색</string>

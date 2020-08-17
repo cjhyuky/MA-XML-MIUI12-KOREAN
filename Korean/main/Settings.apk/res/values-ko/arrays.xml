@@ -1326,4 +1326,8 @@
         <item>LTE</item>
         <item>트리플 모드</item>
     </string-array>
+    <string-array name="screen_reader_mode_input_type_selector_titles">
+        <item>한 번 누르기</item>
+        <item>두 번 누르기</item>
+    </string-array>
 </resources>

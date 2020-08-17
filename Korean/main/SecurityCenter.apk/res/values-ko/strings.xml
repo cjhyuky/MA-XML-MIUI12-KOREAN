@@ -243,7 +243,7 @@
     <string name="alert_back_diving_mode_title">집중 모드</string>
     <string name="alert_back_milink_hangup_tips_content">통화를 종료하는 동안 캐스팅이 중단되지 않습니다. 전원 버튼을 눌러 화면을 깨울 수 있습니다.</string>
     <string name="all_address_choose_hint">이 지역에 있는 모든 번호</string>
-    <string name="already_close_gamebooster">게임 스피드 부스트 기능 비활성화됨</string>
+    <string name="already_close_gamebooster">게임 속도 향상 기능 비활성화됨</string>
     <string name="anti_disturb_msg_detail">전화 수신 알림을 제외한 모든 알림 끄기</string>
     <string name="anti_disturb_msg_title">방해 금지 모드</string>
     <string name="antispam_mode_details">차단 모드 세부정보</string>
@@ -607,7 +607,7 @@
     <string name="block_message_number">메시지: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">통화: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="boost_done">가속 성공</string>
-    <string name="boost_stop">스피드 부스트 모드 해제</string>
+    <string name="boost_stop">속도 향상 모드 해제</string>
     <string name="booster_immediately">부스트</string>
     <string name="booster_suc">가속 성공</string>
     <string name="boostering">스피드 가속 중…</string>
@@ -694,7 +694,7 @@
     <string name="card_main_deepclean_wechat_title">WeChat 캐시</string>
     <string name="card_main_deepclean_whatsapp_title">WhatsApp 클리너</string>
     <string name="card_main_gamebooster_summary">게임을 위한 네트워크 연결 안정성 향상</string>
-    <string name="card_main_gamebooster_title">게이밍 스피드 부스트</string>
+    <string name="card_main_gamebooster_title">게이밍 속도 향상</string>
     <string name="card_main_hbassistant_summary">봉투을 더 빨리 받으려면 이 도구를 사용하세요.</string>
     <string name="card_main_hbassistant_title">빨간 봉투 도우미</string>
     <string name="card_main_hwtest_title">하드웨어 테스트</string>
@@ -704,7 +704,7 @@
     <string name="card_main_netcheck_title">네트워크 테스트</string>
     <string name="card_main_optimize_manage_action">지금 부스트</string>
     <string name="card_main_optimize_manage_summary">기기의 속도 향상을 위해 캐시 지우기</string>
-    <string name="card_main_optimize_manage_title">스피드 부스트</string>
+    <string name="card_main_optimize_manage_title">속도 향상</string>
     <string name="card_main_overscroll_tips">보안이 최우선입니다.</string>
     <string name="card_main_private_space_action">생성</string>
     <string name="card_main_private_space_summary">보조 공간은 2개의 기기를 사용하는 것과 같습니다.</string>
@@ -1170,10 +1170,10 @@
     <string name="forget_pattern">&lt;u&gt;비밀번호 분실&lt;/u&gt;</string>
     <string name="forground_network_optimization_summary">현재 실행 중인 게임에 더 많은 대역폭 제공</string>
     <string name="forground_network_optimization_title">대역폭 우선 순위</string>
-    <string name="free_send_net_booster">무료 네트워크 스피드 부스트</string>
-    <string name="free_send_net_booster_busniess">무료 Xunlei 스피드 부스트 앱 받기</string>
+    <string name="free_send_net_booster">무료 네트워크 속도 향상</string>
+    <string name="free_send_net_booster_busniess">무료 Xunlei 속도 향상 앱 받기</string>
     <string name="free_send_net_booster_busniess_tip">탭하여 받기</string>
-    <string name="free_send_net_booster_tip">무료 네트워크 스피드 부스트로 더 원활해진 게임 환경을 즐겨보세요.</string>
+    <string name="free_send_net_booster_tip">무료 네트워크 속도 향상로 더 원활해진 게임 환경을 즐겨보세요.</string>
     <string name="free_time_traffic">오프 피크 데이터 한도</string>
     <string name="free_time_traffic_hint">오프 피크 데이터 한도 입력</string>
     <string name="free_time_traffic_settings">오프 피크 데이터 한도</string>
@@ -1196,7 +1196,7 @@
     <string name="game_ad_recommendation">모두가 게임하고 있습니다.</string>
     <string name="game_anti_disturb_msg">게임시 방해 금지</string>
     <string name="game_booster">게임 스피드 부스터</string>
-    <string name="game_booster_close">게임 스피드 부스트 해제</string>
+    <string name="game_booster_close">게임 속도 향상 해제</string>
     <string name="game_booster_intro">게임 스피드 부스터 정보</string>
     <string name="game_booster_jump_webview">잠시만 기다려 주세요.</string>
     <string name="game_booster_tab_top">상단</string>
@@ -1352,7 +1352,7 @@
     <string name="gs_gamebox_detail">화면 상단 가장자리에서 스와이프하여 보기</string>
     <string name="gs_gamebox_slip">화면을 내려서 여세요.</string>
     <string name="gs_only_self_start_for_list">게임중 배터리 절약을 위해 백그라운드 프로세스를 제한합니다.</string>
-    <string name="gs_open_game_booster">스피드 부스트</string>
+    <string name="gs_open_game_booster">속도 향상</string>
     <string name="gs_open_game_booster_summary">게임 실행을 위해 네트워크 속도 향상</string>
     <string name="gs_performance_mode">성능 모드</string>
     <string name="gs_performance_mode_detail">게임용 시스템 성능 최적화</string>
@@ -1659,7 +1659,7 @@
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
-    <string name="menu_text_optimize_manage">스피드 부스트</string>
+    <string name="menu_text_optimize_manage">속도 향상</string>
     <string name="menu_text_power_manager">배터리</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_wh_remove">예외 목록에서 제거</string>
@@ -1688,12 +1688,12 @@
     <string name="more_setting_summary">빨간 봉투 알림 유형, 바탕 화면 플로팅 창 지원, 시간 등을 방해하지 마세요.</string>
     <string name="more_settings">더보기</string>
     <string name="name">이름</string>
-    <string name="net_booster">네트워크 스피드 부스트</string>
+    <string name="net_booster">네트워크 속도 향상</string>
     <string name="net_booster_expire_notification">네트워크 가속 세션 만료 알림</string>
     <string name="net_booster_overdue_notification">네트워크 가속 세션 만료 알림</string>
     <string name="net_booster_overdue_notification_tip">네트워크 가속 세션이 곧 종료될 것입니다. 세션을 갱신하시겠습니까?</string>
-    <string name="net_booster_tip">네트워크 스피드 부스트를 실행하여 더욱 안정적인 Wi-Fi 연결 및 네트워크 지연 감소</string>
-    <string name="net_booster_title">네트워크 스피드 부스트</string>
+    <string name="net_booster_tip">네트워크 속도 향상을 실행하여 더욱 안정적인 Wi-Fi 연결 및 네트워크 지연 감소</string>
+    <string name="net_booster_title">네트워크 속도 향상</string>
     <string name="net_boosting">스피드 가속 중…</string>
     <string name="net_delay_title">지연</string>
     <string name="net_overdue">세션 종료됨</string>
@@ -1786,7 +1786,7 @@
     <string name="om_settings_memory_occupy_notify">메모리 사용 알림</string>
     <string name="om_settings_memory_occupy_notify_never">알리지 않음</string>
     <string name="om_settings_notify_manage">알림</string>
-    <string name="om_settings_speed_up_auto">자동 스피드 부스트</string>
+    <string name="om_settings_speed_up_auto">자동 속도 향상</string>
     <string name="om_settings_title">최적화 설정</string>
     <string name="open_activity_err">앱을 찾을 수 없습니다.</string>
     <string name="open_alarm_right_now">즉시 열기</string>
@@ -1808,7 +1808,7 @@
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
-    <string name="optimize_manage_title">스피드 부스트</string>
+    <string name="optimize_manage_title">속도 향상</string>
     <string name="optimize_result_available_memory_info">사용 가능한 메모리</string>
     <string name="optimize_result_button_cloudspace">더 많은 클라우드 저장 공간 확보</string>
     <string name="optimize_result_button_consume_power_analysis">배터리 스캔</string>
@@ -3008,9 +3008,9 @@
     <string name="wifi_item_title_encryption">Wi-Fi가 암호화되지 않았습니다.</string>
     <string name="wifi_item_title_fake">가짜 Wi-Fi 감지</string>
     <string name="wifi_network_blocked_notification_title">인터넷 연결 없음</string>
-    <string name="wifi_optizition_loading">Xunyou 네트워크 스피드 부스트 켜는 중…</string>
-    <string name="wifi_optizition_tip">Wi-Fi 스피드 부스트를 실행하여 더욱 안정적인 Wi-Fi 연결, 소량의 모바일 데이터가 사용될 것입니다.</string>
-    <string name="wifi_optizition_title">Wi-Fi 스피드 부스트</string>
+    <string name="wifi_optizition_loading">Xunyou 네트워크 속도 향상 켜는 중…</string>
+    <string name="wifi_optizition_tip">Wi-Fi 속도 향상을 실행하여 더욱 안정적인 Wi-Fi 연결, 소량의 모바일 데이터가 사용될 것입니다.</string>
+    <string name="wifi_optizition_title">Wi-Fi 속도 향상</string>
     <string name="wl_no_whitelist">예외 없음.</string>
     <string name="wlan_booster">Wi-Fi 최적화</string>
     <string name="wlan_change_protection_detail">모바일 데이터 네트워크에 연결되어 있을 때 자동으로 Wi-Fi로 전환되지 않습니다.</string>
@@ -3018,8 +3018,8 @@
     <string name="wlan_optimization_summary">Wi-Fi 네트워크 지연을 줄입니다.</string>
     <string name="wlan_optimization_title">Wi-Fi 최적화</string>
     <string name="wrong_password">잘못된 비밀번호</string>
-    <string name="xunyou_net_booster">네트워크 스피드 부스트</string>
-    <string name="xunyou_net_booster_detail">게임할 때 Xunyou 스피드 부스트를 활용해보세요.</string>
+    <string name="xunyou_net_booster">네트워크 속도 향상</string>
+    <string name="xunyou_net_booster_detail">게임할 때 Xunyou 속도 향상을 활용해보세요.</string>
     <string name="xunyou_pay_webview">Xunyou 서비스</string>
     <string name="xunyou_server_expired">시간 초과</string>
     <string name="yuan">위안</string>
@@ -3245,7 +3245,7 @@
     <string name="vtb_func_vpp_title">향상된 윤곽선</string>
     <string name="ac_recommend_guide_dialog_app_content">개인정보를 보호하고 데이터 유출을 방지하기 위해 이 앱과 함께 앱 잠금을 사용하세요.</string>
     <string name="ac_recommend_guide_dialog_content">앱 잠금을 사용하여 개인정보를 보호하고 데이터 유출을 방지 할 수 있습니다.</string>
-    <string name="ac_recommend_guide_dialog_ignore">"다시보지 않음"</string>
+    <string name="ac_recommend_guide_dialog_ignore">"다시 보지 않기"</string>
     <string name="ac_recommend_guide_dialog_open">켬</string>
     <string name="ew_alert_earthquake_feel_little">약간 흔들림</string>
     <string name="ew_alert_earthquake_feel_none">없음</string>

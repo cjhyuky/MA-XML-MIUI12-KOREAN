@@ -59,7 +59,7 @@
     <string name="ball_basketball_total_rank">통계</string>
     <string name="ball_dialog_confirm">설치</string>
     <string name="ball_dialog_content">이 기능을 사용하기 위해 %s 항목을 설치해야 합니다. 허용하시겠습니까?</string>
-    <string name="ball_dialog_tip">다시보지 않기</string>
+    <string name="ball_dialog_tip">다시 보지 않기</string>
     <string name="ball_dialog_title">앱을 먼저 설치하세요.</string>
     <string name="ball_football_news">뉴스</string>
     <string name="ball_football_rank_flat">무승부</string>
@@ -917,7 +917,7 @@
     <string name="alipay_sdk_payed_success">결제완료</string>
     <string name="alipay_sdk_tiemout">세션이 만료됨. 다시 로그인하세요.</string>
     <string name="express_install_cainiao_description">%s 서비스는 Cainiao 앱이 필요합니다. 설치하시겠습니까?</string>
-    <string name="express_install_cainiao_hidden"><u>"다시보지않기"</u></string>
+    <string name="express_install_cainiao_hidden"><u>"다시 보지 않기"</u></string>
     <string name="express_install_cainiao_ok">설치</string>
     <string name="express_install_cainiao_title">Cainiao 앱 설치</string>
     <string name="express_install_delivery_service">배송을 추적하시고, 업체와 연락할 수 있습니다.</string>
