@@ -655,7 +655,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="location_service_required_title">위치 기반 카드 표시하기</string>
     <string name="google_location_service_required_text">지역 날씨 및 출퇴근길 교통 정보와 같은 위치 기반 카드를 표시하려면 Google의 위치 서비스를 사용 설정하세요.</string>
     <string name="network_location_required_text">지역 날씨 및 출퇴근길 교통 정보와 같은 위치 기반 카드를 표시하려면 Wi‑Fi 및 모바일 네트워크 위치를 사용 설정하세요.</string>
-    <string name="network_location_required_text_klp">현지 날씨 및 출퇴근길 교통 정보와 같은 위치 기반 카드를 표시하려면 높은 정확성 또는 배터리 절약 위치 모드를 선택하세요.</string>
+    <string name="network_location_required_text_klp">현지 날씨 및 출퇴근길 교통 정보와 같은 위치 기반 카드를 표시하려면 높은 정확성 또는 절전 위치 모드를 선택하세요.</string>
     <string name="location_access_required_text_klp">현지 날씨 및 출퇴근길 교통 정보와 같은 위치 기반 카드를 표시하려면 위치 정보 접근을 사용하도록 설정하세요.</string>
     <string name="teams">팀</string>
     <string name="shared_commutes">다음 사용자가 나와 위치를 공유함</string>
@@ -1355,7 +1355,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="manage_space_clear_launcher_data_dlg_text">메인 스크린 배열을 포함한 모든 Google Now 런처 데이터가 완전히 삭제됩니다.</string>
     <string name="manage_space_all_storage_descriptive_text">Google 검색, Google Now, Google Now 런처 데이터를 모두 삭제합니다.</string>
     <string name="manage_space_all_size_label">전체 저장 공간</string>
-    <string name="manage_space_clear_all_data">모든 데이터 지우기</string>
+    <string name="manage_space_clear_all_data">모든 데이터 삭제</string>
     <string name="manage_space_clear_all_data_dlg_title">모든 데이터를 삭제하시겠습니까?</string>
     <string name="manage_space_clear_all_data_dlg_text">Google 검색, Google Now, Google Now 런처 데이터가 모두 완전히 삭제됩니다.</string>
     <string name="cannot_show_image_low_disk_space">저장공간이 부족하여 이미지를 표시할 수 없습니다.</string>

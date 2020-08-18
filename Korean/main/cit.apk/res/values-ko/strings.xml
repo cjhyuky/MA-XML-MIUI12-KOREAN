@@ -518,8 +518,8 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_build_finger_failed">지문 데이터 빌드 실패</string>
     <string name="cit_build_finger_passed">b지문 데이터 빌드 통과</string>
     <string name="cit_dial_emergencycall">112에 신고하세요.</string>
-    <string name="cit_emergencycall_check_summary">112에 신고하세요 버튼을 눌러 긴급 전화 연결이 원활하게 되는지 확인하세요.</string>
-    <string name="cit_emergencycall_check_title">긴급 전화</string>
+    <string name="cit_emergencycall_check_summary">112에 신고하세요 버튼을 눌러 긴급 통화 연결이 원활하게 되는지 확인하세요.</string>
+    <string name="cit_emergencycall_check_title">긴급 통화</string>
     <string name="cit_external_sd_check_summary">이 테스트는 SD 카드 상태를 확인합니다.</string>
     <string name="cit_external_sd_check_title">SD 카드 테스트</string>
     <string name="cit_finger_check_title">지문 인식 테스트 (FPC)</string>
@@ -610,7 +610,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="radio_info_phone_ringing">벨소리 울리는 중</string>
     <string name="radio_info_roaming_in">로밍</string>
     <string name="radio_info_roaming_not">로밍 중이 아님</string>
-    <string name="radio_info_service_emergency">긴급 전화만</string>
+    <string name="radio_info_service_emergency">긴급 통화만</string>
     <string name="radio_info_service_in">서비스망 내에 있음</string>
     <string name="radio_info_service_off">라디오 꺼짐</string>
     <string name="radio_info_service_out">서비스망 내에 없음</string>

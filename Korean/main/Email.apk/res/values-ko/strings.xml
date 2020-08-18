@@ -74,7 +74,7 @@
     <string name="account_settings_servers">서버 설정</string>
     <string name="account_settings_summary">동기화 주기, 알림 등</string>
     <string name="account_settings_sync_calendar_enable">달력 동기화</string>
-    <string name="account_settings_sync_calendar_summary">이 계정의 달력 일정 동기화</string>
+    <string name="account_settings_sync_calendar_summary">이 계정의 캘린더 일정 동기화</string>
     <string name="account_settings_sync_contacts_enable">연락처 동기화</string>
     <string name="account_settings_sync_contacts_summary">이 계정의 연락처 동기화</string>
     <string name="account_settings_sync_email_enable">이메일 동기화</string>
@@ -233,8 +233,8 @@
     <string name="auto_remind_unbind">중지</string>
     <string name="auto_sync_off">자동 동기화가 꺼져 있습니다.</string>
     <string name="bank_card_detail">신용카드 세부사항</string>
-    <string name="battery_saver">배터리 절약</string>
-    <string name="battery_saver_keywords">배터리 절약;이메일 배터리</string>
+    <string name="battery_saver">절전 모드</string>
+    <string name="battery_saver_keywords">절전 모드;이메일 배터리</string>
     <string name="bcc">숨은 참조</string>
     <string name="bill_center_setting">결제 설정</string>
     <string name="bill_center_setting_head">이 계정에서 정보 가져오기</string>
@@ -367,7 +367,7 @@
     <string name="dialog_gmail_proxy_server_is_error">Gmail 프록시 서버 오류</string>
     <string name="dialog_insufficient_space_on_external">첨부파일을 다운로드할 수 없습니다. 외장 메모리의 공간이 부족합니다.</string>
     <string name="dialog_insufficient_space_on_internal">외장 메모리에 충분한 공간 없음</string>
-    <string name="disable_admin_warning">경고: 귀하의 기기 관리 이메일 앱의 권한을 비활성화하면 이메일, 연락처, 달력 일정, 기타 데이터와 함께 권한을 필요로 하는 모든 이메일 계정이 삭제됩니다.</string>
+    <string name="disable_admin_warning">경고: 귀하의 기기 관리 이메일 앱의 권한을 비활성화하면 이메일, 연락처, 캘린더 일정, 기타 데이터와 함께 권한을 필요로 하는 모든 이메일 계정이 삭제됩니다.</string>
     <string name="discard">취소</string>
     <string name="discard_drafts">작성 중인 글 삭제</string>
     <string name="dismiss_tip_hover_text">팁 무시</string>
@@ -403,7 +403,7 @@
     <string name="email_netease">NetEase 메일</string>
     <string name="email_qq">QQ 메일</string>
     <string name="email_setting">이메일</string>
-    <string name="email_setting_keywords">계정;계정 추가;이메일 계정;이메일 계정 추가;삭제 전 확인;삭제 확인;전송 전 확인;전송 확인;메시지 경로 삭제;리다이렉트 삭제;대화 보기;이메일 대화;배터리 절약;이메일 배터리;피드백 전송;기록 업로드</string>
+    <string name="email_setting_keywords">계정;계정 추가;이메일 계정;이메일 계정 추가;삭제 전 확인;삭제 확인;전송 전 확인;전송 확인;메시지 경로 삭제;리다이렉트 삭제;대화 보기;이메일 대화;절전 모드;이메일 배터리;피드백 전송;기록 업로드</string>
     <string name="email_sina">Sina 메일</string>
     <string name="empty_account_tip">계정을 찾지 못했습니다.</string>
     <string name="empty_email_tip">빈 메시지는 전송할 수 없습니다.</string>
@@ -693,7 +693,7 @@
     <string name="password_expired_ticker">잠금 화면의 PIN 또는 비밀번호가 만료되었습니다.</string>
     <string name="path_about_account_setting">이메일/설정/계정</string>
     <string name="path_about_add_account">이메일/설정/계정 추가</string>
-    <string name="path_about_battery_saver">이메일/설정/배터리 절약</string>
+    <string name="path_about_battery_saver">이메일/설정/절전 모드</string>
     <string name="path_about_confirm_before_delete">이메일/설정/삭제 전 확인</string>
     <string name="path_about_confirm_before_send">이메일/설정/전송 전 확인</string>
     <string name="path_about_conversation_view">이메일/설정/대화 보기</string>
@@ -719,7 +719,7 @@
     <string name="policy_app_blacklist">지정된 앱 허용 안 함</string>
     <string name="policy_app_whitelist">지정된 앱만 허용</string>
     <string name="policy_bluetooth_restricted">블루투스 사용 제한</string>
-    <string name="policy_calendar_age">동기화된 달력 일정 수 제한</string>
+    <string name="policy_calendar_age">동기화된 캘린더 일정 수 제한</string>
     <string name="policy_dont_allow_attachments">첨부파일 허용 안 함</string>
     <string name="policy_dont_allow_browser">브라우저 허용 안 함</string>
     <string name="policy_dont_allow_camera">이 기기의 카메라 사용 차단</string>
@@ -1139,7 +1139,7 @@
     <string name="others_mail">기타</string>
     <string name="others_mail_des">기타 개인 또는 회사 이메일 서비스</string>
     <string name="qq_authorization_help_get">도움을 받으세요.</string>
-    <string name="qq_authorization_know">인증코드 인식</string>
+    <string name="qq_authorization_know">인증 코드 인식</string>
     <string name="qq_authorization_tips">더 이상 시도되지 않습니다.</string>
     <string name="qq_verify_code">(QQ 인증 코드 필요함)</string>
     <string name="title_activity_about">정보</string>
@@ -1263,9 +1263,9 @@
     <string name="privacy_setting_agree">동의</string>
     <string name="qq_login_help_bottom_tip">"비밀번호를 잊어 버렸거나 계정 상태를 확인해야하는 경우 웹 버전의 QQ Mail을 사용하세요. WeChat에서 도움을받을 수도 있습니다:"</string>
     <string name="qq_login_help_details1">1. QMAP 비밀번호는 IMAP/Exchange 프로토콜로 독립 비밀번호 또는 인증 코드가 설정되지 않은 경우 사용할 수 있습니다.</string>
-    <string name="qq_login_help_details2">2. IMAP/Exchange 프로토콜로 인증코드가 설정되지 않은 경우 독립 비밀번호를 사용할 수 있습니다.</string>
-    <string name="qq_login_help_details3">"3. 타사 이메일 클라이언트 용으로 생성된 인증코드를 사용하여 로그인할 수도 있습니다. 코드를 잊어 버린 경우 다음 링크를 참조하세요:"</string>
-    <string name="qq_login_help_title">QQ/독립 비밀번호/인증코드:</string>
+    <string name="qq_login_help_details2">2. IMAP/Exchange 프로토콜로 인증 코드가 설정되지 않은 경우 독립 비밀번호를 사용할 수 있습니다.</string>
+    <string name="qq_login_help_details3">"3. 타사 이메일 클라이언트 용으로 생성된 인증 코드를 사용하여 로그인할 수도 있습니다. 코드를 잊어 버린 경우 다음 링크를 참조하세요:"</string>
+    <string name="qq_login_help_title">QQ/독립 비밀번호/인증 코드:</string>
     <string name="setting_kids_subtitle">확인된 사용자 연령</string>
     <string name="setting_kids_title">16세 이상</string>
     <string name="toast_bar_sync_failed_client_cert">"인증서 누락으로 인해 동기화할 수 없습니다. 인증서를 다시 추가하려면 살짝 누르세요."</string>

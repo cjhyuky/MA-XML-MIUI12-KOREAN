@@ -105,7 +105,7 @@
     <string name="dualflash_tips">교대로 2 개의 손전등이 열리 며 시계를 계속하세요!</string>
     <string name="emer_call_butt">에머 통화 112</string>
     <string name="emer_call_notice">참고 : 전화를 걸 때 CIT 테스트로 돌아가려면 버튼을 누르고 수동으로 테스트 결과를 판단하세요.</string>
-    <string name="emer_call_tips">긴급 전화를 걸려면 다이얼 버튼을 클릭하세요!</string>
+    <string name="emer_call_tips">긴급 통화를 걸려면 다이얼 버튼을 클릭하세요!</string>
     <string name="emergency_call">전화 112 테스트</string>
     <string name="enable_usb_diag">Diag USB 포트 사용</string>
     <string name="english">영어</string>

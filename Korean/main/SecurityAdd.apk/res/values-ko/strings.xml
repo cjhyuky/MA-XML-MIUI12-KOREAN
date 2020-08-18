@@ -59,7 +59,7 @@
     <string name="superpower_app_finish">완료</string>
     <string name="superpower_battery_dangerous">가능한 빨리 충전기를 연결하세요.</string>
     <string name="superpower_date">M월 d일 EEEE</string>
-    <string name="superpower_dialog_app_select_content">타사 앱은 일반적으로 시스템 앱보다 더 많은 전력을 소비합니다. 그래도 추가하시겠습니까?</string>
+    <string name="superpower_dialog_app_select_content">타사 앱은 일반적으로 시스템 앱보다 더 많은 배터리를 소모합니다. 그래도 추가하시겠습니까?</string>
     <string name="superpower_dialog_app_select_title">주의</string>
     <string name="superpower_incharging">충전 중</string>
     <string name="superpower_progress_battery_last">%s 남음</string>

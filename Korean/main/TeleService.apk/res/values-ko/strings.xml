@@ -364,7 +364,7 @@
     <string name="callFailed_dialToDial">DIAL 요청이 다른 번호로 된 DIAL 요청으로 수정되었습니다.</string>
     <string name="callFailed_cb_enabled">착발신 제한이 설정되어 있는 상태에서는 전화를 걸 수 없습니다.</string>
     <string name="callFailed_dsac_restricted">액세스 제어에 의해 통화가 제한되었습니다.</string>
-    <string name="callFailed_dsac_restricted_emergency">액세스 제어에 의해 긴급 전화가 제한되었습니다.</string>
+    <string name="callFailed_dsac_restricted_emergency">액세스 제어에 의해 긴급 통화가 제한되었습니다.</string>
     <string name="callFailed_dsac_restricted_normal">액세스 제어에 의해 일반 통화가 제한되었습니다.</string>
     <string name="callFailed_unobtainable_number">잘못된 번호</string>
     <string name="incall_error_missing_voicemail_number">음성사서함 번호를 알 수 없음</string>
@@ -415,7 +415,7 @@
     <string name="ruim_unlock_success">RUIM 잠금해제 성공.</string>
     <string name="puk_unlock_success">PUK 잠금해제 성공.</string>
     <string name="phoneAppLabel">전화 서비스</string>
-    <string name="emergencyDialerIconLabel">긴급 전화</string>
+    <string name="emergencyDialerIconLabel">긴급 통화</string>
     <string name="phoneIconLabel">전화</string>
     <string name="fdnListLabel">FDN 목록</string>
     <string name="unknown">알 수 없음</string>
@@ -857,7 +857,7 @@
     <string name="incall_error_wfc_only_no_wireless_network">전화를 거시려면 무선 네트워크에 연결해야 합니다.</string>
     <string name="incall_error_local_low_battery">배터리 부족으로 통화에 실패했습니다.</string>
     <string name="incall_error_low_battery">기기의 배터리 부족으로 연결할 수 없습니다.</string>
-    <string name="emergency_enable_radio_dialog_title">긴급 전화</string>
+    <string name="emergency_enable_radio_dialog_title">긴급 통화</string>
     <string name="emergency_enable_radio_dialog_message">라디오 켜는 중…</string>
     <string name="emergency_enable_radio_dialog_retry">서비스 지역에서 벗어났습니다. 다시 시도 중…</string>
     <string name="dial_emergency_error">%s은 긴급 번호가 아닙니다.</string>
@@ -939,8 +939,8 @@
     <string name="enable_video_calling_dialog_msg">영상 통화를 켜시려면 네트워크 설정에서 향상된 4G LTE로 설정해야 합니다.</string>
     <string name="enable_video_calling_dialog_settings">네트워크 설정</string>
     <string name="enable_video_calling_dialog_close">닫기</string>
-    <string name="sim_label_emergency_calls">긴급 전화</string>
-    <string name="sim_description_emergency_calls">긴급 전화 전용</string>
+    <string name="sim_label_emergency_calls">긴급 통화</string>
+    <string name="sim_description_emergency_calls">긴급 통화 전용</string>
     <string name="sim_description_default">SIM 카드, 슬롯: %s</string>
     <string name="accessibility_settings_activity_title">접근성</string>
     <string name="status_hint_label_incoming_wifi_call">Wi-Fi 통화 수신</string>
@@ -1084,7 +1084,7 @@
     <string name="autoip_areacode_required">지역 코드 요구됨</string>
     <string name="autoip_areacode_required_accept">확인</string>
     <string name="emergency_call_area_code_edit_dialog_hint">지역 코드 입력</string>
-    <string name="autoip_areacode_required_for_emergency_number">지역 코드는 긴급 전화를 위해 필요합니다.</string>
+    <string name="autoip_areacode_required_for_emergency_number">지역 코드는 긴급 통화를 위해 필요합니다.</string>
     <string name="emergency_call_area_code_edit_dialog_button">전화걸기</string>
     <string name="dial_related_setting_catory">다이얼</string>
     <string name="t9_indexing_method_title">T9 검색 입력</string>
@@ -1852,7 +1852,7 @@
     <string name="mock_location_app">모의 위치 앱 선택</string>
     <string name="mock_location_app_not_set">간이 위치 앱이 설정되지 않았습니다.</string>
     <string name="mock_location_app_set">간이 위치 앱 : %1$s</string>
-    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"긴급 전화 모드에서 보조 SIM 카드 사용을 제한하지 않습니다."</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"긴급 통화 모드에서 보조 SIM 카드 사용을 제한하지 않습니다."</string>
     <string name="no_application">아무것도 없습니다.</string>
     <string name="no_checked_network">"이 모바일 네트워크를 이용하여 전화를 걸 수 없습니다. 다른 네트워크를 선택하시겠습니까?"</string>
     <string name="no_mobile_data">"모바일 데이터를 사용할 수 없습니다."</string>
@@ -2312,7 +2312,7 @@
     <string name="labelCFNRc_cdma">임시 전달</string>
     <string name="vice_slot_volte_data_switch_prompt">VoLTE 통화 중에 보조 SIM을 사용하여 기기가 모바일 데이터 네트워크에 연결됩니다. 이로 인해 추가 데이터 수수료가 발생할 수 있습니다. 데이터 요금제에 대한 자세한 내용은 가입한 이동통신사에 문의하세요.</string>
     <string name="vice_slot_volte_data_switch_summary">VoLTE 통화 중에 기기가 보조 SIM을 사용하여 모바일 데이터 네트워크에 연결됩니다.</string>
-    <string name="vice_slot_volte_data_switch_title">VoLTE 통화 중에 보조 SIM의 모바일 데이터 사용</string>
+    <string name="vice_slot_volte_data_switch_title">VoLTE 통화 중 보조 SIM 모바일 데이터 사용</string>
     <string name="cfnry_time_fifteen_sec">15초</string>
     <string name="cfnry_time_five_sec">5초</string>
     <string name="cfnry_time_setting_title">대기 시간 설정</string>
@@ -2636,15 +2636,15 @@
     <string name="sip_account_disable">"이 계정은 비활성화되어 있습니다. 전화를 받을 수 없습니다."</string>
     <string name="sip_receive_call_disable">"전화 수신 불가. 전화 수신 권한을 먼저 허용하세요."</string>
     <string name="vowifi_emergency_notification_channel">Wi-Fi 콜 긴급 경고</string>
-    <string name="vowifi_emergency_notification_content">긴급전화는 휴대전화 사용가능지역에서만 사용할 수 있습니다.</string>
+    <string name="vowifi_emergency_notification_content">긴급 통화는 휴대전화 사용가능지역에서만 사용할 수 있습니다.</string>
     <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi 통화</string>
     <string name="vowifi_emergency_warning_check">"다시 보지 않기."</string>
-    <string name="vowifi_emergency_warning_message">"Wi-Fi 통화로 긴급통화를 할 수 없습니다.
+    <string name="vowifi_emergency_warning_message">"Wi-Fi 통화로 긴급 통화를 할 수 없습니다.
 
 장치는 자동으로 셀룰러 네트워크 (2G/3G)로 전환되어 비상전화를 걸 수 있습니다.
 
-긴급전화는 휴대전화 서비스 지역에서만 가능합니다."</string>
-    <string name="vowifi_emergency_warning_title">Wi-Fi콜로 긴급전화</string>
+긴급 통화는 휴대전화 서비스 지역에서만 가능합니다."</string>
+    <string name="vowifi_emergency_warning_title">Wi-Fi콜로 긴급 통화</string>
     <string name="wifi_call_setting_vodafone_de">Wi-Fi콜 연결 중</string>
     <string name="wifi_call_setting_vodafone_uk">Wi-Fi콜</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G 우선</string>
@@ -2803,7 +2803,7 @@
     <string name="roaming_user_package_summary_kr">"로밍 패키지를 구매, 취소 및 편집하세요. 로밍중에 이 메뉴를 사용하면 요금이 청구되지 않습니다."</string>
     <string name="roaming_user_package_title_kr">로밍 패키지 사용</string>
     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">비활성화</string>
-    <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">비활성화 할 SIM 선택</string>
+    <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">비활성화할 SIM 선택</string>
     <string name="single_fiveg_dialog_title_prompt">주의</string>
     <string name="single_fiveg_dialog_title_remind">주의</string>
     <string name="single_fiveg_disable_fiveg_dialog_btn_getit">확인</string>
@@ -2837,11 +2837,11 @@
     <string name="fiveg_sa_switch_title_slot1">SIM 2 SA 모드</string>
     <string name="smart_dual_sim_prompt_ok">설정</string>
     <string name="smart_dual_sim_prompt_title">데이터 사용 경고(SIM %s)</string>
-    <string name="limited_service_alert_dialog_description"><b>Wi-Fi 통화로 긴급 전화</b>"
-긴급 전화는 Wi-Fi 통화로 걸 수 없습니다. 
+    <string name="limited_service_alert_dialog_description"><b>Wi-Fi 통화로 긴급 통화</b>"
+긴급 통화는 Wi-Fi 통화로 걸 수 없습니다. 
 
-긴급 전화를 걸기 위해 모바일 네트워크 (2G/3G)로 자동 전환됩니다. 
+긴급 통화를 걸기 위해 모바일 네트워크 (2G/3G)로 자동 전환됩니다. 
 
-긴급 전화는 모바일 네트워크 서비스 커버리지에서만 가능합니다."</string>
+긴급 통화는 모바일 네트워크 서비스 커버리지에서만 가능합니다."</string>
     <string name="media_transfer_wired_usb_device_name">유선 헤드폰</string>
 </resources>

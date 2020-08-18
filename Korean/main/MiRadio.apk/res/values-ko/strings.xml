@@ -338,5 +338,5 @@ ID:%s
     <string name="user_avatar_update_title">프로필 사진 변경</string>
     <string name="user_avatar_uploading">잠시 기다려 주세요…</string>
     <string name="user_id_hint">이메일/전화/Mi 계정 ID</string>
-    <string name="v_code_title">확인코드 입력</string>
+    <string name="v_code_title">확인 코드 입력</string>
 </resources>

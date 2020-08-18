@@ -139,7 +139,7 @@
     <string name="file_received_successfully_from_pc">%1$s에서 200개 이상의 파일을 받았습니다.</string>
     <string name="file_transfer_progress_title">진행</string>
     <string name="i_know">확인</string>
-    <string name="mishare_folder_in_file_explorer">파일매니저 > MiShare</string>
+    <string name="mishare_folder_in_file_explorer">파일 관리자 > MiShare</string>
     <string name="send_successfully">전송 완료</string>
     <string name="some_files_receive_completed">"%1$s의 수신 완료된 파일 보기"</string>
     <string name="to_feedback">리포트</string>

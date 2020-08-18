@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="font_hint_large">기본 텍스트 크기</string>
-    <string name="font_hint_normal">텍스트 크기 늘리기</string>
+    <string name="font_hint_large">기본 글자 크기</string>
+    <string name="font_hint_normal">글자 크기 키우기</string>
     <string name="ktlocation_U">(KT 서비스 센터)</string>
     <string name="ktposition_header">긴급 구조 기관과 위치 정보 공유</string>
     <string name="locale_picker_other_locale_title">기타 지역</string>
@@ -55,7 +55,7 @@
     <string name="sim_redetection">다시 확인</string>
     <string name="congratulation_title">설치 완료</string>
     <string name="congratulation_label">즐길 준비가 되었습니다!</string>
-    <string name="pref_title_voice_slot">선호하는 음성 SIM 카드</string>
+    <string name="pref_title_voice_slot">선호하는 통화 SIM 카드</string>
     <string name="pref_title_data_slot">선호하는 데이터 SIM 카드</string>
     <string name="summary_not_set">설정 안 됨</string>
     <string name="ime_privacy_policy">선택한 키보드의 개인정보 보호정책</string>
@@ -117,7 +117,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="other_settings_user_experience_summary_index"></string>
     <string name="sim_card_detection_mobile_not_available">"SIM 카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM 카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결하세요."</string>
-    <string name="start_up_slogan">사용자만을 위한 서비스</string>
+    <string name="start_up_slogan">당신만을 위한 서비스</string>
     <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="agree_terms_input_method_kika">"나는 Kika 개인정보 보호 정책을 읽고 동의했습니다."</string>
     <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
@@ -130,7 +130,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji 개인정보 보호 정책</string>
     <string name="terms_privacy_policy_input_method_kika">키카 개인정보 보호 정책</string>
     <string name="voice_assist_desp_screen_light">화면이 켜지면 휴대전화에 \"Mi AI\"라고 말합니다. Mi AI가 사용자의 음성을 인식하고 장치를 제어 할 수 있게 됩니다.</string>
-    <string name="voice_assist_advice">Mi AI는 음성 컨트롤을 사용할 수 있지만 더 많은 전력을 소비합니다 (매시간 -1%).</string>
+    <string name="voice_assist_advice">Mi AI는 음성 컨트롤을 사용할 수 있지만 더 많은 배터리를 소모합니다 (매시간 -1%).</string>
     <string name="voice_assist_condition">"다음과 같은 경우 Mi AI를 사용할 수 있습니다:
 1. 화면이 켜져 있을 때
 2. 화면을 끄고 음악을 들을 때"</string>
@@ -188,7 +188,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="permission_account_introduction">Mi 계정으로 로그인</string>
     <string name="permission_application_package_introduction">설치 패키지를 구문 분석하고 스캔하기 위해 스토리지에 액세스</string>
     <string name="permission_call_records">통화 기록에 액세스 :</string>
-    <string name="permission_call_records_introduction">차단된 항목을 표시하기 위해 통화 내역에 액세스</string>
+    <string name="permission_call_records_introduction">차단된 항목을 표시하기 위해 통화 기록에 액세스</string>
     <string name="permission_call_state_introduction">전화 상태 액세스, 통화 녹음 및 수신 통화 중 녹음 일시 중지</string>
     <string name="permission_clock_info_introduction">알람 데이터 저장</string>
     <string name="permission_contact">연락처에 액세스:</string>
@@ -212,8 +212,8 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="permission_photo_video">사진 촬영 및 동영상 녹화 :</string>
     <string name="permission_photo_video_introduction">사진 촬영, 동영상 녹화 및 플래시 사용</string>
     <string name="permission_picture_introduction">사진 및 동영상 저장, 편집 및 동기화</string>
-    <string name="permission_read_call_records">통화 내역 편집 :</string>
-    <string name="permission_read_call_records_introduction">통화 내역에 항목 추가 및 차단된 통화 삭제</string>
+    <string name="permission_read_call_records">통화 기록 편집 :</string>
+    <string name="permission_read_call_records_introduction">통화 기록에 항목 추가 및 차단된 통화 삭제</string>
     <string name="permission_read_note_introduction">메모 및 첨부 파일에 액세스</string>
     <string name="permission_read_write_file">장치에서 파일 및 사진에 액세스하고 저장:</string>
     <string name="permission_read_write_file_introduction">장치의 항목에 액세스, 저장 및 캐싱</string>

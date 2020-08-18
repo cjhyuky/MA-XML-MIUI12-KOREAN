@@ -14,7 +14,7 @@
     <string name="delete_conference_call_log_title">회의 통화 기록 삭제</string>
     <string name="contact_detail_more_calllog">더보기</string>
     <string name="contacts_setting_title">연락처 설정</string>
-    <string name="search_contacts_setting">연락처 설정;사진 및 정보 표시;연락처 사진 지정;가져오기 및 내보내기;공유; SD 카드에서 가져오기;SIM 카드에서 가져오기;다른 휴대전화에서 가져오기;SD 카드에서 내보내기;SIM 카드에서 내보내기;연락처 공유; 디스플레이 선호설정;미완성 번호 숨기기;SIM 연락처 표시;연락처 목록 구성;스마트 그룹;연락처 조직; 중복 연락처 합치기;일괄 삭제;데이터 지우기;색인 데이터 리빌드;t9;SIM 카드;SIM 카드 저장소;연락처 복구 소개;연락처 사진</string>
+    <string name="search_contacts_setting">연락처 설정;사진 및 정보 표시;연락처 사진 지정;가져오기 및 내보내기;공유; SD 카드에서 가져오기;SIM 카드에서 가져오기;다른 휴대전화에서 가져오기;SD 카드에서 내보내기;SIM 카드에서 내보내기;연락처 공유; 디스플레이 선호설정;미완성 번호 숨기기;SIM 연락처 표시;연락처 목록 구성;스마트 그룹;연락처 조직; 중복 연락처 합치기;일괄 삭제;데이터 삭제;색인 데이터 리빌드;t9;SIM 카드;SIM 카드 저장소;연락처 복구 소개;연락처 사진</string>
     <string name="path_contacts_setting">시스템 앱/연락처</string>
     <string name="path_simple_mode">시스템 앱/연락처/사진 및 정보 표시</string>
     <string name="search_simple_mode">디스플레이;정보;사진;연락처</string>
@@ -50,7 +50,7 @@
     <string name="search_remove_duplicate">조직;연락처</string>
     <string name="path_batch_delete">시스템 앱/연락처/연락처 조직/일괄 삭제</string>
     <string name="search_batch_delete">조직;연락처</string>
-    <string name="path_wipe_data">시스템 앱/연락처/연락처 조직/데이터 지우기</string>
+    <string name="path_wipe_data">시스템 앱/연락처/연락처 조직/데이터 삭제</string>
     <string name="search_wipe_data">조직;연락처</string>
     <string name="path_key_rebuild_t9_index_title">시스템 앱/연락처/연락처 조직/인덱스 데이터 재작성</string>
     <string name="search_key_rebuild_t9_index_title">조직;연락처;t9</string>
@@ -171,7 +171,7 @@
     <string name="recentCalls_editNumberBeforeCall">통화 전 번호 수정</string>
     <string name="recentCalls_addToContact">기존 연락처에 추가</string>
     <string name="recentCalls_removeFromRecentList">통화 기록에서 지우기</string>
-    <string name="recentCalls_deleteAll">통화 내역 지우기</string>
+    <string name="recentCalls_deleteAll">통화 기록 지우기</string>
     <string name="recentCalls_trashVoicemail">음성 메일 삭제</string>
     <string name="recentCalls_shareVoicemail">음성 메일 공유</string>
     <string name="recentCalls_empty">통화 기록이 비어 있습니다.</string>
@@ -863,7 +863,7 @@
     <string name="preference_import">가져오기</string>
     <string name="preference_export">내보내기</string>
     <string name="preference_others">기타</string>
-    <string name="wipe_data">데이터 지우기</string>
+    <string name="wipe_data">데이터 삭제</string>
     <string name="display_only_phones">불완전한 번호 숨기기</string>
     <string name="preference_remove_duplicate">중복 연락처 합치기</string>
     <string name="scan_merge">\"중복 연락처 찾는 중…\"</string>

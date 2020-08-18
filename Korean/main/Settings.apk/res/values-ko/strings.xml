@@ -268,27 +268,27 @@
     <string name="add_fingerprint_cancel_button_text">뒤로가기</string>
     <string name="add_fingerprint_dirty_fingerprint">화면의 표면이 깨끗한지 확인하세요. 지문을 다시 기록해 보세요.</string>
     <string name="add_fingerprint_done_msg">지금부터 지문을 사용하여 기기를 잠금해제할 수 있게 되었습니다.</string>
-    <string name="add_fingerprint_done_title">즐길 준비가 되었습니다!</string>
-    <string name="add_fingerprint_edge_instruction_msg">센서위에 올려놓은 손가락을 살짝 움직이며 지문의 모든 부분이 추가될 수 있도록 하세요.</string>
-    <string name="add_fingerprint_edge_instruction_title">손가락을 약간 움직여 주세요.</string>
+    <string name="add_fingerprint_done_title">사용할 준비가 되었습니다!</string>
+    <string name="add_fingerprint_edge_instruction_msg">센서 위에 올린 손가락을 조금씩 움직여 지문의 모든 부분을 추가하세요.</string>
+    <string name="add_fingerprint_edge_instruction_title">손가락을 약간 움직이세요.</string>
     <string name="add_fingerprint_failed_retry_text">지문을 등록할 수 없습니다. 다시 시도하세요.</string>
     <string name="add_fingerprint_finished_button_text">완료</string>
     <string name="add_fingerprint_instruction_msg">지문으로 기기의 잠금해제 혹은 결제 인증</string>
     <string name="add_fingerprint_instruction_title">지문 추가</string>
     <string name="add_fingerprint_move_fast">화면에 손가락을 좀 더 오래 두세요.</string>
     <string name="add_fingerprint_name_suggest_text">지문 이름</string>
-    <string name="add_fingerprint_put_finger_edge_msg">센서위에 올려놓은 손가락을 살짝 움직이며 지문의 모든 부분이 추가될 수 있도록 하세요.</string>
-    <string name="add_fingerprint_put_finger_msg">진동을 느끼실 때 센서에 손가락을 올렸다 떼세요.</string>
+    <string name="add_fingerprint_put_finger_edge_msg">센서 위에 올려놓은 손가락을 살짝 움직이며 지문의 모든 부분이 추가될 수 있도록 하세요.</string>
+    <string name="add_fingerprint_put_finger_msg">센서에 손가락을 올리고 진동을 느끼면 떼세요.</string>
     <string name="add_fingerprint_put_finger_title">지문 추가</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg">손가락을 살짝 옮겨 주세요.</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">손가락을 살짝 옮겨주세요.</string>
     <string name="add_fingerprint_success_msg">성공적으로 추가됨</string>
     <string name="add_fingerprint_text">지문 추가</string>
     <string name="add_fingerprint_toast_text">센서에 손가락을 올려주세요.</string>
-    <string name="add_front_fingerprint_instruction_msg">지문인식센서는 기기 뒷면이나 기기 홈 버튼에 위치하여 있습니다.</string>
+    <string name="add_front_fingerprint_instruction_msg">지문인식 센서는 기기 뒷면이나 기기 홈 버튼에 위치하여 있습니다.</string>
     <string name="add_new">추가</string>
     <string name="add_rule">규칙 추가</string>
     <string name="add_virtual_keyboard">키보드 추가/삭제</string>
-    <string name="adding_profile_owner_warning">계속하면 내 사용자를 내 관리자가 관리하게 되며 관리자가 관련 데이터와 내 개인 데이터를 저장할 수 있게 됩니다.\n\n관리자는 설정, 액세스, 앱, 사용자와 연결된 데이터(예: 네트워크 활동, 기기의 위치 정보)를 모니터링하고 관리할 수 있습니다.</string>
+    <string name="adding_profile_owner_warning">계속하면 기기의 사용자를 관리자가 관리하게 되며, 관리자가 관련 데이터 및 개인 데이터를 저장할 수 있게 됩니다.\n\n관리자는 설정, 액세스, 앱, 사용자와 연결된 데이터(예: 네트워크 활동, 기기의 위치 정보)를 모니터링하고 관리할 수 있습니다.</string>
     <string name="additional_battery_info">사용량 경고</string>
     <string name="additional_permissions">추가 액세스 권한</string>
     <string name="additional_permissions_more">%1$d 더</string>
@@ -404,7 +404,7 @@
     <string name="aod_mode_bg">백그라운드</string>
     <string name="aod_mode_clock">시계</string>
     <string name="aod_mode_style">시계 스타일과 백그라운드</string>
-    <string name="aod_mode_summary">이 기능은 시스템 전력 소비를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
+    <string name="aod_mode_summary">이 기능은 시스템 배터리 소모를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 배터리절약기 제한이 적용되면 전원이 꺼집니다.</string>
     <string name="aod_mode_time_summary">장치가 항상 켜기 모드로 전환되어야하는 시간을 예약하세요.</string>
     <string name="aod_mode_time_title">스케줄</string>
     <string name="aod_mode_title">항상 켜기 모드</string>
@@ -638,11 +638,11 @@
     <string name="auto_sync_account_title">자동으로 앱 데이터 동기화</string>
     <string name="auto_sync_personal_account_title">자동으로 개인 데이터 동기화</string>
     <string name="auto_sync_work_account_title">자동으로 업무 데이터 동기화</string>
-    <string name="autofill_app">자동 채우기 서비스</string>
+    <string name="autofill_app">자동 완성 서비스</string>
     <string name="autofill_confirmation_message">&lt;b&gt;이 앱을 신뢰하는지 확인하세요.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; 무엇이 자동 완성 될지 결정하기 위해 화면에 있는 것을 사용합니다.</string>
-    <string name="autofill_keywords">자동, 입력, 자동 채우기</string>
+    <string name="autofill_keywords">자동, 입력, 자동 완성</string>
     <string name="automatic_brightness">자동 밝기</string>
-    <string name="automatic_storage_manager_activation_warning">파일 매니저에 의해 파일이 관리됩니다.</string>
+    <string name="automatic_storage_manager_activation_warning">파일 관리자에 의해 파일이 관리됩니다.</string>
     <string name="automatic_storage_manager_days_title">&amp; 파일 삭제</string>
     <string name="automatic_storage_manager_deactivation_warning">파일 관리자를 비활성화하시겠습니까?</string>
     <string name="automatic_storage_manager_freed_bytes">%1$s 사용 가능\n\n마지막 실행 시간 : %2$s</string>
@@ -683,7 +683,7 @@
     <string name="backup_configure_account_default_summary">현재 백업한 데이터가 저장된 계정이 없습니다.</string>
     <string name="backup_configure_account_title">백업 계정</string>
     <string name="backup_data_summary">앱 데이터, Wi-Fi 비밀번호, 기타 설정을 Google 서버에 백업하세요.</string>
-    <string name="backup_data_title">내 데이터 백업</string>
+    <string name="backup_data_title">데이터 백업</string>
     <string name="backup_delete">삭제:</string>
     <string name="backup_disabled">백업 비활성화됨</string>
     <string name="backup_empty">백업이 없습니다.</string>
@@ -1246,10 +1246,10 @@
     <string name="bt_dialog_settings">설정</string>
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그</string>
     <string name="bt_hci_snoop_log_summary">모든 블루투스 HCI 패킷을 한 개 파일에 캡처</string>
-    <string name="bt_ldac_declaration">블루투스 장치가 LDAC을 지원하면 기본적으로 연결됩니다. LDAC는 고품질 오디오 환경을 제공하지만 전력 소비량을 높입니다. 블루투스 장치의 제한으로 인해 재생이 발생할 수 있습니다.</string>
-    <string name="bt_ldac_dialog_summary">LDAC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
+    <string name="bt_ldac_declaration">블루투스 장치가 LDAC을 지원하면 기본적으로 연결됩니다. LDAC는 고품질 오디오 환경을 제공하지만 배터리 소모량을 높입니다. 블루투스 장치의 제한으로 인해 재생이 발생할 수 있습니다.</string>
+    <string name="bt_ldac_dialog_summary">LDAC는 고품질 오디오 환경을 제공하지만 배터리 소모도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
     <string name="bt_ldac_dialog_title">LDAC을 지원하는 현재 연결된 장치:</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC는 고품질 오디오 환경을 제공하고 전력 소비량을 높입니다. 블루투스 장치의 제한으로 인해 재생이 발생할 수 있습니다.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC는 고품질 오디오 환경을 제공하고 배터리 소모량을 높입니다. 블루투스 장치의 제한으로 인해 재생이 발생할 수 있습니다.</string>
     <string name="bt_ldac_open_dialog_title">LDAC를 켜시겠습니까?</string>
     <string name="bt_ldac_pre_summary">고품질 오디오 환경 제공</string>
     <string name="bt_ldac_property">속성</string>
@@ -1433,11 +1433,11 @@
     <string name="clear_data_dlg_title">앱 데이터를 삭제하시겠습니까?</string>
     <string name="clear_data_failed">앱 데이터를 지우지 못했습니다.</string>
     <string name="clear_failed_dlg_text">앱 데이터를 지우지 못했습니다.</string>
-    <string name="clear_failed_dlg_title">데이터 지우기</string>
+    <string name="clear_failed_dlg_title">데이터 삭제</string>
     <string name="clear_instant_app_confirmation">이 인스턴트 앱을 삭제하시겠습니까?</string>
     <string name="clear_instant_app_data">앱 초기화</string>
     <string name="clear_uri_btn_text">접근 삭제</string>
-    <string name="clear_user_data_text">데이터 지우기</string>
+    <string name="clear_user_data_text">데이터 삭제</string>
     <string name="click_soft_ap_to_link">연결할 핫스팟을 선택하세요.</string>
     <string name="click_to_view">탭하여 보기</string>
     <string name="close_aod">이 기능은 \"항상 켜기 모드\"와 함께 사용할 수 없습니다. \"항상 켜기 모드\"를 먼저 끄세요.</string>
@@ -1676,7 +1676,7 @@
     <string name="crypt_keeper_switch_to_pin">PIN 사용</string>
     <string name="crypt_keeper_unplugged_text">충전기를 연결한 다음 다시 시도하세요.</string>
     <string name="crypt_keeper_warn_wipe">경고: 잠금해제 시도를 ^1회 이상 실패할 경우 기기의 데이터가 삭제됩니다!</string>
-    <string name="cryptkeeper_emergency_call">긴급 전화</string>
+    <string name="cryptkeeper_emergency_call">긴급 통화</string>
     <string name="cryptkeeper_return_to_call">통화로 돌아가기</string>
     <string name="cryptkeeper_wrong_password">잘못된 비밀번호</string>
     <string name="cryptkeeper_wrong_pattern">잘못된 패턴</string>
@@ -2208,7 +2208,7 @@
     <string name="double_twist_for_camera_suggestion_title">셀카 빠르게 촬영</string>
     <string name="download_current_rom">최신 MIUI 버전 받기</string>
     <string name="downloading_description">다운로드 중…</string>
-    <string name="doze_always_on_summary">이 기능은 시스템 전력소비를 증가시킵니다. 설정이 켜진채 어두운 곳에 오래 있거나 배터리절약이 적용되면 기능이 꺼집니다.</string>
+    <string name="doze_always_on_summary">이 기능은 시스템 배터리 소모를 증가시킵니다. 설정이 켜진채 어두운 곳에 오래 있거나 배터리절약이 적용되면 기능이 꺼집니다.</string>
     <string name="doze_always_on_title">항상 켜짐</string>
     <string name="doze_summary">기기를 들거나 알림 수신 시 절전 모드 해제</string>
     <string name="doze_title">화면 항상 켜짐</string>
@@ -2419,7 +2419,7 @@
     <string name="erase_external_storage">SD 카드 지우기</string>
     <string name="erase_external_storage_description">SD 카드에 있는 모든 데이터(예: 음악 또는 사진)를 지웁니다.</string>
     <string name="erase_internal_storage">저장된 콘텐츠 지우기</string>
-    <string name="erase_internal_storage_description">음악, 사진, 동영상, 기타 사용자 데이터 지우기</string>
+    <string name="erase_internal_storage_description">음악, 사진, 동영상, 기타 사용자 데이터 삭제</string>
     <string name="erase_optional">선택적으로 정리</string>
     <string name="erase_personal_data">개인 데이터</string>
     <string name="erase_personal_data_description">Mi 계정 정보, 앱 데이터, 시스템 설정들을 삭제합니다.</string>
@@ -2472,7 +2472,7 @@
     <string name="extreme_threats_title">극단적 위협</string>
     <string name="face_unlock_disable">얼굴인식 언락 끄기</string>
     <string name="face_unlock_enable">얼굴인식 언락 켜기</string>
-    <string name="factory_reset_summary">휴대전화의 내부 저장소에서 모든 데이터 지우기</string>
+    <string name="factory_reset_summary">휴대전화의 내부 저장소에서 모든 데이터 삭제</string>
     <string name="fail">실패</string>
     <string name="failed_description">실패함</string>
     <string name="failed_to_check_find_device_status_content">기기 찾기 상태를 확인 할 수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도하세요.</string>
@@ -2715,8 +2715,8 @@
     <string name="fsg_mistake_touch_summary">전체 화면으로 게임을 하거나 동영상을 볼 때, 제스처를 두 번 반복해야 실행됩니다.</string>
     <string name="fsg_mistake_touch_title">제스처 실수 방지</string>
     <string name="full_transparent_smarrcover_title">투명 전면 커버</string>
-    <string name="fullbackup_data_summary">\"기기 데이터 (Wi-Fi 비밀번호와 통화 기록 등) 과 앱 데이터 (설정 및 어플에 의한 파일 등) 이 자동으로 백업됩니다.</string>
-    <string name="fullbackup_erase_dialog_message">" 장치 데이터 (Wi-Fi 비밀번호 및 통화 기록) 및 앱 데이터 (앱에 저장된 설정 및 파일)를 백업하고 원격 서버의 모든 사본을 지울까요? "</string>
+    <string name="fullbackup_data_summary">\"기기 데이터(Wi-Fi 비밀번호와 통화 기록 등) 및 앱 데이터(설정 및 앱 파일 등)가 자동으로 백업됩니다.</string>
+    <string name="fullbackup_erase_dialog_message">"기기 데이터(Wi-Fi 비밀번호 및 통화 기록) 및 앱 데이터(앱에 저장된 설정 및 파일) 백업을 중지하고 원격 서버의 모든 사본을 삭제하시겠습니까? "</string>
     <string name="function_description">이 기능에 관하여</string>
     <string name="gadget_bluetooth">블루투스</string>
     <string name="gadget_brightness_state_auto">자동</string>
@@ -2736,7 +2736,7 @@
     <string name="gadget_toggle_wifi">Wi-Fi 설정 업데이트 중</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">귀하의 개인 사진이 여기에 저장될 것입니다.</string>
-    <string name="game_booster">게임;게임;터보;게임중;게임 모드</string>
+    <string name="game_booster">게임;게임;터보;게임 중;게임 모드</string>
     <string name="game_controller_settings_category">게임 컨트롤러</string>
     <string name="game_mode_cta_dialog_agree">동의</string>
     <string name="game_mode_cta_dialog_cancel">취소</string>
@@ -2786,7 +2786,7 @@
     <string name="gxzw_anim_rhythm">리듬</string>
     <string name="gxzw_anim_star">별빛</string>
     <string name="gxzw_anim_title">지문 애니메이션</string>
-    <string name="gxzw_aod_show_summary">장치를 들어올리거나 화면을 누르면 지문 아이콘을 표시합니다. 이 기능은 시스템 전력 소비를 증가시킵니다.</string>
+    <string name="gxzw_aod_show_summary">장치를 들어올리거나 화면을 누르면 지문 아이콘을 표시합니다. 이 기능은 시스템 배터리 소모를 증가시킵니다.</string>
     <string name="gxzw_aod_show_tittle">화면이 꺼져있을 때 지문 아이콘 표시</string>
     <string name="gxzw_dialog_message">보호 필름을 사용하시면 화면 지문인식 기능이 원활히 작동하지 않으실 수 있습니다. 그래도 보호 필름이 필요하다고 생각되시면 호환 모드를 선택하세요.</string>
     <string name="gxzw_dialog_not_show_again">다시 표시하지 않음</string>
@@ -2845,14 +2845,14 @@
     <string name="hide_screen_button">화면 버튼 숨기기</string>
     <string name="hide_system_app">시스템 앱 숨기기</string>
     <string name="high_performance_notif_summary">무거운 작업을 할 경우 장치가 뜨거워질 수 있습니다.</string>
-    <string name="high_performance_notif_title">퍼포먼스 모드 활성화 됨</string>
+    <string name="high_performance_notif_title">성능 모드 활성화 됨</string>
     <string name="high_performance_title">벤치마크 테스트를 실행하는 것 같습니다. 최고의 결과를 얻으려면 전원 관리를 \"성능\"으로 설정하세요.</string>
     <string name="high_power_apps">배터리 최적화</string>
     <string name="high_power_desc">배터리 최적화를 비활성화합니다. 배터리 소모가 빨라질 수 있습니다.</string>
     <string name="high_power_filter_on">최적화되지 않음</string>
-    <string name="high_power_off">배터리 사용량 최적화중</string>
+    <string name="high_power_off">배터리 사용량 최적화 중</string>
     <string name="high_power_on">최적화되지 않음</string>
-    <string name="high_power_prompt_body">" %1$s    앱이 백그라운드에서 계속 실행될 수 있도록 설정하시겠습니까? 배터리 소모가 빨라질 수 있습니다."</string>
+    <string name="high_power_prompt_body">" %1$s 앱이 백그라운드에서 계속 실행될 수 있도록 설정하시겠습니까? 배터리 소모가 빨라질 수 있습니다."</string>
     <string name="high_power_prompt_title">배터리 최적화를 무시하시겠습니까?</string>
     <string name="high_power_system">배터리 최적화 사용 불가능</string>
     <string name="history_details_title">기록 세부정보</string>
@@ -2862,7 +2862,7 @@
     <string name="home_key">홈</string>
     <string name="home_settings">홈</string>
     <string name="home_work_profile_not_supported">직장 프로필은 지원하지 않습니다.</string>
-    <string name="hsa_code_null">인증코드는 비워 둘 수 없습니다.</string>
+    <string name="hsa_code_null">인증 코드는 비워 둘 수 없습니다.</string>
     <string name="hsa_input_hint">인증 코드 입력</string>
     <string name="hsa_input_tip">귀하의 Apple ID는 이중 보안설정 상태입니다. 확인 코드를 입력하세요.</string>
     <string name="hsa_send_again">재전송</string>
@@ -3438,7 +3438,7 @@
     <string name="lockscreen_glogin_password_hint">비밀번호</string>
     <string name="lockscreen_glogin_submit_button">로그인</string>
     <string name="lockscreen_magazine">슬라이드형 배경화면</string>
-    <string name="lockscreen_magazine_summary">매일 제공되는 멋진 이미지와 흥미로운 이야기</string>
+    <string name="lockscreen_magazine_summary">매일 멋진 이미지와 흥미로운 이야기를 제공합니다.</string>
     <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
     <string name="lockscreen_remote_input">기기가 잠긴 경우 알림을 받을 수 없습니다.</string>
     <string name="lockscreen_settings_title">잠금 화면 사용자 설정</string>
@@ -3531,7 +3531,7 @@
     <string name="master_clear_personal_data_sdcard">개인정보와 콘텐츠를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_progress_text">잠시 기다려 주세요...</string>
     <string name="master_clear_progress_title">지우는 중</string>
-    <string name="master_clear_short_title">모든 데이터 지우기(공장 초기화)</string>
+    <string name="master_clear_short_title">모든 데이터 삭제(공장 초기화)</string>
     <string name="master_clear_summary">휴대전화의 모든 데이터 삭제</string>
     <string name="master_clear_title">공장 초기화</string>
     <string name="max_aspect_settings_all_app_display_loading">잠시만 기다려주세요…</string>
@@ -3552,7 +3552,7 @@
     <string name="media_format_final_desc">SD 카드를 지워서 저장된 모든 파일을 삭제하시겠습니까? 수행한 후에는 작업을 취소할 수 없습니다.</string>
     <string name="media_format_gesture_explanation">SD 카드를 지우려면 잠금해제 패턴을 그려야 합니다.</string>
     <string name="media_format_gesture_prompt">잠금해제 패턴을 그리세요.</string>
-    <string name="media_format_summary">SD 카드의 모든 데이터 지우기</string>
+    <string name="media_format_summary">SD 카드의 모든 데이터 삭제</string>
     <string name="media_format_title">SD 카드 지우기</string>
     <string name="media_out_summary_ongoing_call_state">통화 중 사용불가</string>
     <string name="media_output_default_summary">이 기기</string>
@@ -3714,7 +3714,7 @@
     <string name="miui_sos_call_log_none">지난 1시간 동안 통화 기록이 없습니다.</string>
     <string name="miui_sos_call_log_sec">초</string>
     <string name="miui_sos_call_log_stranger">모르는 사람</string>
-    <string name="miui_sos_call_log_summary">지난 1시간 동안의 통화 내역을 비상 연락처로 보냅니다.</string>
+    <string name="miui_sos_call_log_summary">지난 1시간 동안의 통화 기록을 비상 연락처로 보냅니다.</string>
     <string name="miui_sos_call_log_time_unit">%1$d분 %2$d초</string>
     <string name="miui_sos_call_log_title">통화 기록 보내기</string>
     <string name="miui_sos_call_warning_sim_unable">신호가 없습니다. 문자를 보낼 수 없습니다.</string>
@@ -3736,14 +3736,14 @@
     <string name="miui_sos_exit_dialog_title">긴급 SOS 끄기</string>
     <string name="miui_sos_green_guard_summary">실시간으로 위치 정보 공유</string>
     <string name="miui_sos_green_guard_title">자녀 보호 기능</string>
-    <string name="miui_sos_launch_error">응급 SOS를 활성화 할 수 없습니다.</string>
+    <string name="miui_sos_launch_error">응급 SOS를 활성화할 수 없습니다.</string>
     <string name="miui_sos_launch_error_confirm">확인</string>
     <string name="miui_sos_launch_error_message">모바일 네트워크에 연결할 수 없습니다. 긴급 SOS를 사용할 수 없습니다.</string>
     <string name="miui_sos_launching_summary">%ds의 긴급 SOS 활성화</string>
     <string name="miui_sos_launching_title">SOS</string>
     <string name="miui_sos_menu_add">추가</string>
     <string name="miui_sos_menu_edit">편집</string>
-    <string name="miui_sos_msg_call_log_prefix">최근 1시간 동안의 통화 내역은 다음과 같습니다.</string>
+    <string name="miui_sos_msg_call_log_prefix">최근 1시간 동안의 통화 기록은 다음과 같습니다.</string>
     <string name="miui_sos_play_voice">SOS 메시지 재생</string>
     <string name="miui_sos_remind_add">추가</string>
     <string name="miui_sos_remind_infocontent">비상 연락처로 추가 했습니다. 위험한 상황에 대비하여 내 위치 정보가 포함된 메시지를 받게됩니다. [Mi 긴급 SOS]</string>
@@ -4438,7 +4438,7 @@
     <string name="phone_info_label">휴대전화 정보</string>
     <string name="phone_language">언어</string>
     <string name="physical_keyboard_title">물리 키보드</string>
-    <string name="pick_up_gesture_wakeup_title">휴대전화를 들어 화면 켜기</string>
+    <string name="pick_up_gesture_wakeup_title">들어서 화면 켜기</string>
     <string name="pico_installed">설치됨</string>
     <string name="pico_languages_and_voices">언어 및 음성</string>
     <string name="pico_not_installed">설치되지 않음</string>
@@ -4569,7 +4569,7 @@
     <string name="preferred_app_settings_reset_button">초기화</string>
     <string name="preferred_app_settings_reset_message">기본 앱 설정이 MIUI 초기 설정으로 복원됩니다.</string>
     <string name="preferred_application_title">선호하는 %s</string>
-    <string name="preferred_application_warning_message">기본 %1$s 앱을 교체하면 전력 소비 증가, 속도 감소, 태블릿 콘텐츠의 위험 노출 가능성이 있습니다. 대신 %2$s 앱을 사용하세요.</string>
+    <string name="preferred_application_warning_message">기본 %1$s 앱을 교체하면 배터리 소모 증가, 속도 감소, 태블릿 콘텐츠의 위험 노출 가능성이 있습니다. 대신 %2$s 앱을 사용하세요.</string>
     <string name="preferred_application_warning_replace">교체</string>
     <string name="preferred_application_warning_title">기본 %s 교체</string>
     <string name="preferred_application_warning_use_system">%s 사용</string>
@@ -6822,7 +6822,7 @@
     <string name="usb_eject_summary">USB 저장소를 꺼내서 안전하게 제거합니다.</string>
     <string name="usb_format">USB 저장소 지우기</string>
     <string name="usb_format_summary">USB 저장소의 모든 데이터(예: 음악, 사진)가 지워집니다.</string>
-    <string name="usb_host_mode_subtext">USB 포트에 게임 컨트롤러나 다른 외부 기기를 사용하시면 더 많은 전력이 소비됩니다.</string>
+    <string name="usb_host_mode_subtext">USB 포트에 게임 컨트롤러나 다른 외부 기기를 사용하시면 더 많은 배터리가 소모됩니다.</string>
     <string name="usb_host_mode_text">USB 호스트 모드</string>
     <string name="usb_insert_summary">USB 저장소 연결</string>
     <string name="usb_install_app">USB로 설치</string>
@@ -8193,7 +8193,7 @@
     <string name="backup_set_pw_confirm_title">새로운 백업 비밀번호 확인</string>
     <string name="err_no_gms">호환되지 않는 앱 버전입니다. 별도로 설치하세요.</string>
     <string name="fingerprint_wakeup_summary">지문이 등록되어 있지 않은 경우, 센서를 터치하시면 화면이 바로 켜집니다.</string>
-    <string name="fingerprint_wakeup_title">지문인식센서를 탭하여 화면 켜기</string>
+    <string name="fingerprint_wakeup_title">지문인식 센서를 탭하여 화면 켜기</string>
     <string name="phone_title">전화 설정</string>
     <string name="trans_detail_item_app_data_skip_data">"앱 데이터 전송 실패"</string>
     <string name="bluetooth_device_misc_title">자주 사용하지 않는 기기</string>
@@ -8315,7 +8315,7 @@
     <string name="settings_new_version_btn">업데이트</string>
     <string name="status_bar_title">상태 표시줄</string>
     <string name="unlock_mode_title">화면 잠금</string>
-    <string name="volume_launch_camera_summary">잠금 화면에서 볼륨 버튼을 두 번 눌러 카메라 실행</string>
+    <string name="volume_launch_camera_summary">잠금 화면에서 볼륨 버튼을 두 번 눌러 카메라를 실행합니다.</string>
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
     <string name="manage_password">비밀번호 관리</string>
     <string name="manage_password_summary">저장된 계정과 비밀번호 자동완성</string>
@@ -8352,10 +8352,10 @@
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">블루투스 오디오 LHDC 코덱: 빠름</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"블루투스 오디오 LHDC 코덱 선택:
 빠름"</string>
-    <string name="bt_lhdc_declaration">블루투스 장치가 LHDC를 지원하면 자동으로 연결됩니다. LHDC는 고품질 오디오 경험을 제공하지만 전력 소비가 많습니다. 블루투스 장치 하드웨어 문제로 인해 재생 중 장애가 발생할 수 있습니다.</string>
-    <string name="bt_lhdc_dialog_summary">LHDC는 고품질 오디오 환경을 제공하지만 전력 소비도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
+    <string name="bt_lhdc_declaration">블루투스 장치가 LHDC를 지원하면 자동으로 연결됩니다. LHDC는 고품질 오디오 경험을 제공하지만 배터리 소모가 많습니다. 블루투스 장치 하드웨어 문제로 인해 재생 중 장애가 발생할 수 있습니다.</string>
+    <string name="bt_lhdc_dialog_summary">LHDC는 고품질 오디오 환경을 제공하지만 배터리 소모도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
     <string name="bt_lhdc_dialog_title">현재 장치는 LHDC를 지원합니다:</string>
-    <string name="bt_lhdc_open_dialog_summary">LHDC는 고품질의 오디오 경험을 제공하지만 전력 소비도 증가시킵니다. 블루투스 하드웨어 제한으로 인해 재생 중에 문제가 발생할 수 있습니다.</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC는 고품질의 오디오 경험을 제공하지만 배터리 소모도 증가시킵니다. 블루투스 하드웨어 제한으로 인해 재생 중에 문제가 발생할 수 있습니다.</string>
     <string name="bt_lhdc_open_dialog_title">LHDC를 켜시겠습니까?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">속성</string>
@@ -8381,7 +8381,7 @@
     <string name="connection_and_sharing">연결 &amp; 공유</string>
     <string name="enable_screen_projection_summary">외부 모니터로 화면 콘텐츠 캐스트</string>
     <string name="screen_projection">캐스트</string> <string name="screen_projection_characteristics">특별한 기능</string>
-    <string name="screen_projection_characteristics_off_screen_summary">기기 화면이 꺼져도 계속 전송을 할 수 있습니다. 이 기능은 전력 소비를 줄입니다.</string>
+    <string name="screen_projection_characteristics_off_screen_summary">기기 화면이 꺼져도 계속 전송을 할 수 있습니다. 이 기능은 배터리 소모를 줄입니다.</string>
     <string name="screen_projection_characteristics_off_screen_title">화면을 끄고 캐스트</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"플로팅 알림, 수신 전화 및 기타 개인 항목을 외부 모니터에 표시하지 않습니다."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">개인 항목 숨기기</string>
@@ -8400,7 +8400,7 @@
     <string name="open_game_accelerate">게임 터보 켜기</string>
     <string name="dc_light_summary_new">저조도 환경에서 광범위한 깜빡임 방지 및 눈의 피로 감소</string>
     <string name="dark_color_summary_lcd">시스템 배경 및 호환되는 앱에 어두운 색을 사용합니다. 어두운 환경에서 기기를 사용할 때 눈의 피로 완화에 도움을 줄 수 있습니다.</string>
-    <string name="dark_color_summary_oled">시스템 배경 및 호환되는 앱에 어두운 색을 사용합니다. 전력 소모를 줄이고 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
+    <string name="dark_color_summary_oled">시스템 배경 및 호환되는 앱에 어두운 색을 사용합니다. 배터리 소모를 줄이고 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
     <string name="full_screen_keyboard_settings">전체 화면 디스플레이 키보드 설정</string>
     <string name="input_method_bottom_close">끄기</string>
     <string name="input_method_bottom_open">켜기</string>
@@ -8811,8 +8811,8 @@
     <string name="mobile_network_use_sim_off">꺼짐</string>
     <string name="mobile_network_use_sim_on">SIM 사용</string>
     <string name="model_hardware_summary">모델:%1$s; 하드웨어:%2$s</string>
-    <string name="module_license_title">Google 플레이 시스템 업데이트 라이선스</string>
-    <string name="module_version">Google 플레이 시스템 업데이트</string>
+    <string name="module_license_title">Google Play 시스템 업데이트 라이선스</string>
+    <string name="module_version">Google Play 시스템 업데이트</string>
     <string name="mr_button_content_description">전송 버튼</string>
     <string name="mr_cast_button_connected">전송 버튼. 연결됨</string>
     <string name="mr_cast_button_connecting">전송 버튼. 연결 중</string>
@@ -9052,8 +9052,8 @@
     <string name="volume_connectivity_panel_title">볼륨</string>
     <string name="wfc_disclaimer_agree_button_text">계속</string>
     <string name="wfc_disclaimer_disagree_text">거부</string>
-    <string name="wfc_disclaimer_emergency_limitation_desc_text">Wi‑Fi 통화를 사용한 긴급 전화가 이용 중인 이동통신사에서 지원되지 않습니다.\n긴급 전화를 걸면 기기에서 모바일 네트워크로 자동 전환합니다.\n긴급 전화는 모바일 데이터가 지원되는 지역에서만 사용할 수 있습니다.</string>
-    <string name="wfc_disclaimer_emergency_limitation_title_text">긴급 전화</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">Wi‑Fi 통화를 사용한 긴급 통화가 이용 중인 이동통신사에서 지원되지 않습니다.\n긴급 통화를 걸면 기기에서 모바일 네트워크로 자동 전환합니다.\n긴급 통화는 모바일 데이터가 지원되는 지역에서만 사용할 수 있습니다.</string>
+    <string name="wfc_disclaimer_emergency_limitation_title_text">긴급 통화</string>
     <string name="wfc_disclaimer_location_desc_text">서비스 제공업체에서 이 서비스를 제공하기 위해 내 위치 정보를 수집할 수 있습니다.\n\n서비스 제공업체의 개인정보처리방침을 검토하세요.</string>
     <string name="wfc_disclaimer_location_title_text">위치</string>
     <string name="wfc_disclaimer_title_text">중요한 정보</string>
@@ -9312,7 +9312,7 @@
     <string name="backup_restore_data_content">"백업에는 연락처, 메시지 (SMS 및 MMS), 통화 기록, 일정 이벤트, 사진, 오디오 파일, 동영상, 문서, 앱, 앱 데이터 및 홈 화면 레이아웃이 포함될 수 있습니다.
 "</string>
     <string name="backup_restore_data_title">어떤 항목을 백업하거나 복원할 수 있습니까?</string>
-    <string name="clear_all_data">모든 데이터 지우기</string>
+    <string name="clear_all_data">모든 데이터 삭제</string>
     <string name="clear_phone_data_category">다음 항목을 지 웁니다.</string>
     <string name="cloud_restore_section_summary_new">홈 화면 레이아웃, 앱, 시스템 설정 등을 백업</string>
     <string name="cloud_restore_section_title_new">Xiaomi 클라우드에서</string>
@@ -9339,9 +9339,9 @@ Xiaomi 클라우드
 a) 로컬 백업이 있는 페이지에서 설정> 추가 설정으로 이동하고 버튼을 눌러 암호화를 켜고 Mi 계정에 로그인합니다. 그 후 백업은 자동으로 암호화됩니다. 암호화된 백업에서 항목을 복원하려면 Mi 계정에 로그인해야 합니다.
 b) Mi PC Suite를 사용하여 항목을 백업하는 경우 암호화 옵션을 사용할 수 있습니다.
 
-참고 : 암호화된 백업에 설정 한 비밀번호를 기억하세요! 백업을 잊어 버린 경우 백업을 해독 할 수 없습니다."</string>
+참고 : 암호화된 백업에 설정한 비밀번호를 기억하세요! 비밀번호를 잊은 경우 백업을 해독할 수 없습니다."</string>
     <string name="how_encrypt_title">백업을 어떻게 암호화하시겠습니까?</string>
-    <string name="how_restore_backup_content">"다른 방법으로 백업 한 항목을 복원하는 방법은 다음과 같습니다.
+    <string name="how_restore_backup_content">"다른 방법으로 백업한 항목을 복원하는 방법은 다음과 같습니다.
 
 휴대 기기
 \ "휴대 기기 \"를 탭하여 항목을 복원하는 옵션을 찾은 다음 백업을 선택하여 계속하세요.
@@ -9381,8 +9381,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="bluetooth_device_nearby_title">주변 기기</string>
     <string name="bottom_function_settings">추가 버튼 기능</string>
     <string name="change_lock_screen_password_title">화면 잠금 변경</string>
-    <string name="clear_data_alert_info">이 장치에 저장된 모든 백업은 영구적으로 삭제됩니다. 계속하기 전에 중요한 항목을 컴퓨터와 Xiaomi 클라우드에 백업하세요.</string>
-    <string name="cloud_category_text">구름</string>
+    <string name="clear_data_alert_info">이 장치에 저장된 모든 백업이 영구적으로 삭제됩니다. 계속하기 전에 중요한 항목을 컴퓨터와 Xiaomi 클라우드에 백업하세요.</string>
+    <string name="cloud_category_text">클라우드</string>
     <string name="computer_backup_summary">컴퓨터를 사용하여 항목 백업 및 복원</string>
     <string name="computer_backup_title">컴퓨터</string>
     <string name="continue_reset_factory">초기화</string>

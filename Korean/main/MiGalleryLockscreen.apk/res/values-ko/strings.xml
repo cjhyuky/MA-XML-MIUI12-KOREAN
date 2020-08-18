@@ -479,11 +479,11 @@
     <string name="theme_title">기본 테마를 사용하고 있지 않습니다.</string>
     <string name="theme_title_lock_style">기본 잠금 화면으로 전환</string>
     <string name="theme_title_subscribe">슬라이드형 배경화면 구독하기</string>
-    <string name="ticket_hint">인증코드</string>
+    <string name="ticket_hint">인증 코드</string>
     <string name="ticket_invalid">입력한 코드가 잘못되었습니다.</string>
     <string name="ticket_sign_in">SMS로 로그인</string>
     <string name="time_current">바로 지금</string>
-    <string name="toast_ad_down_tip">"어플 다운로드 중… "</string>
+    <string name="toast_ad_down_tip">"앱 다운로드 중… "</string>
     <string name="toast_ad_down_tip2">"%s 다운로드 중… "</string>
     <string name="toast_load_hd_fail">원본 이미지를 불러올 수 없습니다.</string>
     <string name="toast_neterror_tip">네트워크 오류가 발생했습니다.</string>
@@ -497,7 +497,7 @@
     <string name="user_ac_click_to_login">탭하여 로그인</string>
     <string name="user_ac_not_login">로그인되지 않음</string>
     <string name="user_id_hint">이메일/전화</string>
-    <string name="v_code_title">2단계 인증코드 입력</string>
+    <string name="v_code_title">2단계 인증 코드 입력</string>
     <string name="view_privacy_policy">개인정보 보호정책</string>
     <string name="wallpaper">배경화면</string>
     <string name="wallpaper_feed_title">좋아할 것 같은 항목</string>

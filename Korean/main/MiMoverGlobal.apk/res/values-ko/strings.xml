@@ -437,8 +437,8 @@
     <string name="permission_bluetooth_title">블루투스 켜기 및 끄기</string>
     <string name="permission_calender_summary">iCloud에서 캘린더 이벤트 전송 용</string>
     <string name="permission_calender_title">캘린더 이벤트에 액세스</string>
-    <string name="permission_call_log_summary">통화 내역을 새 기기로 전송하는 경우</string>
-    <string name="permission_call_log_title">통화 내역 액세스</string>
+    <string name="permission_call_log_summary">통화 기록을 새 기기로 전송하는 경우</string>
+    <string name="permission_call_log_title">통화 기록 액세스</string>
     <string name="permission_contacts_summary">연락처를 새 기기로 전송하는 경우</string>
     <string name="permission_contacts_title">연락처 액세스</string>
     <string name="permission_locale_summary">근처 기기 연결 용</string>
@@ -454,7 +454,7 @@
     <string name="perm_package_stats">앱 사용 통계에 액세스</string>
     <string name="perm_payment_dspt">앱이 Mi Pay 서비스를 사용하여 결제하도록 허용</string>
     <string name="perm_payment_lab">Mi Pay</string>
-    <string name="perm_read_call_log">통화 내역 액세스</string>
+    <string name="perm_read_call_log">통화 기록 액세스</string>
     <string name="perm_read_contacts">연락처 액세스</string>
     <string name="perm_read_phone_state">전화 상태 액세스</string>
     <string name="perm_read_sms">액세스 메시지</string>

@@ -1566,7 +1566,7 @@
     <string name="secret_reason_unknow_reasons">알 수 없는 오류</string>
     <string name="secret_reason_video_not_support">숨겨진 앨범에 동영상을 추가할 수 없습니다.</string>
     <string name="see_ignore_faces">차단한 사람 보기</string>
-    <string name="select_all">전부 선택</string>
+    <string name="select_all">모두 선택</string>
     <string name="select_image_operation">사진 추가</string>
     <string name="select_item_face">\'%s\'입니까?</string>
     <string name="select_origin_tip">원본 파일 (%s)</string>
@@ -1682,7 +1682,7 @@
     <string name="sync_state_unknow">정보를 가져오는중</string>
     <string name="synced_title">사진과 동영상 백업 성공</string>
     <string name="syncing_gprs_title">모바일 데이터로 항목 백업</string>
-    <string name="syncing_metadata_title">Mi 클라우드 데이터 동기화중</string>
+    <string name="syncing_metadata_title">Mi 클라우드 데이터 동기화 중</string>
     <string name="syncing_normal_title">사진과 동영상 백업</string>
     <string name="system_album">시스템 앨범</string>
     <string name="terabyteShort">TB</string>

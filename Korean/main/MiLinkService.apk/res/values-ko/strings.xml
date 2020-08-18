@@ -10,7 +10,7 @@
     <string name="app_name">캐스팅</string>
     <string name="casting_tips">캐스팅 중...</string>
     <string name="console_guide_btn_got_it">확인</string>
-    <string name="console_guide_subtitle_hang_up">기기 화면이 꺼져도 계속 전송을 할 수 있습니다. 이 기능은 전력 소비를 줄입니다.</string>
+    <string name="console_guide_subtitle_hang_up">기기 화면이 꺼져도 계속 전송을 할 수 있습니다. 이 기능은 배터리 소모를 줄입니다.</string>
     <string name="console_guide_subtitle_private">"외부 모니터에 플로팅 알림, 수신 전화 및 기타 개인 항목을 표시하지 않습니다."</string>
     <string name="console_guide_subtitle_small_window">"휴대전화의 다른 기능을 사용할 수 있도록 전송되는 창을 최소화하세요"</string>
     <string name="dialog_can_not_find_device">"근처 기기를 찾을 수 없습니다."</string>
@@ -35,7 +35,7 @@
     <string name="dialog_show_help">도움말</string>
     <string name="disconnect">캐스팅 중지</string>
     <string name="hang_up">화면 꺼진 상태로 캐스트</string>
-    <string name="hang_up_alert_dialog_content">기기 화면이 꺼져있을 때 전송을 계속합니다. 이 기능은 전력 소비를 줄입니다. 전원 버튼을 눌러 화면을 다시 켭니다.</string>
+    <string name="hang_up_alert_dialog_content">기기 화면이 꺼져있을 때 전송을 계속합니다. 이 기능은 배터리 소모를 줄입니다. 전원 버튼을 눌러 화면을 다시 켭니다.</string>
     <string name="hang_up_alert_dialog_neg">취소</string>
     <string name="hang_up_alert_dialog_pos">확인</string>
     <string name="hang_up_alert_dialog_title">화면 꺼진 상태로 캐스트 기능에 관하여…</string>
@@ -172,7 +172,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="screen_projection_characteristics">특별 기능</string>
     <string name="screen_projection_characteristics_off_screen_summary">기기의 화면이 꺼져 있어도 캐스트는 계속 활성화되어 있습니다. 배터리 수명을 저하시킬 수 있습니다.</string>
     <string name="screen_projection_characteristics_off_screen_title">화면이 꺼져도 캐스트 진행</string>
-    <string name="screen_projection_characteristics_privacy_protect_summary">"푸쉬 알림은 표시하지 않습니다."</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"푸시 알림은 표시하지 않습니다."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">개인 아이템 숨기기</string>
     <string name="screen_projection_characteristics_small_window_summary">"기기의 다른 기능을 사용할 수 있도록 전송 중인 창을 최소화"</string>
     <string name="screen_projection_characteristics_small_window_title">화면 최소화</string>

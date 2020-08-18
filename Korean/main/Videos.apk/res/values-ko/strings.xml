@@ -88,7 +88,7 @@
     <string name="download_dialog_modify_message">Play 무비 설정에서 언제든지 변경할 수 있습니다.</string>
     <string name="post_purchase_dialog_title">결제 완료</string>
     <string name="post_purchase_dialog_watch_on_play">%1$s에서 시청하기</string>
-    <string name="post_purchase_dialog_back_to_partner">%1$s 어플로 돌아가기</string>
+    <string name="post_purchase_dialog_back_to_partner">%1$s 앱로 돌아가기</string>
     <string name="sync_purchases_label_with_tv">Google Play 무비 &amp; TV</string>
     <string name="application_name_with_tv">Play 무비 &amp; TV</string>
     <string name="long_app_name_with_tv">Google Play 무비 &amp; TV</string>

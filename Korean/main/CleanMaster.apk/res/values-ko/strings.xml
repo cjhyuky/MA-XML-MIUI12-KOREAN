@@ -257,7 +257,7 @@
     <string name="hints_list_item_lock">보관</string>
     <string name="hints_list_item_unlock">청소</string>
     <string name="memeory_check_content">%1$d 앱, 메모리 %2$s</string>
-    <string name="deepclean_cache_content">앱에 의해 생성된 데이터 지우기</string>
+    <string name="deepclean_cache_content">앱에 의해 생성된 데이터 삭제</string>
     <string name="deepclean_large_content">10MB보다 큰 파일 삭제</string>
     <string name="deepclean_app_content">이 앱을 사용안한지 30일이 넘었습니다.</string>
     <string name="deepclean_similar_ignore">무시</string>
@@ -628,7 +628,7 @@
     <string name="dc_header_used_space_text">사용 중인 저장 용량</string>
     <string name="dc_item_summary_wechat_chat">공간을 확보하기 위해 채팅으로 내역 채팅 지우기</string>
     <string name="dc_item_title_apk">설치 패키지 삭제</string>
-    <string name="dc_item_title_app_data">앱 데이터 지우기</string>
+    <string name="dc_item_title_app_data">앱 데이터 삭제</string>
     <string name="dc_item_title_image">사진 삭제</string>
     <string name="dc_item_title_large_file">큰 파일 삭제</string>
     <string name="dc_item_title_qq">QQ 클리너</string>

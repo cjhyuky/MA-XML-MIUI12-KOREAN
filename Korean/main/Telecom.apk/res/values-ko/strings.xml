@@ -44,7 +44,7 @@
     <string name="userCallActivityLabel">휴대전화</string>
     <string name="notification_missedWorkCallTitle">부재중 전화</string>
     <string name="enable_account_preference_title">통화 계정</string>
-    <string name="outgoing_call_not_allowed_user_restriction">긴급 전화만 가능합니다.</string>
+    <string name="outgoing_call_not_allowed_user_restriction">긴급 통화만 가능합니다.</string>
     <string name="outgoing_call_not_allowed_no_permission">"이 앱은 필요한 권한이 없으면 발신 전화를 걸 수 없습니다."</string>
     <string name="duplicate_video_call_not_allowed">"전화를 더 추가할 수 없습니다."</string>
     <string name="change_default_dialer_dialog_title">%s 앱을 기본 전화 앱으로 사용하시겠습니까?</string>
@@ -66,7 +66,7 @@
     <string name="blocked_numbers_butter_bar_button">지금 다시 활성화</string>
     <string name="blocked_numbers_number_blocked_message">%1$s개 차단됨</string>
     <string name="blocked_numbers_number_unblocked_message">%1$s개 차단 해제됨</string>
-    <string name="blocked_numbers_block_emergency_number_message">긴급 전화를 차단할 수 없습니다.</string>
+    <string name="blocked_numbers_block_emergency_number_message">긴급 통화를 차단할 수 없습니다.</string>
     <string name="blocked_numbers_number_already_blocked_message">%1$s개 이미 차단됨</string>
     <string name="toast_personal_call_msg">개인 다이얼을 사용하여 전화 걸기</string>
     <string name="toast_make_video_call_failed">부정확한 번호 형식으로, 영상 통화를 할 수 없습니다.</string>
@@ -383,7 +383,7 @@
     <string name="callFailed_dialToSs">발신 신호가 SS 요청으로 수정되었습니다.</string>
     <string name="callFailed_dialToUssd">발신 신호가 USSD 요청으로 수정되었습니다.</string>
     <string name="callFailed_dsac_restricted">액세스 제어에 의해 통화가 제한되었습니다.</string>
-    <string name="callFailed_dsac_restricted_emergency">액세스 제어에 의해 긴급 전화가 제한되었습니다.</string>
+    <string name="callFailed_dsac_restricted_emergency">액세스 제어에 의해 긴급 통화가 제한되었습니다.</string>
     <string name="callFailed_dsac_restricted_normal">액세스 제어에 의해 일반 통화가 제한되었습니다.</string>
     <string name="callFailed_fdn_only">FDN에 의해 발신 통화가 제한되었습니다.</string>
     <string name="callFailed_invalid_credentials">올바르지 않은 사용자 이름 또는 비밀번호</string>

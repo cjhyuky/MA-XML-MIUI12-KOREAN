@@ -38,7 +38,7 @@
     <string name="dlg_clear_current_call">이 번호에서 걸려 오는 모든 차단된 통화를 삭제하시겠습니까?</string>
     <string name="dlg_clear_all_ok">모두 지우기</string>
     <string name="dlg_clear_current_ok">지우기</string>
-    <string name="dlg_no_block">이 번호를 차단 해제하고 이 번호에서 걸려 온 통화를 통화 내역에 복원하시겠습니까?</string>
+    <string name="dlg_no_block">이 번호를 차단 해제하고 이 번호에서 걸려 온 통화를 통화 기록에 복원하시겠습니까?</string>
     <string name="dlg_no_block_ok">차단 해제</string>
     <string name="dlg_add_blacklist_title">차단목록에 추가</string>
     <string name="dlg_add_blacklist">이 번호를 차단하시겠습니까?</string>

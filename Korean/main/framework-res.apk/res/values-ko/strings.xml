@@ -1905,7 +1905,7 @@
     <string name="alert_windows_notification_turn_off_action">끄기</string>
     <string name="app_category_game">게임</string>
     <string name="app_category_productivity">생산성</string>
-    <string name="autofill">자동 채우기</string>
+    <string name="autofill">자동 완성</string>
     <string name="autofill_save_no">취소</string>
     <string name="autofill_save_type_address">주소</string>
     <string name="autofill_save_type_credit_card">신용카드</string>
@@ -1932,9 +1932,9 @@
     <string name="time_picker_header_text">시간 설정</string>
     <string name="time_picker_hour_label">시간</string>
     <string name="time_picker_minute_label">분</string>
-    <string name="RestrictedOnAllVoiceTitle">음성통화 불가/긴급통화</string>
+    <string name="RestrictedOnAllVoiceTitle">음성통화 불가/긴급 통화</string>
     <string name="RestrictedOnDataTitle">데이터 서비스 불가</string>
-    <string name="RestrictedOnEmergencyTitle">긴급통화 불가</string>
+    <string name="RestrictedOnEmergencyTitle">긴급 통화 불가</string>
     <string name="RestrictedOnNormalTitle">음성통화 불가</string>
     <string name="RestrictedStateContent">귀하의 위치에서는 일시적으로 모바일 네트워크에 접속 할 수 없습니다.</string>
     <string name="accessibility_button_instructional_text">이 기능을 변경하려면 접근성 버튼을 누르고 계세요.</string>
@@ -1955,9 +1955,9 @@
     <string name="app_category_social">소셜 &amp; 커뮤니케이션</string>
     <string name="app_category_video">영화 &amp; 동영상</string>
     <string name="autofill_error_cannot_autofill">콘텐츠는 자동으로 채울 수 없습니다.</string>
-    <string name="autofill_picker_accessibility_title">자동 채우기 옵션</string>
-    <string name="autofill_picker_no_suggestions">자동 채우기 없음</string>
-    <string name="autofill_save_accessibility_title">자동 채우기로 저장</string>
+    <string name="autofill_picker_accessibility_title">자동 완성 옵션</string>
+    <string name="autofill_picker_no_suggestions">자동 완성 없음</string>
+    <string name="autofill_save_accessibility_title">자동 완성으로 저장</string>
     <string name="autofill_save_title">%1$s 저장하시겠습니까?</string>
     <string name="autofill_save_title_with_2types">%1$s 항목과 %2$s 항목을 %3$s 항목으로 저장하시겠습니까?</string>
     <string name="autofill_save_title_with_3types">%1$s, %2$s, 그리고 %3$s 항목을 %4$s 항목으로 저장하시겠습니까?</string>

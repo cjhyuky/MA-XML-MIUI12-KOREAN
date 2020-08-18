@@ -32,7 +32,7 @@
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">통화 차단 꺼짐</string>
     <string name="phone_strings_call_blocking_turned_off_notification_title_txt">통화 차단</string>
     <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">긴급하게 연락을 원하는 발신자로 인해 통화 차단이 꺼졌습니다.</string>
-    <string name="phone_strings_emergency_call_made_dialog_title_txt">긴급 전화</string>
+    <string name="phone_strings_emergency_call_made_dialog_title_txt">긴급 통화</string>
     <string name="respond_via_sms_failure_format">메시지를 %s에 보내지 못했습니다.</string>
     <string name="telecommAppLabel">통화 관리</string>
 </resources>

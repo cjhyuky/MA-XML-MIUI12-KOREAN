@@ -540,7 +540,7 @@
     <string name="default_text">기본값</string>
     <string name="delete_file_tips">이 파일을 삭제하시겠습니까?</string>
     <string name="details">자세히</string>
-    <string name="dselect_all">전부 선택해제</string>
+    <string name="dselect_all">모두 선택해제</string>
     <string name="encountered_error_message">"이 미디어 재생에 오류가 발생했습니다.."</string>
     <string name="encountered_error_title">재생 오류</string>
     <string name="error_text_invalid_progressive_playback">"이 파일 형식은 지원하지 않습니다."</string>

@@ -40,7 +40,7 @@
     <string-array name="settings_search_contacts">
         <item>Mi 클라우드 연락처 동기화</item>
         <item>동기화 켜기/설정</item>
-        <item>연락처;통화 내역;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+        <item>연락처;통화 기록;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Mi 클라우드 메시지 동기화</item>
@@ -53,9 +53,9 @@
         <item>갤러리;사진;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Mi 클라우드 통화내역 동기화</item>
+        <item>Mi 클라우드 통화 기록 동기화</item>
         <item>동기화 켜기/설정</item>
-        <item>통화내역;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
+        <item>통화 기록;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_recorder">
         <item>Mi 클라우드 음성 녹음 동기화</item>

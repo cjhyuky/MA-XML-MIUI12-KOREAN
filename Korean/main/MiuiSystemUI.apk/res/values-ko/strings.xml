@@ -1018,7 +1018,7 @@
     <string name="keyguard_charged">충전됨</string>
     <string name="keyguard_charging_back_to_lockscreen">잠금 화면으로 돌아가기</string>
     <string name="keyguard_charging_info_battery_used_time_text">사용시간</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">전력 소모량</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">배터리 소모량</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">오늘 %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">어제 %s</string>
@@ -1142,7 +1142,7 @@
     <string name="lock_screen_magazine_global_button_text">더보기</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">더보기</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">들어가기</string>
-    <string name="lock_screen_no_sim_card_emergency_only">긴급통화 전용</string>
+    <string name="lock_screen_no_sim_card_emergency_only">긴급 통화 전용</string>
     <string name="lock_screen_no_sim_card_no_service">서비스 안됨</string>
     <string name="lockscreen_access_pattern_area">패턴 지역</string>
     <string name="lockscreen_access_pattern_cell_added">휴대전화 추가됨</string>
@@ -1284,7 +1284,7 @@
     <string name="notification_info_channel_enabled_text">%1$s 앱의 %2$s 알림을 받습니다.</string>
     <string name="notification_low_battery_action_btn">켜기</string>
     <string name="notification_low_battery_need_charge">배터리가 부족합니다. 기기를 충전하세요.</string>
-    <string name="notification_low_battery_open_save_mode">배터리 절약 켜기</string>
+    <string name="notification_low_battery_open_save_mode">절전 모드 켜기</string>
     <string name="notification_low_battery_title">배터리 %d%% 미만 남음</string>
     <string name="notification_manager">알림 관리</string>
     <string name="notification_manager_des">필터 및 관리 알림</string>
@@ -1332,7 +1332,7 @@
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_mehod_back">뒤로</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;기기에서 &lt;font color=#a5220e&gt;데이터 지우기&lt;/font&gt;를 해야 합니다. 사진, 연락처, 모든 개인정보가 지워진 후 잠금해제 비밀번호를 초기화하실 수 있습니다.;&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;기기에서 &lt;font color=#a5220e&gt;데이터 삭제&lt;/font&gt;를 해야 합니다. 사진, 연락처, 모든 개인정보가 지워진 후 잠금해제 비밀번호를 초기화하실 수 있습니다.;&lt;/Data&gt;</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_foget_password_ok">알겠습니다.</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;기기를 끄신 후 &lt;font color=#a5220e&gt;전원 버튼&lt;/font&gt;과 &lt;font color=#a5220e&gt;볼륨 업 버튼&lt;/font&gt;을 Mi 로고가 표시될 때까지 길게 누르세요.;&lt;/Data&gt;</string>
@@ -1482,7 +1482,7 @@
     <string name="quick_settings_rotation_locked_landscape_label">가로방향</string>
     <string name="quick_settings_rotation_locked_portrait_label">세로방향</string>
     <string name="quick_settings_rotation_unlocked_label">자동 회전</string>
-    <string name="quick_settings_rssi_emergency_only">긴급통화만</string>
+    <string name="quick_settings_rssi_emergency_only">긴급 통화만</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">버튼잠금</string>
     <string name="quick_settings_screenlock_label">잠금 화면</string>

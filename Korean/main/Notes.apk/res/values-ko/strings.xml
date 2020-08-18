@@ -106,7 +106,7 @@
     <string name="note_description_title">메모 정보</string>
     <string name="note_description_content">메모 앱은 사용자의 아이디어를 기록할 수 있는 좋은 도구입니다. 언제 어디서나 Mi 클라우드를 통해서 동기화된 항목들에 접근할 수 있으며 미리 알려드릴 수 있습니다. 앱 삭제 전 이러한 기능들을 사용할 수 없게 된다는 점을 유의하세요.</string>
     <string name="db_downgrade_clear_date_reminder">MIUI 버전 전환을 위해 표기된 로컬 데이터 제거가 요구됩니다. Mi 클라우드의 표기된 항목 백업 기능이 켜져있는지 확인하세요.</string>
-    <string name="db_downgrade_clear_button">앱 데이터 지우기</string>
+    <string name="db_downgrade_clear_button">앱 데이터 삭제</string>
     <string name="app_name">메모</string>
     <string name="app_widget">메모</string>
     <string name="widget_havenot_content">탭하여 메모 생성, 위젯을 길게 눌러 사이즈 변경.</string>
@@ -399,9 +399,9 @@
     <string name="todo_list_overflow_tip">"체크리스트를 추가할 수 없습니다."</string>
     <string name="todo_user_guide_tip6">\"확인\"을 탭하여 체크리스트 생성하기</string>
     <string name="btn_next">다음</string>
-    <string name="note_gesture_guide_step1">음성 메모를 남기시려면 플러스 버튼을 누르고 계세요.</string>
-    <string name="note_gesture_guide_step2">폴더를 생성하려면 하나의 메모를 누르고 계신후 다른 메모에 드래그하세요.</string>
-    <string name="note_gesture_guide_step3">하나의 메모를 누르고 계신 후 폴더로 드래그하시면 메모가 이동됩니다.</string>
+    <string name="note_gesture_guide_step1">음성 메모를 남기려면 플러스 버튼을 누르고 있으세요.</string>
+    <string name="note_gesture_guide_step2">폴더를 생성하려면 하나의 메모를 길게 눌러 다른 메모로 드래그하세요.</string>
+    <string name="note_gesture_guide_step3">하나의 메모를 길게 누르고 폴더로 드래그하시면 메모가 이동됩니다.</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Mi 클라우드 동기화를 이용하면 메모와 할 일이 손실되지 않습니다.</string>
     <string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>
     <string name="sync_note_folder">%1$s 및 %2$s</string>

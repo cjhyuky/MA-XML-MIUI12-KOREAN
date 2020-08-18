@@ -490,7 +490,7 @@
     <string name="media_error_video_not_exist">동영상이 존재하지 않습니다.</string>
     <string name="menu_preferences">설정</string>
     <string name="menu_title_clear_all">모두 지우기</string>
-    <string name="menu_title_open_file_management">파일 탐색기 열기</string>
+    <string name="menu_title_open_file_management">파일 관리자 열기</string>
     <string name="menu_title_pause_all">모두 일시 중지</string>
     <string name="menu_title_resume_all">모두 시작</string>
     <string name="message_notice_push">나의 개인정보 기능을 경험해보세요.</string>
@@ -577,7 +577,7 @@
     <string name="mw_autofill_clear_local_copy_button">복사본 삭제</string>
     <string name="mw_autofill_from_google_account_long">Google 페이에서</string>
     <string name="mw_autofill_keyboard_accessory_content_description">제안 가능함</string>
-    <string name="mw_autofill_popup_content_description">자동 채우기 팝업 보기</string>
+    <string name="mw_autofill_popup_content_description">자동 완성 팝업 보기</string>
     <string name="mw_autofill_scan_credit_card">새로운 카드 스캔</string>
     <string name="mw_autofill_wallet_management_link_text">나가기</string>
     <string name="mw_cast_notification_connected_message">%1$s에 접속중</string>
@@ -937,7 +937,7 @@
     <string name="open_app_confirm_message">이 페이지를 %s 앱으로 여시겠습니까?</string>
     <string name="open_cloud_sync">클라우드 동기화 열기</string>
     <string name="open_cloud_sync_desc">북마크가 추가되었습니다. 클라우드에 연결된 다른 기기에도 같은 항목이 추가되도록 할 수 있습니다. 지금 클라우드에 로그인하시겠습니까?</string>
-    <string name="open_file_explorer_failed">파일 탐색기를 열 수 없습니다.</string>
+    <string name="open_file_explorer_failed">파일 관리자를 열 수 없습니다.</string>
     <string name="open_voice_permission">마이크가 인터넷에 연결될 수 있게 허용</string>
     <string name="page_hang_message">현재 페이지가 멈췄으므로 브라우저를 다시 시작해야 합니다.</string>
     <string name="page_hang_title">막힌 페이지</string>
@@ -989,7 +989,7 @@
     <string name="pref_clear_adblock_statistics_dlg">차단된 광고 개수를 지우시겠습니까?</string>
     <string name="pref_clear_all_data_dlg">이상의 모든 저장된 데이터를 삭제하시겠습니까?</string>
     <string name="pref_clear_all_data_title">모두 지우기</string>
-    <string name="pref_clear_data_title">데이터 지우기</string>
+    <string name="pref_clear_data_title">데이터 삭제</string>
     <string name="pref_confirm_for_exit">브라우저 종료 전에 알림 창 표시</string>
     <string name="pref_content_auto_light_mode">자동 밝기</string>
     <string name="pref_content_block_popups">팝업 차단</string>
@@ -1040,12 +1040,12 @@
     <string name="pref_privacy_clear_cache">캐시 지우기</string>
     <string name="pref_privacy_clear_cache_dlg">캐시된 로컬 콘텐츠와 데이터베이스를 삭제하시겠습니까?</string>
     <string name="pref_privacy_clear_cache_summary">캐시된 로컬 콘텐츠와 데이터베이스 지우기</string>
-    <string name="pref_privacy_clear_cookies">모든 쿠키 데이터 지우기</string>
+    <string name="pref_privacy_clear_cookies">모든 쿠키 데이터 삭제</string>
     <string name="pref_privacy_clear_cookies_dlg">모든 쿠기를 삭제하시겠습니까?</string>
     <string name="pref_privacy_clear_cookies_summary">모든 브라우저 쿠기 지우기</string>
-    <string name="pref_privacy_clear_form_data">양식 데이터 지우기</string>
+    <string name="pref_privacy_clear_form_data">양식 데이터 삭제</string>
     <string name="pref_privacy_clear_form_data_dlg">모든 저장된 양식 데이터를 삭제하시겠습니까?</string>
-    <string name="pref_privacy_clear_form_data_summary">모든 저장된 양식 데이터 지우기</string>
+    <string name="pref_privacy_clear_form_data_summary">모든 저장된 양식 데이터 삭제</string>
     <string name="pref_privacy_clear_geolocation_access">위치 접근 지우기</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">웹사이트 위치 접근을 지우시겠습니까?</string>
     <string name="pref_privacy_clear_geolocation_access_summary">모든 웹사이트의 위치 접근을 지우시겠습니까?</string>

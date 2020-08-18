@@ -44,8 +44,8 @@
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">블루투스 켜기 또는 끄기</string>
     <string name="HIPS_Perm_AutoStart">부팅 시 실행</string>
     <string name="HIPS_Perm_AutoStart_Desc">부팅 시 실행</string>
-    <string name="HIPS_Perm_Calendar">달력 일정 읽기</string>
-    <string name="HIPS_Perm_Calendar_Desc">달력 일정 읽기</string>
+    <string name="HIPS_Perm_Calendar">캘린더 일정 읽기</string>
+    <string name="HIPS_Perm_Calendar_Desc">캘린더 일정 읽기</string>
     <string name="HIPS_Perm_SystemAlert">팝업 창 표시</string>
     <string name="HIPS_Perm_SystemAlert_Desc">팝업 창 표시</string>
     <string name="HIPS_SecurityPrompt_Caption">보안 경고</string>

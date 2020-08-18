@@ -401,7 +401,7 @@
     <string name="v_score">평점</string>
     <string name="v_search">검색</string>
     <string name="v_search_history_clear">검색기록 지우기</string>
-    <string name="v_select_all">모두선택</string>
+    <string name="v_select_all">모두 선택</string>
     <string name="v_select_none">모두해제</string>
     <string name="v_setting">설정</string>
     <string name="v_share_device">공유된 기기</string>

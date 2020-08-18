@@ -28,7 +28,7 @@
     <string name="controls_favorite_other_zone_header">기타</string>
     <string name="controls_favorite_rearrange">컨트롤을 누른 상태로 드래그하여 이동</string>
     <string name="controls_favorite_removed">모든 컨트롤이 제거됨</string>
-    <string name="controls_favorite_subtitle">전원 메뉴에서 액세스 할 컨트롤 선택</string>
+    <string name="controls_favorite_subtitle">전원 메뉴에서 액세스할 컨트롤 선택</string>
     <string name="controls_favorite_toast_no_changes">변경 사항이 저장되지 않음</string>
     <string name="controls_menu_add">컨트롤 추가</string>
     <string name="controls_menu_edit">컨트롤 편집</string>

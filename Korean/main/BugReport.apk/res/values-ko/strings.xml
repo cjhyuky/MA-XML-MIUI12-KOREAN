@@ -362,7 +362,7 @@
     <string name="passport_input_password_for_login">이 번호는 기존 계정과 연결되어 있으며 비밀번호를 입력하세요.</string>
     <string name="passport_input_password_hint">비밀번호를 입력하세요.</string>
     <string name="passport_input_phone_hint">전화번호를 입력하세요.</string>
-    <string name="passport_input_vcode_hint">인증코드를 입력하세요.</string>
+    <string name="passport_input_vcode_hint">인증 코드를 입력하세요.</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. 이 페이지는 %s 에서 확인할 수 있습니다.</string>
     <string name="passport_loading">불러오는 중…</string>
     <string name="passport_login">로그인</string>
@@ -372,7 +372,7 @@
     <string name="passport_login_prompt">하나의 Mi 계정으로. 모든 Mi 서비스를.</string>
     <string name="passport_login_title">귀하의 Mi 계정에 로그인하세요.</string>
     <string name="passport_login_using_other_ways">&lt;u&gt;다른 방법으로 로그인&lt;/u&gt;</string>
-    <string name="passport_message_dialog_title">확인코드가 있는 SMS</string>
+    <string name="passport_message_dialog_title">확인 코드가 있는 SMS</string>
     <string name="passport_next">다음</string>
     <string name="passport_notification_title">%1$s에 대한 로그인 오류</string>
     <string name="passport_password_req_notice">비밀번호는 8-16자여야하며 숫자와 문자를 모두 포함해야 합니다(대소문자 구분).</string>
@@ -532,7 +532,7 @@
     <string name="feedback_description_hint_suggestion">"MIUI 개선 방안을 알려주세요."</string>
     <string name="feedback_jira_key_place_holder">Jira 생성 중…</string>
     <string name="catch_full_log_privacy_content_audio">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 재생 기록 및 녹음 기록을 비롯하여 장치의 오디오에 대한 정보가 포함될 수 있습니다. 이러한 로그를 공개하지 마세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_bt">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 블루투스 장치 사용 정보(통화 내역, 메시지, 전송된 파일 등)가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_bt">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 블루투스 장치 사용 정보(통화 기록, 메시지, 전송된 파일 등)가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
     <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
