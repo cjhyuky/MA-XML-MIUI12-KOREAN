@@ -989,4 +989,9 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="midrive_guide_btn_install">Mi 드라이브 설치</string>
     <string name="midrive_guide_btn_installed">Mi 드라이브 열기</string>
     <string name="midrive_guide_btn_installing">설치 중…</string>
+    <string name="low_battery_locate_summary">Automatically report location info when the battery is low</string>
+    <string name="low_battery_locate_title">Report location when battery is low</string>
+    <string name="power_off_locate_summary">"Report location info by long pressing the Power button.
+Location info might not be reported when network connection is poor."</string>
+    <string name="power_off_locate_title">Report location before powering off</string>
 </resources>

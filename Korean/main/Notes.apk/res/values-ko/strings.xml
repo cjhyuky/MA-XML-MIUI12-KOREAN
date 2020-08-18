@@ -406,4 +406,7 @@
     <string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>
     <string name="sync_note_folder">%1$s 및 %2$s</string>
     <string name="cta_v2_agree_desc">이 앱이 인터넷에 연결하고 위에 표시된 필수 권한을 부여하도록 허용합니다.</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">나중에 시도</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">%s 새로운 버전</string>
 </resources>
