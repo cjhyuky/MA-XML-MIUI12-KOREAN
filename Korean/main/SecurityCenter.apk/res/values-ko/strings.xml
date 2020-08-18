@@ -3356,7 +3356,7 @@
     <string name="app_behavior_media_volume">%1s 앱이 미디어 볼륨을 조절했습니다.</string>
     <string name="app_behavior_media_volume_bg">%1s 앱이 백그라운드에서 미디어 볼륨을 조절했습니다.</string>
     <string name="app_behavior_media_volume_bg_single">이 앱이 백그라운드에서 미디어 볼륨을 조절했습니다.</string>
-    <string name="app_behavior_media_volume_single">이 앱이 미디어 볼륨을 조절했습니다.</string
+    <string name="app_behavior_media_volume_single">이 앱이 미디어 볼륨을 조절했습니다.</string>
     <string name="bill_limit_notification_text_format">카드: %1$s | 잔액: %2$s CNY</string>
     <string name="bill_limit_notification_title">잔액 부족</string>
     <string name="empty_title_installed_apps">없음</string>
