@@ -1078,7 +1078,7 @@
     <string name="fingerprint_identify_msg">지문 인증을 켜주세요.</string>
     <string name="fingerprint_not_identified_msg">지문을 읽을 수 없습니다. 비밀번호를 입력하세요.</string>
     <string name="fingerprint_not_remind">다시 묻지 않기</string>
-    <string name="fingerprint_remind_dialog_title">지문 잠금해제</string>
+    <string name="fingerprint_remind_dialog_title">지문인식 잠금해제</string>
     <string name="fingerprint_to_lock">지문으로 잠금해제</string>
     <string name="fingerprint_to_lock_summary">지문인식으로 앱 잠금해제</string>
     <string name="fingerprint_verify_failed">지문을 인증할 수 없습니다.</string>
@@ -2332,7 +2332,6 @@
     <string name="scan_status_risk">위험</string>
     <string name="scan_status_safe">보안</string>
     <string name="screenrecord_not_find">최신 버전의 화면 녹화기를 설치하고 다시 시도하세요.</string>
-    <string name="search_input_txt_na">&quot;&lt;font color='#ff0000'&gt;%s&lt;/font&gt;&quot;</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다.</string>
     <string name="secondart_setting_title">빨간 봉투 알림 설정</string>
     <string name="section_clear_acc_item_title">%s. 아직 공간이 부족하시다면 클리너를 사용해보세요.</string>
@@ -3362,7 +3361,7 @@
     <string name="empty_title_installed_apps">없음</string>
     <string name="game_manual_record_setting_title">주요 장면</string>
     <string name="gb_add_game_loading_tips">잠시만 기다리세요…</string>
-    <string name="gb_dialog_record_way_ai">AI 녹화본이 게임박스에 저장되었으며, 7일 동안 보존됩니다.</string>
+    <string name="gb_dialog_record_way_ai">AI 녹화본이 게임박스에 저장되었으며, 7일 동안 보관됩니다.</string>
     <string name="gb_dialog_record_way_finish">완료</string>
     <string name="gb_dialog_record_way_manual">수동으로 30초 동안 동영상 녹화</string>
     <string name="gb_dialog_record_way_setting_tips">알림: 게임 플레이 녹화 중에는 배터리 소모가 커지며, 버벅임이 발생할 수도 있습니다.</string>

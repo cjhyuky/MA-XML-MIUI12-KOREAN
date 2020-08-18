@@ -530,11 +530,11 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_fpc_selftest">자가진단</string>
     <string name="cit_fpc_sensor_check_summary">지문인식 센서 테스트 - 버튼을 누르고 기다리세요.</string>
     <string name="cit_fpc_sensor_check_title">FPC 지문인식 센서</string>
-    <string name="cit_fptest_summary">FpTest 버튼을 눌러 지문 센서 테스트를 하세요.</string>
+    <string name="cit_fptest_summary">FpTest 버튼을 눌러 지문인식 센서 테스트를 하세요.</string>
     <string name="cit_fptest_title">지문 FpTest</string>
     <string name="cit_get_signature_failed">서명 획득 실패</string>
     <string name="cit_goodix_sensor_check_summary">Goodix 센서 테스트 - 버튼을 누르고 기다리세요.</string>
-    <string name="cit_goodix_sensor_check_title">Goodix 지문 센서</string>
+    <string name="cit_goodix_sensor_check_title">Goodix 지문인식 센서</string>
     <string name="cit_gyrodata_sensor_check_summary">X, Y, Z값이 아래에 표시되어야 합니다.</string>
     <string name="cit_gyrodata_sensor_check_title">자이로스코프</string>
     <string name="cit_hall_far">먼</string>

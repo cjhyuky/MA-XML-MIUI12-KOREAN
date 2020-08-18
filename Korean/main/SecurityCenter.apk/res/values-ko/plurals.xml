@@ -290,10 +290,10 @@
         <item quantity="other">%d개 게임 추가됨</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
-        <item quantity="other">%d 권한 허용됨</item>
+        <item quantity="other">%d개 권한 허용됨</item>
     </plurals>
     <plurals name="app_manager_permission_summary_ask">
-        <item quantity="other">%d 권한 요청</item>
+        <item quantity="other">%d개 권한 요청</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d회</item>

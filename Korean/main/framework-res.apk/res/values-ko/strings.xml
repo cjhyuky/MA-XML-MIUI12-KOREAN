@@ -1973,7 +1973,7 @@
     <string name="etws_primary_default_message_earthquake_and_tsunami">침착하게 주변의 피난처를 찾으세요.</string>
     <string name="etws_primary_default_message_test">긴급 메시지 테스트</string>
     <string name="etws_primary_default_message_tsunami">연안 지역과 강변에서 즉시 고지대 같은 안전한 장소로 대피하세요.</string>
-    <string name="fingerprint_error_lockout_permanent">시도 횟수가 너무 많습니다. 지문 센서가 비활성화되었습니다.</string>
+    <string name="fingerprint_error_lockout_permanent">시도 횟수가 너무 많습니다. 지문인식 센서가 비활성화되었습니다.</string>
     <string name="foreground_service_app_in_background">%1$s 앱이 배터리를 소모하고 있습니다.</string>
     <string name="foreground_service_apps_in_background">%1$d개 앱이 배터리를 소모하고 있습니다.</string>
     <string name="foreground_service_tap_for_details">배터리와 데이터 사용에 관해 자세히 보시려면 탭하세요.</string>
@@ -2071,7 +2071,7 @@
     <string name="email_desc">선택된 이메일 주소</string>
     <string name="failed_to_copy_to_clipboard">클립보드에 복사하지 못했습니다.</string>
     <string name="fingerprint_authenticated">인증된 지문</string>
-    <string name="fingerprint_error_hw_not_present">이 장치에는 지문 센서가 없습니다.</string>
+    <string name="fingerprint_error_hw_not_present">이 장치에는 지문인식 센서가 없습니다.</string>
     <string name="fingerprint_error_no_fingerprints">지문을 등록하지 않았습니다.</string>
     <string name="fingerprint_error_user_canceled">지문 작업이 사용자에 의해 취소되었습니다.</string>
     <string name="fingerprint_not_recognized">인식되지 않음</string>

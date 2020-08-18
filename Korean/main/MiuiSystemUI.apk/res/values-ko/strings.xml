@@ -850,7 +850,7 @@
     <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가하세요.</string>
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_again_identified_msg">지문이 활성화 되었습니다. 지문을 사용하여 기기 잠금해제 또는 비밀번호를 입력할 수 있습니다.</string>
-    <string name="fingerprint_dialog_touch_sensor">지문 센서 터치</string>
+    <string name="fingerprint_dialog_touch_sensor">지문인식 센서 터치</string>
     <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문 인식을 사용하려면 보조 공간 비밀번호를 입력하세요.</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">라이트 모드 상태에서는 보조 공간에 입장할 수 없습니다.</string>
     <string name="fingerprint_enter_second_psw_title">보조 공간 비밀번호 입력</string>
