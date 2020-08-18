@@ -3360,7 +3360,6 @@
     <string name="bill_limit_notification_text_format">카드: %1$s | 잔액: %2$s CNY</string>
     <string name="bill_limit_notification_title">잔액 부족</string>
     <string name="empty_title_installed_apps">없음</string>
-    <string name="exo_track_bitrate">%1$.2fMbps</string>
     <string name="game_manual_record_setting_title">주요 장면</string>
     <string name="gb_add_game_loading_tips">잠시만 기다리세요…</string>
     <string name="gb_dialog_record_way_ai">AI 녹화본이 게임박스에 저장되었으며, 7일 동안 보존됩니다.</string>
@@ -3401,9 +3400,6 @@
     <string name="na_main_card_ad_title">Mi Fan 카드 프로모션</string>
     <string name="na_main_card_title_sim">&quot;카드 &quot;</string>
     <string name="na_text_checking">&quot;테스트 중: &quot;</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%sV</string>
-    <string name="power_center_list_item_battery_health_model_volume">%smAh</string>
     <string name="storage_item_apk_name">APK</string>
     <string name="st_hint_operatelist">이 규칙은 이미 존재하는 것 같습니다.</string>
     <string name="text_done">확인</string>
