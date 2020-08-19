@@ -2643,7 +2643,6 @@ SMS 전송"</string>
     <string name="privacy_using_record">오디오 녹음</string>
     <string name="privacyapp_number_masked_text">알림 콘텐츠 숨겨짐</string>
     <string name="privacyapp_number_unmasked_text">알림 콘텐츠 숨김 가능</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="process_vpnsdkmanager_label">게임 터보</string>
     <string name="promotion">광고</string>
