@@ -141,7 +141,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="dialog_nfc_cast_wifi_off">NFC를 사용하여 전송할 수 있도록 Wi-Fi를 켭니다. 지금 켜시겠습니까?</string>
     <string name="toast_nfc_dont_move">"휴대전화를 멀리 옮기지 마세요"</string>
-    <string name="toast_turn_off_hotspot_before_cast">전송하기 전에 휴대용 핫스팟을 끄세요.</string>
+    <string name="toast_turn_off_hotspot_before_cast">전송하기 전에 모바일 핫스팟을 끄세요.</string>
     <string name="dialog_no_device_message">&lt;Data>1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하세요.&lt;/Data></string>
     <string name="dialog_no_device_message_china">&lt;Data>1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하세요.&lt;/Data></string>
     <string name="dialog_scan_message">"1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.

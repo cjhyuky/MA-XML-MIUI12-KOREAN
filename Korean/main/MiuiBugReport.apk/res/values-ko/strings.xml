@@ -452,7 +452,7 @@
     <string name="post_miui_bbs_failed">포럼에 게시 실패</string>
     <string name="privacy_category_title">개인정보</string>
     <string name="privacy_policy_title">개인정보 보호정책</string>
-    <string name="pull_to_refresh_pull_label">밑으로 당겨 새로고침</string>
+    <string name="pull_to_refresh_pull_label">밑으로 당겨서 새로고침</string>
     <string name="pull_to_refresh_refreshing_label">새로고침 중…</string>
     <string name="pull_to_refresh_release_label">놓아서 새로고침</string>
     <string name="refresh">새로고침</string>

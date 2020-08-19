@@ -109,12 +109,12 @@
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>기기 찾기</item>
-        <item>"분실시 기기 잠금 및 데이터 삭제"</item>
+        <item>"분실 시 기기 잠금 및 데이터 삭제"</item>
         <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>기기 찾기</item>
-        <item>"분실시 기기 잠금 및 데이터 삭제"</item>
+        <item>"분실 시 기기 잠금 및 데이터 삭제"</item>
         <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Mi 클라우드</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">

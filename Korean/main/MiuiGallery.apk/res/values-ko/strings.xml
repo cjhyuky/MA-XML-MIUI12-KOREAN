@@ -432,7 +432,7 @@
     <string name="album_pano_name">파노라마</string>
     <string name="album_quota_fulfiled">앨범이 너무 많습니다. 일부 앨범을 삭제한 후 다시 시도하세요.</string>
     <string name="album_scanner">스캐너</string>
-    <string name="album_screen_recorder">화면녹화기</string>
+    <string name="album_screen_recorder">화면 녹화</string>
     <string name="album_screenshot_name">스크린샷</string>
     <string name="album_share_exit_confirm">이 앨범을 종료하시겠습니까?</string>
     <string name="album_share_kicked">%1$s 앨범이 닫혔습니다.</string>
@@ -1832,8 +1832,8 @@
     <string name="video_editor_smart_effect_rhythm">심장소리</string>
     <string name="video_editor_smart_effect_street">메트로폴리스</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">이 효과는 최소 6 초 길이의 동영상에 적용할 수 있습니다.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_40">이 효과는 최대 40 초 길이의 동영상에 적용할 수 있습니다.</string>
-    <string name="video_editor_smart_effect_time_limit_txt_60">이 효과는 최대 60 초 길이의 동영상에 적용할 수 있습니다.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_40">이 효과는 최대 40초 길이의 동영상에 적용할 수 있습니다.</string>
+    <string name="video_editor_smart_effect_time_limit_txt_60">이 효과는 최대 60초 길이의 동영상에 적용할 수 있습니다.</string>
     <string name="video_editor_template_family">가족</string>
     <string name="video_editor_template_forbidden_tips">템플릿을 사용 중일때는 할 수 없습니다.</string>
     <string name="video_editor_template_oldfilm">빈티지</string>

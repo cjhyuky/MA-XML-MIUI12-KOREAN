@@ -136,7 +136,7 @@
     <string name="call_description_recording">녹음 중…</string>
     <string name="call_recording_error_privacy">게스트 모드에서는 녹음할 수 없습니다.</string>
     <string name="call_recording_error_sd_access">SD 카드에 접근할수 없습니다.</string>
-    <string name="call_recording_error_sd_unmounted">녹음 중단됨: SD 카드 분리됨.</string>
+    <string name="call_recording_error_sd_unmounted">녹음 중단됨: SD 카드 분리됨</string>
     <string name="call_recording_error_low_storage">SD 카드에 충분한 공간이 없습니다.</string>
     <string name="call_recording_error_start_failed">녹음기를 다른 앱이 사용 중입니다.</string>
     <string name="call_recording_error_unknown">알 수 없는 오류가 발생했습니다.</string>

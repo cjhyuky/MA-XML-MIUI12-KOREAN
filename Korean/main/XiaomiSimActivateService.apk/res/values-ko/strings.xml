@@ -103,10 +103,10 @@
     <string name="activate_feature_mi_roaming">Mi 로밍</string>
     <string name="activate_feature_default_name">Mi 서비스</string>
     <string name="activate_history_title">SIM 카드 활성화</string>
-    <string name="activate_history_success_overview">SIM 카드 활성화 성공. 활성화가 \"%1$s\"에 의해 실행됨.</string>
-    <string name="activate_history_canceled_overview">SIM 카드 활성화가 취소되었습니다. 활성화가 \"%1$s\"에 의해 실행됨.</string>
-    <string name="activate_history_multisim_success_overview">SIM 카드 %2$d 활성화 성공. 활성화가 %1$s\"에 의해 실행됨.</string>
-    <string name="activate_history_multisim_canceled_overview">SIM 카드 %2$d 활성화가 취소되었습니다. 활성화가 %1$s\"에 의해 실행됨.</string>
+    <string name="activate_history_success_overview">SIM 카드 활성화 성공. 활성화가 \"%1$s\"에 의해 실행됨</string>
+    <string name="activate_history_canceled_overview">SIM 카드 활성화가 취소되었습니다. 활성화가 \"%1$s\"에 의해 실행됨</string>
+    <string name="activate_history_multisim_success_overview">SIM 카드 %2$d 활성화 성공. 활성화가 %1$s\"에 의해 실행됨</string>
+    <string name="activate_history_multisim_canceled_overview">SIM 카드 %2$d 활성화가 취소되었습니다. 활성화가 %1$s\"에 의해 실행됨</string>
     <string name="activate_history_sms">SMS가 활성화하는 동안 전송되었습니다.</string>
     <string name="phone_verify_title">%1$s 통신사에 동의하여 전화번호를 인증하세요.</string>
     <string name="phone_verify_text">%1$s 통신사가 이 전화번호를 받지 못합니다. 전화번호가 맞는지 확인하세요.</string>

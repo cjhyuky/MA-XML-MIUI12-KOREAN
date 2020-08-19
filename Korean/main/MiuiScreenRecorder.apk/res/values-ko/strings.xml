@@ -20,13 +20,13 @@
     <string name="copy">복사</string>
     <string name="expand_button_title">추가설정</string>
     <string name="not_set">설정되지 않음</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>
-    <string name="app_name">화면 녹화기</string>
+    <string name="app_name">화면 녹화</string>
     <string name="app_info">녹화 중, 탭하여 중지</string>
-    <string name="app_notification_title">화면 녹화기</string>
+    <string name="app_notification_title">화면 녹화</string>
     <string name="screen_record_params">녹화 매개변수</string>
     <string name="resolution">해상도</string>
     <string name="resolution_summary">고해상도의 동영상은 더욱 선명합니다.</string>
@@ -92,7 +92,7 @@
     <string name="stop_recording">녹화 종료</string>
     <string name="description_content">화면 녹화 기능을 비활성화합니다. 계속하려면 확인 버튼을 누르세요.</string>
     <string name="description_title">화면 녹화 기능에 대하여</string>
-    <string name="app_notification_info">화면 녹화기는 백그라운드에서 실행 중입니다.</string>
+    <string name="app_notification_info">화면 녹화가 백그라운드에서 실행 중입니다.</string>
     <string name="recording_without_mic">마이크가 사용되고 있으며 마이크 소리를 녹음할 수 없습니다.</string>
     <string name="cannot_change_frames">프레임은 고정 프레임으로 녹화된 영상에서만 수정할 수 있습니다.</string>
     <string name="close_screen_record">녹화 중단됨</string>

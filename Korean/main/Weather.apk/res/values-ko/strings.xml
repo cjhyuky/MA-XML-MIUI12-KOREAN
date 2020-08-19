@@ -242,7 +242,7 @@
     <string name="feedback_sand">모래바람</string>
     <string name="feedback_result_success">제출 성공, 귀하의 피드백 감사드립니다.</string>
     <string name="feedback_result_fail_no_choice">현재 날씨 상황 선택</string>
-    <string name="minute_rain_pull_down_refresh">아래로 당겨 새로고침</string>
+    <string name="minute_rain_pull_down_refresh">아래로 당겨서 새로고침</string>
     <string name="minute_rain_refreshing_now">새로고침 중…</string>
     <string name="minute_rain_let_go_refresh">놓아서 새로고침</string>
     <string name="alert_detail_title">경고 세부사항</string>

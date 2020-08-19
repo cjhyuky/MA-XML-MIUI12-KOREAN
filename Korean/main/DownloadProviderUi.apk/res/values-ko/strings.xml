@@ -522,7 +522,7 @@
     <string name="expand_button_title">고급</string>
     <string name="h5_net_error" formatted="false">"%s (%s)을(를) 불러올 수 없습니다."</string>
     <string name="h5_net_error_tip">"URL을 열 수 없습니다."</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
@@ -532,7 +532,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="no_net">"네트워크에 연결할 수 없음"</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>

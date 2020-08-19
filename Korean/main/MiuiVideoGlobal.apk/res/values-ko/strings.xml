@@ -105,7 +105,7 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Facebook을 사용하여 로그인했습니다.</string>
     <string name="com_facebook_send_button_text">보내기</string>
     <string name="com_facebook_share_button_text">공유</string>
-    <string name="com_facebook_smart_device_instructions">계정을 연결하려면 휴대기기에서 Facebook 앱을 열고 알림을 확인하세요.</string>
+    <string name="com_facebook_smart_device_instructions">계정을 연결하려면 모바일 기기에서 Facebook 앱을 열고 알림을 확인하세요.</string>
     <string name="com_facebook_smart_device_instructions_or">- 또는 -</string>
     <string name="com_facebook_smart_login_confirmation_cancel">사용자가 아닌가요?</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">%1$s 계정으로 계속하시겠습니까?</string>
@@ -326,7 +326,7 @@
     <string name="ovp_alert_dialog_download_install_task">HD플러그인 다운로드 중...</string>
     <string name="ovp_buffering_video_netplay_label_v5">버퍼링중...</string>
     <string name="ovp_category">카테고리</string>
-    <string name="ovp_confirm_delete_favor">선택한 항목을 즐겨 찾기에서 제거하시겠습니까?</string>
+    <string name="ovp_confirm_delete_favor">선택한 항목을 즐겨찾기에서 제거하시겠습니까?</string>
     <string name="ovp_default_plugin_name">HD플러그인</string>
     <string name="ovp_detail_collapse_summary">숨기기</string>
     <string name="ovp_detail_collect">즐겨찾기에 추가</string>
@@ -370,7 +370,7 @@
     <string name="ovp_loading_video_netplay_label_v5">잠시만 기다려주세요...</string>
     <string name="ovp_local_videos_title">지역 동영상</string>
     <string name="ovp_navigation_category">카테고리</string>
-    <string name="ovp_navigation_favorites">즐겨 찾기</string>
+    <string name="ovp_navigation_favorites">즐겨찾기</string>
     <string name="ovp_navigation_feedback">피드백</string>
     <string name="ovp_navigation_history">기록</string>
     <string name="ovp_navigation_home">집</string>

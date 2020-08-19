@@ -139,8 +139,8 @@
     <string name="tus">화요일</string>
     <string name="uninstall_app">【%s】 앱이 삭제되었습니다.</string>
     <string name="uninstall_app_delayed">【%s】 앱이 곧 삭제됩니다.</string>
-    <string name="verify_fingerprint">지문 인식</string>
-    <string name="verify_fingerprint_retry">"지문 인식 실패. 다시 시도하세요."</string>
+    <string name="verify_fingerprint">지문인식</string>
+    <string name="verify_fingerprint_retry">"지문인식 실패. 다시 시도하세요."</string>
     <string name="verify_password">비밀번호를 입력하세요.</string>
     <string name="wes">수요일</string>
     <string name="what_app_can_use">사용가능한 앱</string>

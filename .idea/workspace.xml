@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="872f1afc-d88d-4303-b561-78fb59f8670e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gJw2mYvVTtFDikFT4s9cL9SeX1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872f1afc-d88d-4303-b561-78fb59f8670e" name="Default Changelist" comment="" />
+      <created>1597845798487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597845798487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="908" y="344" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597845896081">
+      <screen x="0" y="40" width="2048" height="1030" />
+    </state>
+    <state x="908" y="344" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.2048.1030@0.40.2048.1030" timestamp="1597845896081" />
+    <state x="735" y="259" key="SettingsEditor" timestamp="1597846385173">
+      <screen x="0" y="40" width="2048" height="1030" />
+    </state>
+    <state x="735" y="259" key="SettingsEditor/0.40.2048.1030@0.40.2048.1030" timestamp="1597846385173" />
+  </component>
+</project>

@@ -8,7 +8,7 @@
     <string name="stopwatch_reset_notification">스톱워치가 초기화되었습니다.</string>
     <string name="stopwatch_running_notification">스톱워치</string>
     <string name="white_noise_selector">오디오 선택</string>
-    <string name="slider_text">위로 밀어 끄기</string>
+    <string name="slider_text">위로 밀어서 끄기</string>
     <string name="snooze_confirm_cancel">알람 끄기</string>
     <string name="timer_alarm_cancel_pad">화면을 탭 하시면 알람이 종료됩니다.</string>
     <string name="timer_alarm_alert_pad">%s</string>
@@ -448,7 +448,7 @@
     <string name="copy">복사</string>
     <string name="current_stopwatch_time">현재 시간</string>
     <string name="expand_button_title">고급</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
@@ -457,7 +457,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
     <string name="reach_upper_limit">"타이머를 추가할 수 없습니다."</string>
     <string name="system_permission_agree_desc">이 앱을 인터넷에 연결하여 모든 기능에 접근하도록 허용.</string>
     <string name="system_permission_main_purpose">스톱워치를 사용하여 시간보기, 알람 및 타이머 설정</string>

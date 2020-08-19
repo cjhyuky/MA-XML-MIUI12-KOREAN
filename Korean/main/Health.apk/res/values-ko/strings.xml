@@ -1111,7 +1111,7 @@
     <string name="allergic_drugs">알레르기 약물</string>
     <string name="allergic_drugs_hint">알레르기 약물 및 반응 채우기</string>
     <string name="avatar">프로필 사진</string>
-    <string name="avatar_upload_failure">업로드에 실패했습니다. 네트워크 연결을 확인후 다시 시도하세요.</string>
+    <string name="avatar_upload_failure">업로드에 실패했습니다. 네트워크 연결을 확인 후 다시 시도하세요.</string>
     <string name="birthday">생년월일</string>
     <string name="blood_type">혈액 유형</string>
     <string name="blood_type_rh">Rh 유형</string>
@@ -1185,7 +1185,7 @@
     <string name="data_source_not_support_hm_description_consume">현재 선택한 데이터 소스 "%1$s"에 소비 세부 정보 데이터가 없습니다. 페이지 오른쪽 상단의 "추가 데이터 소스"에서 다른 데이터 소스를 선택할 수 있습니다.</string>
     <string name="data_source_not_support_hm_description_duration">현재 선택한 데이터 소스 "%1$s" 중 고강도 활동 지속 시간 세부 사항 데이터가 없으면 페이지 오른쪽 상단의 "추가 데이터 소스"에서 다른 데이터 소스를 선택할 수 있습니다.</string>
     <string name="delete_data_source">데이터 소스 삭제</string>
-    <string name="delete_dialog_close_sync_msg">데이터 소스 "%1$s"을(를) 삭제하려면 이 데이터 소스의 장치 데이터 동기화를 먼저 해제해야 합니다. </string>
+    <string name="delete_dialog_close_sync_msg">데이터 소스 "%1$s"을(를) 삭제하려면 이 데이터 소스의 장치 데이터 동기화를 먼저 해제해야 합니다.</string>
     <string name="delete_dialog_confirm_msg_cloud">데이터 소스 "%1$s"을(를) 삭제하고 이 데이터 소스의 상태 데이터를 장치와 클라우드에서 동시에 삭제하시겠습니까?</string>
     <string name="delete_dialog_confirm_msg_local">데이터 소스 "%1$s"을(를) 삭제하고 이 데이터 소스에서 상태 데이터를 삭제하시겠습니까?</string>
     <string name="detection_has_no_data">데이터가 없습니다.</string>

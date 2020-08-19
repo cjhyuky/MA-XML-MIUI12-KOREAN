@@ -522,7 +522,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_emergencycall_check_title">긴급 통화</string>
     <string name="cit_external_sd_check_summary">이 테스트는 SD 카드 상태를 확인합니다.</string>
     <string name="cit_external_sd_check_title">SD 카드 테스트</string>
-    <string name="cit_finger_check_title">지문 인식 테스트 (FPC)</string>
+    <string name="cit_finger_check_title">지문인식 테스트 (FPC)</string>
     <string name="cit_flash_life_check_summary">기기 생명 예측 시간</string>
     <string name="cit_flash_life_check_title">플래시 생명</string>
     <string name="cit_fpc_checkerboard_test">체커보드 테스트</string>

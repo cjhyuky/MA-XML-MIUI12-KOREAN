@@ -260,7 +260,7 @@
     <string name="restoring_file_title_no_progress">파일 복원 중...</string>
     <string name="restoring_settings">설정 복원 중</string>
     <string name="restore_from_mimover">Mi Mover를 사용하여 기존 장치에서 전송</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>

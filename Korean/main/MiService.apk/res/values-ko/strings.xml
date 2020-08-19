@@ -152,7 +152,7 @@
     <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화가 꺼져 있습니다.</string>
     <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
     <string name="miuix_appcompat_cloud_state_syncing">클라우드 동기화 중…</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>

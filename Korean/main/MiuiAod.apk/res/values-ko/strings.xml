@@ -140,7 +140,7 @@
     <string name="aod_mode_summary">이 기능은 시스템 배터리 소모를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 절전 모드 제한이 적용되면 전원이 꺼집니다.</string>
     <string name="aod_mode_time_summary">장치가 항상 켜기 모드로 전환되어야하는 시간을 예약하세요.</string>
     <string name="aod_mode_time_title">스케줄</string>
-    <string name="aod_mode_title">항상 켜짐 디스플레이</string>
+    <string name="aod_mode_title">Always On Display</string>
     <string name="aod_to_close">끄기</string>
     <string name="cancel">취소</string>
     <string name="paper_mode_end_time_title">끄기</string>
@@ -210,8 +210,8 @@
     <string name="summary">"배터리 소모를 줄이기 위해 기기가 오랫동안 어두운 곳에 있을 때는 항목이 표시되지 않습니다."</string>
     <string name="temporary_style">탭한 후 10초 동안</string>
     <string name="time_location">시계 위치</string>
-    <string name="disable_aod_in_dark_room">어두운 곳에서 누워있을 때 항상 켜짐 디스플레이 끄기</string>
-    <string name="disable_aod_in_power_save_mode">절전 모드 시 항상 켜짐 디스플레이 끄기</string>
+    <string name="disable_aod_in_dark_room">어두운 곳에서 누워있을 때 Always On Display 끄기</string>
+    <string name="disable_aod_in_power_save_mode">절전 모드 시 Always On Display 끄기</string>
     <string name="disable_aod_in_power_save_mode_summary">"배터리 절약을 위해 아무 것도 표시하지 않습니다."</string>
     <string name="photo_editor_saving">저장중…</string>
 </resources>

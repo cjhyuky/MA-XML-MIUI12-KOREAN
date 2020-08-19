@@ -307,7 +307,7 @@
     <string name="accessibility_quick_settings_bluetooth">블루투스.</string>
     <string name="accessibility_quick_settings_bluetooth_changed_off">블루투스 꺼짐</string>
     <string name="accessibility_quick_settings_bluetooth_changed_on">블루투스 켜짐</string>
-    <string name="accessibility_quick_settings_bluetooth_connected">블루투스 연결됨.</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">블루투스 연결됨</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">블루투스 연결 중.</string>
     <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 %d 퍼센트.</string>
     <string name="accessibility_quick_settings_bluetooth_off">블루투스 꺼짐.</string>
@@ -389,7 +389,7 @@
     <string name="accessibility_status_bar_headset">헤드폰 연결됨</string>
     <string name="accessibility_status_bar_hotspot">핫스팟</string>
     <string name="accessibility_three_bars">3개 바.</string>
-    <string name="accessibility_tty_enabled">TTY 활성화됨.</string>
+    <string name="accessibility_tty_enabled">TTY 활성화됨</string>
     <string name="accessibility_two_bars">2개 바.</string>
     <string name="accessibility_unlock_button">잠금해제</string>
     <string name="accessibility_unlock_without_fingerprint">지문을 이용하지 않고 잠금해제하기</string>
@@ -398,7 +398,7 @@
     <string name="accessibility_volume_expand">펼치기</string>
     <string name="accessibility_vpn_on">VPN 켜짐.</string>
     <string name="accessibility_waiting_for_fingerprint">지문 기다리는 중</string>
-    <string name="accessibility_wifi_name">%s 네트워크에 연결됨.</string>
+    <string name="accessibility_wifi_name">%s 네트워크에 연결됨</string>
     <string name="accessibility_wifi_off">Wi-Fi 끄기.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi 신호 1칸</string>
     <string name="accessibility_wifi_security_type_none">오픈 네트워크</string>
@@ -429,7 +429,7 @@
     <string name="allow_mock_location">모의위치 허용</string>
     <string name="allow_mock_location_summary">모의위치를 허용합니다.</string>
     <string name="always_use_accessory">이 USB 주변기기 기본으로 사용</string>
-    <string name="always_use_device">이 USB 기기를 기본으로 사용</string>
+    <string name="always_use_device">이 USB 장치를 기본으로 사용</string>
     <string name="animator_duration_scale_title">길이 배율</string>
     <string name="aod_dual_togother_12">aa hh:mm</string>
     <string name="aod_lock_screen_date">M월 d일 EEEE</string>
@@ -514,9 +514,9 @@
     <string name="bluetooth_hearing_aid_profile_summary_connected">보청기로 연결됨</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string>
     <string name="bluetooth_hearingaid_left_battery_level">왼쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 연결 중…</string>
+    <string name="bluetooth_hearingaid_left_pairing_message">왼쪽 보청기 페어링 중…</string>
     <string name="bluetooth_hearingaid_right_battery_level">오른쪽 - %1$s 배터리</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 연결 중…</string>
+    <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 페어링 중…</string>
     <string name="bluetooth_hid_profile_summary_connected">입력기기로 연결됨</string>
     <string name="bluetooth_hid_profile_summary_use_for">입력기기로 사용</string>
     <string name="bluetooth_map_profile_summary_connected">MAP에 접속됨</string>
@@ -524,9 +524,9 @@
     <string name="bluetooth_opp_profile_summary_connected">파일 전송 서버로 연결됨</string>
     <string name="bluetooth_opp_profile_summary_not_connected">파일 전송 서버에 연결되지 않음</string>
     <string name="bluetooth_opp_profile_summary_use_for">파일 전송으로 사용</string>
-    <string name="bluetooth_pairing">연결 중…</string>
-    <string name="bluetooth_pairing_accept">연결</string>
-    <string name="bluetooth_pairing_accept_all_caps">연결</string>
+    <string name="bluetooth_pairing">페어링 중…</string>
+    <string name="bluetooth_pairing_accept">페어링</string>
+    <string name="bluetooth_pairing_accept_all_caps">페어링</string>
     <string name="bluetooth_pairing_decline">취소</string>
     <string name="bluetooth_pairing_device_down_error_message">%1$s 기기와 연결안됨</string>
     <string name="bluetooth_pairing_error_message">%1$s 기기와 연결할 수 없음.</string>
@@ -678,7 +678,7 @@
     <string name="debug_monitoring_category">모니터링</string>
     <string name="debug_networking_category">네트워킹</string>
     <string name="debug_view_attributes">속성 보기 활성화</string>
-    <string name="default_lockscreen_unlock_hint_text">위로 밀어 잠금해제</string>
+    <string name="default_lockscreen_unlock_hint_text">위로 밀어서 잠금해제</string>
     <string name="default_theme">기본</string>
     <string name="delete">삭제</string>
     <string name="demo_mode">데모 모드</string>
@@ -802,7 +802,7 @@
     <string name="face_data_manage_unlock_liftcamera_msg">화면을 켜고 위쪽으로 슬라이드하면 얼굴인식 잠금해제을 사용할 수 있습니다.</string>
     <string name="face_data_manage_unlock_msg">얼굴 데이터를 사용하여 기기를 잠금해제합니다.</string>
     <string name="face_data_manage_unlock_slide_msg">슬라이더 바로가기를 얼굴인식 잠금해제로 대체</string>
-    <string name="face_data_manage_unlock_title">얼굴 데이터를 사용하여 잠금해제</string>
+    <string name="face_data_manage_unlock_title">얼굴 데이터로 잠금해제</string>
     <string name="face_data_siggesstion_next">다음</string>
     <string name="face_data_siggesstion_next_time">다음 (%ds)</string>
     <string name="face_data_suggesstion_first">얼굴 데이터 잠금해제의 보안성은 잠금 화면 비밀번호 보다 낮습니다. 비슷한 얼굴의 사람이 기기의 잠금을 해제할 수 있습니다.</string>
@@ -826,7 +826,7 @@
     <string name="face_unlock_offset_top">휴대전화를 살짝 올려주세요.</string>
     <string name="face_unlock_open_eye">눈을 좀 더 크게 떠주세요.</string>
     <string name="face_unlock_passwork">비밀번호 사용</string>
-    <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 지문 인식 사용</string>
+    <string name="face_unlock_passwork_and_fingerprint">비밀번호 또는 지문인식 사용</string>
     <string name="face_unlock_quality">얼굴이 정확히 보이지 않습니다.</string>
     <string name="face_unlock_reenter_content">안면 인식 알고리즘 업데이트 중입니다. 탭하여 다시 인식하세요.</string>
     <string name="face_unlock_reenter_title">얼굴을 다시 인식하세요.</string>
@@ -851,7 +851,7 @@
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_again_identified_msg">지문이 활성화 되었습니다. 지문을 사용하여 기기 잠금해제 또는 비밀번호를 입력할 수 있습니다.</string>
     <string name="fingerprint_dialog_touch_sensor">지문인식 센서 터치</string>
-    <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문 인식을 사용하려면 보조 공간 비밀번호를 입력하세요.</string>
+    <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문인식을 사용하려면 보조 공간 비밀번호를 입력하세요.</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">라이트 모드 상태에서는 보조 공간에 입장할 수 없습니다.</string>
     <string name="fingerprint_enter_second_psw_title">보조 공간 비밀번호 입력</string>
     <string name="fingerprint_not_identified_msg">너무 많은 시도를 실패했습니다. 지금 비밀번호를 입력하시거나 몇초 후 다시 지문으로 시도하세요.</string>
@@ -1865,8 +1865,8 @@
     <string name="usb_debugging_secondary_user_message">이 기기에 현재 로그인한 사용자는 USB 디버깅을 켤 수 없습니다. 이 기능을 사용하려면 관리자로 전환하세요.</string>
     <string name="usb_debugging_secondary_user_title">USB 디버깅 허용되지 않음</string>
     <string name="usb_debugging_title">USB 디버깅을 허용하시겠습니까?</string>
-    <string name="usb_device_confirm_prompt">이 USB 기기가 연결되면 %1$s 앱을 실행하시겠습니까?</string>
-    <string name="usb_device_permission_prompt">%1$s의 USB 기기 접근을 허용하시겠습니까?</string>
+    <string name="usb_device_confirm_prompt">이 USB 장치가 연결되면 %1$s 앱을 실행하시겠습니까?</string>
+    <string name="usb_device_permission_prompt">%1$s의 USB 장치 접근을 허용하시겠습니까?</string>
     <string name="usb_mode_dont_ask">이 선택 기억</string>
     <string name="usb_mode_mount_storage_title">USB 저장소를 여시겠습니까?</string>
     <string name="usb_mode_notification">USB 저장소</string>
@@ -1969,9 +1969,9 @@
     <string name="wifi_auto_sel_wapi_cert">자동으로 선택</string>
     <string name="wifi_cant_connect">연결불가</string>
     <string name="wifi_cant_connect_to_ap">\'%1$s\' 기기에 연결 실패</string>
-    <string name="wifi_check_password_try_again">비밀번호 확인후 다시 시도하세요.</string>
-    <string name="wifi_connected_mac_randomization">MAC 랜덤화에 연결됨</string>
-    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결 시 MAC주소를 랜덤화합니다.</string>
+    <string name="wifi_check_password_try_again">비밀번호 확인 후 다시 시도하세요.</string>
+    <string name="wifi_connected_mac_randomization">MAC 무작위 변경 연결</string>
+    <string name="wifi_connected_mac_randomization_summary">Wi-Fi 연결 시 MAC 주소를 무작위로 변경합니다.</string>
     <string name="wifi_connected_no_internet">연결됨, 인터넷 안됨</string>
     <string name="wifi_coverage_extend">Wi-Fi 접속거리 확장기능 활성화</string>
     <string name="wifi_coverage_extend_summary">핫스팟을 통한 Wi-Fi 접속거리 확장을 활성화합니다.</string>
@@ -1996,7 +1996,7 @@
     <string name="wifi_security_WAPI_CERT">WAPI 증명</string>
     <string name="wifi_ssid_is_empty">SSID 항목은 빈칸일 수 없습니다.</string>
     <string name="wifi_ssid_length_is_max">SSID는 32자를 넘을 수 없습니다.</string>
-    <string name="wifi_status_mac_randomized">MAC 주소가 랜덤화되었습니다.</string>
+    <string name="wifi_status_mac_randomized">MAC 주소가 무작위로 변경되었습니다.</string>
     <string name="wifi_status_no_internet">인터넷 없음</string>
     <string name="wifi_status_sign_in_required">로그인 요구됨</string>
     <string name="wifi_unmetered_label">저장되지 않음</string>
@@ -2096,7 +2096,7 @@
     <string name="osu_sign_up_failed">가입 실패. 다시 시도하려면 탭하세요.</string>
     <string name="power_discharge_by_only_short">%1$s까지</string>
     <string name="power_suggestion_extend_battery">%1$s 이후 배터리 수명 연장</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
     <string name="search_menu">검색 설정</string>
     <string name="status_bar_clock_date_time_format">M월 d일 E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M월 d일 E aa h:mm</string>

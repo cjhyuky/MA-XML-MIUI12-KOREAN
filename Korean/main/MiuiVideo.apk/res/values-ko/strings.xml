@@ -317,7 +317,7 @@
     <string name="to_be_play_label_v5">"다음재생: "</string>
     <string name="toast_add_collect">즐겨찾기에 추가됨</string>
     <string name="toast_back_key_pressed_notice">종료하려면 뒤로가기를 다시 누르세요.</string>
-    <string name="toast_cancel_collect">즐겨 찾기에서 삭제됨</string>
+    <string name="toast_cancel_collect">즐겨찾기에서 삭제됨</string>
     <string name="toast_downloading">다운로드 중:</string>
     <string name="toast_login_success">로그인 완료</string>
     <string name="toast_message_continue_play_from">재생시간 </string>

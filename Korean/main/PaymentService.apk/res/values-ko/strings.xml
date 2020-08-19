@@ -348,7 +348,7 @@
     <string name="mibi_prepaid_carriers_picker_hint">통신사 선택</string>
     <string name="mibi_prepaid_edit_limit">자릿수</string>
     <string name="mibi_prepaid_error_card_length">잘못된 카드 번호 또는 비밀번호.</string>
-    <string name="mibi_prepaid_error_card_number">카드번호 잘못됨.</string>
+    <string name="mibi_prepaid_error_card_number">카드번호 잘못됨</string>
     <string name="mibi_prepaid_error_carrier">통신사 선택</string>
     <string name="mibi_prepaid_error_denomination">금액 선택</string>
     <string name="mibi_prepaid_error_password">카드 비밀번호가 유효하지 않습니다.</string>

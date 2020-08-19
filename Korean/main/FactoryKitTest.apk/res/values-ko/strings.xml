@@ -357,7 +357,7 @@
     <string name="power_current_electric">배터리 잔량 :</string>
     <string name="power_discharging">방전</string>
     <string name="power_full">완전한</string>
-    <string name="power_led_light">전원 표시 등 (밝기 1 초) :</string>
+    <string name="power_led_light">전원 표시 등 (밝기 1초) :</string>
     <string name="power_not_charging">청구하지 않음</string>
     <string name="power_state">배터리 상태 :</string>
     <string name="power_technology">배터리 기술 :</string>

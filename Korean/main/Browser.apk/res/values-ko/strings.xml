@@ -473,7 +473,7 @@
     <string name="js_disable_confirm_title">자바스크립트를 비활성화하시겠습니까?</string>
     <string name="keep_queued_download">보관</string>
     <string name="loading_dialog_title">이동중…</string>
-    <string name="loading_tips">아래로 당겨 새로고침</string>
+    <string name="loading_tips">아래로 당겨서 새로고침</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">로그인할 수 없습니다. 새로고침 한 후 다시 시도하세요.</string>
     <string name="low_memory_toast">메모리가 부족해 계속 사용할 수 없습니다.</string>
@@ -556,7 +556,7 @@
     <string name="mw_actionbar_textselection_title">텍스트 선택</string>
     <string name="mw_actionbar_web_search">웹 검색</string>
     <string name="mw_autofill_card_unmask_new_card_link">새로운 카드입니까?</string>
-    <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">카드의 CVC를 확인후 다시 시도하세요.</string>
+    <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">카드의 CVC를 확인 후 다시 시도하세요.</string>
     <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc_and_expiration">만료일과 CVC를 확인하고 다시 시도하세요.</string>
     <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_date">만료일을 확인하고 다시 시도하세요.</string>
     <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_month">만료 월을 확인하고 다시 시도하세요.</string>

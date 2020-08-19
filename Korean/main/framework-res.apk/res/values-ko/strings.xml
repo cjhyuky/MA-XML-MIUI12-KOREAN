@@ -542,8 +542,8 @@
     <string name="permdesc_vibrate">앱이 진동을 제어할 수 있도록 허용합니다.</string>
     <string name="permlab_flashlight">카메라 플래시 제어</string>
     <string name="permdesc_flashlight">앱이 카메라 플래시를 제어할 수 있도록 허용합니다.</string>
-    <string name="permlab_manageUsb">USB 기기에 대한 환경설정 및 권한 관리</string>
-    <string name="permdesc_manageUsb">앱이 USB 기기에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
+    <string name="permlab_manageUsb">USB 장치에 대한 환경설정 및 권한 관리</string>
+    <string name="permdesc_manageUsb">앱이 USB 장치에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
     <string name="permlab_accessMtp">MTP 프로토콜 구현</string>
     <string name="permdesc_accessMtp">커널 MTP 드라이버에 액세스하여 MTP USB 프로토콜을 구현할 수 있도록 허용합니다.</string>
     <string name="permlab_hardware_test">하드웨어 테스트</string>
@@ -615,7 +615,7 @@
     <string name="permlab_changeWifiMulticastState">Wi-Fi 멀티캐스트 수신 허용</string>
     <string name="permdesc_changeWifiMulticastState">앱이 사용자의 휴대전화뿐 아니라 멀티캐스트 주소를 사용하여 Wi-Fi 네트워크에서 모든 기기로 전송된 패킷을 받을 수 있도록 허용합니다. 이 경우 비멀티캐스트 모드보다 전력을 더 많이 소비합니다.</string>
     <string name="permlab_bluetoothAdmin">블루투스 설정에 액세스</string>
-    <string name="permdesc_bluetoothAdmin">앱이 로컬 블루투스 휴대전화를 설정한 다음 원격 기기를 검색하여 연결할 수 있도록 허용합니다.</string>
+    <string name="permdesc_bluetoothAdmin">앱이 로컬 블루투스 휴대전화를 설정한 다음 원격 기기를 검색하여 페어링할 수 있도록 허용합니다.</string>
     <string name="permlab_bluetoothPriv">애플리케이션에서 블루투스 연결 허용</string>
     <string name="permdesc_bluetoothPriv">앱이 사용자 상호작용 없이 원격 기기와 연결할 수 있도록 허용합니다.</string>
     <string name="permlab_bluetoothMap">블루투스 MAP 데이터 액세스</string>
@@ -626,8 +626,8 @@
     <string name="permdesc_changeWimaxState">앱이 휴대전화를 WiMAX 네트워크에 연결하거나 연결을 끊을 수 있도록 허용합니다.</string>
     <string name="permlab_scoreNetworks">네트워크 점수화</string>
     <string name="permdesc_scoreNetworks">앱이 네트워크 순위를 정하고 휴대전화에서 어떤 네트워크를 선호할지 영향을 주도록 허용합니다.</string>
-    <string name="permlab_bluetooth">블루투스 기기와 연결</string>
-    <string name="permdesc_bluetooth">앱이 휴대전화의 블루투스 설정을 확인하고 연결된 기기에 연결하며 연결을 수락할 수 있도록 허용합니다.</string>
+    <string name="permlab_bluetooth">블루투스 기기와 페어링</string>
+    <string name="permdesc_bluetooth">앱이 휴대전화의 블루투스 설정을 확인하고 페어링된 기기와의 연결할 수 있도록 허용합니다.</string>
     <string name="permlab_nfc">NFC(Near Field Communication) 제어</string>
     <string name="permdesc_nfc">앱이 NFC(근거리 무선 통신) 태그, 카드 및 리더와 통신할 수 있도록 허용합니다.</string>
     <string name="permlab_disableKeyguard">화면 잠금 사용 중지</string>
@@ -672,7 +672,7 @@
     <string name="permdesc_manageNetworkPolicy">앱이 네트워크 정책을 관리하고 앱별 규칙을 정의할 수 있도록 허용합니다.</string>
     <string name="permlab_modifyNetworkAccounting">네트워크 사용량 계산 수정</string>
     <string name="permdesc_modifyNetworkAccounting">애플리케이션이 애플리케이션의 네트워크 사용량을 계산하는 방식을 수정할 수 있도록 허용합니다. 일반 애플리케이션에서는 사용하지 않습니다.</string>
-    <string name="permlab_accessNotifications">알림 액세스</string>
+    <string name="permlab_accessNotifications">알림 접근</string>
     <string name="permdesc_accessNotifications">앱이 다른 앱에서 게시한 알림을 비롯하여 알림을 검색하고 살펴보며 삭제할 수 있도록 허용합니다.</string>
     <string name="permlab_bindNotificationListenerService">알림 수신기 서비스 사용</string>
     <string name="permdesc_bindNotificationListenerService">권한을 가진 프로그램이 알림 수신기 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
@@ -1020,7 +1020,7 @@
     <string name="use_a_different_app">다른 앱 사용</string>
     <string name="clearDefaultHintMsg">시스템 설정 > 앱 > 다운로드로 이동하여 기본 설정을 지웁니다.</string>
     <string name="chooseActivity">작업 선택</string>
-    <string name="chooseUsbActivity">USB 기기에 대한 앱 선택</string>
+    <string name="chooseUsbActivity">USB 장치에 대한 앱 선택</string>
     <string name="noApplications">작업을 수행할 수 있는 앱이 없습니다.</string>
     <string name="aerr_title" />
     <string name="aerr_application">%1$s 앱이 중지되었습니다.</string>
@@ -1200,7 +1200,7 @@
     <string name="ext_media_badremoval_notification_message">데이터 손실을 피하려면 제거 전에 먼저 마운트 해제해야 합니다.</string>
     <string name="ext_media_safe_unmount_notification_title">SD 카드 제거 가능</string>
     <string name="ext_media_safe_unmount_notification_message">안전하게 SD 카드를 제거할 수 있습니다.</string>
-    <string name="ext_media_nomedia_notification_title">%s 제거됨.</string>
+    <string name="ext_media_nomedia_notification_title">%s 제거됨</string>
     <string name="ext_media_nomedia_notification_message">"일부 기능이 제대로 작동하지 않을 수 있습니다. 새로운 저장공간을 삽입하세요."</string>
     <string name="activity_list_empty">일치하는 활동이 없습니다.</string>
     <string name="permlab_pkgUsageStats">구성 요소 사용 통계 업데이트</string>
@@ -1942,7 +1942,7 @@
     <string name="accessibility_magnification_chooser_text">배율</string>
     <string name="accessibility_shortcut_disabling_service">접근성 바로가기 %1$s 꺼짐</string>
     <string name="accessibility_shortcut_enabling_service">접근성 바로가기 %1$s 켜짐</string>
-    <string name="accessibility_shortcut_toogle_warning">"바로가기가 켜져있을 때 볼륨 버튼을 3 초간 누르면 접근성 기능이 시작됩니다. 현재 접근성 기능: %1$s. 설정 > 접근성 에서 변경가능합니다."</string>
+    <string name="accessibility_shortcut_toogle_warning">"바로가기가 켜져있을 때 볼륨 버튼을 3초간 누르면 접근성 기능이 시작됩니다. 현재 접근성 기능: %1$s. 설정 > 접근성 에서 변경가능합니다."</string>
     <string name="accessibility_shortcut_warning_dialog_title">접근성 바로가기를 사용하시겠습니까?</string>
     <string name="alert_windows_notification_channel_group_name">앱 위에 그리기</string>
     <string name="alert_windows_notification_channel_name">%s 앱이 다른 앱 위에 표시됩니다.</string>
@@ -2003,7 +2003,7 @@
     <string name="permdesc_manageOwnCalls">앱이 통화 환경을 개선하기 위해 시스템을 통해 전화를 라우팅 할 수 있도록 허용합니다.</string>
     <string name="permdesc_readPhoneNumbers">앱이 기기의 전화번호에 액세스할 수 있도록 허용합니다.</string>
     <string name="permdesc_requestDeletePackages">앱이 패키지 삭제를 요청할 수 있게합니다.</string>
-    <string name="permdesc_runInBackground">이 앱은 백그라운드에서 실행될 수 있습니다. 이로 인해 배터리가 더 빨리 소모 될 수 있습니다.</string>
+    <string name="permdesc_runInBackground">이 앱은 백그라운드에서 실행될 수 있습니다. 이로 인해 배터리가 더 빨리 소모될 수 있습니다.</string>
     <string name="permdesc_useDataInBackground">이 앱은 백그라운드에서 데이터를 사용할 수 있습니다. 이로 인해 데이터 사용량이 증가 할 수 있습니다.</string>
     <string name="permlab_answerPhoneCalls">전화 받기</string>
     <string name="permlab_manageOwnCalls">시스템을 통해 전화 라우팅</string>
@@ -2442,7 +2442,7 @@
     <string name="service_not_subscribed">서비스 미가입 -33-</string>
     <string name="twilight_service">Twilight 서비스</string>
     <string name="unpin_specific_target">%1$s 핀 해제</string>
-    <string name="usb_device_resolve_prompt_warn">이 앱에 녹음 권한은 부여되지 않았지만, 이 USB 기기를 통해 오디오를 녹음할 수 있습니다.</string>
+    <string name="usb_device_resolve_prompt_warn">이 앱에 녹음 권한은 부여되지 않았지만, 이 USB 장치를 통해 오디오를 녹음할 수 있습니다.</string>
     <string name="user_authentication_failed">인증 실패 -29-</string>
     <string name="wfc_mode_ims_preferred_summary">IMS 우선</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">탭하여 개인정보 설정 변경 후 다시 시도</string>

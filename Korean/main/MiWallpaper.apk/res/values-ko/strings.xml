@@ -53,7 +53,7 @@
     <string name="mars_summary">화성의 광대한 사막은 언제나 인류를 경외롭게 해왔습니다.</string>
     <string name="mars_title">붉은 행성</string>
     <string name="miui_clock_city_name_local">로컬</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">끌어당겨 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
@@ -79,7 +79,7 @@
     <string name="time_picker_label_minute">분</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
-    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">항상 켜짐 디스플레이</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Always On Display</string>
     <string name="wallpaper_setting_find_more_text">온라인 배경화면 더보기</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">홈 화면</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">잠금 화면</string>

@@ -48,7 +48,7 @@
 삭제전:
 —이 계정에 대해 2단계 인증을 해제, 또는
 —코드를 생성하기 위한 대체 방법이 있는지 확인하세요."</string>
-    <string name="remove_Xiaomi_account_dialog_message">이 계정을 제거하면 코드를 생성할 수 있는 사용자의 능력이 제거되지만, 2단계 확인 기능이 꺼지지 않습니다. 이로 인해 계정에 로그인하지 못할 수 있습니다. 삭제하기 전에, 이 계정에 대해 2단계 인증을 해제하거나, 코드를 생성하기 위한 다른 대체 방법이 있는지 확인하세요. </string>
+    <string name="remove_Xiaomi_account_dialog_message">이 계정을 제거하면 코드를 생성할 수 있는 사용자의 능력이 제거되지만, 2단계 확인 기능이 꺼지지 않습니다. 이로 인해 계정에 로그인하지 못할 수 있습니다. 삭제하기 전에, 이 계정에 대해 2단계 인증을 해제하거나, 코드를 생성하기 위한 다른 대체 방법이 있는지 확인하세요.</string>
     <string name="rename">변경</string>
     <string name="rename_message">변경 %1$s</string>
     <string name="error_exists">죄송합니다. 해당 이름은 이미 사용 중입니다.</string>
@@ -84,7 +84,7 @@
     <string name="lockpattern_recording_intro_header">패턴을 입력하세요:</string>
     <string name="lockpattern_settings_help_how_to_record">잠금 패턴을 그리는 방법</string>
     <string name="lockpattern_recording_incorrect_too_short">최소 %d개의 점을 연결하세요. 다시 시도하세요:</string>
-    <string name="lockpattern_pattern_entered_header">패턴이 입력됨.</string>
+    <string name="lockpattern_pattern_entered_header">패턴이 입력됨</string>
     <string name="lockpattern_need_to_confirm">패턴을 다시 그려 확인</string>
     <string name="lockpattern_need_to_confirm_wrong">이전 입력과 다릅니다. 다시 입력하세요:</string>
     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>비밀번호를 틀렸습니다. %d번 더 시도할 수 있습니다&lt;/font></string>

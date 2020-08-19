@@ -11,7 +11,7 @@
     <string name="Pin2Mmi">PIN2 변경</string>
     <string name="PukMmi">PIN 차단 해제</string>
     <string name="Puk2Mmi">PIN2 차단 해제</string>
-    <string name="serviceProvisioned">서비스가 프로비져닝됨.</string>
+    <string name="serviceProvisioned">서비스가 프로비져닝됨</string>
     <string name="serviceUnknown">연결 문제 또는 잘못된 MMI 코드.</string>
     <string name="cfServiceNotForwarded">전단되지 않음</string>
     <string name="invalidPuk">8 자릿수를 입력하세요.</string>
@@ -192,7 +192,7 @@
     <string name="save_password_never">안함</string>
     <string name="permlab_wake_device_sensorhub">전화의 절전 모드 해제</string>
     <string name="permdesc_wake_device_sensorhub">일시 중단 모드에 있는 경우 센서 허브를 통해 앱에서 전화의 절전 모드를 해제할 수 있습니다.</string>
-    <string name="wifi_display_connected_to_wifi_network">Wi-Fi 네트워크 %1$s에 연결됨.</string>
+    <string name="wifi_display_connected_to_wifi_network">Wi-Fi 네트워크 %1$s에 연결됨</string>
     <string name="wifi_p2p_frequency_conflict_message">%1$s에 연결되어 있어도(채널 대역과 현재 Wi-Fi 액세스 지점의 ID를 %2$s(으)로 변경하는 경우에 한해) 전화가 일시적으로 Wi-Fi에서 끊어집니다.</string>
     <string name="wifi_display_wifi_network_disconnected">Wi-Fi 네트워크 %1$s 연결이 끊어짐.</string>
     <string name="wifi_display_channel_confliction">채널 충돌</string>
