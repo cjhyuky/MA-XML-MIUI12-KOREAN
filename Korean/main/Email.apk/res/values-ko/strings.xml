@@ -421,7 +421,7 @@
     <string name="exchange_name">기업</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">받는 사람 세부 정보 확장</string>
-    <string name="fail_get_email_message">메시지 받기 실패함.</string>
+    <string name="fail_get_email_message">메시지 받기 실패함</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
     <string name="failed_read_phone_state_permission">기기 상태 접근 허용</string>
     <string name="feedback">피드백 전송</string>

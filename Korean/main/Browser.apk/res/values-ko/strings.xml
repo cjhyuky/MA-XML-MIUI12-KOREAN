@@ -490,7 +490,7 @@
     <string name="media_error_video_not_exist">동영상이 존재하지 않습니다.</string>
     <string name="menu_preferences">설정</string>
     <string name="menu_title_clear_all">모두 지우기</string>
-    <string name="menu_title_open_file_management">파일 관리자 열기</string>
+    <string name="menu_title_open_file_management">파일 탐색기 열기</string>
     <string name="menu_title_pause_all">모두 일시 중지</string>
     <string name="menu_title_resume_all">모두 시작</string>
     <string name="message_notice_push">나의 개인정보 기능을 경험해보세요.</string>
@@ -937,7 +937,7 @@
     <string name="open_app_confirm_message">이 페이지를 %s 앱으로 여시겠습니까?</string>
     <string name="open_cloud_sync">클라우드 동기화 열기</string>
     <string name="open_cloud_sync_desc">북마크가 추가되었습니다. 클라우드에 연결된 다른 기기에도 같은 항목이 추가되도록 할 수 있습니다. 지금 클라우드에 로그인하시겠습니까?</string>
-    <string name="open_file_explorer_failed">파일 관리자를 열 수 없습니다.</string>
+    <string name="open_file_explorer_failed">파일 탐색기를 열 수 없습니다.</string>
     <string name="open_voice_permission">마이크가 인터넷에 연결될 수 있게 허용</string>
     <string name="page_hang_message">현재 페이지가 멈췄으므로 브라우저를 다시 시작해야 합니다.</string>
     <string name="page_hang_title">막힌 페이지</string>

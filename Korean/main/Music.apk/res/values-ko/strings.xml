@@ -304,7 +304,7 @@
     <string name="exo_download_removing">다운로드한 항목 제거</string>
     <string name="exo_track_mono">모노</string>
     <string name="exo_track_selection_auto">자동</string>
-    <string name="exo_track_selection_none">선택 안함</string>
+    <string name="exo_track_selection_none">선택 안 함</string>
     <string name="exo_track_selection_title_audio">오디오</string>
     <string name="exo_track_selection_title_text">텍스트</string>
     <string name="exo_track_selection_title_video">동영상</string>
@@ -471,7 +471,7 @@
     <string name="no_artist_info">아티스트 정보 없음</string>
     <string name="no_downloads">다운로드 없음</string>
     <string name="no_favorites_songs">비어 있음</string>
-    <string name="no_file_picker_find">이 기기에 파일 관리자가 설치되어 있지 않습니다.</string>
+    <string name="no_file_picker_find">이 기기에 파일 탐색기가 설치되어 있지 않습니다.</string>
     <string name="no_local_songs">비어 있음</string>
     <string name="no_local_songs_selected">다운로드되지 않은 노래는 전송할 수 없습니다.</string>
     <string name="no_local_source_find">노래를 찾지 못했습니다.</string>

@@ -404,7 +404,7 @@
     <string name="passport_register_restricted_title">이 전화번호를 사용할 수 없습니다.</string>
     <string name="passport_registered_phone_user_ID">사용자 ID : %s</string>
     <string name="passport_registered_phone_user_name">사용자 이름: %s</string>
-    <string name="passport_reject_recycle_account">안함</string>
+    <string name="passport_reject_recycle_account">안 함</string>
     <string name="passport_relogin">다시 로그인</string>
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
     <string name="passport_remove_confirm">로그아웃</string>

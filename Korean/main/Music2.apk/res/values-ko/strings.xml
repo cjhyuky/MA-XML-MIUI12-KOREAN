@@ -63,14 +63,14 @@
     <string name="accessibility_rating_removed">평점이 삭제됨</string>
     <string name="accessibility_repeat">반복</string>
     <string name="accessibility_repeat_all">모든 곡 반복</string>
-    <string name="accessibility_repeat_off">반복 사용 안함</string>
+    <string name="accessibility_repeat_off">반복 사용 안 함</string>
     <string name="accessibility_repeat_one">한 곡 반복</string>
     <string name="accessibility_search">검색</string>
     <string name="accessibility_search_cancel">현재 검색 취소</string>
     <string name="accessibility_select_output">오디오 출력 선택</string>
     <string name="accessibility_shop">음악 쇼핑</string>
     <string name="accessibility_shuffle">셔플</string>
-    <string name="accessibility_shuffle_off">셔플 사용 안함</string>
+    <string name="accessibility_shuffle_off">셔플 사용 안 함</string>
     <string name="accessibility_shuffle_on">셔플 사용</string>
     <string name="accessibility_stop">중지</string>
     <string name="accessibility_thumbsDown">싫어요</string>
@@ -191,7 +191,7 @@
     <string name="clearing_cache">캐시 삭제 중...</string>
     <string name="close_ads_button_text">닫기</string>
     <string name="cloud_queue_different_account_prompt">다른 사람이 &lt;b>%1$s&lt;/b>에서 음악을 재생하고 있습니다. 내 음악으로 전환하시겠습니까?</string>
-    <string name="cloud_queue_different_account_prompt_no">전환 안함</string>
+    <string name="cloud_queue_different_account_prompt_no">전환 안 함</string>
     <string name="cloud_queue_different_account_prompt_yes">전환</string>
     <string name="cloud_queue_multisender_prompt">&lt;b>%1$s&lt;/b>에서 음악을 계속 재생하시겠습니까?</string>
     <string name="cloud_queue_multisender_prompt_no">음악 변경</string>
@@ -416,7 +416,7 @@
     <string name="lb_playback_controls_pause">일시 중지</string>
     <string name="lb_playback_controls_play">재생</string>
     <string name="lb_playback_controls_repeat_all">전체 반복</string>
-    <string name="lb_playback_controls_repeat_none">반복 안함</string>
+    <string name="lb_playback_controls_repeat_none">반복 안 함</string>
     <string name="lb_playback_controls_repeat_one">한 항목 반복</string>
     <string name="lb_playback_controls_rewind">되감기</string>
     <string name="lb_playback_controls_rewind_multiplier">%1$d배속 되감기</string>
@@ -819,7 +819,7 @@
     <string name="stream_error_device_not_authorized_manage_devices_button">기기 관리</string>
     <string name="stream_error_device_not_authorized_not_now_button">나중에 하기</string>
     <string name="stream_error_device_not_authorized_notification">계정당 10개 기기만 이용가능.</string>
-    <string name="stream_error_device_not_authorized_notification_short">기기 이용 한도를 초과함.</string>
+    <string name="stream_error_device_not_authorized_notification_short">기기 이용 한도를 초과함</string>
     <string name="stream_error_device_not_authorized_short">뮤직 라이브러리에서 사용하는 기기가 너무 많습니다.</string>
     <string name="stream_error_learn_more">자세히 알아보기</string>
     <string name="stream_error_no_space_available">저장공간 부족</string>
@@ -888,7 +888,7 @@
     <string name="tracks_title">노래</string>
     <string name="try_nautilus_free">평가판 시작</string>
     <string name="turn_off">해제</string>
-    <string name="turn_off_download_toast">"'다운로드 항목만 보기' 사용 안함"</string>
+    <string name="turn_off_download_toast">"'다운로드 항목만 보기' 사용 안 함"</string>
     <string name="turning_off_download">"'다운로드 항목만 보기' 사용을 중지하는 중"</string>
     <string name="tutorial_account_body">Google Play 뮤직에 초대 받았습니다. 플레이어를 사용하여 Google Play 뮤직에 추가한 곡과 Android 기기로 복사한 곡을 바로 감상할 수 있습니다.</string>
     <string name="tutorial_account_error_toast">잘못된 Play 뮤직 계정</string>

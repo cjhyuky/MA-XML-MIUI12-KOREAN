@@ -13,7 +13,7 @@
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="add_from_album">갤러리에서 추가</string>
     <string name="clearable_edittext_clear_description">지우기</string>
-    <string name="date_picker_lunar">음력 달력</string>
+    <string name="date_picker_lunar">음력</string>
     <string name="friday">금요일</string>
     <string name="friday_short">금</string>
     <string name="friday_shortest">금</string>

@@ -8,7 +8,7 @@
     <string name="search_app">녹음기</string>
     <string name="search_led_indicator">잠금 화면 알림</string>
     <string name="search_tip_rename">녹음 후 파일 이름 직접 입력</string>
-    <string name="search_led_indicator_prompt">녹음 중에는 상태 표시줄에 표시되고, 잠금 화면에 알림 표시등이 깜빡입니다.</string>
+    <string name="search_led_indicator_prompt">녹음 중에는 상태 표시줄에 표시되고, 잠금 화면에 알림 표시등이 깜박입니다.</string>
     <string name="search_scenes">녹음 유형</string>
     <string name="search_silent_mode">녹음 중 벨소리 음소거</string>
     <string name="search_enable_earpiece_title">리시버를 사용하여 오디오 재생</string>
@@ -62,7 +62,7 @@
     <string name="sound_recorder_settings">설정</string>
     <string name="preference_led_indicator">잠금 화면 알림</string>
     <string name="preference_tip_rename">녹음 후 파일 이름 직접 입력</string>
-    <string name="preference_led_indicator_prompt">녹음 중에는 상태 표시줄에 바로가기가 표시되고, 알림 표시등이 깜빡입니다.</string>
+    <string name="preference_led_indicator_prompt">녹음 중에는 상태 표시줄에 바로가기가 표시되고, 알림 표시등이 깜박입니다.</string>
     <string name="preference_scenes">녹음 유형</string>
     <string name="preference_record_scenes_dialog_title">녹음 유형 선택</string>
     <string name="preference_silent_mode">녹음 중 벨소리 음소거</string>

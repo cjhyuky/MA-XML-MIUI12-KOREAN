@@ -288,7 +288,7 @@
     <string name="life_post_setting_open_background_title">배경 이미지 표시</string>
     <string name="life_post_setting_open_summary">4시에서 10시 사이에 꺼진 첫번째 알람에 날씨정보 포함</string>
     <string name="listen_news_privacy">&lt;Data&gt;개인화된 서비스를 제공하고 알람에 아침뉴스를 포함시키려면 시계 앱이 인터넷에 연결되어야 합니다. 시계를 사용하기 전에 개인정보 보호 정책에 동의해야 합니다 &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
-    <string name="module_dialog_negative">"동의 안함"</string>
+    <string name="module_dialog_negative">"동의 안 함"</string>
     <string name="module_dialog_neutral">확인</string>
     <string name="module_dialog_positive">동의</string>
     <string name="module_download_failure">"오디오를 다운로드할 수 없습니다. 네트워크를 확인하고 다시 시도하세요."</string>

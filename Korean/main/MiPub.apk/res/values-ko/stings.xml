@@ -95,7 +95,7 @@
     <string name="message_pending">전송 중</string>
     <string name="message_readed">읽음</string>
     <string name="resent_message">재전송</string>
-    <string name="nosend_message">전송 안함</string>
+    <string name="nosend_message">전송 안 함</string>
     <string name="context_menu_call">전화</string>
     <string name="context_menu_send_sms">메시지 전송</string>
     <string name="context_menu_browse_web">검색</string>

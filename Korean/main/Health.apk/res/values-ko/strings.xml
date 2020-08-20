@@ -534,8 +534,8 @@
     <string name="data_source_manage">데이터 소스 관리</string>
     <string name="data_source_not_support_hm_description">"%1$s은(는) 자세한 걸음 수를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스로 전환 해보세요."</string>
     <string name="date">날짜</string>
-    <string name="date_picker_lunar">달력 캘린더</string>
-    <string name="deep_light_detection_open_prompt">다음에 잠자리에들 때 수면주기가 분석됩니다.</string>
+    <string name="date_picker_lunar">음력</string>
+    <string name="deep_light_detection_open_prompt">다음에 잠자리에 들 때 수면주기가 분석됩니다.</string>
     <string name="deep_sleep_duration">깊은 수면 시간</string>
     <string name="deep_sleep_duration_decrease_description">깊은 잠이 너무 짧습니다.</string>
     <string name="deep_sleep_duration_description">"사람들이 잠을 자면 주기적으로 빠른 안구 운동이 발생하므로 잠은 빠른 안구 운동 수면과 비 급격 안구 운동 수면으로 나눌 수 있습니다. 수면은 밤새 수면의 약 20 ~ 25 %를 차지합니다. 깊은 수면 중에는 의식 활동이 적으며 뇌는 상대적으로 정적 인 상태에 있으며 깨우기가 어렵습니다. "</string>
@@ -561,7 +561,7 @@
     <string name="dialog_allow">허용</string>
     <string name="dialog_keep">계속</string>
     <string name="dialog_user_agreement_purpose2">Xiaomi 건강 앱에 오신 것을 환영합니다! 이 앱을 사용하여 걸음 수를 계산하고, 수면을 분석하고, 기간을 추적하고, 몸무게를 기록하는 등의 작업을 수행 할 수 있습니다.</string>
-    <string name="disable">사용 안함</string>
+    <string name="disable">사용 안 함</string>
     <string name="drag_sort">재배열</string>
     <string name="dream_talk">말하는 %1$s</string>
     <string name="dream_talk_record">수면 중에 이야기했을 때 녹음되었습니다.</string>

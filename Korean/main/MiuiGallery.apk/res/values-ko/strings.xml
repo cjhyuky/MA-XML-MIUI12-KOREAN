@@ -1900,7 +1900,7 @@
     <string name="file_sending">파일 전송 중…</string>
     <string name="functions_are_being_developed">이 기능은 곧 제공될 예정입니다. 지켜봐주세요!</string>
     <string name="hr_preview_108m">108MP 미리보기로 전환</string>
-    <string name="mi_drop">Mi 공유</string>
+    <string name="mi_drop">Mi Share</string>
     <string name="pc_device_model_name">컴퓨터</string>
     <string name="permission_contacts_desc">사진에서 사람들에게 연락처를 할당하기 위해</string>
     <string name="permission_contacts_name">연락처</string>
@@ -2366,7 +2366,7 @@
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">큐큐(QQ)</string>
     <string name="copy">복사</string>
-    <string name="date_picker_lunar">음력 달력</string>
+    <string name="date_picker_lunar">음력</string>
     <string name="device_status_failed">"보내지 못했습니다."</string>
     <string name="device_status_sending">보내기…</string>
     <string name="device_status_success">전송되었습니다.</string>

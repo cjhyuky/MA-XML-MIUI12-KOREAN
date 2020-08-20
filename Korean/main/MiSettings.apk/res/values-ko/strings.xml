@@ -301,7 +301,7 @@
     <string name="usage_device_limit_app_prolong_time1">20분 추가</string>
     <string name="usage_device_limit_app_prolong_time2">40분 추가</string>
     <string name="usage_device_limit_app_prolong_time3">60분 추가</string>
-    <string name="usage_device_limit_app_prolong_time4">"오늘 제한 안함"</string>
+    <string name="usage_device_limit_app_prolong_time4">"오늘 제한 안 함"</string>
     <string name="usage_device_limit_notifation_summary_start">"%1$s의 한도에 도달했습니다."</string>
     <string name="usage_device_limit_notifation_title">오늘 남은 시간</string>
     <string name="usage_device_limit_time_over">"오늘 한도에 도달했습니다 (%1$s)"</string>
@@ -332,14 +332,14 @@
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="afternoon">오후</string>
     <string name="am">오전</string>
-    <string name="anti_flicker_mode">깜빡임 방지</string>
+    <string name="anti_flicker_mode">깜박임 방지</string>
     <string name="anti_flicker_mode_categroy">모드</string>
-    <string name="anti_flicker_mode_summary">빛이 적은 환경에서 광범위한 깜빡임을 줄여 눈의 피로를 덜어줍니다.</string>
-    <string name="anti_flicker_title">깜빡임 방지 모드</string>
+    <string name="anti_flicker_mode_summary">빛이 적은 환경에서 광범위한 깜박임을 줄여 눈의 피로를 덜어줍니다.</string>
+    <string name="anti_flicker_title">깜박임 방지 모드</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="control_center_title">오늘 화면켜짐 시간</string>
     <string name="copy">복사</string>
-    <string name="date_picker_lunar">달력 캘린더</string>
+    <string name="date_picker_lunar">음력</string>
     <string name="expand_button_title">고급</string>
     <string name="friday">금요일</string>
     <string name="friday_short">금요일</string>
@@ -397,7 +397,7 @@
     <string name="month_september_shortest">9월</string>
     <string name="more">더보기</string>
     <string name="normal_mode">일반</string>
-    <string name="normal_mode_summary">"조명 조건에서 깜빡임을 줄이지 마세요"</string>
+    <string name="normal_mode_summary">"조명 조건에서 깜박임을 줄이지 마세요"</string>
     <string name="not_set">설정되지 않음</string>
     <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
     <string name="saturday">토요일</string>
@@ -455,7 +455,7 @@
     <string name="control_center_title_new">오늘 사용됨</string>
     <string name="focus_mode_custom_time">기간 설정</string>
     <string name="dc_light_hint_enable_title">주의</string>
-    <string name="dc_light_hint_normal">깜빡임 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_light_hint_other">깜빡임 방지 모드는 재생 빈도 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_lignt_enable_hint">깜빡임 방지 모드는 화면 재생 빈도를 60 Hz로 설정합니다. 깜빡임 방지 모드로 전환하시겠습니까?</string>
+    <string name="dc_light_hint_normal">깜박임 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
+    <string name="dc_light_hint_other">깜박임 방지 모드는 재생 빈도 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
+    <string name="dc_lignt_enable_hint">깜박임 방지 모드는 화면 재생 빈도를 60 Hz로 설정합니다. 깜박임 방지 모드로 전환하시겠습니까?</string>
 </resources>

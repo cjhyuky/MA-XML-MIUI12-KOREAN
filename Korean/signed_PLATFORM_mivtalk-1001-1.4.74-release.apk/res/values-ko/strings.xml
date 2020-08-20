@@ -93,13 +93,13 @@
     <string name="burn_mode_message">[Burn after reading]</string>
     <string name="burn_mode_text">[Burn after reading:text]</string>
     <string name="burn_mode_video">[Burn after reading:video]</string>
-    <string name="busy_group_tip">%s 통화중</string>
+    <string name="busy_group_tip">%s 통화 중</string>
     <string name="busy_hang_up_audio_tip">영상통화를 끊고, 음성통화를 받으시겠습니까?</string>
     <string name="busy_hang_up_video_tip">영상통화를 끊고, 다른 영상통화를 받으시겠습니까?</string>
     <string name="call">통화</string>
     <string name="callNoAnswerTimeFormat">부재중 통화 %s 건</string>
     <string name="call_att_send">불렛스크린 보내기</string>
-    <string name="call_audio_tip">통화중</string>
+    <string name="call_audio_tip">통화 중</string>
     <string name="call_deny">전화가 거절되었습니다.</string>
     <string name="call_disturb_ignore">방해하지 않기</string>
     <string name="call_ended">통화 종료</string>
@@ -122,7 +122,7 @@
     <string name="call_setting_detail">대화창 설정</string>
     <string name="call_time"/>
     <string name="call_tip">전화거는중, 메뉴로 돌아가시려면 클릭하세요.</string>
-    <string name="call_type_tip">통화중</string>
+    <string name="call_type_tip">통화 중</string>
     <string name="caller_audio_ringing">그룹 음성 통화에 초대되었습니다.</string>
     <string name="caller_video_ringing">그룹 영상 통화에 초대되었습니다.</string>
     <string name="calling">전화거는중</string>
@@ -671,7 +671,7 @@
     <string name="send_invite">전화거는중</string>
     <string name="send_message_failed_title">메시지 전송 실패</string>
     <string name="send_sms_over_limited">메시지를 너무 자주 보냈습니다.</string>
-    <string name="service_token_expire">"사용안한지 너무 오래되었습니다, 다시 로그인하세요"</string>
+    <string name="service_token_expire">"사용 안한지 너무 오래되었습니다, 다시 로그인하세요"</string>
     <string name="service_token_expired">귀하의 계정이 %s에 사용되었습니다，직접 하신게 아니라면, 계정 도난이 의심됩니다.</string>
     <string name="session_delete">이 채팅 삭제</string>
     <string name="session_top">위로</string>
@@ -728,7 +728,7 @@
     <string name="signup_with_phone_number">이 번호는 %s 샤오미 계정에 등록되어 있습니다. 로그인하시겠습니까?</string>
     <string name="silent">묵음</string>
     <string name="silent_speaker">스피커 묵음</string>
-    <string name="single_call_speaking">단일 통화중</string>
+    <string name="single_call_speaking">단일 통화 중</string>
     <string name="single_invite">1:1대화 초대</string>
     <string name="single_to_group">그룹으로 만들기</string>
     <string name="six">6</string>
@@ -739,11 +739,11 @@
     <string name="smiley_nopackage_click_to_download">"(아직 Mi 모션페키지를 받지 않으셨습니다 (약 1M), 다운로드해주세요.)"</string>
     <string name="sms_message">"제가 사용하고 있는 Mi 영상통화를 사용자에게 추천합니다. 설치하시면 무료로 영상통화를 할 수 있습니다 : call.mi.com"</string>
     <string name="sms_message_cannot_send">"이 기기는 문자메시지를 보낼수 없습니다."</string>
-    <string name="sns_unknown_error">알수 없는 에러</string>
+    <string name="sns_unknown_error">알 수 없는 에러</string>
     <string name="source_message">메시지</string>
     <string name="speaker">스피커</string>
     <string name="speaker_is_occupied">스피커가 사용중이라 이용할 수 없습니다.</string>
-    <string name="speaking">통화중 %s</string>
+    <string name="speaking">통화 중 %s</string>
     <string name="special_end_state">1분</string>
     <string name="star">C</string>
     <string name="start_control_accept">허용</string>
@@ -815,7 +815,7 @@
     <string name="type_incoming_call">수신전화</string>
     <string name="type_miss_call">부재중전화</string>
     <string name="type_outgoing_call">발신전화</string>
-    <string name="unknown_number">알수 없는 번호</string>
+    <string name="unknown_number">알 수 없는 번호</string>
     <string name="unlegal_ip_adress">불법IP주소</string>
     <string name="unread_calls">미확인 통화</string>
     <string name="unread_calls_count">%d 미확인 통화</string>
@@ -842,7 +842,7 @@
     <string name="upload_succeed_info">업로드 완료</string>
     <string name="user_agreement">서비스 약관</string>
     <string name="user_agreement_text">서비스 약관</string>
-    <string name="user_busy_wranning">"지금 통화중입니다, 전화를 걸수 없습니다."</string>
+    <string name="user_busy_wranning">"지금 통화 중입니다, 전화를 걸수 없습니다."</string>
     <string name="user_info_avatar_wall">사진</string>
     <string name="user_off_line_wranning">선택하신 사용자는 오프라인 상태입니다.</string>
     <string name="user_protocal_content">"미 화상 통화가 제공하는 서비스를 사용하시려면 읽어보시기 바랍니다 "&lt;a href="http://static.g.mi.com/pages/duoliao/user_agreement.html"&gt;&amp;#49324;&amp;#50857;&amp;#51088; &amp;#54532;&amp;#47196;&amp;#53664;&amp;#53084;&lt;/a&gt; &amp;#44284; &lt;a href="http://static.g.mi.com/pages/duoliao/privacy_policy.html"&gt;&amp;#44060;&amp;#51064; &amp;#51221;&amp;#48372; &amp;#48372;&amp;#54840; &amp;#51221;&amp;#52293;&lt;/a&gt;" &amp;#65292;&amp;#45348;&amp;#53944;&amp;#50892;&amp;#53356; &amp;#50672;&amp;#44208;&amp;#51060; &amp;#54596;&amp;#50836;&amp;#54633;&amp;#45768;&amp;#45796;, &amp;#50672;&amp;#46973;&amp;#52376;&amp;#47484; &amp;#51069;&amp;#44256;, &amp;#51064;&amp;#51613;&amp;#53076;&amp;#46300;&amp;#47484; &amp;#48372;&amp;#45236;&amp;#44256; &amp;#45817;&amp;#49888;&amp;#51032; &amp;#50948;&amp;#52824;&amp;#51221;&amp;#48372;&amp;#47484; &amp;#51060;&amp;#50857;&amp;#54633;&amp;#45768;&amp;#45796;, &amp;#46041;&amp;#51032;&amp;#54616;&amp;#49901;&amp;#45768;&amp;#44620;? "</string>
@@ -898,8 +898,8 @@
     <string name="voip_chat_invite_other">"음성통화 아직도 유료로 하시나요? 샤오미 사용자는 새버젼을 다운받아 무료로 저와 통화해 보세요"</string>
     <string name="voip_chat_missed_calls">부재중 통화</string>
     <string name="voip_chat_no_answer">응답없음</string>
-    <string name="voip_chat_ohters">알수 없는 유형</string>
-    <string name="voip_chat_remote_busy">통화중입니다.</string>
+    <string name="voip_chat_ohters">알 수 없는 유형</string>
+    <string name="voip_chat_remote_busy">통화 중입니다.</string>
     <string name="voip_communication_break">통신 휴식</string>
     <string name="voip_connecting">접속중</string>
     <string name="voip_connecting_break">접속 휴식</string>
@@ -945,7 +945,7 @@
     <string name="voip_on_traffic">이 통화는 요금이 발생합니다.</string>
     <string name="voip_on_traffic_ring_tips">모바일 데이터 사용으로 요금이 발생합니다.</string>
     <string name="voip_on_traffic_speaking_tips">모바일 데이터 사용</string>
-    <string name="voip_other_phone_call">샤오미 계정이 통화중입니다, 통화종료후에 다시걸어주세요.</string>
+    <string name="voip_other_phone_call">샤오미 계정이 통화 중입니다, 통화종료후에 다시걸어주세요.</string>
     <string name="voip_other_ping_error">"상대방 네트워크 에러, 나중에 다시 걸어주세요"</string>
     <string name="voip_other_unsupport_voip">"상대방이 Mi 영상통화 계정이 없습니다."</string>
     <string name="voip_others_not_online">"상대방이 인터넷에 연결되어있지 않습니다."</string>
@@ -959,7 +959,7 @@
     <string name="voip_satisfaction_not_problem_above">위에 없음, 내가 자세히 설명을 쓰고싶다</string>
     <string name="voip_satisfaction_problem">통화품질에 만족하십니까？</string>
     <string name="voip_satisfaction_problem_description">불만사항을 적어주세요.</string>
-    <string name="voip_self_busy">통화중</string>
+    <string name="voip_self_busy">통화 중</string>
     <string name="voip_server_error">"네트워크에 연결할수 없습니다."</string>
     <string name="voip_session_stop">채팅 종료</string>
     <string name="voip_short_reconnect_tips">재접속</string>
@@ -971,14 +971,14 @@
     <string name="voip_stop_called">전화 끊기</string>
     <string name="voip_talk_canot_play_voice">"음성 통화에서 재생할 수 없습니다."</string>
     <string name="voip_talking_with_friend">%1$s님과 대화중</string>
-    <string name="voip_the_other_is_on_the_phone">상대방이 통화중입니다.</string>
+    <string name="voip_the_other_is_on_the_phone">상대방이 통화 중입니다.</string>
     <string name="voip_time_start">00:00</string>
     <string name="voip_timeout">응답 없음</string>
     <string name="voip_tip">데이터 팁</string>
     <string name="voip_un_get_through">실패</string>
     <string name="voip_very_bad_network_tips">아주 나쁜 네트워크</string>
     <string name="voip_video_positive_tips">상대방이 화상통화로 전환</string>
-    <string name="voip_voip_call_online">현재 통화중입니다, 나중에 다시 걸어주세요.</string>
+    <string name="voip_voip_call_online">현재 통화 중입니다, 나중에 다시 걸어주세요.</string>
     <string name="voip_waiting">기다리는 중</string>
     <string name="voip_week_message">친구로부터 오는 전화는 음성통화로 설정.</string>
     <string name="wait_for_downloading">다운로드 대기중</string>

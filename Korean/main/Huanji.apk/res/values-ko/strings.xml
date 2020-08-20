@@ -163,7 +163,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="ble_wait_verify_code">코드 생성 중…</string>
     <string name="ble_waiting_verify_code">코드 식별 중…</string>
     <string name="ble_waiting_verify_code_error">잘못된 코드입니다.</string>
-    <string name="date_picker_lunar">달력</string>
+    <string name="date_picker_lunar">음력</string>
     <string name="dialog_request_permission_message_buttom_content">이 앱이 인터넷에 연결하고 위에 아래의 필수 권한을 부여하도록 허용합니다.</string>
     <string name="dialog_request_permission_message_extra_summary">이 권한은 이 앱의 기본 기능과 서비스를 제공하기 위해 필요합니다.</string>
     <string name="dialog_request_permission_message_extra_title">필수 권한</string>

@@ -263,7 +263,7 @@
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_activity_chooser_view_see_all">전체 보기</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
-    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_off">사용 안 함</string>
     <string name="abc_capital_on">켜기</string>
     <string name="abc_search_hint">검색중…</string>
     <string name="abc_searchview_description_clear">최근 검색 삭제</string>
@@ -278,10 +278,10 @@
     <string name="accessibility_display_daltonizer_preference_title">색상 보정</string>
     <string name="accessibility_no_wifi">Wifi 연결 해제됨</string>
     <string name="accessibility_wifi_off">Wi-Fi 끄기.</string>
-    <string name="accessibility_wifi_one_bar">Wi-Fi 신호 약함.</string>
-    <string name="accessibility_wifi_signal_full">Wi-Fi 신호 강함.</string>
-    <string name="accessibility_wifi_three_bars">Wi-Fi 신호 약함.</string>
-    <string name="accessibility_wifi_two_bars">Wi-Fi 신호 양호함.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi 신호 약함</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi 신호 강함</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi 신호 약함</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi 신호 양호함</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
     <string name="adb_warning_message">USB 디버깅은 개발용으로만 설계되었습니다. 이 기능을 사용하면 컴퓨터와 기기 간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하며 로그 데이터를 읽을 수 있습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
@@ -309,7 +309,7 @@
     <string name="bluetooth_connected_no_headset">연결됨(전화 없음)</string>
     <string name="bluetooth_connected_no_map">연결됨(메시지 액세스 없음)</string>
     <string name="bluetooth_connecting">연결 중…</string>
-    <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 안함</string>
+    <string name="bluetooth_disable_absolute_volume">절대 볼륨 사용 안 함</string>
     <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수 없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결이 끊어졌습니다.</string>
     <string name="bluetooth_disconnecting">연결을 끊는 중…</string>
@@ -453,10 +453,10 @@
     <string name="picture_color_mode_desc">sRGB를 사용합니다.</string>
     <string name="pointer_location">포인터 위치 표시</string>
     <string name="pointer_location_summary">현재 터치 데이터를 화면에 보여줍니다.</string>
-    <string name="power_charging_duration">완전충전까지 %1$s - %2$s 걸립니다.</string>
-    <string name="power_charging_duration_ac">AC로 완전충전까지 %1$s - %2$s 소요</string>
-    <string name="power_charging_duration_usb">USB로 완전충전까지 %1$s - %2$s 소요</string>
-    <string name="power_charging_duration_wireless">무선충전으로 완전충전까지 %1$s - %2$s 소요</string>
+    <string name="power_charging_duration">충전 완료까지 %1$s - %2$s 걸립니다.</string>
+    <string name="power_charging_duration_ac">AC로 충전 완료까지 %1$s - %2$s 소요</string>
+    <string name="power_charging_duration_usb">USB로 충전 완료까지 %1$s - %2$s 소요</string>
+    <string name="power_charging_duration_wireless">무선 충전으로 충전 완료까지 %1$s - %2$s 소요</string>
     <string name="power_discharging_duration">약 %1$s - %2$s 남음</string>
     <string name="power_discharging_duration_short">%1$s - %2$s 남음</string>
     <string name="power_remaining_duration_only">약 %1$s 남음</string>
@@ -486,7 +486,7 @@
     <string name="show_hw_layers_updates">하드웨어 업데이트 표시</string>
     <string name="show_hw_layers_updates_summary">하드웨어 항목이 업데이트 되면 녹색불이 켜집니다.</string>
     <string name="show_hw_screen_updates">GPU 보기 업데이트 표시</string>
-    <string name="show_hw_screen_updates_summary">동영상이 GPU에 의해 렌더링되는 창이 깜빡입니다.</string>
+    <string name="show_hw_screen_updates_summary">동영상이 GPU에 의해 렌더링되는 창이 깜박입니다.</string>
     <string name="show_non_rect_clip">직사각형이 아닌 클립 작업 디버그</string>
     <string name="show_screen_updates">표면 업데이트 표시</string>
     <string name="show_screen_updates_summary">전체 창 표면이 업데이트되었을 때 플래시 처리</string>

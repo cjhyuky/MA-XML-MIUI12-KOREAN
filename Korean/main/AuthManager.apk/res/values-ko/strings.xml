@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="perm_action_allow">허용</string>
-    <string name="perm_action_deny">허용 안함</string>
+    <string name="perm_action_deny">허용 안 함</string>
     <string name="perm_modem_location">위치 정보 접근</string>
     <string name="perm_modem_location_desc">이동통신사가 위치 정보를 확인하려 합니다. 이동통신사와 위치를 공유하시겠습니까?</string>
     <string name="HIPS_Perm_clipboard">클립보드</string>

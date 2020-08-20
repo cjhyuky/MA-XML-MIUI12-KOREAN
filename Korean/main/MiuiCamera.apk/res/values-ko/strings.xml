@@ -1135,7 +1135,7 @@
     <string name="pref_hdr_indicator_entry_on">켜짐</string>
     <string name="pref_privacy_title">개인정보 보호정책</string>
     <string name="accessibility_lighting_panel_on">스튜디오 조명 바 표시</string>
-    <string name="accessibility_lighting_panel_off">스튜디오 조명 바 표시안함</string>
+    <string name="accessibility_lighting_panel_off">스튜디오 조명 바 표시 안 함</string>
     <string name="autozoom_hint">사물 추적</string>
     <string name="autozoom_disabled_hint">사물 추적 중단됨</string>
     <string name="autozoom_click_hint">움직이는동안 초점을 유지하려면 사물을 탭하세요. 최상의 효과를 내기 위해서는 최소한 3미터 이상 떨어져 있어야합니다.</string>

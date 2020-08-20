@@ -53,7 +53,7 @@
     <string name="dialog_button_ok">확인</string>
     <string name="dialog_button_cancel">취소</string>
     <string name="dialog_tip_limit">파일의 크기가 %s 보다 클 때 경고</string>
-    <string name="dialog_tip_no_limit">경고 안함</string>
+    <string name="dialog_tip_no_limit">경고 안 함</string>
     <string name="dialog_tip_limit0">매번 경고</string>
     <string name="dialog_content_limit_max">무제한</string>
     <string name="dialog_content_limit0">다운로드 제한</string>

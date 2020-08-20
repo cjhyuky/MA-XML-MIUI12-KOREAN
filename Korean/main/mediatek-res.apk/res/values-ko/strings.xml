@@ -189,7 +189,7 @@
     <string name="save_password_message">브라우저에 이 비밀번호를 저장하시겠습니까?</string>
     <string name="save_password_notnow">나중에</string>
     <string name="save_password_remember">저장</string>
-    <string name="save_password_never">안함</string>
+    <string name="save_password_never">안 함</string>
     <string name="permlab_wake_device_sensorhub">전화의 절전 모드 해제</string>
     <string name="permdesc_wake_device_sensorhub">일시 중단 모드에 있는 경우 센서 허브를 통해 앱에서 전화의 절전 모드를 해제할 수 있습니다.</string>
     <string name="wifi_display_connected_to_wifi_network">Wi-Fi 네트워크 %1$s에 연결됨</string>

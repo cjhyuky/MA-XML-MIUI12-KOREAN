@@ -50,7 +50,7 @@
     <string name="menu_select_all">모두 선택</string>
     <string name="abc_searchview_description_submit">보내기</string>
     <string name="menu_copy">복사</string>
-    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_off">사용 안 함</string>
     <string name="undo">실행 취소</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
     <string name="abc_action_menu_overflow_description">옵션 더보기</string>

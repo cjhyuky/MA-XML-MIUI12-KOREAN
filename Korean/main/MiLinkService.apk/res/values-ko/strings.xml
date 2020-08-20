@@ -176,7 +176,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="screen_projection_characteristics_privacy_protect_title">개인 아이템 숨기기</string>
     <string name="screen_projection_characteristics_small_window_summary">"기기의 다른 기능을 사용할 수 있도록 전송 중인 창을 최소화"</string>
     <string name="screen_projection_characteristics_small_window_title">화면 최소화</string>
-    <string name="screen_projection_example_document_summary">휴대전화를 사용하여 슬라이드를 전환하고 메모를 보는 동안 외부 모니터에 기기 화면을 표시합니다. 이 기능을 사용하려면 파일 관리자 > 문서로 이동하세요.</string>
+    <string name="screen_projection_example_document_summary">휴대전화를 사용하여 슬라이드를 전환하고 메모를 보는 동안 외부 모니터에 기기 화면을 표시합니다. 이 기능을 사용하려면 파일 탐색기 > 문서로 이동하세요.</string>
     <string name="screen_projection_example_document_title">문서</string>
     <string name="screen_projection_example_gallery_summary">갤러리 앱 아래에 있는 공유 버튼을 눌러 외부 모니터에 표시하세요.</string>
     <string name="screen_projection_example_gallery_title">사진 및 동영상</string>

@@ -45,7 +45,7 @@
     <string name="show_hard_key_summary">홈, 메뉴, 뒤로가기 버튼을 누를 시 팝업 표시</string>
     <string name="stop_record_while_locking">화면 잠길 시 녹화 중지</string>
     <string name="stop_record_while_locking_summary">화면이 잠기면 녹화는 종료되고 동영상이 저장됩니다.</string>
-    <string name="gleam_led_while_recording">녹음 중일 때 알림등 깜빡이기</string>
+    <string name="gleam_led_while_recording">녹음 중일 때 알림 표시등 깜박이기</string>
     <string name="quit_recording">화면 녹화 나가기</string>
     <string name="timer_format">%s</string>
     <string name="no_recorder_info">동영상 없음</string>

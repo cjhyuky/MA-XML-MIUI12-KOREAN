@@ -98,13 +98,13 @@
         <item quantity="other">%1$d시간 %2$d분</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">완전충전까지 약 %d시간</item>
+        <item quantity="other">충전 완료까지 약 %d시간</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">완전충전까지 약 %d분​</item>
+        <item quantity="other">충전 완료까지 약 %d분​</item>
     </plurals>
     <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">완전충전까지 약 %1$d시간 %2$d분</item>
+        <item quantity="other">충전 완료까지 약 %1$d시간 %2$d분</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d개 기기 연결됨</item>

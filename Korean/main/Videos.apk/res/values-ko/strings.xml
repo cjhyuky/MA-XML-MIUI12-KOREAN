@@ -490,7 +490,7 @@
     <string name="knowledge_description_just_missed">방금 등장했던 배우: %1$s</string>
     <string name="knowledge_description_this_song">지금 나오는 노래: %1$s</string>
     <string name="subtitles">자막</string>
-    <string name="turn_off_subtitles">사용 안함</string>
+    <string name="turn_off_subtitles">사용 안 함</string>
     <string name="audio">오디오</string>
     <string name="subtitles_and_audio">자막 &amp; 오디오</string>
     <string name="problem_while_playing">재생하는 중에 문제가 발생했습니다.</string>
@@ -574,7 +574,7 @@
     <string name="pref_subtitle_settings_title">자막 설정</string>
     <string name="pref_subtitle_settings_summary">자막에 대한 환경설정 지정</string>
     <string name="pref_subtitle_system_settings_summary">자막에 대한 시스템 전체 환경설정 지정</string>
-    <string name="pref_subtitle_override_system_summary_off">사용 안함</string>
+    <string name="pref_subtitle_override_system_summary_off">사용 안 함</string>
     <string name="pref_subtitle_override_system_summary_on">사용</string>
     <string name="pref_captioning_standard_options_title">표준 옵션</string>
     <string name="pref_captioning_locale">언어</string>

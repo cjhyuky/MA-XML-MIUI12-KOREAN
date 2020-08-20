@@ -76,7 +76,7 @@
     <string name="close_twice_auth_step_2">2. 이중 인증을 비활성화하려는 Apple ID에 로그인하고 계정 설정의 \"보안\"섹션으로 이동하여 \"편집\"을 선택합니다.</string>
     <string name="close_twice_auth_step_3">3. \"Apple ID 이중 인증 끄기\"를 클릭하세요. 확인하려면 다시 클릭하세요.</string>
     <string name="close_twice_auth_tutor">Apple ID 이중 인증 끄기</string>
-    <string name="close_vpn_summary">이제 기기가 VPN에 연결된 것 같습니다. 다른 장치에 연결할 수 있도록 VPN을 끄십시오.</string>
+    <string name="close_vpn_summary">지금 기기가 VPN에 연결된 것 같습니다. 다른 장치에 연결할 수 있도록 VPN을 끄십시오.</string>
     <string name="close_vpn_title">VPN 끄기</string>
     <string name="cloud_service_check_dialog_message">갤러리 항목 및 연락처에 대한 동기화가 꺼져있는 것 같습니다. 이 항목을 이 기기에 표시하려면 동기화를 사용 설정하세요.</string>
     <string name="cloud_service_check_dialog_positive_button">켜기</string>
@@ -87,7 +87,7 @@
     <string name="com_miui_compass">나침반</string>
     <string name="com_miui_health">Xiaomi 건강</string>
     <string name="com_miui_notes">메모</string>
-    <string name="com_miui_screenrecorder">스크린 레코더</string>
+    <string name="com_miui_screenrecorder">화면 녹화</string>
     <string name="com_miui_weather2">날씨</string>
     <string name="com_mi_liveassistant">라이브 스트리밍 도우미</string>
     <string name="com_xiaomi_drivemode">운전 모드</string>
@@ -112,7 +112,7 @@
     <string name="current_user_not_supported_summary">현재 시스템 설정은 Mi Mover를 사용한 데이터 전송을 제한합니다.</string>
     <string name="current_user_not_supported_title">"항목을 전송할 수 없음"</string>
     <string name="date_picker_dialog_title">날짜 설정</string>
-    <string name="date_picker_lunar">중국어 번체 달력</string>
+    <string name="date_picker_lunar">음력</string>
     <string name="date_time_done">완료</string>
     <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
     <string name="delete_description">삭제</string>

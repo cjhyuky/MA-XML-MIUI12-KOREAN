@@ -40,7 +40,7 @@
         <item>사용자 설정</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>애니메이션 사용 안함</item>
+        <item>애니메이션 사용 안 함</item>
         <item>애니메이션 배율 .5x</item>
         <item>애니메이션 배율 1x</item>
         <item>애니메이션 배율 1.5x</item>
@@ -225,7 +225,7 @@
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>기본값</item>
-        <item>사용 안함</item>
+        <item>사용 안 함</item>
         <item>윤곽선</item>
         <item>그림자</item>
         <item>높임</item>
@@ -574,7 +574,7 @@
         <item>잠금 화면</item>
         <item>정보 보호 비밀번호</item>
         <item>어린이 모드</item>
-        <item>파일 관리자</item>
+        <item>파일 탐색기</item>
         <item>앱 잠금</item>
         <item>보조 공간</item>
     </string-array>
@@ -618,7 +618,7 @@
         <item>미디어</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>사용 안함</item>
+        <item>사용 안 함</item>
         <item>15초</item>
         <item>30초</item>
         <item>1분</item>
@@ -673,12 +673,12 @@
         <item>강하게</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP 확인 사용 안함</item>
+        <item>HDCP 확인 사용 안 함</item>
         <item>DRM 콘텐츠에 대해서만 HDCP 확인 사용</item>
         <item>항상 HDCP 확인 사용</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>확인 안함</item>
+        <item>확인 안 함</item>
         <item>DRM 콘텐츠만 확인</item>
         <item>항상 확인</item>
     </string-array>
@@ -928,11 +928,11 @@
         <item>2분</item>
         <item>5분</item>
         <item>10분</item>
-        <item>안함</item>
+        <item>안 함</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>질문</item>
-        <item>허용 안함</item>
+        <item>허용 안 함</item>
         <item>항상 허용</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
@@ -970,7 +970,7 @@
         <item>커널만</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>사용 안함</item>
+        <item>사용 안 함</item>
         <item>사각형이 아닌 클립 영역을 파란색으로 그립니다.</item>
         <item>테스트한 그림 그리기 명령을 초록색으로 강조표시합니다.</item>
     </string-array>
@@ -1004,7 +1004,7 @@
         <item>전체</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>사용 안함</item>
+        <item>사용 안 함</item>
         <item>화면에 막대로 표시</item>
         <item>adb shell dumpsys gfxinfo에서 사용</item>
     </string-array>
@@ -1018,7 +1018,7 @@
         <item>"Wi-Fi 사용량 "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>애니메이션 사용 안함</item>
+        <item>애니메이션 사용 안 함</item>
         <item>애니메이션 배율 .5x</item>
         <item>애니메이션 배율 1x</item>
         <item>애니메이션 배율 1.5x</item>
@@ -1203,7 +1203,7 @@
         <item>연결 상태 불량 일시적으로 방지</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>애니메이션 사용 안함</item>
+        <item>애니메이션 사용 안 함</item>
         <item>애니메이션 배율 .5x</item>
         <item>애니메이션 배율 1x</item>
         <item>애니메이션 배율 1.5x</item>
@@ -1293,7 +1293,7 @@
         <item>원래 색상</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>사용 안함</item>
+        <item>사용 안 함</item>
         <item>필터링 사용</item>
         <item>사용</item>
         <item>\"헤더 필터링\" 사용</item>

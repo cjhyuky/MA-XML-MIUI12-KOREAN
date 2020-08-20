@@ -165,7 +165,7 @@
     <string name="keycombo_menu_other_read_from_top">맨위부터 읽기</string>
     <string name="keycombo_menu_other_toggle_search">화면에서 항목 검색</string>
     <string name="keycombo_menu_perform_click">클릭하기</string>
-    <string name="keycombo_unassigned">지정 안함</string>
+    <string name="keycombo_unassigned">지정 안 함</string>
     <string name="label_dialog_edit_hint">라벨 텍스트</string>
     <string name="label_dialog_text">아래 입력란에 이 이미지에 사용할 텍스트를 입력하세요.</string>
     <string name="label_dialog_title_add">라벨 추가</string>
@@ -251,13 +251,13 @@
     <string name="shortcut_scroll_forward">앞으로 스크롤</string>
     <string name="shortcut_spell_last_utterance">마지막 음성 한 자씩 읽기</string>
     <string name="shortcut_talkback_breakout">글로벌 컨텍스트 메뉴 열기</string>
-    <string name="shortcut_unassigned">지정 안함</string>
+    <string name="shortcut_unassigned">지정 안 함</string>
     <string name="show_suspend_warning_label">이 경고를 항상 표시</string>
     <string name="summaryOff_pref_a11y_hints">선형 탐색 중에는 사용 힌트가 음성으로 제공되지 않습니다.</string>
     <string name="summaryOff_pref_intonation">말할 때 음성 피치를 변경하지 않음</string>
     <string name="summaryOff_pref_phonetic_letters">발음 기호는 음성으로 제공되지 않습니다.</string>
     <string name="summaryOff_pref_proximity">근접 센서에서 음성 기능을 조절하지 않음</string>
-    <string name="summaryOff_pref_speak_screenoff">화면이 꺼져 있으면 음성 안내 사용 안함</string>
+    <string name="summaryOff_pref_speak_screenoff">화면이 꺼져 있으면 음성 안내 사용 안 함</string>
     <string name="summaryOn_pref_a11y_hints">선형 탐색에 의해 초점이 이동되면 잠시 후에 사용 힌트가 음성으로 제공됩니다.</string>
     <string name="summaryOn_pref_intonation">낮은 피치 음성으로 키보드로 입력한 내용을 말함</string>
     <string name="summaryOn_pref_phonetic_letters">키보드를 길게 누르고 문자 단위로 이동하면 발음 기호가 음성으로 제공됩니다.</string>

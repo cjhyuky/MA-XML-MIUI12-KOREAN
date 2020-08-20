@@ -249,7 +249,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="service_name_lockscreen">랜덤 잠금 화면</string>
     <string name="service_name_note">메모장</string>
     <string name="service_name_recorder">녹음기</string>
-    <string name="service_name_screen_recording">스크린 레코더</string>
+    <string name="service_name_screen_recording">화면 녹화</string>
     <string name="service_name_security">보안</string>
     <string name="service_name_service_framework">Mi 서비스 프레임 워크</string>
     <string name="service_policy">&lt;Data&gt;우리의 &lt;a href=%1$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.&lt;/Data&gt;</string>

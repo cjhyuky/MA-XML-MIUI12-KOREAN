@@ -1427,7 +1427,7 @@
     <string name="gb_first_guide_gamebox_des">게임 구동시 바로가기 사용</string>
     <string name="gb_first_guide_handsfree_des">백그라운드에서 전화 받기</string>
     <string name="gb_first_guide_shortcut_des">게임 터보용 홈 화면 바로가기가 생성되었습니다.</string>
-    <string name="gb_first_guide_title">시스템의 스피드와 퍼포먼스를 부스트합니다.</string>
+    <string name="gb_first_guide_title">시스템의 속도와 성능을 향상합니다.</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">빠른 답장 사용</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">투명배경에 문자를 표시합니다.</string>
     <string name="gb_first_window_antimsg_title">편리한 알림</string>
@@ -1576,7 +1576,7 @@
     <string name="guide_operator_text">"현재 통신사: "</string>
     <string name="guide_quck_open">켜기</string>
     <string name="guide_second_text">통신사를 설정한 후, MIUI는 귀하의 데이터 사용량을 모니터링할 것이며 매일 통신사에 무료 SMS를 발송하여 이를 검토합니다. MIUI는 귀하가 데이터를 모두 소진시, 네트워크에서 연결 해제 후 귀하에게 알려드립니다.</string>
-    <string name="guide_wait_setting">지금 안함</string>
+    <string name="guide_wait_setting">지금 안 함</string>
     <string name="handle_bar_summary_wifi_unknown">알 수 없음</string>
     <string name="handle_bar_title_system">시스템</string>
     <string name="handle_title_abnormal">배터리 소모</string>
@@ -2030,7 +2030,7 @@ SMS 전송"</string>
     <string name="notification_low_battery_need_charge">기기를 충전하세요.</string>
     <string name="notification_low_battery_open_save_mode">절전 모드 켜기</string>
     <string name="notification_low_battery_title">배터리 %s 이하 남음</string>
-    <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안함</string>
+    <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안 함</string>
     <string name="notification_mask_title">알림 콘텐츠 숨기기</string>
     <string name="notification_masked_item">어떻게 알림 콘텐츠를 숨길 수 있나요?</string>
     <string name="notification_masked_subtitle">앱 잠금을 통해 선택된 앱에 대한 알림 콘텐츠를 숨겨보세요.</string> <string name="notification_summary_cmcc_app_check">터치하여 세부사항 보기</string>
@@ -2536,7 +2536,7 @@ SMS 전송"</string>
     <string name="privacy_apps_manage_dialog_title">숨겨진 앱 정보</string>
     <string name="privacy_apps_manager_dialog_message">이 앱의 아이콘을 홈 화면에 표시하지 않습니다. 이 앱을 숨기시겠습니까?</string>
     <string name="privacy_apps_next_stup">다음</string>
-    <string name="privacy_apps_shield_message_summary">보호된 앱 알림 표시 안함</string>
+    <string name="privacy_apps_shield_message_summary">보호된 앱 알림 표시 안 함</string>
     <string name="privacy_apps_shield_message_title">알림 보지 않음</string>
     <string name="privacy_apps_tutorial">튜토리얼</string>
     <string name="privacy_apps_tutorial_dlg_title">숨겨진 앱을 찾는 방법</string>
@@ -2801,7 +2801,7 @@ SMS 전송"</string>
     <string name="settings_location_subtitle_no">위치 정보가 없습니다.</string>
     <string name="settings_power_save_ontime_title">예약</string>
     <string name="settings_share_enable_summary">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다.</string>
-    <string name="settings_share_info">갤러리 및 파일 관리자에서 공유 한 항목에 사용할 수 있는 보안 공유 옵션은 다음과 같습니다.</string>
+    <string name="settings_share_info">갤러리 및 파일 탐색기에서 공유 한 항목에 사용할 수 있는 보안 공유 옵션은 다음과 같습니다.</string>
     <string name="settings_show_detail">세부 정보보기</string>
     <string name="settings_tip">더 많은 옵션을 보려면 갤러리> 설정으로 이동하세요.</string>
     <string name="settings_title">보안 공유</string>

@@ -105,8 +105,8 @@
     <string name="serviceClassPacket">패킷</string>
     <string name="serviceClassPAD">PAD</string>
     <string name="roamingText0">로밍 표시기 사용</string>
-    <string name="roamingText1">로밍 표시기 사용 안함</string>
-    <string name="roamingText2">로밍 표시기 깜빡임</string>
+    <string name="roamingText1">로밍 표시기 사용 안 함</string>
+    <string name="roamingText2">로밍 표시기 깜박임</string>
     <string name="roamingText3">인근 지역 외부</string>
     <string name="roamingText4">건물 밖</string>
     <string name="roamingText5">로밍 - 기본 시스템</string>
@@ -116,7 +116,7 @@
     <string name="roamingText9">로밍 - 전체 서비스 기능</string>
     <string name="roamingText10">로밍 - 부분 서비스 기능</string>
     <string name="roamingText11">로밍 배너 사용</string>
-    <string name="roamingText12">로밍 배너 사용 안함</string>
+    <string name="roamingText12">로밍 배너 사용 안 함</string>
     <string name="roamingTextSearching">서비스 검색 중</string>
     <string name="cfTemplateNotForwarded">{0}: 착신전환 안됨</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
@@ -440,7 +440,7 @@
     <string name="permdesc_bindJobService">이 권한을 부여하면 요청이 있을 경우 Android 시스템이 백그라운드에서 애플리케이션을 실행할 수 있게 됩니다.</string>
     <string name="permlab_diagnostic">진단 그룹 소유의 리소스 읽기/쓰기</string>
     <string name="permdesc_diagnostic">앱이 진단 그룹 소유의 리소스(예: /dev에 있는 파일)를 읽고 쓸 수 있도록 허용합니다. 이 기능은 시스템 안정성 및 보안에 영향을 미칠 수 있으므로 제조업체 또는 사업자가 하드웨어 관련 진단을 수행하는 경우에만 사용해야 합니다.</string>
-    <string name="permlab_changeComponentState">앱 구성요소 사용 또는 사용 안함</string>
+    <string name="permlab_changeComponentState">앱 구성요소 사용 또는 사용 안 함</string>
     <string name="permdesc_changeComponentState">앱이 다른 앱 구성요소 사용 여부를 변경할 수 있도록 허용합니다. 이 경우 악성 앱이 이 기능을 이용하여 중요한 휴대전화 기능을 중지시킬 수 있습니다. 이 권한을 허용할 경우 앱 구성요소가 사용 불가능하게 되거나 일관성이 맞지 않거나 불안정해질 수 있으므로 주의해야 합니다.</string>
     <string name="permlab_grantRevokePermissions">권한 승인 또는 취소</string>
     <string name="permdesc_grantRevokePermissions">애플리케이션이 해당 애플리케이션 및 기타 애플리케이션에 대한 특정 권한을 승인 또는 취소하도록 허용합니다. 이 경우 악성 애플리케이션이 승인되지 않은 기능에 액세스할 수 있습니다.</string>
@@ -518,8 +518,8 @@
     <string name="permdesc_sim_communication">앱이 SIM에 명령어를 전송할 수 있도록 허용합니다. 이 기능은 매우 위험합니다.</string>
     <string name="permlab_camera">사진과 동영상 찍기</string>
     <string name="permdesc_camera">앱이 카메라로 사진과 동영상을 찍을 수 있도록 허용합니다. 이 권한을 사용하면 앱이 언제든지 사용자의 확인 없이 카메라를 사용할 수 있습니다.</string>
-    <string name="permlab_cameraDisableTransmitLed">카메라를 사용할 때 전송 표시 LED 사용 중지</string>
-    <string name="permdesc_cameraDisableTransmitLed">사전 설치된 시스템 애플리케이션에서 카메라 사용 표시 LED를 사용 중지하도록 허용합니다.</string>
+    <string name="permlab_cameraDisableTransmitLed">카메라를 사용할 때 전송 표시등 사용 중지</string>
+    <string name="permdesc_cameraDisableTransmitLed">사전 설치된 시스템 애플리케이션에서 카메라 사용 표시등을 사용 중지하도록 허용합니다.</string>
     <string name="permlab_brick">휴대전화를 영구적으로 사용 중지</string>
     <string name="permdesc_brick">앱이 휴대전화를 영구적으로 사용 중지할 수 있게 허용합니다. 이 기능은 매우 위험합니다.</string>
     <string name="permlab_reboot">휴대전화 강제로 다시 시작</string>
@@ -708,7 +708,7 @@
     <string name="policydesc_expirePassword">화면 잠금 비밀번호 변경 빈도를 설정합니다.</string>
     <string name="policylab_encryptedStorage">저장소 암호화 설정</string>
     <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 암호화해야 합니다.</string>
-    <string name="policylab_disableCamera">카메라 사용 안함</string>
+    <string name="policylab_disableCamera">카메라 사용 안 함</string>
     <string name="policydesc_disableCamera">모든 기기 카메라의 사용 차단</string>
     <string name="policylab_disableKeyguardFeatures">키가드에서 기능 사용 중지</string>
     <string name="policydesc_disableKeyguardFeatures">키가드에서 일부 기능의 사용을 차단합니다.</string>
@@ -950,7 +950,7 @@
     <string name="save_password_message">브라우저에 이 비밀번호를 저장하시겠습니까?</string>
     <string name="save_password_notnow">나중에</string>
     <string name="save_password_remember">저장</string>
-    <string name="save_password_never">안함</string>
+    <string name="save_password_never">안 함</string>
     <string name="open_permission_deny">페이지를 열 수 있는 권한이 없습니다.</string>
     <string name="text_copied">텍스트가 클립보드에 복사되었습니다.</string>
     <string name="more_item_label">더보기</string>
@@ -1111,7 +1111,7 @@
     <string name="sms_short_code_remember_choice">내 선택사항 기억</string>
     <string name="sms_short_code_remember_undo_instruction">나중에 설정 > 애플리케이션에서 변경할 수 있습니다.</string>
     <string name="sms_short_code_confirm_always_allow">항상 허용</string>
-    <string name="sms_short_code_confirm_never_allow">허용 안함</string>
+    <string name="sms_short_code_confirm_never_allow">허용 안 함</string>
     <string name="sim_removed_title">SIM 카드 제거됨</string>
     <string name="sim_removed_message">유효한 SIM 카드를 삽입하고 다시 시작해야 이동통신망을 사용할 수 있습니다.</string>
     <string name="sim_done_button">완료</string>
@@ -1133,11 +1133,11 @@
     <string name="usb_storage_error_message">USB 대용량 저장소로 SD 카드를 사용하는 동안 문제가 발생했습니다.</string>
     <string name="usb_storage_notification_title">USB 연결됨</string>
     <string name="usb_storage_notification_message">컴퓨터에 파일을 복사하거나 컴퓨터의 파일을 복사하려면 터치하세요.</string>
-    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안함</string>
+    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안 함</string>
     <string name="usb_storage_stop_notification_message">USB 저장소를 사용 중지하려면 터치하세요.</string>
     <string name="usb_storage_stop_title">USB 저장소 사용 중</string>
     <string name="usb_storage_stop_message">USB 저장소를 사용하지 않도록 설정하기 전에 컴퓨터에서 Android의 SD 카드를 마운트 해제(꺼내기)하세요.</string>
-    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안함</string>
+    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안 함</string>
     <string name="usb_storage_stop_error_message">USB 저장소를 사용하지 않도록 설정하는 동안 문제가 발생했습니다. USB 호스트를 마운트 해제했는지 확인한 다음 다시 시도하세요.</string>
     <string name="dlg_confirm_kill_storage_users_title">USB 저장소 사용</string>
     <string name="dlg_confirm_kill_storage_users_text">USB 저장소를 사용하면 사용 중인 일부 애플리케이션이 중지되며 USB 저장소를 사용 중지할 때까지 사용하지 못할 수 있습니다.</string>

@@ -22,7 +22,7 @@
         <item>작은 대문자</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>사용 안함</item>
+        <item>사용 안 함</item>
         <item>윤곽선</item>
         <item>그림자</item>
         <item>높임</item>
