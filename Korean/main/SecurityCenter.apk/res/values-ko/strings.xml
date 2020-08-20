@@ -3712,4 +3712,7 @@ SMS 전송"</string>
     <string name="xunyou_server_expired">시간 초과</string>
     <string name="yuan">위안</string>
     <string name="zhifubao_not_found">앱 버전이 너무 낮거나 설치되지 않았습니다.</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed">Mi / Redmi 라우터에 연결할 때 연결 속도를 10%-20% 향상</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi 속도 향상</string>
+    <string name="gtb_wlan_speed_tips">Mi Wi-Fi 사용…</string>
 </resources>
