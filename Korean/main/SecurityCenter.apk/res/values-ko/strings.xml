@@ -2033,7 +2033,7 @@ SMS 전송"</string>
     <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안 함</string>
     <string name="notification_mask_title">알림 콘텐츠 숨기기</string>
     <string name="notification_masked_item">어떻게 알림 콘텐츠를 숨길 수 있나요?</string>
-    <string name="notification_masked_subtitle">앱 잠금을 통해 선택된 앱에 대한 알림 콘텐츠를 숨겨보세요.</string> <string name="notification_summary_cmcc_app_check">터치하여 세부사항 보기</string>
+    <string name="notification_masked_subtitle">앱 잠금을 통해 선택된 앱에 대한 알림 콘텐츠를 숨겨보세요.</string>
     <string name="notification_summary_cmcc_app_check">자세한 내용을 보려면 누르세요.</string>
     <string name="notification_whatsapp_clean_button_text">지우기</string>
     <string name="notification_whatsapp_clean_size">WhatsApp 캐시가 %s에 도달했습니다.</string>
