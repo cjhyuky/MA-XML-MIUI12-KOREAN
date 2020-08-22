@@ -424,7 +424,7 @@
     <string name="home_gesture_notification_bar">알림</string>
     <string name="home_pull_down_action">홈 화면에서 쓸어내리세요.</string>
     <string name="home_slide_up_action">홈 화면에서 쓸어올리세요.</string>
-    <string name="home_switch_personal_assistant">-1번째 화면</string>
+    <string name="home_switch_personal_assistant">마이너스 원 화면</string>
     <string name="launcher_pull_down_title">홈 화면에서 아래로 당기세요.</string>
     <string name="launcher_search_bar_provider_title">검색 바 제공자</string>
     <string name="launcher_search_bar_title">검색 바</string>
