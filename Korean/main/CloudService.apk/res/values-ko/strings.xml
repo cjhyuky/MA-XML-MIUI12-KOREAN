@@ -212,7 +212,7 @@
     <string name="micloud_space_applist_detail">홈 화면에서 앱 관리</string>
     <string name="micloud_space_soundrecorder_title">녹음</string>
     <string name="micloud_space_soundrecorder_detail">기기에 저장된 녹음 관리</string>
-    <string name="micloud_space_full_influence"><u>공간이 부족하면 어떻게 합니까?</u></string>
+    <string name="micloud_space_full_influence"><u>공간이 부족하면 어떻게 하나요?</u></string>
     <string name="micloud_storage_usage" formatted="false">사용된 공간 %s/전체 공간 %s</string>
     <string name="micloud_storage_full">클라우드가 꽉 찼습니다.</string>
     <string name="micloud_title_dspt" formatted="false">"전체 %s

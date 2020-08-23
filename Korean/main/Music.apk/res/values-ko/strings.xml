@@ -151,7 +151,7 @@
     <string name="desktop_lyric_dialog_msg">뮤직 &gt; 설정 &gt; 고급 설정에서 홈 화면의 가사 켜기/끄기</string>
     <string name="desktop_lyric_dialog_positive_button">지금 시도</string>
     <string name="desktop_lyric_dialog_title">지금 시도</string>
-    <string name="desktop_lyric_lock_toast">잠겨 있습니다. 드롭 다운 메뉴에서 뮤직을 잠금해제할 수 있습니다.</string>
+    <string name="desktop_lyric_lock_toast">잠겨 있습니다. 드롭다운 메뉴에서 뮤직을 잠금해제할 수 있습니다.</string>
     <string name="desktop_lyric_setting_summary">홈 화면에 가사 보이기</string>
     <string name="desktop_lyric_setting_title">홈 화면 가사</string>
     <string name="desktop_lyric_textsize">텍스트</string>
@@ -492,7 +492,7 @@
     <string name="notification_download_success_more">%1$d 다운로드됨</string>
     <string name="notification_need_wifi_for_size">파일이 너무 큽니다. Wi-Fi 다운로드가 필요합니다.</string>
     <string name="notification_play_summary">현재 곡 및 다음 곡 보기, 홈 화면에 가사 표시</string>
-    <string name="notification_play_title">드롭 다운 메뉴 위젯</string>
+    <string name="notification_play_title">드롭다운 메뉴 위젯</string>
     <string name="notification_recommend_summary">새 뮤직 트렌드와 앱 프로모션에 대해 알아보기</string>
     <string name="notification_recommend_title">중요 알림</string>
     <string name="notification_setting">알림 설정</string>

@@ -234,7 +234,7 @@
     <string name="accessibility_desc_connecting">연결 중...</string>
     <string name="accessibility_desc_lock_screen">잠금 화면</string>
     <string name="accessibility_desc_notification_icon">%1$s개 알림 : %2$s</string>
-    <string name="accessibility_desc_notification_shade">드롭 다운 메뉴</string>
+    <string name="accessibility_desc_notification_shade">드롭다운 메뉴</string>
     <string name="accessibility_desc_off">꺼짐</string>
     <string name="accessibility_desc_on">켜짐</string>
     <string name="accessibility_desc_quick_settings">빠른 설정</string>
@@ -925,11 +925,11 @@
     <string name="how_to_switch_recents">최근 앱으로 전환하는 방법</string>
     <string name="how_to_use_drawer">앱 슬라이딩 기능 사용법</string>
     <string name="how_to_use_drawer_summary">왼쪽상단에서부터 스와이프하세요.</string>
-    <string name="how_to_use_fsg">전체 화면 제스처를 어떻게 사용합니까?</string>
+    <string name="how_to_use_fsg">전체 화면 제스처를 어떻게 사용하나요?</string>
     <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. %1$s 앱이 수집합니다. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">백그라운드 유지하지 않음</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다.</string>
-    <string name="important_desc">모든 중요한 알림은 드롭 다운 메뉴에 직접 나타날 것입니다.</string>
+    <string name="important_desc">모든 중요한 알림은 드롭다운 메뉴에 직접 나타날 것입니다.</string>
     <string name="ims_reg_status_not_registered">등록되지 않음</string>
     <string name="ims_reg_status_registered">등록됨</string>
     <string name="ims_reg_title">IMS 등록 상태</string>
@@ -1896,7 +1896,7 @@
     <string name="user_add_user_message_short">새로운 사용자를 추가 할 때, 새로운 공간을 설정합니다. \n\n 어떤 사용자든 다른사용자들을 위해 앱을 업데이트 할 수 있습니다.</string>
     <string name="user_add_user_title">새로운 사용자를 추가하시겠습니까?</string>
     <string name="user_guest">손님</string>
-    <string name="user_guide_for_notification">아래로 스와이프하여 드롭 다운 메뉴 열기</string>
+    <string name="user_guide_for_notification">아래로 스와이프하여 드롭다운 메뉴 열기</string>
     <string name="user_guide_for_toggle">토글 목록을 가로로 스크롤 할 수 있습니다.</string>
     <string name="user_guide_for_toggle_list">토글 관리</string>
     <string name="user_logout_notification_action">사용자 로그아웃</string>

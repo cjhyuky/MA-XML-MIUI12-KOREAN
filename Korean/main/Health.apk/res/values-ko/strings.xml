@@ -135,7 +135,7 @@
     <string name="exercise_setting_label_reach_standard_remind">활동 경고</string>
     <string name="exercise_setting_page_title">활동 설정</string>
     <string name="expand_button_title">고급</string>
-    <string name="exposed_dropdown_menu_content_description">드롭 다운 메뉴 표시</string>
+    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
     <string name="feedback_need_permission_msg">피드백에 사용되는 로그를 생성할 수 있도록 Mi 건강이 외부 저장소에 쓸 수 있도록 허용합니다.</string>
     <string name="feedback_permission_denied_msg">"Mi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필요한 권한을 부여하세요."</string>
     <string name="finish">마침</string>

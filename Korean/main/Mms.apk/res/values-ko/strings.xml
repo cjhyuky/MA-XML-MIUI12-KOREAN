@@ -521,7 +521,7 @@
     <string name="pref_summary_mms_auto_retrieval">메시지에 있는 사진과 동영상을 자동으로 다운로드</string>
     <string name="pref_summary_mms_read_reports">수신자가 MMS 콘텐츠를 다운로드했을 때 대화창에 알림을 표시하기</string>
     <string name="pref_summary_mms_retrieval_during_roaming">로밍중에 메시지에 있는 사진과 동영상을 자동으로 다운로드</string>
-    <string name="pref_summary_notification_body_enabled">잠금 화면과 드롭 다운 메뉴에 메시지 보이기</string>
+    <string name="pref_summary_notification_body_enabled">잠금 화면과 드롭다운 메뉴에 메시지 보이기</string>
     <string name="pref_summary_notification_body_enabled_when_secure">게스트 모드에서는 메시지 미리보기를 할 수 없습니다.</string>
     <string name="pref_summary_off_system_mms_priority">타사 앱을 사용하여 MMS 보내고 받기</string>
     <string name="pref_summary_on_system_mms_priority">MIUI의 메시지 앱을 MMS를 보내고 받는 기본 앱으로 설정</string>

@@ -337,7 +337,7 @@
     <string name="download_pending">다운로드 시작 중…</string>
     <string name="download_phone_tip">휴대전화</string>
     <string name="download_router_tip">Mi 공유기로 다운로드</string>
-    <string name="download_sdcard_busy_dlg_msg">SD 카드가 사용 중입니다. 다운로드를 허용하려면 드롭 다운 메뉴에서 USB 저장소를 끄세요.</string>
+    <string name="download_sdcard_busy_dlg_msg">SD 카드가 사용 중입니다. 다운로드를 허용하려면 드롭다운 메뉴에서 USB 저장소를 끄세요.</string>
     <string name="download_sdcard_busy_dlg_title">SD 카드 사용 불가</string>
     <string name="download_status_failed">다운로드하지 못했습니다.</string>
     <string name="download_status_pending">대기 중</string>
@@ -498,8 +498,8 @@
     <string name="miui_autologin_bar_title">Mi 계정으로 로그인</string>
     <string name="miui_bookmark_action_bar_add_group_title">그룹 추가</string>
     <string name="miui_bookmark_action_bar_new_group_title">새 그룹</string>
-    <string name="miui_quicksearch_enable_pref_summary">드롭 다운 메뉴의 검색 바에 링크 보이기</string>
-    <string name="miui_quicksearch_enable_pref_title">드롭 다운 메뉴의 검색 바</string>
+    <string name="miui_quicksearch_enable_pref_summary">드롭다운 메뉴의 검색 바에 링크 보이기</string>
+    <string name="miui_quicksearch_enable_pref_title">드롭다운 메뉴의 검색 바</string>
     <string name="miui_search_notification_message">검색 바를 열려면 터치하세요.</string>
     <string name="miui_search_notification_title">검색</string>
     <string name="miui_startpage">시작 페이지</string>
@@ -1149,7 +1149,7 @@
     <string name="save_form_data_confirm_message">이 기능을 끄는 것은 사용량에 영향을 줄 수 있습니다.</string>
     <string name="save_image_failed">이미지를 저장하지 못했습니다.</string>
     <string name="save_image_success">이미지 저장됨</string>
-    <string name="save_page_capture_tip">스크린샷을 보려면 드롭 다운 메뉴를 펼치세요.</string>
+    <string name="save_page_capture_tip">스크린샷을 보려면 드롭다운 메뉴를 펼치세요.</string>
     <string name="save_page_capture_to_camera">스크린샷 저장됨</string>
     <string name="save_to_bookmark">즐겨찾기에 저장</string>
     <string name="save_to_camera">카메라에 저장</string>

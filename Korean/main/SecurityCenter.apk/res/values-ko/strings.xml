@@ -2813,8 +2813,8 @@ SMS 전송"</string>
     <string name="shortcut_title_scan">검사</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp 클리너</string>
     <string name="show_system_app">시스템 앱 표시</string>
-    <string name="show_traffic_dialog_message">데이터 사용량 정보가 드롭 다운 메뉴에 표시됩니다. 데이터 사용량 &gt; 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
-    <string name="show_traffic_dialog_title">드롭 다운 메뉴에 사용량 보이기</string>
+    <string name="show_traffic_dialog_message">데이터 사용량 정보가 드롭다운 메뉴에 표시됩니다. 데이터 사용량 &gt; 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
+    <string name="show_traffic_dialog_title">드롭다운 메뉴에 사용량 보이기</string>
     <string name="showpattern">패턴 보여주기</string>
     <string name="shutdown_cancel_reminder">전원이 꺼지지 않았습니다.</string>
     <string name="shutdown_cancel_reminder_detail">통화 중이었기에 기기 전원이 꺼지지 않았습니다.</string>
@@ -3124,7 +3124,7 @@ SMS 전송"</string>
     <string name="summary_rcs_switch">차이나 모바일 사용자에게 무료로 문자를 보냅니다.</string>
     <string name="summary_realname_verify">결제 보안 강화를 위해 본인 인증을 하세요.</string>
     <string name="summary_restrict_data_usage">이 앱의 데이터 사용을 제한했습니다. 수정하려면 탭하세요.</string>
-    <string name="summary_show_notification">캐시 지우기, 배터리 상태 보기, 드롭드롭 다운 메뉴의 항목 차단</string>
+    <string name="summary_show_notification">캐시 지우기, 배터리 상태 보기, 드롭다운 메뉴의 항목 차단</string>
     <string name="summary_telecom_operator">통신사에서 월간 데이터 사용량 통계를 가져올 수 없습니다.</string>
     <string name="summary_usb">USB를 통해 오는 악성코드를 예방합니다.</string>
     <string name="summary_virus">바이러스 제거로 기기의 보안을 유지합니다.</string>
@@ -3371,7 +3371,7 @@ SMS 전송"</string>
     <string name="title_realname_verify">ID 인증</string>
     <string name="title_reply">댓글</string>
     <string name="title_restrict_data_usage">%s에서 인터넷에 연결할 수 없습니까?</string>
-    <string name="title_show_notification">드롭 다운 메뉴 위젯</string>
+    <string name="title_show_notification">드롭다운 메뉴 위젯</string>
     <string name="title_system_auto_download">업데이트가 자동으로 다운로드됩니다.</string>
     <string name="title_telecom_operator">자동 조정</string>
     <string name="title_usb_no">USB 디버깅 켜짐</string>
