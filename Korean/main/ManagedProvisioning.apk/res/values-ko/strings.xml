@@ -248,5 +248,5 @@
     <string name="work_profile_provisioning_step_2_header">"하루 일이 끝나면 업무용 앱 일시 중지"</string>
     <string name="work_profile_provisioning_step_3_header">직장 프로필의 데이터만 IT 관리자가 볼 수 있습니다.</string>
     <string name="work_profile_provisioning_summary">업무용 앱은 직장 프로필에 보관됩니다. 하루가 끝나면 업무용 앱을 일시 중지 할 수 있습니다. 직장 프로필의 데이터만 IT 관리자에게 표시됩니다.</string>
-
+    <string name="car_ui_toolbar_nav_icon_content_description">뒤로가기</string>
 </resources>

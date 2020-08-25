@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">계정</string>
-    <string name="SMS_and_MMS">SMS와 MMS</string>
+    <string name="SMS_and_MMS">SMS 및 MMS</string>
     <string name="a11y_settings_label">접근성 설정</string>
     <string name="abc_action_bar_home_description">홈으로</string>
     <string name="abc_action_bar_up_description">위로 가기</string>
@@ -11,15 +11,15 @@
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
     <string name="abc_capital_off">꺼짐</string>
     <string name="abc_capital_on">켜기</string>
-    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_search_hint">검색…</string>
     <string name="abc_searchview_description_clear">지우기</string>
     <string name="abc_searchview_description_query">검색</string>
     <string name="abc_searchview_description_search">검색</string>
     <string name="abc_searchview_description_submit">보내기</string>
     <string name="abc_searchview_description_voice">음성 검색</string>
     <string name="abc_shareactionprovider_share_with">공유</string>
-    <string name="abc_shareactionprovider_share_with_application">%s에 파일 공유</string>
-    <string name="abc_slice_error">연결할 수 없습니다.</string>
+    <string name="abc_shareactionprovider_share_with_application">%s(으)로 공유</string>
+    <string name="abc_slice_error">"연결할 수 없습니다."</string>
     <string name="abc_slice_more">더보기</string>
     <string name="abc_slice_permission_allow">허용</string>
     <string name="abc_slice_permission_checkbox">%1$s 앱이 모든 앱에서 슬라이드를 표시하는 것을 허용합니다.</string>
@@ -50,13 +50,14 @@
     <string name="accelerometer_title">자동 화면 회전</string>
     <string name="access_control_app_entry_multiple">%s열기</string>
     <string name="access_control_app_entry_single">앱 실행</string>
-    <string name="access_control_need_password">%s 잠김</string>
+    <string name="access_control_need_password">"%s(은)는 잠겨있습니다.
+"</string>
     <string name="access_control_need_to_unlock">비밀번호가 필요합니다:</string>
     <string name="access_control_no_back_footer">나가려면 [icon] 을 터치하세요.</string>
     <string name="access_control_password_title">비밀번호</string>
     <string name="access_control_recording_intro_header">잠금해제 패턴 그리기:</string>
-    <string name="access_control_reset_by_account">비밀번호를 초기화하기 위해서 Mi 계정으로 로그인하세요.</string>
-    <string name="access_point_names">액세스포인트 네임(APN)</string>
+    <string name="access_control_reset_by_account">비밀번호를 초기화하려면 Mi 계정으로 로그인하세요.</string>
+    <string name="access_point_names">액세스 포인트 네임(APN)</string>
     <string name="accessibility_autoclick_custom_title">사용자 설정</string>
     <string name="accessibility_autoclick_default_title">끄기</string>
     <string name="accessibility_autoclick_delay_preference_title">자동클릭전 지연시간설정</string>
@@ -66,7 +67,7 @@
     <string name="accessibility_autoclick_longer_desc">더 길게</string>
     <string name="accessibility_autoclick_medium_summary">0.6초</string>
     <string name="accessibility_autoclick_medium_title">중간</string>
-    <string name="accessibility_autoclick_preference_title">마우스 커서 움직임이 멈추면 자동클릭</string>
+    <string name="accessibility_autoclick_preference_title">마우스 커서 움직임이 멈추면 자 동클릭</string>
     <string name="accessibility_autoclick_seekbar_desc">자동 클릭 시간</string>
     <string name="accessibility_autoclick_short_summary">0.2초</string>
     <string name="accessibility_autoclick_short_title">짧게</string>
@@ -74,11 +75,13 @@
     <string name="accessibility_caption_master_switch_summary">지원되는 앱 전용</string>
     <string name="accessibility_caption_master_switch_title">자막 사용</string>
     <string name="accessibility_caption_preference_summary">일부 앱은 이러한 캡션 환경 설정을 지원하지 않습니다.</string>
-    <string name="accessibility_captioning_title">자막 환경설정</string>
-    <string name="accessibility_category_personal">개인 계정</string>
-    <string name="accessibility_category_work">회사 계정 - %s</string>
+    <string name="accessibility_captioning_title">자막 설정</string>
+    <string name="accessibility_category_personal">개인 프로필 계정</string>
+    <string name="accessibility_category_work">직장 프로필 - %s</string>
     <string name="accessibility_close_tab">현재 창 닫기</string>
-    <string name="accessibility_control_timeout_preference_summary">사용자에게 조치를 취하도록 요청하지만 일시적으로만 보이는 메시지를 표시할 시간을 선택하세요.\n\n일부 앱에서는 이 설정이 지원되지 않습니다.</string>
+    <string name="accessibility_control_timeout_preference_summary">"사용자에게 조치를 취하도록 요청하지만 일시적으로만 보이는 메시지를 표시할 시간을 선택하세요
+
+일부 앱에서는 이 설정이 지원되지 않습니다."</string>
     <string name="accessibility_control_timeout_preference_title">조치를 취할 시간</string>
     <string name="accessibility_daltonizer_master_switch_title">색상 보정 사용</string>
     <string name="accessibility_description_state_stopped">이 서비스가 제대로 작동하지 않습니다.</string>
@@ -2768,7 +2771,7 @@
     <string name="doze_always_on_title">항상 켜짐</string>
     <string name="doze_summary">기기를 들거나 알림 수신 시 절전 모드 해제</string>
     <string name="doze_title">화면 항상 켜짐</string>
-    <string name="draw_overlay">앱 위에 그리기</string>
+    <string name="draw_overlay">앱 위에 표시</string>
     <string name="draw_overlay_title">앱위에 앱을 띄울 수 있습니다.</string>
     <string name="drive_mode">자동차 모드</string>
     <string name="drive_mode_auto_reply">빠른 응답</string>
@@ -2971,8 +2974,8 @@
     <string name="enter_pin">Android를 시작하려면 PIN을 입력하세요.</string>
     <string name="enterprise_mode">엔터프라이즈 모드</string>
     <string name="enterprise_privacy_always_on_vpn_device">VPN 항시 활성화 켜짐</string>
-    <string name="enterprise_privacy_always_on_vpn_personal">개인 계정에 VPN 항시 활성화 켜짐</string>
-    <string name="enterprise_privacy_always_on_vpn_work">업무 계정에 VPN 항시 활성화 켜짐</string>
+    <string name="enterprise_privacy_always_on_vpn_personal">개인 프로필에 VPN 항시 활성화 켜짐</string>
+    <string name="enterprise_privacy_always_on_vpn_work">직장 프로필에 VPN 항시 활성화 켜짐</string>
     <string name="enterprise_privacy_apps_count_estimation_info">앱 개수는 추정치이며 Play 스토어에서 다운로드하지 않은 앱들은 인식되지 않을 수 있습니다.</string>
     <string name="enterprise_privacy_backups_enabled">기기의 데이터가 백업중입니다.</string>
     <string name="enterprise_privacy_bug_reports">최근 버그 보고서</string>
@@ -4033,7 +4036,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="keywords_storage_menu_free">청소, 저장소</string>
     <string name="keywords_storage_settings">메모리, 캐시, 데이터, 삭제, 지우기, 여유 공간</string>
     <string name="keywords_sync">동기화;동기;클라우드</string>
-    <string name="keywords_system_alert_window">시스템 경고,    앱 위에 그리기</string>
+    <string name="keywords_system_alert_window">시스템 경고, 앱 위에 표시</string>
     <string name="keywords_system_navigation">시스템 탐색, 2버튼 탐색, 3버튼 탐색, 동작 탐색</string>
     <string name="keywords_system_update_settings">업그레이드, Android</string>
     <string name="keywords_systemui_theme">어두운 테마</string>
@@ -4842,7 +4845,6 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miui_sos_launch_error_confirm">확인</string>
     <string name="miui_sos_launch_error_message">모바일 네트워크에 연결할 수 없습니다. 긴급 SOS를 사용할 수 없습니다.</string>
     <string name="miui_sos_launching_summary">%ds의 긴급 SOS 활성화</string>
-    <string name="miui_sos_launching_title">SOS</string>
     <string name="miui_sos_menu_add">추가</string>
     <string name="miui_sos_menu_edit">편집</string>
     <string name="miui_sos_msg_call_log_prefix">최근 1시간 동안의 통화 기록은 다음과 같습니다.</string>
@@ -5006,9 +5008,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
     <string name="mtrl_picker_cancel">취소</string>
     <string name="mtrl_picker_confirm">저장</string>
-    <string name="mtrl_picker_date_format">yyyy M월 d일</string>
+    <string name="mtrl_picker_date_format">yyyy년 M월 d일</string>
     <string name="mtrl_picker_header_prompt">날짜 선택</string>
-    <string name="mtrl_picker_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_prompt">날짜 범위 선택</string>
     <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
     <string name="multi_face_delete_message">주의</string>
@@ -5047,7 +5048,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="music_dirac_mode_in_ear2">Mi 인이어 2</string>
     <string name="music_dirac_mode_in_ear_2013">Mi 인이어 (2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Mi 인이어 프로</string>
-    <string name="music_dirac_mode_india_earphones">Mi이어폰</string>
+    <string name="music_dirac_mode_india_earphones">Mi 이어폰</string>
     <string name="music_dirac_mode_india_earphones_basic">Mi 기본 이어폰</string>
     <string name="music_dirac_mode_off">Dirac 꺼짐</string>
     <string name="music_dirac_mode_piston_1">Mi 피스톤 1</string>
@@ -5091,7 +5092,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="mute">무음 모드</string>
     <string name="mute_media_sound_title">무음 모드에서 미디어 음소거</string>
     <string name="mute_music_stream">음악 스트리밍 음소거</string>
-    <string name="mute_voiceassist_stream">음성어시스턴트 음소거</string>
+    <string name="mute_voiceassist_stream">음성 어시스턴트 음소거</string>
     <string name="mvno_match_data">MVNO 값</string>
     <string name="mvno_type">MVNO 유형</string>
     <string name="my_device">내 기기</string>
@@ -5667,7 +5668,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="others">기타 설정</string>
     <string name="overlay_display_devices_title">보조 디스플레이 시뮬레이트</string>
     <string name="overlay_option_device_default">기기 기본값</string>
-    <string name="overlay_settings">화면 위에 그리기</string>
+    <string name="overlay_settings">화면 위에 표시</string>
     <string name="overlay_settings_summary">앱이 설정 앱 위에도 표시할 수 있도록 허용합니다.</string>
     <string name="overlay_settings_title">설정 앱 위에도 표시</string>
     <string name="overlay_toast_failed_to_apply">오버레이 적용 실패</string>
@@ -5811,7 +5812,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="permission_with_SMS_and_MMS">SMS와 MMS 관련 권한</string>
     <string name="permission_with_call_and_contact">전화 통화, 연락처 정보, 통화 기록과 연관된 권한</string>
     <string name="permissions_label">권한 설정</string>
-    <string name="permit_draw_overlay">앱 위에 그리기 허용</string>
+    <string name="permit_draw_overlay">앱 위에 표시 허용</string>
     <string name="permit_manage_external_storage">모든 파일을 관리하기위한 액세스 허용</string>
     <string name="permit_running_network">백그라운드 데이터</string>
     <string name="permit_usage_access">사용 권한 허용</string>
@@ -8042,12 +8043,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Wi-Fi 전용</string>
     <string name="system">시스템</string>
-    <string name="system_alert_window_access_title">앱 위에 그리기</string>
+    <string name="system_alert_window_access_title">앱 위에 표시</string>
     <string name="system_alert_window_apps_title">앱</string>
     <string name="system_alert_window_off">아니오</string>
     <string name="system_alert_window_on">네</string>
-    <string name="system_alert_window_settings">앱 위에 그리기</string>
-    <string name="system_alert_window_summary" formatted="false">%d 중 %d 이 앱 위에 그리기 기능을 호환합니다.</string>
+    <string name="system_alert_window_settings">앱 위에 표시</string>
+    <string name="system_alert_window_summary" formatted="false">%d 중 %d 이 앱 위에 표시 기능을 호환합니다.</string>
     <string name="system_and_device_section_title">시스템 &amp; 기기</string>
     <string name="system_app">(시스템)</string>
     <string name="system_app_settings">시스템 앱 설정</string>

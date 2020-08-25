@@ -362,7 +362,7 @@
     <string name="permdesc_confirm_full_backup">앱이 전체 백업 확인 UI를 실행하도록 허용합니다. 다른 앱에는 사용할 수 없습니다.</string>
     <string name="permlab_internalSystemWindow">인증되지 않은 창 표시</string>
     <string name="permdesc_internalSystemWindow">애플리케이션이 내부 시스템 사용자 인터페이스에서 사용하는 창을 만들 수 있도록 허용합니다. 일반 애플리케이션에서는 사용하지 않습니다.</string>
-    <string name="permlab_systemAlertWindow">다른 앱 위에 그리기</string>
+    <string name="permlab_systemAlertWindow">다른 앱 위에 표시</string>
     <string name="permdesc_systemAlertWindow">앱이 다른 애플리케이션이나 사용자 인터페이스 부분 위에 그림을 그릴 수 있도록 합니다. 이 경우 애플리케이션에서 인터페이스 사용에 방해가 되거나 다른 애플리케이션에서 표시되는 콘텐츠가 변경될 수 있습니다.</string>
     <string name="permlab_setAnimationScale">전체 애니메이션 속도 수정</string>
     <string name="permdesc_setAnimationScale">애플리케이션이 언제든지 전체 애니메이션 속도를 빠르게 또는 느리게 변경할 수 있도록 허용합니다.</string>
@@ -1944,7 +1944,7 @@
     <string name="accessibility_shortcut_enabling_service">접근성 바로가기 %1$s 켜짐</string>
     <string name="accessibility_shortcut_toogle_warning">"바로가기가 켜져있을 때 볼륨 버튼을 3초간 누르면 접근성 기능이 시작됩니다. 현재 접근성 기능: %1$s. 설정 > 접근성 에서 변경가능합니다."</string>
     <string name="accessibility_shortcut_warning_dialog_title">접근성 바로가기를 사용하시겠습니까?</string>
-    <string name="alert_windows_notification_channel_group_name">앱 위에 그리기</string>
+    <string name="alert_windows_notification_channel_group_name">앱 위에 표시</string>
     <string name="alert_windows_notification_channel_name">%s 앱이 다른 앱 위에 표시됩니다.</string>
     <string name="alert_windows_notification_message">%s 앱이 표시되는 것을 원치 않으시면 설정에서 끄실 수 있습니다.</string>
     <string name="alert_windows_notification_title">%s 앱이 다른 앱 위에 표시중입니다.</string>

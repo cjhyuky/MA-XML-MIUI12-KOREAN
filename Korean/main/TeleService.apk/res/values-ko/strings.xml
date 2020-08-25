@@ -2844,4 +2844,5 @@
 
 긴급 통화는 모바일 네트워크 서비스 커버리지에서만 가능합니다."</string>
     <string name="media_transfer_wired_usb_device_name">유선 헤드폰</string>
+    <string name="label_phoneid">개인 잠김</string>
 </resources>

@@ -31,6 +31,9 @@
         <item quantity="other">버스트 샷에 %d개 사진</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
-        <item quantity="other">간격: %d seconds</item>
+        <item quantity="other">간격: %d초</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">시간: %d초</item>
     </plurals>
 </resources>

@@ -1727,4 +1727,25 @@
     <string name="miot_device_disabled">"지금이 기기를 제어 할 수 없습니다."</string>
     <string name="miot_device_opening">기기가 켜져 있습니다.</string>
     <string name="trip_required_info">필수</string>
+     <string name="app_sleep">취침</string>
+     <string name="app_sleep_awake">기상</string>
+     <string name="app_sleep_continue">취침 개선</string>
+     <string name="app_sleep_deep">딥</string>
+     <string name="app_sleep_enough">충분</string>
+     <string name="app_sleep_light">라이트</string>
+     <string name="app_sleep_sleeping">취침 중</string>
+     <string name="app_sleep_too_long">너무 많음</string>
+     <string name="app_sleep_too_short">부족함</string>
+     <string name="app_stock_network_unavailable">"네트워크에 연결할 수 없습니다."</string>
+     <string name="app_stock_search_fail">"결과를 찾을 수 없습니다."</string>
+     <string name="app_stock_search_loading">잠시만 기다리세요…</string>
+     <string name="commute_navigation_choice">앱 탐색</string>
+     <string name="commute_navigation_choice_recommend">자동</string>
+     <string name="commute_navigation_dialog_item_recommend">자동 (선호순위 기반)</string>
+     <string name="commute_navigation_dialog_title">내비게이션 앱 선택</string>
+     <string name="cta_dialog_all_purpose">앱 서랍에 오신 것을 환영합니다! 이 앱은 업무, 라이프 스타일 및 여행 관련 서비스를 위한 원스톱 스팟입니다.</string>
+     <string name="cta_dialog_desc_calendar">달력 할 일과 일정 및 여행 계획을 표시합니다.</string>
+     <string name="cta_dialog_desc_location">일일 출퇴근 시간을 계산합니다.</string>
+     <string name="cta_dialog_desc_storage">기기의 아이템 보호</string>
+     <string name="app_pa_setting_service_timetable_summary">탭하여 수업 예약</string>
 </resources>

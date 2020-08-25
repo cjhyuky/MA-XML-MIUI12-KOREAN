@@ -910,7 +910,7 @@
     <string name="permlab_stopAppSwitches">애플리케이션 전환 방지</string>
     <string name="permlab_subscribedFeedsRead">가입된 피드 읽기</string>
     <string name="permlab_subscribedFeedsWrite">가입 피드 작성</string>
-    <string name="permlab_systemAlertWindow">다른 앱 위에 그리기</string>
+    <string name="permlab_systemAlertWindow">다른 앱 위에 표시</string>
     <string name="permlab_updateLock">지금은 자동 기기 업데이트를 권장하지 않음</string>
     <string name="permlab_useCredentials">기기에서 계정 사용</string>
     <string name="permlab_use_sip">인터넷 전화 걸기/받기</string>

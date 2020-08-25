@@ -744,4 +744,6 @@
     <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-엔터프라이즈</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-개인</string>
     <string name="zen_mode_forever">끄기 전까지</string>
+    <string name="notification_incallservice_not_responding_body">기기 기본 휴대전화 앱을 사용했습니다.</string>
+    <string name="notification_incallservice_not_responding_title">%s 응답 없음</string>
 </resources>
