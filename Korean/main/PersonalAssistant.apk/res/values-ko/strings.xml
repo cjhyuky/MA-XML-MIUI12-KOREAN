@@ -1724,7 +1724,7 @@
     <string name="debug_card_detail">디버깅 설정 및 도구</string>
     <string name="debug_card_title">디버깅</string>
     <string name="miot_device_closed">기기가 꺼져 있습니다.</string>
-    <string name="miot_device_disabled">"지금이 기기를 제어 할 수 없습니다."</string>
+    <string name="miot_device_disabled">"지금 이 기기를 제어할 수 없습니다."</string>
     <string name="miot_device_opening">기기가 켜져 있습니다.</string>
     <string name="trip_required_info">필수</string>
      <string name="app_sleep">취침</string>
@@ -1741,11 +1741,11 @@
      <string name="app_stock_search_loading">잠시만 기다리세요…</string>
      <string name="commute_navigation_choice">앱 탐색</string>
      <string name="commute_navigation_choice_recommend">자동</string>
-     <string name="commute_navigation_dialog_item_recommend">자동 (선호순위 기반)</string>
+     <string name="commute_navigation_dialog_item_recommend">자동 (우선순위 기반)</string>
      <string name="commute_navigation_dialog_title">내비게이션 앱 선택</string>
      <string name="cta_dialog_all_purpose">앱 서랍에 오신 것을 환영합니다! 이 앱은 업무, 라이프 스타일 및 여행 관련 서비스를 위한 원스톱 스팟입니다.</string>
-     <string name="cta_dialog_desc_calendar">달력 할 일과 일정 및 여행 계획을 표시합니다.</string>
+     <string name="cta_dialog_desc_calendar">캘린더 할 일과 일정 및 여행 계획을 표시합니다.</string>
      <string name="cta_dialog_desc_location">일일 출퇴근 시간을 계산합니다.</string>
-     <string name="cta_dialog_desc_storage">기기의 아이템 보호</string>
+     <string name="cta_dialog_desc_storage">기기의 항목 보호</string>
      <string name="app_pa_setting_service_timetable_summary">탭하여 수업 예약</string>
 </resources>
