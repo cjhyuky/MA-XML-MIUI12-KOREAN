@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="bt_show_notification_summary">알림창에 영구 알림 표시</string>
+    <string name="bt_show_notification_title">블루투스 연결에 대한 알림</string>
     <string name="Accounts_settings_title">계정</string>
     <string name="SMS_and_MMS">SMS 및 MMS</string>
     <string name="a11y_settings_label">접근성 설정</string>
@@ -1598,9 +1600,9 @@
     <string name="call_records_name_1">뎁비 스미스</string>
     <string name="call_records_name_2">제이슨 리</string>
     <string name="call_records_name_3">톰 포울리스</string>
-    <string name="call_records_summary_1">오전 9:35 | 26초 | 차이나 유니콤</string>
-    <string name="call_records_summary_2">8월 16일 | 1분 16초 | 차이나 모바일</string>
-    <string name="call_records_summary_3">8월 16일 | 2분 24초 | 차이나 유니콤</string>
+    <string name="call_records_summary_1">오전 %1$d : %2$d | %3$d초</string>
+    <string name="call_records_summary_2">8월 %1$d | %2$d분 %3$d초</string>
+    <string name="call_records_summary_3">8월 %1$d | %2$d분 %3$d초</string>
     <string name="call_settings_primary_user_only">기본 공간에서 통화 설정 변경</string>
     <string name="call_settings_summary">음성메일, 착신전환, 통화 중 대기, 발신자 번호 설정</string>
     <string name="call_settings_title">통화 설정</string>
