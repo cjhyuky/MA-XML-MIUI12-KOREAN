@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="ew_concern_date">
+        <item quantity="other">%d일 전</item>
+    </plurals>
     <plurals name="om_running_apps_num">
         <item quantity="other">%d개의 앱</item>
     </plurals>
