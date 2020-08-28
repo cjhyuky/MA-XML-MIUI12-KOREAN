@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="general_no">항목 정보 없음</string>
+    <string name="general_no_found">유사한 제품 추천</string>
+    <string name="general_plant">찾고있는 내용은 다음과 같습니다.</string>
     <string name="WeChatqr_code_auto_processing">WeChat 열기</string>
     <string name="agree_audio_permission">오디오 녹음</string>
     <string name="agree_monitor_use">온라인 수업 중 의도 청취,주의 산만 및 퇴근 시간과 비율을 감지합니다. 모든 개인 데이터가 로컬로 저장됩니다.</string>
