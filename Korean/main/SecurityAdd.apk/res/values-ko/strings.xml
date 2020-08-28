@@ -92,4 +92,7 @@
     <string name="ew_share_title">공유</string>
     <string name="ew_warning_detail">경고 세부사항</string>
     <string name="ew_title_back">뒤로가기</string>
+    <string name="tool_box_active_loading">1초...</string>
+    <string name="tool_box_active_no_networ">"네트워크에 연결할 수 없습니다."</string>
+    <string name="tool_box_active_reload">새로 고침</string>
 </resources>
