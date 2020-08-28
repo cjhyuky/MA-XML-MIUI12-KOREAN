@@ -294,6 +294,8 @@
     <string name="xiaomi_mix_3_5g">Mi Mix 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="input_method_clipboard_move_cursor_guide1">커서를 이동하려면 파란 부분을 길게 누르세요 ~</string>
+    <string name="input_method_clipboard_move_cursor_guide2">손가락을 수평으로 움직이세요 ~</string>
     <string name="input_method_edit_phrase_text">자주 쓰는 문구 편집</string>
     <string name="input_method_no_content_text">아무것도 없습니다.</string>
     <string name="input_method_switch_settings_text">키보드 설정</string>

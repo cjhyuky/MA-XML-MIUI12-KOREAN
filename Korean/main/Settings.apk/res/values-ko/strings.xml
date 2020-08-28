@@ -3813,6 +3813,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="input_method_function_xiaoai">Mi AI 음성 입력</string>
     <string name="input_method_function_xiaoai_des">Mi AI 음성 입력을 사용하려면 터치하세요.</string>
     <string name="input_method_manage">키보드 편집</string>
+    <string name="input_method_middle_function_move_cursor">커서 이동</string>
+    <string name="input_method_middle_function_move_cursor_des">커서를 이동하려면 중심 영역을 길게 누르세요.</string>
+    <string name="input_method_middle_function_no_function_des">"행동 지정하지 않음"</string>
     <string name="input_method_quick_access">빠른 액세스</string>
     <string name="input_method_quick_cloud_mode_title">새로운 클립보드 내용에 대한 알림</string>
     <string name="input_method_quick_cloud_summary">호환 가능한 컴퓨터에서 항목을 복사하여 장치에 붙여 넣기</string>
@@ -4726,6 +4729,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="mi_upi_settings">Mi 페이 계정</string>
     <string name="micloud_service_summary">앱 목록 동기화, 시스템 설정 및 홈 화면 레이아웃 백업</string>
     <string name="micloud_service_title">Xiaomi 클라우드</string>
+    <string name="middle_function_key">중심 영역</string>
     <string name="miliao_account_guide">Mi 계정으로 어디서나 Mi 클라우드와 MIUI 테마 스토어, 다른 Mi 서비스에 로그인하세요.</string>
     <string name="miliao_account_login">Mi Talk으로 로그인</string>
     <string name="minus_one_screen_google">Google</string>
