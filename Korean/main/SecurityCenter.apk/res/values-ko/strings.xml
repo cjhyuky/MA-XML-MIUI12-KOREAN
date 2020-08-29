@@ -1274,7 +1274,7 @@
     <string name="first_settings_subtitle">사용 가능한 보안 공유 옵션은 다음과 같습니다.</string>
     <string name="first_settings_title">개인정보 보호</string>
     <string name="five_percent_total_pkg">%s (월간 데이터의 5%%)</string>
-    <string name="float_window">데스크탑 플로팅 창</string>
+    <string name="float_window">데스크톱 플로팅 창</string>
     <string name="float_window_summary">페이지를 흔들고 부수는 빠른 점프 지원</string>
     <string name="float_window_tips">Xiaomi 휴대전화가 빠릅니다!</string>
     <string name="fod_authentication_shift_button">취소</string>
@@ -3521,7 +3521,7 @@ SMS 전송"</string>
     <string name="usb_mount">USB 장치 마운트</string>
     <string name="usbsharenet_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 기기의 USB 연결을 확인한 후 Mi PC Suite를 다시 시작하세요.</string>
     <string name="usbsharenet_exception_title">USB로 공유된 인터넷 테스트</string>
-    <string name="usbsharenet_pc_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 컴퓨터의 인터넷 연결을 확인하세요.</string>
+    <string name="usbsharenet_pc_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. PC의 인터넷 연결을 확인하세요.</string>
     <string name="use_immediately">사용</string>
     <string name="user_define_title">규칙 추가</string>
     <string name="user_guide">위로 올려 새로운 게임 확인하기</string>

@@ -171,7 +171,7 @@
     <string name="bo">연결하기</string>
     <string name="bp">Wi-Fi 켜기</string>
     <string name="bq">주변 기기 검색</string>
-    <string name="br">컴퓨터에 연결</string>
+    <string name="br">PC에 연결</string>
     <string name="bs">Mi Drop 공유하기</string>
     <string name="bt">사용자 테마</string>
     <string name="bu">시스템 언어</string>
@@ -237,10 +237,10 @@
     <string name="dq">기기:</string>
     <string name="dr">시스템:</string>
     <string name="ds">시스템 버전:</string>
-    <string name="dt">"이 주소를 컴퓨터의 파일 탐색기에 입력하세요."</string>
-    <string name="du">휴대전화와 컴퓨터를 같은 네트워크에 연결하세요.</string>
-    <string name="dv">컴퓨터를 사용하여 파일을 관리할 수 ​​있습니다.</string>
-    <string name="dw">컴퓨터를 사용하여 파일을 관리할 수 ​​있습니다.</string>
+    <string name="dt">"이 주소를 PC의 파일 탐색기에 입력하세요."</string>
+    <string name="du">휴대전화와 PC를 같은 네트워크에 연결하세요.</string>
+    <string name="dv">PC를 사용하여 파일을 관리할 수 ​​있습니다.</string>
+    <string name="dw">PC를 사용하여 파일을 관리할 수 ​​있습니다.</string>
     <string name="dx">내부 저장소</string>
     <string name="dy">Mi Drop</string>
     <string name="dz">주변 사람들과 파일 공유</string>

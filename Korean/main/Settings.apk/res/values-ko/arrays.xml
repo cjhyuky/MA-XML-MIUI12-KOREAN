@@ -775,7 +775,7 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB 대용량 저장소는 컴퓨터에 연결되면 자동으로 열립니다.</item>
+        <item>USB 대용량 저장소는 PC에 연결되면 자동으로 열립니다.</item>
     <item />
     </string-array>
     <string-array name="msd_pc_system_install_summary">

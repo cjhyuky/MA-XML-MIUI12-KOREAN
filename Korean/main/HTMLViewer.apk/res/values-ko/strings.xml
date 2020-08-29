@@ -18,7 +18,7 @@
     <string name="settings_safetylegal_title">보안 정보</string>
     <string name="settings_safetylegal_activity_title">보안 정보</string>
     <string name="settings_safetylegal_activity_unreachable">"네트워크 연결 실패, 이 정보를 바로 확인하려면
-컴퓨터로 인터넷 연결 후 %s을 방문하세요."</string>
+PC로 인터넷 연결 후 %s을 방문하세요."</string>
     <string name="settings_safetylegal_activity_loading">잠시만 기다려주세요…</string>
     <string name="ime_privacy_policy">키보드 선택</string>
     <string name="ad_service">광고 서비스</string>

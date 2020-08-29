@@ -450,7 +450,7 @@
     <string name="media_checking">현재 USB 저장소를 확인하는 중입니다.</string>
     <string name="media_removed">SD 카드가 제거되었습니다.</string>
     <string name="media_route_chooser_grouping_done">완료</string>
-    <string name="media_shared">현재 USB 저장소를 컴퓨터에서 사용하고 있습니다.</string>
+    <string name="media_shared">현재 USB 저장소를 PC에서 사용하고 있습니다.</string>
     <string name="media_unknown_state">외부 미디어가 알 수 없는 상태입니다.</string>
     <string name="megabyteShort">MB</string>
     <string name="meid">MEID</string>
@@ -1169,12 +1169,12 @@
     <string name="usb_storage_activity_title">USB 대용량 저장소</string>
     <string name="usb_storage_button_mount">USB 저장소 사용</string>
     <string name="usb_storage_error_message">USB 대용량 저장소로 USB 저장소를 사용하는 동안 문제가 발생했습니다.</string>
-    <string name="usb_storage_message">USB를 통해 컴퓨터에 연결했습니다. 컴퓨터와 Android의 USB 저장소 간에 파일을 복사하려면 아래의 버튼을 터치하세요.</string>
-    <string name="usb_storage_notification_message">컴퓨터에 파일을 복사하거나 컴퓨터의 파일을 복사하려면 터치하세요.</string>
+    <string name="usb_storage_message">USB를 통해 PC에 연결했습니다. PC와 Android의 USB 저장소 간에 파일을 복사하려면 아래의 버튼을 터치하세요.</string>
+    <string name="usb_storage_notification_message">PC에 파일을 복사하거나 PC의 파일을 복사하려면 터치하세요.</string>
     <string name="usb_storage_notification_title">USB 연결됨</string>
     <string name="usb_storage_stop_button_mount">USB 저장소 사용 안 함</string>
     <string name="usb_storage_stop_error_message">USB 저장소를 사용하지 않도록 설정하는 동안 문제가 발생했습니다. USB 호스트를 마운트 해제했는지 확인한 다음 다시 시도하세요.</string>
-    <string name="usb_storage_stop_message">USB 저장소를 사용하지 않도록 설정하기 전에 컴퓨터에서 Android의 USB 저장소를 마운트 해제(꺼내기)하세요.</string>
+    <string name="usb_storage_stop_message">USB 저장소를 사용하지 않도록 설정하기 전에 PC에서 Android의 USB 저장소를 마운트 해제(꺼내기)하세요.</string>
     <string name="usb_storage_stop_notification_message">USB 저장소를 사용 중지하려면 터치하세요.</string>
     <string name="usb_storage_stop_notification_title">USB 저장소 사용 안 함</string>
     <string name="usb_storage_stop_title">USB 저장소 사용 중</string>

@@ -248,7 +248,7 @@
     <string name="btn_sure">확인</string>
     <string name="confirm_cancel_task">%1$s 파일을 %2$s 님에게 보내겠습니까?</string>
     <string name="default_device_name">알 수 없는 장치</string>
-    <string name="device_type_pc">컴퓨터</string>
+    <string name="device_type_pc">PC</string>
     <string name="enable_midrop">열기</string>
     <string name="file">파일</string>
     <string name="file_cannot_print">이 콘텐츠는 인쇄를 지원하지 않습니다.</string>

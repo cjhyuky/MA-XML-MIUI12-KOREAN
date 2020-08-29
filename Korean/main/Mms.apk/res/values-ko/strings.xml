@@ -863,7 +863,7 @@
     <string name="rcs_not_online">"차이나 모바일 메시징 사용 불가. 네트워크 설정을 확인 후 다시 시도하세요."</string>
     <string name="rcs_offline_hint">"차이나 모바일 메시징이 오프라인 상태입니다. 이 메시지 전달할 수 없습니다."</string>
     <string name="rcs_recipient_type_contact">연락처의 사람에게 전달</string>
-    <string name="rcs_recipient_type_pc">컴퓨터로 전달</string>
+    <string name="rcs_recipient_type_pc">PC로 전달</string>
     <string name="rcs_resend_not_online">"차이나 모바일 메시징 사용불가"</string>
     <string name="rcs_resend_sim_card_not_insert">"SIM 카드가 설치되지 않은 것으로 보입니다."</string>
     <string name="rcs_send_rms_remind_change">설정</string>
@@ -873,7 +873,7 @@
     <string name="rcs_silence_message">무음 메시지 알림</string>
     <string name="rcs_summary_auto_resend_mms">"원본 메시지를 보낼 수 없으면 차이나 모바일 멀티미디어 메시지를 MMS로 변환하세요. 이동통신사에서 이 메시지에 대해 요금을 청구합니다."</string>
     <string name="rcs_summary_auto_resend_sms">"원본 메시지를 보낼 수 없는 경우 차이나 모바일 문자 메시지를 SMS로 변환하세요. 이동통신사에서 이 메시지에 대해 요금을 청구합니다."</string>
-    <string name="rcs_summary_silence_message">데스크탑에서 접속중일때는 무음으로 알립니다.</string>
+    <string name="rcs_summary_silence_message">데스크톱에서 접속중일때는 무음으로 알립니다.</string>
     <string name="rcs_wait_for_retry_text">기다리는 중…</string>
     <string name="recommend_bar_cancel">무시하기</string>
     <string name="recommend_bar_message_mx">Mi 메시지를 사용하면 요금을 지불하지 않고도 다른 MIUI 장치로 메시지를 보낼 수 있습니다.</string>
@@ -969,7 +969,7 @@
     <string name="rcs_auto_resend_as_sms_remind_change">설정 변경</string>
     <string name="rcs_auto_resend_as_sms_remind_desp">"네트워크 신호가 약할 때 최대 900B의 메시지를 변환하여 SMS로 보낼 수 있습니다. 메시지를 SMS로 변환하지 않으려면 \"설정 변경\"을 누르세요."</string>
     <string name="rcs_auto_resend_as_sms_remind_title">SMS로 변환</string>
-    <string name="rcs_hello_from_pc">컴퓨터에서 Fetion에 로그인하여 파일을 전송하세요.</string>
+    <string name="rcs_hello_from_pc">PC에서 Fetion에 로그인하여 파일을 전송하세요.</string>
     <string name="rcs_offline">UC에 로그인하지 않았습니다. 잠시 후 다시 시도하세요.</string>
     <string name="dialog_sim_locked_confirm">확인</string>
     <string name="dialog_sim_locked_message">"SIM 카드가 구독 약관을 준수하지 않아 이 휴대전화에서 완벽하게 작동하지 않습니다. 이 문제에 대해 궁금한 점이 있거나 자세한 정보가 필요하면 Xiaomi 서비스 센터 또는 제품을 판매한 상점에 문의하세요."</string>

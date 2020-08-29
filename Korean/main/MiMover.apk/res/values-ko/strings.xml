@@ -72,7 +72,7 @@
     <string name="close_twice_auth_note">"참고 : 새 보안 질문을 생성하고 생년월일을 확인하면 Apple ID 이중 인증이 꺼집니다. 이중 인증을 끄는 옵션이 표시되지 않는 경우 Apple ID 계정 페이지에서 인증을 해제할 수 없습니다."</string>
     <string name="close_twice_auth_operation">"URL : 사용 중지하려면 https://appleid.apple.com/#!&amp;page=signin을 방문하세요."</string>
     <string name="close_twice_auth_steps">Apple ID에 대한 이중 인증을 끄려면 다음 단계를 따르십시오.</string>
-    <string name="close_twice_auth_step_1">1. 컴퓨터에서 웹 브라우저를 열고 appleid.apple.com으로 이동합니다.</string>
+    <string name="close_twice_auth_step_1">1. PC에서 웹 브라우저를 열고 appleid.apple.com으로 이동합니다.</string>
     <string name="close_twice_auth_step_2">2. 이중 인증을 비활성화하려는 Apple ID에 로그인하고 계정 설정의 \"보안\"섹션으로 이동하여 \"편집\"을 선택합니다.</string>
     <string name="close_twice_auth_step_3">3. \"Apple ID 이중 인증 끄기\"를 클릭하세요. 확인하려면 다시 클릭하세요.</string>
     <string name="close_twice_auth_tutor">Apple ID 이중 인증 끄기</string>

@@ -322,7 +322,7 @@
     <string name="express_send_mms_format">%1$s로 발송함 | 운송장 번호: %2$s</string>
     <string name="express_copied">배송 추적 번호 복사됨</string>
     <string name="more_express_numbers">더 많은 택배 번호</string>
-    <string name="add_to_desktop">데스크탑에 추가</string>
+    <string name="add_to_desktop">데스크톱에 추가</string>
     <string name="express_shortcut_name">택배 발송 확인</string>
     <string name="remind_user_suspect_number_title">의심스러운 번호</string>
     <string name="remind_user_suspect_number_message">주의: 항상 전화한 사람의 신원을 확인한 후 개인정보를 공유하세요.</string>

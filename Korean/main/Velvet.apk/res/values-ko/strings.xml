@@ -964,7 +964,7 @@ Now on Tap을 사용 설정하세요."</string>
     <string name="survey_intro_not_now">나중에</string>
     <string name="survey_intro_continue">계속</string>
     <string name="survey_end_thanks">의견을 보내주셔서 감사합니다.</string>
-    <string name="phonelink_note_sent_from_computer">컴퓨터에서 전송</string>
+    <string name="phonelink_note_sent_from_computer">PC에서 전송</string>
     <string name="phonelink_new_note">새 메모</string>
     <string name="phonelink_note_save">저장</string>
     <string name="phonelink_note_copy">복사</string>

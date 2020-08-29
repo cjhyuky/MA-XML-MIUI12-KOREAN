@@ -78,8 +78,8 @@
     <string name="accessibility_wifi_signal_full">Wi-Fi 신호 강함</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi 신호 양호함</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi 신호 약함</string>
-    <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 기기간에 데이터를 복사하고, 알림 없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_keys_warning_message">이전에 승인한 모든 PC에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 PC와 기기간에 데이터를 복사하고, 알림 없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="allow_mock_location">위치 서비스 사용 허용</string>
     <string name="allow_mock_location_summary">위치 서비스 사용 허용</string>
@@ -247,9 +247,9 @@
     <string name="keep_screen_on_summary">충전 중 화면을 끄지 않습니다.</string>
     <string name="launch_defaults_none">기본 설정값 없음</string>
     <string name="launch_defaults_some">기본 설정값 있음</string>
-    <string name="local_backup_password_summary_change">데스크탑 풀 백업 비밀번호를 변경 또는 삭제하려면 탭하세요.</string>
-    <string name="local_backup_password_summary_none">데스크탑 풀 백업이 현재 비밀번호가 없습니다.</string>
-    <string name="local_backup_password_title">데스크탑 백업 비밀번호</string>
+    <string name="local_backup_password_summary_change">데스크톱 풀 백업 비밀번호를 변경 또는 삭제하려면 탭하세요.</string>
+    <string name="local_backup_password_summary_none">데스크톱 풀 백업이 현재 비밀번호가 없습니다.</string>
+    <string name="local_backup_password_title">데스크톱 백업 비밀번호</string>
     <string name="local_backup_password_toast_confirmation_mismatch">새로운 비밀번호와 확인용 비밀번호가 맞지 않습니다.</string>
     <string name="local_backup_password_toast_success">새로운 백업 비밀번호가 설정되었습니다.</string>
     <string name="local_backup_password_toast_validation_failure">백업 비밀번호 설정 실패</string>
@@ -588,7 +588,7 @@
     <string name="bluetooth_show_devices_without_names">블루투스 이름없이 표시</string>
     <string name="bluetooth_show_devices_without_names_summary">블루투스 이름없이 MAC 주소로만 표시합니다.</string>
     <string name="bluetooth_talkback_bluetooth">블루투스</string>
-    <string name="bluetooth_talkback_computer">컴퓨터</string>
+    <string name="bluetooth_talkback_computer">PC</string>
     <string name="bluetooth_talkback_headphone">이어폰</string>
     <string name="bluetooth_talkback_headset">헤드셋</string>
     <string name="bluetooth_talkback_imaging">이미징</string>
