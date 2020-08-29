@@ -142,7 +142,7 @@
     <string name="screenshot_failed_to_capture_title">여기서는 스크린샷을 찍을 수 없습니다.</string>
     <string name="screenshot_failed_to_save_title">새 스크린샷을 저장할 공간이 부족합니다.</string>
     <string name="sim_state_locked_dialog_title">유효하지 않은 SIM 카드</string>
-    <string name="sim_state_locked_puk_dialog_message">"PUK 코드를 최소 10번 틀렸습니다. SIM 카드가 이제 유효하지 않습니다. 다른 SIM 카드로 교체하세요."</string>
+    <string name="sim_state_locked_puk_dialog_message">"잘못된 PUK 코드를 %d번 이상 입력했습니다. 현재 SIM 카드가 유효하지 않습니다. 이 SIM 카드를 다른 것으로 교체하십시오."</string>
     <string name="small_window_guide_title">플로팅 창</string>
     <string name="small_window_notification_text">MIUI %d의 이 기능에 대해 자세히 알아 보려면 탭하세요.</string>
     <string name="small_window_notification_title">플로팅 창</string>

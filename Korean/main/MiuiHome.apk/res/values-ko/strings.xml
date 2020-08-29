@@ -605,4 +605,7 @@
     <string name="navigation_type_title_synonyms_3">전체 화면 제스처</string>
     <string name="navigation_type_title_synonyms_4">탐색 키</string>
     <string name="open_personal_assistant_title_synonyms">피드</string>
+    <string name="alexa_notification_add">추가</string>
+    <string name="alexa_notification_cancel">지금하지 않기</string>
+    <string name="alexa_notification_content">알렉사 바로가기를 제어 센터에 추가할까요?</string>
 </resources>

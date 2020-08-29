@@ -1497,7 +1497,7 @@
     <string name="bt_absVolume_open_dialog_summary">일부 블루투스 기기에서 호환성 문제로 볼륨 크기가 이상할 경우, 이 기능을 꺼서 해결하세요.</string>
     <string name="bt_absVolume_open_dialog_title">주의</string>
     <string name="bt_absVolume_pre_title">절대 볼륨</string>
-    <string name="bt_absVolume_summary">블루투스 기기와 휴대전화의 볼륨의 일관성을 절대적으로 유지합니다.</string>
+    <string name="bt_absVolume_summary">"블루투스 장치와 전화기의 볼륨을 엄격하게 일관되게 유지하십시오. 미디어가 백그라운드에서 재생되지 않을 때 이 기능을 켜고 끌 수 있습니다."</string>
     <string name="bt_dialog_remember_choice">선택 기억하기</string>
     <string name="bt_dialog_settings">설정</string>
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그</string>

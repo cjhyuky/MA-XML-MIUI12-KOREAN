@@ -28,6 +28,8 @@
     <string name="failed_to_enable_bt">블루투스 활성화 불가</string>
     <string name="nfcUserLabel">NFC</string>
     <string name="nfc_enabled_dialog">"NFC가 비활성화 되었습니다. NFC 서비스 사용을 위해 지금 활성화하시겠습니까?"</string>
+    <string name="nfc_blocking_alert_message">고치는 방법을 보시려면 탭하세요.</string>
+    <string name="nfc_blocking_alert_title">NFC기능이 막혀있을 수 있습니다</string>
     <string name="no">아니오</string>
     <string name="ok">네</string>
     <string name="pair_no">아니오</string>

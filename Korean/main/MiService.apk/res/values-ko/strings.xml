@@ -113,6 +113,7 @@
     <string name="miui_main_next_page">다음</string>
     <string name="miui_main_pre_page">뒤로</string>
     <string name="miui_main_shortcut_label_submit_feedback">의견 제출</string>
+    <string name="miui_main_update_back_to_home">홈 화면 준비중…</string>
     <string name="miui_main_update_continue">다음</string>
     <string name="miui_main_update_learn_more">자세히 알아보기</string>
     <string name="miui_main_update_start">지금 업데이트</string>

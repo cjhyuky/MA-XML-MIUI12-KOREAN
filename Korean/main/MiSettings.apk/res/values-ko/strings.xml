@@ -302,6 +302,7 @@
     <string name="usage_device_limit_app_prolong_time2">40분 추가</string>
     <string name="usage_device_limit_app_prolong_time3">60분 추가</string>
     <string name="usage_device_limit_app_prolong_time4">"오늘 제한 안 함"</string>
+    <string name="usage_device_limit_app_prolong_time5">"즉시 시간 추가"</string>
     <string name="usage_device_limit_notifation_summary_start">"%1$s의 한도에 도달했습니다."</string>
     <string name="usage_device_limit_notifation_title">오늘 남은 시간</string>
     <string name="usage_device_limit_time_over">"오늘 한도에 도달했습니다 (%1$s)"</string>
