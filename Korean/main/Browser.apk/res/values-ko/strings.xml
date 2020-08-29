@@ -29,9 +29,9 @@
     <string name="action_menu_bookshelf">책장</string>
     <string name="action_menu_current_version">현재 버전</string>
     <string name="action_menu_download">다운로드</string>
-    <string name="action_menu_request_desktop_site">데스크탑 모드</string>
-    <string name="action_menu_request_desktop_site_off">데스크탑 모드 꺼짐</string>
-    <string name="action_menu_request_desktop_site_on">데스크탑 모드 켜짐</string>
+    <string name="action_menu_request_desktop_site">데스크톱 모드</string>
+    <string name="action_menu_request_desktop_site_off">데스크톱 모드 꺼짐</string>
+    <string name="action_menu_request_desktop_site_on">데스크톱 모드 켜짐</string>
     <string name="action_menu_text_add_bookmark">북마크 추가</string>
     <string name="action_menu_text_bandwidth">데이터 절약</string>
     <string name="action_menu_text_bandwidth_off">데이터 절약</string>
@@ -249,7 +249,7 @@
     <string name="copy_url">URL 복사</string>
     <string name="create_qr_code">QR 코드</string>
     <string name="current_version_pad">패드</string>
-    <string name="current_version_pc">데스크탑</string>
+    <string name="current_version_pc">데스크톱</string>
     <string name="current_version_phone">휴대전화</string>
     <string name="custom_head_card_text">어떤 멋진일이 생길거라고\n항상 믿고 있습니다.</string>
     <string name="custom_head_content_pull_down_text">아래로 당기세요.</string>
@@ -370,7 +370,7 @@
     <string name="error_title">동기화 할수 없음</string>
     <string name="error_unauthorized">과도한 로그인 시도로 인하여 Mi 계정의 동기화가 해제되었습니다.</string>
     <string name="exit">종료</string>
-    <string name="exit_browser_confirmation">데스크탑으로 돌아가려면 다시 누르세요.</string>
+    <string name="exit_browser_confirmation">데스크톱으로 돌아가려면 다시 누르세요.</string>
     <string name="exit_browser_warning">브라우저를 지금 종료하시겠습니까?</string>
     <string name="exit_fullscreen">전체 화면 끄기</string>
     <string name="expand_button_title">고급</string>

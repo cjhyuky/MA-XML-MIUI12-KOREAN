@@ -1216,7 +1216,7 @@
     <string name="no_search_results">서버에서 계속 검색</string>
     <string name="pull_load_more">위로 당겨 더 불러오기</string>
     <string name="remote_search_body_too_large_prompt">"이 이메일은 너무 깁니다.
-완전히 동기화되거나 컴퓨터에서 메시지를 볼 때까지 기다리세요."</string>
+완전히 동기화되거나 PC에서 메시지를 볼 때까지 기다리세요."</string>
     <string name="search_remote_again">"네트워크에 연결할 수 없습니다. 다시 시도하려면 누르세요."</string>
     <string name="sync_failed_mi_authority_view_detail">자세히 보기</string>
     <string name="recommend_protocal">프로토콜 사용을 추천</string>

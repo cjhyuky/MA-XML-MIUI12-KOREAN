@@ -318,7 +318,7 @@
     <string name="adb_authorization_timeout_title">adb 인증 제한 시간 사용 안 함</string>
     <string name="adb_device_fingerprint_title_format">기기 지문 : %1$s</string>
     <string name="adb_device_forget">삭제</string>
-    <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스 권한을 취소하시겠습니까?</string>
+    <string name="adb_keys_warning_message">이전에 승인한 모든 PC에서 USB 디버깅에 대한 액세스 권한을 취소하시겠습니까?</string>
     <string name="adb_pair_method_code_summary">6 자리 코드를 사용하여 새 기기 연결</string>
     <string name="adb_pair_method_code_title">연결 코드로 기기 연결</string>
     <string name="adb_pair_method_qrcode_summary">QR 코드 스캐너를 사용하여 새 기기 연결</string>
@@ -329,7 +329,7 @@
     <string name="adb_pairing_device_dialog_pairing_code_label">Wi-Fi 연결 코드</string>
     <string name="adb_pairing_device_dialog_title">기기와 연결</string>
     <string name="adb_qrcode_pairing_device_failed_msg">장치를 연결하지 못했습니다. QR 코드가 잘못되었거나 기기가 동일한 네트워크에 연결되어 있지 않습니다.</string>
-    <string name="adb_warning_message">USB 디버깅은 개발용으로만 설계되었습니다. 이 기능을 사용하면 컴퓨터와 기기 간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하며 로그 데이터를 읽을 수 있습니다.</string>
+    <string name="adb_warning_message">USB 디버깅은 개발용으로만 설계되었습니다. 이 기능을 사용하면 PC와 기기 간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하며 로그 데이터를 읽을 수 있습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용하시겠습니까?</string>
     <string name="adb_wireless_connection_failed_message">%1$s이 올바른 네트워크에 연결되어 있는지 확인</string>
     <string name="adb_wireless_connection_failed_title">연결 실패</string>
@@ -344,7 +344,7 @@
     <string name="adb_wireless_qrcode_summary">QR 코드를 스캔하여 Wi-Fi을 통해 장치 연결</string>
     <string name="adb_wireless_settings">무선 디버깅</string>
     <string name="adb_wireless_verifying_qrcode_text">장치 연결 중…</string>
-    <string name="adbwifi_warning_message">무선 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 기기간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하고 로그 데이터를 읽을 수 있습니다.</string>
+    <string name="adbwifi_warning_message">무선 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 PC와 기기간에 데이터를 복사하고 알림 없이 기기에 앱을 설치하고 로그 데이터를 읽을 수 있습니다.</string>
     <string name="adbwifi_warning_title">무선 디버깅을 허용 하시겠습니까?</string>
     <string name="add">추가</string>
     <string name="add_a_language">언어 추가</string>
@@ -847,7 +847,7 @@
     <string name="backup_delete">삭제:</string>
     <string name="backup_difference_title">로컬 백업은 클라우드 백업과 어떻게 다릅니까?</string>
     <string name="backup_difference_content">"로컬 백업 :
-로컬 백업에는 앱 데이터가 포함될 수 있으며 일반적으로 더 많은 항목이 포함됩니다. 백업 파일은 MIUI-backup-AllBackup에 저장되며 백업 프로세스가 완료되면 컴퓨터에 복사해야 합니다.
+로컬 백업에는 앱 데이터가 포함될 수 있으며 일반적으로 더 많은 항목이 포함됩니다. 백업 파일은 MIUI-backup-AllBackup에 저장되며 백업 프로세스가 완료되면 PC에 복사해야 합니다.
 
 클라우드 백업 :
 백업은 Xiaomi 클라우드에 저장되며 무선으로 액세스할 수 있습니다. 이 방법은 로컬 백업보다 빠르고 쉽습니다. 그러나 앱 데이터를 Xiaomi 클라우드에 백업할 수 없습니다.
@@ -898,7 +898,7 @@
     <string name="backup_summary_state_off">사용 안 함</string>
     <string name="backup_summary_state_on">사용</string>
     <string name="backup_update">업데이트</string>
-    <string name="badge_title">데스크탑 앱 아이콘 배지 표시</string>
+    <string name="badge_title">데스크톱 앱 아이콘 배지 표시</string>
     <string name="band_24G">"(2.4GHz 대역)"</string>
     <string name="band_5G">"(5GHz 대역)"</string>
     <string name="band_mode_failed">실패</string>
@@ -1384,7 +1384,7 @@
     <string name="bluetooth_show_files_received_via_bluetooth">블루투스를 통해 받은 파일</string>
     <string name="bluetooth_show_received_files">받은 파일 보기</string>
     <string name="bluetooth_talkback_bluetooth">블루투스</string>
-    <string name="bluetooth_talkback_computer">컴퓨터</string>
+    <string name="bluetooth_talkback_computer">PC</string>
     <string name="bluetooth_talkback_headphone">헤드폰</string>
     <string name="bluetooth_talkback_headset">헤드셋</string>
     <string name="bluetooth_talkback_imaging">이미징</string>
@@ -1437,7 +1437,7 @@
     <string name="boot_sounds_title">오디오 재생</string>
     <string name="bootloader">Fastboot 모드</string>
     <string name="bootloader_apply_step_1">Fastboot 모드를 켜시겠습니까?</string>
-    <string name="bootloader_apply_step_2">기기가 Fastboot 모드로 컴퓨터와 연결되었을때</string>
+    <string name="bootloader_apply_step_2">기기가 Fastboot 모드로 PC와 연결되었을때</string>
     <string name="bootloader_apply_step_3">기기의 개인정보 데이터(예: 비밀번호, 메시지)가 손상, 유출될 수도 있습니다.</string>
     <string name="bootloader_apply_step_4">심지어 심각한 하드웨어 손상이 발생할 수 있습니다.</string>
     <string name="bootloader_apply_step_5">Fastboot 모드를 켜시기 전에 사용법을 알고계신지 확인하세요.</string>
@@ -1456,8 +1456,8 @@
     <string name="bootloader_device_bind_sim_invalid">SIM 카드가 잘못됨. 교체후 다시 시도하세요.</string>
     <string name="bootloader_locked_answer_1">보안과 개인정보 노출을 방지하기 위해 기기가 락되어있습니다. 만약 Fastboot 모드에 들어가 기기에 플래시해야한다면 언락할 수 있습니다.</string>
     <string name="bootloader_locked_answer_1_warning">주의: 휴대전화를 언락한 후에는 \"기기 찾기\"를 이용할 수 없습니다.</string>
-    <string name="bootloader_locked_answer_2">1. SIM 카드가 제대로 삽입되었는지 확인하세요.\n2. Mi 계정 생성을 원하시면 \"계정 추가\"버튼을 탭하세요.\n3. XiaoMi Home페이지에서 언락툴을 다운받으세요. 언락할 기기를 컴퓨터에 연결하여 이용해야 합니다. 여기에서 다운로드:</string>
-    <string name="bootloader_locked_answer_2_no_sim">1. 이 기기에 Mi 계정을 연동하려면 아래의 \"계정 추가\" 를 탭하세요. 2. 웹사이트에서 언락툴을 다운로드하세요. 컴퓨터를 사용하여 언락해야 합니다. 언락툴 다운로드 링크 :</string>
+    <string name="bootloader_locked_answer_2">1. SIM 카드가 제대로 삽입되었는지 확인하세요.\n2. Mi 계정 생성을 원하시면 \"계정 추가\"버튼을 탭하세요.\n3. XiaoMi Home페이지에서 언락툴을 다운받으세요. 언락할 기기를 PC에 연결하여 이용해야 합니다. 여기에서 다운로드:</string>
+    <string name="bootloader_locked_answer_2_no_sim">1. 이 기기에 Mi 계정을 연동하려면 아래의 \"계정 추가\" 를 탭하세요. 2. 웹사이트에서 언락툴을 다운로드하세요. PC를 사용하여 언락해야 합니다. 언락툴 다운로드 링크 :</string>
     <string name="bootloader_locked_check_status">계정/기기 추가</string>
     <string name="bootloader_locked_question_1">왜 기기가 락되어야 하나요?</string>
     <string name="bootloader_locked_question_2">위험성을 이해했습니다. 그러나 여전히 내 기기를 언락할 것입니다.</string>
@@ -1473,7 +1473,7 @@
     <string name="bootloader_status_summary">기기 락 확인하기</string>
     <string name="bootloader_status_unlocked">잠금해제됨</string>
     <string name="bootloader_status_unlocked_info">이 기기는 언락되었습니다.</string>
-    <string name="bootloader_summary">컴퓨터 USB를 통해 기기 초기화 허용</string>
+    <string name="bootloader_summary">PC USB를 통해 기기 초기화 허용</string>
     <string name="bootloader_tips">%s
 
 이미 위의 작업을 수행한 경우 Mi 계정을 다시 추가하세요. 그렇지 않으면 기기의 잠금을 해제할 수 없습니다.</string>
@@ -1497,7 +1497,7 @@
     <string name="bt_absVolume_open_dialog_summary">일부 블루투스 기기에서 호환성 문제로 볼륨 크기가 이상할 경우, 이 기능을 꺼서 해결하세요.</string>
     <string name="bt_absVolume_open_dialog_title">주의</string>
     <string name="bt_absVolume_pre_title">절대 볼륨</string>
-    <string name="bt_absVolume_summary">"블루투스 장치와 전화기의 볼륨을 엄격하게 일관되게 유지하십시오. 미디어가 백그라운드에서 재생되지 않을 때 이 기능을 켜고 끌 수 있습니다."</string>
+    <string name="bt_absVolume_summary">블루투스 기기와 휴대전화의 볼륨의 일관성을 절대적으로 유지합니다.</string>
     <string name="bt_dialog_remember_choice">선택 기억하기</string>
     <string name="bt_dialog_settings">설정</string>
     <string name="bt_hci_snoop_log">블루투스 HCI 스눕 로그</string>
@@ -1767,7 +1767,7 @@
     <string name="clear_adb_keys">USB 디버깅 권한 승인 취소</string>
     <string name="clear_all_data">모든 데이터 삭제</string>
     <string name="clear_cache_btn_text">캐시 지우기</string>
-    <string name="clear_data_alert_info">이 장치에 저장된 모든 백업이 영구적으로 삭제됩니다. 계속하기 전에 중요한 항목을 컴퓨터와 Xiaomi 클라우드에 백업하세요.</string>
+    <string name="clear_data_alert_info">이 장치에 저장된 모든 백업이 영구적으로 삭제됩니다. 계속하기 전에 중요한 항목을 PC와 Xiaomi 클라우드에 백업하세요.</string>
     <string name="clear_data_dlg_text">앱의 전체 데이터가 영구적으로 삭제됩니다. 여기에는 모든 파일, 설정, 계정, 데이터베이스 등이 포함됩니다.</string>
     <string name="clear_data_dlg_title">앱 데이터를 삭제하시겠습니까?</string>
     <string name="clear_data_failed">앱 데이터를 지우지 못했습니다.</string>
@@ -1891,8 +1891,8 @@
     <string name="complete_settings">일반 설정</string>
     <string name="compute_backup_info">백업 정보 받는 중…</string>
     <string name="compute_delete_contact_info">정보 가져오는 중…</string>
-    <string name="computer_backup_summary">컴퓨터를 사용하여 항목 백업 및 복원</string>
-    <string name="computer_backup_title">컴퓨터</string>
+    <string name="computer_backup_summary">PC를 사용하여 항목 백업 및 복원</string>
+    <string name="computer_backup_title">PC</string>
     <string name="computing_size">계산 중...</string>
     <string name="condition_airplane_summary">Wi-Fi, 블루투스, 모바일 네트워크가 비활성화되었습니다. 비행기 모드 해제 전까지는 전화를 걸 수 없습니다.</string>
     <string name="condition_airplane_title">비행기 모드 켜짐</string>
@@ -2721,7 +2721,7 @@
     <string name="dock_audio_media_title">독 스피커 재생</string>
     <string name="dock_audio_settings_title">오디오</string>
     <string name="dock_audio_summary_car">연결된 카폰 독 설정</string>
-    <string name="dock_audio_summary_desk">연결된 데스크탑 독 설정</string>
+    <string name="dock_audio_summary_desk">연결된 데스크톱 독 설정</string>
     <string name="dock_audio_summary_none">도킹되지 않은 휴대전화</string>
     <string name="dock_audio_summary_unknown">연결된 독 설정</string>
     <string name="dock_not_found_text">휴대전화를 도킹해야 오디오 독를 설정할 수 있습니다.</string>
@@ -3359,8 +3359,8 @@
     <string name="forbidden_switch_apn_string">선택된 APN 설정이 현재 네트워크 유형과 일치하지 않습니다.</string>
     <string name="force_allow_on_external">앱이 외부 저장소에 쓰기를 항상 허용</string>
     <string name="force_allow_on_external_summary">모든 앱이 외부 저장소에 기록할 수 있게 합니다.</string>
-    <string name="force_desktop_mode">데스크탑 모드 강제 사용</string>
-    <string name="force_desktop_mode_summary">보조 디스플레이에서 실험적 데스크탑 모드 강제 사용</string>
+    <string name="force_desktop_mode">데스크톱 모드 강제 사용</string>
+    <string name="force_desktop_mode_summary">보조 디스플레이에서 실험적 데스크톱 모드 강제 사용</string>
     <string name="force_hw_ui">GPU 렌더링 강제 설정</string>
     <string name="force_hw_ui_summary">2D 드로잉용으로 GPU 강제 사용</string>
     <string name="force_immersive_compatibility_dont_hide">숨기기 취소</string>
@@ -3670,13 +3670,13 @@
     <string name="homepage_all_settings">모든 설정</string>
     <string name="homepage_condition_footer_content_description">접기</string>
     <string name="homepage_personal_settings">추천</string>
-    <string name="how_backup_content">"백업을 로컬 또는 클라우드에 저장할 수 있습니다. 로컬 백업은 모바일 장치, 컴퓨터 또는 USB 드라이브에 저장할 수 있습니다.
+    <string name="how_backup_content">"백업을 로컬 또는 클라우드에 저장할 수 있습니다. 로컬 백업은 모바일 장치, PC 또는 USB 드라이브에 저장할 수 있습니다.
 
 모바일 기기
-시스템 설정, 계정, 앱 데이터 및 기타 항목을 장치에 저장된 별도의 파일 (MIUI-backup-AllBackup)에 저장하세요. 참고 : 공장 초기화를 수행하면 이러한 백업이 영구적으로 삭제됩니다. 백업을 컴퓨터에 복사하세요.
+시스템 설정, 계정, 앱 데이터 및 기타 항목을 장치에 저장된 별도의 파일 (MIUI-backup-AllBackup)에 저장하세요. 참고 : 공장 초기화를 수행하면 이러한 백업이 영구적으로 삭제됩니다. 백업을 PC에 복사하세요.
 
-컴퓨터
-이 장치에 백업을 생성한 다음 MIUI-backup-AllBackup으로 이동하여 USB 케이블을 통해 백업을 컴퓨터에 복사하세요.
+PC
+이 장치에 백업을 생성한 다음 MIUI-backup-AllBackup으로 이동하여 USB 케이블을 통해 백업을 PC에 복사하세요.
 
 USB 드라이브
 시스템 설정, 계정, 앱 데이터 및 기타 항목을 USB 드라이브에 저장하세요.
@@ -3695,8 +3695,8 @@ b) Mi PC Suite를 사용하여 항목을 백업하는 경우 암호화 옵션을
 모바일 기기
 \ "모바일 기기 \"를 탭하여 항목을 복원하는 옵션을 찾은 다음 백업을 선택하여 계속하세요.
 
-컴퓨터
-USB 케이블을 통해 컴퓨터에서 MIUI-backup-AllBackup으로 백업을 복사하고 모바일 장치에서 항목을 복원하세요.
+PC
+USB 케이블을 통해 PC에서 MIUI-backup-AllBackup으로 백업을 복사하고 모바일 장치에서 항목을 복원하세요.
 
 USB 드라이브
 USB 드라이브에서 MIUI-backup-AllBackup으로 백업을 복사하고 USB 드라이브에서 항목을 복원하는 옵션을 선택하여 계속하세요.
@@ -3818,7 +3818,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="input_method_middle_function_no_function_des">"행동 지정하지 않음"</string>
     <string name="input_method_quick_access">빠른 액세스</string>
     <string name="input_method_quick_cloud_mode_title">새로운 클립보드 내용에 대한 알림</string>
-    <string name="input_method_quick_cloud_summary">호환 가능한 컴퓨터에서 항목을 복사하여 장치에 붙여 넣기</string>
+    <string name="input_method_quick_cloud_summary">호환 가능한 PC에서 항목을 복사하여 장치에 붙여 넣기</string>
     <string name="input_method_quick_cloud_tips">알림 유형</string>
     <string name="input_method_quick_cloud_title">클라우드 클립보드</string>
     <string name="input_method_quick_paste_summary">클립보드 아이콘을 눌러 복사한 항목보기</string>
@@ -4169,9 +4169,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="local_auto_backup_off">꺼짐</string>
     <string name="local_auto_backup_on">켜짐</string>
     <string name="local_auto_backup_section_title">자동 백업</string>
-    <string name="local_backup_password_summary_change">데스크탑 전체 백업에 대한 비밀번호를 변경하거나 삭제하려면 터치하세요.</string>
-    <string name="local_backup_password_summary_none">데스크탑 전체 백업에 비밀번호가 설정되어 있지 않음</string>
-    <string name="local_backup_password_title">데스크탑 백업 비밀번호</string>
+    <string name="local_backup_password_summary_change">데스크톱 전체 백업에 대한 비밀번호를 변경하거나 삭제하려면 터치하세요.</string>
+    <string name="local_backup_password_summary_none">데스크톱 전체 백업에 비밀번호가 설정되어 있지 않음</string>
+    <string name="local_backup_password_title">데스크톱 백업 비밀번호</string>
     <string name="local_backup_password_toast_confirmation_mismatch">새 비밀번호와 확인한 비밀번호가 일치하지 않습니다.</string>
     <string name="local_backup_password_toast_success">새로운 백업 비밀번호 세트</string>
     <string name="local_backup_password_toast_validation_failure">백업 비밀번호를 설정하지 못함</string>
@@ -4577,8 +4577,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="manually_add_network">네트워크 추가</string>
     <string name="master_clear_accounts">\n\n현재 로그인한 계정:\n</string>
     <string name="master_clear_all">휴대전화의 내부 저장소에서 모든 데이터를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
-    <string name="master_clear_apply_step_1">“공장 초기화”는 Mi 휴대전화에 있는 모든 데이터를 지웁니다. 사진, 음악, 메모, 기타 개인 데이터가 포함됩니다. 반드시 중요한 항목을 컴퓨터에 백업하세요.</string>
-    <string name="master_clear_apply_step_2">모든 중요한 항목이 컴퓨터에 백업되어있는지 확인하세요. 초기화하시면 기기에 있는 모든 데이터가 지워질 것입니다. 항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</string>
+    <string name="master_clear_apply_step_1">“공장 초기화”는 Mi 휴대전화에 있는 모든 데이터를 지웁니다. 사진, 음악, 메모, 기타 개인 데이터가 포함됩니다. 반드시 중요한 항목을 PC에 백업하세요.</string>
+    <string name="master_clear_apply_step_2">모든 중요한 항목이 PC에 백업되어있는지 확인하세요. 초기화하시면 기기에 있는 모든 데이터가 지워질 것입니다. 항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="master_clear_button_text">휴대전화 초기화</string>
     <string name="master_clear_confirm_title">초기화하시겠습니까?</string>
@@ -4735,7 +4735,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="minus_one_screen_google">Google</string>
     <string name="minus_one_screen_none">없음</string>
     <string name="mipush_fake_channel_group_name">Mi 푸시</string>
-    <string name="miracast_PC2THOR_streaming_on">컴퓨터가 이 기기에 스트리밍하고 있으므로 미라캐스트를 실행할 수 없습니다.</string>
+    <string name="miracast_PC2THOR_streaming_on">PC가 이 기기에 스트리밍하고 있으므로 미라캐스트를 실행할 수 없습니다.</string>
     <string name="miracast_cancelconnect_dialog">연결 취소</string>
     <string name="miracast_connection_failed_generic">화면 연결 불가능</string>
     <string name="miracast_dialog_title">%1$s</string>
@@ -4993,19 +4993,19 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="msd_install_download_zhushou">Mi 휴대전화 매니저를 다운로드했습니다.</string>
     <string name="msd_install_finish">확인</string>
     <string name="msd_install_next">다음</string>
-    <string name="msd_install_retry">컴퓨터가 아직도 기기를 발견하지 못하면 다음을 시도하세요.</string>
+    <string name="msd_install_retry">PC가 아직도 기기를 발견하지 못하면 다음을 시도하세요.</string>
     <string name="msd_install_retry_connect">USB 케이블에 재연결합니다.</string>
     <string name="msd_install_retry_reinstall">드라이버를 재설치합니다.</string>
     <string name="msd_install_retry_reinstall_mac">\"Android 파일 전송\"을 먼저 설치한 후 소프트웨어를 실행합니다.</string>
     <string name="msd_install_status_done">드라이버 설치됨</string>
     <string name="msd_install_status_undo">드라이버 설치</string>
     <string name="msd_install_succeed">드라이버 설치됨</string>
-    <string name="msd_pc_system_install_finish_summary_vista">Windows Vista 이후 버전에서는 컴퓨터에 연결하면 %1$s 기기의 USB 저장 장치가 표시됩니다.</string>
-    <string name="msd_pc_system_install_finish_summary_xp">드라이브 설치 후 컴퓨터에 연결하면 \n%1$s의 USB 저장 장치가 표시됩니다.</string>
+    <string name="msd_pc_system_install_finish_summary_vista">Windows Vista 이후 버전에서는 PC에 연결하면 %1$s 기기의 USB 저장 장치가 표시됩니다.</string>
+    <string name="msd_pc_system_install_finish_summary_xp">드라이브 설치 후 PC에 연결하면 \n%1$s의 USB 저장 장치가 표시됩니다.</string>
     <string name="msd_pc_system_install_summary_xp">1. 설치하려면 setup.exe을 실행하세요.</string>
     <string name="msg_wlan_signal_found">%s에 연결하시겠습니까?</string>
     <string name="msim_sim_radio_off">끄기</string>
-    <string name="mtp_connection_failed">"연결된 컴퓨터로 파일을 전송할 수 없습니다. 문제 해결을 시도하세요."</string>
+    <string name="mtp_connection_failed">"연결된 PC로 파일을 전송할 수 없습니다. 문제 해결을 시도하세요."</string>
     <string name="mtp_connection_failed_title">USB 연결</string>
     <string name="mtp_connection_not_remind">"다시 보지 않기"</string>
     <string name="mtp_ptp_mode_summary">MTP 또는 PTP 기능 사용 중</string>
@@ -6472,7 +6472,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="reset_network_final_desc_esim">모든 네트워크 설정을 초기화하고 다운로드한 SIM을 삭제하시겠습니까? 이 작업은 실행취소할 수 없습니다.</string>
     <string name="reset_network_title">Wi-Fi, 모바일 네트워크, 블루투스 초기화</string>
     <string name="reset_network_wifi">Wi-Fi</string>
-    <string name="reset_remove_data_hint">위에 나열된 모든 항목이 영구적으로 지워집니다. 계속하기 전에 중요한 모든 항목을 컴퓨터나 Xiaomi 클라우드에 백업하세요.</string>
+    <string name="reset_remove_data_hint">위에 나열된 모든 항목이 영구적으로 지워집니다. 계속하기 전에 중요한 모든 항목을 PC나 Xiaomi 클라우드에 백업하세요.</string>
     <string name="reset_second_space_passwd">보조 공간 비밀번호 초기화</string>
     <string name="reset_second_space_passwd_cancel">취소</string>
     <string name="reset_second_space_passwd_confirm">계속</string>
@@ -7242,7 +7242,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="settings_panel_title">설정 패널</string>
     <string name="settings_safetylegal_activity_loading">불러오는 중...</string>
     <string name="settings_safetylegal_activity_title">안전 정보</string>
-    <string name="settings_safetylegal_activity_unreachable">데이터 서비스에 연결되어 있지 않습니다. 지금 정보를 보려면 인터넷에 연결된 컴퓨터에서 %s(으)로 이동하세요.</string>
+    <string name="settings_safetylegal_activity_unreachable">데이터 서비스에 연결되어 있지 않습니다. 지금 정보를 보려면 인터넷에 연결된 PC에서 %s(으)로 이동하세요.</string>
     <string name="settings_safetylegal_title">안전 정보</string>
     <string name="settings_shortcut">설정 바로가기</string>
     <string name="settings_summary">휴대전화 및 메시지 설정</string>
@@ -7778,7 +7778,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="storage_menu_rename">이름 변경</string>
     <string name="storage_menu_set_up">설정</string>
     <string name="storage_menu_unmount">분리</string>
-    <string name="storage_menu_usb">USB 컴퓨터 연결</string>
+    <string name="storage_menu_usb">USB PC 연결</string>
     <string name="storage_mount_failure">%1$s 저장소를 연결할 수 없습니다.</string>
     <string name="storage_mount_success">%1$s 연결됨</string>
     <string name="storage_movies_tv">영화 &amp; TV 앱</string>
@@ -7798,7 +7798,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="storage_summary">%2$s 중 %1$s 사용됨</string>
     <string name="storage_summary_format">%2$s 중 %1$s 사용</string>
     <string name="storage_summary_with_sdcard">내부 저장소 : %1$s 사용됨 - %2$s 사용 가능</string>
-    <string name="storage_title_usb">USB 컴퓨터 연결</string>
+    <string name="storage_title_usb">USB PC 연결</string>
     <string name="storage_type_external">외부 저장소</string>
     <string name="storage_type_internal">내부 저장소</string>
     <string name="storage_uicc">UICC 저장소</string>
@@ -8793,7 +8793,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="usb_media_format_gesture_explanation">USB 저장소를 지우시려면 잠금 패턴을 해제하여 승인하세요.</string>
     <string name="usb_media_format_summary">USB 저장소의 모든 데이터가 지워집니다.</string>
     <string name="usb_media_format_title">USB 저장소 지우기</string>
-    <string name="usb_midi_summary">컴퓨터에서 MIDI 소프트웨어로 USB를 통해 MIDI 지원 앱을 사용할 수 있습니다.</string>
+    <string name="usb_midi_summary">PC에서 MIDI 소프트웨어로 USB를 통해 MIDI 지원 앱을 사용할 수 있습니다.</string>
     <string name="usb_midi_title">미디</string>
     <string name="usb_mount">USB 저장소 장착</string>
     <string name="usb_msd_driver_installer_summary">Windows 및 OSX용 드라이버 받기</string>
@@ -8804,10 +8804,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="usb_mtp_title">미디어 기기(MTP)</string>
     <string name="usb_pref">USB</string>
     <string name="usb_preference">USB 설정</string>
-    <string name="usb_ptp_summary">카메라 소프트웨어를 사용하여 사진을 전송하고, MTP를 지원하지 않는 컴퓨터의 파일을 전송할 수 있습니다.</string>
+    <string name="usb_ptp_summary">카메라 소프트웨어를 사용하여 사진을 전송하고, MTP를 지원하지 않는 PC의 파일을 전송할 수 있습니다.</string>
     <string name="usb_ptp_title">카메라(PTP)</string>
     <string name="usb_restore_select_data_too_large">백업 파일이 크기 때문에 복원하는데 시간이 오래 걸릴 수 있습니다. 중요한 항목만 복원하는 것이 더 빠릅니다.</string>
-    <string name="usb_sdcard_summary">SD 카드나 컴퓨터에 미디어 파일을 전송할 수 있습니다.</string>
+    <string name="usb_sdcard_summary">SD 카드나 PC에 미디어 파일을 전송할 수 있습니다.</string>
     <string name="usb_sdcard_title">SD 카드 장착</string>
     <string name="usb_summary_MIDI">기기를 MIDI로 사용</string>
     <string name="usb_summary_MIDI_power">MIDI 와 전원 공급</string>

@@ -460,8 +460,8 @@
     <string name="dialog_tip_need_network">인증을 취소하려면 기기를 인터넷에 연결해야 합니다.</string>
     <string name="dialog_title_service_error">서버 오류</string>
     <string name="dialog_undo_negative">"취소하지 않기"</string>
-    <string name="master_clear_apply_step_1">인증 취소는 기기에서 초기화를 수행해야 합니다. 계정, 연락처, 사진 및 앱을 포함하여 모든 파일 및 데이터를 영구적으로 지웁니다. 권한을 취소하기 전에 모든 중요한 항목을 컴퓨터에 백업하세요.</string>
-    <string name="master_clear_apply_step_2">모든 중요한 항목을 컴퓨터에 백업했는지 확인하세요. \"OK\"를 탭하면 기기에서 초기화가 수행되어 계정, 주소록, 사진, 앱 등 모든 파일 및 데이터가 영구적으로 삭제됩니다.</string>
+    <string name="master_clear_apply_step_1">인증 취소는 기기에서 초기화를 수행해야 합니다. 계정, 연락처, 사진 및 앱을 포함하여 모든 파일 및 데이터를 영구적으로 지웁니다. 권한을 취소하기 전에 모든 중요한 항목을 PC에 백업하세요.</string>
+    <string name="master_clear_apply_step_2">모든 중요한 항목을 PC에 백업했는지 확인하세요. \"OK\"를 탭하면 기기에서 초기화가 수행되어 계정, 주소록, 사진, 앱 등 모든 파일 및 데이터가 영구적으로 삭제됩니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="more_settings">더보기</string>
     <string name="undo_activated_dialog_message">"엔터프라이즈 모드를 비활성화하고 장치에 대한 공장 초기화를 하면 관련된 모든 기능을 더 이상 사용할 수 없으며, Xiaomi는 엔터프라이즈 모드(IMEI, 기기 ID, 시스템 버전, 지역 등)로 수집한 데이터를 관리하지 않습니다. 허가를 취소하고 공장 초기화를 진행하시겠습니까?"</string>

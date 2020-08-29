@@ -46,7 +46,7 @@
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">다른 기기가 오프라인 상태입니다. 다시 시작하세요.</string>
     <string name="device_type_oppo_phone">오포</string>
-    <string name="device_type_pc">컴퓨터</string>
+    <string name="device_type_pc">PC</string>
     <string name="device_type_realme_phone">리얼미</string>
     <string name="device_type_vivo_phone">비보</string>
     <string name="device_type_xiaomi_phone">Xiaomi</string>
@@ -84,7 +84,7 @@
     <string name="no_longer_prompt">차단</string>
     <string name="no_longer_receive">이 기기를 차단하시겠습니까? 해당 기기에서 파일을 수신할 수 없게 됩니다.</string>
     <string name="operate_too_fast">너무 빠릅니다! 진행 중인 작업이 완료될 때까지 기다려 주세요.</string>
-    <string name="pc_device_model_name">컴퓨터</string>
+    <string name="pc_device_model_name">PC</string>
     <string name="permission_denied_hint">Mi Share를 사용하기 위해 요구되는 권한들을 부여하세요.</string>
     <string name="purpose">Mi Share에 오신 것을 환영합니다! 앱을 사용하여 기기 간의 파일을 전송할 수 있습니다. 저희는 관련 법률, 규정, 정책에 따라 귀하의 개인정보를 보호합니다.\nMi Share를 사용하시기 전, 귀하는 필수 개인정보 수집 허용과 같은 다음의 권한들을 부여해야 합니다.</string>
     <string name="queue_full">새로 추가하시기 전 진행 중인 전송을 완료하세요.</string>
@@ -116,7 +116,7 @@
     <string name="tips_prompt_enable_midrop">근처의 기기와 파일 공유</string>
     <string name="transfer_intercept_to_remote">전송 실패: %1$s</string>
     <string name="transfer_to_pc_summary">Mi Share를 사용하여 휴대전화에서 Xiaomi 노트북으로 항목을 보내거나 한 랩탑에서 다른 랩탑으로 항목을 보낼 수 있습니다.\n당사 웹 사이트에서 호환 장치 목록을 찾을 수 있습니다. 랩톱이 목록에 있지만 Mi Share가 설치되어 있지 않은 경우 랩톱의 BIOS 및 네트워크 어댑터 드라이버를 업데이트하고 Mi Share를 다운로드하세요.</string>
-    <string name="transfer_to_pc_title">컴퓨터에 파일 전송</string>
+    <string name="transfer_to_pc_title">PC에 파일 전송</string>
     <string name="transfer_to_phone_summary">Mi Share를 사용하면 이미지와 파일을 인근 Xiaomi 휴대전화 및 기타 호환 장치로 보낼 수 있습니다.</string>
     <string name="transfer_to_phone_title">휴대전화에 파일 전송</string>
     <string name="unkonw_device">알 수 없는 기기</string>

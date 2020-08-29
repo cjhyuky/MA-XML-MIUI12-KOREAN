@@ -1603,8 +1603,8 @@
     <string name="accessibility_wifi_signal_full">Wi-Fi 신호 양호함</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi 신호 양호함</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi 신호 약함</string>
-    <string name="adb_keys_warning_message">이전에 승인한 모든 컴퓨터에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 컴퓨터와 장치간에 데이터를 복사하고, 알림 없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_keys_warning_message">이전에 승인한 모든 PC에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 PC와 장치간에 데이터를 복사하고, 알림 없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅 허용 여부</string>
     <string name="all_empty_alert">새 SIP 계정의 세부 정보를 입력하세요.</string>
     <string name="allow_mock_location">모의 위치 허용</string>
@@ -1839,9 +1839,9 @@
     <string name="labelCFVoice">음성</string>
     <string name="launch_defaults_none">기본값 없음</string>
     <string name="launch_defaults_some">일부 기본값 설정</string>
-    <string name="local_backup_password_summary_change">데스크탑 백업에 대한 비밀번호를 변경하거나 제거하려면 누르세요.</string>
-    <string name="local_backup_password_summary_none"> 데스크탑 백업은 보호되지 않습니다.</string>
-    <string name="local_backup_password_title">데스크탑 백업 비밀번호</string>
+    <string name="local_backup_password_summary_change">데스크톱 백업에 대한 비밀번호를 변경하거나 제거하려면 누르세요.</string>
+    <string name="local_backup_password_summary_none"> 데스크톱 백업은 보호되지 않습니다.</string>
+    <string name="local_backup_password_title">데스크톱 백업 비밀번호</string>
     <string name="local_backup_password_toast_confirmation_mismatch">새 비밀번호와 확인 사항이 일치하지 않습니다.</string>
     <string name="local_backup_password_toast_success">새 백업 비밀번호 세트</string>
     <string name="local_backup_password_toast_validation_failure">백업 비밀번호 설정 실패</string>
@@ -2456,7 +2456,7 @@
     <string name="bluetooth_hearing_aid_profile_summary_use_for">보청기로 사용</string> 
     <string name="bluetooth_profile_hearing_aid">보청기</string>
     <string name="bluetooth_talkback_bluetooth">블루투스</string>
-    <string name="bluetooth_talkback_computer">컴퓨터</string>
+    <string name="bluetooth_talkback_computer">PC</string>
     <string name="bluetooth_talkback_headphone">이어폰</string>
     <string name="bluetooth_talkback_headset">헤드셋</string>
     <string name="bluetooth_talkback_imaging">이미징</string>

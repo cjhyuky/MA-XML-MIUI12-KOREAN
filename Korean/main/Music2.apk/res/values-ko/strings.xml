@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="no_account_selected_summary">계정을 선택하려면 터치하세요.</string>
-    <string name="no_music_usb_copy_body">컴퓨터에서 기기로 음악을 복사하려면 USB 케이블을 사용하세요.</string>
+    <string name="no_music_usb_copy_body">PC에서 기기로 음악을 복사하려면 USB 케이블을 사용하세요.</string>
     <string name="emptyplaylist">선택한 재생목록이 비어 있습니다.</string>
     <string name="new_playlist_title">새 재생목록</string>
     <string name="no_music_heading">음악 라이브러리가 비어 있습니다.</string>
     <string name="no_music_setup_uploader_body">Google Play 뮤직을 사용하여 개인 음악 컬렉션을 스트리밍할 수 있습니다.</string>
-    <string name="no_music_setup_usb_body">컴퓨터에서 기기로 음악을 복사하려면 USB 케이블을 사용하세요.</string>
+    <string name="no_music_setup_usb_body">PC에서 기기로 음악을 복사하려면 USB 케이블을 사용하세요.</string>
     <string name="stream_error_no_connection">인터넷에 연결되지 않아 이 곡을 재생할 수 없습니다.</string>
     <string name="stream_error_only_on_wifi">Wi-Fi 네트워크에 연결되지 않아 이 곡을 재생할 수 없습니다.</string>
     <string name="manage_nautilus_basic_tier_trial_eligible_title">평가판 시작</string>
@@ -907,7 +907,7 @@
     <string name="tutorial_sign_in">계정을 Google Play 뮤직에 연결하면 뮤직 라이브러리와 스토어에서 구매한 음악을 재생할 수 있습니다.</string>
     <string name="tutorial_skip_select_account">건너뛰기</string>
     <string name="tutorial_subscription_summary_1">온라인에 연결되어 있지 않을 때에도 음악, 앨범, 재생목록을 다운로드하세요.</string>
-    <string name="tutorial_subscription_summary_2">컴퓨터에서 최대 50,000곡을 추가하고 어디서든지 무료로 스트리밍하세요.</string>
+    <string name="tutorial_subscription_summary_2">PC에서 최대 50,000곡을 추가하고 어디서든지 무료로 스트리밍하세요.</string>
     <string name="tutorial_subscription_title_1">오프라인에서 재생하기</string>
     <string name="tutorial_subscription_title_2">언제 어디서나 음악 감상</string>
     <string name="tutorial_terms_of_service">가입하면 &lt;a href=%1$s>Play 서비스 약관&lt;/a>에 동의하는 것입니다.</string>
@@ -926,7 +926,7 @@
     <string name="tutorial_welcome_heading">Google Play 뮤직에 오신 것을 환영합니다.</string>
     <string name="tutorial_woodstock_info_summary_1">하고 있는 활동, 내 기분 또는 듣고 싶은 음악에 따라 선별된 무료 라디오입니다.</string>
     <string name="tutorial_woodstock_info_summary_2">바로 라디오 채널을 시작하려면 노래, 아티스트, 장르 등을 검색하세요.</string>
-    <string name="tutorial_woodstock_info_summary_3">컴퓨터에서 최대 50,000곡을 추가하고 어디서든지 무료로 스트리밍하세요.</string>
+    <string name="tutorial_woodstock_info_summary_3">PC에서 최대 50,000곡을 추가하고 어디서든지 무료로 스트리밍하세요.</string>
     <string name="tutorial_woodstock_info_title_1">OK Google, 음악 재생</string>
     <string name="tutorial_woodstock_info_title_2">사용자의 요청에 따라</string>
     <string name="tutorial_woodstock_info_title_3">언제 어디서나 음악 감상</string>

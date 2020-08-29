@@ -505,7 +505,7 @@
     <string name="trans_detail_wechat_qq_page_title">WeChat, QQ, 앱 데이터 선택</string>
     <string name="trans_pausing">일시 중지중…</string>
     <string name="trans_select_data_too_large">"전송할 아이템을 너무 많이 선택했습니다. 전송 속도를 높이려면 중요한 항목만 선택하세요."</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite가 컴퓨터에 백업을 만들 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite가 PC에 백업을 만들 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
     <string name="alert_message_restore_from_miasist"> Mi PC Suite가 휴대전화의 항목 복원 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
     <string name="alert_miasist_occupy_backup">Mi PC Suite를 사용하여 항목 백업중... 백업이 완료 될 때까지 기다렸다가 다시 시도하세요.</string>
     <string name="alert_miasist_occupy_restore">Mi PC Suite를 사용하여 항목 복원중... 항목이 복원 될 때까지 기다렸다가 다시 시도하세요.</string>
@@ -647,8 +647,8 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="dialog_app_upgrade_exit">나가기</string>
     <string name="dialog_app_upgrade_message">새로운 버전의 Mi Mover가 있습니다. Mi Mover를 바로 업데이트하시겠습니까?</string>
     <string name="local_back_up_detail_description">"참고 :
-1. 데이터 손실을 방지하려면 로컬 백업을 컴퓨터에 복사하세요.
-2. 공장 초기화를 수행하기 전에 항상 로컬 백업을 컴퓨터에 복사하세요. 그렇지 않으면 로컬 백업이 손실됩니다.
+1. 데이터 손실을 방지하려면 로컬 백업을 PC에 복사하세요.
+2. 공장 초기화를 수행하기 전에 항상 로컬 백업을 PC에 복사하세요. 그렇지 않으면 로컬 백업이 손실됩니다.
 3. 로컬 백업은 어디에 저장됩니까? %1$s"</string>
     <string name="local_backup_select_activity">백업 만들기</string>
     <string name="local_button_backup_data">백업</string>
@@ -712,7 +712,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_local_button_restore">복원</string>
     <string name="new_local_click_to_jump">자세한 안내를 보려면 누르세요.</string>
     <string name="new_local_detail_description">"안내:
-%1$d. 데이터 손실을 피하기 위해 백업을 컴퓨터에 복사하세요. . %2$s.
+%1$d. 데이터 손실을 피하기 위해 백업을 PC에 복사하세요. . %2$s.
 %3$d. 백업은 MIUI-Backup-AllBackup에 저장됩니다."</string>
     <string name="new_local_tab_backup">모바일 기기로 백업</string>
     <string name="new_local_tab_restore">모바일 기기에서 복원</string>
@@ -721,13 +721,13 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_pc_backup_content1">%1$d. 열기 \"%2$s\".</string>
     <string name="new_pc_backup_content2">%d. 모든 항목이 백업 될 때까지 기다리세요.</string>
     <string name="new_pc_backup_content3">%d. MIUI-Backup-AllBackup에서 백업 찾기.</string>
-    <string name="new_pc_backup_content4">%d. 파일을 컴퓨터에 복사.</string>
+    <string name="new_pc_backup_content4">%d. 파일을 PC에 복사.</string>
     <string name="new_pc_backup_restore_link">모바일 기기</string>
     <string name="new_pc_backup_summary1">항목을 선택하고 \"백업\"을 터치하세요.</string>
-    <string name="new_pc_backup_summary2">USB 케이블을 통해 모바일 장치를 컴퓨터에 연결.</string>
+    <string name="new_pc_backup_summary2">USB 케이블을 통해 모바일 장치를 PC에 연결.</string>
     <string name="new_pc_backup_summary4">안내 : MIUI-DCIM에서 사진 및 동영상을 복사할 수 있습니다.</string>
-    <string name="new_pc_restore_content1">%d. USB 케이블을 통해 모바일 장치를 컴퓨터에 연결.</string>
-    <string name="new_pc_restore_content2">%d. 컴퓨터에서 MIUI-Backup-AllBackup으로 백업 복사.</string>
+    <string name="new_pc_restore_content1">%d. USB 케이블을 통해 모바일 장치를 PC에 연결.</string>
+    <string name="new_pc_restore_content2">%d. PC에서 MIUI-Backup-AllBackup으로 백업 복사.</string>
     <string name="new_pc_restore_content3">%1$d. 열기 \"%2$s\" 그리고 복원할 항목을 선택하세요.</string>
     <string name="new_pc_title">백업 복사</string>
     <string name="new_select_file">오디오, 동영상, 파일</string>
@@ -738,8 +738,8 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_select_third">타사 앱과 데이터</string>
     <string name="new_select_third_apk">타사 앱</string>
     <string name="new_select_third_data">타사 앱과 데이터</string>
-    <string name="new_tab_pc_backup">컴퓨터에서 백업</string>
-    <string name="new_tab_pc_restore">컴퓨터에서 복원</string>
+    <string name="new_tab_pc_backup">PC에서 백업</string>
+    <string name="new_tab_pc_restore">PC에서 복원</string>
     <string name="new_task_finished">완료</string>
     <string name="new_usb_detail_description">"안내:
 %1$d. 이 방법을 사용하면 타사 앱 및 앱 데이터를 백업할 수 있습니다.
