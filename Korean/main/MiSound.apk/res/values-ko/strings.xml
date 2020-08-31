@@ -146,7 +146,7 @@
     <string name="switch_audio_dialog_title">오디오 전환</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
-    <string name="ringtone_output_device_summary">액세서리 (유선 헤드셋 또는 Bluetooth 장치)가 연결된 경우 수신 전화 및 알림 소리를 허용합니다.</string>
+    <string name="ringtone_output_device_summary">액세서리(유선 헤드셋 또는 블루투스 장치)가 연결된 경우 수신 전화 및 알림 소리를 허용합니다.</string>
     <string name="ringtone_output_device_title">스피커 소리 허용</string>
     <string name="add_sound">사용자 프리셋 추가</string>
     <string name="apply_sound">적용</string>

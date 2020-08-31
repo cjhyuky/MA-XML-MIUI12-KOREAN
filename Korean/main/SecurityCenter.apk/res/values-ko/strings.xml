@@ -1878,7 +1878,7 @@ SMS 전송"</string>
     <string name="menu_summary_networkassistants_4">데이터 소진됨</string>
     <string name="menu_summary_optimize_manage">메모리 최적화</string>
     <string name="menu_summary_optimize_manage_1">기기를 %d%% 더 빠르게 만드세요.</string>
-    <string name="menu_summary_power_manager">절전 모드는 여러분의 기기 사용가능 시간을 늘려줍니다.</string>
+    <string name="menu_summary_power_manager">절전 모드는 기기 사용가능 시간을 늘려줍니다.</string>
     <string name="menu_summary_power_manager_1">완전 충전됨</string>
     <string name="menu_summary_power_manager_2">%s 남음</string>
     <string name="menu_summary_power_manager_3">충전기 연결</string>

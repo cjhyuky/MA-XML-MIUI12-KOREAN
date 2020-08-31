@@ -7983,7 +7983,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="support_disclaimer_do_not_show">다시 보지 않기</string>
     <string name="support_disclaimer_title">기기 정보 보내기</string>
     <string name="support_escalation_24_7_content_description">사용자를 위해 365일, 24시간 준비되어 있습니다.</string>
-    <string name="support_escalation_24_7_summary">고객지원센터는 언제나 여러분을 기다리고 있습니다.</string>
+    <string name="support_escalation_24_7_summary">고객센터는 언제나 귀하를 기다리고 있습니다.</string>
     <string name="support_escalation_24_7_title">사용자를 위해 365일, 24시간 준비되어 있습니다.</string>
     <string name="support_escalation_by_chat">채팅</string>
     <string name="support_escalation_by_phone">전화</string>
@@ -8420,8 +8420,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="trans_success_dialog_button_market_comment">댓글</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Mi Mover 평가하기</string>
     <string name="trans_success_dialog_button_survey">여론조사</string>
-    <string name="trans_success_dialog_market_comment_and_survey_title">즐길 준비가 되셨습니다! Mi Mover에 대한 여러분의 생각을 알려주세요.</string>
-    <string name="trans_success_dialog_market_comment_title">새로운 기기가 여러분의 집처럼 친숙해졌습니다. Mi Mover에 만족하시나요?</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">즐길 준비가 되셨습니다! Mi Mover에 대한 귀하의 생각을 알려주세요.</string>
+    <string name="trans_success_dialog_market_comment_title">새로운 기기가 귀하의 집처럼 친숙해졌습니다. Mi Mover에 만족하시나요?</string>
     <string name="trans_success_dialog_survey_title">피드백 감사합니다.</string>
     <string name="trans_success_survey_hint">모든 칸을 먼저 채워주세요.</string>
     <string name="trans_switching_5g">5GHz Wi-Fi로 전환 중…</string>
@@ -10091,7 +10091,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zen_mode_bypassing_apps_summary_some">일부 알림</string>
     <string name="zen_mode_bypassing_apps_title">앱 예외</string>
     <string name="zen_mode_calls">호출</string>
-    <string name="zen_mode_calls_footer">방해 금지 모드가 켜져있을 때, 수신전화가 차단됩니다. 여러분의 친구, 가족, 또는 특정인의 전화를 허용하게끔 설정에서 조정하실 수 있습니다.</string>
+    <string name="zen_mode_calls_footer">방해 금지 모드가 켜져있을 때, 수신전화가 차단됩니다. 사용자의 친구, 가족, 또는 특정인의 전화를 허용하도록 설정에서 조정할 수 있습니다.</string>
     <string name="zen_mode_calls_header">중단할 수 있는 통화</string>
     <string name="zen_mode_calls_list">통화</string>
     <string name="zen_mode_calls_summary_one">%1$s님으로 부터</string>
