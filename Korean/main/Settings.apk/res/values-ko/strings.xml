@@ -2209,7 +2209,7 @@
     <string name="data_during_calls_title">통화 중 데이터 사용</string>
     <string name="data_item_desc">데이터</string>
     <string name="data_limit">데이터 한도</string>
-    <string name="data_no_enough_space_message">내부 저장 공간이 부족합니다.</string>
+    <string name="data_no_enough_space_message">내부 저장공간이 부족합니다.</string>
     <string name="data_overusage">^1 완료됨</string>
     <string name="data_preference">데이터 환경 설정</string>
     <string name="data_remaining">^1 남음</string>
@@ -4812,6 +4812,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miui_lab_super_resolution_title">슈퍼 해상도</string>
     <string name="miui_lab_taplus_desc">길게 누르면 바로가기가 실행됩니다.</string>
     <string name="miui_lab_taplus_title">앱 트리거</string>
+    <string name="miui_master_clear_prompt_battery_low">"남은 배터리가 %1$s 미만이라 공장 초기화를 할 수 없습니다. 계속하려면 먼저 기기를 충전하세요."</string>
     <string name="miui_master_clear_summary">휴대전화의 모든 데이터 삭제</string>
     <string name="miui_more_special_feature">새로운 기능</string>
     <string name="miui_optimization_disabled">MIUI 최적화 끄기</string>
@@ -6604,7 +6605,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="saved_wifi_delete">삭제</string>
     <string name="saving_data">iCloud에서 데이터를 가져오는 중... \r Wi-Fi를 끄지 마세요.</string>
     <string name="saving_data_no_time">데이터 저장중…</string>
-    <string name="saving_data_space_low">저장 공간이 부족합니다. 최소 %s 의 저장공간을 마련하세요.\"</string>
+    <string name="saving_data_space_low">저장공간이 부족합니다. 최소 %s 의 저장공간을 마련하세요.\"</string>
     <string name="sc_bad_request">잘못된 요청</string>
     <string name="sc_internal_server_error">내부 서버 오류</string>
     <string name="sc_network_unavailable">인터넷 연결을 확인한 후 다시 시도하세요.</string>
@@ -6798,8 +6799,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sd_not_available">지금 SD 카드 삽입</string>
     <string name="sdcard_changes_instructions">변경사항을 적용하려면 USB 케이블을 다시 연결해야 합니다.</string>
     <string name="sdcard_format">SD 카드 지우기</string>
-    <string name="sdcard_no_enough_space">저장 공간 부족</string>
-    <string name="sdcard_no_enough_space_message">SD 카드에 저장 공간이 부족합니다.</string>
+    <string name="sdcard_no_enough_space">저장공간 부족</string>
+    <string name="sdcard_no_enough_space_message">SD 카드에 저장공간이 부족합니다.</string>
     <string name="sdcard_optimization">SD 카드 최적화</string>
     <string name="sdcard_optimization_cancel">취소</string>
     <string name="sdcard_optimization_close">끄기 &amp; 다시 시작</string>
@@ -7760,8 +7761,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="storage_internal_title">비시스템 저장소</string>
     <string name="storage_internal_unmount_details">&lt;b&gt;^1 저장소를 추출하시면 다시 삽입되기 전까지 저장소에 저장되어 있던 앱들이 작동하지 않습니다.&lt;/b&gt;\"</string>
     <string name="storage_label">저장공간</string>
-    <string name="storage_low_summary">동기화와 같은 일부 시스템 기능이 제대로 작동하지 않을 수 있습니다. 앱이나 미디어 콘텐츠와 같은 항목을 삭제하거나 고정 해제하여 여유 저장 공간을 확보하세요.</string>
-    <string name="storage_low_title">저장 공간이 부족함</string>
+    <string name="storage_low_summary">동기화와 같은 일부 시스템 기능이 제대로 작동하지 않을 수 있습니다. 앱이나 미디어 콘텐츠와 같은 항목을 삭제하거나 고정 해제하여 여유 저장공간을 확보하세요.</string>
+    <string name="storage_low_title">저장공간이 부족함</string>
     <string name="storage_manager_indicator">파일 탐색기 : ^1</string>
     <string name="storage_manager_indicator_off">끔</string>
     <string name="storage_manager_indicator_on">켜짐</string>
@@ -7847,7 +7848,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="storage_wizard_migrate_progress_title">데이터 이동중…</string>
     <string name="storage_wizard_migrate_progress_v2_title">콘텐츠 이동중…</string>
     <string name="storage_wizard_migrate_title">새로운 저장소로 데이터 이동</string>
-    <string name="storage_wizard_migrate_v2_body">파일, 미디어 및 특정 앱을 이 ^1로 이동할 수 있습니다. 이 이동으로 휴대전화의 저장 공간이 ^2 생겼으며 ^3 정도 걸립니다.</string>
+    <string name="storage_wizard_migrate_v2_body">파일, 미디어 및 특정 앱을 이 ^1로 이동할 수 있습니다. 이 이동으로 휴대전화의 저장공간이 ^2 생겼으며 ^3 정도 걸립니다.</string>
     <string name="storage_wizard_migrate_v2_checklist">이동하는 동안:</string>
     <string name="storage_wizard_migrate_v2_checklist_apps">일부 앱은 작동하지 않습니다.</string>
     <string name="storage_wizard_migrate_v2_checklist_battery">충전상태를 유지하세요.</string>
@@ -8343,7 +8344,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="trans_intro_question_2">%d. 타 Android 기기들에서 데이터 전송을 어떻게 하나요?</string>
     <string name="trans_intro_question_3">%d. Mi Mover가 전송 도중 문제가 생겨 연결이 끊기면 어떻게 해야 하나요?</string>
     <string name="trans_intro_question_4">%d. 전송 중에 Wi-Fi를 사용할 수 없는 이유는 무엇인가요?</string>
-    <string name="trans_intro_question_5">%d. Mi Mover가 이전 전화기에 충분한 저장 공간이 없다고 말하는 이유는 무엇인가요?</string>
+    <string name="trans_intro_question_5">%d. Mi Mover가 이전 전화기에 충분한 저장공간이 없다고 말하는 이유는 무엇인가요?</string>
     <string name="trans_intro_question_6">%d. 일부 앱이 성공적으로 전송되지 않는 이유는 무엇인가요?</string>
     <string name="trans_intro_question_7">%d. 일부 앱이 새 장치에서 시작되지 않는 이유는 무엇인가요?</string>
     <string name="trans_intro_question_8">%d. 왜 WeChat의 기록이 완전히 전송되지 않나요?</string>
@@ -8359,9 +8360,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="trans_intro_title_private">숨김처리된 앨범:</string>
     <string name="trans_main_tutor">주소록, 전화 기록, 메시지, 홈 화면 배열, 앱, 설정 등을 새 기기로 이동하세요.</string>
     <string name="trans_my_device">내 기기</string>
-    <string name="trans_native_no_space">이전 장치에 저장 공간이 부족합니다(%s 사용 가능). 저장 공간을 확보하거나 중요한 항목만 전송합니다.</string>
-    <string name="trans_old_phone_low_space_msg">Mi Mover는 전송된 데이터를 패키징하는 데 약간의 저장 공간이 필요하지만 이전 장치에 사용 가능한 공간이 충분하지 않은 것 같습니다. \"보안\"의 여유 공간을 확보하거나 중요한 항목만 전송하세요.</string>
-    <string name="trans_old_phone_low_space_title">저장 공간 부족</string>
+    <string name="trans_native_no_space">이전 장치에 저장공간이 부족합니다(%s 사용 가능). 저장공간을 확보하거나 중요한 항목만 전송합니다.</string>
+    <string name="trans_old_phone_low_space_msg">Mi Mover는 전송된 데이터를 패키징하는 데 약간의 저장공간이 필요하지만 이전 장치에 사용 가능한 공간이 충분하지 않은 것 같습니다. \"보안\"의 여유 공간을 확보하거나 중요한 항목만 전송하세요.</string>
+    <string name="trans_old_phone_low_space_title">저장공간 부족</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">기기를 다시 시작시거나 Mi Mover에 &lt;b&gt;카메라&lt;/b&gt;카메라 권한이 허용되어있는지 확인해보세요.</string>
     <string name="trans_open_camera_failed_title">카메라에 연결할 수 없습니다.</string>
@@ -8629,7 +8630,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="unlock_set_unlock_password_title">비밀번호</string>
     <string name="unlock_set_unlock_pattern_summary">손가락으로 단순한 패턴 그려 기기 잠금해제</string>
     <string name="unlock_set_unlock_pattern_title">패턴</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하려면 %1$d-%2$d 자릿수를 입력하세요.</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하려면 %1$d-%2$d자리 숫자를 입력하세요.</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
     <string name="unlock_setup_wizard_fingerprint_details">화면 잠금을 설정하시면, 지문을 설정&gt; 보안 에서 추가하실 수 있습니다.</string>
@@ -8763,7 +8764,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="usb_adb_input_desc">USB 디버깅으로 입력 시뮬레이션과 권한 부여를 허용</string>
     <string name="usb_audio_disable_routing">USB 오디오 연결 사용 중지</string>
     <string name="usb_audio_disable_routing_summary">USB 오디오 주변기기로 자동 연결 사용 중지</string>
-    <string name="usb_backup_select_data_too_large">\"선택한 파일이 큽니다. USB 드라이브의 저장 공간이 충분한지 확인하세요. 중요한 항목만 전송하세요.</string>
+    <string name="usb_backup_select_data_too_large">\"선택한 파일이 큽니다. USB 드라이브의 저장공간이 충분한지 확인하세요. 중요한 항목만 전송하세요.</string>
     <string name="usb_charging_summary">다른 모든 USB 연결 기능을 꺼서 충전 속도를 높이세요.</string>
     <string name="usb_charging_title">충전 속도 가속</string>
     <string name="usb_connection_category">다음으로 연결</string>
@@ -8892,7 +8893,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_cannot_manage_message">휴대전화의 소유자만 사용자를 관리할 수 있습니다.</string>
     <string name="user_certificate">VPN 및 앱 사용자 인증서</string>
     <string name="user_confirm_remove_message">모든 앱과 데이터가 삭제됩니다.</string>
-    <string name="user_confirm_remove_self_message">이 휴대전화에 있는 내 저장 공간 및 데이터가 삭제됩니다. 이 작업은 실행취소할 수 없습니다.</string>
+    <string name="user_confirm_remove_self_message">이 휴대전화에 있는 내 저장공간 및 데이터가 삭제됩니다. 이 작업은 실행취소할 수 없습니다.</string>
     <string name="user_confirm_remove_self_title">본인을 삭제하시겠습니까?</string>
     <string name="user_confirm_remove_title">사용자를 삭제하시겠습니까?</string>
     <string name="user_credential_none_installed">설치된 사용자 크레덴셜 없음</string>

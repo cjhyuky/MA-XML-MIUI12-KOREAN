@@ -409,4 +409,9 @@
     <string name="save_to_gallery_failure_message">"갤러리에 저장할 수 없습니다."</string>
     <string name="save_to_gallery_icon_name">갤러리에 저장</string>
     <string name="save_to_gallery_success_message">갤러리에 성공적으로 저장되었습니다.</string>
+    <string name="aqi_15_days_desc">15일 공기질지수 예보</string>
+    <string name="aqi_24_hours_desc">24시간 공기질지수 예보</string>
+    <string name="aqi_48_hours_desc">48시간 공기질지수 예보</string>
+    <string name="aqi_5_days_desc">5일 공기질지수 예보</string>
+    <string name="weather_main_minute_hour">2시간 예보</string>
 </resources>

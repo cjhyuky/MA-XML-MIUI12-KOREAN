@@ -60,13 +60,13 @@
     <string name="low_battery_title">배터리 부족</string>
     <string name="low_battery">녹화 전 휴대전화를 충전하세요.</string>
     <string name="battery_not_allowed" formatted="false">배터리가 3% 보다 낮을시 녹화할 수 없습니다. 최소 20% 이상 충전하세요.</string>
-    <string name="low_memory_title">저장 공간 부족</string>
+    <string name="low_memory_title">저장공간 부족</string>
     <string name="low_memory">사용 가능한 저장공간이 200MB 보다 작습니다. 최대 5분 정도 녹화할 수 있습니다.</string>
     <string name="low_memory_dior">사용 가능한 저장공간이 500MB 보다 작습니다. 최대 12분 정도 녹화할 수 있습니다.</string>
     <string name="memory_not_allowed">사용 가능한 저장공간이 없습니다. 녹화를 위해 저장공간을 확보하세요.</string>
     <string name="auto_stop_title">동영상 저장 성공</string>
     <string name="low_battery_warning">배터리가 너무 적습니다. 녹화를 중지하시고 동영상을 저장하세요.</string>
-    <string name="low_momery_warning">저장 공간이 부족합니다. 녹화를 중지하시고 동영상을 저장하세요.</string>
+    <string name="low_momery_warning">저장공간이 부족합니다. 녹화를 중지하시고 동영상을 저장하세요.</string>
     <string name="button_back">뒤로</string>
     <string name="button_clear_storage">저장공간 확보</string>
     <string name="button_goon_recorder">계속하기</string>

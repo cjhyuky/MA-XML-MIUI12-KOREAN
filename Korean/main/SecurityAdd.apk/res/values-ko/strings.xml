@@ -95,4 +95,10 @@
     <string name="tool_box_active_loading">잠시만 기다려주세요...</string>
     <string name="tool_box_active_no_networ">"네트워크에 연결할 수 없습니다."</string>
     <string name="tool_box_active_reload">새로 고침</string>
+    <string name="gb_dialog_game_speed_close">광속 모드를 끄는 중…</string>
+    <string name="gb_dialog_game_speed_exist">광속 모드에서 사용할 게임은 한 가지만 선택할 수 있습니다. \"%s\" 대신 설정할까요?</string>
+    <string name="gb_game_speed_closed">광속 모드 꺼짐</string>
+    <string name="gb_game_speed_closed_fail">"광속 모드를 끌 수 없음"</string>
+    <string name="gb_game_speed_open">광속 모드 켜짐</string>
+    <string name="gb_game_speed_open_fail">"광속 모드를 켤 수 없음"</string>
 </resources>

@@ -56,7 +56,7 @@
     <string name="err_delete_contacts">연락처 삭제 실패</string>
     <string name="err_delete_photos">사진 삭제 실패</string>
     <string name="err_delete_files">파일 삭제 실패</string>
-    <string name="err_volume_not_enough">저장 공간이 충분하지 않습니다.</string>
+    <string name="err_volume_not_enough">저장공간이 충분하지 않습니다.</string>
     <string name="err_unknown">알 수 없는 오류</string>
     <string name="dir_switch_out_all_photos">보조 공간 갤러리</string>
     <string name="creating_app_icon">아이콘 생성 중…</string>

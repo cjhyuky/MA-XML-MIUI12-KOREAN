@@ -49,7 +49,7 @@
     <string name="can_authorize_owner_albums_share_to_tv">TV에서 앨범보기 권한 부여</string>
     <string name="choose_video_compress_quality">해상도 선택</string>
     <string name="cleaner_raw_action">보기</string>
-    <string name="cleaner_raw_description">큰 RAW 이미지를 삭제하여 저장 공간 확보</string>
+    <string name="cleaner_raw_description">큰 RAW 이미지를 삭제하여 저장공간 확보</string>
     <string name="cleaner_raw_title">RAW 파일 지우기</string>
     <string name="cloud_authorize_to_share_to_device">내 계정과 연결된 TV에서 항목보기 권한 부여</string>
     <string name="cloud_authorizing_to_device">인증 중...</string>
@@ -514,15 +514,15 @@
     <string name="backup_close">백업 닫기</string>
     <string name="backup_cloud_space_low_btn_text">용량 추가</string>
     <string name="backup_cloud_space_low_desc">Mi 클라우드 %1$s | %2$s 사용 가능</string>
-    <string name="backup_cloud_space_low_title">Mi 클라우드 저장 공간 부족</string>
+    <string name="backup_cloud_space_low_title">Mi 클라우드 저장공간 부족</string>
     <string name="backup_cta_not_allow_btn_text">허용</string>
     <string name="backup_cta_not_allow_desc">자동으로 백업됩니다.</string>
     <string name="backup_cta_not_allow_title">네트워크에 접근할 수 없습니다.</string>
     <string name="backup_detail_page_empty">백업 대기 중인 사진 또는 동영상 없음</string>
     <string name="backup_detail_page_title">Mi 클라우드 백업</string>
     <string name="backup_device_space_low_btn_text">제거</string>
-    <string name="backup_device_space_low_desc">항목을 백업하려면 저장 공간을 확보하세요.</string>
-    <string name="backup_device_space_low_title">저장 공간 부족</string>
+    <string name="backup_device_space_low_desc">항목을 백업하려면 저장공간을 확보하세요.</string>
+    <string name="backup_device_space_low_title">저장공간 부족</string>
     <string name="backup_dirty_num">총: %s</string>
     <string name="backup_dirty_tip">백업되지 않은 사진과 동영상</string>
     <string name="backup_file_over_size_desc">%1$s보다 큰 사진과 %2$s보다 큰 영상은 백업할 수 없습니다.</string>
@@ -624,7 +624,7 @@
     <string name="cleaner_scan_exit_dialog_positive">중지</string>
     <string name="cleaner_scan_exit_dialog_title">검색 중지</string>
     <string name="cleaner_scan_finish">스캔 완료</string>
-    <string name="cleaner_scan_no_result">더 많은 저장 공간을 지금 확보 할 수 없습니다.</string>
+    <string name="cleaner_scan_no_result">더 많은 저장공간을 지금 확보 할 수 없습니다.</string>
     <string name="cleaner_scan_ok">확인</string>
     <string name="cleaner_scan_title">앨범 스캔중…</string>
     <string name="cleaner_screen_shot_action">보기</string>
@@ -812,7 +812,7 @@
     <string name="error_build_thumbnail_msg">썸네일을 다운로드할 수 없습니다. 원본 파일 다운로드를 시도합니다.</string>
     <string name="error_build_thumbnail_tip">썸네일을 다운로드할 수 없습니다.</string>
     <string name="error_change_storage_action">저장소 전환</string>
-    <string name="error_change_storage_msg">설정 &gt; 저장소에서 저장 공간을 전환한 뒤 다시 시도하세요.</string>
+    <string name="error_change_storage_msg">설정 &gt; 저장소에서 저장공간을 전환한 뒤 다시 시도하세요.</string>
     <string name="error_cloud_not_active">Mi 클라우드에 사진 없음</string>
     <string name="error_connect_timeout_action">네트워크 선택</string>
     <string name="error_connect_timeout_msg">다른 네트워크에 연결한 뒤 다시 시도하세요.</string>
@@ -820,7 +820,7 @@
     <string name="error_decode_tip">파일 포맷이 지원되지 않거나 손상되었습니다.</string>
     <string name="error_download_tip">다운로드할 수 없음</string>
     <string name="error_external_sdcard_write_action">저장소 전환</string>
-    <string name="error_external_sdcard_write_msg">설정 &gt; 저장소에서 저장 공간을 전환한 뒤 다시 시도하세요.</string>
+    <string name="error_external_sdcard_write_msg">설정 &gt; 저장소에서 저장공간을 전환한 뒤 다시 시도하세요.</string>
     <string name="error_external_sdcard_write_tip">SD 카드에 저장할 수 없습니다.</string>
     <string name="error_forbidden">Mi 계정 문제로 인해 동기화가 중단되었습니다.</string>
     <string name="error_install_connect_fail">플러그인을 불러울 수 없습니다. 인터넷 연결상태를 확인하세요.</string>
@@ -857,7 +857,7 @@
     <string name="error_socket_timeout_msg">다른 네트워크에 연결한 뒤 다시 시도하세요.</string>
     <string name="error_socket_timeout_tip">연결 시간이 초과되었습니다.</string>
     <string name="error_storage_full_action">저장공간 확보</string>
-    <string name="error_storage_full_msg">기기의 저장 공간을 확보한 뒤 다시 시도하세요.</string>
+    <string name="error_storage_full_msg">기기의 저장공간을 확보한 뒤 다시 시도하세요.</string>
     <string name="error_storage_full_tip">저장공간 부족</string>
     <string name="error_sync_off_action">켜기</string>
     <string name="error_sync_off_msg">Mi 클라우드의 동기화를 켜셨는지 확인하세요.</string>
@@ -1574,7 +1574,7 @@
     <string name="send_multiple_files_hint_format">전송(%s)</string>
     <string name="send_public_url">앨범 URL 전송</string>
     <string name="send_secret_file_failed">공유할 수 없음</string>
-    <string name="send_secret_file_space_low">저장 공간 부족</string>
+    <string name="send_secret_file_space_low">저장공간 부족</string>
     <string name="send_too_many_files_error">한 번에 최대 %d개 항목을 전송할 수 있습니다.</string>
     <string name="set_as_baby_lock_wallpaper">잠금 화면으로 설정</string>
     <string name="set_as_slide_wallpaper_description">이 이미지는 미리보기 파일입니다. 원본을 다운로드하시겠습니까?</string>
@@ -1649,7 +1649,7 @@
     <string name="storage_description_sdcard">SD 카드</string>
     <string name="storage_description_usb">USB 저장소</string>
     <string name="storage_description_xspace">듀얼 앱 데이터</string>
-    <string name="storage_no_space">저장 공간 부족</string>
+    <string name="storage_no_space">저장공간 부족</string>
     <string name="story_action_remove">삭제</string>
     <string name="story_action_share">공유</string>
     <string name="story_back_stop_download">다운로드를 중단하려면 다시 탭하세요.</string>
@@ -1971,7 +1971,7 @@
     <string name="macarons_download_network_fail">"플러그인을 다운로드할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="macarons_download_other_fail">"오류로 인해 다운로드할 수 없습니다."</string>
     <string name="macarons_download_sdscard_fail">"다운로드할 수 없습니다. SD 카드를 사용할 수 없습니다."</string>
-    <string name="macarons_download_storage_fail">"다운로드할 수 없습니다. 저장 공간이 부족합니다."</string>
+    <string name="macarons_download_storage_fail">"다운로드할 수 없습니다. 저장공간이 부족합니다."</string>
     <string name="macarons_downloading">플러그인 다운로드 중…</string>
     <string name="problem_feedback">피드백</string>
     <string name="vlog_clip_zoom">두 손가락을 사용하여 미리보기에서 프레임 수를 늘리거나 줄입니다.</string>
@@ -2580,10 +2580,10 @@
     <string name="screen_editor_shell_disallowed_with_crop">"자른 스크린샷에 장치 프레임을 추가할 수 없습니다."</string>
     <string name="screen_editor_shell_net_error">장치 프레임을 다운로드하려면 네트워크에 연결하세요.</string>
     <string name="screen_editor_shell_res_downloading">장치 프레임 다운로드 중…</string>
-    <string name="screen_editor_shell_storage_insufficient">"충분한 저장 공간으로 인해 장치 프레임을 다운로드할 수 없습니다."</string>
+    <string name="screen_editor_shell_storage_insufficient">"충분한 저장공간으로 인해 장치 프레임을 다운로드할 수 없습니다."</string>
     <string name="time_burst_photo_enter">타임 버스트 샷</string>
     <string name="time_burst_preview_title">타임 버스트 샷</string>
-    <string name="cleaner_empty">전체 삭제</string>
+    <string name="cleaner_empty">모두 지우기</string>
     <string name="drop_failed">"저장 실패"</string>
     <string name="drop_format_not_supported">"지원되지 않는 파일 형식입니다."</string>
     <string name="drop_success">저장 완료</string>
@@ -2632,8 +2632,8 @@
     <string name="sky_nocturne">밤</string>
     <string name="sky_sunny">화창함</string>
     <string name="text_tab_mark">목업</string>
-    <string name="time_burst_save_all">Save all photos</string>
-    <string name="time_burst_save_select">선택한 사진 저장</string>
+    <string name="time_burst_save_all">모든 사진 내보내기</string>
+    <string name="time_burst_save_select">선택한 사진 내보내기</string>
     <string name="time_burst_save_video">비디오로 저장</string>
     <string name="trash_size">지워진 항목 (%s개)</string>
     <string name="menu_new_display_open">새 창에서 열기</string>

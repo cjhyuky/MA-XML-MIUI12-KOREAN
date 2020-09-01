@@ -35,7 +35,7 @@
     <string name="miui_failed_already_exists">이 앱은 이미 설치되어 있습니다.</string>
     <string name="miui_failed_invalid_apk">패키지 설치 오류</string>
     <string name="miui_failed_invalid_uri">잘못된 설치 경로</string>
-    <string name="miui_failed_insufficient_storage">저장 공간 부족</string>
+    <string name="miui_failed_insufficient_storage">저장공간 부족</string>
     <string name="miui_failed_update_incompatible">앱 서명이 충돌합니다.</string>
     <string name="miui_failed_older_sdk">SDK 버전이 너무 낮습니다.</string>
     <string name="miui_failed_conflicting_provider">서비스 제공자가 충돌합니다.</string>
@@ -143,8 +143,8 @@
     <string name="dlg_sys_app_replacement_statement">"이 앱은 시스템 앱입니다.
 
 모든 이전 사용자 데이터는 유지됩니다."</string>
-    <string name="out_of_space_dlg_title">저장 공간 부족</string>
-    <string name="out_of_space_dlg_text">%1$s앱을 설치할 수 없습니다. 저장 공간을 확보하고 다시 시도하세요.</string>
+    <string name="out_of_space_dlg_title">저장공간 부족</string>
+    <string name="out_of_space_dlg_text">%1$s앱을 설치할 수 없습니다. 저장공간을 확보하고 다시 시도하세요.</string>
     <string name="dlg_ok">확인</string>
     <string name="app_not_found_dlg_title">앱 발견되지 않음</string>
     <string name="app_not_found_dlg_text">설치된 앱 목록에서 이 앱을 찾을 수 없습니다.</string>

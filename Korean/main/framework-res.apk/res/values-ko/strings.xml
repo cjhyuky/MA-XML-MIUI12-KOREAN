@@ -427,7 +427,7 @@
     <string name="permlab_installPackages">앱 직접 설치</string>
     <string name="permdesc_installPackages">앱이 새로운 또는 업데이트된 Android 패키지를 설치할 수 있도록 허용합니다. 이 경우 악성 앱이 임의의 강력한 권한을 가진 새 앱을 추가할 수 있습니다.</string>
     <string name="permlab_clearAppCache">모든 앱 캐시 데이터 삭제</string>
-    <string name="permdesc_clearAppCache">앱이 다른 애플리케이션의 캐시 디렉토리에서 파일을 삭제하여 휴대전화의 저장 공간을 늘릴 수 있도록 합니다. 이 경우 다른 애플리케이션이 해당 데이터를 다시 검색해야 하기 때문에 시작 속도가 느려질 수 있습니다.</string>
+    <string name="permdesc_clearAppCache">앱이 다른 애플리케이션의 캐시 디렉토리에서 파일을 삭제하여 휴대전화의 저장공간을 늘릴 수 있도록 합니다. 이 경우 다른 애플리케이션이 해당 데이터를 다시 검색해야 하기 때문에 시작 속도가 느려질 수 있습니다.</string>
     <string name="permlab_movePackage">앱 리소스 이동</string>
     <string name="permdesc_movePackage">앱이 앱 리소스를 내부에서 외부 미디어로 또는 그 반대로 이동할 수 있도록 허용합니다.</string>
     <string name="permlab_readLogs">중요한 로그 데이터 읽기</string>
@@ -998,9 +998,9 @@
     <string name="deleteText">삭제</string>
     <string name="inputMethod">입력 방법</string>
     <string name="editTextMenuTitle">텍스트 작업</string>
-    <string name="low_internal_storage_view_title">저장 공간이 부족함</string>
+    <string name="low_internal_storage_view_title">저장공간이 부족함</string>
     <string name="low_internal_storage_view_text">일부 시스템 기능이 작동하지 않을 수 있습니다.</string>
-    <string name="low_internal_storage_view_text_no_boot">시스템의 저장 공간이 부족합니다. 250MB의 여유 공간이 확보한 후 다시 시작하세요.</string>
+    <string name="low_internal_storage_view_text_no_boot">시스템의 저장공간이 부족합니다. 250MB의 여유 공간이 확보한 후 다시 시작하세요.</string>
     <string name="app_running_notification_title">%1$s 앱이 실행 중입니다.</string>
     <string name="app_running_notification_text">자세한 정보를 보거나 앱을 중지하려면 터치하세요.</string>
     <string name="loading">불러오는 중..</string>

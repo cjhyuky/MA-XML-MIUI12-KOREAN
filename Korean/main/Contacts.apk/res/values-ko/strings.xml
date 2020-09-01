@@ -635,7 +635,7 @@
     <string name="export_to_sim1">SIM 카드 1으로 내보내기</string>
     <string name="export_to_sim2">SIM 카드 2로 내보내기</string>
     <string name="sim_card_no_free_space_title">SIM 카드 가득 참</string>
-    <string name="sim_card_no_free_space_message">저장 공간 부족</string>
+    <string name="sim_card_no_free_space_message">저장공간 부족</string>
     <string name="sim_contacts">SIM 카드 연락처</string>
     <string name="export_sim_contact_finish">연락처 내보냄</string>
     <string name="sim_export_loading">SIM 카드 읽는 중…</string>

@@ -336,7 +336,7 @@
     <string name="default_screen_preview_title">기본 화면으로 설정</string>
     <string name="action_add_to_workspace">워크 스페이스에 추가</string>
     <string name="edit_mode_group">그룹</string>
-    <string name="edit_mode_group_error_full">저장 공간 부족</string>
+    <string name="edit_mode_group_error_full">저장공간 부족</string>
     <string name="edit_mode_uninstall">설치 제거</string>
     <string name="memory_clear_nothing_result">삭제할 캐시 없음</string>
     <string name="edit_mode_group_error_in_folder">아이콘을 묶기 전에 폴더를 정리하세요.</string>

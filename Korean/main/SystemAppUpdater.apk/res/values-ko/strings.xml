@@ -39,15 +39,15 @@
     <string name="notif_auto_update_failed">일부 앱이 업데이트되지 않았습니다.</string>
     <string name="notif_summary_auto_update_failed">자동으로 업데이트할 수 없음</string>
     <string name="notif_description_from_market">앱 스토어에서 다운로드</string>
-    <string name="notif_title_stop_by_space_not_enough">저장 공간 부족</string>
+    <string name="notif_title_stop_by_space_not_enough">저장공간 부족</string>
     <string name="notif_message_stop_by_space_not_enough">저장공간 부족</string>
     <string name="expansion_main_download_name">%1$s (패키지 1)</string>
     <string name="expansion_append_download_name">%1$s (패키지 2)</string>
     <string name="expansion_game_download_name">%1$s 패키지</string>
     <string name="connect_fail">네트워크 연결 오류</string>
     <string name="connect_no_fit_fail">호환되는 설치 패키지를 찾을 수 없습니다.</string>
-    <string name="connect_no_enough_space_title">저장 공간 부족</string>
-    <string name="connect_no_enough_space_message">사용 가능한 저장 공간이 부족합니다.</string>
+    <string name="connect_no_enough_space_title">저장공간 부족</string>
+    <string name="connect_no_enough_space_message">사용 가능한 저장공간이 부족합니다.</string>
     <string name="download_start_fail">다운로드 실패</string>
     <string name="download_fail">다운로드할 수 없음</string>
     <string name="install_hash_fail">설치 패키지 다운로드 실패</string>
@@ -56,7 +56,7 @@
     <string name="install_verification_fail">앱 인증 실패</string>
     <string name="install_missing_shared_library">앱에 필요한 구성 요소를 갖추지 않았습니다.</string>
     <string name="install_sdcard_not_available">SD 카드 찾을 수 없음</string>
-    <string name="install_storage_not_enough">사용 가능한 저장 공간이 부족합니다.</string>
+    <string name="install_storage_not_enough">사용 가능한 저장공간이 부족합니다.</string>
     <string name="install_patch_fail">업데이트 실패</string>
     <string name="install_fail">설치 실패</string>
     <string name="system_app_sign_not_match_fail">앱 서명이 일치하지 않습니다.</string>
@@ -124,7 +124,7 @@
     <string name="show_report_data">보고 데이터 표시</string>
     <string name="update_history_cleared">업데이트 기록 지워짐</string>
     <string name="updatable_apps">업데이트 가능</string>
-    <string name="update_fail_hint_low_storage_space">자동 업데이트에 필요한 저장 공간이 부족합니다. 수동으로 업데이트를 시도하세요.</string>
+    <string name="update_fail_hint_low_storage_space">자동 업데이트에 필요한 저장공간이 부족합니다. 수동으로 업데이트를 시도하세요.</string>
     <string name="update_title_miui_app">시스템 앱 (%1$d개)</string>
     <string name="update_title_normal_app">기타 앱 (%1$d개)</string>
     <string name="update_title_normal_app_only">업데이트 (%1$d개)</string>

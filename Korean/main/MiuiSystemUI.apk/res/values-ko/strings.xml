@@ -1589,7 +1589,7 @@
     <string name="screenshot_edit">편집</string>
     <string name="screenshot_failed_title">스크린샷 캡처 실패</string>
     <string name="screenshot_failed_to_capture_text">스크린샷 캡처가 앱이나 관리자에 의해 허용되지 않았습니다.</string>
-    <string name="screenshot_failed_to_save_text">저장 공간이 부족하여 스크린샷을 저장할 수 없습니다.</string>
+    <string name="screenshot_failed_to_save_text">저장공간이 부족하여 스크린샷을 저장할 수 없습니다.</string>
     <string name="screenshot_failed_to_save_unknown_text">스크린샷 저장 중 오류가 발생했습니다.</string>
     <string name="screenshot_feedback_txt">피드백</string>
     <string name="screenshot_insert_failed">스크린샷을 불러올 수 없음. 다시 찍거나 갤러리에서 이미지를 확인하세요.</string>
@@ -2167,4 +2167,10 @@
     <string name="biometric_dialog_wrong_pattern">올바르지 않은 패턴</string>
     <string name="biometric_dialog_wrong_pin">올바르지 않은 PIN</string>
     <string name="keyguard_retry">다시 시도하려면 위로 스와이프하세요.</string>
+    <string name="face_unlock_passwork_and_fingerprint_v11">잠금해제하려면 비밀번호를 입력하거나 지문을 사용하세요.</string>
+    <string name="face_unlock_pattern_and_fingerprint_v11">잠금해제하려면 패턴을 그리거나 지문을 사용하세요.</string>
+    <string name="face_unlock_pin_and_fingerprint_v11">잠금해제하려면 PIN을 입력하거나 지문을 사용하세요.</string>
+    <string name="input_password_hint_text_v11">비밀번호 입력</string>
+    <string name="input_pattern_hint_text_v11">패턴 그리기</string>
+    <string name="input_pin_hint_text_v11">PIN 입력</string>
 </resources>

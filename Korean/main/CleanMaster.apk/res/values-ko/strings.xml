@@ -350,8 +350,8 @@
     <string name="deepclean_list_item_from_sdcard">SD 카드</string>
     <string name="deepclean_size_summary_less">기기의 공간이 부족해지고 있습니다.</string>
     <string name="deepclean_size_summary_not_enough">저장공간 부족</string>
-    <string name="deepclean_size_summary_normal">저장 공간 이용 가능</string>
-    <string name="deepclean_size_summary_more">이용 가능한 저장 공간 충분함</string>
+    <string name="deepclean_size_summary_normal">저장공간 이용 가능</string>
+    <string name="deepclean_size_summary_more">이용 가능한 저장공간 충분함</string>
     <string name="deepclean_cache_summary_empty">모든 것이 괜찮습니다. 지워야 할 데이터가 없습니다.</string>
     <string name="deepclean_app_summary_empty">모든 것이 괜찮습니다. 지워야 할 앱이 없습니다.</string>
     <string name="deepclean_large_summary_empty">모든 것이 괜찮습니다. 지워야 할 파일이 없습니다.</string>
@@ -394,11 +394,11 @@
     <string name="deep_clean_uninstall_completed_tips">설치 제거 성공</string>
     <string name="deep_clean_completed_tips">제거 성공</string>
     <string name="deepclean_normal_item_summary_empty">모든 것이 괜찮습니다. 지워야할 것이 없습니다.</string>
-    <string name="low_memory_clean_dialog_title">저장 공간 부족</string>
+    <string name="low_memory_clean_dialog_title">저장공간 부족</string>
     <string name="low_memory_clean_dialog_msg">먼저 최소 100MB의 파일을 지우세요.</string>
     <string name="low_memory_clean_dialog_ok_button">확인</string>
-    <string name="low_memory_warning_dialog_title">저장 공간 부족</string>
-    <string name="low_memory_warning_dialog_msg">저장 공간을 확보하시고 계속하세요.</string>
+    <string name="low_memory_warning_dialog_title">저장공간 부족</string>
+    <string name="low_memory_warning_dialog_msg">저장공간을 확보하시고 계속하세요.</string>
     <string name="low_memory_warning_dialog_ok_button">지우기</string>
     <string name="low_memory_warning_dialog_cancel_button">취소</string>
     <string name="deep_clean_data_path_clean_title">캐시 지우기</string>
@@ -411,7 +411,7 @@
     <string name="ad_install_success_dialog_lunch">열기</string>
     <string name="deepclean_empty">모든 것이 좋아 보입니다!</string>
     <string name="scanning">스캔 중…</string>
-    <string name="buy_a_new_phone">저장 공간을 더 확보하세요.</string>
+    <string name="buy_a_new_phone">저장공간을 더 확보하세요.</string>
     <string name="file">파일</string>
     <string name="output_videos">영상 내보내기</string>
     <string name="wechat_clean">WeChat 클리너</string>
@@ -467,7 +467,7 @@
     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font>의 WeChat 캐시를 지울 수 있습니다. 더 많은 공간을 확보하세요.</Data>" "</string>
     <string name="resutl_function_qq_clean_summary">" "<Data>QQ의 &lt;font color=#ff0000 >%1$s&lt;/font> 캐시를 청소할 수 있습니다.;</Data>" "</string>
     <string name="app_description_title">클리너 정보</string>
-    <string name="app_description_content">클리너는 기기 안의 쓰레기를 정리하여 여유 저장 공간을 확보하게 해줍니다. 앱을 삭제하시면 이 기능을 사용할 수 없게 된다는 것을 아셔야 합니다.</string>
+    <string name="app_description_content">클리너는 기기 안의 쓰레기를 정리하여 여유 저장공간을 확보하게 해줍니다. 앱을 삭제하시면 이 기능을 사용할 수 없게 된다는 것을 아셔야 합니다.</string>
     <string name="engine_init">초기화 중...</string>
     <string name="search_history">검색 기록</string>
     <string name="sms">문자 메시지</string>
@@ -619,7 +619,7 @@
     <string name="notification_low_memory_cache_summary">남은 저장공간이 1.5GB이하입니다.</string>
     <string name="notification_low_memory_cache_title">캐시 정리</string>
     <string name="notification_low_memory_deepclean_summary">정밀 청소로 기기의 저장공간을 확보할 수 있습니다.</string>
-    <string name="notification_low_memory_deepclean_title">저장 공간이 부족합니다.</string>
+    <string name="notification_low_memory_deepclean_title">저장공간이 부족합니다.</string>
     <string name="dc_activity_title">정밀 청소</string>
     <string name="dc_advise_delete">빈 공간 확보</string>
     <string name="dc_group_title_appclean">앱</string>
@@ -638,7 +638,7 @@
     <string name="dc_item_title_wechat_chat">WeChat 기록 지우기</string>
     <string name="dc_storage_cleaned">%s 사용 가능</string>
     <string name="dc_storage_info">%1$s 사용 가능 | 총 %2$s</string>
-    <string name="guide_dc_dialog_message">"사용 가능한 저장 공간이 2GB 미만입니다. 기기 속도가 느려질 수 있습니다. 저장 공간을 확보하기 위해 철저하게 정리하세요."</string>
+    <string name="guide_dc_dialog_message">"사용 가능한 저장공간이 2GB 미만입니다. 기기 속도가 느려질 수 있습니다. 저장공간을 확보하기 위해 철저하게 정리하세요."</string>
     <string name="guide_dc_dialog_negative">취소</string>
     <string name="guide_dc_dialog_positive">확인</string>
     <string name="guide_dc_dialog_title">저장 용량이 부족합니다.</string>
@@ -676,10 +676,10 @@
     <string name="appcleaner_qq_scanning_cache">QQ 캐시</string>
     <string name="appcleaner_qq_scanning_chat">보낸 파일</string>
     <string name="appcleaner_qq_scanning_trash">휴지통</string>
-    <string name="appcleaner_result_dc_card_title">추가 저장 공간 확보</string>
+    <string name="appcleaner_result_dc_card_title">추가 저장공간 확보</string>
     <string name="appcleaner_wechat_clean_summary">WeChat에서 불필요한 항목 삭제</string>
     <string name="appcleaner_wechat_clean_title">앱 클리너</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">저장 공간을 확보하기 위해 WeChat 캐시의 %s를 지 웁니다.</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">저장공간을 확보하기 위해 WeChat 캐시의 %s를 지 웁니다.</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"캐시를 지우는 것을 잊지 마세요"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">WeChat 캐시를 지우라는 알림</string>
     <string name="appcleaner_wechat_pref_time_every_day">매일</string>
@@ -823,13 +823,13 @@
     <string name="menu_text_optimize_manage_1">속도 향상</string>
     <string name="notification_apk_clean_button_text">지우기</string>
     <string name="notification_garbage_clean_botton_text">지우기</string>
-    <string name="notification_garbage_clean_hint">저장 공간 확보</string>
+    <string name="notification_garbage_clean_hint">저장공간 확보</string>
     <string name="notification_garbage_clean_size">%s 확보</string>
     <string name="notification_installed_clean_size">%1$s 설치 후 %2$s 확보</string>
     <string name="notification_low_storage_button_text">지우기</string>
-    <string name="notification_low_storage_size_1.5_GB">저장 공간이 %.1fGB 미만</string>
+    <string name="notification_low_storage_size_1.5_GB">저장공간이 %.1fGB 미만</string>
     <string name="notification_low_storage_size_1.5_GB_btn">지우기</string>
-    <string name="notification_low_storage_size_1.5_GB_hint">장치 속도를 높이기 위해 저장 공간 확보</string>
+    <string name="notification_low_storage_size_1.5_GB_hint">장치 속도를 높이기 위해 저장공간 확보</string>
     <string name="notification_low_storage_size_1_GB">저장 용량이 %dGB 미만입니다.</string>
     <string name="notification_low_storage_size_1_GB_hint">깊은 청소가 도움이 될 수 있습니다.</string>
     <string name="notification_memory_clean_button_text">부스트</string>

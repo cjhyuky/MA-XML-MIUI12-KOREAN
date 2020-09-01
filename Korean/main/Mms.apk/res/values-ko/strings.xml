@@ -676,7 +676,7 @@
     <string name="sms_card_partner_label">"SMS 카드 파트너: "</string>
     <string name="sms_card_teddy_mobile">테디 모바일</string>
     <string name="sms_content">내용:</string>
-    <string name="sms_full_body">수신 메시지 거부됨. 기기에 충분한 저장 공간이 없습니다.</string>
+    <string name="sms_full_body">수신 메시지 거부됨. 기기에 충분한 저장공간이 없습니다.</string>
     <string name="sms_full_title">문자 메시지 메모리가 가득 찼습니다.</string>
     <string name="sms_rejected_body">문자 메시지 수신이 거부되었습니다.</string>
     <string name="sms_rejected_title">문자 메시지 거부됨</string>

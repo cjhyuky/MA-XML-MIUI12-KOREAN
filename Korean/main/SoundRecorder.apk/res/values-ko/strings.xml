@@ -30,7 +30,7 @@
     <string name="notification_recording_ticker">휴대전화 음소거</string>
     <string name="notification_playback">재생 중…</string>
     <string name="notification_stopped">녹음 중단됨</string>
-    <string name="notification_warning">저장 공간 부족 (%d분 이하)</string>
+    <string name="notification_warning">저장공간 부족 (%d분 이하)</string>
     <string name="record_list">저장소</string>
     <string name="record_list_fm">FM 녹음</string>
     <string name="record_list_call">녹음된 통화</string>
@@ -49,8 +49,8 @@
     <string name="rename_dialog_title">녹음 파일 이름 변경</string>
     <string name="rename_duplicate">동일한 이름의 녹음 파일이 이미 존재합니다.</string>
     <string name="rename_no_more_tip">다시 표시하지 않기</string>
-    <string name="dialog_title_storage_full">저장 공간 부족</string>
-    <string name="dialog_content_storage_full">기기 내부 메모리의 저장 공간이 부족하여 녹음이 중단되었습니다.</string>
+    <string name="dialog_title_storage_full">저장공간 부족</string>
+    <string name="dialog_content_storage_full">기기 내부 메모리의 저장공간이 부족하여 녹음이 중단되었습니다.</string>
     <string name="status_bar_recording">녹음 중…</string>
     <string name="status_bar_back">탭하여 녹음기로 돌아가기</string>
     <string name="status_bar_recording_pause">녹음기 일시 중지됨</string>

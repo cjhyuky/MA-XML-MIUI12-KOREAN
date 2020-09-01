@@ -925,7 +925,7 @@
     <string name="no_app_open_document">이 작업을 실행할 앱을 찾지 못했습니다.</string>
     <string name="no_space_alert_cancel">나중에</string>
     <string name="no_space_alert_clean">저장공간 확보</string>
-    <string name="no_space_alert_text">저장 공간이 충분하지 않습니다.</string>
+    <string name="no_space_alert_text">저장공간이 충분하지 않습니다.</string>
     <string name="no_space_alert_title">다운로드 일시 중지됨</string>
     <string name="no_space_clean_failed">이 기기에서 저장공간을 확보하지 못했습니다.</string>
     <string name="not_allowed_open">초기 설정 화면에서 브라우저를 사용할 수 없습니다.</string>

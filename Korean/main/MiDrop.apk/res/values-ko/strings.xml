@@ -305,8 +305,8 @@
     <string name="fp">%s 님으로부터</string>
     <string name="fq">파일 전송 전에 전송이 완료 될 때까지 기다리세요.</string>
     <string name="fr">파일 전송</string>
-    <string name="fs">저장 공간이 충분하지 않습니다.</string>
-    <string name="ft">"저장 공간이 충분하지 않습니다. 파일을 보낼 수 없습니다."</string>
+    <string name="fs">저장공간이 충분하지 않습니다.</string>
+    <string name="ft">"저장공간이 충분하지 않습니다. 파일을 보낼 수 없습니다."</string>
     <string name="fu">"진행 중인 전송 중에는 Wi-Fi를 끄지 마세요."</string>
     <string name="fv">"진행 중인 전송 중에 Wi-Fi 핫스팟을 끄지 마세요."</string>
     <string name="fw">(내 별명)</string>

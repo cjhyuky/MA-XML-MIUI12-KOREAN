@@ -57,14 +57,14 @@
     <string name="error_msg_network_error">네트워크 오류, 다시 시도하세요.</string>
     <string name="error_receive_file_cannot_read">파일 수신 실패</string>
     <string name="error_receive_file_changed">수신 실패, 항목이 변경되었습니다.</string>
-    <string name="error_receive_file_no_enough_space">수신 실패, 저장 공간이 부족합니다.</string>
+    <string name="error_receive_file_no_enough_space">수신 실패, 저장공간이 부족합니다.</string>
     <string name="error_receive_user_cancel">전송 취소됨</string>
     <string name="error_receive_user_interrupted">상대방이 전송을 취소했습니다.</string>
     <string name="error_refuse_receive">전송 취소됨</string>
     <string name="error_remote_busy">다른 기기가 과부하 상태입니다. 1-2분 정도 기다리신 후 다시 시도하세요.</string>
     <string name="error_self_busy">기기가 과부하 상태입니다. 1-2분 정도 기다리신 후 다시 시도하세요.</string>
     <string name="error_send_file_cannot_read">파일 전송 실패, 다시 시도하세요.</string>
-    <string name="error_send_file_no_enough_space">전송 실패, 다른 기기에 충분한 저장 공간이 없습니다.</string>
+    <string name="error_send_file_no_enough_space">전송 실패, 다른 기기에 충분한 저장공간이 없습니다.</string>
     <string name="error_send_file_not_found">파일을 찾을 수 없음, 다시 시도하세요.</string>
     <string name="error_send_transfer_error">파일 전송 실패, 다시 시도하세요.</string>
     <string name="error_timeout">세션 시간 초과됨, 1-2분 정도 기다리신 후 다시 시도하세요.</string>

@@ -91,8 +91,8 @@
     <string name="task_restore_finished_local">"복원됨 "</string>
     <string name="task_restore_none">복원 대상 없음</string>
     <string name="task_stopped_exception">복원 취소됨</string>
-    <string name="sdcard_no_enough_space">저장 공간 부족</string>
-    <string name="sdcard_no_enough_space_message">SD 카드에 저장 공간이 부족합니다.</string>
+    <string name="sdcard_no_enough_space">저장공간 부족</string>
+    <string name="sdcard_no_enough_space_message">SD 카드에 저장공간이 부족합니다.</string>
     <string name="data_no_enough_space_message">기기의 내장 메모리에 공간이 부족합니다.</string>
     <string name="task_running_hint">이미 백그라운드에서 실행 중입니다.</string>
     <string name="task_running_dialog">백업 및 복원이 진행 중입니다. 보려면 확인을 누르세요.</string>
@@ -236,7 +236,7 @@
     <string name="summary_err_backup_no_network">네트워크에 연결하지 못했습니다.</string>
     <string name="summary_err_restore_no_network">네트워크에 연결하지 못했습니다.</string>
     <string name="err_authentication_failed">인증 실패</string>
-    <string name="err_low_storage">저장 공간 부족</string>
+    <string name="err_low_storage">저장공간 부족</string>
     <string name="err_unknown">알 수 없는 오류</string>
     <string name="err_version_too_old">백업 파일이 너무 오래되었습니다.</string>
     <string name="err_version_unsupported">백업 버전을 지원하지 않습니다.</string>
@@ -354,11 +354,11 @@
     <string name="trans_select_data_tips">"전송할 항목을 선택하세요.
 새 장치의 비슷한 항목은 덮어쓰기 합니다.
 (전송 항목의 크기는 대략적인 수치입니다.)"</string>
-    <string name="trans_select_data_no_space">"새 기기의 저장 공간이 부족합니다.
+    <string name="trans_select_data_no_space">"새 기기의 저장공간이 부족합니다.
 다시 파일을 선택하시거나 %s만큼의 공간을 정리하세요."</string>
     <string name="trans_calculating_base_size">앱 크기 계산 중</string>
     <string name="trans_calculating">계산 중…</string>
-    <string name="trans_native_no_space">"이 기기의 저장 공간이 부족합니다.
+    <string name="trans_native_no_space">"이 기기의 저장공간이 부족합니다.
 최소 %s만큼의 용량을 삭제하세요."</string>
     <string name="trans_calculating_app_sd_size">크기 계산 중: %s</string>
     <string name="trans_please_waiting">잠시만 기다려주세요…</string>
@@ -453,7 +453,7 @@
     <string name="save_finish_with_failing_items">"연결에 문제가 발생했습니다. 불러오지 못한 데이터를 백업하세요."</string>
     <string name="saving_data">"iCloud에서 데이터를 불러오는 중입니다. Wi-Fi 연결을 해제하지 마세요."</string>
     <string name="saving_data_no_time">데이터 저장중…</string>
-    <string name="saving_data_space_low">저장 공간이 부족합니다. 최소 %s 의 저장공간을 마련하세요."</string>
+    <string name="saving_data_space_low">저장공간이 부족합니다. 최소 %s 의 저장공간을 마련하세요."</string>
     <string name="select_empty">불러올 데이터 선택</string>
     <string name="select_item_calendar">캘린더</string>
     <string name="select_item_contacts">연락처</string>
@@ -522,7 +522,7 @@
     <string name="notif_miasist_try_to_connect">Mi PC 슈트가 기기에 연결을 시도하고 있습니다.</string>
     <string name="trans_switching_5g">5GHz Wi-Fi로 전환 중…</string>
     <string name="err_not_allow">지원되지 않음</string>
-    <string name="button_clean_garbage">저장 공간을 확보하세요.</string>
+    <string name="button_clean_garbage">저장공간을 확보하세요.</string>
     <string name="button_got_it">확인</string>
     <string name="button_quit">나가기</string>
     <string name="err_bakfile_not_exist">"백업 파일이 없습니다."</string>
@@ -532,8 +532,8 @@
     <string name="trans_failed_details_page_title">전송 실패</string>
     <string name="trans_generate_qrcode_failed">"QR 코드를 생성할 수 없습니다. 앱을 닫은 후 다시 시도하세요."</string>
     <string name="trans_generating_qrcode">QR 코드 생성 중…</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover를 이용하기 위한 저장 공간이 부족합니다. 저장 공간을 확보하세요."</string>
-    <string name="trans_old_phone_low_space_title">저장 공간 부족</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover를 이용하기 위한 저장공간이 부족합니다. 저장공간을 확보하세요."</string>
+    <string name="trans_old_phone_low_space_title">저장공간 부족</string>
     <string name="feature_title_contacts">연락처</string>
     <string name="feature_title_sms">메시지</string>
     <string name="flash_drive_backup_btn">USB 저장소에 백업</string>
@@ -591,8 +591,8 @@ Mi Mover가 마음에 드시나요?"</string>
 중요한 항목만 복원하시면 훨씬 빠르게 복원하실 수 있습니다."</string>
     <string name="usb_trans_native_no_space">"%s 항목만 귀하의 기기에서 사용가능합니다.
 여유공간을 늘리거나 파일을 나눠서 옮기세요."</string>
-    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장 공간이 필요합니다. 전송을 계속할 수 있는 저장 공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목만 전송 해보세요."</string>
-    <string name="usb_trans_old_phone_low_space_title">저장 공간이 부족합니다.</string>
+    <string name="usb_trans_old_phone_low_space_msg">"백업을 패키지화하려면 추가 저장공간이 필요합니다. 전송을 계속할 수 있는 저장공간이 충분하지 않습니다. 여유 공간을 늘리고 불필요한 파일을 삭제하거나 중요한 항목만 전송 해보세요."</string>
+    <string name="usb_trans_old_phone_low_space_title">저장공간이 부족합니다.</string>
     <string name="usb_trans_select_data_no_space">"USB 저장소에서 %s 항목만 사용가능합니다.
 여유공간을 늘리거나 중요한 항목만 전송하세요."</string>
     <string name="err_acquire_system_service">"시스템 서비스 시작 실패"</string> 
@@ -743,10 +743,10 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_task_finished">완료</string>
     <string name="new_usb_detail_description">"안내:
 %1$d. 이 방법을 사용하면 타사 앱 및 앱 데이터를 백업할 수 있습니다.
-%2$d. 백업을 저장하기 위해 USB 드라이브에 충분한 저장 공간이 있는지 확인하세요."</string>
+%2$d. 백업을 저장하기 위해 USB 드라이브에 충분한 저장공간이 있는지 확인하세요."</string>
     <string name="new_usb_disconnect_dialog_message">먼저 USB 드라이브를 연결하세요.</string>
     <string name="new_usb_disconnect_dialog_title">"USB 드라이브를 찾을 수 없습니다."</string>
-    <string name="new_usb_select_data_no_space">USB 드라이브에서 저장 용량의 %s만 사용할 수 있습니다. 저장 공간을 확보하세요.</string>
+    <string name="new_usb_select_data_no_space">USB 드라이브에서 저장 용량의 %s만 사용할 수 있습니다. 저장공간을 확보하세요.</string>
     <string name="new_usb_tab_backup">USB 드라이브로 백업</string>
     <string name="new_usb_tab_restore">USB 드라이브에서 복원</string>
     <string name="not_set">설정 안 함</string>

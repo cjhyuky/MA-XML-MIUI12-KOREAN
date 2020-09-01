@@ -185,7 +185,7 @@
     <string name="miui_failed_already_exists">이 앱은 이미 설치되어 있습니다.</string>
     <string name="miui_failed_conflicting_provider">충돌 서비스 제공 업체</string>
     <string name="miui_failed_duplicate_permission">충돌 권한</string>
-    <string name="miui_failed_insufficient_storage">저장 공간이 부족합니다.</string>
+    <string name="miui_failed_insufficient_storage">저장공간이 부족합니다.</string>
     <string name="miui_failed_invalid_apk">설치 패키지 오류</string>
     <string name="miui_failed_invalid_uri">잘못된 설치 경로</string>
     <string name="miui_failed_miui_system_incompatible">"설치 패키지는 MIUI와 호환되지 않습니다."</string>

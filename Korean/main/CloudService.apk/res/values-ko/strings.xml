@@ -218,8 +218,8 @@
     <string name="micloud_title_dspt" formatted="false">"전체 %s
  %s 사용 | %s 남음"</string>
     <string name="micloud_title_dspt_remain">%s 남음</string>
-    <string name="micloud_title_full_dspt">저장 공간이 가득 찼습니다!</string>
-    <string name="micloud_user_space_usage">저장 공간</string>
+    <string name="micloud_title_full_dspt">저장공간이 가득 찼습니다!</string>
+    <string name="micloud_user_space_usage">저장공간</string>
     <string name="micloud_web_discription_01">I.mi.com에 로그인</string>
     <string name="micloud_web_discription_02">어디서나 파일에 접근하고 저장</string>
     <string name="micloud_web_discription">i.mi.com을 방문하세요.</string>
@@ -227,7 +227,7 @@
     <string name="micloud_full_influence_title">Mi 클라우드가 가득찬 경우…</string>
     <string name="micloud_warn_low_title">공간이 거의 다 찼습니다.</string>
     <string name="micloud_warn_low_sum">Mi 클라우드 사용량이 90%입니다.</string>
-    <string name="micloud_warn_full_title">저장 공간 부족</string>
+    <string name="micloud_warn_full_title">저장공간 부족</string>
     <string name="micloud_warn_full_sum">Mi 클라우드에서 새 항목이 동기화되지 않았습니다.</string>
     <string name="micloud_storage_expires_soon_title">Mi 클라우드 저장소가 곧 만료됩니다.</string>
     <string name="micloud_storage_expires_very_soon_title">Mi 클라우드 저장소가 곧 만료됩니다.</string>
@@ -239,7 +239,7 @@
 
 클라우드 공간이 가득차도 예전 데이터는 그대로 남아 있습니다. 그러나 새로 추가되는 정보들(사진, 동영상, 메모, 그리고 앱)은 백업이 되지 않습니다.
 
-이것을 수정하기 위해 오래된 파일을 일부 지워 새 파일을 위한 공간을 만들거나 추가 저장 공간을 구매할 수 있습니다."</string>
+이것을 수정하기 위해 오래된 파일을 일부 지워 새 파일을 위한 공간을 만들거나 추가 저장공간을 구매할 수 있습니다."</string>
     <string name="micloud_upgrade_space">저장소 얻기</string>
     <string name="enable_sync_dspt">동기화하지 않음</string>
     <string name="enable_sync">동기화</string>
@@ -247,7 +247,7 @@
     <string name="cloud_find_device_on">켜짐</string>
     <string name="cloud_find_device_off">꺼짐</string>
     <string name="find_device_dspt">원격으로 기기를 잠그거나 초기화하거나 위치 파악</string>
-    <string name="micloud_user_space_title">저장 공간</string>
+    <string name="micloud_user_space_title">저장공간</string>
     <string name="sync_sub_dspt_provision">모든 기기에서 사진 , 연락처, 메모 등을 동기화</string>
     <string name="btn_return">뒤로</string>
     <string name="sync_sub_1_sms">이 서비스를 활성화하려면 SMS 메시지 발송이 필요할 수 있습니다. 통신사가 요금을 부과할 수 있습니다.</string>
@@ -264,7 +264,7 @@
     <string name="micloud_sync_prompt_for_no_gallery_sync">연락처, 캘린더, 메모가 자동으로 동기화 되었습니다. Mi 클라우드 설정으로 이동하셔서 더 많은 항목을 동기화 하세요.</string>
     <string name="sync_item_calllog_title">통화 기록 동기화</string>
     <string name="sync_item_calllog_summary">이 전화에서 주고 받은 통화 기록 동기화</string>
-    <string name="view_storage_title">저장 공간</string>
+    <string name="view_storage_title">저장공간</string>
     <string name="storage">저장소</string>
     <string name="setting">설정</string>
     <string name="remind_later">나중에 실행</string>
@@ -303,10 +303,10 @@
     <string name="micloud_main_last_sync_time">최근 %s개 동기화됨</string>
     <string name="micloud_main_synced_data_count">%d개 항목 동기화됨</string>
     <string name="micloud_main_wlan_sync_data_count">동기화 대기 중인 항목: %d</string>
-    <string name="micloud_main_space_full">클라우드 저장 공간이 부족합니다.</string>
+    <string name="micloud_main_space_full">클라우드 저장공간이 부족합니다.</string>
     <string name="micloud_main_space_low">공간이 거의 다 찼습니다.</string>
-    <string name="micloud_main_update_space">더 많은 저장 공간을 확보하세요.</string>
-    <string name="micloud_main_space_full_title">충분한 저장 공간이 남아있지 않습니다. 동기화가 일시중단됨</string>
+    <string name="micloud_main_update_space">더 많은 저장공간을 확보하세요.</string>
+    <string name="micloud_main_space_full_title">충분한 저장공간이 남아있지 않습니다. 동기화가 일시중단됨</string>
     <string name="micloud_main_memory_low_title">휴대전화의 내부 저장소가 가득 찼습니다.</string>
     <string name="micloud_main_memory_low_message">동기화 하기 위하여 클라우드의 내용을 삭제해주시오</string>
     <string name="micloud_main_clear_now">제거</string>
@@ -364,7 +364,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
     <string name="upgrade_space_mibipreyear">연간 %s Mi 크레디트</string>
-    <string name="get_this_month_gb">이번 달에 무료 저장 공간 %s 얻기</string>
+    <string name="get_this_month_gb">이번 달에 무료 저장공간 %s 얻기</string>
     <string name="get_first_month_gb">무료 공간 %s 얻기</string>
     <string name="more_activity_in_upgrade_space"><a href="http://i.mi.com">http://i.mi.com</a>에서 더 알아보기</string>
     <string name="success_upgraded_space">%s 추가됨</string>
@@ -380,25 +380,25 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="upgrade_space">공간 추가</string>
     <string name="upgrade_space_successful">%sGB 추가함</string>
     <string name="upgrade_space_successful_total">%sGB 사용 가능</string>
-    <string name="free_space_has_received">이번 달 무료 저장 공간을 이미 추가했습니다.</string>
+    <string name="free_space_has_received">이번 달 무료 저장공간을 이미 추가했습니다.</string>
     <string name="free_space_receive_fail">업그레이드할 수 없습니다.</string>
-    <string name="buy_space_sulotion_title">저장 공간 구매</string>
+    <string name="buy_space_sulotion_title">저장공간 구매</string>
     <string name="buy_space_sulotion_renew_title">구독 갱신</string>
-    <string name="buy_space_sulotion_message">%sGB 추가 저장 공간 구매</string>
+    <string name="buy_space_sulotion_message">%sGB 추가 저장공간 구매</string>
     <string name="buy_space_sulotion_renew_message">%s 유효</string>
     <string name="buy_space_sulotion_auto_renew">자동 갱신</string>
     <string name="buy_space_sulotion_not_auto_renew">자동 갱신 안 함</string>
-    <string name="cloud_space_upgrade_title">Mi 클라우드에 더 많은 저장 공간</string>
+    <string name="cloud_space_upgrade_title">Mi 클라우드에 더 많은 저장공간</string>
     <string name="cloud_space_upgrade_message">탭하여 클라우드에 %sGB 추가</string>
     <string name="cloud_space_upgrade_no_quota_info">저장소 정보를 얻지 못했습니다.</string>
     <string name="micloud_other_product_price">가격 비교</string>
     <string name="loading_hint">불러오는 중</string>
-    <string name="buy_space_expire">구매한 저장 공간이 %s 이후에 만료됩니다.</string>
+    <string name="buy_space_expire">구매한 저장공간이 %s 이후에 만료됩니다.</string>
     <string name="buy_space_expire_concat">%1$s부터 %2$s까지</string>
-    <string name="buy_more_space_b_class">"더 많은 저장 공간을 확보하려면 mi.com/micloud에 로그인하세요.
-추가 저장 공간을 구매하려면 중국 은행 카드가 필요합니다."</string>
+    <string name="buy_more_space_b_class">"더 많은 저장공간을 확보하려면 mi.com/micloud에 로그인하세요.
+추가 저장공간을 구매하려면 중국 은행 카드가 필요합니다."</string>
     <string name="buy_more_space_c_class">"이 기능을 사용하려면 중국 은행 카드가 필요합니다.
-더 많은 저장 공간을 얻으려면 mi.com/micloud에 접속하세요."</string>
+더 많은 저장공간을 얻으려면 mi.com/micloud에 접속하세요."</string>
     <string name="micloud_member_buy_title">주문 확인</string>
     <string name="micloud_member_buy_content" formatted="false">"회원 유효기간: %s-%s-%s
 
@@ -437,7 +437,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_buy_member">Mi 클라우드 멤버십 구입</string>
     <string name="micloud_buy_member_safe">Mi 클라우드 멤버십 구입</string>
     <string name="micloud_website">Mi 클라우드 항목</string>
-    <string name="micloud_member_advantage">더 많은 저장 공간을 확보하세요.</string>
+    <string name="micloud_member_advantage">더 많은 저장공간을 확보하세요.</string>
     <string name="micloud_main_title_sync_fail">동기화 실패</string>
     <string name="micloud_main_title_sync_on_wifi">Wi-Fi 사용</string>
     <string name="micloud_main_title_sync_off">동기화 해제</string>
@@ -488,7 +488,7 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_notif_title_master_depend_wifi">"모바일 데이터 사용 중에는 동기화가 일시 중지됩니다."</string>
     <string name="micloud_notif_content_master_depend_wifi">Wi-Fi에 먼저 연결하거나 동기화 설정을 변경하세요. 변경하려면 탭하세요.</string>
     <string name="micloud_notif_title_memory_low">Mi 클라우드와 동기화할 수 없습니다.</string>
-    <string name="micloud_notif_content_memory_low">저장 공간이 충분하지 않습니다.</string>
+    <string name="micloud_notif_content_memory_low">저장공간이 충분하지 않습니다.</string>
     <string name="micloud_notif_title_battery_low">Mi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_battery_low">배터리가 너무 적습니다.</string>
     <string name="micloud_notif_title_sync_with_off">Mi 클라우드와 동기화</string>
@@ -696,14 +696,14 @@ Mi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_manual_all_sync_off_title">동기화 꺼짐</string>
     <string name="micloud_manual_buy_vip">Mi클라우드 저장소 더 받기</string>
     <string name="micloud_manual_cloud_storage_full_button_text">저장소 더 받기</string>
-    <string name="micloud_manual_cloud_storage_full_summary">사진, 연락처 및 기타 항목을 동기화할 수 없습니다. 요금제를 업그레이드하거나 저장 공간을 확보하세요.</string>
+    <string name="micloud_manual_cloud_storage_full_summary">사진, 연락처 및 기타 항목을 동기화할 수 없습니다. 요금제를 업그레이드하거나 저장공간을 확보하세요.</string>
     <string name="micloud_manual_cloud_storage_full_title">동기화할 수 없습니다. Mi 클라우드에 저장공간이 충분하지 않습니다.</string>
     <string name="micloud_manual_cloud_storage_low_button_text">저장소 더 받기</string>
     <string name="micloud_manual_cloud_storage_low_summary">Mi 클라우드 저장소 부족</string>
     <string name="micloud_manual_cloud_storage_low_title">동기화 됨</string>
     <string name="micloud_manual_grant_permission">허용</string>
     <string name="micloud_manual_local_storage_low_button_text">삭제</string>
-    <string name="micloud_manual_local_storage_low_summary">"저장 공간 부족으로 동기화를 다시 시작할 수 없습니다. 저장 공간을 확보하세요."</string>
+    <string name="micloud_manual_local_storage_low_summary">"저장공간 부족으로 동기화를 다시 시작할 수 없습니다. 저장공간을 확보하세요."</string>
     <string name="micloud_manual_local_storage_low_title">저장공간이 부족합니다.</string>
     <string name="micloud_manual_network_disconnet_button_text">네트워크 설정 확인</string>
     <string name="micloud_manual_network_disconnet_title">"네트워크 연결 실패로 동기화할 수 없습니다."</string>
@@ -980,7 +980,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="storage_manage_cloud_data_title">클라우드에서 항목 보기</string>
     <string name="storage_manage_full_summary">클라우드 스토리지가 가득 찼습니다. 요금제를 업그레이드하세요.</string>
     <string name="storage_manage_normal_summary">클라우드 스토리지 요금제 변경</string>
-    <string name="midrive_guide1_desc">항목을 클라우드에 백업하여 장치의 저장 공간을 확보하십시오.</string>
+    <string name="midrive_guide1_desc">항목을 클라우드에 백업하여 장치의 저장공간을 확보하십시오.</string>
     <string name="midrive_guide1_title">보안 백업</string>
     <string name="midrive_guide2_desc">고속으로 다운로드하세요.</string>
     <string name="midrive_guide2_title">고속 다운로드</string>

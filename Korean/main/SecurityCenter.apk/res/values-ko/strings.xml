@@ -465,7 +465,7 @@
     <string name="app_usage_never">사용한 적 없음</string>
     <string name="app_usage_recently">최근 사용</string>
     <string name="app_version">버전:</string>
-    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">저장 공간을 확보하기 위해 WeChat 캐시의 %s를 지웁니다.</string>
+    <string name="appcleaner_wechat_notification_garbage_cleanup_summary">저장공간을 확보하기 위해 WeChat 캐시의 %s를 지웁니다.</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"캐시를 지우는 것을 잊지 마세요"</string>
     <string name="application_item_already_permission">허용됨</string>
     <string name="application_item_disable">제한됨</string>
@@ -751,7 +751,7 @@
     <string name="card_main_deepclean_summary">불필요한 파일들을 삭제하기</string>
     <string name="card_main_deepclean_title">정밀 청소</string>
     <string name="card_main_deepclean_wechat_action">정리</string>
-    <string name="card_main_deepclean_wechat_summary">저장 공간 확보를 위해 WeChat 캐시 지우기</string>
+    <string name="card_main_deepclean_wechat_summary">저장공간 확보를 위해 WeChat 캐시 지우기</string>
     <string name="card_main_deepclean_wechat_title">WeChat 캐시</string>
     <string name="card_main_deepclean_whatsapp_title">WhatsApp 클리너</string>
     <string name="card_main_gamebooster_summary">게임을 위한 네트워크 연결 안정성 향상</string>
@@ -832,7 +832,7 @@
     <string name="cta_dialog_negative">나가기</string>
     <string name="cta_dialog_positive">동의</string>
     <string name="cta_dialog_title">인터넷 연결</string>
-    <string name="cta_main_purpose">보안에 오신 것을 환영합니다! 이 앱을 사용하면 저장 공간을 확보하고, 기기의 바이러스 검사, 배터리 사용 제어, 게임용 기기 최적화, 앱 관리, 지진 조기 경고 등을받을 수 있습니다.</string>
+    <string name="cta_main_purpose">보안에 오신 것을 환영합니다! 이 앱을 사용하면 저장공간을 확보하고, 기기의 바이러스 검사, 배터리 사용 제어, 게임용 기기 최적화, 앱 관리, 지진 조기 경고 등을받을 수 있습니다.</string>
     <string name="cta_settings">인터넷 연결 허용</string>
     <string name="current_network_state_not_need_diagnose">인터넷 연결이 정상입니다.</string>
     <string name="customize_limit_pkg">%s (사용자 지정)</string>
@@ -1235,7 +1235,7 @@
     <string name="first_aid_card_kadun_button1">여유 공간 확보</string>
     <string name="first_aid_card_kadun_button2">제한</string>
     <string name="first_aid_card_kadun_button3">끄기</string>
-    <string name="first_aid_card_kadun_summary1">기기가 정상적으로 작동할 수 있도록 저장 공간을 확보하세요.</string>
+    <string name="first_aid_card_kadun_summary1">기기가 정상적으로 작동할 수 있도록 저장공간을 확보하세요.</string>
     <string name="first_aid_card_kadun_summary2">일부 앱에는 관리자 권한이 있습니다. 이로 인해 기기 속도가 느려질 수 있습니다.</string>
     <string name="first_aid_card_kadun_summary3">접근성 기능이 너무 많이 동시에 작동하고 있습니다. 이로 인해 기기 속도가 느려질 수 있습니다.</string>
     <string name="first_aid_card_kadun_title">기기 속도 저하</string>
@@ -1715,9 +1715,9 @@
     <string name="long_click_dialog_summary">예외에 추가하려면 목록의 결과를 길게 눌러주세요.</string>
     <string name="long_click_dialog_title">주의</string>
     <string name="low_memory_warning_dialog_cancel_button">취소</string>
-    <string name="low_memory_warning_dialog_msg">저장 공간을 확보하시고 계속하세요.</string>
+    <string name="low_memory_warning_dialog_msg">저장공간을 확보하시고 계속하세요.</string>
     <string name="low_memory_warning_dialog_ok_button">지우기</string>
-    <string name="low_memory_warning_dialog_title">저장 공간 부족</string>
+    <string name="low_memory_warning_dialog_title">저장공간 부족</string>
     <string name="low_temperature_button_ok">확인</string>
     <string name="low_temperature_warning_message">"너무 추워서 휴대전화가 예상보다 빨리 꺼질 수 있습니다. 중요한 변경사항을 모두 저장하세요."</string>
     <string name="low_temperature_warning_title">기온이 낮습니다.</string>
@@ -1871,7 +1871,7 @@ SMS 전송"</string>
     <string name="menu_summary_garbage_cleanup_2">쓰레기 사이즈</string>
     <string name="menu_summary_garbage_cleanup_3">바로 휴지통 비우기</string>
     <string name="menu_summary_garbage_cleanup_ex">%s만큼의 쓰레기 삭제</string>
-    <string name="menu_summary_garbage_cleanup_new">저장 공간의 %d%%</string>
+    <string name="menu_summary_garbage_cleanup_new">저장공간의 %d%%</string>
     <string name="menu_summary_networkassistants">데이터 한도 관리</string>
     <string name="menu_summary_networkassistants_2">제한된 사용량을 초과함</string>
     <string name="menu_summary_networkassistants_3">남은 데이터가 충분함</string>
@@ -2022,7 +2022,7 @@ SMS 전송"</string>
     <string name="notification_exit_power_save_mode">배터리 절약 꺼짐</string>
     <string name="notification_exit_power_save_mode_subtitle">배터리 %s 충전됨</string>
     <string name="notification_garbage_clean_botton_text">지우기</string>
-    <string name="notification_garbage_clean_hint">저장 공간 확보</string>
+    <string name="notification_garbage_clean_hint">저장공간 확보</string>
     <string name="notification_garbage_clean_size">%s 확보</string>
     <string name="notification_garbage_cleanup_summary">기기 속도를 높이기 위해 휴지통(%s)을 지웁니다.</string>
     <string name="notification_garbage_cleanup_title">쓰레기 파일 지우기</string>
@@ -2114,7 +2114,7 @@ SMS 전송"</string>
     <string name="operator_name_unicom">차이나 유니콤</string>
     <string name="optimize_manage_title">속도 향상</string>
     <string name="optimize_result_available_memory_info">사용 가능한 메모리</string>
-    <string name="optimize_result_button_cloudspace">더 많은 클라우드 저장 공간 확보</string>
+    <string name="optimize_result_button_cloudspace">더 많은 클라우드 저장공간 확보</string>
     <string name="optimize_result_button_consume_power_analysis">배터리 스캔</string>
     <string name="optimize_result_button_cooldown_now">온도 낮추기</string>
     <string name="optimize_result_button_correct_now">조정</string>
@@ -3007,7 +3007,7 @@ SMS 전송"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   데이터 한도 설정 &gt;"</string>
     <string name="still_retain_btn">유지</string>
     <string name="stop_milink_connect">캐스팅 멈춤</string>
-    <string name="storage_activity_title">저장 공간</string>
+    <string name="storage_activity_title">저장공간</string>
     <string name="storage_app_detail_activity_title">사용 중인 공간</string>
     <string name="storage_app_detail_cache">캐시</string>
     <string name="storage_app_detail_clear_all_data">모든 데이터 삭제</string>
@@ -3017,7 +3017,7 @@ SMS 전송"</string>
     <string name="storage_app_detail_clear_cache_title">지금 앱 캐시를 삭제하시겠습니까?</string>
     <string name="storage_app_detail_dialog_cancel">취소</string>
     <string name="storage_app_detail_dialog_ok">확인</string>
-    <string name="storage_app_detail_manage_space">%s - 저장 공간 관리</string>
+    <string name="storage_app_detail_manage_space">%s - 저장공간 관리</string>
     <string name="storage_app_detail_manager_enabled">켜짐</string>
     <string name="storage_app_detail_qq_cleaner">QQ 클리너</string>
     <string name="storage_app_detail_sdcard">앱 데이터</string>
@@ -3074,7 +3074,7 @@ SMS 전송"</string>
     <string name="storage_menu_mount">마운트</string>
     <string name="storage_mount_failure">"%1$s(을)를 마운트할 수 없음"</string>
     <string name="storage_mount_success">%1$s 마운트 성공</string>
-    <string name="storage_space_release_hint">더 많은 저장 공간이 필요하십니까?</string>
+    <string name="storage_space_release_hint">더 많은 저장공간이 필요하십니까?</string>
     <string name="storage_unmount_failure">"%1$s 마운트를 해제할 수 없음"</string>
     <string name="storage_unmount_success">%1$s 마운트 해제 성공</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 포맷</string>
@@ -3094,8 +3094,8 @@ SMS 전송"</string>
     <string name="summary_cleaner_cloudscan">온라인 정의로 폴더 이름 업로드 및 비교</string>
     <string name="summary_cloud_account">Mi 기기 최대한 활용하기</string>
     <string name="summary_cloud_service">모든 기기에서 사진, 연락처 등을 동기화</string>
-    <string name="summary_cloud_space_almost_full">더 많은 저장 공간을 확보하세요.</string>
-    <string name="summary_cloud_space_full">더 많은 저장 공간을 확보해서 더 많은 기능을 사용합니다.</string>
+    <string name="summary_cloud_space_almost_full">더 많은 저장공간을 확보하세요.</string>
+    <string name="summary_cloud_space_full">더 많은 저장공간을 확보해서 더 많은 기능을 사용합니다.</string>
     <string name="summary_cmcc_app_check">일부 앱이 검증되지 않았습니다.</string>
     <string name="summary_consume_power">발열 이슈 발견됨. 배터리 수명에 영향을 줄 수 있습니다.</string>
     <string name="summary_dark_mode">타사 서비스로 인해 일부 페이지는 검게 보입니다.</string>
@@ -3748,4 +3748,41 @@ SMS 전송"</string>
      <string name="ew_subscribe_city_count">최대 %s개 도시를 구독할 수 있습니다.</string>
      <string name="ew_subscribe_search_hint">지역 검색</string>
      <string name="ew_subscribe_title">조기 지진 경보 | %1$s에서 약 %2$s의 지진이 발생했으며 %3$s에서 지진을 느낄 수 있습니다.</string>
+    <string name="charger_detect_button_ok">확인</string>
+    <string name="charger_detect_info1">전원 어댑터와 케이블이 올바르게 연결되었는지 확인하세요.</string>
+    <string name="charger_detect_info2">"비표준 혹은 오래된 전원 어댑터와 케이블을 사용할 경우 충전 속도가 느려질 수 있습니다."</string>
+    <string name="charger_detect_no_remind">"다시 보지 않음"</string>
+    <string name="charger_detect_title">충전 속도 느림</string>
+    <string name="function_auto_reject_detail">"이 기능 정보:
+1. 게임 플레이 중, 모바일 데이터 서비스를 거치지 않고 SIM 카드로 걸려온 모든 전화가 자동으로 거절됩니다.
+2. 사용자는 부재중 전화 알림을 받게 되고, 전화를 건 사람은 사용자가 현재 바쁘다는 음성 메시지를 듣게 됩니다.
+3. 이 기능은 중국 모바일 통신사 한정으로 지원됩니다."</string>
+    <string name="function_auto_reject_title">데이터 서비스를 거치지 않고 SIM 카드로 걸려온 VoLTE 전화 거절</string>
+    <string name="vb_fps_settings">자동 재생률</string>
+    <string name="vb_fps_settings_tips">이 기능은 화면 재생률을 동영상 프레임 속도에 맞추어 조절하여, 배터리를 절약하고 동영상 재생을 부드럽게 합니다. 플로팅 창이 켜지면 자동 재생률 기능은 꺼집니다.</string>
+    <string name="auto_send_correcting_msg">입력하지 않을 시, 시스템이 자동으로 인증 메시지를 보냅니다.</string>
+    <string name="auto_set_by_brand">요금제에 따라 사용량 및 잔여량 정보 자동으로 설정</string>
+    <string name="continue_set">설정 계속</string>
+    <string name="day_overflow_tips">일일 사용량 한도 초과</string>
+    <string name="fixed_package_tips">사용량 한도 내에서 즐기세요. 초과 시 추가 요금이 부과됩니다.</string>
+    <string name="fixed_traffic_quota">제한적 사용량 (선택)</string>
+    <string name="get_detail_by_click">자세한 정보</string>
+    <string name="go_to_send">보내기</string>
+    <string name="ignore_special_app">선택된 앱이 소모한 데이터는 요금제 데이터 사용량에 포함되지 않습니다.</string>
+    <string name="limit_speed_by_quota">무제한 요금제. 한도 초과 시 속도가 제한됩니다.</string>
+    <string name="make_sure_package_type">요금제 유형 선택</string>
+    <string name="no_limit_by_month">무제한 월간 데이터</string>
+    <string name="number_address">휴대전화 번호</string>
+    <string name="operator_name_virtual_operator">통신사</string>
+    <string name="priority_statistics_fixed_traffic">요금제의 월간 데이터 한도가 존재한다면, 해당 데이터가 먼저 소모됩니다.</string>
+    <string name="select_province_and_city">지역 선택</string>
+    <string name="send_msg_to_query">확인을 위해 무료 SMS 보내기</string>
+    <string name="set_complete">설정 완료</string>
+    <string name="set_location">위치 설정</string>
+    <string name="set_package_tips">시스템이 사용자의 요금제 정보를 수정하기 위해 통신사에 무료 SMS를 전송하며, 동시에 수정된 SMS 템플릿을 받기 위해 사용자가 입력한 정보가 암호화되어 업로드됩니다.</string>
+    <string name="set_package_tips_detail">사용자가 입력한 통신사 정보, 휴대전화 번호, IMEI 번호 및 Xiaomi 계정이 암호화되어 Xiaomi 서버로 업로드됩니다.</string>
+    <string name="set_traffic_tips">요금제 설정 시 데이터 사용량을 더 효과적으로 조회 및 관리할 수 있으며, 한도 초과로 인한 추가 요금 부과를 방지합니다.</string>
+    <string name="traffic_calculation">요금제는 일할 계산됩니다. (예: 1원/1GB/1일)</string>
+    <string name="traffic_limit_input">사용량 경고 한도 (선택)</string>
+    <string name="unknown_package">사용중인 요금제를 모르시나요?</string>
 </resources>

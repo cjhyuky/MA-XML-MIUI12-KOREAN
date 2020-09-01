@@ -637,7 +637,7 @@
     <string name="volume">볼륨</string>
     <string name="wrapper_footer_text">페이지 하단입니다.</string>
     <string name="audio_delay">오디오 딜레이</string>
-    <string name="download_insufficient_space">저장 공간 부족</string>
+    <string name="download_insufficient_space">저장공간 부족</string>
     <string name="notification_default_title">오프라인 동영상</string>
     <string name="passport_access_denied">접근 거부됨</string>
     <string name="passport_account_hint_text">이메일 주소 또는 Mi 계정 ID</string>

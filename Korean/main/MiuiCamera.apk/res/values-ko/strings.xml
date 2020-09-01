@@ -7,7 +7,7 @@
     <string name="accessibility_8k_on">8K 켜짐</string>
     <string name="ambilight_tips_for_longtime_using_tripod">장노출 촬영의 경우 삼각대를 사용하세요.</string>
     <string name="ambilight_tips_for_suggest_using_tripod">삼각대를 사용하여 촬영하는 것이 좋습니다.</string>
-    <string name="pref_camera_heic_image_format_description2">"고효율 이미지 파일 형식은 저장 공간을 절약하지만 일부 타사 앱에서는 지원하지 않습니다. HEIF에서 라이브 사진을 찍거나 워터 마크를 제거할 수 없습니다."</string>
+    <string name="pref_camera_heic_image_format_description2">"고효율 이미지 파일 형식은 저장공간을 절약하지만 일부 타사 앱에서는 지원하지 않습니다. HEIF에서 라이브 사진을 찍거나 워터 마크를 제거할 수 없습니다."</string>
     <string name="accessibility_focus_face_pos_bottom">아래쪽 가장자리 근처</string>
     <string name="accessibility_focus_face_pos_left">왼쪽 가장자리 근처</string>
     <string name="accessibility_focus_face_pos_left_bottom">왼쪽 하단 근처</string>

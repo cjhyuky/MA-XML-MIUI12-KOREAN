@@ -11,15 +11,15 @@
     <string name="download_running">다운로드 중…</string>
     <string name="download_success">다운로드 완료</string>
     <string name="download_error">다운로드 실패</string>
-    <string name="download_error_insufficient_space">저장 공간 부족</string>
+    <string name="download_error_insufficient_space">저장공간 부족</string>
     <string name="download_error_download_file_not_exists">파일이 존재하지 않습니다.</string>
     <string name="dialog_title_not_available">다운로드 실패</string>
     <string name="dialog_failed_body">이 파일을 나중에 다운로드 시도하거나 목록에서 제거하시겠습니까?</string>
     <string name="dialog_title_queued_body">파일이 아직 준비되지 않음</string>
     <string name="dialog_queued_body">파일이 목록에 추가되어 곧 다운로드됩니다.</string>
     <string name="dialog_file_missing_body">파일을 찾을 수 없습니다. 파일이 삭제된 것 같습니다.</string>
-    <string name="dialog_insufficient_space_on_external">다운로드를 완료할 수 없습니다. 외부 저장 공간이 부족합니다.</string>
-    <string name="dialog_insufficient_space_on_cache">다운로드를 완료할 수 없습니다. 내부 저장 공간이 부족합니다.</string>
+    <string name="dialog_insufficient_space_on_external">다운로드를 완료할 수 없습니다. 외부 저장공간이 부족합니다.</string>
+    <string name="dialog_insufficient_space_on_cache">다운로드를 완료할 수 없습니다. 내부 저장공간이 부족합니다.</string>
     <string name="dialog_cannot_resume">다운로드가 중단되어 처음부터 다시 시작합니다.</string>
     <string name="dialog_file_already_exists">파일이 이미 존재합니다.</string>
     <string name="dialog_media_not_found">다운로드하려면 외부 저장소를 연결하세요.</string>
@@ -308,7 +308,7 @@
     <string name="xl_privilege_speedup_info">고속 채널과 오프라인 다운로드를 지원합니다.</string>
     <string name="xl_privilege_play">다운로드 재생</string>
     <string name="xl_privilege_play_info">다중 기기에서 완료되지 않은 다운로드를 스트리밍합니다.</string>
-    <string name="xl_privilege_storage">큰 저장 공간</string>
+    <string name="xl_privilege_storage">큰 저장공간</string>
     <string name="xl_privilege_support">다중 기기</string>
     <string name="xl_privilege_storage_info">모두 다운로드하기에 충분한 공간이 있습니다.</string>
     <string name="xl_vip_combo">요금제</string>
@@ -374,7 +374,7 @@
     <string name="file_size">크기:</string>
     <string name="complete_time">완료:</string>
     <string name="other">기타</string>
-    <string name="insufficient_space">저장 공간 부족</string>
+    <string name="insufficient_space">저장공간 부족</string>
     <string name="bt_restart_dialog_title">전체 다운로드 다시 시작</string>
     <string name="bt_restart_dialog_message">BT 폴더의 모든 다운로드를 다시 시작하시겠습니까?</string>
     <string name="bt_path_not_exit">이 경로는 존재하지 않습니다.</string>
