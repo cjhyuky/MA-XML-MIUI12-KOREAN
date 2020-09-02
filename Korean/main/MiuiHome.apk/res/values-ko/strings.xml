@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dialog_work_profile_button_1">다음</string>
+    <string name="dialog_work_profile_button_2">확인</string>
+    <string name="dialog_work_profile_content_1">개인용 데이터는 업무용 앱과 분리되어있고 숨겨져 있습니다</string>
+    <string name="dialog_work_profile_content_2">업무용 앱 &amp; 데이터는 귀하의 IT 관리자에게는 보일 수 있습니다</string>
+    <string name="dialog_work_profile_title">업무용 프로필</string>
     <string name="unstable_dialog_message">이 기기는 Android 11 개발자 프리뷰 프로그램에 등록되어 있습니다. 이 프로그램을 통해 Android 개발자 및 애호가는 시험판 버전의 Android 11을 시험해 볼 수 있습니다. 시험판 버전에는 기기의 정상적인 작동에 영향을 줄 수 있는 오류 및 결함이 포함되어 있을 수 있습니다.</string>
     <string name="unstable_dialog_title">Android 개발자 프리뷰 프로그램</string>
     <string name="common_home_search_delete">홈 화면 검색 바 삭제</string>
