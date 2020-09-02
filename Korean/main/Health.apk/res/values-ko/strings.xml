@@ -805,7 +805,7 @@
     <string name="remove">삭제</string>
     <string name="rem_duration">렘 수면 시간</string>
     <string name="rem_duration_decrease_description">렘 수면 시간이 너무 짧습니다.</string>
-    <string name="rem_duration_description">REM은 빠른 눈의 움직임을 나타냅니다. 수면은 급속 안구 운동(REM) 수면과 비 급속 안구 운동(NREM) 수면으로 나눌 수 있습니다. 빠른 안구 운동 수면은 전체 수면 시간의 약 20~25%를 차지합니다. 이 단계에서 깨어 나면 74~95%의 사람들이 꿈을 꾸고 있고 자신의 꿈을 기억할 수 있다고 말합니다. 뇌는 매우 활동적이고 신체는 REM 수면 중에 완전히 이완되어인지 기능을 유지하는 데 필수적인 수면 단계가 됩니다.</string>
+    <string name="rem_duration_description" formatted="false">REM은 빠른 눈의 움직임을 나타냅니다. 수면은 급속 안구 운동(REM) 수면과 비 급속 안구 운동(NREM) 수면으로 나눌 수 있습니다. 빠른 안구 운동 수면은 전체 수면 시간의 약 20~25%를 차지합니다. 이 단계에서 깨어 나면 74~95%의 사람들이 꿈을 꾸고 있고 자신의 꿈을 기억할 수 있다고 말합니다. 뇌는 매우 활동적이고 신체는 REM 수면 중에 완전히 이완되어인지 기능을 유지하는 데 필수적인 수면 단계가 됩니다.</string>
     <string name="rem_Duration_increase_description">렘 수면 시간이 너무 깁니다.</string>
     <string name="rem_duration_normal_description">렘 휴면 기간이 정상입니다.</string>
     <string name="run">실행 중</string>
