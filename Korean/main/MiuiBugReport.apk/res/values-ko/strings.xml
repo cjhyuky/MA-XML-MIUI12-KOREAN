@@ -499,7 +499,7 @@
     <string name="toast_app_tag_required">이슈를 선택하세요.</string>
     <string name="toast_catch_full_log_catching">로그는 한 번에 하나씩만 생성할 수 있습니다.</string>
     <string name="toast_catch_full_log_open_failed">로그 기록을 시작할 수 없습니다.</string>
-    <string name="toast_description_required">설명을 작성해야 합니다.</string>
+    <string name="toast_description_required">먼저 문제를 설명해주세요.</string>
     <string name="toast_feedback_collect_store">로그 수집 중…</string>
     <string name="toast_feedback_network_unavailable">네트워크에 연결할 수 없습니다.</string>
     <string name="toast_feedback_pending_wlan">보고서는 Wi-Fi 네트워크에 연결되면 전송됩니다.</string>
@@ -775,6 +775,15 @@ ID : %s
     <string name="user_id_hint">이메일/전화/Mi 계정 ID</string>
     <string name="v_code_title">보안코드 입력</string>
     <string name="open_settings">설정으로 이동</string>
-    <string name="passport_can_not_receive_verification_code">"확인 코드를받을 수 없습니까?"</string>
+    <string name="passport_can_not_receive_verification_code">"확인 코드를 받을 수 없습니까?"</string>
     <string name="request_camera_permission_message">이 서비스는 귀하의 허가를 요청해야하며, 당사는 귀하의 개인정보를 보호하기 위해 관련 법률을 엄격히 준수합니다. 카메라 액세스 : 아바타 설정을위한 실시간 녹화 서비스 경험 위의 권한에서이 기능은 제대로 작동하지 않지만이 앱의 기본 기능 사용에는 영향을 미치지 않습니다. 시스템 설정에서 위의 권한 호출을 해제하여 동의를 철회 할 수 있습니다.</string>
+    <string name="stop_full_log_dialog_cancel">나중에</string>
+    <string name="stop_full_log_dialog_confirm">업로드</string>
+    <string name="stop_full_log_dialog_content">현재 로그를 생성 중인 것 같습니다. 생성을 중단하고 완료된 부분까지만 업로드할까요?</string>
+    <string name="stop_full_log_dialog_title">로그 생성 중…</string>
+    <string name="suggest_upload_log_dialog_cancel">안 함</string>
+    <string name="suggest_upload_log_dialog_confirm">업로드</string>
+    <string name="suggest_upload_log_dialog_content">"엔지니어가 사용자의 문제를 최대한 빨리 확인하고 해결하기 위해, 관련 로그를 업로드해주시기 바랍니다. 로그는 문제 분석에만 사용되며, 다른 목적으로 사용되지 않습니다."</string>
+    <string name="suggest_upload_log_dialog_title">관련 로그 업로드</string>
+    <string name="toast_min_description_count">설명이 너무 짧습니다.</string>
 </resources>

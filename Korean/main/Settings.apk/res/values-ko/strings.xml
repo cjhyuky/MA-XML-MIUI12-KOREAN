@@ -4511,10 +4511,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="long_press_home_key">홈 버튼 길게 누르기</string>
     <string name="long_press_menu_key">메뉴 버튼 길게 누르기</string>
     <string name="long_press_menu_key_when_lock">화면잠금시 메뉴 버튼 길게 누르기</string>
-    <string name="long_press_power_key">파워 버튼 길게 누르기</string>
+    <string name="long_press_power_key">전원 버튼 길게 누르기</string>
     <string name="long_press_power_key_half_of_second">Google 어시스턴트를 켜려면 전원 버튼을 0.5초 동안 길게 누르세요.</string>
-    <string name="long_press_power_key_half_second">전원 버튼을 0.5초 동안 길게 누르세요.</string>
-    <string name="long_press_power_key_tips">파워 버튼을 길게 누르세요. 더 빠르고 편리합니다.</string>
+    <string name="long_press_power_key_half_second">전원 버튼을 %s초 동안 길게 누르세요.</string>
+    <string name="long_press_power_key_tips">전원 버튼을 길게 누르세요. 더 빠르고 편리합니다.</string>
     <string name="long_press_volume_down">길게 눌러 볼륨 줄이기</string>
     <string name="lost_internet_access_cancel">Wi-Fi에 머무르기</string>
     <string name="lost_internet_access_persist">다시 보지 않기</string>
