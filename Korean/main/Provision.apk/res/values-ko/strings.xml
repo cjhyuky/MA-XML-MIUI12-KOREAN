@@ -275,4 +275,15 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호 정책에 반드시
     <string name="home_settings_miui_home">클래식</string>
     <string name="home_settings_poco_launcher">앱 서랍</string>
     <string name="home_settings_title">기본 실행기 선택</string>
+    <string name="wc_dialog_agree">동의</string>
+    <string name="wc_dialog_reject">"동의 안 함"</string>
+    <string name="wc_dialog_summary">슬라이드형 배경화면을 통해 날마다 멋진 이미지와 흥미로운 이야기를 잠금 화면에서 만나보세요.</string>
+    <string name="wc_dialog_title">잠금 화면의 변신</string>
+    <string name="wc_double_check_agree">한 번 써볼게요.</string>
+    <string name="wc_double_check_reject">괜찮아요.</string>
+    <string name="wc_double_check_summary">슬라이드형 배경화면이 취향에 맞는지 한 번 사용해볼 수 있습니다. 슬라이드형 잠금화면은 설정 > 잠금 화면에서 언제든지 켜거나 끌 수 있습니다.</string>
+    <string name="wc_double_check_title">슬라이드형 배경화면 써보기</string>
+    <string name="wc_notice_link_agreement_index">이용 약관</string>
+    <string name="wc_notice_link_privacy_index">개인정보 보호정책</string>
+    <string name="wc_notice_link_summary">"타 콘텐츠 공급자의 %1$s 및 %2$s을 읽고 동의합니다."</string>
 </resources>

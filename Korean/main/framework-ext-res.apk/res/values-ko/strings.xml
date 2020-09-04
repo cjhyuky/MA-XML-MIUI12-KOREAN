@@ -351,4 +351,8 @@
     <string name="bluetooth_enable_notification_title">블루투스 켜짐</string>
     <string name="customer_location_judgment">중국</string>
     <string name="input_method_clipboard_tips">복사한 항목은 48시간 뒤 클립보드에서 삭제됩니다.</string>
+    <string name="trial_mode_dialog_button_cancel">취소</string>
+    <string name="trial_mode_dialog_button_save">저장</string>
+    <string name="trial_mode_dialog_message">\"%s\" 게임을 체험 모드에서 실행 중입니다. 기기를 다시 시작하거나 광속 모드로 전환 시 이 게임은 삭제됩니다. 게임을 내부 저장소에 저장할까요?</string>
+    <string name="trial_mode_dialog_title">체험 모드</string>
 </resources>
