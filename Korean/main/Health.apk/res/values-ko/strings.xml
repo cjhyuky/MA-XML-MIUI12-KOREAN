@@ -15,7 +15,7 @@
     <string name="abc_searchview_description_voice">음성 검색</string>
     <string name="abc_search_hint">검색</string>
     <string name="abc_shareactionprovider_share_with">상대와 공유</string>
-    <string name="abc_shareactionprovider_share_with_application">%s님에게 공유</string>
+    <string name="abc_shareactionprovider_share_with_application">%s(으)로 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="activity_title_basic_info">기본 정보</string>
     <string name="activity_title_exercise">운동</string>
@@ -25,7 +25,7 @@
     <string name="activity_title_sleep_details">수면 세부사항</string>
     <string name="add_body_weight_button">몸무게 추가</string>
     <string name="add_body_weight_record_button">몸무게 추가</string>
-    <string name="add_model_card">"왼쪽 상단에있는 버튼을 누르면 카드를 추가할 수 있습니다."</string>
+    <string name="add_model_card">"왼쪽 상단의 버튼을 누르면 카드를 추가할 수 있습니다."</string>
     <string name="all_records">모든 기록</string>
     <string name="auto_start_fail">"권한 설정 실패"</string>
     <string name="auto_start_success">권한 설정 완료</string>
@@ -44,7 +44,7 @@
     <string name="bg_control_dialog_msg">"절전 모드는 Mi 건강의 백그라운드 활동을 제한합니다. 정확한 상태를 얻으려면 Mi 건강 앱이 백그라운드에서 항상 실행되도록 하세요."</string>
     <string name="bg_control_dialog_title">백그라운드 제한</string>
     <string name="body_weight">몸무게</string>
-    <string name="body_weight_descripe_content">체질량 지수(BMI)는 체질량을 키의 제곱(kg/?)으로 나눈 값입니다.</string>
+    <string name="body_weight_descripe_content">체질량 지수(BMI)는 체질량을 키의 제곱(kg/㎡)으로 나눈 값입니다.</string>
     <string name="body_weight_extremely_obesity">매우 비만</string>
     <string name="body_weight_little_obesity">중간 비만</string>
     <string name="body_weight_normal">보통</string>
@@ -114,18 +114,18 @@
     <string name="dialog_privacy_link">"Mi 건강에 오신 것을 환영합니다! 이 앱을 사용하여 활동을 기록하고 수면을 추적 할 수 있습니다. Mi 건강은 네트워크에 연결하고 수집, 처리 및 사용해야 합니다. 개인정보가 정상적으로 작동합니다. 귀하의 개인정보는 관련 법률 및 규정에 따라 수집, 처리 및 사용됩니다. 사용자 약관 및 개인정보 보호정책의 자세한 내용은 홈페이지를 참조하세요."</string>
     <string name="dialog_privacy_policy_statement">개인정보 보호정책 설명</string>
     <string name="dialog_privacy_title">이용 약관</string>
-    <string name="dialog_read_phone_perm_desc">IMEI에 액세스하여 기기를 식별하고 서비스를 제공합니다.</string>
+    <string name="dialog_read_phone_perm_desc">OAID 또는 Android ID를 통해 기기에서 사용할 수 있는 기능을 식별합니다.</string>
     <string name="dialog_sleep_goal_setting">수면 시간 목표 설정</string>
     <string name="dialog_sleep_goal_subtitle">매일 7~9시간의 수면을 취하세요.</string>
     <string name="dialog_sleep_goal_title">수면 시간 목표</string>
-    <string name="dialog_sleep_purpose">Mi 건강 수면 추적 서비스에 오신 것을 환영합니다! 이 서비스를 사용하여 수면을 기록하고 수면 데이터를 관리할 수 ​​있습니다. Mi 건강 앱은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다. 수면 데이터의 정확성을 보장하기 위해 Mi 건강 앱은 자동 실행 권한이 필요합니다. 이 기능과 관련된 모든 데이터는 기기에 로컬로 저장됩니다.</string>
-    <string name="dialog_sleep_record_auto_start">수면을보다 정확하게 추적하려면 Mi 건강이 자동 실행되도록하세요.</string>
+    <string name="dialog_sleep_purpose">Xiaomi 건강 수면 추적 서비스에 오신 것을 환영합니다! 이 서비스를 사용하여 수면을 기록하고 수면 데이터를 관리할 수 ​​있습니다. Mi 건강 앱은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다. 수면 데이터의 정확성을 보장하기 위해 Mi 건강 앱은 자동 실행 권한이 필요합니다. 이 기능과 관련된 모든 데이터는 기기에 로컬로 저장됩니다.</string>
+    <string name="dialog_sleep_record_auto_start">수면을 보다 정확하게 추적하려면 Xiaomi 건강이 자동 실행되도록하세요.</string>
     <string name="dialog_sure">확인</string>
-    <string name="dialog_user_agreement_purpose">Mi 건강 앱에 오신 것을 환영합니다! 이 앱을 사용하여 걸음 수, 수면, 기간 및 몸무게를 추적하고 건강 조언을 받을 수 있습니다.</string>
+    <string name="dialog_user_agreement_purpose">Xiaomi 건강 앱에 오신 것을 환영합니다! 이 앱을 사용하여 걸음 수, 수면, 기간 및 몸무게를 추적하고 건강 조언을 받을 수 있습니다.</string>
     <string name="drink_water">물을 마시고 산책을 하세요.</string>
     <string name="edit_basic_info_desc">기본 정보</string>
     <string name="edit_sleep_record_button">편집</string>
-    <string name="enter_mi_health">Mi 건강 앱 열기</string>
+    <string name="enter_mi_health">Xiaomi 건강 앱 열기</string>
     <string name="exercise">운동</string>
     <string name="exercise_goal_accomplished">목표 도달함</string>
     <string name="exercise_goal_lack_exercise">운동이 충분하지 않습니다.</string>
@@ -142,8 +142,8 @@
     <string name="exercise_setting_page_title">활동 설정</string>
     <string name="expand_button_title">고급</string>
     <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
-    <string name="feedback_need_permission_msg">피드백에 사용되는 로그를 생성할 수 있도록 Mi 건강이 외부 저장소에 쓸 수 있도록 허용합니다.</string>
-    <string name="feedback_permission_denied_msg">"Mi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필요한 권한을 부여하세요."</string>
+    <string name="feedback_need_permission_msg">피드백에 사용되는 로그를 생성할 수 있도록 Xiaomi 건강이 외부 저장소에 쓸 수 있도록 허용합니다.</string>
+    <string name="feedback_permission_denied_msg">"Xiaomi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필요한 권한을 부여하세요."</string>
     <string name="finish">마침</string>
     <string name="gender_female">여성</string>
     <string name="gender_male">남성</string>
@@ -161,7 +161,7 @@
     <string name="health_app_name">건강</string>
     <string name="health_app_name_dev">건강 개발</string>
     <string name="health_score">건강 점수</string>
-    <string name="health_score_tips">건강 점수는 수면 및 활동 단계뿐만 아니라 BMI (체질량 지수)를 기준으로 계산됩니다. 목표에 가까울수록 건강 점수가 높아집니다.</string>
+    <string name="health_score_tips">건강 점수는 수면 및 활동 단계뿐만 아니라 BMI(체질량 지수)를 기준으로 계산됩니다. 목표에 가까울수록 건강 점수가 높아집니다.</string>
     <string name="history_statistics">통계</string>
     <string name="home_page_card_setting">시작 페이지 카드</string>
     <string name="hr_choose_detect_state">현재 어떤 상태인가요?</string>
@@ -183,7 +183,7 @@
     <string name="hr_disturb_detect_desc">다시 시작하세요. 측정 중 손가락을 움직이면 안 됩니다.</string>
     <string name="hr_in_detect">심박수 측정 중입니다. 손가락을 움직이지 마세요.</string>
     <string name="hr_measure_heart_rate">측정</string>
-    <string name="hr_open_permission_desc">Xiaomi Health가 심박수 측정을 위해 카메라 권한을 필요로 합니다. 허용할까요?</string>
+    <string name="hr_open_permission_desc">Xiaomi 건강이 심박수 측정을 위해 카메라 권한을 필요로 합니다. 허용할까요?</string>
     <string name="hr_open_permission_title">필요 권한</string>
     <string name="hr_phone_detect_records">휴대전화 측정 기록</string>
     <string name="hr_pre_detect">카메라와 플래시를 한 손가락으로 완전히 덮으세요.</string>
@@ -362,7 +362,7 @@
     <string name="sleep_setting_title">수면 설정</string>
     <string name="sleep_status">수면 상태</string>
     <string name="sleep_time_edit">편집</string>
-    <string name="sleep_time_standard_pattern">표준 : %1$dh</string>
+    <string name="sleep_time_standard_pattern">표준 : %1$d시간</string>
     <string name="sleep_tip_default">23:00 전에 잠자리에 들으세요.</string>
     <string name="sleep_tip_keep_not_enough">"충분한 수면을 취하지 못한 것 같습니다."</string>
     <string name="sleep_tip_keep_on">모든 것이 잘 보입니다. 멋지다!</string>
@@ -429,7 +429,10 @@
     <string name="unit_second">"초"</string>
     <string name="unknown">알 수 없음</string>
     <string name="update_notify_dialog_ignore">나중에</string>
-    <string name="update_notify_dialog_msg">"새로운 업데이트가 있습니다: %1$s. 새로운 기능:%2$s 지금 업데이트하시겠습니까?"</string>
+    <string name="update_notify_dialog_msg">"새로운 업데이트가 있습니다: %1$s.
+새로운 기능:
+%2$s
+지금 업데이트하시겠습니까?"</string>
     <string name="update_notify_dialog_msg2">새로운 업데이트가 있습니다: %1$s. 지금 업데이트하시겠습니까?</string>
     <string name="update_notify_dialog_title">새로운 업데이트가 있습니다.</string>
     <string name="update_notify_no_update_log">아직 아무것도 없습니다.</string>
@@ -1136,11 +1139,11 @@
     <string name="weight_height_weight_bmi">체질량 지수</string>
     <string name="weight_keep_up">좋아요! 건강한 몸무게를 유지하세요.</string>
     <string name="welcome_exercise">운동 추적</string>
-    <string name="welcome_exercise_description">운동을 자동으로 추적 할 수 있도록 기기를 휴대하세요.</string>
+    <string name="welcome_exercise_description">운동을 자동으로 추적할 수 있도록 기기를 휴대하세요.</string>
     <string name="welcome_sedentary">계속 움직이세요.</string>
-    <string name="welcome_sedentary_description">"Xiaomi 건강은 오랫동안 앉아있을 때 일 어설 것을 상기시킬 수 있습니다."</string>
+    <string name="welcome_sedentary_description">"Xiaomi 건강은 오래 앉아있을 때 일어서라고 알려줄 수 있습니다."</string>
     <string name="welcome_sleep">수면주기 분석</string>
-    <string name="welcome_sleep_description">아침에 수면주기에 대해 배우려면 옆에 전화기를 두세요.</string>
+    <string name="welcome_sleep_description">아침에 일어나 수면 주기를 확인하려면 옆에 휴대전화를 두세요.</string>
     <string name="welcome_start_use">시작</string>
     <string name="well">좋음</string>
     <string name="write_strorage_perm_description">발생한 문제에 대한 정보를 저장하기 위해</string>

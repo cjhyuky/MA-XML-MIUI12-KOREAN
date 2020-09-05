@@ -261,7 +261,7 @@
     <string name="lv_subtitle_current_dir">현재 폴더</string>
     <string name="lv_subtitle_folder_up">이전 폴더</string>
     <string name="lv_subtitle_font_color_title">텍스트 색상</string>
-    <string name="lv_subtitle_font_size_title">텍스트 크기</string>
+    <string name="lv_subtitle_font_size_title">글자 크기</string>
     <string name="lv_subtitle_manual_add_sub">자막을 추가했습니다.</string>
     <string name="lv_subtitle_no_subtitle">자막을 사용할 수 없습니다.</string>
     <string name="lv_subtitle_non_subtitle_file">사용 가능한 자막 파일이 없습니다.</string>

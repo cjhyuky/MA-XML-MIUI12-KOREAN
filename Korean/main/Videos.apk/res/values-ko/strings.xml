@@ -578,7 +578,7 @@
     <string name="pref_subtitle_override_system_summary_on">사용</string>
     <string name="pref_captioning_standard_options_title">표준 옵션</string>
     <string name="pref_captioning_locale">언어</string>
-    <string name="pref_captioning_text_size">텍스트 크기</string>
+    <string name="pref_captioning_text_size">글자 크기</string>
     <string name="pref_captioning_preset">캡션 스타일</string>
     <string name="pref_captioning_custom_options_title">맞춤 옵션</string>
     <string name="pref_captioning_background_color">배경 색상</string>

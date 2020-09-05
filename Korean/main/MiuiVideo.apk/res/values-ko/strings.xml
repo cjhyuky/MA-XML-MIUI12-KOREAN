@@ -42,7 +42,7 @@
     <string name="subtitle_current_dir">현재 폴더</string>
     <string name="subtitle_folder_up">이전 폴더</string>
     <string name="subtitle_font_color_title">텍스트 색상</string>
-    <string name="subtitle_font_size_title">텍스트 크기</string>
+    <string name="subtitle_font_size_title">글자 크기</string>
     <string name="subtitle_manual_add_sub">자막 추가 성공</string>
     <string name="subtitle_no_subtitle">자막 사용 불가</string>
     <string name="subtitle_non_subtitle_file">자막 파일 없음</string>

@@ -21,7 +21,7 @@
     <string name="about_downloading">%s 다운로드 중</string>
     <string name="about_item_function">새로운 기능</string>
     <string name="about_net_error">네트워크 설정을 확인하고 다시 시도하세요.</string>
-    <string name="about_newest">배경화면 회전 목마가 최신 버전입니다.</string>
+    <string name="about_newest">슬라이드형 배경화면이 최신 버전입니다.</string>
     <string name="about_update">업데이트</string>
     <string name="ad_btn_connecting">연결</string>
     <string name="ad_btn_download_continue">이어받기</string>
@@ -85,7 +85,7 @@
     <string name="comment_pop_cancel">지금은 아닙니다.</string>
     <string name="comment_pop_content">슬라이드형 배경화면을 원한다면 리뷰하세요!</string>
     <string name="comment_pop_ok">평가</string>
-    <string name="comment_pop_title">배경화면 회전 목마 평가하기</string>
+    <string name="comment_pop_title">슬라이드형 배경화면 평가하기</string>
     <string name="confirm">확인</string>
     <string name="create_shortcut">홈 화면 바로가기 만들기</string>
     <string name="create_shortcut_btn">생성</string>
@@ -351,7 +351,7 @@
     <string name="save_to_album">갤러리에 성공적으로 저장되었습니다.</string>
     <string name="save_to_album_fail">저장할 수 없습니다.</string>
     <string name="scribe_btn_ok">구독하기</string>
-    <string name="scribe_title1">배경화면 회전 목마 구독하기</string>
+    <string name="scribe_title1">슬라이드형 배경화면 구독하기</string>
     <string name="search">검색</string>
     <string name="search_menu_title">검색</string>
     <string name="search_str">인기 있는 요청</string>
@@ -472,7 +472,7 @@
     <string name="theme_apply_success">잠금 화면 적용됨</string>
     <string name="theme_applying">적용 중…</string>
     <string name="theme_close_maml">슬라이드형 배경화면 이미지가 잠금 화면 배경화면을 대체합니다.</string>
-    <string name="theme_des">슬라이드형 배경화면은 MIUI의 기본테마만 지원합니다. 슬라이드형 배경화면을 사용할 수 있도록 기본 테마를 설정하세요.</string>
+    <string name="theme_des">슬라이드형 배경화면은 MIUI의 기본 테마만 지원합니다. 슬라이드형 배경화면을 사용할 수 있도록 기본 테마를 설정하세요.</string>
     <string name="theme_des_lock_style">기본 잠금 화면을 적용하고 배경화면 회전메뉴를 다시 켭니다.</string>
     <string name="theme_des_maml">몇 초가 걸릴 수 있습니다. 현재 테마의 다른 구성 요소는 영향을 받지 않습니다. 테마가 변경되어 변경사항이 적용됩니다.</string>
     <string name="theme_ok">기본 테마 설정</string>

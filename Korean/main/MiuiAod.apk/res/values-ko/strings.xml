@@ -174,7 +174,7 @@
     <string name="standard_style">표준</string>
     <string name="text_color">텍스트 색상</string>
     <string name="text_length_exceed_limit_alert">*입력한 텍스트가 너무 깁니다.</string>
-    <string name="text_size">텍스트 크기</string>
+    <string name="text_size">글자 크기</string>
     <string name="aod_style">테마</string>
     <string name="apply_succeed">적용됨</string>
     <string name="chosen_picture">배경 선택</string>

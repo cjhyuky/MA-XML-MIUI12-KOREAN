@@ -455,9 +455,9 @@
     <string name="general_preference_confirm_send_label">전송 전 확인</string>
     <string name="general_preference_str_auto_translation">빠른 번역</string>
     <string name="general_preference_str_auto_translation_prompt">텍스트를 복사하여 번역 보기</string>
-    <string name="general_preference_text_zoom_dialog_title">메시지 텍스트 크기</string>
+    <string name="general_preference_text_zoom_dialog_title">메시지 글자 크기</string>
     <string name="general_preference_text_zoom_huge">매우 큰</string>
-    <string name="general_preference_text_zoom_label">메시지 텍스트 크기</string>
+    <string name="general_preference_text_zoom_label">메시지 글자 크기</string>
     <string name="general_preference_text_zoom_large">큰</string>
     <string name="general_preference_text_zoom_normal">보통</string>
     <string name="general_preference_text_zoom_small">작은</string>
