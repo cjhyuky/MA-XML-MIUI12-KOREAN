@@ -1120,10 +1120,10 @@
     <string name="thursday_short">목</string>
     <string name="time">시간</string>
     <string name="time_picker_dialog_title">시간 설정</string>
-    <string name="title_select_birthday_description">"나이에 따라 서비스를 조정하겠습니다."</string>
-    <string name="title_select_gender_description">"귀하의 성별에 따라 서비스를 조정하겠습니다."</string>
-    <string name="title_select_height_description">이것은 통계를보다 정확하게 만듭니다.</string>
-    <string name="title_select_weight_description">이것은 통계를보다 정확하게 만듭니다.</string>
+    <string name="title_select_birthday_description">"나이에 따라 서비스를 조정합니다."</string>
+    <string name="title_select_gender_description">"성별에 따라 서비스를 조정합니다."</string>
+    <string name="title_select_height_description">통계의 정확성을 높입니다.</string>
+    <string name="title_select_weight_description">통계를 정확성을 높입니다.</string>
     <string name="today_hh_mm">오늘 HH:mm</string>
     <string name="today_no_data">현재 데이터가 없습니다.</string>
     <string name="too_little">너무 작습니다.</string>
@@ -1141,7 +1141,7 @@
     <string name="welcome_exercise">운동 추적</string>
     <string name="welcome_exercise_description">운동을 자동으로 추적할 수 있도록 기기를 휴대하세요.</string>
     <string name="welcome_sedentary">계속 움직이세요.</string>
-    <string name="welcome_sedentary_description">"Xiaomi 건강은 오래 앉아있을 때 일어서라고 알려줄 수 있습니다."</string>
+    <string name="welcome_sedentary_description">"Xiaomi 건강은 오래 앉아있을 때 일어서라고 알려줍니다."</string>
     <string name="welcome_sleep">수면주기 분석</string>
     <string name="welcome_sleep_description">아침에 일어나 수면 주기를 확인하려면 옆에 휴대전화를 두세요.</string>
     <string name="welcome_start_use">시작</string>
