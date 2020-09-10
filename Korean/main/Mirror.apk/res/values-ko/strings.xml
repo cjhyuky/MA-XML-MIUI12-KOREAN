@@ -174,4 +174,12 @@
     <string name="worker_try_join_in_connected_state">연결 성공</string>
     <string name="worker_try_join_in_connecting_state">기기 연결 중…</string>
     <string name="yesterday">어제</string>
+    <string name="http_buffer_size">HTTP 캐시 크기</string>
+    <string name="log_warning">"로그 기능을 켜면 보안 위험이 증가하고 성능 저하가 발생할 수 있습니다. 필요할 때만 이 기능을 켜세요."</string>
+    <string name="message_log">메시지 로그</string>
+    <string name="resource_log">리소스 로그</string>
+    <string name="settings_log_options">로그</string>
+    <string name="traffic_log">트래픽 로그</string>
+    <string name="verbose_mode">상세 모드</string>
+    <string name="worker_authorization_loading">잠시만 기다리세요…</string>
 </resources>

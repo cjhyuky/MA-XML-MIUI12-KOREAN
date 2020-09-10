@@ -9,7 +9,7 @@
     <string name="app_search">앱 검색</string>
     <string name="btn_send">전송</string>
     <string name="bugreport_dialog_not_show_again">다시 표시하지 않기</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"이제 이 기기의 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 공개하지 않으려면 다른 사람과 로그를 공유하지 마세요. 동의를 선택하시면 저희의 개인정보 보호정책과 사용자 동의에 동의한걸로 처리됩니다.\"&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"이제 이 기기의 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 공개하지 않으려면 다른 사람과 로그를 공유하지 마세요. 동의를 선택하시면 저희의 개인정보 보호정책과 이용 약관에 동의한걸로 처리됩니다.\"&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">탭하여 보기</string>
     <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다.</string>
@@ -181,7 +181,7 @@
     <string name="kr_authorization_storage">저장소</string>
     <string name="kr_authorization_storage_desc">저장소에 액세스하고 로그, 이미지 및 동영상을 포함하여 항목을 저장하기 위함</string>
     <string name="kr_authorization_summary">법률 문서</string>
-    <string name="kr_authorization_user_protocol">사용자 동의 (필수)</string>
+    <string name="kr_authorization_user_protocol">이용 약관 (필수)</string>
     <string name="loading_apps">목록 불러오는 중…</string>
     <string name="login_system_failed">로그인 실패, 다시 시도</string>
     <string name="logo_title">피드백</string>
@@ -435,9 +435,9 @@
     <string name="passport_uplink_slot2_reg">SIM 2 사용</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 기억하는지 확인하세요. 다른 Mi 서비스에 로그인 할 때 사용할 수 있습니다.</string>
     <string name="passport_use_generated_pwd_title">비밀번호 기억하기</string>
-    <string name="passport_user_agreement">사용자 동의서</string>
+    <string name="passport_user_agreement">이용 약관서</string>
     <string name="passport_user_agreement_p1">에 동의하다</string>
-    <string name="passport_user_agreement_p2">사용자 동의서</string>
+    <string name="passport_user_agreement_p2">이용 약관서</string>
     <string name="passport_user_agreement_p3">와</string>
     <string name="passport_user_agreement_p4">개인정보 정책</string>
     <string name="passport_vcode_notification_title">로그인 확인이 완료되지 않았습니다.</string>
@@ -478,8 +478,8 @@
     <string name="select_system_app_tag">태그 선택</string>
     <string name="submit_dialog_cancel">취소</string>
     <string name="submit_dialog_confirm">전송</string>
-    <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 피드백은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 피드백과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호 정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;사용자 동의&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 피드백은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 피드백과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
     <string name="submit_dialog_title">보고서 전송</string>
     <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
     <string name="suggestion_description">여기에 설명 추가</string>

@@ -9,7 +9,7 @@
     <string name="text_optimizer">폴더 이름 업로드</string>
     <string name="summary_optimizer">클러스터는 클라우드 정의를 업데이트 할 수 있도록 클린마스터 서버에 위치 데이터 파일의 파일 이름을 업로드해야 합니다. 동의하십니까?</string>
     <string name="button_optimizer">확인</string>
-    <string name="name_optimizer">개인정보 보호 정책</string>
+    <string name="name_optimizer">개인정보 보호정책</string>
     <string name="title_optimizer">이용 약관</string>
     <string name="header_optimizer">이 기능을 사용하면 %s에 동의하는 것입니다.</string>
     <string name="byteShort">B</string>
@@ -738,8 +738,8 @@
     <string name="global_wa_setting_other_pref_reconmmend_title">권장 사항</string>
     <string name="global_wa_setting_other_pref_shortcut_title">홈 화면 바로가기</string>
     <string name="global_wa_setting_privacy_pref_category_title">개인정보 보호</string>
-    <string name="global_wa_setting_privacy_pref_mi_title">Xiaomi 개인정보 보호 정책</string>
-    <string name="global_wa_setting_privacy_pref_third_title">타사 개인정보 보호 정책</string>
+    <string name="global_wa_setting_privacy_pref_mi_title">Xiaomi 개인정보 보호정책</string>
+    <string name="global_wa_setting_privacy_pref_third_title">타사 개인정보 보호정책</string>
     <string name="global_wa_shortcut_dialog_cancel">취소</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">"다시 표시하지 않음"</string>
     <string name="global_wa_shortcut_dialog_confirm">만들기</string>

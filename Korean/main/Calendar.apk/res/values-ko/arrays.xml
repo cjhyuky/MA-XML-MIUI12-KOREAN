@@ -591,5 +591,12 @@
         <item>오클랜드</item>
         <item>피지</item>
         <item>통가</item>
-    </string-array>    
+    </string-array>
+     <string-array name="account_sync_frequency">
+         <item>수동</item>
+         <item>15분</item>
+         <item>1시간</item>
+         <item>4시간</item>
+         <item>12시간</item>
+     </string-array>
 </resources>

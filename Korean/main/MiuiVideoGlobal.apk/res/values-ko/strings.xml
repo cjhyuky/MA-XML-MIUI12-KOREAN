@@ -385,7 +385,7 @@
     <string name="ovp_setting_clear_cache_success">성공적으로 캐시 지움</string>
     <string name="ovp_setting_clear_cache_text">기기에 저장된 캐시파일 지우기</string>
     <string name="ovp_setting_clear_cache_title">캐시 지우기</string>
-    <string name="ovp_setting_privacy_policy_title">개인정보 보호 정책</string>
+    <string name="ovp_setting_privacy_policy_title">개인정보 보호정책</string>
     <string name="ovp_setting_privacy_switch_tips">권한을 취소하면 일부기능을 사용할 수 없습니다.</string>
     <string name="ovp_setting_privacy_switch_title">승인 및 해지</string>
     <string name="ovp_setting_version_info_title">버전</string>
@@ -410,7 +410,7 @@
     <string name="passport_log_detail">로그 세부정보 보기</string>
     <string name="passport_next_step">다음</string>
     <string name="passport_password_req_notice">비밀번호는 길이가 8-16자 여야하며 숫자와 문자를 모두 포함해야 합니다 (대소문자 구분).</string>
-    <string name="passport_privacy_policy">개인정보 보호 정책</string>
+    <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
     <string name="passport_send_too_many_sms">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_set_password">비밀번호 설정</string>
@@ -421,7 +421,7 @@
     <string name="passport_unknow_error">죄송합니다. 알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_host_network_error">네트워크 설정을 확인하고 다시 시도하세요.</string>
     <string name="passport_unknow_network_error">죄송합니다. 네트워크 오류가 발생했습니다.</string>
-    <string name="passport_user_agreement">사용자 계약</string>
+    <string name="passport_user_agreement">이용 약관</string>
     <string name="passport_user_agreement_prefix">동의</string>
     <string name="passport_user_id_intro">%1$s에 로그인하세요.</string>
     <string name="passport_v_code_error">인증 코드가 잘못되었습니다.</string>

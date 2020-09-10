@@ -419,11 +419,11 @@
     <string name="ent_activating">활성화 중...</string>
     <string name="ent_activation">활성화</string>
     <string name="ent_activation_hint">엔터프라이즈 모드를 활성화하려면 회사 코드를 라이센스 코드와 함께 입력하세요.</string>
-    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호 정책을 읽고 동의하세요.</string>
+    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호정책을 읽고 동의하세요.</string>
     <string name="ent_agency_code">회사 코드</string>
     <string name="ent_agency_code_hint">회사 코드 입력</string>
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>
-    <string name="ent_agree_privacy_policy">"개인정보 취급 방침을 읽었으며 이에 동의했습니다."</string>
+    <string name="ent_agree_privacy_policy">"개인정보 보호정책을 읽었으며 이에 동의했습니다."</string>
     <string name="ent_app_verified">장치에 엔터프라이즈 앱이 설치되어있는 것 같습니다. 엔터프라이즈 모드 활성화?</string>
     <string name="ent_confirm_dialog_content">"엔터프라이즈 모드를 활성화 한 후에는 시스템의 현재 상태로 돌아갈 수 없지만 모든 데이터는 여전히이 모드에 저장됩니다. "</string>
     <string name ="ent_disallow_running">앱을 실행할 수 없습니다.</string>
@@ -443,7 +443,7 @@
     <string name="ent_privacy_policy_notice">*이 모드의 개인 데이터는 정책에 따라 수집됩니다. 귀하의 법인이 설립했습니다. Xiaomi는 이 모드에서 개인정보를 수집하지 않습니다.</string>
     <string name="install">설치</string>
     <string name="install_error">"다시 설치할 수 없습니다."</string>
-    <string name="menu_item_about_privacy_title">개인정보 보호 정책</string>
+    <string name="menu_item_about_privacy_title">개인정보 보호정책</string>
     <string name="confirm_close_password_desc">"비밀번호를 끈 후에는 잠금 화면에서 보조 공간으로 바로 진입할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="confirm_close_password_title">비밀번호 끄기</string>
     <string name="xspace_remove">"듀얼 앱 계정 삭제"</string>

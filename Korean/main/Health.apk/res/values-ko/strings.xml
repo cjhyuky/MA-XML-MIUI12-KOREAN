@@ -436,7 +436,7 @@
     <string name="update_notify_dialog_msg2">새로운 업데이트가 있습니다: %1$s. 지금 업데이트하시겠습니까?</string>
     <string name="update_notify_dialog_title">새로운 업데이트가 있습니다.</string>
     <string name="update_notify_no_update_log">아직 아무것도 없습니다.</string>
-    <string name="user_agreement">사용자 동의</string>
+    <string name="user_agreement">이용 약관</string>
     <string name="user_birthday_display_format">yyyy/MM/dd</string>
     <string name="v7_preference_off">꺼짐</string>
     <string name="v7_preference_on">켜짐</string>

@@ -348,9 +348,9 @@
     <string name="apply_theme_with_ringtones">테마 벨소리 사용</string>
     <string name="settings">설정</string>
     <string name="theme_user_agreement_content1">"이 제품을 사용함으로서 다음에 동의합니다. "</string>
-    <string name="theme_user_agreement_content2">사용자 계약</string>
+    <string name="theme_user_agreement_content2">이용 약관</string>
     <string name="theme_user_agreement_content3">" 및 "</string>
-    <string name="theme_user_agreement_content4">개인정보 보호 정책</string>
+    <string name="theme_user_agreement_content4">개인정보 보호정책</string>
     <string name="theme_user_agreement_content5">". 이 앱을 정상적으로 작동하려면 인터넷 연결이 필요합니다. "</string>
     <string name="theme_user_agreement_title">이용 약관</string>
     <string name="theme_user_agreement_allow">동의</string>
@@ -706,7 +706,7 @@
     <string name="set_home_wallpaper_failed">"%s. 홈 화면 배경화면 적용 실패."</string>
     <string name="using_wallpaper_personal">맞춤 설정된 배경화면 선택</string>
     <string name="wallpaper_personal_dialog_agree">개인 설정</string>
-    <string name="wallpaper_personal_dialog_content">이 기능을 사용하여 관심 분야에 맞게 개인화된 배경화면을 선택할 수 있습니다. 설정에서 이 기능을 켜고 끌 수 있습니다. 배경화면을 맞춤설정하시겠습니까?</string>
+    <string name="wallpaper_personal_dialog_content">이 기능을 사용하여 관심 분야에 맞게 사용자 맞춤 배경화면을 선택할 수 있습니다. 설정에서 이 기능을 켜고 끌 수 있습니다. 배경화면을 맞춤설정하시겠습니까?</string>
     <string name="wallpaper_personal_dialog_disagree">아니요</string>
     <string name="wallpaper_personal_dialog_title">배경화면 맞춤 설정</string>
     <string name="dynamic_video_wallpaper">24시간 배경화면</string>

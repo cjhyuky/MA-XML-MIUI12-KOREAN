@@ -50,7 +50,7 @@
     <string name="miui_failed_other">기타</string>
     <string name="install_failed_system_incompatible">이 앱은 MIUI와 호환되지 않습니다.</string>
     <string name="permission_group_title_charges_related">휴대전화</string>
-    <string name="permission_group_title_privacy_related">개인정보 보호 정책</string>
+    <string name="permission_group_title_privacy_related">개인정보 보호정책</string>
     <string name="permission_group_title_media_related">미디어</string>
     <string name="permission_group_title_settings_related">설정</string>
     <string name="permission_group_title_others">기타</string>

@@ -42,7 +42,7 @@
     <string name="add_to_last_of_playlist">재생 목록 끝에 추가</string>
     <string name="add_to_playlist_successful">추가 완료</string>
     <string name="added_next_play">다음 재생곡으로 추가되었습니다.</string>
-    <string name="agreement_desc">사용자 동의(필수)</string>
+    <string name="agreement_desc">이용 약관(필수)</string>
     <string name="alaka_required">이 음악은 사용 불가능합니다.</string>
     <string name="album_label">앨범</string>
     <string name="album_name">앨범</string>
@@ -368,7 +368,7 @@
     <string name="hungama_subscribe_title">다운로드</string>
     <string name="i_know">확인</string>
     <string name="id_namespace">헝가마</string>
-    <string name="impunity_declaration_content">우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt; 사용자 계약사항&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;개인정보 보호정책&lt;/a&gt; 을 먼저 읽고 사용하시기 바랍니다.</string>
+    <string name="impunity_declaration_content">우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt; 이용 약관사항&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;개인정보 보호정책&lt;/a&gt; 을 먼저 읽고 사용하시기 바랍니다.</string>
     <string name="impunity_declaration_ignore">다시 표시하지 않음</string>
     <string name="impunity_declaration_negative_text">나가기</string>
     <string name="impunity_declaration_positive_text">동의</string>
@@ -564,7 +564,7 @@
     <string name="priority_storage">외장 SD 카드 사용</string>
     <string name="priority_storage_summary">가능한 경우 외장 메모리 카드에 자동으로 다운로드</string>
     <string name="privacy_desc">개인정보 보호정책(필수)</string>
-    <string name="privacy_policy">개인정보 보호 정책</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
     <string name="pro_member">프로 회원</string>
     <string name="project_device">Mi 휴대전화</string>
     <string name="prompt_grant_write_settings_permission">설정 권한 요청</string>
@@ -731,7 +731,7 @@
     <string name="upgrade_music">뮤직 업데이트</string>
     <string name="upgrade_music_message">업데이트가 준비되었습니다. 다시 시작하여 업데이트하세요.</string>
     <string name="upgrading_in_backstage">백그라운드에서 업데이트 중...</string>
-    <string name="user_agreement">사용자 계약</string>
+    <string name="user_agreement">이용 약관</string>
     <string name="version_info">버전</string>
     <string name="video_play_cellular">Wi-Fi에 연결되어 있지 않습니다. 모바일 데이터를 사용하시겠습니까?</string>
     <string name="video_replay_btn">다시 재생</string>
@@ -876,7 +876,7 @@
     <string name = "joox_download_title">JOOX 다운로드</string>
     <string name = "joox_privacy_desc">JOOX 개인정보 보호정책(선택 사항)</string>
     <string name = "joox_privacy_tips_content">온라인 서비스를 사용하기 전에 &lt;a href="/link/click"&gt;JOOX 개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.</string>
-    <string name = "joox_privacy_tips_title">JOOX 개인정보 보호 정책</string>
+    <string name = "joox_privacy_tips_title">JOOX 개인정보 보호정책</string>
     <string name = "joox_recommend_artist_title">추천 아티스트</string>
     <string name = "joox_recommend_playlist_title">추천 재생 목록</string>
     <string name = "joox_search_result_more">더보기</string>

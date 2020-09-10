@@ -1275,7 +1275,7 @@
     <string name="user_privacy_settings_agreement_authorization">"(\"동의\"를 탭하면 메일 앱에 필요한 모든 권한이 부여됩니다)"</string>
     <string name="user_privacy_settings_path">인증을 취소하려면 설정>개인정보 보호설정으로 이동하세요.</string>
     <string name="user_privacy_settings_summary">"Google은 암호화된 형식으로 Android ID를 수집하여 메일에서 고유한 사용자 식별자로 사용합니다. 또한 사용로그를 수집할 수도 있습니다. 개인정보 보호설정에서 언제든지 승인을 취소할 수 있습니다."</string>
-    <string name="user_privacy_settings_title">메일 개인정보 취급방침</string>
+    <string name="user_privacy_settings_title">메일 개인정보 보호정책</string>
     <string name="wait_while_update_db">데이터베이스 업데이트 중…</string>
     <string name="account_settings_smime_title">S/MIME(보안/다목적 인터넷 메일 확장)</string>
     <string name="account_smime_cert_title">인증서</string>

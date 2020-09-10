@@ -424,8 +424,8 @@
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">입력한 전화번호가 잘못되었습니다.</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Mi 메시지를 활성화할 수 없습니다.</string>
     <string name="mx_and_voip_enable">Mi 메시지 &amp; 음성</string>
-    <string name="mx_and_voip_enable_popup_msg">다른 MIUI 사용자에게 무료로 메시지를 보내고 전화를 하세요. VoIP는 Weihul이 지원합니다. Weihul의 개인정보 보호 정책을 보세요.</string>
-    <string name="mx_and_voip_enable_popup_msg2">개인정보 보호 정책</string>
+    <string name="mx_and_voip_enable_popup_msg">다른 MIUI 사용자에게 무료로 메시지를 보내고 전화를 하세요. VoIP는 Weihul이 지원합니다. Weihul의 개인정보 보호정책을 보세요.</string>
+    <string name="mx_and_voip_enable_popup_msg2">개인정보 보호정책</string>
     <string name="mx_auto_resend_mms">MMS로 전송</string>
     <string name="mx_auto_resend_mms_summary">Wi-Fi에 연결되지 않은 상태에서 모바일 데이터 연결을 통하여 MMS 메시지를 전송하면 요금이 부과됩니다.</string>
     <string name="mx_auto_resend_sms">SMS로 전송</string>
@@ -437,8 +437,8 @@
     <string name="mx_dspt">Wi-Fi 연결되어있을 때 다른 MIUI 기기들과 SMS, MMS 메시지를 무료로 전송할 수 있습니다.</string>
     <string name="mx_dspt_listview">SMS 요금 부과 없이 다른 MIUI 사용자에게 메시지 전송</string>
     <string name="mx_dspt_provision">Mi 메시지는 다른 MIUI 사용자 간 인터넷을 통해 추가 비용 없이 메시지를 전송할 수 있게 해줍니다. Mi 메시지를 재활성화하려면 SMS 메시지 발송이 필요할 수 있습니다. 통신사가 메시지 요금을 부과할 수 있습니다. 이 서비스는 정상 작동을 위해 모바일 데이터 연결이 요구됩니다.</string>
-    <string name="mx_dspt_provision_ex">다른 MIUI 사용자에게 인터넷을 사용하여 무료로 메시지를 보내고 전화를 하세요. VoIP는 Weihul이 지원합니다. Weihul의 개인정보 보호 정책을 확인하세요.</string>
-    <string name="mx_dspt_provision_ex2">개인정보 보호 정책</string>
+    <string name="mx_dspt_provision_ex">다른 MIUI 사용자에게 인터넷을 사용하여 무료로 메시지를 보내고 전화를 하세요. VoIP는 Weihul이 지원합니다. Weihul의 개인정보 보호정책을 확인하세요.</string>
+    <string name="mx_dspt_provision_ex2">개인정보 보호정책</string>
     <string name="mx_enable">Mi 메시지</string>
     <string name="mx_enable_ex">Mi 메시지 &amp; 음성</string>
     <string name="mx_enable_popup_msg">Mi 메시지로 다른 MIUI 사용자에게 메시지를 무료로 보낼 수 있습니다.</string>
@@ -771,8 +771,8 @@
     <string name="view_bookmark">원본 메시지 보기</string>
     <string name="view_message_details">세부사항 보기</string>
     <string name="voip_enable">Mi 메시지와 음성</string>
-    <string name="voip_enable_popup_msg">다른 MIUI 사용자와 무료로 통화하세요. VoIP는 Weihul의 지원을 받습니다. Weihul의 개인정보 보호 정책을 보세요.</string>
-    <string name="voip_enable_popup_msg2">개인정보 보호 정책</string>
+    <string name="voip_enable_popup_msg">다른 MIUI 사용자와 무료로 통화하세요. VoIP는 Weihul의 지원을 받습니다. Weihul의 개인정보 보호정책을 보세요.</string>
+    <string name="voip_enable_popup_msg2">개인정보 보호정책</string>
     <string name="wap_push_title">"[WAP 푸시] "</string>
     <string name="warning_show">%ds에서 전송됨</string>
     <string name="wild_msg_processing">작동 중…</string>
@@ -893,7 +893,7 @@
     <string name="rms_original_image_size_too_large">원본 이미지가 너무 큽니다.</string>
     <string name="send_rms_editor_hints">차이나 모바일 메시징</string>
     <string name="send_rms_editor_hints_omit">Mi 메시지</string>
-    <string name="user_agreement">사용자 동의</string>
+    <string name="user_agreement">이용 약관</string>
     <string name="cmcc_privacy">차이나 모바일 이동통신사 개인정보 보호정책 동의</string>
     <string name="mark_number_by_own_dialog_subtitle">%1$s로 표시됨</string>
     <string name="rcs_dspt_unavailable">"현재 이 기능을 사용할 수 없습니다. 차이나모바일 SIM 카드가 기본 SIM 카드여야 합니다."</string>
@@ -1014,7 +1014,7 @@
     <string name="prompt_phone">휴대전화 번호</string>
     <string name="prompt_summary">RCS를 사용하면 메시지, 사진, 동영상을 교환하고 그룹 채팅을 무료로 만들 수 있습니다.</string>
     <string name="prompt_title">RCS로 로그인</string>
-    <string name="prompt_user_agreement">로그인하면 RCS 사용자 계약 및 개인정보 보호정책에 동의하는 것입니다.</string>
+    <string name="prompt_user_agreement">로그인하면 RCS 이용 약관 및 개인정보 보호정책에 동의하는 것입니다.</string>
     <string name="rcs_cfs_dialog_content">"RCS를 사용하여 메시지를 전달할 수 없습니다. 대신 문자 메시지를 보내시겠습니까?"</string>
     <string name="rcs_cfs_dialog_title">대체 메시지 전송</string>
     <string name="rcs_file_link_as_sms">%s를 방문하여 귀하에게 전송된 RCS 파일을보세요.</string>
@@ -1073,7 +1073,7 @@
     <string name="system_permission_declare_disagree">취소</string>
     <string name="system_permission_declare_double_link" formatted="false">이 기능을 사용하기 전에 %1s 및 %2s을 읽고 동의하세요.</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! %2s</string>
-    <string name="system_permission_declare_no_say_no">"당사는 관련 법률, 규정 및 개인정보 보호 정책에 따라 귀하의 개인정보를 보호합니다.
+    <string name="system_permission_declare_no_say_no">"당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.
 그러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 이 앱을 사용할 수 없습니다."</string>
     <string name="system_permission_declare_privacy_declare">%1s 앱은 데이터를 수집해야하며 정상적으로 작동하려면 다음 권한이 필요합니다:</string>
     <string name="system_permission_declare_revoke_path">메시지 설정에서 인증을 취소하고 서비스를 끌 수 있습니다.</string>

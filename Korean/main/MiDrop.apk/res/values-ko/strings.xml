@@ -288,7 +288,7 @@
     <string name="f7">삭제</string>
     <string name="f8">포트 번호는 1024-65535 사이 여야합니다.</string>
     <string name="fa">켜기</string>
-    <string name="fb">Mi Drop이 시스템 설정을 수정할 수있게합니다.</string>
+    <string name="fb">Mi Drop이 시스템 설정을 수정할 수 있게 합니다.</string>
     <string name="fc">주변 기기 검색을 위해 블루투스를 켜세요.</string>
     <string name="fd">"블루투스가 꺼져 있어도 다른 기기에서 나를 찾을 수 없습니다."</string>
     <string name="fe">"블루투스가 꺼져 있으면 일부 장치를 찾을 수 없습니다."</string>
@@ -417,7 +417,7 @@
     <string name="it">확인</string>
     <string name="iu">이 제품을 사용하려면 %1$s 항목과 %2$s 항목을 동의해야 합니다.</string>
     <string name="iv">개인정보 보호정책</string>
-    <string name="iw">사용자 동의</string>
+    <string name="iw">이용 약관</string>
     <string name="ix">약관과 조건</string>
     <string name="iy">시스템 FTP 기본 인코딩</string>
     <string name="j">켜짐</string>

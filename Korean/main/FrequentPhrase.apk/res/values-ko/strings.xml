@@ -4,7 +4,7 @@
     <string name="menu_add_frequent_phrases">추가</string>
     <string name="menu_edit">편집</string>
     <string name="menu_delete">삭제</string>
-    <string name="frequent_phrases_des">간단한 조작으로 문서 작성시 자주 사용하는 문구를 입력하세요.</string>
+    <string name="frequent_phrases_des">간단한 조작으로 문서 작성시 상용구를 입력하세요.</string>
     <string name="add_frequent_phrases">상용구 추가</string>
     <string name="delete_frequent_phrases">상용구 삭제</string>
     <string name="delete_frequent_phrases_confirm">선택한 상용구를 삭제하시겠습니까?</string>

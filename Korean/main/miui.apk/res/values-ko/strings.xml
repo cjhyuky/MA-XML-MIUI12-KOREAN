@@ -40,7 +40,7 @@
     <string name="date_picker_label_day" />
     <string name="copyright">저작권</string>
     <string name="user_agreement">이용 약관</string>
-    <string name="privacy_policy">개인정보 보호 정책</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
     <string name="user_manual">사용자 가이드</string>
     <string name="no_sim">SIM 카드 발견되지 않음</string>
     <string name="sim_locked">SIM 카드가 잠겨 있습니다.</string>

@@ -3,7 +3,7 @@
     <string-array name="settings_search_mirror">
         <item>Screen Combo</item>
         <item>연결 &amp; 공유/Screen Combo</item>
-        <item>스크린 콤보</item>
+        <item>Screen Combo;멀티스크린;화면 미러링;PC;컴퓨터</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Screen Combo를 이용하려면 먼저 모바일 핫스팟, Mi Share, 캐스팅을 끄세요.

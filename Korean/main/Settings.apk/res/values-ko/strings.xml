@@ -309,7 +309,7 @@
     <string name="adaptive_sleep_contextual_slice_title">화면유지 켜기</string>
     <string name="adaptive_sleep_description">화면을 보고 있으면 꺼지지 않습니다.</string>
     <string name="adaptive_sleep_privacy">화면 시선 감지는 전면 카메라를 사용하여 화면을 보고 있는 사용자가 있는지 확인하는 기능입니다. 이 기능은 기기에서 작동하며 이미지는 Google에 전송되거나 저장되지 않습니다.</string>
-    <string name="adaptive_sleep_summary_no_permission">탭하여 기기 개인화 서비스에 대한 권한 관리</string>
+    <string name="adaptive_sleep_summary_no_permission">탭하여 기기 맞춤 서비스에 대한 권한 관리</string>
     <string name="adaptive_sleep_summary_off">사용 안 함</string>
     <string name="adaptive_sleep_summary_on">사용/화면을 보고 있으면 꺼지지 않음</string>
     <string name="adaptive_sleep_title">화면 시선 감지</string>
@@ -3798,8 +3798,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="input_method_cloud_paste_mode_no_title">없음</string>
     <string name="input_method_cloud_paste_mode_red_point_des">"키보드 하단에 빨간색 점이 표시됩니다. 아이콘을 탭하여 클립보드를 열고 복사한 내용을 사용하세요."</string>
     <string name="input_method_cloud_paste_mode_red_point_title">빨간색 점</string>
-    <string name="input_method_function_clipboard">클립보드 및 자주 사용하는 문구</string>
-    <string name="input_method_function_clipboard_des">클립보드 및 자주 사용하는 문구를 보려면 터치하세요.</string>
+    <string name="input_method_function_clipboard">클립보드 및 상용구</string>
+    <string name="input_method_function_clipboard_des">클립보드 및 상용구를 보려면 터치하세요.</string>
     <string name="input_method_function_no_function">없음</string>
     <string name="input_method_function_no_function_des">"바로가기를 표시하지 않습니다."</string>
     <string name="input_method_function_switch">키보드 전환</string>
@@ -5768,7 +5768,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
 이 기능은 처음으로 계정 등록을위한 Wi-Fi MAC 주소만 얻습니다. 우리는 %s에 따라 데이터를 처리합니다. 이 정책을주의 깊게 읽고 계속하기로 동의하세요. "</string>
     <string name="passpoint_r1_privacy_dialog_no">취소</string>
     <string name="passpoint_r1_privacy_dialog_title">주의</string>
-    <string name="passpoint_r1_privacy_dialog_url_text">개인정보 보호 정책</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">개인정보 보호정책</string>
     <string name="passpoint_r1_privacy_dialog_yes">동의 및 계속</string>
     <string name="password">비밀번호</string>
     <string name="passwordIncorrect">입력한 비밀번호가 올바르지 않습니다.</string>
@@ -6124,7 +6124,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="privacy_authorize_cloud_msg">계정 보안을 위해 Mi 클라우드 서비스 (동기화 및 백업)의 동기화를 취소하려면 i.mi.com에 로그인하세요.</string>
     <string name="privacy_authorize_dialog_agree">동의</string>
     <string name="privacy_authorize_dialog_exit">나가기</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"이 서비스의 기본 기능을 사용하려면 Xiaomi가 개인 데이터를 수집, 처리 및 사용한다는 데 동의해야 합니다. 개인 데이터를 수집하고 처리하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요. \"동의\"를 선택하는 것은 우리의 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;개인정보 보호정책&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;사용자 동의&lt;/a&gt;를 읽고 동의했음을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;\"이 서비스의 기본 기능을 사용하려면 Xiaomi가 개인 데이터를 수집, 처리 및 사용한다는 데 동의해야 합니다. 개인 데이터를 수집하고 처리하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요. \"동의\"를 선택하는 것은 우리의 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;개인정보 보호정책&lt;/a&gt; 과 &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;이용 약관&lt;/a&gt;를 읽고 동의했음을 의미합니다.\"&lt;/Data&gt;</string>
     <string name="privacy_authorize_network_error">네트워크에 연결하고 다시 시도하세요.</string>
     <string name="privacy_authorize_privacy_policy">개인정보 보호정책</string>
     <string name="privacy_authorize_revoke">취소</string>
@@ -6940,7 +6940,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="search_pref_edge_handgrip">엣지 컨트롤</string>
     <string name="search_pref_volume_wake_title">볼륨 버튼으로 깨우기;볼륨 버튼</string>
     <string name="search_preferred_network_type_title">선호하는 네트워크 유형;선호하는 네트워크;네트워크 유형</string>
-    <string name="search_privacy_policy">개인정보 보호 정책</string>
+    <string name="search_privacy_policy">개인정보 보호정책</string>
     <string name="search_privacy_settings">백업 &amp; 초기화;백업 및 초기화;백업;리셋;백업</string>
     <string name="search_radio_controls_title">더보기;무선</string>
     <string name="search_recents_queries_label">최근 검색어</string>
@@ -7544,12 +7544,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">허용</string>
     <string name="sos_phone_log_privacy_dialog_message">"이 앱을 사용하면 통화 기록에 액세스하여 비상 연락처와 공유할 수 있는 권한이 필요합니다.
 그러한 권한을 부여하는 데 동의하지 않으면 이 앱의 일부 기능을 사용할 수 없습니다. 그러나 기본 기능은 계속 사용할 수 있습니다. 언제든지 이 기능을 사용 중지 할 수 있습니다. "</string>
-    <string name="sos_privacy_and_content_policy">사용자 동의 및 개인정보 보호 정책</string>
+    <string name="sos_privacy_and_content_policy">이용 약관 및 개인정보 보호정책</string>
     <string name="sos_privacy_dialog_button_cancel">취소</string>
     <string name="sos_privacy_dialog_button_ok">계속하기</string>
     <string name="sos_privacy_dialog_message">"SOS 비상 지원 기능을 활성화하세요. %s 사항을 확인하고 읽으세요.\nSOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모바일 네트워크를 사용하고 주소록을 읽어야합니다. "</string>
     <string name="sos_privacy_dialog_message_new_version">"긴급 SOS를 사용하면 위치를 실시간으로 공유하고 긴급 연락처로 문자 메시지를 보낼 수 있습니다.
-당사는 관련 법률, 규정 및 개인정보 보호 정책에 따라 귀하의 개인정보를 보호합니다.
+당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.
 이 앱은 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.
 • 스토리지 액세스
 긴급 연락처 저장

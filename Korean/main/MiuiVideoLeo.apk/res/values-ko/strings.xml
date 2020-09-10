@@ -718,7 +718,7 @@
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_prev">뒤로 가기</string>
-    <string name="passport_privacy_policy">개인정보 보호 정책</string>
+    <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="passport_pwd_generate_failure">비밀번호를 생성할 수 없음</string>
     <string name="passport_pwd_generating">생성 중…</string>
     <string name="passport_quick_login_dialog_step2_title">2단계 인증</string>
@@ -773,11 +773,11 @@
     <string name="passport_uplink_reg">전화번호 사용</string>
     <string name="passport_uplink_slot1_reg">SIM 1 사용</string>
     <string name="passport_uplink_slot2_reg">SIM 2 사용</string>
-    <string name="passport_user_agreement">사용자 계약</string>
+    <string name="passport_user_agreement">이용 약관</string>
     <string name="passport_user_agreement_p1">동의: </string>
-    <string name="passport_user_agreement_p2">사용자 계약</string>
+    <string name="passport_user_agreement_p2">이용 약관</string>
     <string name="passport_user_agreement_p3"> 및 </string>
-    <string name="passport_user_agreement_p4">개인정보 보호 정책</string>
+    <string name="passport_user_agreement_p4">개인정보 보호정책</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
     <string name="passport_use_generated_pwd_title">비밀번호를 기억하세요!</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>

@@ -296,11 +296,11 @@
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="input_method_clipboard_move_cursor_guide1">커서를 이동하려면 파란 부분을 길게 누르세요 ~</string>
     <string name="input_method_clipboard_move_cursor_guide2">손가락을 수평으로 움직이세요 ~</string>
-    <string name="input_method_edit_phrase_text">자주 쓰는 문구 편집</string>
+    <string name="input_method_edit_phrase_text">상용구 편집</string>
     <string name="input_method_no_content_text">아무것도 없습니다.</string>
     <string name="input_method_switch_settings_text">키보드 설정</string>
     <string name="input_method_tab_clipboard_text">클립보드</string>
-    <string name="input_method_tab_phrase_text">자주 쓰는 문구</string>
+    <string name="input_method_tab_phrase_text">상용구</string>
     <string name="slavewifi">듀얼밴드 Wi-Fi</string>
     <string name="slavewifi_disconnect">연결 끊김</string>
     <string name="slavewifi_notification_title">듀얼밴드 Wi-Fi 가속</string>

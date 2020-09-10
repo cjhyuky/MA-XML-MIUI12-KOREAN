@@ -527,7 +527,7 @@
     <string name="press_to_continue_match">계속하려면 탭하세요.</string>
     <string name="press_to_match">탭하여 연결</string>
     <string name="prev_remote">이전 제어</string>
-    <string name="privacy_content">Xiaomi의 <a href="http://www.miui.com/res/doc/privacy/en.html">개인정보 보호 정책</a>과 <a href="http://www.miui.com/res/doc/eula/en.html">이용 약관</a>을 Mi 리모트 사용 전에 확인하세요. 인터넷 접속과 위치 서비스 접근은 앱의 정상적인 작동을 위해 요구됩니다.</string>
+    <string name="privacy_content">Xiaomi의 <a href="http://www.miui.com/res/doc/privacy/en.html">개인정보 보호정책</a>과 <a href="http://www.miui.com/res/doc/eula/en.html">이용 약관</a>을 Mi 리모트 사용 전에 확인하세요. 인터넷 접속과 위치 서비스 접근은 앱의 정상적인 작동을 위해 요구됩니다.</string>
     <string name="privacy_nohit">다시 보지 않기</string>
     <string name="privacy_title">이용 약관</string>
     <string name="projection_failed_for_disconnect">기기가 연결되지 않음</string>
@@ -848,7 +848,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_error_sim_not_ready">SIM 카드를 찾을 수 없습니다.</string>
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
-    <string name="passport_privacy_policy">개인정보 보호 정책</string>
+    <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_error_empty_username">계정 ID를 입력하세요.</string>
     <string name="passport_reging">계정 만드는 중…</string>
@@ -915,8 +915,8 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_find_password_on_web_msg">비밀번호를 초기화하려면 account.mi.com을 방문하세요.</string>
     <string name="passport_use_generated_pwd_message">비밀번호를 확실히 기억하세요. 이것을 사용하여 다른 Mi 서비스에도 로그인할 수 있습니다.</string>
     <string name="passport_registered_phone_user_ID">사용자 ID: %s</string>
-    <string name="passport_user_agreement">사용자 계약</string>
-    <string name="passport_user_agreement_p2">사용자 계약</string>
+    <string name="passport_user_agreement">이용 약관</string>
+    <string name="passport_user_agreement_p2">이용 약관</string>
     <string name="passport_registered_phone_user_name">사용자 이름: %s</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>
     <string name="passport_pwd_generating">생성 중…</string>

@@ -188,7 +188,7 @@
     <string name="cannot_download">\"http\" 또는 \"https\" URL만 다운로드할 수 있습니다.</string>
     <string name="cast_video">동영상 방송</string>
     <string name="check_security_tip_privacy_policy">개인정보 보호 약관</string>
-    <string name="check_security_tip_user_agreement">사용자 계약</string>
+    <string name="check_security_tip_user_agreement">이용 약관</string>
     <string name="checking_now">체크중...</string>
     <string name="choosertitle_sharevia">공유 경로</string>
     <string name="clear_history">기록 지우기</string>
@@ -1061,7 +1061,7 @@
     <string name="pref_privacy_enable_geolocation_summary">사이트의 위치 접근 요청을 허용합니다.</string>
     <string name="pref_privacy_formdata_title">양식 데이터</string>
     <string name="pref_privacy_location_title">위치 접근</string>
-    <string name="pref_privacy_policy">개인정보 보호 정책</string>
+    <string name="pref_privacy_policy">개인정보 보호정책</string>
     <string name="pref_privacy_security_title">개인정보 보호 &amp; 보안</string>
     <string name="pref_save_bandwidth_mode_title">데이터 절약</string>
     <string name="pref_security_accept_cookies">쿠키 허용</string>

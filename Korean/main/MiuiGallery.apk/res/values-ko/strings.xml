@@ -1750,7 +1750,7 @@
     <string name="unsupport_video">%s 영상은 지원되지 않습니다.</string>
     <string name="user_agree">동의</string>
     <string name="user_agreement2">서비스 약관</string>
-    <string name="user_agreement4">개인정보 보호 정책</string>
+    <string name="user_agreement4">개인정보 보호정책</string>
     <string name="user_alias_self">본인</string>
     <string name="user_notice_identify_summary_format"><Data>"이 서비스를 사용하면 Xiaomi의 &lt;a href=\"%1$s\"&gt;\"서비스 약관\"&lt;/a&gt; 및 &lt;a href=\"%2$s\"&gt;\"개인정보 보호정책\"&lt;/a&gt;에 동의하는 것입니다."</Data></string>
     <string name="user_notice_title">이용 약관</string>
@@ -2364,7 +2364,7 @@
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Q존</string>
     <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">큐큐(QQ)</string>
+    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="copy">복사</string>
     <string name="date_picker_lunar">음력</string>
     <string name="device_status_failed">"보내지 못했습니다."</string>
@@ -2376,7 +2376,7 @@
     <string name="drag_failed_because_not_custom_sort">맞춤형 정렬 순서를 선택한 경우에만 항목을 다시 정렬할 수 있습니다.</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"스크린샷 앨범을 삭제하거나 숨길 수 없습니다."</string>
     <string name="drag_failed_because_share_album_cant_sort">"다른 사람들이 공유한 앨범을 삭제할 수 없습니다."</string>
-    <string name="empty_description_conditions_new">"충분한 사진을 촬영하고 충전기를 연결한 다음 화면을 꺼서 여기에 항목이 더 빨리 표시되도록 하세요."</string>
+    <string name="empty_description_conditions_new">"사진을 충분히 촬영하고 충전기를 연결한 다음, 화면을 꺼서 여기에 항목이 더 빨리 표시되도록 하세요."</string>
     <string name="expand_button_title">고급</string>
     <string name="filter_bi_tea">차</string>
     <string name="filter_category_general">일반</string>

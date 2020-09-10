@@ -751,7 +751,7 @@
     <string name="handsome_boy">남성</string>
     <string name="pretty_girl">여성</string>
     <string name="gender_choose_sub_title">유용한 추천 항목 수신</string>
-    <string name="gender_choose_sub_tile">개인화 콘텐츠 가져오기</string>
+    <string name="gender_choose_sub_tile">사용자 맞춤 콘텐츠 가져오기</string>
     <string name="share_topic_title">\#%1$s#를 보고 있어요. 함께 봐요!</string>
     <string name="share_topic_desc">상품을 받으려면 동영상을 업로드하세요.</string>
     <string name="recommend_popup_title">추천</string>

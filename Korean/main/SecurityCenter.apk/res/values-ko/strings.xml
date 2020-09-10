@@ -1035,7 +1035,7 @@
     <string name="ew_arrive_text_tips">지진파 도착 : %s</string>
     <string name="ew_button_confirm">동의</string>
     <string name="ew_button_exit">동의하지 않기</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"이 기능은 지진 경고 기능을 제공합니다. 다가오는 지진에 대해 알려주고 경고음을 재생합니다. 가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다. &amp;lt;br&amp;gt; 우리는 관련 법률, 규정 및 개인정보 보호 정책에 따라 귀하의 개인정보를 보호합니다. &amp;lt;br&amp;gt; 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면이 기능을 사용할 수 없습니다. 이 경우 이 기능을 끄거나 끄지 않도록 선택할 수 있습니다. &amp;lt;br&amp;gt; 그전에 먼저 귀하의 &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책 &amp;lt;/a&amp;gt;을 읽고 동의해야 합니다.\"&lt;/Data&gt;</string>
+    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"이 기능은 지진 경고 기능을 제공합니다. 다가오는 지진에 대해 알려주고 경고음을 재생합니다. 가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다. &amp;lt;br&amp;gt; 우리는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. &amp;lt;br&amp;gt; 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면이 기능을 사용할 수 없습니다. 이 경우 이 기능을 끄거나 끄지 않도록 선택할 수 있습니다. &amp;lt;br&amp;gt; 그전에 먼저 귀하의 &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책 &amp;lt;/a&amp;gt;을 읽고 동의해야 합니다.\"&lt;/Data&gt;</string>
     <string name="ew_close">알림 끄기</string>
     <string name="ew_emergency_allergy">알레르기</string>
     <string name="ew_emergency_basic_info">기본 정보</string>
@@ -1057,7 +1057,7 @@
     <string name="ew_emergency_medicine">활성 약물</string>
     <string name="ew_emergency_name">이름</string>
     <string name="ew_emergency_organ_donation">장기 기증 자원 봉사입니까?</string>
-    <string name="ew_emergency_privacy">개인정보 보호 정책 : 여기에 제공한 정보는 긴급 상황에서만 사용되며 장치에 저장됩니다. 이 정보는 서버에 업로드되지 않습니다.</string>
+    <string name="ew_emergency_privacy">개인정보 보호정책 : 여기에 제공한 정보는 긴급 상황에서만 사용되며 장치에 저장됩니다. 이 정보는 서버에 업로드되지 않습니다.</string>
     <string name="ew_emergency_recent_medicine">최근 활성 약물</string>
     <string name="ew_emergency_title">의료 카드</string>
     <string name="ew_first_start_network_title">이용 약관</string>
@@ -3169,10 +3169,10 @@ SMS 전송"</string>
     <string name="system_permission_declare_agree">동의</string>
     <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 초대합니다. 서비스 개선을 위한 통계를 수집하기 위해 이 앱을 인터넷에 연결해야하며, 다음과 같은 권한이나 기능이 필요합니다. 통계 목적으로만 데이터를 수집하며, 수집한 데이터를 기반으로 사용자 개인을 식별할 수 없습니다."</string>
     <string name="system_permission_declare_disagree">동의 안 함</string>
-    <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! 이 앱을 통해 다음과 같은 기능을 사용할 수 있습니다: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_no_say_no">필요한 권한을 부여하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
     <string name="system_permission_declare_no_say_no_analytics">이러한 권한을 부여하지 않으려면 설정에서 등록을 취소할 수 있습니다 .</string>
@@ -3180,13 +3180,13 @@ SMS 전송"</string>
     <string name="system_permission_declare_privacy_declare">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 다음 권한을 필요로 합니다.</string>
     <string name="system_permission_declare_privacy_no_network">이 앱은 정상적인 작동을 위해 다음 권한을 필요로 합니다:</string>
     <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 필요한 개인 데이터를 수집해야 합니다.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 취급방침&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_revoke_system">이 앱을 종료할 수 있습니다.</string>
     <string name="system_permission_declare_revoke_uninstallable">보안 &gt; 앱 관리 &gt; 권한에서 로그아웃을 하거나 이 앱을 제거 또는 승인을 취소할 수 있습니다.</string>
     <string name="system_permission_declare_title">주의</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해한다면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">통화하기</string>
     <string name="system_permission_perm_optional">"(선택 사항)"</string>
     <string name="system_permission_perm_read_mms">MMS 읽기</string>

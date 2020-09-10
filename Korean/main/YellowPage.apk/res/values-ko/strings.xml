@@ -376,7 +376,7 @@
     <string name="nearby_no_yellow_page">근처에 결과 없음</string>
     <string name="nearby_average_price">평균 %dRMB</string>
     <string name="user_agreement2">" 이용 약관"</string>
-    <string name="user_agreement4">개인정보 보호 정책</string>
+    <string name="user_agreement4">개인정보 보호정책</string>
     <string name="callNoAnswerTimeFormat">%s번 울림</string>
     <string name="account_yellowpage_recent">기록 보기</string>
     <string name="account_yellowpage_favorite">즐겨찾기</string>
@@ -440,7 +440,7 @@
     <string name="express_setting_authorized_number">인증된 휴대전화 번호</string>
     <string name="express_setting_authorized_number_add">추가</string>
     <string name="express_setting_authorized_number_delete">삭제</string>
-    <string name="express_setting_authorized_number_description">개인정보 취급방침 : 귀하의 전화번호는 배달 주문 상태 및 세부 사항을 확인하는 용도로만 사용됩니다.</string>
+    <string name="express_setting_authorized_number_description">개인정보 보호정책 : 귀하의 전화번호는 배달 주문 상태 및 세부 사항을 확인하는 용도로만 사용됩니다.</string>
     <string name="express_setting_authorized_number_empty">"아직 전화번호가 확인되지 않았습니다."</string>
     <string name="express_setting_code_invalid">"올바른 코드를 입력했는지 확인하세요"</string>
     <string name="express_setting_count_down_time">%ds 번째 다시 시도중입니다.</string>
