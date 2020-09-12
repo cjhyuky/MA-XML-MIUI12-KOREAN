@@ -170,7 +170,7 @@
     <string name="cta_dialog_text2">이용 약관</string>
     <string name="cta_dialog_text3">및</string>
     <string name="cta_dialog_text4">개인정보 보호정책</string>
-    <string name="cta_dialog_text5">를 사용할수 있습니다. 사용하는 동안 네트워크에 연결하고 위치 정보를 사용해야 할수도 있습니다. 동의하십니까?</string>
+    <string name="cta_dialog_text5">를 사용할 수 있습니다. 사용하는 동안 네트워크에 연결하고 위치 정보를 사용해야 할수도 있습니다. 동의하십니까?</string>
     <string name="cta_dialog_title">통지 및 조건</string>
     <string name="cta_negative">닫기</string>
     <string name="cta_positive">자세히</string>
@@ -779,7 +779,7 @@
     <string name="train_T">T 열차</string>
     <string name="train_Z">Z 열차</string>
     <string name="train_normal">일반 열차</string>
-    <string name="trans_card">교통 카드</string>
+    <string name="trans_card">교통카드</string>
     <string name="transit_subway">대중 교통</string>
     <string name="trip_assistant_all_btn">모든 경로</string>
     <string name="trip_profession">고급 자동차</string>
@@ -1048,7 +1048,7 @@
     <string name="payment_clear_records_success">구매내역 삭제 완료</string>
     <string name="payment_date_time_picker_dialog_title">날짜 및 시간 설정</string>
     <string name="payment_dialog_chooser_cancel">취소</string>
-    <string name="payment_dialog_chooser_message_footer">"참고 : 모든 결제 정보는 휴대전화에 안전하게 저장되며 Mi클라우드와 동기화되거나 다른 방식으로 사용되지 않습니다."</string>
+    <string name="payment_dialog_chooser_message_footer">"참고 : 모든 결제 정보는 휴대전화에 안전하게 저장되며 Xiaomi 클라우드와 동기화되거나 다른 방식으로 사용되지 않습니다."</string>
     <string name="payment_dialog_chooser_message_header">\"나의 구매내역\"에 사용할 구매출처 선택</string>
     <string name="payment_dialog_chooser_ok">켜기</string>
     <string name="payment_dialog_chooser_title">나의 구매내역</string>
@@ -1083,7 +1083,7 @@
     <string name="payment_pref_source_wechat_summary">WeChat에서 구매내역 가져오기</string>
     <string name="payment_pref_source_wechat_title">WeChat</string>
     <string name="payment_privacy_dialog_cancel">나가기</string>
-    <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Mi클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
+    <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Xiaomi 클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
     <string name="payment_privacy_dialog_ok">동의</string>
     <string name="payment_privacy_dialog_title">\"나의 구매내역\" 개인정보 보호정책</string>
     <string name="payment_record_add">구매내역 추가</string>

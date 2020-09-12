@@ -724,7 +724,7 @@
     <string name="incall_show_remove_success">프로필 동영상을 삭제했습니다.</string>
     <string name="lab">테마 </string>
     <string name="mix_global_option">일반</string>
-    <string name="mix_global_option_des">알림 창, 전화, 메시징 및 기타 시스템 요소. 기본 옵션을 사용하려면 이 상자의 선택을 취소하세요.</string>
+    <string name="mix_global_option_des">알림 창, 전화, 메시지 및 기타 시스템 요소. 기본 옵션을 사용하려면 이 상자의 선택을 취소하세요.</string>
     <string name="mix_home_option_des">배경하면과 시계, 기본 옵션을 사용하려면 이 상자의 선택을 취소하세요.</string>
     <string name="mix_icons_option_des">홈 화면    아이콘, 기본 옵션을 사용하려면 이 상자의 선택을 취소하세요.</string>
     <string name="mix_lockscreen_option_des">배경화면 및 시계, 기본 옵션을 사용하려면 이 상자의 선택을 취소하세요.</string>
@@ -783,7 +783,7 @@
     <string name="request_time_out">요청 시간이 초과되었습니다. 다시 시도하세요.</string>
     <string name="server_internal_error">서버 오류가 발생했습니다. 잠깐 기다려 다시 시도하세요.</string>
     <string name="swipe_find_more">위로 스와이프하세요.</string>
-    <string name="theme_apply_audio_dialog_item_mms">메시징 벨소리</string>
+    <string name="theme_apply_audio_dialog_item_mms">메시지 벨소리</string>
     <string name="theme_component_title_homepage">홈</string>
     <string name="title_my_miwallpaper_desktop_effects">홈 화면 효과</string>
     <string name="transparency_pref_summary">배경화면의 투명도를 선택하세요.</string>

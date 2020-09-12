@@ -109,7 +109,7 @@
     <string name="current_permission_template">%2$s의 %1$s</string>
     <string name="never_ask_again">다시 묻지 않기</string>
     <string name="permission_warning_template_ask">%1$s 앱에 아래의 권한을 허용하시겠습니까？</string>
-    <string name="HIPS_Perm_UDevice_ID">장치 정보의 일부를 게임 개발자와 공유하여 게임 경험을 향상 시키세요. 동의하십니까?</string>
+    <string name="HIPS_Perm_UDevice_ID">기기 정보의 일부를 게임 개발자와 공유하여 게임 경험을 향상시킵니다. 동의하십니까?</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">게임 개발자와 장치 정보의 일부를 공유하여 게임 경험을 향상시킵니다. 동의하십니까?</string>
     <string name="HIPS_Perm_deamon_notification">고정 알림</string>
     <string name="HIPS_Perm_deamon_notification_Desc">고정 알림을 표시합니다.</string>
@@ -187,4 +187,6 @@
 "</string>
     <string name="HIPS_Perm_mediaVolume">미디어 볼륨 제어</string>
     <string name="HIPS_Perm_mediaVolume_Desc">이 앱이 미디어 볼륨을 제어할 수 있습니다.</string>
+    <string name="HIPS_Perm_recognition">액티비티 정보 접근</string>
+    <string name="HIPS_Perm_recognition_Desc">액티비티 정보에 접근합니다.</string>
 </resources>

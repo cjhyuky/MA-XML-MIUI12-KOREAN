@@ -1011,7 +1011,7 @@
     <string name="locations">자주 가는 장소</string>
     <string name="locations_preferences">주소 목록</string>
     <string name="login_before_use">먼저 로그인해야 합니다.</string>
-    <string name="login_dialog_body">여러 장치에서 항목에 액세스 하려면 Mi클라우드와의 동기화를 설정합니다. 지금 로그인하고 Mi클라우드를 켜시겠습니까?</string>
+    <string name="login_dialog_body">여러 장치에서 항목에 액세스 하려면 Xiaomi 클라우드와의 동기화를 설정합니다. 지금 로그인하고 Xiaomi 클라우드를 켜시겠습니까?</string>
     <string name="login_dialog_negative">나중에</string>
     <string name="login_dialog_positive">로그인 후 열기</string>
     <string name="login_dialog_title">동기화 켜기</string>
@@ -1660,7 +1660,7 @@
     <string name="train_seat_example">예 :. 열차번호 03, 좌석 05F</string>
     <string name="train_T">T 열차</string>
     <string name="train_Z">Z 열차</string>
-    <string name="trans_card">교통 카드</string>
+    <string name="trans_card">교통카드</string>
     <string name="transit_subway">대중 교통</string>
     <string name="trip_assistant_all_btn">모든 경로</string>
     <string name="trip_profession">고급 자동차</string>

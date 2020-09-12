@@ -15,9 +15,9 @@
     <string name="device_xiaomi">Mi 휴대전화</string>
     <string name="no_notification_tips">알림 없음</string>
     <string name="android_ringtone_default_with_actual">기본 벨소리(Id%1$s)</string>
-    <string name="cloud_state_disabled">Mi 클라우드로 동기화가 중단되었습니다.</string>
-    <string name="cloud_state_finished">Mi 클라우드로 동기화됨</string>
-    <string name="cloud_state_syncing">Mi 클라우드로 동기화됨</string>
+    <string name="cloud_state_disabled">Xiaomi 클라우드로 동기화가 중단되었습니다.</string>
+    <string name="cloud_state_finished">Xiaomi 클라우드로 동기화됨</string>
+    <string name="cloud_state_syncing">Xiaomi 클라우드로 동기화됨</string>
     <string name="vip_achievements">성취</string>
     <string name="vip_sign">서명 : </string>
     <string name="vip_not_login">로그인되지 않음</string>

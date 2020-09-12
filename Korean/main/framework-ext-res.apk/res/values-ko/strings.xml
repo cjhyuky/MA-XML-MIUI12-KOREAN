@@ -36,13 +36,13 @@
     <string name="status_bar_toggle_power_mode">성능</string>
     <string name="status_bar_toggle_wifi_ap">핫스팟</string>
     <string name="status_bar_toggle_quiet_mode">방해 금지 모드</string>
-    <string name="status_bar_toggle_paper_mode">독서모드</string>
+    <string name="status_bar_toggle_paper_mode">독서 모드</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
-    <string name="status_bar_toggle_cast">방송하기</string>
+    <string name="status_bar_toggle_cast">캐스트</string>
     <string name="status_bar_toggle_edit">정렬</string>
     <string name="status_bar_toggle_battery_saver">절전 모드</string>
     <string name="status_bar_toggle_nfc">NFC</string>
-    <string name="screen_rotation_freeze_message">자동 회전 사용 불가</string>
+    <string name="screen_rotation_freeze_message">가로 모드에서 화면 회전 잠김</string>
     <string name="perm_send_push_dspt">Mi 푸시 메시지 허용</string>
     <string name="perm_send_push_lab">푸시 메시지 전송</string>
     <string name="select">선택</string>
@@ -196,7 +196,7 @@
     <string name="wifi_assistant_wifi_no_internet_detail">탭하여 세부 정보보기</string>
     <string name="resolver_app_recommend_flag">추천</string>
     <string name="status_bar_toggle_drive_mode">저장소 모드</string>
-    <string name="voice_begin">무엇을 찾고 계십니까?</string>
+    <string name="voice_begin">무엇을 찾고 계신가요?</string>
     <string name="voice_button_action_down">놓아서 검색</string>
     <string name="voice_button_action_up">눌러서 말하기</string>
     <string name="voice_input_error_network">"인터넷에 접속할 수 없습니다. 인터넷 설정을 확인하고 다시 시도하세요."</string>
@@ -294,8 +294,8 @@
     <string name="xiaomi_mix_3_5g">Mi Mix 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
-    <string name="input_method_clipboard_move_cursor_guide1">커서를 이동하려면 파란 부분을 길게 누르세요 ~</string>
-    <string name="input_method_clipboard_move_cursor_guide2">손가락을 수평으로 움직이세요 ~</string>
+    <string name="input_method_clipboard_move_cursor_guide1">커서를 이동하려면 파란 부분을 길게 누르세요.</string>
+    <string name="input_method_clipboard_move_cursor_guide2">손가락을 수평으로 움직이세요.</string>
     <string name="input_method_edit_phrase_text">상용구 편집</string>
     <string name="input_method_no_content_text">아무것도 없습니다.</string>
     <string name="input_method_switch_settings_text">키보드 설정</string>

@@ -285,7 +285,7 @@
     <string name="eq_rock">락</string>
     <string name="equalizer">이퀄라이저</string>
     <string name="exo_controls_fastforward_description">배속</string>
-    <string name="exo_controls_fullscreen_description">최대 화면비 설정</string>
+    <string name="exo_controls_fullscreen_description">전체 화면 모드</string>
     <string name="exo_controls_next_description">다음 곡</string>
     <string name="exo_controls_pause_description">일시 중지</string>
     <string name="exo_controls_play_description">재생</string>

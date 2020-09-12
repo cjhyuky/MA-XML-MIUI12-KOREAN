@@ -3074,7 +3074,7 @@ SMS 전송"</string>
     <string name="storage_menu_mount">마운트</string>
     <string name="storage_mount_failure">"%1$s(을)를 마운트할 수 없음"</string>
     <string name="storage_mount_success">%1$s 마운트 성공</string>
-    <string name="storage_space_release_hint">더 많은 저장공간이 필요하십니까?</string>
+    <string name="storage_space_release_hint">더 많은 저장공간이 필요하시나요?</string>
     <string name="storage_unmount_failure">"%1$s 마운트를 해제할 수 없음"</string>
     <string name="storage_unmount_success">%1$s 마운트 해제 성공</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 포맷</string>
@@ -3169,24 +3169,24 @@ SMS 전송"</string>
     <string name="system_permission_declare_agree">동의</string>
     <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 초대합니다. 서비스 개선을 위한 통계를 수집하기 위해 이 앱을 인터넷에 연결해야하며, 다음과 같은 권한이나 기능이 필요합니다. 통계 목적으로만 데이터를 수집하며, 수집한 데이터를 기반으로 사용자 개인을 식별할 수 없습니다."</string>
     <string name="system_permission_declare_disagree">동의 안 함</string>
-    <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! 이 앱을 통해 다음과 같은 기능을 사용할 수 있습니다: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_no_say_no">필요한 권한을 부여하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
     <string name="system_permission_declare_no_say_no_analytics">이러한 권한을 부여하지 않으려면 설정에서 등록을 취소할 수 있습니다 .</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 일부 작동하지 않습니다.</string>
     <string name="system_permission_declare_privacy_declare">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 다음 권한을 필요로 합니다.</string>
     <string name="system_permission_declare_privacy_no_network">이 앱은 정상적인 작동을 위해 다음 권한을 필요로 합니다:</string>
     <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 필요한 개인 데이터를 수집해야 합니다.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
     <string name="system_permission_declare_revoke_system">이 앱을 종료할 수 있습니다.</string>
     <string name="system_permission_declare_revoke_uninstallable">보안 &gt; 앱 관리 &gt; 권한에서 로그아웃을 하거나 이 앱을 제거 또는 승인을 취소할 수 있습니다.</string>
     <string name="system_permission_declare_title">주의</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 사용 방식을 완전히 이해하려면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">통화하기</string>
     <string name="system_permission_perm_optional">"(선택 사항)"</string>
     <string name="system_permission_perm_read_mms">MMS 읽기</string>
@@ -3324,7 +3324,7 @@ SMS 전송"</string>
     <string name="title_chain_start">연속 실행 제한</string>
     <string name="title_cleaner_cloudscan">클라우드 쓰레기 스캔</string>
     <string name="title_cloud_account">Mi 계정</string>
-    <string name="title_cloud_service">Mi 클라우드</string>
+    <string name="title_cloud_service">Xiaomi 클라우드</string>
     <string name="title_cloud_space_almost_full">클라우드 저장소가 거의 가득찼습니다. 항목들이 동기화 되지 않을 수도 있습니다.</string>
     <string name="title_cloud_space_full">클라우드가 꽉 찼습니다.</string>
     <string name="title_cmcc_app_check">검증이 완료되지 않음</string>

@@ -1278,7 +1278,7 @@
     <string name="respond_via_sms_canned_response_1">지금은 통화할 수 없습니다. 나중에 다시 걸어주시겠습니까?</string>
     <string name="respond_via_sms_canned_response_2">곧 다시 전화드리겠습니다.</string>
     <string name="respond_via_sms_canned_response_3">나중에 다시 전화드리겠습니다.</string>
-    <string name="respond_via_sms_canned_response_4">지금은 통화할 수 없습니다. 무슨 일이십니까?</string>
+    <string name="respond_via_sms_canned_response_4">지금은 통화할 수 없습니다. 무슨 일이신가요?</string>
     <string name="respond_via_sms_cannot_empty">메시지는 비워둘 수 없습니다.</string>
     <string name="respond_via_sms_setting_title">빠른 답장</string>
     <string name="respond_via_sms_setting_summary">미리 작성된 텍스트 응답 수정</string>
@@ -1515,7 +1515,7 @@
     <string name="select_cancel">취소</string>
     <string name="china_unicom">China Unicom</string>
     <string name="china_telecom">China Telecom</string>
-    <string name="disconnect_data_confirm">데이터 서비스가 일시적으로 연결 해제될 것입니다. 확실하십니까?</string>
+    <string name="disconnect_data_confirm">데이터 서비스가 일시적으로 연결 해제될 것입니다. 확실하시나요?</string>
     <string name="ims_vt_call_quality_title">VT 통화 품질</string>
     <string name="ims_vt_call_quality_low">저품질</string>
     <string name="ims_vt_call_quality_high">고품질</string>
@@ -2551,7 +2551,7 @@
     <string name="dial_emergency_calling_not_available">긴급 통화 불가</string>
     <string name="enable_gpu_debug_layers">GPU 디버그 레이어 활성화</string>
     <string name="enable_gpu_debug_layers_summary">앱 디버깅을 위해 GPU 디버그 레이어를 로딩하는걸 허용합니다.</string>
-    <string name="expand_button_title">고급설정</string>
+    <string name="expand_button_title">고급 설정</string>
     <string name="ims_reg_status_not_registered">등록되지 않음</string>
     <string name="ims_reg_status_registered">등록됨</string>
     <string name="ims_reg_title">IMS 등록 상태</string>
@@ -2586,7 +2586,7 @@
     <string name="private_dns_mode_provider_hostname_hint">DNS 제공자의 호스트명을 입력하세요.</string> 
     <string name="privacy_policy_title">개인정보 보호정책</string>
     <string name="roaming_check_price_warning">가격은 네트워크 제공 업체에 문의하세요.</string>
-    <string name="rtt_mode_summary">음성 통화 중 메시징 허용</string>
+    <string name="rtt_mode_summary">음성 통화 중 메시지 허용</string>
     <string name="rtt_mode_title">전화중 리얼타임 문자(RTT)</string>
     <string name="select_private_dns_configuration_dialog_title">비공개 DNS 모드 선택</string>
     <string name="select_private_dns_configuration_title">비공개 DNS</string>

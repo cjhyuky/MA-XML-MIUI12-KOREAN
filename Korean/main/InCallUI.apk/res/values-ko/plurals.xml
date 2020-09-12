@@ -24,4 +24,7 @@
     <plurals name="antispam_marked_count">
         <item quantity="other">%d명의 MIUI 사용자가 신고함</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">%1$s초 후 끊습니다…</item>
+    </plurals>
 </resources>

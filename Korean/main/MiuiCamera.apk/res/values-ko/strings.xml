@@ -1806,4 +1806,7 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">"연결하기 전에 사용 중인 네트워크가 안전한지 확인하세요."</string>
     <string name="zoom_no_support_tip_48M">48MP 슈퍼 클리어 모드에서는 줌 기능을 제공하지 않습니다.</string>
+    <string name="aiwatermark_location_absent_hint">"위치 정보 확인 불가"</string>
+    <string name="aiwatermark_location_list_title">위치</string>
+    <string name="aiwatermark_location_tips">더 적절한 워터마크를 가져올 수 있도록 카메라의 위치 정보 접근을 허용합니다.</string>
 </resources>

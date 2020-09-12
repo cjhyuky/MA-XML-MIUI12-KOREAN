@@ -169,7 +169,7 @@
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
     <string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하세요.</string>
-    <string name="passport_quick_register_notice"><u>Mi 계정이 없으십니까? 생성해보세요.</u></string>
+    <string name="passport_quick_register_notice"><u>Mi 계정이 없으신가요? 생성해보세요.</u></string>
     <string name="passport_password_phone_login">Mi 계정으로 로그인</string>
     <string name="passport_login_other_account">다른 계정</string>
     <string name="passport_reg_new_account">계정 생성</string>
@@ -191,7 +191,7 @@
     <string name="passport_user_reg_region_warning">"지역/로케일은 한 번 선택하면 바꿀 수 없습니다."</string>
     <string name="search_app_name">Mi 계정</string>
     <string name="search_mi_account">Mi 계정</string>
-    <string name="search_mi_account_key_words">Mi 클라우드,계정 설정,Mi 페이 정보,로그아웃</string>
+    <string name="search_mi_account_key_words">Xiaomi 클라우드,계정 설정,Mi 페이 정보,로그아웃</string>
     <string name="search_mi_account_desc">Mi 계정</string>
     <string name="search_mi_account_path">설정/Mi 계정</string>
     <string name="search_user_detail">개인정보</string>
@@ -312,7 +312,7 @@
     <string name="account_security">계정 보안</string>
     <string name="account_mipay_info">Mi 페이</string>
     <string name="account_xiaomi_service">서비스</string>
-    <string name="cloud_service">Mi 클라우드</string>
+    <string name="cloud_service">Xiaomi 클라우드</string>
     <string name="vip_account_settings">VIP 설정</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="loading_micloud_sync_data">잠시 기다려 주세요…</string>
@@ -359,9 +359,9 @@
     <string name="find_device_remote_exception">RPC 오류</string>
     <string name="io_error_title">네트워크 승인</string>
     <string name="login_check_find_device_failed_title">기기 찾기 상태를 확인할 수 없음</string>
-    <string name="multi_user_not_show_sync_activity_title">Mi 클라우드와 동기화를 하지 마세요.</string>
+    <string name="multi_user_not_show_sync_activity_title">Xiaomi 클라우드와 동기화를 하지 마세요.</string>
     <string name="multi_user_not_show_sync_activity_message_1">기본 공간과 같은 계정으로 로그인하고 계신 것 같습니다.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">모든 데이터가 보조 공간에 동기화되는 것을 방지하기 위해 Mi 클라우드를 켜지 마세요.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">모든 데이터가 보조 공간에 동기화되는 것을 방지하기 위해 Xiaomi 클라우드를 켜지 마세요.</string>
     <string name="notify_network_restricted_title">Mi 계정 네트워크 연결 실패</string>
     <string name="notify_network_restricted_content_hidden_state">Mi 계정의 백그라운드 활동 제한됨, 탭하여 허용하기</string>
     <string name="notify_network_restricted_content_bg_network">Mi 계정의 인터넷 접근 제한됨, 탭하여 허용하기</string>
@@ -419,7 +419,7 @@
     <string name="logout_account">로그아웃</string>
     <string name="mipay">지불</string>
     <string name="mipay_bank_card">은행 카드</string>
-    <string name="mipay_transit_card">교통 카드</string>
+    <string name="mipay_transit_card">교통카드</string>
     <string name="mipay_balance">잔액</string>
     <string name="mipay_others">기타</string>
     <string name="mipay_identity">ID 인증</string>
@@ -429,7 +429,7 @@
     <string name="account_token_expired_msg">"인증 코드 만료됨, 재로그인 또는 로그아웃하세요.
 귀하의 계정 ID: %s"</string>
     <string name="bind_safe_phone_msg">전화번호를 지금 추가하세요.</string>
-    <string name="account_mibi_center">Mi 크레딧</string>
+    <string name="account_mibi_center">Mi 코인</string>
     <string name="account_notification_message">세션 만료됨. 다시 시도하세요.</string>
     <string name="passport_continue">계속</string>
     <string name="passport_login_recycle_account_no">아니오</string>
@@ -506,11 +506,11 @@ ID:%s
     <string name="mi_finance_info">신규 사용자를 위한 보너스</string>
     <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다."</string>
     <string name="sim_card">SIM 카드</string>
-    <string name="used_cloud_storage_info">사용 중인 저장공간 %s</string>
+    <string name="used_cloud_storage_info">%s 사용 중</string>
     <string name="exit">나가기</string>
     <string name="i_agree">확인</string>
     <string name="i_agree_continue">동의</string>
-    <string name="kr_license_desc">Mi 계정과 Mi클라우드 서비스를 사용하려면 이용 약관과 개인정보 보호정책에 동의해야 합니다.</string>
+    <string name="kr_license_desc">Mi 계정과 Xiaomi 클라우드 서비스를 사용하려면 이용 약관과 개인정보 보호정책에 동의해야 합니다.</string>
     <string name="kr_permission_contacts_desc">연락처 정보 읽기를 위한 권한</string>
     <string name="kr_permission_desc">권한 요구됨</string>
     <string name="kr_permission_phone_desc">계정 보호를 위한 권한</string>

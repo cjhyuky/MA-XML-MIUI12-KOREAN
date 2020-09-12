@@ -1219,11 +1219,11 @@
     <string name="scan_qrcode_card_hint1">위 QR 코드 스캔</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="create_qrcode_fail_message">QR 코드를 만들 수 없습니다.</string>
-    <string name="cloud_recommend_msg">탭하여 Mi 클라우드로 연락처 동기화</string>
-    <string name="cloud_state_sync_finished">Mi 클라우드로 동기화됨</string>
-    <string name="cloud_state_syncing">Mi 클라우드로 동기화됨</string>
+    <string name="cloud_recommend_msg">탭하여 Xiaomi 클라우드로 연락처 동기화</string>
+    <string name="cloud_state_sync_finished">Xiaomi 클라우드로 동기화됨</string>
+    <string name="cloud_state_syncing">Xiaomi 클라우드로 동기화됨</string>
     <string name="cloud_state_loading">잠시 기다려 주세요…</string>
-    <string name="cloud_state_disabled">Mi 클라우드로 동기화가 꺼졌습니다.</string>
+    <string name="cloud_state_disabled">Xiaomi 클라우드로 동기화가 꺼졌습니다.</string>
     <string name="unknow_phone_number_call_failed">모르는 번호로 전화를 걸 수 없습니다.</string>
     <string name="unknow_phone_number_mms_failed">알 수 없는 번호로 메시지를 보낼 수 없습니다.</string>
     <string name="more_call_logs"><a href="https://i.mi.com">i.mi.com</a>에서 전체 통화 녹음 듣기</string>

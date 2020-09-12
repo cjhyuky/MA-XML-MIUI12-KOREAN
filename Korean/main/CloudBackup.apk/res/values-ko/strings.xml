@@ -11,7 +11,7 @@
     <string name="dialog_msg_restore_require_wlan_china">백업을 복원하려면 Wi-Fi에 연결해야 합니다.</string>
     <string name="dialog_title_require_wlan_china">Wi-Fi에 연결</string>
     <string name="help_and_feedback">도움말 및 피드백</string>
-    <string name="app_name">Mi 클라우드 백업</string>
+    <string name="app_name">Xiaomi 클라우드 백업</string>
     <string name="settings_backup">시스템 설정</string>
     <string name="deskclock_backup">알람 시계</string>
     <string name="button_cancel">취소</string>
@@ -24,9 +24,9 @@
     <string name="cloud_app_restore_app_and_data">기기 설정</string>
     <string name="cloud_app_restore_data">개인 데이터와 이전에 설치된 앱이 자동으로 기기에 표시됩니다.</string>
     <string name="cloud_app_dont_restore">새 기기로 설정</string>
-    <string name="cloud_app_restore_wifi_prompt">Mi 클라우드 백업에서 복원하려면 Wi-Fi 네트워크에 연결해야 합니다.</string>
+    <string name="cloud_app_restore_wifi_prompt">Xiaomi 클라우드 백업에서 복원하려면 Wi-Fi 네트워크에 연결해야 합니다.</string>
     <string name="cloud_backup_detail_state">자동 백업</string>
-    <string name="cloud_backup_detail_state_summary">Wi-Fi 연결 시 자동으로 Mi 클라우드 백업을 생성합니다.</string>
+    <string name="cloud_backup_detail_state_summary">Wi-Fi 연결 시 자동으로 Xiaomi 클라우드 백업을 생성합니다.</string>
     <string name="cloud_backup_detail_frequence">일정 백업</string>
     <string name="cloud_back_up_interval_long">일주일</string>
     <string name="cloud_back_up_interval_short">일</string>
@@ -44,17 +44,17 @@
     <string name="cloud_back_up_subscribe_vip_title">Mi 계정 업그레이드</string>
     <string name="cloud_back_up_subscribe_vip_discription">더 많은 저장공간 확보, 매일 백업, 더보기.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">업그레이드</string>
-    <string name="cloud_back_up_detail_discription">"기기가 Wi-Fi에 연결되어 있을 때 다음의 항목들이 Mi 클라우드에 백업될 것입니다: 
+    <string name="cloud_back_up_detail_discription">"기기가 Wi-Fi에 연결되어 있을 때 다음의 항목들이 Xiaomi 클라우드에 백업될 것입니다: 
 * 앱, 홈 화면 레이아웃, 배경화면 
 * 알람, 시계, 시간 설정 
 * 알림 설정 
 * MIUI와 시스템 설정 
-\"주의: 설치된 앱의 데이터는 Mi 클라우드에 백업되지 않습니다.\""</string>
+\"주의: 설치된 앱의 데이터는 Xiaomi 클라우드에 백업되지 않습니다.\""</string>
     <string name="cloud_app_no_data">백업 없음</string>
     <string name="cloud_app_restore_error">복원하지 못했습니다.</string>
     <string name="cloud_app_restore_success">앱 복원됨</string>
     <string name="cloud_app_backup_success">앱 백업 성공</string>
-    <string name="cloud_app_check_data">Mi 클라우드에 연결 중…</string>
+    <string name="cloud_app_check_data">Xiaomi 클라우드에 연결 중…</string>
     <string name="cloud_app_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="button_delete">삭제</string>
     <string name="customization"><u>사용자 설정</u></string>
@@ -64,9 +64,9 @@
     <string name="recovering">%s 복원 중</string>
     <string name="start_recover">%s 복원</string>
     <string name="latest_backup_time_loading">불러오는 중…</string>
-    <string name="start_backup_to_micloud">Mi 클라우드로 앱 백업</string>
+    <string name="start_backup_to_micloud">Xiaomi 클라우드로 앱 백업</string>
     <string name="backing_up_to_micloud">백업 중…</string>
-    <string name="restore_from_cloud">Mi 클라우드 백업에서 복원</string>
+    <string name="restore_from_cloud">Xiaomi 클라우드 백업에서 복원</string>
     <string name="backup_to_cloud">앱 백업</string>
     <string name="restoreing_file_tile">%d개의 파일 복원 중</string>
     <string name="menu_item_sort">정렬</string>
@@ -83,7 +83,7 @@
     <string name="desktop_installing">설치 중</string>
     <string name="desktop_recovering">복원 중</string>
     <string name="desktop_wait_wifi">기다리는 중</string>
-    <string name="recover_from_micloud">Mi 클라우드 백업에서 복원</string>
+    <string name="recover_from_micloud">Xiaomi 클라우드 백업에서 복원</string>
     <string name="click_try_to_restore_again">탭하여 다시 시도</string>
     <string name="open_wifi">지금 Wi-Fi 켜기</string>
     <string name="open_wifi_description">Wi-Fi 네크워크에 연결하여 앱 복원</string>
@@ -110,19 +110,19 @@
     <string name="about_to_recover">잠시 기다려 주세요…</string>
     <string name="success_open_cloudbackup">홈 화면 앱을 위해 백업이 켜졌습니다.</string>
     <string name="as_new_device">이전의 홈 화면과 설정 교체하기</string>
-    <string name="as_new_device_summary">이전의 Mi 클라우드 백업 지우기</string>
+    <string name="as_new_device_summary">이전의 Xiaomi 클라우드 백업 지우기</string>
     <string name="restore_data_summary">이 기능은 인터넷 연결을 필요로 합니다.</string>
-    <string name="query_restore_summary">이 기기를 위한 Mi 클라우드 백업 파일을 찾았습니다. 홈 화면 앱과 설정을 복원하거나 새로운 기기를 이용하여 이전 Mi 클라우드 백업을 삭제하시겠습니까?</string>
-    <string name="query_restore_back_view">Mi 클라우드 백업</string>
-    <string name="restore_home_screen_apps">Mi 클라우드 백업에서 복원</string>
+    <string name="query_restore_summary">이 기기를 위한 Xiaomi 클라우드 백업 파일을 찾았습니다. 홈 화면 앱과 설정을 복원하거나 새로운 기기를 이용하여 이전 Xiaomi 클라우드 백업을 삭제하시겠습니까?</string>
+    <string name="query_restore_back_view">Xiaomi 클라우드 백업</string>
+    <string name="restore_home_screen_apps">Xiaomi 클라우드 백업에서 복원</string>
     <string name="restoring_home_screen_apps">Xiaomi 클라우드에서 복원중…</string>
     <string name="query_restore_description">이 백업을 사용하여 홈 화면 앱과 설정을 복구합니다. 이미 기기에 설치되어있는 중복된 앱을 덮어씌우게될 것입니다. 앱이 백업에 포함되어 있지 않다면 마지막 홈 화면으로 이동될 것입니다.</string>
     <string name="restore_from_this_device">이 백업을 사용하여 복원</string>
     <string name="confirm_restore_title">복원</string>
     <string name="confirm_restore_summary">홈 화면이 다시시작됩니다. 백업된 앱이 자동으로 다운로드됩니다.</string>
     <string name="confirm_restore">복원</string>
-    <string name="cloud_backup_have_data">Mi 클라우드에서 백업 찾기</string>
-    <string name="cloud_backup_select_recover">Mi 클라우드에서 백업 선택하기</string>
+    <string name="cloud_backup_have_data">Xiaomi 클라우드에서 백업 찾기</string>
+    <string name="cloud_backup_select_recover">Xiaomi 클라우드에서 백업 선택하기</string>
     <string name="backup_finished_notification_content">홈 화면 앱, 시스템 설정, 기타가 백업되었습니다.</string>
     <string name="backup_now">지금 백업</string>
     <string name="restore_task_unfinished">앱을 복원하는중입니다. 나중에 다시 시도하세요.</string>
@@ -143,11 +143,11 @@
     <string name="authentication_failed">"계정을 확인할 수 없습니다."</string>
     <string name="backup_fail_wifi_needed">"백업할 수 없습니다. Wi-Fi 연결이 필요합니다."</string>
     <string name="cancel_restore_home">취소중…</string>
-    <string name="cloud_backup">Mi 클라우드 백업</string>
+    <string name="cloud_backup">Xiaomi 클라우드 백업</string>
     <string name="cloud_backup_detail_title">홈 화면, 앱, 그리고 설정.</string>
     <string name="cloud_backup_in_cancel">취소</string>
     <string name="cloud_backup_in_process">백업중…</string>
-    <string name="cloud_backup_title">Mi 클라우드 백업</string>
+    <string name="cloud_backup_title">Xiaomi 클라우드 백업</string>
     <string name="confirm_cancel_restore_negative">취소</string>
     <string name="confirm_cancel_restore_positive">계속</string>
     <string name="confirm_cancel_restore_title">백업을 취소하시겠습니까?</string>
@@ -168,7 +168,7 @@
     <string name="open_backup_switch">백업 스위치를 탭하세요.</string>
     <string name="remove_again">다시 시도</string>
     <string name="remove_unfinished">삭제 중, 나중에 다시 시도하세요.</string>
-    <string name="restore_cloud_backup_to_phone">Mi 클라우드에서 항목 복원</string>
+    <string name="restore_cloud_backup_to_phone">Xiaomi 클라우드에서 항목 복원</string>
     <string name="restore_data_title">데이터 복원중</string>
     <string name="restore_finished_notification_content">홈 화면, 시스템 설정 등을 복원했습니다.</string>
     <string name="restore_home_failed">"홈 화면을 복원하지 못했습니다."</string>
@@ -212,7 +212,7 @@
     <string name="backup_stopped_title">백업이 중단됨</string>
     <string name="dialog_btn_cancel_backup">취소</string>
     <string name="dialog_btn_overwrite_backup">덮어쓰기</string>
-    <string name="dialog_msg_overwrite_backup">로컬 백업은 Mi 클라우드의 백업과 다릅니다. 계속 진행하시면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
+    <string name="dialog_msg_overwrite_backup">로컬 백업은 Xiaomi 클라우드의 백업과 다릅니다. 계속 진행하시면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
     <string name="other_device_main_space">메인 공간</string>
     <string name="other_device_second_space">보조 공간</string>
     <string name="self_device_main_space">"이 휴대전화의 메인 공간"</string>

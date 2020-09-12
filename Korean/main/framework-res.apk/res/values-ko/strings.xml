@@ -275,7 +275,7 @@
     <string name="permlab_sendSms">SMS 메시지 보내기</string>
     <string name="permdesc_sendSms">앱이 SMS 메시지를 보낼 수 있도록 허용합니다. 이 경우 예상치 못한 통화 요금이 부과될 수 있습니다. 이 경우 악성 앱이 사용자의 확인 없이 메시지를 전송해 요금이 부과될 수 있습니다.</string>
     <string name="permlab_sendRespondViaMessageRequest">메시지를 통한 응답 이벤트 보내기</string>
-    <string name="permdesc_sendRespondViaMessageRequest">앱에서 다른 메시징 앱에 요청을 보내어 수신 전화에 대해 메시지를 통한 응답 이벤트를 처리하도록 허용합니다.</string>
+    <string name="permdesc_sendRespondViaMessageRequest">앱에서 다른 메시지 앱에 요청을 보내어 수신 전화에 대해 메시지를 통한 응답 이벤트를 처리하도록 허용합니다.</string>
     <string name="permlab_readSms">내 문자 메시지 읽기(SMS 또는 MMS)</string>
     <string name="permdesc_readSms">앱이 휴대전화 또는 SIM 카드에 저장된 SMS 메시지를 읽을 수 있도록 허용합니다. 이렇게 하면 앱이 콘텐츠 또는 비밀유지와 관계 없이 모든 SMS 메시지를 읽을 수 있습니다.</string>
     <string name="permlab_writeSms">내 문자 메시지 수정(SMS 또는 MMS)</string>

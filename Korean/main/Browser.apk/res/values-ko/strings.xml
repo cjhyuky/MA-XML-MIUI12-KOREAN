@@ -25,7 +25,7 @@
     <string name="action">로그인</string>
     <string name="action_imme_open">바로 열기</string>
     <string name="action_menu_account_not_login">로그인되지 않음</string>
-    <string name="action_menu_account_not_login_hint">Mi 클라우드와 동기화하기 위해 로그인</string>
+    <string name="action_menu_account_not_login_hint">Xiaomi 클라우드와 동기화하기 위해 로그인</string>
     <string name="action_menu_bookshelf">책장</string>
     <string name="action_menu_current_version">현재 버전</string>
     <string name="action_menu_download">다운로드</string>
@@ -400,7 +400,7 @@
     <string name="geolocation_permissions_prompt_toast_allowed">이 사이트는 사용자의 위치 정보에 접근할 수 있습니다. 변경하려면 설정 &gt; 고급 &gt; 웹사이트 데이터로 이동하세요.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">이 사이트에서 사용자의 위치 정보에 접근할 수 없습니다.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">취소</string>
-    <string name="geolocation_settings_page_dialog_message">이 웹사이트의 위치 접근을 지우길 원하십니까?</string>
+    <string name="geolocation_settings_page_dialog_message">이 웹사이트의 위치 접근을 지우길 원하시나요?</string>
     <string name="geolocation_settings_page_dialog_ok_button">확인</string>
     <string name="geolocation_settings_page_summary_allowed">이 사이트에서 사용자의 위치 정보에 접근할 수 있습니다.</string>
     <string name="geolocation_settings_page_summary_not_allowed">이 사이트에서 사용자의 위치 정보에 접근할 수 없습니다.</string>
@@ -1455,7 +1455,7 @@
     <string name="send_bookmark">북마크</string>
     <string name="send_desktop">홈 화면</string>
     <string name="send_startpage">시작 페이지</string>
-    <string name="toast_feedback">이런 종류의 콘텐츠를 원치 않으십니까</string>
+    <string name="toast_feedback">이러한 종류의 항목 표시 빈도가 감소합니다.</string>
     <string name="video_download_wait_for_caching">캐싱 대기 중</string>
     <string name="video_download_wait_for_network">네트워크 대기 중</string>
     <string name="vo_info_flow_debug_title">데이터 디버그</string>

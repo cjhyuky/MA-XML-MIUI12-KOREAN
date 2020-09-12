@@ -129,9 +129,9 @@
     <string name="dont_enable">끄기</string>
     <string name="user_notice_title">주의</string>
     <string name="user_notice_identify_summary_format">귀하의 휴대전화는 Wi-Fi가 연결되었을 때 불필요한 통화를 차단하는 MIUI의 데이터베이스를 사용하게 됩니다. 이 서비스를 사용하려면 저희의 %1$s와(과) %2$s에 동의해야 합니다.</string>
-    <string name="user_notice_yp_detail_summary_format">발신자 ID의 일부 정보가 오래되었습니다. 업데이트를 원하십니까? 이 서비스를 사용하려면 저희의 %1$s와(과) %2$s에 동의해야 합니다.</string>
+    <string name="user_notice_yp_detail_summary_format">발신자 ID의 일부 정보가 오래되었습니다. 업데이트를 원하시나요? 이 서비스를 사용하려면 저희의 %1$s와(과) %2$s에 동의해야 합니다.</string>
     <string name="user_notice_identify_summary_format_cta">귀하의 휴대전화는 Wi-Fi가 연결되었을 때 불필요한 통화를 차단하는 MIUI의 데이터베이스를 사용하게 됩니다. 이 서비스를 사용하려면 저희의 %1$s와(과) %2$s에 동의해야 합니다.</string>
-    <string name="user_notice_yp_detail_summary_format_cta">발신자 ID의 일부 정보가 오래되었습니다. 업데이트를 원하십니까? 이 서비스를 사용하려면 저희의 %1$s와(과) %2$s에 동의해야 합니다.</string>
+    <string name="user_notice_yp_detail_summary_format_cta">발신자 ID의 일부 정보가 오래되었습니다. 업데이트를 원하시나요? 이 서비스를 사용하려면 저희의 %1$s와(과) %2$s에 동의해야 합니다.</string>
     <string name="about_smart_antispam_summary">이 기능에 관하여</string>
     <string name="about_fraud_num_online_identification">이 기능에 관하여</string>
     <string name="about_telephone_fraud">전화 사기를 조심하세요.</string>

@@ -23,7 +23,7 @@
     <string name="notification_aggregate_summary">MIUI가 알림을 자동으로 그룹화하도록 허용</string>
     <string name="notification_aggregate_summary_inner">자동으로 푸시 및 프로모션 알림을 그룹화하도록 설정</string>
     <string name="notification_aggregate_title">그룹 알림</string>
-    <string name="notification_setting_menu_feedback_text">"이 알림이 여기에 표시되지 않기를 원하십니까?
+    <string name="notification_setting_menu_feedback_text">"이 알림이 여기에 표시되지 않기를 원하시나요?
  이 문제를 보고 &gt;"</string>
     <string name="tip_feedback_success">제출이 완료되었습니다.</string>
     <string name="tip_select_category">알림 카테고리 선택</string>

@@ -108,4 +108,10 @@
     <plurals name="dc_item_summary_video">
         <item quantity="other">&lt;font color=#0097FF&gt;%d&lt;/font&gt;개의 동영상</item>
     </plurals>
+    <plurals name="install_find_application">
+        <item quantity="other">%d개 앱에서 찾기</item>
+    </plurals>
+    <plurals name="install_find_application_num">
+        <item quantity="other">%d개 앱 찾음</item>
+    </plurals>
 </resources>

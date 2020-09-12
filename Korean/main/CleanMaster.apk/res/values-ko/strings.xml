@@ -7,7 +7,7 @@
     <string name="menu_install">이 앱을 설치</string>
     <string name="menu_add_to_white_list">예외 목록에 추가</string>
     <string name="text_optimizer">폴더 이름 업로드</string>
-    <string name="summary_optimizer">클러스터는 클라우드 정의를 업데이트 할 수 있도록 클린마스터 서버에 위치 데이터 파일의 파일 이름을 업로드해야 합니다. 동의하십니까?</string>
+    <string name="summary_optimizer">클러스터는 클라우드 정의를 업데이트 할 수 있도록 Clean Master 서버에 위치 데이터 파일의 파일 이름을 업로드해야 합니다. 동의하십니까?</string>
     <string name="button_optimizer">확인</string>
     <string name="name_optimizer">개인정보 보호정책</string>
     <string name="title_optimizer">이용 약관</string>
@@ -220,7 +220,7 @@
     <string name="dialog_content_select_all_confirm">이 사진의 사본을 보관하시겠습니까?</string>
     <string name="button_text_not_prompt_again">다시 보이지 않습니다.</string>
     <string name="button_text_let_me_select">확인</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Mi 클라우드의 사진도 삭제</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Xiaomi 클라우드의 사진도 삭제</string>
     <string name="button_text_select_all">선택</string>
     <string name="button_text_unselect_all">선택 해제</string>
     <string name="button_text_keep_one">1개 예약</string>
@@ -693,7 +693,7 @@
     <string name="appcleaner_wechat_scanning_cache">WeChat 캐시</string>
     <string name="appcleaner_wechat_scanning_chat">보낸 파일</string>
     <string name="appcleaner_wechat_scanning_trash">휴지통</string>
-    <string name="engine_cm">클린 마스터</string>
+    <string name="engine_cm">Clean Master</string>
     <string name="engine_tm">텐센트</string>
     <string name="global_wa_audio">오디오</string>
     <string name="global_wa_backend_alert_dialog_content">WhatsApp 항목을 삭제하여 공간 확보</string>
@@ -808,7 +808,7 @@
     <string name="storage_item_picture_name">이미지</string>
     <string name="storage_item_system_name">시스템</string>
     <string name="storage_item_video_name">동영상</string>
-    <string name="storage_space_release_hint">더 많은 공간이 필요하십니까?</string>
+    <string name="storage_space_release_hint">더 많은 공간이 필요하시나요?</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
     <string name="clean_master_icon_recall_button_text">추가</string>
@@ -840,4 +840,9 @@
     <string name="notification_uninstalled_clean_without_name">설치되지 않은 앱은 남은 항목을 남깁니다.</string>
     <string name="notification_whatsapp_clean_button_text">지우기</string>
     <string name="notification_whatsapp_clean_size">WhatsApp 캐시가 %s에 도달했습니다.</string>
+    <string name="install_time_format">yyyy/MM/dd</string>
+    <string name="permission_dialog_storage_btn1">설정</string>
+    <string name="permission_dialog_storage_btn2">취소</string>
+    <string name="permission_dialog_storage_content">클리너가 정상적으로 작동하려면 내부 저장소 접근 권한이 필요합니다. \"설정\"을 눌러 저장소 권한을 관리하세요.</string>
+    <string name="permission_dialog_storage_title">필요 권한</string>
 </resources>

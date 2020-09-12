@@ -68,4 +68,10 @@
     <string name="save">저장</string>
     <string name="search_menu_title">검색</string>
     <string name="status_bar_setting_title">제어 센터 및 상태 표시줄</string>
+    <string name="quick_settings_pcmode_cancel_button">취소</string>
+    <string name="quick_settings_pcmode_dialog_message_turnoff">포켓 PC 끄기</string>
+    <string name="quick_settings_pcmode_dialog_message_turnon">포켓 PC 켜기</string>
+    <string name="quick_settings_pcmode_dialog_remember_text">"다시 보지 않음"</string>
+    <string name="quick_settings_pcmode_label">포켓 PC</string>
+    <string name="quick_settings_pcmode_ok_button">확인</string>
 </resources>

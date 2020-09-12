@@ -150,7 +150,7 @@
     <string name="ringtone_output_device_title">스피커 소리 허용</string>
     <string name="add_sound">사용자 프리셋 추가</string>
     <string name="apply_sound">적용</string>
-    <string name="can_you_here">소리가 들리십니까?</string>
+    <string name="can_you_here">소리가 들리신가요?</string>
     <string name="complete_dialog_button">확인</string>
     <string name="complete_dialog_message">&quot;측정을 성공적으로 완료했습니다.&quot;</string>
     <string name="complete_dialog_title">측정 결과</string>
@@ -192,7 +192,7 @@
     <string name="music_thirty_to_sixty_years">30세 이상 60세 미만</string>
     <string name="music_upper_sixty_years">60세 이상</string>
     <string name="name">이름</string>
-    <string name="now_here">지금은 어떠십니까?</string>
+    <string name="now_here">지금은 어떠신가요?</string>
     <string name="original_sound">원래 사운드 재생</string>
     <string name="personal_sound">프리셋 적용 사운드 듣기</string>
     <string name="retry_test">다시 시작</string>

@@ -22,7 +22,7 @@
     <string name="corpus_label_apps">앱</string>
     <string name="corpus_description_apps">설치된 애플리케이션</string>
     <string name="cta_declaration_title">서비스 약관</string>
-    <string name="cta_declaration">이 기능은 귀하의 위치 정보, 통화 목록, 연락처, 인터넷 등을 사용할수 있을 때 정상적으로 작동합니다.</string>
+    <string name="cta_declaration">이 기능은 귀하의 위치 정보, 통화 목록, 연락처, 인터넷 등을 사용할 수 있을 때 정상적으로 작동합니다.</string>
     <string name="cta_declaration_ignore">다시 보지 않기</string>
     <string name="cta_declaration_positive_text">허용</string>
     <string name="cta_declaration_negative_text">나가기</string>
@@ -57,7 +57,7 @@
     <string name="top_clicked">자주 사용하는 항목</string>
     <string name="search_keyword_quicksearchbox">검색</string>
     <string name="search_path_quicksearchbox">설정/설치된 앱/검색</string>
-    <string name="permission_prompt_title">더 원하십니까?</string>
+    <string name="permission_prompt_title">더 원하시나요?</string>
     <string name="permission_prompt_detail">영화, 책, 음악 등을 검색합니다.</string>
     <string name="permission_prompt_start">허용</string>
     <string name="permission_prompt_started_info">글로벌 검색을 허용했습니다.</string>
@@ -101,7 +101,7 @@
     <string name="search_sources_summary">휴대전화에서 검색할 항목을 선택하세요.</string>
     <string name="clear_shortcuts">바로가기 삭제</string>
     <string name="clear_shortcuts_summary">최근에 검색한 모든 바로가기 삭제</string>
-    <string name="clear_shortcuts_prompt">"최근에 검색한 모든 바로가기와 검색기록을 삭제하기 원하십니까?
+    <string name="clear_shortcuts_prompt">"최근에 검색한 모든 바로가기와 검색기록을 삭제하기 원하시나요?
 검색기록을 삭제하려면, 브라우저 설정으로 가세요"</string>
     <string name="clear_shortcuts_agree">바로가기 삭제</string>
     <string name="clear_shortcuts_disagree">바로가기 삭제하지 않기</string>

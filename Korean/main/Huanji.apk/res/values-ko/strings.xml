@@ -48,7 +48,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="miui_need_open_high_accuracy_summary">"주변의 기기를 찾기 위해 Mi Mover가 고 정확도 모드에서 사용자의 위치 정보에 접근하도록 허용합니다. 이 권한을 부여하지 않으면 Mi Mover를 사용할 수 없습니다."</string>
     <string name="miui_need_open_high_accuracy_title">정확한 위치 정보에 대한 액세스 허용</string>
     <string name="need_location_permission_summary">Mi Mover가 근처의 기기를 찾을 수 있도록 내 위치 정보에 접근하도록 허용합니다.</string>
-    <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하십니까?</string>
+    <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하시나요?</string>
     <string name="dialog_rating_desc_less">앱을 개선할 수 있는 몇 가지 제안을 해주시겠습니까?</string>
     <string name="dialog_rating_desc_perfect">감사합니다! GetApps에서도 Mi Mover를 평가하시겠습니까?</string>
     <string name="dialog_rating_title">Mi Mover 평가하기</string>
@@ -124,7 +124,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
 2. \"나는 발신자입니다\"를 누르고 잠시 기다립니다.
 3. 기존 장치에서 다음 핫스팟을 선택하세요."</string>
     <string name="searching_for_new_device">근처의 기기 검색중…</string>
-    <string name="switching_to_5g">5GHz 네트워크로 전환 중…</string>
+    <string name="switching_to_5g">고속 전송 채널로 전환 중…</string>
     <string name="trans_install_guide_old_content_first">"1. 기존 장치로 이 QR 코드를 스캔하세요.
 2. Mi Mover를 다운로드하여 설치하세요.
 3. 설치가 완료되면 아래 버튼을 탭하세요."</string>
@@ -174,8 +174,8 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="new_wait_link_message_1">설정에서 \"Mi Mover\"를 입력한 후 선택하여 주세요.</string>
     <string name="new_wait_link_message_2">"\"발송\" 버튼은 Mi Mover 시작 페이지 하단에 위치하여 있습니다."</string>
     <string name="new_wait_link_title_1">1. 기존 기기에서 설정을 들어가 주세요.</string>
-    <string name="new_wait_link_title_2">2. \"Mi Mover\"를 검색하여 주세요.</string>
-    <string name="new_wait_link_title_3">3. \"Mi Mover\"를 선택하세요.</string>
+    <string name="new_wait_link_title_2">"1. \"나는 발신자입니다.\"를 누르고 잠시 기다리세요."</string>
+    <string name="new_wait_link_title_3">2. 이전 기기에서 다음 Wi-Fi 핫스팟을 선택하세요.</string>
     <string name="option_privacy_policy">개인정보 보호 조항</string>
     <string name="permission_bluetooth_summary">근처에서 사용 가능한 기기 찾기</string>
     <string name="permission_bluetooth_title">블루투스 제어</string>
@@ -185,10 +185,35 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="permission_wifi_title">Wi-Fi 제어</string>
     <string name="prompt_before_transmission_message1_summary">이전 기기에서 전송하도록 선택하면 문자 기록을 포함한 앱 데이터를 덮어씁니다.</string>
     <string name="prompt_before_transmission_message1_title">이미 새 기기에서 앱 데이터를 생성했습니다.</string>
-    <string name="prompt_before_transmission_message2_summary">"듀얼 앱을 전송할 수 없습니다. 그러나 원본 앱을 전송할 수 있습니다."</string>
+    <string name="prompt_before_transmission_message2_summary">"듀얼 앱을 전송할 수 없습니다. 그러나 원본 앱은 전송할 수 있습니다."</string>
     <string name="prompt_before_transmission_message2_title">"다음 항목에 듀얼 앱을 사용하고 있습니다."</string>
     <string name="prompt_before_transmission_message3_summary">"시스템 제한으로 인해 보조 공간 데이터를 전송할 수 없습니다."</string>
     <string name="prompt_before_transmission_message3_title">"보조 공간을 사용 중입니다."</string>
     <string name="prompt_before_transmission_message4_summary">"전송이 완료 될 때까지 Wi-Fi를 끄지 마세요."</string>
     <string name="prompt_before_transmission_message4_title">전송 중 연결 상태 유지</string>
+     <string name="dialog_connect_ap_timeout_button">연결</string>
+     <string name="dialog_connect_ap_timeout_message">자동 연결이 너무 오래 걸리는 것 같습니다. 수동 연결을 시도해보세요.</string>
+     <string name="dialog_connect_ap_timeout_title">수동 연결</string>
+     <string name="guest_manual_connect_link_text">새 기기에 수동 연결</string>
+     <string name="host_manual_connect_link_text">이전 기기가 핫스팟을 찾는데 너무 오래 걸린다면, 수동 연결을 시도해보세요.</string>
+     <string name="manual_connection_content1">1. 이전 기기에서 \"새 기기에 수동 연결\"을 누르세요.</string>
+     <string name="manual_connection_content2">2. 다음 Wi-Fi 핫스팟을 찾아 선택하세요.</string>
+     <string name="manual_connection_content3">3. 연결하려는 이전 기기에 이 비밀번호를 입력하세요.</string>
+     <string name="manual_connection_summary2">"이 핫스팟을 찾을 수 없다면, 사용 가능한 Wi-Fi 네트워크 목록을 새로고침하고 다시 시도하세요."</string>
+     <string name="manual_connection_title">이전 기기에 수동 연결</string>
+     <string name="not_support_data_content1">1. 기기 모델 전용 항목</string>
+     <string name="not_support_data_content2">2. 선택한 앱의 데이터</string>
+     <string name="not_support_data_content3">3. 보조 공간 데이터</string>
+     <string name="not_support_data_content4">4. 듀얼 앱</string>
+     <string name="not_support_data_link">"전송할 수 없는 항목"</string>
+     <string name="not_support_data_summary1">"테마, 배경화면, 교통카드, 키 카드는 Mi Mover로 전송할 수 없습니다."</string>
+     <string name="not_support_data_summary2">일부 앱은 앱 데이터 전송을 방지하기 위해 엄격한 보안 조치를 취합니다. 금융 앱이 이에 해당할 수 있습니다.</string>
+     <string name="not_support_data_summary3">"시스템 제한으로 인해, 보조 공간 항목을 Mi Mover로 전송할 수 없습니다."</string>
+     <string name="not_support_data_summary4">"듀얼 앱 및 데이터 또한 전송할 수 없습니다. 원본 앱은 전송이 가능합니다."</string>
+     <string name="not_support_data_title">"전송할 수 없는 항목"</string>
+     <string name="open_photo_and_contacts_cloud_sync_complete">시작</string>
+     <string name="open_photo_and_contacts_cloud_sync_content1">%d. 주소록 및 갤러리 항목 동기화를 켜세요.</string>
+     <string name="open_photo_and_contacts_cloud_sync_content2">%d. \"지금 동기화\"를 누르세요.</string>
+     <string name="open_photo_and_contacts_cloud_sync_summary">이 기기에 주소록 및 갤러리 항목이 나타나게 하려면 동기화를 켜세요.</string>
+     <string name="open_photo_and_contacts_cloud_sync_title">주소록 및 갤러리 항목 동기화</string>
 </resources>

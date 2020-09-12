@@ -36,7 +36,7 @@
     <string name="agps_app_name">A-GPS</string>
     <string name="rtsp_app_name">실시간 스트리밍 프로토콜</string>
     <string name="ds_app_name">데이터 동기화</string>
-    <string name="imps_app_name">인스턴트 메시징 및 프레즌스 서비스</string>
+    <string name="imps_app_name">인스턴트 메시지 및 프레즌스 서비스</string>
     <string name="installation_report">설치 보고</string>
     <string name="yes">확인</string>
     <string name="installing_progress_message">설치하는 중…</string>

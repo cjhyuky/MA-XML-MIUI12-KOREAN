@@ -542,7 +542,7 @@
     <string name="rc_add_distance_far">>1000km</string>
     <string name="rc_add_distance_km">%1$skm</string>
     <string name="rc_name">Mi 리모트</string>
-    <string name="recover">Mi 클라우드에서 복구</string>
+    <string name="recover">Xiaomi 클라우드에서 복구</string>
     <string name="recovering">복구 중…</string>
     <string name="refreshing">새로 고치는 중…</string>
     <string name="refreshing_no_point">새로 고치는 중…</string>

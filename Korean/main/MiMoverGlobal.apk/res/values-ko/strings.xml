@@ -122,7 +122,7 @@
     <string name="dialog_backup_password_change_machine_tips">"비밀번호로 보호된 백업을 전송할 수 없습니다. Mi Mover를 사용하기 전에 백업 비밀번호를 끄세요."</string>
     <string name="dialog_backup_password_verify">확인</string>
     <string name="dialog_forbidden_use_tips">"Mi Mover는 현재 태블릿과의 데이터 전송을 지원하지 않습니다."</string>
-    <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하십니까?</string>
+    <string name="dialog_rating_desc_ask">Mi Mover에 대해 어떻게 생각하시나요?</string>
     <string name="dialog_rating_desc_less">앱을 개선할 수 있도록 몇 가지 제안을 해주시겠습니까?</string>
     <string name="dialog_rating_desc_perfect">감사합니다! GetApps에서도 Mi Mover를 평가 하시겠습니까?</string>
     <string name="dialog_rating_title">Mi Mover 비율</string>
@@ -530,7 +530,7 @@
     <string name="send_verification_code_fail_tips">"Apple 기기에서이 계정으로 로그인했는지 확인하세요. 그렇지 않으면 코드를받을 수 없습니다."</string>
     <string name="settings_phone">전화 설정</string>
     <string name="settings_powerkeeper">걸음 카운터 데이터</string>
-    <string name="settings_sms">메시징 설정</string>
+    <string name="settings_sms">메시지 설정</string>
     <string name="settings_system">시스템 설정</string>
     <string name="settings_wifi">Wi-Fi 설정</string>
     <string name="sim_changed_reactivate_int_notice">이 서비스를 재 활성화하려면 발신 국제 SMS 메시지가 필요할 수 있습니다. 이동통신사에서이 메시지에 대해 요금을 청구합니다.</string>

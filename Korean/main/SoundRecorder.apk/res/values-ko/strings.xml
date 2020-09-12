@@ -40,7 +40,7 @@
     <string name="call_record">녹음된 통화</string>
     <string name="no_file">비어있음</string>
     <string name="alert_message_delete_record_title">녹음 파일을 삭제하시겠습니까?</string>
-    <string name="alert_message_delete_record">귀하의 기기에서 삭제하면 Mi 클라우드에서도 삭제될 것입니다. 지금 삭제하시겠습니까?</string>
+    <string name="alert_message_delete_record">귀하의 기기에서 삭제하면 Xiaomi 클라우드에서도 삭제될 것입니다. 지금 삭제하시겠습니까?</string>
     <string name="share">공유</string>
     <string name="rename">이름 변경</string>
     <string name="delete">삭제</string>
@@ -78,7 +78,7 @@
     <string name="pause">일시 중지</string>
     <string name="back">뒤로</string>
     <string name="toast_uninstall_fileexplorer">탐색기 앱이 설치되지 않았습니다.</string>
-    <string name="record_download">Mi 클라우드에서 다운로드</string>
+    <string name="record_download">Xiaomi 클라우드에서 다운로드</string>
     <string name="record_download_msg">녹음 파일은 다운로드가 완료된 후에만 재생할 수 있습니다.</string>
     <string name="record_download_msg_reload">이 녹음 파일은 존재하지 않습니다.</string>
     <string name="record_download_complete">다운로드됨</string>
@@ -100,9 +100,9 @@
     <string name="record_back_pressed_hint">녹음을 중단하려면, \"뒤로\"를 다시 터치하세요.</string>
     <string name="record_mark_point">%s 표시</string>
     <string name="record_quliaty_preference_title">녹음 음질</string>
-    <string name="cloud_record_tip">Mi 클라우드로 녹음파일을 동기화하세요.</string>
+    <string name="cloud_record_tip">Xiaomi 클라우드로 녹음파일을 동기화하세요.</string>
     <string name="cloud_record_open">녹음파일 동기화</string>
-    <string name="cloud_status_full_dialog_title">Mi 클라우드 저장소 꽉참</string>
+    <string name="cloud_status_full_dialog_title">Xiaomi 클라우드 저장소 꽉참</string>
     <string name="cloud_status_full_dialog_msg">클라우드 저장소가 꽉 차 녹음 파일을 동기화할 수 없습니다. 저장소 공간을 늘리려면 계정을 업그레이드하세요.</string>
     <string name="cloud_status_full_dialog_cancel">나중에 실행</string>
     <string name="cloud_status_full_dialog_ok">업그레이드</string>
@@ -156,9 +156,9 @@
     <string name="head_set_tip_dialog_msg">상세 설정으로 소리를 녹음하려면 이어폰 연결을 해제하세요. (e.g., 음악, 목소리).</string>
     <string name="head_set_tip_dialog_ok">알겠습니다.</string>
     <string name="rename_fail_tip">이름 변경 실패, 같은 이름을 가진 항목이 있습니다.</string>
-    <string name="cloud_service_state_open_reminder">Mi클라우드 동기화를 켜서 녹음 파일을 동기화하세요.</string>
+    <string name="cloud_service_state_open_reminder">Xiaomi 클라우드 동기화를 켜서 녹음 파일을 동기화하세요.</string>
     <string name="menu">메뉴</string>
-    <string name="dialog_privacy_revoke_tips">"약관을 철회하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 거절하게 되면 앱을 사용할 수 없게 될 수도 있습니다. Mi 클라우드 서비스 약관을 철회하기 전에 i.mi.com에 로그인하세요."</string>
+    <string name="dialog_privacy_revoke_tips">"약관을 철회하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 서버에서 삭제됩니다. 거절하게 되면 앱을 사용할 수 없게 될 수도 있습니다. Xiaomi 클라우드 서비스 약관을 철회하기 전에 i.mi.com에 로그인하세요."</string>
     <string name="privacy_policy_title">개인정보 보호 약관</string>
     <string name="record_format_preference_title">녹음 포맷</string>
     <string name="alert_message_delete_local_record">이 녹음을 지우시겠습니까?</string>
