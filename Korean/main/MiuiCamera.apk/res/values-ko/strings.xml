@@ -1339,7 +1339,7 @@
     <string name="pref_camera_redeyereduction_entry_disable">비활성화</string>
     <string name="pref_camera_redeyereduction_entry_enable">활성화</string>
     <string name="pref_camera_redeyereduction_title">적목 감소</string>
-    <string name="pref_camera_referenceline_title">눈금선 보이기</string>
+    <string name="pref_camera_referenceline_title">눈금선 표시</string>
     <string name="pref_camera_saturation_title">채도</string>
     <string name="pref_camera_scenedetect_title">상황 자동 감지</string>
     <string name="pref_camera_scenemode_entry_auto">자동</string>
@@ -1595,7 +1595,7 @@
     <string name="share">공유</string>
     <string name="show_all">사진 &amp; 영상</string>
     <string name="show_images_only">사진만</string>
-    <string name="show_on_map">지도에 보이기</string>
+    <string name="show_on_map">지도에 표시</string>
     <string name="show_videos_only">영상만</string>
     <string name="simple_mode_button_asd_flash">플래시 캡처 끄기</string>
     <string name="simple_mode_button_asd_hdr">HDR 캡처 끄기</string>

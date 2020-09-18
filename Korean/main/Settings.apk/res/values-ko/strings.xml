@@ -451,12 +451,11 @@
     <string name="allow_data_usage_title">로밍 중 데이터 사용 허용</string>
     <string name="allow_device_id_access">기기 ID를 사용할 수 있는 앱 선택</string>
     <string name="allow_float_summary">화면 상단에 알림을 표시합니다.</string>
-    <string name="allow_float_title">플로팅 알림</string>
+    <string name="allow_float_title">플로팅 알림 허용</string>
     <string name="allow_interruption">중단 허용</string>
     <string name="allow_interruption_summary">앱이 소리, 진동 또는 팝업 알림을 화면에 표시하도록 합니다.</string>
     <string name="allow_keyguard_summary">잠금 화면에 알림을 표시합니다.</string>
-    <string name="allow_keyguard_title">잠금 화면
-알림</string>
+    <string name="allow_keyguard_title">잠금 화면 알림 허용</string>
     <string name="allow_lights_title">알림 표시등</string>
     <string name="allow_manage_external_storage_description">이 앱이 이 기기 또는 연결된 저장소 볼륨의 모든 파일을 읽고 수정하고 삭제할 수 있도록 허용합니다. 권한이 부여되면 앱이 사용자의 명시적 지식없이 파일에 액세스할 수 있습니다.</string>
     <string name="allow_mock_location">모의 위치 허용</string>
@@ -465,7 +464,7 @@
     <string name="allow_oaid_used_desc">"사용자가 명시적으로 허용하지 않으면 앱이 ID에 액세스할 수 없습니다. 이 기능이 켜져 있으면 일부 개인 추천 기능이 제대로 작동하지 않을 수 있습니다."</string>
     <string name="allow_overlay_description">이 권한은 사용자의 정보를 가로챌 수 있습니다.</string>
     <string name="allow_sound">소리 재생 허용</string>
-    <string name="allow_sound_title">소리</string>
+    <string name="allow_sound_title">소리 재생 허용</string>
     <string name="allow_usage_access_message">액세스를 허용하는 경우 이 앱에서 내 기기의 앱에 대한 일반적인 정보(예: 앱 사용 빈도)를 볼 수 있습니다.</string>
     <string name="allow_usage_access_title">액세스를 허용하시겠습니까?</string>
     <string name="allow_vibrate_title">진동</string>
@@ -898,7 +897,7 @@
     <string name="backup_summary_state_off">사용 안 함</string>
     <string name="backup_summary_state_on">사용</string>
     <string name="backup_update">업데이트</string>
-    <string name="badge_title">데스크톱 앱 아이콘 배지 표시</string>
+    <string name="badge_title">알림 배지 허용</string>
     <string name="band_24G">"(2.4GHz 대역)"</string>
     <string name="band_5G">"(5GHz 대역)"</string>
     <string name="band_mode_failed">실패</string>
@@ -1908,7 +1907,7 @@
     <string name="condition_device_vibrate_summary">전화와 알림이 오면 진동합니다.</string>
     <string name="condition_device_vibrate_title">기기가 진동으로 설정됨</string>
     <string name="condition_expand_hide">숨기기</string>
-    <string name="condition_expand_show">보이기</string>
+    <string name="condition_expand_show">표시</string>
     <string name="condition_grayscale_summary">회색으로만 표시</string>
     <string name="condition_grayscale_title">그레이 스케일</string>
     <string name="condition_hotspot_summary">%1$s 핫스팟이 실행되었습니다. 기기의 Wi-Fi가 꺼집니다.</string>
@@ -3638,7 +3637,7 @@
     <string name="help_label">도움말 및 의견</string>
     <string name="hidden_ssid_label">숨겨진 SSID:</string>
     <string name="hide">숨기기</string>
-    <string name="hide_extra_apps">앱 사용량 보이기</string>
+    <string name="hide_extra_apps">앱 사용량 표시</string>
     <string name="hide_password_description">비밀번호 숨기기</string>
     <string name="hide_screen_button">화면 버튼 숨기기</string>
     <string name="hide_silent_icons_summary">조용한 알림 아이콘이 상태 표시줄에 표시되지 않습니다.</string>
@@ -4711,7 +4710,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="menu_restore">초기화</string>
     <string name="menu_save">저장</string>
     <string name="menu_share">공유</string>
-    <string name="menu_show_percentage">퍼센트 보이기</string>
+    <string name="menu_show_percentage">퍼센트 표시</string>
     <string name="menu_show_system">시스템 표시</string>
     <string name="menu_stats_last_unplugged">마지막으로 플러그를 뽑은 이후 %1$s 동안</string>
     <string name="menu_stats_refresh">새로고침</string>
@@ -7217,7 +7216,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="service_stoped">서비스 중지 됨</string>
     <string name="services_subtitle">서비스</string>
     <string name="set_data_limit">데이터 한도 설정</string>
-    <string name="set_data_time_range">시간 범위 보이기</string>
+    <string name="set_data_time_range">시간 범위 표시</string>
     <string name="set_data_warning">데이터 경고 한도 설정</string>
     <string name="set_jeejen_prompt_message">Jeejen이 기본 런처로 설정됩니다. 기본 런처 설정은 설정 &gt; 시스템 설정 &gt; 홈 화면 &amp; 최근 앱 &gt; 기본 런처에서 변경하시면 됩니다.</string>
     <string name="set_jeejen_prompt_title">변경사항 저장</string>
@@ -7310,7 +7309,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="show_hw_layers_updates_summary">업데이트 할 때 하드웨어 레이어 깜박이기</string>
     <string name="show_hw_screen_updates">GPU 보기 업데이트 표시</string>
     <string name="show_hw_screen_updates_summary">GPU로 드로잉했을 때 창 내부 보기 플래시 처리</string>
-    <string name="show_ime">가상 키보드 보이기</string>
+    <string name="show_ime">가상 키보드 표시</string>
     <string name="show_ime_summary">키보드가 띄워져 있을 때는 화면 켜기</string>
     <string name="show_magnifier_when_input">텍스트 돋보기</string>
     <string name="show_mem_info_title">메모리 상태 표시</string>
@@ -8117,7 +8116,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="telephony_monitor_switch">기기 모니터</string>
     <string name="telephony_monitor_switch_summary">기기 모니터는 전화 통신 및 모뎀 기능에 문제가 있음을 감지하면 즉시 로그를 수집하고 사용자가 버그를 신고할 수 있도록 돕습니다.</string>
     <string name="telephony_monitor_toast">변경사항을 저장하려면 다시 시작하세요.</string>
-    <string name="temporary_style">화면을 탭한 뒤 10초</string>
+    <string name="temporary_style">탭한 뒤 10초 동안</string>
     <string name="terms_title">약관</string>
     <string name="testing">테스트 중</string>
     <string name="testing_battery_info">배터리 정보</string>
@@ -8239,7 +8238,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="total_size">전체 %s</string>
     <string name="total_size_label">전체</string>
     <string name="touch_assistant">터치 도우미</string>
-    <string name="touch_filtered_warning">앱이 권한 요청을 가려 보이기 때문에 설정에서 응답을 확인할 수 없습니다.</string>
+    <string name="touch_filtered_warning">앱이 권한 요청을 가려, 설정에서 응답을 확인할 수 없습니다.</string>
     <string name="touch_sensitive_summary">화면을 압력에 더 민감하게</string>
     <string name="touch_sensitive_title">글러브 모드</string>
     <string name="touch_sensitive_turn_off_cancel">취소</string>
@@ -10326,4 +10325,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zone_menu_by_region">지역으로 선택</string>
     <string name="zone_time_type_dst">썸머타임 시간</string>
     <string name="zone_time_type_standard">표준 시간</string>
+    <string name="launch_noapp_dialog_cancel">취소</string>
+    <string name="launch_noapp_dialog_install">설치</string>
+    <string name="launch_noapp_dialog_replace">설정</string>
 </resources>

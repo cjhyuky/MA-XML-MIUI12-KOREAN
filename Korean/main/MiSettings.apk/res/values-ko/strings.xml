@@ -459,4 +459,11 @@
     <string name="dc_light_hint_normal">깜박임 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
     <string name="dc_light_hint_other">깜박임 방지 모드는 재생 빈도 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
     <string name="dc_lignt_enable_hint">깜박임 방지 모드는 화면 재생 빈도를 60 Hz로 설정합니다. 깜박임 방지 모드로 전환하시겠습니까?</string>
+    <string name="fps_nature_summary">높은 재생 빈도에서는 모든 항목을 선명하고 명확하게 볼 수 있습니다.</string>
+    <string name="fps_nature_title">높음</string>
+    <string name="fps_smooth_summary">중간 재생 빈도에서는 더 자세하게 볼 수 있습니다.</string>
+    <string name="fps_smooth_title">중간</string>
+    <string name="fps_standard_summary">표준 재생 빈도는 배터리를 절약합니다.</string>
+    <string name="fps_standard_title">표준</string>
+    <string name="fps_user_tip">이 애니메이션 예시는 참조를 위해 느린 속도로 재생됩니다. 실제 성능은 다양한 요인에 따라 다르게 보일 수 있습니다.</string>
 </resources>

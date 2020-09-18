@@ -112,10 +112,10 @@
     <string name="new_phrase">답장 추가</string>
     <string name="edit_phrase">빠른 답장 편집</string>
     <string name="new_phrase_hint">새 답장 입력</string>
-    <string name="pref_title_notification_body_enabled">잠금 화면에 메시지 보이기</string>
-    <string name="pref_summary_notification_body_enabled">잠금 화면과 드롭다운 메뉴에 메시지 보이기</string>
+    <string name="pref_title_notification_body_enabled">잠금 화면에 메시지 표시</string>
+    <string name="pref_summary_notification_body_enabled">잠금 화면과 드롭다운 메뉴에 메시지 표시</string>
     <string name="pref_title_delivery_reports">전송 상태</string>
-    <string name="pref_summary_delivery_reports">전송된 메시지의 전송 상태를 보여드립니다.</string>
+    <string name="pref_summary_delivery_reports">발신 메시지의 전송 상태를 표시합니다.</string>
     <string name="pref_title_ringtone_repeat">알림음 횟수</string>
     <string name="pref_other_title">추가 설정</string>
     <string name="pref_system_title">시스템</string>
@@ -158,7 +158,7 @@
     <string name="private_protect">비밀번호</string>
     <string name="private_new_notification">메시지 알림</string>
     <string name="enable_password_protect">비밀번호 필요</string>
-    <string name="enable_visible_pattern_title">사용 패턴 보이기</string>
+    <string name="enable_visible_pattern_title">사용 패턴 표시</string>
     <string name="confirm_export_dialog_description">이전 대화와 이 연락처를 더 이상 숨기지 않습니다.</string>
     <string name="number_add_hint">전화번호 입력</string>
     <string name="mx_recommend_msg">탭하여 Mi 메시지 켜기</string>

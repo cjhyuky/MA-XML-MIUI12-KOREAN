@@ -177,7 +177,7 @@
     <string name="debug_hw_drawing_category">하드웨어 가속 렌더링</string>
     <string name="debug_hw_overdraw">GPU 오버드로우 디버그</string>
     <string name="debug_input_category">입력</string>
-    <string name="debug_layout">레이아웃 바인드 보이기</string>
+    <string name="debug_layout">레이아웃 바인드 표시</string>
     <string name="debug_layout_summary">클립 바운드, 마진 등 보기</string>
     <string name="debug_monitoring_category">모니터링</string>
     <string name="debug_networking_category">네트워킹</string>
@@ -375,8 +375,8 @@
     <string name="wifi_verbose_logging_summary">Wi-Fi 로그 레벨을 높입니다. 모든 무선랜 SSID의 RSSI를 표시합니다.</string>
     <string name="window_animation_scale_title">창 애니메이션 길이</string>
     <string name="legacy_dhcp_client_summary">최신 버전의 DHCP 클라이언트 대신에 이전 Android 버전의 DHCP 클라이언트를 사용합니다.</string>
-    <string name="show_cpu_usage">CPU 사용량 보이기</string>
-    <string name="show_cpu_usage_summary">CPU 사용량을 화면 위에 보이기</string>
+    <string name="show_cpu_usage">CPU 사용량 표시</string>
+    <string name="show_cpu_usage_summary">CPU 사용량을 화면 위에 표시</string>
     <string name="callFailed_cb_enabled">착발신 제한이 설정되어 있는 상태에서는 전화를 걸 수 없습니다.</string>
     <string name="callFailed_congestion">네트워크 사용량 많음</string>
     <string name="callFailed_dialToDial">발신 요청이 다른 번호 발신으로 수정되었습니다.</string>

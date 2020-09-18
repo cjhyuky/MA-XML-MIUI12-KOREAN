@@ -318,7 +318,7 @@ SD 카드의 디렉토리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_vibrator_long">긴 진동</string>
     <string name="cit_vibrator_play_touch_pattern">진동</string>
     <string name="cit_vibrator_short">짧은 진동</string>
-    <string name="cit_vibrator_show_advanced">고급 옵션 보이기</string>
+    <string name="cit_vibrator_show_advanced">고급 옵션 표시</string>
     <string name="cit_wifi_address_check_summary">아래 주소는 현재 기기가 연결된 Wi-Fi 네트워크 주소입니다. 초록색으로 강조된 정보가 정확한지 확인하세요.</string>
     <string name="cit_wifi_address_check_title">Wi-Fi 주소</string>
     <string name="cit_wifi_address_error">Wi-Fi 주소를 가져오지 못했습니다. Wi-Fi가 활성화되었는지 확인하세요.</string>

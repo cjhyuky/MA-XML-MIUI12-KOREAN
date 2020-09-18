@@ -602,8 +602,8 @@
     <string name="select_logpersist_title">로그 데이터를 기기에 저장하세요.</string>
     <string name="wifi_no_internet_no_reconnect">"인터넷 연결상태를 확인하세요."</string>
     <string name="legacy_dhcp_client_summary">이전 Android 버전의 DHCP 사용</string>
-    <string name="show_cpu_usage">CPU 사용량 보이기</string>
-    <string name="show_cpu_usage_summary">현재 CPU 사용량을 화면에 오버레이하여 보이기</string>
+    <string name="show_cpu_usage">CPU 사용량 표시</string>
+    <string name="show_cpu_usage_summary">현재 CPU 사용량을 화면 위에 표시</string>
     <string name="activity_package_delete_confirm_title">중요 경고</string>
     <string name="button_text_cancel">취소</string>
     <string name="button_text_delete">삭제</string>

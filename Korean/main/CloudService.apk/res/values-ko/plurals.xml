@@ -75,4 +75,7 @@
     <plurals name="dirty_phrase_count">
         <item quantity="other">%d개의 상용구</item>
     </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"%s개 항목 동기화 불가"</item>
+    </plurals>
 </resources>

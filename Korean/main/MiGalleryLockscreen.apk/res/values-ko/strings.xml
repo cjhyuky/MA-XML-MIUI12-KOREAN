@@ -546,4 +546,6 @@
  <string name="subscribe_dlg_btn_txt">구독</string>
  <string name="subscribe_dlg_desc">슬라이드 쇼를 보려면 구독하세요.</string>
  <string name="lks_logo_desc_search">매일 바뀌는 새로운 배경화면</string>
+  <string name="see_detail">보기</string>
+  <string name="understand_band_story">더 알아보기</string>
 </resources>

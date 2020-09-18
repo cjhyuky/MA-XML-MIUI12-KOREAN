@@ -1684,8 +1684,8 @@
     <string name="lock_screen_traffic_purchase_textview">모바일 데이터 구매</string>
     <string name="lock_screen_traffic_warn_title">잠금 화면 알림</string>
     <string name="lock_screen_warning_category">잠금 화면 알림</string>
-    <string name="lock_screen_warning_switch_summary">데이터 사용량이 일정량 초과 시 잠금 화면에 경고 보이기</string>
-    <string name="lock_screen_warning_switch_title">잠금 화면에 경고 보이기</string>
+    <string name="lock_screen_warning_switch_summary">데이터 사용량이 일정량 초과 시 잠금 화면에 경고 표시</string>
+    <string name="lock_screen_warning_switch_title">잠금 화면에 경고 표시</string>
     <string name="lock_screen_warning_value">데이터 사용량 경고</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">지문을 식별할 수 없습니다. 다시 시도하세요.</string>
     <string name="lockpattern_access_need_to_unlock_wrong_pattern">비밀번호 오류, 다시 시도하세요.</string>
@@ -2495,7 +2495,7 @@ SMS 전송"</string>
     <string name="pref_title_over_traffic_limit_warning">초과될 시</string>
     <string name="pref_title_traffic_limit_number">크기</string>
     <string name="pref_title_traffic_package_type">데이터 요금제 유형</string>
-    <string name="pref_title_traffic_speed_state">네트워크 속도 보이기</string>
+    <string name="pref_title_traffic_speed_state">네트워크 속도 표시</string>
     <string name="pref_title_update_notification">데이터 사용량 알림</string>
     <string name="pref_title_upload_data_usage">데이터 사용량 통계 보고</string>
     <string name="pref_traffic_daily_package">일단위 데이터 요금제</string>
@@ -2814,7 +2814,7 @@ SMS 전송"</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp 클리너</string>
     <string name="show_system_app">시스템 앱 표시</string>
     <string name="show_traffic_dialog_message">데이터 사용량 정보가 드롭다운 메뉴에 표시됩니다. 데이터 사용량 &gt; 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
-    <string name="show_traffic_dialog_title">드롭다운 메뉴에 사용량 보이기</string>
+    <string name="show_traffic_dialog_title">드롭다운 메뉴에 사용량 표시</string>
     <string name="showpattern">패턴 보여주기</string>
     <string name="shutdown_cancel_reminder">전원이 꺼지지 않았습니다.</string>
     <string name="shutdown_cancel_reminder_detail">통화 중이었기에 기기 전원이 꺼지지 않았습니다.</string>
@@ -3084,7 +3084,7 @@ SMS 전송"</string>
     <string name="storage_wizard_format_confirm_v2_title">이 ^1을(를) 바로 포맷하시겠습니까?</string>
     <string name="suggest_app_tolock">제안</string>
     <string name="suggest_app_tolock_masked">콘텐츠 숨김</string>
-    <string name="suggest_app_tolock_unmasked">알림 보이기</string>
+    <string name="suggest_app_tolock_unmasked">알림 표시</string>
     <string name="suggest_scan_again">스캔을 완료하여 기기의 안전을 보장하세요.</string>
     <string name="summary_app_lock_disable">앱 잠금으로 데이터 보호하기</string>
     <string name="summary_auto_update">MIUI가 사용되지 않는 시간에 자동으로 업데이트를 다운로드하고 설치할 것입니다.</string>
@@ -3786,5 +3786,24 @@ SMS 전송"</string>
     <string name="set_traffic_tips">요금제 설정 시 데이터 사용량을 더 효과적으로 조회 및 관리할 수 있으며, 한도 초과로 인한 추가 요금 부과를 방지합니다.</string>
     <string name="traffic_calculation">요금제는 일할 계산됩니다. (예: 1원/1GB/1일)</string>
     <string name="traffic_limit_input">사용량 경고 한도 (선택)</string>
-    <string name="unknown_package">사용중인 요금제를 모르시나요?</string>
+    <string name="unknown_package">사용 중인 요금제를 모르시나요?</string>
+    <string name="applock_add_account_ignore">나중에</string>
+    <string name="applock_add_account_ignore_with_seconds">나중에 (%d초)</string>
+    <string name="applock_add_account_tips">"앱 잠금 수단을 잊어버리면 Mi 계정으로 복구할 수 있습니다."</string>
+    <string name="applock_add_account_title">Mi 계정 추가</string>
+    <string name="applock_already_add_account">현재 계정: %s</string>
+    <string name="applock_bind_account_dialog_content">앱 잠금 수단을 잊어버릴 시 복구 수단은 Mi 계정뿐입니다. 로그인하여 Mi 계정을 추가하세요.</string>
+    <string name="applock_bind_account_dialog_title">Mi 계정 추가</string>
+    <string name="applock_guide_notification_summary">앱 잠금으로 개인정보를 보호하세요.</string>
+    <string name="applock_guide_notification_title">화면에 표시된 민감한 정보를 다른 사람들이 볼 수도 있습니다.</string>
+    <string name="applock_no_account_login">"Mi 계정에 로그인하지 않았습니다."</string>
+    <string name="applock_operate_faceunlock_summary">화면을 쳐다보는 것만으로 앱 잠금을 해제하세요.</string>
+    <string name="applock_operate_faceunlock_title">얼굴 데이터 사용</string>
+    <string name="applock_operate_fingerprint_summary">앱 잠금은 여러 개의 지문을 지원합니다.</string>
+    <string name="applock_operate_fingerprint_title">지문 사용</string>
+    <string name="applock_operate_hidenoti_summary">잠긴 앱의 알림을 숨길 수 있습니다.</string>
+    <string name="applock_operate_hidenoti_title">민감한 알림을 숨길까요?</string>
+    <string name="applock_recommend_tips">%s의 사용자가 이 앱을 잠그고 있습니다.</string>
+    <string name="applock_recommend_title">앱 선택</string>
+    <string name="applock_set_complete">앱 잠금 사용</string>
 </resources>

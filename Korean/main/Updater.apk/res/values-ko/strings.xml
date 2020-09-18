@@ -62,7 +62,7 @@
     <string name="wifi_recommended">Wi-Fi가 연결되어있지 않아서 안전하게 다운로드를 시작할 수 없습니다!</string>
     <string name="channel_downloading">다운로드 진행 상태</string>
     <string name="channel_service">업데이트 백그라운드 서비스</string>
-    <string name="channel_update">새로운 버전이 있습니다.</string>
+    <string name="channel_update">새로운 버전 발견</string>
     <string name="dialog_twrp">내부 저장소가 암호화되어 있습니다. 복구 모드로 다시 시작하면 기기의 잠금해제 비밀번호를 입력하세요.</string>
     <string name="btn_wrong_md5">잘못된 MD5, 클릭하여 ROM을 제거하세요!</string>
     <string name="default_filedownloader_notification_content">파일을 다운로드 중입니다.</string>

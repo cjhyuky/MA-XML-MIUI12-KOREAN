@@ -104,7 +104,7 @@
     <string name="menu_joinAggregate">합치기</string>
     <string name="titleJoinContactDataWith">연락처 합치기</string>
     <string name="blurbJoinContactDataWith">%s: 와 합치고 싶은 연락처를 선택하세요.</string>
-    <string name="showAllContactsJoinItem">모든 연락처 보이기</string>
+    <string name="showAllContactsJoinItem">모든 연락처 표시</string>
     <string name="separatorJoinAggregateSuggestions">추천 연락처</string>
     <string name="separatorJoinAggregateAll">모든 연락처</string>
     <string name="contactsJoinedMessage">연락처가 합쳐졌습니다.</string>
@@ -492,8 +492,8 @@
     <string name="upgrade_out_of_memory_uninstall">일부 앱 설치 제거</string>
     <string name="upgrade_out_of_memory_retry">업그레이드 다시 시도</string>
     <string name="search_results_searching">검색 중…</string>
-    <string name="menu_display_selected">선택 사항 보이기</string>
-    <string name="menu_display_all">모두 보이기</string>
+    <string name="menu_display_selected">선택 사항 표시</string>
+    <string name="menu_display_all">모두 표시</string>
     <string name="menu_select_all">모두 선택</string>
     <string name="menu_select_none">모든 선택 해제</string>
     <string name="no_contacts_selected">선택한 연락처가 없습니다.</string>
@@ -578,8 +578,8 @@
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="group_name_hint">그룹 명</string>
     <string name="nfc_vcard_file_name">NFC로 연락처 수신</string>
-    <string name="menu_show_voicemails_only">음성 메일만 보이기</string>
-    <string name="menu_show_all_calls">모든 통화 보이기</string>
+    <string name="menu_show_voicemails_only">음성 메일만 표시</string>
+    <string name="menu_show_all_calls">모든 통화 표시</string>
     <string name="status_available">사용 가능</string>
     <string name="status_away">멀리 떨어짐</string>
     <string name="status_busy">바쁨</string>
@@ -592,7 +592,7 @@
     <string name="description_call_log_missed_forwarding_call">부재중 통화 착신전환</string>
     <string name="description_call_log_new_contact">새 연락처</string>
     <string name="description_add_contact">연락처 추가</string>
-    <string name="description_view_contact">%1$s 연락처 보이기</string>
+    <string name="description_view_contact">%1$s 연락처 표시</string>
     <string name="description_call">%1$s에게 통화</string>
     <string name="description_send_text_message">%1$s에게 문자 메시지 전송</string>
     <string name="description_call_log_unheard_voicemail">듣지 않은 음성 메일</string>
@@ -630,7 +630,7 @@
     <string name="sim_contact_search_error">오류 발생</string>
     <string name="account_sim">SIM 카드</string>
     <string name="account_sim2">SIM 카드 %d개</string>
-    <string name="display_sim_contacts">SIM 연락처 보이기</string>
+    <string name="display_sim_contacts">SIM 연락처 표시</string>
     <string name="export_to_sim">SIM 카드로 내보내기</string>
     <string name="export_to_sim1">SIM 카드 1으로 내보내기</string>
     <string name="export_to_sim2">SIM 카드 2로 내보내기</string>
@@ -908,7 +908,7 @@
     <string name="preference_contacts_more">연락처 정리</string>
     <string name="preference_contacts_filter">연락처 목록 구성</string>
     <string name="preference_telocation_title">위치</string>
-    <string name="preference_telocation_summary_teloc_on">연락처 위치 보이기</string>
+    <string name="preference_telocation_summary_teloc_on">연락처 위치 표시</string>
     <string name="preference_telocation_summary_teloc_off">연락처 위치 숨기기</string>
     <string name="preference_telocation_summary_countrycode_on">국가 코드 자동 다이얼링</string>
     <string name="preference_telocation_summary_countrycode_off">국가 코드 자동 다이얼링 없음</string>

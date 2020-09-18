@@ -877,7 +877,7 @@
     <string name="exit_share_successfully">종료된 %1$s</string>
     <string name="exit_video_play">종료</string>
     <string name="expand_desc">더보기</string>
-    <string name="expand_people">더 많은 사람 보이기</string>
+    <string name="expand_people">더 많은 사람 표시</string>
     <string name="ext_sdcard_first_entrance_request_failed_text">갤러리는 아이템을 내부 저장소에 저장합니다. 설정에서 변경 가능합니다. 설정 &gt; 저장소 &gt; 저장소 설정.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">권한 부여 실패</string>
     <string name="ext_sdcard_guide_first_page_button_text">다음</string>
@@ -1034,7 +1034,7 @@
     <string name="image_with_time">%s 촬영됨</string>
     <string name="image_with_time_and_location">%1$s 촬영됨. 촬영위치: %2$s.</string>
     <string name="impunity_declaration_settings">인터넷 연결 알림</string>
-    <string name="impunity_declaration_summary">갤러리를 열 때마다 인터넷 연결 알림 보이기</string>
+    <string name="impunity_declaration_summary">갤러리를 열 때마다 인터넷 연결 알림 표시</string>
     <string name="initializing_cloud">초기화 중…</string>
     <string name="input_a_name">이름을 입력하세요.</string>
     <string name="input_baby_name">이름 입력</string>
@@ -1265,8 +1265,8 @@
     <string name="operation_set_video_wallpaper">동영상 배경화면 설정</string>
     <string name="operation_set_wallpaper">배경화면으로 설정</string>
     <string name="operation_share">공유</string>
-    <string name="operation_show_in_photos_tab">사진 탭에서 보이기</string>
-    <string name="operation_show_on_map">지도에 보이기</string>
+    <string name="operation_show_in_photos_tab">사진 탭에서 표시</string>
+    <string name="operation_show_on_map">지도에 표시</string>
     <string name="operation_slide_show">슬라이드 쇼 시작</string>
     <string name="operation_successful">완료</string>
     <string name="operation_too_often">귀하의 IP 주소에서 너무 많은 요청이 쇄도하고 있습니다. 1~2분 기다린 후 다시 시도하세요.</string>
@@ -1601,7 +1601,7 @@
     <string name="share_public_url_text">나는 사용자와 %1$s 앨범을 공유했습니다. %2$s에서 앨범을 보세요.</string>
     <string name="share_with_family">가족과 공유</string>
     <string name="sharer_quota_fulfiled">이 앨범을 이미 많은 사람들과 공유하고 있습니다.</string>
-    <string name="show_hidden_album_title">숨겨진 앨범 보이기</string>
+    <string name="show_hidden_album_title">숨겨진 앨범 표시</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">이동 성공, 다른 앨범으로 이동하여 보기</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">이동 성공, 앨범으로 이동하여 보기</string>
     <string name="similar_keep_clear">최고의 샷을 남기세요.</string>

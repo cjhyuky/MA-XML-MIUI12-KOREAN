@@ -4,7 +4,7 @@
     <string name="account_sim2">UIM 카드 %d</string>
     <string name="delete_sim_entries_finish">UIM 카드에서 연락처가 삭제되었습니다.</string>
     <string name="deleting_sim_entry_miui">UIM 카드에서 연락처 삭제 중…</string>
-    <string name="display_sim_contacts">UIM 연락처 보이기</string>
+    <string name="display_sim_contacts">UIM 연락처 표시</string>
     <string name="export_sim_contact_finish">UIM 카드로 내보냄</string>
     <string name="export_to_sim">UIM 카드로 내보내기</string>
     <string name="export_to_sim1">UIM 카드 1으로 내보내기</string>

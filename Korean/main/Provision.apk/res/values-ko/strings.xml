@@ -155,7 +155,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="terms_of_use_label_Mistore">, Mi 스토어 시스템 플러그인</string>
     <string name="terms_of_use_label_package">, 패키지 설치 관리자</string>
     <string name="terms_of_use_label_phrase">, 상용구</string>
-    <string name="other_settings_ad_dialog_content">"이 기능을 해제하면 더 이상 맞춤형 광고를 수신하지 않지만 관심분야와 관련 없는 광고는 계속 게재됩니다. 개인정보 보호정책에서 맞춤형 광고에 대해 자세히 알아볼 수 있습니다.
+    <string name="other_settings_ad_dialog_content">"맞춤형 광고 추천을 꺼도, 켰을 때와 같은 양의 광고가 계속 표시됩니다. 하지만 더 이상 사용자 개인 관심사와 관련되지 않습니다.
 정말로 맞춤형 광고를 끄시겠습니까?"</string>
     <string name="other_settings_ad_disable_summary">맞춤형 광고를 사용하려면 켜세요.</string>
     <string name="agree_and_next">동의</string>
@@ -290,4 +290,6 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="wc_notice_link_privacy_index">개인정보 보호정책</string>
     <string name="wc_notice_link_summary">"이 기능을 사용하려면 타사 콘텐츠 공급자의 %1$s 및 %2$s을 읽고 동의하세요."</string>
     <string name="wc_notice_link_announcement_summary">"이 기능을 사용하려면, 타사 콘텐츠 공급자의 <a href="%1$s">개인정보 보호정책</a> 및 <a href="%2$s">이용 약관</a>을 읽고 동의하세요."</string>
+    <string name="other_settings_ad_dialog_agree">켜기</string>
+    <string name="other_settings_ad_dialog_disagree">끄기</string>
 </resources>

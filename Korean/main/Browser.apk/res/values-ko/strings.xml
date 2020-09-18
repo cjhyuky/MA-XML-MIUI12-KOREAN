@@ -498,7 +498,7 @@
     <string name="miui_autologin_bar_title">Mi 계정으로 로그인</string>
     <string name="miui_bookmark_action_bar_add_group_title">그룹 추가</string>
     <string name="miui_bookmark_action_bar_new_group_title">새 그룹</string>
-    <string name="miui_quicksearch_enable_pref_summary">드롭다운 메뉴의 검색 바에 링크 보이기</string>
+    <string name="miui_quicksearch_enable_pref_summary">드롭다운 메뉴의 검색 바에 링크 표시</string>
     <string name="miui_quicksearch_enable_pref_title">드롭다운 메뉴의 검색 바</string>
     <string name="miui_search_notification_message">검색 바를 열려면 터치하세요.</string>
     <string name="miui_search_notification_title">검색</string>
@@ -1004,7 +1004,7 @@
     <string name="pref_data_preload_value_never">절대 금지</string>
     <string name="pref_debug_mode">디버그 모드</string>
     <string name="pref_download_setting">다운로드 설정</string>
-    <string name="pref_enable_adblock_notification">광고 차단기 알림 보이기</string>
+    <string name="pref_enable_adblock_notification">광고 차단기 알림 표시</string>
     <string name="pref_enable_news">뉴스</string>
     <string name="pref_enable_novels">도서</string>
     <string name="pref_enable_videos">동영상</string>
@@ -1071,8 +1071,8 @@
     <string name="pref_security_remember_passwords_summary">이 웹사이트의 사용자 이름과 비밀번호 저장</string>
     <string name="pref_security_save_form_data">양식 데이터 기억</string>
     <string name="pref_security_save_form_data_summary">나중에 사용하기 위한 양식의 데이터 | 유형 기억</string>
-    <string name="pref_security_show_security_warning">보안 경고 보이기</string>
-    <string name="pref_security_show_security_warning_summary">사이트의 인증서에 문제가 있을 경우 경고 보이기</string>
+    <string name="pref_security_show_security_warning">보안 경고 표시</string>
+    <string name="pref_security_show_security_warning_summary">사이트의 인증서에 문제가 있을 경우 경고 표시</string>
     <string name="pref_set_homepage_to">설정</string>
     <string name="pref_tab_restore">시작시 마지막으로 열린 페이지 복구</string>
     <string name="pref_ua_string">사용자 에이전트 문자열</string>
@@ -1101,7 +1101,7 @@
     <string name="quicklinks_group_default_subtitle">비어 있음</string>
     <string name="quicklinks_management">인기</string>
     <string name="quicklinks_most_visited">시작 페이지에 추가</string>
-    <string name="quicklinks_most_visited_subtitle">새 탭에 최근 방문한 사이트 보이기</string>
+    <string name="quicklinks_most_visited_subtitle">새 탭에 최근 방문한 사이트 표시</string>
     <string name="quicklinks_most_visited_title">시작 페이지에 추가</string>
     <string name="readmode_already_add_to_bookshelf">책갈피에 추가됨</string>
     <string name="readmode_battery">배터리</string>

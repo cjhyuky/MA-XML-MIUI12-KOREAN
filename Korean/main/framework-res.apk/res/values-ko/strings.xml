@@ -1795,7 +1795,7 @@
     <string name="time_placeholder">--</string>
     <string name="toolbar_collapse_description">접기</string>
     <string name="unsupported_display_size_message">%1$s가 현재 설정에 적합하지 않습니다.</string>
-    <string name="unsupported_display_size_show">항상 보이기</string>
+    <string name="unsupported_display_size_show">항상 표시</string>
     <string name="usb_midi_notification_title">MIDI 사용을 위한 USB 연결</string>
     <string name="usb_midi_peripheral_manufacturer_name">Android</string>
     <string name="usb_midi_peripheral_name">Android USB 주변 장치</string>

@@ -33,7 +33,7 @@
     <string name="sim_contact_search_error">USIM 카드 연락처 검색 중 오류 발생</string>
     <string name="account_sim">USIM 카드</string>
     <string name="account_sim2">USIM 카드 %d</string>
-    <string name="display_sim_contacts">USIM 연락처 보이기</string>
+    <string name="display_sim_contacts">USIM 연락처 표시</string>
     <string name="export_to_sim">USIM 카드로 내보내기</string>
     <string name="export_to_sim1">USIM 카드 1으로 내보내기</string>
     <string name="export_to_sim2">USIM 카드 2로 내보내기</string>

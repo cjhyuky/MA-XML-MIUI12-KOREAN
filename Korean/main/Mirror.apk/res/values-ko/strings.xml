@@ -122,7 +122,7 @@
     <string name="search_menu_title">검색</string>
     <string name="settings_connect">연결 방법</string>
     <string name="settings_connect_more_help"><u>도움말</u></string>
-    <string name="settings_connect_summary1">PC에서 Mi Smart Share를 열고 \"Screen Combo\"를 선택하세요. Mi Smart Share는 www.miui.com에서 다운로드할 수 있습니다..</string>
+    <string name="settings_connect_summary1">PC에서 Mi Smart Share를 열고 \"Screen Combo\"를 선택하세요. Mi Smart Share는 https://pc.mi.com/aiot에서 다운로드할 수 있습니다.</string>
     <string name="settings_connect_summary2">PC 화면의 QR 코드를 모바일 기기로 스캔하세요. 다양한 시스템 앱(예: 스캐너, 카메라, Mi 브라우저)으로 스캔을 할 수 있습니다.</string>
     <string name="settings_connect_title1">1단계</string>
     <string name="settings_connect_title2">2단계</string>
@@ -182,4 +182,5 @@
     <string name="traffic_log">트래픽 로그</string>
     <string name="verbose_mode">상세 모드</string>
     <string name="worker_authorization_loading">잠시만 기다리세요…</string>
+    <string name="tip_connect_fail_for_hotspot">"연결할 수 없습니다. 모바일 핫스팟을 끄고 다시 시도하세요."</string>
 </resources>

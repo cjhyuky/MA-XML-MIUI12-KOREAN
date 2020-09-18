@@ -127,4 +127,7 @@
     <string name="float_notifications_short">플로팅</string>
     <string name="lockscreen_notifications_short">잠금 화면</string>
     <string name="show_badge_notifications_short">배지</string>
+    <string name="channel_name_aggregation">그룹 알림</string>
+    <string name="channel_name_notification">앱 알림</string>
+    <string name="channel_name_recovered">복구된 알림</string>
 </resources>

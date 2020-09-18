@@ -153,5 +153,12 @@
 델타 업데이트 사이즈: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장소 사용불가, SD 카드를 확인하세요.</string>
-
+    <string name="I_know">확인</string>
+    <string name="bind_status_dialog_cancle">취소</string>
+    <string name="bind_status_dialog_confirm">복구</string>
+    <string name="bind_status_dialog_des">이전에 추가한 기기의 패밀리 가드 보호가 해제된 것 같습니다. \"%s\"를 복구할까요?</string>
+    <string name="bind_status_dialog_title">이전에 추가한 기기</string>
+    <string name="bind_status_last_bind_time">최초 추가: %s</string>
+    <string name="refresh">새로고침</string>
+    <string name="search_menu_title">검색</string>
 </resources>

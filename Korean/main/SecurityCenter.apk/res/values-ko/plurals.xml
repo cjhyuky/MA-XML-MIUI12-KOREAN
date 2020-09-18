@@ -461,5 +461,11 @@
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%s분</item>
-    </plurals>    
+    </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">%1$s개 앱에서 앱 잠금을 사용할 수 있습니다.</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s개 앱을 앱 잠금으로 보호합니다.</item>
+    </plurals>
 </resources>
