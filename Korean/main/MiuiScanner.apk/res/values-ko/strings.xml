@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="general_no">항목 정보 없음</string>
-    <string name="general_no_found">유사한 제품 추천</string>
-    <string name="general_plant">찾고있는 내용은 다음과 같습니다.</string>
+    <string name="general_no">결과 없음</string>
+    <string name="general_no_found">이 제품 둘러보기</string>
+    <string name="general_plant">이걸 찾으셨나요?</string>
     <string name="WeChatqr_code_auto_processing">WeChat 열기</string>
     <string name="agree_audio_permission">오디오 녹음</string>
     <string name="agree_monitor_use">온라인 수업 중 의도 청취,주의 산만 및 퇴근 시간과 비율을 감지합니다. 모든 개인 데이터가 로컬로 저장됩니다.</string>
@@ -500,7 +500,7 @@ Mi AI로 스캔하고 싶습니다 "</string>
     <string name="share_as_PDF">PDF로 공유</string>
     <string name="share_as_picture">사진으로 공유</string>
     <string name="share_format">공유 형식</string>
-    <string name="text_to_be_translated_cannot_be_empty">번역 할 텍스트는 비워 둘 수 없습니다.</string>
+    <string name="text_to_be_translated_cannot_be_empty">번역할 텍스트는 비워 둘 수 없습니다.</string>
     <string name="textrecognition_results">텍스트 인식 결과</string>
     <string name="general_error">식별 실패</string>
     <string name="general_feedback"> 오류를 식별하고 피드백으로 이동 </string>
@@ -509,4 +509,26 @@ Mi AI로 스캔하고 싶습니다 "</string>
     <string name="general_recognized">신원 확인 : </string>
     <string name="general_title">인식할 물체의 사진을 찍어주세요.</string>
     <string name="module_title_general">사물 식별</string>
+    <string name="can_only_be_English_Chinese">온라인 번역은 영어와 중국어(간체)만 지원합니다.</string>
+    <string name="current_word_is_locked">현재 단어가 잠겨있습니다.</string>
+    <string name="general_location">위치 기반 서비스를 제공받으려면 스캐너 앱의 위치 정보 접근을 허용하세요.</string>
+    <string name="hold_down">단어를 선택하려면 꾹 누르세요.</string>
+    <string name="local_ocr_recognition">오프라인 OCR 인식</string>
+    <string name="local_ocr_recognition_str">오프라인 번역으로 전환됨</string>
+    <string name="mihome_goto_install">설치</string>
+    <string name="mihome_goto_update">업데이트</string>
+    <string name="mihome_install_message">먼저 Mi Home 앱을 설치하고 로그인하세요.</string>
+    <string name="mihome_install_title">Mi Home 설치</string>
+    <string name="mihome_update_message">Mi Home을 최신 버전으로 업데이트하고 다시 시도하세요.</string>
+    <string name="mihome_update_title">Mi Home 업데이트</string>
+    <string name="offline_translation">오프라인 번역</string>
+    <string name="online_ocr_recognition">온라인 OCR 인식</string>
+    <string name="online_ocr_recognition_str">이미 온라인 번역으로 전환됨</string>
+    <string name="online_translation">온라인 번역</string>
+    <string name="page_does_not_exist">페이지를 찾을 수 없습니다.</string>
+    <string name="release_lock">잠금 해제</string>
+    <string name="release_locked_word">단어 잠금 해제</string>
+    <string name="take_the_word">아래 버튼을 길게 눌러 단어를 선택하세요.</string>
+    <string name="word_to_be_recognized_is_aligned_with_cross">인식할 단어가 십자로 정렬되어 있습니다.</string>
+    <string name="word_translation">단어 번역</string>
 </resources>

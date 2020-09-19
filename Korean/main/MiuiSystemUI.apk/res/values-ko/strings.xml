@@ -94,14 +94,6 @@
     <string name="instant_apps_title">%1$s 실행 중</string>
     <string name="lock_screen_signature_msg">잠금 화면에 서명 표시</string>
     <string name="lock_screen_signature_title">화면 소유자 정보 잠금</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">지금까지의 모든 것</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">지금까지의 모든 것</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠깐만…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">항목을 불러올 수 없습니다.</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="mtrl_picker_cancel">취소</string>
     <string name="mtrl_picker_confirm">저장</string>

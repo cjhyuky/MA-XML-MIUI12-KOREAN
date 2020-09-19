@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s님과 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="search_menu_title">검색</string>
-    <string name="I_know">알고있음</string>
     <string name="about">정보</string>
     <string name="about_detail">"버전명: %s 
 개인정보 보호정책 보기"</string>
@@ -160,5 +159,4 @@
     <string name="bind_status_dialog_title">이전에 추가한 기기</string>
     <string name="bind_status_last_bind_time">최초 추가: %s</string>
     <string name="refresh">새로고침</string>
-    <string name="search_menu_title">검색</string>
 </resources>
