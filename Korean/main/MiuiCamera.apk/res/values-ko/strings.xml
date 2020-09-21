@@ -1809,4 +1809,5 @@
     <string name="aiwatermark_location_absent_hint">"위치 정보 확인 불가"</string>
     <string name="aiwatermark_location_list_title">위치</string>
     <string name="aiwatermark_location_tips">더 적절한 워터마크를 가져올 수 있도록 카메라의 위치 정보 접근을 허용합니다.</string>
+    <string name="film_video_e_tip">가로 모드만 지원합니다</string>
 </resources>
