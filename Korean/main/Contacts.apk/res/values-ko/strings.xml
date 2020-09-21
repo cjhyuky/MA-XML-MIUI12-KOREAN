@@ -1502,4 +1502,15 @@
     <string name="theme_dialog_confirm_button">확인</string>
     <string name="theme_dialog_confirm_content">"이 버전의 주소록은 현재 적용된 테마를 지원하지 않습니다."</string>
     <string name="theme_dialog_confirm_title">"테마를 적용할 수 없습니다."</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">선택 해제</string>
+    <string name="miuix_appcompat_action_mode_select_all">전체 선택</string>
+    <string name="miuix_appcompat_action_mode_title_empty">항목 선택</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">더보기</string>
+    <string name="miuix_appcompat_cancel_description">취소</string>
+    <string name="miuix_appcompat_confirm_description">확인</string>
+    <string name="miuix_appcompat_delete_description">삭제</string>
+    <string name="miuix_appcompat_deselect_all_description">전체 선택 취소</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
+    <string name="miuix_appcompat_search_input_description">검색</string>
+    <string name="miuix_appcompat_select_all_description">전체 선택</string>
 </resources>
