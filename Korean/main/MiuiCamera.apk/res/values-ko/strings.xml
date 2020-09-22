@@ -1810,4 +1810,16 @@
     <string name="aiwatermark_location_list_title">위치</string>
     <string name="aiwatermark_location_tips">더 적절한 워터마크를 가져올 수 있도록 카메라의 위치 정보 접근을 허용합니다.</string>
     <string name="film_video_e_tip">가로 모드만 지원합니다</string>
+    <string name="accessibility_dual_video_merged">합침</string>
+    <string name="accessibility_dual_video_standalone">따로 녹화</string>
+    <string name="dual_video_record_merged">합침</string>
+    <string name="dual_video_record_standalone">따로 녹화</string>
+    <string name="dual_video_user_guide_main_content">여러 샷의 동시 미리보기를 지원하며 두 개의 무료 조합을 선택하여 분할 화면 또는 공동 녹화된 비디오를 촬영할 수 있습니다.</string>
+    <string name="dual_video_user_guide_main_title">멀티 카메라 열기 기능 소개</string>
+    <string name="dual_video_user_guide_merge_content">두 렌즈로 촬영한 비디오를 동시에 녹화하고 결합된 비디오로 저장하고 분할 화면 녹화 및 크고 작은 창 녹화를 지원합니다.</string>
+    <string name="dual_video_user_guide_standalone_content">두 개의 렌즈로 촬영한 비디오를 동시에 녹화하고 두 개의 비디오로 저장합니다.</string>
+    <string name="fastmotion_pro_adjust_name">이름 설정</string>
+    <string name="fastmotion_pro_save_time_infinity">저장 시간 무한대</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">저장 시간 %1$s %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">저장 시간 %1$s</string>
 </resources>
