@@ -10342,4 +10342,11 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="font_size_kddi">중간</string>
     <string name="key_color_param_title">색상 맞춤설정</string> 
     <string name="key_color_param_summary">통화 인터페이스 요소의 색상을 맞춤설정합니다.</string>
+    <string name="dpp_qrcode_generator_summary">쉬운 연결을 지원하는 기기로 이 QR코드 스캔</string>
+    <string name="miui_wifi_wakeup_summary">기기가 주변에 저장된 네트워크를 감지하면 Wi-Fi가 자동으로 켜지고 연결이 되지 않는 경우 15분 후에 꺼집니다.</string>
+    <string name="wifi_wakeup_location_summary">이 기능을 사용하려면 위치 서비스를 사용 설정하세요.</string>
+    <string name="wifi_wakeup_negative_button">취소</string>
+    <string name="wifi_wakeup_positive_button">켜기</string>
+    <string name="wifi_wakeup_scan_summary">앱과 서비스가 Wi-Fi 네트워크를 검색하여 Wi-Fi를 자동으로 켤 수 있도록 합니다. 이 기능을 사용하면 기기가 근처에 저장된 네트워크에 자동으로 연결됩니다.</string>
+    <string name="wifi_wakeup_title">추가 기능 켜기</string>
 </resources>
