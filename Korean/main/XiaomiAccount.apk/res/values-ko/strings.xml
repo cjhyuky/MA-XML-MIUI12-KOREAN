@@ -652,4 +652,6 @@ ID:%s
     <string name="find_device_open">켜짐</string>
     <string name="find_device_play_sound">소리 재생</string>
     <string name="find_device_set_lost_model">분실 모드</string>
+    <string name="facebook_login">페이스북 계정으로 로그인</string>
+    <string name="google_login">구글 계정으로 로그인</string>
 </resources>

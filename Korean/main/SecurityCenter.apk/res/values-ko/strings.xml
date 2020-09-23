@@ -1126,7 +1126,7 @@
     <string name="exit">종료</string>
     <string name="exit_dialog_garbage_clean_message">기기의 휴지통이 %s 보다 많습니다. 휴지통을 비울까요?</string>
     <string name="exit_dialog_garbage_clean_positive_button">비우기</string>
-    <string name="exit_dialog_garbage_clean_title">휴지통 비우기</string>
+    <string name="exit_dialog_garbage_clean_title">여유공간 늘리기</string>
     <string name="exit_dialog_homepage_optimise_message">이 기기의 퍼포먼스 점수가 낮습니다. 지금 최적화하시겠습니까?</string>
     <string name="exit_dialog_release_storage_message">기기의 저장 용량이 80%가 넘습니다. 사용하지 않는 앱을 제거하여 공간을 확보하세요.</string>
     <string name="exit_dialog_release_storage_positive_button">여유공간 확보</string>
@@ -2684,7 +2684,7 @@ SMS 전송"</string>
     <string name="renew_now">갱신</string>
     <string name="repair">수리</string>
     <string name="repair_loading_text">잠시만 기다려주세요…</string>
-    <string name="repeated_marked_number_summary">3분 이내에 신고된 동일한 번호로부터 두 번째 걸려 오는 통화를 차단하지 않습니다.</string>
+    <string name="repeated_marked_number_summary">"%d분 내에 동일한 번호에서 걸려오는 반복된 전화를 차단하지 마십시오."</string>
     <string name="repeated_marked_number_title">신고된 번호로부터 반복해서 걸려 오는 통화를 차단하지 않습니다.</string>
     <string name="replace_dns">자동으로 DNS 교체</string>
     <string name="report">신고</string>
@@ -2952,7 +2952,7 @@ SMS 전송"</string>
     <string name="st_msg_settings">SMS 차단 목록</string>
     <string name="st_msg_stranger_group">모르는 사람으로부터 온 SMS 차단</string>
     <string name="st_settings_name">차단 목록 설정</string>
-    <string name="st_share_settings">SIM 1 설정 사용</string>
+    <string name="st_share_settings">SIM %d 설정 사용</string>
     <string name="st_sub_title_customize_mode_name">이름</string>
     <string name="st_sub_title_whiteblack_list_group">차단 목록</string>
     <string name="st_sum_call_wait">부재중 메시지 알림음이 통화 중에 들릴 수 있습니다. 통화 중에 알림음 듣지 않기를 설정할 수 있습니다.</string>
@@ -3806,4 +3806,18 @@ SMS 전송"</string>
     <string name="applock_recommend_tips">%s의 사용자가 이 앱을 잠그고 있습니다.</string>
     <string name="applock_recommend_title">앱 선택</string>
     <string name="applock_set_complete">앱 잠금 사용</string>
+    <string name="bottom_func_guide_default_text">추가 기능</string>
+    <string name="exit_dialog_exit">나가기</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>클리너가 %s의 저장 공간을 확보할 수 있습니다. 지금 정리 하시겠습니까?</Data></string>
+    <string name="exit_dialog_release_memory_positive_button">닫기</string>
+    <string name="exit_dialog_release_memory_title"><Data>장치 속도를 %d%% 향상</Data></string>
+    <string name="menu_item_notification_optimize_text">%d%% 사용중</string>
+    <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s 사용중</string>
+    <string name="stranger_call_dialog_add_block_list">차단</string>
+    <string name="stranger_call_dialog_add_contacts">새 연락처</string>
+    <string name="stranger_call_dialog_notification_body">연락처에 추가 또는 이 번호 차단</string>
+    <string name="stranger_call_dialog_notification_title_format">알 수 없는 번호 %s</string>
+    <string name="stranger_call_dialog_subtitle_format">"%s 번호가 연락처에 없습니다. 이 전화 번호를 연락처에 추가하거나 차단할 수 있습니다."</string>
+    <string name="stranger_call_dialog_title">"알 수 없는 번호 "</string>
+    <string name="menu_text_garbage_cleanup_danger">쓰레기 %s</string>
 </resources>

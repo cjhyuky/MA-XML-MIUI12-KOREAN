@@ -566,7 +566,7 @@
     <string name="burst_image_download_item_title" formatted="false">원본 다운로드(%s|%s)</string>
     <string name="burst_preview_title">버스트 샷</string>
     <string name="burst_save_all">모두 저장</string>
-    <string name="burst_save_choice_title" formatted="false">%d개 중 %d개 사진 선택됨</string>
+    <string name="burst_save_choice_title">%2$d 중 %1$d개 선택됨</string>
     <string name="burst_save_error_msg">저장 실패</string>
     <string name="burst_save_processing">처리 중…</string>
     <string name="buy_member_tip">멤버 되기</string>
@@ -2376,7 +2376,7 @@
     <string name="drag_failed_because_not_custom_sort">맞춤형 정렬 순서를 선택한 경우에만 항목을 다시 정렬할 수 있습니다.</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"스크린샷 앨범을 삭제하거나 숨길 수 없습니다."</string>
     <string name="drag_failed_because_share_album_cant_sort">"다른 사람들이 공유한 앨범을 삭제할 수 없습니다."</string>
-    <string name="empty_description_conditions_new">"사진을 충분히 촬영하고 충전기를 연결한 다음, 화면을 꺼서 여기에 항목이 더 빨리 표시되도록 하세요."</string>
+    <string name="empty_description_conditions_new">여기에 항목이 더 빨리 표시되도록 충전기를 연결하고 화면을 끕니다</string>
     <string name="expand_button_title">고급</string>
     <string name="filter_bi_tea">차</string>
     <string name="filter_category_general">일반</string>
@@ -2638,4 +2638,31 @@
     <string name="trash_size">지워진 항목 (%s개)</string>
     <string name="menu_new_display_open">새 창에서 열기</string>
     <string name="menu_pc_open">PC에서 열기</string>
+	<string name="filter_popular_autumn">가을</string>
+    <string name="filter_popular_coffee">커피</string>
+    <string name="filter_popular_coldsmoke">쿨 미스트</string>
+    <string name="filter_popular_comic">애니메이션</string>
+    <string name="filter_popular_dream">꿈</string>
+    <string name="filter_popular_hill">언덕</string>
+    <string name="filter_popular_kamakura">가마쿠라</string>
+    <string name="internal_storage_device">내부 저장소</string>
+    <string name="operation_photo_rename">이름 바꾸기</string>
+    <string name="operation_pic_to_pdf">PDF 작성</string>
+    <string name="photodetail_failed_already_exist">이 파일은 이미 존재합니다.</string>
+    <string name="photodetail_rename_failed">"이름을 바꿀 수 없음"</string>
+    <string name="photodetail_rename_invalid">"파일명에는 다음과 같은 글자를 포함할 수 없습니다: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_success">이름이 성공적으로 변경되었습니다.</string>
+    <string name="photodetail_rename_title">이름 변경</string>
+    <string name="photodetail_rename_too_long">입력한 파일 이름이 너무 깁니다.</string>
+    <string name="pic_to_pdf_a4_format">A4 용지</string>
+    <string name="pic_to_pdf_all_not_support">"선택한 이미지는 PDF로 저장할 수 없습니다."</string>
+    <string name="pic_to_pdf_exit_notice">"지금 종료하면이 PDF가 저장되지 않습니다. 종료 하시겠습니까?"</string>
+    <string name="pic_to_pdf_not_support_video">"동영상을 PDF로 저장할 수 없습니다."</string>
+    <string name="pic_to_pdf_preview_loading">미리보기로드 중…</string>
+    <string name="pic_to_pdf_save_in">%s에 저장된 PDF</string>
+    <string name="save_error_try_a_different_template_msg">"저장할 수 없습니다. 이미지가 너무 큽니다."</string>
+    <string name="search_title_photo_name">파일 이름</string>
+    <string name="toast_invalid_char">"파일명에 \"%s\" 문자를 포함할 수 없습니다"</string>
+    <string name="toast_invalid_prefix">"파일명은 \".\" 또는 \"_\"로 시작할 수 없습니다"</string>
+    <string name="toast_rename_exit">파일이 이미 존재합니다.</string>
 </resources>
