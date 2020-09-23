@@ -468,4 +468,7 @@
     <plurals name="applock_one_key_lock">
         <item quantity="other">%s개 앱을 앱 잠금으로 보호합니다.</item>
     </plurals>
+    <plurals name="exit_dialog_release_memory_message">
+        <item quantity="other">&lt;Data>&lt;font color=#0099ff>%d&lt;/font>개의 앱을 종료하여 기기의 속도를 향상시킬까요?&lt;/Data></item>
+    </plurals>
 </resources>

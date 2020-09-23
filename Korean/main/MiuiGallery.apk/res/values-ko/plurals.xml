@@ -339,4 +339,10 @@
     <plurals name="picker_file_will_download">
         <item quantity="other">%d개 항목 다운로드 중</item>
     </plurals>
+     <plurals name="pic_to_pdf_filter_count">
+		<item quantity="other">필터링 된 %d개의 지원되지 않는 항목</item>
+	</plurals>
+	<plurals name="pic_to_pdf_support_max_count">
+		<item quantity="other">PDF 파일은 최대 %d개의 이미지를 포함할 수 있습니다</item>
+	</plurals>
 </resources>
