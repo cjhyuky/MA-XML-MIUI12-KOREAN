@@ -1729,11 +1729,11 @@
     <string name="trip_required_info">필수</string>
      <string name="app_sleep">취침</string>
      <string name="app_sleep_awake">기상</string>
-     <string name="app_sleep_continue">취침 개선</string>
+     <string name="app_sleep_continue">좀 더 잘까요?</string>
      <string name="app_sleep_deep">딥</string>
      <string name="app_sleep_enough">충분</string>
      <string name="app_sleep_light">라이트</string>
-     <string name="app_sleep_sleeping">취침 중</string>
+     <string name="app_sleep_sleeping">잘 자요.</string>
      <string name="app_sleep_too_long">너무 많음</string>
      <string name="app_sleep_too_short">부족함</string>
      <string name="app_stock_network_unavailable">"네트워크에 연결할 수 없습니다."</string>
@@ -1748,4 +1748,9 @@
      <string name="cta_dialog_desc_location">일일 출퇴근 시간을 계산합니다.</string>
      <string name="cta_dialog_desc_storage">기기의 항목 보호</string>
      <string name="app_pa_setting_service_timetable_summary">탭하여 수업 예약</string>
+     <string name="app_pa_setting_global_display">디스플레이</string>
+     <string name="app_pa_setting_global_display_blur_option">배경화면 흐림 처리</string>
+     <string name="app_pa_setting_global_display_blur_summary">배경화면 흐림 처리는 밀기 반응을 느리게 합니다.</string>
+     <string name="app_screen_time_auth">화면켜짐 시간</string>
+     <string name="app_sports_title_all_leagues">모두 일치</string>
 </resources>

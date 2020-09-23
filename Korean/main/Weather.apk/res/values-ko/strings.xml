@@ -315,7 +315,7 @@
     <string name="hourly_forecast_title_24_hours_desc">24시간 일기예보</string>
     <string name="hourly_forecast_title_hourly_desc">매 시간 일기예보</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="user_agreement">사용약관</string>
+    <string name="user_agreement">이용 약관</string>
     <string name="aqi_settings_summary">AQI 경고</string>
     <string name="aqi_settings_title">AQI(대기 질 지수)</string>
     <string name="settings">설정</string>
