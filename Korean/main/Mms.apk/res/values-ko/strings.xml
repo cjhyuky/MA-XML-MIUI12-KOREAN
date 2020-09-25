@@ -817,7 +817,7 @@
     <string name="fake_cell_alert_detect_error">"조작된 번호에서 온 전화가 아닙니다."</string>
     <string name="notification_channel_description">메시지 알림</string>
     <string name="notification_channel_name">메시지</string>
-    <string name="notification_copy">OTP 복사</string>
+    <string name="notification_copy">보안코드 복사</string>
     <string name="toast_pending_hangup_msg">통화가 종료된 후 메시지가 전송될 것입니다.</string>
     <string name="url_scan_again">다시 확인하세요.</string>
     <string name="add_contact">연락처</string>
