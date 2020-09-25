@@ -1513,4 +1513,10 @@
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all_description">전체 선택</string>
+    <string name="dialog_delete_contact_button_delete">삭제</string>
+    <string name="dialog_delete_contact_button_keep">유지</string>
+    <string name="dialog_delete_contact_content">Xiaomi 클라우드가 일부 연락처를 삭제하려 합니다. 삭제할까요?</string>
+    <string name="dialog_delete_contact_title">연락처 삭제</string>
+    <string name="notification_click_detail">자세히 알아보기</string>
+    <string name="notification_micloudsync_delete_contact">Xiaomi 클라우드가 일부 연락처를 삭제하려 합니다.</string>
 </resources>

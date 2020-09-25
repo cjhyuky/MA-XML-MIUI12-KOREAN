@@ -218,4 +218,6 @@
     <string name="material_slider_range_end">범위 끝,</string>
     <string name="material_slider_range_start">범위 시작,</string>
     <string name="mtrl_exceed_max_badge_number_content_description">%1$d개 이상의 새로운 알림</string>
+    <string name="aod_dual_clock_date">MM/dd HH:mm</string>
+    <string name="aod_dual_clock_date_12">MM/dd aa hh:mm</string>
 </resources>

@@ -205,4 +205,5 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="privacy_permission_wlan_desc_china">주변에서 사용 가능한 장치를 찾는 경우</string>
     <string name="privacy_positive">동의</string>
     <string name="privacy_title">주의</string>
+    <string name="synergy_casting">"Screen Combo와 캐스팅을 동시에 사용할 수 없습니다."</string>
 </resources>

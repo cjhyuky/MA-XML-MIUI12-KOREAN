@@ -111,7 +111,7 @@
     <string name="notification_style_miui">MIUI 스타일</string>
     <string name="off">꺼짐</string>
     <string name="on">켜짐</string>
-    <string name="settings_guide_title">다른 설정이 필요한가요?</string>
+    <string name="settings_guide_title">다른 설정을 찾으시나요?</string>
     <string name="show_badge_notifications">알림 배지</string>
     <string name="status_bar_setting">상태 표시줄</string>
     <string name="summary_disable_float_notification">"플로팅 알림 허용되지 않음"</string>

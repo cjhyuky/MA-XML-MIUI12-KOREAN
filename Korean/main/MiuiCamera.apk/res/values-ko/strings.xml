@@ -1818,8 +1818,10 @@
     <string name="dual_video_user_guide_main_title">멀티 카메라 열기 기능 소개</string>
     <string name="dual_video_user_guide_merge_content">두 렌즈로 촬영한 비디오를 동시에 녹화하고 결합된 비디오로 저장하고 분할 화면 녹화 및 크고 작은 창 녹화를 지원합니다.</string>
     <string name="dual_video_user_guide_standalone_content">두 개의 렌즈로 촬영한 비디오를 동시에 녹화하고 두 개의 비디오로 저장합니다.</string>
-    <string name="fastmotion_pro_adjust_name">이름 설정</string>
-    <string name="fastmotion_pro_save_time_infinity">저장 시간 무한대</string>
-    <string name="fastmotion_pro_save_time_min_and_sec">저장 시간 %1$s %2$s</string>
-    <string name="fastmotion_pro_save_time_min_or_sec">저장 시간 %1$s</string>
+    <string name="fastmotion_pro_adjust_name">파라미터</string>
+    <string name="fastmotion_pro_save_time_infinity">무제한 저장 시간</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">저장 시간: %1$s %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">저장 시간: %1$s</string>
+    <string name="pref_camera_new_coloreffect_title">필터</string>
+    <string name="pref_hdr10plus_video_mode_description">4K/8K 동영상의 색상과 대비를 최적화합니다. HDR10+ 지원 기기에서만 정상적으로 재생할 수 있습니다.</string>
 </resources>
