@@ -192,4 +192,9 @@
         <item>"모바일 사용량 "</item>
         <item>"Wi-Fi 사용량 "</item>
     </string-array>
+    <string-array name="cellular_package_type">
+        <item>월단위 요금제</item>
+        <item>무제한 요금제</item>
+        <item>일단위 요금제</item>
+    </string-array>
 </resources>
