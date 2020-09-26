@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="add_custom_image">커스텀 이미지 추가</string>
+    <string name="dual_clock_tip">듀얼 시계가 활성화되었습니다. 터치해서 설정을 볼 수 있습니다.</string>    
+    <string name="share">공유</string>
+    <string name="share_to_community">Mi 커뮤니티에 공유</string>
+    <string name="step_to_image_community">Mi 커뮤니티에서 더 찾아보기</string>
     <string name="aod_component">표시 항목</string>
     <string name="component_battery">배터리</string>
     <string name="component_date_time">날짜와 시간</string>
