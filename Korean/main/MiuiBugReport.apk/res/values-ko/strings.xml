@@ -147,7 +147,7 @@
     <string name="feedback_submit_failed_notification_desc">자세히 보기</string>
     <string name="feedback_submit_failed_notification_retry">재전송</string>
     <string name="feedback_submit_failed_notification_title">보고서를 전송하지 못했습니다.</string>
-    <string name="feedback_submit_hint">빠른 해결을 위해 문제가 발생할 때 마다 버그를 보고합니다.</string>
+    <string name="feedback_submit_hint">빠른 해결을 위해 문제가 발생할 때마다 버그를 보고합니다.</string>
     <string name="feedback_submit_hint_gone">닫은 메시지</string>
     <string name="feedback_submit_hint1">보고서의 진행 상황을 알려드릴 것입니다.</string>
     <string name="feedback_submit_hint2">\"내 보고서\"로 이동하여 세부사항 보기</string>

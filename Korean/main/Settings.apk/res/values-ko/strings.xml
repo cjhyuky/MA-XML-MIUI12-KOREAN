@@ -2066,13 +2066,13 @@
     <string name="credentials_install">SD 카드에서 설치</string>
     <string name="credentials_install_gesture_explanation">자격증명 설치를 확인하려면 잠금해제 패턴을 그려야 합니다.</string>
     <string name="credentials_install_gesture_prompt">잠금해제 패턴을 그리세요.</string>
-    <string name="credentials_install_summary">SD 카드에서 인증서 설치</string>
+    <string name="credentials_install_summary">SD 카드에서 자격증명 설치</string>
     <string name="credentials_not_erased">자격증명 저장소를 삭제하지 못했습니다.</string>
     <string name="credentials_old_password">현재 비밀번호:</string>
     <string name="credentials_password_too_short">비밀번호가 너무 짧습니다.</string>
     <string name="credentials_reset">자격증명 삭제</string>
     <string name="credentials_reset_hint">콘텐츠를 모두 삭제하시겠습니까?</string>
-    <string name="credentials_reset_summary">모든 인증서 삭제</string>
+    <string name="credentials_reset_summary">모든 자격증명 삭제</string>
     <string name="credentials_reset_warning">비밀번호가 잘못되었습니다. 한 번 더 실패하면 자격증명 저장소가 지워집니다.</string>
     <string name="credentials_reset_warning_plural">비밀번호가 잘못되었습니다. %1$d번 더 실패하면 자격증명 저장소가 지워집니다.</string>
     <string name="credentials_settings_not_available">이 사용자는 자격증명을 확인하거나 수정할 수 없습니다.</string>
@@ -2942,8 +2942,8 @@
     <string name="encrypt_talkback_dialog_require_password">비밀번호가 필요한가요?</string>
     <string name="encrypt_talkback_dialog_require_pattern">패턴이 필요한가요?</string>
     <string name="encrypt_talkback_dialog_require_pin">PIN이 필요한가요?</string>
-    <string name="encryption_and_credential_settings_summary">기기 잠김</string>
-    <string name="encryption_and_credential_settings_title">잠금 &amp; 크레덴셜</string>
+    <string name="encryption_and_credential_settings_summary">휴대전화가 암호화되어 있습니다.</string>
+    <string name="encryption_and_credential_settings_title">암호화 &amp; 자격증명</string>
     <string name="encryption_continue_button">계속</string>
     <string name="encryption_interstitial_header">암호화</string>
     <string name="encryption_interstitial_message_password">기기를 시작할 때 비밀번호를 입력하도록 설정하면 기기를 보호할 수 있습니다. 기기가 시작되기 전까지 전화, 메시지 및 알람을 포함한 알림을 받을 수 없게 됩니다. \n\n이를 통해 분실 또는 도난된 기기에서 데이터를 보호할 수 있습니다.</string>
@@ -4092,7 +4092,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="launch_control_center">제어 센터</string>
     <string name="launch_defaults_none">기본설정 없음</string>
     <string name="launch_defaults_some">기본설정 많음</string>
-    <string name="launch_google_search">Google검색 열기</string>
+    <string name="launch_google_search">Google 검색 열기</string>
     <string name="launch_instant_app">열기</string>
     <string name="launch_mdp_app_text">플랜 살펴보기</string>
     <string name="launch_notification_center">알림 창</string>
@@ -8895,8 +8895,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_confirm_remove_self_message">이 휴대전화에 있는 내 저장공간 및 데이터가 삭제됩니다. 이 작업은 실행취소할 수 없습니다.</string>
     <string name="user_confirm_remove_self_title">본인을 삭제하시겠습니까?</string>
     <string name="user_confirm_remove_title">사용자를 삭제하시겠습니까?</string>
-    <string name="user_credential_none_installed">설치된 사용자 크레덴셜 없음</string>
-    <string name="user_credential_removed">삭제된 크레덴셜: %s</string>
+    <string name="user_credential_none_installed">설치된 사용자 자격증명 없음</string>
+    <string name="user_credential_removed">삭제된 자격증명: %s</string>
     <string name="user_credential_title">사용자 자격증명 설정</string>
     <string name="user_credentials">사용자 자격증명</string>
     <string name="user_credentials_summary">저장된 자격증명 확인 및 수정</string>
@@ -8934,7 +8934,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_exit_guest_dialog_remove">삭제</string>
     <string name="user_exit_guest_title">손님 삭제</string>
     <string name="user_experience_program">사용자 환경 개선 프로그램</string>
-    <string name="user_experience_program_summary">익명 사용 데이터를 보내 MIUI 개선 돕기</string>
+    <string name="user_experience_program_summary">익명 사용 데이터를 보내 MIUI 개선을 돕습니다.</string>
     <string name="user_experience_program_title">사용자 환경 개선 프로그램</string>
     <string name="user_feedback">피드백</string>
     <string name="user_guest">손님</string>
@@ -8942,7 +8942,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_image_photo_selector">사진 선택</string>
     <string name="user_image_take_photo">사진 촬영</string>
     <string name="user_info_settings_title">사용자 정보</string>
-    <string name="user_installed_services_category_title">서비스 다운로드</string>
+    <string name="user_installed_services_category_title">다운로드한 앱</string>
     <string name="user_list_title">사용자 및 프로필</string>
     <string name="user_lockscreen_settings">잠금 화면 설정</string>
     <string name="user_name">Apple ID 또는 이메일</string>
@@ -9561,7 +9561,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_hotspot_title">로그인하여 연결하시겠습니까?</string>
     <string name="wifi_in_airplane_mode">비행기 모드</string>
     <string name="wifi_info_reconnect">연결 실패, 다시 시도하세요!</string>
-    <string name="wifi_install_credentials">인증서 설치</string>
+    <string name="wifi_install_credentials">자격증명 설치</string>
     <string name="wifi_ip_address">IP 주소</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">IP 설정</string>

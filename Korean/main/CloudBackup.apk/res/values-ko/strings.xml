@@ -30,7 +30,7 @@
     <string name="cloud_backup_detail_frequence">일정 백업</string>
     <string name="cloud_back_up_interval_long">일주일</string>
     <string name="cloud_back_up_interval_short">일</string>
-    <string name="cloud_backup_detail_frequence_day">%1$s일 마다 백업</string>
+    <string name="cloud_backup_detail_frequence_day">%1$s일마다 백업</string>
     <string name="cloud_backup_detail_time">마지막 백업: %1$s</string>
     <string name="cloud_backup_detail_manage">백업 관리</string>
     <string name="cloud_backup_detail_manage_summary">%1$s 백업, 차지하는 용량:%2$s</string>

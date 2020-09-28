@@ -74,4 +74,8 @@
     <string name="quick_settings_pcmode_dialog_remember_text">"다시 보지 않음"</string>
     <string name="quick_settings_pcmode_label">PC 모드</string>
     <string name="quick_settings_pcmode_ok_button">확인</string>
+    <string name="fmt_time_12hour_minute_pm">aa hh:mm</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">aa hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_pm">aa hh:mm:ss</string>
+    <string name="fmt_time_12hour_pm">aa hh</string>
 </resources>

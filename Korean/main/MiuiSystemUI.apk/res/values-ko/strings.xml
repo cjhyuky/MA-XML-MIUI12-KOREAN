@@ -793,7 +793,7 @@
     <string name="face_data_manage_delete_msg">얼굴 데이터 삭제</string>
     <string name="face_data_manage_delete_sure">데이터 삭제 후 얼굴 데이터를 사용하여 기기를 잠금해제하실 수 없습니다.</string>
     <string name="face_data_manage_delete_title">얼굴 데이터</string>
-    <string name="face_data_manage_unlock_liftcamera_msg">화면을 켜고 위쪽으로 슬라이드하면 얼굴인식 잠금해제을 사용할 수 있습니다.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">화면을 켜고 위쪽으로 슬라이드하면 얼굴인식 잠금해제를 사용할 수 있습니다.</string>
     <string name="face_data_manage_unlock_msg">얼굴 데이터를 사용하여 기기를 잠금해제합니다.</string>
     <string name="face_data_manage_unlock_slide_msg">슬라이더 바로가기를 얼굴인식 잠금해제로 대체</string>
     <string name="face_data_manage_unlock_title">얼굴 데이터로 잠금해제</string>
@@ -810,10 +810,10 @@
     <string name="face_unlock_down">머리를 들어주세요.</string>
     <string name="face_unlock_fail">얼굴인식 실패</string>
     <string name="face_unlock_fail_retry">얼굴을 식별할 수 없습니다. 위쪽을 터치하면 다시할 수 있습니다.</string>
-    <string name="face_unlock_fail_retry_global">얼굴인식 잠금해제을 사용하려면 위쪽을 터치하세요.</string>
+    <string name="face_unlock_fail_retry_global">얼굴인식 잠금해제를 사용하려면 위쪽을 터치하세요.</string>
     <string name="face_unlock_identify_error">인식 오류 발생</string>
     <string name="face_unlock_not_found">인식 실패</string>
-    <string name="face_unlock_not_roi">프레임안에 얼굴을 두세요.</string>
+    <string name="face_unlock_not_roi">프레임 안에 얼굴을 두세요.</string>
     <string name="face_unlock_offset_bottom">휴대전화를 살짝 내려주세요.</string>
     <string name="face_unlock_offset_left">오른쪽으로 이동</string>
     <string name="face_unlock_offset_right">왼쪽으로 이동</string>
@@ -843,7 +843,7 @@
     <string name="failed_to_open_app_settings_toast">%1$s 설정을 열지 못했음</string>
     <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가하세요.</string>
     <string name="fingerprint_add_title">지문 추가</string>
-    <string name="fingerprint_again_identified_msg">지문이 활성화 되었습니다. 지문을 사용하여 기기 잠금해제 또는 비밀번호를 입력할 수 있습니다.</string>
+    <string name="fingerprint_again_identified_msg">지문이 활성화되었습니다. 지문이나 비밀번호로 기기를 잠금해제할 수 있습니다.</string>
     <string name="fingerprint_dialog_touch_sensor">지문인식 센서 터치</string>
     <string name="fingerprint_enter_second_psw_msg">기기 다시 시작 후 지문인식을 사용하려면 보조 공간 비밀번호를 입력하세요.</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">라이트 모드 상태에서는 보조 공간에 입장할 수 없습니다.</string>
@@ -1183,11 +1183,11 @@
     <string name="menu_ime">키보드 변환기</string>
     <string name="miui_guide_dialog_button_negative_text">설정</string>
     <string name="miui_guide_dialog_button_positive_text">확인</string>
-    <string name="miui_guide_dialog_message">미디어 사운드(음악, 동영상 등)은 계속 음소거 모드로 재생됩니다. 이것은 설정에서 변경할 수 있습니다.</string>
+    <string name="miui_guide_dialog_message">미디어 사운드(음악, 동영상 등)는 음소거되지 않습니다. 이 옵션은 설정에서 변경할 수 있습니다.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 장치에 의해 잠금해제됨</string>
     <string name="miui_ringer_count_down">카운트 다운</string>
     <string name="miui_ringer_standard">무음</string>
-    <string name="miui_ringer_standard_description">수신전화와 알림을 무음벨소리로 알립니다.</string>
+    <string name="miui_ringer_standard_description">수신전화와 알림을 무음 벨소리로 알립니다.</string>
     <string name="miui_ringer_total">방해 금지</string>
     <string name="miui_ringer_total_description">알람을 제외한 모든 알림을 진동없이 무음처리합니다.</string>
     <string name="miui_screen_rotation_freeze_message">가로 모드에서 화면 회전 잠김</string>

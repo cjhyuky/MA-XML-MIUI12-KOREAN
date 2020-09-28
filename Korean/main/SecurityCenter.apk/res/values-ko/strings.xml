@@ -1503,7 +1503,7 @@
     <string name="gb_xunyou_gift_type_one">Xunyou 1일 부스트</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3일 부스트</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2일 부스트</string>
-    <string name="gdpr_msg">&lt;Data&gt;"보안 위험을 감지하고 데이터를 보호하려면 장치에 필요한 양의 정보를 수집해야 합니다. 서비스를 사용하기 전에 &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt;을 읽고 동의하세요. 이러한 정보를 수집할 수 없는 경우 이 앱을 계속 사용할 수 있지만 일부 기능은 사용할 수 없습니다. "&lt;/Data&gt;</string>
+    <string name="gdpr_msg"><Data>"보안 위험을 감지하고 데이터를 보호하려면, 기기 정보를 충분히 수집해야 합니다. 서비스를 사용하기 전에 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">개인정보 보호정책&lt;/a>을 읽고 동의하세요. 정보 수집을 허용하지 않는 경우에도 이 앱을 계속 사용할 수 있지만, 일부 기능은 사용할 수 없습니다. "</Data></string>
     <string name="ge">개</string>
     <string name="get_sys_info">정보를 가져오는 중…</string>
     <string name="give_lucky_money">빨간 봉투 배달</string>
