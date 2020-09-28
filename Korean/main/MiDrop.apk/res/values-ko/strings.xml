@@ -163,7 +163,7 @@
     <string name="bg">"Google Play 서비스를 업데이트해야 %1$s 앱이 실행됩니다."</string>
     <string name="bh">Google Play 서비스 업데이트</string>
     <string name="bi">"현재 Google Play 서비스가 업데이트 중입니다. 업데이트 후 다시 시도하세요."</string>
-    <string name="bj">새로운 버전의 Google Play 서비스가 필요합니다. 자동으로 업데이트 됩니다.</string>
+    <string name="bj">새로운 버전의 Google Play 서비스가 필요합니다. 자동으로 업데이트됩니다.</string>
     <string name="bk">폰에서 열기</string>
     <string name="bl">로그인</string>
     <string name="bm">Google 계정으로 로그인</string>

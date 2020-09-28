@@ -403,7 +403,7 @@
     <string name="title_click_record_menstruation">마침표 기록</string>
     <string name="title_data_collect">개인 데이터 사용</string>
     <string name="title_improve_health">건강 유지</string>
-    <string name="title_menstruation_predict_start">기간은 %1$s에 시작될 것입니다.</string>
+    <string name="title_menstruation_predict_start">기간은 %1$s에 시작됩니다.</string>
     <string name="title_month_exercise_sum">매월 통계</string>
     <string name="title_network_license">네트워크 액세스</string>
     <string name="title_no_record_menstruation">"아직 기간을 기록하지 않았습니다."</string>

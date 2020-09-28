@@ -40,7 +40,7 @@
     <string name="call_record">녹음된 통화</string>
     <string name="no_file">비어있음</string>
     <string name="alert_message_delete_record_title">녹음 파일을 삭제하시겠습니까?</string>
-    <string name="alert_message_delete_record">귀하의 기기에서 삭제하면 Xiaomi 클라우드에서도 삭제될 것입니다. 지금 삭제하시겠습니까?</string>
+    <string name="alert_message_delete_record">귀하의 기기에서 삭제하면 Xiaomi 클라우드에서도 삭제됩니다. 지금 삭제하시겠습니까?</string>
     <string name="share">공유</string>
     <string name="rename">이름 변경</string>
     <string name="delete">삭제</string>

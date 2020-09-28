@@ -18,7 +18,7 @@
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="phone_locked_foget_password">비밀번호를 분실하셨습니까?</string>
     <string name="phone_locked_foget_password_method">비밀번호를 잊으셨습니까?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>기기에서 &lt;font color=#a5220e>데이터 삭제&lt;/font>를 해야 합니다. 사진, 연락처, 모든 개인정보가 지워진 후 잠금해제 비밀번호를 초기화하실 수 있습니다.;</Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>기기에서 &lt;font color=#a5220e>데이터 삭제&lt;/font>를 해야 합니다. 사진, 연락처, 모든 개인정보가 지워진 후 잠금해제 비밀번호를 초기화할 수 있습니다.;</Data></string>
     <string name="phone_locked_foget_password_mehod_back">뒤로</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
@@ -33,7 +33,7 @@
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"잘못된 비밀번호를 %d번 입력했습니다. 앞으로 %d번 더 로그인에 실패할 경우, Mi 계정에 로그인하여 휴대전화의 잠금을 해제하라는 지시를 받을 것입니다.
 
  %d초 후에 다시 시도하세요."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">휴대전화의 잠금해제를 %d번 실패했습니다. 앞으로 %d번 더 실패하실 경우, 휴대전화가 공장 초기화되며, 모든 사용자 데이터가 삭제됩니다.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">휴대전화의 잠금해제를 %d번 실패했습니다. 앞으로 %d번 더 실패할 경우, 휴대전화가 공장 초기화되며, 모든 사용자 데이터가 삭제됩니다.</string>
     <string name="lockscreen_failed_attempts_now_wiping">휴대전화의 잠금해제를 %d번 실패했습니다. 지금부터 휴대전화가 공장 초기화됩니다.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 장치에 의해 잠금해제됨</string>
     <string name="wrong_password">잘못된 비밀번호</string>
@@ -94,7 +94,7 @@
     <string name="keyguard_left_buscard">메모장</string>
     <string name="face_data_input_title">얼굴 추가</string>
     <string name="face_data_introduction_title">안면 인식</string>
-    <string name="face_data_introduction_msg">얼굴 데이터로 기기 잠금해제와 신분 확인 등을 하실 수 있습니다. 얼굴 데이터 추가 전 잠금 화면 비밀번호를 추가하세요.</string>
+    <string name="face_data_introduction_msg">얼굴 데이터로 기기 잠금해제와 신분 확인 등을 할 수 있습니다. 얼굴 데이터 추가 전 잠금 화면 비밀번호를 추가하세요.</string>
     <string name="face_data_introduction_next">다음</string>
     <string name="face_data_suggesstion_first">얼굴 데이터 잠금해제의 보안성은 잠금 화면 비밀번호 보다 낮습니다. 비슷한 얼굴의 사람이 기기의 잠금을 해제할 수 있습니다.</string>
     <string name="face_data_suggesstion_second">얼굴이 다른 물체에 가려지지 않도록 하시고 얼굴의 모든 부분이 정확히 나오도록 하세요. 정확한 측정으로 인식률을 높일 수 있습니다.</string>
@@ -102,7 +102,7 @@
     <string name="face_data_input_camera_ok">카메라 로드 중…</string>
     <string name="face_data_input_msg">얼굴를 프레임 안으로 넣어주세요.</string>
     <string name="face_data_input_ok_title">추가 성공</string>
-    <string name="face_data_input_ok_msg">화면이 켜지면 얼굴 데이터를 사용하여 잠금을 해제하실 수 있습니다.</string>
+    <string name="face_data_input_ok_msg">화면이 켜지면 얼굴 데이터를 사용하여 잠금을 해제할 수 있습니다.</string>
     <string name="face_data_input_cancel">취소</string>
     <string name="face_data_input_cancel_msg">얼굴 데이터 추가 실패</string>
     <string name="face_data_input_ok">완료</string>
@@ -111,9 +111,9 @@
     <string name="face_data_manage_unlock_title">얼굴 데이터로 잠금해제</string>
     <string name="face_data_manage_unlock_msg">얼굴 데이터를 사용하여 기기를 잠금해제합니다.</string>
     <string name="face_data_manage_delete">얼굴 데이터를 삭제하시겠습니까?</string>
-    <string name="face_data_manage_delete_sure">데이터 삭제 후 얼굴 데이터를 사용하여 기기를 잠금해제하실 수 없습니다.</string>
+    <string name="face_data_manage_delete_sure">데이터 삭제 후 얼굴 데이터를 사용하여 기기를 잠금해제할 수 없습니다.</string>
     <string name="face_unlock_by_notification_screen_on_title">화면에 불이 들어왔을 때 얼굴인식 잠금해제 허용</string>
-    <string name="face_unlock_by_notification_screen_on_msg">알림 수신을 위해 화면에 불이 들어왔을 때 얼굴 데이터를 사용하여 기기를 잠금해제하실 수 있습니다. 이 기능은 배터리를 빠르게 소모하게 합니다.</string>
+    <string name="face_unlock_by_notification_screen_on_msg">알림 수신을 위해 화면에 불이 들어왔을 때 얼굴 데이터를 사용하여 기기를 잠금해제할 수 있습니다. 이 기능은 배터리를 빠르게 소모하게 합니다.</string>
     <string name="face_unlock_not_found">인식 실패</string>
     <string name="face_unlock_adjust_distance">기기와 얼굴의 거리가 적당한지 확인하세요.</string>
     <string name="face_unlock_close_screen">화면에 가까이 하세요.</string>

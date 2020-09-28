@@ -59,7 +59,7 @@
     <string name="add_blocked_dialog_body">에서 오는 전화와 문자를 차단합니다.</string>
     <string name="add_blocked_number_hint">전화번호</string>
     <string name="block_button">차단</string>
-    <string name="non_primary_user">기기의 소유자만 차단된 번호 확인 및 관리를 하실 수 있습니다.</string>
+    <string name="non_primary_user">기기의 소유자만 차단된 번호 확인 및 관리를 할 수 있습니다.</string>
     <string name="delete_icon_description">차단 해제</string>
     <string name="blocked_numbers_butter_bar_title">차단기능이 꺼져있습니다.</string>
     <string name="blocked_numbers_butter_bar_body">비상 번호를 누르거나 문자 메시지로 보낸 후에는 비상 번호에서 사용자에게 연락할 수 있도록 차단 기능이 꺼집니다.</string>

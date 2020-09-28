@@ -359,7 +359,7 @@
     <string name="theme_user_agreement_remind_again">이용 약관 표시</string>
     <string name="theme_user_agreement_remind_summary">테마 앱을 열 때마다 이용 약관 창을 표시합니다. 이 설정은 기기를 다시 시작한 후에 작동합니다.</string>
     <string name="theme_is_external_priority_storage">SD 카드에 저장</string>
-    <string name="theme_is_external_priority_storage_summary">이 설정을 적용하기 위해 테마 앱이 바로 다시 시작될 것입니다.</string>
+    <string name="theme_is_external_priority_storage_summary">이 설정을 적용하기 위해 테마 앱이 바로 다시 시작됩니다.</string>
     <string name="theme_favorite_add_success">즐겨찾기에 추가됨</string>
     <string name="theme_favorite_add_fail">즐겨찾기에 추가할 수 없음</string>
     <string name="theme_favorite_delete_success">즐겨찾기에서 제거됨</string>
@@ -637,7 +637,7 @@
     <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s 앱이 실행됩니다.</string>
     <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
     <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s 앱이 실행됩니다.</string>
-    <string name="common_google_play_services_wear_update_text">새로운 버전의 Google Play가 필요합니다. 자동으로 업데이트 됩니다.</string>
+    <string name="common_google_play_services_wear_update_text">새로운 버전의 Google Play가 필요합니다. 자동으로 업데이트됩니다.</string>
     <string name="common_open_on_phone">폰으로 열기</string>
     <string name="common_signin_button_text">로그인</string>
     <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
@@ -825,7 +825,7 @@
     <string name="trial_count_tip">평가판 기간 종료 : %1$s:%2$s:%3$s</string>
     <string name="trial_for_free">무료 평가판</string>
     <string name="trial_get_failed_tip">테마를 다운로드하려면 동영상 재생을 멈추세요.</string>
-    <string name="trial_get_success_tip">"축하합니다! 3일 무료 평가판을 사용하실 수 있습니다."</string>
+    <string name="trial_get_success_tip">"축하합니다! 3일 무료 평가판을 사용할 수 있습니다."</string>
     <string name="trial_now">지금 써보기</string>
     <string name="try_5_min">5분 동안 써보기</string>
     <string name="video_ad_click">바로 연결</string>

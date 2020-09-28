@@ -36,11 +36,11 @@
     <string name="bind_device">기기 추가</string>
     <string name="bind_first_msg">"기기 추가 완료. 사용량 보기에서 확인가능합니다. 기기를 잠시 사용한 후에 사용 기록을 확인해보세요."</string>
     <string name="bind_success">기기 추가 완료</string>
-    <string name="bind_success_msg">"다른 장치에서 앱과 시간 제한을
-설정 하실 수 있습니다."</string>
+    <string name="bind_success_msg">"다른 기기에서 앱과 시간 제한을
+설정할 수 있습니다."</string>
     <string name="bing_device">장치 추가</string>
     <string name="can_not_close_gps">보호자가 내 위치를 사용 중이라서 GPS를 닫을 수 없습니다.</string>
-    <string name="can_use_time">"다음과 같이이 앱을 사용할 수 있습니다:"</string>
+    <string name="can_use_time">"다음과 같이 이 앱을 사용할 수 있습니다:"</string>
     <string name="check_detail">현재 사용 가능한 앱 보기</string>
     <string name="check_timeline_i nfo">사용 내역 보기</string>
     <string name="check_update">업데이트 체크</string>
@@ -74,7 +74,7 @@
     <string name="freerun_btn_uninstall">삭제</string>
     <string name="freerun_camera_info_can_not_get">카메라 정보 가져오기 실패</string>
     <string name="freerun_check_license_content">EULA 확인 중...</string>
-    <string name="freerun_device_removed">기기가 서버에서 삭제될 것입니다.</string>
+    <string name="freerun_device_removed">기기가 서버에서 삭제됩니다.</string>
     <string name="freerun_disable_startup_app">%s 사용이 관리자에 의해 금지되었습니다. 삭제하세요.</string>
     <string name="freerun_emm_admin_notify">관리자로 부터 알림</string>
     <string name="freerun_geoFence_in_tips">주의: 지오 펜싱 제한이 적용되었습니다. 장치의 일부 기능을 사용할 수 없습니다.</string>

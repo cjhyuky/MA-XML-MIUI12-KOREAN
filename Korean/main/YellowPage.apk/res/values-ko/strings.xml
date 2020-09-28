@@ -277,7 +277,7 @@
     <string name="express_address_region">지역</string>
     <string name="express_address_deleted">주소 삭제됨</string>
     <string name="express_location_failed">위치를 찾지 못했습니다. 주소를 입력하세요.</string>
-    <string name="express_order_success_hint">귀하의 %s 주문이 배달될 것입니다.</string>
+    <string name="express_order_success_hint">귀하의 %s 주문이 배달됩니다.</string>
     <string name="express_order_ongoing">주문 중…</string>
     <string name="express_order_succeeded">완료</string>
     <string name="express_order_failed">실패</string>

@@ -245,7 +245,7 @@
     <string name="delete_phrase">답장 삭제</string>
     <string name="delete_unlocked">잠긴 메시지 삭제</string>
     <string name="delete_wild_sims">번호 삭제</string>
-    <string name="delete_wild_sims_confirm">선택된 번호와 관련된 모든 메시지가 이 전화에서 삭제됩니다. i.mi.com에서 복구하실 수 있습니다.</string>
+    <string name="delete_wild_sims_confirm">선택된 번호와 관련된 모든 메시지가 이 전화에서 삭제됩니다. i.mi.com에서 복구할 수 있습니다.</string>
     <string name="delete_wild_sims_title">선택된 번호 삭제</string>
     <string name="delivery_report_activity">배달 보고서</string>
     <string name="delivery_toast_body">%s님이 수신한 메시지</string>
@@ -379,7 +379,7 @@
     <string name="message_rejected">거부됨</string>
     <string name="message_saved_as_draft">메시지가 임시 저장되었습니다.</string>
     <string name="message_send_failed_title">메시지 전송 안됨</string>
-    <string name="message_send_read_report">보고서가 전송될 것입니다.</string>
+    <string name="message_send_read_report">보고서가 전송됩니다.</string>
     <string name="message_sent">전송됨</string>
     <string name="message_size_label">"메시지 크기: "</string>
     <string name="message_too_big_for_audio">메시지가 너무 큽니다.</string>
@@ -818,7 +818,7 @@
     <string name="notification_channel_description">메시지 알림</string>
     <string name="notification_channel_name">메시지</string>
     <string name="notification_copy">보안코드 복사</string>
-    <string name="toast_pending_hangup_msg">통화가 종료된 후 메시지가 전송될 것입니다.</string>
+    <string name="toast_pending_hangup_msg">통화가 종료된 후 메시지가 전송됩니다.</string>
     <string name="url_scan_again">다시 확인하세요.</string>
     <string name="add_contact">연락처</string>
     <string name="notification_channel_msg_description">메시지 알림</string>

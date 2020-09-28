@@ -142,7 +142,7 @@
     <string name="format_move_note_to_folder">%1$s로 이동됨</string>
     <string name="format_move_note_out_folder">메모가 이동되었습니다.</string>
     <string name="alert_title_edit_anyway">이 메모엔 지원하지 않는 내용이 포함되어 있습니다.</string>
-    <string name="alert_message_edit_anyway">이 메모를 수정하실 경우, 일부 내용이 유실될 수도 있습니다.</string>
+    <string name="alert_message_edit_anyway">이 메모를 수정할 경우, 일부 내용이 유실될 수도 있습니다.</string>
     <string name="alert_action_edit_anyway">계속 편집</string>
     <string name="error_note_not_exist">메모가 존재하지 않습니다.</string>
     <string name="error_note_empty_for_clock">빈 메모에 미리 알림 시간을 설정할 수 없습니다.</string>

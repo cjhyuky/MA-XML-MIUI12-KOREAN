@@ -95,7 +95,7 @@
     <string name="feedback_detail_tile">진행</string>
     <string name="feedback_empty_report_list">보고서 아직 없음</string>
     <string name="feedback_guess">추측</string>
-    <string name="feedback_history_remind_login_desc">Mi 계정으로 로그인하시면 \"내 보고서\"에서 보고서의 진행 과정과 자세한 정보를 확인하실 수 있습니다.</string>
+    <string name="feedback_history_remind_login_desc">Mi 계정으로 로그인하시면 \"내 보고서\"에서 보고서의 진행 과정과 자세한 정보를 확인할 수 있습니다.</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA 키: %s</string>
     <string name="feedback_package_log_failed">로그를 압축할 수 없음</string>
@@ -208,7 +208,7 @@
     <string name="michat_customer_text">고객 지원</string>
     <string name="michat_data_error">오류 발생, 나중에 다시 시도</string>
     <string name="michat_error_need_login_btn">로그인</string>
-    <string name="michat_error_need_login_text">로그인하시면 온라인 고객지원을 사용하실 수 있습니다.</string>
+    <string name="michat_error_need_login_text">로그인하시면 온라인 고객지원을 사용할 수 있습니다.</string>
     <string name="michat_failed_to_add_media">죄송하지만 %1$s 항목을 전송할 수 없습니다.</string>
     <string name="michat_failed_to_fetch_fql">자주하는 질문을 가져올 수 없습니다. 네트워크 연결을 확인하세요.</string>
     <string name="michat_feedback_title_name">피드백 설문조사</string>
@@ -231,7 +231,7 @@
     <string name="michat_msg_status_arrived">전송됨</string>
     <string name="michat_msg_status_send">전송</string>
     <string name="michat_msg_status_sendding">전송 중...</string>
-    <string name="michat_msg_too_long_info">%1$d자리를 입력했습니다. 최대 %2$d자리까지 입력하실 수 있습니다.</string>
+    <string name="michat_msg_too_long_info">%1$d자리를 입력했습니다. 최대 %2$d자리까지 입력할 수 있습니다.</string>
     <string name="michat_net_error_info">네트워크 연결 없음, 탭하여 설정으로 이동하기</string>
     <string name="michat_network_unavaliable">정보 가져오기 실패, 네트워크 연결 확인</string>
     <string name="michat_no_good_message_title">이것으로 문제를 해결할 수 없습니다.</string>
@@ -253,8 +253,8 @@
     <string name="min_error">%1$s보다 길어야 합니다.</string>
     <string name="mobile_data_note_dialog_cancel">Wi-Fi 대기</string>
     <string name="mobile_data_note_dialog_confirm">업로드</string>
-    <string name="mobile_data_note_dialog_content">모바일 데이터를 사용하여 로그를 업로드하시면 추가 요금이 부과될 것입니다.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">로그 업로드에 모바일 데이터 연결을 사용하시면 %sMB의 데이터가 사용될 것입니다.</string>
+    <string name="mobile_data_note_dialog_content">모바일 데이터를 사용하여 로그를 업로드하시면 추가 요금이 부과됩니다.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">로그 업로드에 모바일 데이터 연결을 사용하시면 %sMB의 데이터가 사용됩니다.</string>
     <string name="mobile_data_note_dialog_title">데이터 사용량 경고</string>
     <string name="modem_tool_log_dumping_desc">아이콘을 클릭해 멈추기</string>
     <string name="modem_tool_log_dumping_title">모뎀 로그 캡처</string>
@@ -395,7 +395,7 @@
     <string name="passport_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용</string>
     <string name="passport_reg_using_other_phone">&lt;u&gt;다른 전화번호 사용&lt;/u&gt;</string>
-    <string name="passport_reg_using_other_phone_number_prompt">사용하실 새 계정을 만드세요.</string>
+    <string name="passport_reg_using_other_phone_number_prompt">사용할 새 계정을 만드세요.</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 사용하여 계정 만들기</string>
     <string name="passport_reg_via_sms_alert">이 서비스를 활성화하려면 발신 SMS 메시지가 필요할 수 있습니다. 이동통신사에서 이 메시지에 대해 요금을 청구합니다.</string>
     <string name="passport_reging">계정 생성 중…</string>

@@ -83,7 +83,7 @@
     <string name="xspace_loading_msg">앱 불러오는 중…</string>
     <string name="xspace_header">듀얼 앱</string>
     <string name="xspace_introduce">추천됨</string>
-    <string name="xspace_description">"듀얼 앱은 다른 계정으로 사용할 수 있는 앱 복사본입니다.
+    <string name="xspace_description">"듀얼 앱은 여러 계정을 동시에 사용할 수 있도록 복제된 앱입니다.
 
 일부 듀얼 앱은 Google 서비스 프레임워크를 필요로 합니다. 이 경우, Google 서비스 프레임워크가 생성됩니다."</string>
     <string name="xspace_chocie">듀얼 앱 지원</string>
@@ -94,7 +94,7 @@
     <string name="xspace_install_completed">홈 화면에 아이콘 추가됨</string>
     <string name="xspace_uninstall_completed">듀얼 앱 삭제 성공</string>
     <string name="xspace_uninstall_dialog_title">듀얼 앱 삭제</string>
-    <string name="xspace_uninstall_dialog_content">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
+    <string name="xspace_uninstall_dialog_content">듀얼 앱을 제거하시면 모든 앱 데이터가 제거됩니다.</string>
     <string name="loading_apps">앱 불러오는 중…</string>
     <string name="loading_success">불러오기 성공</string>
     <string name="switching">이동 중…</string>
@@ -135,18 +135,18 @@
     <string name="createANewSpace">휴대전화에 분리된 공간 생성</string>
     <string name="dataSafe">보조 공간은 두 개의 기기를 사용하는 것과 같습니다.</string>
     <string name="createUserFail">생성 실패</string>
-    <string name="confirmCloseSpaceDes">삭제한 후에는 보조 공간으로 들어가실 수 없습니다. 모든 데이터는 이동되거나 삭제될 것입니다.</string>
+    <string name="confirmCloseSpaceDes">삭제한 후에는 보조 공간으로 들어갈 수 없습니다. 모든 데이터는 이동되거나 삭제됩니다.</string>
     <string name="confirmDelete">삭제</string>
     <string name="chooseDataTransfer">보조 공간 데이터를 어떻게 처리하시겠습니까?</string>
     <string name="transferDataLable">이동할 항목 선택</string>
-    <string name="transferDataConfirm">남은 항목은 삭제될 것입니다.</string>
-    <string name="transferDataConfirmDes">삭제한 후에는 항목을 복구하실 수 없습니다.</string>
-    <string name="deleteDataConfirm">모든 항목이 삭제될 것입니다.</string>
+    <string name="transferDataConfirm">남은 항목은 삭제됩니다.</string>
+    <string name="transferDataConfirmDes">삭제한 후에는 항목을 복구할 수 없습니다.</string>
+    <string name="deleteDataConfirm">모든 항목이 삭제됩니다.</string>
     <string name="deleteDataDes">선택한 항목을 이동할 수 없습니다. 삭제된 후 항목을 복구할 수 없습니다.</string>
-    <string name="transferContact">보조 공간의 연락처가 기본 공간으로 이동될 것입니다.</string>
-    <string name="transferMessage">보조 공간의 메시지가 기본 공간으로 이동될 것입니다.</string>
-    <string name="transferImage">보조 공간의 사진들이 기본 공간의 \"보조 공간\" 앨범으로 이동될 것입니다.</string>
-    <string name="transferApp">보조 공간에 설치된 앱이 기본 공간으로 이동될 것입니다. 하지만 앱의 모든 데이터는 삭제될 것입니다.</string>
+    <string name="transferContact">보조 공간의 연락처가 기본 공간으로 이동됩니다.</string>
+    <string name="transferMessage">보조 공간의 메시지가 기본 공간으로 이동됩니다.</string>
+    <string name="transferImage">보조 공간의 사진들이 기본 공간의 \"보조 공간\" 앨범으로 이동됩니다.</string>
+    <string name="transferApp">보조 공간에 설치된 앱이 기본 공간으로 이동됩니다. 하지만 앱의 모든 데이터는 삭제됩니다.</string>
     <string name="transferFile">다른 파일을 수동으로 선택</string>
     <string name="continueButton">계속</string>
     <string name="removingSpace">삭제 중…</string>
@@ -169,10 +169,10 @@
     <string name="close_second_space_success">보조 공간 삭제됨</string>
     <string name="enable">켜기</string>
     <string name="disable">끄기</string>
-    <string name="PrivacyContactDes1">"연락처는 비공개가 될 것입니다.
+    <string name="PrivacyContactDes1">"연락처는 비공개가 됩니다.
 메시지가 오직 보조 공간에만 나타날 것입니다."</string>
-    <string name="PrivacyContactDes2">"기본 공간에서 비공개 메시지를 사용하시면,
-자동으로 보조 공간에 추가될 것입니다."</string>
+    <string name="PrivacyContactDes2">"기본 공간에서 비공개 메시지를 사용하면,
+자동으로 보조 공간에 추가됩니다."</string>
     <string name="openSuccess">켜짐</string>
     <string name="closeSuccess">꺼짐</string>
     <string name="settings_notification_and_switch">전환 &amp; 알림</string>
@@ -192,21 +192,21 @@
 잠금 화면에서 보조 공간으로 들어가기"</string>
     <string name="temporary_no_set">나중에 실행</string>
     <string name="set_space_pwd_suc">보조 공간 비밀번호 추가됨</string>
-    <string name="set_space_pwd_detail">비밀번호를 사용하여 보조 공간에 입장하실 수 있습니다.</string>
+    <string name="set_space_pwd_detail">비밀번호를 사용하여 보조 공간에 입장할 수 있습니다.</string>
     <string name="next_setp">다음</string>
     <string name="guide_setting_guide_title">보조 공간 관리</string>
     <string name="import_now">가져오기</string>
     <string name="dont_import">나중에</string>
     <string name="go_on_import">계속 가져오기</string>
     <string name="complete_setting_title">전체 설정 완료!</string>
-    <string name="complete_setting_sub_title">나중에도 설정을 변경하실 수 있습니다.</string>
+    <string name="complete_setting_sub_title">나중에도 설정을 변경할 수 있습니다.</string>
     <string name="import_contacts">연락처 가져오기</string>
     <string name="import_photo">사진 가져오기</string>
     <string name="import_contacts_desc">기본 공간에서 가져온 연락처 비공개</string>
     <string name="import_photo_desc">보조 공간에 공유된 항목 보기</string>
     <string name="import_application">앱 가져오기</string>
     <string name="import_application_desc">"보조 공간으로 앱 가져오기
-앱스토어에서 다운로드 하실 수도 있습니다."</string>
+앱스토어에서 다운로드할 수도 있습니다."</string>
     <string name="complete_setting">완료</string>
     <string name="import_contacts_suc">비공개 연락처 가져오기 성공</string>
     <string name="import_photo_suc">가져온 사진</string>
@@ -223,15 +223,15 @@
     <string name="show_private_msg">비공개 메시지 표시</string>
     <string name="contact_titile_text">"보조 공간에서 비공개 메시지를 표시하여
 언제나 볼 수 있게 합니다."</string>
-    <string name="contact_sub_titile_text">메시지 데이터가 두 개의 공간에 공유될 것입니다.</string>
+    <string name="contact_sub_titile_text">메시지 데이터가 두 개의 공간에 공유됩니다.</string>
     <string name="show_private_msg_summary">보조 공간에서 비공개 메시지 표시</string>
     <string name="private_sms_show_title">보조 공간에 비공개 메시지가 표시됩니다.</string>
-    <string name="private_sms_show_sub_title">메시지 데이터가 두 개의 공간에 공유될 것입니다.</string>
+    <string name="private_sms_show_sub_title">메시지 데이터가 두 개의 공간에 공유됩니다.</string>
     <string name="restore_normal_show">비공개 메시지 표시하지 않기</string>
     <string name="restore_show_desc">보조 공간에서 비공개 메시지를 표시하지 않습니다. 기본 공간에서는 여전히 사용가능할 것입니다.</string>
     <string name="confirm_restore">표시하지 않기</string>
     <string name="restore_show_toast">비공개 메시지 표시하지 않기</string>
-    <string name="remove_second_space_msg">보조 공간을 삭제하시면 모든 앱 데이터도 삭제될 것입니다. 지금 삭제하시겠습니까?</string>
+    <string name="remove_second_space_msg">보조 공간을 삭제하시면 모든 앱 데이터도 삭제됩니다. 지금 삭제하시겠습니까?</string>
     <string name="second_space_finger_printf_title">보조 공간 지문</string>
     <string name="second_space_finger_printf_desc">보조 공간 진입 전용 지문 추가</string>
     <string name="setting_finger_print_title">보조 공간 지문 추가</string>
@@ -262,7 +262,7 @@
     <string name="no_match_repate_scanner">일치되는 지문 검색 실패, 다시 스캔</string>
     <string name="delete_phone_fingerprint">보조 공간 지문 삭제</string>
     <string name="delete_fingerprint">지문 삭제</string>
-    <string name="delete_fingerprint_desc">보조 공간 지문이 비밀번호와 함께 삭제될 것입니다.</string>
+    <string name="delete_fingerprint_desc">보조 공간 지문이 비밀번호와 함께 삭제됩니다.</string>
     <string name="fingerprint_removal_failed">지문 삭제 실패</string>
     <string name="notification_recommend_title">보조 공간을 위한 Top 12 앱</string>
     <string name="scanner_fingerprint">지문 스캔 중…</string>
@@ -291,7 +291,7 @@
     <string name="other">기타</string>
     <string name="airspace_users_full">작업 공간을 더 생성할 수 없습니다.</string>
     <string name="same_qr_code_title">%s 이미 존재함</string>
-    <string name="same_qr_code_des">작업 공간이 이미 존재하는 것 같습니다. 홈 화면의 드롭다운 메뉴에서 이동하실 수 있습니다. 지금 이동하시겠습니까?</string>
+    <string name="same_qr_code_des">작업 공간이 이미 존재하는 것 같습니다. 홈 화면의 드롭다운 메뉴에서 이동할 수 있습니다. 지금 이동하시겠습니까?</string>
     <string name="same_qr_code_enter_space">작업 공간으로 이동</string>
     <string name="same_qr_code_create_space">새로 생성</string>
     <string name="not_support_air_space">이 기능은 귀하의 휴대전화에 지원되지 않습니다.</string>
@@ -407,7 +407,7 @@
     <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>
     <string name="remove_button">삭제</string>
     <string name="remove_button_time">삭제(%ds)</string>
-    <string name="stop_xspace_alert_content">"모든 듀얼 앱에 연결된 계정과 앱 데이터를 삭제하시겠습니까? 이 변경을 적용하기 위해 기기가 다시 시작될 것입니다."</string>
+    <string name="stop_xspace_alert_content">"모든 듀얼 앱에 연결된 계정과 앱 데이터를 삭제하시겠습니까? 이 변경을 적용하기 위해 기기가 다시 시작됩니다."</string>
     <string name="stop_xspace_alert_title">듀얼 앱 계정 삭제</string>
     <string name="msg_switch_file_second">데이터를 옮긴 후에 모든 파일들을 삭제하시겠습니까?</string>
     <string name="use_xiaoai_open">Mi Ai를 이용해 기기 깨우기</string>

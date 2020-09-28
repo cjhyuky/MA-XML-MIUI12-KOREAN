@@ -67,7 +67,7 @@
     <string name="paused_waiting_for_network">네트워크를 기다리는중</string>
     <string name="paused_waiting_to_retry">다시 시도를 기다리는 중</string>
     <string name="paused_unknown">일시 중지됨</string>
-    <string name="confirm_delete_downloads_message">%d개 다운로드가 삭제될 것입니다.</string>
+    <string name="confirm_delete_downloads_message">%d개 다운로드가 삭제됩니다.</string>
     <string name="confirm_delete_the_download_item_message">이 다운로드를 삭제하시겠습니까?</string>
     <string name="delete_the_downloaded_file">다운로드된 파일이 삭제됩니다.</string>
     <string name="downloads_operating">작업 중…</string>

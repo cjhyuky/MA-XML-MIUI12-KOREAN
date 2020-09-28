@@ -100,7 +100,7 @@
     <string name="menu_new_contact_action_bar">새로운 연락처</string>
     <string name="menu_new_group_action_bar">새로운 그룹</string>
     <string name="splitConfirmation_title">연락처를 분류하시겠습니까?</string>
-    <string name="splitConfirmation">이 연락처는 다수의 연락처로 분류될 것입니다.</string>
+    <string name="splitConfirmation">이 연락처는 다수의 연락처로 분류됩니다.</string>
     <string name="menu_joinAggregate">합치기</string>
     <string name="titleJoinContactDataWith">연락처 합치기</string>
     <string name="blurbJoinContactDataWith">%s: 와 합치고 싶은 연락처를 선택하세요.</string>
@@ -704,7 +704,7 @@
     <string name="miprofile_alertdialog_title">이름 입력</string>
     <string name="miprofile_alertdialog_message">카드 교환 요청 시 연락처에 이 이름을 보이게 하세요.</string>
     <string name="miprofile_alertdialog_edit">이름 입력</string>
-    <string name="miprofile_switch_off_alertdialog_message">끄신 후에는 더 이상 다른 사용자와 연락처 카드를 교환하실 수 없습니다.</string>
+    <string name="miprofile_switch_off_alertdialog_message">끈 후에는 더 이상 다른 사용자와 연락처 카드를 교환할 수 없습니다.</string>
     <string name="miprofile_bind_account_alertdialog_title">전화번호 추가</string>
     <string name="miprofile_bind_account_alertdialog_message">이 기능을 사용하려면 귀하의 Mi 계정에 기기의 전화번호를 추가해야 합니다.</string>
     <string name="miprofile_bind_account_alertdialog_positive">번호 추가</string>
@@ -1206,7 +1206,7 @@
     <string name="button_join_service_number">서비스 번호 추가</string>
     <string name="button_my_center">프로필</string>
     <string name="gallery">갤러리</string>
-    <string name="search_input_hint">전화번호 또는 서비스를 검색하실 수 있습니다.</string>
+    <string name="search_input_hint">전화번호 또는 서비스를 검색할 수 있습니다.</string>
     <string name="imei_invalid">잘못된 IMEI</string>
     <string name="meid_invalid">잘못된 MEID</string>
     <string name="mobile_equipment_identification">모바일 장치 식별</string>

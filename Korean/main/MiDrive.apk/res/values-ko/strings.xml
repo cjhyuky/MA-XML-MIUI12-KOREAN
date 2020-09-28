@@ -102,7 +102,7 @@
     <string name="petabyteShort">PB</string>
     <string name="pick_from_fileexplor_failed">브라우저를 먼저 업데이트하세요.</string>
     <string name="quota_info">Mi Drive: %2$s 중 %1$s 사용가능</string>
-    <string name="rename_alert">"파일 확장자명을 변경하시면 파일을 열지 못하실 수도 있습니다."</string>
+    <string name="rename_alert">"파일 확장자명을 변경하시면 파일을 열지 못할 수도 있습니다."</string>
     <string name="rename_failed">동일한 이름의 파일이 있습니다.</string>
     <string name="request_permission_msg">Mi 드라이브가 정상적으로 작동하기 위해선 Mi 계정에 액세스 권한이 있어야 합니다.</string>
     <string name="request_permission_title">권한 필수</string>
@@ -115,7 +115,7 @@
     <string name="system_alert">인터넷 연결</string>
     <string name="terabyteShort">TB</string>
     <string name="tools">도구</string>
-    <string name="trans_mobile_network_message">데이터를 이용해 파일 업르드를 하실 경우 데이터 요금이 부과될 수 있습니다. 계속 진햏하시겠습니까?</string>
+    <string name="trans_mobile_network_message">데이터를 이용해 파일을 업로드할 경우 데이터 요금이 부과될 수 있습니다. 계속 진햏하시겠습니까?</string>
     <string name="trans_task">전송하기</string>
     <string name="transing">전송 중</string>
     <string name="upload_failed">"업로드할 수 없습니다."</string>

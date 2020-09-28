@@ -569,7 +569,7 @@
     <string name="app_disable_notifications_dlg_title">알림을 사용 중지하시겠습니까?</string>
     <string name="app_enable_bluetooth_record">블루투스를 켠 앱</string>
     <string name="app_factory_reset">업데이트 제거</string>
-    <string name="app_factory_reset_dlg_text">이 Android 시스템 앱의 모든 업데이트가 제거될 것입니다.</string>
+    <string name="app_factory_reset_dlg_text">이 Android 시스템 앱의 모든 업데이트가 제거됩니다.</string>
     <string name="app_factory_reset_dlg_title">업데이트를 제거하시겠습니까?</string>
     <string name="app_floating_window_dlg_disable">%1$s의 플로팅 창 설정을 끄려면 자동 실행 앱이 필요합니다.</string>
     <string name="app_floating_window_dlg_enable">%1$s의 플로팅 창 설정을 켜려면 자동 실행 앱이 필요합니다.</string>
@@ -1065,7 +1065,7 @@
     <string name="battery_tip_early_heads_up_done_title">절전 모드가 켜짐</string>
     <string name="battery_tip_early_heads_up_summary">배터리가 평소보다 빨리 소모될 수 있습니다.</string>
     <string name="battery_tip_early_heads_up_title">절전 모드 켜기</string>
-    <string name="battery_tip_high_usage_summary">배터리가 곧 소진될 것입니다.</string>
+    <string name="battery_tip_high_usage_summary">배터리가 곧 소진됩니다.</string>
     <string name="battery_tip_high_usage_title">전화가 평소보다 많이 사용되었습니다.</string>
     <string name="battery_tip_low_battery_summary">배터리가 충분한 사용시간을 제공할 수 없습니다.</string>
     <string name="battery_tip_low_battery_title">낮은 배터리 용량</string>
@@ -1093,7 +1093,7 @@
     <string name="billing_cycle_none_left">남은 시간 없음</string>
     <string name="billing_cycle_summary">%1$s을 1일로 계산하기</string>
     <string name="bind_xiaomi_account_confirm">추가</string>
-    <string name="bind_xiaomi_account_dialog_summery">Mi 계정 %s으로 연결될 것입니다. 비밀번호 분실 시 이 계정을 사용하여 초기화하실 수 있습니다.</string>
+    <string name="bind_xiaomi_account_dialog_summery">Mi 계정 %s으로 연결됩니다. 비밀번호 분실 시 이 계정을 사용하여 초기화할 수 있습니다.</string>
     <string name="bind_xiaomi_account_success">Mi 계정 추가 성공</string>
     <string name="biometric_weak_improve_matching_title">얼굴 매칭 향상</string>
     <string name="biometric_weak_liveliness_summary">잠금해제시 눈 깜박임 필요</string>
@@ -1790,12 +1790,12 @@
     <string name="close_hotspot_hint">전송하기 전에 모바일 핫스팟을 끄세요.</string>
     <string name="close_install_and_connect">아니오</string>
     <string name="close_miui_optimization_title">MIUI 최적화 끄기</string>
-    <string name="close_miui_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작될 것입니다. 주의: 이 기능을 끄시면 UI의 다른 요소들과 레이아웃 등 중요한 요소들이 변경될 수 있습니다.</string>
+    <string name="close_miui_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작됩니다. 주의: 이 기능을 끄시면 UI의 다른 요소들과 레이아웃 등 중요한 요소들이 변경될 수 있습니다.</string>
     <string name="close_optimization_message">텍스트 레이아웃, 계정과 같은 MIUI의 일부 기능이 제한됩니다.</string>
     <string name="close_optimization_option">비활성화</string>
     <string name="close_privacy_thumbnail_blur_title">"미리보기 흐림 처리되지 않았습니다."</string>
     <string name="close_sdcard_optimization_title">SD 카드 최적화 닫기</string>
-    <string name="close_sdcard_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작될 것입니다.</string>
+    <string name="close_sdcard_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작됩니다.</string>
     <string name="close_slave_wifi_hint">전송하기 전에 보조 Wi-Fi 네트워크 연결 끊기</string>
     <string name="close_twice_auth_btn">이중 보안설정 끄기</string>
     <string name="close_twice_auth_note">참고:새 보안 질문을 만들고 생년월일을 확인한 후 Apple ID 2단계 인증이 해제됩니다. Apple ID 계정 페이지에 2단계 인증을 해제하는 옵션이 표시되지 않으면 해제할 수 없습니다.</string>
@@ -2084,7 +2084,7 @@
     <string name="cross_profile_calendar_summary">개인 캘린더에 업무 이벤트 표시</string>
     <string name="cross_profile_calendar_title">교차 프로필 캘린더</string>
     <string name="crypt_keeper_button_text">휴대전화 암호화</string>
-    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 휴대전화의 배터리가 과정을 진행하기에 충분한지 확인하세요. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 될 것입니다.</string>
+    <string name="crypt_keeper_conditions">암호화 과정에 한 시간 혹은 더 걸리게 됩니다. 시작하시기 전 휴대전화의 배터리가 과정을 진행하기에 충분한지 확인하세요. 만약 중단된다면 부분 혹은 전체 데이터를 잃게 됩니다.</string>
     <string name="crypt_keeper_conditions_title">기기 암호화 정보</string>
     <string name="crypt_keeper_confirm_encrypt">기기를 암호화하려면 잠금해제 패턴을 그려야 합니다.</string>
     <string name="crypt_keeper_confirm_title">암호화하시겠습니까?</string>
@@ -2093,8 +2093,8 @@
     <string name="crypt_keeper_cooldown">^1초 후에 다시 시도하세요.</string>
     <string name="crypt_keeper_data_corrupt_summary">입력한 비밀번호는 정확하나 안타깝게도 사용자의 데이터가 손상되었습니다. \n\n내 휴대전화를 다시 사용하려면 공장 출하 상태로 초기화해야 합니다. 초기화 후 휴대전화를 설정할 때 Google 계정에 백업된 데이터를 복원할 수 있습니다.</string>
     <string name="crypt_keeper_data_corrupt_title">복호화 실패</string>
-    <string name="crypt_keeper_decrypt_methods">휴대전화를 암호화 한 후 화면 잠금을 설정하셨다면 (패턴, 숫자 PIN, 비밀번호), 매번 휴대전화를 켜실 때마다 화면 잠금해제가 필요합니다. 단 한가지 비밀번호 해제 방법으로 공장 초기화 방법이 있습니다. 이 방법은 귀하의 모든 데이터를 삭제하게 될 것입니다.</string>
-    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">휴대전화를 암호화 하시면 다시 시작하실 때마다 비밀번호 해제를 위해 비밀번호, PIN, 패턴을 입력해야 할 것입니다.</string>
+    <string name="crypt_keeper_decrypt_methods">휴대전화를 암호화 한 후 화면 잠금을 설정하셨다면 (패턴, 숫자 PIN, 비밀번호), 매번 휴대전화를 켜실 때마다 화면 잠금해제가 필요합니다. 단 한가지 비밀번호 해제 방법으로 공장 초기화 방법이 있습니다. 이 방법은 귀하의 모든 데이터를 삭제하게 됩니다.</string>
+    <string name="crypt_keeper_decrypt_methods_cannot_decrypt">휴대전화를 암호화하면 다시 시작할 때마다 비밀번호 해제를 위해 비밀번호, PIN, 패턴을 입력해야 할 것입니다.</string>
     <string name="crypt_keeper_decrypt_methods_title">기기 암호화 해제</string>
     <string name="crypt_keeper_desc">계정, 설정, 다운로드된 앱과 데이터, 미디어 및 기타 파일을 암호화할 수 있습니다. 휴대전화를 암호화하고 화면 잠금(패턴, 숫자 PIN 또는 비밀번호)을 설정할 경우, 전원을 켤 때마다 화면 잠금을 해제하여 휴대전화의 암호화를 해제해야 합니다. 암호화를 해제하는 다른 유일한 방법은 초기화하여 모든 데이터를 삭제하는 것입니다.\n\n암호화에는 1시간 이상이 걸릴 수 있습니다. 충전된 배터리를 이용하여 암호화를 시작하고 암호화가 완료될 때까지 휴대전화의 전원 연결을 해제하지 않아야 합니다. 암호화 프로세스를 중단하면 데이터의 일부 또는 전부를 잃게 됩니다.</string>
     <string name="crypt_keeper_dialog_need_password_message">암호화를 시작하기 전에 화면 잠금 PIN 또는 비밀번호를 설정해야 합니다.</string>
@@ -2651,11 +2651,11 @@
     <string name="diy_suppression_title">맞춤</string>
     <string name="dlg_cancel">취소</string>
     <string name="dlg_close">닫기</string>
-    <string name="dlg_confirm_uicc_unmount_text">UICC 저장소를 꺼내시면 다시 장착하실 때까지 일부 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
+    <string name="dlg_confirm_uicc_unmount_text">UICC 저장소를 꺼내면 다시 장착할 때까지 일부 앱들이 중지되거나 이용할 수 없게 됩니다.</string>
     <string name="dlg_confirm_uicc_unmount_title">UICC 저장소를 꺼내시겠습니까?</string>
     <string name="dlg_confirm_unmount_text">SD 카드를 마운트 해제하면 사용 중인 일부 앱이 중지되고 SD 카드를 다시 마운트할 때까지 사용할 수 없게 됩니다.</string>
     <string name="dlg_confirm_unmount_title">SD 카드를 마운트 해제하시겠습니까?</string>
-    <string name="dlg_confirm_usb_unmount_text">USB 저장소를 꺼내시면 다시 장착하실 때까지 일부 앱들이 중지되거나 이용할 수 없게 될 것입니다.</string>
+    <string name="dlg_confirm_usb_unmount_text">USB 저장소를 꺼내면 다시 장착할 때까지 일부 앱들이 중지되거나 이용할 수 없게 됩니다.</string>
     <string name="dlg_confirm_usb_unmount_title">USB 저장소를 꺼내시겠습니까?</string>
     <string name="dlg_error_uicc_unmount_text">UICC 저장소를 꺼낼 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="dlg_error_unmount_text">SD 카드를 마운트 해제하지 못했습니다. 나중에 다시 시도하세요.</string>
@@ -3200,7 +3200,7 @@
     <string name="field_info_tracking_area_label">트래킹 지역 코드:</string>
     <string name="field_info_tx_power_label">Tx 파워:</string>
     <string name="field_test_info_label">필드 테스트 정보</string>
-    <string name="file_privacy_password_role_instruction">귀하의 개인 파일이 여기에 저장될 것입니다.</string>
+    <string name="file_privacy_password_role_instruction">귀하의 개인 파일이 여기에 저장됩니다.</string>
     <string name="file_uploading">업로드 중...</string>
     <string name="files_backup_info">SD 카드 상의 모든 파일 (사진, 노래, 동영상, 앱 데이터 등 포함)</string>
     <string name="filter">필터</string>
@@ -3463,7 +3463,7 @@
     <string name="gadget_toggle_bluetooth">블루투스 설정 업데이트</string>
     <string name="gadget_toggle_wifi">Wi-Fi 설정 업데이트 중</string>
     <string name="gadget_wifi">Wi-Fi</string>
-    <string name="gallery_privacy_password_role_instruction">귀하의 개인 사진이 여기에 저장될 것입니다.</string>
+    <string name="gallery_privacy_password_role_instruction">귀하의 개인 사진이 여기에 저장됩니다.</string>
     <string name="gallery_summary">갤러리 설정(사진 미포함)</string>
     <string name="game_booster">게임;게임;터보;게임 중;게임 모드</string>
     <string name="game_booster_title">게임 터보</string>
@@ -4453,8 +4453,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockpattern_pattern_confirmed_header">새 잠금해제 패턴</string>
     <string name="lockpattern_pattern_entered_header">패턴 기록됨</string>
     <string name="lockpattern_pattern_same_with_others">다른 공간의 비밀번호와 달라야 합니다.</string>
-    <string name="lockpattern_pattern_same_with_owner">기본 공간 비밀번호와 잠금해제 비밀번호를 같게 설정하실 수 없습니다.</string>
-    <string name="lockpattern_pattern_same_with_security_space">보조 공간 비밀번호와 잠금해제 비밀번호를 같게 설정하실 수 없습니다.</string>
+    <string name="lockpattern_pattern_same_with_owner">기본 공간 비밀번호와 잠금해제 비밀번호를 같게 설정할 수 없습니다.</string>
+    <string name="lockpattern_pattern_same_with_security_space">보조 공간 비밀번호와 잠금해제 비밀번호를 같게 설정할 수 없습니다.</string>
     <string name="lockpattern_recording_incorrect_too_short">%d개 이상의 점을 연결해야 합니다. 다시 시도하세요.</string>
     <string name="lockpattern_recording_inprogress">완료되면 손가락을 떼세요.</string>
     <string name="lockpattern_recording_intro_footer">메뉴를 눌러 도움말 확인</string>
@@ -4577,7 +4577,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="master_clear_accounts">\n\n현재 로그인한 계정:\n</string>
     <string name="master_clear_all">휴대전화의 내부 저장소에서 모든 데이터를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_apply_step_1">“공장 초기화”는 Mi 휴대전화에 있는 모든 데이터를 지웁니다. 사진, 음악, 메모, 기타 개인 데이터가 포함됩니다. 반드시 중요한 항목을 PC에 백업하세요.</string>
-    <string name="master_clear_apply_step_2">모든 중요한 항목이 PC에 백업되어있는지 확인하세요. 초기화하시면 기기에 있는 모든 데이터가 지워질 것입니다. 항목 백업을 해두시지 않으셨다면 복원하실 수 없습니다.</string>
+    <string name="master_clear_apply_step_2">모든 중요한 항목이 PC에 백업되어있는지 확인하세요. 초기화하시면 기기에 있는 모든 데이터가 지워집니다. 항목 백업을 해두지 않았다면 복원할 수 없습니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="master_clear_button_text">휴대전화 초기화</string>
     <string name="master_clear_confirm_title">초기화하시겠습니까?</string>
@@ -4886,7 +4886,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="mms_breathing_light_freq_title">메시지 알림 표시등 점등 빈도</string>
     <string name="mms_message_summary">모바일 데이터가 사용 중지되어 있을 때 전송 및 수신</string>
     <string name="mms_message_title">MMS 메시지</string>
-    <string name="mms_privacy_password_role_instruction">귀하의 대화와 개인 연락처가 이곳에 저장될 것입니다.</string>
+    <string name="mms_privacy_password_role_instruction">귀하의 대화와 개인 연락처가 이곳에 저장됩니다.</string>
     <string name="mms_title">멀티미디어 메시지</string>
     <string name="mobile_connect_to_internet">인터넷에 연결하세요.</string>
     <string name="mobile_data_active">활성 모바일 데이터</string>
@@ -5371,7 +5371,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="notch_style_status_bar_inside">상단바 이동없이 숨기기</string>
     <string name="notch_style_status_bar_outside">상단바 숨기기 및 이동</string>
     <string name="note_title">메모</string>
-    <string name="notes_privacy_password_role_instruction">귀하의 개인 메모가 여기에 저장될 것입니다.</string>
+    <string name="notes_privacy_password_role_instruction">귀하의 개인 메모가 여기에 저장됩니다.</string>
     <string name="nothing_searched">결과 없음</string>
     <string name="notif_backup_complete_title">백업에 성공했습니다.</string>
     <string name="notif_backup_content">사용자 데이터 백업하기</string>
@@ -5527,7 +5527,6 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="notification_remind">알림</string>
     <string name="notification_ringtone_title">기본 알림 벨소리</string>
     <string name="notification_section_header">알림</string>
-    <string name="notification_settings">소리 및 알림</string>
     <string name="notification_settings_apps_title">앱 알림</string>
     <string name="notification_settings_work_profile">알림 액세스는 직장 프로필에 있는 앱에서 사용할 수 없습니다.</string>
     <string name="notification_shade_shortcut_title">알림 창 바로가기</string>
@@ -5625,7 +5624,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="open_game_accelerate">게임 터보 켜기</string>
     <string name="open_haptic_feedback">햅틱 피드백</string>
     <string name="open_miui_optimization_title">MIUI 최적화 켜기</string>
-    <string name="open_miui_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작될 것입니다.</string>
+    <string name="open_miui_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작됩니다.</string>
     <string name="open_optimization_message">최적화를 활성화하여 빠르고 부드러운 UI를 사용하세요.</string>
     <string name="open_optimization_option">활성화</string>
     <string name="open_personal_assistant_dialog_btn_cancel">퀵카드 취소</string>
@@ -5635,7 +5634,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="open_personal_assistant_title">퀵카드 켜기</string>
     <string name="open_privacy_thumbnail_blur_title">미리보기가 흐림 처리되었습니다.</string>
     <string name="open_sdcard_optimization_title">SD 카드 최적화 열기</string>
-    <string name="open_sdcard_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작될 것입니다.</string>
+    <string name="open_sdcard_optimization_warning_message">이 변경사항을 적용하기위해 기기가 자동으로 다시 시작됩니다.</string>
     <string name="open_supported_links_footer">앱이 다음 링크를 처리한다고 주장합니다.</string>
     <string name="open_wifi_connect_summary">탭하여 세부사항 보기</string>
     <string name="open_wifi_connect_title">%1$s에 연결</string>
@@ -6144,7 +6143,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="privacy_delete_space_dlg_message">보조 공간 비밀번호를 변경하려면 현재 보조 공간을 삭제하시거나 새로 생성해야 합니다.</string>
     <string name="privacy_dlg_button_cancel">취소</string>
     <string name="privacy_factory_reset_dlg_button_text">초기화</string>
-    <string name="privacy_factory_reset_dlg_message">비밀번호를 분실하셨다면 공장 초기화를 통해 새로 설정하실 수 있습니다.</string>
+    <string name="privacy_factory_reset_dlg_message">비밀번호를 분실했다면 공장 초기화를 통해 새로 설정할 수 있습니다.</string>
     <string name="privacy_factory_reset_dlg_title">데이터를 백업하세요.</string>
     <string name="privacy_failed_need_to_unlock_nofingerprint">새 지문을 사용하기 전에 비밀번호를 입력하세요.</string>
     <string name="privacy_file">파일</string>
@@ -6493,7 +6492,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="restore_data">백업할 항목 선택</string>
     <string name="restore_default_apn">기본 APN 설정 복원 중</string>
     <string name="restore_default_apn_completed">기본 APN 설정을 초기화했습니다.</string>
-    <string name="restore_device_id_content">개인맞춤 추천이 리셋될 것입니다.</string>
+    <string name="restore_device_id_content">개인맞춤 추천이 리셋됩니다.</string>
     <string name="restore_device_id_title">기기 ID 리셋</string>
     <string name="restore_dialog_content">귀하의 현재 기기 ID 리셋은 개인맞춤 추천 또한 리셋시킬 것입니다. 지금 리셋하시겠습니까?</string>
     <string name="restore_dialog_positive">리셋</string>
@@ -7257,7 +7256,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="setup_choose_unlock_pattern">패턴</string>
     <string name="setup_choose_unlock_pattern_title">잠금 패턴 설정</string>
     <string name="setup_choose_unlock_type_title">비밀번호 설정</string>
-    <string name="setup_fingerprint_enroll_enrolling_skip_message">지문을 이용해 기기 잠금을 해제할 수 있습니다. 건너뛰실 경우, 나중에 설정하실 수 있지만 지금 설정하시면 1분도 채 걸리지 않습니다.</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message">지문을 이용해 기기 잠금을 해제할 수 있습니다. 건너뛰실 경우, 나중에 설정할 수 있지만 지금 설정하시면 1분도 채 걸리지 않습니다.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">그래도 건너뛰시겠습니까?</string>
     <string name="setup_fingerprint_enroll_finish_message">이 아이콘이 있는 경우 지문을 사용할 수 있습니다.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">" 아이콘이 있는 경우 지문을 사용할 수 있습니다."</string>
@@ -8544,8 +8543,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="uicc_format_summary">UICC 저장소의 모든 데이터(예: 음악, 사진)가 지워집니다.</string>
     <string name="uicc_insert_summary">UICC 저장소 연결</string>
     <string name="uicc_media_format_button_text">UICC 저장소 지우기</string>
-    <string name="uicc_media_format_desc">UICC 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 될 것입니다.</string>
-    <string name="uicc_media_format_final_desc">UICC 저장소에 저장되어있던 모든 파일이 영구적으로 삭제될 것입니다.</string>
+    <string name="uicc_media_format_desc">UICC 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 됩니다.</string>
+    <string name="uicc_media_format_final_desc">UICC 저장소에 저장되어있던 모든 파일이 영구적으로 삭제됩니다.</string>
     <string name="uicc_media_format_gesture_explanation">UICC 저장소를 지우려면 잠금 패턴을 해제하여 승인하세요.</string>
     <string name="uicc_media_format_summary">UICC 저장소의 모든 데이터가 지워집니다.</string>
     <string name="uicc_media_format_title">UICC 저장소 지우기</string>
@@ -8561,8 +8560,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="uninstall_protected_dlg_title">제거 경고</string>
     <string name="uninstall_text">제거</string>
     <string name="uninstall_wifi_master_key">WiFi 마스터키 제거</string>
-    <string name="uninstall_with_xspace_app_dlg_msg">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제될 것입니다.</string>
-    <string name="uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제됩니다.</string>
+    <string name="uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하시면 모든 앱 데이터가 제거됩니다.</string>
     <string name="uninstall_xspace_app_dlg_title">듀얼 앱을 제거하시겠습니까?</string>
     <string name="unknown">알 수 없음</string>
     <string name="unknown_app">출처가 불분명한 앱</string>
@@ -8632,7 +8631,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하려면 %1$d-%2$d자리 숫자를 입력하세요.</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
-    <string name="unlock_setup_wizard_fingerprint_details">화면 잠금을 설정하시면, 지문을 설정&gt; 보안 에서 추가하실 수 있습니다.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">화면 잠금을 설정하면 지문을 설정&gt; 보안 에서 추가할 수 있습니다.</string>
     <string name="unlock_type_category_title">인식 방법</string>
     <string name="unlogin_account_summary">모든 Mi 서비스를. 하나의 Mi 계정으로!</string>
     <string name="unlogin_account_title">Mi 계정 으로 로그인</string>
@@ -8772,7 +8771,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="usb_control_title">USB로 조작됨</string>
     <string name="usb_default_info">다른 장치가 연결되어 있고 휴대전화 잠금이 해제되면이 설정이 적용됩니다. 신뢰할 수 있는 장치에만 연결하세요.</string>
     <string name="usb_default_label">기본 USB 설정</string>
-    <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리한다면 다시 장착하실 때까지 사용 중이신 일부 앱이 멈춰지거나 사용하실 수 없게 될 것입니다.</string>
+    <string name="usb_dlg_confirm_unmount_text">USB 저장소를 분리한다면 다시 장착할 때까지 사용 중이신 일부 앱이 멈춰지거나 사용할 수 없게 됩니다.</string>
     <string name="usb_dlg_confirm_unmount_title">USB 저장소를 분리하시겠습니까?</string>
     <string name="usb_eject">USB 저장소 꺼내기</string>
     <string name="usb_eject_summary">USB 저장소를 꺼내서 안전하게 제거합니다.</string>
@@ -8788,8 +8787,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="usb_install_app_desc">USB로 설치 허용</string>
     <string name="usb_label_installer_cd">파일 전송 도구 설치</string>
     <string name="usb_media_format_button_text">USB 저장소 지우기</string>
-    <string name="usb_media_format_desc">USB 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 될 것입니다.</string>
-    <string name="usb_media_format_final_desc">USB 저장소에 저장되어있던 모든 파일이 영구적으로 삭제될 것입니다.</string>
+    <string name="usb_media_format_desc">USB 저장소를 지울까요? 저장했었던 &lt;b&gt;모든&lt;/b&gt; 파일들을 잃게 됩니다.</string>
+    <string name="usb_media_format_final_desc">USB 저장소에 저장되어있던 모든 파일이 영구적으로 삭제됩니다.</string>
     <string name="usb_media_format_gesture_explanation">USB 저장소를 지우시려면 잠금 패턴을 해제하여 승인하세요.</string>
     <string name="usb_media_format_summary">USB 저장소의 모든 데이터가 지워집니다.</string>
     <string name="usb_media_format_title">USB 저장소 지우기</string>
@@ -8854,7 +8853,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="use_default_tts_settings_title">항상 내 설정 사용</string>
     <string name="use_location_summary">Google이 내 위치를 사용하여 검색결과 및 기타 서비스를 개선하도록 합니다.</string>
     <string name="use_location_title">위치 기반 Google 검색</string>
-    <string name="use_media_format_desc">USB 저장소를 지울까요? &lt;b&gt;전체&lt;/b&gt; 파일이 영구적으로 삭제될 것입니다.</string>
+    <string name="use_media_format_desc">USB 저장소를 지울까요? &lt;b&gt;전체&lt;/b&gt; 파일이 영구적으로 삭제됩니다.</string>
     <string name="use_nuplayer">NuPlayer 사용(베타)</string>
     <string name="use_nuplayer_summary">AwesomePlayer 대신 NuPlayer 사용</string>
     <string name="use_open_wifi_automatically_summary">자동으로 안정적인 공공 네트워크에 연결합니다.</string>
@@ -9232,7 +9231,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wechat">WeChat</string>
     <string name="weight_heavy">두껍게</string>
     <string name="weight_light">얇게</string>
-    <string name="weight_setting_toast">기본 시스템 폰트만 굵기를 변경하실 수 있습니다.</string>
+    <string name="weight_setting_toast">기본 시스템 글꼴만 굵기를 변경할 수 있습니다.</string>
     <string name="welcome">환영합니다.</string>
     <string name="wellbing_title">디지털 웰빙 &amp; 자녀 보호</string>
     <string name="wfc_disclaimer_agree_button_text">계속</string>
@@ -10290,7 +10289,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zen_onboarding_current_setting_title">알림시 무음</string>
     <string name="zen_onboarding_dnd_visual_disturbances_description">사용자가 집중할 수 있도록 휴대전화가 도울 수 있습니다. 이렇게 설정해보세요:- 알림 완전 숨기기- 별표 표시한 연락처나 반복된 전화가 올때만 전화를 수신합니다.</string>
     <string name="zen_onboarding_dnd_visual_disturbances_header">방해 금지 모드 알림 설정을 변경하시겠습니까?</string>
-    <string name="zen_onboarding_more_options">설정에서 이 내용을 추가로 사용자 맞춤 설정하실 수 있습니다.</string>
+    <string name="zen_onboarding_more_options">설정에서 이 내용을 추가로 사용자 맞춤 설정할 수 있습니다.</string>
     <string name="zen_onboarding_new_setting_summary">알림을 보거나, 들을 수 없습니다. 별표 표시된 연락처 및 반복 발신자의 전화만 허용됩니다.</string>
     <string name="zen_onboarding_new_setting_title">알림을 화면에 표시하지 않고 무음처리</string>
     <string name="zen_onboarding_ok">완료</string>

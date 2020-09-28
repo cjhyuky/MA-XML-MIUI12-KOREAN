@@ -453,7 +453,7 @@
     <string name="album_videos_name">동영상</string>
     <string name="album_wallpaper">배경화면</string>
     <string name="alert_secret_album_enter">알겠습니다.</string>
-    <string name="alert_secret_album_message">앨범을 탭하시고 당겨 내리시면 숨겨진 앨범을 확인하실 수 있습니다.</string>
+    <string name="alert_secret_album_message">앨범을 탭하고 당겨내려 숨겨진 앨범을 확인할 수 있습니다.</string>
     <string name="alert_secret_album_message_lower_case">사진을 보려면 앨범을 밑으로 내리세요.</string>
     <string name="alert_secret_album_title">숨김 폴더 보는 방법</string>
     <string name="alert_selection_description">MIUI가 비슷한 사진들을 감지하여 베스트샷에 표시를 해드릴 것입니다.</string>
@@ -560,7 +560,7 @@
     <string name="backuping_title_normal">백업 중…</string>
     <string name="base_btn_cancel">취소</string>
     <string name="base_btn_download">다운로드</string>
-    <string name="begin_share">아기 앨범 \"%s\" 생성됨, 지금 공유하실 수 있습니다.</string>
+    <string name="begin_share">아기 앨범 \"%s\" 생성됨, 지금 공유할 수 있습니다.</string>
     <string name="begin_share_toast">공유 전에 이 아기를 위한 단독 앨범을 생성하시겠습니까?</string>
     <string name="browse_category_title">검색</string>
     <string name="burst_image_download_item_title" formatted="false">원본 다운로드(%s|%s)</string>
@@ -704,9 +704,9 @@
     <string name="confirm_merge_face_albums">\" \"&lt;Data&gt; %s(으) 로 이 앨범을 합치시겠습니까? &lt;/Data&gt;</string>
     <string name="confirm_merge_many_face_albums">\" \"&lt;Data&gt; %s(으)로 이 앨범을 합치시겠습니까? &lt;/Data&gt;</string>
     <string name="confirm_not_face">일치하는 항목 없음</string>
-    <string name="confirm_recommandation_face_is">" \"&lt;Data&gt; &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;님이 확실합니까? 이 사람은\"%2$s\" 앨범으로 이동될 것입니다. &lt;/Data&gt;\" "</string>
+    <string name="confirm_recommandation_face_is">" \"&lt;Data&gt; &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;님이 확실합니까? 이 사람은\"%2$s\" 앨범으로 이동됩니다. &lt;/Data&gt;\" "</string>
     <string name="confirm_recommandation_face_not">" \"&lt;Data&gt; &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;님이 확실히 아닙니까? &lt;/Data&gt;\" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" \"&lt;Data&gt; &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;님이 확실합니까? 이 사람들은\"%2$s\" 앨범으로 이동될 것입니다. &lt;/Data&gt;\" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" \"&lt;Data&gt; &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;님이 확실합니까? 이 사람들은\"%2$s\" 앨범으로 이동됩니다. &lt;/Data&gt;\" "</string>
     <string name="confirm_recommandation_multiple_faces_not">" \"&lt;Data&gt; &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;님이 확실히 아닙니까? &lt;/Data&gt;\" "</string>
     <string name="contact_tip">연락처</string>
     <string name="context_menu_add_contact">연락처에 추가</string>
@@ -748,8 +748,8 @@
     <string name="delete_from_homepage_album">갤러리에서 앨범 표시됨</string>
     <string name="delete_from_this_album_and_cloud">Xiaomi 클라우드와 이 앨범에서</string>
     <string name="delete_from_web">웹 앨범</string>
-    <string name="delete_in_album">앨범에서 사진 또는 동영상을 삭제하시면, 다음의 위치에서도 삭제될 것입니다:</string>
-    <string name="delete_in_home_page">갤러리에서 사진 또는 동영상을 삭제하시면, 다음의 위치에서도 삭제될 것입니다:</string>
+    <string name="delete_in_album">앨범에서 사진 또는 동영상을 삭제하시면, 다음의 위치에서도 삭제됩니다:</string>
+    <string name="delete_in_home_page">갤러리에서 사진 또는 동영상을 삭제하시면, 다음의 위치에서도 삭제됩니다:</string>
     <string name="delete_in_process">삭제 중…</string>
     <string name="delete_origin">원본 앨범에서 항목 삭제</string>
     <string name="delete_other_shared_images">다른 사람이 공유한 사진은 삭제할 수 없습니다.</string>
@@ -1021,7 +1021,7 @@
     <string name="hybrid_service_unavailiable">서비스 이용 불가</string>
     <string name="hybrid_try_again">다시 시도</string>
     <string name="ignore_album">보이지 않음</string>
-    <string name="ignore_alert_title">앨범이 표시되지 않습니까? 상단의 오른쪽 구석을 탭하시면 귀하가 무시한 사진들을 확인하실 수 있습니다.</string>
+    <string name="ignore_alert_title">앨범이 표시되지 않나요? 상단의 오른쪽 구석을 탭하시면 무시한 사진들을 확인할 수 있습니다.</string>
     <string name="ignore_face">이 사람 무시</string>
     <string name="ignore_faces_title">무시됨</string>
     <string name="image_decode_failed">이미지 디코딩 실패</string>
@@ -1391,7 +1391,7 @@
     <string name="picker_download_progress_message">다운로드 %1$d/%2$d</string>
     <string name="picker_full_format">최대 %d개 사진을 선택할 수 있습니다.</string>
     <string name="picker_image_need_download">선택한 %d개 사진이 기기에 없습니다. 모바일 데이터로 다운로드하시겠습니까?</string>
-    <string name="picker_image_will_download">선택된 사진 %d개가 기기에 존재하지 않습니다. 다운로드될 것입니다.</string>
+    <string name="picker_image_will_download">선택된 사진 %d개가 기기에 존재하지 않습니다. 다운로드됩니다.</string>
     <string name="picker_no_network_message">네트워크에 연결하여 다운로드하세요.</string>
     <string name="picker_origin_need_download">선택한 사진 %1$d개(%2$dMB) 가 기기에 존재하지 않습니다. 모바일 데이터로 다운로드하시겠습니까?</string>
     <string name="picker_origin_request_progress_fail">네트워크 오류로 인해 원본 이미지을 다운로드하지 못했습니다.</string>
@@ -1718,7 +1718,7 @@
     <string name="tip_capture_time">촬영 날짜:</string>
     <string name="tip_file_info">파일 정보:</string>
     <string name="tip_file_path">파일 경로:</string>
-    <string name="tip_not_download">기기에 없습니다. 재생 중에 Xiaomi 클라우드에서 다운로드될 것입니다.</string>
+    <string name="tip_not_download">기기에 없습니다. 재생 중에 Xiaomi 클라우드에서 다운로드됩니다.</string>
     <string name="tip_screenshot_package_info">앱 이름:</string>
     <string name="title_set_name">이름 입력</string>
     <string name="title_tip">힌트</string>

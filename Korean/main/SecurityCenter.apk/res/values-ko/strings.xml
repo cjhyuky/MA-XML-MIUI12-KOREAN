@@ -348,7 +348,7 @@
     <string name="app_manager_details_title">"앱 "</string>
     <string name="app_manager_details_traffic_title">이번 달 데이터 사용량</string>
     <string name="app_manager_disable">허용하지 않음</string>
-    <string name="app_manager_disable_dlg_text">시스템 앱을 비활성화하실 경우 일부 앱이 제대로 작동하지 않을 수 있습니다.</string>
+    <string name="app_manager_disable_dlg_text">시스템 앱을 비활성화할 경우 일부 앱이 제대로 작동하지 않을 수 있습니다.</string>
     <string name="app_manager_disable_dlg_title">시스템 앱을 비활성화하시겠습니까?</string>
     <string name="app_manager_disable_text">비활성화</string>
     <string name="app_manager_disabled">비활성화됨</string>
@@ -359,7 +359,7 @@
     <string name="app_manager_enable_text">활성화</string>
     <string name="app_manager_enabled">활성화됨</string>
     <string name="app_manager_factory_reset">업데이트 제거</string>
-    <string name="app_manager_factory_reset_dlg_msg">이 Android 시스템 앱의 모든 업데이트가 제거될 것입니다.</string>
+    <string name="app_manager_factory_reset_dlg_msg">이 Android 시스템 앱의 모든 업데이트가 제거됩니다.</string>
     <string name="app_manager_factory_reset_dlg_title">업데이트를 제거하시겠습니까?</string>
     <string name="app_manager_find_apps">앱 찾기</string>
     <string name="app_manager_force_stop_dlg_text">앱을 강제 종료하시면 오류가 발생할 수 있습니다.</string>
@@ -418,8 +418,8 @@
     <string name="app_manager_uninstall">삭제</string>
     <string name="app_manager_uninstall_protected_dlg_msg">시스템 앱을 삭제할 경우 MIUI의 일부 기능이 작동하지 않을 수 있습니다. 계속 진행하시겠습니까?</string>
     <string name="app_manager_uninstall_protected_dlg_title">시스템 앱 삭제 중</string>
-    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제될 것입니다.</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하시면 모든 앱 데이터가 제거될 것입니다.</string>
+    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">연관된 듀얼 앱이 함께 삭제될 것이며 앱 데이터 또한 삭제됩니다.</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하시면 모든 앱 데이터가 제거됩니다.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">듀얼 앱을 제거하시겠습니까?</string>
     <string name="app_manager_unstall_application">설치 제거</string>
     <string name="app_managere_not_have_app">없음</string>
@@ -474,9 +474,9 @@
     <string name="applock_add_account_setting">계정 &amp; 개인정보</string>
     <string name="applock_app_recommend_lock_title">다음 앱을 잠글 수 있습니다.</string>
     <string name="applock_bind_account_title">비밀번호 찾기</string>
-    <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더 이상 보호되지 않을 것이고 비밀번호가 삭제될 것입니다.</string>
+    <string name="applock_close_dialog_summary">앱 잠금이 꺼진 후에는 앱이 더 이상 보호되지 않을 것이고 비밀번호가 삭제됩니다.</string>
     <string name="applock_close_dialog_title">앱 잠금을 끄시겠습니까?</string>
-    <string name="applock_exit_account_info">로그아웃시 자동으로 계정이 제거될 것입니다.</string>
+    <string name="applock_exit_account_info">로그아웃시 자동으로 계정이 제거됩니다.</string>
     <string name="applock_face_unlock_summary">얼굴인식으로 앱 잠금해제</string>
     <string name="applock_face_unlock_title">얼굴인식 잠금해제</string>
     <string name="applock_function_base_settings">앱 잠금</string>
@@ -916,7 +916,7 @@
     <string name="dialog_restrict_all_wlan_title">Wi-Fi 연결 제한</string>
     <string name="dialog_restrict_negative">제한</string>
     <string name="dialog_restrict_positive">취소</string>
-    <string name="dialog_roaming_message">로밍 중에 사용된 데이터는 추가 요금이 부가될 것입니다.</string>
+    <string name="dialog_roaming_message">로밍 중에 사용된 데이터는 추가 요금이 부가됩니다.</string>
     <string name="dialog_roaming_title">데이터 로밍을 허용하시겠습니까?</string>
     <string name="dialog_roaming_warning_checkbox">다시 보지 않습니다.</string>
     <string name="dialog_roaming_warning_message">국제 데이터 로밍을 설정하면 통신사에서 요금을 부과합니다. 로밍을 사용하시겠습니까?</string>
@@ -966,7 +966,7 @@
     <string name="dlg_remove_whitelist_ing">제거 중…</string>
     <string name="dlg_remove_whitelist_title">제거</string>
     <string name="dlg_sec_network_unavailable">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
-    <string name="dlg_summary_close_app">"앱이 백그라운드에서 실행되지 않습니다. 알림이 차단될 것입니다."</string>
+    <string name="dlg_summary_close_app">"앱이 백그라운드에서 실행되지 않습니다. 알림이 차단됩니다."</string>
     <string name="dlg_summary_close_theme">"다이나믹 테마는 작동하지 않습니다."</string>
     <string name="dlg_summary_close_wifi">Wi-Fi, 블루투스, 핫스팟이 꺼집니다.</string>
     <string name="dlg_summary_nfc">NFC가 꺼집니다.</string>
@@ -1943,7 +1943,7 @@ SMS 전송"</string>
     <string name="net_booster">네트워크 속도 향상</string>
     <string name="net_booster_expire_notification">네트워크 가속 세션 만료 알림</string>
     <string name="net_booster_overdue_notification">네트워크 가속 세션 만료 알림</string>
-    <string name="net_booster_overdue_notification_tip">네트워크 가속 세션이 곧 종료될 것입니다. 세션을 갱신하시겠습니까?</string>
+    <string name="net_booster_overdue_notification_tip">네트워크 가속 세션이 곧 종료됩니다. 세션을 갱신하시겠습니까?</string>
     <string name="net_booster_tip">네트워크 속도 향상을 실행하여 더욱 안정적인 Wi-Fi 연결 및 네트워크 지연 감소</string>
     <string name="net_booster_title">네트워크 속도 향상</string>
     <string name="net_boostering">네트워크 속도 향상</string>
@@ -2158,8 +2158,8 @@ SMS 전송"</string>
     <string name="packages_subtitle">포함된 패키지</string>
     <string name="passwordIncorrect">사용자 이름이나 비밀번호가 올바르지 않습니다.</string>
     <string name="password_forget_pattern_confirm">알겠습니다.</string>
-    <string name="password_forget_pattern_message">보안의 문제로 공장 초기화 후에만 비밀번호를 초기화하실 수 있습니다. 탭하여 초기화</string>
-    <string name="password_forget_pattern_message_none">앱 잠기지 않음, 비밀번호를 초기화하실 수 있습니다.</string>
+    <string name="password_forget_pattern_message">보안의 문제로 공장 초기화 후에만 비밀번호를 초기화할 수 있습니다. 탭하여 초기화</string>
+    <string name="password_forget_pattern_message_none">앱 잠기지 않음, 비밀번호를 초기화할 수 있습니다.</string>
     <string name="password_forget_pattern_reset">초기화</string>
     <string name="password_forget_pattern_title">비밀번호 분실 알림</string>
     <string name="password_promotion_not_login_xiaomi_account_message">비밀번호를 잊었을 때 초기화할 수 있도록 Mi 계정을 추가하세요.</string>
@@ -2298,7 +2298,7 @@ SMS 전송"</string>
     <string name="power_center_back">역력</string>
     <string name="power_center_battery_last">%s 남음</string>
     <string name="power_center_charge_time">완전 충전까지 %1$s</string>
-    <string name="power_center_dialog_msg_bottom">배터리 수명을 %1$d시간 %2$d분까지 절약하실 수 있습니다. 절전 모드를 활성화하시겠습니까?</string>
+    <string name="power_center_dialog_msg_bottom">배터리 수명을 %1$d시간 %2$d분까지 절약할 수 있습니다. 절전 모드를 활성화하시겠습니까?</string>
     <string name="power_center_dialog_msg_title">%1$s 추가시간을 얻도록 설정하세요. 배터리를 절약하기 위해 다음 작업이 수행됩니다:</string>
     <string name="power_center_dialog_msg_top">절전 모드가 활성화된 경우, 시스템이 자동적으로 다음의 최적화를 진행합니다:</string>
     <string name="power_center_hints_scan_danger_result">배터리 문제를 바로 해결할 수 있습니다.</string>
@@ -2930,9 +2930,9 @@ SMS 전송"</string>
     <string name="st_call_settings">통화 차단 목록</string>
     <string name="st_call_stranger_group">모르는 사람으로부터 온 통화 차단</string>
     <string name="st_confirm_dialog_btn_open">차단</string>
-    <string name="st_confirm_dialog_summary_contact_call">연락처로부터의 모든 통화는 차단될 것입니다.</string>
+    <string name="st_confirm_dialog_summary_contact_call">연락처로부터의 모든 통화는 차단됩니다.</string>
     <string name="st_confirm_dialog_summary_oversea_call">해외에서 오는 모든 전화 차단하기</string>
-    <string name="st_confirm_dialog_summary_stranger_call">모르는 사람으로부터의 모든 통화는 차단될 것입니다.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">모르는 사람으로부터의 모든 통화는 차단됩니다.</string>
     <string name="st_filter_keywords_setting_summary1">이 목록에 있는 단어를 포함한 알 수 없는 번호에서 온 메시지는 차단됩니다.</string>
     <string name="st_filter_keywords_setting_summary2">(여러 개의 키워드를 구분하려면 쉼표를 사용하세요)</string>
     <string name="st_filter_keywords_setting_summary3">이 목록에 있는 단어를 포함하는 알 수 없는 번호의 메시지는 수신이 허용됩니다.</string>
@@ -3209,7 +3209,7 @@ SMS 전송"</string>
     <string name="tc_diagnostic_brand_error_notification_title">잘못된 네트워크 유형</string>
     <string name="tc_diagnostic_brand_result">&lt;font color=\'#CC0000\'&gt;결과: 잘못된 통신사 브랜드&lt;br/&gt;&lt;br/&gt;브랜드 설정: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;실제 브랜드: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;</string>
     <string name="tc_diagnostic_complete">완료</string>
-    <string name="tc_diagnostic_fragment_default">진단에 대해서\n1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요될 것입니다.\n2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
+    <string name="tc_diagnostic_fragment_default">진단에 대해서\n1. 기기가 통신사 네트워크 연결을 위해 무료 메시지를 전송하고 응답을 기다립니다. 5분 정도 소요됩니다.\n2. 이 진단 과정은 백그라운드에서 실행되기 때문에 이 페이지를 나가셔도 됩니다.</string>
     <string name="tc_diagnostic_location_error_notification_summary">탭하여 위치 조정</string>
     <string name="tc_diagnostic_location_error_notification_title">잘못된 위치</string>
     <string name="tc_diagnostic_notification_sumarry">탭하여 결과 보기</string>
@@ -3238,7 +3238,7 @@ SMS 전송"</string>
     <string name="tc_diagnostic_success_result">&lt;font color=\'#CC0000\'&gt;결과: 통신사 네트워크와 브랜드의 설정 올바름&lt;br/&gt;&lt;br/&gt;조정을 완료할 수 없음:&lt;br/&gt;1. 월초나 월말의 통신사 통계는 정확하지 않을 수 있습니다.&lt;br/&gt;2. 보안 앱이 업데이트되지 않았습니다.&lt;br/&gt;&lt;br/&gt;MIUI 진단 도구 개선을 위해 이 문제를 보고해 주세요.&lt;/font&gt;</string>
     <string name="tc_diagnostic_title">통신사 진단</string>
     <string name="tc_diagnostic_upload_button">보고서</string>
-    <string name="tc_diagnostic_upload_no_network">피드백을 남겨주셔서 감사합니다! 네트워크에 연결하시면 보고될 것입니다.</string>
+    <string name="tc_diagnostic_upload_no_network">피드백을 남겨주셔서 감사합니다! 네트워크에 연결하시면 보고됩니다.</string>
     <string name="tc_diagnostic_upload_success">피드백을 남겨주셔서 감사합니다!</string>
     <string name="tc_get_cmd_error">템플릿을 가져올 수 없습니다.</string>
     <string name="tc_parse_error">SMS를 구문 분석할 수 없습니다.</string>
@@ -3697,7 +3697,7 @@ SMS 전송"</string>
     <string name="wifi_item_title_fake">가짜 Wi-Fi 감지</string>
     <string name="wifi_network_blocked_notification_title">인터넷 연결 없음</string>
     <string name="wifi_optizition_loading">Xunyou 네트워크 속도 향상 켜는 중…</string>
-    <string name="wifi_optizition_tip">Wi-Fi 속도 향상을 실행하여 더욱 안정적인 Wi-Fi 연결, 소량의 모바일 데이터가 사용될 것입니다.</string>
+    <string name="wifi_optizition_tip">Wi-Fi 속도 향상을 실행하여 더욱 안정적인 Wi-Fi 연결, 소량의 모바일 데이터가 사용됩니다.</string>
     <string name="wifi_optizition_title">Wi-Fi 속도 향상</string>
     <string name="wl_no_whitelist">예외 없음.</string>
     <string name="wlan_booster">Wi-Fi 최적화</string>

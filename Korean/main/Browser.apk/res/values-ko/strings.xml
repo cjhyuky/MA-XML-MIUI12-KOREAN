@@ -387,7 +387,7 @@
     <string name="find_on_page_prev">뒤로</string>
     <string name="finish_sync_cloud_tabs">성공적으로 동기화함</string>
     <string name="firstUsingSearchEngineTips">검색 앤진을 변경하시겠습니까?</string>
-    <string name="fling_on_border_gesture_hint">설정에서 제스처를 선택하실 수 있습니다.</string>
+    <string name="fling_on_border_gesture_hint">설정에서 제스처를 선택할 수 있습니다.</string>
     <string name="for_diagnosis_usage_only">이 정보는 진단 용도로만 사용하세요.</string>
     <string name="force_quick_search_title">검색</string>
     <string name="force_touch_bookmark_history_title">북마크 &amp; 기록</string>
@@ -612,7 +612,7 @@
     <string name="mw_common_google_play_services_update_text">Google Play 서비스를 업데이트 해야 %1$s 앱을 사용할 수 있습니다.</string>
     <string name="mw_common_google_play_services_update_title">Google Play 서비스 업데이트</string>
     <string name="mw_common_google_play_services_updating_text">%1$s 앱을 실행하려면 현재 업데이트 중인 Google Play 서비스가 필요합니다.</string>
-    <string name="mw_common_google_play_services_wear_update_text">새로운 버전의 Google Play 서비스가 필요합니다. 자동으로 업데이트 될 것입니다.</string>
+    <string name="mw_common_google_play_services_wear_update_text">새로운 버전의 Google Play 서비스가 필요합니다. 자동으로 업데이트됩니다.</string>
     <string name="mw_common_open_on_phone">폰에서 열기</string>
     <string name="mw_common_signin_button_text">로그인</string>
     <string name="mw_common_signin_button_text_long">Google 아이디로 로그인</string>

@@ -162,8 +162,8 @@
     <string name="areacode_set_default">기본값으로 설정</string>
     <string name="default_area_code_setting">기본 지역 코드</string>
     <string name="not_activate_sim_card_content_title">전화번호 확인되지 않음</string>
-    <string name="not_activate_sim_card_content">전화번호 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과될 것입니다.</string>
-    <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s) 전화 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과될 것입니다.</string>
+    <string name="not_activate_sim_card_content">전화번호 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과됩니다.</string>
+    <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s) 전화 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과됩니다.</string>
     <string name="dialog_call_ordinary_telephone">일반 전화</string>
     <string name="dialog_activate_livetalk">인증 번호</string>
     <string name="no_balance_title">잔액 부족</string>
@@ -173,7 +173,7 @@
     <string name="not_support_message">충전 패키지가 이 번호를 지원하지 않습니다. 대신 일반 전화를 시도 할 수 있습니다.</string>
     <string name="livetalk_hangup">끊기</string>
     <string name="no_call_back_title">주의</string>
-    <string name="no_call_back_message">연결에 시간이 너무 많이 걸립니다. 일반 전화로 걸어보세요. 통신사에 따라 요금이 부가될 것입니다.</string>
+    <string name="no_call_back_message">연결에 시간이 너무 많이 걸립니다. 일반 전화로 걸어보세요. 통신사에 따라 요금이 부가됩니다.</string>
     <string name="keep_wait_call_back">계속 기다리기</string>
     <string name="network_error_title">네트워크 오류</string>
     <string name="network_error_message">일반 전화를 겁니다. 비용은 운영자에게 부과 됩니다.</string>

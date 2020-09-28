@@ -120,11 +120,11 @@
     <string name="can_not_modify_event">일정을 변경할 수 없습니다.</string>
     <string name="can_not_modify_repeating_acrossing_days_event">여러 날의 일정을 변경할 수 없습니다.</string>
     <string name="cancel_reminder_later">알림 취소</string>
-    <string name="card_detail_dialog_message">“%1$s개 항목이 매일 업데이트될 것입니다. 구독하여 매일 최신 정보를 수신해보세요.</string>
+    <string name="card_detail_dialog_message">“%1$s개 항목이 매일 업데이트됩니다. 구독하여 매일 최신 정보를 수신해보세요.</string>
     <string name="card_detail_dialog_negative">나중에 구독</string>
     <string name="card_detail_dialog_positive">지금 구독</string>
     <string name="card_detail_dialog_title">지금 구독하시겠습니까?</string>
-    <string name="card_detail_hint">구독 후 콘텐츠가 시작 페이지에 표시되며 매일 한 번 업데이트될 것입니다.</string>
+    <string name="card_detail_hint">구독 후 콘텐츠가 시작 페이지에 표시되며 매일 한 번 업데이트됩니다.</string>
     <string name="card_detail_title">세부사항</string>
     <string name="card_manager_no_data">아직 구독하지 않음</string>
     <string name="card_title_change">더보기</string>

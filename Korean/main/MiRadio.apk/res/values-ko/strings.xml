@@ -17,7 +17,7 @@
     <string name="pause_play">재생 멈춤</string>
     <string name="dialog_sleep_title">수면 타이머 설정</string>
     <string name="search_dialog_title">방송국 스캔</string>
-    <string name="fmradio_clear_confirm_msg">모든 프리셋이 삭제 됩니다.</string>
+    <string name="fmradio_clear_confirm_msg">모든 프리셋이 삭제됩니다.</string>
     <string name="set">설정</string>
     <string name="stations_list">방송국 목록</string>
     <string name="stations_list_empty">미리 설정 없음</string>
@@ -216,7 +216,7 @@ ID:%s
     <string name="headline_shortcut_title">제목 바로가기 항목 듣기</string>
     <string name="identity">확인</string>
     <string name="inconsistent_pwd">"비밀번호가 같지 않습니다."</string>
-    <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 될 것입니다.</string>
+    <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 됩니다.</string>
     <string name="input_new_pwd">새로운 비밀번호를 입력하세요.</string>
     <string name="just_a_second">잠시만 기다려 주세요…</string>
     <string name="loading">잠시만 기다려 주세요…</string>

@@ -1838,8 +1838,8 @@
     <string name="work_mode_turn_on">켜기</string>
     <string name="work_profile_deleted">직장 프로필 삭제됨</string>
     <string name="work_profile_deleted_description">관리자 앱 부재로 인해 직장 프로필이 삭제되었습니다.</string>
-    <string name="work_profile_deleted_description_dpm_wipe">귀하의 직장 프로필을 더 이상 이 기기에서 사용하실 수 없습니다.</string>
-    <string name="work_profile_deleted_details">귀하의 기기의 관리자 앱 부재로 인해 직장 프로필이 삭제되었으며 더 이상 사용하실 수 없습니다. 관리자에게 문의하세요.</string>
+    <string name="work_profile_deleted_description_dpm_wipe">귀하의 직장 프로필을 더 이상 이 기기에서 사용할 수 없습니다.</string>
+    <string name="work_profile_deleted_details">귀하의 기기의 관리자 앱 부재로 인해 직장 프로필이 삭제되었으며 더 이상 사용할 수 없습니다. 관리자에게 문의하세요.</string>
     <string name="zen_mode_alarm">%1$s 전까지 (다음 알람)</string>
     <string name="zen_mode_default_events_name">이벤트</string>
     <string name="zen_mode_default_weekends_name">주간</string>

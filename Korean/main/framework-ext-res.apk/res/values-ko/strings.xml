@@ -63,7 +63,7 @@
     <string name="call_record_sample_prefix_miui">전화</string>
     <string name="call_record_or">" 또는 "</string>
     <string name="caller_info_name_delimiter">" 또는 "</string>
-    <string name="first_back_long_press_message">사용자 설정을 하려면 탐색 버튼을 길게 &amp; 눌러주세요. 설정 > 추가 설정 > 버튼에서도 설정하실 수 있습니다.</string>
+    <string name="first_back_long_press_message">사용자 설정을 하려면 탐색 버튼을 길게 &amp; 눌러주세요. 설정 > 추가 설정 > 버튼에서도 설정할 수 있습니다.</string>
     <string name="force_exit_message">%1$s 강제로 종료됨</string>
     <string name="force_exit_skip_message">시스템이 요구하므로 %1$s 앱을 종료할 수 없습니다.</string>
     <string name="fm_record_smaple_prefix_miui">FM 녹음</string>
@@ -182,7 +182,7 @@
     <string name="configure_input_methods">키보드 선택</string>
     <string name="miui_upgrading_notification_title">시스템 불러오는 중, 일부 기능은 아직 사용할 수 없습니다.</string>
     <string name="miui_screen_ratio_hint">화면 비율 문제</string>
-    <string name="miui_screen_ratio_hint_message">이 앱은 전체 화면 모드가 허용되었습니다. 화면이 제대로 나오지 않을 수 있습니다. 설정>추가설정>버튼설정에서 변경하실 수 있습니다.</string>
+    <string name="miui_screen_ratio_hint_message">이 앱은 전체 화면 모드가 허용되었습니다. 화면이 제대로 나오지 않을 수 있습니다. 설정 > 추가 설정 > 전체 화면에서 변경할 수 있습니다.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">다시 표시하지 않기</string>
     <string name="miui_screen_ratio_hint_ok">확인</string>
     <string name="miui_screen_ratio_hint_go_to_settings">설정으로 이동</string>
@@ -218,7 +218,7 @@
     <string name="resolver_recommend_options_tag">추천 옵션</string>
     <string name="popup_camera_calibrate_failed">"보정 실패"</string>
     <string name="popup_camera_calibrate_now">보정</string>
-    <string name="popup_camera_calibrate_success">보정 완료. 이제 전면 카메라를 사용하실 수 있습니다.</string>
+    <string name="popup_camera_calibrate_success">보정 완료. 이제 전면 카메라를 사용할 수 있습니다.</string>
     <string name="popup_camera_front_failed">"전면 카메라 열기 실패. 다시 시도하세요."</string>
     <string name="popup_camera_front_falied_times">"전면 카메라를 여러 번 열지 못했습니다. 가까운 서비스센터에서 문제를 해결하세요."</string>
     <string name="popup_camera_front_when_use">전면 카메라를 다른 앱이 사용 중입니다. 그래도 여시겠습니까?</string>

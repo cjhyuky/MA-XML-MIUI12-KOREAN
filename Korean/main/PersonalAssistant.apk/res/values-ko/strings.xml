@@ -518,7 +518,7 @@
     <string name="dialog_mark_like">중요 표시</string>
     <string name="dialog_report_cancel">취소</string>
     <string name="dialog_report_confirm">보고</string>
-    <string name="dialog_report_desc">개선된 서비스를 위해 페이지 오류를 보고하실수 있습니다. 보고하시겠습니까?</string>
+    <string name="dialog_report_desc">개선된 서비스를 위해 페이지 오류를 보고할 수 있습니다. 보고하시겠습니까?</string>
     <string name="dialog_report_title">포맷 오류</string>
     <string name="dialog_report_toast">성공적으로 보고되었습니다.</string>
     <string name="didi_app_name">디디</string>
@@ -1075,7 +1075,7 @@
     <string name="mini_already_download">다운로드 됨</string>
     <string name="mini_app_error">앱 오류가 발생했습니다. 앱을 다시 실행하세요.</string>
     <string name="mini_auth_bracelet">검증 팔찌</string>
-    <string name="mini_auth_service_down_tips">보안 프로그램이 바이러스 검사 프로그램 (백신 프로그램 등)에서 차단되지 않게 설정하세요. 보통 백신 프로그램 환경설정에서 프로그램 차단 여부를 변경하실 수 있습니다.</string>
+    <string name="mini_auth_service_down_tips">보안 프로그램이 바이러스 검사 프로그램 (백신 프로그램 등)에서 차단되지 않게 설정하세요. 보통 백신 프로그램 환경설정에서 프로그램 차단 여부를 변경할 수 있습니다.</string>
     <string name="mini_back">귀국</string>
     <string name="mini_bl_open_failed">팔찌를 열지 못했습니다. 다른 팔찌를 클릭하고 다시 시도하세요.</string>
     <string name="mini_bl_open_failed_exit">파일을 열지 못했습니다.</string>
@@ -1142,7 +1142,7 @@
     <string name="miot_cta_dialog_title">권한 승인</string>
     <string name="miot_del_dialog_cancel">유지</string>
     <string name="miot_del_dialog_sure">삭제</string>
-    <string name="miot_delete_dialog_content">퀵 카드 설정에서 Mi Home 카드를 복원하실 수 있습니다.</string>
+    <string name="miot_delete_dialog_content">퀵 카드 설정에서 Mi Home 카드를 복원할 수 있습니다.</string>
     <string name="miot_delete_dialog_title">Mi Home 카드 제거</string>
     <string name="miot_device_add_device">장치 추가</string>
     <string name="miot_device_all_device">모든 장치</string>
@@ -1620,14 +1620,14 @@
     <string name="system_favorite_dialog_title_confirm">즐겨찾기</string>
     <string name="take_off">이륙</string>
     <string name="taked_off">이륙</string>
-    <string name="taobao_auth_login">타오바오 사용자는 간편하게 로그인하실 수 있습니다.</string>
+    <string name="taobao_auth_login">타오바오 사용자는 간편하게 로그인할 수 있습니다.</string>
     <string name="taobao_protocol">타오바오 서비스 약관</string>
     <string name="taxi">택시</string>
     <string name="taxi_book">택시 호출</string>
     <string name="taxi_card_departure">현재 위치</string>
     <string name="taxi_local">시작 지점</string>
     <string name="taxi_open">택시 카드 표시</string>
-    <string name="taxi_setting_brief">탭 한 번으로 간편하게    택시를 호출하실 수 있습니다.</string>
+    <string name="taxi_setting_brief">탭 한 번으로 간편하게 택시를 호출할 수 있습니다.</string>
     <string name="taxi_target">목적지</string>
     <string name="tb_setting_xiaoai">Mi AI</string>
     <string name="team_selected">%s,已选中</string>
