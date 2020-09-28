@@ -1301,12 +1301,10 @@
     </string-array>
     <string-array name="aggregate_entries">
         <item>그룹</item>
-        <item>그룹 및 낮은 우선 순위</item>
         <item>"그룹화하지 않음"</item>
     </string-array>
     <string-array name="aggregate_summaries">
         <item>프로모션 및 콘텐츠 관련 푸시 알림이 그룹화됩니다.</item>
-        <item>푸시 알림이 그룹화되어 다른 알림 아래에 표시됩니다.</item>
         <item>"푸시 알림이 그룹화되지 않습니다."</item>
     </string-array>
     <string-array name="charge_animation_style_entries">

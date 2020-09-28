@@ -21,4 +21,14 @@
         <item>8001~12000</item>
         <item>"> 12000"</item>
     </string-array>
+    <string-array name="settings_search_account_and_authority">
+        <item>계정</item>
+        <item>타사 계정 추가 및 관리</item>
+        <item>인증;계정;Mi 계정;추가;페어링;Xiaomi;표시;SNS;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>계정</item>
+        <item>타사 계정 추가 및 관리</item>
+        <item>인증;계정;Mi 계정;추가;페어링;Xiaomi;표시;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
 </resources>
