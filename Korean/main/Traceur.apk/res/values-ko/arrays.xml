@@ -116,7 +116,7 @@
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>없음</item>
-        <item>로그캣</item>
+        <item>Logcat</item>
         <item>Systrace (그래픽)</item>
         <item>GlGetError에서 스택 호출</item>
     </string-array>
