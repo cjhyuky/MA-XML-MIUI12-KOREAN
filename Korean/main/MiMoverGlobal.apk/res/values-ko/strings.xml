@@ -413,7 +413,7 @@
     <string name="notif_icloud_need_wifi_summary">Wi-Fi 대기 중</string>
     <string name="notif_icloud_saved_summary">성공적으로 가져옴</string>
     <string name="notif_icloud_saving_summary">데이터 복원 중…</string>
-    <string name="no_more_memory_title">"Mi Mover는 이 기기에 로컬 백업을 만들어야합니다. 지금 백업을 만들 수 있는 저장공간이 충분하지 않습니다. 먼저 여유 공간을 확보하세요."</string>
+    <string name="no_more_memory_title">"Mi Mover는 이 기기에 로컬 백업을 만들어야 합니다. 지금 백업을 만들 수 있는 저장공간이 충분하지 않습니다. 먼저 여유 공간을 확보하세요."</string>
     <string name="no_network">"네트워크에 연결할 수 없습니다."</string>
     <string name="no_sim">SIM 카드가 감지되지 않았습니다.</string>
     <string name="ok">확인</string>
@@ -488,7 +488,7 @@
     <string name="sar">RF 노출 정보</string>
     <string name="saturday">토요일</string>
     <string name="saturday_short">토</string>
-    <string name="save_finish_with_failing_items">"전송이 중단되었습니다. 가져 오지 않은 데이터를 다시 가져와야합니다."</string>
+    <string name="save_finish_with_failing_items">"전송이 중단되었습니다. 가져 오지 않은 데이터를 다시 가져와야 합니다."</string>
     <string name="saving_data">iCloud에서 데이터 가져 오는 중…</string>
     <string name="saving_data_not_close_wifi">"Wi-Fi을 끄지 마십시오"</string>
     <string name="saving_data_space_low">"저장공간이 충분하지 않습니다. %s 이상의 여유 공간을 확보하세요."</string>

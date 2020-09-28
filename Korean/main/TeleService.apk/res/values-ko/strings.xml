@@ -490,7 +490,7 @@
     <string name="labelCW">통화 대기 중</string>
     <string name="sum_cw_enabled">통화 중 수신 통화 나에게 알리기</string>
     <string name="sum_cw_disabled">통화 중 수신 통화를 나에게 알리기</string>
-    <string name="call_forwarding_settings">착신 전환 설정</string>
+    <string name="call_forwarding_settings">착신 전환</string>
     <string name="call_forwarding_settings_with_label">착신 전환 설정 (%s)</string>
     <string name="labelCF">착신 전환</string>
     <string name="labelCFU">항상 착신 전환</string>
@@ -2215,10 +2215,10 @@
     <string name="volte_conf_member_reach_max">회의가 이미 최대 회원 수에 도달했습니다.</string>
     <string name="volte_fail_to_invit_participants">회의에 모든 회원을 추가하지 못했습니다.</string>
     <string name="volte_is_adding_participants">회의에 회원 추가중입니다. 잠시만 기다려주세요...</string>
-    <string name="volte_ss_not_available_tips">작업을 완료하려면 %s님의 데이터 연결을 열어야합니다.</string>
-    <string name="volte_ss_not_available_tips_data">작업을 완료하려면 %s님의 데이터 연결을 켜야합니다.</string>
-    <string name="volte_ss_not_available_tips_data_roaming">작업을 완료하려면 %s님의 데이터 연결 및 데이터 로밍을 켜야합니다.</string>
-    <string name="volte_ss_not_available_tips_roaming">작업을 완료하려면 %s님의 데이터 로밍을 켜야합니다.</string>
+    <string name="volte_ss_not_available_tips">작업을 완료하려면 %s님의 데이터 연결을 열어야 합니다.</string>
+    <string name="volte_ss_not_available_tips_data">작업을 완료하려면 %s님의 데이터 연결을 켜야 합니다.</string>
+    <string name="volte_ss_not_available_tips_data_roaming">작업을 완료하려면 %s님의 데이터 연결 및 데이터 로밍을 켜야 합니다.</string>
+    <string name="volte_ss_not_available_tips_roaming">작업을 완료하려면 %s님의 데이터 로밍을 켜야 합니다.</string>
     <string name="wfc_internet_connection_lost">인터넷 연결이 끊어졌습니다.</string>
     <string name="wfc_internet_lost_summary">"무선 랜이 연결되어 있지만 인터넷 연결이 끊긴 것 같습니다 .Wi-Fi 라우터의 인터넷 연결을 확인한 다음 다시 연결하세요."</string>
     <string name="wfc_no_network">유효한 모바일 네트워크 없음</string>
@@ -2289,8 +2289,8 @@
     <string name="wapi_password_is_empty">비밀번호 항목은 비워 둘 수 없습니다.</string>
     <string name="wapi_password_is_not_hex_format">잘못된 16진수 문자</string>
     <string name="wapi_password_length_is_max">비밀번호는 64자를 초과 할 수 없습니다.</string>
-    <string name="wapi_password_length_is_min">비밀번호는 8자 이상이어야합니다.</string>
-    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64자이어야합니다.</string>
+    <string name="wapi_password_length_is_min">비밀번호는 8자 이상이어야 합니다.</string>
+    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64자이어야 합니다.</string>
     <string name="wifi_auto_sel_wapi_cert">자동으로 선택</string>
     <string name="wifi_disabled_by_recommendation_provider">네트워크 상태가 좋지 않아서 연결할 수 없음</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI 인증서</string>

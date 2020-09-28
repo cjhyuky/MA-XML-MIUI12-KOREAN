@@ -530,7 +530,7 @@
     <string name="t_lv_check_unhide_file">숨기기 해제할 동영상 선택</string>
     <string name="t_lv_downloading_new_version">업데이트 다운로드 중...</string>
     <string name="t_lv_no_new_version">Mi 동영상이 최신 버전입니다.</string>
-    <string name="t_lv_password_limit">비밀번호는 4자 이상이어야합니다.</string>
+    <string name="t_lv_password_limit">비밀번호는 4자 이상이어야 합니다.</string>
     <string name="t_lv_password_null">비밀번호는 비워둘 수 없습니다.</string>
     <string name="t_lv_password_wrong">비밀번호가 틀립니다. 다시 시도하세요.</string>
     <string name="t_lv_search_null">검색 할 키워드 입력</string>

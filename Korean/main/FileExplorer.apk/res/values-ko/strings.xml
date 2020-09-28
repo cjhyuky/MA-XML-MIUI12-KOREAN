@@ -451,7 +451,7 @@
     <string name="upload_notification_failed">업로드할 수 없음</string>
     <string name="upload_notification_failed_content">다시 시도</string>
     <string name="upload_notification_success">성공적으로 업로드되었습니다.</string>
-    <string name="upload_notification_success_content">다른 사람들에게 공유하기 전에 동영상에 리뷰를 남겨야합니다.</string>
+    <string name="upload_notification_success_content">다른 사람들에게 공유하기 전에 동영상에 리뷰를 남겨야 합니다.</string>
     <string name="video_publish_hint">좋은 설명은 다른 사람들이 동영상을 찾을 수 있도록 해줍니다.</string>
     <string name="video_publish_hint2">설명</string>
     <string name="video_comment_limit">%1$s 글자 남음</string>

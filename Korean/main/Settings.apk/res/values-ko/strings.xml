@@ -3152,7 +3152,7 @@
     <string name="face_unlock_set_unlock_pattern">얼굴 인증 + 패턴</string>
     <string name="face_unlock_set_unlock_pin">얼굴 인증 + PIN</string>
     <string name="face_unlock_skip_face">얼굴 인증 없이 계속하기</string>
-    <string name="face_unlock_stay_away_screen">화면에서 25~40cm 떨어져 있어야합니다.</string>
+    <string name="face_unlock_stay_away_screen">화면에서 25~40cm 떨어져 있어야 합니다.</string>
     <string name="face_unlock_success_show_message_dialog_msg">잠금 화면에 알림 표시를 허용합니다.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">아니오</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">예</string>
@@ -4452,7 +4452,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockpattern_need_to_unlock_wrong">다시 시도:</string>
     <string name="lockpattern_pattern_confirmed_header">새 잠금해제 패턴</string>
     <string name="lockpattern_pattern_entered_header">패턴 기록됨</string>
-    <string name="lockpattern_pattern_same_with_others">다른 공간의 비밀번호와 달라야합니다.</string>
+    <string name="lockpattern_pattern_same_with_others">다른 공간의 비밀번호와 달라야 합니다.</string>
     <string name="lockpattern_pattern_same_with_owner">기본 공간 비밀번호와 잠금해제 비밀번호를 같게 설정하실 수 없습니다.</string>
     <string name="lockpattern_pattern_same_with_security_space">보조 공간 비밀번호와 잠금해제 비밀번호를 같게 설정하실 수 없습니다.</string>
     <string name="lockpattern_recording_incorrect_too_short">%d개 이상의 점을 연결해야 합니다. 다시 시도하세요.</string>
@@ -5606,7 +5606,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="oldman_mode_settings">라이트 모드</string>
     <string name="oldman_mode_settings_caption">라이트 모드 설정</string>
     <string name="oldman_mode_summary">간단한 홈 화면 및 메뉴 사용</string>
-    <string name="oldman_mode_summary_cta">라이트 모드는 정상적으로 작동하려면 인터넷에 연결하여 연락처, 메시지 및 위치 정보를 읽어야합니다.</string>
+    <string name="oldman_mode_summary_cta">라이트 모드는 정상적으로 작동하려면 인터넷에 연결하여 연락처, 메시지 및 위치 정보를 읽어야 합니다.</string>
     <string name="oldman_uninstalled_btn">설치</string>
     <string name="oldman_uninstalled_des">라이트 모드는 복잡한 기능들을 없애고 홈 화면을 쉽고 단순하게 유지합니다.</string>
     <string name="on">켜짐</string>
@@ -7546,7 +7546,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sos_privacy_and_content_policy">이용 약관 및 개인정보 보호정책</string>
     <string name="sos_privacy_dialog_button_cancel">취소</string>
     <string name="sos_privacy_dialog_button_ok">계속하기</string>
-    <string name="sos_privacy_dialog_message">"SOS 비상 지원 기능을 활성화하세요. %s 사항을 확인하고 읽으세요.\nSOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모바일 네트워크를 사용하고 주소록을 읽어야합니다. "</string>
+    <string name="sos_privacy_dialog_message">"SOS 비상 지원 기능을 활성화하세요. %s 사항을 확인하고 읽으세요.\nSOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모바일 네트워크를 사용하고 주소록을 읽어야 합니다. "</string>
     <string name="sos_privacy_dialog_message_new_version">"긴급 SOS를 사용하면 위치를 실시간으로 공유하고 긴급 연락처로 문자 메시지를 보낼 수 있습니다.
 당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.
 이 앱은 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.
@@ -9216,8 +9216,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wapi_password_is_not_hex_format">잘못된 16진수 문자</string>
     <string name="wapi_password_length_invalid">비밀번호는 8-64자 사이여야 합니다.</string>
     <string name="wapi_password_length_is_max">비밀번호는 64자를 초과 할 수 없습니다.</string>
-    <string name="wapi_password_length_is_min">비밀번호 길이는 8 자 이상이어야합니다.</string>
-    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64 자이어야합니다.</string>
+    <string name="wapi_password_length_is_min">비밀번호 길이는 8 자 이상이어야 합니다.</string>
+    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64 자이어야 합니다.</string>
     <string name="wapi_psk_type">비밀번호 유형</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">16진수(HEX)</string>
@@ -9988,7 +9988,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="xiaomi_cloud_service_unknown">알 수 없음</string>
     <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 매니저가 정상작동 중인지 확인하세요.</string>
     <string name="xiaomi_external_storage_unavailable">저장소 사용이 불가능합니다. SD 카드를 확인하세요.</string>
-    <string name="xiaomi_money_service">Mi 크레딧</string>
+    <string name="xiaomi_money_service">Mi 코인</string>
     <string name="xiaomi_router">Mi 라우터</string>
     <string name="xiaomi_router_available_notif_summary">탭하여 더 많은 정보 보기</string>
     <string name="xiaomi_router_available_notif_title">Mi 공유기 사용 가능</string>
@@ -10349,4 +10349,20 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_wakeup_positive_button">켜기</string>
     <string name="wifi_wakeup_scan_summary">앱과 서비스가 Wi-Fi 네트워크를 검색하여 Wi-Fi를 자동으로 켤 수 있도록 합니다. 이 기능을 사용하면 기기가 근처에 저장된 네트워크에 자동으로 연결됩니다.</string>
     <string name="wifi_wakeup_title">추가 기능 켜기</string>
+    <string name="control_center_style">제어 센터 스타일</string>
+    <string name="control_center_style_summary">"토글과 알림을 어떻게 표시할지 선택하세요."</string>
+    <string name="display_animate_category">애니메이션 효과</string>
+    <string name="display_animate_content">기기 잠금 해제 상태에서 화면에 표시되는 애니메이션 효과를 줄입니다.</string>
+    <string name="display_animate_title">애니메이션 줄이기</string>
+    <string name="legacy_control_center_desc">상태 표시줄을 당겨내려 토글 및 알림을 표시합니다.</string>
+    <string name="legacy_control_center_title">이전 버전</string>
+    <string name="lock_screen_action">잠금 화면에서 아래로 밀어 표시할 항목</string>
+    <string name="modern_control_center_desc">상태 표시줄 왼쪽을 당겨내려 알림을 표시합니다. 상태 표시줄 오른쪽을 당겨내리면 제어 센터를 엽니다.</string>
+    <string name="modern_control_center_title">새로운 버전</string>
+    <string name="notification_control_center">알림 &amp; 제어 센터</string>
+    <string name="notification_display_settings">알림 창</string>
+    <string name="notification_settings">알림</string>
+    <string name="requires_modern_control_center">새로운 제어 센터에서 사용할 수 있습니다.</string>
+    <string name="show_badge_notifications_short">배지</string>
+    <string name="switchNetworkToast">모바일 네트워크에 연결하면 추가 요금이 부과될 수 있습니다.</string>
 </resources>

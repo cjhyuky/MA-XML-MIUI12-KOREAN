@@ -1479,7 +1479,7 @@
     <string name="quick_settings_rssi_emergency_only">긴급 통화만</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screenbutton_label">버튼잠금</string>
-    <string name="quick_settings_screenlock_label">잠금 화면</string>
+    <string name="quick_settings_screenlock_label">잠금</string>
     <string name="quick_settings_screenshot_label">스크린샷</string>
     <string name="quick_settings_secondary_label_until">%s 까지</string>
     <string name="quick_settings_settings_label">설정</string>
@@ -1952,8 +1952,8 @@
     <string name="wapi_password_is_not_hex_format">잘못된 16진수 문자</string>
     <string name="wapi_password_length_invalid">비밀번호는 8~64자 사이여야 합니다.</string>
     <string name="wapi_password_length_is_max">비밀번호는 64자를 초과 할 수 없습니다.</string>
-    <string name="wapi_password_length_is_min">비밀번호는 8자 이상이어야합니다.</string>
-    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64자이어야합니다.</string>
+    <string name="wapi_password_length_is_min">비밀번호는 8자 이상이어야 합니다.</string>
+    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64자이어야 합니다.</string>
     <string name="wapi_psk_type">비밀번호 유형</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimal</string>
@@ -2195,4 +2195,5 @@
     <string name="controls_no_favorites_title">여기서 스마트 홈 기기를 관리할 앱을 선택하세요.</string>
     <string name="loading">알 수 없는 상태</string>
     <string name="status_bar_setting_title">제어 센터 및 상태 표시줄</string>
+    <string name="notification_control_center">알림 &amp; 제어 센터</string>
 </resources>

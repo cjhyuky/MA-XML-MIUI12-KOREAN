@@ -96,7 +96,7 @@
     <string name="toast_resolve_apk_error">Apk 오류 해결</string>
     <string name="hints_apk_version">버전 %s</string>
     <string name="apk_status_uninstalled">설치되지 않음</string>
-    <string name="apk_status_installed_old">오래된 버전</string>
+    <string name="apk_status_installed_old">이전 버전</string>
     <string name="apk_status_install">설치됨</string>
     <string name="apk_status_duplicate">복제</string>
     <string name="apk_status_damage">손상되었음</string>

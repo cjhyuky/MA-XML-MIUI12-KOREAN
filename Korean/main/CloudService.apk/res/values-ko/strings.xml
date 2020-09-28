@@ -18,7 +18,7 @@
     <string name="soundrecorder_sync_only_in_wifi_china">Wi-Fi만 사용하여 동기화</string>
     <string name="soundrecorder_sync_only_in_wifi_summary_china">레코더는 모바일 데이터를 사용하여 레코딩을 다운로드하거나 업로드하지 않습니다.</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">MMS를 동기화하기 위해 Wi-Fi만 사용</string>
-    <string name="sync_dspt_entrance_provision_network_china">정상적으로 작동하려면이 앱을 인터넷에 연결해야 합니다. 데이터를 동기화하려면 모바일 데이터 연결이 필요하고 Wi-Fi을 켜야합니다.</string>
+    <string name="sync_dspt_entrance_provision_network_china">정상적으로 작동하려면이 앱을 인터넷에 연결해야 합니다. 데이터를 동기화하려면 모바일 데이터 연결이 필요하고 Wi-Fi을 켜야 합니다.</string>
     <string name="help_and_feedback">도움말 및 피드백</string>
     <string name="micloud_find_device_guide_desc_pad">"기기를 찾거나 잠그거나 지우려면 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하세요. 분실한 경우 기기를 찾는데 도움이 됩니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[도움말 참조]&lt;/a>"</string>
     <string name="micloud_find_device_guide_desc_phone">"기기를 찾거나 잠그거나 지우려면 &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>에 로그인하세요. 분실한 경우 기기를 찾는데 도움이 됩니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[도움말 참조]&lt;/a>"</string>
@@ -550,7 +550,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
     <string name="soundrecorder_sync_only_in_wifi">Wi-Fi만 사용하여 동기화</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">녹음기는 모바일 데이터를 사용하여 녹음을 다운로드 또는 업로드하지 않습니다.</string>
     <string name="micloud_request_permission_title">Xiaomi 클라우드가 권한을 필요로 합니다.</string>
-    <string name="micloud_request_permission_content">데이터 동기화를 위해 Xiaomi 클라우드가 권한을 필요로 합니다. Xiaomi 클라우드를 허용하여 캘린더, 연락처, Mi 계정, SIM 카드 상태, 통화 기록과 메시지에 접근합니다.</string>
+    <string name="micloud_request_permission_content">캘린더 일정, 연락처, 메시지, 통화 기록, 사진, 동영상 등의 항목을 동기화하려면, Xiaomi 클라우드에 캘린더, 연락처, 계정, SIM 상태, 통화 기록, 메시지, 사진, 동영상 접근 권한을 부여해야 합니다.</string>
     <string name="micloud_request_permission_confirm">알겠습니다.</string>
     <string name="short_cut_desc">홈 화면에 Xiaomi 클라우드 아이콘을 추가하시겠습니까?</string>
     <string name="add_short_cut">추가</string>
@@ -1002,4 +1002,5 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="micloud_manual_request_permission_content">이 서비스를 이용하려면, 설정에서 Xiaomi 클라우드에 다음 권한을 부여하세요: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">먼저 보안 앱에서 필요한 권한을 부여하세요.</string>
     <string name="micloud_manual_request_permission_title">필요한 권한</string>
+    <string name="privacy_doc_cloudservice_global">Xiaomi 클라우드를 정상적으로 실행하려면 인터넷에 연결해야 합니다. 데이터 동기화는 모바일 데이터를 사용하거나 Wi-Fi를 켜야 합니다. Xiaomi 클라우드 서비스를 이용하려면 &lt;a href=%1$s>&lt;u>이용 약관&lt;/u>&lt;/a> 및 &lt;a href=%2$s>&lt;u>개인정보 보호정책&lt;/u>&lt;/a>을 읽고 동의하세요.</string>
 </resources>

@@ -498,7 +498,7 @@
     <string name="miuishare_account_login_cancel">취소</string>
     <string name="miuishare_account_login_confirmation">로그인 필요</string>
     <string name="miuishare_account_login_ok">로그인</string>
-    <string name="miuishare_account_need_activate">Weibo 계정을 사용하려면 Weibo 계정이 Xiaomi 계정에 연결되어 있어야합니다. 이 계정은 현재 연결되어 있지 않습니다. 계정을 연결화하시겠습니까?</string>
+    <string name="miuishare_account_need_activate">Weibo 계정을 사용하려면 Weibo 계정이 Xiaomi 계정에 연결되어 있어야 합니다. 이 계정은 현재 연결되어 있지 않습니다. 계정을 연결화하시겠습니까?</string>
     <string name="miuishare_account_need_login">이 계정은 현재 로그인되어 있습니다. 지금 로그인하시겠습니까?</string>
     <string name="miuishare_app_name">Miui 공유</string>
     <string name="miuishare_no_network">공유 할 네트워크 없음</string>
@@ -975,7 +975,7 @@
     <string name="express_tmall">티몰</string>
     <string name="express_update_cainiao_description">이 기능을 사용하려면 Cainiao 앱을 업데이트하세요.</string>
     <string name="express_update_cainiao_ok">업데이트</string>
-    <string name="express_update_cainiao_title">Cainiao 앱이 오래된 버전입니다.</string>
+    <string name="express_update_cainiao_title">Cainiao 앱이 이전 버전입니다.</string>
     <string name="fav_support_introduce">개별 앱의 즐겨찾기 관리</string>
     <string name="flow_open">모바일 데이터 카드 표시</string>
     <string name="flow_setting_brief">데이터 사용 정보 보기(보안 > 데이터 사용량에서 데이터 요금제 추가).</string>

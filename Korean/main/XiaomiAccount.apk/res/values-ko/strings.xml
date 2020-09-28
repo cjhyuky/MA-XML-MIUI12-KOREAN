@@ -504,7 +504,7 @@ ID:%s
     <string name="input_new_pwd">새로운 비밀번호를 입력하세요.</string>
     <string name="mi_finance">나의 잔고</string>
     <string name="mi_finance_info">신규 사용자를 위한 보너스</string>
-    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다."</string>
+    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야 합니다."</string>
     <string name="sim_card">SIM 카드</string>
     <string name="used_cloud_storage_info">%s 사용 중</string>
     <string name="exit">나가기</string>

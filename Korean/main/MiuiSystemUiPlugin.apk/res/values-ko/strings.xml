@@ -78,4 +78,5 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">aa hh:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_pm">aa hh:mm:ss</string>
     <string name="fmt_time_12hour_pm">aa hh</string>
+    <string name="notification_control_center">알림 &amp; 제어 센터</string>
 </resources>

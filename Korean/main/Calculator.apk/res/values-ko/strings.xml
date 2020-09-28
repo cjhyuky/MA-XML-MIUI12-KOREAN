@@ -517,7 +517,7 @@
     <string name="loan_enter_amount">금액 입력</string>
     <string name="loan_enter_amount_interest">금액 및 이자율 입력</string>
     <string name="loan_enter_interest">이자율 입력</string>
-    <string name="loan_invalid_loan_tenure">대출 기간은 0보다 커야합니다.</string>
+    <string name="loan_invalid_loan_tenure">대출 기간은 0보다 커야 합니다.</string>
     <string name="unit_data_display_currency_afn">아프간 아프가니</string>
     <string name="unit_data_display_currency_azn">아제르바이잔 마나트</string>
     <string name="unit_data_display_currency_bbd">바베이도스 달러</string>
@@ -561,7 +561,7 @@
     <string name="unit_data_display_currency_yer">예멘 리얄</string>
     <string name="item_title_emi">대출(EMI) 계산기</string>
     <string name="label_interest">관심 분야(퍼센트)</string>
-    <string name="investment_invalid_duration">투자 기간은 0보다 커야합니다.</string>
+    <string name="investment_invalid_duration">투자 기간은 0보다 커야 합니다.</string>
     <string name="investment_type_once">일회성</string>
     <string name="investment_type_recurring">반복</string>
     <string name="item_page_title_investment">투자 계산기</string>

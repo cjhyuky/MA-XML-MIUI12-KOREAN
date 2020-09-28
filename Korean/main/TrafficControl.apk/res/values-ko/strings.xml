@@ -319,7 +319,7 @@
     <string name="v2_migration_label">데이터 이동</string>
     <string name="v2_migration_please_wait">기다려 주세요…</string>
     <string name="v2_migration_retry">다시 시도</string>
-    <string name="v2_migration_uninstall">오래된 버전 제거</string>
+    <string name="v2_migration_uninstall">이전 버전 제거</string>
     <string name="v2_minutes_short">%d분</string>
     <string name="v2_mn_active_passes_none">활성화된 패스 없음</string>
     <string name="v2_mn_pass_active">%1$s 활성화</string>

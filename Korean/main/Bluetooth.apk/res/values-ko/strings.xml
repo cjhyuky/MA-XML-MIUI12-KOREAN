@@ -238,7 +238,7 @@
     <string name="switch_audio_device_bt_a2dp">블루투스 (미디어 오디오)</string>
     <string name="switch_audio_device_bt_a2dp_summary">연결된 기기로 미디어 오디오를 출력합니다.</string>
     <string name="switch_audio_device_bt_hfp">블루투스 (통화)</string>
-    <string name="switch_audio_device_bt_hfp_summary">연결된 기기로 통화 오디오를 출력합니다. 이 기능은 수동으로 꺼야합니다.</string>
+    <string name="switch_audio_device_bt_hfp_summary">연결된 기기로 통화 오디오를 출력합니다. 이 기능은 수동으로 꺼야 합니다.</string>
     <string name="switch_audio_device_default">기본</string>
     <string name="switch_audio_device_default_summary">현재 사용 기기</string>
     <string name="switch_audio_device_hfp_hint">기본 출력 기기 사용하기</string>

@@ -766,7 +766,7 @@
     <string name="tackle_whistle_dialog_message">하울링 방지를 위해 스피커가 음소거 되었습니다.</string>
     <string name="tackle_whistle_dialog_negative">"음소거 해제"</string>
     <string name="tackle_whistle_dialog_positive">확인</string>
-    <string name="tackle_whistle_tips">두 전화가 서로 너무 가깝습니다. 잡음을 없애려면, 마이크를 음소거해야합니다.</string>
+    <string name="tackle_whistle_tips">두 전화가 서로 너무 가깝습니다. 잡음을 없애려면, 마이크를 음소거해야 합니다.</string>
     <string name="telephone_account">"친구의 계정을 입력하세요"</string>
     <string name="telephone_msg_type_else">기타</string>
     <string name="telephone_msg_type_home">집 번호</string>

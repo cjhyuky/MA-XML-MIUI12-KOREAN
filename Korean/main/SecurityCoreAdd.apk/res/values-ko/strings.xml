@@ -85,7 +85,7 @@
     <string name="xspace_introduce">추천됨</string>
     <string name="xspace_description">"듀얼 앱은 다른 계정으로 사용할 수 있는 앱 복사본입니다.
 
-일부 듀얼 앱은 Google 서비스 프레임워크를 필요로합니다. 이 경우, Google 서비스 프레임워크가 생성됩니다."</string>
+일부 듀얼 앱은 Google 서비스 프레임워크를 필요로 합니다. 이 경우, Google 서비스 프레임워크가 생성됩니다."</string>
     <string name="xspace_chocie">듀얼 앱 지원</string>
     <string name="xspace_creating">듀얼 앱 생성 중…</string>
     <string name="xspace_installing">설치 중…</string>
@@ -269,8 +269,8 @@
     <string name="scanner_fingerprint_enter_second">"보조 공간 지문을 스캔하여
 잠금 화면에서 보조 공간 진입"</string>
     <string name="xspace_guide_title">듀얼 앱 생성</string>
-    <string name="xspace_guide_des">전환 없이 2개의 계정을 사용하세요.</string>
-    <string name="xpsace_guide_button">생성</string>
+    <string name="xspace_guide_des">듀얼 앱으로 두 개의 계정을 동시에 쓸 수 있습니다.</string>
+    <string name="xpsace_guide_button">듀얼 앱 써보기</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다.</string>
     <string name="space_name_default">워크 스페이스</string>
@@ -401,7 +401,7 @@
     <string name="encrypt_space_delete_notification_message">보조 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하세요.</string>
     <string name="encrypt_space_delete_notification_title">보조 공간</string>
     <string name="entrance_reopen_toast_msg">다른 비밀번호 유형으로 인한 보조 공간 바로가기 표시</string>
-    <string name="reset_password_dialog_message">"첫 번째 공간과 보조 공간에 다른 비밀번호 유형을 사용하고 있습니다. 보조 공간은 첫 번째 공간과 동일한 비밀번호 유형을 사용하여 바로가기를 숨겨야합니다."</string>
+    <string name="reset_password_dialog_message">"첫 번째 공간과 보조 공간에 다른 비밀번호 유형을 사용하고 있습니다. 보조 공간은 첫 번째 공간과 동일한 비밀번호 유형을 사용하여 바로가기를 숨겨야 합니다."</string>
     <string name="reset_password_dialog_positve_btn_title">변경</string>
     <string name="reset_password_dialog_title">"보조 공간 바로가기 숨김처리 불가능"</string>
     <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>
@@ -495,4 +495,10 @@
     <string name="xspace_notification">듀얼 앱 알림</string>
     <string name="xspace_notification_error">듀얼 WeChat에 로그인하고 다시 시도하세요.</string>
     <string name="xspace_settins">설정</string>
+    <string name="xspace_guide_content_bound">사용 가능한 앱</string>
+    <string name="xspace_guide_description">"다른 계정을 쓸 때는
+앱도 따로 쓸 수 있어야죠."</string>
+    <string name="xspace_install_complete">&lt;font>생성 성공. &lt;/font>&lt;font color=#0D84FF>바로 열기&lt;/font></string>
+    <string name="xspace_notification_button">써보기</string>
+    <string name="xspace_start">생성</string>
 </resources>

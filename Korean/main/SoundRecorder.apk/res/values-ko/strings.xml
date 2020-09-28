@@ -247,7 +247,7 @@
     <string name="record_list_item_recognize_text">텍스트</string>
     <string name="record_resotre">녹음 복구</string>
     <string name="reg_error_audio_exist">오디오파일이 존재합니다.</string>
-    <string name="reg_error_audio_large">오디오는 500MB를 넘지 않아야합니다.</string>
+    <string name="reg_error_audio_large">오디오는 500MB를 넘지 않아야 합니다.</string>
     <string name="reg_error_audio_short">오디오가 너무 작습니다.</string>
     <string name="reg_error_business">인식을 처리 할 수 ​​없습니다. 문의하여 나중에 시도하세요.</string>
     <string name="reg_error_client">비정상적인 프로그램 데이터입니다. 문의하여 나중에 시도하세요.</string>

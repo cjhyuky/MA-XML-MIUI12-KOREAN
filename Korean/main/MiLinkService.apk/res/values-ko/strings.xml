@@ -24,7 +24,7 @@
     <string name="dialog_ok">확인</string>
     <string name="dialog_only_suport_content">사진, 동영상, 음악 캐스팅</string>
     <string name="dialog_open_wifi_bt">켜기</string>
-    <string name="dialog_please_make_sure_tv_ok">대상 장치가 스크린캐스트를 켜야합니다.</string>
+    <string name="dialog_please_make_sure_tv_ok">대상 장치가 스크린캐스트를 켜야 합니다.</string>
     <string name="dialog_please_make_sure_tv_ok_or_help">"대상 장치에서 무선전송 기능이 켜져 있는지 확인하세요.
 연결하는데 문제가 있으면 도움말을 참조하세요."</string>
     <string name="dialog_recent_connected">최근</string>

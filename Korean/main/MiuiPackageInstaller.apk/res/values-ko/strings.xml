@@ -190,7 +190,7 @@
     <string name="miui_failed_invalid_uri">잘못된 설치 경로</string>
     <string name="miui_failed_miui_system_incompatible">"설치 패키지는 MIUI와 호환되지 않습니다."</string>
     <string name="miui_failed_newer_sdk">"SDK 버전은 아직 지원되지 않습니다."</string>
-    <string name="miui_failed_older_sdk">SDK 버전이 너무 오래된 버전</string>
+    <string name="miui_failed_older_sdk">SDK 버전이 너무 이전 버전</string>
     <string name="miui_failed_other">기타</string>
     <string name="miui_failed_parse">"설치 패키지를 구문 분석 할 수 없습니다."</string>
     <string name="miui_failed_permission_model_downgrade">"사용권한을 다운그레이드 할 수 없습니다."</string>
@@ -305,7 +305,7 @@
     <string name="safe_guard_support">%1$s 앱에서 제공하는 기술지원</string>
     <string name="safe_relative">보안</string>
     <string name="screen_overlay_button">설정 열기</string>
-    <string name="screen_overlay_message">이 권한 설정을 변경하려면 먼저 설정 &gt; 앱에서 화면 오버레이를 꺼야합니다.</string>
+    <string name="screen_overlay_message">이 권한 설정을 변경하려면 먼저 설정 &gt; 앱에서 화면 오버레이를 꺼야 합니다.</string>
     <string name="screen_overlay_title">화면 오버레이 감지</string>
     <string name="security_settings_desc">이 앱을 허용:</string>
     <string name="settings">설정</string>

@@ -187,7 +187,7 @@
     <string name="debug_networking_category">네트워킹</string>
     <string name="debug_view_attributes">뷰 속성 검사 사용</string>
     <string name="default_categories_restored">기본 카테고리 복원됨</string>
-    <string name="dev_logpersist_clear_warning_message">지속적 로거를 사용하여 더 이상 모니터링하지 않는 경우 장치에있는 로거 데이터를 지워야합니다.</string>
+    <string name="dev_logpersist_clear_warning_message">지속적 로거를 사용하여 더 이상 모니터링하지 않는 경우 장치에있는 로거 데이터를 지워야 합니다.</string>
     <string name="dev_logpersist_clear_warning_title">로거 영구 저장 장치를 지우시겠습니까?</string>
     <string name="dev_settings_warning_message">이 설정은 개발용으로만 사용됩니다. 이로 인해 장치와 앱이 손상되거나 오작동을 일으킬 수 있습니다.</string>
     <string name="dev_settings_warning_title">개발자 설정을 허용하시겠습니까?</string>
@@ -457,8 +457,8 @@
     <string name="wapi_password_is_empty">비밀번호 필드는 비워 둘 수 없습니다.</string>
     <string name="wapi_password_is_not_hex_format">잘못된 16진수 문자</string>
     <string name="wapi_password_length_is_max">비밀번호 길이는 64자를 초과 할 수 없습니다.</string>
-    <string name="wapi_password_length_is_min">비밀번호의 길이는 8 자 이상이어야합니다.</string>
-    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64 자 여야합니다.</string>
+    <string name="wapi_password_length_is_min">비밀번호의 길이는 8 자 이상이어야 합니다.</string>
+    <string name="wapi_password_length_is_min_to_max">비밀번호는 8-64 자 여야 합니다.</string>
     <string name="wapi_yes">예</string>
     <string name="wifi_ap_unable_to_handle_new_sta">액세스 포인트가 일시적으로 가득 차 있습니다.</string>
     <string name="wifi_auto_sel_wapi_cert">자동 선택</string>

@@ -392,7 +392,7 @@
     <string name="v_ok">확인</string>
     <string name="v_onlineservice_close_info">"온라인 서비스를 끄면 새 동영상을 재생할 수 없습니다."</string>
     <string name="v_onlineservice_close_title">주의</string>
-    <string name="v_onlineservice_open_info">이 기능을 사용하려면 온라인 서비스를 켜야합니다.</string>
+    <string name="v_onlineservice_open_info">이 기능을 사용하려면 온라인 서비스를 켜야 합니다.</string>
     <string name="v_onlineservice_open_title">주의</string>
     <string name="v_people_search">인기있는</string>
     <string name="v_personal_center">프로필</string>

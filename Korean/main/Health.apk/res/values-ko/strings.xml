@@ -320,14 +320,14 @@
     <string name="sedentary_reminder_channel_name">이동해야 합니다.</string>
     <string name="sedentary_reminder_subject">이동 알림</string>
     <string name="sedentary_time_is_too_long">이동할 시간! 물을 마시고 산책을 하세요.</string>
-    <string name="sedentary_title">움직여야합니다.</string>
+    <string name="sedentary_title">움직여야 합니다.</string>
     <string name="sedentary_toggle_content">"오랫 동안 활동이 없으면 Mi 건강에서 일어나서 걸으라고 알려줍니다."</string>
     <string name="select_menstruation_end_date">이 기간의 종료 날짜를 선택하세요.</string>
     <string name="select_null">선택되지 않음</string>
     <string name="setting">설정</string>
     <string name="setting_sedentary_off">꺼짐</string>
     <string name="setting_sedentary_on">켜짐</string>
-    <string name="setting_sedentary_title">움직여야합니다.</string>
+    <string name="setting_sedentary_title">움직여야 합니다.</string>
     <string name="skip">건너뛰기</string>
     <string name="sleep">수면</string>
     <string name="sleep_auto_start_perm_grant">권한 부여</string>
@@ -615,7 +615,7 @@
     <string name="excessive">너무 많음</string>
     <string name="exercise_consume">회당 %1$d 칼로리</string>
     <string name="exercise_consume_description">중국인을 위한 식이 지침에 따르면, 매일의 신체 활동은 총 에너지 소비의 15% 이상을 소비해야 합니다. 귀하의 일상적인 신체 활동에 소비되는 에너지는 여기에 요약되어 있지만 기본 대사 지출은 포함되지 않습니다. 몸무게 관리 문제가 있는 경우 에너지 섭취에 집중해야 합니다.</string>
-    <string name="exercise_consume_exercise_description">중간 및 고강도 활동에 소비하는 시간입니다. 중국 보건 당국에 따르면 주별 운동 시간은 최소 150분 (세션 당 30분 이상)이어야합니다. 활발한 걷기 (분당 100걸음 이상의 계단), 달리기, 계단 오르기와 같은 활동은 중간에서 고강도 운동으로 간주됩니다.</string>
+    <string name="exercise_consume_exercise_description">중간 및 고강도 활동에 소비하는 시간입니다. 중국 보건 당국에 따르면 주별 운동 시간은 최소 150분 (세션 당 30분 이상)이어야 합니다. 활발한 걷기 (분당 100걸음 이상의 계단), 달리기, 계단 오르기와 같은 활동은 중간에서 고강도 운동으로 간주됩니다.</string>
     <string name="exercise_detail_no_consume_hint">"선택한 데이터 소스 (%1$s)가 칼로리 계산 정보를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스를 선택할 수 있습니다."</string>
     <string name="exercise_detail_no_exercise_hint">"현재 데이터 소스 (%1$s)는 자세한 운동 통계를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 소스를 선택할 수 있습니다."</string>
     <string name="exercise_detail_no_steps_hint">"선택한 데이터 소스 (%1$s)는 걸음 수 정보를 제공하지 않습니다. 자세히> 데이터 소스에서 다른 데이터 소스를 선택할 수 있습니다."</string>
@@ -845,9 +845,9 @@
     <string name="sleep_detection_question_one_answer">"기기를 끄거나 다시 시작하거나 배터리가 부족하면 센서가 데이터를 수집 및 분석할 수 없기 때문에 수면 추적이 중단됩니다. 이러한 경우 수면 통계가 불완전한 것으로 나타납니다. 이 문제는 자주 발생합니다. 기기에서 예정된 종료 작업이나 야간 시스템 업데이트를 확인하세요."</string>
     <string name="sleep_detection_question_one_title">내 통계는 왜 부정확한가요?</string>
     <string name="sleep_detection_question_three_answer">기기는 내장 센서를 사용하여 수면 중에 몸의 움직임을 추적합니다. 통계를 보다 정확하게 하려면 장치를 몸과 가까운 부드러운 표면에 놓으세요. 침대 옆 탁자에 놓거나 매트리스에서 너무 멀리 두지 마세요.</string>
-    <string name="sleep_detection_question_three_title">통계를 보다 정확하게 하려면 어떻게 해야합니까?</string>
+    <string name="sleep_detection_question_three_title">통계를 보다 정확하게 하려면 어떻게 해야 합니까?</string>
     <string name="sleep_detection_question_two_answer">"수면주기는 기기에서 로컬로 분석됩니다. 네트워크에 연결되어 있지 않거나 현재 연결이 중단된 경우에도 수면 추적이 작동합니다."</string>
-    <string name="sleep_detection_question_two_title">수면주기를 분석하기 위해 인터넷에 연결해야합니까?</string>
+    <string name="sleep_detection_question_two_title">수면주기를 분석하기 위해 인터넷에 연결해야 합니까?</string>
     <string name="sleep_duration">수면 시간</string>
     <string name="sleep_duration_description">수면 시간은 취침 시간과 기상 시간 사이의 시간입니다. 밤에 잠에서 깨었다가 다시 잠이 드는 기간이 차감됩니다.</string>
     <string name="sleep_duration_enough_description">"충분한 수면 상태입니다."</string>
@@ -1053,10 +1053,10 @@
     <string name="tb_sleep_ring_info">%1$s. 수면 : %2$s. 세부 정보를 보려면 탭하세요.</string>
     <string name="tb_snore_detection_main">말과 코골이 관련 기능 : %1%s. 화면 상단에서 가로로 스와이프하여 다음 페이지로 이동합니다.</string>
     <string name="tb_snore_view_info">말과 코골이 그래프</string>
-    <string name="tb_stand_card_finish_stand">현재 일어남 : %1$s. 오늘 12 세 이상을 만들어야합니다. %2$s에서 %3$s 사이의 목표에 도달했습니다.</string>
-    <string name="tb_stand_card_not_finish_stand">"오늘 아침 휴식 : %1$s. 오늘 12 세 이상을 만들어야합니다. %2$s과 (와) %3$s 사이의 목표에 도달하지 못했습니다."</string>
+    <string name="tb_stand_card_finish_stand">현재 일어남 : %1$s. 오늘 12 세 이상을 만들어야 합니다. %2$s에서 %3$s 사이의 목표에 도달했습니다.</string>
+    <string name="tb_stand_card_not_finish_stand">"오늘 아침 휴식 : %1$s. 오늘 12 세 이상을 만들어야 합니다. %2$s과 (와) %3$s 사이의 목표에 도달하지 못했습니다."</string>
     <string name="tb_stand_day_column_click">%1$s와 %2$s 사이의 목표에 도달했습니다. 출처 : %3$s.</string>
-    <string name="tb_stand_day_ring">오늘 아침 휴식 : %1$s. 오늘 12 세 이상이어야합니다.</string>
+    <string name="tb_stand_day_ring">오늘 아침 휴식 : %1$s. 오늘 12 세 이상이어야 합니다.</string>
     <string name="tb_stand_wm_column_chart">%1$s와 %2$s 사이의 구분을 세우세요. 시간 간을 전환하려면 가로로 스와이프합니다. 세부 정보를 보려면 탭하세요.</string>
     <string name="tb_stand_wm_column_click">%1$s. 일어나세요 : %2$d. %3$s.</string>
     <string name="tb_unmultiple_selecte_all">모두 선택 해제</string>
@@ -1356,4 +1356,6 @@
     <string name="exercise_heart_rate_range">심박수 범위</string>
     <string name="exercise_speed">속도</string>
     <string name="resting_heart_rate_desc">성인의 일반적인 심박수 범위는 분당 55~80회입니다. 나이, 성별 등의 요인에 따라 달라질 수 있습니다.</string>
+    <string name="hr_camera_permission_desc">심박수 측정을 위해 카메라를 통해 손가락 주위 빛의 변화 속도를 감지합니다.</string>
+    <string name="hr_detect_fps_jitter">"심박수를 측정할 수 없습니다. 다시 시도하세요."</string>
 </resources>

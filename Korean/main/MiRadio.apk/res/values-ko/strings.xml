@@ -317,7 +317,7 @@ ID:%s
     <string name="restart_action">다시 시작</string>
     <string name="restart_phone_bind_message">SMS 수신에 시간이 걸릴 수 있습니다. 그래도 다시 시작하시겠습니까?</string>
     <string name="restart_phone_bind_title">복원 휴대전화 변경</string>
-    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야합니다."</string>
+    <string name="same_new_and_old_pwd">"새 비밀번호는 이전 비밀번호와 달라야 합니다."</string>
     <string name="send_diagnosis_log">분석 로그자료 전송</string>
     <string name="send_email_activate_message">인증 이메일 보냄</string>
     <string name="sending">보내는 중...</string>

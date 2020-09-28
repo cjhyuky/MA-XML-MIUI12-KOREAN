@@ -536,4 +536,5 @@
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
+    <string name="thunder_download_speedup">Xunlei로 가속 중…</string>
 </resources>

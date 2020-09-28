@@ -41,7 +41,7 @@
     <string name="battery_msg">충전기를 끼워주세요!</string>
     <string name="battery_name">타입C [뒤] 플러그 충전 및 LED</string>
     <string name="battery_orientation">충전기 방향 =</string>
-    <string name="battery_orientation_prompt">완전한 배터리 테스트를 위해 충전기를 뒤집어 야합니다.</string>
+    <string name="battery_orientation_prompt">완전한 배터리 테스트를 위해 충전기를 뒤집어 야 합니다.</string>
     <string name="battery_prompt">완전한 배터리 테스트를 위해 충전기를 분리해야 합니다.</string>
     <string name="battery_status">배터리 상태 =</string>
     <string name="battery_success">배터리 테스트 합격!</string>
@@ -305,7 +305,7 @@
     <string name="ms_cali_tips">모양을 8 자 모양처럼 회전하세요.</string>
     <string name="ms_cali_warning">캘리브레이션이 필요합니다. 캘리브레이션하려면 8 모양과 같이 회전 시키세요.</string>
     <string name="msensor_name">자기 센서</string>
-    <string name="msensor_tips">X, Y, Z 좌표 값이 아래에 나타나야합니다.</string>
+    <string name="msensor_tips">X, Y, Z 좌표 값이 아래에 나타나야 합니다.</string>
     <string name="msimplemsensor_name">간단한 MS 센서 테스트</string>
     <string name="mytest">시험에 사용하다</string>
     <string name="new_backled1">뒷등:</string>
@@ -418,7 +418,7 @@
     <string name="sensor_calibration_get_fl">보정 실패</string>
     <string name="sensor_calibration_gsensor">Gsensor 보정</string>
     <string name="sensor_calibration_gyroscope">자이로 스코프 교정 테스트</string>
-    <string name="sensor_calibration_note">참고 : 태블릿은 보정 중에 수평면에 있어야합니다.</string>
+    <string name="sensor_calibration_note">참고 : 태블릿은 보정 중에 수평면에 있어야 합니다.</string>
     <string name="sensor_calibration_op_fl">작업 실패</string>
     <string name="sensor_calibration_op_suc">작업 성공</string>
     <string name="sensor_calibration_sensor_data_hint">센서 교정 데이터 :</string>

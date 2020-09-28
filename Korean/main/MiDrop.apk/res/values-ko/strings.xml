@@ -253,7 +253,7 @@
     <string name="e5">언어</string>
     <string name="e6">%1$s 남음</string>
     <string name="e7">업데이트를 사용할 수 있습니다. 전송하는 동안 친구로부터이 업데이트 패키지를 받으 셨습니다.</string>
-    <string name="e8">"위치 서비스가 꺼져 있으면 다른 사람을 찾을 수 없을 수도 있습니다. Android 6.0 이상에서는 파일을주고 받으려면 위치 서비스를 켜야합니다."</string>
+    <string name="e8">"위치 서비스가 꺼져 있으면 다른 사람을 찾을 수 없을 수도 있습니다. Android 6.0 이상에서는 파일을주고 받으려면 위치 서비스를 켜야 합니다."</string>
     <string name="e9">건너뛰기</string>
     <string name="ea">오디오</string>
     <string name="eb">파일 유형 선택</string>
@@ -286,7 +286,7 @@
     <string name="f5">이미지</string>
     <string name="f6">보내기</string>
     <string name="f7">삭제</string>
-    <string name="f8">포트 번호는 1024-65535 사이 여야합니다.</string>
+    <string name="f8">포트 번호는 1024-65535 사이 여야 합니다.</string>
     <string name="fa">켜기</string>
     <string name="fb">Mi Drop이 시스템 설정을 수정할 수 있게 합니다.</string>
     <string name="fc">주변 기기 검색을 위해 블루투스를 켜세요.</string>

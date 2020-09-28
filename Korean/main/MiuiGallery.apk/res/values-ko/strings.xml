@@ -283,7 +283,7 @@
     <string name="vlog_caption_invalid_arguments">"간격이 %1$d초보다 짧은 경우 추가할 수 없습니다."</string>
     <string name="vlog_caption_style">자막 형식</string>
     <string name="vlog_caption_title">크레딧</string>
-    <string name="vlog_clip_cut_fail">클립 길이는 %1$d초 이상이어야합니다.</string>
+    <string name="vlog_clip_cut_fail">클립 길이는 %1$d초 이상이어야 합니다.</string>
     <string name="vlog_clip_delete_dialog_btn_cancel">취소</string>
     <string name="vlog_clip_delete_dialog_btn_delete">삭제</string>
     <string name="vlog_clip_delete_dialog_btn_msg">동영상을 삭제하시겠습니까?</string>
