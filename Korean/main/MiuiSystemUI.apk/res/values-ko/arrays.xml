@@ -227,12 +227,6 @@
         <item>라디오를 제외한 전체</item>
         <item>커널만</item>
     </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>없음</item>
-        <item>로그캣</item>
-        <item>시스템 추적(그래픽)</item>
-        <item>glGetError 호출</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>끄기</item>
         <item>직사각형이 아닌 클립을 파란색 영역에 그리기</item>
