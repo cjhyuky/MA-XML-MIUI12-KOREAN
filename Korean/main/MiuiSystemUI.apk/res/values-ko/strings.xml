@@ -1143,10 +1143,10 @@
     <string name="kg_enter_confirm_pin_hint">새 PIN 코드 확인</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 직장 프로필 및 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_almost_at_login">"잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.
 
  %d초 후에 다시 시도하세요."</string>
-    <string name="kg_failed_attempts_almost_at_wipe">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. %d회 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 사라집니다.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. %d회 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 사라집니다.</string>
     <string name="kg_failed_attempts_now_erasing_profile">잘못된 비밀번호를 %1d번 입력했습니다. 개인 데이터가 삭제됩니다.</string>
     <string name="kg_failed_attempts_now_erasing_user">잘못된 비밀번호를 %1d번 입력했습니다. 사용자 정보가 삭제됩니다.</string>
     <string name="kg_failed_attempts_now_wiping">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. 휴대전화가 초기화됩니다.</string>
@@ -1182,13 +1182,13 @@
     <string name="kg_sim_pin_instructions_multi">\"%1$s\"의 SIM PIN 번호를 입력하세요.</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM 카드 잠금해제 중...</string>
     <string name="kg_too_many_failed_attempts_countdown">%1$d초 후에 다시 시도하세요.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">"비밀번호를 %d회 잘못 입력했습니다. 
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"비밀번호를 %d회 잘못 입력했습니다. 
 
 %d초 후에 다시 시도하세요."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"잠금해제 패턴을 %d회 잘못 그렸습니다. 
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. 
 
 %d초 후에 다시 시도하세요."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message"">"PIN을 %d회 잘못 입력했습니다. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN을 %d회 잘못 입력했습니다. 
 
 %d초 후에 다시 시도하세요."</string>
     <string name="kg_wrong_password">잘못된 비밀번호</string>
@@ -2179,7 +2179,6 @@ EEEE"</string>
     <string name="user_add_profile_item_summary">사용자 계정의 앱 및 콘텐츠에 대한 접근을 제한할 수 있습니다.</string>
     <string name="user_add_profile_item_title">제한 프로필</string>
     <string name="user_add_user">사용자 추가</string>
-    <string name="user_add_user_message_short">새로운 사용자를 추가할 때, 새로운 공간을 설정합니다. \n\n 어떤 사용자든 다른사용자들을 위해 앱을 업데이트 할 수 있습니다.</string>
     <string name="user_add_user_item_summary">사용자마다 별개의 앱과 콘텐츠를 소유합니다.</string>
     <string name="user_add_user_item_title">사용자</string>
     <string name="user_add_user_message_long">"사용자를 추가해 이 기기를 다른 사람들과 공유할 수 있습니다. 사용자마다 고유한 공간을 보유하며, 앱 및 배경화면 등을 설정할 수 있습니다. 사용자는 다른 사용자들에게도 영향을 주는 Wi-Fi와 같은 기기 설정을 변경할 수 있습니다.
