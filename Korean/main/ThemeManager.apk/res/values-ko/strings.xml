@@ -1013,4 +1013,34 @@ EEE"</string>
     <string name="share_theme_content_text">"다음을 통해 멋진 \"%1$s\" 테마를 다운로드할 수 있습니다: %2$s. 보낸 사람 "</string>
     <string name="share_wallpaper_content_text">"다음을 통해 멋진 \"%1$s\" 배경화면을 다운로드할 수 있습니다: %2$s. 보낸 사람 "</string>
     <string name="wallpaper_setting_library">라이브러리</string>
+    <string name="already_newest_version">현재 버전이 최신 버전입니다.</string>
+    <string name="cancel_download">다운로드 취소됨</string>
+    <string name="desk_loop_will_change">주의</string>
+    <string name="install_failed">"설치할 수 없음"</string>
+    <string name="no_cta_agreed">"GetApps에 CTA 권한이 없습니다."</string>
+    <string name="no_install_permission">"이 항목을 설치할 권한이 없습니다."</string>
+    <string name="pref_lockscreen_magazine_summary">다양한 카테고리의 이미지 슬라이드 쇼로 배경 화면 바꾸기</string>
+    <string name="set_wallpaper_group_success">"%1$s가 적용되었습니다.
+매 시간 새 이미지가 표시됩니다."</string>
+    <string name="super_wallpaper_list_label">슈퍼 배경 화면</string>
+    <string name="super_wallpaper_setting_apply_success_toast">성공적으로 적용됨</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">적용</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">위치 선택</string>
+    <string name="super_wallpaper_setting_coordinate_title">가로 위치</string>
+    <string name="super_wallpaper_setting_view_height_title">세로 위치</string>
+    <string name="task_already_exist">이 작업은 이미 존재합니다.</string>
+    <string name="update">업데이트</string>
+    <string name="wallpaper_group_set_loop">비슷한 이미지가 있는 잠금화면 슬라이드 쇼</string>
+    <string name="wallpaper_set_as_loop_extra_msg">가장 많은 사람들이 사용중</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+    <string name="wallpaper_setting_find_more_text">더 많은 온라인 배경 화면</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">홈 화면</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">잠금 화면</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">온라인 배경 화면</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">배경 화면 찾기</string>
+    <string name="wallpaper_setting_online_wallpaper_title">온라인 배경 화면</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">슈퍼 배경 화면</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">더보기</string>
+    <string name="wallpaper_setting_title">배경 화면</string>
+    <string name="warning_subscribe_wallpaper_group_content">"홈 화면 슬라이드 쇼를 켰습니다. %1$s이 홈 화면에 적용됩니다."</string>
 </resources>
