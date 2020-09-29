@@ -830,7 +830,7 @@
     </string-array>
     <string-array name="perm_hips_action">
         <item>허용</item>
-        <item>문의</item>
+        <item>묻기</item>
         <item>거부</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
