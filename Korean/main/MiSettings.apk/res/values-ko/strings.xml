@@ -146,7 +146,7 @@
     <string name="usage_stats_normal_day">평일</string>
     <string name="usage_stats_week_day">주말</string>
     <string name="back">이전</string>
-    <string name="usage_state_accurate_date">yyyy M월 d일</string>
+    <string name="usage_state_accurate_date">yyyy년 M월 d일</string>
     <string name="usage_state_add_up_count">세션</string>
     <string name="usage_state_add_up_days">일</string>
     <string name="usage_state_add_up_time">총 시간</string>

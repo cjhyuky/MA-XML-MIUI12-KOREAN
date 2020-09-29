@@ -425,7 +425,7 @@
     <string name="train_event_error_train_info">기차표 오류</string>
     <string name="train_event_more_info">기차 정시도착 또는 지연, 기차 Wi-Fi서비스 등</string>
     <string name="train_event_service">기차 서비스</string>
-    <string name="train_event_station_date_format">M월 D일</string>
+    <string name="train_event_station_date_format">M월 d일</string>
     <string name="train_event_station_header_arrive_time">도착시간</string>
     <string name="train_event_station_header_depart_time">출발시간</string>
     <string name="train_event_station_header_name">역 이름</string>
@@ -951,11 +951,11 @@
     <string name="eras_ad">기원후</string>
     <string name="eras_bc">기원전</string>
     <string name="evening">저녁</string>
-    <string name="fmt_date_day">D일</string>
+    <string name="fmt_date_day">d일</string>
     <string name="fmt_date_long_month">M월</string>
-    <string name="fmt_date_long_month_day">M월 D일</string>
+    <string name="fmt_date_long_month_day">M월 d일</string>
     <string name="fmt_date_long_year_month">yyyy년 M월</string>
-    <string name="fmt_date_long_year_month_day">yyyy년 M월 D일</string>
+    <string name="fmt_date_long_year_month_day">yyyy년 M월 d일</string>
     <string name="fmt_date_numeric_year_month">yyyy/MM</string>
     <string name="fmt_date_numeric_year_month_day">yyyy/MM/dd</string>
     <string name="fmt_date_short_year_month">yyyy/MM</string>

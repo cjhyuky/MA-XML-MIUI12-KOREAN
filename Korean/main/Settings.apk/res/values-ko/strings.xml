@@ -509,8 +509,8 @@
     <string name="aod_dual_togother">HH:MM</string>
     <string name="aod_dual_togother_12">aa hh:mm</string>
     <string name="aod_got_it">알겠음</string>
-    <string name="aod_lock_screen_date">MMMM d일 EEEE</string>
-    <string name="aod_lock_screen_date_12">MMMM d일 EEEE</string>
+    <string name="aod_lock_screen_date">M월 d일 EEEE</string>
+    <string name="aod_lock_screen_date_12">M월 d일 EEEE</string>
     <string name="aod_mode_bg">백그라운드</string>
     <string name="aod_mode_clock">시계</string>
     <string name="aod_mode_style">시계 스타일과 백그라운드</string>
@@ -9033,7 +9033,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="virus_scan_app_uninstall">%d개 제거됨</string>
     <string name="virus_scan_app_waiting">기다리는 중…</string>
     <string name="virus_scanner_auto_update">자동으로 업데이트</string>
-    <string name="virus_scanner_date_formater">yyyy MMMM d일</string>
+    <string name="virus_scanner_date_formater">yyyy년 M월 d일</string>
     <string name="virus_scanner_lib_already_latest">바이러스 정의가 이미 최신입니다.</string>
     <string name="virus_scanner_lib_update_failed">업데이트하지 못했습니다.</string>
     <string name="virus_scanner_lib_updating">정의 업데이트 중…</string>

@@ -75,9 +75,9 @@
     <string name="date_format_mm_dd">M월 d일</string>
     <string name="date_format_y_m">yyyy M월</string>
     <string name="date_format_y_m_d">yyyy/MM/dd</string>
-    <string name="date_format_y_m_d_2">yyyy M월 d일</string>
+    <string name="date_format_y_m_d_2">yyyy년 M월 d일</string>
     <string name="date_format_y_m_d_h_m">yyyy/MM/dd HH:mm</string>
-    <string name="date_format_y_m_d_h_m_2">yyyy M월 d일 HH:mm</string>
+    <string name="date_format_y_m_d_h_m_2">yyyy년 M월 d일 HH:mm</string>
     <string name="date_format_y_m_d_h_m_s">yyyy/MM/dd HH:mm:ss</string>
     <string name="day">일</string>
     <string name="deep_sleep">깊은 수면</string>
@@ -260,7 +260,7 @@
     <string name="more_card">더 많은 카드</string>
     <string name="mtrl_badge_numberless_content_description">새로운 알림</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
-    <string name="mtrl_picker_date_format">yyyy M월 d일</string>
+    <string name="mtrl_picker_date_format">yyyy년 M월 d일</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
     <string name="mtrl_picker_range_header_title">날짜 범위 선택</string>

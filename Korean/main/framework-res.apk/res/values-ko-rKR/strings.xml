@@ -264,7 +264,7 @@
     <string name="fingerprints">지문:</string>
     <string name="force_close">확인</string>
     <string name="format_error">USB 저장소를 지우지 못했습니다.</string>
-    <string name="full_wday_month_day_no_year">MMMM d일 EEEE</string>
+    <string name="full_wday_month_day_no_year">M월 d일 EEEE</string>
     <string name="gadget_host_error_inflating">위젯을 추가할 수 없습니다.</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_action_lock">화면 잠금</string>

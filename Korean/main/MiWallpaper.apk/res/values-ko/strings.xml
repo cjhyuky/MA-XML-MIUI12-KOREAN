@@ -89,10 +89,14 @@
     <string name="wallpaper_setting_super_wallpaper_banner_title">슈퍼 배경화면</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">더보기</string>
     <string name="wallpaper_setting_title">배경화면</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE MMMM d"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE MMMM d"</string>
-    <string name="miui_lock_screen_large_date">"EEE M/dd"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE M/dd"</string>
+    <string name="miui_lock_screen_date_two_lines">"M월 d일
+EEEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"M월 d일
+EEEE"</string>
+    <string name="miui_lock_screen_large_date">"MM/dd
+EEE"</string>
+    <string name="miui_lock_screen_large_date_12">"MM/dd
+EEE"</string>
     <string name="title_system_wallpaper_resource">시스템 배경화면</string>
     <string name="afternoon">오후</string>
     <string name="am">오전</string>

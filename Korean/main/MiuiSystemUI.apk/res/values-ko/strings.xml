@@ -1384,7 +1384,7 @@ EEEE"</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="mtrl_picker_cancel">취소</string>
     <string name="mtrl_picker_confirm">저장</string>
-    <string name="mtrl_picker_date_format">yyyy M월 d일</string>
+    <string name="mtrl_picker_date_format">yyyy년 M월 d일</string>
     <string name="mtrl_picker_header_prompt">날짜 선택</string>
     <string name="mtrl_picker_range_header_prompt">날짜 범위 선택</string>
     <string name="nav_bar">탐색 바</string>

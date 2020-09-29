@@ -407,8 +407,8 @@
     <string name="search_hot_tv">TV 쇼</string>
     <string name="search_hot_variety">엔터테인먼트</string>
     <string name="search_hot_anime">만화</string>
-    <string name="search_history_month">M월 D일</string>
-    <string name="search_history_year">yyyy년 M월 D일</string>
+    <string name="search_history_month">M월 d일</string>
+    <string name="search_history_year">yyyy년 M월 d일</string>
     <string name="no_share_file">이 파일을 공유할 수 없습니다.</string>
     <string name="no_share_file_content">선택한 파일은 이미 삭제되었습니다.</string>
     <string name="no_share_files">이미 삭제된 파일은 공유할 수 없습니다.</string>

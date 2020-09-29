@@ -676,7 +676,7 @@
     <string name="collage__talkback_effect">%d 효과</string>
     <string name="collage_choose">선택</string>
     <string name="collage_drawable_normal_date_format">yyyy/MM/dd</string>
-    <string name="collage_drawable_rect_date_month_day">MMMM dd</string>
+    <string name="collage_drawable_rect_date_month_day">M월 d일</string>
     <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">여백</string>
     <string name="collage_mirror">거울</string>
@@ -1928,7 +1928,7 @@
     <string name="fmt_date_long_month">M월</string>
     <string name="fmt_date_long_month_day">M월 d일</string>
     <string name="fmt_date_long_year_month">yyyy M월</string>
-    <string name="fmt_date_long_year_month_day">yyyy M월 d일</string>
+    <string name="fmt_date_long_year_month_day">yyyy년 M월 d일</string>
     <string name="fmt_date_numeric_month_day">M-d</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">yyyy-M</string>
@@ -1936,7 +1936,7 @@
     <string name="fmt_date_short_month">M월</string>
     <string name="fmt_date_short_month_day">M월 d일</string>
     <string name="fmt_date_short_year_month">yyyy M월</string>
-    <string name="fmt_date_short_year_month_day">yyyy M월 d일</string>
+    <string name="fmt_date_short_year_month_day">yyyy년 M월 d일</string>
     <string name="fmt_time_12hour">"h시 정각'"</string>
     <string name="fmt_time_12hour_minute_pm">a h:mm</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>

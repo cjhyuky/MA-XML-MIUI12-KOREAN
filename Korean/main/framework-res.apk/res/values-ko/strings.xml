@@ -2395,7 +2395,7 @@
     <string name="gnss_nfw_notification_message_carrier">긴급 상황으로 인해 직장에서 사용자의 위치 정보를 조회했습니다.</string>
     <string name="gnss_nfw_notification_message_oem">긴급 상황으로 인해 기기 제조사가 사용자의 위치 정보를 조회했습니다.</string>
     <string name="gnss_nfw_notification_title">긴급 위치 조회</string>
-    <string name="icu_abbrev_wday_month_day_no_year">M월 D일 EEE</string>
+    <string name="icu_abbrev_wday_month_day_no_year">M월 d일 EEE</string>
     <string name="location_changed_notification_text">자세한 내용은 IT 관리자에게 문의하세요.</string>
     <string name="location_changed_notification_title">앱이 위치 정보에 접근할 수 있음</string>
     <string name="location_service">위치 서비스</string>

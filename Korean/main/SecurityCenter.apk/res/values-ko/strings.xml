@@ -211,7 +211,7 @@
     <string name="app_behavior_door">앱 행동</string>
     <string name="app_behavior_get_install">%1s 앱이 설치된 앱 목록에 접근했습니다.</string>
     <string name="app_behavior_get_install_single">이 앱이 설치된 앱 목록에 접근했습니다.</string>
-    <string name="app_behavior_header_time">M월 D일</string>
+    <string name="app_behavior_header_time">M월 d일</string>
     <string name="app_behavior_key_audio">녹음</string>
     <string name="app_behavior_key_camera">사진 찍기</string>
     <string name="app_behavior_key_location">위치</string>

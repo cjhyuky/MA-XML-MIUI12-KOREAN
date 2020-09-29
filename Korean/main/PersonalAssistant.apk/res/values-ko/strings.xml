@@ -1709,7 +1709,7 @@
     <string name="xiaomi_search_label">검색</string>
     <string name="xspace_resolver_activity_title">앱 선택</string>
     <string name="year_month_day_all_format_en">yyyy/MM/dd HH:mm:ss</string>
-    <string name="year_month_day_format">yyyy년 M월 D일</string>
+    <string name="year_month_day_format">yyyy년 M월 d일</string>
     <string name="yesterday">어제</string>
     <string name="location_permission_desc">내비게이션 루트 구축 및 차량 우호 서비스 제공</string>
     <string name="migu_game">미니 게임</string>
