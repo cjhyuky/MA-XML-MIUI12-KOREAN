@@ -44,9 +44,9 @@
     <string name="account_setting_message_body_load_head_only">머릿말만</string>
     <string name="account_setting_message_body_load_text">본문만</string>
     <string name="account_settings_action">계정 설정</string>
-    <string name="account_settings_background_attachments_label">첨부파일 다운로드</string>
-    <string name="account_settings_background_attachments_summary">Wi-Fi로 첨부파일 다운로드</string>
-    <string name="account_settings_background_attachments_summary_inter">Wi-Fi로 첨부파일 다운로드</string>
+    <string name="account_settings_background_attachments_label">첨부 파일 다운로드</string>
+    <string name="account_settings_background_attachments_summary">Wi-Fi로 첨부 파일 다운로드</string>
+    <string name="account_settings_background_attachments_summary_inter">Wi-Fi로 첨부 파일 다운로드</string>
     <string name="account_settings_data_usage">동기화 설정</string>
     <string name="account_settings_description_label">계정 이름</string>
     <string name="account_settings_edit_quick_responses_label">빠른 답장</string>
@@ -191,12 +191,12 @@
     <string name="app_name">메일</string>
     <string name="archive">보관</string>
     <string name="archived">보관됨</string>
-    <string name="att_download_failed_content">이 메시지의 첨부파일을 다운로드하지 못했습니다.</string>
+    <string name="att_download_failed_content">이 메시지의 첨부 파일을 다운로드하지 못했습니다.</string>
     <string name="att_download_failed_network_slow">연결 속도가 너무 느립니다. 나중에 다시 시도하세요.</string>
     <string name="att_download_failed_permission_denied">외부 저장소 접근 권한이 없습니다.</string>
-    <string name="att_download_failed_title">첨부파일을 다운로드할 수 없습니다.</string>
+    <string name="att_download_failed_title">첨부 파일을 다운로드할 수 없습니다.</string>
     <string name="att_file_not_exists">%s 파일을 찾을 수 없습니다.</string>
-    <string name="att_mgr_no_attachment">첨부파일 없음.</string>
+    <string name="att_mgr_no_attachment">첨부 파일 없음.</string>
     <string name="att_mgr_title_order_mime">형식</string>
     <string name="att_mgr_title_order_name">이름</string>
     <string name="att_mgr_title_order_rev_date">날짜</string>
@@ -212,18 +212,18 @@
     <string name="attachment_decoding">첨부 파일 압축 해제 중…</string>
     <string name="attachment_download_all">모두 다운로드</string>
     <string name="attachment_image">이미지</string>
-    <string name="attachment_list_search_hint">첨부파일 검색</string>
-    <string name="attachment_mgr_name">첨부파일</string>
-    <string name="attachment_not_exists">첨부파일을 열 수 없습니다.</string>
+    <string name="attachment_list_search_hint">첨부 파일 검색</string>
+    <string name="attachment_mgr_name">첨부 파일</string>
+    <string name="attachment_not_exists">첨부 파일을 열 수 없습니다.</string>
     <string name="attachment_open_SecurityException_hint">이 파일을 열 수 있는 권한이 없거나 파일이 손상되었을 수 있습니다.</string>
     <string name="attachment_open_SecurityException_title">파일을 열 수 없음</string>
     <string name="attachment_size_exceed_limit">크기가 서버 허용 한계를 초과한 것 같습니다.</string>
     <string name="attachment_stop_all">중지</string>
     <string name="attachment_text">텍스트</string>
-    <string name="attachment_type_blocked">안타깝게도 이 유형의 첨부파일은 저장하거나 열 수 없습니다.</string>
+    <string name="attachment_type_blocked">안타깝게도 이 유형의 첨부 파일은 저장하거나 열 수 없습니다.</string>
     <string name="attachment_unknown">%s 파일</string>
     <string name="attachment_video">동영상</string>
-    <string name="attachments_header">첨부파일</string>
+    <string name="attachments_header">첨부 파일</string>
     <string name="auto_advance_help_title">메시지 삭제 후 보기…</string>
     <string name="auto_advance_label">메시지 흐름 삭제</string>
     <string name="auto_advance_summary">메시지 삭제 후 어떤 메시지로 스크롤할 지 선택</string>
@@ -274,7 +274,7 @@
     <string name="compose">작성</string>
     <string name="compose_attachment_number_limit">10개 이상의 첨부 파일을 추가할 수 없습니다.</string>
     <string name="compose_paste_address_oob">너무 많은 문자입니다.</string>
-    <string name="compose_picturesexceedlimits">더 많은 이미지는 첨부파일로 추가할 수 있습니다.</string>
+    <string name="compose_picturesexceedlimits">더 많은 이미지는 첨부 파일로 추가할 수 있습니다.</string>
     <string name="compose_send">전송</string>
     <string name="compose_sent">메일 전송됨</string>
     <string name="confirm">확인</string>
@@ -365,7 +365,7 @@
     <string name="dialog_account_auto_sync_setting_no_open">새로운 메시지를 자동으로 수신할 수 없습니다. 동기화가 꺼져있습니다.</string>
     <string name="dialog_change_sync_lookback">받은 메일이 %s일 전에 자동으로 삭제되었습니다. 변경을 누릅니다.</string>
     <string name="dialog_gmail_proxy_server_is_error">Gmail 프록시 서버 오류</string>
-    <string name="dialog_insufficient_space_on_external">첨부파일을 다운로드할 수 없습니다. 외장 메모리의 공간이 부족합니다.</string>
+    <string name="dialog_insufficient_space_on_external">첨부 파일을 다운로드할 수 없습니다. 외장 메모리의 공간이 부족합니다.</string>
     <string name="dialog_insufficient_space_on_internal">외장 메모리에 충분한 공간 없음</string>
     <string name="disable_admin_warning">경고: 귀하의 기기 관리 이메일 앱의 권한을 비활성화하면 이메일, 연락처, 캘린더 일정, 기타 데이터와 함께 권한을 필요로 하는 모든 이메일 계정이 삭제됩니다.</string>
     <string name="discard">취소</string>
@@ -381,15 +381,15 @@
     <string name="downlaod_cancel_confirm_download">중지</string>
     <string name="downlaod_cancel_continue_download">중단하지 않음</string>
     <string name="downlaod_confirm_download">다운로드</string>
-    <string name="downlaod_nonWifi_confirm_message">모바일 데이터를 연결하여 이 첨부파일을 다운로드하시겠습니까?</string>
-    <string name="downlaod_nonWifi_confirm_title">이 첨부파일을 다운로드하시겠습니까?</string>
+    <string name="downlaod_nonWifi_confirm_message">모바일 데이터를 연결하여 이 첨부 파일을 다운로드하시겠습니까?</string>
+    <string name="downlaod_nonWifi_confirm_title">이 첨부 파일을 다운로드하시겠습니까?</string>
     <string name="download_again">다시 다운로드</string>
     <string name="download_before_sharing">" 다운로드가 완료되지 않았습니다."</string>
     <string name="download_cancel_confirm_message">다운로드가 중지됩니다.</string>
-    <string name="download_cancel_confirm_title">이 첨부파일을 다운로드하시겠습니까?</string>
+    <string name="download_cancel_confirm_title">이 첨부 파일을 다운로드하시겠습니까?</string>
     <string name="download_complete_not_cancel">다운로드 완료</string>
-    <string name="download_confirm_message">%1$s 첨부파일을 다운로드하시겠습니까?</string>
-    <string name="download_confirm_title">첨부파일 다운로드</string>
+    <string name="download_confirm_message">%1$s 첨부 파일을 다운로드하시겠습니까?</string>
+    <string name="download_confirm_title">첨부 파일 다운로드</string>
     <string name="download_message_failed_for_too_large">메시지가 다운로드하기에 너무 큽니다.</string>
     <string name="draft_count_format"> (%1$s)</string>
     <string name="drawer_bank_bill">은행 명세서</string>
@@ -430,7 +430,7 @@
     <string name="feedback_user_edit_hint">여기에 문제를 설명해주세요. 확인 후 이메일을 보내드리겠습니다.</string>
     <string name="feedback_user_edit_tag">MIUI에서</string>
     <string name="fetch_bank_sender_list_failure">정보 가져오기 실패</string>
-    <string name="fetching_attachment">첨부파일 받는 중</string>
+    <string name="fetching_attachment">첨부 파일 받는 중</string>
     <string name="file_deleted_success">파일 삭제됨</string>
     <string name="file_not_found">파일을 찾지 못했습니다.</string>
     <string name="file_not_found_redownload">파일을 찾지 못했습니다.</string>
@@ -447,8 +447,8 @@
     <string name="forward_attachment">전달</string>
     <string name="forward_attribution">---------- 전달된 메시지 ----------&lt;br>발신: %1$s&lt;br>날짜: %2$s&lt;br>제목: %3$s&lt;br>수신: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- 전달된 메시지 ----------</string>
-    <string name="forward_download_failed_ticker">하나 이상의 첨부파일을 전송하지 못했습니다.</string>
-    <string name="forward_download_failed_title">첨부파일 전달 안 됨</string>
+    <string name="forward_download_failed_ticker">하나 이상의 첨부 파일을 전송하지 못했습니다.</string>
+    <string name="forward_download_failed_title">첨부 파일 전달 안 됨</string>
     <string name="free_period_text">무이자 기간</string>
     <string name="from_heading">"발신: "</string>
     <string name="general_preference_confirm_delete_label">삭제 전 확인</string>
@@ -474,7 +474,7 @@
     <string name="header_category_other">피드백</string>
     <string name="header_label_general_preferences">일반</string>
     <string name="help_and_info">도움말</string>
-    <string name="hide_atts_remaining">첨부파일 %1$d개 숨기기</string>
+    <string name="hide_atts_remaining">첨부 파일 %1$d개 숨기기</string>
     <string name="hide_elided">▼ 인용된 텍스트 숨기기</string>
     <string name="hint_quick_reply_all">전체 회신</string>
     <string name="imap_name">IMAP</string>
@@ -573,7 +573,7 @@
          장소:
 %s "</string>
     <string name="megabytes">%sMB</string>
-    <string name="menu_att_mgr">첨부파일</string>
+    <string name="menu_att_mgr">첨부 파일</string>
     <string name="menu_att_mgr_order_default">최근 본 내역</string>
     <string name="menu_att_mgr_order_mime">형식으로 정렬</string>
     <string name="menu_att_mgr_order_name">이름으로 정렬</string>
@@ -606,7 +606,7 @@
     <string name="message_invite_tentative">아마</string>
     <string name="message_invite_title">달력 초대</string>
     <string name="message_saved">메시지가 임시 보관함에 저장되었습니다.</string>
-    <string name="message_view_attachment_background_load">전달된 메시지의 첨부파일이 전송 전에 다운로드됩니다.</string>
+    <string name="message_view_attachment_background_load">전달된 메시지의 첨부 파일이 전송 전에 다운로드됩니다.</string>
     <string name="mibill_privacy_policy_button1">나중에</string>
     <string name="mibill_privacy_policy_button2">동의</string>
     <string name="mibill_privacy_policy_description">Mi Wallet이 청구서를 자동으로 분석, 관리하도록 허용하세요. 이 기능은 업무 관련 이메일 주소에 대하여 기본적으로 꺼져 있습니다.</string>
@@ -627,7 +627,7 @@
     <string name="new_messages">%1$d개의 새 메시지</string>
     <string name="next_action">다음</string>
     <string name="no">아니오</string>
-    <string name="no_application_found">이 첨부파일을 열 수 있는 앱을 찾지 못했습니다.</string>
+    <string name="no_application_found">이 첨부 파일을 열 수 있는 앱을 찾지 못했습니다.</string>
     <string name="no_application_found_title">이 첨부 파일을 여세요.</string>
     <string name="no_bill_discribe">"어떠한 청구서도 찾을 수 없음
 다른 이메일 계정으로 전환을 시도하세요."</string>
@@ -668,7 +668,7 @@
     <string name="outbox_alert_description_insufficient_storage_error">메일 서버 저장공간 부족</string>
     <string name="outbox_alert_description_provision_error">보낸 메일함 동기화 중 서버 구축 오류가 발생했습니다.</string>
     <string name="outbox_alert_description_reject_by_server">%s에 의해 거부됨</string>
-    <string name="outbox_alert_description_sent_failed">첨부파일 크기가 서버 제한을 초과합니다.</string>
+    <string name="outbox_alert_description_sent_failed">첨부 파일 크기가 서버 제한을 초과합니다.</string>
     <string name="outbox_alert_duplicate_click">지금 전송 중…</string>
     <string name="outbox_alert_edit_resend">수정하여 다시 전송</string>
     <string name="outbox_alert_failed_edit_resend">전송하지 못했습니다. 수정한 후 다시 시도하세요.</string>
@@ -720,7 +720,7 @@
     <string name="policy_app_whitelist">지정된 앱만 허용</string>
     <string name="policy_bluetooth_restricted">블루투스 사용 제한</string>
     <string name="policy_calendar_age">동기화된 캘린더 일정 수 제한</string>
-    <string name="policy_dont_allow_attachments">첨부파일 허용 안 함</string>
+    <string name="policy_dont_allow_attachments">첨부 파일 허용 안 함</string>
     <string name="policy_dont_allow_browser">브라우저 허용 안 함</string>
     <string name="policy_dont_allow_camera">이 기기의 카메라 사용 차단</string>
     <string name="policy_dont_allow_consumer_email">소비자 이메일 허용 안 함</string>
@@ -748,7 +748,7 @@
     <string name="pop3_name">POP3</string>
     <string name="preference_eas_tips">활성화를 탭하여 메일 서버 설정</string>
     <string name="preference_imap_tips" />
-    <string name="preference_pop_tips">POP3에서는 첨부파일이 이메일과 함께 자동으로 다운로드됩니다. 이는 모바일 데이터 사용량을 증가시킬 수 있습니다.</string>
+    <string name="preference_pop_tips">POP3에서는 첨부 파일이 이메일과 함께 자동으로 다운로드됩니다. 이는 모바일 데이터 사용량을 증가시킬 수 있습니다.</string>
     <string name="preference_sender_image_description">받은 편지함의 보낸 사람 이름 옆에 프로필 사진 표시</string>
     <string name="preference_sender_image_title">받은 편지함에 프로필 사진 표시</string>
     <string name="preferences_signature_dialog_title">서명</string>
@@ -762,7 +762,7 @@
     <string name="pull_to_refresh">아래로 당겨서 새로고침</string>
     <string name="push_wps_better_confirm_download">다운로드</string>
     <string name="push_wps_better_confirm_exit">기타 앱</string>
-    <string name="push_wps_better_confirm_message">WPS Office로 이 첨부파일을 열어 보세요.</string>
+    <string name="push_wps_better_confirm_message">WPS Office로 이 첨부 파일을 열어 보세요.</string>
     <string name="push_wps_better_confirm_noshow_hint">다시 표시하지 않음</string>
     <string name="push_wps_better_confirm_title">WPS Office를 사용해 보세요.</string>
     <string name="push_wps_confirm_cancel">나중에 실행</string>
@@ -836,7 +836,7 @@
     <string name="refreshing">새로고침 중...</string>
     <string name="refreshing_done">완료</string>
     <string name="release_to_refresh">놓아서 새로고침</string>
-    <string name="remind_attachment_size_limit">첨부파일 크기는 %sMB 미만이어야 합니다.</string>
+    <string name="remind_attachment_size_limit">첨부 파일 크기는 %sMB 미만이어야 합니다.</string>
     <string name="remote_search_result">서버에 %s개의 결과</string>
     <string name="remove_account">계정 제거</string>
     <string name="remove_folder">%1$s에서 제거</string>
@@ -875,8 +875,8 @@
     <string name="security_notification_content_update_title">보안 업데이트 필요</string>
     <string name="security_unsupported_ticker_fmt">"\"%s\" 계정은 보안 요구 사항으로 인해
  동기화할 수 없습니다."</string>
-    <string name="select_attachment_type">첨부파일 선택 장소:</string>
-    <string name="select_no_file">첨부파일 선택 안 됨</string>
+    <string name="select_attachment_type">첨부 파일 선택 장소:</string>
+    <string name="select_no_file">첨부 파일 선택 안 됨</string>
     <string name="send">전송</string>
     <string name="send_failed">메시지가 전송되지 않았습니다.</string>
     <string name="send_feed_back">피드백 전송</string>
@@ -1030,23 +1030,23 @@
     <string name="account_failure">세션 시간 초과됨</string>
     <string name="account_settings_mail_check_frequency_dialog_title">이메일을 동기화하려면 수동으로 메일을 새로고침해야 합니다.</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">메시지 및 캘린더 일정을 동기화하려면 메일을 수동으로 동기화해야 합니다.</string>
-    <string name="account_settings_preference_att_save_path">첨부파일의 기본 위치</string>
+    <string name="account_settings_preference_att_save_path">첨부 파일의 기본 위치</string>
     <string name="account_settings_user_usage">계정 설정</string>
     <string name="account_setup_basics_login_gmail_without_proxy">현재 네트워크를 사용하여 로그인</string>
     <string name="account_setup_basics_mi_mail_login_help">이메일을 수신하려면 SMS를 통한 계정 인증이 요구됩니다.</string>
     <string name="account_sync_settings_settings">연락처 및 캘린더 동기화</string>
     <string name="account_sync_settingstip_description">동기화</string>
-    <string name="cancel_pop3_attchemt_downloading">POP3 계정으로는 진행 중인 첨부파일 다운로드를 취소할 수 없습니다.</string>
+    <string name="cancel_pop3_attchemt_downloading">POP3 계정으로는 진행 중인 첨부 파일 다운로드를 취소할 수 없습니다.</string>
     <string name="changepw_dialog_tips_please_clikc_btn">%s에서 인증 코드를 확인한 후 다시 로그인하세요.</string>
-    <string name="confirm_delete_attachment">첨부파일을 삭제하시겠습니까?</string>
+    <string name="confirm_delete_attachment">첨부 파일을 삭제하시겠습니까?</string>
     <string name="default_signature_2">내 %s에서 전송됨</string>
     <string name="dialog_system_auto_sync_account_no_open">자동으로 이메일을 수신하려면 계정 동기화 활성화</string>
     <string name="dialog_system_auto_sync_master_no_open">자동으로 이메일을 수신하려면 동기화 활성화</string>
     <string name="edit_signature">서명 편집</string>
     <string name="eml_parse_message">EML 파일을 여는 중…</string>
     <string name="failed_parse_eml_file">EML 파일을 열 수 없음, 다시 시도하세요.</string>
-    <string name="file_defailt_save_path">첨부파일은 기본적으로 %s 폴더에 저장됩니다. 설정에서 폴더를 변경할 수 있습니다.</string>
-    <string name="file_default_save_path_title">첨부파일의 기본 위치</string>
+    <string name="file_defailt_save_path">첨부 파일은 기본적으로 %s 폴더에 저장됩니다. 설정에서 폴더를 변경할 수 있습니다.</string>
+    <string name="file_default_save_path_title">첨부 파일의 기본 위치</string>
     <string name="file_save_path_dialog_cancel">알겠습니다.</string>
     <string name="file_save_path_dialog_ok">지금 변경</string>
     <string name="help_config">자체 구성</string>
@@ -1253,7 +1253,7 @@
     <string name="permission_des_calendar">캘린더 이벤트 동기화용</string>
     <string name="permission_des_contact">받는사람을 자동완성하기 위해 연락처의 이메일에 액세스하는 경우</string>
     <string name="permission_des_detail">"이러한 권한 부여 또는 개인정보 공유 및 업로드에 동의하지 않으면이 앱을 사용할 수 없습니다. 이 앱을 제거하거나 로그 아웃하거나 이 경우 설정에서 권한을 제한하세요. "</string>
-    <string name="permission_des_external_storage">첨부파일 저장 및 추가뿐만 아니라 새 이메일 작성</string>
+    <string name="permission_des_external_storage">첨부 파일 저장 및 추가뿐만 아니라 새 이메일 작성</string>
     <string name="permission_des_phone_status">기기를 식별하기 위해 IMEI에 액세스하는 경우</string>
     <string name="permission_des_storage">첨부 파일 저장 및 추가뿐만 아니라 새 이메일 작성</string>
     <string name="personal_data_collection_summary">스위치를 켜면 개인 데이터를 수집 할 수 있다는 데 동의합니다. 언제든지 스위치를 끄고 승인을 취소하며 서버에서 데이터를 삭제할 수 있습니다.</string>
@@ -1398,7 +1398,7 @@
      <string name="ntes_verification_code">코드 입력: %s</string>
      <string name="pdf_has_signature_prompt_cancel">원본 파일 열기</string>
      <string name="pdf_has_signature_prompt_confirm">사본 열기</string>
-     <string name="pdf_has_signature_prompt_message">이 첨부파일의 서명된 사본이 감지되었습니다. 이 사본을 열까요?</string>
+     <string name="pdf_has_signature_prompt_message">이 첨부 파일의 서명된 사본이 감지되었습니다. 이 사본을 열까요?</string>
      <string name="pdf_signature_create_title">서명 만들기</string>
      <string name="pdf_signature_manager_max_count">최대 서명 개수 도달. 등록된 서명을 삭제하고 다시 시도하세요.</string>
      <string name="pdf_signature_manager_title">서명 관리자</string>
@@ -1434,4 +1434,24 @@
      <string name="server_cet_title">인증서 정보</string>
      <string name="show_server_cet">인증서 보기</string>
      <string name="successfully_obtained_authorization_code">인증 코드</string>
+     <string name="about_checking_update">업데이트 확인 중...</string>
+     <string name="about_go_to_update">업데이트</string>
+     <string name="about_lasted_version">최신 버전입니다.</string>
+     <string name="account_setting_general_summry">이메일 일반 기능 설정</string>
+     <string name="account_setting_general_title">기능 설정</string>
+     <string name="account_settings_background_attachments_title">첨부 파일 자동 다운로드</string>
+     <string name="account_settings_does_not_support_pop">POP3 프로토콜에서 지원하지 않는 항목입니다.</string>
+     <string name="action_filter">필터</string>
+     <string name="install_mime_encrypt_cert">S/MIME 암호화 인증서 설치</string>
+     <string name="install_mime_sign_cert">S/MIME 서명 인증서 설치</string>
+     <string name="login_manual">수동 설정</string>
+     <string name="mailbox_setting_preference_sync_summary_close">동기화: 꺼짐</string>
+     <string name="mailbox_setting_preference_sync_summary_open">동기화: 켜짐</string>
+     <string name="server_log">이용 약관</string>
+     <string name="user_experience_content">《사용자 경험 프로그램》을 읽고 동의하세요.</string>
+     <string name="user_experience_log">사용자 경험 프로그램</string>
+     <string name="user_experience_login">참가</string>
+     <string name="user_experience_logout">탈퇴</string>
+     <string name="user_experience_positive">동의 및 계속</string>
+     <string name="user_experience_title">이용 약관</string>
 </resources>

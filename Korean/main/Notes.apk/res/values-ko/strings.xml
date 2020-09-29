@@ -166,7 +166,7 @@
     <string name="alarm_bar_title">미리 알림</string>
     <string name="toast_message_add_image_fail">이미지를 추가하지 못했습니다.</string>
     <string name="toast_reach_text_limit_truncate">이 메모는 너무 깁니다. 문장 끝부분의 일부 텍스트가 짤리게 됩니다.</string>
-    <string name="toast_reach_text_limit_attachment">메모가 너무 길어 새 첨부파일을 추가할 수 없습니다.</string>
+    <string name="toast_reach_text_limit_attachment">메모가 너무 길어 새 첨부 파일을 추가할 수 없습니다.</string>
     <string name="snippet_image_stub">[이미지]</string>
     <string name="snippet_image_template">[이미지 %1$s]</string>
     <string name="select_account_prompt">메모 동기화</string>
@@ -282,7 +282,7 @@
     <string name="permission_intro_contact">통화 중 메모 작성</string>
     <string name="permission_intro_microphone">음성 메모 녹음</string>
     <string name="permission_intro_phone">통화 중 메모 작성</string>
-    <string name="permission_intro_storage">메모와 첨부파일 저장</string>
+    <string name="permission_intro_storage">메모와 첨부 파일 저장</string>
     <string name="toast_refuse_to_use_contact">"연락처 권한이 제한됩니다.
 메모장이 연락처를 읽고 기기에서 계정을 찾을 수 있도록 허용하세요."</string>
     <string name="toast_refuse_to_use_external_storage">"저장 권한이 제한됩니다.
