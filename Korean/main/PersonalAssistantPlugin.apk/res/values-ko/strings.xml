@@ -287,7 +287,7 @@
     <string name="express_contact_phone">전화번호 입력</string>
     <string name="express_contact_phone_finding">잠시만 기다려주세요…</string>
     <string name="express_contact_prefix">"연락처"</string>
-    <string name="express_copied">운송장번호가 클립보드에 복사되었습니다.</string>
+    <string name="express_copied">운송장번호가 클립보드로 복사되었습니다.</string>
     <string name="express_copy_number">복사</string>
     <string name="express_delete_order">삭제</string>
     <string name="express_delivery">배송중</string>
@@ -823,7 +823,7 @@
     <string name="alipay_scan">스캐너</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="express_send_mms_format">%1$s로 발송함 | 운송장 번호: %2$s</string>
-    <string name="year_month_day_format">yyyy년 MM월 dd일</string>
+    <string name="year_month_day_format">yyyy년 M월 D일</string>
     <string name="express_inquiry_status_sign_out">거부됨</string>
     <string name="express_order_result">결과</string>
     <string name="express_inquiry_no_result">결과 없음</string>

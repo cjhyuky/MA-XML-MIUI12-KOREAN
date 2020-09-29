@@ -1330,7 +1330,7 @@
     <string name="up_to_loading_tips">놓아서 새로고침</string>
     <string name="update_no_network_toast">네크워크에 연결할 수 없습니다.</string>
     <string name="uploads_disabled">파일 업로드가 비활성화되었습니다.</string>
-    <string name="url_copy_done">URL이 클립보드에 복사됨</string>
+    <string name="url_copy_done">URL이 클립보드로 복사됨</string>
     <string name="url_find_on_page_result">브라우저로 보기</string>
     <string name="url_find_on_page_result_item">\"%s\"의 모든 문자 보기</string>
     <string name="url_hint">URL을 입력하거나 웹을 검색하세요.</string>

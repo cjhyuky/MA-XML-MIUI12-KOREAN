@@ -546,7 +546,7 @@
     <string name="delete_group_dialog_title">그룹 삭제</string>
     <string name="delete_group_dialog_message">"\"%1$s\" 그룹을 삭제하시겠습니까? 연락처 자체는 삭제되지 않습니다."</string>
     <string name="toast_join_with_empty_contact">다른 연락처 이름과 합치기 전에 연락처 이름 입력</string>
-    <string name="copy_text">클립보드에 복사</string>
+    <string name="copy_text">클립보드로 복사</string>
     <string name="set_default">기본값 설정</string>
     <string name="clear_default">기본값 지우기</string>
     <string name="toast_text_copied">텍스트 복사됨</string>
@@ -1477,7 +1477,7 @@
     <string name="month_september_shortest">9</string>
     <string name="more">더보기</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>
     <string name="saturday_shortest">토</string>

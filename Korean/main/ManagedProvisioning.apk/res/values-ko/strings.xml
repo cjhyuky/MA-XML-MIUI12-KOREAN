@@ -229,7 +229,7 @@
     <string name="not_set">설정되지 않음</string>
     <string name="now_lets_set_up_everything_else">"이제 모든 것을 설정하겠습니다."</string>
     <string name="password_toggle_content_description">비밀번호 표시</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="scroll_bar_page_down_button">아래로 스크롤</string>
     <string name="scroll_bar_page_up_button">위로 스크롤</string>
     <string name="setup_provisioning_header">작업 장치 설정 준비 중</string>

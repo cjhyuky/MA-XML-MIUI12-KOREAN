@@ -2047,7 +2047,7 @@
     <string name="convo_not_supported_summary">%1$s은(는) 대부분의 메시지 기능을 지원하지 않습니다. 중요 메시지를 설정할 수 없으며, 메시지가 팝업창으로 표시되지 않습니다.</string>
     <string name="cool_color">차가움</string>
     <string name="copy">복사</string>
-    <string name="copyable_slice_toast">%1$s이(가) 클립보드에 복사되었습니다.</string>
+    <string name="copyable_slice_toast">%1$s이(가) 클립보드로 복사되었습니다.</string>
     <string name="copyright_title">저작권</string>
     <string name="corner_assistant_gesture_summary">왼쪽 또는 오른쪽 하단 모서리에서 쓸어올려 Google 어시스턴트를 호출하세요.</string>
     <string name="corner_assistant_gesture_title">모서리에서 쓸어올려 Google 어시스턴트 열기</string>
@@ -6003,7 +6003,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="pref_volume_wake_summary">볼륨 버튼을 눌러 기기의 절전 모드 해제</string>
     <string name="pref_volume_wake_title">볼륨 버튼으로 깨우기</string>
     <string name="preference_change_password_title">비밀번호 변경</string>
-    <string name="preference_copied">\'%1$s\'이(가) 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\'%1$s\'이(가) 클립보드로 복사되었습니다.</string>
     <string name="preference_summary_default_combination">%1$s/ %2$s</string>
     <string name="preferred_app_settings">기본값</string>
     <string name="preferred_app_settings_default">기본값</string>

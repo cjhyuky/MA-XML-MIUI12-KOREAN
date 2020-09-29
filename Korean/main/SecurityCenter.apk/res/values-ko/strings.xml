@@ -196,10 +196,10 @@
     <string name="app_behavior_callphone_single">이 앱이 전화를 걸었습니다.</string>
     <string name="app_behavior_camera">%1s 앱이 사진이나 동영상을 촬영했습니다.</string>
     <string name="app_behavior_camera_single">이 앱이 사진을 찍거나 동영상을 녹화했습니다.</string>
-    <string name="app_behavior_clipboard">%1s 앱이 클립보드에 접근했거나 항목을 저장했습니다.</string>
-    <string name="app_behavior_clipboard_bg">%1s 앱이 백그라운드에서 클립보드에 접근했거나 항목을 저장했습니다.</string>
-    <string name="app_behavior_clipboard_bg_single">이 앱이 백그라운드에서 클립보드에 항목을 액세스하거나 저장했습니다.</string>
-    <string name="app_behavior_clipboard_single">이 앱이 클립보드에 항목을 액세스하거나 저장했습니다.</string>
+    <string name="app_behavior_clipboard">%1s 앱이 클립보드로 접근했거나 항목을 저장했습니다.</string>
+    <string name="app_behavior_clipboard_bg">%1s 앱이 백그라운드에서 클립보드로 접근했거나 항목을 저장했습니다.</string>
+    <string name="app_behavior_clipboard_bg_single">이 앱이 백그라운드에서 클립보드로 항목을 액세스하거나 저장했습니다.</string>
+    <string name="app_behavior_clipboard_single">이 앱이 클립보드로 항목을 액세스하거나 저장했습니다.</string>
     <string name="app_behavior_contacts">%1s 앱이 연락처에 접근했습니다.</string>
     <string name="app_behavior_contacts_bg">%1s 앱이 백그라운드에서 연락처에 접근했습니다.</string>
     <string name="app_behavior_contacts_bg_single">이 앱이 백그라운드에서 연락처에 접근했습니다.</string>
@@ -211,7 +211,7 @@
     <string name="app_behavior_door">앱 행동</string>
     <string name="app_behavior_get_install">%1s 앱이 설치된 앱 목록에 접근했습니다.</string>
     <string name="app_behavior_get_install_single">이 앱이 설치된 앱 목록에 접근했습니다.</string>
-    <string name="app_behavior_header_time">MM월 dd일</string>
+    <string name="app_behavior_header_time">M월 D일</string>
     <string name="app_behavior_key_audio">녹음</string>
     <string name="app_behavior_key_camera">사진 찍기</string>
     <string name="app_behavior_key_location">위치</string>
@@ -242,7 +242,7 @@
     <string name="app_behavior_notification_location_two">\"%1s\" 앱이 위치 정보 얻었습니다.</string>
     <string name="app_behavior_notification_title_calllog_read">%1s 앱이 백그라운드에서 통화 기록에 접근했습니다.</string>
     <string name="app_behavior_notification_title_calllog_write">%1s 앱이 백그라운드에서 통화 기록을 수정했습니다.</string>
-    <string name="app_behavior_notification_title_clipboard_read">%1s 앱이 백그라운드에서 클립보드에 접근했습니다.</string>
+    <string name="app_behavior_notification_title_clipboard_read">%1s 앱이 백그라운드에서 클립보드로 접근했습니다.</string>
     <string name="app_behavior_notification_title_clipboard_write">%1s 앱이 백그라운드에서 클립보드 항목을 수정했습니다.</string>
     <string name="app_behavior_notification_title_contact_read">%1s 앱이 백그라운드에서 주소록에 접근했습니다.</string>
     <string name="app_behavior_notification_title_contact_write">%1s 앱이 백그라운드에서 주소록을 수정했습니다.</string>
@@ -336,7 +336,7 @@
     <string name="app_manager_clear_failed_dlg_message">앱 데이터를 지울 수 없습니다.</string>
     <string name="app_manager_code_size">앱 크기</string>
     <string name="app_manager_comuting_size">계산중…</string>
-    <string name="app_manager_copy_pkg_to_clip">클립보드에 복사됨</string>
+    <string name="app_manager_copy_pkg_to_clip">클립보드로 복사됨</string>
     <string name="app_manager_data_size">사용자 데이터</string>
     <string name="app_manager_default_cleared">삭제됨</string>
     <string name="app_manager_default_close_summary">기본 작업 없음</string>

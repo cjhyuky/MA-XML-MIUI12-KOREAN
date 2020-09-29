@@ -12,7 +12,7 @@
     <string name="mru_setting_brief_detail">"최근에 사용된 빠른 앱 및 바로가기"</string>
     <string name="mru_title">최근 항목</string>
     <string name="app_debug_settings">앱 디버그 설정</string>
-    <string name="app_debug_settings_copied_to_clipboard">클립보드에 복사했습니다.</string>
+    <string name="app_debug_settings_copied_to_clipboard">클립보드로 복사했습니다.</string>
     <string name="app_debug_settings_host_title">호스트 환경 스위치</string>
     <string name="app_debug_settings_id_title">장치 ID 쿼리</string>
     <string name="app_debug_settings_oaid">OAID</string>
@@ -611,7 +611,7 @@
     <string name="express_contact_phone">전화번호 입력</string>
     <string name="express_contact_phone_finding">잠시만 기다려주세요…</string>
     <string name="express_contact_prefix">연락처</string>
-    <string name="express_copied">운송장번호가 클립보드에 복사되었습니다.</string>
+    <string name="express_copied">운송장번호가 클립보드로 복사되었습니다.</string>
     <string name="express_copy_number">복사</string>
     <string name="express_delete_order">삭제</string>
     <string name="express_delete_tel">전화번호 삭제</string>
@@ -1709,7 +1709,7 @@
     <string name="xiaomi_search_label">검색</string>
     <string name="xspace_resolver_activity_title">앱 선택</string>
     <string name="year_month_day_all_format_en">yyyy/MM/dd HH:mm:ss</string>
-    <string name="year_month_day_format">yyyy년 MM월 dd일</string>
+    <string name="year_month_day_format">yyyy년 M월 D일</string>
     <string name="yesterday">어제</string>
     <string name="location_permission_desc">내비게이션 루트 구축 및 차량 우호 서비스 제공</string>
     <string name="migu_game">미니 게임</string>

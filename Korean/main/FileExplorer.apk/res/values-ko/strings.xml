@@ -209,8 +209,8 @@
     <string name="storage_info_detail">사용 가능: %1$s 전체: %2$s</string>
     <string name="just_now">지금 바로</string>
     <string name="yesterday">어제</string>
-    <string name="month_day_format">MM월 dd일</string>
-    <string name="year_month_day_format">yyyy년 MM월 dd일</string>
+    <string name="month_day_format">M월 D일</string>
+    <string name="year_month_day_format">yyyy년 M월 D일</string>
     <string name="operation_del_fav">즐겨찾기에서 삭제 중…</string>
     <string name="operation_add_fav">즐겨찾기에 추가 중…</string>
     <string name="port_range">포트는 1024–65535 사이에 있어야 합니다.</string>
@@ -893,7 +893,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정 안 함</string>
     <string name="optional_change_wifi">Wi-Fi를 통한 원격 파일 관리</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="pull_to_enter_private">개인 폴더를 열려면 아래로 당기세요.</string>
     <string name="refresh_success">새로고침 완료</string>
     <string name="release_enter_private">개인 폴더 열기</string>

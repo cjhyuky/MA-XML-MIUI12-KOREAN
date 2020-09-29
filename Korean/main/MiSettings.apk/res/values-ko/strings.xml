@@ -400,7 +400,7 @@
     <string name="normal_mode">일반</string>
     <string name="normal_mode_summary">"조명 조건에서 깜박임을 줄이지 마세요"</string>
     <string name="not_set">설정되지 않음</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>
     <string name="saturday_shortest">토</string>

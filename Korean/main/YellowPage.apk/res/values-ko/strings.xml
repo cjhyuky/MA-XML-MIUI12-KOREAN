@@ -43,7 +43,7 @@
     <string name="download_failed_blocked">네트워크에 연결할 수 없습니다.</string>
     <string name="yellow_page_website">공식 웹사이트</string>
     <string name="yellow_page_details">기업 세부 정보</string>
-    <string name="menu_copy_text">클립보드에 복사</string>
+    <string name="menu_copy_text">클립보드로 복사</string>
     <string name="menu_call_ip_number">IP 전화 걸기</string>
     <string name="toast_text_copied">텍스트 복사됨</string>
     <string name="confirm_to_send_to_desktop">홈 화면에 %s항목을 배치하시겠습니까?</string>

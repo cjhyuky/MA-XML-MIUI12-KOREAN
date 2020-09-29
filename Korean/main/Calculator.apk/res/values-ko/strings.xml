@@ -191,7 +191,7 @@
     <string name="commercial_loan">상업 대출</string>
     <string name="current_rate_remind_commercial" />
     <string name="day">일</string>
-    <string name="dateformat">yyyy년 MM월 dd일</string>
+    <string name="dateformat">yyyy년 M월 D일</string>
     <string name="preference_settings">설정</string>
     <string name="preference_use_degress_title">각도 사용</string>
     <string name="preference_use_degress_summary">삼각함수에서 라디안을 각도로 대체합니다.</string>

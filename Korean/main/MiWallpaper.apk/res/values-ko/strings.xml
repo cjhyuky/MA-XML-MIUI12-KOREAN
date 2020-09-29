@@ -64,7 +64,7 @@
     <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
     <string name="not_set">설정 안 함</string>
     <string name="password_toggle_content_description">비밀번호 보기</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="saturn_summary">토성의 고리는 태양계에서 가장 놀라운 광경입니다.</string>
     <string name="saturn_title">우주의 고리</string>
     <string name="search_menu_title">검색</string>
@@ -182,7 +182,7 @@
     <string name="sunday_short">일요일</string>
     <string name="sunday_shortest">일</string>
     <string name="the_anniversary_of_lifting_martial_law">계엄 해제 기념일</string>
-    <string name="the_anti_aggression_day">반침략의 날</string>
+    <string name="the_anti_aggression_day">침략 반대의 날</string>
     <string name="the_arbor_day">식목일</string>
     <string name="the_armed_forces_day">국군의 날</string>
     <string name="the_childrens_day">&quot;어린이날&quot;</string>

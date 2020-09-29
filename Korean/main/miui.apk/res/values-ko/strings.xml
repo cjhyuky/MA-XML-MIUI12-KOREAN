@@ -629,7 +629,7 @@
     <string name="pick_people_cover_processing">잠시만 기다려 주세요…</string>
     <string name="pick_people_cover_success">커버 사진 적용 완료</string>
     <string name="picker_download_progress_file_message">파일 다운로드 중… (%1$d/%2$d)</string>
-    <string name="preference_copied">\"%1$s\"항목을 클립보드에 복사했습니다.</string>
+    <string name="preference_copied">\"%1$s\"항목을 클립보드로 복사했습니다.</string>
     <string name="private_entry_lock_state_activated_text">보안 폴더 열기</string>
     <string name="private_entry_lock_state_enterd_text">보안 폴더 열기</string>
     <string name="prompt_not_support_format">"이 이미지를 사용하여 사진을 생성할 수 없습니다."</string>

@@ -220,7 +220,7 @@
     <string name="michat_kefu_welcome">Mi 온라인 고객 지원에 오신 것을 환영합니다!</string>
     <string name="michat_lose_artificial">네트워크 오류 발생, 채팅에서 퇴장했습니다.</string>
     <string name="michat_menu_copy_text">복사</string>
-    <string name="michat_message_copy_info">클립보드에 복사됨</string>
+    <string name="michat_message_copy_info">클립보드로 복사됨</string>
     <string name="michat_message_error_network">네트워크에 연결할 수 없음</string>
     <string name="michat_message_join_again">다시 만나서 반갑습니다!</string>
     <string name="michat_message_robot_welcome">제 이름은 Mi 버니입니다. 저는 온라인 고객지원 로봇입니다.</string>
@@ -515,7 +515,7 @@
     <string name="toast_pic_not_exists">캐시된 이미지가 삭제되었습니다.</string>
     <string name="toast_post_deleted">이 토픽은 존재하지 않습니다. 삭제되었거나 수정되었습니다.</string>
     <string name="toast_problem_class_required">카테고리 선택</string>
-    <string name="toast_report_copied_to_clipboard">보고서가 클립보드에 복사됨</string>
+    <string name="toast_report_copied_to_clipboard">보고서가 클립보드로 복사됨</string>
     <string name="toast_report_sent_failed">보고서를 전송할 수 없습니다.</string>
     <string name="toast_report_sent_succeed">보고서를 전송했습니다.</string>
     <string name="toast_screenshot_too_large">100MB보다 큰 사진이나 영상은 업로드할 수 없습니다.</string>
@@ -534,7 +534,7 @@
     <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
     <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
     <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
-    <string name="feedback_detail_copy_toast">클립보드에 복사했습니다.</string>
+    <string name="feedback_detail_copy_toast">클립보드로 복사했습니다.</string>
     <string name="feedback_detail_feedback_attach">첨부 파일</string>
     <string name="feedback_detail_feedback_attach_upload_failed">"업로드 할 수 없음"</string>
     <string name="feedback_detail_feedback_attach_uploading">업로드 중…</string>

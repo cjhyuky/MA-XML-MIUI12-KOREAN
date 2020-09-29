@@ -447,6 +447,6 @@ Jeejen 폰이 현재 사용 가능합니다."</string>
     <string name="settings_launcher_layout_qingchun_title">청소년 모드</string>
     <string name="settings_launcher_layout_qingchun_desc">기능이나 생산성을 우선으로 하는 사람을 위한 모드입니다.</string>
     <string name="settings_launcher_default_text">기본 홈 화면</string>
-    <string name="clock_year_format_4_1">yyyy년 MM월 dd일</string>
+    <string name="clock_year_format_4_1">yyyy년 M월 D일</string>
     <string name="menu_dialog_cancel_title">취소</string>
 </resources>

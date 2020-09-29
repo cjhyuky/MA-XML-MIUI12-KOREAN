@@ -313,10 +313,10 @@
     <string name="popup_camera_cancel_popup">취소</string>
     <string name="popup_camera_continue_popup">카메라 열기</string>
     <string name="popup_camera_remove_hid_device">기기가 게임컨트롤러에 연결된 것 같습니다. 게임컨트롤러가 연결되어 있으면 전면 카메라를 열지 못할 수 있습니다.</string>
-    <string name="wireless_charging_notification_message1">충전할 무선장치를 찾을 수 없습니다. 역 무선 충전이 해제되었습니다.</string>
-    <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역 무선 충전이 해제되었습니다.</string>
-    <string name="wireless_charging_notification_message3">충전 중 오류가 발생했습니다. 역 무선 충전이 해제되었습니다.</string>
-    <string name="wireless_charging_notification_titile">역 무선 충전 끄기</string>
+    <string name="wireless_charging_notification_message1">충전할 무선장치를 찾을 수 없습니다. 역방향 무선 충전이 해제되었습니다.</string>
+    <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역방향 무선 충전이 해제되었습니다.</string>
+    <string name="wireless_charging_notification_message3">충전 중 오류가 발생했습니다. 역방향 무선 충전이 해제되었습니다.</string>
+    <string name="wireless_charging_notification_titile">역방향 무선 충전 끄기</string>
     <string name="frequent_email">자주 사용하는 이메일</string>
     <string name="data_usage_context">Wi-Fi가 켜지지 않으면 기기가 모바일 네트워크에 연결되어 요금제에 따라 추가 요금이 부과될 수 있습니다. 주의하세요!</string>
     <string name="slatoast">모바일 데이터를 사용하여 속도를 높이면 추가요금이 발생할 수 있습니다.</string>
@@ -327,7 +327,7 @@
     <string name="input_method_clipboard_settings_button">설정</string>
     <string name="input_method_clipboard_clear_all_button">모두 지우기</string>
     <string name="input_method_clipboard_clear_all_phrase_title">클립보드 지우기</string>
-    <string name="input_method_clipboard_clear_all_phrase_des">클립보드에서 모든 항목을 삭제하시겠습니까?</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">클립보드로서 모든 항목을 삭제하시겠습니까?</string>
     <string name="input_method_clipboard_checkbox_cancle">취소</string>
     <string name="input_method_clipboard_checkbox_confirm">지우기</string>
     <string name="input_method_clipboard_check_more_copy">복사</string>
@@ -350,7 +350,7 @@
     <string name="bluetooth_enable_notification_content">%s 앱이 블루투스를 켰습니다.</string>
     <string name="bluetooth_enable_notification_title">블루투스 켜짐</string>
     <string name="customer_location_judgment">중국</string>
-    <string name="input_method_clipboard_tips">복사한 항목은 48시간 뒤 클립보드에서 삭제됩니다.</string>
+    <string name="input_method_clipboard_tips">복사한 항목은 48시간 뒤 클립보드로서 삭제됩니다.</string>
     <string name="trial_mode_dialog_button_cancel">취소</string>
     <string name="trial_mode_dialog_button_save">저장</string>
     <string name="trial_mode_dialog_message">\"%s\" 게임을 체험 모드에서 실행 중입니다. 기기를 다시 시작하거나 광속 모드로 전환 시 이 게임은 삭제됩니다. 게임을 내부 저장소에 저장할까요?</string>

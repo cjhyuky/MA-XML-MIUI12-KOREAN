@@ -600,7 +600,7 @@ ID:%s
     <string name="passport_google_login_agree">Google 계정</string>
     <string name="passport_google_login_disagree">내 계정</string>
     <string name="passport_google_login_failed">"Google에 로그인할 수 없습니다. Mi 계정에 직접 로그인하세요."</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="state_data_error">"데이터를 가져올 수 없습니다."</string>
     <string name="state_loading">잠시만 기다려주세요…</string>
     <string name="v7_preference_off">꺼짐</string>

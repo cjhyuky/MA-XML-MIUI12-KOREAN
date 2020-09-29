@@ -162,7 +162,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사됨</string>
     <string name="purpose_v12">Mi Share에 오신 것을 환영합니다! 이 앱을 사용하여 장치간에 파일을 전송할 수 있습니다.</string>
     <string name="user_instructions">주의</string>
     <string name="v7_preference_off">끔</string>

@@ -218,7 +218,7 @@
     <string name="worldclock_search_city">도시 선택</string>
     <string name="worldclock_world_time">타임존</string>
     <string name="worldcolock_timezone_current">현재: %1$s</string>
-    <string name="worldcolock_timezone_date">MMMM dd일</string>
+    <string name="worldcolock_timezone_date">MMMM D일</string>
     <string name="worldcolock_timezone_gap">%s시간차</string>
     <string name="worldcolock_timezone_local">시간과 같음</string>
     <string name="open_keep_screen">화면 항상 켜기</string>
@@ -457,7 +457,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사됨</string>
     <string name="reach_upper_limit">"타이머를 추가할 수 없습니다."</string>
     <string name="system_permission_agree_desc">이 앱을 인터넷에 연결하여 모든 기능에 접근하도록 허용.</string>
     <string name="system_permission_main_purpose">스톱워치를 사용하여 시간 보기, 알람 및 타이머 설정</string>

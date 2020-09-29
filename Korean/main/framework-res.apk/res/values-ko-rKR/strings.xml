@@ -1134,7 +1134,7 @@
     <string name="tethered_notification_message">설정하려면 터치하세요.</string>
     <string name="tethered_notification_title">테더링 또는 핫스팟 사용</string>
     <string name="textSelectionCABTitle">텍스트 선택</string>
-    <string name="text_copied">텍스트가 클립보드에 복사되었습니다.</string>
+    <string name="text_copied">텍스트가 클립보드로 복사되었습니다.</string>
     <string name="throttle_warning_notification_message">모바일 데이터 사용에 대해 자세히 알아보려면 터치하세요.</string>
     <string name="throttle_warning_notification_title">높은 모바일 데이터 사용량</string>
     <string name="throttled_notification_message">모바일 데이터 사용에 대해 자세히 알아보려면 터치하세요.</string>

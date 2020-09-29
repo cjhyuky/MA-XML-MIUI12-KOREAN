@@ -750,7 +750,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_usb_tab_backup">USB 드라이브로 백업</string>
     <string name="new_usb_tab_restore">USB 드라이브에서 복원</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>

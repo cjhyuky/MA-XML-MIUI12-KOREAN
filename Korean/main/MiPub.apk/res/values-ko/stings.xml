@@ -101,7 +101,7 @@
     <string name="context_menu_browse_web">검색</string>
     <string name="context_menu_send_mail">이메일 전송</string>
     <string name="context_menu_copy">복사</string>
-    <string name="context_menu_copy_notice">클립보드에 복사됨</string>
+    <string name="context_menu_copy_notice">클립보드로 복사됨</string>
     <string name="context_menu_new_contact">새 연락처 생성</string>
     <string name="context_menu_add_contact">기존 연락처에 추가</string>
     <string name="pref_sms_theme_title">표시</string>

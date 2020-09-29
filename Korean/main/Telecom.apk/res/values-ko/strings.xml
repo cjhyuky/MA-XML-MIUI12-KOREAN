@@ -729,7 +729,7 @@
     <string name="osu_sign_up_failed">가입을 완료할 수 없습니다. 다시 시도하려면 탭하세요.</string>
     <string name="power_discharge_by_only_short">%1$s까지</string>
     <string name="power_suggestion_extend_battery">%1$s 이후 배터리 수명 연장</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="respond_via_sms_failure_format">메시지를 %s에 보내지 못했습니다.</string>
     <string name="search_menu">검색 설정</string>
     <string name="tap_to_sign_up">가입하려면 탭하세요.</string>

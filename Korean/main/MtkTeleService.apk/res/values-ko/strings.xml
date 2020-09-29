@@ -92,7 +92,7 @@
     <string name="police_type_description">경찰</string>
     <string name="power_discharge_by_only_short">%1$s까지</string>
     <string name="power_suggestion_extend_battery">%1$s 이후 배터리 수명 연장</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA / EvDo 자동</string>
     <string name="preferred_network_mode_cdma_wo_evdo_choice">EvDo가 없는 CDMA</string>
     <string name="preferred_network_mode_evdo_only_choice">EvDo 전용</string>

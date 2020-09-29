@@ -793,7 +793,7 @@
     <string name="pm">오후</string>
     <string name="pool_swimming">수영장 수영</string>
     <string name="preference_click_login">로그인</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="protein_rate">단백질</string>
     <string name="protein_rate_descripe_content">단백질 함량은 인체의 총 중량에서 단백질의 비율을 말하며, 이는 식습관이 건강에 미치는 영향을 반영합니다.</string>
     <string name="rate_bit_high">높음</string>

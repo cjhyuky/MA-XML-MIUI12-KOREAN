@@ -711,7 +711,7 @@
     <string name="contact_tip">연락처</string>
     <string name="context_menu_add_contact">연락처에 추가</string>
     <string name="context_menu_copy">복사</string>
-    <string name="context_menu_copy_notice">클립보드에 복사됨</string>
+    <string name="context_menu_copy_notice">클립보드로 복사됨</string>
     <string name="correct_photo_time">사진 촬영일 및 시간이 일치합니다.</string>
     <string name="correct_time_success">수정 완료</string>
     <string name="correct_time_tip">수정중…</string>
@@ -2475,7 +2475,7 @@
     <string name="pick_people_cover_page_title">표지 사진 선택</string>
     <string name="pick_people_cover_processing">잠시만 기다려주세요…</string>
     <string name="pick_people_cover_success">표지 사진을 성공적으로 적용했습니다.</string>
-    <string name="preference_copied">\"%1$s\"가 클립보드에 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="private_entry_lock_state_activated_text">개인 폴더 열기 해제</string>
     <string name="private_entry_lock_state_enterd_text">개인 폴더를 열려면 아래로 당깁니다.</string>
     <string name="prompt_not_support_format">"이 이미지를 사용하여 마법 소품을 만들 수 없습니다."</string>

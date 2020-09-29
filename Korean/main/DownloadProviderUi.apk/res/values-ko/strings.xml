@@ -370,7 +370,7 @@
     <string name="download_detail">세부사항</string>
     <string name="subfile_list">파일</string>
     <string name="guess_like">좋아할 것 같은 항목</string>
-    <string name="copy_info">클립보드에 복사되었습니다. 친구들과 공유할 수 있습니다!</string>
+    <string name="copy_info">클립보드로 복사되었습니다. 친구들과 공유할 수 있습니다!</string>
     <string name="file_size">크기:</string>
     <string name="complete_time">완료:</string>
     <string name="other">기타</string>
@@ -407,8 +407,8 @@
     <string name="search_hot_tv">TV 쇼</string>
     <string name="search_hot_variety">엔터테인먼트</string>
     <string name="search_hot_anime">만화</string>
-    <string name="search_history_month">MM월 dd일</string>
-    <string name="search_history_year">yyyy년 MM월 dd일</string>
+    <string name="search_history_month">M월 D일</string>
+    <string name="search_history_year">yyyy년 M월 D일</string>
     <string name="no_share_file">이 파일을 공유할 수 없습니다.</string>
     <string name="no_share_file_content">선택한 파일은 이미 삭제되었습니다.</string>
     <string name="no_share_files">이미 삭제된 파일은 공유할 수 없습니다.</string>
@@ -532,7 +532,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="no_net">"네트워크에 연결할 수 없음"</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사됨</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사됨</string>
     <string name="search_menu_title">검색</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>

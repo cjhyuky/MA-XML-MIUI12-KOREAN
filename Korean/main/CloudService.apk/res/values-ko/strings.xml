@@ -498,7 +498,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_notif_content_sync_finish">계정</string>
     <string name="micloud_notif_title_sync_not_finish">일부 항목이 동기화되지 않았습니다.</string>
     <string name="micloud_notif_content_sync_not_finish">자세히</string>
-    <string name="micloud_notif_title_clipboard_push">콘텐츠가 클립보드에 복사됨</string>
+    <string name="micloud_notif_title_clipboard_push">콘텐츠가 클립보드로 복사됨</string>
     <string name="micloud_notif_content_clipboard_push">이것을 아무곳에나 붙여넣을 수 있습니다.</string>
     <string name="micloud_notif_title_multi_user_error">Xiaomi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_multi_user_error">같은 계정으로 기본 공간에 로그인 했습니다.</string>
@@ -970,7 +970,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="not_set">설정 안 함</string>
-    <string name="preference_copied">\"%1$s\" 클립보드에 복사.</string>
+    <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="search_menu_title">검색</string>
     <string name="special_func_title">특수 기능</string>
     <string name="storage_upgrade_card_summary">더 많은 클라우드 저장소 공간 확보</string>
