@@ -43,7 +43,7 @@
         <item quantity="other">%1$d일(예상)</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">%1$d일 뒤 다음 월경</item>
+        <item quantity="other">%1$d일 후 다음 월경</item>
     </plurals>
     <plurals name="minutes">
         <item quantity="other">%1$d분</item>

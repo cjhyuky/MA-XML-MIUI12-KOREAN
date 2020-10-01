@@ -100,31 +100,31 @@
         <item quantity="other">%2$s에 %1$s개 항목 전송되지 않음</item>
     </plurals>
     <plurals name="number_of_day_after">
-         <item quantity="other">%1$d일 뒤</item>
+         <item quantity="other">%1$d일 후</item>
      </plurals>
     <plurals name="number_of_day_before">
          <item quantity="other">%1$일 전</item>
      </plurals>
     <plurals name="number_of_hour_after">
-         <item quantity="other">%1$d시간 뒤</item>
+         <item quantity="other">%1$d시간 후</item>
      </plurals>
     <plurals name="number_of_hour_before">
          <item quantity="other">%1$d시간 전</item>
      </plurals>
     <plurals name="number_of_minute_after">
-         <item quantity="other">%1$d분 뒤</item>
+         <item quantity="other">%1$d분 후</item>
      </plurals>
     <plurals name="number_of_minute_before">
          <item quantity="other">%1$d분 전</item>
      </plurals>
     <plurals name="number_of_second_after">
-         <item quantity="other">%1$d초 뒤</item>
+         <item quantity="other">%1$d초 후</item>
      </plurals>
     <plurals name="number_of_second_before">
          <item quantity="other">%1$d초 전</item>
      </plurals>
     <plurals name="number_of_week_after">
-         <item quantity="other">%1$d주 뒤</item>
+         <item quantity="other">%1$d주 후</item>
      </plurals>
     <plurals name="number_of_week_before">
          <item quantity="other">%1$d주 전</item>

@@ -49,7 +49,7 @@
     <item quantity="other">%1$d개 음악을 다운로드할 수 없습니다.</item>
     </plurals>
     <plurals name="Nquit_warning">
-    <item quantity="other">%d분 뒤 재생이 멈춥니다.</item>
+    <item quantity="other">%d분 후 재생이 멈춥니다.</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
     <item quantity="other">%1$s에 생성됨 | 총 %2$d개 음악</item>

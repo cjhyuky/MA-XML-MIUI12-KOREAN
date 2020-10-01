@@ -87,7 +87,7 @@
         <item quantity="one">%s시간 전</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">%s시간 뒤</item>
-        <item quantity="one">%s시간 뒤</item>
+        <item quantity="other">%s시간 후</item>
+        <item quantity="one">%s시간 후</item>
     </plurals>
 </resources>
