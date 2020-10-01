@@ -10,5 +10,5 @@
     <string name="label_alert_recovery">복구 모드</string>
     <string name="label_alert_shutdown">탭하여 전원 끄기</string>
     <string name="label_blank">뒤로</string>
-    <string name="label_emergency_call">긴급 통화</string>  
+    <string name="label_emergency_call">긴급 전화</string>  
 </resources>
