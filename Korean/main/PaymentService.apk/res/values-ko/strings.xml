@@ -335,7 +335,7 @@
     <string name="mibi_payment_success_label">"%1$s Mi 크레딧을 지불했습니다."</string>
     <string name="mibi_payment_success_title">지불 금액</string>
     <string name="mibi_payment_with_login_title">Mi 계정 확인</string>
-    <string name="mibi_paytool_alipay">알리페이</string>
+    <string name="mibi_paytool_alipay">Alipay</string>
     <string name="mibi_paytool_app_not_installed">"%1$s 앱을 설치하지 않았습니다. 다운로드하여 설치하시겠습니까?"</string>
     <string name="mibi_paytool_error_install">%1$s 모바일 보안 플러그인 설치 실패</string>
     <string name="mibi_paytool_error_msp">%1$s 실패</string>

@@ -367,13 +367,13 @@
     <string name="launch_order_change">주문 변경</string>
     <string name="launch_order_finish">완료</string>
     <string name="launch_setting_alipay_change">계정 전환</string>
-    <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 알리페이 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
+    <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 Alipay 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
     <string name="launch_setting_alipay_change_posi">전환</string>
     <string name="launch_setting_alipay_getversion">버전 번호 가져오기</string>
     <string name="launch_setting_alipay_login">로그인</string>
     <string name="launch_setting_alipay_logout">로그아웃</string>
     <string name="launch_setting_alipay_logout_fail">"로그아웃하지 못했습니다."</string>
-    <string name="launch_setting_alipay_logout_msg">알리페이 계정에서 로그아웃하시겠습니까?</string>
+    <string name="launch_setting_alipay_logout_msg">Alipay 계정에서 로그아웃하시겠습니까?</string>
     <string name="launch_setting_alipay_logout_posi">로그아웃</string>
     <string name="launch_setting_alipay_logout_success">로그아웃되었습니다.</string>
     <string name="launch_top">자주 사용하는 앱을 등록하세요.</string>
@@ -435,7 +435,7 @@
     <string name="mi_sport">Mi Fit</string>
     <string name="mi_sport_go_install">다운로드</string>
     <string name="mi_wallet">Mi 지갑</string>
-    <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 알리페이 지문을 설정하세요...</string>
+    <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 Alipay 지문을 설정하세요...</string>
     <string name="mini_agree">동의함</string>
     <string name="mini_already_download">다운로드 됨</string>
     <string name="mini_app_error">앱 오류가 발생했습니다. 앱을 다시 실행하세요.</string>
@@ -460,8 +460,8 @@
     <string name="mini_fp_validate_failuer">지문 확인에 실패했습니다. 비밀번호를 입력하세요.</string>
     <string name="mini_iknow">가져왔습니다.</string>
     <string name="mini_input_pwd">비밀번호 입력</string>
-    <string name="mini_install_tips">알리페이 보안 플러그인을 다운로드하고 설치 (업그레이드)해야 합니다.</string>
-    <string name="mini_loading">알리페이</string>
+    <string name="mini_install_tips">Alipay 보안 플러그인을 다운로드하고 설치 (업그레이드)해야 합니다.</string>
+    <string name="mini_loading">Alipay</string>
     <string name="mini_loading_certpay">지갑 전환</string>
     <string name="mini_net_error_weak">네트워크가 작동하지 않습니다. 나중에 다시 시도하세요.</string>
     <string name="mini_no_input">이 칸은 비워 둘 수 없습니다.</string>
@@ -906,8 +906,8 @@
     <string name="express_order_state_picking_failed">픽업 실패</string>
     <string name="express_urge_order">핑</string>
     <string name="navigation_search_automatically_positioned_city">현재 도시</string>
-    <string name="alipay_init">알리페이 인증중…</string>
-    <string name="alipay_init_success">알리페이 인증완료</string>
+    <string name="alipay_init">Alipay 인증중…</string>
+    <string name="alipay_init_success">Alipay 인증완료</string>
     <string name="alipay_sdk_minute_refresh">매분 새로고침</string>
     <string name="alipay_sdk_payed_desc">원가격: %1$s 위안 | %2$s 위안 절약됨</string>
     <string name="alipay_sdk_payed_desc_osfress">%1$s 위안 (%2$s)</string>
@@ -1037,7 +1037,7 @@
     <string name="notification_express_content">퀵카드에서 배송추적</string>
     <string name="notification_express_title">쇼핑앱의 알림 켜기</string>
     <string name="pay_card_pack">Mi페이</string>
-    <string name="paycode_parent">알리페이</string>
+    <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">지불 바로가기</string>
     <string name="paycode_sdk_parent_title">빠른 지불</string>
     <string name="payment">나의 구매내역</string>
@@ -1057,7 +1057,7 @@
     <string name="payment_dialog_notice_title">주의</string>
     <string name="payment_guide_hint">문자 메시지와 기타 앱에서 결제 정보를 수집합니다.</string>
     <string name="payment_guide_hint_link">보안 &amp; 개인정보보호</string>
-    <string name="payment_method_alipay">알리페이</string>
+    <string name="payment_method_alipay">Alipay</string>
     <string name="payment_method_bank">직불카드</string>
     <string name="payment_method_cash">현금</string>
     <string name="payment_method_credit">신용카드</string>
@@ -1075,8 +1075,8 @@
     <string name="payment_pref_privacy_security_title">비밀번호</string>
     <string name="payment_pref_report_category_title">신고</string>
     <string name="payment_pref_report_failed_record_title">구매 실패내역 신고</string>
-    <string name="payment_pref_source_alipay_summary">알리페이에서 구매내역 가져오기</string>
-    <string name="payment_pref_source_alipay_title">알리페이</string>
+    <string name="payment_pref_source_alipay_summary">Alipay에서 구매내역 가져오기</string>
+    <string name="payment_pref_source_alipay_title">Alipay</string>
     <string name="payment_pref_source_category_title">구매내역 정보 출처</string>
     <string name="payment_pref_source_mms_summary">문자메시지에서 구매내역 가져오기</string>
     <string name="payment_pref_source_mms_title">문자메시지</string>
@@ -1165,7 +1165,7 @@
     <string name="miot_device_network_error">네트워크 연결 실패</string>
     <string name="miot_device_shrink_list">목록 저장</string>
     <string name="net_unavailable">"네트워크 접속 불가"</string>
-    <string name="alipay_sdk_open_alipay">알리페이 실행</string>
+    <string name="alipay_sdk_open_alipay">Alipay 실행</string>
     <string name="alipay_sdk_open_extra_money">보너스 받기</string>
     <string name="card_title_empty_agenda">진행 중인 이벤트가 없습니다.</string>
     <string name="card_title_empty_express">주문내역이 없습니다.</string>

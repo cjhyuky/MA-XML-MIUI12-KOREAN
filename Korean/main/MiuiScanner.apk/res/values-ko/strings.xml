@@ -388,8 +388,8 @@
     <string name="business_card_result_title">사업카드</string>
     <string name="choose_pay_title">지불 방법 선택</string>
     <string name="no_support_to_translate_type">"이 언어는 지원되지 않습니다."</string>
-    <string name="scan_support_type">WeChat, 알리페이, QR 코드, 바코드</string>
-    <string name="setting_alipay">알리페이</string>
+    <string name="scan_support_type">WeChat, Alipay, QR 코드, 바코드</string>
+    <string name="setting_alipay">Alipay</string>
     <string name="setting_choose_every_time">항상 묻기</string>
     <string name="setting_default_function">기본 기능</string>
     <string name="setting_preference_pay">선호하는 지불 방법</string>

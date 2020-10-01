@@ -310,9 +310,9 @@
     <string name="airplane_mode">비행기 모드</string>
     <string name="alarm_template">%1$s에</string>
     <string name="alarm_template_far">%1$s에</string>
-    <string name="alipay_description_talkback">알리페이 결제</string>
+    <string name="alipay_description_talkback">Alipay 결제</string>
     <string name="alipay_title">결제</string>
-    <string name="alipayscan_description_talkback">알리페이 스캐너</string>
+    <string name="alipayscan_description_talkback">Alipay 스캐너</string>
     <string name="allow_mock_location">모의위치 허용</string>
     <string name="allow_mock_location_summary">모의위치를 허용합니다.</string>
     <string name="always_use_accessory">이 USB 주변기기 기본으로 사용</string>
@@ -934,9 +934,9 @@
     <string name="gxzw_quick_open_add_note">노트 추가</string>
     <string name="gxzw_quick_open_add_note_sub">참고 사항</string>
     <string name="gxzw_quick_open_alipay_pay">결제 코드</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">알리페이</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">스캐너</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">알리페이</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
     <string name="gxzw_quick_open_dialer">전화 걸기</string>
     <string name="gxzw_quick_open_dialer_sub">전화</string>
     <string name="gxzw_quick_open_qr_code">QR 코드</string>

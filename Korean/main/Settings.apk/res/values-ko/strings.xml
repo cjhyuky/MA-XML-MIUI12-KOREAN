@@ -3498,7 +3498,7 @@
     <string name="gesture_m">M 패턴</string>
     <string name="gesture_not_supported_dialog_message">기본 홈 앱(%s)에서 지원하지 않는 기능입니다.</string>
     <string name="gesture_not_supported_positive_button">기본 홈 앱 전환</string>
-    <string name="gesture_open_alipay">알리페이 열기</string>
+    <string name="gesture_open_alipay">Alipay 열기</string>
     <string name="gesture_open_camera">카메라 열기</string>
     <string name="gesture_open_music">음악앱 열기</string>
     <string name="gesture_open_wechat">WeChat 열기</string>
@@ -3594,7 +3594,7 @@
     <string name="handy_mode_enable">한 손 조작 모드</string>
     <string name="handy_mode_size">화면 크기</string>
     <string name="handy_mode_tips">홈 버튼에서 왼쪽이나 오른쪽으로 스와이프하여 화면을 한쪽으로 가깝게 당기세요.</string>
-    <string name="handy_mode_tips_full_screen">"전체 화면 제스처를 사용하는 경우 터치 도우미를 사용하여 한 손 모드를 켤 수 있으며, 전체 화면 제스처를 끄고 이전처럼 버튼을 스와이프하여 사용할 수도 있습니다."</string>
+    <string name="handy_mode_tips_full_screen">"전체 화면 제스처를 사용하는 경우 터치 도우미를 사용하여 한 손 조작 모드를 켤 수 있으며, 전체 화면 제스처를 끄고 이전처럼 버튼을 스와이프하여 사용할 수도 있습니다."</string>
     <string name="haptic_feedback_enable_title">터치 시 진동</string>
     <string name="haptic_feedback_level">진동</string>
     <string name="haptic_feedback_progress">긴급 피드백 레벨</string>
@@ -4084,8 +4084,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="later">나중에</string>
     <string name="lattice_smartcover_title">격자 무늬 전면 커버</string>
     <string name="launch_ai_shortcut">Mi AI 단축키</string>
-    <string name="launch_alipay_payment_code">알리페이 결제 코드</string>
-    <string name="launch_alipay_scanner">알리페이 스캐너</string>
+    <string name="launch_alipay_payment_code">Alipay 결제 코드</string>
+    <string name="launch_alipay_scanner">Alipay 스캐너</string>
     <string name="launch_by_default">기본으로 열기</string>
     <string name="launch_calculator">계산기</string>
     <string name="launch_camera">카메라 열기</string>

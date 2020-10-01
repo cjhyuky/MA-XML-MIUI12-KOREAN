@@ -76,7 +76,7 @@
     <string name="alipay_agree_insurance">同意 $ 보험</string>
     <string name="alipay_alipayAccountHint">휴대전화 번호/우편함/taobao 회원 이름</string>
     <string name="alipay_ant_group_brand">개미 브랜드</string>
-    <string name="alipay_application_name">알리 페이</string>
+    <string name="alipay_application_name">Alipay</string>
     <string name="alipay_back_button">귀국</string>
     <string name="alipay_bind_alipayaccount">alipay 계정 바인드</string>
     <string name="alipay_bind_now">즉시 바인딩</string>
@@ -177,7 +177,7 @@
     <string name="alipay_disagree">동의하지 않음</string>
     <string name="alipay_ensure">결정</string>
     <string name="alipay_enter">进入%1$s(%2$d)</string>
-    <string name="alipay_enterWallet">알리 페이 입력</string>
+    <string name="alipay_enterWallet">Alipay 입력</string>
     <string name="alipay_error_highlight">6–20 位 ， 字母 、 数字 或 符号 组合</string>
     <string name="alipay_face_login">브러쉬 페이스 로그인</string>
     <string name="alipay_feedback">피드백</string>
@@ -186,8 +186,8 @@
     <string name="alipay_flow_network_error">네트워크를 연결할 수 없습니다.</string>
     <string name="alipay_forget_password">비밀번호를 잊었습니까?</string>
     <string name="alipay_iknow">알아</string>
-    <string name="alipay_init">알리페이 인증중…</string>
-    <string name="alipay_init_success">알리페이 인증완료</string>
+    <string name="alipay_init">Alipay 인증중…</string>
+    <string name="alipay_init_success">Alipay 인증완료</string>
     <string name="alipay_insurance_name">보험 조건</string>
     <string name="alipay_isMineLoginImmediate">내 꺼야, 지금 로그인</string>
     <string name="alipay_keyboard">alipay 보안 키보드</string>
@@ -248,7 +248,7 @@
     <string name="alipay_risk_process_verify_by_alipay">휴대전화 alipay 인증으로 이동</string>
     <string name="alipay_scan">스캐너</string>
     <string name="alipay_sdk_minute_refresh">매분 새로고침</string>
-    <string name="alipay_sdk_open_alipay">알리페이 실행</string>
+    <string name="alipay_sdk_open_alipay">Alipay 실행</string>
     <string name="alipay_sdk_open_extra_money">보너스 받기</string>
     <string name="alipay_sdk_payed_desc">원가격: %1$s 위안 | %2$s 위안 절약됨</string>
     <string name="alipay_sdk_payed_desc_osfress">%1$s 위안 (%2$s)</string>
@@ -989,13 +989,13 @@
     <string name="launch_order_change">주문 변경</string>
     <string name="launch_order_finish">완료</string>
     <string name="launch_setting_alipay_change">계정 전환</string>
-    <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 알리페이 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
+    <string name="launch_setting_alipay_change_msg">계정을 전환하려면 현재 Alipay 계정에서 로그아웃해야 합니다. 지금 전환하시겠습니까?</string>
     <string name="launch_setting_alipay_change_posi">전환</string>
     <string name="launch_setting_alipay_getversion">버전 번호 가져오기</string>
     <string name="launch_setting_alipay_login">로그인</string>
     <string name="launch_setting_alipay_logout">로그아웃</string>
     <string name="launch_setting_alipay_logout_fail">로그아웃하지 못했습니다.</string>
-    <string name="launch_setting_alipay_logout_msg">알리페이 계정에서 로그아웃하시겠습니까?</string>
+    <string name="launch_setting_alipay_logout_msg">Alipay 계정에서 로그아웃하시겠습니까?</string>
     <string name="launch_setting_alipay_logout_posi">로그아웃</string>
     <string name="launch_setting_alipay_logout_success">로그아웃되었습니다.</string>
     <string name="launch_top">자주 사용하는 앱을 등록하세요.</string>
@@ -1070,7 +1070,7 @@
     <string name="midrop_parent">Mi Drop</string>
     <string name="midrop_send">보내기</string>
     <string name="mifare_card">카드 에뮬레이터</string>
-    <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 알리페이 지문을 설정하세요...</string>
+    <string name="mini_add_fp">먼저 지문을 휴대전화에 추가 한 다음 Alipay 지문을 설정하세요...</string>
     <string name="mini_agree">동의함</string>
     <string name="mini_already_download">다운로드 됨</string>
     <string name="mini_app_error">앱 오류가 발생했습니다. 앱을 다시 실행하세요.</string>
@@ -1104,8 +1104,8 @@
     <string name="mini_id_no">문서 번호</string>
     <string name="mini_iknow">가져왔습니다.</string>
     <string name="mini_input_pwd">비밀번호 입력</string>
-    <string name="mini_install_tips">알리페이 보안 플러그인을 다운로드하고 설치 (업그레이드)해야 합니다.</string>
-    <string name="mini_loading">알리페이</string>
+    <string name="mini_install_tips">Alipay 보안 플러그인을 다운로드하고 설치 (업그레이드)해야 합니다.</string>
+    <string name="mini_loading">Alipay</string>
     <string name="mini_loading_certpay">지갑 전환</string>
     <string name="mini_net_error">네트워크가 강력하지 않고 일시적으로 결제 결과를 얻을 수 없으며 alipay 청구서, 거래 시작 앱/웹 사이트보기 또는 네트워크 연결 재시 도로 이동할 수 있습니다.</string>
     <string name="mini_net_error_weak">네트워크가 작동하지 않습니다. 나중에 다시 시도하세요.</string>
@@ -1301,7 +1301,7 @@
     <string name="passenger_name">승객 이름</string>
     <string name="passenger_name_example">예 :. 데비 스미스</string>
     <string name="pay_card_pack">Mi페이</string>
-    <string name="paycode_parent">알리페이</string>
+    <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">지불 바로가기</string>
     <string name="paycode_sdk_parent_title">빠른 지불</string>
     <string name="payment">나의 구매내역</string>
@@ -1317,7 +1317,7 @@
     <string name="payment_dialog_notice_title">주의</string>
     <string name="payment_guide_hint">문자 메시지와 기타 앱에서 결제 정보를 수집합니다.</string>
     <string name="payment_guide_hint_link">\"퀵 카드 개인정보 보호정책\"</string>
-    <string name="payment_method_alipay">알리페이</string>
+    <string name="payment_method_alipay">Alipay</string>
     <string name="payment_method_bank">직불카드</string>
     <string name="payment_method_cash">현금</string>
     <string name="payment_method_credit">신용카드</string>
@@ -1335,8 +1335,8 @@
     <string name="payment_pref_privacy_security_title">비밀번호</string>
     <string name="payment_pref_report_category_title">신고</string>
     <string name="payment_pref_report_failed_record_title">구매 실패내역 신고</string>
-    <string name="payment_pref_source_alipay_summary">알리페이에서 구매내역 가져오기</string>
-    <string name="payment_pref_source_alipay_title">알리페이</string>
+    <string name="payment_pref_source_alipay_summary">Alipay에서 구매내역 가져오기</string>
+    <string name="payment_pref_source_alipay_title">Alipay</string>
     <string name="payment_pref_source_category_title">구매내역 정보 출처</string>
     <string name="payment_pref_source_mms_summary">문자메시지에서 구매내역 가져오기</string>
     <string name="payment_pref_source_mms_title">문자메시지</string>
