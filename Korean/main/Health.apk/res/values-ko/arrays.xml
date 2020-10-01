@@ -67,7 +67,7 @@
     <string-array name="run_in_background_state">
         <item>제한 없음</item>
         <item>백그라운드 활동 제한</item>
-        <item>10분 뒤 멈춤</item>
+        <item>10분 후 멈춤</item>
         <item>사용하지 않음</item>
     </string-array>
     <string-array name="splash_loading">
