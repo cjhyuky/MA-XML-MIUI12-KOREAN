@@ -57,7 +57,7 @@
     <string name="megabyteShort">MB</string>
     <string name="month_day_format">월월월 일일</string>
     <string name="move_failed">"삭제할 수 없습니다."</string>
-    <string name="move_failed_retry">"삭제할 수 없습니다. 몇 분 뒤에 다시 시도하세요."</string>
+    <string name="move_failed_retry">"삭제할 수 없습니다. 몇 분 후에 다시 시도하세요."</string>
     <string name="need_get_accounts_permission">Mi 드라이브가 정상적으로 작동하기 위해서는 귀하의 계정에 액세스해야 합니다.</string>
     <string name="never_notify">"다시 보이지 않기"</string>
     <string name="no_app_found_to_open_file">이 작업을 처리할 수 있는 앱이 없습니다.</string>

@@ -103,7 +103,7 @@
     <string name="drm_license_info">DRM 라이센스 정보</string>
     <string name="no_permission_for_drm">DRM 파일은 공유할 수 없습니다.</string>
     <string name="rights_expired">음원 저작권 만료</string>
-    <string name="toast_not_show_thumbnail">사용 가능한 램이 낮아 썸네일을 표시할 수 없습니다.</string>
+    <string name="toast_not_show_thumbnail">RAM이 부족해 미리보기를 표시할 수 없습니다.</string>
     <string name="button_compress">압축</string>
     <string name="button_extract">압축 풀기</string>
     <string name="files_label">파일</string>
@@ -117,7 +117,7 @@
     <string name="sort_dimension_size">크기</string>
     <string name="sort_dimension_summary">요약</string>
     <string name="archive_loading_failed">파일을 열 수 없습니다. 파일이 손상되었거나 지원되지 않는 형식입니다.</string>
-    <string name="authentication_required">이 디렉토리를 보려면 %1$s으로 로그인하세요.</string>
+    <string name="authentication_required">이 디렉터리를 보려면 %1$s으로 로그인하세요.</string>
     <string name="cant_display_content">콘텐츠를 표시할 수 없음</string>
     <string name="compress_notification_title">파일 압축중</string>
     <string name="compress_preparing">압축 준비 중…</string>

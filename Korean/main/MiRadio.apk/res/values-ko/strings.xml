@@ -281,7 +281,7 @@ ID:%s
     <string name="passport_reging">계정 만드는 중…</string>
     <string name="passport_register_restricted">너무 많은 계정이 이 번호에 연결되었습니다. 다른 번호를 사용하세요.</string>
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
-    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 뒤에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_sending_vcode">코드 전송 중…</string>
     <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_set_password_no_phone_msg">전화번호를 추가해 계정을 보호하세요.</string>

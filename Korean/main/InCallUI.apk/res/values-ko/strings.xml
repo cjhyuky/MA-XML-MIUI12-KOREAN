@@ -25,7 +25,7 @@
     <string name="callFailed_cb_enabled">통화 제한이 설정되어 있는 동안에는 발신이 불가능합니다.</string>
     <string name="callFailed_incoming_cb_enabled">수신 전화가 차단되었습니다.</string>
     <string name="callFailed_dsac_restricted">접근 제한에 의해 모든 통화가 제한되어 있습니다.</string>
-    <string name="callFailed_dsac_restricted_emergency">접근 제한에 의해 긴급 통화가 제한되어 있습니다.</string>
+    <string name="callFailed_dsac_restricted_emergency">접근 제한에 의해 긴급 전화가 제한되어 있습니다.</string>
     <string name="callFailed_dsac_restricted_normal">접근 통제에 의해 일반 통화가 제한되어 있습니다.</string>
     <string name="callFailed_unobtainable_number">잘못된 번호</string>
     <string name="incall_error_supp_service_unknown">이 서비스는 지원되지 않습니다.</string>

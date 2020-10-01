@@ -1131,9 +1131,9 @@
     <string name="pref_camera_current_k_value">현재값</string>
     <string name="pref_camera_debug_info_as_watermark_title">워터 마크 디버깅 켜기</string>
     <string name="pref_camera_default_suffix">(기본)</string>
-    <string name="pref_camera_delay_capture_entry_10s">10초 뒤 촬영</string>
-    <string name="pref_camera_delay_capture_entry_3s">3초 뒤 촬영</string>
-    <string name="pref_camera_delay_capture_entry_5s">5초 뒤 촬영</string>
+    <string name="pref_camera_delay_capture_entry_10s">10초 후 촬영</string>
+    <string name="pref_camera_delay_capture_entry_3s">3초 후 촬영</string>
+    <string name="pref_camera_delay_capture_entry_5s">5초 후 촬영</string>
     <string name="pref_camera_delay_capture_entry_audio">오디오</string>
     <string name="pref_camera_delay_capture_title">타이머</string>
     <string name="pref_camera_denoise_title">Wavelet denoise 모드</string>

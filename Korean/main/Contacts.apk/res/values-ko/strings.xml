@@ -512,8 +512,8 @@
     <string name="aggregation_suggestion_edit_dialog_message">동일한 이름의 연락처를 편집하시겠습니까? 지금까지 입력한 정보는 복사됩니다.</string>
     <string name="menu_copyContact">내 연락처로 복사</string>
     <string name="add_to_my_contacts">내 연락처에 추가</string>
-    <string name="contact_directory_description">%1$s개 디렉토리</string>
-    <string name="directory_search_label">디렉토리</string>
+    <string name="contact_directory_description">%1$s개 디렉터리</string>
+    <string name="directory_search_label">디렉터리</string>
     <string name="local_search_label">모든 연락처</string>
     <string name="toast_making_personal_copy">개별 사본을 만드는 중…</string>
     <string name="list_filter_all_accounts">모든 연락처</string>
@@ -795,8 +795,8 @@
     <string name="t9_search_guide_zhuyin_title1">번호를 입력하여 연락처 찾기</string>
     <string name="t9_search_guide_zhuyin_title2">\"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"의 검색을 위해 \"5\"와 \"6\" 입력</string>
     <string name="date_time_set">설정</string>
-    <string name="service_provider">디렉토리</string>
-    <string name="service_provider_detail">디렉토리 세부사항</string>
+    <string name="service_provider">디렉터리</string>
+    <string name="service_provider_detail">디렉터리 세부사항</string>
     <string name="zero_items_selected">항목 선택</string>
     <string name="select_all">모두 선택</string>
     <string name="deselect_all">모두 선택 해제</string>

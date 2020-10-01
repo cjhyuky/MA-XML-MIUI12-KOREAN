@@ -756,8 +756,8 @@
     <string name="auto_disable_screenbuttons_auto">항상 비활성화</string>
     <string name="auto_disable_screenbuttons_cancel">취소</string>
     <string name="auto_disable_screenbuttons_no">비활성화하지 않음</string>
-    <string name="auto_disable_screenbuttons_rotation_summary">기기가 가로 화면일 때 내비게이션 버튼이 비활성화됩니다.</string>
-    <string name="auto_disable_screenbuttons_rotation_title">가로 화면에서 내비게이션 버튼 비활성화</string>
+    <string name="auto_disable_screenbuttons_rotation_summary">기기가 가로 화면일 때 탐색 버튼이 비활성화됩니다.</string>
+    <string name="auto_disable_screenbuttons_rotation_title">가로 화면에서 탐색 버튼 비활성화</string>
     <string name="auto_disable_screenbuttons_summary">선택된 앱을 사용할 때 자동으로 탐색 버튼을 비활성화 합니다. 탐색 버튼을 더블 탭하면 재활성화됩니다.</string>
     <string name="auto_disable_screenbuttons_title">자동으로 탐색 버튼 비활성화</string>
     <string name="auto_dual_clock_aod_summary">현재 시간이 두 번째 시계와 다른 경우 듀얼 시계 표시</string>
@@ -781,9 +781,9 @@
     <string name="auto_sync_account_title">자동으로 앱 데이터 동기화</string>
     <string name="auto_sync_personal_account_title">자동으로 개인 데이터 동기화</string>
     <string name="auto_sync_work_account_title">자동으로 업무 데이터 동기화</string>
-    <string name="autofill_app">자동 완성 서비스</string>
-    <string name="autofill_confirmation_message">&lt;b&gt;이 앱을 신뢰하는지 확인하세요.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; 무엇이 자동 완성 될지 결정하기 위해 화면에 있는 것을 사용합니다.</string>
-    <string name="autofill_keywords">자동, 입력, 자동 완성</string>
+    <string name="autofill_app">자동완성 서비스</string>
+    <string name="autofill_confirmation_message">&lt;b&gt;이 앱을 신뢰하는지 확인하세요.&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; 무엇이 자동완성 될지 결정하기 위해 화면에 있는 것을 사용합니다.</string>
+    <string name="autofill_keywords">자동, 입력, 자동완성</string>
     <string name="autofill_logging_level_title">로깅 수준</string>
     <string name="autofill_max_partitions">세션당 최대 요청 수</string>
     <string name="autofill_max_visible_datasets">표시할 데이터세트 최대 개수</string>
@@ -2025,12 +2025,12 @@
     <string name="contextual_card_feedback_confirm_message">이 제안에 관한 의견을 보내주세요.</string>
     <string name="contextual_card_feedback_send">의견 보내기</string>
     <string name="contextual_card_removed_message">추천 항목 삭제됨</string>
-    <string name="contextual_card_undo_dismissal_text">실행취소</string>
+    <string name="contextual_card_undo_dismissal_text">실행 취소</string>
     <string name="continue_all_caps">계속</string>
     <string name="continue_reset_factory">초기화</string>
     <string name="contributors_title">도움을 주신 분들</string>
     <string name="control_center">제어 센터</string>
-    <string name="control_panel_switch_side">제어 센터 측면으로 전환</string>
+    <string name="control_panel_switch_side">제어 센터 좌우 반전</string>
     <string name="controls_label">제어</string>
     <string name="controls_subtitle">전원 사용 조절</string>
     <string name="convenience_key_category_title">시스템 컨트롤</string>
@@ -2117,7 +2117,7 @@
     <string name="crypt_keeper_switch_to_pin">PIN 사용</string>
     <string name="crypt_keeper_unplugged_text">충전기를 연결한 다음 다시 시도하세요.</string>
     <string name="crypt_keeper_warn_wipe">경고: 잠금해제 시도를 ^1회 이상 실패할 경우 기기의 데이터가 삭제됩니다!</string>
-    <string name="cryptkeeper_emergency_call">긴급 통화</string>
+    <string name="cryptkeeper_emergency_call">긴급 전화</string>
     <string name="cryptkeeper_return_to_call">통화로 돌아가기</string>
     <string name="cryptkeeper_wrong_password">잘못된 비밀번호</string>
     <string name="cryptkeeper_wrong_pattern">잘못된 패턴</string>
@@ -2356,7 +2356,7 @@
     <string name="debug_app_not_set">디버깅할 애플리케이션이 설정되지 않음</string>
     <string name="debug_app_set">디버깅할 애플리케이션: %1$s</string>
     <string name="debug_applications_category">앱</string>
-    <string name="debug_autofill_category">자동 완성</string>
+    <string name="debug_autofill_category">자동완성</string>
     <string name="debug_debugging_category">디버깅</string>
     <string name="debug_drawing_category">그림</string>
     <string name="debug_hw_drawing_category">하드웨어 가속 렌더링</string>
@@ -2576,7 +2576,7 @@
     <string name="dirac_mode_piston_2">Mi 피스톤-2</string>
     <string name="dirac_mode_piston_youth">Mi 피스톤 유스</string>
     <string name="direct_boot_unaware_dialog_message">주의: 다시 시작 후 휴대전화 잠금을 해제해야 이 앱을 시작할 수 있습니다.</string>
-    <string name="directory_access">디렉토리 액세스</string>
+    <string name="directory_access">디렉터리 액세스</string>
     <string name="disableNetwork">네트워크 비활성화</string>
     <string name="disable_data_string">데이터 연결 비허용</string>
     <string name="disable_encrypt_description">암호화하지 않음</string>
@@ -2856,7 +2856,7 @@
     <string name="emergency_sos_title">긴급 SOS</string>
     <string name="emergency_tone_alert">경고</string>
     <string name="emergency_tone_silent">무음 모드</string>
-    <string name="emergency_tone_summary">긴급 통화 중 동작 설정</string>
+    <string name="emergency_tone_summary">긴급 전화 중 동작 설정</string>
     <string name="emergency_tone_title">긴급 신호음</string>
     <string name="emergency_tone_vibrate">진동</string>
     <string name="empty_list_msg">설치된 타사 앱이 없습니다.</string>
@@ -2939,9 +2939,9 @@
     <string name="encrypt_talkback_dialog_message_password">기기를 시작하기 위해 비밀번호를 입력할 때에는 %1$s 등의 접근성 서비스가 지원되지 않습니다.</string>
     <string name="encrypt_talkback_dialog_message_pattern">기기를 시작하기 위해 패턴을 입력할 때에는 %1$s 등의 접근성 서비스가 지원되지 않습니다.</string>
     <string name="encrypt_talkback_dialog_message_pin">기기를 시작하기 위해 PIN을 입력할 때에는 %1$s 등의 접근성 서비스가 지원되지 않습니다.</string>
-    <string name="encrypt_talkback_dialog_require_password">비밀번호가 필요한가요?</string>
-    <string name="encrypt_talkback_dialog_require_pattern">패턴이 필요한가요?</string>
-    <string name="encrypt_talkback_dialog_require_pin">PIN이 필요한가요?</string>
+    <string name="encrypt_talkback_dialog_require_password">비밀번호가 필요하신가요?</string>
+    <string name="encrypt_talkback_dialog_require_pattern">패턴이 필요하신가요?</string>
+    <string name="encrypt_talkback_dialog_require_pin">PIN이 필요하신가요?</string>
     <string name="encryption_and_credential_settings_summary">휴대전화가 암호화되어 있습니다.</string>
     <string name="encryption_and_credential_settings_title">암호화 &amp; 자격증명</string>
     <string name="encryption_continue_button">계속</string>
@@ -4936,17 +4936,17 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="mode_enable">활성화</string>
     <string name="model_hardware_summary">모델:%1$s; 하드웨어:%2$s</string>
     <string name="model_info">모델</string>
-    <string name="model_name">모델명</string>
-    <string name="model_number">기기명</string>
+    <string name="model_name">모델 이름</string>
+    <string name="model_number">기기 이름</string>
     <string name="model_summary">모델: %1$s</string>
-    <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터 수집이 시작될 수 있습니다. 그래도 설정하시겠습니까?</string>
+    <string name="modify_default_browser_message">타사 앱을 기본 브라우저로 설정하면 인터넷 사용 기록 및 기타 데이터가 수집될 수도 있습니다. 그래도 설정할까요?</string>
     <string name="modify_instruction_password_settings">비밀번호 설정</string>
     <string name="modify_privacy_password">비밀번호 변경</string>
     <string name="module_license_title">Google Play 시스템 업데이트 라이선스</string>
     <string name="module_version">Google Play 시스템 업데이트</string>
     <string name="more_account_settings_title">기타 계정</string>
-    <string name="more_dangerous_option_hint">고위험기능인 \"%1$s\" 기능이 켜져있습니다. 설정을 변경하려면 탭하세요.</string>
-    <string name="more_installed_services_title">더 많은 다운로드된 서비스</string>
+    <string name="more_dangerous_option_hint">고위험 기능인 \"%1$s\" 기능이 켜져있습니다. 설정을 변경하려면 탭하세요.</string>
+    <string name="more_installed_services_title">설치된 서비스</string>
     <string name="move_app">이동</string>
     <string name="move_app_failed_dlg_text">앱을 이동하지 못했습니다. %1$s</string>
     <string name="move_app_to_internal">휴대전화로 이동</string>
@@ -6064,7 +6064,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="preferred_network_offload_title">기본 네트워크 오프로드</string>
     <string name="preferred_network_type_summary">LTE(권장)</string>
     <string name="preferred_network_type_title">선호하는 네트워크 유형</string>
-    <string name="preferred_sms_settings">이 앱을 문자 메시지를 읽고 작성하는 기본 앱으로 설정합니다.</string>
+    <string name="preferred_sms_settings">이 앱을 메시지를 읽고 작성하는 기본 앱으로 설정합니다.</string>
     <string name="preferred_sms_title">기본 메시지 앱</string>
     <string name="preferred_sms_warning_message">변경 후 \"%1$s\"앱을 사용하게 됩니다. 모바일 데이터 사용량 증가 또는 개인정보 보안에 위험성을 가져올 수 있습니다.</string>
     <string name="preferred_sms_warning_use_system">사용 안 함</string>
@@ -6199,7 +6199,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="privacy_settings_new">백업 및 복원</string>
     <string name="privacy_settings_title">백업 및 초기화</string>
     <string name="privacy_thumbnail_blur_progress_message">잠시만 기다려주세요…</string>
-    <string name="privacy_thumbnail_blur_title">앱 미리보기 흐림효과</string>
+    <string name="privacy_thumbnail_blur_title">앱 미리보기 흐림 효과</string>
     <string name="private_dns_broken">개인 DNS 서버에 액세스할 수 없음</string>
     <string name="private_dns_help_message">&lt;annotation id=\"url\"&gt;자세히 알아보기&lt;/annotation&gt; 개인 DNS 기능</string>
     <string name="private_dns_mode_off">끄기</string>
@@ -6232,7 +6232,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="process_stats_summary">프로세스 실행에 관한 통계</string>
     <string name="process_stats_summary_title">프로세스 통계</string>
     <string name="process_stats_total_duration">지난 %3$s 동안 %2$s 사용량을 초과하는 %1$s 앱</string>
-    <string name="process_stats_total_duration_percentage">%2$s 램 중 %2$s 사용됨</string>
+    <string name="process_stats_total_duration_percentage">%2$s RAM 중 %1$s 사용됨</string>
     <string name="process_stats_type_background">백그라운드</string>
     <string name="process_stats_type_cached">캐시된 프로세스</string>
     <string name="process_stats_type_foreground">포그라운드</string>
@@ -6266,7 +6266,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="proxy_error_dismiss">확인</string>
     <string name="proxy_error_empty_host_set_port">호스트가 비어 있는 경우 포트를 입력할 수 없습니다.</string>
     <string name="proxy_error_empty_port">포트 정보를 입력해야 합니다.</string>
-    <string name="proxy_error_invalid_exclusion_list">입력한 제외목록의 형식이 올바르지 않습니다. 제외된 도메인을 쉼표로 구분한 목록을 입력하시기 바랍니다.</string>
+    <string name="proxy_error_invalid_exclusion_list">입력한 제외 목록의 형식이 올바르지 않습니다. 제외된 도메인을 쉼표로 구분한 목록을 입력하시기 바랍니다.</string>
     <string name="proxy_error_invalid_host">입력한 호스트 이름이 잘못되었습니다.</string>
     <string name="proxy_error_invalid_port">입력한 포트가 올바르지 않습니다.</string>
     <string name="proxy_exclusionlist_label">바이패스</string>
@@ -6327,7 +6327,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="radioInfo_phone_ringing">벨이 울림</string>
     <string name="radioInfo_roaming_in">로밍</string>
     <string name="radioInfo_roaming_not">로밍 안 함</string>
-    <string name="radioInfo_service_emergency">긴급 통화만</string>
+    <string name="radioInfo_service_emergency">긴급 전화만</string>
     <string name="radioInfo_service_in">서비스 중</string>
     <string name="radioInfo_service_off">무선 연결 끊김</string>
     <string name="radioInfo_service_out">서비스 지역 벗어남</string>
@@ -6370,7 +6370,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="radio_info_network_type_label">네트워크 유형:</string>
     <string name="radio_info_phone_number_label">전화번호:</string>
     <string name="radio_info_phy_chan_config">물리적인 LTE채널 설정:</string>
-    <string name="radio_info_ping_hostname">호스트이름(www.google.com) Ping:</string>
+    <string name="radio_info_ping_hostname">호스트 이름(www.google.com) Ping:</string>
     <string name="radio_info_ping_hostname_v4">핑 호소트 이름(www.google.com) IPv4:</string>
     <string name="radio_info_ping_hostname_v6">핑 호스트 이름(www.google.com) IPv6:</string>
     <string name="radio_info_ping_ipaddr">IP 주소 Ping:</string>
@@ -6637,9 +6637,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_dark_mode_advanced_title">고급 설정</string>
     <string name="screen_dark_mode_select_time_error_summary">"시작 시간과 끝 시간을 다르게 설정하세요"</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">타사 앱</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_summary">다크 모드에서 일부 앱이 잘못 표시 될 수 있습니다. 여기에서 개별 앱에 다크 모드 사용을 제한할 수 있습니다.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">일부 앱은 다크 모드에서 이상하게 표시될 수 있습니다. 여기에서 개별 앱의 다크 모드 사용을 제한할 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">개별 앱</string>
-    <string name="screen_dark_mode_smart_dark_summary">타사 앱에도 다크 모드를 적용합니다. 일부 앱은 제대로 보이지 않을 수 있습니다.</string>
+    <string name="screen_dark_mode_smart_dark_summary">타사 앱에도 다크 모드를 적용합니다. 일부 앱은 제대로 표시되지 않을 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_title">글로벌 다크 모드</string>
     <string name="screen_dark_mode_time_title">스케줄</string>
     <string name="screen_effect">색상 구성표</string>
@@ -8189,7 +8189,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="theme_customization_icon_shape_title">아이콘 모양</string>
     <string name="theme_settings_title">테마</string>
     <string name="thememanager_not_found">테마를 열 수 없습니다. 이 앱이 기기에 설치되어 있는지 확인하여 주세요.</string>
-    <string name="three_gesture_down">세손가락 내리기</string>
+    <string name="three_gesture_down">세 손가락 쓸어내리기</string>
     <string name="three_gesture_long_press">%d개의 손가락으로 길게 누르기</string>
     <string name="time_format_category_title">시간 형식</string>
     <string name="time_picker_title">시간</string>
@@ -9236,8 +9236,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wellbing_title">디지털 웰빙 &amp; 자녀 보호</string>
     <string name="wfc_disclaimer_agree_button_text">계속</string>
     <string name="wfc_disclaimer_disagree_text">거부</string>
-    <string name="wfc_disclaimer_emergency_limitation_desc_text">Wi‑Fi 통화를 사용한 긴급 통화가 이용 중인 이동통신사에서 지원되지 않습니다.\n긴급 통화를 걸면 기기에서 모바일 네트워크로 자동 전환합니다.\n긴급 통화는 모바일 데이터가 지원되는 지역에서만 사용할 수 있습니다.</string>
-    <string name="wfc_disclaimer_emergency_limitation_title_text">긴급 통화</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">Wi‑Fi 통화를 사용한 긴급 전화가 이용 중인 이동통신사에서 지원되지 않습니다.\n긴급 전화를 걸면 기기에서 모바일 네트워크로 자동 전환합니다.\n긴급 전화는 모바일 데이터가 지원되는 지역에서만 사용할 수 있습니다.</string>
+    <string name="wfc_disclaimer_emergency_limitation_title_text">긴급 전화</string>
     <string name="wfc_disclaimer_location_desc_text">서비스 제공업체에서 이 서비스를 제공하기 위해 내 위치 정보를 수집할 수 있습니다.\n\n서비스 제공업체의 개인정보처리방침을 검토하세요.</string>
     <string name="wfc_disclaimer_location_title_text">위치</string>
     <string name="wfc_disclaimer_title_text">중요한 정보</string>

@@ -577,7 +577,7 @@
     <string name="mw_autofill_clear_local_copy_button">복사본 삭제</string>
     <string name="mw_autofill_from_google_account_long">Google 페이에서</string>
     <string name="mw_autofill_keyboard_accessory_content_description">제안 가능함</string>
-    <string name="mw_autofill_popup_content_description">자동 완성 팝업 보기</string>
+    <string name="mw_autofill_popup_content_description">자동완성 팝업 보기</string>
     <string name="mw_autofill_scan_credit_card">새로운 카드 스캔</string>
     <string name="mw_autofill_wallet_management_link_text">나가기</string>
     <string name="mw_cast_notification_connected_message">%1$s에 접속중</string>

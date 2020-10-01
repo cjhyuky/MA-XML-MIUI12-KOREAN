@@ -846,7 +846,7 @@
     <string name="error_no_wifi_tip">Wi-Fi에 연결할 수 없음</string>
     <string name="error_not_acceptable">동기화가 중단되었습니다.</string>
     <string name="error_not_synced_action">지금 동기화</string>
-    <string name="error_not_synced_msg">정보가 동기화되지 않았습니다. 1~2분 뒤 다시 시도하세요.</string>
+    <string name="error_not_synced_msg">정보가 동기화되지 않았습니다. 1~2분 후 다시 시도하세요.</string>
     <string name="error_not_synced_tip">정보가 동기화되지 않았습니다.</string>
     <string name="error_over_quota_tip">요청이 너무 많습니다. 1~2분 후 다시 시도하세요.</string>
     <string name="error_repeat_apply">이 앨범은 이미 공유되고 있습니다.</string>

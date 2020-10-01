@@ -30,7 +30,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="miui_clear_apks_summary">총 %s</string>
-    <string name="miui_clear_apks_title">앱 설치 후 설치파일(APK) 자동 삭제</string>
+    <string name="miui_clear_apks_title">설치 파일(APK) 자동 삭제</string>
     <string name="not_set">설정되지 않음</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사되었습니다.</string>
     <string name="search_menu_title">검색</string>
@@ -86,7 +86,7 @@
     <string name="btn_text_install_new_version">최신 버전</string>
     <string name="btn_text_install_origin">원본 버전</string>
     <string name="btn_text_install_security_version_in_appstore">안전한 버전으로 교체</string>
-    <string name="btn_text_scaning">검색중…</string>
+    <string name="btn_text_scaning">검색 중…</string>
     <string name="btn_text_security_install">안전한 버전으로 교체</string>
     <string name="caller_app">%1$s 앱 권한 요청</string>
     <string name="cancel">취소</string>
@@ -339,9 +339,9 @@
     <string name="unknown_apps_dlg_text">보안을 위해 휴대전화는 알 수 없는 출처에서 얻은 앱의 설치를 차단하도록 설정되어 있습니다.</string>
     <string name="unknown_installer">알 수 없는 PC 도구</string>
     <string name="unlike">고마워요</string>
-    <string name="untrusted_external_source_title">\ "%1$s \"가 앱을 설치하도록 허용하시겠습니까?</string>
-    <string name="untrusted_external_source_warning">"보안 상 휴대전화는 이 소스에서 알 수 없는 앱을 설치할 수 없습니다."</string>
-    <string name="untrusted_external_source_warning_summary">전화 및 개인 데이터는 알 수 없는 출처의 공격에 취약합니다. 이 소스에서 앱을 설치하면 이러한 앱 사용으로 인해 발생할 수 있는 손상 또는 데이터 손실에 대한 책임을 수락하는 데 동의합니다.</string>
+    <string name="untrusted_external_source_title">\"%1$s\"의 앱 설치를 허용할까요?</string>
+    <string name="untrusted_external_source_warning">"보안을 위해 이 출처의 알 수 없는 앱 설치를 제한합니다."</string>
+    <string name="untrusted_external_source_warning_summary">기기 및 개인 데이터는 알 수 없는 출처의 앱 공격에 취약합니다. 이 출처의 앱을 설치 및 사용함으로 인해 발생할 수 있는 손상 또는 데이터 손실에 대한 책임을 지는 것에 동의합니다.</string>
     <string name="user_is_not_allowed_dlg_text">현재 사용자는 이 제거를 수행할 수 없습니다.</string>
     <string name="user_is_not_allowed_dlg_title">허용되지 않음</string>
     <string name="virus_scan_caller_unknown">알 수 없음</string>

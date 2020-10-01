@@ -6,7 +6,7 @@
     <string name="wallpaper_global_des_drop_down_notify_text">탭하여 자세히 보기</string>
     <string name="unlockscreen_low_battery">충전기를 지금 연결하세요.</string>
     <string name="lockscreen_charging_msg">충전 중</string>
-    <string name="emergency_call_string">긴급 통화</string>
+    <string name="emergency_call_string">긴급 전화</string>
     <string name="forget_password_string">비밀번호 분실</string>
     <string name="input_puk_code">PUK 입력</string>
     <string name="unlocking_sim_card">SIM 카드 잠금해제하기</string>

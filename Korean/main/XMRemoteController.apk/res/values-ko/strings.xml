@@ -404,7 +404,7 @@
     <string name="match_tip_eject">열림 버튼이 작동합니까?</string>
     <string name="match_tip_exit">종료 버튼이 작동합니까?</string>
     <string name="match_tip_ff">빨리감기 버튼이 작동합니까?</string>
-    <string name="match_tip_guide">내비게이션 버튼이 작동합니까?</string>
+    <string name="match_tip_guide">탐색 버튼이 작동합니까?</string>
     <string name="match_tip_home">홈 버튼이 작동합니까?</string>
     <string name="match_tip_menu">메뉴 버튼이 작동합니까?</string>
     <string name="match_tip_mute">음소거 버튼이 작동합니까?</string>
@@ -932,7 +932,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
     <string name="passport_login_instead_reg">이 번호 사용</string>
     <string name="passport_input_password_for_login">이 번호는 다른 계정에 연결되었습니다. 비밀번호를 입력하세요.</string>
-    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 뒤에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_reg_via_sms_alert">이 서비스를 활성화하려면 SMS 메시지 발송이 필요할 수 있습니다. 통신사가 요금을 부과할 수 있습니다.</string>
     <string name="passport_login_instead_reg_with_email">이 이메일 사용</string>
     <string name="passport_register_restricted_title">이 전화번호를 사용할 수 없습니다.</string>

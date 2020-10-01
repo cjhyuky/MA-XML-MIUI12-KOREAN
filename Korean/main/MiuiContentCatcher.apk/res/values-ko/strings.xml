@@ -27,7 +27,7 @@
     <string name="auth_fingerprint_content_message">센서에 손가락을 대세요.</string>
     <string name="save_content_tip">"다음 항목이 저장됩니다: "</string>
     <string name="autofill_list_title">비밀번호 관리</string>
-    <string name="autofill_password">비밀번호 자동 완성</string>
+    <string name="autofill_password">비밀번호 자동완성</string>
     <string name="using_miui_autofill_message">비밀번호를 자동으로 채우기 위해 MIUI가 기기에 사용자의 계정정보와 비밀번호를 저장합니다.</string>
     <string name="settings_clear_data_confirmation_description">"비밀번호를 지금 삭제하면 다음에 로그인할 때 수동으로 비밀번호를 입력해야 합니다.
 비밀번호를 삭제하시겠습니까?"</string>

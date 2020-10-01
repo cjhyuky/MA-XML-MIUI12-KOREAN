@@ -380,8 +380,8 @@
     <string name="wifi_settings">Wi-Fi...</string>
     <string name="read_more">더보기</string>
     <string name="all_reviews">모든 리뷰</string>
-    <string name="begin_playback_confirmation_hours">재생하시겠습니까? 감상을 시작하고 %1$d시간 뒤에 대여가 만료됩니다.</string>
-    <string name="begin_playback_confirmation_days">재생하시겠습니까? 감상을 시작하고 %1$d일 뒤에 대여가 만료됩니다.</string>
+    <string name="begin_playback_confirmation_hours">재생하시겠습니까? 감상을 시작하고 %1$d시간 후에 대여가 만료됩니다.</string>
+    <string name="begin_playback_confirmation_days">재생하시겠습니까? 감상을 시작하고 %1$d일 후에 대여가 만료됩니다.</string>
     <string name="switching_to_sd">HD로 스트리밍하기에는 대역폭이 부족합니다. 일반 화질로 전환합니다.</string>
     <string name="switching_to_lq">고품질로 스트리밍하기에는 대역폭이 부족합니다. 일반 화질로 전환합니다.</string>
     <string name="review_percent">%1$d%%</string>
@@ -455,7 +455,7 @@
     <string name="accessibility_overflow">옵션</string>
     <string name="accessibility_synopsis">줄거리</string>
     <string name="accessibility_rt_rating">Rotten Tomatoes 평점</string>
-    <string name="accessibility_seek_30s">30초 뒤로</string>
+    <string name="accessibility_seek_30s">30초 후로</string>
     <string name="accessibility_disconnect">연결 해제</string>
     <string name="accessibility_progress_duration">%2$s 중 %1$s</string>
     <string name="remote_notification_finished">%1$s에서 종료됨</string>

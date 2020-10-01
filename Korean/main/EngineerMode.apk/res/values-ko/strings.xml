@@ -277,7 +277,7 @@
     <string name="radioInfo_phone_ringing">벨소리 울리는 중</string>
     <string name="radioInfo_roaming_in">로밍</string>
     <string name="radioInfo_roaming_not">로밍 중이 아님</string>
-    <string name="radioInfo_service_emergency">긴급 통화만</string>
+    <string name="radioInfo_service_emergency">긴급 전화만</string>
     <string name="radioInfo_service_in">서비스망 내에 있음</string>
     <string name="radioInfo_service_off">라디오 꺼짐</string>
     <string name="radioInfo_service_out">서비스망 내에 없음</string>

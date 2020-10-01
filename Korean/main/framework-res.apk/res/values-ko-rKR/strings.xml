@@ -225,7 +225,7 @@
     <string name="emailTypeOther">기타</string>
     <string name="emailTypeWork">직장</string>
     <string name="emergency_call_dialog_number_for_display">비상 전화번호</string>
-    <string name="emergency_calls_only">긴급 통화만</string>
+    <string name="emergency_calls_only">긴급 전화만</string>
     <string name="emptyPhoneNumber">(전화번호 없음)</string>
     <string name="enable_explore_by_touch_warning_message">"%1$s을(를) 사용하려면 '터치하여 탐색' 기능을 사용하도록 설정해야 합니다. '터치하여 탐색'을 사용하도록 설정하면, 화면을 터치하여 손가락 아래에 표시된 항목에 대한 설명을 듣고 보거나 휴대전화로 상호작용하기 위한 동작을 수행할 수 있습니다."</string>
     <string name="enable_explore_by_touch_warning_title">"'터치하여 탐색'을 사용하시겠습니까?"</string>
@@ -253,7 +253,7 @@
     <string name="faceunlock_multiple_failures">얼굴인식 잠금해제 최대 시도 횟수를 초과했습니다.</string>
     <string name="factorytest_failed">출고 테스트 불합격</string>
     <string name="factorytest_no_action">FACTORY_TEST 작업을 제공하는 패키지가 없습니다.</string>
-    <string name="factorytest_not_system">FACTORY_TEST 작업은 /system/app 디렉토리에 설치된 패키지에 대해서만 지원됩니다.</string>
+    <string name="factorytest_not_system">FACTORY_TEST 작업은 /system/app 디렉터리에 설치된 패키지에 대해서만 지원됩니다.</string>
     <string name="factorytest_reboot">다시 시작</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -611,7 +611,7 @@
     <string name="permdesc_changeWifiState">앱이 Wi-Fi 액세스 포인트에 연결하거나 연결을 끊고, Wi-Fi 네트워크의 기기 설정을 변경할 수 있도록 허용합니다.</string>
     <string name="permdesc_changeWimaxState">앱이 휴대전화를 WiMAX 네트워크에 연결하거나 연결을 끊을 수 있도록 허용합니다.</string>
     <string name="permdesc_checkinProperties">체크인 서비스에서 업로드한 속성에 대한 앱의 읽기/쓰기 접근을 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>
-    <string name="permdesc_clearAppCache">앱이 앱 캐시 디렉토리에 있는 파일을 삭제하여 휴대전화의 저장공간을 늘릴 수 있도록 허용합니다. 액세스는 일반적으로 시스템 프로세스로 엄격히 제한됩니다.</string>
+    <string name="permdesc_clearAppCache">앱이 앱 캐시 디렉터리에 있는 파일을 삭제하여 휴대전화의 저장공간을 늘릴 수 있도록 허용합니다. 액세스는 일반적으로 시스템 프로세스로 엄격히 제한됩니다.</string>
     <string name="permdesc_clearAppUserData">앱이 사용자 데이터를 지울 수 있도록 허용합니다.</string>
     <string name="permdesc_confirm_full_backup">앱이 전체 백업 확인 UI를 실행하도록 허용합니다. 다른 앱에는 사용할 수 없습니다.</string>
     <string name="permdesc_copyProtectedData">기본 컨테이너 서비스를 호출하여 콘텐츠를 복사할 수 있도록 허용합니다. 일반 앱에서는 사용하지 않습니다.</string>

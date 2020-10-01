@@ -381,7 +381,7 @@
     <string name="biometric_dialog_confirm">확인</string>
     <string name="biometric_dialog_credential_attempts_before_wipe">다시 시도하세요. %2$d번 중 %1$d번 시도</string>
     <string name="biometric_dialog_credential_too_many_attempts">"너무 많이 실패했습니다.
-%d초 뒤 다시 시도하세요."</string>
+%d초 후 다시 시도하세요."</string>
     <string name="biometric_dialog_empty_space_description">눌러서 인식 취소</string>
     <string name="biometric_dialog_face_icon_description_authenticated">얼굴인식</string>
     <string name="biometric_dialog_face_icon_description_authenticating">사용자의 얼굴을 찾고 있습니다.</string>
@@ -571,7 +571,7 @@
     <string name="camera_key_action_toggle_title">트리거 토글</string>
     <string name="camera_label">카메라 열기</string>
     <string name="cancel">취소</string>
-    <string name="car_lockscreen_disclaimer_text">도로 상황과 지역 법률을 따라주세요.내비게이션이나 위치 정보가 정확하지 않을 수 있고 실시간 업데이트가 진행되지 않을 수 있습니다.</string>
+    <string name="car_lockscreen_disclaimer_text">도로 상황과 지역 법률을 따라주세요. 내비게이션이나 위치 정보가 정확하지 않을 수 있고 실시간 업데이트가 진행되지 않을 수 있습니다.</string>
     <string name="car_lockscreen_disclaimer_title">안전운전 하세요!</string>
     <string name="category_personal">개인용</string>
     <string name="category_work">업무용</string>
@@ -743,7 +743,7 @@
     <string name="drive_mode_tip_idle">탭하여 운전 모드 나가기</string>
     <string name="drive_mode_tip_idle_notch">운전 모드 해제</string>
     <string name="drive_mode_tip_notch">운전 모드 활성화</string>
-    <string name="emergency_call_string">긴급 통화</string>
+    <string name="emergency_call_string">긴급 전화</string>
     <string name="empty_shade_text">알림 없음</string>
     <string name="enable_adb">USB 디버깅</string>
     <string name="enable_adb_summary">USB 연결 시 디버깅 모드로 전환합니다.</string>
@@ -1177,7 +1177,7 @@
     <string name="kg_prompt_reason_user_request">기기가 수동으로 잠겼습니다.</string>
     <string name="kg_puk_enter_pin_hint">원하는 PIN 코드 입력</string>
     <string name="kg_puk_enter_puk_hint">이제 SIM을 사용할 수 없습니다. 계속하려면 PUK 코드를 입력합니다. 자세한 내용은 이동통신사에 문의하세요.</string>
-    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" 이 비활성화 되어 있습니다. PUK 코드를 입력하여 계속 진행하시거나 이동통신사에 연락하여 조치를 취하세요.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" 이 비활성화되어 있습니다. PUK 코드를 입력하여 계속 진행하시거나 이동통신사에 연락하여 조치를 취하세요.</string>
     <string name="kg_sim_pin_instructions">SIM PIN 입력</string>
     <string name="kg_sim_pin_instructions_multi">\"%1$s\"의 SIM PIN 번호를 입력하세요.</string>
     <string name="kg_sim_unlock_progress_dialog_message">SIM 카드 잠금해제 중...</string>
@@ -1221,7 +1221,7 @@ EEEE"</string>
     <string name="lock_screen_magazine_label">슬라이드형 배경화면 열기</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">더보기</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">들어가기</string>
-    <string name="lock_screen_no_sim_card_emergency_only">긴급 통화 전용</string>
+    <string name="lock_screen_no_sim_card_emergency_only">긴급 전화 전용</string>
     <string name="lock_screen_no_sim_card_no_service">서비스 안됨</string>
     <string name="lock_screen_signature_msg">잠금 화면에 서명 표시</string>
     <string name="lock_screen_signature_title">화면 소유자 정보 잠금</string>
@@ -1705,7 +1705,7 @@ EEEE"</string>
     <string name="quick_settings_rotation_locked_landscape_label">가로방향</string>
     <string name="quick_settings_rotation_locked_portrait_label">세로방향</string>
     <string name="quick_settings_rotation_unlocked_label">자동 회전</string>
-    <string name="quick_settings_rssi_emergency_only">긴급 통화만</string>
+    <string name="quick_settings_rssi_emergency_only">긴급 전화만</string>
     <string name="quick_settings_screenbutton_label">버튼잠금</string>
     <string name="quick_settings_screenlock_label">잠금</string>
     <string name="quick_settings_screenshot_label">스크린샷</string>

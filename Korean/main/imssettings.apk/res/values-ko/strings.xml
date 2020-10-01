@@ -32,7 +32,7 @@
     <string name="qti_ims_call_deflect_title">통화 편향 번호</string>
     <string name="rtt_toggle_summary">RTT 모드</string>
     <string name="rtt_toggle_title">RTT</string>
-    <string name="ims_apn_settings_emergency_call_apn">긴급 통화 APN 설정</string>
+    <string name="ims_apn_settings_emergency_call_apn">긴급 전화 APN 설정</string>
     <string name="ims_apn_settings_ims_apn">IMS APN 설정</string>
     <string name="ims_apn_settings_input_apn">입력된 APN</string>
     <string name="ims_apn_settings_name">APN 설정</string>

@@ -890,8 +890,8 @@
     <string name="sent_folder_selection_title">%s의 서버 보낸 편지함 폴더 선택</string>
     <string name="ser_resp_err_map_certificate_validator_err">"서버 인증서를 확인하지 못했습니다
 \u0009(설정에서 '자동 동기화 시간'이 켜져 있는지 확인하세요)."</string>
-    <string name="ser_resp_err_map_landing_more_failure">"여러 번 연달아 로그인할 수 없습니다. 1~2분 뒤 다시 시도하세요."</string>
-    <string name="ser_resp_err_map_landing_too_frequently">로그인에 너무 많이 실패했습니다. 1~2분 뒤 다시 시도하세요.</string>
+    <string name="ser_resp_err_map_landing_more_failure">"여러 번 연달아 로그인할 수 없습니다. 1~2분 후 다시 시도하세요."</string>
+    <string name="ser_resp_err_map_landing_too_frequently">로그인에 너무 많이 실패했습니다. 1~2분 후 다시 시도하세요.</string>
     <string name="ser_resp_err_map_mailbox_locked">이 이메일 계정은 잠겼습니다. 이메일 서비스 제공자와 연락해 잠금을 해제하세요.</string>
     <string name="ser_resp_err_map_mailbox_not_open">"이 이메일 계정은 활성화되지 않았습니다. 이메일 서비스 제공자와 연락해 활성화하세요."</string>
     <string name="ser_resp_err_map_max_connections">이 계정은 너무 많은 기기에 접속되어 있습니다. 접속된 다른 기기에서 이 계정을 제거해야 이 기기에서 접속할 수 있습니다.</string>
