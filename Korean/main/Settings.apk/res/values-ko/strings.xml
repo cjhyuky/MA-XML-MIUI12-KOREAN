@@ -10364,4 +10364,5 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="requires_modern_control_center">새로운 제어 센터에서 사용할 수 있습니다.</string>
     <string name="show_badge_notifications_short">배지</string>
     <string name="switchNetworkToast">모바일 네트워크에 연결하면 추가 요금이 부과될 수 있습니다.</string>
+    <string name="allow_all_rotations_title">모든 회전 허용</string>
 </resources>
