@@ -58,7 +58,7 @@
         <item quantity="one">%1$d개 AOD 테마</item>
     </plurals>
     <plurals name="anonymous_resource_count_font">
-        <item quantity="one">%1$d개 폰트 추가됨</item>
+        <item quantity="one">%1$d개 글꼴 추가됨</item>
     </plurals>
     <plurals name="anonymous_resource_count_icon">
         <item quantity="one">%1$d개 아이콘 추가됨</item>

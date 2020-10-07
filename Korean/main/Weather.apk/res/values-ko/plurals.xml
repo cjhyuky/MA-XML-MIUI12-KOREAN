@@ -16,7 +16,7 @@
         <item quantity="other">맑음</item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> 명의 사람들이 투표했습니다."</item>
+        <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font>명이 투표했습니다."</item>
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s 명</item>
@@ -28,10 +28,10 @@
         <item quantity="other">%1$s 초 후 피드백</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
-        <item quantity="other">%1$s분 후에 피드백을 제출할 수 있습니다.</item>
+        <item quantity="other">%1$s분 후에 의견을 제출할 수 있습니다.</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_second">
-        <item quantity="other">%1$s초 후에 피드백을 다시 제출할 수 있습니다.</item>
+        <item quantity="other">%1$s초 후에 의견을 다시 제출할 수 있습니다.</item>
     </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">최고 기온: 섭씨 %1$s도</item>

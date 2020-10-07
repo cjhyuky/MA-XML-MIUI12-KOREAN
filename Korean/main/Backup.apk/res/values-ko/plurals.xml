@@ -50,14 +50,11 @@
     </plurals>
     <plurals name="data_item_count_pair">
         <item quantity="other">%1$d/%2$d 항목</item>
-        <item quantity="one">%1$d/%2$d 항목</item>
     </plurals>
     <plurals name="new_task_backup_failed">
-        <item quantity="other">"성공적으로 백업되었습니다. %d개 항목을 백업하지 못했습니다."</item>
-        <item quantity="one">"성공적으로 백업되었습니다. %d개 항목을 백업하지 못했습니다."</item>
+        <item quantity="other">"백업이 완료되었습니다. %d개 항목을 백업하지 못했습니다."</item>
     </plurals>
     <plurals name="new_task_restore_failed">
-        <item quantity="other">"성공적으로 복원되었습니다. %d개 항목을 복원하지 못했습니다."</item>
-        <item quantity="one">"성공적으로 복원되었습니다. %d개 항목을 복원하지 못했습니다."</item>
+        <item quantity="other">"복원이 완료되었습니다. %d개 항목을 복원하지 못했습니다."</item>
     </plurals>
 </resources>
