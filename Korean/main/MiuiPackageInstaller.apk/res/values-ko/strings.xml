@@ -205,7 +205,7 @@
     <string name="miui_failed_update_incompatible">충돌하는 앱 서명</string>
     <string name="miui_failed_version_downgrade">"앱을 다운그레이드 할 수 없습니다."</string>
     <string name="miui_failed_version_downgrade_space">"보조 공간에 이 앱의 최신 버전이 있습니다."</string>
-    <string name="miui_help_feedback_label">도움말 및 피드백</string>
+    <string name="miui_help_feedback_label">도움말 및 의견</string>
     <string name="miui_installing">설치 중…</string>
     <string name="miui_installing2">설치 중…</string>
     <string name="miui_install_confirm_question">이 앱을 설치하시겠습니까?</string>
@@ -227,13 +227,13 @@
     <string name="miui_permission_manage_title">%s 세부 사항</string>
     <string name="miui_please_clear">바이러스 삭제</string>
     <string name="miui_privacy_relative">개인정보 보호</string>
-    <string name="miui_recommend_clean">앱 데이터도 지웁니다.</string>
-    <string name="miui_recommend_clean_msg">"앱 데이터에 이 앱의 다운로드, 파일 등이 포함되어 있을 수 있습니다."</string>
+    <string name="miui_recommend_clean">앱 데이터 삭제를 권장합니다.</string>
+    <string name="miui_recommend_clean_msg">"앱 데이터에는 이 앱에서 다운로드한 파일 등이 포함되어 있을 수도 있습니다."</string>
     <string name="miui_security_relative">보안</string>
     <string name="miui_solution_clean">쓰레기 제거</string>
     <string name="miui_solution_msg">솔루션</string>
     <string name="miui_solution_msg_2">솔루션</string>
-    <string name="miui_uninstalling">제거중…</string>
+    <string name="miui_uninstalling">제거 중…</string>
     <string name="miui_uninstall_success">설치 제거 완료</string>
     <string name="miui_virus_deleted">바이러스가 성공적으로 삭제되었습니다.</string>
     <string name="miui_virus_install"><u>그래도 설치</u></string>

@@ -99,7 +99,7 @@
     <string name="menu_workspace_preview">홈 화면 미리보기</string>
     <string name="menu_back_desktop">홈 화면으로 돌아가기</string>
     <string name="menu_settings">설정</string>
-    <string name="menu_reset_scene">기본 레이아웃으로 초기화</string>
+    <string name="menu_reset_scene">기본 구성으로 초기화</string>
     <string name="menu_exit_scene">Mi 스페이스 종료</string>
     <string name="permlab_install_shortcut">바로가기 추가</string>
     <string name="permdesc_install_shortcut">앱이 사용자의 조작 없이 바로가기를 추가할 수 있도록 허용합니다.</string>
@@ -134,7 +134,7 @@
     <string name="editing_add_widget_tips">위젯 편집</string>
     <string name="editing_set_wallpaper_tips">배경화면 선택</string>
     <string name="editing_set_transition_effect_tips">화면 전환 효과 선택</string>
-    <string name="editing_set_screen_layout_cells">화면 레이아웃 효과 선택</string>
+    <string name="editing_set_screen_layout_cells">화면 구성 효과 선택</string>
     <string name="cant_remove_system_app">시스템 앱은 제거할 수 없습니다.</string>
     <string name="cant_remove_retained_app">이 앱을 제거하지 못했습니다.</string>
     <string name="uninstall_dialog_message">설치 제거하면 앱의 모든 데이터가 삭제됩니다.</string>
@@ -187,7 +187,7 @@
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="online_wallpaper">온라인</string>
     <string name="custom_wallpaper_picker">찾아보기</string>
-    <string name="reset_scene_prompt">화면이 기본 레이아웃으로 초기화됩니다.</string>
+    <string name="reset_scene_prompt">화면이 기본 구성으로 초기화됩니다.</string>
     <string name="preferences_title">런처 설정</string>
     <string name="preferences_general_title">추가 설정</string>
     <string name="pref_keep_in_memory_title">메모리에 MIUI 잠금</string>
@@ -209,9 +209,9 @@
     <string name="pref_screen_transformation_type_title">화면 전환 효과</string>
     <string name="pref_wallpaper_scroll_type_title">배경화면 정렬</string>
     <string name="configure_wallpaper">설정</string>
-    <string name="pref_cell_layout_size">앱 아이콘 레이아웃</string>
+    <string name="pref_cell_layout_size">앱 아이콘 구성</string>
     <string name="pref_keep_layout_title">앱 위치 잠금</string>
-    <string name="pref_keep_layout_summary">홈 화면의 레이아웃을 변경해도 앱의 위치가 변하지 않습니다.</string>
+    <string name="pref_keep_layout_summary">홈 화면의 구성을 변경해도 앱의 위치가 변하지 않습니다.</string>
     <string name="widget_gadget_player">음악</string>
     <string name="buffering">버퍼링 중…</string>
     <string name="emptyplaylist">탭하여 노래 추가</string>
@@ -330,13 +330,13 @@
     <string name="notification_installed">설치 성공</string>
     <string name="notification_open_button">열기</string>
     <string name="toast_screen_icons_misplaced">다른 경로를 통해 복원되었습니다. 일부 아이콘들이 잘못 배치되었을 수 있습니다.</string>
-    <string name="screen_locked_toast">홈 화면 레이아웃 잠김</string>
+    <string name="screen_locked_toast">홈 화면 구성 잠김</string>
     <string name="widget_quick_function">빠른 기능</string>
     <string name="menu_trans_effect">전환 효과</string>
     <string name="menu_default_screen_preview">기본 화면 설정</string>
-    <string name="menu_cell_setting">홈 화면 레이아웃</string>
+    <string name="menu_cell_setting">홈 화면 구성</string>
     <string name="menu_auto_fill">빈 공간 채우기</string>
-    <string name="menu_lock">홈 화면 레이아웃 잠금</string>
+    <string name="menu_lock">홈 화면 구성 잠금</string>
     <string name="menu_more">더보기</string>
     <string name="default_screen_preview_title">기본 화면으로 설정</string>
     <string name="action_add_to_workspace">워크 스페이스에 추가</string>
@@ -353,7 +353,7 @@
     <string name="announce_for_close_launcher_menu">메뉴 닫기</string>
     <string name="announce_for_delete_item">%1$s 항목이 삭제되었습니다.</string>
     <string name="announce_for_drag_enter_delete_zone">드래그한 항목을 지우기 영역에 놓으세요.</string>
-    <string name="announce_for_drag_enter_folder_grid">폴더안으로 아이콘을 넣으세요.</string>
+    <string name="announce_for_drag_enter_folder_grid">폴더 안으로 아이콘을 넣으세요.</string>
     <string name="announce_for_drag_enter_workspace_thumbnail">드래그하여 항목을 넣은 화면 미리보기 %1$d</string>
     <string name="announce_for_drop">%1$s 놓여짐</string>
     <string name="announce_for_drop_folder_grid_view">%1$d 위치의 폴더 안으로</string>
@@ -379,7 +379,7 @@
     <string name="defalut_launcher_title">기본 런처</string>
     <string name="launcher_auto_fill_empty_title">빈 격자 채우기</string>
     <string name="launcher_title">홈 화면 &amp; 최근</string>
-    <string name="lock_screen_cells_title">홈 화면 레이아웃 잠금</string>
+    <string name="lock_screen_cells_title">홈 화면 구성 잠금</string>
     <string name="miui_screen_config_title">홈 화면 설정</string>
     <string name="open_personal_assistant_dialog_btn_cancel">퀵 카드 취소</string>
     <string name="open_personal_assistant_dialog_btn_confirm">퀵 카드 끄기</string>
@@ -388,7 +388,7 @@
     <string name="open_personal_assistant_title">퀵 카드</string>
     <string name="preferred_app_settings_not_selected">선택되지 않음</string>
     <string name="recents_config_title">최근</string>
-    <string name="screen_cells_config_title">홈 화면 레이아웃</string>
+    <string name="screen_cells_config_title">홈 화면 구성</string>
     <string name="show_mem_info_title">메모리 상태 표시</string>
     <string name="title_jeejen">Jeejen 홈 화면</string>
     <string name="announce_for_checked">%1$s개, 체크됨</string>
@@ -408,7 +408,7 @@
     <string name="reset_description_others">%1$s 상태로 복원할 수 있습니다.</string>
     <string name="default_folder_title_services">서비스</string>
     <string name="open_personal_assistant_dialog_desc_international">"퀵 카드 기능(주식, 바로가기 등)을 사용할 수 없고, 이 기능을 끄면 정보를 업데이트 받을 수 없습니다."</string>
-    <string name="use_theme_screen_cells_title">테마가 화면 레이아웃을 덮어쓸 수 있게 허용</string>
+    <string name="use_theme_screen_cells_title">테마가 화면 구성을 덮어쓸 수 있게 허용</string>
     <string name="announce_for_app_move_in_folder">%1$d 위치로 폴더 이동됨</string>
     <string name="announce_for_create_folder_with_app">%1$s 이름으로 폴더 생성됨</string>
     <string name="announce_for_widget_span">폭 %1$d, 높이 %2$d</string>
@@ -489,7 +489,7 @@
     <string name="shortcut_share_dialog_content">"이 휴대전화에서 전송할 파일과 수신자는 사용자가 직접 선택하고 결정합니다. 공유할 파일을 선택하고 수신자를 선택할 때 주의하세요. 다른 사람에게 바이러스, 맬웨어, 트로이 목마, 시한 폭탄 및 기타 유해한 물건을 전송하지 마세요. 휴대전화를 사용하여 수신자의 기기에 영향을 줄 수 있는 소프트웨어나 모바일 기기를 손상, 방해, 가로채거나 시스템 데이터나 개인정보를 제거할 수 있는 파일을 전송하지 마세요. 수신자나 수신 모바일 기기에 대한 모든 피해에 대한 책임은 사용자에게 있습니다. Xiaomi는 공유 기술 및 기술 관련 정보가 안전하고 효과적이며, 정확하고 신뢰할 수 있음을 확실히 하기 위해 최선을 다하겠습니다. 그러나 현재의 기술적 한계로 인해 Xiaomi는 공유 기능이 완벽하며 모든 요구를 충족시킬 것이라고 보장하지는 않습니다."</string>
     <string name="shortcut_share_dialog_positive_button">확인</string>
     <string name="shortcut_share_dialog_title">면책 조항</string>
-    <string name="all_apps_setting_original_scrollbar">원래 레이아웃</string>
+    <string name="all_apps_setting_original_scrollbar">원래 구성</string>
     <string name="all_apps_setting_scroll_bar">스크롤바</string>
     <string name="icon_size">아이콘 크기</string>
     <string name="launcher_global_search_mode_title">글로벌 검색</string>

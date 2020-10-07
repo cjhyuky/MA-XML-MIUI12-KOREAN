@@ -591,13 +591,13 @@
     <string name="GPIO_input_err">오류 : 잘못된 입력값입니다.</string>
     <string name="GPIO_max_num">최대 숫자:</string>
     <string name="GPIO_set_data_high_fail">데이터 높음 설정 실패.</string>
-    <string name="GPIO_set_data_high_ok">데이터 높음 설정 성공.</string>
+    <string name="GPIO_set_data_high_ok">데이터 높음 설정 성공</string>
     <string name="GPIO_set_data_low_fail">데이터 낮음 설정 실패.</string>
-    <string name="GPIO_set_data_low_ok">데이터 낮음 설정 성공.</string>
+    <string name="GPIO_set_data_low_ok">데이터 낮음 설정 성공</string>
     <string name="GPIO_set_direction_in_fail">입력 실패.</string>
-    <string name="GPIO_set_direction_in_ok">입력 성공.</string>
+    <string name="GPIO_set_direction_in_ok">입력 성공</string>
     <string name="GPIO_set_direction_out_fail">출력값 설정 실패.</string>
-    <string name="GPIO_set_direction_out_ok">출력값 설정 성공.</string>
+    <string name="GPIO_set_direction_out_ok">출력값 설정 성공</string>
     <string name="GPRS">GPRS</string>
     <string name="GPRS_1st_PDP">1번째 PDP</string>
     <string name="GPRS_2nd_PDP">2번째 PDP</string>

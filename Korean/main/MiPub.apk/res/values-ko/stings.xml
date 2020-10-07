@@ -12,7 +12,7 @@
     <string name="undelivered_msg_dialog_title">전달되지 않은 메시지</string>
     <string name="menu_forward">전달</string>
     <string name="copy_message_text">텍스트 복사</string>
-    <string name="copy_message_text_success">텍스트 복사 성공</string>
+    <string name="copy_message_text_success">텍스트 복사 완료</string>
     <string name="done">완료</string>
     <string name="subject_hint">제목</string>
     <string name="view">보기</string>
@@ -184,9 +184,9 @@
     <string name="pref_show_sms_template_summary">자동으로 일회용 비밀번호를 SMS 메시지에서 찾습니다.</string>
     <string name="sp_mark_as_read_title">모두 읽음으로 표시</string>
     <string name="message_list_all_read">모두 읽음으로 표시</string>
-    <string name="pref_key_mx_feedback">피드백</string>
-    <string name="pref_summary_mx_feedback">버그 보고 및 피드백 전송</string>
-    <string name="feedback_description_hint">여기에 피드백을 작성하세요.</string>
+    <string name="pref_key_mx_feedback">의견</string>
+    <string name="pref_summary_mx_feedback">버그 보고 및 의견 전송</string>
+    <string name="feedback_description_hint">여기에 의견을 작성하세요.</string>
     <string name="feedback_submit">전송</string>
     <string name="menu_call">전화</string>
     <string name="menu_contact">연락처 정보 보기</string>

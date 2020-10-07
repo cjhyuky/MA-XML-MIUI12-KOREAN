@@ -38,7 +38,7 @@
     <string name="ble_manual_connect">수동 연결</string>
     <string name="ble_refuse_button">거부</string>
     <string name="ble_starting_ap">핫스팟 생성 중…</string>
-    <string name="ble_start_ap_successed">핫스팟을 성공적으로 생성했습니다. 연결 대기 중…</string>
+    <string name="ble_start_ap_successed">핫스팟을 생성했습니다. 연결 대기 중…</string>
     <string name="ble_waiting_verify_code">코드 확인 중…</string>
     <string name="ble_waiting_verify_code_error">입력한 코드가 올바르지 않습니다.</string>
     <string name="ble_wait_verify_code">새 기기에서 코드 생성 중…</string>
@@ -46,7 +46,7 @@
     <string name="btn_install_complete">설치되었습니다. 전송을 시작하세요.</string>
     <string name="btn_mi_cloud_install_complete">"앱을 설치했습니다."</string>
     <string name="btn_restore_data_to_device_complete">로그인</string>
-    <string name="btn_sync_data_to_mi_cloud_complete">성공적으로 동기화 됨</string>
+    <string name="btn_sync_data_to_mi_cloud_complete">동기화 완료</string>
     <string name="button_finish">완료</string>
     <string name="button_import">가져오기</string>
     <string name="button_return">뒤로</string>
@@ -289,7 +289,7 @@
     <string name="install_app_new_title">QR 코드를 스캔하여 새 기기에 Mi Mover를 설치</string>
     <string name="install_app_old_title">QR 코드를 스캔하여 Mi Mover를 이전 기기에 설치</string>
     <string name="install_app_to_another_phone_content">새 기기에 Mi Mover 설치</string>
-    <string name="install_complete_count_down_time">성공적으로 설치되었습니다. 전송 시작(%1$d)</string>
+    <string name="install_complete_count_down_time">설치 완료. 전송 시작(%1$d)</string>
     <string name="install_mi_cloud_app_summary">iPhone으로 이 QR 코드를 스캔하여 앱을 다운로드하고 설치하세요.</string>
     <string name="install_mi_cloud_app_title">Xiaomi 클라우드 설치</string>
     <string name="install_new_app_link_text">연결할 수 있도록 새 장치에 Mi Mover를 설치합니다. 설치하려면 탭하세요.</string>
@@ -300,7 +300,7 @@
     <string name="label">MIUI SDK</string>
     <string name="lack_perm_msg">Mi Mover가 정상적으로 작동하려면 <b>%s</b> 권한이 필요합니다.</string>
     <string name="lack_perm_title">필요한 권한</string>
-    <string name="launcher">홈 화면 레이아웃</string>
+    <string name="launcher">홈 화면 구성</string>
     <string name="less_than_1_minute">1분 미만</string>
     <string name="loading_data">1초…</string>
     <string name="login">로그인</string>
@@ -697,7 +697,7 @@
     <string name="user_name_null">"Apple ID는 비워 둘 수 없습니다."</string>
     <string name="video">동영상</string>
     <string name="view_password_description">비밀번호 표시</string>
-    <string name="waiting_restore_desktop">홈 화면 레이아웃을 복원하기 위해 타사 앱 전송 중…</string>
+    <string name="waiting_restore_desktop">홈 화면 구성을 복원하기 위해 타사 앱 전송 중…</string>
     <string name="website">웹 사이트</string>
     <string name="webview_reload">다시 시도</string>
     <string name="web_sso_login_fail">다시 로그인해야 합니다.</string>

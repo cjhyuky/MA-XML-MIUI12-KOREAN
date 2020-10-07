@@ -108,8 +108,8 @@
     <string name="mark_number_custom_mark_deleted">표기 정보 제거됨</string>
     <string name="mark_number_feedback_success">표기 정보 전송 성공</string>
     <string name="mark_number_feedback">표기</string>
-    <string name="mark_number_feedback_hint">피드백 입력</string>
-    <string name="mark_number_feedback_invalid_hint">피드백 입력</string>
+    <string name="mark_number_feedback_hint">의견 입력</string>
+    <string name="mark_number_feedback_invalid_hint">의견 입력</string>
     <string name="mark_number_remove">표기 정보 제거</string>
     <string name="mark_number_check_dialog_title">표시 번호</string>
     <string name="mark_number_check_most_choice">(대부분 사용자의 선택)</string>

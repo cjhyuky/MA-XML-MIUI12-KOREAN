@@ -74,7 +74,7 @@
     <string name="cit_button_light_off">버튼 표시등 꺼짐</string>
     <string name="cit_button_light_on">버튼 표시등 켜짐</string>
     <string name="cit_calibration_fail">보정 실패</string>
-    <string name="cit_calibration_pass">보정 성공</string>
+    <string name="cit_calibration_pass">보정 완료</string>
     <string name="cit_camera_calibration_summary">"테스트 가이드:
 
 1.아래의 보정 버튼을 탭하여 카메라 인터페이스에 진입합니다

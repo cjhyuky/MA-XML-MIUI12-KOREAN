@@ -174,7 +174,7 @@
     <string name="err_msg_convert_fail">변환 실패</string>
     <string name="err_msg_convert_processing">변환</string>
     <string name="err_msg_convert_queue">변환 대기열</string>
-    <string name="err_msg_convert_success">성공 변환</string>
+    <string name="err_msg_convert_success">변환 완료</string>
     <string name="err_msg_create">주문 생성</string>
     <string name="err_msg_delete">삭제된 주문</string>
     <string name="err_msg_expired">주문 만료</string>
@@ -305,5 +305,5 @@
     <string name="trash_box">최근 삭제된 항목</string>
     <string name="trash_box_close_tip">휴지통 닫기</string>
     <string name="trash_box_delete_all">휴지통의 모든 항목을 영구적으로 삭제하시겠습니까?</string>
-    <string name="user_feedback">피드백</string>
+    <string name="user_feedback">의견</string>
 </resources>

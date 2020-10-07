@@ -22,9 +22,9 @@
     <string name="ads_ignore">무시</string>
     <string name="airkan_control_device_des">재생을 제어하려면 아래쪽의 바를 터치하세요.</string>
     <string name="airkan_device_xiaomi_phone">Mi</string>
-    <string name="airkan_playing">캐스트 중입니다.</string>
+    <string name="airkan_playing">화면 전송 중입니다.</string>
     <string name="airkan_playing_to">" 켜짐 "</string>
-    <string name="airkan_tips">탭하여 캐스트</string>
+    <string name="airkan_tips">탭하여 전송</string>
     <string name="airkan_video_playing">재생 중</string>
     <string name="airkan_video_playing_in">"동영상이 "</string>
     <string name="alert_dialog_download_btn_hide">숨기기</string>
@@ -89,7 +89,7 @@
     <string name="count_ge_media">%d개 동영상</string>
     <string name="count_ji_quan">모든 %d개 에피소드</string>
     <string name="count_qi">에피소드 %s개</string>
-    <string name="data_buffering">버퍼링중…</string>
+    <string name="data_buffering">버퍼링 중…</string>
     <string name="datastream_alert_download">모바일 데이터로 동영상을 다운로드하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
     <string name="datastream_alert_hint">언제든지 설정에서 모바일 데이터 스트리밍을 끌 수 있습니다.</string>
     <string name="datastream_alert_negative_button">취소</string>
@@ -452,7 +452,7 @@
     <string name="vp_media_info">동영상 정보 표시</string>
     <string name="vp_media_type_unsported">이 타입의 미디어는 지원되지 않습니다.</string>
     <string name="vp_milink">Mi 링크</string>
-    <string name="vp_milink_function">화면에 캐스트</string>
+    <string name="vp_milink_function">화면 전송</string>
     <string name="vp_mobile_network_using_negative">취소</string>
     <string name="vp_mobile_network_using_positive">계속 시청</string>
     <string name="vp_mobile_network_using_warning">모바일 데이터 연결을 사용하여 동영상을 시청하면 데이터 사용량이 증가합니다. 데이터 사용 한도를 초과하면 추가 요금이 부과될 수 있습니다.</string>
@@ -606,7 +606,7 @@
     <string name="spu_delay">자막 씽크 조절</string>
     <string name="subtitle">자막</string>
     <string name="subtitle_color_text">자막 색상</string>
-    <string name="subtitle_font_tips">자막 폰트 크기</string>
+    <string name="subtitle_font_tips">자막 글꼴 크기</string>
     <string name="subtitles">자막</string>
     <string name="synchronization">씽크</string>
     <string name="toast_player_list_header">재생 목록</string>
@@ -661,7 +661,7 @@
     <string name="passport_click_email_to_valid">계정을 활성화하려면, 받은 메시지함으로 보내드린 링크를 따라가세요.</string>
     <string name="passport_completed">확인</string>
     <string name="passport_confirm_recycle_account">예</string>
-    <string name="passport_copy_message_text_success">복사 성공</string>
+    <string name="passport_copy_message_text_success">복사 완료</string>
     <string name="passport_copy_message_vcode">복사 코드</string>
     <string name="passport_delete_account">로그아웃</string>
     <string name="passport_downlink_reg">전화번호를 이용하여 계정 생성</string>

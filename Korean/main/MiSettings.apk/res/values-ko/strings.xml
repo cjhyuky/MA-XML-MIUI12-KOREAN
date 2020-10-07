@@ -37,7 +37,7 @@
     <string name="ringtone_title">벨소리</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
-    <string name="sms_delivered_sound_title">메시지 전송완료</string>
+    <string name="sms_delivered_sound_title">메시지 전송 완료</string>
     <string name="sms_received_sound_title">메시지 수신</string>
     <string name="thememanager_not_found">"테마 열기 실패. 이 앱이 기기에 설치되어있는지 확인하세요."</string>
     <string name="usage_state_app">앱</string>
@@ -188,7 +188,7 @@
     <string name="usage_continuous_days">줄무늬</string>
     <string name="usage_focus_focus_premission_main_summary">초점 모드 사용 통계를 기록하려면이 앱에서 계정 정보에 액세스해야 합니다.</string>
     <string name="usage_focus_focus_premission_second_summary">"이러한 권한 부여에 동의하지 않으면이 앱의 일부 기능을 사용할 수 없지만 기본 기능은 계속 사용할 수 있습니다. 설정에서 권한을 부여하거나 승인을 취소하세요."</string>
-    <string name="usage_focus_save_success">갤러리에 성공적으로 저장되었습니다.</string>
+    <string name="usage_focus_save_success">갤러리에 저장되었습니다.</string>
     <string name="usage_focus_summary_level1">초점을 유지하는 데 몇 분을 투자하는 것은 쉽습니다.</string>
     <string name="usage_focus_summary_level2">초점은 이행 루틴이 될 수 있습니다.</string>
     <string name="usage_focus_summary_level3">진정하고 방해받지 마세요.</string>
@@ -273,7 +273,7 @@
     <string name="screen_time_lock">화면시간 관리 앱 잠금</string>
     <string name="shortcut_created">바로가기 생성 완료</string>
     <string name="stop_summary">비활성화 후 화면켜짐 시간 관리를 위해 모든 데이터가 지워집니다.</string>
-    <string name="suggestion">제안 및 피드백</string>
+    <string name="suggestion">제안 및 의견</string>
     <string name="try_to_create">바로가기 생성을 시도했습니다.</string>
     <string name="usage_agree">동의</string>
     <string name="usage_exit">종료</string>

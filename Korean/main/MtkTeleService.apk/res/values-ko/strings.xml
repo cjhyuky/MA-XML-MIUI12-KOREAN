@@ -154,7 +154,7 @@
     <string name="livetalk_setting">충전 패키지</string>
     <string name="purchase_list">구매 기록</string>
     <string name="sim_card_activate">현재 SIM 카드</string>
-    <string name="feedback">피드백</string>
+    <string name="feedback">의견</string>
     <string name="default_areacode">기본 지역 코드</string>
     <string name="area_code_preference_summary">지역 코드 자동 다이얼</string>
     <string name="default_area_code_setting">기본 지역 코드</string>
@@ -403,17 +403,17 @@
     <string name="rc_unlock_failed">RUIM 통합 잠금해제 요청 실패.</string>
     <string name="ruim_unlock_failed">RUIM 잠금해제 요청 실패.</string>
     <string name="puk_unlock_failed">PUK 잠금해제 실패.</string>
-    <string name="nw_subset_unlock_success">SIM 일부 네트워크 잠금해제 성공.</string>
-    <string name="sp_unlock_success">SIM 통신사 잠금해제 성공.</string>
-    <string name="corporate_unlock_success">SIM 통합 잠금해제 성공.</string>
-    <string name="sim_unlock_success">SIM 잠금해제 성공.</string>
-    <string name="rnw1_unlock_success">RUIM 네트워크1 잠금해제 성공.</string>
-    <string name="rnw2_unlock_success">RUIM 네트워크2 잠금해제 성공.</string>
-    <string name="rhrpd_unlock_success">RUIM Hrpd 잠금해제 성공.</string>
-    <string name="rsp_unlock_success">RUIM 통신사 잠금해제 성공.</string>
-    <string name="rc_unlock_success">RUIM 통합 잠금해제 성공.</string>
-    <string name="ruim_unlock_success">RUIM 잠금해제 성공.</string>
-    <string name="puk_unlock_success">PUK 잠금해제 성공.</string>
+    <string name="nw_subset_unlock_success">SIM 일부 네트워크 잠금해제 성공</string>
+    <string name="sp_unlock_success">SIM 통신사 잠금해제 성공</string>
+    <string name="corporate_unlock_success">SIM 통합 잠금해제 성공</string>
+    <string name="sim_unlock_success">SIM 잠금해제 성공</string>
+    <string name="rnw1_unlock_success">RUIM 네트워크1 잠금해제 성공</string>
+    <string name="rnw2_unlock_success">RUIM 네트워크2 잠금해제 성공</string>
+    <string name="rhrpd_unlock_success">RUIM Hrpd 잠금해제 성공</string>
+    <string name="rsp_unlock_success">RUIM 통신사 잠금해제 성공</string>
+    <string name="rc_unlock_success">RUIM 통합 잠금해제 성공</string>
+    <string name="ruim_unlock_success">RUIM 잠금해제 성공</string>
+    <string name="puk_unlock_success">PUK 잠금해제 성공</string>
     <string name="phoneAppLabel">전화 서비스</string>
     <string name="emergencyDialerIconLabel">긴급 전화</string>
     <string name="phoneIconLabel">전화</string>
@@ -1266,7 +1266,7 @@
     <string name="telocation_custom_name_hint">이름</string>
     <string name="telocation_number_type">번호 형식</string>
     <string name="telocation_number_type_jituan">그룹 번호</string>
-    <string name="telocation_number_type_mob">모바일 폰</string>
+    <string name="telocation_number_type_mob">휴대전화</string>
     <string name="telocation_number_type_tel">유선 전화</string>
     <string name="telocation_countrycode_alert_message">국가 코드를 제외한 전화번호를 입력하세요.</string>
     <string name="telocation_confim_delete_title">이 메시지를 삭제하시겠습니까?</string>
@@ -1537,7 +1537,7 @@
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM 법인 잠금해제 요청 중 ...</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK 잠금이 해제되었습니다.</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_SUCCESS">PUK 잠금이 해제되었습니다.</string>
-    <string name="PERSOSUBSTATE_RUIM_CORPORATE_SUCCESS">RUIM 기업 잠금해제 성공.</string>
+    <string name="PERSOSUBSTATE_RUIM_CORPORATE_SUCCESS">RUIM 기업 잠금해제 성공</string>
     <string name="PERSOSUBSTATE_RUIM_HRPD_ENTRY">RUIM hrpd PIN 잠금해제</string>
     <string name="PERSOSUBSTATE_RUIM_HRPD_ERROR">RUIM Hrpd의 잠금해제 요청 실패했습니다.</string>
     <string name="PERSOSUBSTATE_RUIM_HRPD_IN_PROGRESS">RUIM hrpd Unlock 요청 중 ...</string>
@@ -1570,7 +1570,7 @@
     <string name="PERSOSUBSTATE_SIM_CORPORATE_IN_PROGRESS">SIM 법인 잠금해제 요청 중 ...</string>
     <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">PUK 해제가 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_SUCCESS">PUK 잠금이 성공적으로 해제되었습니다.</string>
-    <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">SIM 기업 잠금해제 성공.</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">SIM 기업 잠금해제 성공</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">SIM 네트워크 잠금해제 PIN</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">SIM 네트워크 잠금해제 요청이 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">SIM 네트워크 잠금 요청 중 ...</string>
@@ -1594,7 +1594,7 @@
     <string name="PERSOSUBSTATE_SIM_SIM_IN_PROGRESS">SIM 잠금해제 요청중 ...</string>
     <string name="PERSOSUBSTATE_SIM_SIM_PUK_ERROR">PUK 해제가 실패했습니다.</string>
     <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">PUK 잠금이 성공적으로 해제되었습니다.</string>
-    <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">SIM 잠금해제 성공.</string>
+    <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">SIM 잠금해제 성공</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">이 기능은 실험적이며 성능에 영향을 줄 수 있습니다.</string>
     <string name="accessibility_display_daltonizer_preference_title">색상 교정</string>
     <string name="accessibility_no_wifi">Wi-Fi의 연결이 끊어졌습니다.</string>
@@ -1821,7 +1821,7 @@
     <string name="go_to_virtual_sim_title">가상 SIM</string>
     <string name="hdcp_checking_dialog_title">HDCP 검사 동작 설정</string>
     <string name="hdcp_checking_title">HDCP 검사</string>
-    <string name="help_feedback_label">도움말&amp;피드백</string>
+    <string name="help_feedback_label">도움말&amp;의견</string>
     <string name="home">설정 홈</string>
     <string name="immediately_destroy_activities">활동을 보관하지 마세요.</string>
     <string name="immediately_destroy_activities_summary">사용자가 모든 활동을 종료하자마자 폐기하세요.</string>
@@ -2029,7 +2029,7 @@
     <string name="wifi_security_short_WAPI_CERT">WAPI 증명</string>
     <string name=" hide_error_from_network_text">"요청을 처리할 수 없습니다."</string>
     <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ERROR">PUK 언락 실패.</string>
-    <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK 언락 성공.</string>
+    <string name="PERSOSUBSTATE_RUIM_NETWORK2_PUK_SUCCESS">PUK 언락 성공</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_ENTRY">RUIM PIN 언락</string>
     <string name="battery_info_status_discharging">충전 중이 아님</string>
     <string name="bluetooth_pairing_error_message">"%1$s 기기와 연결하지 못했습니다."</string>
@@ -2121,7 +2121,7 @@
     <string name="ime_security_warning">%1$s 앱은 비밀번호, 신용카드 번호, 기타 개인정보를 포함하여 사용자가 입력하는 모든 것을 기록할 수 있습니다.</string>
     <string name="networks_state_china_forbidden">금지됨</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM 통합 잠금해제 요청 실패.</string>
-    <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM 네트워크2 잠금해제 성공.</string>
+    <string name="PERSOSUBSTATE_RUIM_NETWORK2_SUCCESS">RUIM 네트워크2 잠금해제 성공</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_ERROR">RUIM 잠금해제 요청 실패.</string>
     <string name="gsm_umts_network_preferneces_summary">구현되지 않음</string>
     <string name="path_call_advanced_settings_title">시스템 앱/전화/고급 설정</string>
@@ -2324,7 +2324,7 @@
     <string name="prompt_to_turnoff_volte_when_supp_service">"서비스 불가능 지역입니다. 설정에서 VoLTE 사용을 해제하세요."</string> 
     <string name="prompt_when_turnon_volte_without_lte">"LTE 네트워크를 사용할 수 없습니다. VoLTE를 활성화하면 정상적인 전화 수발신이 불가능할 수 있습니다."</string> 
     <string name="volte_switch_summary2">이 기능을 사용하기 전, 통신사에서 이 기능을 지원하는지 확인하세요.</string> 
-    <string name="volte_tips_when_turn_on">차이나 텔레콤의 VoLTE 서비스는 LTE 통신이 가능한 지역에서민 활성화됩니다.</string>
+    <string name="volte_tips_when_turn_on">China Telecom의 VoLTE 서비스는 LTE 통신이 가능한 지역에서민 활성화됩니다.</string>
     <string name="close_volte">VoLTE 끄기</string>
     <string name="prefered_network_type_3g_promp">선호하는 네트워크에서 3G를 선택하시기 전에 먼저 VoLTE를 끄셔야 합니다. 바로 끄시겠습니까?</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">VoLTE를 켜기전에 선호하는 네트워크 유형을 LTE로 선택하세요.</string>
@@ -2356,8 +2356,8 @@
     <string name="dc_alert_dialog_message">일부 앱이 모바일 데이터 연결을 필요로 합니다. 어떤 %s 정책이 가능한지 통신사에 문의하세요.</string>
     <string name="dc_alert_dialog_title">데이터 사용량 경고</string>
     <string name="do_not_show_again">"다시 보지 않기"</string>
-    <string name="enable_dual_4g_if_dual_ct">2개의 차이나 텔레콤 SIM 카드가 장착이 되어있는 경우, 2번째 SIM 카드로 VoLTE를 사용하기 위해서 4G 네트워크를 선호합니다.</string>
-    <string name="enable_vice_volte_if_dual_ct">2개의 차이나 텔레콤 SIM 카드가 장착이 되어있는 경우, 2번째 SIM 카드의 VoLTE가 켜집니다.</string>
+    <string name="enable_dual_4g_if_dual_ct">2개의 China Telecom SIM 카드가 장착이 되어있는 경우, 2번째 SIM 카드로 VoLTE를 사용하기 위해서 4G 네트워크를 선호합니다.</string>
+    <string name="enable_vice_volte_if_dual_ct">2개의 China Telecom SIM 카드가 장착이 되어있는 경우, 2번째 SIM 카드의 VoLTE가 켜집니다.</string>
 
     <string name="PERSOSUBSTATE_SIM_IMPI_ENTRY">IMPI 해제 코드</string>
     <string name="PERSOSUBSTATE_SIM_IMPI_ERROR">IMPI 해제가 실패했습니다.</string>
@@ -2491,7 +2491,7 @@
     <string name="call_barring_pwd_not_match">비밀번호가 일치하지 않습니다.</string>
     <string name="call_barring_right_pwd_number">4 자리 숫자로 비밀번호를 입력하세요.</string>
     <string name="call_barring_settings">전화 제한 설정</string>
-    <string name="change_data_sim_4g_only_prompt">SIM %1$s번은 4G만 지원하며 SIM %2$s번이 기본 SIM 모바일 데이터가 아닌 경우 SIM 카드가 정상적으로 작동하지 않을 수 있습니다.</string>
+    <string name="change_data_sim_4g_only_prompt">%1$s번 SIM은 4G만 지원하며 %2$s번 SIM이 기본 SIM 모바일 데이터가 아닌 경우 SIM 카드가 정상적으로 작동하지 않을 수 있습니다.</string>
     <string name="choose_network_title">네트워크 선택</string>
     <string name="clh_callFailed_access_information_discarded_txt">액세스 정보가 삭제되었습니다.</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM이 ACMmax보다 크거나 같음</string>
@@ -2546,8 +2546,8 @@
     <string name="clh_callFailed_user_not_member_of_CUG_txt">사용자가 CUG의 구성원이 아님</string>
     <string name="clh_card_title_call_ended_txt">통화 종료</string>
     <string name="clh_incall_error_out_of_service_txt">모바일 네트워크를 사용할 수 없음</string>
-    <string name="dds_switch_warning_message_data_off">"SIM %1$s 찾기 실패. SIM %2$s번이 기본 모바일 데이터 카드로 설정되었습니다. 이제 모바일 데이터가 꺼집니다."</string>
-    <string name="dds_switch_warning_message_data_on">"SIM %1$s 찾기 실패. SIM %2$s번이 기본 모바일 데이터 카드로 설정되었습니다. 불필요한 이동통신사 요금을 피하기 위해 모바일 데이터가 꺼집니다."</string>
+    <string name="dds_switch_warning_message_data_off">"%1$s번 SIM 찾기 실패. %2$s번 SIM이 기본 모바일 데이터 카드로 설정되었습니다. 이제 모바일 데이터가 꺼집니다."</string>
+    <string name="dds_switch_warning_message_data_on">"%1$s번 SIM 찾기 실패. %2$s번 SIM이 기본 모바일 데이터 카드로 설정되었습니다. 불필요한 이동통신사 요금을 피하기 위해 모바일 데이터가 꺼집니다."</string>
     <string name="dial_emergency_calling_not_available">긴급 전화 불가</string>
     <string name="enable_gpu_debug_layers">GPU 디버그 레이어 활성화</string>
     <string name="enable_gpu_debug_layers_summary">앱 디버깅을 위해 GPU 디버그 레이어를 로딩하는걸 허용합니다.</string>
@@ -2563,7 +2563,7 @@
     <string name="network_disconnected">연결 끊김</string>
     <string name="okay">확인</string>
     <string name="opened_dual_4g_confirm_prompt">4G만 사용가능한 SIM 카드를 사용하시는 걸로 보입니다. 듀얼 4G 기능이 자동으로 켜졌습니다.</string>
-    <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s은 4G만 제공합니다. SIM 카드가 정상 작동시키기 위해 듀얼 4G 기능이 켜졌습니다.</string>
+    <string name="opened_dual_4g_confirm_prompt_with_sim">%1$s번 SIM은 4G만 제공합니다. SIM 카드가 정상 작동시키기 위해 듀얼 4G 기능이 켜졌습니다.</string>
     <string name="path_auto_retry_mode_title">시스템 앱/전화/고급 설정/자동 응답</string>
     <string name="path_crescendo_ringer_title">시스템 앱/전화/수신전화 설정/수신전화 벨소리 볼륨증가</string>
     <string name="power_discharge_by">약 %1$s (%2$s) 사용가능</string>
@@ -2715,10 +2715,10 @@
     <string name="mobile_connection_management">모바일 네트워크 연결 관리</string>
     <string name="mobile_property">모바일 네트워크 속성</string>
     <string name="netcheck_title">모바일 네트워크 진단</string>
-    <string name="prompt_to_suggest_no_call_service_notification_content">"전화 수신과 발신이 불가능합니다. 귀하의 SIM(차이나 텔레콤) VoLTE 서비스가 꺼졌습니다."</string>
-    <string name="prompt_to_suggest_no_call_service_notification_content2">"전화 수신과 발신이 불가능합니다. 귀하의 SIM %d (차이나 텔레콤) VoLTE 서비스가 꺼졌습니다."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content">"전화 수신과 발신이 불가능합니다. 귀하의 SIM(China Telecom) VoLTE 서비스가 꺼졌습니다."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">"전화 수신과 발신이 불가능합니다. 귀하의 SIM %d (China Telecom) VoLTE 서비스가 꺼졌습니다."</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">"전화 수신과 발신이 불가능합니다."</string>
-    <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d 으로 전화 발신 실패. 차이나 텔레콤에 연락하셔서 VoLTE 서비스를 켜세요."</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d 으로 전화 발신 실패. China Telecom에 연락하셔서 VoLTE 서비스를 켜세요."</string>
     <string name="notification_demo_version_text">"전화를 걸거나 모바일 데이터를 사용할 수 없습니다."</string>
     <string name="notification_demo_version_title">이것은 데모 장치입니다.</string>
     <string name="mobile_advanced_nr_network_title">5G 네트워크 유형</string>

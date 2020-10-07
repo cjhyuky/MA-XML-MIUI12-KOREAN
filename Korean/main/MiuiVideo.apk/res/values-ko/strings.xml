@@ -32,8 +32,8 @@
     <string name="lp_volume">볼륨</string>
     <string name="screen_shot_failure">스크린샷 캡처 실패</string>
     <string name="screen_shot_failure_tips">스크린샷을 캡처하려면 MIUI를 업데이트하세요.</string>
-    <string name="screen_shot_success">스크린샷 캡처 성공</string>
-    <string name="share_tips">스크린샷 캡처 성공, 탭하여 공유하기</string>
+    <string name="screen_shot_success">스크린샷 캡처 완료</string>
+    <string name="share_tips">스크린샷 캡처 완료, 탭해서 공유하세요.</string>
     <string name="storage_external_sdcard">외부 저장소</string>
     <string name="storage_internal_sdcard">내부 저장소</string>
     <string name="storage_root_dir">이미 루트 폴더에 있습니다.</string>
@@ -43,7 +43,7 @@
     <string name="subtitle_folder_up">이전 폴더</string>
     <string name="subtitle_font_color_title">텍스트 색상</string>
     <string name="subtitle_font_size_title">글자 크기</string>
-    <string name="subtitle_manual_add_sub">자막 추가 성공</string>
+    <string name="subtitle_manual_add_sub">자막 추가 완료</string>
     <string name="subtitle_no_subtitle">자막 사용 불가</string>
     <string name="subtitle_non_subtitle_file">자막 파일 없음</string>
     <string name="subtitle_offset_add_1s">+1초</string>
@@ -57,7 +57,7 @@
     <string name="subtitle_onlinesub_right_declare">면책 조항</string>
     <string name="subtitle_onlinesub_right_declare_content">자막 출처 &lt;br/&gt;&lt;br/&gt;from &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;모든 온라인 자막은 &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a&gt;에서 제공됩니다.</string>
     <string name="subtitle_onlinesub_save_failed">자막 추가 실패</string>
-    <string name="subtitle_onlinesub_save_success">자막 추가 성공</string>
+    <string name="subtitle_onlinesub_save_success">자막 추가 완료</string>
     <string name="subtitle_onlinesub_search_keyword">키워드 입력</string>
     <string name="subtitle_onlinesub_search_notfound">자막 찾기 실패</string>
     <string name="subtitle_onlinesub_size_string_b">크기 %sB</string>
@@ -84,7 +84,7 @@
     <string name="v_app_check_failed">앱 인증 실패</string>
     <string name="v_app_click_to_install">탭하여 설치하기</string>
     <string name="v_app_download_failed">앱 다운로드 실패, 탭하여 다시 시도</string>
-    <string name="v_app_downloaded">Mi 동영상 다운로드 성공</string>
+    <string name="v_app_downloaded">Mi 동영상 다운로드 완료</string>
     <string name="v_app_downloading">Mi 동영상 다운로드 중…</string>
     <string name="v_auto_update">나중에 업데이트</string>
     <string name="v_confirm_delete_history">기록을 지우시겠습니까?</string>
@@ -93,7 +93,7 @@
     <string name="v_find_videos">다시 동영상 검색</string>
     <string name="v_folder_null">알 수 없는 폴더</string>
     <string name="v_hide_folder">숨겨진 동영상</string>
-    <string name="v_hide_prompt">설정 성공, \"숨겨진 동영상\" 폴더에서 숨겨진 항목을 확인하세요.</string>
+    <string name="v_hide_prompt">설정 완료, \"숨겨진 동영상\" 폴더에서 숨겨진 항목을 확인하세요.</string>
     <string name="v_history">기록</string>
     <string name="v_history_null">여기에 항목 없음</string>
     <string name="v_home_favorites">소장</string>
@@ -206,7 +206,7 @@
     <string name="favorite">즐겨찾기에 추가</string>
     <string name="gallery_player">갤러리 플레이어</string>
     <string name="get_product_failed_please_retry">"주문 정보받기 실패, 다시 시도하세요."</string>
-    <string name="geting_product_wait">주문 정보를 받는중…</string>
+    <string name="geting_product_wait">주문 정보를 받는 중…</string>
     <string name="goto_cinema">VIP영화관으로 이동</string>
     <string name="history_video">이전</string>
     <string name="history_week_video">이번 주</string>
@@ -595,7 +595,7 @@
  보내드린 링크를 따라가세요."</string>
     <string name="passport_completed">확인</string>
     <string name="passport_confirm_recycle_account">예</string>
-    <string name="passport_copy_message_text_success">복사 성공</string>
+    <string name="passport_copy_message_text_success">복사 완료</string>
     <string name="passport_copy_message_vcode">복사 코드</string>
     <string name="passport_delete_account">로그아웃</string>
     <string name="passport_downlink_reg">전화번호를 이용하여 계정 생성</string>
@@ -756,15 +756,15 @@
     <string name="download_url_waiting_data">모바일 데이터 절약을 위해 일시 중지됨</string>
     <string name="download_vip_login">Mi 계정에 로그인하고 다시 시도하세요.</string>
     <string name="download_vip_request">먼저 회원이 되세요.</string>
-    <string name="feedback_activity_title">피드백</string>
+    <string name="feedback_activity_title">의견</string>
     <string name="feedback_contact_title">연락처 정보</string>
     <string name="feedback_hint_contact">휴대전화/QQ/이메일</string>
     <string name="feedback_hint_text">발생한 문제를 설명해주세요.</string>
     <string name="feedback_net_error">전송 실패. 네트워크에 연결하고 다시 시도하세요.</string>
     <string name="feedback_sent">전송</string>
-    <string name="feedback_success_toast">전송 완료. 귀하의 피드백에 감사드립니다!</string>
+    <string name="feedback_success_toast">전송 완료. 귀하의 의견에 감사드립니다!</string>
     <string name="feedback_tag_title">카테고리 선택</string>
-    <string name="feedback_text_empty_toast">피드백 입력하기</string>
+    <string name="feedback_text_empty_toast">의견 입력하기</string>
     <string name="finished_offline_download_more_episode_text">더 많은 에피소드 다운로드</string>
     <string name="go_to_live_core_plugin">인식중</string>
     <string name="h5_comment_hint">댓글을 입력하세요.</string>
@@ -984,7 +984,7 @@
     <string name="small_video_use_mobile_network_btn">MB 모바일 데이터</string>
     <string name="small_video_use_mobile_network_msg">모바일 데이터를 사용하여 동영상을 스트리밍하면 추가 비용이 발생할 수 있습니다.</string>
     <string name="v_detail_network_failed">네트워크 설정을 확인하고 다시 시도하세요.</string>
-    <string name="vp_feedback">피드백</string>
+    <string name="vp_feedback">의견</string>
     <string name="vp_media_error_server_died">앱을 다시 실행하고 다시 시도하세요.</string>
     <string name="vp_media_error_source_failed">"이 파일을 열 수 없습니다."</string>
     <string name="vp_network_status_bad">"네트워크에 연결할 수 없습니다. 다시 시도하세요."</string>

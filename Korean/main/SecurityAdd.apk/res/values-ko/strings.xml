@@ -65,7 +65,7 @@
     <string name="superpower_progress_battery_last">%s 남음</string>
     <string name="superpower_progress_left_time">%1$d시간 %2$d분</string>
     <string name="superpower_search_hint">앱 검색</string>
-    <string name="superpower_select_app_title">홈 화면 레이아웃</string>
+    <string name="superpower_select_app_title">홈 화면 구성</string>
     <string name="superpower_settings">초절전 모드</string>
     <string name="superpower_system">추천</string>
     <string name="superpower_third">타사 앱</string>

@@ -113,7 +113,7 @@
     <string name="phone_verify_processing">인증중…</string>
     <string name="phone_get_title">%1$s 통신사에 동의하여 전화번호 받기</string>
     <string name="phone_get_text">%1$s 통신사에 동의하여 이 번호를 받으시겠습니까：%2$s</string>
-    <string name="phone_get_processing">전화번호 받는중…</string>
+    <string name="phone_get_processing">전화번호 받는 중…</string>
     <string name="agree">동의</string>
     <string name="activate_sms_postfix">이 SIM 카드가 Mi 서비스를 활성화하는데 사용됩니다.</string>
     <string name="privacy_revoke_failed_msg">약관 동의 안 함，실행 불가</string>

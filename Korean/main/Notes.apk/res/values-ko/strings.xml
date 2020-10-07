@@ -47,7 +47,7 @@
     <string name="dlg_stick_message">고정중…</string>
     <string name="dlg_hide_message">숨기는 중…</string>
     <string name="dlg_unhide_message">숨김 취소중…</string>
-    <string name="dlg_restore_message">복원중…</string>
+    <string name="dlg_restore_message">복원 중…</string>
     <string name="dlg_quick_delete_title">빠른 삭제</string>
     <string name="dlg_check_reminder">다시 표시하지 않기</string>
     <string name="dlg_title_set_password">비밀번호 설정</string>

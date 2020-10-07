@@ -2,7 +2,7 @@
 <resources>
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>연락처, 메시지, 메모, 캘린더 등을 동기화</item>
-        <item>앱, 홈 화면 레이아웃 및 배경화면 백업</item>
+        <item>앱, 홈 화면 구성 및 배경화면 백업</item>
         <item>Wi-Fi 및 디스플레이를 포함한 중요 설정 백업</item>
         <item>"기기를 분실한 경우 원격으로 기기 잠금"</item>
     </string-array>
@@ -129,13 +129,13 @@
     </string-array>
     <string-array name="settings_search_backup_setting">
         <item>Xiaomi 클라우드에 홈 화면 백업</item>
-        <item>홈 화면의 레이아웃, 설치된 앱 목록 및 시스템 설정 백업</item>
-        <item>클라우드;백업;백업;클라우드 서비스;Xiaomi 클라우드;홈 화면;레이아웃;앱;설정;백업 주기;백업 관리;복원</item>
+        <item>홈 화면 구성, 설치된 앱 목록 및 시스템 설정 백업</item>
+        <item>클라우드;백업;백업;클라우드 서비스;Xiaomi 클라우드;홈 화면;구성;앱;설정;백업 주기;백업 관리;복원</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>백업</item>
         <item>백업된 항목</item>
-        <item>클라우드;백업;백업;클라우드 서비스;Xiaomi 클라우드;홈 화면;레이아웃;앱;백업 관리;복원</item>
+        <item>클라우드;백업;백업;클라우드 서비스;Xiaomi 클라우드;홈 화면;구성;앱;백업 관리;복원</item>
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Xiaomi 클라우드에서 항목 복원</item>

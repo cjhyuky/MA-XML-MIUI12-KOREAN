@@ -51,7 +51,7 @@
     <string name="more">더보기</string>
     <string name="net_sms_unsubscribe">구독 취소 완료</string>
     <string name="summary_pref_cm_smart_sms">카드 템플릿 제공, 문자 서비스 번호, 등.</string>
-    <string name="title_pref_cm_smart_sms">차이나 모바일 스마트 SMS</string>
+    <string name="title_pref_cm_smart_sms">China Mobile 스마트 SMS</string>
     <string name="allow_network_hint">\"정보 자동 업데이트\"를 켜거나 네트워크 연결을 확인하세요.</string>
     <string name="already_updated">최신 버전입니다.</string>
     <string name="click_to_update">탭하여 업데이트 확인</string>

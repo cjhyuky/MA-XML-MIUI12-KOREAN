@@ -180,7 +180,7 @@
     <string name="alipay_enterWallet">Alipay 입력</string>
     <string name="alipay_error_highlight">6–20 位 ， 字母 、 数字 或 符号 组合</string>
     <string name="alipay_face_login">브러쉬 페이스 로그인</string>
-    <string name="alipay_feedback">피드백</string>
+    <string name="alipay_feedback">의견</string>
     <string name="alipay_find_login_password">비밀번호 검색</string>
     <string name="alipay_flow_network_check">세계에서 가장 먼 거리는</string>
     <string name="alipay_flow_network_error">네트워크를 연결할 수 없습니다.</string>
@@ -735,7 +735,7 @@
     <string name="express_setting_entrance_description">주문 세부 정보를 확인하려면 전화번호를 인증받으세요.</string>
     <string name="express_setting_network_unavailable">네트워크를 사용할 수 없습니다.</string>
     <string name="express_setting_number">전화번호</string>
-    <string name="express_setting_number_already_add">이 폰은 이미 추가되었습니다. 다른 폰으로 시도해 보세요.</string>
+    <string name="express_setting_number_already_add">이 휴대전화는 이미 추가되었습니다. 다른 휴대전화로 시도해 보세요.</string>
     <string name="express_setting_number_invalid">유효한 전화번호를 입력했는지 확인하세요.</string>
     <string name="express_setting_number_save">확인 및 저장</string>
     <string name="express_setting_number_title">전화번호 추가</string>
@@ -757,7 +757,7 @@
     <string name="express_setting_verification_code_acquire">인증문자 받기</string>
     <string name="express_setting_verification_code_failed">인증문자 발송 실패</string>
     <string name="express_setting_verification_code_hint">인증문자</string>
-    <string name="express_setting_verification_code_success">인증문자 전송완료</string>
+    <string name="express_setting_verification_code_success">인증문자 전송 완료</string>
     <string name="express_setting_verify_failed">인증 실패</string>
     <string name="express_setting_verify_success">인증 완료</string>
     <string name="express_shortcut_name">택배 발송 확인</string>
@@ -828,7 +828,7 @@
     <string name="favorite_title_modify_failed">제목을 바꿀 수 없습니다.</string>
     <string name="favorite_title_modify_success">성공적으로 수정됨</string>
     <string name="feedback_cancel">취소</string>
-    <string name="feedback_ok">피드백</string>
+    <string name="feedback_ok">의견</string>
     <string name="feedback_tip_msg">지불 문제가 발생 했습니까? 사용자는 우리에게 말하도록 선택할 수 있습니다.</string>
     <string name="flight">비행</string>
     <string name="flight_num">항공편 번호</string>

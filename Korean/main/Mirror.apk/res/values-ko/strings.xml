@@ -171,7 +171,7 @@
     <string name="worker_connect_fail_title">"연결할 수 없음"</string>
     <string name="worker_connect_help">도움말</string>
     <string name="worker_connecting_message">연결 중…</string>
-    <string name="worker_try_join_in_connected_state">연결 성공</string>
+    <string name="worker_try_join_in_connected_state">연결 완료</string>
     <string name="worker_try_join_in_connecting_state">기기 연결 중…</string>
     <string name="yesterday">어제</string>
     <string name="http_buffer_size">HTTP 캐시 크기</string>

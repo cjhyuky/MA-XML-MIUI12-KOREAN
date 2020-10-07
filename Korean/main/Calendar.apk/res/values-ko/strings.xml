@@ -389,8 +389,8 @@
     <string name="show_day_view">요일 표시</string>
     <string name="start_date_calculate">계산</string>
     <string name="subscribe_card">지금 구독</string>
-    <string name="subscribe_card_success">구독 성공! 시작 페이지에서 확인하세요.</string>
-    <string name="subscribe_card_success_for_homepage">“%1$s” 구독 성공</string>
+    <string name="subscribe_card_success">구독 완료! 시작 페이지에서 확인하세요.</string>
+    <string name="subscribe_card_success_for_homepage">“%1$s” 구독 완료</string>
     <string name="subscribe_channel_bottom_hint">—— Mi 캘린더 ——</string>
     <string name="subscribe_channel_footer_desc">구독 또는 구독 해제를 확인하세요.</string>
     <string name="subscribe_channel_footer_title">구독됨</string>
@@ -453,7 +453,7 @@
     <string name="travel_train_number_text">기차</string>
     <string name="travel_train_station">기차역</string>
     <string name="unsubscribe_card">구독 해제</string>
-    <string name="unsubscribe_card_success">“%1$s” 구독 해제 성공</string>
+    <string name="unsubscribe_card_success">“%1$s” 구독 해제 완료</string>
     <string name="unsubscribing_card">구독 해제 중</string>
     <string name="user_notice_button_exit">종료</string>
     <string name="user_notice_button_ok">확인</string>
@@ -484,7 +484,7 @@
     <string name="miuishare_app_name">MIUI 공유</string>
     <string name="miuishare_no_network">네트워크에 연결할 수 없습니다.</string>
     <string name="miuishare_publish">전송</string>
-    <string name="miuishare_share_done">성공적으로 전송됨</string>
+    <string name="miuishare_share_done">전송 완료됨</string>
     <string name="miuishare_share_editor_title">공유</string>
     <string name="miuishare_title_more">더보기</string>
     <string name="miuishare_title_share">공유</string>
@@ -1047,7 +1047,7 @@
      <string name="account_name_calendar">캘린더</string>
      <string name="account_not_exist">계정 없음</string>
      <string name="account_read_only">이 계정에서는 읽기 전용 이벤트입니다.</string>
-     <string name="add_account_success">추가 성공</string>
+     <string name="add_account_success">추가 완료</string>
      <string name="add_caldav_account">CalDAV 계정 추가</string>
      <string name="app_name">캘린더</string>
      <string name="calendar_account_settings">계정 설정</string>
@@ -1099,12 +1099,12 @@
      <string name="toast_create_account_failed">"계정 생성 불가"</string>
      <string name="toast_failed_get_server_config">"계정 정보 확인 불가"</string>
      <string name="toast_import_failed">가져오기 실패</string>
-     <string name="toast_import_success">가져오기 성공</string>
+     <string name="toast_import_success">가져오기 완료</string>
      <string name="toast_invalid_url">유효하지 않은 URL</string>
      <string name="toast_login_by_exchange">Exchange로 로그인하세요.</string>
      <string name="toast_no_authority">"계정에 접근할 수 없습니다. 계정 설정을 확인 후 다시 시도하세요."</string>
      <string name="toast_sync_failed">동기화 실패</string>
-     <string name="toast_sync_success">동기화 성공</string>
+     <string name="toast_sync_success">동기화 완료</string>
      <string name="trust_certificate_accept">허용</string>
      <string name="trust_certificate_fingerprint_verified">전체 지문을 수동으로 검증했습니다.</string>
      <string name="trust_certificate_fingerprints">지문</string>

@@ -227,7 +227,7 @@
     <string name="force_rtl_layout_all_locales_summary">모든 로케일에 대해 화면 레이아웃 방향을 RTL로 강제 설정합니다.</string>
     <string name="hdcp_checking_dialog_title">HDCP 검사 동작 설정</string>
     <string name="hdcp_checking_title">HDCP 검사</string>
-    <string name="help_feedback_label">도움말 및 피드백</string>
+    <string name="help_feedback_label">도움말 및 의견</string>
     <string name="home">설정 홈</string>
     <string name="ime_security_warning">이 입력 방법은 비밀번호 및 신용 카드 번호와 같은 개인 데이터를 비롯하여 입력하는 모든 텍스트를 수집 할 수 있습니다. 앱에서 가져온 것입니다. %1$s. 이 입력 방법을 사용하시겠습니까?</string>
     <string name="immediately_destroy_activities">활동을 지키지 마세요.</string>
@@ -338,7 +338,7 @@
     <string name="runningservices_settings_summary">현재 실행 중인 서비스 보기 및 제어</string>
     <string name="runningservices_settings_title">실행 중인 서비스</string>
     <string name="saved_network">저장자 : %1$s</string>
-    <string name="saving_trace">추적 저장중</string>
+    <string name="saving_trace">추적 저장 중</string>
     <string name="screen_zoom_summary_custom">관습 (%d)</string>
     <string name="screen_zoom_summary_default">기본값</string>
     <string name="screen_zoom_summary_extremely_large">가장 큼</string>

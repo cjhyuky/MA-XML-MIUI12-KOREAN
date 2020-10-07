@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="China_Mobile">차이나 모바일</string>
-    <string name="China_Mobile_HD">차이나 모바일 (HD)</string>
-    <string name="China_Telecom">차이나 텔레콤</string>
-    <string name="China_Unicom">차이나 유니콤</string>
+    <string name="China_Mobile">China Mobile</string>
+    <string name="China_Mobile_HD">China Mobile (HD)</string>
+    <string name="China_Telecom">China Telecom</string>
+    <string name="China_Unicom">China Unicom</string>
     <string name="abbrev_wday_month_day_no_year">MMMMdEEEE</string>
     <string name="abbrev_wday_month_day_no_year_alarm">MMMdEEE</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
@@ -581,7 +581,7 @@
     <string name="charge_length_format">%1$s 전</string>
     <string name="chip_text">칩 텍스트</string>
     <string name="chooseUsbActivity">USB 장치를 위한 앱 선택</string>
-    <string name="choose_clock_panel_title">잠금 화면 레이아웃</string>
+    <string name="choose_clock_panel_title">잠금 화면 구성</string>
     <string name="choose_clock_third_theme_hint_text">현재 적용된 테마에서 화면 잠금</string>
     <string name="choose_clock_title_left_top">왼쪽 맞춤</string>
     <string name="choose_clock_title_middle">가운데 맞춤</string>
@@ -804,7 +804,7 @@
     <string name="face_data_input_ok">완료</string>
     <string name="face_data_input_ok_msg">화면이 켜지면 얼굴 데이터를 사용하여 잠금을 해제할 수 있습니다.</string>
     <string name="face_data_input_ok_msg_angle">기기가 켜져 있을 때 안면 인식으로 잠금을 해제하세요.</string>
-    <string name="face_data_input_ok_title">추가 성공</string>
+    <string name="face_data_input_ok_title">추가 완료</string>
     <string name="face_data_input_structure_title">3D 안면 인식 데이터</string>
     <string name="face_data_input_title">얼굴 추가</string>
     <string name="face_data_introduction_msg">얼굴 데이터로 기기 잠금해제와 신분 확인 등을 할 수 있습니다. 얼굴 데이터 추가 전 잠금 화면 비밀번호를 추가하세요.</string>
@@ -960,8 +960,8 @@
     <string name="hdcp_checking_dialog_title">HDCP 체크 활동 설정</string>
     <string name="hdcp_checking_title">HDCP 체크</string>
     <string name="headset">헤드셋</string>
-    <string name="help_feedback_label">도움말 &amp; 피드백</string>
-    <string name="help_label">도움말 &amp; 피드백</string>
+    <string name="help_feedback_label">도움말 &amp; 의견</string>
+    <string name="help_label">도움말 &amp; 의견</string>
     <string name="hidden_notifications_cancel">괜찮습니다.</string>
     <string name="hidden_notifications_setup">설정</string>
     <string name="hidden_notifications_text">잠금을 해제하기 전에 확인하세요.</string>
@@ -1357,13 +1357,13 @@ EEEE"</string>
     <string name="monitoring_title_device_owned">기기 관리</string>
     <string name="monitoring_title_profile_owned">프로필 모니터링</string>
     <string name="mount_storage">예</string>
-    <string name="mr_button_content_description">캐스트 버튼</string>
-    <string name="mr_cast_button_connected">캐스트 버튼. 연결됨</string>
-    <string name="mr_cast_button_connecting">캐스트 버튼. 연결 중</string>
-    <string name="mr_cast_button_disconnected">캐스트 버튼. 연결 끊김</string>
+    <string name="mr_button_content_description">화면 전송 버튼</string>
+    <string name="mr_cast_button_connected">화면 전송 버튼. 연결됨</string>
+    <string name="mr_cast_button_connecting">화면 전송 버튼. 연결 중</string>
+    <string name="mr_cast_button_disconnected">화면 전송 버튼. 연결 끊김</string>
     <string name="mr_cast_dialog_title_view_placeholder">사용가능한 정보 없음</string>
     <string name="mr_chooser_searching">기기를 찾는중</string>
-    <string name="mr_chooser_title">캐스트</string>
+    <string name="mr_chooser_title">화면 전송</string>
     <string name="mr_controller_album_art">앨범 아트</string>
     <string name="mr_controller_casting_screen">화면 캐스팅</string>
     <string name="mr_controller_close_description">닫기</string>
@@ -1828,7 +1828,7 @@ EEEE"</string>
     <string name="screenshot_failed_to_save_text">저장공간이 부족하여 스크린샷을 저장할 수 없습니다.</string>
     <string name="screenshot_failed_to_save_title">새 스크린샷을 저장할 공간이 부족합니다.</string>
     <string name="screenshot_failed_to_save_unknown_text">스크린샷 저장 중 오류가 발생했습니다.</string>
-    <string name="screenshot_feedback_txt">피드백</string>
+    <string name="screenshot_feedback_txt">의견</string>
     <string name="screenshot_insert_failed">스크린샷을 불러올 수 없음. 다시 찍거나 갤러리에서 이미지를 확인하세요.</string>
     <string name="screenshot_long_screenshot">스크롤</string>
     <string name="screenshot_saved_text">탭하여 스크린샷 보기</string>

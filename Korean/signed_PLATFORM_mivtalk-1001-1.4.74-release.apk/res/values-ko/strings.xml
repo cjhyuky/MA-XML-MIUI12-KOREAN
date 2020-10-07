@@ -9,11 +9,11 @@
     <string name="SDcard_tip_is_full_when_message">영상 또는 음성을 보내려면 SD 카드를 비우세요.</string>
     <string name="SDcard_tip_when_send_message">영상 또는 음성을 보내려면 SD 카드를 넣으세요.</string>
     <string name="about">정보</string>
-    <string name="about_account">샤오미 계정 %s</string>
+    <string name="about_account">Xiaomi 계정 %s</string>
     <string name="about_app_name">Mi 영상 통화</string>
     <string name="about_livetalk">정보</string>
     <string name="about_phone_number">전화번호</string>
-    <string name="about_sign_on_hint">이 번호는 이미 샤오미 계정에 연결되어 있습니다, 비밀번호를 입력해주세요.</string>
+    <string name="about_sign_on_hint">이 번호는 이미 Xiaomi 계정에 연결되어 있습니다, 비밀번호를 입력해주세요.</string>
     <string name="about_text">Mi 영상통화</string>
     <string name="about_text_seperator">|</string>
     <string name="accept">수락</string>
@@ -46,7 +46,7 @@
     <string name="answer_call">받기</string>
     <string name="apksize">앱 크기: %sM</string>
     <string name="app_center_more">더보기</string>
-    <string name="app_copy_right">"@ 2014-2015 모든 권리는 샤오미 에게.
+    <string name="app_copy_right">"@ 2014-2015 모든 권리는 Xiaomi 에게.
 있습니다."</string>
     <string name="app_name">영상 통화</string>
     <string name="app_version">앱 버젼 : %s</string>
@@ -185,7 +185,7 @@
     <string name="confirm">등록하기</string>
     <string name="confirm_delete_contact_all_call_logs">통화 기록을 삭제하시겠습니까?</string>
     <string name="confirm_to_log_out">로그 아웃하시겠습니까?</string>
-    <string name="confirm_with_xiaomi">로그인에 샤오미계정 사용</string>
+    <string name="confirm_with_xiaomi">로그인에 Xiaomi계정 사용</string>
     <string name="connection_mode">연결 모드</string>
     <string name="contact_count">총 %d개의 연락처</string>
     <string name="contact_detail">연락처 정보</string>
@@ -294,14 +294,14 @@
     <string name="face_beauty_switch">뷰티 설정</string>
     <string name="face_beauty_title">뷰티 설정</string>
     <string name="faq_text">묻고 답하기</string>
-    <string name="feedback">피드백</string>
+    <string name="feedback">의견</string>
     <string name="feedback_hint">사용자의 제안을 입력하세요, 우리는 제품을 최저화 할 것입니다！</string>
     <string name="feedback_join_beta_group">베타그룹 참여</string>
     <string name="feedback_limit">"200자를 넘길수 없습니다."</string>
     <string name="feedback_submit">제출</string>
     <string name="feedback_text_hint">증상을 적어주세요！</string>
-    <string name="feedback_title">피드백</string>
-    <string name="feedback_waiting">피드백 기다리는중</string>
+    <string name="feedback_title">의견</string>
+    <string name="feedback_waiting">의견 기다리는중</string>
     <string name="file_download_error_database">다운로드 실패 : 다시 다운로드하시기 바랍니다！</string>
     <string name="file_download_error_fileName">다운로드 실패 : 파일 이름을 찾을 수 없습니다！</string>
     <string name="file_download_error_fileSize">다운로드 실패 : 서버 파일의 크기 정보를 획득 할 수 없습니다！</string>
@@ -531,10 +531,10 @@
     <string name="please_select_items">항목을 선택해주세요.</string>
     <string name="pls_input_commond">명령을 입력하세요(리셋/내보내기/…)</string>
     <string name="pls_input_hint_for_temp_long_link">전화번호를 입력하세요.</string>
-    <string name="pls_input_hint_for_xiaomi">샤오미 ID를 입력하세요.</string>
+    <string name="pls_input_hint_for_xiaomi">Xiaomi ID를 입력하세요.</string>
     <string name="pls_input_phone">귀하의 전화번호를 입력하세요.</string>
     <string name="pls_input_phone_error">잘못된 번호입니다, 다시 입력해주세요.</string>
-    <string name="pls_input_remote_id_error">올바른 샤오미 ID를 입력하세요.</string>
+    <string name="pls_input_remote_id_error">올바른 Xiaomi ID를 입력하세요.</string>
     <string name="pls_login_error">로그인 에러, 네트워크 확인후 다시 시도하세요.</string>
     <string name="pls_wait">잠시만 기다려주세요.</string>
     <string name="policy_text">서비스 약관</string>
@@ -556,13 +556,13 @@
     <string name="pref_key_about_title">정보</string>
     <string name="pref_key_engine_select_group_title">엔진 선택</string>
     <string name="pref_key_facetime_with_stranger_title">모르는 번호 통화 금지</string>
-    <string name="pref_key_feedback_title">피드백</string>
+    <string name="pref_key_feedback_title">의견</string>
     <string name="pref_key_flow_statistics_title">데이터 통계</string>
     <string name="pref_key_invite_contact_title">영상통화어플에 친구를 초대</string>
     <string name="pref_key_phone_number_title">전화</string>
     <string name="pref_key_photo_title">헤드 이미지</string>
     <string name="pref_key_prompts_title">데이터 경고 팝업</string>
-    <string name="pref_key_xiaomi_account_title">샤오미 계정</string>
+    <string name="pref_key_xiaomi_account_title">Xiaomi 계정</string>
     <string name="pref_log_out">로그 아웃</string>
     <string name="pref_upgrade_title">업데이트 확인</string>
     <string name="pref_version_name_header">버젼 %1$s</string>
@@ -629,7 +629,7 @@
     <string name="replay">다시재생</string>
     <string name="report">보고서</string>
     <string name="report_attach_images">보고서 첨부 이미지</string>
-    <string name="report_quick_feedback">빠른 피드백</string>
+    <string name="report_quick_feedback">빠른 의견</string>
     <string name="resend">다시보내기</string>
     <string name="resend_image">이미지 전송 실패, 다시 보낼까요?</string>
     <string name="resend_message">메시지 전송 실패, 다시 보낼까요?</string>
@@ -667,7 +667,7 @@
     <string name="selected">선택</string>
     <string name="selected_too_many">너무 많은 사람들을 선택했습니다, 최대 %s명</string>
     <string name="send">전송</string>
-    <string name="send_feedback_log">피드백 로그 보내기</string>
+    <string name="send_feedback_log">의견 로그 보내기</string>
     <string name="send_invite">전화거는중</string>
     <string name="send_message_failed_title">메시지 전송 실패</string>
     <string name="send_sms_over_limited">메시지를 너무 자주 보냈습니다.</string>
@@ -711,9 +711,9 @@
     <string name="show_black_list">차단된 연락처(%d)</string>
     <string name="show_image_not_support_tips">이 사진 포맷은 지원하지 않습니다.</string>
     <string name="show_local_contact">연락처 사용불가(%d)</string>
-    <string name="sign_in">샤오미 계정 등록</string>
+    <string name="sign_in">Xiaomi 계정 등록</string>
     <string name="sign_on">로그인</string>
-    <string name="sign_on_account_hint">전화번호/샤오미 ID/이메일</string>
+    <string name="sign_on_account_hint">전화번호/Xiaomi ID/이메일</string>
     <string name="sign_on_directly">직접 로그인</string>
     <string name="sign_on_failed_network">"로그인 불가, 네트워크 설정을 확인하세요"</string>
     <string name="sign_on_failed_not_bind">"로그인 불가, 전화를 확인하세요"</string>
@@ -725,7 +725,7 @@
     <string name="sign_on_password_hint">비밀번호 입력</string>
     <string name="signin_copy">개인정보 보호정책과 서비스 약관을 읽고 동의하였습니다.</string>
     <string name="signup_account">계정 가입</string>
-    <string name="signup_with_phone_number">이 번호는 %s 샤오미 계정에 등록되어 있습니다. 로그인하시겠습니까?</string>
+    <string name="signup_with_phone_number">이 번호는 %s Xiaomi 계정에 등록되어 있습니다. 로그인하시겠습니까?</string>
     <string name="silent">묵음</string>
     <string name="silent_speaker">스피커 묵음</string>
     <string name="single_call_speaking">단일 통화 중</string>
@@ -759,7 +759,7 @@
     <string name="strict_mode">엄격 모드</string>
     <string name="submit_cannot_be_empty">내용을 작성해주세요.</string>
     <string name="submit_failed_with_no_network">제출 실패, 네트워크 설정을 확인해주세요.</string>
-    <string name="submit_feedback_success">피드백 감사합니다.</string>
+    <string name="submit_feedback_success">의견 감사합니다.</string>
     <string name="switch_account">내가 아닙니다.</string>
     <string name="system_call_audio_tip">"음성통화를 끊지 않았습니다, 끊어주세요"</string>
     <string name="system_call_tip">"영상통화를 끊지 않았습니다, 끊어주세요"</string>
@@ -886,7 +886,7 @@
     <string name="voip_btn_refuse">거부</string>
     <string name="voip_btn_speaker">스피커폰</string>
     <string name="voip_call">음성 통화</string>
-    <string name="voip_call_feedback">피드백 전송완료, 대단히 감사합니다.</string>
+    <string name="voip_call_feedback">의견 전송 완료, 대단히 감사합니다.</string>
     <string name="voip_call_incoming">전화 수신</string>
     <string name="voip_call_outgoing">전화 거는중</string>
     <string name="voip_call_terminal">음성 통화 중단</string>
@@ -895,7 +895,7 @@
     <string name="voip_calling_too_much">너무 자주 전화하였습니다, 나중에 다시 걸어주세요.</string>
     <string name="voip_chat_cancle">취소됨</string>
     <string name="voip_chat_introduce_tip">채팅 \"작은전화\" 을 클릭</string>
-    <string name="voip_chat_invite_other">"음성통화 아직도 유료로 하시나요? 샤오미 사용자는 새버젼을 다운받아 무료로 저와 통화해 보세요"</string>
+    <string name="voip_chat_invite_other">"음성통화 아직도 유료로 하시나요? Xiaomi 사용자는 새 버젼을 다운받아 무료로 저와 통화해 보세요"</string>
     <string name="voip_chat_missed_calls">부재중 통화</string>
     <string name="voip_chat_no_answer">응답없음</string>
     <string name="voip_chat_ohters">알 수 없는 유형</string>
@@ -945,7 +945,7 @@
     <string name="voip_on_traffic">이 통화는 요금이 발생합니다.</string>
     <string name="voip_on_traffic_ring_tips">모바일 데이터 사용으로 요금이 발생합니다.</string>
     <string name="voip_on_traffic_speaking_tips">모바일 데이터 사용</string>
-    <string name="voip_other_phone_call">샤오미 계정이 통화 중입니다, 통화종료후에 다시걸어주세요.</string>
+    <string name="voip_other_phone_call">Xiaomi 계정이 통화 중입니다, 통화종료후에 다시걸어주세요.</string>
     <string name="voip_other_ping_error">"상대방 네트워크 에러, 나중에 다시 걸어주세요"</string>
     <string name="voip_other_unsupport_voip">"상대방이 Mi 영상통화 계정이 없습니다."</string>
     <string name="voip_others_not_online">"상대방이 인터넷에 연결되어있지 않습니다."</string>
@@ -966,7 +966,7 @@
     <string name="voip_some_ping_error">네트워크 에러, 나중에 다시 시도해주세요.</string>
     <string name="voip_start_audio_call">음성 통화</string>
     <string name="voip_start_call">연결됨</string>
-    <string name="voip_starting">샤오미 음성 통화</string>
+    <string name="voip_starting">Xiaomi 음성 통화</string>
     <string name="voip_statistics_flow">(%1$s소비)</string>
     <string name="voip_stop_called">전화 끊기</string>
     <string name="voip_talk_canot_play_voice">"음성 통화에서 재생할 수 없습니다."</string>
@@ -989,7 +989,7 @@
     <string name="welcome_btn_use">확인</string>
     <string name="within_1_hour">%d분 전에</string>
     <string name="within_s_secs">방금</string>
-    <string name="xiaomi_speaker_tips">스피커를 켤 권한이 샤오미에게는 없습니다.</string>
+    <string name="xiaomi_speaker_tips">스피커를 켤 권한이 Xiaomi에게는 없습니다.</string>
     <string name="yesterday_time">어제 %s</string>
     <string name="zero">0</string>
 </resources>

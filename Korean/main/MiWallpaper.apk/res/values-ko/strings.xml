@@ -109,7 +109,7 @@ EEE"</string>
     <string name="friday_shortest">금</string>
     <string name="midnight">오전</string>
     <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화 꺼짐</string>
-    <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 성공</string>
+    <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
     <string name="miuix_appcompat_cloud_state_syncing">클라우드 동기화 중…</string>
     <string name="monday">월요일</string>
     <string name="monday_short">월요일</string>

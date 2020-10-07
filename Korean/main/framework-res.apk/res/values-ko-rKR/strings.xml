@@ -695,7 +695,7 @@
     <string name="permdesc_setAlwaysFinish">앱이 백그라운드로 이동한 활동을 항상 바로 종료할지 여부를 제어할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setAnimationScale">애플리케이션이 언제든지 전체 애니메이션 속도를 빠르게 또는 느리게 변경할 수 있도록 허용합니다.</string>
     <string name="permdesc_setDebugApp">애플리케이션이 다른 애플리케이션에 대해 디버깅을 사용할 수 있도록 허용합니다. 이 경우 악성 애플리케이션이 다른 애플리케이션을 중지시킬 수 있습니다.</string>
-    <string name="permdesc_setKeyboardLayout">앱이 키보드 레이아웃을 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
+    <string name="permdesc_setKeyboardLayout">앱이 키보드 구성을 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setOrientation">앱이 언제든지 화면 회전을 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setPointerSpeed">앱이 언제든지 마우스 또는 트랙패드 포인터의 속도를 변경할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_setPreferredApplications">앱이 기본 앱을 수정할 수 있도록 허용합니다. 이 경우 악성 앱이 실행되는 앱을 몰래 변경하고 기존 앱으로 위장하여 사용자의 개인정보를 수집할 수 있습니다.</string>
@@ -892,7 +892,7 @@
     <string name="permlab_setAlwaysFinish">백그라운드 앱 강제 종료</string>
     <string name="permlab_setAnimationScale">전체 애니메이션 속도 수정</string>
     <string name="permlab_setDebugApp">앱 디버깅 사용</string>
-    <string name="permlab_setKeyboardLayout">키보드 레이아웃 변경</string>
+    <string name="permlab_setKeyboardLayout">키보드 구성 변경</string>
     <string name="permlab_setOrientation">화면 방향 변경</string>
     <string name="permlab_setPointerSpeed">포인터 속도 변경</string>
     <string name="permlab_setPreferredApplications">기본 앱 설정</string>
@@ -1066,8 +1066,8 @@
     <string name="selectTextMode">텍스트 선택</string>
     <string name="select_character">문자 삽입</string>
     <string name="select_input_method">입력 방법 선택</string>
-    <string name="select_keyboard_layout_notification_message">터치하여 키보드 레이아웃을 선택합니다.</string>
-    <string name="select_keyboard_layout_notification_title">키보드 레이아웃 선택</string>
+    <string name="select_keyboard_layout_notification_message">터치하여 키보드 구성을 선택합니다.</string>
+    <string name="select_keyboard_layout_notification_title">키보드 구성 선택</string>
     <string name="sendText">텍스트에 대한 작업 선택</string>
     <string name="sending">전송 중...</string>
     <string name="serial_number">일련번호:</string>

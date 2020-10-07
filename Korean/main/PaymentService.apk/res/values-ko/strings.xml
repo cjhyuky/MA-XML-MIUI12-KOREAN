@@ -146,7 +146,7 @@
     <string name="passport_account_identity_title">ID 확인</string>
     <string name="passport_error_login">로그인할 수 없습니다.</string>
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
-    <string name="passport_copy_message_text_success">복사 성공</string>
+    <string name="passport_copy_message_text_success">복사 완료</string>
     <string name="passport_copy_message_vcode">복사 코드</string>
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
@@ -286,7 +286,7 @@
     <string name="mibi_list_item_bottom_hint">"목록 맨 하단입니다."</string>
     <string name="mibi_login">로그인</string>
     <string name="mibi_memu_refresh">새로고침</string>
-    <string name="mibi_menu_feedback">피드백</string>
+    <string name="mibi_menu_feedback">의견</string>
     <string name="mibi_menu_lock">앱 잠금 추가</string>
     <string name="mibi_menu_qa">묻고답하기</string>
     <string name="mibi_menu_shotcut">홈 화면에 배치</string>
@@ -420,7 +420,7 @@
     <string name="mibi_summary_bind_phone">계정의 안전을 위해 휴대전화 동기화 후 결제하세요.</string>
     <string name="mibi_summary_custom_service_phone">전화번호:</string>
     <string name="mibi_summary_sms_code">%1$s 로 전송된 인증 코드를 입력하세요，그러면 결제가 완료됩니다.</string>
-    <string name="mibi_tianyi_create_order">차이나 유니콤 문자</string>
+    <string name="mibi_tianyi_create_order">China Unicom 문자</string>
     <string name="mibi_title_bind_phone">휴대전화 번호 동기화</string>
     <string name="mibi_title_custom_service_phone">고객센터 연락하기</string>
     <string name="mibi_title_discounts">할인</string>
@@ -502,10 +502,10 @@
     <string name="passport_select_the_recycle_phone_login">귀하의 계정을 선택하세요.</string>
     <string name="passport_select_the_register_phone">계정을 만들기 위해 전화번호를 선택하세요.</string>
     <string name="passport_send_vcode_failed">"코드 전송 실패"</string>
-    <string name="passport_sending_vcode">코드 보내는중…</string>
+    <string name="passport_sending_vcode">코드 보내는 중…</string>
     <string name="passport_set">설정</string>
     <string name="passport_set_password_no_phone_msg">전화번호를 추가하여 사용자의 계정을 보호하세요.</string>
-    <string name="passport_sms_send_success">전송완료</string>
+    <string name="passport_sms_send_success">전송 완료</string>
     <string name="passport_sync_account_data">계정 정보 동기화 중…</string>
     <string name="passport_sync_account_data_failed_warning">귀하의 계정 정보가 이제 동기화되었습니다. 이제 Mi 계정 ID로 로그인할 수 있습니다. 휴대전화 번호나 이메일로 로그인하고 싶으시면 완전히 동기화될 때까지 기다려주세요.</string>
     <string name="passport_user_id_notice">귀하의 Mi 계정 ID는 %s 입니다.</string>

@@ -107,9 +107,9 @@
     <string name="buffering">버퍼링 중…</string>
     <string name="airkan_video_playing_in">"동영상이 "</string>
     <string name="airkan_video_playing">재생 중</string>
-    <string name="airkan_playing">캐스트 중입니다.</string>
+    <string name="airkan_playing">화면 전송 중입니다.</string>
     <string name="airkan_playing_to">" 켜짐 "</string>
-    <string name="airkan_tips">탭하여 캐스트</string>
+    <string name="airkan_tips">탭하여 전송</string>
     <string name="toast_message_continue_play_from">에서 재생 중</string>
     <string name="toast_message_continue_play_hour">시간</string>
     <string name="toast_message_continue_play_minute">분</string>
@@ -145,7 +145,7 @@
     <string name="vp_offline">오프라인</string>
     <string name="vp_offline_title">오프라인</string>
     <string name="vp_milink">Mi 링크</string>
-    <string name="vp_milink_function">화면에 캐스트</string>
+    <string name="vp_milink_function">화면 전송</string>
     <string name="vp_function">설정</string>
     <string name="vp_offline_status_done">완료됨</string>
     <string name="vp_offline_status_wait">대기</string>

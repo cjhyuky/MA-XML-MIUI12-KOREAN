@@ -218,7 +218,7 @@
     <string name="disable_aod_in_dark_room">어두운 곳에서 누워있을 때 Always On Display 끄기</string>
     <string name="disable_aod_in_power_save_mode">절전 모드 시 Always On Display 끄기</string>
     <string name="disable_aod_in_power_save_mode_summary">"배터리 절약을 위해 아무 것도 표시하지 않습니다."</string>
-    <string name="photo_editor_saving">저장중…</string>
+    <string name="photo_editor_saving">저장 중…</string>
     <string name="item_view_role_description">탭</string>
     <string name="material_slider_range_end">범위 끝,</string>
     <string name="material_slider_range_start">범위 시작,</string>

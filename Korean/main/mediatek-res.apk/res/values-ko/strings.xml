@@ -69,7 +69,7 @@
     <string name="drm_toast_license_expired">DRM 라이센스가 만료되었습니다.</string>
     <string name="drm_forwardforbidden_title">전달이 금지됨</string>
     <string name="drm_forwardforbidden_message">일부 보호된 파일은 전달할 수 없습니다.</string>
-    <string name="drm_license_install_success">DRM 라이센스가 성공적으로 설치되었습니다.</string>
+    <string name="drm_license_install_success">DRM 라이센스가 설치되었습니다.</string>
     <string name="media_controller_buffering">%d%% 버퍼링 중...</string>
     <string name="contact_widget_loading">로드하는 중…</string>
     <string name="drm_license_install_fail">DRM 라이센스 설치에 실패했습니다.</string>
@@ -196,7 +196,7 @@
     <string name="wifi_p2p_frequency_conflict_message">%1$s에 연결되어 있어도(채널 대역과 현재 Wi-Fi 액세스 지점의 ID를 %2$s(으)로 변경하는 경우에 한해) 전화가 일시적으로 Wi-Fi에서 끊어집니다.</string>
     <string name="wifi_display_wifi_network_disconnected">Wi-Fi 네트워크 %1$s 연결이 끊어짐.</string>
     <string name="wifi_display_channel_confliction">채널 충돌</string>
-    <string name="wifi_display_wifi_network_cannot_coexist">현재 Wi-Fi 네트워크는 캐스트 스크린 연결과 함께 사용할 수 없습니다.</string>
+    <string name="wifi_display_wifi_network_cannot_coexist">현재 Wi-Fi 네트워크는 화면 전송과 함께 사용할 수 없습니다.</string>
     <string name="msensor_toast_text">나침반 간섭. 그림 8과 같이 전화기를 흔들어 나침반을 다시 보정하세요.</string>
     <string name="choose_account">계정 선택</string>
     <string name="confirm_radio_msg_UIM">번호를 사용하려면, 먼저 비행기 모드를 켜세요.</string>
@@ -255,7 +255,7 @@
     <string name="wfc_tls_conn_error">오류 코드 08: 연결할 수 없음</string>
     <string name="aerr_application_permission_connectivity">\"%1$s\" 앱이 %2$s 작업을 실행할 수 없습니다. \"설정\"에서 %2$s를 실행해 보세요.</string>
     <string name="close">앱 닫기</string>
-    <string name="confirm_noimsreg_for_ctvolte_msg">차이나 텔레콤 VoLTE 서비스를 잠시 사용할 수 없습니다. VoLTE를 해제하시겠습니까?</string>
+    <string name="confirm_noimsreg_for_ctvolte_msg">China Telecom VoLTE 서비스를 잠시 사용할 수 없습니다. VoLTE를 해제하시겠습니까?</string>
     <string name="drag">앱 윈도우 크기 드래그</string>
     <string name="drm_consume_interval">이 파일을 %1$s 내에 사용 가능합니다.</string>
     <string name="drm_effective_duration">적용 기간 : </string>

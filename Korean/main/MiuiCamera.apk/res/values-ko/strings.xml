@@ -679,7 +679,7 @@
     <string name="id_card_mode_hint_front">신분증 앞면을 스캔하세요.</string>
     <string name="id_card_mode_use_hint_text_body">&quot;신분증 양면을 하나의 이미지로 합성합니다. A4 용지에 무선으로 출력해보세요.&quot;</string>
     <string name="id_card_mode_use_hint_text_title">신분증 스캔</string>
-    <string name="import_complete">불러오기 성공</string>
+    <string name="import_complete">불러오기 완료</string>
     <string name="import_contact">연락처 가져오기</string>
     <string name="import_fail">불러오기 실패</string>
     <string name="install_confirmed">설치</string>
@@ -1383,9 +1383,9 @@
     <string name="pref_camera_sound_entry_on">켜짐</string>
     <string name="pref_camera_sound_title">카메라 소리</string>
     <string name="pref_camera_square_mode_title">사각형 모드</string>
-    <string name="pref_camera_sr_enable_title">슈퍼 해상도 켜기</string>
+    <string name="pref_camera_sr_enable_title">초해상화 켜기</string>
     <string name="pref_camera_stereo_mode_title">듀얼 모드</string>
-    <string name="pref_camera_super_resolution_title">슈퍼 해상도 켜기</string>
+    <string name="pref_camera_super_resolution_title">초해상화 켜기</string>
     <string name="pref_camera_tilt_shift_entry_circle">원</string>
     <string name="pref_camera_tilt_shift_entry_parallel">평행</string>
     <string name="pref_camera_tilt_shift_title">Tilt-Shift</string>

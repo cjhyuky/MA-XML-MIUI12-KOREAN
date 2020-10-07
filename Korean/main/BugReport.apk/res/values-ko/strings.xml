@@ -4,8 +4,8 @@
     <string name="action_submit">전송</string>
     <string name="announcement">주의</string>
     <string name="app_empty">다운로드한 앱이 없습니다.</string>
-    <string name="app_label">피드백</string>
-    <string name="app_name">피드백</string>
+    <string name="app_label">의견</string>
+    <string name="app_name">의견</string>
     <string name="app_search">앱 검색</string>
     <string name="btn_send">전송</string>
     <string name="bugreport_dialog_not_show_again">다시 표시하지 않기</string>
@@ -85,7 +85,7 @@
     <string name="feedback_choose_third_app_name">앱 이름</string>
     <string name="feedback_collect_log_failed">로그를 가져올 수 없음</string>
     <string name="feedback_contact_info_hint">휴대전화 번호/이메일</string>
-    <string name="feedback_continue">피드백 계속</string>
+    <string name="feedback_continue">의견 계속</string>
     <string name="feedback_delete_images">삭제한 이미지</string>
     <string name="feedback_description">설명</string>
     <string name="feedback_description_bugreport_hint">(…)일 때 제 휴대전화가 (…) 이상을 보입니다.</string>
@@ -126,7 +126,7 @@
     <string name="feedback_status_change_notification_title">보고서 진행 과정이 업데이트 되었습니다.</string>
     <string name="feedback_status_collect_log_failed">로그 생성 실패</string>
     <string name="feedback_status_commit_failed_title">보고서를 전송하지 못했습니다.</string>
-    <string name="feedback_status_commit_in_queue_title">피드백을 기다리는 중</string>
+    <string name="feedback_status_commit_in_queue_title">의견을 기다리는 중</string>
     <string name="feedback_status_commit_succ_title">전송됨</string>
     <string name="feedback_status_commit_uploading_title">전송 중…</string>
     <string name="feedback_status_forum_reply">답장</string>
@@ -134,13 +134,13 @@
     <string name="feedback_status_jira_comment">댓글 추가</string>
     <string name="feedback_status_more">세부사항</string>
     <string name="feedback_status_processing">처리 중…</string>
-    <string name="feedback_status_recorded">피드백 수집됨</string>
+    <string name="feedback_status_recorded">의견 수집됨</string>
     <string name="feedback_status_replyed">답변됨</string>
     <string name="feedback_status_reresolved">해결됨</string>
     <string name="feedback_status_save_log_info_failed">첨부 파일 URL 번경 실패</string>
-    <string name="feedback_status_submit_attachment">첨부 파일을 성공적으로 업로드했습니다.</string>
-    <string name="feedback_status_submit_bbs_failed">피드백 콘텐츠 전송 실패</string>
-    <string name="feedback_status_submit_feedback_failed">피드백 전송 실패</string>
+    <string name="feedback_status_submit_attachment">첨부 파일을 업로드했습니다.</string>
+    <string name="feedback_status_submit_bbs_failed">의견 콘텐츠 전송 실패</string>
+    <string name="feedback_status_submit_feedback_failed">의견 전송 실패</string>
     <string name="feedback_status_supplement">문제점을 자세하게 설명해주세요.</string>
     <string name="feedback_status_supplement_more">댓글 추가</string>
     <string name="feedback_status_upload_log_failed">첨부 파일 업로드 실패</string>
@@ -151,7 +151,7 @@
     <string name="feedback_submit_hint_gone">닫은 메시지</string>
     <string name="feedback_submit_hint1">보고서의 진행 상황을 알려드릴 것입니다.</string>
     <string name="feedback_submit_hint2">\"내 보고서\"로 이동하여 세부사항 보기</string>
-    <string name="feedback_submit_succ">전송 성공</string>
+    <string name="feedback_submit_succ">전송 완료</string>
     <string name="feedback_submit_succ_button">완료</string>
     <string name="feedback_submitting">제출 중...</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s 건의 \"%2$s\"</string>
@@ -184,7 +184,7 @@
     <string name="kr_authorization_user_protocol">이용 약관 (필수)</string>
     <string name="loading_apps">목록 불러오는 중…</string>
     <string name="login_system_failed">로그인 실패, 다시 시도</string>
-    <string name="logo_title">피드백</string>
+    <string name="logo_title">의견</string>
     <string name="max_error">%1$s보다 짧아야 합니다.</string>
     <string name="menu_copy">복사</string>
     <string name="message_label">메시지</string>
@@ -202,7 +202,7 @@
     <string name="michat_close_text">채팅 종료됨</string>
     <string name="michat_comment_net_error">네트워크 연결 실패, 나중에 다시 시도</string>
     <string name="michat_comment_submit">평가 및 돌아가기</string>
-    <string name="michat_comment_thx">피드백을 남겨주셔서 감사합니다!</string>
+    <string name="michat_comment_thx">의견을 남겨주셔서 감사합니다!</string>
     <string name="michat_customer_join">채팅 참가</string>
     <string name="michat_customer_quit">고객지원 상담원이 채팅을 종료했습니다.</string>
     <string name="michat_customer_text">고객 지원</string>
@@ -211,7 +211,7 @@
     <string name="michat_error_need_login_text">로그인하시면 온라인 고객지원을 사용할 수 있습니다.</string>
     <string name="michat_failed_to_add_media">죄송하지만 %1$s 항목을 전송할 수 없습니다.</string>
     <string name="michat_failed_to_fetch_fql">자주하는 질문을 가져올 수 없습니다. 네트워크 연결을 확인하세요.</string>
-    <string name="michat_feedback_title_name">피드백 설문조사</string>
+    <string name="michat_feedback_title_name">의견 설문조사</string>
     <string name="michat_finish_text">완료</string>
     <string name="michat_in_artificial_customer_state">자동 응답 서비스는 이 작업을 수행할 수 없습니다.</string>
     <string name="michat_invalid_url">잘못된 URL</string>
@@ -273,7 +273,7 @@
     <string name="module_search">검색</string>
     <string name="module_security">보안 &amp; Xiaomi 클라우드</string>
     <string name="module_system">시스템</string>
-    <string name="module_tools">시스템 툴</string>
+    <string name="module_tools">시스템 도구</string>
     <string name="modules">항목 선택</string>
     <string name="multi_graph_more">총 항목: %d</string>
     <string name="network_err">네트워크에 연결할 수 없습니다.</string>
@@ -450,7 +450,7 @@
     <string name="passport_wrong_phone_number_format">입력 한 전화번호의 형식이 잘못되었습니다.</string>
     <string name="passport_wrong_vcode">입력 한 코드가 잘못되었습니다.</string>
     <string name="pic_not_exist">이 이미지는 존재하지 않습니다.</string>
-    <string name="plus_one_submit_dialog_content">피드백과 오류 로그가 함께 Mi 서버로 전송됩니다.</string>
+    <string name="plus_one_submit_dialog_content">의견과 오류 로그가 함께 Mi 서버로 전송됩니다.</string>
     <string name="plus_one_submit_dialog_not_show_again">기본 설정 기억</string>
     <string name="post_miui_bbs_failed">포럼에 게시 실패</string>
     <string name="privacy_category_title">개인정보</string>
@@ -464,7 +464,7 @@
     <string name="reply_failed">답장할 수 없음</string>
     <string name="reply_option_log_hint">선택 사항</string>
     <string name="reply_select_log_hint">로그 파일 선택</string>
-    <string name="reply_successful">성공적으로 답장함</string>
+    <string name="reply_successful">답장 완료</string>
     <string name="report_miui">버그 신고</string>
     <string name="request_empty_data">데이터 없음</string>
     <string name="save_pic">저장</string>
@@ -478,8 +478,8 @@
     <string name="select_system_app_tag">태그 선택</string>
     <string name="submit_dialog_cancel">취소</string>
     <string name="submit_dialog_confirm">전송</string>
-    <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 피드백은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 피드백과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 의견은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 의견과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
     <string name="submit_dialog_title">보고서 전송</string>
     <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
     <string name="suggestion_description">여기에 설명 추가</string>
@@ -488,7 +488,7 @@
     <string name="tab_title_chat">FAQ</string>
     <string name="tab_title_my_reports">내 보고서</string>
     <string name="tab_title_preferences">설정</string>
-    <string name="tab_title_report">피드백</string>
+    <string name="tab_title_report">의견</string>
     <string name="title_answer_feedback_main">해결 방법을 찾았습니다!</string>
     <string name="title_catch_full_log">로그</string>
     <string name="title_customer_service">고객 서비스</string>

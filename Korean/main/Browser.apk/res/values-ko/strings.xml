@@ -80,14 +80,14 @@
     <string name="ad_app_download_notification_content">설치 완료후, 데모를 열어보세요.</string>
     <string name="ad_app_download_site_new">새로운</string>
     <string name="ad_exit_dialog_exit_btn_name">나가기</string>
-    <string name="ad_exit_dialog_message">%s를 성공적으로 설치했습니다. 지금 열까요?</string>
+    <string name="ad_exit_dialog_message">%s를 설치했습니다. 지금 열까요?</string>
     <string name="ad_exit_dialog_open_btn_name">열기</string>
     <string name="ad_exit_dialog_title_name">새로운 앱 열기 확정</string>
     <string name="adblock_force_updating_rules_toast">Ad blocker 업데이트 중</string>
     <string name="adblock_notification">%d개의 광고 차단됨</string>
     <string name="adblock_rules_not_updated_toast">업데이트 실패</string>
     <string name="adblock_rules_restore">차단 해제</string>
-    <string name="adblock_rules_updated_toast">업데이트 성공</string>
+    <string name="adblock_rules_updated_toast">업데이트 완료</string>
     <string name="adblock_websites_settings_empyt_hint">어떤 사이트도 차단되어 있지 않습니다.</string>
     <string name="adblock_websites_settings_title">차단된 사이트</string>
     <string name="add_bookmark_group">그룹 추가</string>
@@ -100,7 +100,7 @@
     <string name="add_quicklink_to_popular">시작 페이지에 추가</string>
     <string name="add_quicklinks">시작 페이지에 추가</string>
     <string name="add_shortcut">바로가기 추가</string>
-    <string name="add_shortcut_success">바로가기 추가 성공</string>
+    <string name="add_shortcut_success">바로가기 추가 완료</string>
     <string name="add_to_bookmark">북마크</string>
     <string name="add_to_desk">홈 화면에 놓기</string>
     <string name="add_to_desk_lite_mode_toast">홈 화면에 추가할 수 없습니다.</string>
@@ -310,7 +310,7 @@
     <string name="dont_remind_again">이 선택 기억</string>
     <string name="download_btn_select_all">전체 선택</string>
     <string name="download_btn_select_none">전체 선택 해제</string>
-    <string name="download_complete">다운로드 성공</string>
+    <string name="download_complete">다운로드 완료</string>
     <string name="download_completed">다운로드됨</string>
     <string name="download_default_path_txt">이 선택 기억</string>
     <string name="download_dialog_default_path_invalid">선택한 다운로드 위치가 잘못되었습니다. 기본 위치에 저장 중…</string>
@@ -385,7 +385,7 @@
     <string name="find_on_page_hint">페이지 검색</string>
     <string name="find_on_page_next">다음</string>
     <string name="find_on_page_prev">뒤로</string>
-    <string name="finish_sync_cloud_tabs">성공적으로 동기화함</string>
+    <string name="finish_sync_cloud_tabs">동기화 완료</string>
     <string name="firstUsingSearchEngineTips">검색 앤진을 변경하시겠습니까?</string>
     <string name="fling_on_border_gesture_hint">설정에서 제스처를 선택할 수 있습니다.</string>
     <string name="for_diagnosis_usage_only">이 정보는 진단 용도로만 사용하세요.</string>
@@ -663,7 +663,7 @@
     <string name="mw_miuichromium_error_page_airplane_mode_on">먼저 비행기 모드를 꺼주세요.</string>
     <string name="mw_miuichromium_error_page_btn_close">닫기</string>
     <string name="mw_miuichromium_error_page_btn_refresh">새로고침</string>
-    <string name="mw_miuichromium_error_page_btn_report_issue">피드백 전송</string>
+    <string name="mw_miuichromium_error_page_btn_report_issue">의견 전송</string>
     <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">네트워크 신호가 약해 연결할 수 없습니다. %s1네트워크 설정%s2을 확인하고 다시 시도하세요.</string>
     <string name="mw_miuichromium_error_page_diagnose">네트워크 진단</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">네트워크 진단</string>
@@ -952,7 +952,7 @@
     <string name="paused_waiting_for_network">연결을 기다리는 중…</string>
     <string name="paused_waiting_to_retry">다시 시도를 기다리는 중…</string>
     <string name="pay_failed_toast">지불을 완료하지 못했습니다.</string>
-    <string name="pay_success_toast">지불 성공</string>
+    <string name="pay_success_toast">지불 완료</string>
     <string name="permission_alert_window">이 기능을 사용하려면 시스템 옵션 중 디스플레이 팝업 창을 열어주세요.</string>
     <string name="permission_notification">알림 전송.</string>
     <string name="permission_unknown">알 수 없는 옵션</string>
@@ -994,7 +994,7 @@
     <string name="pref_content_auto_light_mode">자동 밝기</string>
     <string name="pref_content_block_popups">팝업 차단</string>
     <string name="pref_content_cloud_speedup">프록시 서버 사용하여 콘텐츠 더 빠르게 불러오기</string>
-    <string name="pref_content_fontsize_setting">폰트 설정</string>
+    <string name="pref_content_fontsize_setting">글꼴 설정</string>
     <string name="pref_content_homepage">시작 페이지 설정</string>
     <string name="pref_content_javascript">JavaScript 사용</string>
     <string name="pref_content_night_read_mode">야간 모드</string>
@@ -1012,7 +1012,7 @@
     <string name="pref_extras_reset_default_dlg">설정을 기본값으로 되돌리시겠습니까?</string>
     <string name="pref_extras_reset_default_summary">기본 설정 복원</string>
     <string name="pref_extras_reset_default_title">기타</string>
-    <string name="pref_extras_send_feedback">피드백 전송</string>
+    <string name="pref_extras_send_feedback">의견 전송</string>
     <string name="pref_extras_title">고급</string>
     <string name="pref_extras_title_version">버전 정보</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">브라우저의 기본 위치에 파일 저장</string>
@@ -1137,7 +1137,7 @@
     <string name="root_folder_lable">없음</string>
     <string name="router_download_exist">이 파일은 이미 존재합니다.</string>
     <string name="router_download_failed">다운로드 실패</string>
-    <string name="router_download_success">다운로드 성공</string>
+    <string name="router_download_success">다운로드 완료</string>
     <string name="same_bookmarks_warning">이 페이지를 이미 북마크에 등록했습니다.</string>
     <string name="same_folder_name_warning">같은 이름을 가진 그룹이 이미 존재합니다.</string>
     <string name="save_button_text">저장</string>
@@ -1515,7 +1515,7 @@
     <string name="vo_feedback_content">콘텐츠 품질 저하</string>
     <string name="vo_feedback_dislike">관심 없음</string>
     <string name="vo_feedback_frequent">너무 자주 나타납니다.</string>
-    <string name="vo_feedback_quality">콘텐츠 품질에 대한 피드백</string>
+    <string name="vo_feedback_quality">콘텐츠 품질에 대한 의견</string>
     <string name="vo_feedback_shield">차단 목록</string>
     <string name="vo_feedback_sub_quality">클릭 베이트, 욕설 등</string>
     <string name="vo_info_flow_load_error_content">다시 시도</string>

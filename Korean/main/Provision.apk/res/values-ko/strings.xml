@@ -86,7 +86,7 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
     <string name="language_picker_other_languages_title">더 많은 언어</string>
-    <string name="enable_accessibility_dialog_message">10초 이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 피드백을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 더블 탭하세요.</string>
+    <string name="enable_accessibility_dialog_message">10초 이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 의견을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 더블 탭하세요.</string>
     <string name="enable_accessibility_dialog_positive_btn">확인</string>
     <string name="enable_accessibility_dialog_negative_btn">취소</string>
     <string name="cm_terms_title">모바일 네트워크 운영자 동의</string>

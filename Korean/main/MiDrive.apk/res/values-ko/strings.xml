@@ -145,7 +145,7 @@
     <string name="dynamic_weather">날씨</string>
     <string name="save_to_gallery_failure_message">"갤러리 저장 실패"</string>
     <string name="save_to_gallery_icon_name">갤러리에 저장</string>
-    <string name="save_to_gallery_success_message">갤러리 저장 성공</string>
+    <string name="save_to_gallery_success_message">갤러리 저장 완료</string>
     <string name="load_label_up_no_data">표시할 항목 없음</string>
     <string name="load_label_up_none">표시할 항목 없음</string>
     <string name="load_label_up_refresh">항목 로딩중…</string>

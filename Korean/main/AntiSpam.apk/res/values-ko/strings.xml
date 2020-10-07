@@ -152,7 +152,7 @@
     <string name="st_title_back_sound_stop">서비스 안 됨</string>
     <string name="st_title_call_wait_setting">통화 대기 중</string>
     <string name="st_title_call_wait">통화 대기 중 알림</string>
-    <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+    <string name="st_title_sim_card">%1$s - %2$s번 SIM</string>
     <string name="st_title_sim_unknown">알 수 없음</string>
     <string name="st_title_not_sim">비어있음</string>
     <string name="st_sum_call_wait">부재중 메시지 알림음이 통화 중에 들릴 수 있습니다. 통화 중에 알림음 듣지 않기를 설정할 수 있습니다.</string>

@@ -85,7 +85,7 @@
     <string name="activity_title_uninstall_apps">앱</string>
     <string name="deepclean_title_uninstall_apps">거의 사용하지 않는 앱</string>
     <string name="toast_garbage_cleanup_success">청소 완료</string>
-    <string name="toast_add_white_list_success">예외사항 추가 성공</string>
+    <string name="toast_add_white_list_success">예외사항 추가 완료</string>
     <string name="hints_cache_header_left">캐시 파일</string>
     <string name="hints_ad_header_left">사용하지 않는 파일</string>
     <string name="hints_apk_header_left">패키지</string>
@@ -290,7 +290,7 @@
     <string name="close">닫기</string>
     <string name="download">다운로드</string>
     <string name="installed">설치됨</string>
-    <string name="install_sucess">%s 설치 성공</string>
+    <string name="install_sucess">%s 설치 완료</string>
     <string name="open_app">열기</string>
     <string name="downloading">다운로드 중</string>
     <string name="installing">설치 중</string>
@@ -391,8 +391,8 @@
     <string name="long_click_dialog_title">알림</string>
     <string name="long_click_dialog_summary">길게 눌러 예외 사항 추가</string>
     <string name="function_app_lock_title">%d개 앱이 개인정보 보안을 위협하고 있습니다.</string>
-    <string name="deep_clean_uninstall_completed_tips">설치 제거 성공</string>
-    <string name="deep_clean_completed_tips">제거 성공</string>
+    <string name="deep_clean_uninstall_completed_tips">설치 제거 완료</string>
+    <string name="deep_clean_completed_tips">제거 완료</string>
     <string name="deepclean_normal_item_summary_empty">모든 것이 괜찮습니다. 지워야할 것이 없습니다.</string>
     <string name="low_memory_clean_dialog_title">저장공간 부족</string>
     <string name="low_memory_clean_dialog_msg">먼저 최소 100MB의 파일을 지우세요.</string>
@@ -407,7 +407,7 @@
     <string name="btn_text_quick_cleanup_video">선택된 동영상 %1$s 삭제</string>
     <string name="btn_text_quick_cleanup_apk">선택된 APK %1$s 삭제</string>
     <string name="deepclean_install_info_desc2">앱을 삭제하여 공간 확보</string>
-    <string name="ad_install_success_dialog_title">%1$s 설치 성공, 지금 여시겠습니까?</string>
+    <string name="ad_install_success_dialog_title">%1$s 설치 완료, 지금 열까요?</string>
     <string name="ad_install_success_dialog_lunch">열기</string>
     <string name="deepclean_empty">모든 것이 좋아 보입니다!</string>
     <string name="scanning">스캔 중…</string>
@@ -452,7 +452,7 @@
     <string name="wechat_copy_to_gallery">갤러리로 내보내기</string>
     <string name="wechat_copying_video">내보내는 중…</string>
     <string name="wechat_copy_video_failed_dialog_title">내보낼 수 없습니다.</string>
-    <string name="wechat_copying_video_success">성공적으로 내보냄</string>
+    <string name="wechat_copying_video_success">내보내기 완료</string>
     <string name="wechat_copying_video_dialog_title">갤러리로 내보내기</string>
     <string name="wechat_copying_video_dialog_msg">파일이 이 폴더에 저장됩니다: %s</string>
     <string name="wechat_copying_video_dialog_checkbox">내보낸 후 파일 삭제</string>

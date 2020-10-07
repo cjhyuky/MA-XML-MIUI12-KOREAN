@@ -990,8 +990,8 @@
     <string name="group_rename_fail_toast">그룹 이름을 변경하지 못했습니다.</string>
     <string name="contact_unfavorite_toast">즐겨찾기에서 제거됨</string>
     <string name="group_member_remove_toast">그룹에서 제거됨</string>
-    <string name="contact_delete_toast">연락처 삭제 성공</string>
-    <string name="profile_delete_toast">프로필 삭제 성공</string>
+    <string name="contact_delete_toast">연락처 삭제 완료</string>
+    <string name="profile_delete_toast">프로필 삭제 완료</string>
     <string name="duplicate_group_name">같은 이름의 그룹이 이미 존재합니다.</string>
     <string name="all_list_empty">연락처 없음</string>
     <string name="favorites_list_empty">즐겨찾기 없음</string>
@@ -1202,7 +1202,7 @@
     <string name="livetalk_switch_on">켜기</string>
     <string name="livetalk_left">남음</string>
     <string name="livetalk_title">충전 패키지</string>
-    <string name="live_talk_switch_on_toast">충전패키지 활성화 성공</string>
+    <string name="live_talk_switch_on_toast">충전패키지 활성화 완료</string>
     <string name="button_join_service_number">서비스 번호 추가</string>
     <string name="button_my_center">프로필</string>
     <string name="gallery">갤러리</string>

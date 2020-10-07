@@ -35,7 +35,7 @@
     <string name="ad_pop_des">앱 다운로드 :</string>
     <string name="add">추가</string>
     <string name="add_cw_fail_tip">배경화면을 추가할 수 없습니다.</string>
-    <string name="add_cw_success_tip">배경화면을 성공적으로 추가했습니다.</string>
+    <string name="add_cw_success_tip">배경화면을 추가했습니다.</string>
     <string name="add_launch_hint_text">홈 화면 바로가기 추가</string>
     <string name="add_local_picture">갤러리</string>
     <string name="add_online_picture">온라인 이미지</string>
@@ -115,9 +115,9 @@
     <string name="cw_batch_all_added_tip">전에 추가된 항목을 추가할 수 없습니다.</string>
     <string name="cw_batch_part_tip_fail">일부 항목이 추가되었습니다.</string>
     <string name="cw_batch_part_tip_success">추가되었습니다. 전에 추가된 항목이 있습니다.</string>
-    <string name="cw_batch_tip_success">성공적으로 추가되었습니다.</string>
+    <string name="cw_batch_tip_success">추가를 완료했습니다.</string>
     <string name="cw_del_tip_fail">삭제할 수 없습니다.</string>
-    <string name="cw_del_tip_success">성공적으로 삭제되었습니다.</string>
+    <string name="cw_del_tip_success">삭제를 완료했습니다.</string>
     <string name="cw_delete">삭제</string>
     <string name="cw_delete2">삭제(%d)</string>
     <string name="cw_deleting">삭제(%1$d/%2$d)</string>
@@ -171,7 +171,7 @@
     <string name="explorer_activity_title">슬라이드형 배경화면</string>
     <string name="favor_list_no_data">여기에 항목이 없습니다.</string>
     <string name="favor_list_title">즐겨찾기</string>
-    <string name="favor_success">즐겨찾기에 성공적으로 추가되었습니다.</string>
+    <string name="favor_success">즐겨찾기에 추가했습니다.</string>
     <string name="feed_article_entrance_about">\"%s\"정보</string>
     <string name="find_psw">비밀번호 분실</string>
     <string name="from_migallerylockscreen">From 슬라이드형 배경화면</string>
@@ -348,7 +348,7 @@
     <string name="rv_with_footer_pull_load_more">아래로 당겨 더보기</string>
     <string name="save_hdpicture_in_favor">즐겨찾기에 있는 이미지를 고화질로 보기</string>
     <string name="save_picture_success">저장됨</string>
-    <string name="save_to_album">갤러리에 성공적으로 저장되었습니다.</string>
+    <string name="save_to_album">갤러리에 저장했습니다.</string>
     <string name="save_to_album_fail">저장할 수 없습니다.</string>
     <string name="scribe_btn_ok">구독하기</string>
     <string name="scribe_title1">슬라이드형 배경화면 구독하기</string>
@@ -404,7 +404,7 @@
     <string name="sst_effect_next_wallpaper">변경 내용을 적용할 새 배경무늬 설정</string>
     <string name="sst_favor_desc">즐겨 사용하는 배경하면 보기</string>
     <string name="sst_favor_title">즐겨찾기</string>
-    <string name="sst_feedback_title">피드백</string>
+    <string name="sst_feedback_title">의견</string>
     <string name="sst_grid_view_select_all">전체 선택</string>
     <string name="sst_grid_view_unselect_all">전체 선택 해제</string>
     <string name="sst_lockscreen_show_headline_desc">잠금 화면의 시계 아래에 배경화면의 제목 표시</string>
@@ -445,7 +445,7 @@
     <string name="sst_wallpaper_history_title">기록</string>
     <string name="sst_wifi_only_desc">모바일 데이터 절약을 위해 이 기능 끄기</string>
     <string name="sst_wifi_only_title">모바일 데이터를 사용하여 배경화면 업데이트</string>
-    <string name="subscribe_apply_wp">잠금 화면 배경화면이 성공적으로 적용되었습니다.</string>
+    <string name="subscribe_apply_wp">잠금 화면 배경화면을 적용했습니다.</string>
     <string name="subscribe_dlg_btn">시작</string>
     <string name="subscribe_dlg_content">매일 새로운 잠금 화면을 잠금 화면에 전달하고 아침 인사를 받으세요.</string>
     <string name="subscribe_dlg_content2">\"%1$s\" 구독</string>
@@ -507,8 +507,8 @@
     <string name="wm_storage_left">남음:</string>
     <string name="wm_storage_used">사용:</string>
  <string name="add_first_cw_toast1">추가되었습니다. 슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
- <string name="add_first_cw_toast2">일부 항목을 성공적으로 추가했습니다. 슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
- <string name="add_first_cw_toast3">배경화면을 성공적으로 추가했습니다. 슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
+ <string name="add_first_cw_toast2">일부 항목을 추가했습니다. 슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
+ <string name="add_first_cw_toast3">배경화면을 추가했습니다. 슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
  <string name="add_first_cw_toast4">슬라이드형 배경화면을 켜고 슬라이드 쇼를 시작했습니다.</string>
  <string name="cat_5">팝</string>
  <string name="disable_dlg_cancel">취소</string>

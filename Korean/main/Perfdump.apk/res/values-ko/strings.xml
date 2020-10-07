@@ -42,7 +42,7 @@
     <string name="pagecache">페이지 캐시</string>
     <string name="pm">패키지 관리자</string>
     <string name="power">전원 관리</string>
-    <string name="property">퀄컴 테크놀로지의 성능 도구</string>
+    <string name="property">퀄컴 성능 도구</string>
     <string name="regulators">조정자</string>
     <string name="res">리소스로드</string>
     <string name="rs">렌더스크립트</string>

@@ -202,7 +202,7 @@
     <string name="preference_follow_weibo_title">Weibo</string>
     <string name="preference_follow_web_title">공식 웹사이트</string>
     <string name="preference_alert_follow_wechat">팔로우를 위해 WeChat에 복사 후 붙여넣으세요.</string>
-    <string name="preference_alert_follow_qq_group">피드백하려면 QQ에 복사 후 붙여넣으세요.</string>
+    <string name="preference_alert_follow_qq_group">의견하려면 QQ에 복사 후 붙여넣으세요.</string>
     <string name="preference_alert_follow_wechat_button">복사하기</string>
     <string name="preference_follow_qq_group">QQ 그룹:523274279</string>
     <string name="preference_check_update_summary_current_version">현재 버전: %s</string>
@@ -451,7 +451,7 @@
     <string name="network_purpose">계산기에 오신것을 환영합니다! 계산기를 사용하면 통화를 변환하고 대출 상환금 등을 계산할 수 있습니다.</string>
     <string name="preference_use_voice_summary">계산 중에 음성 출력을 사용하도록 설정</string>
     <string name="preference_use_voice_title">음성 출력</string>
-    <string name="preference_user_feedback_title">피드백</string>
+    <string name="preference_user_feedback_title">의견</string>
     <string name="voice_guide_text">여기에서 음성 출력을 켤 수 있습니다.</string>
     <string name="disallow">"동의하지 않음"</string>
     <string name="network_privacy">서비스를 제공하려면 이 앱을 인터넷에 연결하고 필요한 개인정보를 수집해야 합니다. 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.</string>
@@ -481,7 +481,7 @@
     <string name="loading_fail_refresh">새로고침</string>
     <string name="loading_message">앱 불러오는 중…</string>
     <string name="loading_slogan">앱을 설치하지 않고 사용</string>
-    <string name="loading_tips">설정이 성공적으로 다운로드되었습니다. 적용하려면 계산기를 다시 시작하세요.</string>
+    <string name="loading_tips">설정이 다운로드했습니다. 적용하려면 계산기를 다시 시작하세요.</string>
     <string name="loan_basic_point">기본 포인트</string>
     <string name="loan_type_summary_lpr">대출 금리</string>
     <string name="loan_type_title">관심률 표준</string>
@@ -494,7 +494,7 @@
     <string name="mt_max">입력한 금액이 너무 많습니다.</string>
     <string name="none">없음</string>
     <string name="ok">확인</string>
-    <string name="preference_help">도움말 및 피드백</string>
+    <string name="preference_help">도움말 및 의견</string>
     <string name="preference_other">기타</string>
     <string name="support_elder">고령자 지원</string>
     <string name="tax_detail">세금 세부정보</string>

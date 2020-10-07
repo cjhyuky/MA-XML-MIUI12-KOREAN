@@ -42,7 +42,7 @@
     <string name="process_mediaserver_label">Mi 플레이</string>
     <string name="uninstall_app_dialog_msg">설치 제거하면 앱의 모든 데이터가 삭제됩니다.</string>
     <string name="uninstall_app_dialog_title">지금 제거하시겠습니까?</string>
-    <string name="uninstall_app_done">설치 제거 성공</string>
+    <string name="uninstall_app_done">설치 제거 완료</string>
     <string name="usage_type_audio">오디오</string>
     <string name="usage_type_cpu">총 CPU</string>
     <string name="usage_type_cpu_foreground">CPU 포그라운드</string>

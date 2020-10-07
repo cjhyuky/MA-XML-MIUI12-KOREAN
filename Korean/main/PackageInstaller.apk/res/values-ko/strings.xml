@@ -189,7 +189,7 @@
     <string name="miui_solution_msg">해결 방법</string>
     <string name="miui_solution_clean">쓰레기 지우기</string>
     <string name="miui_compatibility_desc">이 앱은 현재의 Android 버전에서 더 이상 작동하지 않습니다. 앱 개발자가 이 문제를 해결할 때까지 기다리는 것이 좋습니다.</string>
-    <string name="miui_help_feedback_label">도움말 &amp; 피드백</string>
+    <string name="miui_help_feedback_label">도움말 &amp; 의견</string>
     <string name="miui_not_uninstall_system_app">시스템 앱을 제거할 수 없습니다.</string>
     <string name="next">다음</string>
     <string name="install_confirm_question_no_perms">이 앱을 설치하시겠습니까? 이 작업은 특별한 권한이 요구되지 않습니다.</string>
@@ -421,7 +421,7 @@
     <string name="force_rtl_layout_all_locales_summary">모든 언어에서 RTL 레이아웃 방향을 강제로 고정합니다.</string>
     <string name="hdcp_checking_dialog_title">HDCP 확인 동작 설정</string>
     <string name="hdcp_checking_title">HDCP 확인</string>
-    <string name="help_feedback_label">도움말&amp;피드백</string>
+    <string name="help_feedback_label">도움말&amp;의견</string>
     <string name="home">홈 화면 설정</string>
     <string name="immediately_destroy_activities">활동을 보관하지 마세요.</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다.</string>

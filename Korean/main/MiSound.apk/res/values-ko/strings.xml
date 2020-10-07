@@ -152,7 +152,7 @@
     <string name="apply_sound">적용</string>
     <string name="can_you_here">소리가 들리신가요?</string>
     <string name="complete_dialog_button">확인</string>
-    <string name="complete_dialog_message">&quot;측정을 성공적으로 완료했습니다.&quot;</string>
+    <string name="complete_dialog_message">&quot;측정을 완료했습니다.&quot;</string>
     <string name="complete_dialog_title">측정 결과</string>
     <string name="customization_complete">완료</string>
     <string name="customization_continue">계속</string>

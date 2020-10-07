@@ -241,7 +241,7 @@
     <string name="bill_cycle_text">결제 주기</string>
     <string name="bill_remind">상환 알림</string>
     <string name="bill_remind_due">상환 만기일이 %s 입니다. 탭하여 보기</string>
-    <string name="blank_feedback_toast">피드백을 작성해야 합니다.</string>
+    <string name="blank_feedback_toast">의견을 작성해야 합니다.</string>
     <string name="body_forward_email_text">[답장]</string>
     <string name="body_hint">이메일 작성</string>
     <string name="body_inline_pic_text">[사진]</string>
@@ -315,7 +315,7 @@
     <string name="contextmenu_create">새 연락처 만들기</string>
     <string name="contextmenu_dial_dot">다이얼…</string>
     <string name="contextmenu_edit">연락처 편집</string>
-    <string name="contextmenu_feedback">피드백 전송</string>
+    <string name="contextmenu_feedback">의견 전송</string>
     <string name="contextmenu_help">도움말</string>
     <string name="contextmenu_map">지도</string>
     <string name="contextmenu_open">열기</string>
@@ -403,7 +403,7 @@
     <string name="email_netease">NetEase 메일</string>
     <string name="email_qq">QQ 메일</string>
     <string name="email_setting">이메일</string>
-    <string name="email_setting_keywords">계정;계정 추가;이메일 계정;이메일 계정 추가;삭제 전 확인;삭제 확인;전송 전 확인;전송 확인;메시지 경로 삭제;리다이렉트 삭제;대화 보기;이메일 대화;절전 모드;이메일 배터리;피드백 전송;기록 업로드</string>
+    <string name="email_setting_keywords">계정;계정 추가;이메일 계정;이메일 계정 추가;삭제 전 확인;삭제 확인;전송 전 확인;전송 확인;메시지 경로 삭제;리다이렉트 삭제;대화 보기;이메일 대화;절전 모드;이메일 배터리;의견 전송;기록 업로드</string>
     <string name="email_sina">Sina 메일</string>
     <string name="empty_account_tip">계정을 찾지 못했습니다.</string>
     <string name="empty_email_tip">빈 메시지는 전송할 수 없습니다.</string>
@@ -424,9 +424,9 @@
     <string name="fail_get_email_message">메시지 받기 실패함</string>
     <string name="failed">이미지를 로드하지 못했습니다.</string>
     <string name="failed_read_phone_state_permission">기기 상태 접근 허용</string>
-    <string name="feedback">피드백 전송</string>
+    <string name="feedback">의견 전송</string>
     <string name="feedback_body">메시지</string>
-    <string name="feedback_sent">피드백을 남겨 주셔서 감사합니다.</string>
+    <string name="feedback_sent">의견을 남겨 주셔서 감사합니다.</string>
     <string name="feedback_user_edit_hint">여기에 문제를 설명해주세요. 확인 후 이메일을 보내드리겠습니다.</string>
     <string name="feedback_user_edit_tag">MIUI에서</string>
     <string name="fetch_bank_sender_list_failure">정보 가져오기 실패</string>
@@ -471,7 +471,7 @@
     <string name="gmail_web_login_go">확인</string>
     <string name="gmail_web_login_required_message">Gmail에 로그인</string>
     <string name="header_category_account">계정</string>
-    <string name="header_category_other">피드백</string>
+    <string name="header_category_other">의견</string>
     <string name="header_label_general_preferences">일반</string>
     <string name="help_and_info">도움말</string>
     <string name="hide_atts_remaining">첨부 파일 %1$d개 숨기기</string>
@@ -699,7 +699,7 @@
     <string name="path_about_conversation_view">이메일/설정/대화 보기</string>
     <string name="path_about_delete_message_flow">이메일/설정/메시지 경로 삭제</string>
     <string name="path_about_email_setting">이메일/설정</string>
-    <string name="path_about_send_feed_back">이메일/설정/피드백 전송</string>
+    <string name="path_about_send_feed_back">이메일/설정/의견 전송</string>
     <string name="path_about_upload_logs">이메일/설정/기록 업로드</string>
     <string name="perference_change_pw_notnull_tips">비밀번호 입력</string>
     <string name="perference_change_pw_ok_tips">비밀번호 변경됨</string>
@@ -879,8 +879,8 @@
     <string name="select_no_file">첨부 파일 선택 안 됨</string>
     <string name="send">전송</string>
     <string name="send_failed">메시지가 전송되지 않았습니다.</string>
-    <string name="send_feed_back">피드백 전송</string>
-    <string name="send_feed_back_keywords">피드백 전송</string>
+    <string name="send_feed_back">의견 전송</string>
+    <string name="send_feed_back_keywords">의견 전송</string>
     <string name="send_mail">전송</string>
     <string name="sender_whitelist_cleared">사진이 자동으로 보여지지 않습니다.</string>
     <string name="senders_split_token">, </string>
@@ -977,7 +977,7 @@
     <string name="upload_log">로그 업로드</string>
     <string name="upload_log_failed">로그를 전송할 수 없음</string>
     <string name="upload_log_no">취소</string>
-    <string name="upload_log_success">전송 성공. 최대한 빨리 답장 드리겠습니다.</string>
+    <string name="upload_log_success">전송 완료. 최대한 빨리 답장드리겠습니다.</string>
     <string name="upload_log_title">WPS 메일 개선에 도움을 주는 오류 로그 전송</string>
     <string name="upload_log_yes">전송</string>
     <string name="upload_logs">기록 업로드</string>
@@ -1056,15 +1056,15 @@
     <string name="meeting_responded_failed">응답 없음</string>
     <string name="navigation_menu">탐색 메뉴</string>
     <string name="network_tip">인증에 실패했습니다. 네트워크 연결을 확인하세요.</string>
-    <string name="new_signature_has_saved">저장 성공</string>
+    <string name="new_signature_has_saved">저장 완료</string>
     <string name="no_remind">다시 알리지 않기</string>
-    <string name="note_text">차이나 모바일 또는 SMS 검증 네트워크를 통해 가능한 경우, 추가 비용이나 SMS가 발생할 수 있습니다.</string>
+    <string name="note_text">China Mobile 또는 SMS 검증 네트워크를 통해 가능한 경우, 추가 비용이나 SMS가 발생할 수 있습니다.</string>
     <string name="oauth_login_usr_proxy">프록시를 사용하여 로그인</string>
     <string name="open_calendar_and_contacts_permission">설정에서 메일의 연락처 및 캘린더 정보 접근 허용</string>
     <string name="open_external_storage_and_calendar_permission">설정에서 메일의 저장소 및 캘린더 정보 접근 허용</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">설정에서 메일의 저장소, 연락처, 캘린더 정보 접근 허용</string>
     <string name="open_external_storage_and_contacts_permission">설정에서 메일의 저장소 및 연락처 정보 접근 허용</string>
-    <string name="overlays_fail_tip">사서함이 성공적으로 구성되지 않았다면 유감스럽게 생각합니다. 팝업 창 표시 사용 권한을 열고 다시 시도하세요.</string>
+    <string name="overlays_fail_tip">사서함 구성에 실패했다면 팝업 창 표시 사용 권한을 부여하고 다시 시도하세요.</string>
     <string name="overlays_ok">권한 열기</string>
     <string name="overlays_tip">전화 설정 - 앱 - 앱 세부 정보 - 권한 관리자에서 플로팅 알림 권한을 열고 허용하세요.</string>
     <string name="overlays_title">팝업 창 권한 열기</string>
@@ -1116,7 +1116,7 @@
     <string name="automatic_remind_text">자동 알림</string>
     <string name="special_text_sender_en">보낸사람</string>
     <string name="see_more_content">더보기</string>
-    <string name="signature_black_shark">Blakshark 폰에서 전송</string>
+    <string name="signature_black_shark">Blakshark 휴대전화에서 전송</string>
     <string name="debug_mode_preferencecategory">LOG 출력 모드를 선택하세요.</string>
     <string name="debug_mode_settings">디버그 모드</string>
     <string name="file_save_term">파일 저장 주기</string>
@@ -1163,7 +1163,7 @@
     <string name="folder_trash_name_en1">삭제된 메시지</string>
     <string name="folder_trash_name_en2">삭제된 메시지</string>
     <string name="folder_trash_name_en3">[Gmail]/휴지통</string>
-    <string name="qq_auto_login_failed_cpy_pass_success">성공적으로 복사했습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으세요.</string>
+    <string name="qq_auto_login_failed_cpy_pass_success">복사되었습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으세요.</string>
     <string name="qq_auto_login_failed_dialog_message">인증 코드를 복사했습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으세요.</string>
     <string name="quote_divider_iphone_en">내 iPhone에서 보냄</string>
     <string name="quote_divider_iphone_fwd_en">전달 메시지 : </string>
@@ -1347,7 +1347,7 @@
     <string name="replay_max_length_limit_hint">"이 이메일은 너무 깁니다. 원본 이메일을 수정할 수 없습니다."</string>
     <string name="show_images_all">모든 이미지 불러오기 및 표시</string>
     <string name="sync_question_feed">동기화 문제 보고</string>
-    <string name="sync_upload_question">피드백</string>
+    <string name="sync_upload_question">의견</string>
     <string name="trigger_before_day">%d일 전</string>
     <string name="trigger_before_hour">%d일 전</string>
     <string name="trigger_before_minute">%d분 전</string>

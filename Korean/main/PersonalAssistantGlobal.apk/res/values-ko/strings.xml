@@ -967,7 +967,7 @@
     <string name="express_setting_verification_code_acquire">인증문자 받기</string>
     <string name="express_setting_verification_code_failed">"인증문자 발송 실패"</string>
     <string name="express_setting_verification_code_hint">인증문자</string>
-    <string name="express_setting_verification_code_success">인증문자 전송완료</string>
+    <string name="express_setting_verification_code_success">인증문자 전송 완료</string>
     <string name="express_setting_verify_failed">"인증 실패"</string>
     <string name="express_setting_verify_success">인증 완료</string>
     <string name="express_support_app">지원되는 앱</string>
@@ -1172,7 +1172,7 @@
     <string name="card_title_empty_note">여기에 메모를 남기세요.</string>
     <string name="express_inquiry_manual">수동으로 확인</string>
     <string name="express_setting_authorized_number_limit">최대 4개의 전화번호를 추가할 수 있습니다.</string>
-    <string name="express_setting_number_already_add">이 폰은 이미 추가되었습니다. 다른 폰으로 시도해 보세요.</string>
+    <string name="express_setting_number_already_add">이 휴대전화는 이미 추가되었습니다. 다른 휴대전화로 시도해 보세요.</string>
     <string name="express_setting_supported_orders">"배송 서비스는 Taobao, Tmall, Xianyu, ZTO Express, STO Express, Yunda Express, 그리고 다른 작은 배송업체들을 지원합니다. Taobao, Tmall, 그리고 Xianyu외에 SF Express로 배송되는 주문은 수동으로 확인해야 합니다. JD Express는 지원하지 않습니다."</string>
     <string name="login_dialog_body">여러 장치에서 항목에 액세스 하려면 Xiaomi 클라우드와의 동기화를 설정합니다. 지금 로그인하고 Xiaomi 클라우드를 켜시겠습니까?</string>
     <string name="login_dialog_negative">나중에</string>

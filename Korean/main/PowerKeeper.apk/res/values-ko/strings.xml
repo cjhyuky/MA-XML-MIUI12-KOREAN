@@ -12,8 +12,8 @@
     <string name="app_preload_policies_title">AI 준비 완료</string>
     <string name="appconfig_active_app_dialog_title">사용 중인 앱 관리</string>
     <string name="atrace_saved">저장 완료</string>
-    <string name="atrace_saving">추적 로그 저장중…</string>
-    <string name="atrace_start">추적 로그 기록중…</string>
+    <string name="atrace_saving">추적 로그 저장 중…</string>
+    <string name="atrace_start">추적 로그 기록 중…</string>
     <string name="base_info">기본 정보</string>
     <string name="cloud_addr_info">클라우드 정보</string>
     <string name="cloud_china_addr">중국 서버 데이터 변경</string>
@@ -103,8 +103,8 @@
     <string name="sucess">성공</string>
     <string name="update_profile_failture_not_connect_wifi">변경에 실패했습니다. Wi-Fi에 연결되어있지 않습니다.</string>
     <string name="update_profile_sucess">서버에서 업데이트 성공</string>
-    <string name="vip_feedback">Vip 피드백</string>
-    <string name="vip_feedback_enable">Vip 자동 피드백 활성화</string>
+    <string name="vip_feedback">Vip 의견</string>
+    <string name="vip_feedback_enable">Vip 자동 의견 활성화</string>
     <string name="warm_configure">고부하 컨트롤 설정</string>
     <string name="warm_performance_tip">고부하 시나리오에서는 휴대전화의 온도가 기본 모드 사용 시에 비해 높습니다.</string>
     <string name="set_gsmcore_title">Google Play 서비스 비활성화</string>

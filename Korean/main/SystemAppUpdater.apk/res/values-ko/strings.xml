@@ -9,7 +9,7 @@
     <string name="pref_title_auto_update">자동 업데이트</string>
     <string name="pref_summary_auto_update">Wi-Fi가 연결되어있을 때 자동으로 앱 업데이트</string>
     <string name="pref_title_update_notification">업데이트 알림 표시</string>
-    <string name="pref_title_feedback">피드백</string>
+    <string name="pref_title_feedback">의견</string>
     <string name="pref_title_use_staging">스테이징 서버 사용</string>
     <string name="pref_title_show_report_data">보고서 데이터 표시</string>
     <string name="pref_title_auto_update_via_wifi_checkbox">자동 업데이트</string>

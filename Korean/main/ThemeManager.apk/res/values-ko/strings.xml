@@ -58,7 +58,7 @@
     <string name="resource_notification_default">알림</string>
     <string name="resource_alarm_default">알람</string>
     <string name="resource_detail_header_theme_designer_title">디자이너: %1$s</string>
-    <string name="de_component_font_author">폰트 디자이너</string>
+    <string name="de_component_font_author">글꼴 디자이너</string>
     <string name="de_component_tags">태그</string>
     <string name="de_font_exchange_success">구매 완료</string>
     <string name="description_designer">디자이너</string>
@@ -309,7 +309,7 @@
     <string name="mi_wallpaper">MIUI 배경화면</string>
     <string name="lockscreen_wallpaper">잠금 화면</string>
     <string name="change_wallpaper">배경화면</string>
-    <string name="apply_font_tip">이 테마의 글꼴를 적용하려면 다시 시작하세요.</string>
+    <string name="apply_font_tip">이 테마의 글꼴을 적용하려면 다시 시작하세요.</string>
     <string name="apply_font_btn_reboot">다시 시작</string>
     <string name="apply_font_btn_exclude">나중에 실행</string>
     <string name="apply_default_font_tip">시스템의 현재 글꼴을 계속 사용하시겠습니까?</string>
@@ -335,7 +335,7 @@
     <string name="my_gifts_purchased">구매됨</string>
     <string name="my_gifts_received">수신됨</string>
     <string name="theme_setting">설정</string>
-    <string name="theme_bug_report">피드백</string>
+    <string name="theme_bug_report">의견</string>
     <string name="theme_batch_updating_text">업데이트 중(%1$d)</string>
     <string name="theme_batch_update_all">모두 업데이트</string>
     <string name="theme_batch_update_dlg_title">테마 업데이트</string>
@@ -692,7 +692,7 @@
     <string name="resource_comment_detainment_fail">취소</string>
     <string name="resource_comment_detainment_msg">"댓글을 아직 저장하지 않았습니다. 입력을 취소하시겠습니까?"</string>
     <string name="resource_comment_detainment_success">머물기</string>
-    <string name="resource_comment_edit_text_second_hint">사용자의 피드백은 저희에게 매우 중요합니다.</string>
+    <string name="resource_comment_edit_text_second_hint">사용자의 의견은 저희에게 매우 중요합니다.</string>
     <string name="resource_comment_limit">너무 빠릅니다! 이 테마를 좀 더 사용 후에 댓글을 남겨주세요.</string>
     <string name="resource_comment_over_limit">댓글이 너무 깁니다. 글자수를 줄이고 다시 시도하세요.</string>
     <string name="resource_comment_wonderful_comments">인기있는 댓글</string>
@@ -839,7 +839,7 @@
     <string name="has_mamual_hide_font">숨김</string>
     <string name="has_mamual_hide_theme">숨김</string>
     <string name="has_mamual_hide_wallpaper">숨김</string>
-    <string name="hide_free_font">무료 폰트 숨기기</string>
+    <string name="hide_free_font">무료 글꼴 숨기기</string>
     <string name="hide_free_theme">무료 테마 숨기기</string>
     <string name="hide_free_wallpaper">무료 배경화면 숨기기</string>
     <string name="hide_mamual_hide_font">"숨겨진 글꼴 보지 않기"</string>
@@ -855,10 +855,10 @@
     <string name="resource_restore">복원</string>
     <string name="resource_restore_fail">"복원 실패"</string>
     <string name="resource_restore_succ">복원 완료</string>
-    <string name="show_free_font">무료 폰트 표시</string>
+    <string name="show_free_font">무료 글꼴 표시</string>
     <string name="show_free_theme">무료 테마 표시</string>
     <string name="show_free_wallpaper">무료 배경화면 표시</string>
-    <string name="show_mamual_hide_font">숨긴 폰트 표시</string>
+    <string name="show_mamual_hide_font">숨긴 글꼴 표시</string>
     <string name="show_mamual_hide_theme">숨긴 테마 표시</string>
     <string name="show_mamual_hide_wallpaper">숨긴 배경화면 표시</string>
     <string name="theme_comment_detail_no_more">"더 이상 없습니다."</string>

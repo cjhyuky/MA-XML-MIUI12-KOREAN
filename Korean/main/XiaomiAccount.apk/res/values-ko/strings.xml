@@ -164,7 +164,7 @@
     <string name="passport_account_identity_title">ID 확인</string>
     <string name="passport_error_login">로그인할 수 없습니다.</string>
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
-    <string name="passport_copy_message_text_success">복사 성공</string>
+    <string name="passport_copy_message_text_success">복사 완료</string>
     <string name="passport_copy_message_vcode">복사 코드</string>
     <string name="passport_message_dialog_title">SMS 인증 코드</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
@@ -645,7 +645,7 @@ ID:%s
     <string name="com_facebook_smart_login_confirmation_continue_as">%1$s(으)로 계속</string>
     <string name="com_facebook_smart_login_confirmation_title">로그인 확인</string>
     <string name="com_facebook_tooltip_default">&quot;앱과 공유할 정보를 직접 선택해주세요.&quot;</string>
-    <string name="copy_to_clipboard_successful">복사 성공</string>
+    <string name="copy_to_clipboard_successful">복사 완료</string>
     <string name="find_device_clear_data">데이터 삭제</string>
     <string name="find_device_close">꺼짐</string>
     <string name="find_device_location">위치</string>

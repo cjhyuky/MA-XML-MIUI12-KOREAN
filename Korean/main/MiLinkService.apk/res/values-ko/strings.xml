@@ -34,11 +34,11 @@
     <string name="dialog_select_tv">연결 장치 선택(%d)</string>
     <string name="dialog_show_help">도움말</string>
     <string name="disconnect">캐스팅 중지</string>
-    <string name="hang_up">화면 꺼진 상태로 캐스트</string>
+    <string name="hang_up">화면 꺼진 상태로 전송</string>
     <string name="hang_up_alert_dialog_content">기기 화면이 꺼져있을 때 전송을 계속합니다. 이 기능은 배터리 소모를 줄입니다. 전원 버튼을 눌러 화면을 다시 켭니다.</string>
     <string name="hang_up_alert_dialog_neg">취소</string>
     <string name="hang_up_alert_dialog_pos">확인</string>
-    <string name="hang_up_alert_dialog_title">화면 꺼진 상태로 캐스트 기능에 관하여…</string>
+    <string name="hang_up_alert_dialog_title">화면 꺼진 상태로 전송 기능에 관하여…</string>
     <string name="help_page_text_01">도움말</string>
     <string name="help_page_text_02">캐스팅이란?</string>
     <string name="help_page_text_03">"캐스팅은 휴대전화 화면의 항목을 더 큰 외부 모니터에 투사합니다. 모바일 데이터를 사용하지 않고 친구 및 가족과 이미지 및 동영상을 함께 즐길 수 있습니다."</string>
@@ -100,7 +100,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="help_page_text_52">먼저 장치에서 Miracast 기능이 지원되는지 확인하세요. 일부 모델의 경우 설정> 네트워크> 다중 화면> 무선 디스플레이에서이 기능을 켤 수 있습니다.</string>
     <string name="help_page_text_53">LeEco 고객센터 전화번호: 10109000</string>
     <string name="help_page_text_55">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는 이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다. Miracast를 켜는 방법을 알아 보려면 아래 정보를 확인하세요.
-4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보할 수 있습니다."</string>
+4. 만약 문제가 발생했을 경우 \"서비스 &amp; 의견\" 앱을 통해 제보할 수 있습니다."</string>
     <string name="help_page_text_end">"여기에 표시되지 않은 TV 제조사는 직접 확인 부탁드립니다."</string>
     <string name="notification_rc_desc">스크린 캐스트에 가장 최적화된 Mi Box를 사용해보세요!</string>
     <string name="notification_rc_title">Mi TV 어시스턴스</string>
@@ -108,7 +108,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="private_protect">사생활 보호</string>
     <string name="service_name">UniPlay 서비스</string>
     <string name="small_window">창 최소화</string>
-    <string name="status_bar_in_casting">캐스트중…</string>
+    <string name="status_bar_in_casting">화면 전송중…</string>
     <string name="status_bar_in_casting_long">캐스팅 기능에 대해 자세히 알아보려면 탭하세요.</string>
     <string name="tile_label">캐스팅</string>
     <string name="toast_guide_show_more">더 알아보기</string>
@@ -137,7 +137,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
 3. 3. Xiaomi 이외의 장치를 사용하려고하지만 사용 가능한 장치 목록에서 해당 장치를 찾을 수 없으면 다음과 같이 시도해보시기 바랍니다:
 휴대전화와 외부 모니터(예: TV)를 동일한 Wi-Fi 네트워크에 연결하거나 외부 모니터를 휴대전화의 핫스팟에 연결하세요."</string>
     <string name="help_page_text_55_global">"네트워크에 연결할 수 없는 경우 외부 모니터가 Miracast 기능을 지원하고 켜져 있는지 확인하세요. 일부 모델에서는 이 기능을 무선 디스플레이, 화면 미러링 또는 멀티 스크린이라고 표시합니다.
-4. 만약 문제가 발생했을 경우 \"서비스 &amp; 피드백\" 앱을 통해 제보할 수 있습니다."</string>
+4. 만약 문제가 발생했을 경우 \"서비스 &amp; 의견\" 앱을 통해 제보할 수 있습니다."</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="dialog_nfc_cast_wifi_off">NFC를 사용하여 전송할 수 있도록 Wi-Fi를 켭니다. 지금 켜시겠습니까?</string>
     <string name="toast_nfc_dont_move">"휴대전화를 멀리 옮기지 마세요"</string>
@@ -168,10 +168,10 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="enable_screen_projection_summary">TV에 기기 화면을 재생해 보세요.</string>
     <string name="keyguard_security_setting_privacy_policy">개인정보 보호정책</string>
     <string name="open_game_accelerate">게임 터보 모드 활성화</string>
-    <string name="screen_projection">캐스트</string>
+    <string name="screen_projection">화면 전송</string>
     <string name="screen_projection_characteristics">특별 기능</string>
     <string name="screen_projection_characteristics_off_screen_summary">기기의 화면이 꺼져 있어도 캐스트는 계속 활성화되어 있습니다. 배터리 수명을 저하시킬 수 있습니다.</string>
-    <string name="screen_projection_characteristics_off_screen_title">화면이 꺼져도 캐스트 진행</string>
+    <string name="screen_projection_characteristics_off_screen_title">화면이 꺼져도 전송 진행</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">"푸시 알림은 표시하지 않습니다."</string>
     <string name="screen_projection_characteristics_privacy_protect_title">개인 아이템 숨기기</string>
     <string name="screen_projection_characteristics_small_window_summary">"기기의 다른 기능을 사용할 수 있도록 전송 중인 창을 최소화"</string>
@@ -185,7 +185,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="screen_projection_help">도움말</string>
     <string name="screen_projection_sample_summary">화면, 게임, 사진 등을 화면으로 공유</string>
     <string name="screen_projection_sample_title">데모</string>
-    <string name="screen_projection_title">캐스트</string>
+    <string name="screen_projection_title">화면 전송</string>
     <string name="privacy_detail">&lt;Data&gt;이 앱은 인터넷에 연결하고 정상적으로 작동하려면 필요한 개인 데이터를 수집해야 합니다. 사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="privacy_detail_extra">&lt;Data&gt;일부 기능은 타사 서비스 제공 업체 인 HappyCast에서 제공합니다. 이 기능을 사용하기 전에 &lt;a href=%1$s&gt;HappyCast 개인정보 보호정책&lt;/a&gt; 및 &lt;a href=%2$s>HappyCast 법률 사항&lt;/a&gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
     <string name="privacy_explain">"주문을 환영합니다! 주물을 사용하면 휴대전화 화면의 항목을 더 큰 외부 모니터에 투사 할 수 있습니다. 이 앱은 인터넷에 연결되어 있어야 정상적으로 작동하려면 다음 권한이 필요합니다."</string>

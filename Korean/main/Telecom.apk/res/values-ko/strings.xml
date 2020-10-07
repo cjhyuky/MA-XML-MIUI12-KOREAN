@@ -221,7 +221,7 @@
     <string name="force_rtl_layout_all_locales_summary">모든 언어에서 RTL 레이아웃 방향을 강제로 고정합니다.</string>
     <string name="hdcp_checking_dialog_title">HDCP 확인 동작 설정</string>
     <string name="hdcp_checking_title">HDCP 확인</string>
-    <string name="help_feedback_label">도움말&amp;피드백</string>
+    <string name="help_feedback_label">도움말&amp;의견</string>
     <string name="immediately_destroy_activities">활동을 보관하지 마세요.</string>
     <string name="home">설정 홈</string>
     <string name="incoming_call_failed_low_battery">배터리가 부족해 전화를 받을 수 없습니다.</string>

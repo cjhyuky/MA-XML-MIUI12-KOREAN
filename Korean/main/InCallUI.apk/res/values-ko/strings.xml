@@ -163,7 +163,7 @@
     <string name="default_area_code_setting">기본 지역 코드</string>
     <string name="not_activate_sim_card_content_title">전화번호 확인되지 않음</string>
     <string name="not_activate_sim_card_content">전화번호 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과됩니다.</string>
-    <string name="not_activate_sim_card_content_with_operator">SIM %1$s (%2$s) 전화 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과됩니다.</string>
+    <string name="not_activate_sim_card_content_with_operator">%1$s번 SIM(%2$s) 전화 인증을 통해 충전 패키지를 사용하세요. 일반 전화를 걸어서도 사용할 수 있습니다. 통신사에 따라 요금이 부과됩니다.</string>
     <string name="dialog_call_ordinary_telephone">일반 전화</string>
     <string name="dialog_activate_livetalk">인증 번호</string>
     <string name="no_balance_title">잔액 부족</string>

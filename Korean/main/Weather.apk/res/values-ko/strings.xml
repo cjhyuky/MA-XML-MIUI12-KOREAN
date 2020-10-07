@@ -233,14 +233,14 @@
     <string name="minute_rain_no_data">데이터 없음</string>
     <string name="minute_rain_feedback_title">날씨 정보가 잘못된 것 같습니다.</string>
     <string name="minute_rain_feedback_subtitle">날씨가 어떤지 알려주세요.</string>
-    <string name="minute_rain_feedback_text">피드백</string>
+    <string name="minute_rain_feedback_text">의견</string>
     <string name="feedback_sunny">맑음</string>
     <string name="feedback_light_rain">이슬비</string>
     <string name="feedback_heavy_snow">눈</string>
     <string name="feedback_overcast">흐림</string>
     <string name="feedback_heavy_rain">집중 호우</string>
     <string name="feedback_sand">모래바람</string>
-    <string name="feedback_result_success">제출 성공, 귀하의 피드백 감사드립니다.</string>
+    <string name="feedback_result_success">제출을 완료했습니다. 의견에 감사드립니다.</string>
     <string name="feedback_result_fail_no_choice">현재 날씨 상황 선택</string>
     <string name="minute_rain_pull_down_refresh">아래로 당겨서 새로고침</string>
     <string name="minute_rain_refreshing_now">새로고침 중…</string>
@@ -362,7 +362,7 @@
     <string name="tts_hour_weather_date_time">%1$s의 %2$s로부터 %3$s의 %4$s로</string>
     <string name="tts_max_wind_power">최대 풍속</string>
     <string name="about_weather_setting">날씨에 대하여</string>
-    <string name="about_weather_setting_feedback">피드백</string>
+    <string name="about_weather_setting_feedback">의견</string>
     <string name="abrupt_weather_settings_summary_type">예상 강우, 대기질 변화 및 기타 중요한 변화에 대한 경고를 받습니다.</string>
     <string name="alert_weather_enable_settings_summary">공식 날씨 경고 수신</string>
     <string name="alert_weather_enable_settings_title">날씨 경고</string>

@@ -29,8 +29,8 @@
     <string name="act_set_pref_systool_open_mtklogger_title">MtkLogger 열기</string>
     <string name="act_set_pref_test_situation_dialog_title">테스트 시뮬레이션</string>
     <string name="act_set_pref_test_situation_title">테스트 시뮬레이션 : %1$s</string>
-    <string name="act_set_prefs_bluetooth">블루투스 로그 툴</string>
-    <string name="act_set_prefs_systool">미디어택 시스템 툴</string>
+    <string name="act_set_prefs_bluetooth">블루투스 로그 도구</string>
+    <string name="act_set_prefs_systool">미디어텍 시스템 도구</string>
     <string name="nnf_permission_external_write_denied">접근이 거부되었습니다.</string>
     <string name="nnf_select_something_first">먼저 선택하세요.</string>
     <string name="abc_capital_off">꺼짐</string>

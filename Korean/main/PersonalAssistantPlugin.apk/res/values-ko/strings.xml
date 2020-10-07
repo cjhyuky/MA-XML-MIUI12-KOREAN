@@ -967,7 +967,7 @@
     <string name="express_setting_verification_code_acquire">인증문자 받기</string>
     <string name="express_setting_verification_code_failed">"인증문자 발송 실패"</string>
     <string name="express_setting_verification_code_hint">인증문자</string>
-    <string name="express_setting_verification_code_success">인증문자 전송완료</string>
+    <string name="express_setting_verification_code_success">인증문자 전송 완료</string>
     <string name="express_setting_verify_failed">"인증 실패"</string>
     <string name="express_setting_verify_success">인증 완료</string>
     <string name="express_support_app">지원되는 앱</string>

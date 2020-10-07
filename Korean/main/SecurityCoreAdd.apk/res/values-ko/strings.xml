@@ -150,7 +150,7 @@
     <string name="transferFile">다른 파일을 수동으로 선택</string>
     <string name="continueButton">계속</string>
     <string name="removingSpace">삭제 중…</string>
-    <string name="removeSuccess">삭제 성공</string>
+    <string name="removeSuccess">삭제 완료</string>
     <string name="confirmSecondSpacePassword">보조 공간 비밀번호 승인</string>
     <string name="secondSpace">보조 공간</string>
     <string name="contactData">연락처</string>
@@ -478,8 +478,8 @@
     <string name="ent_licence_code_hint">라이센스 코드를 입력하세요.</string>
     <string name="dual_animation">애니메이션 실행</string> 
     <string name="dual_animation_description">듀얼 앱 실행 시 애니메이션 표시</string> 
-    <string name="kid_mode_label">키즈 스페이스</string>
-    <string name="close_kid_space_success">삭제된 키즈 스페이스</string>
+    <string name="kid_mode_label">키즈 공간</string>
+    <string name="close_kid_space_success">삭제된 키즈 공간</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="whatsapp_send">WhatsApp으로 보내기</string>
     <string name="xspace_facebook_title">Facebook</string>

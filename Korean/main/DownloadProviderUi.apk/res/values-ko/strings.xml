@@ -412,7 +412,7 @@
     <string name="no_share_file">이 파일을 공유할 수 없습니다.</string>
     <string name="no_share_file_content">선택한 파일은 이미 삭제되었습니다.</string>
     <string name="no_share_files">이미 삭제된 파일은 공유할 수 없습니다.</string>
-    <string name="no_share_files_content">공유하려는 파일중 몇 개는 이미 삭제되었습니다. 다른 파일은 성공적으로 공유했습니다.</string>
+    <string name="no_share_files_content">공유하려는 파일 중 일부가 이미 삭제되었습니다. 다른 파일은 공유를 완료했습니다.</string>
     <string name="all_share_files_content">선택한 파일은 이미 삭제되었습니다.</string>
     <string name="save_text">￥%1$s 절약</string>
     <string name="sniff_copyright_text">저작권 문제로 결과를 표시할 수 없습니다.</string>
@@ -462,8 +462,8 @@
     <string name="menu_des_vip">Xunlei 멤버쉽</string>
     <string name="menu_vip_unbind">연결 해제</string>
     <string name="notify_install_guide_forward_text">열기</string>
-    <string name="notify_install_guide_msg">설치 성공</string>
-    <string name="notify_install_guide_title">%s 설치 성공</string>
+    <string name="notify_install_guide_msg">설치 완료</string>
+    <string name="notify_install_guide_title">%s 설치 완료</string>
     <string name="speed_entrance">Wi-Fi 속도 측정</string>
     <string name="speed_result_finish">완료</string>
     <string name="speed_result_restart">다시 테스트</string>

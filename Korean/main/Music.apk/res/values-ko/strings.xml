@@ -326,7 +326,7 @@
     <string name="favorite_tracks">즐겨찾기</string>
     <string name="favorites">즐겨찾기</string>
     <string name="fcm_fallback_notification_channel_label">기타</string>
-    <string name="feed_back">피드백</string>
+    <string name="feed_back">의견</string>
     <string name="file_not_found">파일이 존재하지 않습니다.</string>
     <string name="filter_by_duration">길이로</string>
     <string name="filter_by_duration_max">%d분</string>
@@ -759,7 +759,7 @@
     <string name="network_no_available_and_check">"네트워크에 연결할 수 없습니다."</string>
     <string name="spammy_contents">스팸</string>
     <string name="talkback_change_skin">테마 변경</string>
-    <string name="thanks_for_feedback">피드백 주셔서 감사합니다!</string>
+    <string name="thanks_for_feedback">의견 주셔서 감사합니다!</string>
     <string name="unable_to_play">"재생할 수 없습니다."</string>
     <string name="view_all_news">전체 소식 보기</string>
     <string name="widget_title">좋아하는 음악을 Mi Music에서 찾아보세요.</string>
@@ -828,7 +828,7 @@
     <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.</string>
     <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. Mi 뮤직을 사용하기 전에 우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;이용 약관&lt;/a&gt;과&lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.\"&lt;/Data&gt;</string>
     <string name="declaration_main_purpose">Mi 뮤직에 오신 것을 환영합니다! 이 앱을 사용하여 장치에 저장된 노래를 재생하고 온라인 콘텐츠를 스트리밍 할 수 있습니다.</string>
-    <string name="headline_content_issue_feedback">콘텐츠 문제에 대한 피드백</string>
+    <string name="headline_content_issue_feedback">콘텐츠 문제에 대한 의견</string>
     <string name="sleep_mode_seek_bar_end">120분</string>
     <string name="sleep_mode_seek_bar_start">1분</string>
     <string name="sync_only_in_wifi_summary">Xiaomi 클라우드로 모든 기기에서 음악 동기화. 모바일 데이터 연결을 사용하여 음악을 동기화하면 데이터 사용량이 증가합니다. 요금제 데이터 한도를 초과하면 이동통신사가 추가 요금을 청구 할 수 있습니다.</string>

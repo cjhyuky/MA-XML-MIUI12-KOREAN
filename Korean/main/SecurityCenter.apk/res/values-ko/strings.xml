@@ -100,7 +100,7 @@
     <string name="adb_install_reject_notiy">%s를 USB로 설치하도록 허용하지 마세요.</string>
     <string name="adb_install_reject_notiy_desc">개발자 옵션에서 USB로 설치 허용을 할 수 있습니다.</string>
     <string name="adb_login_xiaomi_account">먼저 Mi 계정에 로그인하세요.</string>
-    <string name="add_done">성공적으로 추가됨</string>
+    <string name="add_done">추가 완료</string>
     <string name="add_game">게임 추가</string>
     <string name="add_game_notification_summary">탭하여 실행 &amp; 가속</string>
     <string name="add_miservice_dialog_content">%s 앱은 예외 목록에 MIUI 서비스 프레임워크를 추가할 것을 요구합니다. MIUI의 내장 앱과 기타 타사 앱으로부터 알림을 받을 것입니다.</string>
@@ -165,7 +165,7 @@
     <string name="antivirus_toast_already_update">이미 최신 버전입니다.</string>
     <string name="antivirus_toast_network_unavailable">네트워크에 연결할 수 없음</string>
     <string name="antivirus_toast_update_failed">업데이트 실패</string>
-    <string name="antivirus_toast_update_success">업데이트 성공</string>
+    <string name="antivirus_toast_update_success">업데이트 완료</string>
     <string name="antivirus_toast_updating">업데이트 중…</string>
     <string name="antivirus_update_btn_contiue">계속</string>
     <string name="antivirus_update_btn_open">허용</string>
@@ -174,7 +174,7 @@
     <string name="apn_exception_summary">통신사의 APN 구성 테스트</string>
     <string name="apn_exception_title">APN 구성 확인</string>
     <string name="apn_exception_wap_summary">WAP가 불안정합니다. NET으로 전환하세요.</string>
-    <string name="app_behavior_about_content_no_link">"다른 앱을 실행하거나, 자동 실행, 권한 사용, 민감한 행동을 취한 앱을 표시합니다. Android 버전 호환성 문제로 인해이, 일부 내역은 정확하지 않을 수도 있습니다. 정확하지 않은 앱 행동 내역을 발견한다면 \"서비스 &amp; 피드백\" 앱으로 제보해주세요."</string>
+    <string name="app_behavior_about_content_no_link">"다른 앱을 실행하거나, 자동 실행, 권한 사용, 민감한 행동을 취한 앱을 표시합니다. Android 버전 호환성 문제로 인해이, 일부 내역은 정확하지 않을 수도 있습니다. 정확하지 않은 앱 행동 내역을 발견한다면 \"서비스 &amp; 의견\" 앱으로 제보해주세요."</string>
     <string name="app_behavior_about_negative">문제 제보</string>
     <string name="app_behavior_about_positive">확인</string>
     <string name="app_behavior_allowed">승인</string>
@@ -304,7 +304,7 @@
     <string name="app_bg_restrict_dialog_message">"백그라운드에서 네트워크 연결을 제한하면 앱이 정상적으로 작동하지 않을 수 있습니다. 예를 들어 더 이상 메시지를 수신하거나 콘텐츠를 업데이트하지 못할 수 있습니다. 제한하시겠습니까? "</string>
     <string name="app_check_no_issue">배터리 문제가 없는 것 같습니다. 좋습니다!</string>
     <string name="app_detail">세부사항</string>
-    <string name="app_error_tip_for_launcher">기기의 하드웨어 구성요소 또는 Android 시스템 버전의 원인으로 일부 앱에서 오작동, 멈춤, 강제 종료 등의 호환성 문제가 발생할 수 있습니다. 이러한 문제가 발생하셨다면 앱 개발자에게 피드백 하세요.</string>
+    <string name="app_error_tip_for_launcher">기기의 하드웨어 구성요소 또는 Android 시스템 버전의 원인으로 일부 앱에서 오작동, 멈춤, 강제 종료 등의 호환성 문제가 발생할 수 있습니다. 이러한 문제가 발생하셨다면 앱 개발자에게 의견 하세요.</string>
     <string name="app_error_tip_for_store">기기의 하드웨어 또는 Android 시스템 버전의 호환성 문제의 결과로 일부 앱의 설치를 실패할 수 있으며 또한 이 문제로 인해 앱의 오작동, 멈춤, 강제 종료등의 문제가 발생할 수 있습니다. 앱 개발자가 버그를 고칠 때까지 기다리시고 나중에 앱을 다시 설치하세요.</string>
     <string name="app_install_intercept">설치 차단</string>
     <string name="app_install_tips_go_to">열기</string>
@@ -1069,7 +1069,7 @@
     <string name="ew_guide_next_text">다음</string>
     <string name="ew_guide_play_audio">경고음 재생</string>
     <string name="ew_guide_play_audio_last">경고음 재생 (%d초)</string>
-    <string name="ew_guide_statement_text">"면책 조항"은 지진 조기경보 기능을 가진 모든 사용자(이하 "귀하"라고 함)에게 적용됩니다. 이 조항에 동의하면 귀하와 Xiaomi Technology Co., Ltd. 및 그 계열사(이하 "Xiaomi")간의 계약이 체결됩니다. 법적 구속력이 있는 문서를 작성하십시오. 이 면책 조항의 모든 내용을 자세히 읽었으며 이 면책 조항의 모든 내용을 완전히 이해하고 동의함을 확인합니다. 이 면책 조항의 내용에 동의하지 않을 경우 즉시 지진경보 기능을 해제해야 합니다. 샤오미는 관련 법규에 따라 관련 기관에서 수행하는 지진 조기경보 모니터링 영역의 범위를 기반으로 조기경보 서비스를 제공합니다. 즉, 지진 속보 기능을 켜면 위 지역에서 지진 속보 서비스를 받을 수 있습니다.  현재 지진 속보 서비스를 제공하는 지역은 [도시 관리] 모듈에서 확인하시기 바랍니다. 조기경보 지역은 향후 점진적으로 추가될 예정이 오니 많은 관심 부탁드립니다! 안전을 위해 샤오미는 안전 센터에 관련 기능 모듈을 제공하여 지진 경고 정보를 보여줍니다. 지진 조기 경보 정보는 "청두 하이테크 재난 감소 연구원"에서 제공하며 샤오미가 통제할 수 없습니다. 샤오미는 조기경보 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며, 지진 조기경보 서비스가 귀하의 모든 요구를 충족시킬 수 있음을 보장하지 않습니다.  지진 경보 정보를 수신하려면 휴대전화 네트워크에 정상적으로 연결되어 있어야 합니다. 통신 회선 장애, 기술 문제, 네트워크, 단말 장비 장애, 시스템 불안정성 및 기타 불가항력적인 사유와 같은 제3자에 의해 수신되지 않았거나 제 시간에 수신되지 않을 수 있습니다. 샤오미는 발생한 모든 손실에 대해 어떠한 책임도 지지 않습니다. 지진 조기경보 서비스는 안전 위험을 평가하고 안전 결정을 내리는데 참고할 수 있는 것일 뿐이라는 것을 알려드립니다. 조기 지진 경보는 몇 초에서 수십 초의 조기 경보 시간만 제공할 수 있습니다. 지진 조기 경보 서비스를 기반으로 한 모든 조치의 위험과 결과는 귀하에게 있습니다.</string>
+    <string name="ew_guide_statement_text">"면책 조항"은 지진 조기경보 기능을 가진 모든 사용자(이하 "귀하"라고 함)에게 적용됩니다. 이 조항에 동의하면 귀하와 Xiaomi Technology Co., Ltd. 및 그 계열사(이하 "Xiaomi")간의 계약이 체결됩니다. 법적 구속력이 있는 문서를 작성하십시오. 이 면책 조항의 모든 내용을 자세히 읽었으며 이 면책 조항의 모든 내용을 완전히 이해하고 동의함을 확인합니다. 이 면책 조항의 내용에 동의하지 않을 경우 즉시 지진경보 기능을 해제해야 합니다. Xiaomi는 관련 법규에 따라 관련 기관에서 수행하는 지진 조기경보 모니터링 영역의 범위를 기반으로 조기경보 서비스를 제공합니다. 즉, 지진 속보 기능을 켜면 위 지역에서 지진 속보 서비스를 받을 수 있습니다.  현재 지진 속보 서비스를 제공하는 지역은 [도시 관리] 모듈에서 확인하시기 바랍니다. 조기경보 지역은 향후 점진적으로 추가될 예정이 오니 많은 관심 부탁드립니다! 안전을 위해 Xiaomi는 안전 센터에 관련 기능 모듈을 제공하여 지진 경고 정보를 보여줍니다. 지진 조기 경보 정보는 "청두 하이테크 재난 감소 연구원"에서 제공하며 Xiaomi가 통제할 수 없습니다. Xiaomi는 조기경보 정보의 정확성, 유효성 및 적시성을 약속하거나 보장하지 않으며, 지진 조기경보 서비스가 귀하의 모든 요구를 충족시킬 수 있음을 보장하지 않습니다.  지진 경보 정보를 수신하려면 휴대전화 네트워크에 정상적으로 연결되어 있어야 합니다. 통신 회선 장애, 기술 문제, 네트워크, 단말 장비 장애, 시스템 불안정성 및 기타 불가항력적인 사유와 같은 제3자에 의해 수신되지 않았거나 제 시간에 수신되지 않을 수 있습니다. Xiaomi는 발생한 모든 손실에 대해 어떠한 책임도 지지 않습니다. 지진 조기경보 서비스는 안전 위험을 평가하고 안전 결정을 내리는데 참고할 수 있는 것일 뿐이라는 것을 알려드립니다. 조기 지진 경보는 몇 초에서 수십 초의 조기 경보 시간만 제공할 수 있습니다. 지진 조기 경보 서비스를 기반으로 한 모든 조치의 위험과 결과는 귀하에게 있습니다.</string>
     <string name="ew_guide_tips_1">다가오는 지진에 대한 알림을 받고 경고음이 들립니다.</string>
     <string name="ew_guide_tips_2">지진 발생시 정보 및 경고음이 업데이트됩니다.</string>
     <string name="ew_guide_tips_3">가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다.</string>
@@ -1257,7 +1257,7 @@
     <string name="first_aid_item5_content">기타 이슈</string>
     <string name="first_aid_result_feedback_button">보내기</string>
     <string name="first_aid_result_feedback_summary">긴급 치료 스캔 결과 아무런 문제가 없었지만 일부 개선되야할 부분을 발견했습니다.</string>
-    <string name="first_aid_result_feedback_title">피드백</string>
+    <string name="first_aid_result_feedback_title">의견</string>
     <string name="first_aid_result_summary_normal">모든 상태가 좋습니다!</string>
     <string name="first_aid_result_summary_not_finished">스캔이 완료되지 않았습니다. 일부 위험은 감지되지 않을 수 있습니다.</string>
     <string name="first_aid_scanning_item1">퍼포먼스 문제 체크중…</string>
@@ -1304,7 +1304,7 @@
     <string name="function_gwsd_detail">"이 기능 정보 :
  1. VoLTE 네트워크에 연결된 데이터 SIM 또는 일반 SIM 카드에서 모바일 데이터를 사용하는 경우 전화를 받을 때까지 전화가 걸려도 연결이 중단되지 않습니다.
  2. 이 기능이 켜져 있으면 일반 SIM 카드를 사용하지 않는한 상대방이 벨소리를 들을 수 없습니다. 7-10초 동안 활동이 없으면 수신 통화가 자동으로 거부됩니다.
- 3. 차이나 모바일 및 차이나 유니콤에서 발행한 데이터 SIM 카드가 지원됩니다. 차이나 모바일, 차이나 유니콤 및 차이나 텔레콤에서 발행한 일반 SIM 카드가 지원됩니다."</string>
+ 3. China Mobile 및 China Unicom에서 발행한 데이터 SIM 카드가 지원됩니다. China Mobile, China Unicom 및 China Telecom에서 발행한 일반 SIM 카드가 지원됩니다."</string>
     <string name="function_gwsd_title">"수신 전화가 데이터 SIM 연결을 방해하도록 허용하지 않음"</string>
     <string name="function_shield_auto_bright">자동 밝기 끄기</string>
     <string name="function_shield_eye_shield">독서모드 끄기</string>
@@ -1367,7 +1367,7 @@
     <string name="gamebox_immersion_tips_title">집중</string>
     <string name="gamebox_immerson_open">집중 모드 켜는 중... 네트워크를 전환하지 마세요.</string>
     <string name="gamebox_manual_record">녹화</string>
-    <string name="gamebox_milink">캐스트</string>
+    <string name="gamebox_milink">화면 전송</string>
     <string name="gamebox_positive_button_text">확인 (%1$ds)</string>
     <string name="gamebox_qq_not_find">QQ를 설치하시고 다시 시도하세요.</string>
     <string name="gamebox_recent_task_expand_fail">바로가기로 앱이 설치되지 않았습니다.</string>
@@ -1673,7 +1673,7 @@
     <string name="load_only_under_wlan">Wi-Fi에서만 불러오기</string>
     <string name="loading">잠시만 기다리세요…</string>
     <string name="loading_text_format" formatted="false">사진에서 개인정보 제거(%d/%d)…</string>
-    <string name="local_ip_exception_summary">로컬 IP 주소를 받지 못했습니다. 이 문제를 MIUI에 보고하려면 피드백 앱으로 이동하여 기기에서 로그를 전송하세요.</string>
+    <string name="local_ip_exception_summary">로컬 IP 주소를 받지 못했습니다. 이 문제를 MIUI에 보고하려면 의견 앱으로 이동하여 기기에서 로그를 전송하세요.</string>
     <string name="lock_all_title">모든 앱 잠금</string>
     <string name="lock_mode_title">잠금 설정</string>
     <string name="lock_screen_business_hongbao_message">%1$s부터</string>
@@ -2109,9 +2109,9 @@ SMS 전송"</string>
     <string name="open_right_now">빨간 봉투를 즉시 잡아</string>
     <string name="open_right_now_short">즉시 잡아</string>
     <string name="operator_diagnostic">통신사 진단</string>
-    <string name="operator_name_cmcc">차이나 모바일</string>
-    <string name="operator_name_telcom">차이나 텔레콤</string>
-    <string name="operator_name_unicom">차이나 유니콤</string>
+    <string name="operator_name_cmcc">China Mobile</string>
+    <string name="operator_name_telcom">China Telecom</string>
+    <string name="operator_name_unicom">China Unicom</string>
     <string name="optimize_manage_title">속도 향상</string>
     <string name="optimize_result_available_memory_info">사용 가능한 메모리</string>
     <string name="optimize_result_button_cloudspace">더 많은 클라우드 저장공간 확보</string>
@@ -2150,7 +2150,7 @@ SMS 전송"</string>
     <string name="other">기타 설정</string>
     <string name="other_exception_summary">인터넷이 연결되지 않았습니다.</string>
     <string name="other_exception_title">다른 문제 확인 중</string>
-    <string name="other_milink_connect">캐스트 실패. 다른 기능이 현재 캐스트 중입니다.</string>
+    <string name="other_milink_connect">화면 전송 실패. 다른 기능이 현재 전송 중입니다.</string>
     <string name="package_change_notification_summary">탭하여 더 알아보기.</string>
     <string name="package_change_notification_title">자동 데이터 한도 조정</string>
     <string name="package_setted_error_notification_summary">탭하여 데이터 사용량 세부사항 보기</string>
@@ -2176,7 +2176,7 @@ SMS 전송"</string>
     <string name="pc_abnormal_scan_reason_use_GPS">잦은 위치 정보 사용</string>
     <string name="pc_abnormal_scan_reason_wake_system">잦은 시스템 깨우기</string>
     <string name="pc_activity_title">배터리 최적화</string>
-    <string name="pc_battery_detail_curve_reference_now">즉시</string>
+    <string name="pc_battery_detail_curve_reference_now">현재</string>
     <string name="pc_battery_detail_device_item_title">배터리 사용 정보</string>
     <string name="pc_battery_history_battery_detail_menu_item">세부정보</string>
     <string name="pc_battery_history_consume_rank_menu_item">순위</string>
@@ -2187,7 +2187,7 @@ SMS 전송"</string>
     <string name="pc_battery_history_rank_mha_menu_item">mAh</string>
     <string name="pc_battery_history_rank_percent_menu_item">퍼센트</string>
     <string name="pc_battery_history_total_consumption_title">전체 배터리 소모</string>
-    <string name="pc_battery_history_usetime_title">활성화</string>
+    <string name="pc_battery_history_usetime_title">켜짐</string>
     <string name="pc_install_manager">USB로 설치</string>
     <string name="pc_main_activity_back">뒤로가기</string>
     <string name="pc_main_battery_text_day">%1$s분 추가됨, 약 %2$s일 남음</string>
@@ -2547,7 +2547,7 @@ SMS 전송"</string>
     <string name="privacy_danger_permission_status_title">민감한 행동</string>
     <string name="privacy_danger_permission_summary">앱의 권한 사용을 감시합니다.</string>
     <string name="privacy_danger_permission_title">권한 알림</string>
-    <string name="privacy_danger_permission_warning">고위험 권한</string>
+    <string name="privacy_danger_permission_warning">위험한 권한</string>
     <string name="privacy_declare_dialog_title">서비스 약관</string>
     <string name="privacy_description_camera">%1s 앱이 백그라운드에서 카메라를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
     <string name="privacy_description_camera_mic">%1s 앱이 백그라운드에서 카메라와 마이크를 사용하고 있습니다. 아래 스위치로 이 활동을 제한할 수 있습니다.</string>
@@ -2560,9 +2560,9 @@ SMS 전송"</string>
     <string name="privacy_dialog_call_title">통화 보호</string>
     <string name="privacy_dialog_camera_message">"개인정보 보호를 위해 MIUI는 앱이 백그라운드에서 카메라를 실행하도록 허용하지 않습니다."</string>
     <string name="privacy_dialog_camera_title">백그라운드 카메라 사용 제한</string>
-    <string name="privacy_dialog_danger_mission_message">Android에는 여러 고위험 권한(예: 사용자에게 푸시 알림 보내기)이 존재합니다. 사용자의 개인정보 보호를 위해 MIUI는 사용자에게 앱의 그러한 행동을 허용할 것인지 물으며, 제한할 수 있는 옵션을 제공합니다.</string>
-    <string name="privacy_dialog_danger_mission_title">고위험 권한</string>
-    <string name="privacy_dialog_feedback">피드백</string>
+    <string name="privacy_dialog_danger_mission_message">Android에는 여러 위험한 권한(예: 사용자에게 푸시 알림 보내기)이 존재합니다. 사용자의 개인정보 보호를 위해 MIUI는 사용자에게 앱의 그러한 행동을 허용할 것인지 물으며, 제한할 수 있는 옵션을 제공합니다.</string>
+    <string name="privacy_dialog_danger_mission_title">위험한 권한</string>
+    <string name="privacy_dialog_feedback">의견</string>
     <string name="privacy_dialog_message">인터넷에 연결하면 이 메시지가 이동통신사 정보를 포함해 암호화되어 Mi의 서버에 업로드되며, 데이터 사용 감시 개선을 돕습니다.</string>
     <string name="privacy_dialog_ok">확인</string>
     <string name="privacy_dialog_ok_with_num">확인 (%s초)</string>
@@ -2649,7 +2649,7 @@ SMS 전송"</string>
     <string name="prompt_all">모두 묻기</string>
     <string name="prompt_input_time_illegal">이 시간으로 설정할 수 없습니다. 변경 후 다시 시도하세요.</string>
     <string name="protocol_exception_title">네트워크 프로토콜 진단</string>
-    <string name="protocol_loop_back_exception_summary">로컬 루프 백 테스트에 실패했습니다. 이 문제를 MIUI에 보고하려면 피드백 앱으로 이동하여 기기에서 로그를 전송하세요.</string>
+    <string name="protocol_loop_back_exception_summary">로컬 루프 백 테스트에 실패했습니다. 이 문제를 MIUI에 보고하려면 의견 앱으로 이동하여 기기에서 로그를 전송하세요.</string>
     <string name="qq_lucky_warning">QQ 빨간 봉투</string>
     <string name="qucick_replay_instrument">선택된 메신저 앱 알림에서 빠른 답장 사용(예&gt;WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">스캔 중</string>
@@ -3121,7 +3121,7 @@ SMS 전송"</string>
     <string name="summary_permission">원하지않는 지불을 피하고 개인정보를 보호합니다.</string>
     <string name="summary_permission_root">이 기기는 루트권한이 있는 것으로 보입니다. 귀하 기기의 보안에 큰 손실을 가져올 수 있습니다.</string>
     <string name="summary_power_optimizer">배터리가 부족할 때 기기의 성능 낮추기</string>
-    <string name="summary_rcs_switch">차이나 모바일 사용자에게 무료로 문자를 보냅니다.</string>
+    <string name="summary_rcs_switch">China Mobile 사용자에게 무료로 문자를 보냅니다.</string>
     <string name="summary_realname_verify">결제 보안 강화를 위해 본인 인증을 하세요.</string>
     <string name="summary_restrict_data_usage">이 앱의 데이터 사용을 제한했습니다. 수정하려면 탭하세요.</string>
     <string name="summary_show_notification">캐시 지우기, 배터리 상태 보기, 드롭다운 메뉴의 항목 차단</string>
@@ -3238,8 +3238,8 @@ SMS 전송"</string>
     <string name="tc_diagnostic_success_result">&lt;font color=\'#CC0000\'&gt;결과: 통신사 네트워크와 브랜드의 설정 올바름&lt;br/&gt;&lt;br/&gt;조정을 완료할 수 없음:&lt;br/&gt;1. 월초나 월말의 통신사 통계는 정확하지 않을 수 있습니다.&lt;br/&gt;2. 보안 앱이 업데이트되지 않았습니다.&lt;br/&gt;&lt;br/&gt;MIUI 진단 도구 개선을 위해 이 문제를 보고해 주세요.&lt;/font&gt;</string>
     <string name="tc_diagnostic_title">통신사 진단</string>
     <string name="tc_diagnostic_upload_button">보고서</string>
-    <string name="tc_diagnostic_upload_no_network">피드백을 남겨주셔서 감사합니다! 네트워크에 연결하시면 보고됩니다.</string>
-    <string name="tc_diagnostic_upload_success">피드백을 남겨주셔서 감사합니다!</string>
+    <string name="tc_diagnostic_upload_no_network">의견을 남겨주셔서 감사합니다! 네트워크에 연결하시면 보고됩니다.</string>
+    <string name="tc_diagnostic_upload_success">의견을 남겨주셔서 감사합니다!</string>
     <string name="tc_get_cmd_error">템플릿을 가져올 수 없습니다.</string>
     <string name="tc_parse_error">SMS를 구문 분석할 수 없습니다.</string>
     <string name="tc_receive_timeout">시간 초과</string>
@@ -3276,7 +3276,7 @@ SMS 전송"</string>
     <string name="tc_sms_report_toast_text">정보 가져오는 중…</string>
     <string name="tc_sms_report_type">보고서 유형</string>
     <string name="tc_sms_report_upload_success">데이터 사용량 보고서 SMS가 전송되었습니다. 당사에서 곧 받을 것입니다.</string>
-    <string name="tc_sms_report_upload_when_net">피드백을 남겨주셔서 감사합니다!</string>
+    <string name="tc_sms_report_upload_when_net">의견을 남겨주셔서 감사합니다!</string>
     <string name="tc_web_correct_error">보정할 수 없음</string>
     <string name="ten_percent_total_pkg">%s (월간 데이터의 10%%)</string>
     <string name="tether_custom_dialog_title">모바일 데이터 한도</string>
@@ -3367,7 +3367,7 @@ SMS 전송"</string>
     <string name="title_permission_root">루트 권한</string>
     <string name="title_permission_yes">권한 관리자 켜짐</string>
     <string name="title_power_optimizer">배터리 최적화</string>
-    <string name="title_rcs_switch">차이나 모바일 메시지 켬</string>
+    <string name="title_rcs_switch">China Mobile 메시지 켬</string>
     <string name="title_realname_verify">ID 인증</string>
     <string name="title_reply">댓글</string>
     <string name="title_restrict_data_usage">%s에서 인터넷에 연결할 수 없습니까?</string>
@@ -3534,7 +3534,7 @@ SMS 전송"</string>
     <string name="vb_quick_func_hangup_listening">화면을 끈 상태에서 동영상 사운드 재생</string>
     <string name="vb_quick_func_screen_capture">스크린샷</string>
     <string name="vb_quick_func_screen_record">녹화</string>
-    <string name="vb_quick_func_screening">캐스트</string>
+    <string name="vb_quick_func_screening">화면 전송</string>
     <string name="vb_settings">설정</string>
     <string name="vb_ve_settings_display_style_tips">*이 효과는 전체 화면에 적용됩니다.</string>
     <string name="vb_ve_settings_pic_border_stronger">향상된 윤곽선</string>
