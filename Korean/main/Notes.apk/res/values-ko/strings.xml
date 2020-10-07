@@ -421,6 +421,7 @@
     <string name="doodle_tool_picture">이미지 추가</string>
     <string name="doodle_tool_text">텍스트 추가</string>
     <string name="doodle_tool_text_hint">탭하여 텍스트 입력</string>
+    <string name="doodle_save_progress_text">저장중…</string>
     <string name="image_action_annotate">이미지 설명 추가</string>
     <string name="image_action_browse">이미지 보기</string>
     <string name="image_action_delete">이미지 삭제</string>
