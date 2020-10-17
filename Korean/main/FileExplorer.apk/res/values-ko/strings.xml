@@ -398,7 +398,7 @@
     <string name="click_to_switch_volume">탭하여 내부 저장소와 SD 카드 전환</string>
     <string name="click_to_switch_volume_pad">탭하여 내부 저장소와 SD 카드 전환</string>
     <string name="midrop_msg_1">다른 기기에서 Mi Drop 켜기</string>
-    <string name="midrop_msg_2">Mi Drop이 켜졌을 때 근처의 기기를 검색하고 파일을 전송할 수 있습니다.</string>
+    <string name="midrop_msg_2">Mi Drop이 켜졌을 때 주변의 기기를 검색하고 파일을 전송할 수 있습니다.</string>
     <string name="decrypt_to">해독하고 저장…</string>
     <string name="phone_storage">저장소</string>
     <string name="phone_storage_cal">확인 중…</string>

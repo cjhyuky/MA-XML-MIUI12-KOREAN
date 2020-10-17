@@ -78,9 +78,9 @@
     <string name="handy_mode_default_to_close_whether_open">한 손 조작 모드가 해제되어 있습니다. 지금 실행하시겠습니까?</string>
     <string name="open">켜기</string>
     <string name="name_mi_wallet">Mi 지갑</string>
-    <string name="edge_distance_pref_summary">화면 가장자리 근처에 있는 웨이크 업 영역을 탭하면 빠른 볼이 나타납니다.</string>
+    <string name="edge_distance_pref_summary">화면 가장자리 주변에 있는 웨이크 업 영역을 탭하면 빠른 볼이 나타납니다.</string>
     <string name="edge_distance_pref_title">웨이크 업 영역</string>
-    <string name="edge_mode_custom_summary">화면 가장자리 근처의 깨우기 영역 크기 조정</string>
+    <string name="edge_mode_custom_summary">화면 가장자리 주변의 깨우기 영역 크기 조정</string>
     <string name="edge_mode_custom_title">맞춤</string>
     <string name="edge_mode_default_title">기본값</string>
 </resources>

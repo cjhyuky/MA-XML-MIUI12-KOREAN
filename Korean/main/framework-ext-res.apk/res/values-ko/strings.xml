@@ -291,7 +291,7 @@
     <string name="talk_back_water_mark_string2">\"볼륨+\" 와 \"볼륨-\"를 3초 동안 동시에 누르면 꺼집니다.</string>
     <string name="throwing_print">프린트</string>
     <string name="throwing_screen">화면 전송</string>
-    <string name="tips_prompt_enable_midrop">근처 기기와 파일을 공유하세요.</string>
+    <string name="tips_prompt_enable_midrop">주변 기기와 파일을 공유하세요.</string>
     <string name="total">방해 금지 모드</string>
     <string name="total_description">알람 소리를 제외한 모든 소리를 음소거하고 진동을 끕니다.</string>
     <string name="total_title">방해 금지 모드</string>

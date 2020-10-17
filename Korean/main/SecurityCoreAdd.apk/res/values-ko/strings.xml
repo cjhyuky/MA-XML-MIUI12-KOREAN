@@ -498,7 +498,7 @@
     <string name="xspace_guide_content_bound">사용 가능한 앱</string>
     <string name="xspace_guide_description">"다른 계정을 쓸 때는
 앱도 따로 쓸 수 있어야죠."</string>
-    <string name="xspace_install_complete">&lt;font>생성 성공. &lt;/font>&lt;font color=#0D84FF>바로 열기&lt;/font></string>
+    <string name="xspace_install_complete">&lt;font>생성 완료. &lt;/font>&lt;font color=#0D84FF>바로 실행&lt;/font>.</string>
     <string name="xspace_notification_button">써보기</string>
     <string name="xspace_start">생성</string>
 </resources>

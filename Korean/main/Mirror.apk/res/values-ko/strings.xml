@@ -110,7 +110,7 @@
     <string name="preference_copied">\"%1$s\"(이)가 클립보드로 복사되었습니다.</string>
     <string name="privacy_all_purpose">Screen Combo에 오신 것을 환영합니다! 이 앱은 PC를 통해 휴대전화와 파일을 주고 받거나 상호작용할 수 있습니다..</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi를 통해 기기를 연결하고 파일을 전송</string>
-    <string name="privacy_describe_location">근처의 PC를 찾고 파일을 전송</string>
+    <string name="privacy_describe_location">주변의 PC를 찾고 파일을 전송</string>
     <string name="privacy_describe_record_audio">휴대전화 오디오를 PC에서 재생</string>
     <string name="privacy_describe_storage">파일을 보내고 받기</string>
     <string name="saturday">토요일</string>

@@ -2423,7 +2423,7 @@
     <string name="wifi_connect_default_application">앱</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">설정 변경</string>
     <string name="wifi_disable_mac_randomization_dialog_failure">개인정보 설정 변경 불가</string>
-    <string name="wifi_disable_mac_randomization_dialog_message">&quot;%1$s이(가) 기기의 고유 식별자인 MAC 주소를 사용해 연결하려는 것 같습니다. 그러면 기기의 위치 정보가 근처 기기에 추적될 수 있습니다. 계속하면 %1$s이(가) 사용자의 개인정보 설정을 변경하고 연결을 다시 시도합니다.&quot;</string>
+    <string name="wifi_disable_mac_randomization_dialog_message">&quot;%1$s이(가) 기기의 고유 식별자인 MAC 주소를 사용해 연결하려는 것 같습니다. 그러면 기기의 위치 정보가 주변 기기에 추적될 수 있습니다. 계속하면 %1$s이(가) 사용자의 개인정보 설정을 변경하고 연결을 다시 시도합니다.&quot;</string>
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">네트워크를 찾지 못함</string>
     <string name="wifi_disable_mac_randomization_dialog_success">설정 업데이트됨. 다시 시도하세요.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">개인정보 설정을 변경하시겠습니까?</string>
@@ -2449,10 +2449,10 @@
     <string name="wifi_suggestion_content">%s에서 추천</string>
     <string name="wifi_suggestion_title">Wi-Fi 네트워크에 연결하시겠습니까?</string>
     <string name="wifi_tether_configure_ssid_default">Android AP</string>
-    <string name="wifi_wakeup_enabled_content">"저장된 네트워크가 근처에 있습니다 : %1$s"</string>
+    <string name="wifi_wakeup_enabled_content">"저장된 네트워크가 주변에 있습니다 : %1$s"</string>
     <string name="wifi_wakeup_enabled_title">자동으로 Wi-Fi가 켜집니다.</string>
     <string name="wifi_wakeup_onboarding_action_disable">"다시 켜지 마세요"</string>
-    <string name="wifi_wakeup_onboarding_subtext">"저장된 고품질 네트워크 근처에 있을 때"</string>
+    <string name="wifi_wakeup_onboarding_subtext">"저장된 고품질 네트워크 주변에 있을 때"</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi가 자동으로 켜집니다.</string>
     <string name="wifi_watchdog_network_disabled">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="wifi_watchdog_network_disabled_detailed">" 인터넷 연결 상태가 좋지 않습니다."</string>

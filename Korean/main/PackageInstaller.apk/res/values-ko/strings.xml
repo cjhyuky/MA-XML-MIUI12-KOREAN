@@ -132,7 +132,7 @@
     <string name="ok">확인</string>
     <string name="settings">설정</string>
     <string name="allow_source_dlg_title">앱이 새로운 소스를 설치하도록 허용하시겠습니까?</string>
-    <string name="allow_source_dlg_text">"%1$s앱에서 다른 앱을 설치하려고 합니다.
+    <string name="allow_source_dlg_text">"%1$s 앱에서 다른 앱을 설치하려고 합니다.
 
 허용하시겠습니까? 이 설정은 향후에도 적용됩니다."</string>
     <string name="manage_applications">앱 관리</string>
@@ -710,7 +710,7 @@
     <string name="accessibility_wifi_security_type_none">오픈 네트워크</string>
     <string name="accessibility_wifi_security_type_secured">보안 네트워크</string>
     <string name="action_bar_expand_collapse_button">확장/접기 버튼</string>
-    <string name="alarm_template">%1$s에서</string>
+    <string name="alarm_template">출처: %1$s</string>
     <string name="alarm_template_far">%1$s에</string>
     <string name="app_permissions_info_button_label">앱 정보 열기</string>
     <string name="available_via_carrier">%1$s 기기 사용가능</string>

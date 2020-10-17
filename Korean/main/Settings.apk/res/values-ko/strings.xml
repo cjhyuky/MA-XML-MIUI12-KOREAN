@@ -440,7 +440,7 @@
     <string name="ai_settings_single_click_title">누르기</string>
     <string name="ai_settings_single_press_des">AI 버튼을 눌러서 Google 어시스턴트에게 말하고, 손을 떼시면 답변이 나옵니다.</string>
     <string name="airplane_mode">비행기 모드</string>
-    <string name="airplane_mode_summary">"모바일 네트워크 연결을 해제합니다. 전화나 메시지를 보내고 받을 수 없으며, 모바일 데이터를 사용할 수 없습니다."</string>
+    <string name="airplane_mode_summary">"모바일 네트워크 연결을 해제합니다. 전화나 메시지를 주고 받을 수 없으며, 모바일 데이터를 사용할 수 없습니다."</string>
     <string name="alarm_ringtone_title">기본 알람음</string>
     <string name="alarm_sound_dialog_title">알람음 선택</string>
     <string name="alarm_sound_title">알람</string>
@@ -1272,11 +1272,11 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">연결된 블루투스 오디오 장치의 최대 수 선택</string>
     <string name="bluetooth_max_connected_audio_devices_string">연결된 블루투스 오디오 장치의 최대 수</string>
     <string name="bluetooth_menu_advanced">고급</string>
-    <string name="bluetooth_mi_fast_connect">호환 장비 빠른 연결</string>
-    <string name="bluetooth_mi_fast_connect_summary">간단한 연결 과정을 통해 주변 블루투스 장치에 연결합니다.</string>
+    <string name="bluetooth_mi_fast_connect">호환 기기 페어링</string>
+    <string name="bluetooth_mi_fast_connect_summary">주변 기기에 간단한 페어링 과정을 통해 연결합니다.</string>
     <string name="bluetooth_middle_name">케이스</string>
     <string name="bluetooth_name_not_set">이름을 설정하지 않아 계정 이름 사용</string>
-    <string name="bluetooth_no_devices_found">근처에 블루투스 기기가 없습니다.</string>
+    <string name="bluetooth_no_devices_found">주변에 블루투스 기기가 없습니다.</string>
     <string name="bluetooth_not_visible_to_other_devices">다른 블루투스 기기에 표시되지 않음</string>
     <string name="bluetooth_notif_message">%1$s와(과) 연결하려면 터치하세요.</string>
     <string name="bluetooth_notif_ticker">블루투스 연결 요청</string>
@@ -1387,8 +1387,8 @@
     <string name="bluetooth_settings">블루투스</string>
     <string name="bluetooth_settings_summary">연결 관리, 장치 이름 및 검색 가능 여부 설정</string>
     <string name="bluetooth_settings_title">블루투스</string>
-    <string name="bluetooth_show_devices_without_names">이름 없이 블루투스 기기 보기</string>
-    <string name="bluetooth_show_devices_without_names_summary">이름 없이 블루투스 기기만 표시합니다.</string>
+    <string name="bluetooth_show_devices_without_names">이름 없이 블루투스 기기 표시</string>
+    <string name="bluetooth_show_devices_without_names_summary">이름 없이 MAC 주소로만 블루투스 기기를 표시합니다.</string>
     <string name="bluetooth_show_files_received_via_bluetooth">블루투스를 통해 받은 파일</string>
     <string name="bluetooth_show_received_files">받은 파일 보기</string>
     <string name="bluetooth_talkback_bluetooth">블루투스</string>
@@ -1979,8 +1979,8 @@
     <string name="connect_later">현재 네트워크에 연결할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="connect_mode">연결 모드</string>
     <string name="connect_soft_ap_label">새로운 기기에 연결 중…</string>
-    <string name="connect_to_internet">네트워크에 연결</string>
-    <string name="connect_wifi">Wi-Fi에 연결</string>
+    <string name="connect_to_internet">네트워크 연결</string>
+    <string name="connect_wifi">Wi-Fi 연결</string>
     <string name="connect_wifi_tip">네트워크에 연결할 수 없습니다. Wi-Fi에 연결하여 iCloud에서 항목을 가져옵니다.</string>
     <string name="connected">연결됨</string>
     <string name="connected_device_add_device_summary">연결하기 위해 블루투스가 켜집니다.</string>
@@ -2012,7 +2012,7 @@
     <string name="connected_via_network_scorer_default">네트워크 제공자를 통해 자동 연결됨</string>
     <string name="connected_via_passpoint">%1$s 네트워크로 연결</string>
     <string name="connected_via_wfa">Wi-Fi 어시스턴트로 연결</string>
-    <string name="connected_wifi">저장된 네트워크</string>
+    <string name="connected_wifi">연결됨</string>
     <string name="connecting_to_vpn">VPN에 연결 중</string>
     <string name="connection_and_sharing">연결 &amp; 공유</string>
     <string name="contact_data">연락처</string>
@@ -2503,7 +2503,7 @@
     <string name="device_name_input_error">기기 이름을 저장하지 못했습니다.</string>
     <string name="device_name_input_hint">이름 입력</string>
     <string name="device_name_input_overlength">문자수 제한을 초과했습니다.</string>
-    <string name="device_name_usage_point">근처의 다른 기기가 이 이름을 볼 수 있습니다.</string>
+    <string name="device_name_usage_point">주변의 다른 기기가 이 이름을 볼 수 있습니다.</string>
     <string name="device_oaid">가상 ID 관리</string>
     <string name="device_oaid_desc">MIUI는 설치된 앱에 고유 식별자 대신 가상 ID(OAID)를 제공합니다. 앱이 사용자의 행동과 선호도를 추적하지 못하도록 하고 개인정보를 보호합니다.</string>
     <string name="device_oaid_title">가상 ID</string>
@@ -2787,9 +2787,9 @@
     <string name="doze_always_on_title">항상 켜짐</string>
     <string name="doze_summary">기기를 들거나 알림 수신 시 절전 모드 해제</string>
     <string name="doze_title">화면 항상 켜짐</string>
-    <string name="dpp_qrcode_generator_summary">쉬운 연결을 지원하는 기기로 이 QR코드 스캔</string>
-    <string name="draw_overlay">앱 위에 표시</string>
-    <string name="draw_overlay_title">앱위에 앱을 띄울 수 있습니다.</string>
+    <string name="dpp_qrcode_generator_summary">쉬운 연결을 지원하는 기기로 이 QR 코드 스캔</string>
+    <string name="draw_overlay">다른 앱 위에 표시</string>
+    <string name="draw_overlay_title">다른 앱 위에 앱을 띄울 수 있습니다.</string>
     <string name="drive_mode">자동차 모드</string>
     <string name="drive_mode_auto_reply">빠른 응답</string>
     <string name="drive_mode_auto_sms_reply_content">지금 운전 중... 나중에 전화 드리겠습니다.</string>
@@ -4047,7 +4047,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="keywords_storage_menu_free">청소, 저장소</string>
     <string name="keywords_storage_settings">메모리, 캐시, 데이터, 삭제, 지우기, 여유 공간</string>
     <string name="keywords_sync">동기화;동기;클라우드</string>
-    <string name="keywords_system_alert_window">시스템 경고, 앱 위에 표시</string>
+    <string name="keywords_system_alert_window">시스템 경고, 다른 앱 위에 표시</string>
     <string name="keywords_system_navigation">시스템 탐색, 2버튼 탐색, 3버튼 탐색, 동작 탐색</string>
     <string name="keywords_system_update_settings">업그레이드, Android</string>
     <string name="keywords_systemui_theme">어두운 테마</string>
@@ -4451,12 +4451,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockpassword_strong_auth_required_work_pin">보안을 강화하려면 업무용 PIN을 입력하세요.</string>
     <string name="lockpattern_change_lock_pattern_label">잠금해제 패턴 변경</string>
     <string name="lockpattern_change_lock_pin_label">PIN 변경</string>
-    <string name="lockpattern_confirm_button_text">승인</string>
+    <string name="lockpattern_confirm_button_text">확인</string>
     <string name="lockpattern_continue_button_text">계속</string>
-    <string name="lockpattern_need_to_confirm">패턴을 다시 그려 승인</string>
+    <string name="lockpattern_need_to_confirm">패턴을 다시 그려 확인:</string>
     <string name="lockpattern_need_to_unlock">저장된 패턴 확인</string>
     <string name="lockpattern_need_to_unlock_wrong">다시 시도:</string>
-    <string name="lockpattern_pattern_confirmed_header">새 잠금해제 패턴</string>
+    <string name="lockpattern_pattern_confirmed_header">새 잠금해제 패턴:</string>
     <string name="lockpattern_pattern_entered_header">패턴 기록됨</string>
     <string name="lockpattern_pattern_same_with_others">다른 공간의 비밀번호와 달라야 합니다.</string>
     <string name="lockpattern_pattern_same_with_owner">기본 공간 비밀번호와 잠금해제 비밀번호를 같게 설정할 수 없습니다.</string>
@@ -5166,7 +5166,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="network_connection_connecting_message">기기에 연결 중…</string>
     <string name="network_connection_errorstate_dialog_message">문제가 발생했습니다. 애플리케이션에서 기기 선택 요청을 취소했습니다.</string>
     <string name="network_connection_request_dialog_showall">모두 표시</string>
-    <string name="network_connection_request_dialog_summary">%1$s앱이 임시 Wi-Fi 네트워크를 사용하여 기기에 연결하려고합니다.</string>
+    <string name="network_connection_request_dialog_summary">%1$s 앱이 임시 Wi-Fi 네트워크를 사용하여 기기에 연결하려고합니다.</string>
     <string name="network_connection_request_dialog_title">%1$s에서 사용할 기기</string>
     <string name="network_connection_searching_message">기기 검색 중…</string>
     <string name="network_connection_timeout_dialog_message">기기가 없습니다. 기기가 켜져 있으며 연결 가능한지 확인하세요.</string>
@@ -5256,18 +5256,18 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="nfc_repair_btn_reboot_later">나중에</string>
     <string name="nfc_repair_btn_retry">다시 시도</string>
     <string name="nfc_repair_btn_yes">예</string>
-    <string name="nfc_repair_confirm_desc" formatted="false">"이러한 문제가 있습니까?
-%d. NFC 카드를 추가하거나 충전할 수 없습니다.
-%d. NFC 카드가 작동하지 않았습니다.
-%d. 다른 NFC 기능을 불러올 수 없습니다."</string>
+    <string name="nfc_repair_confirm_desc" formatted="false">"이러한 문제를 겪고 있나요?
+%1$d. NFC 카드를 추가하거나 충전할 수 없습니다.
+%2$d. NFC 카드가 작동하지 않았습니다.
+%3$d. 다른 NFC 기능을 불러올 수 없습니다."</string>
     <string name="nfc_repair_fail_desc">NFC 기능 복원 중 오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="nfc_repair_fail_title">"복원할 수 없습니다."</string>
     <string name="nfc_repair_ongoing">"복원 중… 이 페이지를 떠나지 마세요."</string>
     <string name="nfc_repair_pass_desc">기기를 다시 시작하여 변경사항을 적용하세요.</string>
     <string name="nfc_repair_pass_title">복원됨</string>
-    <string name="nfc_repair_summary">NFC 기능 사용 불가 문제 해결</string>
+    <string name="nfc_repair_summary">NFC 기능 사용 불가 문제를 해결합니다.</string>
     <string name="nfc_repair_title">NFC 기능 복원</string>
-    <string name="nfc_se_route_title">보안 요소 위치</string>
+    <string name="nfc_se_route_title">보안 매체 방식</string>
     <string name="nfc_se_wallet_title">기본 지갑</string>
     <string name="nfc_secure_settings_title">안전한 NFC</string>
     <string name="nfc_secure_toggle_summary">화면 잠금이 해제된 상태에서만 NFC 결제 및 교통카드 기능 허용</string>
@@ -5798,7 +5798,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="permission_with_SMS_and_MMS">SMS와 MMS 관련 권한</string>
     <string name="permission_with_call_and_contact">전화 통화, 연락처 정보, 통화 기록과 연관된 권한</string>
     <string name="permissions_label">권한 설정</string>
-    <string name="permit_draw_overlay">앱 위에 표시 허용</string>
+    <string name="permit_draw_overlay">다른 앱 위에 표시 허용</string>
     <string name="permit_manage_external_storage">모든 파일을 관리하기위한 액세스 허용</string>
     <string name="permit_running_network">백그라운드 데이터</string>
     <string name="permit_usage_access">사용 권한 허용</string>
@@ -6723,7 +6723,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_usage_summary">충전 완료 이후로부터 화면이 켜져 있었던 시간</string>
     <string name="screen_zoom_conversation_message_1">안녕하세요!</string>
     <string name="screen_zoom_conversation_message_2">오늘 커피나 한 잔 할까요?</string>
-    <string name="screen_zoom_conversation_message_3">좋죠. 이 근처에 스타벅스가 있어요.</string>
+    <string name="screen_zoom_conversation_message_3">좋죠. 이 주변에 스타벅스가 있어요.</string>
     <string name="screen_zoom_conversation_message_4">거기로 가시죠!</string>
     <string name="screen_zoom_conversation_timestamp_1">화요일 PM 6:00</string>
     <string name="screen_zoom_conversation_timestamp_2">화요일 PM 6:01</string>
@@ -6793,11 +6793,11 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sdcard_settings_used_bytes_label">사용 바이트 수:</string>
     <string name="sdcard_unmount">SD 카드 마운트 해제</string>
     <string name="sdcard_unmounted">지금 SD 카드 삽입</string>
-    <string name="se_route_ese">포함된 보안 요소</string>
-    <string name="se_route_uicc">SIM 카드의 보안 요소</string>
-    <string name="se_wallet_ese">Mi Pay와 NFC 통신 카드</string>
-    <string name="se_wallet_hce">HCE 지갑 사용</string>
-    <string name="se_wallet_uicc">SIM%1$s 지갑 사용</string>
+    <string name="se_route_ese">내장 보안 매체</string>
+    <string name="se_route_uicc">SIM 카드 보안 매체</string>
+    <string name="se_wallet_ese">Mi 지갑</string>
+    <string name="se_wallet_hce">HCE 지갑</string>
+    <string name="se_wallet_uicc">%1$s번 SIM 지갑</string>
     <string name="search_about_settings">휴대전화 정보;모델 번호;Android 버전;MIUI 버전;CPU;RAM;내부 저장소;베이스밴드 버전;커널 버전;빌드 번호</string>
     <string name="search_accelerometer_title">자동 화면 회전;화면 회전;방향;세로;가로</string>
     <string name="search_access_control">개인정보 설정;개인정보 보안;게스트;게스트 모드</string>
@@ -7999,7 +7999,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Wi-Fi 전용</string>
     <string name="system">시스템</string>
-    <string name="system_alert_window_access_title">앱 위에 표시</string>
+    <string name="system_alert_window_access_title">다른 앱 위에 표시</string>
     <string name="system_alert_window_apps_title">앱</string>
     <string name="system_alert_window_off">아니오</string>
     <string name="system_alert_window_on">네</string>
@@ -9122,7 +9122,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wait_for_debugger_summary">디버깅된 애플리케이션이 실행되기 전에 디버거 연결을 위해 대기</string>
     <string name="wait_link">이전 기기로 이 핫스팟에 연결하세요. 연결이 완료될 때까지 이 페이지를 벗어나지 마세요.</string>
     <string name="waiting">잠시만 기다려주세요…</string>
-    <string name="wake_suppression_summary">기기가 실수로 터치하면 반응이 좋아지지만 가장자리 근처의 대부분의 제스처 컨트롤에도 반응합니다.</string>
+    <string name="wake_suppression_summary">기기가 실수로 터치하면 반응이 좋아지지만 가장자리 주변의 대부분의 제스처 컨트롤에도 반응합니다.</string>
     <string name="wake_suppression_title">작은 범위</string>
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
     <string name="wakeup_for_keyguard_notification_title">알림 수신 시 잠금 화면 켜기</string>
@@ -9284,7 +9284,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_assistant_title_message">%1$s 앱이 사용 가능한 최상의 Wi‑Fi에 자동으로 연결합니다.</string>
     <string name="wifi_assistant_vpn_message">데이터 보호를 위해 Google Wi-Fi 어시스턴트가 보안 VPN 연결을 통해 데이터를 전송합니다.</string>
     <string name="wifi_auto_connect">자동 연결</string>
-    <string name="wifi_auto_connect_summary">휴대전화가 이 네트워크 근처에서 자동으로 연결하도록 허용</string>
+    <string name="wifi_auto_connect_summary">휴대전화가 이 네트워크 주변에서 자동으로 연결하도록 허용</string>
     <string name="wifi_auto_connect_title">자동 연결</string>
     <string name="wifi_auto_connect_type_summary">네트워크 연결 방식 선택</string>
     <string name="wifi_auto_connect_type_title">자동 연결 방식</string>
@@ -9379,7 +9379,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_display_enable_menu_item">무선 디스플레이 사용</string>
     <string name="wifi_display_listen_channel">채널 듣기</string>
     <string name="wifi_display_listen_mode">듣기 모드 활성화</string>
-    <string name="wifi_display_no_devices_found">근처에 기기가 없습니다.</string>
+    <string name="wifi_display_no_devices_found">주변에 기기가 없습니다.</string>
     <string name="wifi_display_operating_channel">작동 채널</string>
     <string name="wifi_display_options_done">완료</string>
     <string name="wifi_display_options_forget">삭제</string>
@@ -9441,7 +9441,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_eap_method">EAP 방식</string>
     <string name="wifi_eap_ocsp">온라인 인증서 상태</string>
     <string name="wifi_eap_options_advanced">고급 옵션</string>
-    <string name="wifi_eap_options_simple">심플 옵션</string>
+    <string name="wifi_eap_options_simple">기본 옵션</string>
     <string name="wifi_eap_sim_simcard">SIM 선택</string>
     <string name="wifi_eap_user_cert">사용자 인증서</string>
     <string name="wifi_empty_list_user_restricted">귀하는 이 네트워크를 변경할 권한이 없습니다.</string>
@@ -9620,8 +9620,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_scan_always_turnon_message">위치 정확성 개선 등의 목적으로 %1$s에서 Wi-Fi가 꺼져 있을 때에도 네트워크 검색을 사용하도록 설정하려 합니다.\n\n검색하려는 모든 앱에 대해 이를 허용하시겠습니까?</string>
     <string name="wifi_scan_notify_remember_choice">다시 표시 안 함</string>
     <string name="wifi_scan_notify_text">위치 정확성을 향상시키기 위해 시스템 앱과 서비스는 여전히 Wi-Fi 네트워크를 검색 할 수 있습니다.</string>
-    <string name="wifi_scan_notify_text_location_off">앱이 Wi-Fi가 꺼져 있을 때도 근처 네트워크를 스캔할 수 있습니다. 이 기능을 사용하지 않으려면 고급 &gt; 네트워크 항상 검색으로 이동하세요.</string>
-    <string name="wifi_scan_notify_text_location_on">정확성 개선 등의 목적으로 Google 및 기타 앱이 근처 Wi-Fi 네트워크를 스캔할 수 있습니다. Wi-Fi가 꺼져 있을 때도 작동합니다. 이 기능을 사용하지 않으려면 고급 &gt; 네트워크 항상 검색으로 이동하세요.</string>
+    <string name="wifi_scan_notify_text_location_off">앱이 Wi-Fi가 꺼져 있을 때도 주변 네트워크를 스캔할 수 있습니다. 이 기능을 사용하지 않으려면 고급 &gt; 네트워크 항상 검색으로 이동하세요.</string>
+    <string name="wifi_scan_notify_text_location_on">정확성 개선 등의 목적으로 Google 및 기타 앱이 주변 Wi-Fi 네트워크를 스캔할 수 있습니다. Wi-Fi가 꺼져 있을 때도 작동합니다. 이 기능을 사용하지 않으려면 고급 &gt; 네트워크 항상 검색으로 이동하세요.</string>
     <string name="wifi_scan_notify_text_scanning_off">위치 정확도를 향상시키려면 검색 설정에서 Wi-Fi 검색을 켜세요.</string>
     <string name="wifi_scan_throttling">Wi‑Fi 검색 제한</string>
     <string name="wifi_scan_throttling_summary">배터리 소모를 줄이고 네트워크 성능 개선</string>
@@ -9792,7 +9792,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_wakeup_location_summary">이 기능을 사용하려면 위치 서비스를 사용 설정하세요.</string>
     <string name="wifi_wakeup_negative_button">취소</string>
     <string name="wifi_wakeup_positive_button">켜기</string>
-    <string name="wifi_wakeup_scan_summary">앱과 서비스가 Wi-Fi 네트워크를 검색하여 Wi-Fi를 자동으로 켤 수 있도록 합니다. 이 기능을 사용하면 기기가 근처에 저장된 네트워크에 자동으로 연결됩니다.</string>
+    <string name="wifi_wakeup_scan_summary">앱과 서비스가 Wi-Fi 네트워크를 검색하여 Wi-Fi를 자동으로 켤 수 있도록 합니다. 이 기능을 사용하면 기기가 주변에 저장된 네트워크에 자동으로 연결됩니다.</string>
     <string name="wifi_wakeup_summary">Wi-Fi가 집 네트워크와 같은 신뢰할 수 있는 네트워크에만 자동으로 연결합니다.</string>
     <string name="wifi_wakeup_summary_no_location">위치가 사용 중지되었으므로 사용할 수 없습니다. &lt;annotation id=\"link\"&gt;위치&lt;/annotation&gt;를 켜세요.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Wi-Fi 검색이 꺼져 있습니다.</string>
@@ -10257,4 +10257,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zone_menu_by_region">지역으로 선택</string>
     <string name="zone_time_type_dst">썸머타임 시간</string>
     <string name="zone_time_type_standard">표준 시간</string>
+    <string name="usb_reverse_charge">역방향 충전</string>
+    <string name="usb_use_file_transfers_miui12_5">파일 전송</string>
+    <string name="usb_use_miui12_5">USB 연결</string>
+    <string name="usb_use_photo_transfers_miui12_5">사진 전송</string>
 </resources>

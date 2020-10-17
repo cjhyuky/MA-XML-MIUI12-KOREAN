@@ -259,7 +259,7 @@
     <string name="aqi_quality_o3_desc">오존</string>
     <string name="aqi_quality_detail_48_hours">48시간 일기예보</string>
     <string name="aqi_quality_detail_15_days">15일 일기예보</string>
-    <string name="aqi_quality_ambient_air_quality">근처의 대기질</string>
+    <string name="aqi_quality_ambient_air_quality">주변의 대기질</string>
     <string name="particulate_matter_not_exceeded">보통</string>
     <string name="particulate_matter_exceeded">높음</string>
     <string name="particulate_matter_serious_exceeded">아주 높음</string>

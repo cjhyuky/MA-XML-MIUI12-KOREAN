@@ -19,7 +19,7 @@
     <string name="position_header">위치 정보 공유</string>
     <string name="position_subheading">위치 정보</string>
     <string name="disagreement_abnormal_running_fast_pairing">"이러한 권한에 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 설정에서 권한을 제한하고 이 기능을 끄도록 선택할 수 있습니다."</string>
-    <string name="fast_pairing_introduction">Mi Link를 사용하면 장치가 MIUI 블루투스 서비스를 사용하여 근처의 블루투스 장치에 연결할 수 있습니다. 근처에서 기기를 찾으려면 MIUI 블루투스 서비스가 인터넷에 연결되도록 허용하세요.</string>
+    <string name="fast_pairing_introduction">Mi Link를 사용하면 장치가 MIUI 블루투스 서비스를 사용하여 주변의 블루투스 장치에 연결할 수 있습니다. 주변에서 기기를 찾으려면 MIUI 블루투스 서비스가 인터넷에 연결되도록 허용하세요.</string>
     <string name="backup_introduction">기기의 백업과 복원을 위해 이 앱을 사용해보세요.</string>
     <string name="permission_backup">저장소 접근</string>
     <string name="permission_backup_introduction">기기에 백업 파일을 저장하기 위한 접근 권한</string>
@@ -40,7 +40,7 @@
 2026"</string>
     <string name="other_settings">추가 설정</string>
     <string name="other_settings_location">위치</string>
-    <string name="other_settings_location_summary">앱이 귀하의 위치에 접근하는 것을 허용</string>
+    <string name="other_settings_location_summary">앱이 위치 정보를 조회하도록 허용합니다.</string>
     <string name="other_settings_user_experience">사용자 체험 프로그램</string>
     <string name="other_settings_user_experience_summary">익명의 사용량 데이터를 보내서 제품 및 서비스 개선을 도와주세요.</string>
     <string name="other_settings_upload_debug_log_title">자동으로 데이터 진단 전송</string>
@@ -61,7 +61,7 @@
     <string name="ime_privacy_policy">선택한 키보드의 개인정보 보호정책</string>
     <string name="ime_privacy_policy_no_network">네트워크 연결 없음. %s에서 이 키보드의 개인정보 보호정책 보기</string>
     <string name="terms_of_use">이용 약관</string>
-    <string name="terms_of_use_label">"당사가 무슨 정보를 수집하여 어떻게 사용하는지, 그리고 사용자의 선택지에는 무엇이 있는지 알고 싶다면 당사의 이용 약관과 개인정보 보호정책을 읽어보세요.
+    <string name="terms_of_use_label">"당사가 수집하는 정보의 종류와 이용 방법, 그리고 사용자의 선택지에 대해 알고 싶다면 당사의 이용 약관과 개인정보 보호정책을 읽어보세요.
 MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 동의해야 합니다.
 %s 및 Mi 계정과 같은 기능은 인터넷에 연결하고 사용자의 위치 정보를 취득합니다."</string>
     <string name="user_agreement">이용 약관</string>
@@ -77,12 +77,10 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="install_preinstall_app">앱 불러오는 중…</string>
     <string name="title_fingerprint">지문 추가</string>
     <string name="desc_fingerprint">귀하의 지문을 사용하여 기기 잠금해제, Mi Pay 거래, 앱과 서비스에 로그인하세요.</string>
-    <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">다음</string>
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">귀하의 지문을 사용하여 기기 잠금해제, 앱과 서비스에 로그인하세요.</string>
     <string name="content_description_start">시작</string>
-    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
     <string name="language_picker_other_languages_title">더 많은 언어</string>

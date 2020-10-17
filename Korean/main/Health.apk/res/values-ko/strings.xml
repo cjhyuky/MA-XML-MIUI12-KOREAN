@@ -1147,7 +1147,7 @@
     <string name="welcome_sleep_description">아침에 일어나 수면 주기를 확인하려면 옆에 휴대전화를 두세요.</string>
     <string name="welcome_start_use">시작</string>
     <string name="well">좋음</string>
-    <string name="write_strorage_perm_description">발생한 문제에 대한 정보를 저장하기 위해</string>
+    <string name="write_strorage_perm_description">발생한 문제에 대한 정보를 저장합니다.</string>
     <string name="yesterday">어제</string>
     <string name="allergic_drugs">알레르기 약물</string>
     <string name="allergic_drugs_hint">알레르기 약물 및 반응 채우기</string>

@@ -20,9 +20,9 @@
     <string name="corpus_label_web">웹</string>
     <string name="corpus_description_web">북마크</string>
     <string name="corpus_label_apps">앱</string>
-    <string name="corpus_description_apps">설치된 애플리케이션</string>
+    <string name="corpus_description_apps">설치된 앱</string>
     <string name="cta_declaration_title">서비스 약관</string>
-    <string name="cta_declaration">이 기능은 귀하의 위치 정보, 통화 목록, 연락처, 인터넷 등을 사용할 수 있을 때 정상적으로 작동합니다.</string>
+    <string name="cta_declaration">이 기능을 정상적으로 사용하려면 위치 정보, 통화 기록, 연락처를 조회하고 인터넷에 연결해야 합니다.</string>
     <string name="cta_declaration_ignore">다시 보지 않기</string>
     <string name="cta_declaration_positive_text">허용</string>
     <string name="cta_declaration_negative_text">나가기</string>
@@ -33,7 +33,7 @@
     <string name="settings_description">설치된 앱 이름</string>
     <string name="appindex_search_label">앱 기능</string>
     <string name="appindex_description">설치된 앱의 기능</string>
-    <string name="application_desc">애플리케이션</string>
+    <string name="application_desc">앱</string>
     <string name="web_search_results">웹 검색 결과</string>
     <string name="search_group_fold">숨기기</string>
     <string name="search_group_unfold">자세히</string>
@@ -44,12 +44,12 @@
     <string name="recent_edit_done">완료</string>
     <string name="recent_delete_title">앱 숨기기</string>
     <string name="recent_delete_content">"이 앱들을 숨기시겠습니까?
-설정>설치된>검색에서 이 기능을 바꿀 수 있습니다."</string>
+설정 > 앱 > 검색에서 이 기능을 바꿀 수 있습니다."</string>
     <string name="recent_delete_negative">취소</string>
     <string name="recent_delete_positive">확인</string>
     <string name="recent_close_title">기능끄기</string>
     <string name="recent_close_content">"이 기능을 끄시겠습니까?
-설정>설치된>검색에서 이 기능을 바꿀 수 있습니다."</string>
+설정 > 앱 > 검색에서 이 기능을 바꿀 수 있습니다."</string>
     <string name="entrance_setting">검색 열기</string>
     <string name="swipe_up_title">위로 스와이프</string>
     <string name="swipe_up_summary">위로 스와이프하여 글로벌 검색 열기</string>

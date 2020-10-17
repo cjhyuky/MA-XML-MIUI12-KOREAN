@@ -6,7 +6,7 @@
     <string name="permission_external_storage_introduce">의견 저장 및 업로드</string>
     <string name="permission_imei_disable_desc">이 앱이 인터넷에 연결되도록 허용합니다.</string>
     <string name="permission_imei_enable_desc">이 앱이 인터넷에 연결하여 위에 나열된 필수 권한을 부여하도록 허용합니다.</string>
-    <string name="permission_location_introduce">근처의 서비스 지점을 표시합니다.</string>
+    <string name="permission_location_introduce">주변의 서비스 지점을 표시합니다.</string>
     <string name="error_slave_wifi_in_use_china">"이중 Wi-Fi가 켜져 있으면 Mi Share가 작동하지 않습니다. 설정에서 이중 Wi-Fi를 끄고 다시 시도하세요."</string>
     <string name="mishare_state_protection_summary_china">블루투스 또는 Wi-Fi를 다시 켤 때 자동으로 Mi Share 켜기</string>
     <string name="wifi_is_not_enabled_china">먼저 Wi-Fi 켜기</string>
@@ -76,9 +76,9 @@
     <string name="file_transfer_progress">진행: %1$d%%</string>
     <string name="functions_are_being_developed">이 기능은 곧 출시됩니다. 기다려 주세요!</string>
     <string name="hide">숨기기</string>
-    <string name="location_enabled">Mi Share가 근처에 있는 기기를 찾기 위해 위치 서비스를 켰습니다.</string>
+    <string name="location_enabled">Mi Share가 주변에 있는 기기를 찾기 위해 위치 서비스를 켰습니다.</string>
     <string name="mi_drop">Mi Share</string>
-    <string name="mishare_settings_summary_international">Mi Share를 사용하여 근처의 장치로 파일을 보낼 수 있습니다.\nMi Share는 Mi 시리즈 및 Redmi 시리즈 전화와 호환됩니다.\nOPPO, vivo, realme 및 기타 브랜드도 곧 Mi Share와 호환됩니다. 당사 웹 사이트에서 호환 장치 목록을 확인할 수 있습니다.</string>
+    <string name="mishare_settings_summary_international">Mi Share를 사용하여 주변의 장치로 파일을 보낼 수 있습니다.\nMi Share는 Mi 시리즈 및 Redmi 시리즈 전화와 호환됩니다.\nOPPO, vivo, realme 및 기타 브랜드도 곧 Mi Share와 호환됩니다. 당사 웹 사이트에서 호환 장치 목록을 확인할 수 있습니다.</string>
     <string name="mishare_state_protection">자동으로 Mi Share 켜기</string>
     <string name="mishare_state_protection_summary">블루투스 또는 Wi-Fi 연결 시 자동으로 Mi Share 켜기</string>
     <string name="no_longer_prompt">차단</string>
@@ -95,7 +95,7 @@
     <string name="receiver_error">수신 실패, 1-2분 정도 기다리신 후 다시 시도하세요.</string>
     <string name="refuse_file">거절</string>
     <string name="retry_task">다시 전송</string>
-    <string name="scanning_device_tips">근처의 기기 검색 중… 상대방 기기에 검색 가능 모드가 켜져있는지 확인하세요.</string>
+    <string name="scanning_device_tips">주변의 기기 검색 중… 상대방 기기에 검색 가능 모드가 켜져있는지 확인하세요.</string>
     <string name="scanning_only_xiaomi_device">해당 항목은 Xiaomi 기기로만 전송할 수 있습니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="send_file">파일 전송</string>
@@ -113,7 +113,7 @@
     <string name="support_device_type">지원되는 기기</string>
     <string name="throwing_print">인쇄</string>
     <string name="throwing_screen">화면 전송</string>
-    <string name="tips_prompt_enable_midrop">근처의 기기와 파일 공유</string>
+    <string name="tips_prompt_enable_midrop">주변의 기기와 파일 공유</string>
     <string name="transfer_intercept_to_remote">전송 실패: %1$s</string>
     <string name="transfer_to_pc_summary">Mi Share를 사용하여 휴대전화에서 Xiaomi 노트북으로 항목을 보내거나 한 랩탑에서 다른 랩탑으로 항목을 보낼 수 있습니다.\n당사 웹 사이트에서 호환 장치 목록을 찾을 수 있습니다. 랩톱이 목록에 있지만 Mi Share가 설치되어 있지 않은 경우 랩톱의 BIOS 및 네트워크 어댑터 드라이버를 업데이트하고 Mi Share를 다운로드하세요.</string>
     <string name="transfer_to_pc_title">PC에 파일 전송</string>

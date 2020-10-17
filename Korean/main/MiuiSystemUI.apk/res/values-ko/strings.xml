@@ -867,7 +867,7 @@
     <string name="face_unlock_success_stay_screen_msg">얼굴이 인식된 후에도 잠금 화면을 유지합니다. 위로 와이프하여 홈 화면을 여세요.</string>
     <string name="face_unlock_success_stay_screen_title">잠금해제 후 잠금 화면 유지</string>
     <string name="failed_to_open_app_settings_toast">%1$s 설정을 열 수 없음</string>
-    <string name="fast_pairing_introduction">Mi 링크를 사용하면 기기가 근처의 블루투스 기기에 연결할 수 있습니다. 근처에 있는 기기를 찾으려면 Mi 링크가 인터넷에 연결할 수 있도록 권한을 부여하세요.</string>
+    <string name="fast_pairing_introduction">Mi 링크를 사용하면 기기가 주변의 블루투스 기기에 연결할 수 있습니다. 주변에 있는 기기를 찾으려면 Mi 링크가 인터넷에 연결할 수 있도록 권한을 부여하세요.</string>
     <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가하세요.</string>
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_again_identified_msg">지문이 활성화되었습니다. 지문이나 비밀번호로 기기를 잠금해제할 수 있습니다.</string>
@@ -1673,7 +1673,7 @@ EEEE"</string>
     <string name="quick_settings_dnd_none_label">전체 무음</string>
     <string name="quick_settings_dnd_priority_label">중요 알림만</string>
     <string name="quick_settings_done">완료</string>
-    <string name="quick_settings_drivemode_label">자동차 모드</string>
+    <string name="quick_settings_drivemode_label">운전 모드</string>
     <string name="quick_settings_dual_location_label">듀얼 GPS</string>
     <string name="quick_settings_edit_label">편집</string>
     <string name="quick_settings_extreme_batterysaver_label">초절전 모드</string>
@@ -1696,7 +1696,7 @@ EEEE"</string>
     <string name="quick_settings_nightmode_label">다크 모드</string>
     <string name="quick_settings_notifications_label">알림</string>
     <string name="quick_settings_papermode_label">독서 모드</string>
-    <string name="quick_settings_powermode_label">성능향상모드</string>
+    <string name="quick_settings_powermode_label">성능 모드</string>
     <string name="quick_settings_quietmode_label">방해 금지 모드</string>
     <string name="quick_settings_reset_confirmation_button">숨기기</string>
     <string name="quick_settings_reset_confirmation_message">설정에서 켜시면 다시 표시됩니다.</string>
@@ -1728,7 +1728,7 @@ EEEE"</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">듀얼 밴드 Wi-Fi 속도 향상은 두 개의 다른 Wi-Fi 밴드를 사용해야 합니다. 다른 기본 네트워크에 연결하면 보조 연결이 끊어집니다.</string>
     <string name="quick_settings_wifi_detail_empty_text">사용 가능한 Wi-Fi 네트워크 없음</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-    <string name="quick_settings_wifi_nearby">근처 네트워크 선택</string>
+    <string name="quick_settings_wifi_nearby">주변 네트워크 선택</string>
     <string name="quick_settings_wifi_no_network">네트워크 없음</string>
     <string name="quick_settings_wifi_not_connected">연결되지 않음</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi가 꺼져있습니다.</string>

@@ -937,7 +937,7 @@
     <string name="theme_component_aod">Always On Display</string>
     <string name="theme_component_icon">아이콘</string>
     <string name="theme_component_title_aod">항상 표시</string>
-    <string name="theme_component_video_wallpaper">동적 배경화면</string>
+    <string name="theme_component_video_wallpaper">라이브 배경화면</string>
     <string name="theme_on_the_phone_alert">"통화 중에 재생할 수 없습니다."</string>
     <string name="theme_preview">테마 미리보기</string>
     <string name="v7_preference_off">꺼짐</string>

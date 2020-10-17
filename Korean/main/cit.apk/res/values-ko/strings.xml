@@ -61,14 +61,14 @@
     <string name="cit_batterylight_rgb">배터리 표시등</string>
     <string name="cit_blue_tooth_address_check_summary">이 기기의 블루투스 주소가 아래에 표시됩니다.</string>
     <string name="cit_blue_tooth_address_check_title">블루투스 주소 받기</string>
-    <string name="cit_blue_tooth_scan_check_summary">다음 정보는 근처에서 검색된 블루투스 기기들의 정보입니다.</string>
+    <string name="cit_blue_tooth_scan_check_summary">다음 정보는 주변에서 검색된 블루투스 기기들의 정보입니다.</string>
     <string name="cit_blue_tooth_scan_check_title">블루투스 검색</string>
     <string name="cit_blue_torch_on">블루 손전등 켜기</string>
     <string name="cit_bluetooth_address_open_error">블루투스 주소를 받아 오지 못했습니다. 블루투스 기기를 켜는 도중 오류가 발생했습니다.</string>
     <string name="cit_bluetooth_not_support">이 기기는 블루투스를 지원하지 않습니다.</string>
     <string name="cit_bluetooth_scan_retry">다시 스캔</string>
     <string name="cit_bluetooth_scanning">주변 블루투스 기기 스캔 중(4초 정도 걸릴 수 있습니다)…</string>
-    <string name="cit_bluetooth_scanning_bluetooth_done">완료. 근처에서 블루투스 기기를 찾지 못했습니다.</string>
+    <string name="cit_bluetooth_scanning_bluetooth_done">완료. 주변에서 블루투스 기기를 찾지 못했습니다.</string>
     <string name="cit_bluetooth_scanning_bluetooth_error">블루투스 기기 검색 중 오류가 발생했습니다.</string>
     <string name="cit_bluetooth_scanning_opening_bluetooth">블루투스 기기 여는 중…</string>
     <string name="cit_button_light_off">버튼 표시등 꺼짐</string>
@@ -188,7 +188,7 @@
     <string name="cit_power_check_title">배터리 표시기</string>
     <string name="cit_pressure_sensor_check_summary">압력 값이 아래에 표시됩니다.</string>
     <string name="cit_pressure_sensor_check_title">압력 센서</string>
-    <string name="cit_proximity_sensor_check_summary">"손으로 근접 센서(수신기 근처의 휴대전화 상단에 위치)를 가린 다음 손을 뗍니다. 손을 기기에서 멀리 이동하면 값은 0.0에서부터 증가합니다.
+    <string name="cit_proximity_sensor_check_summary">"손으로 근접 센서(수신기 주변의 휴대전화 상단에 위치)를 가린 다음 손을 뗍니다. 손을 기기에서 멀리 이동하면 값은 0.0에서부터 증가합니다.
 보정 시 센서와 손(예: 보호 화면 커버 또는 장갑) 사이에 아무 것도 없어야 합니다."</string>
     <string name="cit_proximity_sensor_check_title">근접 센서</string>
     <string name="cit_reset_check_summary">이 테스트는 기기를 다시 시작합니다. 기존의 모든 테스트 데이터는 삭제됩니다.</string>
@@ -322,7 +322,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_wifi_address_check_summary">아래 주소는 현재 기기가 연결된 Wi-Fi 네트워크 주소입니다. 초록색으로 강조된 정보가 정확한지 확인하세요.</string>
     <string name="cit_wifi_address_check_title">Wi-Fi 주소</string>
     <string name="cit_wifi_address_error">Wi-Fi 주소를 가져오지 못했습니다. Wi-Fi가 활성화되었는지 확인하세요.</string>
-    <string name="cit_wifi_ap_scan_check_summary">아래 목록은 기기 근처에서 검색된 Wi-Fi AP입니다. 초록색으로 강조된 정보가 정확한지 확인하세요.</string>
+    <string name="cit_wifi_ap_scan_check_summary">아래 목록은 기기 주변에서 검색된 Wi-Fi AP입니다. 초록색으로 강조된 정보가 정확한지 확인하세요.</string>
     <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP 스캔</string>
     <string name="cit_wifi_ap_scan_retry">다시 스캔 중…</string>
     <string name="cit_wifi_ap_scanning">스캔 중…</string>
@@ -892,7 +892,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="set_dsi_tips">DSI 설정</string>
     <string name="cit_tof_sensor_check_summary">TOF값이 아래에 나타나야 합니다.</string>
     <string name="cit_tof_sensor_check_title">Tof센서</string>
-    <string name="cit_proximity_data_check_summary">근접 센서(수신기 근처에있는 휴대전화의 상단에 위치)를 손으로 덮은 다음 손을 멀리 움직입니다. 손을 멀리 떨어 뜨리면 값이 0.0에서 증가합니다 장치.
+    <string name="cit_proximity_data_check_summary">근접 센서(수신기 주변에있는 휴대전화의 상단에 위치)를 손으로 덮은 다음 손을 멀리 움직입니다. 손을 멀리 떨어 뜨리면 값이 0.0에서 증가합니다 장치.
 초음파 근접 센서 인 경우 테스트 도중 전화를받는 동작을 시뮬레이션하세요.</string>
     <string name="cit_tool_check_opt">확실하신가요?</string>
     <string name="cit_tool_check_opt_with_reboot">다시 시작됩니다. 확실하신가요?</string>

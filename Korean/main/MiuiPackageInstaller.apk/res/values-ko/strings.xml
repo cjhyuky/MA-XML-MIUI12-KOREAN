@@ -228,7 +228,7 @@
     <string name="miui_please_clear">바이러스 삭제</string>
     <string name="miui_privacy_relative">개인정보 보호</string>
     <string name="miui_recommend_clean">앱 데이터 삭제를 권장합니다.</string>
-    <string name="miui_recommend_clean_msg">"앱 데이터에는 이 앱에서 다운로드한 파일 등이 포함되어 있을 수도 있습니다."</string>
+    <string name="miui_recommend_clean_msg">"앱 데이터에 다운로드했던 파일 등이 포함되어 있을 수도 있습니다."</string>
     <string name="miui_security_relative">보안</string>
     <string name="miui_solution_clean">쓰레기 제거</string>
     <string name="miui_solution_msg">솔루션</string>

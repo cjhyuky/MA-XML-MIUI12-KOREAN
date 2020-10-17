@@ -54,7 +54,7 @@
     <string name="group_name_gallery">갤러리</string>
     <string name="group_name_more">기타</string>
     <string name="group_name_shop_info">정보</string>
-    <string name="group_name_shop_recommendation">근처</string>
+    <string name="group_name_shop_recommendation">주변</string>
     <string name="group_name_data_source">출처</string>
     <string name="group_name_management">관리</string>
     <string name="photo_count">총 %d개</string>
@@ -372,8 +372,8 @@
     <string name="homepage_barcode_prompt">스캔하여 홈페이지 열기</string>
     <string name="follow_label">%1$s 팔로우</string>
     <string name="follow_success">현재 %1$s 업체를 팔로우 중입니다.</string>
-    <string name="nearby_yellow_page_title">근처</string>
-    <string name="nearby_no_yellow_page">근처에 결과 없음</string>
+    <string name="nearby_yellow_page_title">주변</string>
+    <string name="nearby_no_yellow_page">주변에 결과 없음</string>
     <string name="nearby_average_price">평균 %dRMB</string>
     <string name="user_agreement2">" 이용 약관"</string>
     <string name="user_agreement4">개인정보 보호정책</string>

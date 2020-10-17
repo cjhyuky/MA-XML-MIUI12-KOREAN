@@ -1908,7 +1908,7 @@
     <string name="send_files_to">항목 보내기</string>
     <string name="throwing_print">인쇄</string>
     <string name="throwing_screen">화면 전송</string>
-    <string name="tips_prompt_enable_midrop">근처의 장치와 파일 공유</string>
+    <string name="tips_prompt_enable_midrop">주변의 장치와 파일 공유</string>
     <string name="unrecognized_manufacture">알 수 없음</string>
     <string name="unrecognized_model">알 수 없는 장치</string>
     <string name="cloud_privacy_with_ai_album">자동 백업 및 이미지 처리에 대한 개인정보 보호정책</string>
@@ -2574,13 +2574,13 @@
     <string name="loading_text_format" formatted="false">사진에서 개인정보 제거(%d/%d)…</string>
     <string name="online_video_error_unknown">온라인 재생 오류가 발생했습니다. 대신 항목을 다운로드했습니다.</string>
     <string name="online_video_error_unsupported_type">"온라인 플레이어는 이 형식을 지원하지 않습니다. 대신 항목을 다운로드했습니다."</string>
-    <string name="screen_editor_btn_shell_off">장치 프레임 제거</string>
-    <string name="screen_editor_btn_shell_on">장치 프레임 추가</string>
-    <string name="screen_editor_crop_disallowed_with_shell">"장치 프레임으로 스크린샷을자를 수 없습니다."</string>
-    <string name="screen_editor_shell_disallowed_with_crop">"자른 스크린샷에 장치 프레임을 추가할 수 없습니다."</string>
-    <string name="screen_editor_shell_net_error">장치 프레임을 다운로드하려면 네트워크에 연결하세요.</string>
-    <string name="screen_editor_shell_res_downloading">장치 프레임 다운로드 중…</string>
-    <string name="screen_editor_shell_storage_insufficient">"충분한 저장공간으로 인해 장치 프레임을 다운로드할 수 없습니다."</string>
+    <string name="screen_editor_btn_shell_off">기기 프레임 제거</string>
+    <string name="screen_editor_btn_shell_on">기기 프레임 추가</string>
+    <string name="screen_editor_crop_disallowed_with_shell">"기기 프레임으로 스크린샷을 자를 수 없습니다."</string>
+    <string name="screen_editor_shell_disallowed_with_crop">"자른 스크린샷에 기기 프레임을 추가할 수 없습니다."</string>
+    <string name="screen_editor_shell_net_error">기기 프레임을 다운로드하려면 네트워크에 연결하세요.</string>
+    <string name="screen_editor_shell_res_downloading">기기 프레임 다운로드 중…</string>
+    <string name="screen_editor_shell_storage_insufficient">"저장공간 부족으로 기기 프레임을 다운로드할 수 없습니다."</string>
     <string name="time_burst_photo_enter">타임 버스트 샷</string>
     <string name="time_burst_preview_title">타임 버스트 샷</string>
     <string name="cleaner_empty">모두 지우기</string>

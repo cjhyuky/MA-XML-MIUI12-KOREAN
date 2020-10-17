@@ -541,7 +541,7 @@
     <string name="ota_recovery_theme_notity_title">테마 복원</string>
     <string name="resource_incall_show_download">동영상 다운로드</string>
     <string name="super_wallpaper">슈퍼 월페이퍼</string>
-    <string name="theme_component_video_wallpaper">동적 배경화면</string>
+    <string name="theme_component_video_wallpaper">라이브 배경화면</string>
     <string name="theme_wallpaper">배경화면 카테고리</string>
     <string name="swipe_find_more">더 보려면 왼쪽으로 스와이프하세요.</string>
     <string name="date_picker_lunar">음력</string>
