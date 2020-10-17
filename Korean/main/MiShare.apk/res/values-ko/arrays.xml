@@ -12,6 +12,6 @@
         <item>파일 보내기 및 받기</item>
         <item>블루투스 및 Wi-Fi를 사용하여 파일을 전송하는 경우</item>
         <item>블루투스를 사용하여 주변에서 사용 가능한 기기를 찾는 경우</item>
-        <item>근처에서 사용 가능한 장치를 찾고 Wi-Fi를 사용하여 파일을 전송하는 경우</item>
+        <item>주변에서 사용 가능한 장치를 찾고 Wi-Fi를 사용하여 파일을 전송하는 경우</item>
     </string-array>
 </resources>

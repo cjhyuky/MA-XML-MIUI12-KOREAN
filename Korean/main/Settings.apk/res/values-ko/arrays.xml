@@ -1279,7 +1279,7 @@
         <item>수동</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
-        <item>임의의 MAC 사용(기본값)</item>
+        <item>무작위 MAC 사용</item>
         <item>기기 MAC 사용</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
