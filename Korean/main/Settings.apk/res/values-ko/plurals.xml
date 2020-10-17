@@ -496,4 +496,7 @@
     <plurals name="see_all_apps_title">
         <item quantity="other">모든 %1$d개 앱 보기</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">주변에서 저장된 네트워크를 발견하면 Wi-Fi를 켜고, %d분 동안 연결되지 않을 시 Wi-Fi를 끕니다.</item>
+    </plurals>
 </resources>
