@@ -1833,10 +1833,6 @@
     <string name="accessibility_preview_selected">이미 선택함</string>
     <string name="accessibility_preview_shrink">접기</string>
     <string name="accessibility_preview_zoom_tip">%1$.1f배 미리보기</string>
-    <string name="download_cancel_hint">%1$s 다운로드를 취소할까요?</string>
-    <string name="download_confirm">다운로드</string>
-    <string name="download_hint">현재 Wi-Fi 환경이 아닙니다. 모바일 데이터를 약 %1$sMB 사용합니다. 그래도 다운로드할까요?</string>
-    <string name="download_title">데이터 경고</string>
     <string name="film_landscape_timefreeze_hint">가로 촬영만 지원합니다.</string>
     <string name="film_timefreeze_hint">휴대전화를 움직이지 마세요. %ds</string>
     <string name="live_draft_continue">촬영 계속</string>
@@ -1848,12 +1844,10 @@
     <string name="live_workspace_title_edit">삭제할 항목을 선택하세요.</string>
     <string name="snap_cancel_draft">저장 안 함</string>
     <string name="update_hint">다운로드 버튼을 눌러 알고리즘을 업데이트하세요.</string>
-    <string name="update_loading">%1$s 다운로드됨</string>
-    <string name="update_start">%1$s 업데이트</string>
     <string name="download_cancel_hint">%1$s 다운로드를 취소할까요?</string>
     <string name="download_confirm">다운로드</string>
-    <string name="download_hint">항목 다운로드를 위해 %1$sMB의 모바일 데이터를 사용합니다. 그래도 다운로드할까요?</string>
-    <string name="download_title">데이터 사용량 경고</string>
+    <string name="download_hint">모바일 데이터 %1$sMB를 사용하여 항목을 다운로드합니다. 계속할까요?</string>
+    <string name="download_title">데이터 사용 경고</string>
     <string name="update_loading">%1$s 다운로드됨</string>
     <string name="update_start">%1$s 업데이트</string>
     <string name="color_effect_entry_blackgold_describe">필터 소개</string>

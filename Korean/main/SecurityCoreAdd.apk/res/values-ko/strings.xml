@@ -269,7 +269,7 @@
     <string name="scanner_fingerprint_enter_second">"보조 공간 지문을 스캔하여
 잠금 화면에서 보조 공간 진입"</string>
     <string name="xspace_guide_title">듀얼 앱 생성</string>
-    <string name="xspace_guide_des">듀얼 앱으로 두 개의 계정을 동시에 쓸 수 있습니다.</string>
+    <string name="xspace_guide_des">듀얼 앱으로 두 개의 계정을 로그아웃 없이 동시에 쓸 수 있습니다.</string>
     <string name="xpsace_guide_button">듀얼 앱 써보기</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다.</string>
@@ -497,8 +497,8 @@
     <string name="xspace_settins">설정</string>
     <string name="xspace_guide_content_bound">사용 가능한 앱</string>
     <string name="xspace_guide_description">"다른 계정을 쓸 때는
-앱도 따로 쓸 수 있어야죠."</string>
-    <string name="xspace_install_complete">&lt;font>생성 완료. &lt;/font>&lt;font color=#0D84FF>바로 실행&lt;/font>.</string>
+앱도 따로 쓰세요."</string>
+    <string name="xspace_install_complete">&lt;font>듀얼 앱이 생성되었습니다. &lt;/font>&lt;font color=#0D84FF>바로 실행&lt;/font></string>
     <string name="xspace_notification_button">써보기</string>
     <string name="xspace_start">생성</string>
 </resources>
