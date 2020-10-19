@@ -203,4 +203,12 @@
     <string name="sure_give_up_test">&quot;지금 측정을 중단하면 다음 측정 시에는 처음부터 다시 시작해야 합니다. 그래도 중단하시겠습니까?&quot;</string>
     <string name="sure_to_back">변경사항을 저장하지 않으시겠습니까?</string>
     <string name="third_note">조용한 장소로 이동하세요.</string>
+    <string name="choose_bluetooth_device">기기 선택</string>
+    <string name="end_wireless_transmission">전송 중단</string>
+    <string name="switch_bluetooth_device">기기 전환</string>
+    <string name="wireless_transmission">무선 전송</string>
+    <string name="wireless_transmission_cancel">취소</string>
+    <string name="wireless_transmission_confirm">지금 열기</string>
+    <string name="wireless_transmission_definition">휴대전화 마이크로 수집된 소리가 블루투스 기기로 전송되어 재생됩니다.</string>
+    <string name="wireless_transmission_prompt">무선 소리 전송을 사용하려면 블루투스를 켜야합니다. 지금 켤까요?</string>
 </resources>

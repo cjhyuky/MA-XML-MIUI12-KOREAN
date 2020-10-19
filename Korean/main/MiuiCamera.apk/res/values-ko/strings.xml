@@ -1848,7 +1848,7 @@
     <string name="download_confirm">다운로드</string>
     <string name="download_hint">모바일 데이터 %1$sMB를 사용하여 항목을 다운로드합니다. 계속할까요?</string>
     <string name="download_title">데이터 사용 경고</string>
-    <string name="update_loading">%1$s 다운로드됨</string>
+    <string name="update_loading">%1$d%% 다운로드됨</string>
     <string name="update_start">%1$s 업데이트</string>
     <string name="color_effect_entry_blackgold_describe">필터 소개</string>
     <string name="color_effect_entry_new_1_describe">필터 소개</string>
