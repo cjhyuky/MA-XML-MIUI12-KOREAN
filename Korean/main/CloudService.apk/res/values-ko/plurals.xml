@@ -78,4 +78,16 @@
     <plurals name="cloud_space_full_gallery_notification_content_title">
         <item quantity="other">"%s개 항목 동기화 불가"</item>
     </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">%d명이 초대를 수락했습니다.</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s일</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s시간</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s분</item>
+    </plurals>
 </resources>
