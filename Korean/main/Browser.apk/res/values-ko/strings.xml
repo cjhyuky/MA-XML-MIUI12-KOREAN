@@ -1167,6 +1167,7 @@
     <string name="search_easou">Easou</string>
     <string name="search_google">Google</string>
     <string name="search_hint">검색</string>
+	<string name="search_history">검색 기록</string>
     <string name="search_keyword_browser">브라우저</string>
     <string name="search_label">설정</string>
     <string name="search_menu_title">검색</string>
