@@ -97,8 +97,6 @@
     <string name="operation_share_manage">공유 항목 관리</string>
 	<string name="operation_sort">정렬</string>
     <string name="operation_video_compress">동영상 압축</string>
-    <string name="oppo">오포</string>
-    <string name="oppo_phone">오포</string>
     <string name="other_album_operation_move_to_rubbish_albums">휴지통으로 이동</string>
     <string name="other_album_operation_remove_from_other_albums">제거</string>
     <string name="permission_storage_name">저장소</string>
@@ -322,7 +320,7 @@
     <string name="vlog_filter_xiayang">한여름</string>
     <string name="vlog_filter_zhaomu">일몰</string>
     <string name="vlog_float_view_ratio">종횡비</string>
-    <string name="vlog_load_data_fail">"데이터를로드 할 수 없습니다."</string>
+    <string name="vlog_load_data_fail">"데이터를 불러올 수 없습니다."</string>
     <string name="vlog_mi_clip">동영상 편집기</string>
     <string name="vlog_nav_title_audio">사운드 트랙</string>
     <string name="vlog_nav_title_caption">자막</string>
@@ -336,7 +334,7 @@
     <string name="vlog_ratio_fullsize">전체 화면</string>
     <string name="vlog_ratio_original">원본</string>
     <string name="vlog_reverse_dialog_cancel">반전 취소</string>
-    <string name="vlog_reverse_dialog_msg">재생 반전중…</string>
+    <string name="vlog_reverse_dialog_msg">재생 반전 중…</string>
     <string name="vlog_reverse_fail">"반전할 수 없습니다."</string>
     <string name="vlog_save_failed">"동영상을 저장할 수 없습니다."</string>
     <string name="vlog_save_stop_tips">다시 누르면 저장을 취소합니다.</string>

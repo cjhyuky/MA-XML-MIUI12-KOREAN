@@ -1157,4 +1157,5 @@
     <string name="pref_summary_ad_mms_recognition">광고 메시지를 별개의 탭에 표시합니다.</string>
     <string name="pref_summary_collapse_ad_notification_mms_new">광고 메시지를 묶고 알림 창에서 중요도 낮음으로 표시합니다.</string>
     <string name="pref_title_ad_mms_recognition">광고 메시지 인식</string>
+    <string name="go_to">"다음으로 열기 "</string>
 </resources>

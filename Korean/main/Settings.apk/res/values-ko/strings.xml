@@ -6617,7 +6617,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">개별 앱</string>
     <string name="screen_dark_mode_smart_dark_summary">타사 앱에도 다크 모드를 적용합니다. 일부 앱은 제대로 표시되지 않을 수 있습니다.</string>
     <string name="screen_dark_mode_smart_dark_title">글로벌 다크 모드</string>
-    <string name="screen_dark_mode_time_title">스케줄</string>
+    <string name="screen_dark_mode_time_title">예약 다크 모드</string>
     <string name="screen_effect">색상 구성</string>
     <string name="screen_fps_summary">재생 빈도가 높을수록 사진이 더 매끄럽고 재생 빈도가 낮으면 배터리가 절약됩니다.</string>
     <string name="screen_fps_summary_power_save">재생 빈도를 고정하여 배터리를 절약합니다.</string>
@@ -10261,4 +10261,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="usb_use_file_transfers_miui12_5">파일 전송</string>
     <string name="usb_use_miui12_5">USB 연결</string>
     <string name="usb_use_photo_transfers_miui12_5">사진 전송</string>
+    <string name="dark_mode_apps_header">개별 앱</string>
+    <string name="dark_mode_font_background_title">글자 및 배경 자동 조정</string>
+    <string name="exterior">색상표</string>
+    <string name="light_color_mode">라이트 모드</string>
+    <string name="more_dark_mode_settings">다크 모드 옵션 더보기</string>
 </resources>
