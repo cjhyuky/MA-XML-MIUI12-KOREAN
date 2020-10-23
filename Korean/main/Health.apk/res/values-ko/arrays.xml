@@ -106,13 +106,13 @@
         <item>" 파운드"</item>
     </string-array>
      <string-array name="HomePageTabTitle">
-         <item>운동</item>
          <item>건강</item>
+         <item>운동</item>
      </string-array>
      <string-array name="SportTabTitle">
-         <item>야외 달리기</item>
+         <item>뛰기</item>
          <item>걷기</item>
-         <item>야외 라이딩</item>
+         <item>자전거타기</item>
          <item>러닝 머신</item>
      </string-array>
 </resources>
