@@ -2853,4 +2853,5 @@
     <string name="fiveg_network_mode_sa_nsa">SA+NSA 모드</string>
     <string name="fiveg_network_mode_title">5G 네트워크 모드 선택</string>
     <string name="fiveg_sa_vice_switch_title">바이스 카드 SA 모드</string>
+    <string name="preference_countrycode_title">국가 코드</string>
 </resources>
