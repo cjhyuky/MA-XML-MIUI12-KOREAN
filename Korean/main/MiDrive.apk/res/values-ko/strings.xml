@@ -26,7 +26,6 @@
     <string name="delete_files">%1$d 파일을 삭제하시겠습니까?</string>
     <string name="delete_folder">이 폴더를 삭제하시겠습니까?</string>
     <string name="delete_folders">%1$d개의 폴더를 삭제하시겠습니까?</string>
-    <string name="delete_success">파일 삭제됨</string>
     <string name="download_failed">"다운받을 수 없음"</string>
     <string name="downloading">다운로드 중</string>
     <string name="downloading_in_3g">3G 인터넷망을 사용해 다운로드 중…</string>
@@ -113,8 +112,7 @@
     <string name="operation_renaming">남음…</string>
     <string name="operation_resume">시작</string>
     <string name="operation_resume_all">다시 재게</string>
-    <string name="operation_save">전송</string>
-    <string name="operation_send">저장</string>
+    <string name="operation_send">전송</string>
     <string name="operation_task_manage">전송 보기</string>
     <string name="operation_upload">업로드</string>
     <string name="paused">중단됨</string>
