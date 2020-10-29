@@ -137,11 +137,9 @@
     </plurals>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%2$s님 외 %1$d개의 통화 차단됨</item>
-        <item quantity="one">%2$s님 외 %1$d개의 통화 차단됨</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">
         <item quantity="other">%2$s님 외 %1$d개의 통화</item>
-        <item quantity="one">%2$s님 외 %1$d개의 통화</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d개 메시지</item>
@@ -469,6 +467,25 @@
         <item quantity="other">%s개 앱을 앱 잠금으로 보호합니다.</item>
     </plurals>
     <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">&lt;Data>&lt;font color=#0099ff>%d&lt;/font>개의 앱을 종료하여 기기의 속도를 향상시킬까요?&lt;/Data></item>
+        <item quantity="other"><Data>&lt;font color=#0099ff>%d&lt;/font>개의 앱을 종료하여 기기의 속도를 향상시킬까요?</Data></item>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"무료 체험 %d일을 받을 수 없습니다."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">"무료 체험 %d일을 받았습니다."</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">무료 체험 %d일 받기</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"구독이 만료되었습니다.
+%d일의 무료 체험을 받을 수 있습니다!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">무료 체험 %d일 받기</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">설치 패키지 %d개 삭제</item>
+    </plurals>
     </plurals>
 </resources>

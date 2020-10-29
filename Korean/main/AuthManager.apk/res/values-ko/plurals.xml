@@ -13,15 +13,15 @@
         <item quantity="other">%s초</item>
     </plurals>
     <plurals name="clipboard_ai_allow_more">
-        <item quantity="other">%1$s 앱의 클립보드 조회를 자동으로 %2$d번 허용했습니다.</item>
+        <item quantity="other">%1$s의 클립보드 접근을 자동으로 %2$d번 허용했습니다.</item>
     </plurals>
     <plurals name="clipboard_read_allow_more">
-        <item quantity="other">%1$s 앱이 클립보드를 %2$d번 읽었습니다.</item>
+        <item quantity="other">%1$s이(가) 클립보드에 %2$d번 접근했습니다.</item>
     </plurals>
     <plurals name="perm_manager_suggest_allow_content">
-        <item quantity="other">"%2$s 앱의 클립보드 조회를 연속으로 %1$d번 "허용"했습니다. %3$s 권한을 "항상 허용"으로 설정한 것이 맞나요?"</item>
+        <item quantity="other">"%2$s의 클립보드 접근을 이미 %1$d번 허용했습니다. %3$s의 클립보드 접근을 항상 허용할까요?"</item>
     </plurals>
     <plurals name="perm_manager_suggest_deny_content">
-        <item quantity="other">"%2$s 앱의 클립보드 조회를 연속으로 %1$d번 "거부"했습니다. %3$s 권한을 "거부"로 설정한 것이 맞나요?"</item>
+        <item quantity="other">"%2$s의 클립보드 접근을 이미 %1$d번 거부했습니다. %3$s의 클립보드 접근을 항상 거부할까요?"</item>
     </plurals>
 </resources>
