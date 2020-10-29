@@ -64,10 +64,10 @@
 
  장치를 활성화할 수 없습니까?
  i.mi.com으로 이동하여 신청서를 제출하고 장치를 잠금해제하세요."</string>
-    <string name="passport_vcode_prompt_long">인증 코드 입력</string>
+    <string name="passport_vcode_prompt_long">인증번호 입력</string>
     <string name="passport_trust_device">이 기기를 신뢰합니다.</string>
     <string name="passport_verify">인증</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력</string>
+    <string name="passport_error_empty_vcode">인증번호 입력</string>
     <string name="passport_checking_vcode">비밀번호 확인 중…</string>
     <string name="unlock_error_wrong_vcode">입력한 코드가 올바르지 않습니다.</string>
     <string name="passport_notification_processing">처리 중…</string>

@@ -26,11 +26,11 @@
     <string name="passport_reg_success_summary">%1$s 항목이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_re_register">다시 회원 가입</string>
     <string name="passport_register">계정 만들기</string>
-    <string name="passport_vcode_sms_send_prompt">%s(으)로 인증 코드 전송</string>
+    <string name="passport_vcode_sms_send_prompt">%s(으)로 인증번호 전송</string>
     <string name="passport_get_verify_code">코드 가져오기</string>
     <string name="passport_re_get_verify_code">코드 다시 가져오기</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
-    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증번호를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
     <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 휴대전화가 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
@@ -84,9 +84,9 @@
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_input_password_hint">비밀번호 입력</string>
     <string name="passport_input_captcha_hint">코드 입력</string>
-    <string name="passport_input_vcode_hint">인증 코드 입력</string>
+    <string name="passport_input_vcode_hint">인증번호 입력</string>
     <string name="passport_email">이메일 주소</string>
-    <string name="passport_vcode_prompt_long">인증 코드를 입력하세요.</string>
+    <string name="passport_vcode_prompt_long">인증번호를 입력하세요.</string>
     <string name="passport_input_phone_hint">전화번호 입력</string>
     <string name="passport_error_empty_username">계정 ID를 입력하세요.</string>
     <string name="passport_error_invalid_phone_num">잘못된 전화번호</string>
@@ -97,7 +97,7 @@
     <string name="passport_error_empty_pwd">비밀번호 입력</string>
     <string name="passport_error_illegal_pwd">잘못된 비밀번호</string>
     <string name="passport_error_empty_captcha_code">passport_captcha 코드 입력</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력</string>
+    <string name="passport_error_empty_vcode">인증번호 입력</string>
     <string name="passport_i_know">알겠습니다.</string>
     <string name="passport_retry">다시 시도</string>
     <string name="passport_back">뒤로</string>
@@ -113,7 +113,7 @@
     <string name="passport_activing_account">활성화 중…</string>
     <string name="passport_pwd_generating">생성 중…</string>
     <string name="passport_setting">설정 중…</string>
-    <string name="passport_trying_read_verify_code_sms">인증 코드 얻는 중…</string>
+    <string name="passport_trying_read_verify_code_sms">인증번호 얻는 중…</string>
     <string name="passport_area_code_title">국가 코드</string>
     <string name="passport_area_code_hot">자주 사용됨</string>
     <string name="passport_user_agreement_p1">동의: </string>
@@ -127,7 +127,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_verification_failed">인증 실패</string>
     <string name="passport_reset_fail_title">초기화하지 못했습니다.</string>
-    <string name="passport_identitfication_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
+    <string name="passport_identitfication_expired">인증번호가 만료되었습니다. 다시 시작하세요.</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
     <string name="passport_access_denied">접근 거부됨</string>
@@ -148,7 +148,7 @@
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
     <string name="passport_copy_message_text_success">복사 완료</string>
     <string name="passport_copy_message_vcode">복사 코드</string>
-    <string name="passport_message_dialog_title">SMS 인증 코드</string>
+    <string name="passport_message_dialog_title">SMS 인증번호</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
     <string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하세요.</string>
     <string name="mibi_app_name">Mi 크레딧</string>
@@ -414,12 +414,12 @@
     <string name="mibi_signing_pay_group_title">구입 방법 선택</string>
     <string name="mibi_signing_success_sub">갱신가능 지불은 %1$s를 사용하여 이루어집니다.</string>
     <string name="mibi_signing_success_title">선택 완료</string>
-    <string name="mibi_sms_code_empty">휴대전화로 전송된 인증 코드를 입력하세요.</string>
-    <string name="mibi_sms_code_error">휴대전화 인증 코드 오류, 재요청하세요.</string>
-    <string name="mibi_sms_code_hint">3 ~ 6 자리 인증 코드를 입력하세요.</string>
+    <string name="mibi_sms_code_empty">휴대전화로 전송된 인증번호를 입력하세요.</string>
+    <string name="mibi_sms_code_error">휴대전화 인증번호 오류, 재요청하세요.</string>
+    <string name="mibi_sms_code_hint">3 ~ 6 자리 인증번호를 입력하세요.</string>
     <string name="mibi_summary_bind_phone">계정의 안전을 위해 휴대전화 동기화 후 결제하세요.</string>
     <string name="mibi_summary_custom_service_phone">전화번호:</string>
-    <string name="mibi_summary_sms_code">%1$s 로 전송된 인증 코드를 입력하세요，그러면 결제가 완료됩니다.</string>
+    <string name="mibi_summary_sms_code">%1$s 로 전송된 인증번호를 입력하세요，그러면 결제가 완료됩니다.</string>
     <string name="mibi_tianyi_create_order">China Unicom 문자</string>
     <string name="mibi_title_bind_phone">휴대전화 번호 동기화</string>
     <string name="mibi_title_custom_service_phone">고객센터 연락하기</string>
@@ -429,7 +429,7 @@
     <string name="mibi_title_nopassword_dialog">일일한도</string>
     <string name="mibi_title_password">비밀번호</string>
     <string name="mibi_title_password_threshold">일일한도 = ￥%1$s</string>
-    <string name="mibi_title_sms_code">휴대전화 인증 코드를 입력하세요.</string>
+    <string name="mibi_title_sms_code">휴대전화 인증번호를 입력하세요.</string>
     <string name="mibi_unit">Mi 크레딧</string>
     <string name="mibi_voucher_card_text">코트를 긁어주세요.</string>
     <string name="mibi_voucher_error_password">잘못된 코드.</string>
@@ -482,7 +482,7 @@
     <string name="passport_error_verify_activator_phone_message">귀하의 SIM 카드 서비스가 활성화되어있고 기기가 네트워크에 연결되어 있는지 확인하세요.</string>
     <string name="passport_error_verify_activator_phone_title">"전화번호를 인증할 수 없음"</string>
     <string name="passport_getting_activator_phone">SIM 정보 얻는중…</string>
-    <string name="passport_identification_expired">인증 코드가 만료됨, 처음부터 다시 시작하세요.</string>
+    <string name="passport_identification_expired">인증번호가 만료됨, 처음부터 다시 시작하세요.</string>
     <string name="passport_login_other_account">다른 계정</string>
     <string name="passport_login_recycle_account_no">없음</string>
     <string name="passport_login_recycle_account_yes">네</string>

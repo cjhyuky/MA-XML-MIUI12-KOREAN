@@ -335,7 +335,7 @@
     <string name="passport_error_empty_phone_num">전화번호를 입력하세요.</string>
     <string name="passport_error_empty_pwd">비밀번호를 입력하세요.</string>
     <string name="passport_error_empty_username">계정 ID를 입력하세요.</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력하세요.</string>
+    <string name="passport_error_empty_vcode">인증번호 입력하세요.</string>
     <string name="passport_error_illegal_pwd">잘못된 비밀번호</string>
     <string name="passport_error_invalid_dev_id">기기의 ID가 잘못되었습니다.</string>
     <string name="passport_error_invalid_phone_num">유효하지 않은 전화번호</string>
@@ -355,14 +355,14 @@
     <string name="passport_get_verify_code">코드 얻기</string>
     <string name="passport_getting_verify_code">방법</string>
     <string name="passport_i_know">확인</string>
-    <string name="passport_identitfication_expired">인증 코드가 만료되었습니다. 다시 시작합니다.</string>
+    <string name="passport_identitfication_expired">인증번호가 만료되었습니다. 다시 시작합니다.</string>
     <string name="passport_imei_permission_denied_message">기기의 IMEI 권한을 요청하고 있습니다. Mi 계정은 IMEI를 사용하여 로그인/가입하는 기기를 식별하여 Mi 계정을 안전하게 유지합니다.</string>
     <string name="passport_imei_permission_denied_title">IMEI 권한 요청</string>
     <string name="passport_input_captcha_hint">코드를 입력하세요.</string>
     <string name="passport_input_password_for_login">이 번호는 기존 계정과 연결되어 있으며 비밀번호를 입력하세요.</string>
     <string name="passport_input_password_hint">비밀번호를 입력하세요.</string>
     <string name="passport_input_phone_hint">전화번호를 입력하세요.</string>
-    <string name="passport_input_vcode_hint">인증 코드를 입력하세요.</string>
+    <string name="passport_input_vcode_hint">인증번호를 입력하세요.</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. 이 페이지는 %s 에서 확인할 수 있습니다.</string>
     <string name="passport_loading">불러오는 중…</string>
     <string name="passport_login">로그인</string>
@@ -421,7 +421,7 @@
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_retry">다시 시도하세요.</string>
     <string name="passport_select_reg_ways_title">가입하는 다른 방법들</string>
-    <string name="passport_send_too_many_code">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 전송된 인증번호가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_setting">설정…</string>
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_skip_register">가입 건너뛰기</string>
@@ -429,7 +429,7 @@
     <string name="passport_skip_setup_account_title">설정 건너뛰기</string>
     <string name="passport_title_reg">계정 만들기</string>
     <string name="passport_trust_device">확인된 기기에이 기기 추가</string>
-    <string name="passport_trying_read_verify_code_sms">인증 코드 받기…</string>
+    <string name="passport_trying_read_verify_code_sms">인증번호 받기…</string>
     <string name="passport_uplink_reg">전화번호 사용</string>
     <string name="passport_uplink_slot1_reg">SIM 1 사용</string>
     <string name="passport_uplink_slot2_reg">SIM 2 사용</string>
@@ -441,8 +441,8 @@
     <string name="passport_user_agreement_p3">와</string>
     <string name="passport_user_agreement_p4">개인정보 정책</string>
     <string name="passport_vcode_notification_title">로그인 확인이 완료되지 않았습니다.</string>
-    <string name="passport_vcode_prompt_long">인증 코드 입력</string>
-    <string name="passport_vcode_sms_send_prompt">에 인증 코드 보내기 %s</string>
+    <string name="passport_vcode_prompt_long">인증번호 입력</string>
+    <string name="passport_vcode_sms_send_prompt">에 인증번호 보내기 %s</string>
     <string name="passport_verification_failed">인증 실패</string>
     <string name="passport_verify">확인</string>
     <string name="passport_wait_for_sms_prompt">지금부터 시작하시겠습니까? 휴대전화가 이동통신사의 네트워크 범위 내에있을 때 확인 메시지가 배달되는 데 10분 정도 걸릴 수 있습니다.</string>

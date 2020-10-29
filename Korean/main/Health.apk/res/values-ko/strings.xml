@@ -1277,7 +1277,7 @@
     <string name="tb_blood_pressure_wm_card">평균 수축기 압력 : %1$d 수은 밀리미터. 평균 이완기 압력 : 수은 %2$d 밀리미터. 최고 수축기 압력 : %3$d 수은 밀리미터. 최고 이완기 혈압 : %4$d 수은 밀리미터. 최저 수축기 압력 : %5$d 수은 밀리미터. 최저 이완기 압력 : %6$d 밀리미터 수은.</string>
     <string name="accessibility_add_datasource">탭하여 %1$s 추가</string>
     <string name="accessibility_sync_closed_device">%1$s 동기화 꺼짐</string>
-    <string name="accessibility_unbound_device">%1$s(이)가 더 이상 계정과 연동되지 않습니다.</string>
+    <string name="accessibility_unbound_device">%1$s이(가) 더 이상 계정과 연동되지 않습니다.</string>
     <string name="acting">힘</string>
     <string name="add_data_source_process">데이터 출처 추가 방법</string>
     <string name="add_data_type_datasource">데이터 출처 추가 (%1$s)</string>

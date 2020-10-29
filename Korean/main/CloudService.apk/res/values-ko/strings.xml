@@ -807,7 +807,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
 &amp;#8226; 저장공간:
 기기에 항목 저장용(예. 사진, 영상, 노래)
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name = "priv_doc_finddevice_pad">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -818,7 +818,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="priv_doc_finddevice_phone">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -829,7 +829,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="priv_doc_finddevice_with_telephony_feature_pad">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -840,7 +840,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="priv_doc_finddevice_with_telephony_feature_phone">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -851,7 +851,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">"기기 찾기에 오신것을 환영합니다! 기기를 잃어버린 경우 이 서비스를 사용하여 장치를 찾거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
@@ -876,7 +876,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 저장공간:
 기기에 항목 저장용(예. 사진, 영상, 노래)
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name = "privacy_doc_finddevice_pad">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -887,7 +887,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="privacy_doc_finddevice_phone">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -898,7 +898,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -909,7 +909,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_phone">"기기찾기에 오신것을 환영합니다! 기기를 잃어버리신 경우 이 서비스를 사용하여 장치의 위치를 찾거나 장치를 잠그거나 장치의 데이터를 삭제할 수 있습니다. "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;"으로 이동하여 장치를 찾거나 잠그거나 초기화하세요.
 
@@ -920,7 +920,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 &amp;#8226; 위치:
 기기를 찾고 분실 모드로 전환
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이러한 서비스를 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그아웃하거나 권한을 제한하도록 선택할 수 있습니다.
-기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 읽고 동의하세요.
+기기 찾기를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; 이용 약관 &lt;/a&gt;&lt;/u&gt;nd &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; 개인정보 보호정책 b&lt;/a&gt;&lt;/u&gt;"을 숙지하였으며 이에 동의합니다.
 "</string>
     <string name="privacy_and_agreement">약관 및 조건</string>
     <string name="pre_privacy_policy">개인정보 보호정책</string>
@@ -995,14 +995,14 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
 네트워크 연결 불량 시 위치 정보가 전송되지 않을 수도 있습니다."</string>
     <string name="power_off_locate_title">전원 끄기 전 위치 전송</string>
     <string name="cloud_space_full_gallery_notification_content_text">클라우드 저장소 용량을 추가하려면 요금제를 업그레이드하세요.</string>
-    <string name="cta_notification_content_text">%s(이)가 항목을 복원할 수 있도록 인터넷 연결을 허용하세요.</string>
+    <string name="cta_notification_content_text">%s이(가) 항목을 복원할 수 있도록 인터넷 연결을 허용하세요.</string>
     <string name="cta_notification_content_title">"%s 항목 복원 불가"</string>
     <string name="micloud_manual_request_permission_cancel">취소</string>
     <string name="micloud_manual_request_permission_confirm">설정</string>
     <string name="micloud_manual_request_permission_content">이 서비스를 이용하려면, 설정에서 Xiaomi 클라우드에 다음 권한을 부여하세요: \"%s\".</string>
     <string name="micloud_manual_request_permission_content_on_provision">먼저 보안 앱에서 필요한 권한을 부여하세요.</string>
     <string name="micloud_manual_request_permission_title">필요한 권한</string>
-    <string name="privacy_doc_cloudservice_global">Xiaomi 클라우드를 정상적으로 실행하려면 인터넷에 연결해야 합니다. 데이터 동기화는 모바일 데이터를 사용하거나 Wi-Fi를 켜야 합니다. Xiaomi 클라우드 서비스를 이용하려면 &lt;a href=%1$s>&lt;u>이용 약관&lt;/u>&lt;/a> 및 &lt;a href=%2$s>&lt;u>개인정보 보호정책&lt;/u>&lt;/a>을 읽고 동의하세요.</string>
+    <string name="privacy_doc_cloudservice_global">Xiaomi 클라우드를 정상적으로 실행하려면 인터넷에 연결해야 합니다. 데이터 동기화는 모바일 데이터를 사용하거나 Wi-Fi를 켜야 합니다. Xiaomi 클라우드 서비스를 이용하려면 &lt;a href=%1$s>&lt;u>이용 약관&lt;/u>&lt;/a> 및 &lt;a href=%2$s>&lt;u>개인정보 보호정책&lt;/u>&lt;/a>을 숙지하였으며 이에 동의합니다.</string>
     <string name="share_location_app_name">찾기</string>
     <string name="share_location_dialog_confirm">확인</string>
     <string name="share_location_dialog_content">이제 홈 화면 바로 가기를 사용하여 설정에 더 빠르게 액세스 할 수 있습니다.</string>
@@ -1073,7 +1073,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="share_sdk_pref_category_search_local_title">주소록</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">QR 코드 스캔</string>
     <string name="share_sdk_pref_family_detail_title">가족 구성원 정보 보기</string>
-    <string name="share_sdk_privacy_link_description">이 서비스를 이용하려면 <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Mi 계정 개인정보 보호정책</u></a>을 읽고 동의하세요.</string>
+    <string name="share_sdk_privacy_link_description">이 서비스를 이용하려면 <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Mi 계정 개인정보 보호정책</u></a>을 숙지하였으며 이에 동의합니다.</string>
     <string name="share_sdk_qr_code_description">"%1$s님의 초대장"</string>
     <string name="share_sdk_qr_code_expire_time">QR 코드 유효 기간: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">초대장을 너무 많이 보냈습니다. 24시간 후 다시 시도하세요.</string>

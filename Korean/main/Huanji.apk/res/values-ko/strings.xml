@@ -96,7 +96,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="dialog_request_network_message">"Mi Mover에 오신 것을 환영합니다! 이 앱을 사용하여 기존 장치에서 새 장치로 데이터를 전송할 수 있습니다.
 당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. Mi Mover는 인터넷에 연결해야하며 개인정보를 수집하려면 Wi-Fi 켜기/끄기, 연락처 액세스 및 전송, 통화 기록, SMS, MMS, 통화 녹음 및 오디오 녹음과 같은 권한이 필요합니다."</string>
     <string name="guest_hint_connect_new_device">연결할 새 장치를 탭하세요.</string>
-    <string name="hsa_tip_message">"인증 코드를 받을 수 없다면 Apple기기에서 아이클라우드에 로그인했는지 확인하세요."</string>
+    <string name="hsa_tip_message">"인증번호를 받을 수 없다면 Apple기기에서 아이클라우드에 로그인했는지 확인하세요."</string>
     <string name="icloud_verify_tips">iOS 기기에서 허용을 탭하고 여기에 표시되는 코드를 입력하세요.</string>
     <string name="install_app_link_text">"이전 장치를 핫스팟에 연결할 수 없는 이유는 무엇입니까?"</string>
     <string name="main_chooser_item_android_mi">XiaoMi 휴대전화에서 가져오기</string>

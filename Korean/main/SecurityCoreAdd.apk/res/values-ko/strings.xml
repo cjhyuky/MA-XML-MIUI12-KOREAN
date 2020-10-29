@@ -419,7 +419,7 @@
     <string name="ent_activating">활성화 중...</string>
     <string name="ent_activation">활성화</string>
     <string name="ent_activation_hint">엔터프라이즈 모드를 활성화하려면 회사 코드를 라이센스 코드와 함께 입력하세요.</string>
-    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호정책을 읽고 동의하세요.</string>
+    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호정책을 숙지하였으며 이에 동의합니다.</string>
     <string name="ent_agency_code">회사 코드</string>
     <string name="ent_agency_code_hint">회사 코드 입력</string>
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>

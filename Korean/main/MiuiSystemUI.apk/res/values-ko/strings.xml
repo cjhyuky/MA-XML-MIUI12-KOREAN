@@ -290,7 +290,7 @@
     <string name="adb_qrcode_pairing_device_failed_msg">기기 연결에 실패했습니다. QR 코드가 올바르지 않거나 같은 네트워크에 연결되어있지 않습니다.</string>
     <string name="adb_warning_message">USB 디버깅은 개발 목적을 위한 모드입니다. 이 모드에서 PC와 기기 간에 데이터를 복사하고, 알림 없이 기기에 앱을 설치하며, 로그 데이터를 읽을 수 있습니다.</string>
     <string name="adb_warning_title">USB 디버깅을 허용할까요?</string>
-    <string name="adb_wireless_connection_failed_message">%1$s(이)가 현재 네트워크에 연결되어있어야 합니다.</string>
+    <string name="adb_wireless_connection_failed_message">%1$s이(가) 현재 네트워크에 연결되어있어야 합니다.</string>
     <string name="adb_wireless_connection_failed_title">연결 실패</string>
     <string name="adb_wireless_device_connected_summary">연결된 상태입니다.</string>
     <string name="adb_wireless_device_details_title">기기 정보</string>

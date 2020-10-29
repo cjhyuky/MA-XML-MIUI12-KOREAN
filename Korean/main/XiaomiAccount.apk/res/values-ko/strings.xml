@@ -36,11 +36,11 @@
     <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_re_register">다시 회원 가입</string>
     <string name="passport_register">계정 만들기</string>
-    <string name="passport_vcode_sms_send_prompt">%s 기기로 인증 코드 전송</string>
+    <string name="passport_vcode_sms_send_prompt">%s 기기로 인증번호 전송</string>
     <string name="passport_get_verify_code">코드 가져오기</string>
     <string name="passport_re_get_verify_code">코드 다시 가져오기</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
-    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증번호를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_restart_register_prompt">계정을 생성하려면 다른 인증 메시지가 필요합니다.</string>
     <string name="passport_wait_for_sms_prompt">지금 다시 시작하시겠습니까? 휴대전화가 통신사 네트워크의 범위 내에 있을 경우 인증 메시지 도착까지 약 10분 정도 걸릴 수 있습니다.</string>
@@ -96,9 +96,9 @@
     <string name="passport_phone_num_hint_text">전화번호</string>
     <string name="passport_input_password_hint">비밀번호 입력</string>
     <string name="passport_input_captcha_hint">코드 입력</string>
-    <string name="passport_input_vcode_hint">인증 코드 입력</string>
+    <string name="passport_input_vcode_hint">인증번호 입력</string>
     <string name="passport_email">이메일 주소</string>
-    <string name="passport_vcode_prompt_long">인증 코드를 입력하세요.</string>
+    <string name="passport_vcode_prompt_long">인증번호를 입력하세요.</string>
     <string name="passport_input_phone_hint">전화번호 입력</string>
     <string name="passport_error_empty_username">계정 ID를 입력하세요.</string>
     <string name="passport_error_invalid_phone_num">잘못된 전화번호</string>
@@ -109,7 +109,7 @@
     <string name="passport_error_empty_pwd">비밀번호 입력</string>
     <string name="passport_error_illegal_pwd">잘못된 비밀번호</string>
     <string name="passport_error_empty_captcha_code">캡차 코드를 입력</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력</string>
+    <string name="passport_error_empty_vcode">인증번호 입력</string>
     <string name="passport_i_know">알겠습니다.</string>
     <string name="passport_retry">다시 시도</string>
     <string name="passport_back">뒤로</string>
@@ -125,7 +125,7 @@
     <string name="passport_activing_account">활성화 중…</string>
     <string name="passport_pwd_generating">생성 중…</string>
     <string name="passport_setting">설정 중…</string>
-    <string name="passport_trying_read_verify_code_sms">인증 코드 얻는 중…</string>
+    <string name="passport_trying_read_verify_code_sms">인증번호 얻는 중…</string>
     <string name="passport_adding_account">계정 추가 중…</string>
     <string name="passport_sending_vcode">코드 전송 중…</string>
     <string name="passport_getting_activator_phone">SIM 정보를 가져오는 중…</string>
@@ -144,7 +144,7 @@
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
     <string name="passport_verification_failed">계정 인증 실패</string>
     <string name="passport_reset_fail_title">초기화하지 못했습니다.</string>
-    <string name="passport_identification_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
+    <string name="passport_identification_expired">인증번호가 만료되었습니다. 다시 시작하세요.</string>
     <string name="passport_bad_authentication">잘못된 사용자 이름 또는 비밀번호</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
     <string name="passport_access_denied">접근 거부됨</string>
@@ -166,7 +166,7 @@
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
     <string name="passport_copy_message_text_success">복사 완료</string>
     <string name="passport_copy_message_vcode">복사 코드</string>
-    <string name="passport_message_dialog_title">SMS 인증 코드</string>
+    <string name="passport_message_dialog_title">SMS 인증번호</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
     <string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하세요.</string>
     <string name="passport_quick_register_notice"><u>Mi 계정이 없으신가요? 생성해보세요.</u></string>
@@ -276,7 +276,7 @@
     <string name="failed_dup_secure_phone_number">이 전화번호는 이미 다른 Mi 계정과 연결되어 있습니다.</string>
     <string name="confirm_phone_number_dialog_title">전화번호 확인</string>
     <string name="confirm_bundled_phone_dialog_title">연관된 전화번호 승인</string>
-    <string name="confirm_phone_number_dialog_message">인증 코드가 %s(으)로 전송됩니다.</string>
+    <string name="confirm_phone_number_dialog_message">인증번호가 %s(으)로 전송됩니다.</string>
     <string name="confirm_unbundled_phone_dialog_message">전화번호 %1$s 번호는 Mi 계정 %2$s으로 연결되어 있습니다. 계속하시면 Mi 계정 %3$s 계정과의 연결이 해제됩니다. 계속하시겠습니까?</string>
     <string name="change_phone_number">전화번호 변경</string>
     <string name="change_email_address">이메일 주소 변경</string>
@@ -294,7 +294,7 @@
     <string name="error_invalid_bind_address">입력한 이메일 주소가 올바르지 않습니다.</string>
     <string name="get_phone_bind_exceed_limit">한 개의 전화번호로 최대 3개의 Mi 계정을 연결할 수 있습니다. 새로운 계정을 추가할 수 없습니다.</string>
     <string name="just_a_second">잠시 기다려 주세요…</string>
-    <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증번호가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="mi_account_identity_title">ID 확인</string>
     <string name="exceed_binded_phone_times_notice">이 전화번호는 이미 다른 Mi 계정과 연결되어 있습니다.</string>
     <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 됩니다.</string>
@@ -403,9 +403,9 @@
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> 다음의 권한을 가집니다:&lt;br> &lt;br> %3$s</string>
     <string name="guest_account_label">Mi 게스트 계정</string>
     <string name="push_notification_title">사용자의 Mi 계정이 알 수 없는 기기에서 로그인되었습니다.</string>
-    <string name="push_notification_content">인증 코드 얻기</string>
+    <string name="push_notification_content">인증번호 얻기</string>
     <string name="push_notify_dialog_title">계정 인증</string>
-    <string name="push_notify_dialog_message">알 수 없는 기기가 사용자의 Mi 계정으로 로그인했습니다. 해당 기기에서 이 인증 코드를 입력하세요. 만약 본인이 아니라면, Mi 계정 비밀번호를 당장 변경하세요. 인증 코드를 다른 사람에게 노출하면 안됩니다.</string>
+    <string name="push_notify_dialog_message">알 수 없는 기기가 사용자의 Mi 계정으로 로그인했습니다. 해당 기기에서 이 인증번호를 입력하세요. 만약 본인이 아니라면, Mi 계정 비밀번호를 당장 변경하세요. 인증번호를 다른 사람에게 노출하면 안됩니다.</string>
     <string name="account_secure_info_pref_title">계정 정보</string>
     <string name="account_user_email">이메일 복구</string>
     <string name="account_user_phone">휴대전화 복구</string>
@@ -426,7 +426,7 @@
     <string name="mipay_indentity_done">완료</string>
     <string name="mipay_identitiy_no">아니요</string>
     <string name="account_token_expired_title">인증 실패</string>
-    <string name="account_token_expired_msg">"인증 코드 만료됨, 재로그인 또는 로그아웃하세요.
+    <string name="account_token_expired_msg">"인증번호 만료됨, 재로그인 또는 로그아웃하세요.
 귀하의 계정 ID: %s"</string>
     <string name="bind_safe_phone_msg">전화번호를 지금 추가하세요.</string>
     <string name="account_mibi_center">Mi 코인</string>
@@ -467,14 +467,14 @@
     <string name="sim_changed_notification_msg">탭하여 휴대전화 복구를 위한 보안을 강화하세요.</string>
     <string name="sim_changed_notification_title">휴대전화 번호가 변경되었나요?</string>
     <string name="passport_confirm_login">로그인</string>
-    <string name="passport_sms_verification_code_login">SMS 인증 코드 로그인</string>
+    <string name="passport_sms_verification_code_login">SMS 인증번호 로그인</string>
     <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
     <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
-    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증 코드, 보조 공간 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요.</string>
-    <string name="passport_talkback_image_captcha">이미지 인증 코드</string>
-    <string name="passport_talkback_switch_image_captcha">이미지 인증 코드로 전환</string>
-    <string name="passport_talkback_switch_voice_captcha">음성 인증 코드로 전환</string>
-    <string name="passport_talkback_voice_captcha">음성 인증 코드 듣기</string>
+    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증번호, 보조 공간 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요.</string>
+    <string name="passport_talkback_image_captcha">이미지 인증번호</string>
+    <string name="passport_talkback_switch_image_captcha">이미지 인증번호로 전환</string>
+    <string name="passport_talkback_switch_voice_captcha">음성 인증번호로 전환</string>
+    <string name="passport_talkback_voice_captcha">음성 인증번호 듣기</string>
     <string name="account_mibi_charge">Mi 크레딧 요금</string>
     <string name="passport_Resend">재전송</string>
     <string name="passport_btn_change_account">계정 변경</string>
@@ -514,7 +514,7 @@ ID:%s
     <string name="kr_permission_contacts_desc">연락처 정보를 조회합니다.</string>
     <string name="kr_permission_desc">필요한 권한</string>
     <string name="kr_permission_phone_desc">계정을 보호합니다.</string>
-    <string name="kr_permission_sms_desc">인증 코드를 자동으로 채웁니다.</string>
+    <string name="kr_permission_sms_desc">인증번호를 자동으로 채웁니다.</string>
     <string name="kr_permission_storage_desc">진단 정보를 저장합니다.</string>
     <string name="optional_permissions">선택적인 권한</string>
     <string name="passport_privacy_policy_required">개인정보 보호정책 (필수)</string>
@@ -572,7 +572,7 @@ ID:%s
     <string name="two_factor_auth_summary">"새 장치 또는 새 위치에서 로그인을 시도하면 연결된 다른 장치에서 이 메시지가 표시됩니다. 이러한 로그인 시도가 있는지 확인해야 합니다."</string>
     <string name="pwd_width_phone_number_or_mail_num">"비밀번호는 전화번호, 이메일 또는 Mi 계정 ID를 포함 할 수 없습니다."</string>
     <string name="risky_pwd_not_allow">"새 비밀번호가 안전하지 않습니다. 다른 비밀번호를 설정하세요."</string>
-    <string name="passport_can_not_receive_verification_code">"인증 코드를 받지 못하시나요?"</string>
+    <string name="passport_can_not_receive_verification_code">"인증번호를 받지 못하시나요?"</string>
     <string name="account_user_id_show">내 계정: %s</string>
     <string name="action_retry">다시 시도</string>
     <string name="cloud_description_closed">사용됨 | 동기화가 꺼져 있습니다.</string>

@@ -116,8 +116,8 @@
     <string name="cta_runtime_perm_desc_storage">표지 및 다운로드한 파일에 액세스하고 저장하기 위해 저장소에 액세스</string>
     <string name="cta_runtime_perm_desc_storage_single">표지 및 다운로드 한 파일에 액세스하고 저장하기 위해 저장소에 액세스</string>
     <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면이 앱을 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.</string>
-    <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 설정에서 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. FM 라디오를 사용하기 전에 우리의 &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;이용 약관&lt;/a&gt;&lt;/font&gt;과&lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;&lt;/font&gt;을 읽고 동의하세요.\"&lt;/Data&gt;</string>
-    <string name="declaration_main_content2_unloadable">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. FM 라디오를 사용하기 전에 우리의 &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;이용 약관&lt;/a&gt;&lt;/font&gt;과&lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;&lt;/font&gt;을 읽고 동의하세요.\"&lt;/Data&gt;</string>
+    <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 설정에서 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. FM 라디오를 사용하기 전에 우리의 &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;이용 약관&lt;/a&gt;&lt;/font&gt;과&lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;&lt;/font&gt;을 숙지하였으며 이에 동의합니다.\"&lt;/Data&gt;</string>
+    <string name="declaration_main_content2_unloadable">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. FM 라디오를 사용하기 전에 우리의 &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;이용 약관&lt;/a&gt;&lt;/font&gt;과&lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;&lt;/font&gt;을 숙지하였으며 이에 동의합니다.\"&lt;/Data&gt;</string>
     <string name="declaration_main_purpose">FM 라디오에 오신 것을 환영합니다! 이 앱을 사용하여 로컬 및 온라인 라디오 방송국에서 제공하는 프로그램을들을 수 있습니다.</string>
     <string name="declaration_runtime_perm_desc">장치를 식별하기 위해 장치 정보에 액세스\nMi 계정을 사용하여 로그인하기 위해 장치의 계정에 액세스\n표지 및 다운로드 한 파일에 액세스하고 저장하기 위해 저장소에 액세스</string>
     <string name="emotion">토크 라디오</string>
@@ -210,7 +210,7 @@ ID:%s
     <string name="for_diagnosis_usage_only">진단 목적으로만 이 정보 사용.</string>
     <string name="get_back_pwd">비밀번호 초기화</string>
     <string name="get_phone_bind_exceed_limit">한 개의 전화번호로 최대 3개의 Mi 계정을 연결할 수 있습니다. 새로운 계정을 추가할 수 없습니다.</string>
-    <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증번호가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="headline_shortcut_confirm">확인</string>
     <string name="headline_shortcut_message">한 번의 클릭으로 데스크톱 바로가기, 인기 뉴스에 헤드 라인 추가!</string>
     <string name="headline_shortcut_title">제목 바로가기 항목 듣기</string>
@@ -233,10 +233,10 @@ ID:%s
     <string name="passport_access_denied">접근 거부됨</string>
     <string name="passport_account_label">Mi 계정</string>
     <string name="passport_account_name">계정: %1$s</string>
-    <string name="passport_activate_token_expired">인증 코드가 만료되었습니다. 다시 시도하세요.</string>
+    <string name="passport_activate_token_expired">인증번호가 만료되었습니다. 다시 시도하세요.</string>
     <string name="passport_area_code_title">국가 코드</string>
     <string name="passport_barcode_add_account_prompt">계정에 연결하려면 로그인 후에 QR 코드를 다시 스캔하세요.</string>
-    <string name="passport_can_not_receive_verification_code">"인증 코드를 받지 못하시나요?"</string>
+    <string name="passport_can_not_receive_verification_code">"인증번호를 받지 못하시나요?"</string>
     <string name="passport_checking_account">비밀번호 확인 중…</string>
     <string name="passport_delete_account">로그아웃</string>
     <string name="passport_email">이메일 주소</string>
@@ -247,7 +247,7 @@ ID:%s
     <string name="passport_error_empty_email">이메일 주소 입력</string>
     <string name="passport_error_empty_phone_num">전화번호 입력</string>
     <string name="passport_error_empty_pwd">비밀번호 입력</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력</string>
+    <string name="passport_error_empty_vcode">인증번호 입력</string>
     <string name="passport_error_empty_voice_code">보안 문자 입력</string>
     <string name="passport_error_illegal_pwd">잘못된 비밀번호</string>
     <string name="passport_error_network">네트워크에 연결할 수 없습니다.</string>
@@ -259,11 +259,11 @@ ID:%s
     <string name="passport_forget_password"><u>비밀번호 찾기</u></string>
     <string name="passport_get_verify_code">코드 가져오기</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
-    <string name="passport_identification_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
+    <string name="passport_identification_expired">인증번호가 만료되었습니다. 다시 시작하세요.</string>
     <string name="passport_input_captcha_hint">코드 입력</string>
     <string name="passport_input_password_hint">비밀번호 입력</string>
     <string name="passport_input_phone_hint">전화번호 입력</string>
-    <string name="passport_input_vcode_hint">인증 코드 입력</string>
+    <string name="passport_input_vcode_hint">인증번호 입력</string>
     <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
     <string name="passport_input_voice_hint">음성 코드 입력</string>
     <string name="passport_international_phone_password_login_tip">(중국 이외의 사용자는 + [지역 코드] [전화번호]와 같은 형식으로 휴대전화 번호를 입력해야 합니다. 예 : +91 817282982)</string>
@@ -281,26 +281,26 @@ ID:%s
     <string name="passport_reging">계정 만드는 중…</string>
     <string name="passport_register_restricted">너무 많은 계정이 이 번호에 연결되었습니다. 다른 번호를 사용하세요.</string>
     <string name="passport_relogin_notice">다시 로그인해야 합니다.</string>
-    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증번호를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_sending_vcode">코드 전송 중…</string>
     <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_set_password_no_phone_msg">전화번호를 추가해 계정을 보호하세요.</string>
     <string name="passport_sms_phone_intro">코드를 %1$s(으)로 보냈습니다.</string>
-    <string name="passport_talkback_image_captcha">이미지 인증 코드</string>
-    <string name="passport_talkback_switch_image_captcha">이미지 인증 코드로 전환</string>
-    <string name="passport_talkback_switch_voice_captcha">음성 인증 코드로 전환</string>
-    <string name="passport_talkback_voice_captcha">음성 인증 코드 듣기</string>
+    <string name="passport_talkback_image_captcha">이미지 인증번호</string>
+    <string name="passport_talkback_switch_image_captcha">이미지 인증번호로 전환</string>
+    <string name="passport_talkback_switch_voice_captcha">음성 인증번호로 전환</string>
+    <string name="passport_talkback_voice_captcha">음성 인증번호 듣기</string>
     <string name="passport_timeout_network_error">네트워크 요청 시간이 초과되었습니다.</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
-    <string name="passport_trying_read_verify_code_sms">인증 코드 얻는 중…</string>
+    <string name="passport_trying_read_verify_code_sms">인증번호 얻는 중…</string>
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
     <string name="passport_user_agreement_link"><Data>"Xiaomi의 &lt;a href=%1$s>이용 약관&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의했습니다."</Data></string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Xiaomi의 &lt;a href=%1$s>이용 약관&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 문서를 읽었으며 이에 동의합니다.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"<Data>Xiaomi의 &lt;a href=%1$s>이용 약관&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 문서를 숙지하였으며 이에 동의합니다.</Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
     <string name="passport_vcode_notification_title">로그인 인증이 완료되지 않았습니다.</string>
-    <string name="passport_vcode_prompt_long">인증 코드를 입력하세요.</string>
-    <string name="passport_vcode_sms_send_prompt">%s 기기로 인증 코드 전송</string>
+    <string name="passport_vcode_prompt_long">인증번호를 입력하세요.</string>
+    <string name="passport_vcode_sms_send_prompt">%s 기기로 인증번호 전송</string>
     <string name="passport_verification_failed">계정 인증 실패</string>
     <string name="passport_verify">확인</string>
     <string name="passport_wechat_not_install">먼저 WeChat을 설치하세요.</string>

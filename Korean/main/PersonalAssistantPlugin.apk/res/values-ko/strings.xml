@@ -485,7 +485,7 @@
     <string name="mini_phone_no_hint">은행 전화번호</string>
     <string name="mini_quickpay_protocol">서비스 계약</string>
     <string name="mini_redo">다시 시도</string>
-    <string name="mini_safe_no">보안 코드</string>
+    <string name="mini_safe_no">인증번호</string>
     <string name="mini_safe_no_hint">카드 뒷면의 마지막 세 자리</string>
     <string name="mini_start_download">다운로드 시작...</string>
     <string name="mini_to_open">켜려면</string>

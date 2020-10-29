@@ -107,7 +107,7 @@
     <string name="notify_connected_message">이 PC를 통해 휴대전화와 파일을 주고 받거나 상호작용할 수 있습니다.</string>
     <string name="notify_connected_title">%1$s에 연결됨</string>
     <string name="ok">확인</string>
-    <string name="preference_copied">\"%1$s\"(이)가 클립보드로 복사되었습니다.</string>
+    <string name="preference_copied">\"%1$s\"이(가) 클립보드로 복사되었습니다.</string>
     <string name="privacy_all_purpose">Screen Combo에 오신 것을 환영합니다! 이 앱은 PC를 통해 휴대전화와 파일을 주고 받거나 상호작용할 수 있습니다..</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi를 통해 기기를 연결하고 파일을 전송</string>
     <string name="privacy_describe_location">주변의 PC를 찾고 파일을 전송</string>
@@ -164,7 +164,7 @@
     <string name="wednesday_shortest">수</string>
     <string name="worker_authorization_message">Screen Combo으로 PC로 파일을 전송하고 상호작용할 수 있습니다.</string>
     <string name="worker_authorization_title">지금 연결할까요?</string>
-    <string name="worker_authorized">%1$s(이)가 요청을 승인했습니다.</string>
+    <string name="worker_authorized">%1$s이(가) 요청을 승인했습니다.</string>
     <string name="worker_connect_cancel_tips">취소</string>
     <string name="worker_connect_fail_btn_retry">다시 시도</string>
     <string name="worker_connect_fail_message">네트워크 오류가 발생했습니다. 1~2분 후 다시 시도하세요.</string>

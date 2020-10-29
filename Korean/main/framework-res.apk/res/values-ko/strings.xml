@@ -1127,7 +1127,7 @@
     <string name="month_day_year" formatted="false">%Y년 %-m월 %-e일</string>
     <string name="more_item_label">더보기</string>
     <string name="move_button_text">전환</string>
-    <string name="muted_by">%1$s(이)가 일부 소리를 음소거함</string>
+    <string name="muted_by">%1$s이(가) 일부 소리를 음소거함</string>
     <string name="needPuk">SIM 카드의 PUK가 잠겨 있습니다. 잠금해제하려면 PUK 코드를 입력하세요.</string>
     <string name="needPuk2">SIM 카드 잠금을 해제하려면 PUK2를 입력하세요.</string>
     <string name="network_available_sign_in">네트워크에 로그인</string>

@@ -835,7 +835,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_email_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="passport_reg_success_summary">%1$s 이메일이 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화하는 데 사용할 수 있습니다.</string>
     <string name="video_count">%d개의 동영상</string>
-    <string name="passport_vcode_sms_send_prompt">%s(으)로 인증 코드 전송</string>
+    <string name="passport_vcode_sms_send_prompt">%s(으)로 인증번호 전송</string>
     <string name="passport_active_email_visit">%s의 수신함을 확인하세요.</string>
     <string name="passport_quick_login_dialog_step2_title">2단계 인증</string>
     <string name="passport_quick_login_step2_title">2단계 인증</string>
@@ -846,7 +846,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_login_title">Mi 계정에 로그인</string>
     <string name="passport_reg_prompt">Mi 계정을 가지고 계시지 않습니까? 무료로 생성해보세요.</string>
     <string name="passport_error_sim_not_ready">SIM 카드를 찾을 수 없습니다.</string>
-    <string name="passport_message_dialog_title">SMS 인증 코드</string>
+    <string name="passport_message_dialog_title">SMS 인증번호</string>
     <string name="passport_getting_verify_code">가져오는 중</string>
     <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="passport_skip_login">건너뛰기</string>
@@ -932,7 +932,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_trust_device">이 기기를 인증된 기기에 추가</string>
     <string name="passport_login_instead_reg">이 번호 사용</string>
     <string name="passport_input_password_for_login">이 번호는 다른 계정에 연결되었습니다. 비밀번호를 입력하세요.</string>
-    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증 코드를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 너무 많은 인증번호를 전송했습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_reg_via_sms_alert">이 서비스를 활성화하려면 SMS 메시지 발송이 필요할 수 있습니다. 통신사가 요금을 부과할 수 있습니다.</string>
     <string name="passport_login_instead_reg_with_email">이 이메일 사용</string>
     <string name="passport_register_restricted_title">이 전화번호를 사용할 수 없습니다.</string>
@@ -944,11 +944,11 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_register_by_email">이메일 주소 사용하여 계정 만들기</string>
     <string name="passport_error_empty_email">이메일 주소 입력</string>
     <string name="passport_verification_failed">인증 실패</string>
-    <string name="passport_trying_read_verify_code_sms">인증 코드 얻는 중…</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력</string>
-    <string name="passport_input_vcode_hint">인증 코드 입력</string>
-    <string name="passport_identitfication_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
-    <string name="passport_vcode_prompt_long">인증 코드를 입력하세요.</string>
+    <string name="passport_trying_read_verify_code_sms">인증번호 얻는 중…</string>
+    <string name="passport_error_empty_vcode">인증번호 입력</string>
+    <string name="passport_input_vcode_hint">인증번호 입력</string>
+    <string name="passport_identitfication_expired">인증번호가 만료되었습니다. 다시 시작하세요.</string>
+    <string name="passport_vcode_prompt_long">인증번호를 입력하세요.</string>
     <string name="passport_checking_input">입력 확인 중…</string>
     <string name="passport_error_user_name">입력된 사용자 이름이 올바르지 않습니다.</string>
     <string name="passport_error_email">입력한 이메일 주소가 올바르지 않습니다.</string>

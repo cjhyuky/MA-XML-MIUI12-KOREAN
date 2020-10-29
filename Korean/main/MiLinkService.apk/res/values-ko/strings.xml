@@ -119,7 +119,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="toast_title_for_small_window">앱에서 \"창 최소화\"를 선택하세요.</string>
     <string name="privacy_agree">동의</string>
     <string name="privacy_text_1"><Data>"캐스트에 오신걸 환영합니다! 캐스트를 사용하면 휴대전화 화면의 항목을 더 큰 외부 모니터에 투사할 수 있습니다.
-당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. 일부 기능은 타사 서비스 제공 업체인 해피캐스트에서 제공합니다. 이 기능을 사용하기 전에&lt;a href=%2$s&gt;해피캐스트 법률 사항&lt;/a&gt; 및 &lt;a href=%1$s&gt;해피캐스트 개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.
+당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. 일부 기능은 타사 서비스 제공 업체인 해피캐스트에서 제공합니다. 이 기능을 사용하기 전에&lt;a href=%2$s&gt;해피캐스트 법률 사항&lt;/a&gt; 및 &lt;a href=%1$s&gt;해피캐스트 개인정보 보호정책&lt;/a&gt;을 숙지하였으며 이에 동의합니다.
 정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다."</Data></string>
     <string name="privacy_text_2"><Data>"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 앱을 제거하도록 선택할 수 있습니다. 이 경우 설정에서 로그아웃하거나 권한을 제한하세요.
 이 기능을 사용하기 전에 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 이에 동의하세요."</Data></string>
@@ -142,8 +142,8 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="dialog_nfc_cast_wifi_off">NFC를 사용하여 전송할 수 있도록 Wi-Fi를 켭니다. 지금 켜시겠습니까?</string>
     <string name="toast_nfc_dont_move">"휴대전화를 멀리 옮기지 마세요"</string>
     <string name="toast_turn_off_hotspot_before_cast">전송하기 전에 모바일 핫스팟을 끄세요.</string>
-    <string name="dialog_no_device_message">&lt;Data>1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하세요.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하세요.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하세요.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.&lt;br>&lt;br>2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 &lt;a href=milink://com.milink.service/specification>\"도움말\"&lt;/a>을 참조하세요.</Data></string>
     <string name="dialog_scan_message">"1. 휴대전화와 TV를 동일한 Wi-Fi 네트워크에 연결합니다.
 
  2. 일부 TV 모델에서 이 기능은 화면 미러링이 켜져있는 경우에만 사용할 수 있습니다. 자세한 내용은 \"도움말\"을 참조하세요."</string>
@@ -186,8 +186,8 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="screen_projection_sample_summary">화면, 게임, 사진 등을 화면으로 공유</string>
     <string name="screen_projection_sample_title">데모</string>
     <string name="screen_projection_title">화면 전송</string>
-    <string name="privacy_detail">&lt;Data&gt;이 앱은 인터넷에 연결하고 정상적으로 작동하려면 필요한 개인 데이터를 수집해야 합니다. 사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
-    <string name="privacy_detail_extra">&lt;Data&gt;일부 기능은 타사 서비스 제공 업체 인 HappyCast에서 제공합니다. 이 기능을 사용하기 전에 &lt;a href=%1$s&gt;HappyCast 개인정보 보호정책&lt;/a&gt; 및 &lt;a href=%2$s>HappyCast 법률 사항&lt;/a&gt;을 읽고 동의하세요.&lt;/Data&gt;</string>
+    <string name="privacy_detail">&lt;Data&gt;이 앱은 인터넷에 연결하고 정상적으로 작동하려면 필요한 개인 데이터를 수집해야 합니다. 사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href=%1$s&gt;이용 약관&lt;/a&gt; 및 &lt;a href=%2$s&gt;개인정보 보호정책&lt;/a&gt;을 숙지하였으며 이에 동의합니다.&lt;/Data&gt;</string>
+    <string name="privacy_detail_extra">&lt;Data&gt;일부 기능은 타사 서비스 제공 업체 인 HappyCast에서 제공합니다. 이 기능을 사용하기 전에 &lt;a href=%1$s&gt;HappyCast 개인정보 보호정책&lt;/a&gt; 및 &lt;a href=%2$s>HappyCast 법률 사항&lt;/a&gt;을 숙지하였으며 이에 동의합니다.&lt;/Data&gt;</string>
     <string name="privacy_explain">"주문을 환영합니다! 주물을 사용하면 휴대전화 화면의 항목을 더 큰 외부 모니터에 투사 할 수 있습니다. 이 앱은 인터넷에 연결되어 있어야 정상적으로 작동하려면 다음 권한이 필요합니다."</string>
     <string name="privacy_negative">종료</string>
     <string name="privacy_permission_ble">블루투스 켜기 및 끄기</string>

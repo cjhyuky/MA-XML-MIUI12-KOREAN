@@ -297,11 +297,11 @@
     <string name="passport_password_req_notice">비밀번호는 8~16자에 숫자와 문자(대/소문자 구분)를 포함해야 합니다.</string>
     <string name="passport_privacy_policy">개인정보 보호정책</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
-    <string name="passport_send_too_many_sms">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
+    <string name="passport_send_too_many_sms">이 번호로 전송된 인증번호가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_sign_in">로그인</string>
     <string name="passport_sign_in_or_sign_up">로그인 / 계정 만들기</string>
-    <string name="passport_sms_phone_intro">%1$s에 인증 코드를 이미 보냈습니다.</string>
+    <string name="passport_sms_phone_intro">%1$s에 인증번호를 이미 보냈습니다.</string>
     <string name="passport_timeout_network_error">네트워크 요청 시간 초과</string>
     <string name="passport_unknow_error">죄송합니다. 알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_host_network_error">네트워크 설정을 확인하고 다시 시도하세요.</string>
@@ -309,7 +309,7 @@
     <string name="passport_user_agreement">이용 약관</string>
     <string name="passport_user_agreement_prefix">동의</string>
     <string name="passport_user_id_intro">%1$s에 로그인하세요.</string>
-    <string name="passport_v_code_error">인증 코드가 잘못되었습니다.</string>
+    <string name="passport_v_code_error">인증번호가 잘못되었습니다.</string>
     <string name="passport_wechat_not_install">WeChat이 설치되지 않았습니다.</string>
     <string name="password_toggle_content_description">비밀번호 보이게 전환</string>
     <string name="permission_account_tip">계정 정보에 액세스</string>
@@ -479,7 +479,7 @@
     <string name="theme_title">기본 테마를 사용하고 있지 않습니다.</string>
     <string name="theme_title_lock_style">기본 잠금 화면으로 전환</string>
     <string name="theme_title_subscribe">슬라이드형 배경화면 구독하기</string>
-    <string name="ticket_hint">인증 코드</string>
+    <string name="ticket_hint">인증번호</string>
     <string name="ticket_invalid">입력한 코드가 잘못되었습니다.</string>
     <string name="ticket_sign_in">SMS로 로그인</string>
     <string name="time_current">바로 지금</string>
@@ -497,7 +497,7 @@
     <string name="user_ac_click_to_login">탭하여 로그인</string>
     <string name="user_ac_not_login">로그인되지 않음</string>
     <string name="user_id_hint">이메일/전화</string>
-    <string name="v_code_title">2단계 인증 코드 입력</string>
+    <string name="v_code_title">2단계 인증번호 입력</string>
     <string name="view_privacy_policy">개인정보 보호정책</string>
     <string name="wallpaper">배경화면</string>
     <string name="wallpaper_feed_title">좋아할 것 같은 항목</string>

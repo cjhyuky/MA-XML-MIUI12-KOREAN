@@ -415,7 +415,7 @@
     <string name="recommend_apps_no_data_toast">지금부터 추천기능을 사용하지 않습니다.</string>
     <string name="recommend_refresh">새로고침</string>
     <string name="recommend_xout">"다시 표시하지 않기"</string>
-    <string name="show_recents_recommend_title">제안 보기</string>
+    <string name="show_recents_recommend_title">제안 표시</string>
     <string name="gadget_dual_clock_label">듀얼 시계</string>
     <string name="double_tap_to_lock_title">더블 탭하여 화면 잠금</string>
     <string name="dual_app">듀얼 앱</string>
@@ -618,4 +618,7 @@
     <string name="work_profile_next_button">다음</string>
     <string name="work_profile_second_content">사용자의 IT 관리자가 업무용 앱 &amp; 데이터를 볼 수 있습니다.</string>
     <string name="work_profile_title">직장 프로필</string>
+    <string name="recents_layout_style">최근 앱 정렬 방식</string>
+    <string name="recents_layout_style_horizontal">가로</string>
+    <string name="recents_layout_style_vertical">세로</string>
 </resources>

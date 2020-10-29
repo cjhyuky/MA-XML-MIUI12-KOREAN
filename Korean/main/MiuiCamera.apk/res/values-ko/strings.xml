@@ -498,7 +498,7 @@
     <string name="cta_perm_dec">사진 및 동영상에 위치 정보를 추가하기 위해</string>
     <string name="cta_perm_loc">위치</string>
     <string name="cta_perm_type">"선택적인 권한 (사용하는 동안 추가 기능에 사용됨)"</string>
-    <string name="cta_user_tips"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href =%1$s>이용 약관&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>을 읽고 동의하세요.</Data></string>
+    <string name="cta_user_tips"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href =%1$s>이용 약관&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
     <string name="custom_sound_art">레트로</string>
     <string name="custom_sound_default">기본</string>
     <string name="custom_sound_modern">모던</string>

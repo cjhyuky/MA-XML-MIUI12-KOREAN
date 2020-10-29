@@ -776,7 +776,7 @@
     <string name="qq_login_get_auth">SMS를 수신받을 수 없는 경우 비밀번호 보호 켜기</string>
     <string name="qq_login_open_imap">\"도움말\"을 탭하여 IMAP/SMTP 켜기</string>
     <string name="qq_login_origin_setting">사용자 이름 및 비밀번호를 입력하여 로그인 ></string>
-    <string name="qq_login_send_message">\"SMS 전송\"을 탭하여 인증 코드 얻기</string>
+    <string name="qq_login_send_message">\"SMS 전송\"을 탭하여 인증번호 얻기</string>
     <string name="qq_login_webview">웹 QQ 메일로 로그인 중입니다. 비밀번호를 입력하세요.</string>
     <string name="qq_next_generation_auth_toast">브라우저에서 비밀번호 보호 켜기</string>
     <string name="qq_uthentication_failed">계정 인증 실패, 다시 로그인</string>
@@ -1037,7 +1037,7 @@
     <string name="account_sync_settings_settings">연락처 및 캘린더 동기화</string>
     <string name="account_sync_settingstip_description">동기화</string>
     <string name="cancel_pop3_attchemt_downloading">POP3 계정으로는 진행 중인 첨부 파일 다운로드를 취소할 수 없습니다.</string>
-    <string name="changepw_dialog_tips_please_clikc_btn">%s에서 인증 코드를 확인한 후 다시 로그인하세요.</string>
+    <string name="changepw_dialog_tips_please_clikc_btn">%s에서 인증번호를 확인한 후 다시 로그인하세요.</string>
     <string name="confirm_delete_attachment">첨부 파일을 삭제하시겠습니까?</string>
     <string name="default_signature_2">내 %s에서 전송됨</string>
     <string name="dialog_system_auto_sync_account_no_open">자동으로 이메일을 수신하려면 계정 동기화 활성화</string>
@@ -1110,7 +1110,7 @@
     <string name="float_window_title">설정 중………</string>
     <string name="auto_login_fail">자동 로그인 실패</string>
     <string name="auto_login_fail_to_retry">자동 로그인에 실패했습니다. 다시 로그인하세요.</string>
-    <string name="qq_auto_login_failed_dialog_positive_label">인증 코드를 복사하세요.</string>
+    <string name="qq_auto_login_failed_dialog_positive_label">인증번호를 복사하세요.</string>
     <string name="retry_login">다시 로그인하세요.</string>
     <string name="unbind_dialog_text">"메일 앱은 계정을 삭제한 이후로 더 이상 이메일을 분석하지 않습니다. 계정을 삭제하시겠습니까?"</string>
     <string name="automatic_remind_text">자동 알림</string>
@@ -1139,11 +1139,11 @@
     <string name="others_mail">기타</string>
     <string name="others_mail_des">기타 개인 또는 회사 이메일 서비스</string>
     <string name="qq_authorization_help_get">도움을 받으세요.</string>
-    <string name="qq_authorization_know">인증 코드 인식</string>
+    <string name="qq_authorization_know">인증번호 인식</string>
     <string name="qq_authorization_tips">더 이상 시도되지 않습니다.</string>
-    <string name="qq_verify_code">(QQ 인증 코드 필요함)</string>
+    <string name="qq_verify_code">(QQ 인증번호 필요함)</string>
     <string name="title_activity_about">정보</string>
-    <string name="verify_code">인증 코드</string>
+    <string name="verify_code">인증번호</string>
     <string name="version_string">버전: %s</string>
     <string name="wps_title">WPS 메일</string> 
     <string name="folder_drafts_name_en0">임시 저장</string>
@@ -1164,7 +1164,7 @@
     <string name="folder_trash_name_en2">삭제된 메시지</string>
     <string name="folder_trash_name_en3">[Gmail]/휴지통</string>
     <string name="qq_auto_login_failed_cpy_pass_success">복사되었습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으세요.</string>
-    <string name="qq_auto_login_failed_dialog_message">인증 코드를 복사했습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으세요.</string>
+    <string name="qq_auto_login_failed_dialog_message">인증번호를 복사했습니다. 로그인 페이지로 돌아가 비밀번호를 붙여넣으세요.</string>
     <string name="quote_divider_iphone_en">내 iPhone에서 보냄</string>
     <string name="quote_divider_iphone_fwd_en">전달 메시지 : </string>
     <string name="quote_divider_qq_en">------------------ 원본 이메일 ------------------</string>
@@ -1200,7 +1200,7 @@
     <string name="folder_empty_to_fresh">"메일이 동기화되지 않았습니다. 동기화하려면 아래로 당기세요."</string>
     <string name="folder_no_mails">이 폴더에는 이메일이 없습니다.</string>
     <string name="toast_bar_sync_failed_mi_authority">"동기화하지 못했습니다. 잠깐 기다려 다시 시도하세요. 세부사항을 확인하세요.
-(인증되지 않은 장치를 사용하는 경우 인트라넷에 연결하거나 인증 코드를 사용하세요)"</string>
+(인증되지 않은 장치를 사용하는 경우 인트라넷에 연결하거나 인증번호를 사용하세요)"</string>
     <string name="wipe_account_fail_description_remind">데이터 사용 권한으로 인해 계정을 삭제한 후 캘린더와 주소록에 데이터가 남아있을 수 있으므로 수동으로 삭제하세요.</string>
     <string name="failed_read_write_contacts_permission">연락처 접근이 제한되었습니다.</string>
     <string name="failed_read_write_calendar_permission">캘린더 접근이 제한되었습니다.</string>
@@ -1245,8 +1245,8 @@
     <string name="login_failed_tip">"WeChat으로 문의하세요:"</string>
     <string name="mail_login_help">로그인 방법</string>
     <string name="mail_login_help_bottom_tip">"비밀번호를 잊었거나 계정 상태를 확인해야하는 경우 웹 버전의 NetEase Mail을 사용하세요. WeChat에서 도움을 받을 수도 있습니다:"</string>
-    <string name="mail_login_help_details1">1. 이메일 클라이언트에 인증 코드가 설정되어 있지 않고 POP3/IMAP/SMTP 서비스가 활성화된 경우 이메일 비밀번호를 사용할 수 있습니다.</string>
-    <string name="mail_login_help_details2">2. POP3/IMAP/SMTP 서비스가 활성화된 경우 타사 인증 코드를 사용하여 타사 이메일 클라이언트에 로그인할 수 있습니다.</string>
+    <string name="mail_login_help_details1">1. 이메일 클라이언트에 인증번호가 설정되어 있지 않고 POP3/IMAP/SMTP 서비스가 활성화된 경우 이메일 비밀번호를 사용할 수 있습니다.</string>
+    <string name="mail_login_help_details2">2. POP3/IMAP/SMTP 서비스가 활성화된 경우 타사 인증번호를 사용하여 타사 이메일 클라이언트에 로그인할 수 있습니다.</string>
     <string name="mail_login_help_title">이메일 비밀번호/타사 클라이언트 :</string>
     <string name="over_16_content">16세 이상인가요?</string>
     <string name="over_sixteen">"16세 이상입니다."</string>
@@ -1262,10 +1262,10 @@
     <string name="print_scheduler_title">모든 스케줄러 인쇄</string>
     <string name="privacy_setting_agree">동의</string>
     <string name="qq_login_help_bottom_tip">"비밀번호를 잊어 버렸거나 계정 상태를 확인해야하는 경우 웹 버전의 QQ Mail을 사용하세요. WeChat에서 도움을받을 수도 있습니다:"</string>
-    <string name="qq_login_help_details1">1. QMAP 비밀번호는 IMAP/Exchange 프로토콜로 독립 비밀번호 또는 인증 코드가 설정되지 않은 경우 사용할 수 있습니다.</string>
-    <string name="qq_login_help_details2">2. IMAP/Exchange 프로토콜로 인증 코드가 설정되지 않은 경우 독립 비밀번호를 사용할 수 있습니다.</string>
-    <string name="qq_login_help_details3">"3. 타사 이메일 클라이언트 용으로 생성된 인증 코드를 사용하여 로그인할 수도 있습니다. 코드를 잊어 버린 경우 다음 링크를 참조하세요:"</string>
-    <string name="qq_login_help_title">QQ/독립 비밀번호/인증 코드:</string>
+    <string name="qq_login_help_details1">1. QMAP 비밀번호는 IMAP/Exchange 프로토콜로 독립 비밀번호 또는 인증번호가 설정되지 않은 경우 사용할 수 있습니다.</string>
+    <string name="qq_login_help_details2">2. IMAP/Exchange 프로토콜로 인증번호가 설정되지 않은 경우 독립 비밀번호를 사용할 수 있습니다.</string>
+    <string name="qq_login_help_details3">"3. 타사 이메일 클라이언트 용으로 생성된 인증번호를 사용하여 로그인할 수도 있습니다. 코드를 잊어 버린 경우 다음 링크를 참조하세요:"</string>
+    <string name="qq_login_help_title">QQ/독립 비밀번호/인증번호:</string>
     <string name="setting_kids_subtitle">확인된 사용자 연령</string>
     <string name="setting_kids_title">16세 이상</string>
     <string name="toast_bar_sync_failed_client_cert">"인증서 누락으로 인해 동기화할 수 없습니다. 인증서를 다시 추가하려면 살짝 누르세요."</string>
@@ -1385,7 +1385,7 @@
      <string name="filter_title_cc">"%s개 [나에게 참조]"</string>
      <string name="filter_title_me">%s개 [나에게 보냄]</string>
      <string name="filter_title_unread">%s개 [읽지 않음]</string>
-     <string name="ntes_authorization_code_to_login">이 인증 코드로 로그인</string>
+     <string name="ntes_authorization_code_to_login">이 인증번호로 로그인</string>
      <string name="ntes_copy_and_login">복사 및 로그인</string>
      <string name="ntes_do_not_sms_uplink">연동된 휴대전화 번호로 SMS를 보내고 \"보낸 메시지\"를 누르세요.</string>
      <string name="ntes_had_send">보낸 메시지</string>
@@ -1410,7 +1410,7 @@
      <string name="pdf_viewer_save_signature">서명 저장</string>
      <string name="pdf_viewer_sign_file_damage_toast">파일이 존재하지 않습니다.</string>
      <string name="pdf_viewer_signature">PDF 서명</string>
-     <string name="perference_change_auth_ok_tips">인증 코드 변경됨</string>
+     <string name="perference_change_auth_ok_tips">인증번호 변경됨</string>
      <string name="qq_login_sent_setting">보낸 메시지 동기화</string>
      <string name="qq_sent_no_message">"보낸 이메일을 찾을 수 없나요? 여기를 눌러 해결방법을 알아보세요."</string>
      <string name="qq_sent_no_message_setting">QQ Mail의 보낸 메시지 동기화</string>
@@ -1433,7 +1433,7 @@
      <string name="server_cet_subject_cn">지원 도메인: </string>
      <string name="server_cet_title">인증서 정보</string>
      <string name="show_server_cet">인증서 보기</string>
-     <string name="successfully_obtained_authorization_code">인증 코드</string>
+     <string name="successfully_obtained_authorization_code">인증번호</string>
      <string name="about_checking_update">업데이트 확인 중...</string>
      <string name="about_go_to_update">업데이트</string>
      <string name="about_lasted_version">최신 버전입니다.</string>
@@ -1448,7 +1448,7 @@
      <string name="mailbox_setting_preference_sync_summary_close">동기화: 꺼짐</string>
      <string name="mailbox_setting_preference_sync_summary_open">동기화: 켜짐</string>
      <string name="server_log">이용 약관</string>
-     <string name="user_experience_content">《사용자 경험 프로그램》을 읽고 동의하세요.</string>
+     <string name="user_experience_content">《사용자 경험 프로그램》을 숙지하였으며 이에 동의합니다.</string>
      <string name="user_experience_log">사용자 경험 프로그램</string>
      <string name="user_experience_login">참가</string>
      <string name="user_experience_logout">탈퇴</string>

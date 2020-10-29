@@ -302,7 +302,7 @@
     <string name="passport_account_hint_text">이메일 주소 또는 Mi 계정 ID</string>
     <string name="passport_account_identity_title">신원 확인</string>
     <string name="passport_account_label">Mi 계정</string>
-    <string name="passport_account_name">계정: %1$s</string>
+    <string name="passport_account_name">"계정: %1$s "</string>
     <string name="passport_account_not_activated">계정이 활성화되지 않았습니다.</string>
     <string name="passport_account_not_actived">귀하의 계정이 활성화되지 않았습니다.</string>
     <string name="passport_active_email_visit">%s 받은 편지함을 확인하세요.</string>
@@ -334,7 +334,7 @@
     <string name="passport_error_empty_email">사용자의 이메일 주소를 입력하세요.</string>
     <string name="passport_error_empty_phone_num">전화번호를 입력하세요.</string>
     <string name="passport_error_empty_username">계정 ID를 입력하세요.</string>
-    <string name="passport_error_empty_vcode">인증 코드 입력하세요.</string>
+    <string name="passport_error_empty_vcode">인증번호 입력하세요.</string>
     <string name="passport_error_illegal_pwd">잘못된 비밀번호</string>
     <string name="passport_error_invalid_dev_id">기기의 ID가 잘못되었습니다.</string>
     <string name="passport_error_invalid_phone_num">유효하지 않은 전화번호</string>
@@ -352,14 +352,14 @@
     <string name="passport_get_back_pwd">계정 비밀번호 검색</string>
     <string name="passport_get_verify_code">코드 얻기</string>
     <string name="passport_i_know">확인</string>
-    <string name="passport_identitfication_expired">인증 코드가 만료되었습니다. 다시 시작합니다.</string>
+    <string name="passport_identitfication_expired">인증번호가 만료되었습니다. 다시 시작합니다.</string>
     <string name="passport_imei_permission_denied_message">기기의 IMEI 권한을 요청하고 있습니다. Mi 계정은 IMEI를 사용하여 로그인/가입하는 기기를 식별하여 Mi 계정을 안전하게 유지합니다.</string>
     <string name="passport_imei_permission_denied_title">IMEI 권한 요청</string>
     <string name="passport_input_captcha_hint">코드를 입력하세요.</string>
     <string name="passport_input_password_for_login">이 번호는 기존 계정과 연결되어 있으며 비밀번호를 입력하세요.</string>
     <string name="passport_input_password_hint">비밀번호를 입력하세요.</string>
     <string name="passport_input_phone_hint">전화번호를 입력하세요.</string>
-    <string name="passport_input_vcode_hint">인증 코드를 입력하세요.</string>
+    <string name="passport_input_vcode_hint">인증번호를 입력하세요.</string>
     <string name="passport_license_host_unreachable">네트워크에 연결할 수 없습니다. 이 페이지는 %s 에서 확인할 수 있습니다.</string>
     <string name="passport_loading">불러오는 중…</string>
     <string name="passport_login">로그인</string>
@@ -418,7 +418,7 @@
     <string name="passport_restart_register_title">Mi 계정 만들기</string>
     <string name="passport_retry">다시 시도하세요.</string>
     <string name="passport_select_reg_ways_title">가입하는 다른 방법들</string>
-    <string name="passport_send_too_many_code">이 번호로 전송된 인증 코드가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
+    <string name="passport_send_too_many_code">이 번호로 전송된 인증번호가 너무 많습니다. 24시간을 기다렸다가 다시 시도하세요.</string>
     <string name="passport_setting">설정…</string>
     <string name="passport_skip_login">건너뛰기</string>
     <string name="passport_skip_register">가입 건너뛰기</string>
@@ -426,7 +426,7 @@
     <string name="passport_skip_setup_account_title">설정 건너뛰기</string>
     <string name="passport_title_reg">계정 만들기</string>
     <string name="passport_trust_device">확인된 기기에 이 기기 추가</string>
-    <string name="passport_trying_read_verify_code_sms">인증 코드 받기…</string>
+    <string name="passport_trying_read_verify_code_sms">인증번호 받기…</string>
     <string name="passport_uplink_reg">전화번호 사용</string>
     <string name="passport_uplink_slot1_reg">SIM 1 사용</string>
     <string name="passport_uplink_slot2_reg">SIM 2 사용</string>
@@ -438,8 +438,8 @@
     <string name="passport_user_agreement_p3">와</string>
     <string name="passport_user_agreement_p4">개인정보 정책</string>
     <string name="passport_vcode_notification_title">로그인 확인이 완료되지 않았습니다.</string>
-    <string name="passport_vcode_prompt_long">인증 코드 입력</string>
-    <string name="passport_vcode_sms_send_prompt">%s님에게 인증 코드 보내기</string>
+    <string name="passport_vcode_prompt_long">인증번호 입력</string>
+    <string name="passport_vcode_sms_send_prompt">%s님에게 인증번호 보내기</string>
     <string name="passport_verification_failed">인증 실패</string>
     <string name="passport_verify">확인</string>
     <string name="passport_wait_for_sms_prompt">지금부터 시작하시겠습니까? 휴대전화가 이동통신사의 네트워크 범위 내에있을 때 확인 메시지가 배달되는 데 10분 정도 걸릴 수 있습니다.</string>
@@ -682,7 +682,7 @@ ID : %s
     <string name="get_back_pwd">비밀번호 초기화</string>
     <string name="get_ph_ticket">코드 받기</string>
     <string name="get_phone_bind_exceed_limit">"최대 3개의 Mi 계정을 전화번호와 연결할 수 있습니다. 새 계정을 추가할 수 없습니다."</string>
-    <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="get_phone_verifycode_exceed_limit">이 번호로 너무 많은 인증번호가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="goto_sign_up">계정 만들기</string>
     <string name="identity">식별</string>
     <string name="inconsistent_pwd">"비밀번호가 일치하지 않습니다."</string>
@@ -696,7 +696,7 @@ ID : %s
     <string name="nick_name">닉네임</string>
     <string name="no_account">로그인되지 않음</string>
     <string name="no_phone">전화번호 없음</string>
-    <string name="passport_activate_token_expired">인증 코드가 만료되었습니다. 다시 시도하세요.</string>
+    <string name="passport_activate_token_expired">인증번호가 만료되었습니다. 다시 시도하세요.</string>
     <string name="passport_close">닫기</string>
     <string name="passport_empty_password">"비밀번호는 비워 둘 수 없습니다."</string>
     <string name="passport_empty_user_name">"사용자 이름은 비워 둘 수 없습니다."</string>
@@ -707,15 +707,15 @@ ID : %s
     <string name="passport_error_unknown">알 수 없는 오류</string>
     <string name="passport_error_user_agreement_error">이용 약관에 먼저 동의</string>
     <string name="passport_getting_verify_code">잠시만 기다려주세요…</string>
-    <string name="passport_identification_expired">인증 코드가 만료되었습니다. 다시 시작하세요.</string>
-    <string name="passport_input_voice_captcha_hint">음성 인증 코드 입력</string>
+    <string name="passport_identification_expired">인증번호가 만료되었습니다. 다시 시작하세요.</string>
+    <string name="passport_input_voice_captcha_hint">음성 인증번호 입력</string>
     <string name="passport_input_voice_hint">음성 코드 입력</string>
     <string name="passport_international_phone_password_login_tip">(중국 이외의 사용자는 + [지역 코드] [전화번호] (예 : +91 817282982) 형식으로 휴대전화 번호를 입력해야 합니다.</string>
     <string name="passport_log_detail">세부 정보보기</string>
     <string name="passport_next_step">다음</string>
     <string name="passport_querying_phone_info">계정 정보 요청 중…</string>
     <string name="passport_reload_ph_ticket">다시 보내기</string>
-    <string name="passport_send_too_many_sms">이 번호로 너무 많은 인증 코드가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
+    <string name="passport_send_too_many_sms">이 번호로 너무 많은 인증번호가 전송되었습니다. 24시간 후에 다시 시도하세요.</string>
     <string name="passport_sending_vcode">코드 보내기…</string>
     <string name="passport_set_password">비밀번호 설정</string>
     <string name="passport_set_password_no_phone_msg">계정을 보호하기 위해 전화번호를 추가하세요.</string>
@@ -724,17 +724,17 @@ ID : %s
     <string name="passport_sms_phone_intro">코드를 %1$s(으)로 보냈습니다.</string>
     <string name="passport_talkback_image_captcha">이미지 확인 코드</string>
     <string name="passport_talkback_switch_image_captcha">이미지 확인 코드로 전환</string>
-    <string name="passport_talkback_switch_voice_captcha">음성 인증 코드로 전환</string>
-    <string name="passport_talkback_voice_captcha">음성 인증 코드 재생</string>
+    <string name="passport_talkback_switch_voice_captcha">음성 인증번호로 전환</string>
+    <string name="passport_talkback_voice_captcha">음성 인증번호 재생</string>
     <string name="passport_timeout_network_error">네트워크 요청 시간이 초과되었습니다.</string>
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_host_network_error">네트워크 설정을 확인하고 다시 시도하세요.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
-    <string name="passport_user_agreement_link">"Xiaomi의 이용 약관 및 개인정보 보호정책을 읽고 동의합니다."</string>
-    <string name="passport_user_agreement_link_more">Xiaomi의 이용 약관 및 개인정보 보호정책을 읽었으며 이에 동의합니다. "</string>
+    <string name="passport_user_agreement_link">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data>"</string>
+    <string name="passport_user_agreement_link_more">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a>, &lt;a href=\"%4$s\">개인정보 보호정책&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>를(을) 숙지하였으며 이에 동의합니다.</Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
     <string name="passport_v_code_error">확인 코드가 잘못되었습니다.</string>
-    <string name="passport_wrong_voice">입력 한 코드가 잘못되었습니다.</string>
+    <string name="passport_wrong_voice">입력한 코드가 잘못되었습니다.</string>
     <string name="phone_bind_too_many">이 전화는 단기간에 여러 Mi 계정과 연결되었습니다. 다른 전화번호를 사용해보세요.</string>
     <string name="phone_hint">전화번호</string>
     <string name="phone_num_use_for">전화번호는 다음에 사용됩니다.</string>
@@ -743,11 +743,11 @@ ID : %s
     <string name="psw_hint">비밀번호</string>
     <string name="psw_sign_in">비밀번호를 사용하여 로그인</string>
     <string name="resend_active_email">재전송</string>
-    <string name="resend_email_reach_limit_message">"확인 이메일을 너무 많이 요청했습니다. 확인 이메일이받은 편지함의 스팸 폴더에 없는지 확인하세요."</string>
+    <string name="resend_email_reach_limit_message">"확인 이메일을 너무 많이 요청했습니다. 확인 이메일이 받은 편지함의 스팸 폴더에 없는지 확인하세요."</string>
     <string name="resend_email_reach_limit_title">너무 많은 시도</string>
     <string name="resend_email_success">보냈습니다.</string>
     <string name="restart_action">다시 시작</string>
-    <string name="restart_phone_bind_message">SMS를 수신하는 데 시간이 걸릴 수 있습니다. 그래도 다시 시작하시겠습니까?</string>
+    <string name="restart_phone_bind_message">SMS를 수신하는데 시간이 걸릴 수 있습니다. 그래도 다시 시작하시겠습니까?</string>
     <string name="restart_phone_bind_title">복구 전화 변경</string>
     <string name="same_new_and_old_pwd">"현재 비밀번호와 같을 수 없습니다."</string>
     <string name="send_diagnosis_log">로그 보내기</string>
@@ -786,4 +786,8 @@ ID : %s
     <string name="suggest_upload_log_dialog_content">"엔지니어가 사용자의 문제를 최대한 빨리 확인하고 해결하기 위해, 관련 로그를 업로드해주시기 바랍니다. 로그는 문제 분석에만 사용되며, 다른 목적으로 사용되지 않습니다."</string>
     <string name="suggest_upload_log_dialog_title">관련 로그 업로드</string>
     <string name="toast_min_description_count">설명이 너무 짧습니다.</string>
+    <string name="open_settings">설정으로</string>
+    <string name="passport_can_not_receive_verification_code">"인증번호를 받을 수 없나요?"</string>
+    <string name="request_camera_permission_message">이 서비스는 다음 권한을 요구하며, 개인정보는 관련 법에 의거하여 엄격하게 보호됩니다: &lt;br>&lt;br>&lt;b> 카메라 접근: 아바타 설정을 위한 실시간 녹화 서비스를 제공합니다. &lt;/b>&lt;br>&lt;br> 위 권한 부여에 동의하지 않으면, 이 기능은 제대로 작동하지 않지만 앱의 기본 기능 이용에는 영향을 주지 않습니다. 동의를 철회하려면 시스템 설정에서 위 권한 부여를 해제하세요.</string>
+    <string name="submit_dialog_not_show_again">"다시 보지 않기"</string>
 </resources>

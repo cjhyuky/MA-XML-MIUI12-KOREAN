@@ -57,7 +57,7 @@
     <string name="addToDictionary">사전에 추가</string>
     <string name="add_account_button_label">계정 추가</string>
     <string name="add_account_label">계정 추가</string>
-    <string name="aerr_application">%1$s(이)가 중지되었습니다.</string>
+    <string name="aerr_application">%1$s이(가) 중지되었습니다.</string>
     <string name="aerr_process">%1$s 프로세스가 중지되었습니다.</string>
     <string name="aerr_title"/>
     <string name="allow">허용</string>

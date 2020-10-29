@@ -466,7 +466,7 @@
     <string name="wechat_btn_str">WeChat</string>
     <string name="phone_login_title">휴대전화</string>
     <string name="phone_num_et_hint">전화번호 입력</string>
-    <string name="phone_code_et_hint">인증 코드 입력</string>
+    <string name="phone_code_et_hint">인증번호 입력</string>
     <string name="phone_num_format_tip">잘못된 전화번호</string>
     <string name="phone_get_code_tip">오늘 코드 얻기를 너무 많이 시도했습니다.</string>
     <string name="phone_valid_code_tip">코드를 너무 많이 입력했습니다. 새로운 코드를 얻어 시도하세요.</string>
@@ -501,8 +501,8 @@
     <string name="oauth_failed_tip">접근 허가를 얻지 못했습니다.</string>
     <string name="login_success_tip">로그인 성공</string>
     <string name="login_failed_tip">로그인 실패. 나중에 다시 시도하세요.</string>
-    <string name="phone_code_err">전화번호 혹은 인증 코드가 잘못되었습니다.</string>
-    <string name="get_verification_code_fail">인증 코드 획득 실패</string>
+    <string name="phone_code_err">전화번호 혹은 인증번호가 잘못되었습니다.</string>
+    <string name="get_verification_code_fail">인증번호 획득 실패</string>
     <string name="delete_video_dialog_title">동영상 삭제</string>
     <string name="delete_video_dialog_tip">동영상을 삭제한 후에는 복구할 수 없습니다.</string>
     <string name="delete_video_success">삭제 완료</string>

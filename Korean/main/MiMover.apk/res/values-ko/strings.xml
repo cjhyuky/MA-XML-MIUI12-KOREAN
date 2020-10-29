@@ -220,13 +220,13 @@
     <string name="host_memory_insuff_confirm">다시 선택</string>
     <string name="host_memory_insuff_summary">"새 기기에 전송을 시작하기에 충분한 저장공간이 없습니다."</string>
     <string name="host_memory_insuff_title">저장공간 부족</string>
-    <string name="hsa_code_null">"인증 코드는 비워 둘 수 없습니다."</string>
-    <string name="hsa_input_tip">Apple ID는 이중 인증을 사용합니다. 인증 코드를 입력하세요.</string>
+    <string name="hsa_code_null">"인증번호는 비워 둘 수 없습니다."</string>
+    <string name="hsa_input_tip">Apple ID는 이중 인증을 사용합니다. 인증번호를 입력하세요.</string>
     <string name="hsa_sending">보내는 중…</string>
     <string name="hsa_send_again">다시 보내기</string>
     <string name="hsa_send_again_countdown">다시 보내기 (%ds)</string>
-    <string name="hsa_send_failed">"인증 코드를 보낼 수 없습니다. 1 ~ 2 분 정도 기다린 후 다시 시도하세요."</string>
-    <string name="hsa_tip_message">"인증 코드를받을 수 없는 경우 Apple 기기에서 이미 iCloud에 로그인했는지 확인하세요."</string>
+    <string name="hsa_send_failed">"인증번호를 보낼 수 없습니다. 1 ~ 2 분 정도 기다린 후 다시 시도하세요."</string>
+    <string name="hsa_tip_message">"인증번호를받을 수 없는 경우 Apple 기기에서 이미 iCloud에 로그인했는지 확인하세요."</string>
     <string name="hsa_tip_message_shutdown_hsa">2 단계 인증을 해제하는 방법</string>
     <string name="hsa_tip_title">도움말</string>
     <string name="hsa_verify_failed">"2 단계 인증이 작동하지 않음"</string>
@@ -500,7 +500,7 @@
     <string name="send">보내기</string>
     <string name="send_sms_for_sync_notice">이 서비스를 활성화하려면 보내는 SMS 메시지가 필요할 수 있습니다. 이동통신사에서이 메시지에 대해 요금을 청구합니다.</string>
     <string name="send_sms_for_sync_title">데이터 사용량 경고</string>
-    <string name="send_verification_code_fail">"인증 코드를 보낼 수 없습니다."</string>
+    <string name="send_verification_code_fail">"인증번호를 보낼 수 없습니다."</string>
     <string name="send_verification_code_fail_tips">"Apple 기기에서이 계정으로 로그인했는지 확인하세요. 그렇지 않으면 코드를받을 수 없습니다."</string>
     <string name="settings_phone">전화 설정</string>
     <string name="settings_powerkeeper">걸음 카운터 데이터</string>
