@@ -3712,10 +3712,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="how_restore_backup_title">백업된 항목을 어떻게 복원하시겠습니까?</string>
     <string name="hsa_code_null">인증번호는 비워 둘 수 없습니다.</string>
     <string name="hsa_input_hint">인증번호 입력</string>
-    <string name="hsa_input_tip">귀하의 Apple ID는 이중 보안설정 상태입니다. 확인 코드를 입력하세요.</string>
+    <string name="hsa_input_tip">귀하의 Apple ID는 이중 보안설정 상태입니다. 인증번호를 입력하세요.</string>
     <string name="hsa_send_again">재전송</string>
     <string name="hsa_send_again_countdown">재전송 (%d초)</string>
-    <string name="hsa_send_failed">확인 코드를 보낼 수 없습니다. 1~2분 정도 기다린 후 다시 시도하세요.</string>
+    <string name="hsa_send_failed">인증번호를 보낼 수 없습니다. 1~2분 정도 기다린 후 다시 시도하세요.</string>
     <string name="hsa_sending">전송 중…</string>
     <string name="hsa_tip_message">1. Apple ID에 연결된 이메일 주소로 인증번호가 담긴 이메일이 전송됩니다.\n    2. 인증번호가 도착하지 않은 경우 이중 보안 설정을 해제하세요.</string>
     <string name="hsa_tip_message_shutdown_hsa">이중 보안설정을 해제하는 방법</string>
@@ -4386,7 +4386,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockpassword_confirm_label">확인</string>
     <string name="lockpassword_confirm_passwords_dont_match">비밀번호가 일치하지 않습니다.</string>
     <string name="lockpassword_confirm_pins_dont_match">PIN이 일치하지 않습니다.</string>
-    <string name="lockpassword_confirm_workspace_password">워크 스페이스 비밀번호 인증</string>
+    <string name="lockpassword_confirm_workspace_password">작업 공간 비밀번호 인증</string>
     <string name="lockpassword_confirm_your_lock_password_header">비밀번호 확인</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">패턴 확인</string>
     <string name="lockpassword_confirm_your_password_details_frp">휴대전화가 초기화되었습니다. 이 전화를 사용하려면 이전 비밀번호를 입력하세요.</string>
@@ -9889,9 +9889,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="work_sound_permission_dialog_message">엔터프라이즈 모드에서는 테마를 사용할 수 없습니다. 관리자에게 문의하여 액세스하세요.</string>
     <string name="work_sound_permission_dialog_title">엔터프라이즈 모드 제한</string>
     <string name="work_sound_same_as_personal">개인 프로필과 동일하게 설정</string>
-    <string name="work_space_delete">워크 스페이스 삭제</string>
+    <string name="work_space_delete">작업 공간 삭제</string>
     <string name="work_space_delete_confirm">지금 삭제</string>
-    <string name="work_space_delete_description">삭제 후에는 워크 스페이스에 진입할 수 없게됩니다. 모든 데이터가 이동되거나 삭제됩니다.</string>
+    <string name="work_space_delete_description">삭제 후에는 작업 공간에 진입할 수 없게됩니다. 모든 데이터가 이동되거나 삭제됩니다.</string>
     <string name="work_sync_dialog_message">개인 프로필 소리가 직장 프로필에 사용됩니다.</string>
     <string name="work_sync_dialog_title">소리를 변경하시겠습니까?</string>
     <string name="work_sync_dialog_yes">단축키 편집</string>
@@ -10281,4 +10281,5 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zen_mode_lockscreen">잠겼을 때</string>
     <string name="zen_mode_more_actions">방해 금지 모드 옵션 더보기</string>
     <string name="zen_mode_summary2">벨소리, 알림을 음소거하고 진동을 끕니다.</string>
+    <string name="smart_space_clock">한눈에 보기</string>
 </resources>

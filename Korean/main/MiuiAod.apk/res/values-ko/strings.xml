@@ -225,4 +225,8 @@
     <string name="mtrl_exceed_max_badge_number_content_description">%1$d개 이상의 새로운 알림</string>
     <string name="aod_dual_clock_date">MM/dd HH:mm</string>
     <string name="aod_dual_clock_date_12">MM/dd aa hh:mm</string>
+    <string name="add_custom_image">사용자 지정 이미지</string>
+    <string name="share">공유</string>
+    <string name="share_to_community">Mi 커뮤니티에 공유</string>
+    <string name="step_to_image_community">Mi 커뮤니티에서 더보기</string>
 </resources>

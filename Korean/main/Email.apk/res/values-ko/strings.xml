@@ -1233,7 +1233,7 @@
     <string name="sync_calendra_fail_per_content">탭하여 허용</string>
     <string name="sync_calendra_fail_per_title">"캘린더 일정을 동기화할 수 없습니다."</string>
     <string name="sync_calendra_fail_permission">"캘린더 일정을 동기화할 수 없습니다. 먼저 메일 앱의 캘린더 접근 권한을 허용하세요."</string> <string name="account_add_title">이메일 서비스 선택</string>
-    <string name="account_setup_basics_password_label_authcode">비밀번호 또는 확인 코드 입력</string>
+    <string name="account_setup_basics_password_label_authcode">비밀번호 또는 인증번호 입력</string>
     <string name="account_setup_options_mail_check_frequency_15min">매 15분마다</string>
     <string name="add_account_search">계정 추가</string>
     <string name="all_purpose">메일 앱에 오신 것을 환영합니다. 이 앱은 Kingsoft가 개발한 Xiaomi 전용 이메일 클라이언트로, 이메일을 작성하고 보내거나 받을 수 있습니다.</string>

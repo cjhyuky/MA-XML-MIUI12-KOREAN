@@ -998,7 +998,7 @@
     <string name="incorrect_pukcode">잘못된 PUK 코드</string>
     <string name="input_password_after_boot_msg">기기 잠금을 해제하려면 비밀번호를 입력하세요.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">자녀보호 모드에서는 보조 공간로의 이동이 불가합니다.</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">자녀보호 모드에서는 보조 공간으로의 이동이 불가합니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"절전 모드가 켜져 있으면 공간 전환을 할 수 없습니다."</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">기기 다시 시작 후에는 기본공간으로 진입해야 합니다.</string>
     <string name="input_password_hint_text">비밀번호 입력</string>

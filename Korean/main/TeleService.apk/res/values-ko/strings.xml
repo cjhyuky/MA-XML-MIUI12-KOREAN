@@ -2848,10 +2848,8 @@
 긴급 전화는 모바일 네트워크 서비스 커버리지에서만 가능합니다."</string>
     <string name="media_transfer_wired_usb_device_name">유선 헤드폰</string>
     <string name="label_phoneid">개인 잠김</string>
-    <string name="fiveg_network_mode_default">자동 모드</string>
-    <string name="fiveg_network_mode_nsa">NSA 모드</string>
-    <string name="fiveg_network_mode_sa_nsa">SA+NSA 모드</string>
+    <string name="fiveg_network_mode_default">자동</string>
     <string name="fiveg_network_mode_title">5G 네트워크 모드 선택</string>
-    <string name="fiveg_sa_vice_switch_title">바이스 카드 SA 모드</string>
+    <string name="fiveg_sa_vice_switch_title">SIM 2 SA</string>
     <string name="preference_countrycode_title">국가 코드</string>
 </resources>

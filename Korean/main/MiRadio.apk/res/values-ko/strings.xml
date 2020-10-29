@@ -264,7 +264,7 @@ ID:%s
     <string name="passport_input_password_hint">비밀번호 입력</string>
     <string name="passport_input_phone_hint">전화번호 입력</string>
     <string name="passport_input_vcode_hint">인증번호 입력</string>
-    <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
+    <string name="passport_input_voice_captcha_hint">인증번호 입력</string>
     <string name="passport_input_voice_hint">음성 코드 입력</string>
     <string name="passport_international_phone_password_login_tip">(중국 이외의 사용자는 + [지역 코드] [전화번호]와 같은 형식으로 휴대전화 번호를 입력해야 합니다. 예 : +91 817282982)</string>
     <string name="passport_log_detail">세부 정보보기</string>
@@ -338,5 +338,5 @@ ID:%s
     <string name="user_avatar_update_title">프로필 사진 변경</string>
     <string name="user_avatar_uploading">잠시 기다려 주세요…</string>
     <string name="user_id_hint">이메일/전화/Mi 계정 ID</string>
-    <string name="v_code_title">확인 코드 입력</string>
+    <string name="v_code_title">인증번호 입력</string>
 </resources>

@@ -339,7 +339,7 @@
     <string name="menu_lock">홈 화면 구성 잠금</string>
     <string name="menu_more">더보기</string>
     <string name="default_screen_preview_title">기본 화면으로 설정</string>
-    <string name="action_add_to_workspace">워크 스페이스에 추가</string>
+    <string name="action_add_to_workspace">작업 공간에 추가</string>
     <string name="edit_mode_group">그룹</string>
     <string name="edit_mode_group_error_full">저장공간 부족</string>
     <string name="edit_mode_uninstall">설치 제거</string>

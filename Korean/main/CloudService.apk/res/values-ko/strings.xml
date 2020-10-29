@@ -84,7 +84,7 @@
     <string name="verify">확인</string>
     <string name="next">다음</string>
     <string name="password">비밀번호 입력</string>
-    <string name="vcode">확인 코드</string>
+    <string name="vcode">인증번호</string>
     <string name="bad_authentication">계정 또는 비밀번호가 잘못되었습니다.</string>
     <string name="header_data_and_synchronization">데이터 &amp; 동기화</string>
     <string name="header_cloud_backup_settings">백업과 복구</string>

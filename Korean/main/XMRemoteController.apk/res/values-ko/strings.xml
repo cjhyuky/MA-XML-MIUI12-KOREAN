@@ -1085,7 +1085,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;경고&lt;/font&gt; %s 번호는 통신사에서 번호 재사용이 되었습니다. 언제 그 번호가 사용이 되었는지 확인하시겠습니까?</string>
     <string name="passport_get_innetdate_title">사용된 시기 확인</string>
     <string name="passport_getting_activator_phone">SMS 정보를 가져오는 중…</string>
-    <string name="passport_identification_expired">확인 코드가 만료되었습니다. 다시 시작하세요.</string>
+    <string name="passport_identification_expired">인증번호가 만료되었습니다. 다시 시작하세요.</string>
     <string name="passport_login_other_account">다른 계정</string>
     <string name="passport_login_recycle_account_no">아니요</string>
     <string name="passport_login_recycle_account_yes">네</string>

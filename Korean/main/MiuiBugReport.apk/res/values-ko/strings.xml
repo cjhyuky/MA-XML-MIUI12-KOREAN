@@ -369,7 +369,7 @@
     <string name="passport_login_prompt">하나의 Mi 계정으로. 모든 Mi 서비스를.</string>
     <string name="passport_login_title">귀하의 Mi 계정에 로그인하세요.</string>
     <string name="passport_login_using_other_ways">&lt;u&gt;다른 방법으로 로그인&lt;/u&gt;</string>
-    <string name="passport_message_dialog_title">확인 코드가 있는 SMS</string>
+    <string name="passport_message_dialog_title">인증번호가 있는 SMS</string>
     <string name="passport_next">다음</string>
     <string name="passport_notification_title">%1$s에 대한 로그인 오류</string>
     <string name="passport_password_req_notice">비밀번호는 8-16자여야하며 숫자와 문자를 모두 포함해야 합니다(대소문자 구분).</string>
@@ -722,8 +722,8 @@ ID : %s
     <string name="passport_sign_in">로그인</string>
     <string name="passport_sign_in_or_sign_up">로그인/계정 만들기</string>
     <string name="passport_sms_phone_intro">코드를 %1$s(으)로 보냈습니다.</string>
-    <string name="passport_talkback_image_captcha">이미지 확인 코드</string>
-    <string name="passport_talkback_switch_image_captcha">이미지 확인 코드로 전환</string>
+    <string name="passport_talkback_image_captcha">이미지 인증번호</string>
+    <string name="passport_talkback_switch_image_captcha">이미지 인증번호로 전환</string>
     <string name="passport_talkback_switch_voice_captcha">음성 인증번호로 전환</string>
     <string name="passport_talkback_voice_captcha">음성 인증번호 재생</string>
     <string name="passport_timeout_network_error">네트워크 요청 시간이 초과되었습니다.</string>
@@ -733,7 +733,7 @@ ID : %s
     <string name="passport_user_agreement_link">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data>"</string>
     <string name="passport_user_agreement_link_more">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a>, &lt;a href=\"%4$s\">개인정보 보호정책&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>를(을) 숙지하였으며 이에 동의합니다.</Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
-    <string name="passport_v_code_error">확인 코드가 잘못되었습니다.</string>
+    <string name="passport_v_code_error">인증번호가 잘못되었습니다.</string>
     <string name="passport_wrong_voice">입력한 코드가 잘못되었습니다.</string>
     <string name="phone_bind_too_many">이 전화는 단기간에 여러 Mi 계정과 연결되었습니다. 다른 전화번호를 사용해보세요.</string>
     <string name="phone_hint">전화번호</string>
@@ -763,7 +763,7 @@ ID : %s
     <string name="sns_bind_limit">너무 많은 시도가 있습니다. 다른 방법으로 로그인 해보세요.</string>
     <string name="sns_sign_in">다른 로그인 방법</string>
     <string name="temporary_not_available">"이 기능은 아직 사용할 수 없습니다."</string>
-    <string name="ticket_hint">확인 코드</string>
+    <string name="ticket_hint">인증번호</string>
     <string name="ticket_invalid">입력 한 코드가 잘못되었습니다.</string>
     <string name="ticket_sign_in">SMS를 통해 로그인</string>
     <string name="update_email_address_dialog_message">복구 이메일을 업데이트하기 전에 신원을 확인해야 합니다.</string>

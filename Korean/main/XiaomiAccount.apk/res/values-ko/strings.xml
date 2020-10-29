@@ -468,7 +468,7 @@
     <string name="sim_changed_notification_title">휴대전화 번호가 변경되었나요?</string>
     <string name="passport_confirm_login">로그인</string>
     <string name="passport_sms_verification_code_login">SMS 인증번호 로그인</string>
-    <string name="passport_input_voice_captcha_hint">확인 코드 입력</string>
+    <string name="passport_input_voice_captcha_hint">인증번호 입력</string>
     <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
     <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증번호, 보조 공간 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요.</string>
     <string name="passport_talkback_image_captcha">이미지 인증번호</string>

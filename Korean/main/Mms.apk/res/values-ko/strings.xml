@@ -1102,7 +1102,7 @@
     <string name="yulore_term">개인정보 보호정책</string>
     <string name="dialog_choice_all_correct_as_normal">%s에서 옮긴 메시지</string>
     <string name="dialog_choice_finance_correct_as_normal">%s에서 제공하는 메시지</string>
-    <string name="dialog_message_correct_as_ad">%s의 모든 메시지(확인 코드 제외)는 프로모션 메시지로 이동됩니다.</string>
+    <string name="dialog_message_correct_as_ad">%s의 모든 메시지(인증번호 제외)는 프로모션 메시지로 이동됩니다.</string>
     <string name="dialog_message_correct_as_normal">이동할 메시지 선택</string>
     <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">새로고침</string>
     <string name="miuix_sb_tracking_progress_labe_refreshed">새로고침 완료</string>

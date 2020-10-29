@@ -72,7 +72,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="new_trans_intro_desc_8">이전 장치의 WeChat 기록은 전송 중에 새 장치의 WeChat 기록을 덮어 씁니다.</string>
     <string name="new_trans_intro_question_8">8. 새 기기에서 WeChat 기록이 사라진 이유는 무엇인가요?</string>
     <string name="new_trans_intro_desc_new_click">다운로드</string>
-    <string name="send_verification_code_fail">"확인 코드를 보낼 수 없습니다."</string>
+    <string name="send_verification_code_fail">"인증번호를 보낼 수 없습니다."</string>
     <string name="send_verification_code_fail_tips">"Apple기기에서 이 계정으로 로그인했는지 확인하세요. 그렇지 않으면 코드를 받을 수 없습니다."</string>
     <string name="settings_powerkeeper">스텝 카운터 데이터</string>
     <string name="transfer_multi_connect_summary">보안상의 이유로 전송이 중단되었습니다. \"다시 연결\"을 탭하여 계속 진행할 수 있습니다.</string>

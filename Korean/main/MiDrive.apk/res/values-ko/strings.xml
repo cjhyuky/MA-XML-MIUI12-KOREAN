@@ -176,7 +176,7 @@
     <string name="refresh_label_refreshing">새로고침 중…</string>
     <string name="refresh_label_release_to_refresh">놓아서 새로고침</string>
     <string name="request_permission_content_with_phone_state">Xiaomi 클라우드는 빠른 로그인, 파일 미리보기, Xiaomi 계정 업로드/다운로드 및 자동 동기화, 업데이트 확인을 위해 휴대전화의 계정, 사진 및 문서 접근, IMEI 조회 권한이 필요합니다.</string>
-    <string name="ai_ppt_to_pdf">PDF로 변환됨</string>
+    <string name="ai_ppt_to_pdf">슬라이드를 PDF로 변환</string>
     <string name="ai_recommend_pdf">PDF로 변환됨</string>
     <string name="album">갤러리</string>
     <string name="all">모두</string>
@@ -202,4 +202,5 @@
     <string name="save">저장</string>
     <string name="save_pdf">저장</string>
     <string name="saving_pdf">저장 중…</string>
+    <string name="ai_ppt_to_pdf_view_all">전체 보기</string>
 </resources>

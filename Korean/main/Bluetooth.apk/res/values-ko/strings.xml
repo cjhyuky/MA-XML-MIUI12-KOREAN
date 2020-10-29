@@ -232,9 +232,9 @@
     <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD 카드를 삽입하세요.</string>
     <string name="status_no_sd_card_nosdcard">USB 저장소가 없습니다.</string>
     <string name="switch_audio_device_bt">블루투스</string>
-    <string name="switch_audio_device_phone">이 장치</string>
-    <string name="switch_audio_notification_content">현재 오디오 출력 장치:</string>
-    <string name="switch_audio_notification_title">장치 연결성</string>
+    <string name="switch_audio_device_phone">이 기기</string>
+    <string name="switch_audio_notification_content">"현재 오디오 출력 기기: "</string>
+    <string name="switch_audio_notification_title">기기 연결</string>
     <string name="switch_audio_device_bt_a2dp">블루투스 (미디어 오디오)</string>
     <string name="switch_audio_device_bt_a2dp_summary">연결된 기기로 미디어 오디오를 출력합니다.</string>
     <string name="switch_audio_device_bt_hfp">블루투스 (통화)</string>
@@ -245,5 +245,5 @@
     <string name="switch_audio_device_hfp_toast_hint">다음에 이 기기에서 오디오를 재생할 때 기본 오디오 출력값을 사용합니다.</string>
     <string name="switch_audio_device_phone_summary">이 기기에서 오디오를 재생합니다.</string>
     <string name="switch_audio_dialog_title">오디오 출력 기기 선택</string>
-    <string name="switch_audio_device_switch_hint">해당 알림들은 설정 &gt; 블루투스 &gt; 추가 설정에서 제어할 수 있습니다.</string>
+    <string name="switch_audio_device_switch_hint">연결 기기 관련 알림은 설정 &gt; 블루투스 &gt; 추가 설정에서 끌 수 있습니다.</string>
 </resources>
