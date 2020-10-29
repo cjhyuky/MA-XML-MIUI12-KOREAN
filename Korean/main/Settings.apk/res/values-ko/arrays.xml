@@ -95,8 +95,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>그래픽</item>
-        <item>퍼센트(아이콘 안)</item>
-        <item>퍼센트(아이콘 옆)</item>
+        <item>백분율(아이콘 안)</item>
+        <item>백분율(아이콘 옆)</item>
         <item>최상단 바</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
@@ -803,8 +803,8 @@
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>그래픽</item>
-        <item>퍼센트(아이콘 안쪽)</item>
-        <item>퍼센트(아이콘 옆쪽)</item>
+        <item>백분율(아이콘 안쪽)</item>
+        <item>백분율(아이콘 옆쪽)</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>검색</item>
@@ -1213,8 +1213,8 @@
     </string-array>
     <string-array name="drip_battery_indicator_style_entries">
         <item>그래픽</item>
-        <item>퍼센트(아이콘 안)</item>
-        <item>퍼센트(아이콘 옆)</item>
+        <item>백분율(아이콘 안)</item>
+        <item>백분율(아이콘 옆)</item>
     </string-array>
     <string-array name="debug_hw_renderer_entries">
         <item>OpenGL(기본)</item>
@@ -1245,8 +1245,8 @@
     </string-array>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>그래픽</item>
-        <item>퍼센트(아이콘)</item>
-        <item>퍼센트(아이콘 옆)</item>
+        <item>백분율(아이콘)</item>
+        <item>백분율(아이콘 옆)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi 선호</item>
