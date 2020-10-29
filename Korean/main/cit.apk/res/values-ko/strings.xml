@@ -184,7 +184,7 @@
     <string name="cit_play_sd_mp3_title">SD 카드에 저장된 MP3 파일 재생</string>
     <string name="cit_playing_sd_mp3">music.mp3 재생 중…</string>
     <string name="cit_pointer_location_title">터치 센서</string>
-    <string name="cit_power_check_summary">잔여 배터리량이 아래에 퍼센트로 표시됩니다.</string>
+    <string name="cit_power_check_summary">배터리 잔량이 아래에 백분율로 표시됩니다.</string>
     <string name="cit_power_check_title">배터리 표시기</string>
     <string name="cit_pressure_sensor_check_summary">압력 값이 아래에 표시됩니다.</string>
     <string name="cit_pressure_sensor_check_title">압력 센서</string>

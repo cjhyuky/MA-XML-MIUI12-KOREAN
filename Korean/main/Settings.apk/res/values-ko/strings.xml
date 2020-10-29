@@ -4715,7 +4715,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="menu_restore">초기화</string>
     <string name="menu_save">저장</string>
     <string name="menu_share">공유</string>
-    <string name="menu_show_percentage">퍼센트 표시</string>
+    <string name="menu_show_percentage">백분율 표시</string>
     <string name="menu_show_system">시스템 표시</string>
     <string name="menu_stats_last_unplugged">마지막으로 플러그를 뽑은 이후 %1$s 동안</string>
     <string name="menu_stats_refresh">새로고침</string>

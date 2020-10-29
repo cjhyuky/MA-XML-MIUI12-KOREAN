@@ -66,7 +66,7 @@
     <string name="item_title_time_conversion">시간</string>
     <string name="item_title_dress_size">의류 사이즈</string>
     <string name="item_title_aa_payment">더치페이</string>
-    <string name="loan_interest_rate">대출 이율</string>
+    <string name="loan_interest_rate">대출 금리</string>
     <string name="loan_edittext_hint_commercial">상업 대출 총액 입력</string>
     <string name="loan_edittext_hint_fund">펀드 대출 총액 입력</string>
     <string name="loan_edittext_hint_commercial_combined">상업 대출액</string>
@@ -83,7 +83,7 @@
     <string name="mortgage_tab_commercial_loan">상업 대출</string>
     <string name="mortgage_tab_accumulation_fund">펀드 대출</string>
     <string name="mortgage_tab_combining_loan">혼합 대출</string>
-    <string name="mortgage_interest_rate">대출 이율</string>
+    <string name="mortgage_interest_rate">대출 금리</string>
     <string name="mortgage_calculate">계산하기</string>
     <string name="mortgage_hint_loan">대출 총액 입력</string>
     <string name="mortgage_hint_accumulation_fund">펀드 대출 총액 입력</string>
@@ -96,7 +96,7 @@
     <string name="mortgage_input_error">값 입력</string>
     <string name="mortgage_result">결과</string>
     <string name="mortgage_average_repayment_monthly">월 상환</string>
-    <string name="mortgage_average_repayment_first_month">첫달 상환</string>
+    <string name="mortgage_average_repayment_first_month">첫 달 상환</string>
     <string name="mortgage_interest_amount">이자 지불</string>
     <string name="mortgage_repayment_amount">상환 총액</string>
     <string name="mortgage_loans_amount">대출 총액</string>
@@ -162,7 +162,7 @@
     <string name="currency_update_time_format">환율 데이터는 Webull에 의해 제공됨 (%s)</string>
     <string name="choose_unit">단위 선택</string>
     <string name="choose_currency">환율 선택</string>
-    <string name="rate_data_provider">이율 데이터는 huxun.com에서 제공됨</string>
+    <string name="rate_data_provider">금리 데이터는 huxun.com에서 제공됨</string>
     <string name="unit_data_display_currency_cnh">오프쇼어 RMB</string>
     <string name="unit_data_display_length_ly">광년</string>
     <string name="unit_data_display_length_au">천문학 단위</string>
@@ -323,19 +323,19 @@
     <string name="error_fomrat">형식 오류</string>
     <string name="golbal_search_path_calculator_setting">시스템 앱/계산기/설정</string>
     <string name="reciprocalDesc">분수</string>
-    <string name="base_rate">기본 이율</string>
+    <string name="base_rate">기준 금리</string>
     <string name="currency_update_connect_to_get_data">환율 정보는 Webull로부터 제공받습니다. 최신 환율로 업데이트하려면 인터넷에 연결하세요.</string>
     <string name="currency_update_support">Webull에서 정보 제공</string>
     <string name="currency_update_updating">환율 업데이트 중…</string>
     <string name="degDesc">각도</string>
-    <string name="interest_rate_hint">이율</string>
+    <string name="interest_rate_hint">금리</string>
     <string name="item_title_relationship">이용 약관</string>
     <string name="loan_edittext_title_commercial_combined">기업 대출 (×10K)</string>
     <string name="loan_edittext_title_fund_combined">펀드 대출 (×10K)</string>
     <string name="loan_repayment_detail">원금 상환 정보</string>
     <string name="loan_repayment_detail_loading">원금 상환 정보 불러오는 중…</string>
     <string name="loan_repayment_detail_unit">원금 상환 정보 (CNY)</string>
-    <string name="mortgage_provident_found_interest_rate">"대출 이율"</string>
+    <string name="mortgage_provident_found_interest_rate">"대출 금리"</string>
     <string name="powerDesc">제곱</string>
     <string name="radDesc">라디안</string>
     <string name="radian">라디안</string>
@@ -421,7 +421,7 @@
     <string name="unit_data_display_currency_uah">우크라이나어 그리브 니아</string>
     <string name="unit_data_display_currency_ugx">우간다 실링</string>
     <string name="unit_data_display_currency_usd">미국 달러</string>
-    <string name="unit_data_display_currency_vnd">베트남어 đồng</string>
+    <string name="unit_data_display_currency_vnd">베트남 동</string>
     <string name="unit_data_display_currency_zar">남아프리카 랜드</string>
     <string name="unit_data_display_currency_zmw">잠비아 콰차</string>
     <string name="tax_thershold_native_new">%s (신규)</string>
@@ -473,7 +473,7 @@
     <string name="extra_deduction_title">추가 공제</string>
     <string name="further_education">추가 교육</string>
     <string name="help_content_desc">도움말</string>
-    <string name="home_loan">모기지 관심사</string>
+    <string name="home_loan">주택담보대출 금리</string>
     <string name="house_rent">임대료</string>
     <string name="license_host_unreachable">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="loading">잠깐만 기다려주세요…</string>
@@ -484,7 +484,7 @@
     <string name="loading_tips">설정이 다운로드했습니다. 적용하려면 계산기를 다시 시작하세요.</string>
     <string name="loan_basic_point">기본 포인트</string>
     <string name="loan_type_summary_lpr">대출 금리</string>
-    <string name="loan_type_title">관심률 표준</string>
+    <string name="loan_type_title">기준 금리</string>
     <string name="lpr_ok">알았다</string>
     <string name="lpr_tips_msg">"2019년 10월 8일부터 개인 상용주택 대출 이자율은 이전에 구현된 벤치마크 이자율 4.9%대신 LPR(대출 금리)에 따라 계산됩니다. LPR 기준점을 추가하여 요율을 확인할 수 있습니다. 1년 및 5년 LPR은 매월 20일(은행 공휴일로 인해 지연될 수 있음) 중국 인민은행 웹사이트에서 인용됩니다."</string>
     <string name="lpr_tips_title">LPR(대출 금리)</string>
@@ -560,7 +560,7 @@
     <string name="unit_data_display_currency_ves">베네수엘라 볼리바르</string>
     <string name="unit_data_display_currency_yer">예멘 리얄</string>
     <string name="item_title_emi">대출(EMI) 계산기</string>
-    <string name="label_interest">관심 분야(퍼센트)</string>
+    <string name="label_interest">이자율(%)</string>
     <string name="investment_invalid_duration">투자 기간은 0보다 커야 합니다.</string>
     <string name="investment_type_once">일회성</string>
     <string name="investment_type_recurring">반복</string>
