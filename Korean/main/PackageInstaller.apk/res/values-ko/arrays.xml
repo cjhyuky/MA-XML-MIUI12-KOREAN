@@ -2,13 +2,13 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>검색중…</item>
+        <item>검색 중…</item>
         <item>연결 중…</item>
         <item>로그인중…</item>
         <item>IP 주소를 받아오는 중…</item>
         <item>연결됨</item>
         <item>거부됨</item>
-        <item>연결해제중…</item>
+        <item>연결 해제중…</item>
         <item>연결 해제됨</item>
         <item>실패</item>
         <item>차단됨</item>
