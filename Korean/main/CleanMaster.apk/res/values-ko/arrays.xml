@@ -36,6 +36,6 @@
     <string-array name="uninstalled_app_sort_type">
         <item>크기</item>
         <item>사용 빈도</item>
-        <item>설치 일시</item>
+        <item>설치 날짜</item>
     </string-array>
 </resources>
