@@ -60,7 +60,7 @@
     <string name="recents_title_market">앱 찾기</string>
     <string name="recents_title_security_scan">보안 스캔</string>
     <string name="recents_tv_small_window_text">플로팅 창</string>
-    <string name="status_bar_recent_memory_info1">%1$s / %2$s 사용가능</string>
+    <string name="status_bar_recent_memory_info1">%1$s / %2$s 사용 가능</string>
     <string name="one_key_call_title">통화하려면 탭하세요.</string>
     <string name="category_edit_back_confirm_dialog_content">변경사항을 저장하시겠습니까?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"저장 안 함"</string>
@@ -339,7 +339,7 @@
     <string name="menu_lock">홈 화면 구성 잠금</string>
     <string name="menu_more">더보기</string>
     <string name="default_screen_preview_title">기본 화면으로 설정</string>
-    <string name="action_add_to_workspace">작업 공간에 추가</string>
+    <string name="action_add_to_workspace">업무 공간에 추가</string>
     <string name="edit_mode_group">그룹</string>
     <string name="edit_mode_group_error_full">저장공간 부족</string>
     <string name="edit_mode_uninstall">설치 제거</string>
@@ -417,7 +417,7 @@
     <string name="recommend_xout">"다시 표시하지 않기"</string>
     <string name="show_recents_recommend_title">제안 표시</string>
     <string name="gadget_dual_clock_label">듀얼 시계</string>
-    <string name="double_tap_to_lock_title">더블 탭하여 화면 잠금</string>
+    <string name="double_tap_to_lock_title">두 번 탭하여 화면 잠금</string>
     <string name="dual_app">듀얼 앱</string>
     <string name="edit_mode_top_menu_finish">완료</string>
     <string name="menu_finish">완료</string>
@@ -526,8 +526,8 @@
     <string name="reset_cate_tip_title">기본 그룹 복원</string>
     <string name="edit">편집</string>
     <string name="system_shortcuts_remove">삭제</string>
-    <string name="recents_forbid_dock_when_screening_toast_text">"캐스팅 중에는 분할 화면을 사용할 수 없습니다."</string>
-    <string name="recents_task_screening">캐스팅</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">"화면 전송 중에는 분할 화면을 사용할 수 없습니다."</string>
+    <string name="recents_task_screening">화면 전송</string>
     <string name="task_access_locked_app_msg">앱 잠금 켜짐</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">다른 앱</string>
@@ -540,15 +540,15 @@
     <string name="small_window_button_complete">완료</string>
     <string name="small_window_edit_content">최대 %d개 앱 추가 가능</string>
     <string name="small_window_edit_title">현재 앱</string>
-    <string name="small_window_empty">사용가능한 앱에서 추가</string>
-    <string name="small_window_select_title">사용가능한 앱</string>
+    <string name="small_window_empty">사용 가능한 앱에서 추가</string>
+    <string name="small_window_select_title">사용 가능한 앱</string>
     <string name="small_window_title_text">탭하여 플로팅 창 열기</string>
     <string name="small_window_toast">최대 %d개 앱을 추가할 수 있습니다.</string>
     <string name="recents_exit_multi_window_mode">종료</string>
     <string name="accessibility_recent_task_enter">최근 사용 앱 열기</string>
     <string name="accessibility_recent_task_exit">최근 사용 앱 닫기</string>
     <string name="accessibility_recent_task_locked_state">잠김</string>
-    <string name="accessibility_recent_task_memory_info">총 메모리: %2$s | 사용가능한 메모리: %1$s. 정리하려면 두 번 탭하세요.</string>
+    <string name="accessibility_recent_task_memory_info">총 메모리: %2$s | 사용 가능한 메모리: %1$s. 정리하려면 두 번 탭하세요.</string>
     <string name="accessibility_recent_task_unlocked_state">잠금해제됨</string>
     <string name="recents_incompatible_app_message">"이 앱은 분할 화면을 지원하지 않습니다."</string>
     <string name="content_description_button_add">탭하여 앱 추가</string>

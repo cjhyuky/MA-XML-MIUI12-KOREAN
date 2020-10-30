@@ -38,7 +38,7 @@
     <string name="bind_success">기기 추가 완료</string>
     <string name="bind_success_msg">"다른 기기에서 앱과 시간 제한을
 설정할 수 있습니다."</string>
-    <string name="bing_device">장치 추가</string>
+    <string name="bing_device">기기 추가</string>
     <string name="can_not_close_gps">보호자가 내 위치를 사용 중이라서 GPS를 닫을 수 없습니다.</string>
     <string name="can_use_time">"다음과 같이 이 앱을 사용할 수 있습니다:"</string>
     <string name="check_detail">현재 사용 가능한 앱 보기</string>
@@ -77,8 +77,8 @@
     <string name="freerun_device_removed">기기가 서버에서 삭제됩니다.</string>
     <string name="freerun_disable_startup_app">%s 사용이 관리자에 의해 금지되었습니다. 삭제하세요.</string>
     <string name="freerun_emm_admin_notify">관리자로 부터 알림</string>
-    <string name="freerun_geoFence_in_tips">주의: 지오 펜싱 제한이 적용되었습니다. 장치의 일부 기능을 사용할 수 없습니다.</string>
-    <string name="freerun_geoFence_out_tips">지오 펜싱 제한이 제거되었습니다. 장치 기능을 모두 사용할 수 있습니다.</string>
+    <string name="freerun_geoFence_in_tips">주의: 지오 펜싱 제한이 적용되었습니다. 기기의 일부 기능을 사용할 수 없습니다.</string>
+    <string name="freerun_geoFence_out_tips">지오 펜싱 제한이 제거되었습니다. 기기 기능을 모두 사용할 수 있습니다.</string>
     <string name="freerun_init_device_tip">기기 활성화중…</string>
     <string name="freerun_new_notice">새로운 메시지가 있습니다.</string>
     <string name="freerun_service_label_alarm">시간초과 실행</string>
@@ -86,8 +86,8 @@
     <string name="freerun_service_label_mdm">MDM 메인 서비스</string>
     <string name="freerun_service_label_pn">PN 서비스</string>
     <string name="freerun_service_label_push_exe">PN 실행</string>
-    <string name="freerun_timeFence_in_tips">주의: 시간 울타리 제한이 적용되었습니다. 장치의 일부 기능을 사용할 수 없습니다.</string>
-    <string name="freerun_timeFence_out_tips">시간 울타리 제한이 제거되었습니다. 장치 기능을 모두 사용할 수 있습니다.</string>
+    <string name="freerun_timeFence_in_tips">주의: 시간 울타리 제한이 적용되었습니다. 기기의 일부 기능을 사용할 수 없습니다.</string>
+    <string name="freerun_timeFence_out_tips">시간 울타리 제한이 제거되었습니다. 기기 기능을 모두 사용할 수 있습니다.</string>
     <string name="freerun_uninstall_app_tips">%s 앱이 검은색 항목이므로 설치가 금지되어 있습니다.</string>
     <string name="freerun_uninstall_installedapp">%s 앱을 제거하고 사용자 정의 버전을 설치하세요.</string>
     <string name="from_who">보낸이【%s】</string>
@@ -99,15 +99,15 @@
     <string name="min">분</string>
     <string name="mon">월요일</string>
     <string name="my_qr">카이트가드 APk QR 코드</string>
-    <string name="need_network_when_bind">장치를 추가하려면 네트워크에 연결하세요.</string>
+    <string name="need_network_when_bind">기기를 추가하려면 네트워크에 연결하세요.</string>
     <string name="net_work_error">네트워크 오류가 발생했습니다. 다시 시도하세요.</string>
-    <string name="net_work_notice">이 기능을 사용하면 Xiaomi가 MIUI &amp; Android 버전을 포함한 귀하의 개인 데이터를 수집, 처리 및 사용할 것에 동의해야 합니다. 앱 버전, 위치 정보 및 사용 가능한 앱 목록 이것은 하나의 장치가 다른 장치를 찾고 관리할 수 ​​있도록하는데 필요합니다. 기기 ID, 위치 정보 및 사용 가능한 앱 목록이 타사 서비스 제공 업체와 공유 될 수 있습니다. 개인정보 보호정책은 개인정보 보호정책에서 확인할 수 있습니다. 아래 "동의"를 눌러 개인정보 보호정책에 동의 할 수 있습니다.</string>
+    <string name="net_work_notice">이 기능을 사용하면 Xiaomi가 MIUI &amp; Android 버전을 포함한 귀하의 개인 데이터를 수집, 처리 및 사용할 것에 동의해야 합니다. 앱 버전, 위치 정보 및 사용 가능한 앱 목록 이것은 하나의 기기가 다른 기기를 찾고 관리할 수 ​​있도록하는데 필요합니다. 기기 ID, 위치 정보 및 사용 가능한 앱 목록이 타사 서비스 제공 업체와 공유 될 수 있습니다. 개인정보 보호정책은 개인정보 보호정책에서 확인할 수 있습니다. 아래 "동의"를 눌러 개인정보 보호정책에 동의 할 수 있습니다.</string>
     <string name="no_msg_yet">아직 메시지를 받지 못했습니다.</string>
     <string name="not_set_time_fence_yet">"시간 울타리를 설정하지 않았습니다."</string>
     <string name="notice_detail">메시지 세부 사항</string>
     <string name="notice_message">나의 공지사항 체크</string>
-    <string name="notification_deactivate">장치 관리가 제거되었습니다.</string>
-    <string name="notification_deactivate_msg">장치에서 모든 앱을 사용할 수 있습니다.</string>
+    <string name="notification_deactivate">기기 관리가 제거되었습니다.</string>
+    <string name="notification_deactivate_msg">기기에서 모든 앱을 사용할 수 있습니다.</string>
     <string name="notification_disable_all">기기 잠금해제되었습니다.</string>
     <string name="notification_disable_all_msg">다시 잠길 때까지 사용할 수 있습니다.</string>
     <string name="notification_today_steps_end1">내일은 더 걸으세요.</string>
@@ -119,7 +119,7 @@
     <string name="private_policy_url">ko</string>
     <string name="qr_downlaod">KiteGuard.apk는 QR 코드 상단을 스캔하여 다운로드할 수 있습니다.</string>
     <string name="qr_text_1">1. 이 QR 코드를 스캔하여 자녀 보호 기능을 다운로드하세요.</string>
-    <string name="qr_text_2">2. 자녀 보호 기능을 열고 \"장치 추가\"를 탭하세요. QR 코드를 스캔하여 장치를 추가하세요.</string>
+    <string name="qr_text_2">2. 자녀 보호 기능을 열고 \"기기 추가\"를 탭하세요. QR 코드를 스캔하여 기기를 추가하세요.</string>
     <string name="regist_failed">"등록 할 수 없습니다. 오류 코드:"</string>
     <string name="sat">토요일</string>
     <string name="scroll_for_more">더 보려면 스크롤하세요.</string>
@@ -142,7 +142,7 @@
     <string name="verify_fingerprint_retry">"지문인식 실패. 다시 시도하세요."</string>
     <string name="verify_password">비밀번호를 입력하세요.</string>
     <string name="wes">수요일</string>
-    <string name="what_app_can_use">사용가능한 앱</string>
+    <string name="what_app_can_use">사용 가능한 앱</string>
     <string name="yesterday">어제</string>
     <string name="your_guardian">보호자 【%1$s】 님이 【%2$s】 앱을 삭제하는 걸 추천합니다.</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 앱 관리에서 다운로드 관리자 상태를 확인하세요.</string>

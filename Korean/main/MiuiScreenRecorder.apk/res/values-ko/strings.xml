@@ -103,14 +103,14 @@
     <string name="is_go_home_summary">"녹음을 끝내면 화면 녹화가 시작됩니다."</string>
     <string name="settings">설정</string>
     <string name="storage_location">저장소</string>
-    <string name="storage_location_summary">선호하는 저장 용량을 선택하세요.</string>
+    <string name="storage_location_summary">선호하는 저장공간을 선택하세요.</string>
     <string name="unchecked">선택되지 않음</string>
     <string name="first_using_mic_dialog_message">화면 레코더에서 오디오를 녹음하려면 마이크에 액세스 해야 합니다. 허용하시겠습니까?</string>
     <string name="first_using_mic_dialog_title">권한 요구됨</string>
     <string name="using_record_confirm_cancel">제한</string>
     <string name="using_record_confirm_ok">허용</string>
     <string name="sound_source_summary_without_system_sounds">마이크 사용 또는 무음</string>
-    <string name="warning_recording_when_a2dp_connect">"블루투스 헤드셋을 사용하는 동안 장치가 시스템 사운드 녹음을 지원하지 않습니다."</string>
+    <string name="warning_recording_when_a2dp_connect">"블루투스 헤드셋을 사용하는 동안 기기가 시스템 사운드 녹음을 지원하지 않습니다."</string>
     <string name="permission_intro_microphone">마이크 녹음 권한</string>
     <string name="permission_intro_storage">화면 녹화 저장 권한</string>
     <string name="permission_microphone_desc">화면 녹화를 위한 오디오 소스로 마이크 사용</string>

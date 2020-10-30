@@ -12,7 +12,7 @@
     <string name="bugreport_info_action">자세한 정보</string>
     <string name="bugreport_info_description">버그 요약</string>
     <string name="bugreport_info_dialog_title">버그 신고서 #%d 내용</string>
-    <string name="bugreport_info_name">파일명</string>
+    <string name="bugreport_info_name">파일 이름</string>
     <string name="bugreport_info_title">신고서 제목</string>
     <string name="bugreport_screenshot_action">스크린샷</string>
     <string name="bugreport_screenshot_failed">스크린샷이 생성되지 않았습니다.</string>

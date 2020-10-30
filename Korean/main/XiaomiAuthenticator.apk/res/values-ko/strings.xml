@@ -61,7 +61,7 @@
     <string name="dataimport_import_succeeded_uninstall_dialog_prompt">사용자의 데이터는 Xiaomi 인증 앱에서 성공적으로 가져왔습니다. 이제 아래를 클릭하여 앱의 이전 버전을 제거해도 됩니다.</string>
     <string name="button_uninstall_old_app">삭제</string>
     <string name="howitworks_page_enter_password_title">"로그인하려면 비밀번호를 입력합니다."</string>
-    <string name="howitworks_page_enter_password_details">"만약 새로운 PC나 새로운 장치를 사용한다면, 사용자가 맞는지 여부를 확인하기 위해 Xiaomi가 특별한 코드를 물어볼 수 있습니다."</string>
+    <string name="howitworks_page_enter_password_details">"만약 새로운 PC나 새로운 기기를 사용한다면, 사용자가 맞는지 여부를 확인하기 위해 Xiaomi가 특별한 코드를 물어볼 수 있습니다."</string>
     <string name="howitworks_page_enter_code_title">"새 PC를 사용하는 경우, 사용자의 휴대전화의 코드를 입력하세요."</string>
     <string name="howitworks_page_enter_code_details">이 앱은 로그인을 진행하는 데 필요한 코드를 생성합니다.</string>
     <string name="howitworks_page_verify_device_title">"그러면 사용자는 로그인이 됩니다."</string>
@@ -75,9 +75,9 @@
     <string name="mycard_scan_barcode">MiID 코드 스캐너</string>
     <string name="scan_barcode_info">이 화면 안에 MiID 바코드를 넣고 스캔하세요.</string>
     <string name="scan_barcode">MiID 스캔</string>
-    <string name="gif_not_support_camera_msg">장치에서 동영상 녹화를 지원하지 않습니다.</string>
+    <string name="gif_not_support_camera_msg">기기에서 동영상 녹화를 지원하지 않습니다.</string>
     <string name="open_camera_exception_dialog_title">카메라가 작동하지 않습니다.</string>
-    <string name="open_camera_exception_dialog_content">카메라에 문제가 생겼습니다. 장치를 다시 시작 해야할 수 있습니다.</string>
+    <string name="open_camera_exception_dialog_content">카메라에 문제가 생겼습니다. 기기를 다시 시작 해야할 수 있습니다.</string>
     <string name="ok_button">확인</string>
     <string name="security_setting">보안 설정</string>
     <string name="lockscreen_forgot_pattern_button_text">&lt;u>패턴 비밀번호 분실&lt;/u></string>
@@ -154,14 +154,14 @@ account.xiaomi.com에서 로그인하고 Reactivative를 클릭합니다."</stri
     <string name="timesync_sync_now_preference_title">지금 동기화</string>
     <string name="timesync_about_feature_preference_title">이 기능에 대하여</string>
     <string name="timesync_about_feature_screen_title">이 기능에 대하여</string>
-    <string name="timesync_about_feature_screen_details">"지금 동기화를 누르면, 앱이 Google 서버와 동기화를 하려고 시도합니다. 기기의 날짜 및 시간은 변경되지 않습니다. 앱은 내부 시계를 Google 서버와 동기화하는 동안, 개인 데이터나 게정 정보를 전송하지 않습니다. 이는 이 앱이 1) 현재 시간을 바탕으로 2단계 검증 코드를 생성하고 2) 앱과 서버에 알려진 비밀번호를 생성하는 이유입니다. 이 앱과 서버가 현재 시간에 대해 서로 다른 경우 로그인을 할 때 앱이 생성하는 코드가 수락되지 않을 수 있습니다. 기본적으로 이 앱은 장치의 날짜 및 시간 설정을 사용하며, 대부분의 경우 시간, 날짜 및 시간대의 설정이 올바르게 구성되어 있는지 확인하여 유호한 코드를 생성할 수 있습니다. 그러나 시간 불일치가 발생하면 문제를 해결하기 어려울 수 있습니다. (특히 네트워크에서 제공하는 시간대를 사용하는 경우)"</string>
+    <string name="timesync_about_feature_screen_details">"지금 동기화를 누르면, 앱이 Google 서버와 동기화를 하려고 시도합니다. 기기의 날짜 및 시간은 변경되지 않습니다. 앱은 내부 시계를 Google 서버와 동기화하는 동안, 개인 데이터나 게정 정보를 전송하지 않습니다. 이는 이 앱이 1) 현재 시간을 바탕으로 2단계 검증 코드를 생성하고 2) 앱과 서버에 알려진 비밀번호를 생성하는 이유입니다. 이 앱과 서버가 현재 시간에 대해 서로 다른 경우 로그인을 할 때 앱이 생성하는 코드가 수락되지 않을 수 있습니다. 기본적으로 이 앱은 기기의 날짜 및 시간 설정을 사용하며, 대부분의 경우 시간, 날짜 및 시간대의 설정이 올바르게 구성되어 있는지 확인하여 유호한 코드를 생성할 수 있습니다. 그러나 시간 불일치가 발생하면 문제를 해결하기 어려울 수 있습니다. (특히 네트워크에서 제공하는 시간대를 사용하는 경우)"</string>
     <string name="timesync_sync_now_screen_title">지금 동기화</string>
     <string name="timesync_sync_now_progress_dialog_title">지금 동기화</string>
     <string name="timesync_sync_now_progress_dialog_details">서버에 연결 중…</string>
     <string name="timesync_sync_now_time_corrected_dialog_title">시간 수정</string>
     <string name="timesync_sync_now_time_corrected_dialog_details">"앱의 내부 시계가 서버가 제공하는 시간에 맞춰 조정되었습니다. 
 
-이 장치의 날짜 및 시간 설정은 변경되지 않았습니다."</string>
+이 기기의 날짜 및 시간 설정은 변경되지 않았습니다."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_title">시간이 이미 정확합니다.</string>
     <string name="timesync_sync_now_time_already_correct_dialog_details">"앱의 내부 시계가 이미 서버와 동기화된 것 같아 조정되지 않았습니다."</string>
     <string name="timesync_sync_now_connectivity_error_dialog_title">지금 동기화</string>

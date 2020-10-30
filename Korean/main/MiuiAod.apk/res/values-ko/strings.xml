@@ -143,7 +143,7 @@
     <string name="aod_lock_screen_date_12">M월 d일 EEEE</string>
     <string name="aod_mode_style">시계 스타일과 배경 설정</string>
     <string name="aod_mode_summary">이 기능은 시스템 배터리 소모를 증가시킵니다. 기기가 어두운 곳에서 오랫동안 계속 켜져있거나 절전 모드 제한이 적용되면 전원이 꺼집니다.</string>
-    <string name="aod_mode_time_summary">장치가 항상 켜기 모드로 전환되어야하는 시간을 예약하세요.</string>
+    <string name="aod_mode_time_summary">기기가 항상 켜기 모드로 전환되어야하는 시간을 예약하세요.</string>
     <string name="aod_mode_time_title">스케줄</string>
     <string name="aod_mode_title">Always On Display</string>
     <string name="aod_to_close">끄기</string>
@@ -175,7 +175,7 @@
     <string name="show_notification">알림 표시</string>
     <string name="signature">서명</string>
     <string name="signature_default_content">"항상 무언가를 믿는다
-근사한 일이 일어날 것입니다."</string>
+근사한 일이 일어납니다."</string>
     <string name="standard_style">표준</string>
     <string name="text_color">텍스트 색상</string>
     <string name="text_length_exceed_limit_alert">*입력한 텍스트가 너무 깁니다.</string>

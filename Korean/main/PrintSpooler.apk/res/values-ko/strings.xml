@@ -95,7 +95,7 @@
     <string name="print_help_label">도움말</string>
     <string name="print_help_tip">휴대전화와 프린터가 동일한 WLAN 네트워크 %1$s에 연결되어 있거나 WLAN Direct가 켜져 있는지 확인하세요.</string>
     <string name="print_help_tip_reg">\"도움말\"보기</string>
-    <string name="print_searching_printers">프린터 검색중…</string>
+    <string name="print_searching_printers">프린터 검색 중…</string>
     <string name="print_submited">인쇄할 준비가 되었습니다.</string>
     <string name="print_title">인쇄 중…</string>
     <string name="printer">프린터</string>

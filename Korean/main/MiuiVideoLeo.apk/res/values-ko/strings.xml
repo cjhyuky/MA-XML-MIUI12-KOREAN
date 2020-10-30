@@ -102,7 +102,7 @@
     <string name="declaration">서비스 약관</string>
     <string name="declaration_allow">동의</string>
     <string name="declaration_content">"1. 이 서비스를 이용하려면, Sohu 동영상, iQiyi, 그리고 다른 콘텐츠 제공자의' "&lt;a href="file:///android_asset/terms.html"&gt;서비스 약관&lt;/a&gt; 에 동의하여야 합니다.".
-2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 콘텐츠의 일부 데이터를 수집할 것입니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집할 것입니다.&amp;#8203;
+2. 보다 나은 서비스를 위해, 사용자의 기기와 시청하는 콘텐츠의 일부 데이터를 수집합니다. Youku와 iQiyi는 또한 사용자의 기기의 IMEI를 수집합니다.&amp;#8203;
 3. 저희의 HD 동영상 플러그인이 자동으로 설치됩니다.
 4. 이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다."</string>
     <string name="declaration_content_td_custom">이 애플리케이션의 원활한 사용을 위해서는 인터넷 연결이 필요합니다.</string>
@@ -288,14 +288,14 @@
     <string name="play_his_empty_title">비어있음</string>
     <string name="play_history">최근</string>
     <string name="play_source_fetching">연결 중…</string>
-    <string name="player_plugin_des">사용가능한 플러그인 보기</string>
+    <string name="player_plugin_des">사용 가능한 플러그인 보기</string>
     <string name="player_plugin_title">동영상 플레이어 플러그인</string>
     <string name="positive_comment">좋아요</string>
     <string name="pps">PPS</string>
     <string name="pptv">PPTV</string>
     <string name="prefix_countdown">"광고 남은 시간: "</string>
     <string name="priority_storage">SD 카드에 저장</string>
-    <string name="priority_storage_summary">사용가능하면 외부 sd카드에 자동으로 저장합니다.</string>
+    <string name="priority_storage_summary">사용 가능하면 외부 sd카드에 자동으로 저장합니다.</string>
     <string name="pulltorefresh">당겨서 새로고침</string>
     <string name="qiyi">iQiyi</string>
     <string name="rank_title_movie">영화</string>
@@ -514,7 +514,7 @@
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
     <string name="abc_capital_off">끄기</string>
     <string name="abc_capital_on">켜기</string>
-    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_search_hint">검색 중…</string>
     <string name="abc_searchview_description_clear">최근 검색 삭제</string>
     <string name="abc_searchview_description_query">최근 검색</string>
     <string name="abc_searchview_description_search">검색</string>
@@ -586,8 +586,8 @@
     <string name="refresh">새로고침</string>
     <string name="remove">삭제</string>
     <string name="rename">이름 바꾸기</string>
-    <string name="rename_file">파일명 변경</string>
-    <string name="rename_folder">폴더명 변경</string>
+    <string name="rename_file">파일 이름 변경</string>
+    <string name="rename_folder">폴더 이름 변경</string>
     <string name="rename_hidden_error">이 파일은 숨겨집니다.</string>
     <string name="replace_num_files">%d개의 파일</string>
     <string name="replace_num_videos">%d개의 동영상</string>

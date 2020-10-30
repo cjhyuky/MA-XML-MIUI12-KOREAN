@@ -17,7 +17,7 @@
     <string name="monitor_result_switch_video">동영상보기</string>
     <string name="monitor_unsupport_device">현재 기기가 지원되지 않습니다.</string>
     <string name="monitoringAlert_content">"넷 클래스 화면을 향하고 정상적인 앉은 자세를 유지하세요.이 전화기를 시선 바로 앞에서 30도 각도로 수직으로 놓고 카메라가 얼굴을 향하게 한 다음 시작 버튼을 클릭하세요. .
- *이 소프트웨어는 온라인 코스 장치가 아닌주의 탐지에만 사용됩니다. 시작하기 전에 식별 및 수정에 몇 초가 걸립니다. "</string>
+ *이 소프트웨어는 온라인 코스 기기가 아닌주의 탐지에만 사용됩니다. 시작하기 전에 식별 및 수정에 몇 초가 걸립니다. "</string>
     <string name="monitoringCHeck_pause">일시 중지</string>
     <string name="monitoringCheck_alert">앉은 자세를 수정하고 네트 클래스 화면을 향하도록하세요.</string>
     <string name="monitoringCheck_alertChecking">확인 중...</string>
@@ -122,7 +122,7 @@
     <string name="tip_type_not_image">선택한 이미지가 이미지가 아닙니다.</string>
     <string name="app_name">스캐너</string>
     <string name="impunity_declaration_title">개인정보 보호정책</string>
-    <string name="impunity_declaration_content">스캐너는 카메라에 액세스하고 사진을 만들 수 있는 권한이 필요합니다. 정상적으로 작동하려면 인터넷에 연결해야 합니다. 아래 "동의함"을 누르면 %1$s개인정보 보호정책 %2$s을 읽고 동의한 것으로 간주됩니다.</string>
+    <string name="impunity_declaration_content">스캐너는 카메라에 액세스하고 사진을 만들 수 있는 권한이 필요합니다. 정상적으로 작동하려면 인터넷에 연결해야 합니다. 아래 "동의함"을 누르면 %1$s개인정보 보호정책 %2$s을 숙지하였으며 이에 동의한 것으로 간주됩니다.</string>
     <string name="impunity_declaration_positive_text">허용</string>
     <string name="impunity_declaration_negative_text">나가기</string>
     <string name="accessibility_shutter_button">셔터</string>
@@ -405,7 +405,7 @@
     <string name="abc_activitychooserview_choose_application">앱을 선택하세요.</string>
     <string name="abc_capital_off">꺼짐</string>
     <string name="abc_capital_on">켜짐</string>
-    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_search_hint">검색 중…</string>
     <string name="abc_searchview_description_clear">최근 검색어 삭제</string>
     <string name="abc_searchview_description_query">최근 검색어 찾기</string>
     <string name="abc_searchview_description_search">검색하기</string>

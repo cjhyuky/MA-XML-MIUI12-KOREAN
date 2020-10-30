@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Omacp</string>
-    <string name="configuration_message">전화 저장장치에 공간이 부족합니다. 지금 다운로드할 수 없습니다.</string>
-    <string name="notification_multiple">예비 저장장치에 공간이 부족합니다. 지금 다운로드할 수 없습니다.</string>
+    <string name="configuration_message">전화 저장기기에 공간이 부족합니다. 지금 다운로드할 수 없습니다.</string>
+    <string name="notification_multiple">예비 저장기기에 공간이 부족합니다. 지금 다운로드할 수 없습니다.</string>
     <string name="notification_multiple_title">새 메시지</string>
     <string name="view">보기</string>
     <string name="delete">삭제</string>
@@ -32,7 +32,7 @@
     <string name="email_smtp_app_name">이메일-SMTP</string>
     <string name="email_pop3_app_name">이메일-POP3</string>
     <string name="email_imap4_app_name">이메일-IMAP4</string>
-    <string name="dm_app_name">장치 관리</string>
+    <string name="dm_app_name">기기 관리</string>
     <string name="agps_app_name">A-GPS</string>
     <string name="rtsp_app_name">실시간 스트리밍 프로토콜</string>
     <string name="ds_app_name">데이터 동기화</string>

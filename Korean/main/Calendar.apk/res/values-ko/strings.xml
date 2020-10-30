@@ -809,7 +809,7 @@
     <string name="clearable_edittext_clear_description">비우기</string>
     <string name="date_picker_lunar">음력</string>
     <string name="error_icon_content_description">오류</string>
-    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 보기</string>
+    <string name="exposed_dropdown_menu_content_description">알림 창 보기</string>
     <string name="friday">금요일</string>
     <string name="friday_short">금요일</string>
     <string name="friday_shortest">금</string>
@@ -906,7 +906,7 @@
     <string name="premission_description_calendar">일정 추가 및 표시</string>
     <string name="premission_description_contact">연락처의 생일을 표시</string>
     <string name="premission_description_log">로그 저장을 위해</string>
-    <string name="premission_description_phone_state">장치 ID를 기반으로 장치를 식별하기 위해</string>
+    <string name="premission_description_phone_state">기기 ID를 기반으로 기기를 식별하기 위해</string>
     <string name="premission_description_ringtone">벨소리 설정을 위해</string>
     <string name="premission_description_title">예약된 일정보기 및 관리를 위해</string>
     <string name="pull_refresh_events">%d 일정 보기</string>

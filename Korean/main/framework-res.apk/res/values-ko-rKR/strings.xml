@@ -114,7 +114,7 @@
     <string name="cfTemplateRegistered">{0}: 착신전환 안됨</string>
     <string name="cfTemplateRegisteredTime">{0}: 착신전환 안됨</string>
     <string name="chooseActivity">작업 선택</string>
-    <string name="chooseUsbActivity">USB 장치에 대한 앱 선택</string>
+    <string name="chooseUsbActivity">USB 기기에 대한 앱 선택</string>
     <string name="choose_account_label">계정 선택</string>
     <string name="chooser_wallpaper">배경화면 변경</string>
     <string name="clearDefaultHintMsg">시스템 설정 &gt; 앱 &gt; 다운로드로 이동하여 기본 설정을 지웁니다.</string>
@@ -126,7 +126,7 @@
     <string name="content_description_sliding_handle">슬라이딩 핸들을 길게 터치하세요.</string>
     <string name="copy">복사</string>
     <string name="copyUrl">URL 복사</string>
-    <string name="create_contact_using">"전화번호부에
+    <string name="create_contact_using">"주소록에
 %s 추가"</string>
     <string name="cut">잘라내기</string>
     <string name="data_usage_3g_limit_snoozed_title">2G - 3G 데이터 제한 초과됨</string>
@@ -643,7 +643,7 @@
     <string name="permdesc_manageAccounts">앱이 계정 추가, 삭제 및 비밀번호 삭제 등의 작업을 수행할 수 있도록 허용합니다.</string>
     <string name="permdesc_manageAppTokens">앱이 일반적인 Z-순서를 무시하여 자체 토큰을 만들고 관리할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_manageNetworkPolicy">앱이 네트워크 정책을 관리하고 앱별 규칙을 정의할 수 있도록 허용합니다.</string>
-    <string name="permdesc_manageUsb">앱이 USB 장치에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
+    <string name="permdesc_manageUsb">앱이 USB 기기에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
     <string name="permdesc_masterClear">앱이 모든 데이터, 구성 및 설치된 앱을 지워서 시스템을 완전히 초기화할 수 있도록 허용합니다.</string>
     <string name="permdesc_mediaStorageWrite">앱이 내부 미디어 저장소의 콘텐츠를 수정할 수 있도록 허용합니다.</string>
     <string name="permdesc_modifyAudioSettings">앱이 음량이나 출력을 위해 사용하는 스피커 등 전체 오디오 설정을 변경할 수 있도록 허용합니다.</string>
@@ -840,7 +840,7 @@
     <string name="permlab_manageAccounts">계정 추가 또는 삭제</string>
     <string name="permlab_manageAppTokens">앱 토큰 관리</string>
     <string name="permlab_manageNetworkPolicy">네트워크 정책 관리</string>
-    <string name="permlab_manageUsb">USB 장치에 대한 환경설정 및 권한 관리</string>
+    <string name="permlab_manageUsb">USB 기기에 대한 환경설정 및 권한 관리</string>
     <string name="permlab_masterClear">시스템 초기화</string>
     <string name="permlab_mediaStorageWrite">내부 미디어 저장소 콘텐츠 수정/삭제</string>
     <string name="permlab_modifyAudioSettings">오디오 설정 변경</string>

@@ -16,7 +16,7 @@
     <string name="permlab_bluetoothWhitelist">블루투스 기기에 액세스하도록 허용합니다.</string>
     <string name="permdesc_bluetoothWhitelist">일시적으로 앱에서 블루투스 기기를 허용하여 사용자 확인을 받지 않고 해당 기기로 파일을 보내도록 허용합니다.</string>
     <string name="bt_share_picker_label">블루투스</string>
-    <string name="unknown_device">알 수 없는 장치</string>
+    <string name="unknown_device">알 수 없는 기기</string>
     <string name="unknownNumber">알 수 없음</string>
     <string name="airplane_error_title">비행기 모드</string>
     <string name="airplane_error_msg">비행기 모드에서는 블루투스를 사용할 수 없습니다.</string>
@@ -224,11 +224,11 @@
     <string name="bt_sm_2_1_default">"SD 카드에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다."</string>
     <string name="bt_sm_2_1_nosdcard">"USB 저장소에 \"%1$s\"에서 파일을 저장하기에 충분한 공간이 없습니다."</string>
     <string name="defaultname">자</string>
-    <string name="phonebook_advance_feature_support">전화번호부 고급 기능 지원</string>
-    <string name="remote_pbap_version_change">원격 전화번호부 프로필 버전 변경</string>
-    <string name="remote_phonebook_feature_downgrade">원격 전화번호부 기능 다운그레이드</string>
-    <string name="repair_for_adv_phonebook_feature">사전 전화번호부 기능에 대한 다시 페어링</string>
-    <string name="repair_for_phonebook_access_version_comp">전화번호부 액세스 버전 호환성을 위해 다시 페어링</string>
+    <string name="phonebook_advance_feature_support">주소록 고급 기능 지원</string>
+    <string name="remote_pbap_version_change">원격 주소록 프로필 버전 변경</string>
+    <string name="remote_phonebook_feature_downgrade">원격 주소록 기능 다운그레이드</string>
+    <string name="repair_for_adv_phonebook_feature">사전 주소록 기능에 대한 다시 페어링</string>
+    <string name="repair_for_phonebook_access_version_comp">주소록 액세스 버전 호환성을 위해 다시 페어링</string>
     <string name="status_no_sd_card_default">SD 카드가 없습니다. 전송된 파일을 저장하려면 SD 카드를 삽입하세요.</string>
     <string name="status_no_sd_card_nosdcard">USB 저장소가 없습니다.</string>
     <string name="switch_audio_device_bt">블루투스</string>
@@ -241,9 +241,9 @@
     <string name="switch_audio_device_bt_hfp_summary">연결된 기기로 통화 오디오를 출력합니다. 이 기능은 수동으로 꺼야 합니다.</string>
     <string name="switch_audio_device_default">기본</string>
     <string name="switch_audio_device_default_summary">현재 사용 기기</string>
-    <string name="switch_audio_device_hfp_hint">기본 출력 기기 사용하기</string>
-    <string name="switch_audio_device_hfp_toast_hint">다음에 이 기기에서 오디오를 재생할 때 기본 오디오 출력값을 사용합니다.</string>
+    <string name="switch_audio_device_hfp_hint">기본 출력 사용</string>
+    <string name="switch_audio_device_hfp_toast_hint">다음에 이 기기에서 오디오를 재생할 때 기본 오디오 출력을 선택합니다.</string>
     <string name="switch_audio_device_phone_summary">이 기기에서 오디오를 재생합니다.</string>
-    <string name="switch_audio_dialog_title">오디오 출력 기기 선택</string>
+    <string name="switch_audio_dialog_title">오디오 출력 선택</string>
     <string name="switch_audio_device_switch_hint">연결 기기 관련 알림은 설정 &gt; 블루투스 &gt; 추가 설정에서 끌 수 있습니다.</string>
 </resources>

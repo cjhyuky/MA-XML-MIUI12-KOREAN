@@ -33,7 +33,7 @@
     <string name="delete_addon_content">이 항목을 삭제하시겠습니까?</string>
     <string name="install_comfirm">탭하여 설치</string>
     <string name="start_addon">애드온 시작</string>
-    <string name="addon_update_desc">업데이트 사용가능, 지금 업데이트하시겠습니까?</string>
+    <string name="addon_update_desc">업데이트 사용 가능, 지금 업데이트하시겠습니까?</string>
     <string name="upgrade">업데이트</string>
     <string name="loading"><CDATA>불러오는 중</CDATA></string>
     <string name="sdcard_storage">내부 저장소</string>

@@ -173,9 +173,9 @@
     <string name="kr_authorization_contact_desc">Mi 계정 정보를 가져오고 계정을 식별합니다.</string>
     <string name="kr_authorization_exit">나가기</string>
     <string name="kr_authorization_log_protocol">로그 프로토콜 (선택)</string>
-    <string name="kr_authorization_log_protocol_desc">제공된 서비스를 개선하기 위해 사용 통계 및 시스템 로그를 서버에 업로드합니다. 이 항목에는 개인정보는 물론 장치 및 네트워크에 대한 정보가 포함될 수 있습니다. 업로드된 항목을 사용하여 시스템의 문제를 찾고 분석합니다.</string>
+    <string name="kr_authorization_log_protocol_desc">제공된 서비스를 개선하기 위해 사용 통계 및 시스템 로그를 서버에 업로드합니다. 이 항목에는 개인정보는 물론 기기 및 네트워크에 대한 정보가 포함될 수 있습니다. 업로드된 항목을 사용하여 시스템의 문제를 찾고 분석합니다.</string>
     <string name="kr_authorization_phone">통화</string>
-    <string name="kr_authorization_phone_desc">IMEI 및 모델 번호를 사용하여 장치 식별 및 문제 파악 및 분석</string>
+    <string name="kr_authorization_phone_desc">IMEI 및 모델 번호를 사용하여 기기 식별 및 문제 파악 및 분석</string>
     <string name="kr_authorization_privacy_policy">개인정보 보호정책 (필수)</string>
     <string name="kr_authorization_select_all">모두 선택</string>
     <string name="kr_authorization_storage">저장소</string>
@@ -390,7 +390,7 @@
     <string name="passport_recycle_account_prompt">이게 사용자의 Mi 계정입니까?</string>
     <string name="passport_reg_btn_using_other_phone">다른 전화번호를 사용하세요.</string>
     <string name="passport_reg_failed">계정을 설정할 수 없습니다.</string>
-    <string name="passport_reg_prompt">Mi 계정이 없습니까? 무료로 하나 만드세요.</string>
+    <string name="passport_reg_prompt">Mi 계정이 없나요? 무료로 하나 만드세요.</string>
     <string name="passport_reg_success">계정 생성 완료</string>
     <string name="passport_reg_success_summary">%1$s 귀하의 계정과 연결되었습니다. 로그인하거나 비밀번호를 초기화할 수 있습니다.</string>
     <string name="passport_reg_type_email">이메일 주소 사용</string>
@@ -478,13 +478,13 @@
     <string name="select_system_app_tag">태그 선택</string>
     <string name="submit_dialog_cancel">취소</string>
     <string name="submit_dialog_confirm">전송</string>
-    <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 의견은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 의견과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 읽고 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data&gt;\"사용자의 의견은 첨부 파일 및 로그와 함께 MIUI의 서버로 전송됩니다. 개인정보와 위치 데이터가 포함될 수 있습니다. \"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 숙지하였으며 이에 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;\"사용자의 의견과 첨부 파일(있는 경우) 및 로그는 MIUI의 서버와 개발자를 위한 MIUI 포럼의 제한된 섹션으로 전송됩니다. 분석 및 추가 커뮤니케이션을 위해 스레드 및 포럼 활동에 대한 정보도 수집됩니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다.\"동의\" 하는 것은 우리의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책&amp;lt;/a&amp;gt; 과 &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;를 숙지하였으며 이에 동의하는 것을 의미합니다.\"&lt;/Data&gt;</string>
     <string name="submit_dialog_title">보고서 전송</string>
     <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
     <string name="suggestion_description">여기에 설명 추가</string>
     <string name="system_app_select">내장 앱</string>
-    <string name="systemui">드롭다운 메뉴</string>
+    <string name="systemui">알림 창</string>
     <string name="tab_title_chat">FAQ</string>
     <string name="tab_title_my_reports">내 보고서</string>
     <string name="tab_title_preferences">설정</string>
@@ -531,10 +531,10 @@
     <string name="warning_field_invalid">%1$s 항목을 하나 선택하세요.</string>
     <string name="feedback_description_hint_suggestion">"MIUI 개선 방안을 알려주세요."</string>
     <string name="feedback_jira_key_place_holder">Jira 생성 중…</string>
-    <string name="catch_full_log_privacy_content_audio">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 재생 기록 및 녹음 기록을 비롯하여 장치의 오디오에 대한 정보가 포함될 수 있습니다. 이러한 로그를 공개하지 마세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_bt">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 블루투스 장치 사용 정보(통화 기록, 메시지, 전송된 파일 등)가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 장치에 저장하고 있습니다. 로그에 주변 장치 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
-    <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
-    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 장치에 저장하고 있습니다. 로그에는 개인정보, 위치 정보 및 장치의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_audio">"로그를 생성하여 기기에 저장하고 있습니다. 로그에는 재생 기록 및 녹음 기록을 비롯하여 기기의 오디오에 대한 정보가 포함될 수 있습니다. 이러한 로그를 공개하지 마세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_bt">"로그를 생성하여 기기에 저장하고 있습니다. 로그에 블루투스 기기 사용 정보(통화 기록, 메시지, 전송된 파일 등)가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_gps">"로그를 생성하여 기기에 저장하고 있습니다. 로그에는 개인정보와 위치 정보가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 로그를 생성하는 동안 위 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있음에 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_sensor">"로그를 생성하여 기기에 저장하고 있습니다. 로그에 주변 기기 센서 (기압계, 기압계, 만보계, 자력계 등)가 수집한 정보가 포함될 수 있습니다. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 위치를 확인하고 해결할 것임에 동의하는 것입니다. 문제를 신고하세요."</string>
+    <string name="catch_full_log_privacy_content_signal">"로그를 생성하여 기기에 저장하고 있습니다. 로그에는 메시지, 통화 기록, 네트워크 정보 및 통신 데이터가 포함될 수 있습니다. 이러한 로그를 다른사람에게 공개하지 않도록 조심하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
+    <string name="catch_full_log_privacy_content_wifi">"로그를 생성하여 기기에 저장하고 있습니다. 로그에는 개인정보, 위치 정보 및 기기의 IP 및 MAC 주소가 포함될 수 있습니다. 암호화되지 않은 Wi-Fi 네트워크의 경우 통신 데이터의 일부에 액세스할 수 있습니다. 이 로그를 다른사람에게 공개하지 않도록 주의하세요. 아래의 "동의함"을 탭하면 로그를 생성하는 동안 위의 데이터를 수집한 다음 로그를 Google 서버에 업로드하여 보고한 문제를 찾고 해결할 수 있다는데 동의하는 것입니다."</string>
 </resources>

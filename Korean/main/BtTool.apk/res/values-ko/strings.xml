@@ -11,7 +11,7 @@
     <string name="abc_searchview_description_search">검색</string>
     <string name="abc_searchview_description_submit">보내기</string>
     <string name="abc_searchview_description_voice">음성 검색어</string>
-    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_search_hint">검색 중…</string>
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
     <string name="abc_toolbar_collapse_description">툴바 접기</string>

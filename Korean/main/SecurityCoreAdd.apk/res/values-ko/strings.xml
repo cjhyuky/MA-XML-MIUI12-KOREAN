@@ -122,8 +122,8 @@
     <string name="closed">꺼짐</string>
     <string name="changePassword">비밀번호 변경</string>
     <string name="passWordGuardSummary">잠금 화면에서 비밀번호를 사용하여 보조 공간 입장</string>
-    <string name="notificationTitle">드롭다운 메뉴 바로가기</string>
-    <string name="notificationSummary">드롭다운 메뉴에서 공간간 전환</string>
+    <string name="notificationTitle">알림 창 바로가기</string>
+    <string name="notificationSummary">알림 창에서 공간간 전환</string>
     <string name="otherSettings">기타 설정</string>
     <string name="privacyContactsTitle">비공개 메시지 및 연락처</string>
     <string name="privacyContactsSummary">보조 공간에서 비공개 항목 표시</string>
@@ -170,7 +170,7 @@
     <string name="enable">켜기</string>
     <string name="disable">끄기</string>
     <string name="PrivacyContactDes1">"연락처는 비공개가 됩니다.
-메시지가 오직 보조 공간에만 나타날 것입니다."</string>
+메시지가 오직 보조 공간에만 나타납니다."</string>
     <string name="PrivacyContactDes2">"기본 공간에서 비공개 메시지를 사용하면,
 자동으로 보조 공간에 추가됩니다."</string>
     <string name="openSuccess">켜짐</string>
@@ -228,7 +228,7 @@
     <string name="private_sms_show_title">보조 공간에 비공개 메시지가 표시됩니다.</string>
     <string name="private_sms_show_sub_title">메시지 데이터가 두 개의 공간에 공유됩니다.</string>
     <string name="restore_normal_show">비공개 메시지 표시하지 않기</string>
-    <string name="restore_show_desc">보조 공간에서 비공개 메시지를 표시하지 않습니다. 기본 공간에서는 여전히 사용가능할 것입니다.</string>
+    <string name="restore_show_desc">보조 공간에서 비공개 메시지를 표시하지 않습니다. 기본 공간에서는 여전히 사용 가능합니다.</string>
     <string name="confirm_restore">표시하지 않기</string>
     <string name="restore_show_toast">비공개 메시지 표시하지 않기</string>
     <string name="remove_second_space_msg">보조 공간을 삭제하시면 모든 앱 데이터도 삭제됩니다. 지금 삭제하시겠습니까?</string>
@@ -273,26 +273,26 @@
     <string name="xpsace_guide_button">듀얼 앱 써보기</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">아무 앱도 찾지 못했습니다.</string>
-    <string name="space_name_default">작업 공간</string>
+    <string name="space_name_default">업무 공간</string>
     <string name="space_des_default">암호화된 데이터로 분리된 공간</string>
-    <string name="create_work_space">작업 공간 생성</string>
-    <string name="switch_download_space">작업 공간 전환</string>
+    <string name="create_work_space">업무 공간 생성</string>
+    <string name="switch_download_space">업무 공간 전환</string>
     <string name="confirm_airspace_password">%s 비밀번호 승인</string>
-    <string name="air_space_created">작업 공간 생성에 성공했습니다.</string>
-    <string name="enter_air_space">작업 공간으로 이동</string>
+    <string name="air_space_created">업무 공간 생성에 성공했습니다.</string>
+    <string name="enter_air_space">업무 공간으로 이동</string>
     <string name="invalid_qr_code">잘못된 QR 코드</string>
-    <string name="need_network_when_create">작업 공간을 생성하기 전에 네트워크에 연결하세요.</string>
+    <string name="need_network_when_create">업무 공간을 생성하기 전에 네트워크에 연결하세요.</string>
     <string name="downloading_space">다운로드 중…</string>
-    <string name="air_space_deleted">작업 공간 삭제에 성공했습니다.</string>
-    <string name="need_reset_passwd">작업 공간에 진입하기 전에 비밀번호를 초기화하세요.</string>
+    <string name="air_space_deleted">업무 공간 삭제에 성공했습니다.</string>
+    <string name="need_reset_passwd">업무 공간에 진입하기 전에 비밀번호를 초기화하세요.</string>
     <string name="reset_passwd_success">비밀번호 재설정에 성공했습니다.</string>
     <string name="air_space_exit">공간에서 나가기</string>
     <string name="air_space_setting">공간 설정</string>
     <string name="other">기타</string>
-    <string name="airspace_users_full">작업 공간을 더 생성할 수 없습니다.</string>
+    <string name="airspace_users_full">업무 공간을 더 생성할 수 없습니다.</string>
     <string name="same_qr_code_title">%s 이미 존재함</string>
-    <string name="same_qr_code_des">작업 공간이 이미 존재하는 것 같습니다. 홈 화면의 드롭다운 메뉴에서 이동할 수 있습니다. 지금 이동하시겠습니까?</string>
-    <string name="same_qr_code_enter_space">작업 공간으로 이동</string>
+    <string name="same_qr_code_des">업무 공간이 이미 존재하는 것 같습니다. 알림 창에서 이동할 수 있습니다. 지금 이동할까요?</string>
+    <string name="same_qr_code_enter_space">업무 공간으로 이동</string>
     <string name="same_qr_code_create_space">새로 생성</string>
     <string name="not_support_air_space">이 기능은 귀하의 휴대전화에 지원되지 않습니다.</string>
     <string name="loading">잠시만 기다려주세요…</string>
@@ -398,7 +398,7 @@
     <string name="encrypt_space_delete_dialog_message">"Android를 업데이트합니다. 업데이트 후 보조 공간에 접근할 수 없습니다. 이를 피하려면 모든 데이터를 메인 저장소로 이동하고 보조 공간을 삭제한 다음 다시 보조 공간을 생성하세요."</string>
     <string name="encrypt_space_delete_dialog_positive_text">데이터 이동</string>
     <string name="encrypt_space_delete_dialog_title">주의</string>
-    <string name="encrypt_space_delete_notification_message">보조 공간을 삭제하고 새 공간을 만들어 장치를 업데이트하세요.</string>
+    <string name="encrypt_space_delete_notification_message">보조 공간을 삭제하고 새 공간을 만들어 기기를 업데이트하세요.</string>
     <string name="encrypt_space_delete_notification_title">보조 공간</string>
     <string name="entrance_reopen_toast_msg">다른 비밀번호 유형으로 인한 보조 공간 바로가기 표시</string>
     <string name="reset_password_dialog_message">"첫 번째 공간과 보조 공간에 다른 비밀번호 유형을 사용하고 있습니다. 보조 공간은 첫 번째 공간과 동일한 비밀번호 유형을 사용하여 바로가기를 숨겨야 합니다."</string>
@@ -424,7 +424,7 @@
     <string name="ent_agency_code_hint">회사 코드 입력</string>
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>
     <string name="ent_agree_privacy_policy">"개인정보 보호정책을 읽었으며 이에 동의했습니다."</string>
-    <string name="ent_app_verified">장치에 엔터프라이즈 앱이 설치되어있는 것 같습니다. 엔터프라이즈 모드 활성화?</string>
+    <string name="ent_app_verified">기기에 엔터프라이즈 앱이 설치되어있는 것 같습니다. 엔터프라이즈 모드 활성화?</string>
     <string name="ent_confirm_dialog_content">"엔터프라이즈 모드를 활성화 한 후에는 시스템의 현재 상태로 돌아갈 수 없지만 모든 데이터는 여전히이 모드에 저장됩니다. "</string>
     <string name ="ent_disallow_running">앱을 실행할 수 없습니다.</string>
     <string name ="ent_downloading_message">다운로드 중입니다. %d%%</string>
@@ -454,7 +454,7 @@
     <string name="button_text_next_step">다음</string>
     <string name="button_text_next_step_timer">다음 단계 (%d)</string>
     <string name="cta_declaration_agree_and_continue">동의</string>
-    <string name="cta_declaration_message_format" formatted="false">엔터프라이즈 모드를 사용하기 전에 먼저 약관을 읽고 동의해야 합니다. 엔터프라이즈 모드를 활성화하려면 인터넷 연결이 필요합니다. 동의하십니까?</string>
+    <string name="cta_declaration_message_format" formatted="false">엔터프라이즈 모드를 사용하기 전에 먼저 약관을 숙지하고 이에 동의해야 합니다. 엔터프라이즈 모드를 활성화하려면 인터넷 연결이 필요합니다. 동의하십니까?</string>
     <string name="cta_declaration_title">이용 약관</string>
     <string name="dialog_message_service_error">"인증을 취소하고 초기화를 수행할 수 없습니다. 다시 시도하세요."</string>
     <string name="dialog_tip_need_network">인증을 취소하려면 기기를 인터넷에 연결해야 합니다.</string>
@@ -464,7 +464,7 @@
     <string name="master_clear_apply_step_2">모든 중요한 항목을 PC에 백업했는지 확인하세요. \"OK\"를 탭하면 기기에서 초기화가 수행되어 계정, 주소록, 사진, 앱 등 모든 파일 및 데이터가 영구적으로 삭제됩니다.</string>
     <string name="master_clear_apply_title">주의</string>
     <string name="more_settings">더보기</string>
-    <string name="undo_activated_dialog_message">"엔터프라이즈 모드를 비활성화하고 장치에 대한 공장 초기화를 하면 관련된 모든 기능을 더 이상 사용할 수 없으며, Xiaomi는 엔터프라이즈 모드(IMEI, 기기 ID, 시스템 버전, 지역 등)로 수집한 데이터를 관리하지 않습니다. 허가를 취소하고 공장 초기화를 진행하시겠습니까?"</string>
+    <string name="undo_activated_dialog_message">"엔터프라이즈 모드를 비활성화하고 기기에 대한 공장 초기화를 하면 관련된 모든 기능을 더 이상 사용할 수 없으며, Xiaomi는 엔터프라이즈 모드(IMEI, 기기 ID, 시스템 버전, 지역 등)로 수집한 데이터를 관리하지 않습니다. 허가를 취소하고 공장 초기화를 진행하시겠습니까?"</string>
     <string name="undo_activated_dialog_ok">취소</string>
     <string name="undo_grant_dialog_message">Xiaomi는 인증 취소 후, 이 기능(IMEI, 기기 ID, 시스템 버전, 지역 등)에 필요한 정보를 수집하지 않습니다. 지금 해지하시겠습니까?</string>
     <string name="undo_privacy_menu">취소 인증</string>
@@ -488,7 +488,7 @@
     <string name="xspace_instagram_title">Instagram</string>
     <string name="instagram_send">Instagram으로 보내기</string>
     <string name="use_google_open">Google 어시스턴트를 사용하여 깨우기</string>
-    <string name="greenguard_functional_description">"원격으로 장치 관리, 위치 정보보기, 설치된 앱 제어 및 사용 제한"</string>
+    <string name="greenguard_functional_description">"원격으로 기기 관리, 위치 정보보기, 설치된 앱 제어 및 사용 제한"</string>
     <string name="can_not_switch_when_super_power_active">"절전 모드가 켜져있으면 공간 전환을 할 수 없습니다."</string>
     <string name="xspace_disable">생성 안됨</string>
     <string name="xspace_enable">생성됨</string>

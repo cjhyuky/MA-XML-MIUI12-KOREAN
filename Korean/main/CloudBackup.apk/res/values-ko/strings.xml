@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="btn_restore_wait_china">Wi-Fi 대기 중</string>
-    <string name="cloud_back_up_detail_discription_china">"이 항목은 장치가 Wi-Fi에 연결되면 Xiaomi 클라우드에 백업됩니다.
+    <string name="cloud_back_up_detail_discription_china">"이 항목은 기기가 Wi-Fi에 연결되면 Xiaomi 클라우드에 백업됩니다.
 * 앱, 홈 화면 구성 및 배경화면
 * 알람, 시계 및 시간 설정
 * 알림 설정
@@ -259,7 +259,7 @@
     <string name="restore_init_description">복원 시작</string>
     <string name="restoring_file_title_no_progress">파일 복원 중...</string>
     <string name="restoring_settings">설정 복원 중</string>
-    <string name="restore_from_mimover">Mi Mover를 사용하여 기존 장치에서 전송</string>
+    <string name="restore_from_mimover">Mi Mover를 사용하여 기존 기기에서 전송</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>

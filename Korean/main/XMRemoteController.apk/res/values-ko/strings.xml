@@ -177,7 +177,7 @@
     <string name="devicetype8">A/V 수신기</string>
     <string name="diagnose">리모컨 테스트</string>
     <string name="diagnosis_intro">연결 문제 해결용 네트워크 테스트</string>
-    <string name="dialog_install_assistant_content">Mi TV 또는 Mi 박스를 최대한 활용하려면 Mi 스크린 캐스트를 설치하세요.</string>
+    <string name="dialog_install_assistant_content">Mi TV 또는 Mi 박스를 최대한 활용하려면 Mi 화면 전송을 설치하세요.</string>
     <string name="dining_room">식당</string>
     <string name="download_assistant">화면 전송</string>
     <string name="download_path_fail">다운로드할 수 없습니다. 기기의 SD 카드 또는 USB 드라이브를 확인하세요.</string>
@@ -267,7 +267,7 @@
     <string name="guid_one">휴대전화와 셋톱박스/TV를 동일한 Wi-Fi 네트워크에 연결하세요.</string>
     <string name="guid_three">귀하의 TV 또는 셋톱박스가 Android를 지원하지 않는 경우 일부 제어를 하지 못할 수 있습니다.</string>
     <string name="guid_two">이 페이지에서 기기가 감지되고 표시될 것 입니다.</string>
-    <string name="guid_zero">귀하의 기기는 IR 장치를 지원하지 않습니다. 하지만 Wi-Fi 리모컨은 지원됩니다.</string>
+    <string name="guid_zero">귀하의 기기는 IR 기기를 지원하지 않습니다. 하지만 Wi-Fi 리모컨은 지원됩니다.</string>
     <string name="guide">가이드</string>
     <string name="guide_title_one">귀하의 휴대전화로는 IR 기기를 제어할 수 없습니다.</string>
     <string name="guide_title_three">사용량</string>
@@ -1078,7 +1078,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="passport_continue">계속</string>
     <string name="passport_error_auth_fail">세션이 만료되었습니다. 다음에 다시 로그인하세요.</string>
     <string name="passport_error_no_password_user">"아직 비밀번호를 설정하지 않았습니다. SMS를 이용하여 로그인하세요. "</string>
-    <string name="passport_error_verify_activator_phone_message">SIM 카드가 활성화되어 있고 장치가 네트워크에 연결되어 있는지 확인하세요.</string>
+    <string name="passport_error_verify_activator_phone_message">SIM 카드가 활성화되어 있고 기기가 네트워크에 연결되어 있는지 확인하세요.</string>
     <string name="passport_error_verify_activator_phone_title">"전화번호를 확인할 수 없습니다."</string>
     <string name="passport_get_innetdate_agree">확인</string>
     <string name="passport_get_innetdate_disagree">아니요</string>
@@ -1124,7 +1124,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="receive_share_titel">%1$s 님이 리모컨을 공유했습니다.</string>
     <string name="submit_screen_shot_show">스크린샷 공유</string>
     <string name="voice_control">음성 제어</string>
-    <string name="voice_control_ir_tips">"장치가 응답하지 않으면, 휴대전화에 다시한 번 해보세요."</string>
+    <string name="voice_control_ir_tips">"기기가 응답하지 않으면, 휴대전화에 다시한 번 해보세요."</string>
     <string name="voice_tips_long_pressed">음성 컨트롤을 사용하려면 마이크를 가볍게 칩니다.</string>
     <string name="voice_tips_subtitle">"사용자가 말할 수 있는 목록입니다."</string>
     <string name="voice_tips_title">휴대전화를 사용자에게 향하게 하세요.</string>

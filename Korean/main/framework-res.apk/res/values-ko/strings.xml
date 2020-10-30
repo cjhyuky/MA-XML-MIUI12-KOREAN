@@ -440,7 +440,7 @@
     <string name="copyUrl">URL 복사</string>
     <string name="country_detector">국가 감지기</string>
     <string name="country_selection_title">지역 환경설정</string>
-    <string name="create_contact_using">"전화번호부에
+    <string name="create_contact_using">"주소록에
 %s 추가"</string>
     <string name="cut">잘라내기</string>
     <string name="data_saver_description">데이터 사용량을 줄이기 위해 데이터 절약 모드는 일부 앱이 백그라운드에서 데이터를 전송하거나 수신하지 못하도록 합니다. 현재 사용 중인 앱에서 데이터를 사용할 수 있지만 빈도가 줄어듭니다. 예를 들면, 이미지를 탭하기 전에는 이미지가 표시되지 않습니다.</string>
@@ -1041,8 +1041,8 @@
     <string name="lockscreen_transport_stop_description">중지</string>
     <string name="lockscreen_unlock_label">잠금해제</string>
     <string name="low_internal_storage_view_text">일부 시스템 기능이 작동하지 않을 수 있습니다.</string>
-    <string name="low_internal_storage_view_text_no_boot">시스템의 저장 공간이 부족합니다. 250MB의 여유 공간이 확보한 후 다시 시작하세요.</string>
-    <string name="low_internal_storage_view_title">저장 공간이 부족함</string>
+    <string name="low_internal_storage_view_text_no_boot">시스템의 저장공간이 부족합니다. 250MB의 여유 공간이 확보한 후 다시 시작하세요.</string>
+    <string name="low_internal_storage_view_title">저장공간이 부족함</string>
     <string name="low_memory">휴대전화 저장공간이 꽉 찼습니다. 일부 파일을 삭제하여 저장공간을 늘리세요.</string>
     <string name="managed_profile_label">직장 프로필로 전환</string>
     <string name="managed_profile_label_badge">업무용 %1$s</string>
@@ -1384,7 +1384,7 @@
     <string name="permdesc_manageNetworkPolicy">앱이 네트워크 정책을 관리하고 앱별 규칙을 정의할 수 있도록 허용합니다.</string>
     <string name="permdesc_manageOwnCalls">통화 환경을 개선하기 위해 앱이 시스템을 통해 통화를 연결하도록 허용합니다.</string>
     <string name="permdesc_manageProfileAndDeviceOwners">앱이 프로필 소유자와 기기 소유자를 설정하도록 허용합니다.</string>
-    <string name="permdesc_manageUsb">앱이 USB 장치에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
+    <string name="permdesc_manageUsb">앱이 USB 기기에 대한 환경설정 및 권한을 제어할 수 있도록 허용합니다.</string>
     <string name="permdesc_manageUsers">앱이 기기에서 검색, 생성 및 삭제를 포함한 사용자 관리를 할 수 있도록 허용합니다.</string>
     <string name="permdesc_manageVoiceKeyphrases">권한을 가진 프로그램이 음성 핫워드 감지용 핵심문구를 관리할 수 있도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_masterClear">앱이 모든 데이터, 구성 및 설치된 앱을 지워서 시스템을 완전히 초기화할 수 있도록 허용합니다.</string>
@@ -1768,7 +1768,7 @@
     <string name="permlab_manageNetworkPolicy">네트워크 정책 관리</string>
     <string name="permlab_manageOwnCalls">시스템을 통해 통화 연결</string>
     <string name="permlab_manageProfileAndDeviceOwners">프로필 및 기기 소유자 관리</string>
-    <string name="permlab_manageUsb">USB 장치에 대한 환경설정 및 권한 관리</string>
+    <string name="permlab_manageUsb">USB 기기에 대한 환경설정 및 권한 관리</string>
     <string name="permlab_manageUsers">사용자 관리</string>
     <string name="permlab_manageVoiceKeyphrases">음성 핵심문구 관리</string>
     <string name="permlab_masterClear">시스템 초기화</string>

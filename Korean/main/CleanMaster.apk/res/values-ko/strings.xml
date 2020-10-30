@@ -300,7 +300,7 @@
     <string name="connecting">연결 중…</string>
     <string name="clear_bigfiles">큰 파일, 중복 사진, 기타 사용하지 않는 항목 삭제</string>
     <string name="clear_immediately">지금 청소</string>
-    <string name="clear_safe_notify">드롭다운 메뉴 위젯</string>
+    <string name="clear_safe_notify">알림 창 위젯</string>
     <string name="nb_clear_set">알림 창에서 캐시 정리와 배터리, 차단목록 정보를 볼 수 있습니다.</string>
     <string name="seton_immediately">켜기</string>
     <string name="notify_when">쓰레기 용량이 100MB에 도달했을때 알림을 받습니다.</string>
@@ -474,7 +474,7 @@
     <string name="app_name">화면 녹화</string>
     <string name="browser_scan_history_desc">검색 기록</string>
     <string name="browser_search_history_desc">검색된 내용</string>
-    <string name="call_log">전화 기록</string>
+    <string name="call_log">통화 기록</string>
     <string name="cd_back">뒤로가기</string>
     <string name="cd_check_box_checked">확인됨</string>
     <string name="cd_check_box_middle">일부 선택됨</string>
@@ -539,9 +539,9 @@
     <string name="clean_long_msg">"%1$d개의 파일을 청소중입니다. %2$d개 완료됨. 
 초당 %3$d%%개의 항목을 처리 중입니다. 남은시간:%4$s"</string> 
     <string name="tips_low_storage_dialog_cancel">취소</string>
-    <string name="tips_low_storage_dialog_msg_qq">QQ 캐시 크기가 3GB에 도달했습니다. 장치 속도가 느려질 수 있습니다. 지금 QQ 캐시 파일을 정리하시겠습니까?</string>
+    <string name="tips_low_storage_dialog_msg_qq">QQ 캐시 크기가 3GB에 도달했습니다. 기기 속도가 느려질 수 있습니다. 지금 QQ 캐시 파일을 정리하시겠습니까?</string>
     <string name="tips_low_storage_dialog_msg_storage">"저장소 용량의 90%를 사용하고 있습니다. 사용하지 않는 앱을 제거합니다."</string>
-    <string name="tips_low_storage_dialog_msg_wechat">WeChat 캐시 크기가 3GB에 도달했습니다. 장치 속도가 느려질 수 있습니다. 지금 WeChat 캐시 파일을 정리하시겠습니까?</string>
+    <string name="tips_low_storage_dialog_msg_wechat">WeChat 캐시 크기가 3GB에 도달했습니다. 기기 속도가 느려질 수 있습니다. 지금 WeChat 캐시 파일을 정리하시겠습니까?</string>
     <string name="tips_low_storage_dialog_ok">정리</string>
     <string name="tips_low_storage_dialog_ok_storage">사용 가능한 저장소 용량</string>
     <string name="tips_low_storage_dialog_title">저장소 용량이 부족합니다.</string>
@@ -625,7 +625,7 @@
     <string name="dc_group_title_appclean">앱</string>
     <string name="dc_header_can_clean">삭제 가능</string>
     <string name="dc_header_can_not_clean">삭제 불가</string>
-    <string name="dc_header_used_space_text">사용 중인 저장 용량</string>
+    <string name="dc_header_used_space_text">사용 중인 저장공간</string>
     <string name="dc_item_summary_wechat_chat">공간을 확보하기 위해 채팅으로 내역 채팅 지우기</string>
     <string name="dc_item_title_apk">설치 패키지 삭제</string>
     <string name="dc_item_title_app_data">앱 데이터 삭제</string>
@@ -641,7 +641,7 @@
     <string name="guide_dc_dialog_message">"사용 가능한 저장공간이 2GB 미만입니다. 기기 속도가 느려질 수 있습니다. 저장공간을 확보하기 위해 철저하게 정리하세요."</string>
     <string name="guide_dc_dialog_negative">취소</string>
     <string name="guide_dc_dialog_positive">확인</string>
-    <string name="guide_dc_dialog_title">저장 용량이 부족합니다.</string>
+    <string name="guide_dc_dialog_title">저장공간이 부족합니다.</string>
     <string name="appcleaner_g_audio_summary_qq">QQ 음성 메시지를 영구적으로 삭제</string>
     <string name="appcleaner_g_audio_summary_wechat">WeChat 음성 메시지를 영구적으로 삭제</string>
     <string name="appcleaner_g_audio_title_qq">QQ 음성 메시지 클리너</string>
@@ -711,7 +711,7 @@
     <string name="global_wa_main_cleaning">지우기...</string>
     <string name="global_wa_main_clean_btn_forward_result">결과보기</string>
     <string name="global_wa_main_header_cleaning_hints">WhatsApp Cleaner가 기기의 공간을 확보하고 있습니다.</string>
-    <string name="global_wa_main_header_scanning_hints">WhatsApp Cleaner가 장치를 검색하고 있습니다.</string>
+    <string name="global_wa_main_header_scanning_hints">WhatsApp Cleaner가 기기를 검색하고 있습니다.</string>
     <string name="global_wa_main_item_desc_cache">"캐시를 지우더라도 일반적인 사용에는 영향을 미치지 않습니다."</string>
     <string name="global_wa_main_item_desc_chat">다음 페이지에서 첨부 파일을 살펴볼 수 있습니다.</string>
     <string name="global_wa_main_item_title_cache">앱 캐시</string>
@@ -797,7 +797,7 @@
     <string name="storage_app_list_activity_title">앱 세부정보</string>
     <string name="storage_app_list_desc">사용 공간: %s</string>
     <string name="storage_app_space_details_entry">앱 세부정보 보기</string>
-    <string name="storage_available_total_size">%2$s중    %1$s 사용가능</string>
+    <string name="storage_available_total_size">%2$s중    %1$s 사용 가능</string>
     <string name="storage_deepclean_entry">정밀 청소</string>
     <string name="storage_item_apk_name">APK</string>
     <string name="storage_item_appdata_name">앱과 데이터</string>
@@ -829,8 +829,8 @@
     <string name="notification_low_storage_button_text">지우기</string>
     <string name="notification_low_storage_size_1.5_GB">저장공간이 %.1fGB 미만</string>
     <string name="notification_low_storage_size_1.5_GB_btn">지우기</string>
-    <string name="notification_low_storage_size_1.5_GB_hint">장치 속도를 높이기 위해 저장공간 확보</string>
-    <string name="notification_low_storage_size_1_GB">저장 용량이 %dGB 미만입니다.</string>
+    <string name="notification_low_storage_size_1.5_GB_hint">기기 속도를 높이기 위해 저장공간 확보</string>
+    <string name="notification_low_storage_size_1_GB">저장공간이 %dGB 미만입니다.</string>
     <string name="notification_low_storage_size_1_GB_hint">깊은 청소가 도움이 될 수 있습니다.</string>
     <string name="notification_memory_clean_button_text">부스트</string>
     <string name="notification_memory_clean_hint">탭하여 속도 향상</string>
@@ -846,8 +846,8 @@
     <string name="permission_dialog_storage_content">클리너가 정상적으로 작동하려면 내부 저장소 접근 권한이 필요합니다. \"설정\"을 눌러 저장소 권한을 관리하세요.</string>
     <string name="permission_dialog_storage_title">필요 권한</string>
     <string name="notification_checker_installed_apk_hint">설치한 APK 파일은 보관하지 않아도 됩니다.</string>
-    <string name="notification_checker_picture_hint_a">캐시된 이미지는 많은 저장 공간을 차지할 수 있습니다.</string>
-    <string name="notification_checker_picture_hint_b">더 이상 필요없는 항목을 삭제하여 저장 공간을 확보하세요.</string>
+    <string name="notification_checker_picture_hint_a">캐시된 이미지는 많은 저장공간을 차지할 수 있습니다.</string>
+    <string name="notification_checker_picture_hint_b">더 이상 필요없는 항목을 삭제하여 저장공간을 확보하세요.</string>
     <string name="notification_checker_picture_text_a">캐시된 이미지 삭제</string>
     <string name="notification_checker_picture_text_b">캐시된 이미지 %s 삭제</string>
     <string name="notification_garbage_clean_botton_text_new">삭제</string>
@@ -861,19 +861,19 @@
     <string name="notification_low_memory_button_text">해결</string>
     <string name="notification_low_memory_hint">쓰레기 파일이 기기를 느리게 합니다.</string>
     <string name="notification_low_memory_text">느린 메모리 속도</string>
-    <string name="notification_low_storage_size">저장 공간 %s 미만</string>
-    <string name="notification_low_storage_size_1_gb_hint">저장 공간을 확보하여 기기를 빠르게 하세요.</string>
+    <string name="notification_low_storage_size">저장공간 %s 미만</string>
+    <string name="notification_low_storage_size_1_gb_hint">저장공간을 확보하여 기기를 빠르게 하세요.</string>
     <string name="notification_low_storage_size_1p5_gb_hint">쓰레기 파일을 삭제하여 기기를 빠르게 하세요.</string>
     <string name="notification_qq_clean_hint">쓰레기 파일이 기기를 느리게 합니다.</string>
     <string name="notification_qq_clean_text">"QQ 쓰레기 삭제"</string>
-    <string name="notification_uninstall_clean_hint">쓰레기 파일을 삭제하여 저장 공간을 확보하세요.</string>
+    <string name="notification_uninstall_clean_hint">쓰레기 파일을 삭제하여 저장공간을 확보하세요.</string>
     <string name="notification_uninstall_clean_text">삭제된 앱이 기기에 쓰레기 파일을 남겨두었습니다.</string>
     <string name="notification_wechat_clean_high_level_hint">쓰레기 파일을 삭제하여 기기를 빠르게 하세요.</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat이 많은 쓰레기 파일을 생성했습니다.</string>
     <string name="notification_wechat_clean_high_level_text_b">"WeChat 쓰레기 파일이 기기를 느리게 합니다."</string>
-    <string name="notification_wechat_clean_low_level_hint">저장 공간 확보</string>
+    <string name="notification_wechat_clean_low_level_hint">저장공간 확보</string>
     <string name="notification_wechat_clean_low_level_text">"WeChat 쓰레기 파일 삭제"</string>
     <string name="notification_wechat_clean_middle_level_hint">쓰레기 파일을 삭제하여 지연 없이 알림을 받으세요.</string>
-    <string name="notification_wechat_clean_middle_level_text_a">"WeChat 쓰레기 파일이 많은 저장 공간을 차지합니다."</string>
+    <string name="notification_wechat_clean_middle_level_text_a">"WeChat 쓰레기 파일이 많은 저장공간을 차지합니다."</string>
     <string name="notification_wechat_clean_middle_level_text_b">"WeChat 쓰레기 파일이 앱을 느리게 합니다."</string>
 </resources>

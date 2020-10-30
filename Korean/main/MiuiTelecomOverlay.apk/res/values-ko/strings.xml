@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_speakerphone_enabled">스피커폰이 켜져있습니다.</string>
-    <string name="alert_place_outgoing_call_with_redirection">%1$s 장치를 사용하여 통화 재전송</string>
+    <string name="alert_place_outgoing_call_with_redirection">%1$s 기기를 사용하여 통화 재전송</string>
     <string name="alert_place_unredirect_outgoing_call">전화번호를 사용하여 전화 걸기</string>
     <string name="alert_redirect_outgoing_call_or_not">이 전화를 거는 방법을 선택하세요.</string>
     <string name="alert_redirect_outgoing_call_timeout">"%1$s님께 전화를 걸 수 없습니다. 다른 통화 리디렉션 앱을 사용하거나 개발자에게 문의하여 도움을 받으세요."</string>

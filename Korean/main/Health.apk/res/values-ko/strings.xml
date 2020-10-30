@@ -113,7 +113,7 @@
     <string name="dialog_open">허용</string>
     <string name="dialog_permission_loading_msg">확인 중...</string>
     <string name="dialog_permission_title">필요한 권한</string>
-    <string name="dialog_privacy_link">"Mi 건강에 오신 것을 환영합니다! 이 앱을 사용하여 활동을 기록하고 수면을 추적 할 수 있습니다. Mi 건강은 네트워크에 연결하고 수집, 처리 및 사용해야 합니다. 개인정보가 정상적으로 작동합니다. 귀하의 개인정보는 관련 법률 및 규정에 따라 수집, 처리 및 사용됩니다. 사용자 약관 및 개인정보 보호정책의 자세한 내용은 홈페이지를 참조하세요."</string>
+    <string name="dialog_privacy_link">"Mi 건강에 오신 것을 환영합니다! 이 앱을 사용하여 활동을 기록하고 수면을 추적 할 수 있습니다. Mi 건강은 네트워크에 연결하고 수집, 처리 및 사용해야 합니다. 개인정보가 정상적으로 작동합니다. 귀하의 개인정보는 관련 법률 및 규정에 따라 수집, 처리 및 사용됩니다. 이용 약관 및 개인정보 보호정책의 자세한 내용은 홈페이지를 참조하세요."</string>
     <string name="dialog_privacy_policy_statement">개인정보 보호정책 설명</string>
     <string name="dialog_privacy_title">이용 약관</string>
     <string name="dialog_read_phone_perm_desc">OAID 또는 Android ID를 통해 기기에서 사용할 수 있는 기능을 식별합니다.</string>
@@ -144,7 +144,7 @@
     <string name="exercise_setting_label_reach_standard_remind">활동 경고</string>
     <string name="exercise_setting_page_title">활동 설정</string>
     <string name="expand_button_title">고급</string>
-    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
+    <string name="exposed_dropdown_menu_content_description">알림 창 표시</string>
     <string name="feedback_need_permission_msg">의견에 사용되는 로그를 생성할 수 있도록 Xiaomi 건강이 외부 저장소에 쓸 수 있도록 허용합니다.</string>
     <string name="feedback_permission_denied_msg">"Xiaomi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필요한 권한을 부여하세요."</string>
     <string name="finish">마침</string>
@@ -507,7 +507,7 @@
     <string name="add">추가</string>
     <string name="added_data_source">추가된 소스</string>
     <string name="add_data_source">데이터 소스 추가</string>
-    <string name="add_data_source_description">"다른 기기에서 생성 한 건강 데이터를 Xiaomi 건강 앱에 추가하여 통계의 정확성을 높이고보다 관련성 높은 건강 조언을 얻으세요. Xiaomi 건강 앱은 이전에 Mi Home 앱에 추가 한 장치를 지원합니다. 추가하려는 기기를 찾을 수 없습니다. 먼저 Mi Home에 기기를 추가했는지 확인하세요. "</string>
+    <string name="add_data_source_description">"다른 기기에서 생성 한 건강 데이터를 Xiaomi 건강 앱에 추가하여 통계의 정확성을 높이고보다 관련성 높은 건강 조언을 얻으세요. Xiaomi 건강 앱은 이전에 Mi Home 앱에 추가 한 기기를 지원합니다. 추가하려는 기기를 찾을 수 없습니다. 먼저 Mi Home에 기기를 추가했는지 확인하세요. "</string>
     <string name="add_data_source_login_and_open_sync">Mi 계정에 로그인하고 클라우드와 동기화하여 데이터 소스를 추가할 수 있습니다.</string>
     <string name="add_data_source_open_sync">데이터 소스를 추가할 수 있도록 클라우드와의 동기화를 설정하세요.</string>
     <string name="add_data_source_support_step">"이 기기는 걸음 수 데이터를 생성하지 않습니다. 다른 데이터 소스로 전환 해 볼 수 있습니다."</string>
@@ -519,7 +519,7 @@
     <string name="am">오전</string>
     <string name="audio_record_permission_description">수면주기를 분석하는 동안 대화 및 코골이 녹음하기</string>
     <string name="audio_record_perm_description">수면주기를 분석하는 동안 코골이 및 대화 기록</string>
-    <string name="auth_description">다음 장치의 데이터를 %1$s에 동기화하도록 허용</string>
+    <string name="auth_description">다음 기기의 데이터를 %1$s에 동기화하도록 허용</string>
     <string name="avg_altitude">평균 고도</string>
     <string name="avg_day">평균</string>
     <string name="avg_finish_stand">매일 평균</string>
@@ -536,7 +536,7 @@
     <string name="backtrack">뒤로</string>
     <string name="back_stroke">배영</string>
     <string name="bedtime">취침 시간</string>
-    <string name="bedtime_description">"취침 시간은 취침 시간에 전화를 내리는 순간입니다. 취침 시간 및 장치 사용량에 따라 추정됩니다."</string>
+    <string name="bedtime_description">"취침 시간은 취침 시간에 전화를 내리는 순간입니다. 취침 시간 및 기기 사용량에 따라 추정됩니다."</string>
     <string name="bedTime_early_description">"일찍 잠자리에 들었습니다. 장기적인 습관이라면이 메시지를 무시하고이 메시지를 무시하세요."</string>
     <string name="bedTime_late_description">늦게 자러 왔습니다.</string>
     <string name="bedTime_normal_description">제 시간에 잠자리에 들었습니다. 계속하세요!</string>
@@ -575,7 +575,7 @@
     <string name="data_account_info_loading">계정 정보 가져 오는 중…</string>
     <string name="data_delete_tip">이 기기에서 건강 데이터 삭제 중…</string>
     <string name="data_details">세부 사항</string>
-    <string name="data_safety_tip_details">로그아웃 한 후에 건강 데이터가 이 장치에 유지됩니다. 건강> 데이터 소스에서 건강 데이터를 삭제할 수 있습니다.</string>
+    <string name="data_safety_tip_details">로그아웃 한 후에 건강 데이터가 이 기기에 유지됩니다. 건강> 데이터 소스에서 건강 데이터를 삭제할 수 있습니다.</string>
     <string name="data_safety_tip_details2">"일부 건강 데이터가 클라우드에 업로드되었습니다. 건강 데이터를 이 기기에 유지하거나 삭제하도록 선택할 수 있습니다. 아래 \"삭제 \ "를 선택하면 이 기기의 데이터만 삭제되며 동기화된 항목은 계속 클라우드에 저장됩니다. 보관하기로 선택한 후에 건강 데이터를 삭제하기로 결정한 경우 건강> 데이터 소스에서 수행 할 수 있습니다. "</string>
     <string name="data_safety_tip_title">건강 데이터 삭제</string>
     <string name="data_source">데이터 소스</string>
@@ -599,7 +599,7 @@
     <string name="delete_record">레코드 삭제</string>
     <string name="description">세부 사항</string>
     <string name="detection_stop">이 세션은 일어나면 종료됩니다.</string>
-    <string name="device_data_manage">장치 관리</string>
+    <string name="device_data_manage">기기 관리</string>
     <string name="device_data_sync">상태 데이터 동기화</string>
     <string name="device_description">"이 기기는 Mi 계정 %s와 연결되어 있습니다. 필요한 기기를 찾을 수 없으면 Mi 핏 또는 Xiaomi 웨어러블에 먼저 추가하세요."</string>
     <string name="device_list_origin_description">"이 기기는 Mi 계정 %1$s와(과) 연결되어 있습니다. 여기에서 필요한 기기를 찾을 수 없는 경우 해당 앱에서 이미 추가했는지 확인하세요."</string>
@@ -636,7 +636,7 @@
     <string name="exercise_notification_meet_title">"오늘의 걸음 수: %d. 목표 달성!"</string>
     <string name="exercise_notification_no_meet_title">"오늘의 걸음 수: %d. 목표 달성까지 힘내세요!"</string>
     <string name="exercise_no_question">"통계가 표시되지 않는 이유는 무엇입니까?"</string>
-    <string name="exercise_question_answer_one">"1. 일부 장치 모델에는 저전력 센서가 장착되어 있지 않습니다. Xiaomi 건강은 Redmi 1S, Redmi 2A, Redmi 2, Redmi 장치에서 배터리를 절약하기 위해 활동 데이터를 추적하지 않습니다. 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4. 장치가 여기에 나열되면 Xiaomi 건강> 메뉴> 데이터 소스에서 수동으로 데이터 소스를 추가할 수 있습니다 > 데이터 소스 추가. "</string>
+    <string name="exercise_question_answer_one">"1. 일부 기기 모델에는 저전력 센서가 장착되어 있지 않습니다. Xiaomi 건강은 Redmi 1S, Redmi 2A, Redmi 2, Redmi 기기에서 배터리를 절약하기 위해 활동 데이터를 추적하지 않습니다. 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4. 기기가 여기에 나열되면 Xiaomi 건강> 메뉴> 데이터 소스에서 수동으로 데이터 소스를 추가할 수 있습니다 > 데이터 소스 추가. "</string>
     <string name="exercise_question_answer_two">2. 때때로 모션 센서가 장착되지 않을 수 있습니다. 이런 경우 휴대전화를 다시 시작하고 추적 시작이 정상적으로 작동하는지 확인하세요.</string>
     <string name="exercise_question_title">"통계가 표시되지 않는 이유는 무엇입니까?"</string>
     <string name="exercise_record">운동 기록</string>
@@ -657,7 +657,7 @@
     <string name="friday">금요일</string>
     <string name="friday_short">금요일</string>
     <string name="getUp_time">가동 시간</string>
-    <string name="getUp_time_description">"일어나는 시간은 침대에서 일어나서 움직이기 시작하는 순간입니다. 취침 시간표 및 장치 사용량에 따라 추정됩니다."</string>
+    <string name="getUp_time_description">"일어나는 시간은 침대에서 일어나서 움직이기 시작하는 순간입니다. 취침 시간표 및 기기 사용량에 따라 추정됩니다."</string>
     <string name="getUp_time_early_description">일찍 일어났습니다. 더 많은 수면을 취하는 것이 좋습니다.</string>
     <string name="getUp_time_late_description">"늦게 일어났습니다. 늦잠이 자도 건강에 큰 도움이되지 않습니다."</string>
     <string name="getUp_time_normal_description">제 시간에 일어났습니다. 계속하세요!</string>
@@ -665,12 +665,12 @@
     <string name="go_to_open">켜기</string>
     <string name="guide_data_cloud_sync_tip">설정> 클라우드 서비스에서 동기화를 끌 수 있습니다.</string>
     <string name="guide_exit">Xiaomi 건강 종료</string>
-    <string name="guide_exit_description">"아직 14세가되지 않은 사람들에게 서비스를 제공 할 수 없습니다. 법적 보호자의 허가를 받아이 장치를 사용하고 있는지 확인하세요. 아래 버튼을 눌러 앱을 종료하세요. "</string>
+    <string name="guide_exit_description">"아직 14세가되지 않은 사람들에게 서비스를 제공 할 수 없습니다. 법적 보호자의 허가를 받아이 기기를 사용하고 있는지 확인하세요. 아래 버튼을 눌러 앱을 종료하세요. "</string>
     <string name="guide_exit_title">14세가 되면 Xiaomi 건강 앱을 사용할 수 있습니다.</string>
     <string name="guide_local_data_sync_subtitle">스텝, 수면, 무게 및 기간</string>
     <string name="guide_local_data_sync_title">이 기기에서 데이터 업로드</string>
-    <string name="guide_other_data_sync_subtitle">전화, 밴드, 저울 및 기타 장치</string>
-    <string name="guide_other_data_sync_title">다른 장치의 데이터 동기화</string>
+    <string name="guide_other_data_sync_subtitle">전화, 밴드, 저울 및 기타 기기</string>
+    <string name="guide_other_data_sync_title">다른 기기의 데이터 동기화</string>
     <string name="has_record">기록</string>
     <string name="health_cloud_service">클라우드 서비스</string>
     <string name="health_data_cloud_sync_subtitle">건강 데이터를 클라우드와 동기화하고 어느 기기에서나 액세스할 수 있습니다.</string>
@@ -774,7 +774,7 @@
     <string name="not_open_auto_sync">동기화가 해제되었습니다.</string>
     <string name="not_set">설정되지 않음</string>
     <string name="not_up_to_standard">표준 이하</string>
-    <string name="no_available_device">장치 없음</string>
+    <string name="no_available_device">기기 없음</string>
     <string name="no_data">데이터 없음</string>
     <string name="no_snore">"수면 중에 코를 골거나 대화하지 않았습니다."</string>
     <string name="ok">확인</string>
@@ -837,7 +837,7 @@
     <string name="sleep_detection_enable">수면주기 분석</string>
     <string name="sleep_detection_feedback">의견</string>
     <string name="sleep_detection_guide_four_description">수면 추적 기능은 매일 약 1%의 배터리를 소모합니다.</string>
-    <string name="sleep_detection_guide_four_high_power_description">취침 전에 장치가 충분히 충전되어 있는지 확인하세요. 배터리가 부족하면 수면 추적이 중단될 수 있습니다.</string>
+    <string name="sleep_detection_guide_four_high_power_description">취침 전에 기기가 충분히 충전되어 있는지 확인하세요. 배터리가 부족하면 수면 추적이 중단될 수 있습니다.</string>
     <string name="sleep_detection_guide_four_high_power_title">기기 충전 유지</string>
     <string name="sleep_detection_guide_four_title">낮은 배터리 소모량</string>
     <string name="sleep_detection_guide_one_description">몸 움직임을 추적하고 수면주기 통계를 생성하기 위해 잠을 잘 때 옆에 기기를 배치하세요.</string>
@@ -849,11 +849,11 @@
     <string name="sleep_detection_guide_two_description">"정확한 통계를 얻으려면 기기를 베개 옆이나 아래에 놓고 몸에서 50cm 이상 떨어지지 않도록 하세요."</string>
     <string name="sleep_detection_guide_two_title">베개 옆에 기기 배치</string>
     <string name="sleep_detection_hint">"통계는 참고용으로만 제공됩니다. 의료 진단의 근거로 사용할 수 없습니다."</string>
-    <string name="sleep_detection_question_four_answer">다른 유형의 모바일 장치에는 다른 센서가 장착되어 있습니다. 배터리 소모량 값은 하드웨어 요소마다 다를 수 있습니다.</string>
-    <string name="sleep_detection_question_four_title">왜 장치마다 수면을 추적하기 위해 다른 양의 배터리를 소모하나요?</string>
+    <string name="sleep_detection_question_four_answer">다른 유형의 모바일 기기에는 다른 센서가 장착되어 있습니다. 배터리 소모량 값은 하드웨어 요소마다 다를 수 있습니다.</string>
+    <string name="sleep_detection_question_four_title">왜 기기마다 수면을 추적하기 위해 다른 양의 배터리를 소모하나요?</string>
     <string name="sleep_detection_question_one_answer">"기기를 끄거나 다시 시작하거나 배터리가 부족하면 센서가 데이터를 수집 및 분석할 수 없기 때문에 수면 추적이 중단됩니다. 이러한 경우 수면 통계가 불완전한 것으로 나타납니다. 이 문제는 자주 발생합니다. 기기에서 예정된 종료 작업이나 야간 시스템 업데이트를 확인하세요."</string>
     <string name="sleep_detection_question_one_title">내 통계는 왜 부정확하나요?</string>
-    <string name="sleep_detection_question_three_answer">기기는 내장 센서를 사용하여 수면 중에 몸의 움직임을 추적합니다. 통계를 보다 정확하게 하려면 장치를 몸과 가까운 부드러운 표면에 놓으세요. 침대 옆 탁자에 놓거나 매트리스에서 너무 멀리 두지 마세요.</string>
+    <string name="sleep_detection_question_three_answer">기기는 내장 센서를 사용하여 수면 중에 몸의 움직임을 추적합니다. 통계를 보다 정확하게 하려면 기기를 몸과 가까운 부드러운 표면에 놓으세요. 침대 옆 탁자에 놓거나 매트리스에서 너무 멀리 두지 마세요.</string>
     <string name="sleep_detection_question_three_title">통계를 보다 정확하게 하려면 어떻게 해야 합니까?</string>
     <string name="sleep_detection_question_two_answer">"수면주기는 기기에서 로컬로 분석됩니다. 네트워크에 연결되어 있지 않거나 현재 연결이 중단된 경우에도 수면 추적이 작동합니다."</string>
     <string name="sleep_detection_question_two_title">수면주기를 분석하기 위해 인터넷에 연결해야 합니까?</string>
@@ -883,7 +883,7 @@
     <string name="snore_detection_abnormal_state_description">마이크가 꺼져 있습니다.</string>
     <string name="snore_detection_close_title">코골이 및 대화 감지 기능을 해제하시겠습니까?</string>
     <string name="snore_detection_enable">코골이 및 대화 감지</string>
-    <string name="snore_detection_guide_one_description">잠자는 동안 소리가 녹음됩니다. 기계 학습을 통해 Xiaomi 건강 앱은 코골이, 말소리 및 시끄러운 소리를 감지하고 녹음 내용을 장치에 저장할 수 있습니다.</string>
+    <string name="snore_detection_guide_one_description">잠자는 동안 소리가 녹음됩니다. 기계 학습을 통해 Xiaomi 건강 앱은 코골이, 말소리 및 시끄러운 소리를 감지하고 녹음 내용을 기기에 저장할 수 있습니다.</string>
     <string name="snore_detection_guide_one_title">마이크를 사용하여 오디오 녹음</string>
     <string name="snore_detection_guide_schedule_suggest">취침 시간표에 따라 마이크가 켜지고 꺼집니다. 취침 시간표를 설정하여 작동 시키세요></string>
     <string name="snore_detection_guide_three_description">자기 전에 기기가 충분히 충전되어 있는지 확인하세요. 배터리가 부족하면 녹음이 중단 될 수 있습니다.</string>
@@ -1016,12 +1016,12 @@
     <string name="tb_has_snore_dream_talk">말과 코골이 감지</string>
     <string name="tb_home_exercise_card_finish">운동. %1$s. 완료 : %2$s. 목표 : %3$s. 완료 : %4$s.</string>
     <string name="tb_home_exercise_card_not_set_goal">운동. %1$s. 완료 : %2$s. 열린 목표.</string>
-    <string name="tb_home_exercise_card_not_supported_step">"운동.이 장치는 걸음 수를 계산하지 않습니다."</string>
+    <string name="tb_home_exercise_card_not_supported_step">"운동.이 기기는 걸음 수를 계산하지 않습니다."</string>
     <string name="tb_home_exercise_card_speed_of_progress">운동. %1$s. 완료 : %2$s. 목표 : %3$s. 진행률 : %4$s.</string>
     <string name="tb_home_sleep_card">수면. 오늘 %1$s. %2$s에 잠자리에 들었습니다. %3$s에서 일어났습니다. %4$s.</string>
     <string name="tb_home_sleep_card_not_open_trace">수면. 수면주기 분석이 해제되었습니다.</string>
     <string name="tb_home_sleep_card_no_data">수면. 오늘 데이터가 없습니다.</string>
-    <string name="tb_home_tip_open_data_sync">Xiaomi 건강 항목을 Xiaomi 클라우드와 동기화하여 다른 장치에서 액세스할 수 있습니다. 시작하려면 두 번 탭하세요.</string>
+    <string name="tb_home_tip_open_data_sync">Xiaomi 건강 항목을 Xiaomi 클라우드와 동기화하여 다른 기기에서 액세스할 수 있습니다. 시작하려면 두 번 탭하세요.</string>
     <string name="tb_home_weight_card">무게. %1$.2fkg. 계량 시간 : %2$s. 상태 : %3$s.</string>
     <string name="tb_home_weight_card_no_data">무게. 데이터가 없습니다.</string>
     <string name="tb_manage_home">여기에서 시작 페이지에 표시된 카드를 제거하거나 재정렬 할 수 있습니다.</string>
@@ -1235,8 +1235,8 @@
     <string name="data_source_not_support_hm_description_consume">현재 선택한 데이터 소스 "%1$s"에 소비 세부 정보 데이터가 없습니다. 페이지 오른쪽 상단의 "추가 데이터 소스"에서 다른 데이터 소스를 선택할 수 있습니다.</string>
     <string name="data_source_not_support_hm_description_duration">현재 선택한 데이터 소스 "%1$s" 중 고강도 활동 지속 시간 세부 사항 데이터가 없으면 페이지 오른쪽 상단의 "추가 데이터 소스"에서 다른 데이터 소스를 선택할 수 있습니다.</string>
     <string name="delete_data_source">데이터 소스 삭제</string>
-    <string name="delete_dialog_close_sync_msg">데이터 소스 "%1$s"을(를) 삭제하려면 이 데이터 소스의 장치 데이터 동기화를 먼저 해제해야 합니다.</string>
-    <string name="delete_dialog_confirm_msg_cloud">데이터 소스 "%1$s"을(를) 삭제하고 이 데이터 소스의 상태 데이터를 장치와 클라우드에서 동시에 삭제하시겠습니까?</string>
+    <string name="delete_dialog_close_sync_msg">데이터 소스 "%1$s"을(를) 삭제하려면 이 데이터 소스의 기기 데이터 동기화를 먼저 해제해야 합니다.</string>
+    <string name="delete_dialog_confirm_msg_cloud">데이터 소스 "%1$s"을(를) 삭제하고 이 데이터 소스의 상태 데이터를 기기와 클라우드에서 동시에 삭제하시겠습니까?</string>
     <string name="delete_dialog_confirm_msg_local">데이터 소스 "%1$s"을(를) 삭제하고 이 데이터 소스에서 상태 데이터를 삭제하시겠습니까?</string>
     <string name="detection_has_no_data">데이터가 없습니다.</string>
     <string name="detection_not_start">탐지가 시작되지 않았습니다.</string>

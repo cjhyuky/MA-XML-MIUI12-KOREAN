@@ -16,7 +16,7 @@
     <string name="miuishare_share_done">전송 성공</string>
     <string name="miuishare_share_editor_title">공유</string>
     <string name="miuishare_no_network">네트워크에 연결할 수 없음</string>
-    <string name="app_label">전화번호부</string>
+    <string name="app_label">주소록</string>
     <string name="call">통화</string>
     <string name="delete">삭제</string>
     <string name="back">뒤로 가기</string>
@@ -359,15 +359,13 @@
     <string name="general_cancel_favorite_ok">즐겨찾기 제거됨</string>
     <string name="general_delete_recent_ok">최근 기록 삭제됨</string>
     <string name="general_favorite_ok">즐겨찾기 추가됨</string>
-    <string name="general_menu_unfollow">언팔로우</string>
+    <string name="general_menu_unfollow">팔로우 취소</string>
     <string name="general_btn_follow_ok">팔로우됨</string>
     <string name="general_btn_follow">팔로우</string>
     <string name="general_follow_hint">%1$s 업체를 팔로우하여 관련 업데이트 수신</string>
     <string name="general_unfollow_hint">%1$s 팔로우를 중단하시겠습니까?</string>
-    <string name="general_cancel_followed_ok">언팔로우됨</string>
+    <string name="general_cancel_followed_ok">팔로우 취소됨</string>
     <string name="general_follow_hint_title">힌트</string>
-    <string name="tag_follow_yp_id">tag_follow_yp_id</string>
-    <string name="tag_follow_status">tag_follow_status</string>
     <string name="follow_processing">처리 중</string>
     <string name="homepage_barcode_prompt">스캔하여 홈페이지 열기</string>
     <string name="follow_label">%1$s 팔로우</string>
@@ -400,7 +398,7 @@
     <string name="pull_to_refresh_release_label">놓아서 새로고침...</string>
     <string name="pull_to_refresh_refreshing_label">잠시 기다려주세요…</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">위치 접근</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">전화번호부를 위치 정보에 접근하도록 허용하면 검색 결과가 향상됩니다.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">주소록을 위치 정보에 접근하도록 허용하면 검색 결과가 향상됩니다.</string>
     <string name="yellowpage_navigation_network_location_enable">허용</string>
     <string name="yellowpage_navigation_network_location_enable_later">나중에 실행</string>
     <string name="yellowpage_navigation_network_location_enabled">위치 접근이 켜졌습니다. 언제든지 설정에서 끌 수 있습니다.</string>
@@ -486,7 +484,7 @@
     <string name="abc_action_mode_done">끝냄</string>
     <string name="abc_activity_chooser_view_see_all">전체 보기</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
-    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_search_hint">검색 중…</string>
     <string name="abc_searchview_description_clear">지우기</string>
     <string name="abc_searchview_description_query">검색</string>
     <string name="abc_searchview_description_search">검색</string>

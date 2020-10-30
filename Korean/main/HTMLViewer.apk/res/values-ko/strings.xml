@@ -28,7 +28,7 @@ PC로 인터넷 연결 후 %s을 방문하세요."</string>
     <string name="open_wifi_connect_and_use_data_summary">모바일 데이터 사용 중. 탭하여 Wi-Fi로 전환하세요.</string>
     <string name="poco_privacy_policy">POCO 런처 개인정보 보호정책 &amp; POCO 런처 이용 약관</string>
     <string name="poco_launcher_privacy_policy">POCO 런처 개인정보 보호정책</string>
-    <string name="poco_launcher_user_agreement">POCO 런처 사용자 약관</string>
+    <string name="poco_launcher_user_agreement">POCO 런처 이용 약관</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중</string>

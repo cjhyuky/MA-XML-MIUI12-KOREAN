@@ -48,14 +48,14 @@
     <string name="accessibility_battery_two_bars">배터리 40% 남음</string>
     <string name="accessibility_bluetooth_connected">블루투스 연결됨</string>
     <string name="accessibility_bluetooth_disconnected">블루투스 연결 끊김</string>
-    <string name="accessibility_bluetooth_name">%s 장치에 연결됨</string>
+    <string name="accessibility_bluetooth_name">%s 기기에 연결됨</string>
     <string name="accessibility_bluetooth_tether">블루투스 테더링</string>
     <string name="accessibility_brightness">화면 밝기</string>
     <string name="accessibility_brightness_slider">밝기 슬라이더</string>
     <string name="accessibility_camera_button">카메라</string>
     <string name="accessibility_carrier_network_change_mode">이동통신사 네트워크 연결</string>
-    <string name="accessibility_cast_name">%s 장치에 연결됨</string>
-    <string name="accessibility_casting_turned_off">장치 연결 중단됨</string>
+    <string name="accessibility_cast_name">%s 기기에 연결됨</string>
+    <string name="accessibility_casting_turned_off">기기 연결 중단됨</string>
     <string name="accessibility_cell_data">모바일 데이터</string>
     <string name="accessibility_cell_data_off">모바일 데이터 꺼짐</string>
     <string name="accessibility_cell_data_on">모바일 데이터 켜짐</string>
@@ -76,7 +76,7 @@
     <string name="accessibility_desc_edit">수정</string>
     <string name="accessibility_desc_lock_screen">잠금 화면</string>
     <string name="accessibility_desc_notification_icon">%1$s개 알림 : %2$s</string>
-    <string name="accessibility_desc_notification_shade">드롭다운 메뉴</string>
+    <string name="accessibility_desc_notification_shade">알림 창</string>
     <string name="accessibility_desc_off">꺼짐</string>
     <string name="accessibility_desc_on">켜짐</string>
     <string name="accessibility_desc_quick_settings">빠른 설정</string>
@@ -157,7 +157,7 @@
     <string name="accessibility_quick_settings_bluetooth_changed_on">블루투스 켜짐</string>
     <string name="accessibility_quick_settings_bluetooth_connected">블루투스 연결됨</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">블루투스 연결 중.</string>
-    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 장치 배터리 %d 퍼센트.</string>
+    <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">블루투스 기기 배터리 %d 퍼센트.</string>
     <string name="accessibility_quick_settings_bluetooth_off">블루투스 꺼짐.</string>
     <string name="accessibility_quick_settings_bluetooth_on">블루투스 켜짐.</string>
     <string name="accessibility_quick_settings_close">패널 닫기</string>
@@ -208,7 +208,7 @@
     <string name="accessibility_recent_task_exit">최근 닫음</string>
     <string name="accessibility_recent_task_locked">잠김, 아래로 스와이프하여 잠금해제</string>
     <string name="accessibility_recent_task_locked_state">잠김 상태</string>
-    <string name="accessibility_recent_task_memory_info">총 RAM: %2$s | 사용가능한 RAM: %1$s. 더블 탭하여 지우기.</string>
+    <string name="accessibility_recent_task_memory_info">총 RAM: %2$s | 사용 가능한 RAM: %1$s. 두 번 탭하여 지우기.</string>
     <string name="accessibility_recent_task_unlocked">잠금해제됨</string>
     <string name="accessibility_recent_task_unlocked_state">풀림 상태</string>
     <string name="accessibility_recents_all_items_dismissed">모든 최근 앱이 삭제되었습니다.</string>
@@ -316,7 +316,7 @@
     <string name="allow_mock_location">모의위치 허용</string>
     <string name="allow_mock_location_summary">모의위치를 허용합니다.</string>
     <string name="always_use_accessory">이 USB 주변기기 기본으로 사용</string>
-    <string name="always_use_device">이 USB 장치를 기본으로 사용</string>
+    <string name="always_use_device">이 USB 기기를 기본으로 사용</string>
     <string name="animator_duration_scale_title">길이 배율</string>
     <string name="aod_dual_togother_12">aa hh:mm</string>
     <string name="aod_lock_screen_date">M월 d일 EEEE</string>
@@ -363,7 +363,7 @@
     <string name="battery_low_button_not_open_power_save">지금 안 함</string>
     <string name="battery_low_button_open_power_save">활성화</string>
     <string name="battery_low_percent_format">%d%% 남음</string>
-    <string name="battery_low_percent_format_save_mode_closed">배터리가 %d%% 미만입니다. 장치를 충전하세요.</string>
+    <string name="battery_low_percent_format_save_mode_closed">배터리가 %d%% 미만입니다. 기기를 충전하세요.</string>
     <string name="battery_low_percent_format_save_mode_open">배터리가 %d%% 미만입니다. 절전 모드를 활성화하세요.</string>
     <string name="battery_low_percent_format_saver_started">%s 이 남았습니다. 절전 모드가 활성화됩니다.</string>
     <string name="battery_low_title">충전기 연결</string>
@@ -435,7 +435,7 @@
     <string name="bluetooth_connected_no_map">연결됨 (메시지 접근 권한 없음) %1$s</string>
     <string name="bluetooth_connecting">연결 중…</string>
     <string name="bluetooth_disable_absolute_volume">절대 볼륨 비활성화</string>
-    <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수 없는 것과 같이 원격 장치의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">허용되지 않는 큰 볼륨이나 제어 할 수 없는 것과 같이 원격 기기의 볼륨 문제가 발생할 경우 블루투스의 절대 볼륨을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결 해제됨</string>
     <string name="bluetooth_disconnecting">연결 해제 중…</string>
     <string name="bluetooth_dun_profile_summary_connected">DUN 서버로 연결됨</string>
@@ -580,7 +580,7 @@
     <string name="character_counter_overflowed_content_description">문자 제한이 %2$d자 중 %1$d자를 초과했습니다.</string>
     <string name="charge_length_format">%1$s 전</string>
     <string name="chip_text">칩 텍스트</string>
-    <string name="chooseUsbActivity">USB 장치를 위한 앱 선택</string>
+    <string name="chooseUsbActivity">USB 기기를 위한 앱 선택</string>
     <string name="choose_clock_panel_title">잠금 화면 구성</string>
     <string name="choose_clock_third_theme_hint_text">현재 적용된 테마에서 화면 잠금</string>
     <string name="choose_clock_title_left_top">왼쪽 맞춤</string>
@@ -622,7 +622,7 @@
     <string name="controls_dismiss_dialog_message_international">"\"스마트 홈\" 카드를 제거할까요? 설정 > 제어 센터에서 복구할 수 있습니다."</string>
     <string name="controls_dismiss_dialog_title">스마트 홈 기기</string>
     <string name="controls_dismiss_dialog_title_international">카드 제거</string>
-    <string name="controls_edit_panel_not_added_title">사용가능한 기기</string>
+    <string name="controls_edit_panel_not_added_title">사용 가능한 기기</string>
     <string name="controls_edit_panel_save_button">완료</string>
     <string name="controls_edit_panel_subtitle">항목을 드래그해 순서를 바꾸세요.</string>
     <string name="controls_edit_panel_title">기기 추가</string>
@@ -736,7 +736,7 @@
     <string name="dock_forced_resizable">이 앱은 분할 화면에서 작동하지 않을 수 있습니다.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">분할 화면은 잠금 화면에서는 작동하지 않습니다.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">이 앱은 분할 화면을 지원하지 않습니다.</string>
-    <string name="download_lock_wallpaper">더블 탭하여 음악을 다운로드하세요.</string>
+    <string name="download_lock_wallpaper">두 번 탭하여 음악을 다운로드하세요.</string>
     <string name="drag_to_add_tiles">길게 눌러 항목을 추가하거나 재정렬하세요.</string>
     <string name="drag_to_remove_tiles">드래그하여 삭제</string>
     <string name="drive_mode_tip">주행 모드 상태입니다.</string>
@@ -782,7 +782,7 @@
     <string name="ext_media_checking_notification_message">오류 확인</string>
     <string name="ext_media_checking_notification_title">SD 카드 연결 중</string>
     <string name="ext_media_mountable_notification_message">터치하여 탐색기 열기</string>
-    <string name="ext_media_mountable_notification_title">USB 저장 장치 연결됨</string>
+    <string name="ext_media_mountable_notification_title">USB 저장 기기 연결됨</string>
     <string name="ext_media_nofs_notification_message">SD 카드가 비어 있거나 파일 시스템을 지원하지 않습니다.</string>
     <string name="ext_media_nofs_notification_title">빈 SD 카드</string>
     <string name="ext_media_nomedia_notification_message">SD 카드 제거됨. 새 SD 카드를 삽입하세요.</string>
@@ -986,7 +986,7 @@
     <string name="ime_security_warning_title_global">키보드 켜기</string>
     <string name="immediately_destroy_activities">백그라운드 유지하지 않음</string>
     <string name="immediately_destroy_activities_summary">앱을 닫으면 바로 백그라운드에서 중단됩니다.</string>
-    <string name="important_desc">모든 중요한 알림은 드롭다운 메뉴에 직접 나타날 것입니다.</string>
+    <string name="important_desc">모든 중요한 알림은 알림 창에 직접 나타납니다.</string>
     <string name="ims_reg_status_not_registered">등록되지 않음</string>
     <string name="ims_reg_status_registered">등록됨</string>
     <string name="ims_reg_title">IMS 등록 상태</string>
@@ -1276,7 +1276,7 @@ EEEE"</string>
     <string name="miui_guide_dialog_button_negative_text">설정</string>
     <string name="miui_guide_dialog_button_positive_text">확인</string>
     <string name="miui_guide_dialog_message">미디어 사운드(음악, 동영상 등)는 음소거되지 않습니다. 이 옵션은 설정에서 변경할 수 있습니다.</string>
-    <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 장치에 의해 잠금해제됨</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">블루투스 기기에 의해 잠금해제됨</string>
     <string name="miui_ringer_count_down">카운트 다운</string>
     <string name="miui_ringer_standard">무음</string>
     <string name="miui_ringer_standard_description">수신전화와 알림을 무음 벨소리로 알립니다.</string>
@@ -1314,11 +1314,11 @@ EEEE"</string>
 
 자세한 정보는 관리자에게 문의하세요."</string>
     <string name="monitoring_description_ca_cert_settings">신뢰할 수 있는 자격증명 열기</string>
-    <string name="monitoring_description_ca_certificate">이 장치에는 인증서가 설치되어 있습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
+    <string name="monitoring_description_ca_certificate">이 기기에는 인증서가 설치되어 있습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_do_body">관리자는 설정, 회사 액세스, 앱, 기기와 연결된 데이터 및 기기의 위치 정보를 모니터링하고 관리할 수 ​​있습니다.</string>
     <string name="monitoring_description_do_body_vpn">이메일, 앱, 웹 사이트를 포함한 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
-    <string name="monitoring_description_do_header_generic">귀하의 장치는 %1$s에 의해 관리됩니다.</string>
-    <string name="monitoring_description_do_header_with_name">%1$s님이 %2$s 기기를 사용하여 장치를 관리합니다.</string>
+    <string name="monitoring_description_do_header_generic">귀하의 기기는 %1$s에 의해 관리됩니다.</string>
+    <string name="monitoring_description_do_header_with_name">%1$s님이 %2$s 기기를 사용하여 기기를 관리합니다.</string>
     <string name="monitoring_description_do_learn_more">더 알아보기</string>
     <string name="monitoring_description_managed_profile_ca_certificate">조직에서 직장 프로필에 인증서를 설치했습니다. 보안 네트워크 트래픽을 모니터링하거나 수정할 수 있습니다.</string>
     <string name="monitoring_description_managed_profile_named_vpn">직장 프로필이 이메일, 앱, 웹사이트 등 네트워크 활동을 모니터링 할 수 있는 %1$s에 연결되었습니다.</string>
@@ -1331,7 +1331,7 @@ EEEE"</string>
     <string name="monitoring_description_management_network_logging">관리자가 기기의 트래픽을 모니터링하는 네트워크 로깅을 사용하도록 설정했습니다.</string>
     <string name="monitoring_description_named_management">"귀하의 기기는 %1$s에서 관리합니다.
 
-귀하의 관리자는 설정, 회사 액세스, 앱, 장치와 관련된 데이터 및 장치의 위치 정보를 모니터링하고 관리할 수 있습니다.
+귀하의 관리자는 설정, 회사 액세스, 앱, 기기와 관련된 데이터 및 기기의 위치 정보를 모니터링하고 관리할 수 있습니다.
 
 자세한 정보는 관리자에게 문의하세요."</string>
     <string name="monitoring_description_named_vpn">이 기기는 이메일, 앱, 웹 사이트 등 네트워크 활동을 모니터링될 수 있는 %1$s에 연결되어 있습니다.</string>
@@ -1361,26 +1361,26 @@ EEEE"</string>
     <string name="mr_cast_button_connected">화면 전송 버튼. 연결됨</string>
     <string name="mr_cast_button_connecting">화면 전송 버튼. 연결 중</string>
     <string name="mr_cast_button_disconnected">화면 전송 버튼. 연결 끊김</string>
-    <string name="mr_cast_dialog_title_view_placeholder">사용가능한 정보 없음</string>
+    <string name="mr_cast_dialog_title_view_placeholder">사용 가능한 정보 없음</string>
     <string name="mr_chooser_searching">기기를 찾는중</string>
     <string name="mr_chooser_title">화면 전송</string>
     <string name="mr_controller_album_art">앨범 아트</string>
-    <string name="mr_controller_casting_screen">화면 캐스팅</string>
+    <string name="mr_controller_casting_screen">화면 전송</string>
     <string name="mr_controller_close_description">닫기</string>
     <string name="mr_controller_collapse_group">접기</string>
-    <string name="mr_controller_disconnect">연결끊기</string>
+    <string name="mr_controller_disconnect">연결 끊기</string>
     <string name="mr_controller_expand_group">펼치기</string>
-    <string name="mr_controller_no_info_available">사용가능한 정보 없음</string>
+    <string name="mr_controller_no_info_available">사용 가능한 정보 없음</string>
     <string name="mr_controller_no_media_selected">선택된 미디어 없음</string>
     <string name="mr_controller_pause">일시 중지</string>
     <string name="mr_controller_play">재생</string>
     <string name="mr_controller_stop">중지</string>
-    <string name="mr_controller_stop_casting">캐스팅 중지</string>
+    <string name="mr_controller_stop_casting">화면 전송 중지</string>
     <string name="mr_controller_volume_slider">볼륨 슬라이더</string>
     <string name="mr_dialog_groupable_header">기기 추가</string>
     <string name="mr_dialog_transferable_header">그룹에서 재생</string>
     <string name="mr_system_route_name">시스템</string>
-    <string name="mr_user_route_category_name">장치</string>
+    <string name="mr_user_route_category_name">기기</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="mtrl_picker_cancel">취소</string>
     <string name="mtrl_picker_confirm">저장</string>
@@ -1463,8 +1463,8 @@ EEEE"</string>
     <string name="notification_otg_touchScreen_out">터치 스크린 연결 끊김</string>
     <string name="notification_otg_trackball_in">트랙 볼 연결됨</string>
     <string name="notification_otg_trackball_out">트랙볼 연결 끊김</string>
-    <string name="notification_otg_unknow_in">OTG 장치 연결됨</string>
-    <string name="notification_otg_unknow_out">OTG 장치 연결 끊김</string>
+    <string name="notification_otg_unknow_in">OTG 기기 연결됨</string>
+    <string name="notification_otg_unknow_out">OTG 기기 연결 끊김</string>
     <string name="notification_storage_float">외부 저장소</string>
     <string name="notification_tap_again">열려면 다시 탭하세요.</string>
     <string name="notification_template_text">" 알림이 있습니다. 탭하여 확인하세요."</string>
@@ -1486,7 +1486,7 @@ EEEE"</string>
     <string name="other">기타</string>
     <string name="overlay_display_devices_title">보조 디스플레이 시뮬레이션</string>
     <string name="overview">개요</string>
-    <string name="owner_info_settings_edit_text_hint">예:Joe의 Android</string>
+    <string name="owner_info_settings_edit_text_hint">예: Joe의 Android</string>
     <string name="partial_screenshot_edit">편집</string>
     <string name="partial_screenshot_repaint">다시 시작</string>
     <string name="partial_screenshot_save">저장</string>
@@ -1526,13 +1526,13 @@ EEEE"</string>
     <string name="pointer_location">포인터 위치 표시</string>
     <string name="pointer_location_summary">현재 터치 데이터를 화면에 보여줍니다.</string>
     <string name="power_charging_duration">충전 완료까지 %1$s - %2$s 걸립니다.</string>
-    <string name="power_discharge_by">약 %1$s (%2$s) 사용가능</string>
-    <string name="power_discharge_by_enhanced">%2$s 사용으로 약 %1$s 사용가능</string>
+    <string name="power_discharge_by">약 %1$s (%2$s) 사용 가능</string>
+    <string name="power_discharge_by_enhanced">%2$s 사용으로 약 %1$s 사용 가능</string>
     <string name="power_discharge_by_only">약 %1$s 사용 가능</string>
-    <string name="power_discharge_by_only_enhanced">사용 패턴에 따르면 약 %1$s 사용가능</string>
+    <string name="power_discharge_by_only_enhanced">사용 패턴에 따르면 약 %1$s 사용 가능</string>
     <string name="power_discharge_by_only_short">%1$s까지</string>
     <string name="power_discharging_duration">약 %1$s 남음 (%2$s)</string>
-    <string name="power_discharging_duration_enhanced">%2$s 사용으로 약 %1$s 동안 사용가능</string>
+    <string name="power_discharging_duration_enhanced">%2$s 사용으로 약 %1$s 동안 사용 가능</string>
     <string name="power_notification_controls_description">"알림 컨트롤을 사용하면 앱의 알림에 대해 0에서 5까지 중요도 수준을 설정할 수 있습니다. 
 
 "<b>레벨 5</b>" 
@@ -1594,13 +1594,13 @@ EEEE"</string>
     <string name="prompt_safe">안전함</string>
     <string name="prompt_unknown">알 수 없음</string>
     <string name="qs_control_big_tile_state_closed">꺼짐</string>
-    <string name="qs_control_big_tile_state_closing">끄는중…</string>
+    <string name="qs_control_big_tile_state_closing">끄는 중…</string>
     <string name="qs_control_big_tile_state_connected">연결됨</string>
     <string name="qs_control_big_tile_state_connecting">연결 중…</string>
-    <string name="qs_control_big_tile_state_disconnected">연결해제됨</string>
-    <string name="qs_control_big_tile_state_disconnecting">연결해제중…</string>
+    <string name="qs_control_big_tile_state_disconnected">연결 해제됨</string>
+    <string name="qs_control_big_tile_state_disconnecting">연결 해제중…</string>
     <string name="qs_control_big_tile_state_opened">켜짐</string>
-    <string name="qs_control_big_tile_state_opening">켜는중...</string>
+    <string name="qs_control_big_tile_state_opening">켜는 중...</string>
     <string name="qs_control_big_tile_state_unavailable">사용불가</string>
     <string name="qs_control_customize_other_tiles_title">사용 가능한 토글</string>
     <string name="qs_control_customize_save_text">완료</string>
@@ -1631,9 +1631,9 @@ EEEE"</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">자동</string>
     <string name="quick_settings_brightness_dialog_title">밝기</string>
     <string name="quick_settings_brightness_label">밝기</string>
-    <string name="quick_settings_cast_detail_empty_text">사용가능한 장치 없음</string>
+    <string name="quick_settings_cast_detail_empty_text">사용 가능한 기기 없음</string>
     <string name="quick_settings_cast_device_default_description">방송 준비 완료</string>
-    <string name="quick_settings_cast_device_default_name">이름없는 기기</string>
+    <string name="quick_settings_cast_device_default_name">이름 없는 기기</string>
     <string name="quick_settings_cast_title">방송하기</string>
     <string name="quick_settings_casting">방 송중</string>
     <string name="quick_settings_cellular_detail_data_limit">%s 남음</string>
@@ -1658,8 +1658,8 @@ EEEE"</string>
     <string name="quick_settings_disclosure_management">조직에서 기기를 관리합니다.</string>
     <string name="quick_settings_disclosure_management_monitoring">조직에서 이 기기를 관리하고 네트워크 트래픽을 모니터링할 수 있습니다.</string>
     <string name="quick_settings_disclosure_management_named_vpn">기기가 조직에서 관리되고 %1$s에 연결됩니다.</string>
-    <string name="quick_settings_disclosure_management_vpns">장치는 조직에서 관리하며 VPN에 연결됩니다.</string>
-    <string name="quick_settings_disclosure_monitoring">네트워크 모니터링 가능</string>
+    <string name="quick_settings_disclosure_management_vpns">기기는 조직에서 관리하며 VPN에 연결됩니다.</string>
+    <string name="quick_settings_disclosure_monitoring">네트워크가 모니터링될 수 있음</string>
     <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s이 직장 프로필의 네트워크 트래픽을 모니터링할 수 있습니다.</string>
     <string name="quick_settings_disclosure_named_management">기기가 %1$s에 의해 관리됨</string>
     <string name="quick_settings_disclosure_named_management_monitoring">%1$s이 기기를 관리하며 네트워크 트래픽을 모니터링할 수 있습니다.</string>
@@ -1757,7 +1757,7 @@ EEEE"</string>
     <string name="recents_empty_message_dismissed_all">모든 항목을 삭제했습니다.</string>
     <string name="recents_empty_message_multi_window">홈 화면으로 이동하여 앱 실행</string>
     <string name="recents_exit_multi_window_mode">종료</string>
-    <string name="recents_forbid_dock_when_screening_toast_text">캐스팅 중에 분할 화면을 사용할 수 없습니다.</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">화면 전송 중에 분할 화면을 사용할 수 없습니다.</string>
     <string name="recents_incompatible_app_message">이 앱은 분할 화면을 지원하지 않습니다.</string>
     <string name="recents_launch_disabled_message">%s 앱이 안전모드에서 중지되었습니다.</string>
     <string name="recents_launch_error_message">%s 시작 불가</string>
@@ -1768,7 +1768,7 @@ EEEE"</string>
     <string name="recents_multistack_add_stack_dialog_split_vertical">세로로 분할</string>
     <string name="recents_search_bar_label">검색</string>
     <string name="recents_stack_action_button_label">모두제거</string>
-    <string name="recents_task_screening">캐스팅</string>
+    <string name="recents_task_screening">화면 전송</string>
     <string name="recents_title_app_manager">앱 관리</string>
     <string name="recents_title_game">게임</string>
     <string name="recents_title_garbage_cleanup">클리너</string>
@@ -2118,7 +2118,7 @@ EEEE"</string>
     <string name="tuner_warning">시스템 UI 튜너를 사용하면 Android 사용자 인터페이스를 조정하고 커스터마이징할 수 있습니다. 이 실험적인 기능은 향후 발매되는 버전에서 기능이 변경되거나 중단되거나 사라질 수 있습니다. 주의하세요.</string>
     <string name="tuner_warning_title">모두가 좋아하지는 않을 수 있습니다.</string>
     <string name="un_important_notifications">중요하지 않은 알림</string>
-    <string name="unimportant_desc">모든 중요하지 않은 알림은 분리된 폴더에 나타날 것입니다.</string>
+    <string name="unimportant_desc">모든 중요하지 않은 알림은 분리된 폴더에 나타납니다.</string>
     <string name="unimportant_title">중요하지 않음</string>
     <string name="unknown">알 수 없음</string>
     <string name="unlock_camera_steady">흔들리지 않게 유지하세요.</string>
@@ -2134,15 +2134,15 @@ EEEE"</string>
     <string name="usb_accessory_permission_prompt">%1$s의 USB 주변기기 접근을 허용하시겠습니까?</string>
     <string name="usb_accessory_uri_prompt">이 USB 주변기기와 호환되는 앱이 설치되어 있지 않습니다. %1$s에서 이 주변기기에 대해 자세히 알아보세요.</string>
     <string name="usb_audio_disable_routing">USB 오디오 라우팅 끄기</string>
-    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 장치에 대한 자동 라우팅 사용 안 함</string>
+    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 기기에 대한 자동 라우팅 사용 안 함</string>
     <string name="usb_debugging_always">이 PC에서는 항상 허용합니다.</string>
     <string name="usb_debugging_message">"이 PC의 RSA 키 지문:
 %1$s"</string>
     <string name="usb_debugging_secondary_user_message">이 기기에 현재 로그인한 사용자는 USB 디버깅을 켤 수 없습니다. 이 기능을 사용하려면 관리자로 전환하세요.</string>
     <string name="usb_debugging_secondary_user_title">USB 디버깅 허용되지 않음</string>
     <string name="usb_debugging_title">USB 디버깅을 허용할까요?</string>
-    <string name="usb_device_confirm_prompt">이 USB 장치가 연결되면 %1$s 앱을 실행할까요?</string>
-    <string name="usb_device_permission_prompt">%1$s의 USB 장치 접근을 허용할까요까?</string>
+    <string name="usb_device_confirm_prompt">이 USB 기기가 연결되면 %1$s 앱을 실행할까요?</string>
+    <string name="usb_device_permission_prompt">%1$s의 USB 기기 접근을 허용할까요까?</string>
     <string name="usb_mode_dont_ask">이 선택 기억</string>
     <string name="usb_mode_mount_storage_title">USB 저장소를 열까요?</string>
     <string name="usb_mode_notification">USB 저장소</string>
@@ -2158,7 +2158,7 @@ EEEE"</string>
     <string name="usb_port_overheated_title">충전 포트가 과열되었습니다. 충전기를 분리합니다.</string>
     <string name="usb_port_short_circuit_dialog_content">기기 충전이 제한되었습니다. 충전기를 분리하고 충전 포트를 닦아 모든 액체를 제거하면 충전 기능이 복원됩니다.</string>
     <string name="usb_port_short_circuit_notification_content">충전기를 분리하고 모든 액체를 제거하는 충전 포트를 닦아내세요.</string>
-    <string name="usb_port_short_circuit_recovered_content">이를 사용하여 충전하거나 다른 장치에 연결할 수 있습니다.</string>
+    <string name="usb_port_short_circuit_recovered_content">이를 사용하여 충전하거나 다른 기기에 연결할 수 있습니다.</string>
     <string name="usb_port_short_circuit_recovered_title">현재 충전 포트가 정상적으로 작동합니다.</string>
     <string name="usb_port_short_circuit_title">"충전 포트에 물기가 있습니다."</string>
     <string name="usb_preference_title">USB 파일 전송 옵션</string>
@@ -2192,7 +2192,7 @@ EEEE"</string>
     <string name="user_add_user_title">새로운 사용자를 추가하시겠습니까?</string>
     <string name="user_add_user_type_title">추가</string>
     <string name="user_guest">손님</string>
-    <string name="user_guide_for_notification">아래로 스와이프하여 드롭다운 메뉴 열기</string>
+    <string name="user_guide_for_notification">아래로 스와이프하여 알림 창 열기</string>
     <string name="user_guide_for_toggle">토글 목록을 가로로 스크롤 할 수 있습니다.</string>
     <string name="user_guide_for_toggle_list">토글 관리</string>
     <string name="user_info_settings_title">사용자 정보</string>
@@ -2255,7 +2255,7 @@ EEEE"</string>
     <string name="wapi_cert_roaming">연결 중…</string>
     <string name="wapi_cert_select">WAPI 인증서</string>
     <string name="wapi_no">아니요</string>
-    <string name="wapi_no_vaild_cert">사용가능한 인증서가 없습니다. 설치하시겠습니까?</string>
+    <string name="wapi_no_vaild_cert">사용 가능한 인증서가 없습니다. 설치하시겠습니까?</string>
     <string name="wapi_password_empty">비밀번호를 입력하세요.</string>
     <string name="wapi_password_hex_format_add">16진수는 홀수가 될 수 없습니다.</string>
     <string name="wapi_password_hex_format_invalid">올바르지 않은 입력값입니다.</string>
@@ -2346,13 +2346,13 @@ EEEE"</string>
     <string name="wireless_charging_saver_message">절전 모드가 활성화되었습니다. 역방향 무선 충전을 계속 사용시겠습니까?</string>
     <string name="wireless_charging_saver_ok">계속</string>
     <string name="wireless_charging_tips_disable">다시 표시하지 않음</string>
-    <string name="wireless_charging_tips_message">이 기기 뒷면에서 Qi 무선 충전 (전화, 액세서리 등)을 지원하는 장치를 배치하세요.</string>
+    <string name="wireless_charging_tips_message">이 기기 뒷면에서 Qi 무선 충전 (전화, 액세서리 등)을 지원하는 기기를 배치하세요.</string>
     <string name="wireless_charging_tips_title">역방향 무선 충전</string>
     <string name="wrong_password">잘못된 비밀번호</string>
     <string name="yes_bubbles">허용</string>
     <string name="zen_alarm_warning">다음 %1$s 알람이 울리지 않게 합니다.</string>
     <string name="zen_alarm_warning_indef">이 기능을 끄지 않는한 다음 %1$s 알람이 울리지 않게 됩니다.</string>
-    <string name="zen_alarms_introduction">알람을 제외하고는 소리와 진동을 울리지 않습니다. 음악과 게임은 여전히 사용가능합니다.</string>
+    <string name="zen_alarms_introduction">알람을 제외하고는 소리와 진동을 울리지 않습니다. 음악과 게임은 여전히 사용 가능합니다.</string>
     <string name="zen_interruption_level_priority">중요한 알림만</string>
     <string name="zen_mode_duration_always_prompt_title">매번 묻기</string>
     <string name="zen_mode_duration_settings_title">기간</string>
@@ -2361,7 +2361,7 @@ EEEE"</string>
     <string name="zen_mode_settings_summary_off">하지 않음</string>
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
     <string name="zen_priority_customize_button">사용자 정의</string>
-    <string name="zen_priority_introduction">알람, 알림, 일정 및 지정한 발신자를 제외하고는 소리와 진동에 의해 방해받지 않습니다. 음악, 영상, 게임은 여전히 사용가능합니다.</string>
+    <string name="zen_priority_introduction">알람, 알림, 일정 및 지정한 발신자를 제외하고는 소리와 진동에 의해 방해받지 않습니다. 음악, 영상, 게임은 여전히 사용 가능합니다.</string>
     <string name="zen_silence_introduction">알람, 음악, 동영상 및 게임을 포함하여 모든 소리와 진동을 차단합니다.</string>
     <string name="zen_silence_introduction_voice">알람, 음악, 동영상 및 게임을 포함하여 모든 소리와 진동을 차단합니다. 하지만 여전히 전화는 걸 수 있습니다.</string>
     <string name="msim_set_sub_not_supported_phone_in_call">"통화 중에는 설정할 수 없습니다."</string>

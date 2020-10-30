@@ -738,7 +738,7 @@
     <string name="policy_html_truncation">HTML 이메일 크기 제한</string>
     <string name="policy_password_expiration">비밀번호 만료 설정</string>
     <string name="policy_password_history">최근 비밀번호 사용 제한</string>
-    <string name="policy_require_encryption">장치 보안 필요</string>
+    <string name="policy_require_encryption">기기 보안 필요</string>
     <string name="policy_require_manual_sync_roaming">로밍 중에는 수동 동기화만 허용</string>
     <string name="policy_require_password">기기 비밀번호 필요</string>
     <string name="policy_require_sd_encryption">SD 카드 암호화 필요</string>
@@ -819,14 +819,14 @@
     <string name="recognize_hotel_user_names">게스트</string>
     <string name="recognize_setting_title">여행 설정</string>
     <string name="recognize_ticket_air_notification_content">안전한 비행되세요!</string>
-    <string name="recognize_ticket_air_notification_title">비행기가 곧 %3$s (%1$s/%2$s) 이륙할 것입니다. 비행 정보를 확인하세요.</string>
+    <string name="recognize_ticket_air_notification_title">비행기가 곧 %3$s (%1$s/%2$s) 이륙합니다. 비행 정보를 확인하세요.</string>
     <string name="recognize_ticket_air_state_stopover">중간 기착</string>
     <string name="recognize_ticket_air_user_name">승객: %1$s</string>
     <string name="recognize_ticket_title">비행기 &amp; 기차 티켓</string>
     <string name="recognize_ticket_train_alter">변경됨</string>
     <string name="recognize_ticket_train_depart_date">%1$s/%2$s %3$s:%4$s 출발</string>
     <string name="recognize_ticket_train_notification_content">잘 다녀오세요!</string>
-    <string name="recognize_ticket_train_notification_title">기차가 곧 %3$s (%1$s/%2$s) 출발할 것입니다. 티켓을 확인하세요.</string>
+    <string name="recognize_ticket_train_notification_title">기차가 곧 %3$s (%1$s/%2$s) 출발합니다. 티켓을 확인하세요.</string>
     <string name="recognize_ticket_train_return">환불됨</string>
     <string name="recognize_ticket_train_user_name">승객: %1$s</string>
     <string name="recognize_title">여행 정보</string>
@@ -1186,7 +1186,7 @@
     <string name="dialog_disagree">동의하지 않음</string>
     <string name="list_empty_to_fresh">메일 없음, 아래로 당겨서 새로고침하세요.</string>
     <string name="notify_channel_no_disterb">방해 금지 모드</string>
-    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 장치 정보가 들어있습니다. Xiaomi의 %2$s 사항을 읽고 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
+    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 기기 정보가 들어있습니다. Xiaomi의 %2$s 사항을 숙지하였으며 이에 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
     <string name="notify_channel_service">백그라운드 동기화 알림</string>
     <string name="appraise_des">우리는 귀하의 만족을 위해서 제품 개발을 열심히 하고 있습니다. 의견을 보내 주시길 바랍니다.</string>
     <string name="appraise_good">칭찬과 격려</string>
@@ -1200,7 +1200,7 @@
     <string name="folder_empty_to_fresh">"메일이 동기화되지 않았습니다. 동기화하려면 아래로 당기세요."</string>
     <string name="folder_no_mails">이 폴더에는 이메일이 없습니다.</string>
     <string name="toast_bar_sync_failed_mi_authority">"동기화하지 못했습니다. 잠깐 기다려 다시 시도하세요. 세부사항을 확인하세요.
-(인증되지 않은 장치를 사용하는 경우 인트라넷에 연결하거나 인증번호를 사용하세요)"</string>
+(인증되지 않은 기기를 사용하는 경우 인트라넷에 연결하거나 인증번호를 사용하세요)"</string>
     <string name="wipe_account_fail_description_remind">데이터 사용 권한으로 인해 계정을 삭제한 후 캘린더와 주소록에 데이터가 남아있을 수 있으므로 수동으로 삭제하세요.</string>
     <string name="failed_read_write_contacts_permission">연락처 접근이 제한되었습니다.</string>
     <string name="failed_read_write_calendar_permission">캘린더 접근이 제한되었습니다.</string>
@@ -1220,7 +1220,7 @@
     <string name="search_remote_again">"네트워크에 연결할 수 없습니다. 다시 시도하려면 누르세요."</string>
     <string name="sync_failed_mi_authority_view_detail">자세히 보기</string>
     <string name="recommend_protocal">프로토콜 사용을 추천</string>
-    <string name="update_domain_summary">사용가능한 도메인 및 구성목록을 업데이트합니다.</string>
+    <string name="update_domain_summary">사용 가능한 도메인 및 구성목록을 업데이트합니다.</string>
     <string name="update_domain_title">도메인 설정 업데이트</string>
     <string name="attachment_opening_mode">첨부 파일 앱</string>
     <string name="default_opening_attchemnt_mode">기본 앱을 사용하여 첨부 파일 열기</string>

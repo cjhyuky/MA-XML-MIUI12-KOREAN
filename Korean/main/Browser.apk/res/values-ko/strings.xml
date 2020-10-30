@@ -187,7 +187,7 @@
     <string name="cancle_sync_cloud_tabs">동기화 취소</string>
     <string name="cannot_download">\"http\" 또는 \"https\" URL만 다운로드할 수 있습니다.</string>
     <string name="cast_video">동영상 방송</string>
-    <string name="check_security_tip_privacy_policy">개인정보 보호 약관</string>
+    <string name="check_security_tip_privacy_policy">개인정보 보호정책</string>
     <string name="check_security_tip_user_agreement">이용 약관</string>
     <string name="checking_now">체크중...</string>
     <string name="choosertitle_sharevia">공유 경로</string>
@@ -337,7 +337,7 @@
     <string name="download_pending">다운로드 시작 중…</string>
     <string name="download_phone_tip">휴대전화</string>
     <string name="download_router_tip">Mi 공유기로 다운로드</string>
-    <string name="download_sdcard_busy_dlg_msg">SD 카드가 사용 중입니다. 다운로드를 허용하려면 드롭다운 메뉴에서 USB 저장소를 끄세요.</string>
+    <string name="download_sdcard_busy_dlg_msg">SD 카드가 사용 중입니다. 다운로드를 허용하려면 알림 창에서 USB 저장소를 끄세요.</string>
     <string name="download_sdcard_busy_dlg_title">SD 카드 사용 불가</string>
     <string name="download_status_failed">다운로드하지 못했습니다.</string>
     <string name="download_status_pending">대기 중</string>
@@ -498,8 +498,8 @@
     <string name="miui_autologin_bar_title">Mi 계정으로 로그인</string>
     <string name="miui_bookmark_action_bar_add_group_title">그룹 추가</string>
     <string name="miui_bookmark_action_bar_new_group_title">새 그룹</string>
-    <string name="miui_quicksearch_enable_pref_summary">드롭다운 메뉴의 검색 바에 링크 표시</string>
-    <string name="miui_quicksearch_enable_pref_title">드롭다운 메뉴의 검색 바</string>
+    <string name="miui_quicksearch_enable_pref_summary">알림 창의 검색 바에 링크 표시</string>
+    <string name="miui_quicksearch_enable_pref_title">알림 창의 검색 바</string>
     <string name="miui_search_notification_message">검색 바를 열려면 터치하세요.</string>
     <string name="miui_search_notification_title">검색</string>
     <string name="miui_startpage">시작 페이지</string>
@@ -561,7 +561,7 @@
     <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_date">만료일을 확인하고 다시 시도하세요.</string>
     <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_month">만료 월을 확인하고 다시 시도하세요.</string>
     <string name="mw_autofill_card_unmask_prompt_error_try_again_expiration_year">만료 연도를 확인하고 다시 시도하세요.</string>
-    <string name="mw_autofill_card_unmask_prompt_storage_checkbox">이 카드 복사본을 이 장치에 보관하세요.</string>
+    <string name="mw_autofill_card_unmask_prompt_storage_checkbox">이 카드 복사본을 이 기기에 보관하세요.</string>
     <string name="mw_autofill_card_unmask_prompt_storage_tooltip">선택하면 크롬이 빠른 양식 작성을 위해 이 기기에 카드 복사본을 저장합니다.</string>
     <string name="mw_autofill_card_unmask_verification_in_progress">카드 확인 중</string>
     <string name="mw_autofill_card_unmask_verification_success">카드가 확인되었습니다.</string>
@@ -738,16 +738,16 @@
     <string name="mw_mr_button_content_description">방송하기 버튼</string>
     <string name="mw_mr_cast_button_connected">방송하기 버튼. 연결됨</string>
     <string name="mw_mr_cast_button_connecting">방송하기 버튼. 연결 중</string>
-    <string name="mw_mr_cast_button_disconnected">방송하기 버튼. 연결해제됨</string>
+    <string name="mw_mr_cast_button_disconnected">방송하기 버튼. 연결 해제됨</string>
     <string name="mw_mr_chooser_searching">기기를 찾는중</string>
     <string name="mw_mr_chooser_title">방송 선택</string>
     <string name="mw_mr_controller_album_art">앨범표지</string>
     <string name="mw_mr_controller_casting_screen">화면 방송하기</string>
     <string name="mw_mr_controller_close_description">닫기</string>
     <string name="mw_mr_controller_collapse_group">닫기</string>
-    <string name="mw_mr_controller_disconnect">연결해제</string>
+    <string name="mw_mr_controller_disconnect">연결 해제</string>
     <string name="mw_mr_controller_expand_group">연장하기</string>
-    <string name="mw_mr_controller_no_info_available">사용가능한 정보 없음</string>
+    <string name="mw_mr_controller_no_info_available">사용 가능한 정보 없음</string>
     <string name="mw_mr_controller_no_media_selected">선택된 미디어 없음</string>
     <string name="mw_mr_controller_pause">멈춤</string>
     <string name="mw_mr_controller_play">재생</string>
@@ -1149,7 +1149,7 @@
     <string name="save_form_data_confirm_message">이 기능을 끄는 것은 사용량에 영향을 줄 수 있습니다.</string>
     <string name="save_image_failed">이미지를 저장하지 못했습니다.</string>
     <string name="save_image_success">이미지 저장됨</string>
-    <string name="save_page_capture_tip">스크린샷을 보려면 드롭다운 메뉴를 펼치세요.</string>
+    <string name="save_page_capture_tip">스크린샷을 보려면 알림 창을 펼치세요.</string>
     <string name="save_page_capture_to_camera">스크린샷 저장됨</string>
     <string name="save_to_bookmark">즐겨찾기에 저장</string>
     <string name="save_to_camera">카메라에 저장</string>
@@ -1206,7 +1206,7 @@
     <string name="share_video">동영상 공유</string>
     <string name="short_video_description">영상 채널</string>
     <string name="short_video_tip">재밌는 영상을 감상하세요!</string>
-    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 장치를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">당사는 귀하가 당사의 서비스를 사용하기로 선택한 경우 귀하의 개인 데이터를 수집하고 사용합니다.\n수집할 데이터는 다음과 같습니다.\n1. 보안 URL : Google 서비스를 이용하는 동안 방문한 웹 사이트의 URL을 수집합니다.\n2. 위치 데이터 : 위치 정보에 액세스합니다.\n이것이 우리가 수집 한 데이터를 사용하는 방법입니다.\n1. 보안 : 우리는 사기 및 바이러스뿐만 아니라 저장 및 백업의 이유로 기기를 보호 할 때 데이터를 사용합니다.\n2. 콘텐츠 : 귀하의 데이터는 관련 현지화된 뉴스 콘텐츠를 제공하는 데 도움이됩니다.\n브라우저가 정상적으로 작동하려면 인터넷에 연결해야 합니다. 사용자는 우리에게 동의해야 합니다. %2$s 과 %1$s 브라우저를 사용할 수 있습니다.</string>
     <string name="show_security_tip_dialog_title">이용 약관</string>
     <string name="sign_and_open">로그인 후 열기</string>
     <string name="sign_in">체크인</string>
@@ -1398,8 +1398,8 @@
     <string name="video_history_empty">기록 없음</string>
     <string name="video_manager_action_bar_end_view">동영상</string>
     <string name="video_project_button">중지</string>
-    <string name="video_project_msg">동영상이 %s로 캐스팅 중입니다.</string>
-    <string name="video_project_title">동영상 캐스팅</string>
+    <string name="video_project_msg">동영상이 %s로 전송 중입니다.</string>
+    <string name="video_project_title">동영상 화면 전송</string>
     <string name="video_push_multi_message">%1$d개의 업데이트 가능</string>
     <string name="video_push_multi_title">업데이트 가능</string>
     <string name="video_push_single_message">탭하여 %1$d로 업데이트</string>
@@ -1564,7 +1564,7 @@
     <string name="small_video_ad_download_text">다운로드</string>
     <string name="system_permission_accounts_purpose">시스템 계정 로그인 및 관리에 사용</string>
     <string name="system_permission_main_purpose">웹 탐색, 정보 검색, 뉴스 읽기, 동영상보기 등</string>
-    <string name="system_permission_phone_state_purpose">해당 서비스를 제공하기 위해 장치 IMEI 식별자를 얻는 데 사용됩니다.</string>
+    <string name="system_permission_phone_state_purpose">해당 서비스를 제공하기 위해 기기 IMEI 식별자를 얻는 데 사용됩니다.</string>
     <string name="system_permission_storage_purpose">저장된 이미지와 같은 파일을 읽고 쓰거나 파일 업로드 / 다운로드 기능을 활성화하는 데 사용됩니다.</string>
     <string name="vo_feedback_sub_shield">, 등.</string>
     <string name="vo_info_flow_rs_hint">검색</string>

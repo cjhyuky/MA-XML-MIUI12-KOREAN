@@ -124,7 +124,7 @@
     <string name="alarm_setting_title">빨간 봉투 알람 시계 설정</string>
     <string name="alert_back_diving_mode_summary">집중 모드를 종료하시겠습니까?</string>
     <string name="alert_back_diving_mode_title">집중 모드</string>
-    <string name="alert_back_milink_hangup_tips_content">통화를 종료하는 동안 캐스팅이 중단되지 않습니다. 전원 버튼을 눌러 화면을 깨울 수 있습니다.</string>
+    <string name="alert_back_milink_hangup_tips_content">통화를 종료하는 동안 화면 전송이 중단되지 않습니다. 전원 버튼을 눌러 화면을 깨울 수 있습니다.</string>
     <string name="alert_back_milink_hangup_tips_content_vb">화면이 꺼져 있으면 앱이 전송 프로세스를 중단하지 않고 백그라운드에서 작동합니다. 전원 버튼을 눌러 화면을 다시 켭니다.</string>
     <string name="all_address_choose_hint">이 지역에 있는 모든 번호</string>
     <string name="already_close_gamebooster">게임 속도 향상 기능 비활성화됨</string>
@@ -151,7 +151,7 @@
     <string name="antivirus_monitor_virus_advice">이 앱은 바이러스를 포함하고 있을 수 있습니다. 삭제하세요.</string>
     <string name="antivirus_monitored_app_empty">"호환 가능한 결제 앱을 찾을 수 없습니다."</string>
     <string name="antivirus_none_engine_dialog_ok">확인</string>
-    <string name="antivirus_not_wlan">Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하시면 추가 요금이 발생할 것입니다. 그래도 계속하시겠습니까?</string>
+    <string name="antivirus_not_wlan">Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하시면 추가 요금이 발생합니다. 그래도 계속하시겠습니까?</string>
     <string name="antivirus_privacy_dialog_cloudscan">앱 이름과 세부사항 업로드</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 업로드 및 스캔합니다.</string>
     <string name="antivirus_privacy_dialog_ok">확인</string>
@@ -825,7 +825,7 @@
     <string name="cta_HIPS_Perm_Location_Desc">현재 위치와 관련된 지진 조기 경고 표시</string>
     <string name="cta_agree_desc">서비스를 이용하려면, 이 앱의 인터넷 연결을 허용하고 위 권한을 부여해야 합니다.</string>
     <string name="cta_close_dialog_cancel">취소</string>
-    <string name="cta_close_dialog_content">"인터넷 및 위치 정보에 대한 보안 액세스를 제한하면 지진 경고, 바이러스 정의 및 차단 목록 정보를 수신 할 수 없습니다. 장치의 보안 수준이 떨어집니다."</string>
+    <string name="cta_close_dialog_content">"인터넷 및 위치 정보에 대한 보안 액세스를 제한하면 지진 경고, 바이러스 정의 및 차단 목록 정보를 수신 할 수 없습니다. 기기의 보안 수준이 떨어집니다."</string>
     <string name="cta_close_dialog_ok">제한</string>
     <string name="cta_close_dialog_title">액세스 제한</string>
     <string name="cta_dialog_msg">&lt;Data&gt;보안 앱을 사용하시기 전에 먼저 저희의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인보호 정책&amp;lt;/a&amp;gt;을 숙지하였으며 이에 동의합니다. 보안 앱은 또한 정상적으로 작동하게하고 안티바이러스 방어를 최신상태로 유지하려면 인터넷 연결, 위치 정보 접근이 필요합니다. 동의하십니까?&lt;/Data&gt;</string>
@@ -1035,7 +1035,7 @@
     <string name="ew_arrive_text_tips">지진파 도착 : %s</string>
     <string name="ew_button_confirm">동의</string>
     <string name="ew_button_exit">동의하지 않기</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"이 기능은 지진 경고 기능을 제공합니다. 다가오는 지진에 대해 알려주고 경고음을 재생합니다. 가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다. &amp;lt;br&amp;gt; 우리는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. &amp;lt;br&amp;gt; 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면이 기능을 사용할 수 없습니다. 이 경우 이 기능을 끄거나 끄지 않도록 선택할 수 있습니다. &amp;lt;br&amp;gt; 그전에 먼저 귀하의 &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책 &amp;lt;/a&amp;gt;을 읽고 동의해야 합니다.\"&lt;/Data&gt;</string>
+    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"이 기능은 지진 경고 기능을 제공합니다. 다가오는 지진에 대해 알려주고 경고음을 재생합니다. 가장 가까운 대피소를 찾아 긴급 연락 담당자에게 전화하고 필요한 경우 의료 카드를 제시 할 수 있습니다. &amp;lt;br&amp;gt; 우리는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. &amp;lt;br&amp;gt; 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면이 기능을 사용할 수 없습니다. 이 경우 이 기능을 끄거나 끄지 않도록 선택할 수 있습니다. &amp;lt;br&amp;gt; 그전에 먼저 귀하의 &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인정보 보호정책 &amp;lt;/a&amp;gt;을 숙지하고 이에 동의해야 합니다.\"&lt;/Data&gt;</string>
     <string name="ew_close">알림 끄기</string>
     <string name="ew_emergency_allergy">알레르기</string>
     <string name="ew_emergency_basic_info">기본 정보</string>
@@ -1057,7 +1057,7 @@
     <string name="ew_emergency_medicine">활성 약물</string>
     <string name="ew_emergency_name">이름</string>
     <string name="ew_emergency_organ_donation">장기 기증 자원 봉사입니까?</string>
-    <string name="ew_emergency_privacy">개인정보 보호정책 : 여기에 제공한 정보는 긴급 상황에서만 사용되며 장치에 저장됩니다. 이 정보는 서버에 업로드되지 않습니다.</string>
+    <string name="ew_emergency_privacy">개인정보 보호정책 : 여기에 제공한 정보는 긴급 상황에서만 사용되며 기기에 저장됩니다. 이 정보는 서버에 업로드되지 않습니다.</string>
     <string name="ew_emergency_recent_medicine">최근 활성 약물</string>
     <string name="ew_emergency_title">의료 카드</string>
     <string name="ew_first_start_network_title">이용 약관</string>
@@ -1128,7 +1128,7 @@
     <string name="exit_dialog_garbage_clean_positive_button">비우기</string>
     <string name="exit_dialog_garbage_clean_title">여유공간 늘리기</string>
     <string name="exit_dialog_homepage_optimise_message">이 기기의 퍼포먼스 점수가 낮습니다. 지금 최적화하시겠습니까?</string>
-    <string name="exit_dialog_release_storage_message">기기의 저장 용량이 80%가 넘습니다. 사용하지 않는 앱을 제거하여 공간을 확보하세요.</string>
+    <string name="exit_dialog_release_storage_message">기기의 사용 중인 저장공간이 80%가 넘습니다. 사용하지 않는 앱을 제거하여 공간을 확보하세요.</string>
     <string name="exit_dialog_release_storage_positive_button">여유공간 확보</string>
     <string name="exit_dialog_release_storage_title">여유공간 확보</string>
     <string name="exit_dialog_scan_message">귀하의 기기 성능점수가 75점 이하입니다. 지금 최적화하시겠습니까?</string>
@@ -1243,7 +1243,7 @@
     <string name="first_aid_card_system_root_summary">보안 위험 방지를 위해 관리자 권한을 제한하세요.</string>
     <string name="first_aid_card_system_root_title">관리자 권한 허용중입니다.</string>
     <string name="first_aid_card_unable_install_button">여유 공간 확보</string>
-    <string name="first_aid_card_unable_install_summary">%s 공간만 사용가능합니다. 여유 공간을 확보해야 앱을 설치할 수 있습니다.</string>
+    <string name="first_aid_card_unable_install_summary">%s 공간만 사용 가능합니다. 여유 공간을 확보해야 앱을 설치할 수 있습니다.</string>
     <string name="first_aid_card_unable_install_title">앱 설치 실패</string>
     <string name="first_aid_card_wifi_or_flow_button">연결하기</string>
     <string name="first_aid_card_wifi_or_flow_summary">Wi-Fi나 모바일 데이터를 켜세요.</string>
@@ -1566,11 +1566,11 @@
     <string name="gtb_dialog_btn_close">끄기</string>
     <string name="gtb_dialog_btn_open">켜기</string>
     <string name="gtb_dialog_hint_smart_5g">게임 터보> 설정에서이 기능을 켜거나 끌 수 있습니다.</string>
-    <string name="gtb_dialog_summary_smart_5g">게임 터보가 5G 네트워크를 감지할 때마다 장치를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다. 지금 이 기능을 사용하시겠습니까?</string>
+    <string name="gtb_dialog_summary_smart_5g">게임 터보가 5G 네트워크를 감지할 때마다 기기를 최상의 네트워크에 연결하여 네트워크 지연을 줄일 수 있습니다. 지금 이 기능을 사용하시겠습니까?</string>
     <string name="gtb_dialog_title_smart_5g">5G 네트워크 최적화</string>
     <string name="gtb_exit_game_to_gtb">게임박스 열기</string>
     <string name="gtb_exit_game_to_home">홈 화면으로 돌아가기</string>
-    <string name="gtb_setting_item_summary_smart_5g">게임 터보가 5G 네트워크를 감지할 때마다 네트워크 지연을 줄이기 위해 사용가능한 최상의 네트워크에 장치를 연결할 수 있습니다.</string>
+    <string name="gtb_setting_item_summary_smart_5g">게임 터보가 5G 네트워크를 감지할 때마다 네트워크 지연을 줄이기 위해 사용 가능한 최상의 네트워크에 기기를 연결할 수 있습니다.</string>
     <string name="gtb_setting_item_title_smart_5g">5G 네트워크 최적화</string>
     <string name="guide_get_operator_error">&lt;font color=\'#33b4ff\'&gt;&lt;U&gt;통신사가 잘못되었습니까?&lt;/U&gt;&lt;/font&gt;</string>
     <string name="guide_operator_text">"현재 통신사: "</string>
@@ -1820,13 +1820,13 @@ SMS 전송"</string>
     <string name="mark_time_setting_dialog_title">번호 신고</string>
     <string name="marked_by_user">"다음으로 표기됨: "</string>
     <string name="megabyte_per_second">M/s</string>
-    <string name="memory_check_content">사용가능 %s</string>
+    <string name="memory_check_content">사용 가능 %s</string>
     <string name="memory_clean_memory_size_tip">캐시</string>
     <string name="memory_clean_no_need_clean">모두 좋아 보입니다.</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"%s를 해제했습니다.
 이제 기기의 속도가 %d%% 빨라졌습니다."</string>
     <string name="memory_clear_unused">캐시 지우기 (%s)</string>
-    <string name="memory_title">사용가능: %1$s\u0009\u0009총: %2$s</string>
+    <string name="memory_title">사용 가능: %1$s\u0009\u0009총: %2$s</string>
     <string name="menu_add">추가</string>
     <string name="menu_bl_call_log">차단된 통화 보기</string>
     <string name="menu_bl_remove">차단 해제</string>
@@ -1847,7 +1847,7 @@ SMS 전송"</string>
     <string name="menu_item_notification_antispam_text_avail">차단 목록</string>
     <string name="menu_item_notification_antispam_text_normal">차단 목록</string>
     <string name="menu_item_notification_power_text">배터리 최적화</string>
-    <string name="menu_item_notification_title">드롭다운 메뉴에 표시</string>
+    <string name="menu_item_notification_title">알림 창에 표시</string>
     <string name="menu_item_shortcut_summary">홈 화면에 기능 바로가기 생성</string>
     <string name="menu_item_shortcut_title">바로가기 관리</string>
     <string name="menu_item_uninstall">설치 제거</string>
@@ -1878,7 +1878,7 @@ SMS 전송"</string>
     <string name="menu_summary_networkassistants_4">데이터 소진됨</string>
     <string name="menu_summary_optimize_manage">메모리 최적화</string>
     <string name="menu_summary_optimize_manage_1">기기를 %d%% 더 빠르게 만드세요.</string>
-    <string name="menu_summary_power_manager">절전 모드는 기기 사용가능 시간을 늘려줍니다.</string>
+    <string name="menu_summary_power_manager">절전 모드는 기기 사용 가능 시간을 늘려줍니다.</string>
     <string name="menu_summary_power_manager_1">완전 충전됨</string>
     <string name="menu_summary_power_manager_2">%s 남음</string>
     <string name="menu_summary_power_manager_3">충전기 연결</string>
@@ -2088,7 +2088,7 @@ SMS 전송"</string>
     <string name="om_settings_speed_up_auto">자동 속도 향상</string>
     <string name="om_settings_title">최적화 설정</string>
     <string name="om_shortcut_added_toast_text">성공적으로 추가되었습니다.</string>
-    <string name="om_shortcut_dialog_summary">"RAM 제트를 사용하면 한 번의 탭으로 메모리를 지우고 장치 속도를 높일 수 있습니다. 홈 화면에 RAM 제트를 추가하시겠습니까?"</string>
+    <string name="om_shortcut_dialog_summary">"RAM 제트를 사용하면 한 번의 탭으로 메모리를 지우고 기기 속도를 높일 수 있습니다. 홈 화면에 RAM 제트를 추가하시겠습니까?"</string>
     <string name="om_shortcut_dialog_title">RAM 제트</string>
     <string name="once_settings_camera_ttile">메타 데이터 없이 공유</string>
     <string name="once_settings_location_title">위치 정보 없이 공유</string>
@@ -2308,7 +2308,7 @@ SMS 전송"</string>
     <string name="power_center_list_item_deep_save_title">고급 설정</string>
     <string name="power_center_list_item_haptic_feedback">햅틱 피드백 끄기</string>
     <string name="power_center_list_item_set_lockscreen_time">30초간 사용하지 않으면 화면을 끕니다.</string>
-    <string name="power_center_list_item_set_lockscreen_time_holder">%d초 동안 활동이 없으면 장치잠금</string>
+    <string name="power_center_list_item_set_lockscreen_time_holder">%d초 동안 활동이 없으면 기기잠금</string>
     <string name="power_center_list_item_wake_notification">"알림시 화면 켜지 않기"</string>
     <string name="power_center_one_key_save">최적화</string>
     <string name="power_center_ontime_boot">예약 켜짐 시간</string>
@@ -2397,15 +2397,15 @@ SMS 전송"</string>
     <string name="power_save_ps_close_setting_4">배터리 소모가 많은 서비스 및 기능 끄기(%1$s, %2$s, %3$s, %4$s)</string>
     <string name="power_save_ps_close_setting_5">고배터리 소모(%1$s, %2$s, %3$s, %4$s, %5$s)의 서비스 및 기능 끄기</string>
     <string name="power_save_ps_close_setting_5g">배터리 소모가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, GPS, 햅틱 피드백, \"폰을 들어 켜기\", \"두 번 눌러 화면 깨우거나 끄기\", \"화면이 꺼져있을 때 지문인식 아이콘 표시\")</string>
-    <string name="power_save_ps_close_setting_5g_q">배터리 소모가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, 햅틱 피드백, \"폰을 들어 깨우기\", \"더블 탭하여 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
+    <string name="power_save_ps_close_setting_5g_q">배터리 소모가 높은 서비스 및 기능 끄기(동기화, 5G 네트워크 연결, 햅틱 피드백, \"폰을 들어 깨우기\", \"두 번 탭하여 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
     <string name="power_save_ps_close_setting_5gnet">5G 네트워크 연결</string>
     <string name="power_save_ps_close_setting_6">배터리 소모가 높은 서비스 및 기능(%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)을 끄세요.</string>
     <string name="power_save_ps_close_setting_7">배터리 소모가 높은 서비스 및 기능(%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)을 끄세요.</string>
-    <string name="power_save_ps_close_setting_dclickwakeup">\"더블 탭하여 화면을 깨우거나 끄기\"</string>
+    <string name="power_save_ps_close_setting_dclickwakeup">\"두 번 탭하여 화면을 깨우거나 끄기\"</string>
     <string name="power_save_ps_close_setting_fingeraod">\"화면이 꺼져있을 때 지문인식 아이콘 표시\"</string>
     <string name="power_save_ps_close_setting_haptic">햅틱 피드백</string>
     <string name="power_save_ps_close_setting_pickupwakeup">\"들어올려 깨우기\"</string>
-    <string name="power_save_ps_close_setting_q">배터리 소모가 높은 서비스 및 기능 끄기(동기화, 햅틱 피드백, \"폰을 들어 깨우기\", \"더블 탭하여 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
+    <string name="power_save_ps_close_setting_q">배터리 소모가 높은 서비스 및 기능 끄기(동기화, 햅틱 피드백, \"폰을 들어 깨우기\", \"두 번 탭하여 화면을 켜거나 끄기\", \"화면이 꺼져있을 때 지문 아이콘 표시\")</string>
     <string name="power_save_ps_close_setting_sync">동기화</string>
     <string name="power_save_ps_description_title">절전 모드는 다음을 제한합니다:</string>
     <string name="power_save_ps_freeze">백그라운드에 고정</string>
@@ -2425,8 +2425,8 @@ SMS 전송"</string>
     <string name="power_setting_scenario_policies_summary">절전 모드 간 자동 전환 시나리오 식별</string>
     <string name="power_setting_super_save_summary_text">불필요한 시스템 기능들을 제한하여 배터리 사용 시간 확보</string>
     <string name="power_setting_warm_configure">온도 조절</string>
-    <string name="power_setting_warm_performance_tip">높은 배터리 소모가 필요한 시나리오는 장치의 온도를 기본 온도 제어 모드 수준 이상으로 올립니다.</string>
-    <string name="power_setting_wireless_reverse_charging_summary">무선으로 호환되는 장치 충전</string>
+    <string name="power_setting_warm_performance_tip">높은 배터리 소모가 필요한 시나리오는 기기의 온도를 기본 온도 제어 모드 수준 이상으로 올립니다.</string>
+    <string name="power_setting_wireless_reverse_charging_summary">무선으로 호환되는 기기 충전</string>
     <string name="power_setting_wireless_reverse_charging_title">무선 충전</string>
     <string name="power_settings_category_title">배터리 표시기</string>
     <string name="power_settings_lock_screen_saver_title">잠금 화면 설정</string>
@@ -2612,7 +2612,7 @@ SMS 전송"</string>
     <string name="privacy_prompt_tc_sms_report_message">데이터 사용량 정보를 업데이트하기 위하여 전화번호와 통신사 세부사항가 암호화되어 Mi의 서버에 업로드됩니다.</string>
     <string name="privacy_prompt_traffic_adjust_message">"보정을 클릭한 후, MIUI 시스템은 네트워크에 연결되며 귀하가 제출한 통신사 정보, 전화번호, IMEI, Mi 계정 등을 암호화하여 Mi 서버로 업로드하여 데이터 구매에 적합한 지역인지 확인합니다.
 
-보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송할 것입니다."</string>
+보정시 MIUI 시스템은 보정 메시지 획득을 위해 통신사에 무료 메시지를 전송합니다."</string>
     <string name="privacy_prompt_upload">업로드</string>
     <string name="privacy_protect_summary">사용자의 개인정보를 보호하세요.</string>
     <string name="privacy_protect_title">개인정보</string>
@@ -2663,7 +2663,7 @@ SMS 전송"</string>
     <string name="quick_optimize_sub_summary_with_battery_text">%1$s 추가 완료, %2$s 남음</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">휴대전화 배터리가 과소비되고 있습니다. 문제를 해결하세요.</string>
     <string name="quick_optimize_suggest_battery_over_heat">휴대전화가 과열되고 있습니다. 온도를 낮춰주세요.</string>
-    <string name="quick_replay_list_title">사용가능한 앱</string>
+    <string name="quick_replay_list_title">사용 가능한 앱</string>
     <string name="quick_reply_title">빠른 답장</string>
     <string name="quite_all_string">취소</string>
     <string name="random_expression">스피드 그랩 모드</string>
@@ -2797,7 +2797,7 @@ SMS 전송"</string>
     <string name="settings_category_other">기타 설정</string>
     <string name="settings_category_overheat">과열</string>
     <string name="settings_choice_no_notification">꺼짐</string>
-    <string name="settings_image_camera_summary">장치 모델, 메타 데이터 등</string>
+    <string name="settings_image_camera_summary">기기 모델, 메타 데이터 등</string>
     <string name="settings_location_subtitle_no">위치 정보가 없습니다.</string>
     <string name="settings_power_save_ontime_title">예약</string>
     <string name="settings_share_enable_summary">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다.</string>
@@ -2806,15 +2806,15 @@ SMS 전송"</string>
     <string name="settings_tip">더 많은 옵션을 보려면 갤러리> 설정으로 이동하세요.</string>
     <string name="settings_title">보안 공유</string>
     <string name="shake_send_sticker_summary">WeChat과 QQ에서 무작위 표현이 무작위로 나타납니다. 휴일에 철자법을 표현하면 쉽습니다!</string>
-    <string name="shield_keyboard_detail">버튼을 더블 탭하여 다시 켜기</string>
+    <string name="shield_keyboard_detail">버튼을 두 번 탭하여 다시 켜기</string>
     <string name="shield_keyboard_summary">게임 중 전체 화면 제스처 및 버튼 제한</string>
     <string name="shield_keyboard_title">버튼과 제스처 무시하기</string>
     <string name="shoop_again_float">휴식</string>
     <string name="shortcut_title_scan">검사</string>
     <string name="shortcut_title_whatsapp_clean">WhatsApp 클리너</string>
     <string name="show_system_app">시스템 앱 표시</string>
-    <string name="show_traffic_dialog_message">데이터 사용량 정보가 드롭다운 메뉴에 표시됩니다. 데이터 사용량 &gt; 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
-    <string name="show_traffic_dialog_title">드롭다운 메뉴에 사용량 표시</string>
+    <string name="show_traffic_dialog_message">데이터 사용량 정보가 알림 창에 표시됩니다. 데이터 사용량 &gt; 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
+    <string name="show_traffic_dialog_title">알림 창에 사용량 표시</string>
     <string name="showpattern">패턴 보여주기</string>
     <string name="shutdown_cancel_reminder">전원이 꺼지지 않았습니다.</string>
     <string name="shutdown_cancel_reminder_detail">통화 중이었기에 기기 전원이 꺼지지 않았습니다.</string>
@@ -3006,7 +3006,7 @@ SMS 전송"</string>
     <string name="status_bar_network_flow_purchase">"   구매 &gt;"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   데이터 한도 설정 &gt;"</string>
     <string name="still_retain_btn">유지</string>
-    <string name="stop_milink_connect">캐스팅 멈춤</string>
+    <string name="stop_milink_connect">화면 전송 중지</string>
     <string name="storage_activity_title">저장공간</string>
     <string name="storage_app_detail_activity_title">사용 중인 공간</string>
     <string name="storage_app_detail_cache">캐시</string>
@@ -3048,7 +3048,7 @@ SMS 전송"</string>
     <string name="storage_app_space_details_entry">앱 정보 보기</string>
     <string name="storage_app_uninstall_app_dialog_msg">이 앱을 제거 시 모든 앱 데이터도 함께 삭제됩니다.</string>
     <string name="storage_app_uninstall_app_dialog_title">앱 설치 제거</string>
-    <string name="storage_available_total_size">%1$s / %2$s 사용가능</string>
+    <string name="storage_available_total_size">%1$s / %2$s 사용 가능</string>
     <string name="storage_available_total_size1">사용 중: %1$s | 총: %2$s</string>
     <string name="storage_deepclean_entry">정밀 청소</string>
     <string name="storage_dialog_unmountable">"이 ^1은(는) 손상되었습니다.
@@ -3087,7 +3087,7 @@ SMS 전송"</string>
     <string name="suggest_app_tolock_unmasked">알림 표시</string>
     <string name="suggest_scan_again">스캔을 완료하여 기기의 안전을 보장하세요.</string>
     <string name="summary_app_lock_disable">앱 잠금으로 데이터 보호하기</string>
-    <string name="summary_auto_update">MIUI가 사용되지 않는 시간에 자동으로 업데이트를 다운로드하고 설치할 것입니다.</string>
+    <string name="summary_auto_update">MIUI가 사용되지 않는 시간에 자동으로 업데이트를 다운로드하고 설치합니다.</string>
     <string name="summary_background_connection">이 앱의 백그라운드 연결을 제한했습니다. 수정하려면 탭하세요.</string>
     <string name="summary_block_calls_from_cantacts">블랙리스트를 사용 중입니다. 수정하려면 탭하세요.</string>
     <string name="summary_block_calls_from_strangers">연락처에 저장된 전화번호만 전화 연결을 허용합니다. 수정하여 탭하세요.</string>
@@ -3106,7 +3106,7 @@ SMS 전송"</string>
     <string name="summary_eye_shield">독서 모드를 사용 중입니다. 수정하여 탭하세요.</string>
     <string name="summary_find_device">어느곳에서나 기기 위치검색과 잠금</string>
     <string name="summary_first_aid_kit">지금 기기의 문제를 해결하세요.</string>
-    <string name="summary_flow_notification">드롭다운 메뉴에 월간 데이터 사용량 통계 표시</string>
+    <string name="summary_flow_notification">알림 창에 월간 데이터 사용량 통계 표시</string>
     <string name="summary_flow_purchase">데이터가 얼마 남지 않은 것으로 판단되면 연결 유지를 위해 데이터를 구매합니다.</string>
     <string name="summary_flow_verify_failed">추가 비용 방지를 위해 데이터 사용량 자동 조정하기</string>
     <string name="summary_garbage_clean">캐시를 지워서 공간 확보</string>
@@ -3124,7 +3124,7 @@ SMS 전송"</string>
     <string name="summary_rcs_switch">China Mobile 사용자에게 무료로 문자를 보냅니다.</string>
     <string name="summary_realname_verify">결제 보안 강화를 위해 본인 인증을 하세요.</string>
     <string name="summary_restrict_data_usage">이 앱의 데이터 사용을 제한했습니다. 수정하려면 탭하세요.</string>
-    <string name="summary_show_notification">캐시 지우기, 배터리 상태 보기, 드롭다운 메뉴의 항목 차단</string>
+    <string name="summary_show_notification">캐시 지우기, 배터리 상태 보기, 알림 창의 항목 차단</string>
     <string name="summary_telecom_operator">통신사에서 월간 데이터 사용량 통계를 가져올 수 없습니다.</string>
     <string name="summary_usb">USB를 통해 오는 악성코드를 예방합니다.</string>
     <string name="summary_virus">바이러스 제거로 기기의 보안을 유지합니다.</string>
@@ -3336,7 +3336,7 @@ SMS 전송"</string>
     <string name="title_dev_no">개발자 옵션 켜짐</string>
     <string name="title_dev_yes">개발자 옵션 꺼짐</string>
     <string name="title_device_not_root">루트 권한 없음</string>
-    <string name="title_do_not_disturb">벨소리를 들을 수 없습니까?</string>
+    <string name="title_do_not_disturb">벨소리를 들을 수 없나요?</string>
     <string name="title_eye_shield">화면 색상이 올바르지 않습니까?</string>
     <string name="title_find_device">기기 찾기</string>
     <string name="title_first_aid_kit">문제 해결하기</string>
@@ -3370,8 +3370,8 @@ SMS 전송"</string>
     <string name="title_rcs_switch">China Mobile 메시지 켬</string>
     <string name="title_realname_verify">ID 인증</string>
     <string name="title_reply">댓글</string>
-    <string name="title_restrict_data_usage">%s에서 인터넷에 연결할 수 없습니까?</string>
-    <string name="title_show_notification">드롭다운 메뉴 위젯</string>
+    <string name="title_restrict_data_usage">%s에서 인터넷에 연결할 수 없나요?</string>
+    <string name="title_show_notification">알림 창 위젯</string>
     <string name="title_system_auto_download">업데이트가 자동으로 다운로드됩니다.</string>
     <string name="title_telecom_operator">자동 조정</string>
     <string name="title_usb_no">USB 디버깅 켜짐</string>
@@ -3399,7 +3399,7 @@ SMS 전송"</string>
     <string name="toast_root_apply_accept">%s에 루트 권한 부여됨</string>
     <string name="toast_root_apply_reject">%s에 루트 권한 거부됨</string>
     <string name="toast_set_success">성공적으로 켜짐</string>
-    <string name="toast_show_notification">드롭다운 메뉴에 고정됨</string>
+    <string name="toast_show_notification">알림 창에 고정됨</string>
     <string name="toast_update_fail">업데이트할 수 없습니다.</string>
     <string name="toast_update_nonetwork">네트워크에 연결할 수 없습니다.</string>
     <string name="toast_update_notneed">최신</string>
@@ -3512,13 +3512,13 @@ SMS 전송"</string>
     <string name="usb_adb_input_apply_step_1">이 작업은 개인정보 손실과 유출을 야기할 수 있습니다. 개발자가 아닌 이상 이 작업을 하는 것을 추천하지 않습니다.</string>
     <string name="usb_adb_input_apply_step_2">개발자는 권한 승인, 설정 변경, 제스처 복제를 위해 USB를 통해 특수 소프트웨어를 사용할 수 있습니다.</string>
     <string name="usb_adb_input_apply_step_3">지금 허용하시겠습니까?</string>
-    <string name="usb_eject">USB 장치 마운트 해제</string>
-    <string name="usb_eject_summary">USB 저장 장치의 안전한 제거를 위해 마운트를 해제합니다.</string>
-    <string name="usb_format">USB 장치 포맷</string>
-    <string name="usb_format_summary">USB 저장 장치의 모든 데이터(음악 및 사진 포함)를 제거합니다.</string>
-    <string name="usb_insert_summary">USB 장치</string>
+    <string name="usb_eject">USB 기기 마운트 해제</string>
+    <string name="usb_eject_summary">USB 저장 기기의 안전한 제거를 위해 마운트를 해제합니다.</string>
+    <string name="usb_format">USB 기기 포맷</string>
+    <string name="usb_format_summary">USB 저장 기기의 모든 데이터(음악 및 사진 포함)를 제거합니다.</string>
+    <string name="usb_insert_summary">USB 기기</string>
     <string name="usb_install_desc">이 앱을 USB로 설치하시겠습니까?</string>
-    <string name="usb_mount">USB 장치 마운트</string>
+    <string name="usb_mount">USB 기기 마운트</string>
     <string name="usbsharenet_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. 기기의 USB 연결을 확인한 후 Mi PC Suite를 다시 시작하세요.</string>
     <string name="usbsharenet_exception_title">USB로 공유된 인터넷 테스트</string>
     <string name="usbsharenet_pc_exception_summary">공유된 USB 연결을 사용하여 인터넷에 연결할 수 없습니다. PC의 인터넷 연결을 확인하세요.</string>
@@ -3576,9 +3576,9 @@ SMS 전송"</string>
     <string name="vtb_func_vpp_title">향상된 윤곽선</string>
     <string name="vtb_function_video_translation">실시간 번역</string>
     <string name="vtb_other_milink_connect">"지금 동영상을 전송할 수 없습니다. 다른 항목을 전송할 예정입니다."</string>
-    <string name="vtb_stop_milink_connect">중지된 동영상 캐스팅</string>
+    <string name="vtb_stop_milink_connect">중지된 동영상 화면 전송</string>
     <string name="wakepath_confirm_start_activity">%1$s 기능을 허용하여 %2$s 앱을 여시겠습니까?</string>
-    <string name="warn_function_no_work">&lt;u&gt;빨간 봉투에 올 때 알림을 받을 수 없습니까?&lt;/u&gt;</string>
+    <string name="warn_function_no_work">&lt;u&gt;빨간 봉투에 올 때 알림을 받을 수 없나요?&lt;/u&gt;</string>
     <string name="warningcenter_action_check">보기</string>
     <string name="warningcenter_alert_home">위치</string>
     <string name="warningcenter_alert_room">공간</string>
@@ -3664,17 +3664,17 @@ SMS 전송"</string>
     <string name="warningcenter_mijia_alert_tips_2">연기가 감지되었습니다.</string>
     <string name="warningcenter_mijia_alert_tips_3">홍수가 감지되었습니다.</string>
     <string name="warningcenter_mijia_alert_tips_4">자물쇠가 손상되었습니다.</string>
-    <string name="warningcenter_mijia_alert_view_device">장치 보기</string>
+    <string name="warningcenter_mijia_alert_view_device">기기 보기</string>
     <string name="warningcenter_mijia_devices_1">홍수 감지기</string>
     <string name="warningcenter_mijia_devices_2">연기 감지기</string>
     <string name="warningcenter_mijia_devices_3">가스 감지기</string>
     <string name="warningcenter_mijia_devices_4">스마트 잠금</string>
-    <string name="warningcenter_mijia_devices_support">지원되는 장치</string>
+    <string name="warningcenter_mijia_devices_support">지원되는 기기</string>
     <string name="warningcenter_mijia_devices_support_tips">"참고: Mi Home에서 계정에서 로그아웃하거나 앱을 제거하면 경고를 받을 수 없습니다."</string>
     <string name="warningcenter_mijia_info">가정 보안 모니터링</string>
     <string name="warningcenter_mijia_notification_summary">인스턴트 알림을 받을 수 있습니다.</string>
     <string name="warningcenter_mijia_notification_title">스마트 홈 기기의 알림이 켜져 있습니다.</string>
-    <string name="warningcenter_mijia_open_desc">"Mi Home에 추가한 장치에서 경고를 발행할 때마다 이 전화 및 기타 공유 장치에서 경고를 받습니다."</string>
+    <string name="warningcenter_mijia_open_desc">"Mi Home에 추가한 기기에서 경고를 발행할 때마다 이 전화 및 기타 공유 기기에서 경고를 받습니다."</string>
     <string name="warningcenter_mijia_open_title">스마트 기기에서 알림 받기</string>
     <string name="warningcenter_mijia_page_title">경고</string>
     <string name="warningcenter_mijia_search_keywords">Mi Home 경고</string>
@@ -3808,9 +3808,9 @@ SMS 전송"</string>
     <string name="applock_set_complete">앱 잠금 사용</string>
     <string name="bottom_func_guide_default_text">추가 기능</string>
     <string name="exit_dialog_exit">나가기</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>클리너가 %s의 저장 공간을 확보할 수 있습니다. 지금 정리 하시겠습니까?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>클리너가 %s의 저장공간을 확보할 수 있습니다. 지금 정리 하시겠습니까?</Data></string>
     <string name="exit_dialog_release_memory_positive_button">닫기</string>
-    <string name="exit_dialog_release_memory_title"><Data>장치 속도를 %d%% 향상</Data></string>
+    <string name="exit_dialog_release_memory_title"><Data>기기 속도를 %d%% 향상</Data></string>
     <string name="menu_item_notification_optimize_text">%d%% 사용중</string>
     <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s 사용중</string>
     <string name="stranger_call_dialog_add_block_list">차단</string>
@@ -3956,8 +3956,8 @@ SMS 전송"</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">구독이 만료되었습니다. 지금 구독을 갱신하고 혜택을 받으세요!</string>
     <string name="no_open">나중에</string>
     <string name="notification_checker_installed_apk_hint">설치한 APK 파일은 보관하지 않아도 됩니다.</string>
-    <string name="notification_checker_picture_hint_a">캐시된 이미지는 많은 저장 공간을 차지할 수 있습니다.</string>
-    <string name="notification_checker_picture_hint_b">더 이상 필요없는 항목을 삭제하여 저장 공간을 확보하세요.</string>
+    <string name="notification_checker_picture_hint_a">캐시된 이미지는 많은 저장공간을 차지할 수 있습니다.</string>
+    <string name="notification_checker_picture_hint_b">더 이상 필요없는 항목을 삭제하여 저장공간을 확보하세요.</string>
     <string name="notification_checker_picture_text_a">캐시된 이미지 삭제</string>
     <string name="notification_checker_picture_text_b">캐시된 이미지 %s 삭제</string>
     <string name="notification_garbage_clean_botton_text_new">삭제</string>
@@ -3971,19 +3971,19 @@ SMS 전송"</string>
     <string name="notification_low_memory_button_text">해결</string>
     <string name="notification_low_memory_hint">쓰레기 파일이 기기를 느리게 합니다.</string>
     <string name="notification_low_memory_text">느린 메모리 속도</string>
-    <string name="notification_low_storage_size">저장 공간 %s 미만</string>
-    <string name="notification_low_storage_size_1_gb_hint">저장 공간을 확보하여 기기를 빠르게 하세요.</string>
+    <string name="notification_low_storage_size">저장공간 %s 미만</string>
+    <string name="notification_low_storage_size_1_gb_hint">저장공간을 확보하여 기기를 빠르게 하세요.</string>
     <string name="notification_low_storage_size_1p5_gb_hint">쓰레기 파일을 삭제하여 기기를 빠르게 하세요.</string>
     <string name="notification_qq_clean_hint">쓰레기 파일이 기기를 느리게 합니다.</string>
     <string name="notification_qq_clean_text">"QQ 쓰레기 삭제"</string>
-    <string name="notification_uninstall_clean_hint">쓰레기 파일을 삭제하여 저장 공간을 확보하세요.</string>
+    <string name="notification_uninstall_clean_hint">쓰레기 파일을 삭제하여 저장공간을 확보하세요.</string>
     <string name="notification_uninstall_clean_text">삭제된 앱이 기기에 쓰레기 파일을 남겨두었습니다.</string>
     <string name="notification_wechat_clean_high_level_hint">쓰레기 파일을 삭제하여 기기를 빠르게 하세요.</string>
     <string name="notification_wechat_clean_high_level_text_a">WeChat이 많은 쓰레기 파일을 생성했습니다.</string>
     <string name="notification_wechat_clean_high_level_text_b">"WeChat 쓰레기 파일이 기기를 느리게 합니다."</string>
-    <string name="notification_wechat_clean_low_level_hint">저장 공간 확보</string>
+    <string name="notification_wechat_clean_low_level_hint">저장공간 확보</string>
     <string name="notification_wechat_clean_low_level_text">"WeChat 쓰레기 파일 삭제"</string>
     <string name="notification_wechat_clean_middle_level_hint">쓰레기 파일을 삭제하여 지연 없이 알림을 받으세요.</string>
-    <string name="notification_wechat_clean_middle_level_text_a">"WeChat 쓰레기 파일이 많은 저장 공간을 차지합니다."</string>
+    <string name="notification_wechat_clean_middle_level_text_a">"WeChat 쓰레기 파일이 많은 저장공간을 차지합니다."</string>
     <string name="notification_wechat_clean_middle_level_text_b">"WeChat 쓰레기 파일이 앱을 느리게 합니다."</string>
 </resources>

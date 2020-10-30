@@ -13,13 +13,13 @@
     <string name="skip_gesture_guide_dialog_title">전체 화면 제스처</string>
     <string name="terms_of_use_ble_htmlViewer">, 통합 위치 정보 제공자, HTML 뷰어</string>
     <string name="location_U">U+GPSnWPS</string>
-    <string name="location_content">법에 따라 이동통신사는 보안 및 응급 구조 목적을 추구하는 응급 구조 기관(소방서 및 경찰)의 요구 사항을 준수하기 위해 모바일 장치의 위치 정보를 얻을 수 있습니다.</string>
+    <string name="location_content">법에 따라 이동통신사는 보안 및 응급 구조 목적을 추구하는 응급 구조 기관(소방서 및 경찰)의 요구 사항을 준수하기 위해 모바일 기기의 위치 정보를 얻을 수 있습니다.</string>
     <string name="location_location">응급 구조대는 요청에 따라 현재 위치를 얻을 수 있습니다.</string>
     <string name="location_miui">MIUI를 사용하려면 위의 이용 약관에 동의해야 합니다.</string>
     <string name="position_header">위치 정보 공유</string>
     <string name="position_subheading">위치 정보</string>
     <string name="disagreement_abnormal_running_fast_pairing">"이러한 권한에 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 설정에서 권한을 제한하고 이 기능을 끄도록 선택할 수 있습니다."</string>
-    <string name="fast_pairing_introduction">Mi Link를 사용하면 장치가 MIUI 블루투스 서비스를 사용하여 주변의 블루투스 장치에 연결할 수 있습니다. 주변에서 기기를 찾으려면 MIUI 블루투스 서비스가 인터넷에 연결되도록 허용하세요.</string>
+    <string name="fast_pairing_introduction">Mi Link를 사용하면 기기가 MIUI 블루투스 서비스를 사용하여 주변의 블루투스 기기에 연결할 수 있습니다. 주변에서 기기를 찾으려면 MIUI 블루투스 서비스가 인터넷에 연결되도록 허용하세요.</string>
     <string name="backup_introduction">기기의 백업과 복원을 위해 이 앱을 사용해보세요.</string>
     <string name="permission_backup">저장소 접근</string>
     <string name="permission_backup_introduction">기기에 백업 파일을 저장하기 위한 접근 권한</string>
@@ -46,7 +46,7 @@
     <string name="other_settings_upload_debug_log_title">자동으로 데이터 진단 전송</string>
     <string name="other_settings_upload_debug_log_summary">수집된 정보는 시스템의 문제를 분석하고 특정하는데 사용되고 개인정보를 포함하고 있을 수 있습니다. 개인을 특정하는데에 사용되지 않습니다.</string>
     <string name="other_settings_auto_update">자동으로 설치</string>
-    <string name="other_settings_auto_update_summary">MIUI가 가장 적합한 시간을 판단하여 업데이트할 것입니다.</string>
+    <string name="other_settings_auto_update_summary">MIUI가 가장 적합한 시간을 판단하여 업데이트합니다.</string>
     <string name="back">뒤로</string>
     <string name="next">다음</string>
     <string name="skip_underline">이 단계 건너뛰기</string>
@@ -62,15 +62,17 @@
     <string name="ime_privacy_policy_no_network">네트워크 연결 없음. %s에서 이 키보드의 개인정보 보호정책 보기</string>
     <string name="terms_of_use">이용 약관</string>
     <string name="terms_of_use_label">"당사가 수집하는 정보의 종류와 이용 방법, 그리고 사용자의 선택지에 대해 알고 싶다면 당사의 이용 약관과 개인정보 보호정책을 읽어보세요.
+
 MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 동의해야 합니다.
-%s 및 Mi 계정과 같은 기능은 인터넷에 연결하고 사용자의 위치 정보를 취득합니다."</string>
+
+%s, Mi 계정과 같은 기능은 인터넷에 연결하고 사용자의 위치 정보를 취득합니다."</string>
     <string name="user_agreement">이용 약관</string>
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="application_permissions">앱 권한</string>
     <string name="agree">동의</string>
     <string name="disagree">취소</string>
     <string name="setting_locale">지역 설정 중…</string>
-    <string name="agree_terms">"이용 약관 및 개인정보 보호정책을 읽고 동의합니다."</string>
+    <string name="agree_terms">"이용 약관 및 개인정보 보호정책을 숙지하였으며 이에 동의합니다."</string>
     <string name="miui_terms_no_network">"인터넷에 연결되어 있지 않습니다. %s에서 사용자 이용 약관을 보세요."</string>
     <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인정보 보호정책을 보세요.</string>
     <string name="locale_picker_title">지역을 선택하세요.</string>
@@ -84,7 +86,7 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
     <string name="language_picker_other_languages_title">더 많은 언어</string>
-    <string name="enable_accessibility_dialog_message">10초 이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 의견을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 더블 탭하세요.</string>
+    <string name="enable_accessibility_dialog_message">10초 이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 의견을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 두 번 탭하세요.</string>
     <string name="enable_accessibility_dialog_positive_btn">확인</string>
     <string name="enable_accessibility_dialog_negative_btn">취소</string>
     <string name="cm_terms_title">모바일 네트워크 운영자 동의</string>
@@ -100,8 +102,8 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="language_settings">언어 선택</string>
     <string name="terms_of_use_label_gms">"사용자의 개인정보는 매우 소중합니다. 수집되는 정보가 어떻게 사용되고 사용자의 선택지는 무엇이 있는지 알고 싶다면 이용 약관과 개인정보 보호정책을 참고하세요.
 
-MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 동의해야 합니다. Mi SIM 활성화 서비스, Xiaomi 클라우드, Mi 서비스, 기기 찾기, 홈 화면 모듈, 게임 서비스, MAB 및 MSA 시스템 구성 요소, 다이렉트 서비스, 퀵 카드, 통계, Mi 스마트카드, Mi 계정 구성 요소 등의 기능들은 인터넷에 연결하고 사용자의 위치를 수신할 것입니다."</string>
-    <string name="voice_assist_desp">휴대전화에 \"Mi AI\"라고 말해주세요. Mi AI가 사용자의 음성을 인식하고 장치를 제어 할 수 있게 됩니다.</string>
+MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 동의해야 합니다. Mi SIM 활성화 서비스, Xiaomi 클라우드, Mi 서비스, 기기 찾기, 홈 화면 모듈, 게임 서비스, MAB 및 MSA 시스템 구성 요소, 다이렉트 서비스, 퀵 카드, 통계, Mi 스마트카드, Mi 계정 구성 요소 등의 기능들은 인터넷에 연결하고 사용자의 위치를 수신합니다."</string>
+    <string name="voice_assist_desp">휴대전화에 \"Mi AI\"라고 말해주세요. Mi AI가 사용자의 음성을 인식하고 기기를 제어 할 수 있게 됩니다.</string>
     <string name="voice_assist_title">음성으로 깨우기</string>
     <string name="congratulation_swipe">위로 스와이프하여 시스템으로 들어가기</string>
     <string name="navigation_picker_gesture_guide">제스처 가이드</string>
@@ -109,15 +111,15 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="navigation_picker_radio_text_virtual_key">버튼</string>
     <string name="sim_card_detecting_check">"SIM 카드를 찾을 수 없습니다. SIM 카드가 제대로 설치되어 있고 잔액이 충분한지 확인하세요."</string>
     <string name="system_navigation_mode">시스템 탐색 모드</string>
-    <string name="sim_card_detecting_confirm_turn_on_network">모바일 데이터 네트워크에 연결하는 것을 허용하시겠습니까? 허용하시면 삽입되어있는 SIM 카드를 이용하여 모바일 네트워크에 접속할 것입니다.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">모바일 데이터 네트워크에 연결하는 것을 허용하시겠습니까? 허용하시면 삽입되어있는 SIM 카드를 이용하여 모바일 네트워크에 접속합니다.</string>
     <string name="other_settings_ad_enable">맞춤형 광고</string>
     <string name="other_settings_ad_enable_summary">관심사에 맞춰 광고를 설정합니다.</string>
     <string name="other_settings_user_experience_summary_index"></string>
     <string name="sim_card_detection_mobile_not_available">"SIM 카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM 카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결하세요."</string>
     <string name="start_up_slogan">당신만을 위한 서비스</string>
-    <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인정보 보호정책을 읽고 동의했습니다."</string>
-    <string name="agree_terms_input_method_kika">"나는 Kika 개인정보 보호정책을 읽고 동의했습니다."</string>
+    <string name="agree_terms_input_method_facemoji">"나는 Facemoji 개인정보 보호정책을 숙지하였으며 이에 동의했습니다."</string>
+    <string name="agree_terms_input_method_kika">"나는 Kika 개인정보 보호정책을 숙지하였으며 이에 동의했습니다."</string>
     <string name="terms_of_use_label_systemhelper">, 자체 등록 서비스</string>
     <string name="terms_of_use_lable_apps">Mi 서비스, Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 게임 센터, MIUI 데몬, MSA 시스템 구성 요소, 번역 서비스, MIUI SDK, 빠른실행 앱, 퀵 카드, 통계, Mi 링크</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -130,7 +132,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="terms_of_use_lable_smart_cards">, 스마트 카드</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji 개인정보 보호정책</string>
     <string name="terms_privacy_policy_input_method_kika">Kika 개인정보 보호정책</string>
-    <string name="voice_assist_desp_screen_light">화면이 켜지면 휴대전화에 \"Mi AI\"라고 말합니다. Mi AI가 사용자의 음성을 인식하고 장치를 제어 할 수 있게 됩니다.</string>
+    <string name="voice_assist_desp_screen_light">화면이 켜지면 휴대전화에 \"Mi AI\"라고 말합니다. Mi AI가 사용자의 음성을 인식하고 기기를 제어 할 수 있게 됩니다.</string>
     <string name="voice_assist_advice">Mi AI는 음성 컨트롤을 사용할 수 있지만 더 많은 배터리를 소모합니다 (매시간 -1%).</string>
     <string name="voice_assist_condition">"다음과 같은 경우 Mi AI를 사용할 수 있습니다:
 1. 화면이 켜져 있을 때
@@ -143,7 +145,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="ai_button_single_press">누르기</string>
     <string name="ai_button_single_press_desc">Mi AI 켜기</string>
     <string name="ai_button_title">AI 버튼에 관하여</string>
-    <string name="poco_agree_terms_other">(POCO 런처 개인정보 보호정책과 사용자 약관 포함)</string>
+    <string name="poco_agree_terms_other">(POCO 런처 개인정보 보호정책과 이용 약관 포함)</string>
     <string name="zone_picker_title">타임존을 선택하세요.</string>
     <string name="other_settings_enhanced_lockscreen">향상된 잠금 화면을 사용해보세요.</string>
     <string name="other_settings_enhanced_lockscreen_summary">선별된 이미지와 스토리를 매일 잠금 화면으로 가져옵니다. 이용 약관에 동의하세요.</string>
@@ -161,7 +163,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="application_package_introduction">이 앱은 타사 앱을 설치 설치 설치, 설치하기 전에 그들을 스캔하고, 그 후 권장 사항을 제공 할 수 있습니다.</string>
     <string name="calculator_introduction">이 앱을 사용하여 계산, 단위 및 통화 변환 및 모기지 상환 추정에 사용할 수 있습니다.</string>
     <string name="camera_introduction">카메라를 사용하여 사진을 찍고 동영상을 촬영할 수 있습니다.</string>
-    <string name="carrier_introduction">더 나은 서비스를 제공하기 위해 장치는 장치 버전 정보, 장치 식별 데이터 (IMEI/IMSI/MSISDN/MAC 주소, MEID/ICCID 포함) 및 대략적인 위치 정보 (기지국 ID 포함)를 정기적으로 보낼 수 있습니다. Wi-Fi, 모바일 데이터 네트워크 또는 무료 SMS를 통한 이동통신사. 운송 업체는 서비스 품질을 개선하거나 맞춤형 서비스 또는 기술을 제공하기 위해서만 관련 정보를 분석 할 것을 약속하며, 귀하를 개인적으로 식별하는 형태로 관련 정보를 제 3 자에게 공개하지 않습니다. 특정 운송 업체 명세서가 우선합니다. 이 서비스 사용 비용에 대해서는 이동통신사에 문의하세요.</string>
+    <string name="carrier_introduction">더 나은 서비스를 제공하기 위해 기기는 기기 버전 정보, 기기 식별 데이터 (IMEI/IMSI/MSISDN/MAC 주소, MEID/ICCID 포함) 및 대략적인 위치 정보 (기지국 ID 포함)를 정기적으로 보낼 수 있습니다. Wi-Fi, 모바일 데이터 네트워크 또는 무료 SMS를 통한 이동통신사. 운송 업체는 서비스 품질을 개선하거나 맞춤형 서비스 또는 기술을 제공하기 위해서만 관련 정보를 분석 할 것을 약속하며, 귀하를 개인적으로 식별하는 형태로 관련 정보를 제 3 자에게 공개하지 않습니다. 특정 운송 업체 명세서가 우선합니다. 이 서비스 사용 비용에 대해서는 이동통신사에 문의하세요.</string>
     <string name="clock_introduction">이 앱을 사용하면 시간을 볼 수 있을 뿐만 아니라 타이머, 세계 시계, 스톱워치, 알람 설정 등을 사용할 수 있습니다.</string>
     <string name="close_location_service_setting">보안&gt; 설정&gt; 추가 설정&gt; 개인정보에서 위치 액세스 끄기를 선택하거나 개별 앱에 대한 권한을 제한할 수 있습니다.</string>
     <string name="compass_introduction">내비게이션, 대기압 및 고도를 볼 뿐만 아니라 내비게이션으로도 이 앱을 사용할 수 있습니다.</string>
@@ -179,7 +181,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="download_introduction">이 앱은 GetApps, Mi Video, 업데이트, 테마 및 브라우저에서 수행한 다운로드를 포함하여 모든 다운로드를 관리합니다.</string>
     <string name="fast_application_introduction">빠른 앱 프레임 워크를 사용하면 빠른 앱에서 서비스를 만들고 제공할 수 있습니다.</string>
     <string name="framework_introduction">Mi Services Framework를 사용하면 Mi 계정, Mi Push, Mi Stats 및 MIUI BI를 사용할 수 있습니다.</string>
-    <string name="framwork_base_service">이러한 서비스를 제공하려면 Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI)가 인터넷에 연결되어 전화번호, IMEI 및 IMSI에 액세스 한 후 장치가 푸시 알림을 수신할 수 있어야 합니다.</string>
+    <string name="framwork_base_service">이러한 서비스를 제공하려면 Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI)가 인터넷에 연결되어 전화번호, IMEI 및 IMSI에 액세스 한 후 기기가 푸시 알림을 수신할 수 있어야 합니다.</string>
     <string name="game_introduction">게임 플러그인을 사용하면 로그인, 주문 생성, 결제 완료, 쿠폰 사용 및 프로모션 이벤트에 참여할 수 있습니다.</string>
     <string name="google_service_introduction">정상적으로 작동하려면 Google Play가 필요하며 인터넷 연결, 위치, 오디오 녹음, 전화, 캘린더 일정, 통화 기록, 센서, 저장공간, 카메라, 기기 정보 및 계정에 대한 접근권한을 사용할 수 있어야 합니다.</string>
     <string name="location_introduction">위치기반 서비스는 사용자와 가까운 제품과 서비스를 찾아드립니다.</string>
@@ -194,19 +196,19 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="permission_clock_info_introduction">알람 데이터 저장</string>
     <string name="permission_contact">연락처에 액세스:</string>
     <string name="permission_contact_introduction">차단 목록 기능 제공 및 긴급 연락처 호출</string>
-    <string name="permission_different_device_introduction">다른 장치와 관련된 서비스 식별</string>
-    <string name="permission_different_info_introduction">다른 장치를 식별하기 위해</string>
+    <string name="permission_different_device_introduction">다른 기기와 관련된 서비스 식별</string>
+    <string name="permission_different_info_introduction">다른 기기를 식별하기 위해</string>
     <string name="permission_direct_call">전화 걸기 :</string>
     <string name="permission_direct_call_introduction">차단 목록에 항목을 추가하는 경우</string>
-    <string name="permission_download_introduction">다운로드 한 항목을 캐싱하여 장치에 저장</string>
-    <string name="permission_imei_service">장치와 관련된 서비스를 제공하기 위해 IMEI에 액세스</string>
-    <string name="permission_interaction_introduction">장치에 사진 및 동영상 저장</string>
+    <string name="permission_download_introduction">다운로드 한 항목을 캐싱하여 기기에 저장</string>
+    <string name="permission_imei_service">기기와 관련된 서비스를 제공하기 위해 IMEI에 액세스</string>
+    <string name="permission_interaction_introduction">기기에 사진 및 동영상 저장</string>
     <string name="permission_location">액세스 위치 정보 :</string>
     <string name="permission_location_introduction">위치 기반 서비스 제공</string>
     <string name="permission_log_introduction">로그 저장</string>
     <string name="permission_login_introduction">시스템 계정 로그인 및 관리</string>
     <string name="permission_message_introduction">차단된 연락처로 메시지 보내기</string>
-    <string name="permission_phone_imei_device">장치를 식별하기 위해 IMEI에 액세스</string>
+    <string name="permission_phone_imei_device">기기를 식별하기 위해 IMEI에 액세스</string>
     <string name="permission_phone_network">다운로드 가능한 항목을 최적화하고 조정하기 위해 네트워크 유형에 액세스</string>
     <string name="permission_phone_service">전화번호, IMEI 및 IMSI에 액세스하세요.</string>
     <string name="permission_photo_introduction">갤러리에 이미지 저장 및 게시 상태</string>
@@ -216,15 +218,15 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="permission_read_call_records">통화 기록 편집 :</string>
     <string name="permission_read_call_records_introduction">통화 기록에 항목 추가 및 차단된 통화 삭제</string>
     <string name="permission_read_note_introduction">메모 및 첨부 파일에 액세스</string>
-    <string name="permission_read_write_file">장치에서 파일 및 사진에 액세스하고 저장:</string>
-    <string name="permission_read_write_file_introduction">장치의 항목에 액세스, 저장 및 캐싱</string>
+    <string name="permission_read_write_file">기기에서 파일 및 사진에 액세스하고 저장:</string>
+    <string name="permission_read_write_file_introduction">기기의 항목에 액세스, 저장 및 캐싱</string>
     <string name="permission_recorder_file_introduction">오디오 녹음 액세스 및 저장</string>
     <string name="permission_recording">통화 및 오디오 녹음 :</string>
     <string name="permission_recording_introduction">동영상 녹화 중 오디오 녹음</string>
     <string name="permission_screen_shoot_introduction">화면 녹화 액세스 및 저장</string>
     <string name="permission_send_message">문자 전송</string>
     <string name="permission_user_record_introduction">오디오 녹음</string>
-    <string name="permission_virusscan_introduction">바이러스 검사 및 장치 최적화</string>
+    <string name="permission_virusscan_introduction">바이러스 검사 및 기기 최적화</string>
     <string name="permission_xunlei_introduction">Xunlei 서비스를 제공하기 위해 로그인 및 시스템 계정 관리</string>
     <string name="protect_persoanl_info_statement">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.</string>
     <string name="recorder_introduction">이 앱을 사용하여 오디오를 녹음하고 녹음을 클라우드에 백업할 수 있습니다.</string>
@@ -233,7 +235,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="screen_recording_introduction">이 앱은 화면에 무슨 일이 일어나고 있는지 기록 할 수 있습니다.</string>
     <string name="security_introduction">이 앱을 사용하면 기기의 휴지통을 지우고 바이러스를 찾아서 무효화하고 게임 성능을 최적화하며 배터리를 절약하고 앱, 권한을 관리하는 등의 작업을 할 수 있습니다.</string>
     <string name="security_mobile_account_introduction">시스템 계정 로그인 및 관리</string>
-    <string name="service_agreement">이용 약관을 읽고 동의했습니다.</string>
+    <string name="service_agreement">이용 약관을 숙지하였으며 이에 동의했습니다.</string>
     <string name="service_name_album">갤러리</string>
     <string name="service_name_application_package">패키지 인스톨러</string>
     <string name="service_name_calculator">계산기</string>
@@ -256,17 +258,17 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="service_policy">&lt;Data&gt;우리의 &lt;a href=%1$s&gt;개인정보 보호정책&lt;/a&gt;을 숙지하였으며 이에 동의합니다.&lt;/Data&gt;</string>
     <string name="service_privacy_index">개인정보 보호정책</string>
     <string name="servicestate_title">기본 서비스에 대한 진술</string>
-    <string name="user_agreement_declare">MIUI를 사용하려면 이용 약관 및 개인정보 보호정책을 읽고 동의해야 합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 상용구, 번역 서비스, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, Joyose, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치 정보에 접근합니다.</string>
+    <string name="user_agreement_declare">MIUI를 사용하려면 이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 상용구, 번역 서비스, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, Joyose, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치 정보에 접근합니다.</string>
     <string name="data_traffic_enable_dialog_title">"지금 Wi-Fi에 연결되어 있지않은 경우 기기는 모바일 데이터를 사용합니다. 모바일 데이터를 사용하면 추가 이동통신요금이 발생할 수 있습니다."</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Mi 한눈에 보기</string>
     <string name="poco_launcher_privacy_policy">POCO 런처 개인정보 보호정책</string>
-    <string name="poco_launcher_user_agreement">POCO 런처 사용자 약관</string>
-    <string name="mint_keyboard_oobe_checkbox">"민트 키보드 개인정보 보호정책을 읽고 동의했습니다."</string>
+    <string name="poco_launcher_user_agreement">POCO 런처 이용 약관</string>
+    <string name="mint_keyboard_oobe_checkbox">"민트 키보드 개인정보 보호정책을 숙지하였으며 이에 동의했습니다."</string>
     <string name="mint_keyboard_oobe_terms">민트 키보드 개인정보 보호정책</string>
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 이 기능을 사용하려면 민트 키보드 개인정보 보호정책에 동의해야 합니다."</string>
-    <string name="service_policy_download"><Data>해당 기능을 이용하기 전 &lt;a href=%1$s>개인정보 보호 조항&lt;/a >을 읽고 동의하여 주세요..</Data></string>
+    <string name="service_policy_download"><Data>해당 기능을 이용하기 전 &lt;a href=%1$s>개인정보 보호 조항&lt;/a >을 숙지하였으며 이에 동의하여 주세요..</Data></string>
     <string name="mobile_network">모바일 데이터 사용</string>
     <string name="move_data_dialog_box_le">"사용자 요청에 따라 모바일 데이터 및 GPS 연결을 사용할 수 있습니다. 계정 및 기타 항목을 동기화하려면 스마트폰 사양에 따라 모바일 데이터를 사용해야 할 수 있습니다."</string>
     <string name="move_data_dialog_box_title">무제한 데이터가 포함된 요금제를 사용하지 않는 한 모바일 데이터를 사용하면 추가 이동 통신 요금이 발생할 수 있습니다. 그래도 모바일 데이터를 사용하시겠습니까?</string>

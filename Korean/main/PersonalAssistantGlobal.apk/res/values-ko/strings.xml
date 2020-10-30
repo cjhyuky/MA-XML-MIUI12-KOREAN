@@ -574,7 +574,7 @@
     <string name="pie_chart_label_other">기타:</string>
     <string name="pie_chart_label_red_packet">축의금:</string>
     <string name="pie_chart_label_remain">남은 항목:</string>
-    <string name="pie_chart_label_remittance">전송된 파일명:</string>
+    <string name="pie_chart_label_remittance">전송된 파일 이름:</string>
     <string name="pie_chart_label_shopping">쇼핑:</string>
     <string name="pie_chart_label_spending">결제 수단:</string>
     <string name="pie_chart_label_telephone_charge">연락 수단:</string>
@@ -595,7 +595,7 @@
     <string name="recharge_tel">남은 전화통화 시간</string>
     <string name="recharge_title_monthused">이번 달 사용량 조회</string>
     <string name="recharge_title_over">한도 초과</string>
-    <string name="recharge_title_remaining">사용가능한 잔여 데이터</string>
+    <string name="recharge_title_remaining">사용 가능한 잔여 데이터</string>
     <string name="recharge_title_used">오늘 사용됨</string>
     <string name="record_name">새로운 녹음</string>
     <string name="record_parent">녹음기</string>
@@ -1034,7 +1034,7 @@
     <string name="notification_content_fail_stay_longer">최소 1초 동안 현재페이지에 머물러 있으세요.</string>
     <string name="notification_content_success">%1$s 구매에 %2$s 위안 지불</string>
     <string name="notification_express_app_open">켜기</string>
-    <string name="notification_express_content">퀵카드에서 배송추적</string>
+    <string name="notification_express_content">퀵 카드에서 배송추적</string>
     <string name="notification_express_title">쇼핑앱의 알림 켜기</string>
     <string name="pay_card_pack">Mi페이</string>
     <string name="paycode_parent">Alipay</string>
@@ -1083,7 +1083,7 @@
     <string name="payment_pref_source_wechat_summary">WeChat에서 구매내역 가져오기</string>
     <string name="payment_pref_source_wechat_title">WeChat</string>
     <string name="payment_privacy_dialog_cancel">나가기</string>
-    <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Xiaomi 클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
+    <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Xiaomi 클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵 카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
     <string name="payment_privacy_dialog_ok">동의</string>
     <string name="payment_privacy_dialog_title">\"나의 구매내역\" 개인정보 보호정책</string>
     <string name="payment_record_add">구매내역 추가</string>
@@ -1097,7 +1097,7 @@
     <string name="payment_record_recent_title">최근 구매내역</string>
     <string name="payment_record_show_more">더보기</string>
     <string name="payment_report_failed_record_dialog_cancel">취소</string>
-    <string name="payment_report_failed_record_dialog_message">"기능 향상을 위해 지불 실패한 내역을 보고합니다."<b>보내주신 내용은 퀵카드 성능개선에만 사용됩니다.</b></string>
+    <string name="payment_report_failed_record_dialog_message">"기능 향상을 위해 지불 실패한 내역을 보고합니다."<b>보내주신 내용은 퀵 카드 성능개선에만 사용됩니다.</b></string>
     <string name="payment_report_failed_record_dialog_ok">보고</string>
     <string name="payment_setting">설정</string>
     <string name="payment_total_month_desc">이번 달</string>
@@ -1114,7 +1114,7 @@
     <string name="system_favorite_dialog_title_confirm">즐겨찾기</string>
     <string name="card_expand_note_clear">삭제</string>
     <string name="card_expand_note_dialog_button">알겠음</string>
-    <string name="card_expand_note_dialog_message">퀵카드에서 \"저장\" 버튼을 누를때마다 새로운 메모가 생성됩니다.</string>
+    <string name="card_expand_note_dialog_message">퀵 카드에서 \"저장\" 버튼을 누를때마다 새로운 메모가 생성됩니다.</string>
     <string name="card_expand_note_dialog_title">메모 저장</string>
     <string name="card_expand_note_toast_clear_null">삭제 완료</string>
     <string name="card_expand_note_toast_save_done">메모장에 저장됨</string>
@@ -1132,7 +1132,7 @@
     <string name="function_youku_title">요우쿠</string>
     <string name="function_zhihu_search">검색</string>
     <string name="memory_clear_result">%1$sB 지워짐</string>
-    <string name="cta_dialog_text_all">퀵카드를 사용하려면 %1$s\"사용자 약관\" %2$s and %3$s \"개인정보 보호 약관\" %4$s를 읽고 동의해야 합니다. 또한 인터넷 연결 및 위치 서비스에 대한 액세스가 필요합니다. 동의하십니까?</string>
+    <string name="cta_dialog_text_all">퀵 카드를 사용하려면 %1$s\"이용 약관\" %2$s과 %3$s \"개인정보 보호정책\" %4$s을 숙지하고 이에 동의해야 합니다. 또한 인터넷 연결 및 위치 서비스에 대한 액세스가 필요합니다. 동의하십니까?</string>
     <string name="didi_taximeter">택시 요금 계산</string>
     <string name="express_pickup_code">코드 : %s</string>
     <string name="fav_tab_shopping">제품</string>
@@ -1144,18 +1144,18 @@
     <string name="book_dep_city">출발지</string>
     <string name="didi_app_name">디디</string>
     <string name="express_setting_other">다른방법</string>
-    <string name="miot_device_add_device">장치 추가</string>
-    <string name="miot_device_all_device">모든 장치</string>
+    <string name="miot_device_add_device">기기 추가</string>
+    <string name="miot_device_all_device">모든 기기</string>
     <string name="miot_device_cancel">취소</string>
     <string name="miot_device_card_title">Mi홈</string>
     <string name="miot_device_cta_and">및</string>
-    <string name="miot_device_cta_message">빠른 제어를 위해 스마트 장치를 여기에 추가하세요. "승인된 사용자"를 클릭하면 Mi홈 앱에 동의하게됩니다.</string>
+    <string name="miot_device_cta_message">빠른 제어를 위해 스마트 기기를 여기에 추가하세요. "승인된 사용자"를 클릭하면 Mi홈 앱에 동의하게됩니다.</string>
     <string name="miot_device_cta_priv">개인정보 보호 규정</string>
     <string name="miot_device_cta_use_info">이용 약관</string>
     <string name="miot_device_edit">편집</string>
-    <string name="miot_device_empty_text">신속한 제어를 위해 공기 청정기, 카메라, 연소 로봇 및 기타 스마트 장치를 추가하세요.</string>
+    <string name="miot_device_empty_text">신속한 제어를 위해 공기 청정기, 카메라, 연소 로봇 및 기타 스마트 기기를 추가하세요.</string>
     <string name="miot_device_install_mijia">다운로드</string>
-    <string name="miot_device_introduction">스마트 장치 단축키 구현</string>
+    <string name="miot_device_introduction">스마트 기기 단축키 구현</string>
     <string name="miot_device_loading">불러오는 중</string>
     <string name="miot_device_login">로그인</string>
     <string name="miot_device_mijia_logout_message">기기를 추가하고 사용하기 전에 계정에 로그인해야 합니다. 로그인하시겠습니까?</string>
@@ -1174,7 +1174,7 @@
     <string name="express_setting_authorized_number_limit">최대 4개의 전화번호를 추가할 수 있습니다.</string>
     <string name="express_setting_number_already_add">이 휴대전화는 이미 추가되었습니다. 다른 휴대전화로 시도해 보세요.</string>
     <string name="express_setting_supported_orders">"배송 서비스는 Taobao, Tmall, Xianyu, ZTO Express, STO Express, Yunda Express, 그리고 다른 작은 배송업체들을 지원합니다. Taobao, Tmall, 그리고 Xianyu외에 SF Express로 배송되는 주문은 수동으로 확인해야 합니다. JD Express는 지원하지 않습니다."</string>
-    <string name="login_dialog_body">여러 장치에서 항목에 액세스 하려면 Xiaomi 클라우드와의 동기화를 설정합니다. 지금 로그인하고 Xiaomi 클라우드를 켜시겠습니까?</string>
+    <string name="login_dialog_body">여러 기기에서 항목에 액세스 하려면 Xiaomi 클라우드와의 동기화를 설정합니다. 지금 로그인하고 Xiaomi 클라우드를 켜시겠습니까?</string>
     <string name="login_dialog_negative">나중에</string>
     <string name="login_dialog_positive">로그인 후 열기</string>
     <string name="login_dialog_title">동기화 켜기</string>

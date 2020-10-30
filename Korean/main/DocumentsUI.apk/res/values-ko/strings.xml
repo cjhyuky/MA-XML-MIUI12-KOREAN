@@ -43,7 +43,7 @@
     <string name="deny">거부</string>
     <string name="abc_searchview_description_search">검색</string>
     <string name="search_menu_title">검색</string>
-    <string name="abc_search_hint">검색중…</string>
+    <string name="abc_search_hint">검색 중…</string>
     <string name="abc_shareactionprovider_share_with">공유하기</string>
     <string name="never_ask_again">다시 묻지 않기</string>
     <string name="close">닫기</string>

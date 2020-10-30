@@ -151,7 +151,7 @@
     <string name="desktop_lyric_dialog_msg">뮤직 &gt; 설정 &gt; 고급 설정에서 홈 화면의 가사 켜기/끄기</string>
     <string name="desktop_lyric_dialog_positive_button">지금 시도</string>
     <string name="desktop_lyric_dialog_title">지금 시도</string>
-    <string name="desktop_lyric_lock_toast">잠겨 있습니다. 드롭다운 메뉴에서 뮤직을 잠금해제할 수 있습니다.</string>
+    <string name="desktop_lyric_lock_toast">잠겨 있습니다. 알림 창에서 뮤직을 잠금해제할 수 있습니다.</string>
     <string name="desktop_lyric_setting_summary">홈 화면에 가사 표시</string>
     <string name="desktop_lyric_setting_title">홈 화면 가사</string>
     <string name="desktop_lyric_textsize">텍스트</string>
@@ -207,7 +207,7 @@
     <string name="download_complete_start_install">설치 중…</string>
     <string name="download_completed">다운로드됨</string>
     <string name="download_confirm_button_text">설치</string>
-    <string name="download_confirm_text">Mi 뮤직이 \"%s\" 앱을 다운로드 및 설치할 것입니다.</string>
+    <string name="download_confirm_text">Mi 뮤직이 \"%s\" 앱을 다운로드 및 설치합니다.</string>
     <string name="download_connect_wifi_dialog_message">이 노래를 다운 받으려면 Wi-Fi가 필요합니다. 지금 연결하시겠습니까?</string>
     <string name="download_connect_wifi_dialog_title">Wi-Fi에 연결</string>
     <string name="download_dialog_fail">다운로드할 수 없습니다.</string>
@@ -409,7 +409,7 @@
     <string name="local_page_song_download_history">다운로드</string>
     <string name="long_press_to_select_lyric">로컬 가사 파일을 선택하려면 누르세요.</string>
     <string name="lrc_search_failed">가사를 찾지 못했습니다.</string>
-    <string name="lrc_searching">검색중…</string>
+    <string name="lrc_searching">검색 중…</string>
     <string name="lyric_is_empty">사용 가능한 가사 없음</string>
     <string name="lyric_label">가사</string>
     <string name="lyric_open_other_connect">모바일 네트워크 사용하여 가사 다운로드</string>
@@ -492,7 +492,7 @@
     <string name="notification_download_success_more">%1$d 다운로드됨</string>
     <string name="notification_need_wifi_for_size">파일이 너무 큽니다. Wi-Fi 다운로드가 필요합니다.</string>
     <string name="notification_play_summary">현재 곡 및 다음 곡 보기, 홈 화면에 가사 표시</string>
-    <string name="notification_play_title">드롭다운 메뉴 위젯</string>
+    <string name="notification_play_title">알림 창 위젯</string>
     <string name="notification_recommend_summary">새 뮤직 트렌드와 앱 프로모션에 대해 알아보기</string>
     <string name="notification_recommend_title">중요 알림</string>
     <string name="notification_setting">알림 설정</string>
@@ -747,7 +747,7 @@
     <string name="xiaomi_update_sdk_dialog_message_diff">버전 소개 %1$s\n델타 업데이트 크기 : %2$s</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장공간을 사용할 수 없으면 SD 카드를 확인하세요.</string>
-    <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 읽고 동의해야 합니다.</string>
+    <string name="impunity_declaration_content_live">이 제품을 사용하기 전에 %1$s과 %2$s를 숙지하고 이에 동의해야 합니다.</string>
     <string name="add_to_favorite">즐겨찾기에 추가</string>
     <string name="cp_other_error">"이 항목은 저작권 제한으로 인해 현재 사용할 수 없습니다."</string>
     <string name="detail">자세히</string>
@@ -817,17 +817,17 @@
     <string name="offline_song_and_auto_next">"이 노래는 사용할 수 없습니다. 지금 건너 뜁니다."</string>
     <string name="recommend_tool">추천</string>
     <string name="video_network_negative">모바일 데이터를 사용한 스트리밍 항목 허용</string>
-    <string name="cloud_empty_summary">다른 장치에서도 노래를 들을 수 있도록 Xiaomi 클라우드에 백업하세요.</string>
-    <string name="cloud_welcome_summary">다른 장치에서도 들을 수 있도록 노래를 Xiaomi 클라우드에 백업하세요.</string>
-    <string name="cta_runtime_perm_desc_account">Mi 계정을 사용하여 로그인하기 위해 장치의 계정에 접근</string>
+    <string name="cloud_empty_summary">다른 기기에서도 노래를 들을 수 있도록 Xiaomi 클라우드에 백업하세요.</string>
+    <string name="cloud_welcome_summary">다른 기기에서도 들을 수 있도록 노래를 Xiaomi 클라우드에 백업하세요.</string>
+    <string name="cta_runtime_perm_desc_account">Mi 계정을 사용하여 로그인하기 위해 기기의 계정에 접근</string>
     <string name="cta_runtime_perm_desc_audio">마이크를 사용하여 노래 식별</string>
     <string name="cta_runtime_perm_desc_location">지역 라디오 방송국에 접근</string>
-    <string name="cta_runtime_perm_desc_phone">장치를 식별하기 위해 장치 정보에 접근</string>
+    <string name="cta_runtime_perm_desc_phone">기기를 식별하기 위해 기기 정보에 접근</string>
     <string name="cta_runtime_perm_desc_storage">노래, 표지 및 가사를 저장하고 액세스하기 위해 저장소에 접근</string>
     <string name="cta_runtime_perm_desc_storage_single">노래, 표지 및 가사를 저장하고 액세스하기 위해 저장소에 접근</string>
     <string name="declaration_main_content">당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다.\n정상적으로 작동하려면 이 앱을 인터넷에 연결해야하며 개인정보를 수집하려면 다음 권한이 필요합니다.</string>
     <string name="declaration_main_content2">&lt;Data&gt;\"이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이 경우 설정에서 이 앱을 제거하거나 로그 아웃하거나 권한을 제한하도록 선택할 수 있습니다. Mi 뮤직을 사용하기 전에 우리의 &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;이용 약관&lt;/a&gt;과&lt;a href=\"https://static.music.xiaomi.com/privacy?lang=%1$s\"&gt;개인정보 보호정책&lt;/a&gt;을 숙지하였으며 이에 동의합니다.\"&lt;/Data&gt;</string>
-    <string name="declaration_main_purpose">Mi 뮤직에 오신 것을 환영합니다! 이 앱을 사용하여 장치에 저장된 노래를 재생하고 온라인 콘텐츠를 스트리밍 할 수 있습니다.</string>
+    <string name="declaration_main_purpose">Mi 뮤직에 오신 것을 환영합니다! 이 앱을 사용하여 기기에 저장된 노래를 재생하고 온라인 콘텐츠를 스트리밍 할 수 있습니다.</string>
     <string name="headline_content_issue_feedback">콘텐츠 문제에 대한 의견</string>
     <string name="sleep_mode_seek_bar_end">120분</string>
     <string name="sleep_mode_seek_bar_start">1분</string>
@@ -848,7 +848,7 @@
     <string name = "joox_account_fans_center">팬 센터</string>
     <string name = "joox_account_login_conflict_message">"다른 기기에서 로그인한 것 같습니다. 여기에서 로그인하시겠습니까?"</string>
     <string name = "joox_account_login_exception">다시 로그인</string>
-    <string name = "joox_account_multi_device_login">여러 장치</string>
+    <string name = "joox_account_multi_device_login">여러 기기</string>
     <string name = "joox_area_check_failed">"서비스를 이용할 수 없는 지역에 있는 것 같습니다. 다른 네트워크에 연결하고 앱을 다시 시작하세요."</string>
     <string name = "joox_auth_button_acquire_vip_instantly">VIP 멤버십 받기</string>
     <string name = "joox_auth_button_login_to_acquire_vip">VIP 회원 자격을 얻으려면 로그인</string>

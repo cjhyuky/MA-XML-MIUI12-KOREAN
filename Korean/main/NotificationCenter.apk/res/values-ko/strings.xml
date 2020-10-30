@@ -49,7 +49,7 @@
     <string name="chip_text">칩 텍스트</string>
     <string name="clear_text_end_icon_content_description">일반 텍스트</string>
     <string name="error_icon_content_description">오류</string>
-    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
+    <string name="exposed_dropdown_menu_content_description">알림 창 표시</string>
     <string name="icon_content_description">대화 상자 아이콘</string>
     <string name="mtrl_badge_numberless_content_description">새로운 알림</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>

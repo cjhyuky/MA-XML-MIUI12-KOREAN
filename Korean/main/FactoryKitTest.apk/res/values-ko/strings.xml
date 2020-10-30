@@ -51,8 +51,8 @@
     <string name="blackcard_block">1.Black 카드 블록 거리 2cm</string>
     <string name="bluetooth_name">블루투스</string>
     <string name="bluetooth_scan_finish">스캔 완료</string>
-    <string name="bluetooth_scan_null">장치를 찾을 수 없습니다.</string>
-    <string name="bluetooth_scan_start">장치 검색중...</string>
+    <string name="bluetooth_scan_null">기기를 찾을 수 없습니다.</string>
+    <string name="bluetooth_scan_start">기기 검색 중...</string>
     <string name="bluetooth_status_close">블루투스 폐쇄</string>
     <string name="bluetooth_status_open">블루투스 열림</string>
     <string name="bluetooth_status_open_fail">블루투스가 열리지 않음</string>
@@ -92,7 +92,7 @@
     <string name="ctp_result_pass">패스</string>
     <string name="ctp_result_testing">시험...</string>
     <string name="ctp_tip2">시험에서 잠시 기다려주세요.</string>
-    <string name="ctp_tips">주의 사항 : 장치가 테스트 중이므로 화면을 건드리지 말고 결과를 기다려주세요!</string>
+    <string name="ctp_tips">주의 사항 : 기기가 테스트 중이므로 화면을 건드리지 말고 결과를 기다려주세요!</string>
     <string name="customer">자오미</string>
     <string name="device_open_fail">기기가 열리지 않습니다!</string>
     <string name="disable_usb_diag">Diag USB 포트 비활성화</string>
@@ -127,11 +127,11 @@
     <string name="flashlight_name">손전등</string>
     <string name="fm_confirm">소리를들을 수 있니?</string>
     <string name="fm_name">FmRadio</string>
-    <string name="fm_open_error">열린 장치 오류</string>
+    <string name="fm_open_error">열린 기기 오류</string>
     <string name="fm_open_on">기기 열기, 잠시만 기다려주세요....</string>
     <string name="fm_reset">다시 놓기</string>
     <string name="fm_search">검색</string>
-    <string name="fm_search_on">검색중입니다. 잠시 기다려주세요....</string>
+    <string name="fm_search_on">검색 중입니다. 잠시 기다려주세요....</string>
     <string name="fp_vendor_name">센서 모델 :</string>
     <string name="fqc_test">FQC 테스트</string>
     <string name="frontflash_confirm">하얀 손전등이 괜찮은지 확인하세요!</string>
@@ -152,7 +152,7 @@
     <string name="gps_provider_enabled">사용 가능한 공급자</string>
     <string name="gps_satellite_count">위성 수 스캔중 :</string>
     <string name="gps_satellite_snr">신호 강도:</string>
-    <string name="gps_scan_start">장치 검색중...</string>
+    <string name="gps_scan_start">기기 검색 중...</string>
     <string name="gps_speed">속도:</string>
     <string name="gps_speed_unit">m/s</string>
     <string name="gps_start">GPS 시작</string>
@@ -164,7 +164,7 @@
     <string name="gsensor_msg">평면 평면에서 확인 버튼을 클릭하고 전화기를 45도 위치로 놓으세요.</string>
     <string name="gsensor_name">가속도 센서 (Pcba테스트)</string>
     <string name="gsensor_value">방향:</string>
-    <string name="gsensorcali_hint">전화기를 고정 장치에 수평으로 놓은 다음 교정 버튼을 클릭하세요!</string>
+    <string name="gsensorcali_hint">전화기를 고정 기기에 수평으로 놓은 다음 교정 버튼을 클릭하세요!</string>
     <string name="gsensorcali_name">중력 센서 교정</string>
     <string name="gsensorcali_ok">승인</string>
     <string name="gsensorcali_test">보정중...</string>
@@ -317,7 +317,7 @@
     <string name="new_powerled1">전원 표시 등 :</string>
     <string name="nfc_name">NFC</string>
     <string name="no">아니</string>
-    <string name="no_device">장치가 테스트를 거쳐야하는 것은 아닙니다.</string>
+    <string name="no_device">기기가 테스트를 거쳐야하는 것은 아닙니다.</string>
     <string name="no_front_camera">전면 카메라 없음</string>
     <string name="nocard_block">3. 블랙 카드 블록 거리 15cm</string>
     <string name="normal_work">5. 멀리에서 가까운 카드 블록</string>
@@ -408,7 +408,7 @@
     <string name="sdcard_to_insert">SD 카드를 삽입하세요.</string>
     <string name="sdcard_to_remove">SD 카드를 제거하세요.</string>
     <string name="sdcard_total_memory">총 메모리 :</string>
-    <string name="sdcard_usb_memory">USB 저장 장치 :</string>
+    <string name="sdcard_usb_memory">USB 저장 기기 :</string>
     <string name="sdcard_wait">Sd 카드를 기다리는 중입니다....</string>
     <string name="sensor_calibration">센서 교정</string>
     <string name="sensor_calibration_clear">보정 지우기</string>
@@ -509,7 +509,7 @@
     <string name="wifi_is_closing">Wi-Fi가 종료되었습니다. 잠시 후 다시 시도하세요.</string>
     <string name="wifi_name">Wi-Fi</string>
     <string name="wifi_scan_null">AP가 없습니다!</string>
-    <string name="wifi_scan_start">장치 검색중...</string>
+    <string name="wifi_scan_start">기기 검색 중...</string>
     <string name="wifi_state_unknown1">Wi-Fi 상태를 알 수 없습니다. 다시 시도하세요.</string>
     <string name="wifi_status_close">Wi-Fi 꺼짐</string>
     <string name="wifi_status_open">Wi-Fi 켜짐</string>

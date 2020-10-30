@@ -43,7 +43,7 @@
     <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="search_menu_title">검색</string>
     <string name="settings_camera_subtitle_no">메타 데이터 없음</string>
-    <string name="settings_image_camera_summary">장치 모델, 메타 데이터 등</string>
+    <string name="settings_image_camera_summary">기기 모델, 메타 데이터 등</string>
     <string name="settings_location_subtitle_no">위치 정보가 없습니다.</string>
     <string name="settings_share_enable_summary">WeChat에서 공유하는 항목은 MIUI 배지와 함께 표시됩니다.</string>
     <string name="settings_share_info">갤러리 및 파일 탐색기에서 공유 한 항목에 사용할 수 있는 보안 공유 옵션은 다음과 같습니다.</string>

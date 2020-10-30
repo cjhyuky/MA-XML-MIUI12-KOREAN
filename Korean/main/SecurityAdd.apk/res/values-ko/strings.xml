@@ -28,7 +28,7 @@
     <string name="fastboot_locked_question_1">왜 Fastboot를 잠가놓나요?</string>
     <string name="fastboot_locked_question_2">Fastboot 잠금해제와 관련된 위험이 있나요?</string>
     <string name="fastboot_locked_question_3">위험에 대해 알고 있지만 기기 잠금을 해제해야 합니다. 어떻게 하나요?</string>
-    <string name="fastboot_status_locked_info">이 장치에서 빠른 부팅이 해제되지 않았습니다.</string>
+    <string name="fastboot_status_locked_info">이 기기에서 빠른 부팅이 해제되지 않았습니다.</string>
     <string name="fastboot_status_locked_summary">루트 권한을 얻을 수 없습니다.</string>
     <string name="fastboot_unlock_web_title">MIUI 공식 웹 사이트에서 잠금해제 도구를 받으세요.</string>
     <string name="game_booster">게임 속도 향상</string>

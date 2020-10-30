@@ -279,7 +279,7 @@
     <string name="sniff_btn_text">출처</string>
     <string name="sniff_sniffing_btn_text">출처를 찾는중…</string>
     <string name="sniff_result_empty_prompt">웹 검색 결과</string>
-    <string name="sniff_finding_resource_prompt">웹 검색중…</string>
+    <string name="sniff_finding_resource_prompt">웹 검색 중…</string>
     <string name="sniff_no_network_tip">네트워크 연결 상태를 확인하고 다시 시도하세요.</string>
     <string name="web_dialog_confirm">확인</string>
     <string name="web_dialog_cancel">취소</string>

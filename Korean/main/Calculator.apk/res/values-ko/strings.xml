@@ -426,7 +426,7 @@
     <string name="unit_data_display_currency_zmw">잠비아 콰차</string>
     <string name="tax_thershold_native_new">%s (신규)</string>
     <string name="tax_thershold_native_new_description">세금은 2018년 10월 1일부터 새로운 세법에 따라 계산됩니다.</string>
-    <string name="not_supported_due_to_language">이 기능은 중국어로만 사용가능합니다.</string>
+    <string name="not_supported_due_to_language">이 기능은 중국어로만 사용 가능합니다.</string>
     <string name="fmt_time_12hour_minute_pm">a h:mm</string>
     <string name="app_notification_info">계산기가 백그라운드에서 실행되고 있습니다.</string>
     <string name="btn_float_window_alpha">투명도 조절</string>
@@ -458,7 +458,7 @@
     <string name="permission_location">액세스 위치</string>
     <string name="permission_location_desc">위치 기반 서비스 제공</string>
     <string name="permission_phone">액세스 기기 상태 및 ID</string>
-    <string name="permission_phone_desc">다른 장치 식별용</string>
+    <string name="permission_phone_desc">다른 기기 식별용</string>
     <string name="permission_privacy_link"><Data>이 앱을 사용하려면 &lt;a href=%1$s>이용 약관&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a>에 동의하세요.</Data></string>
     <string name="permission_purpose">"계산기에 오신 것을 환영합니다! 기본기능 외에도 계산기를 사용하면 통화 및 측정 단위를 변환하고 모기지 상환금 등을 계산할 수 있습니다. 당사는 관련 법률, 규정, 개인정보 보호정책을 준수합니다.
 이 앱은 인터넷에 연결되어있어야 하며 개인정보를 수집하려면 다음 권한이 필요합니다."</string>
@@ -507,7 +507,7 @@
     <string name="tax_rate_provider">새로운 세금규정에 따라 계산되었습니다. hexun.com과 East Money에서 데이터를 제공합니다.</string>
     <string name="unKnow_error">알 수 없는 오류</string>
     <string name="updating">계산기 업데이트 중…</string>
-    <string name="user_agreement">사용자 약관</string>
+    <string name="user_agreement">이용 약관</string>
 계산기
     <plurals name="tenure_years">
         <item quantity="other">%d년</item>

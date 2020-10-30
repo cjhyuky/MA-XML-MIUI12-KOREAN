@@ -272,8 +272,8 @@
     <string name="eo">Mi Drop이 최신 상태입니다.</string>
     <string name="ep">Wi-Fi 네트워크 없음</string>
     <string name="eq">"Wi-Fi 네트워크를 찾을 수 없습니다. Wi-Fi 설정을 열려면 누르세요."</string>
-    <string name="er">"친구에게 장치에 Mi Drop이없는 경우 이 링크를 공유할 수 있습니다."</string>
-    <string name="es">"한 행에 여러 파일을 전송할 수 없습니다. 다른 장치의 Mi Drop 버전이 너무 오래되었습니다."</string>
+    <string name="er">"친구에게 기기에 Mi Drop이없는 경우 이 링크를 공유할 수 있습니다."</string>
+    <string name="es">"한 행에 여러 파일을 전송할 수 없습니다. 다른 기기의 Mi Drop 버전이 너무 오래되었습니다."</string>
     <string name="et">세부 정보보기</string>
     <string name="eu">%1$s 님에게 보내는 취소된 전송</string>
     <string name="ev">파일을 %1$s 님에게 보내는 중입니다.</string>
@@ -291,7 +291,7 @@
     <string name="fb">Mi Drop이 시스템 설정을 수정할 수 있게 합니다.</string>
     <string name="fc">주변 기기 검색을 위해 블루투스를 켜세요.</string>
     <string name="fd">"블루투스가 꺼져 있어도 다른 기기에서 나를 찾을 수 없습니다."</string>
-    <string name="fe">"블루투스가 꺼져 있으면 일부 장치를 찾을 수 없습니다."</string>
+    <string name="fe">"블루투스가 꺼져 있으면 일부 기기를 찾을 수 없습니다."</string>
     <string name="ff">QR 코드</string>
     <string name="fg">받기</string>
     <string name="fh">"전송을 취소하면 파일이 전송되지 않습니다. 취소하시겠습니까?"</string>
@@ -338,7 +338,7 @@
     <string name="gl">계속 보내기</string>
     <string name="gm">전송 취소</string>
     <string name="gp">더 ​​보내기</string>
-    <string name="gq">다른 장치가 수락 대기 중 ...</string>
+    <string name="gq">다른 기기가 수락 대기 중 ...</string>
     <string name="gr">연결하기</string>
     <string name="gs">"보낼 수 없습니다."</string>
     <string name="gt">전송되었습니다.</string>
@@ -397,7 +397,7 @@
     <string name="i8">완료</string>
     <string name="i_">연결 끊김</string>
     <string name="ia">다른 기기의 연결이 끊겼습니다.</string>
-    <string name="ib">연결이 중단되었습니다. 다른 장치가 다시 연결되기를 기다립니다.</string>
+    <string name="ib">연결이 중단되었습니다. 다른 기기가 다시 연결되기를 기다립니다.</string>
     <string name="ic">취소된 전송</string>
     <string name="id">전송 완료(%s)</string>
     <string name="ie">네트워크 연결이 중단되었거나 다른 사람에 의해 전송이 취소되었습니다.</string>

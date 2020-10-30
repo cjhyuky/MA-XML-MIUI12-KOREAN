@@ -62,8 +62,8 @@
  비밀번호를 잊으 셨나요?
  id.mi.com으로 이동하여 \"비밀번호를 분실하셨습니까?"를 선택하고 지침을 따르세요.
 
- 장치를 활성화할 수 없습니까?
- i.mi.com으로 이동하여 신청서를 제출하고 장치를 잠금해제하세요."</string>
+ 기기를 활성화할 수 없나요?
+ i.mi.com으로 이동하여 신청서를 제출하고 기기를 잠금해제하세요."</string>
     <string name="passport_vcode_prompt_long">인증번호 입력</string>
     <string name="passport_trust_device">이 기기를 신뢰합니다.</string>
     <string name="passport_verify">인증</string>

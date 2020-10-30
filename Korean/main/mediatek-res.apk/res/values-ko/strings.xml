@@ -62,7 +62,7 @@
     <string name="serviceClassVideo">동영상</string>
     <string name="drm_end">종료:</string>
     <string name="drm_use_left">남은 개수:</string>
-    <string name="free_memory_btn">사용가능한 공간</string>
+    <string name="free_memory_btn">사용 가능한 공간</string>
     <string name="drm_protectioninfo_renew">갱신</string>
     <string name="drm_licenseacquisition_title">DRM 라이센스 획득</string>
     <string name="drm_licenseacquisition_message">%1$s 에 사용 가능한 DRM 라이센스가 없습니다. 갱신 버튼을 눌러 DRM 라이센스를 획득할 수 있습니다.</string>
@@ -109,7 +109,7 @@
     <string name="wifi_display_bt_hdmi_off_wfd_on">무선 디스플레이를 켜면 블루투스와 HDMI가 꺼집니다. 계속하시겠습니까?</string>
     <string name="wifi_display_wfd_off_hdmi_on">HDMI를 켜면 무선 디스플레이가 꺼집니다. 계속하시겠습니까?</string>
     <string name="MMRejectCause13">SOS/비상 전화 전용</string>
-    <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">무선 디스플레이 장치에 연결하면 현재의 Wi-Fi Direct 연결이 끊어집니다. 계속하시겠습니까?</string>
+    <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">무선 디스플레이 기기에 연결하면 현재의 Wi-Fi Direct 연결이 끊어집니다. 계속하시겠습니까?</string>
     <string name="sdcard_ready_title">SD 카드 준비</string>
     <string name="sdcard_select_default_path">기본 쓰기 디스크를 변경하시겠습니까?</string>
     <string name="sdcard_default_path_change">기본 쓰기 디스크가 변경되었습니다.</string>
@@ -121,7 +121,7 @@
     <string name="confirm_radio_msg">번호를 사용하려면, 먼저 비행기 모드를 켜세요.</string>
     <string name="wifi_display_unstable_connection">불안정한 연결</string>
     <string name="wifi_display_connection_is_not_steady">무선 디스플레이의 현재 연결이 안정적이지 않습니다.</string>
-    <string name="wifi_display_unstable_suggestion">무선 디스플레이의 현재 연결이 안정적이지 않습니다. 디스플레이 장치 가까이 다가가세요.</string>
+    <string name="wifi_display_unstable_suggestion">무선 디스플레이의 현재 연결이 안정적이지 않습니다. 디스플레이 기기 가까이 다가가세요.</string>
     <string name="usb_storage_ready_title">외부 USB 저장소 준비</string>
     <string name="wifi_display_reconnect">다시 연결</string>
     <string name="wifi_display_disconnect_then_reconnect">무선 디스플레이 연결이 끊어졌습니다. 다시 연결하시겠습니까?</string>
@@ -139,7 +139,7 @@
     <string name="wifi_display_do_not_remind_again">다시 알리지 않음.</string>
     <string name="wifi_display_wifi_ap_affects_quality">현재의 Wi-Fi AP가 무선 디스플레이의 품질에 영향을 미칠 수 있습니다.</string>
     <string name="data_conn_only">데이터 연결에만 해당</string>
-    <string name="wifi_display_wait_connection">다른 장치로부터 연결 초대를 기다리는 중.</string>
+    <string name="wifi_display_wait_connection">다른 기기로부터 연결 초대를 기다리는 중.</string>
     <string name="wifi_display_confirm_connection">귀하와 연결하기를 원합니다.</string>
     <string name="wifi_display_build_connection">연결하기.</string>
     <string name="Special_Card_Type_Title_Lte_Not_Available">LTE 네트워크를 사용할 수 없습니다.</string>

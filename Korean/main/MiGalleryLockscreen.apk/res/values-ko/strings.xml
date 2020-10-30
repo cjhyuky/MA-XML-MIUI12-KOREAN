@@ -40,7 +40,7 @@
     <string name="add_local_picture">갤러리</string>
     <string name="add_online_picture">온라인 이미지</string>
     <string name="add_to_cw">슬라이드쇼에 추가</string>
-    <string name="add_to_trust_device">이것은 신뢰할 수 있는 장치입니다.</string>
+    <string name="add_to_trust_device">이것은 신뢰할 수 있는 기기입니다.</string>
     <string name="add_wallpaper">배경화면 추가</string>
     <string name="addcw_apply_btn_txt">배경화면 추가</string>
     <string name="and">" 및 "</string>
@@ -90,7 +90,7 @@
     <string name="create_shortcut">홈 화면 바로가기 만들기</string>
     <string name="create_shortcut_btn">생성</string>
     <string name="create_shortcut_title">홈 화면 바로가기 만들기</string>
-    <string name="current_connection_invalid">장치가 네트워크에 연결될 때까지 기다립니다.</string>
+    <string name="current_connection_invalid">기기가 네트워크에 연결될 때까지 기다립니다.</string>
     <string name="current_data_invalid">오류가 발생했습니다.</string>
     <string name="current_network_invalid">먼저 네트워크에 연결하세요.</string>
     <string name="current_no_more_pictures">더 이상 그림이 없습니다.</string>
@@ -109,7 +109,7 @@
     <string name="cw_added_fav_no_pic">여기에 항목이 없습니다.</string>
     <string name="cw_added_toast">이 항목은 이전에 추가되었습니다.</string>
     <string name="cw_adding">추가(%1$d)</string>
-    <string name="cw_album_no_pic">장치에서 이미지를 찾을 수 없습니다.</string>
+    <string name="cw_album_no_pic">기기에서 이미지를 찾을 수 없습니다.</string>
     <string name="cw_album_no_right">배경화면 슬라이드를 허용 갤러리</string>
     <string name="cw_all_folder">최근 이미지</string>
     <string name="cw_batch_all_added_tip">전에 추가된 항목을 추가할 수 없습니다.</string>
@@ -259,7 +259,7 @@
     <string name="morning_greet_title">아침 인사</string>
     <string name="morning_picture_tab">이미지</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
-    <string name="need_open_gallery">배경화면 회전 장치 켜기</string>
+    <string name="need_open_gallery">배경화면 회전 기기 켜기</string>
     <string name="new_feature_title">새로운 기능</string>
     <string name="nick_name">별명</string>
     <string name="no_long_show">다시 보지 않기</string>
@@ -313,7 +313,7 @@
     <string name="passport_wechat_not_install">WeChat이 설치되지 않았습니다.</string>
     <string name="password_toggle_content_description">비밀번호 보이게 전환</string>
     <string name="permission_account_tip">계정 정보에 액세스</string>
-    <string name="permission_storage_tip">다운로드 한 항목을 장치에 저장</string>
+    <string name="permission_storage_tip">다운로드 한 항목을 기기에 저장</string>
     <string name="phone_bind_too_many">이 휴대전화는 단기간에 여러 개의 Mi 계정과 연결되어 있습니다. 다른 전화번호를 사용해보세요.</string>
     <string name="phone_hint">전화번호</string>
     <string name="phone_number">전화번호</string>
@@ -533,7 +533,7 @@
  <string name="show_wallpaper_loop_entry_title">홈 화면 슬라이드 쇼</string>
  <string name="sst_morning_history_desc">이전 아침인사 보기</string>
  <string name="sst_morning_history_title">아침인사 히스토리</string>
- <string name="sst_subscripted2">사용가능한 카테고리</string>
+ <string name="sst_subscripted2">사용 가능한 카테고리</string>
  <string name="sst_wallpaper_define_title2">이미지 추가</string>
  <string name="status_wallpaper_loop_not_start">꺼짐</string>
  <string name="status_wallpaper_loop_start">켜짐</string>

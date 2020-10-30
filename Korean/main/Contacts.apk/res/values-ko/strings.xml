@@ -740,7 +740,7 @@
     <string name="miprofile_error_no_miaccount">Mi 계정에 로그인</string>
     <string name="miprofile_error_unknown">알 수 없는 오류</string>
     <string name="miprofile_nick_name_edit_dialog_title">별명 편집</string>
-    <string name="miprofile_nick_name_edit_dialog_message">별명이 통화 목록과 프로필 정보에 나타날 것입니다.</string>
+    <string name="miprofile_nick_name_edit_dialog_message">별명이 통화 목록과 프로필 정보에 나타납니다.</string>
     <string name="miprofile_nick_name_edit_dialog_hint">별명 입력</string>
     <string name="miprofile_nick_name_divider">"    |    "</string>
     <string name="miprofile_nick_name_edit">연락처 별명 편집</string>
@@ -1150,8 +1150,8 @@
     <string name="sim_error_email_full">SIM 카드에 충분한 공간이 없습니다.</string>
     <string name="sim_error_anr_full">SIM 카드에 충분한 공간이 없습니다.</string>
     <string name="sim_error_password_error">입력한 비밀번호가 올바르지 않습니다.</string>
-    <string name="yellowPageNavigationLabel">전화번호부</string>
-    <string name="yellowPageNavigationIconLabel">전화번호부</string>
+    <string name="yellowPageNavigationLabel">주소록</string>
+    <string name="yellowPageNavigationIconLabel">주소록</string>
     <string name="login_ok">로그인</string>
     <string name="refresh">새로고침</string>
     <string name="pull_to_refresh_pull_label">당겨서 새로고침</string>
@@ -1177,7 +1177,7 @@
     <string name="yellowpage_navigation_more_items">더보기</string>
     <string name="yellowpage_navigation_more_items_title">더 많은 서비스</string>
     <string name="yellowpage_navigation_ad_hint">광고</string>
-    <string name="yellowpage_search_the_yellowpage">전화번호부 검색</string>
+    <string name="yellowpage_search_the_yellowpage">주소록 검색</string>
     <string name="convenient_service">서비스</string>
     <string name="useful_numbers">유용한 번호</string>
     <string name="service_more">더보기</string>
@@ -1209,7 +1209,7 @@
     <string name="search_input_hint">전화번호 또는 서비스를 검색할 수 있습니다.</string>
     <string name="imei_invalid">잘못된 IMEI</string>
     <string name="meid_invalid">잘못된 MEID</string>
-    <string name="mobile_equipment_identification">모바일 장치 식별</string>
+    <string name="mobile_equipment_identification">모바일 기기 식별</string>
     <string name="unable_get_device_id">IMEI 취득 불가</string>
     <string name="firewall_setting">차단 목록</string>
     <string name="menu_edit_mode">편집 모드</string>
@@ -1396,8 +1396,8 @@
     <string name="scan_not_installed">먼저 스캐너 설치</string>
     <string name="share_contact_as">연락처를 다른 사람과 공유</string>
     <string name="share_qrcode">QR 코드 공유</string>
-    <string name="confirm_delete_cloud_all_call_logs">클라우드와 이 장치 모두에서 %s님과 관련된 모든 통화 기록을 삭제하시겠습니까?</string>
-    <string name="deleteCloudConfirmationDetail">클라우드와 이 장치에서 %s님의 연락처 정보를 삭제하시겠습니까?</string>
+    <string name="confirm_delete_cloud_all_call_logs">클라우드와 이 기기 모두에서 %s님과 관련된 모든 통화 기록을 삭제하시겠습니까?</string>
+    <string name="deleteCloudConfirmationDetail">클라우드와 이 기기에서 %s님의 연락처 정보를 삭제하시겠습니까?</string>
     <string name="no_phone_no_shortcut">"전화번호가 없는 연락처의 바로가기를 만들 수 없습니다."</string>
     <string name="abc_action_bar_home_description">홈 탐색</string>
     <string name="abc_action_bar_up_description">위로 탐색</string>

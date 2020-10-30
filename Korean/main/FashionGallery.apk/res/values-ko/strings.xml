@@ -14,7 +14,7 @@
     <string name="carousel_suggest2">바탕 화면 회전 목마 인가?</string>
     <string name="change_time">배경화면 전환</string>
     <string name="confirm">확인</string>
-    <string name="current_connection_invalid">장치는 네트워크에 연결 될 때까지 기다립니다.</string>
+    <string name="current_connection_invalid">기기는 네트워크에 연결 될 때까지 기다립니다.</string>
     <string name="current_data_invalid">오류가 발생 했습니다.</string>
     <string name="current_network_invalid">먼저 네트워크에 연결</string>
     <string name="current_no_more_pictures">아니 더 많은 사진</string>
@@ -54,7 +54,7 @@
     <string name="setting_head">설정</string>
     <string name="settings">설정</string>
     <string name="share">공유</string>
-    <string name="sst_cover_chg_enable_desc">장치를 충전 하는 동안 벽지 회전 목마 보기</string>
+    <string name="sst_cover_chg_enable_desc">기기를 충전 하는 동안 벽지 회전 목마 보기</string>
     <string name="sst_cover_chg_enable_title">충전 표시</string>
     <string name="sst_favor_desc">즐겨 사용하는 배경하면 보기</string>
     <string name="sst_favor_title">즐겨찾기</string>
@@ -69,7 +69,7 @@
     <string name="sst_subscribe_title">내 카테고리</string>
     <string name="sst_wifi_only_desc">모바일 데이터 절약을 위해 이 기능 끄기</string>
     <string name="sst_wifi_only_title">모바일 데이터를 사용하여 배경화면 업데이트</string>
-    <string name="summary">"온라인 콘텐츠를 보시려면 아래의 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하세요. 원하지 않으셔도 로컬 배경화면은 사용가능합니다."</string>
+    <string name="summary">"온라인 콘텐츠를 보시려면 아래의 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하세요. 원하지 않으셔도 로컬 배경화면은 사용 가능합니다."</string>
     <string name="summary_international">"이 기능을 사용하려면, 우리의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>이용 약관&lt;/a>와 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의해야 합니다. 이 기능이 제대로 작동하려면 인터넷 연결이 필요합니다.​"</string>
     <string name="theme_apply_failured">적용할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="theme_apply_success">잠금 화면 적용됨</string>

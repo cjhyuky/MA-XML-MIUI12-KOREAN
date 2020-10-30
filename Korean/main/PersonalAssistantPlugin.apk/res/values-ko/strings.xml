@@ -574,7 +574,7 @@
     <string name="pie_chart_label_other">기타:</string>
     <string name="pie_chart_label_red_packet">축의금:</string>
     <string name="pie_chart_label_remain">남은 항목:</string>
-    <string name="pie_chart_label_remittance">전송된 파일명:</string>
+    <string name="pie_chart_label_remittance">전송된 파일 이름:</string>
     <string name="pie_chart_label_shopping">쇼핑:</string>
     <string name="pie_chart_label_spending">결제 수단:</string>
     <string name="pie_chart_label_telephone_charge">연락 수단:</string>
@@ -595,7 +595,7 @@
     <string name="recharge_tel">남은 전화통화 시간</string>
     <string name="recharge_title_monthused">이번 달 사용량 조회</string>
     <string name="recharge_title_over">한도 초과</string>
-    <string name="recharge_title_remaining">사용가능한 잔여 데이터</string>
+    <string name="recharge_title_remaining">사용 가능한 잔여 데이터</string>
     <string name="recharge_title_used">오늘 사용됨</string>
     <string name="record_name">새로운 녹음</string>
     <string name="record_parent">녹음기</string>
@@ -1034,7 +1034,7 @@
     <string name="notification_content_fail_stay_longer">최소 1초 동안 현재페이지에 머물러 있으세요.</string>
     <string name="notification_content_success">%1$s 구매에 %2$s 위안 지불</string>
     <string name="notification_express_app_open">켜기</string>
-    <string name="notification_express_content">퀵카드에서 배송추적</string>
+    <string name="notification_express_content">퀵 카드에서 배송추적</string>
     <string name="notification_express_title">쇼핑앱의 알림 켜기</string>
     <string name="pay_card_pack">Mi페이</string>
     <string name="paycode_parent">Alipay</string>
@@ -1083,7 +1083,7 @@
     <string name="payment_pref_source_wechat_summary">WeChat에서 구매내역 가져오기</string>
     <string name="payment_pref_source_wechat_title">WeChat</string>
     <string name="payment_privacy_dialog_cancel">나가기</string>
-    <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Xiaomi 클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
+    <string name="payment_privacy_dialog_message">"\"나의 구매내역\"을 사용하면 주요 지불앱에서 한 곳에서 청구서를 수령 할 수 있습니다. 모든 유료 결제정보가 암호화되어 기기에 안전하게 저장됩니다. Xiaomi 클라우드와 동기화되거나 다른 서버에 업로드되지 않습니다. 설정에서 \"나의 구매내역\"을 사용 중지하거나이 카드를 퀵 카드에서 삭제하면 이 서비스 사용이 중단됩니다. 동의하십니까?"</string>
     <string name="payment_privacy_dialog_ok">동의</string>
     <string name="payment_privacy_dialog_title">\"나의 구매내역\" 개인정보 보호정책</string>
     <string name="payment_record_add">구매내역 추가</string>
@@ -1097,7 +1097,7 @@
     <string name="payment_record_recent_title">최근 구매내역</string>
     <string name="payment_record_show_more">더보기</string>
     <string name="payment_report_failed_record_dialog_cancel">취소</string>
-    <string name="payment_report_failed_record_dialog_message">"기능 향상을 위해 지불 실패한 내역을 보고합니다."<b>보내주신 내용은 퀵카드 성능개선에만 사용됩니다.</b></string>
+    <string name="payment_report_failed_record_dialog_message">"기능 향상을 위해 지불 실패한 내역을 보고합니다."<b>보내주신 내용은 퀵 카드 성능개선에만 사용됩니다.</b></string>
     <string name="payment_report_failed_record_dialog_ok">보고</string>
     <string name="payment_setting">설정</string>
     <string name="payment_total_month_desc">이번 달</string>
@@ -1114,7 +1114,7 @@
     <string name="system_favorite_dialog_title_confirm">즐겨찾기</string>
     <string name="card_expand_note_clear">삭제</string>
     <string name="card_expand_note_dialog_button">알겠음</string>
-    <string name="card_expand_note_dialog_message">퀵카드에서 \"저장\" 버튼을 누를때마다 새로운 메모가 생성됩니다.</string>
+    <string name="card_expand_note_dialog_message">퀵 카드에서 \"저장\" 버튼을 누를때마다 새로운 메모가 생성됩니다.</string>
     <string name="card_expand_note_dialog_title">메모 저장</string>
     <string name="card_expand_note_toast_clear_null">삭제 완료</string>
     <string name="card_expand_note_toast_save_done">메모장에 저장됨</string>

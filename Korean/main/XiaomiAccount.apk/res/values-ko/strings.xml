@@ -470,7 +470,7 @@
     <string name="passport_sms_verification_code_login">SMS 인증번호 로그인</string>
     <string name="passport_input_voice_captcha_hint">인증번호 입력</string>
     <string name="turning_off_find_device">내 기기 찾기 기능 비활성화중…</string>
-    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증번호, 보조 공간 데이터 및 기타 개인정보 보호 약관에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요.</string>
+    <string name="passport_extra_gdpr_license">Mi 계정을 만들면 Xiaomi가 인증번호, 보조 공간 데이터 및 기타 개인정보 보호정책에 명시된 데이터를 수집할 수 있습니다. Google이 개인정보를 처리하고 사용하는 방법을 알아 보려면 개인정보 보호정책을 참조하세요.</string>
     <string name="passport_talkback_image_captcha">이미지 인증번호</string>
     <string name="passport_talkback_switch_image_captcha">이미지 인증번호로 전환</string>
     <string name="passport_talkback_switch_voice_captcha">음성 인증번호로 전환</string>
@@ -534,7 +534,7 @@ ID:%s
     <string name="google">Google</string>
     <string name="bind_google">Google 계정으로 접속하세요.</string>
     <string name="ep_unsupported">이 기기에서 Mi 계정 로그인 불가</string>
-    <string name="passport_user_agreement_link"><Data>"Xiaomi의 &lt;a href=%1$s>이용 약관&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 읽고 동의했습니다."</Data></string>
+    <string name="passport_user_agreement_link"><Data>"Xiaomi의 &lt;a href=%1$s>이용 약관&lt;/a> 와 &lt;a href=%2$s>개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의했습니다."</Data></string>
     <string name="system_ad">시스템 앱 광고</string>
     <string name="system_ad_switch">시스템 앱 광고</string>
     <string name="system_ad_summary">"시스템 앱에 약간의 광고가 나와도 괜찮으시면 이 기능을 켜세요. 이 광고는 제품 및 서비스를 개발하고 개선하는데 도움이 됩니다. 언제든지 이 기능을 끄도록 선택할 수 있습니다. 지원 감사합니다! "</string>
@@ -569,7 +569,7 @@ ID:%s
     <string name="two_factor_auth_method">인증 방법</string>
     <string name="two_factor_auth_need_code">코드 입력</string>
     <string name="two_factor_auth_need_code_summary">"연결된 다른 Mi 기기에 코드가 표시됩니다. 로그인하려면 새 기기에 이 코드를 입력하세요."</string>
-    <string name="two_factor_auth_summary">"새 장치 또는 새 위치에서 로그인을 시도하면 연결된 다른 장치에서 이 메시지가 표시됩니다. 이러한 로그인 시도가 있는지 확인해야 합니다."</string>
+    <string name="two_factor_auth_summary">"새 기기 또는 새 위치에서 로그인을 시도하면 연결된 다른 기기에서 이 메시지가 표시됩니다. 이러한 로그인 시도가 있는지 확인해야 합니다."</string>
     <string name="pwd_width_phone_number_or_mail_num">"비밀번호는 전화번호, 이메일 또는 Mi 계정 ID를 포함 할 수 없습니다."</string>
     <string name="risky_pwd_not_allow">"새 비밀번호가 안전하지 않습니다. 다른 비밀번호를 설정하세요."</string>
     <string name="passport_can_not_receive_verification_code">"인증번호를 받지 못하시나요?"</string>

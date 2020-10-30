@@ -17,7 +17,7 @@
     <string name="auto_disable_screenbuttons_disable_toast_text">탐색 버튼이 비활성화 됨. 아무 버튼이나 두 번 눌러 다시 켤 수 있습니다.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">탐색 버튼 활성화</string>
     <string name="auto_disable_screenbuttons_float_text">터치하여 탐색 버튼 비활성화</string>
-    <string name="auto_disable_screenbuttons_prompts_message">언제든지 아무버튼이나 더블 탭하여 탐색 버튼을 켜세요.</string>
+    <string name="auto_disable_screenbuttons_prompts_message">언제든지 아무버튼이나 두 번 탭하여 탐색 버튼을 켜세요.</string>
     <string name="auto_disable_screenbuttons_prompts_not_show_again">다시 표시하지 않기</string>
     <string name="auto_disable_screenbuttons_prompts_ok">확인</string>
     <string name="auto_disable_screenbuttons_prompts_title">탐색 버튼을 비활성화할까요?</string>
@@ -65,7 +65,7 @@
     <string name="customer_location_judgment">중국</string>
     <string name="cut">잘라내기</string>
     <string name="data_usage_context">Wi-Fi가 켜지지 않으면 기기가 모바일 네트워크에 연결되어 요금제에 따라 추가 요금이 부과될 수 있습니다. 주의하세요!</string>
-    <string name="default_device_name">알 수 없는 장치</string>
+    <string name="default_device_name">알 수 없는 기기</string>
     <string name="default_name">기본</string>
     <string name="description_title">무음 모드</string>
     <string name="device_status_failed">"보내지 못했습니다."</string>
@@ -319,7 +319,7 @@
     <string name="voice_input_error_other">오류 발생. 1~2분 후 다시 시도하세요.</string>
     <string name="wifi_assistant_wifi_no_internet">이 Wi-Fi 네트워크는 인터넷에 연결되어 있지 않습니다.</string>
     <string name="wifi_assistant_wifi_no_internet_detail">탭하여 자세히 보기</string>
-    <string name="wireless_charging_notification_message1">충전할 무선장치를 찾을 수 없습니다. 역방향 무선 충전이 꺼졌습니다.</string>
+    <string name="wireless_charging_notification_message1">충전할 무선 기기를 찾을 수 없습니다. 역방향 무선 충전이 꺼졌습니다.</string>
     <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역방향 무선 충전이 꺼졌습니다.</string>
     <string name="wireless_charging_notification_message3">충전 중 오류가 발생했습니다. 역방향 무선 충전이 꺼졌습니다.</string>
     <string name="wireless_charging_notification_titile">역방향 무선 충전 꺼짐</string>

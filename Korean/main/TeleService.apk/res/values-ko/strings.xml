@@ -42,7 +42,7 @@
     <string name="location">지역</string>
     <string name="make_and_receive_calls">전화 걸기 및 받기</string>
     <string name="manual_mode_disallowed_summary">%1$s에 연결된 경우 사용할 수 없음</string>
-    <string name="media_transfer_this_device_name">이 장치</string>
+    <string name="media_transfer_this_device_name">이 기기</string>
     <string name="messageCFU_kr" formatted="false">모든 수신 전화 및 문자 메시지를 지정된 번호로 전환하는 네트워크 서비스. 이 서비스에 가입해야 합니다. 월별 요금이 청구됩니다. 이 서비스를 구독 또는 구독 취소하려면 고객 센터 (114+ 보내기)에 문의하세요. 활성화하려면 %s + (전화를 걸기 위한 번호)(보내기)를, 비활성화하려면 %s (보내기)를 입력하세요.</string>
     <string name="messageCW_kr" formatted="false">통화 중에 두 번째 전화에 응답하여 첫 번째 전화를 보류 할 수 있는 무료 네트워크 서비스입니다. 활성화하려면 %s (보내기)를, 비활성화하려면 %s (보내기)를 입력하세요.</string>
     <string name="mr_button_content_description">전송 버튼</string>
@@ -53,7 +53,7 @@
     <string name="mr_chooser_searching">기기 찾기</string>
     <string name="mr_chooser_title">발송</string>
     <string name="mr_controller_album_art">앨범 아트</string>
-    <string name="mr_controller_casting_screen">캐스팅 화면</string>
+    <string name="mr_controller_casting_screen">전송 중인 화면</string>
     <string name="mr_controller_close_description">닫기</string>
     <string name="mr_controller_collapse_group">접기</string>
     <string name="mr_controller_disconnect">연결 해제</string>
@@ -63,12 +63,12 @@
     <string name="mr_controller_pause">일시 중지</string>
     <string name="mr_controller_play">재생</string>
     <string name="mr_controller_stop">중지</string>
-    <string name="mr_controller_stop_casting">캐스팅 중지</string>
+    <string name="mr_controller_stop_casting">화면 전송 중지</string>
     <string name="mr_controller_volume_slider">볼륨 슬라이더</string>
-    <string name="mr_dialog_groupable_header">장치 추가</string>
+    <string name="mr_dialog_groupable_header">기기 추가</string>
     <string name="mr_dialog_transferable_header">그룹에서 재생</string>
     <string name="mr_system_route_name">시스템</string>
-    <string name="mr_user_route_category_name">장치</string>
+    <string name="mr_user_route_category_name">기기</string>
     <string name="msim_select_default_time_left">(%d초)</string>
     <string name="msim_setting_default_data">데이터 카드</string>
     <string name="msim_setting_default_voice">통화 기본값</string>
@@ -310,7 +310,7 @@
     <string name="registration_status_no_wifi_data">"계정을 등록할 수 없습니다. 이 기기는 Wi-Fi에 연결되어 있지 않습니다."</string>
     <string name="registration_status_not_running">"계정을 등록할 수 없습니다."</string>
     <string name="registration_status_done">이 기기는 통화를 수신할 수 있습니다.</string>
-    <string name="registration_status_failed_try_later">"계정을 등록할 수 없습니다: %s. 나중에 다시 시도 할 것입니다."</string>
+    <string name="registration_status_failed_try_later">"계정을 등록할 수 없습니다: %s. 나중에 다시 시도 합니다."</string>
     <string name="registration_status_invalid_credentials">"계정을 등록할 수 없습니다. 사용자 이름 또는 비밀번호가 잘못되었습니다."</string>
     <string name="registration_status_server_unreachable">"계정을 등록할 수 없습니다. 서버 이름을 확인하세요."</string>
     <string name="third_party_account_summary">이 계정은 현재 %s 앱에서 사용하고 있습니다.</string>
@@ -889,7 +889,7 @@
     <string name="network_error_message">네크워크에 연결할 수 없습니다.</string>
     <string name="managed_roaming_title">로밍 관리됨</string>
     <string name="managed_roaming_title_sub">로밍 관리됨 (SUB%d)</string>
-    <string name="managed_roaming_dialog_content">제한된 네트워크 서비스를 발견했습니다. 사용가능한 네트워크만 보시겠습니까?</string>
+    <string name="managed_roaming_dialog_content">제한된 네트워크 서비스를 발견했습니다. 사용 가능한 네트워크만 보시겠습니까?</string>
     <string name="ota_title_activate">휴대전화 활성화</string>
     <string name="ota_touch_activate">"휴대전화 서비스를 활성화하려면 특별한 통화를 해야 합니다. 
 
@@ -1607,7 +1607,7 @@
     <string name="accessibility_wifi_three_bars">Wi-Fi 신호 양호함</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi 신호 약함</string>
     <string name="adb_keys_warning_message">이전에 승인한 모든 PC에서 USB 디버깅에 대한 액세스를 취소하시겠습니까?</string>
-    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 PC와 장치간에 데이터를 복사하고, 알림 없이 장치에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
+    <string name="adb_warning_message">USB 디버깅은 개발 목적으로만 사용됩니다. 이를 사용하여 PC와 기기 간에 데이터를 복사하고, 알림 없이 기기에 앱을 설치하고, 로그 데이터를 읽습니다.</string>
     <string name="adb_warning_title">USB 디버깅 허용 여부</string>
     <string name="all_empty_alert">새 SIP 계정의 세부 정보를 입력하세요.</string>
     <string name="allow_mock_location">모의 위치 허용</string>
@@ -1637,14 +1637,14 @@
     <string name="bluetooth_connected_no_map">연결됨 (메시지 액세스 없음)</string>
     <string name="bluetooth_connecting">연결 중...</string>
     <string name="bluetooth_disable_absolute_volume">모든 볼륨 음소거</string>
-    <string name="bluetooth_disable_absolute_volume_summary">너무 큰 볼륨으로 바뀌거나 제어 불능과 같은 원격 장치의 음량 문제가 발생할 경우 블루투스 오디오 기능을 비활성화합니다.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">너무 큰 볼륨으로 바뀌거나 제어 불능과 같은 원격 기기의 음량 문제가 발생할 경우 블루투스 오디오 기능을 비활성화합니다.</string>
     <string name="bluetooth_disconnected">연결이 끊어졌습니다.</string>
     <string name="bluetooth_disconnecting">연결 해제중...</string>
     <string name="bluetooth_dun_profile_summary_connected">Dun 서버에 연결됨</string>
     <string name="bluetooth_dun_profile_summary_use_for">기기 접속 네트워크 액세스 사용</string>
     <string name="bluetooth_headset_profile_summary_connected">기기 오디오에 연결됨</string>
     <string name="bluetooth_headset_profile_summary_use_for">기기 오디오에 사용</string>
-    <string name="bluetooth_hid_profile_summary_connected">입력 장치에 연결됨</string>
+    <string name="bluetooth_hid_profile_summary_connected">입력 기기에 연결됨</string>
     <string name="bluetooth_hid_profile_summary_use_for">입력에 사용</string>
     <string name="bluetooth_map_profile_summary_connected">지도에 연결되었습니다.</string>
     <string name="bluetooth_map_profile_summary_use_for">지도에 사용</string>
@@ -1655,17 +1655,17 @@
     <string name="bluetooth_pairing_accept">페어링</string>
     <string name="bluetooth_pairing_accept_all_caps">페어링</string>
     <string name="bluetooth_pairing_decline">취소</string>
-    <string name="bluetooth_pairing_device_down_error_message">"%1$s 장치와 통신할 수 없습니다."</string>
-    <string name="bluetooth_pairing_pin_error_message">"PIN 또는 비밀번호가 잘못되어 %1$s 장치에 페어링할 수 없습니다."</string>
+    <string name="bluetooth_pairing_device_down_error_message">"%1$s 기기와 통신할 수 없습니다."</string>
+    <string name="bluetooth_pairing_pin_error_message">"PIN 또는 비밀번호가 잘못되어 %1$s 기기에 페어링할 수 없습니다."</string>
     <string name="bluetooth_pairing_rejected_error_message">"%1$s에 의해 페어링이 거부되었습니다.</string>
     <string name="bluetooth_pairing_will_share_phonebook">블루투스 연결은 연결되었을 때 연락처와 통화 기록에 대한 액세스 권한을 부여합니다.</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">장치와 로컬 인터넷 연결 공유</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">기기와 로컬 인터넷 연결 공유</string>
     <string name="bluetooth_pan_profile_summary_use_for">인터넷 연결수단으로 사용</string>
     <string name="bluetooth_pan_user_profile_summary_connected">인터넷에 연결하기 위해 기기에 페어링</string>
     <string name="bluetooth_profile_a2dp">미디어 오디오</string>
     <string name="bluetooth_profile_dun">전화 접속 네트워크 액세스</string>
     <string name="bluetooth_profile_headset">전화 오디오</string>
-    <string name="bluetooth_profile_hid">입력 장치</string>
+    <string name="bluetooth_profile_hid">입력 기기</string>
     <string name="bluetooth_profile_map">메시지 액세스</string>
     <string name="bluetooth_profile_opp">파일 전송</string>
     <string name="bluetooth_profile_pan">인터넷 액세스</string>
@@ -1680,7 +1680,7 @@
     <string name="bugreport_in_power">버그 보고서 바로가기</string>
     <string name="bugreport_in_power_summary">버그 보고서를 보기 위해 전원 메뉴에 버튼을 표시하세요.</string>
     <string name="button_convert_fbe">초기화 및 변환 ...</string>
-    <string name="callEnded_pulled">전화가 다른 장치로 전송되었습니다.</string>
+    <string name="callEnded_pulled">전화가 다른 기기로 전송되었습니다.</string>
     <string name="callFailed_QOS_unavailable">사용할 수 없음</string>
     <string name="callFailed_access_information_discarded">액세스 정보가 삭제되었습니다.</string>
     <string name="callFailed_bearer_capability_not_authorized">무기명 기능이 허용되지 않았습니다.</string>
@@ -1754,7 +1754,7 @@
     <string name="choose_profile">프로필 선택</string>
     <string name="clear_adb_keys">USB 디버깅 인증 취소</string>
     <string name="config_disable_cdma_activation_code">잘못됨</string>
-    <string name="confirm_enable_oem_unlock_text"> 경고 : 이 설정이 켜져있는 동안에는 장치 보호 기능이 작동하지 않습니다.</string>
+    <string name="confirm_enable_oem_unlock_text"> 경고 : 이 설정이 켜져있는 동안에는 기기 보호 기능이 작동하지 않습니다.</string>
     <string name="confirm_enable_oem_unlock_title">OEM 잠금해제를 허용하시겠습니까?</string>
     <string name="connected_via_passpoint">%1$s로 연결되었습니다.</string>
     <string name="connected_via_wfa">Wi-Fi 도우미를 통해 연결되었습니다.</string>
@@ -1782,9 +1782,9 @@
     <string name="debug_networking_category">네트워킹</string>
     <string name="debug_view_attributes">보기 속성 검사 사용</string>
     <string name="description_dialpad_back">뒤로 이동</string>
-    <string name="dev_logpersist_clear_warning_message">더 이상 모니터링하지 않는 경우 장치에있는 로거 데이터를 지워야 합니다.</string>
+    <string name="dev_logpersist_clear_warning_message">더 이상 모니터링하지 않는 경우 기기에있는 로거 데이터를 지워야 합니다.</string>
     <string name="dev_logpersist_clear_warning_title">로거 영구 저장소 지우기?</string>
-    <string name="dev_settings_warning_message">이 설정은 개발용으로만 사용됩니다. 이로 인해 장치와 앱이 손상되거나 오작동을 일으킬 수 있습니다.</string>
+    <string name="dev_settings_warning_message">이 설정은 개발용으로만 사용됩니다. 이로 인해 기기와 앱이 손상되거나 오작동을 일으킬 수 있습니다.</string>
     <string name="dev_settings_warning_title">개발 설정을 허용하시겠습니까?</string>
     <string name="development_settings_enable">개발자 옵션 사용</string>
     <string name="development_settings_not_available">이 사용자는 개발자 옵션을 사용할 수 없습니다.</string>
@@ -1905,8 +1905,8 @@
     <string name="select_application">애플리케이션 선택</string>
     <string name="select_logd_size_dialog_title">로그 버퍼 당 로거 크기 선택</string>
     <string name="select_logd_size_title">로그 버퍼 크기</string>
-    <string name="select_logpersist_dialog_title">장치에 지속적으로 저장할 로그 버퍼 선택</string>
-    <string name="select_logpersist_title">로거 데이터를 장치에 영구 저장</string>
+    <string name="select_logpersist_dialog_title">기기에 지속적으로 저장할 로그 버퍼 선택</string>
+    <string name="select_logpersist_title">로거 데이터를 기기에 영구 저장</string>
     <string name="select_usb_configuration_dialog_title">USB 구성 선택</string>
     <string name="select_usb_configuration_title">USB 구성 선택</string>
     <string name="select_webview_provider_dialog_title">WebView 구현 설정</string>
@@ -1973,7 +1973,7 @@
     <string name="tts_status_requires_network">%1$s에 네트워크 연결이 필요합니다.</string>
     <string name="tts_status_title">기본 언어 상태</string>
     <string name="usb_audio_disable_routing">USB 오디오 라우팅 사용 안 함</string>
-    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 장치에 자동 라우팅 사용 안 함</string>
+    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 기기에 자동 라우팅 사용 안 함</string>
     <string name="user_guest">게스트</string>
     <string name="verify_apps_over_usb_summary">유해한 행동을 방지하기 위해 ADB / ADT를 통해 설치된 앱을 확인하세요.</string>
     <string name="verify_apps_over_usb_title">USB를 통해 앱 확인</string>
@@ -2042,7 +2042,7 @@
     <string name="power_charging_duration_ac">AC로 완전 충전까지 %1$s - %2$s 소요</string>
     <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">선호하는 네트워크 : TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
     <string name="miui_notification_network_selection_text">선택한 네트워크로는 이 유심을 사용할 수 없습니다.</string>
-    <string name="other_available_phone_accounts">사용가능한 다른 계정</string>
+    <string name="other_available_phone_accounts">사용 가능한 다른 계정</string>
     <string name="preferred_phone_account">선호하는 통화 계정</string>
     <string name="volte_switch_not_support_summary2">"VoLTE 통화는 이동통신사에서 지원하지 않습니다."</string>
     <string name="callFailed_low_battery">배터리 부족</string>
@@ -2155,7 +2155,7 @@
     <string name="fdn_phone_book_busy">연락처를 이미 사용 중입니다. 잠시 후 다시 시도하세요.</string>
     <string name="fdn_puk_need_tips">PIN2가 막혔습니다. PIN2를 변경한 후 다시 시도하세요!</string>
     <string name="femtocell_point_list_title">펨토셀</string>
-    <string name="in_search_femtocell_networks_wait_tip">검색중...</string>
+    <string name="in_search_femtocell_networks_wait_tip">검색 중...</string>
     <string name="ip_dial_error_toast_for_no_ip_prefix_number">음성 통화 설정에서 IP 접두 번호를 먼저 입력하세요.</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">인터넷 전화에는 IP 다이얼 기능이 적용되지 않습니다.</string>
     <string name="ip_prefix_edit_default_sum">IP 다이얼의 접두 번호를 입력하세요.</string>
@@ -2164,7 +2164,7 @@
     <string name="magi_conference_summary">여러 사람이 전화를 사용하여 상대방과 대화 할 때 음성 품질을 향상시킵니다.</string>
     <string name="magi_conference_title">인터넷 전화 회의</string>
     <string name="net_or_simcard_busy">네트워크 또는 SIM 카드가 사용 중이므로 나중에 시도하세요.</string>
-    <string name="network_setting_all_forbidden_dialog">사용가능 네트워크 없음.</string>
+    <string name="network_setting_all_forbidden_dialog">사용 가능 네트워크 없음.</string>
     <string name="network_type">네트워크 유형</string>
     <string name="notification_network_selection_without_operator">선택한 네트워크를 사용할 수 없음</string>
     <string name="notification_voicemail_text">음성 메일을 보려면 선택하세요.</string>
@@ -2284,7 +2284,7 @@
     <string name="wapi_cert_manage_error">WAPI 인증서를 설정하지 못했습니다.</string>
     <string name="wapi_cert_manage_summary">WAPI 인증서 추가 또는 삭제</string>
     <string name="wapi_cert_manage_title">WAPI 인증서 관리</string>
-    <string name="wapi_no_vaild_cert">사용가능한 인증서가 없습니다. 설치하시겠습니까?</string>
+    <string name="wapi_no_vaild_cert">사용 가능한 인증서가 없습니다. 설치하시겠습니까?</string>
     <string name="wapi_password_hex_format_add">16진수는 홀수가 될 수 없습니다.</string>
     <string name="wapi_password_is_empty">비밀번호 항목은 비워 둘 수 없습니다.</string>
     <string name="wapi_password_is_not_hex_format">잘못된 16진수 문자</string>
@@ -2386,13 +2386,13 @@
     <string name="accessibility_wifi_security_type_none">공개 네트워크</string>
     <string name="accessibility_wifi_security_type_secured">보안 네트워크</string>
     <string name="advanced_options_title">고급</string>
-    <string name="available_via_carrier">%1$s 사용가능</string>
+    <string name="available_via_carrier">%1$s 사용 가능</string>
     <string name="bluetooth_connected_battery_level">연결됨, 배터리 : %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">연결됨 (미디어 안됨), 배터리 : %1$s</string>
     <string name="bluetooth_connected_no_headset_battery_level">연결됨 (전화 안됨), 배터리 : %1$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">연결됨 (전화 또는 미디어 안됨), 배터리 : %1$s</string>
-    <string name="bluetooth_show_devices_without_names">이름이 없는 블루투스 장치 표시</string>
-    <string name="bluetooth_show_devices_without_names_summary">이름이 없는 블루투스 장치(MAC 주소만 해당)가 표시됩니다.</string>
+    <string name="bluetooth_show_devices_without_names">이름이 없는 블루투스 기기 표시</string>
+    <string name="bluetooth_show_devices_without_names_summary">이름이 없는 블루투스 기기(MAC 주소만 해당)가 표시됩니다.</string>
     <string name="call_category">통화 중</string>
     <string name="carrier_settings_euicc">통신사</string>
     <string name="connected_via_carrier">%1$s에 연결됨</string>
@@ -2565,15 +2565,15 @@
     <string name="network_could_not_connect">접속 실패</string>
     <string name="network_disconnected">연결 끊김</string>
     <string name="okay">확인</string>
-    <string name="opened_dual_4g_confirm_prompt">4G만 사용가능한 SIM 카드를 사용하시는 걸로 보입니다. 듀얼 4G 기능이 자동으로 켜졌습니다.</string>
+    <string name="opened_dual_4g_confirm_prompt">4G만 사용 가능한 SIM 카드를 사용하시는 걸로 보입니다. 듀얼 4G 기능이 자동으로 켜졌습니다.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">%1$s번 SIM은 4G만 제공합니다. SIM 카드가 정상 작동시키기 위해 듀얼 4G 기능이 켜졌습니다.</string>
     <string name="path_auto_retry_mode_title">시스템 앱/전화/고급 설정/자동 응답</string>
     <string name="path_crescendo_ringer_title">시스템 앱/전화/수신전화 설정/수신전화 벨소리 볼륨증가</string>
-    <string name="power_discharge_by">약 %1$s (%2$s) 사용가능</string>
-    <string name="power_discharge_by_enhanced">%2$s 사용으로 약 %1$s 사용가능</string>
-    <string name="power_discharge_by_only">약 %1$s 사용가능</string>
-    <string name="power_discharge_by_only_enhanced">사용패턴상 약 %1$s 사용가능</string>
-    <string name="power_discharging_duration_enhanced">%2$s 사용으로 약 %1$s 동안 사용가능</string>
+    <string name="power_discharge_by">약 %1$s (%2$s) 사용 가능</string>
+    <string name="power_discharge_by_enhanced">%2$s 사용으로 약 %1$s 사용 가능</string>
+    <string name="power_discharge_by_only">약 %1$s 사용 가능</string>
+    <string name="power_discharge_by_only_enhanced">사용패턴상 약 %1$s 사용 가능</string>
+    <string name="power_discharging_duration_enhanced">%2$s 사용으로 약 %1$s 동안 사용 가능</string>
     <string name="power_remaining_duration_only_enhanced">사용패턴상 약 %1$s 남음</string>
     <string name="power_remaining_duration_only_short_enhanced">사용패턴상 ^1 남음</string>
     <string name="power_remaining_duration_only_shutdown_imminent">전화가 곧 꺼집니다.</string>
@@ -2623,7 +2623,7 @@
     <string name="wifi_coverage_extend_summary">핫스팟을 통한 Wi-Fi 접속거리 확장을 활성화합니다.</string>
     <string name="wifi_metered_label">저장됨</string>
     <string name="wifi_p2p_allow_passive_listen">Wi-Fi P2P 수동 수신 허용</string>
-    <string name="wifi_p2p_allow_passive_listen_summary">Wi-Fi P2P 수동 수신 허용/허용 안 함, 다른 장치를 검색 할 수는 없지만 다른 장치는 현재 장치를 검색 할 수 있습니다.</string> 
+    <string name="wifi_p2p_allow_passive_listen_summary">Wi-Fi P2P 수동 수신 허용/허용 안 함, 다른 기기를 검색 할 수는 없지만 다른 기기는 현재 기기를 검색 할 수 있습니다.</string> 
     <string name="wifi_status_mac_randomized">MAC 주소가 무작위로 변경되었습니다.</string>
     <string name="wifi_status_no_internet">인터넷 없음</string>
     <string name="wifi_status_sign_in_required">로그인 요구됨</string>
@@ -2639,12 +2639,12 @@
     <string name="sip_account_disable">"이 계정은 비활성화되어 있습니다. 전화를 받을 수 없습니다."</string>
     <string name="sip_receive_call_disable">"전화 수신 불가. 전화 수신 권한을 먼저 허용하세요."</string>
     <string name="vowifi_emergency_notification_channel">Wi-Fi 콜 긴급 경고</string>
-    <string name="vowifi_emergency_notification_content">긴급 전화는 휴대전화 사용가능지역에서만 사용할 수 있습니다.</string>
+    <string name="vowifi_emergency_notification_content">긴급 전화는 휴대전화 사용 가능지역에서만 사용할 수 있습니다.</string>
     <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi 통화</string>
     <string name="vowifi_emergency_warning_check">"다시 보지 않기."</string>
     <string name="vowifi_emergency_warning_message">"Wi-Fi 통화로 긴급 전화를 할 수 없습니다.
 
-장치는 자동으로 셀룰러 네트워크 (2G/3G)로 전환되어 비상전화를 걸 수 있습니다.
+기기는 자동으로 셀룰러 네트워크 (2G/3G)로 전환되어 비상전화를 걸 수 있습니다.
 
 긴급 전화는 휴대전화 서비스 지역에서만 가능합니다."</string>
     <string name="vowifi_emergency_warning_title">Wi-Fi콜로 긴급 전화</string>
@@ -2663,8 +2663,8 @@
     <string name="fiveg_bearer_status2">"5G 통신망 상태[슬롯2] : "</string>
     <string name="fiveg_endc_status1">"ENDC 상태[슬롯1] : "</string>
     <string name="fiveg_endc_status2">"ENDC 상태[슬롯2] : "</string>
-    <string name="fiveg_endc_available1">"NR ENDC 사용가능[슬롯1] : "</string>
-    <string name="fiveg_endc_available2">"NR ENDC 사용가능[슬롯2] : "</string>
+    <string name="fiveg_endc_available1">"NR ENDC 사용 가능[슬롯1] : "</string>
+    <string name="fiveg_endc_available2">"NR ENDC 사용 가능[슬롯2] : "</string>
     <string name="fiveg_restrict_dcnr1">"DCNR제한[슬롯1] : "</string>
     <string name="fiveg_restrict_dcnr2">"DCNR제한[슬롯2] : "</string>
     <string name="fiveg_network_config_type1">"네트워크 구성 종류[슬롯1] : "</string>
@@ -2723,10 +2723,10 @@
     <string name="prompt_to_suggest_no_call_service_notification_title">"전화 수신과 발신이 불가능합니다."</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d 으로 전화 발신 실패. China Telecom에 연락하셔서 VoLTE 서비스를 켜세요."</string>
     <string name="notification_demo_version_text">"전화를 걸거나 모바일 데이터를 사용할 수 없습니다."</string>
-    <string name="notification_demo_version_title">이것은 데모 장치입니다.</string>
+    <string name="notification_demo_version_title">이것은 데모 기기입니다.</string>
     <string name="mobile_advanced_nr_network_title">5G 네트워크 유형</string>
     <string name="nr_network_info">5G 네트워크 사용 정보</string>
-    <string name="nr_usaged_first_used_time">5G 네트워크 사용가능</string>
+    <string name="nr_usaged_first_used_time">5G 네트워크 사용 가능</string>
     <string name="nr_usaged_module">기기 모델</string>
     <string name="nr_usaged_network_rate">최고 속도</string>
     <string name="nr_usaged_network_usaged">"오늘 데이터 사용"</string>
@@ -2752,12 +2752,12 @@
     <string name="international_roaming_setting_kr_skt">로밍</string>
     <string name="kt_lte_emm_cause_19_22">네트워크 등록 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
     <string name="kt_lte_emm_cause_3">"사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
-    <string name="kt_lte_emm_cause_6">"장치를 확인할 수 없습니다. 새 USIM 카드를 설치 한 후 장치를 2 ~ 3 회 다시 시작하세요. 이후에도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
+    <string name="kt_lte_emm_cause_6">"기기를 확인할 수 없습니다. 새 USIM 카드를 설치 한 후 기기를 2 ~ 3 회 다시 시작하세요. 이후에도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
     <string name="kt_lte_emm_cause_8">활성화가 필요합니다. 고객 서비스 센터를 방문하세요.</string>
     <string name="kt_lte_emm_cause_others">"네트워크를 등록 할 수 없습니다."</string>
     <string name="kt_lte_msim_emm_cause_19_22">SIM %d이(가) 네트워크를 등록하는 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
     <string name="kt_lte_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
-    <string name="kt_lte_msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
+    <string name="kt_lte_msim_emm_cause_6">"SIM %d에서 기기를 확인할 수 없습니다. 그래도이 문제가 계속 발생하면 고객 서비스 센터를 방문하세요."</string>
     <string name="kt_lte_msim_emm_cause_8">SIM %d에는 활성화가 필요합니다. 고객 서비스 센터를 방문하세요.</string>
     <string name="kt_lte_msim_emm_cause_others">"SIM %d이(가) 네트워크를 등록 할 수 없습니다."</string>
     <string name="lgu_emm_16_17_22">네트워크 등록 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
@@ -2772,7 +2772,7 @@
     <string name="lgu_msim_emm_cause_16_17_22">SIM %d이(가) 네트워크를 등록하는 중… 1분 정도 기다렸다가 다시 시도하세요.</string>
     <string name="lgu_msim_emm_cause_2">SIM %d에는 활성화가 필요합니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010).</string>
     <string name="lgu_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
-    <string name="lgu_msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
+    <string name="lgu_msim_emm_cause_6">"SIM %d에서 기기를 확인할 수 없습니다. 고객 서비스 센터(+82-2-3416-7010)를 방문하세요."</string>
     <string name="lgu_msim_emm_cause_7_14">"SIM %d 네트워크는 모바일 데이터 서비스를 제공하지 않습니다."</string>
     <string name="lgu_msim_emm_cause_8">"SIM %d에서 네트워크를 등록 할 수 없습니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"SIM %d이(가) 네트워크에 연결할 수 없습니다. 고객 서비스 센터를 방문하세요(+82-2-3416-7010)."</string>
@@ -2787,8 +2787,8 @@
     <string name="msim_emm_cause_14">"SIM %d 이동통신사는 모바일 데이터 서비스를 지원하지 않습니다."</string>
     <string name="msim_emm_cause_2">"SIM %d에서 전화번호를 등록 할 수 없습니다. 기기를 껐다가 다시 켜세요."</string>
     <string name="msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켜세요."</string>
-    <string name="msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 장치를 껐다가 다시 켜세요."</string>
-    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d에서 지금 로밍을 사용할 수 없습니다. 장치를 껐다가 다시 켜고 다시 시도하세요. 그래도이 문제가 계속 발생하면 이동통신사 고객 지원에 문의하세요(SKT:+82-2-6346-9000)."</string>
+    <string name="msim_emm_cause_6">"SIM %d에서 기기를 확인할 수 없습니다. 기기를 껐다가 다시 켜세요."</string>
+    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d에서 지금 로밍을 사용할 수 없습니다. 기기를 껐다가 다시 켜고 다시 시도하세요. 그래도이 문제가 계속 발생하면 이동통신사 고객 지원에 문의하세요(SKT:+82-2-6346-9000)."</string>
     <string name="network_active">활성 네트워크</string>
     <string name="network_available">사용 가능한 네트워크</string>
     <string name="network_state_display">네트워크 상태 표시</string>
@@ -2825,8 +2825,8 @@
     <string name="skt_msim_emm_cause_12_13_16_17_22">"SIM %d에서 네트워크를 등록 할 수 없습니다. 기기를 껐다가 다시 켜세요."</string>
     <string name="skt_msim_emm_cause_2">"SIM %d에서 전화번호를 등록 할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도 이 문제가 계속 발생하면 고객 지원 센터에 문의하세요(1599-0011)."</string>
     <string name="skt_msim_emm_cause_3">"SIM %d에서 사용자를 확인할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도 이 문제가 계속 발생하면 고객 지원 센터(1599-0011)에 문의하세요."</string>
-    <string name="skt_msim_emm_cause_6">"SIM %d에서 장치를 확인할 수 없습니다. 장치를 껐다가 다시 켜고 다시 시도하세요. 그래도 이 문제가 계속 발생하면 고객 지원 센터(1599-0011)에 문의하세요."</string>
-    <string name="skt_msim_emm_cause_7_8_15">"SIM %d에서 네트워크를 등록 할 수 없습니다. 장치를 껐다가 다시 켠 다음 다시 시도하세요. 그래도 이 문제가 계속 발생하면 고객 지원 센터(1599-0011)에 문의하세요."</string>
+    <string name="skt_msim_emm_cause_6">"SIM %d에서 기기를 확인할 수 없습니다. 기기를 껐다가 다시 켜고 다시 시도하세요. 그래도 이 문제가 계속 발생하면 고객 지원 센터(1599-0011)에 문의하세요."</string>
+    <string name="skt_msim_emm_cause_7_8_15">"SIM %d에서 네트워크를 등록 할 수 없습니다. 기기를 껐다가 다시 켠 다음 다시 시도하세요. 그래도 이 문제가 계속 발생하면 고객 지원 센터(1599-0011)에 문의하세요."</string>
     <string name="incall_error_out_of_service_kr">비상전화만 가능합니다.</string>
     <string name="incall_number_anonymous">알 수 없는 번호</string>
     <string name="msim_setting_default_data_description">데이터 SIM %d</string>
