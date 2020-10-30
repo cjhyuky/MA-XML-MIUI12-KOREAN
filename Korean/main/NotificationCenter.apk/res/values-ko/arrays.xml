@@ -2,7 +2,7 @@
 <resources>
     <string-array name="drop_down_menu">
         <item>설치된 순서로 정렬</item>
-        <item>알림 갯수로 정렬</item>
+        <item>알림 개수로 정렬</item>
         <item>알림 허용된 앱</item>
         <item>"알림 차단된 앱"</item>
     </string-array>

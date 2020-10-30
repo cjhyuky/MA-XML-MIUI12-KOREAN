@@ -657,9 +657,9 @@
         <item>중요하지 않음</item>
     </string-array>
     <string-array name="fold_summaries">
-        <item>모든 중요하지 않은 알림은 분리된 폴더에 나타날 것입니다.</item>
-        <item>알림이 드롭다운 메뉴에 직접 나타날 것입니다.</item>
-        <item>모든 알림이 분리된 폴더에 나타날 것입니다.</item>
+        <item>모든 중요하지 않은 알림은 분리된 폴더에 나타납니다.</item>
+        <item>알림이 알림 창에 직접 나타납니다.</item>
+        <item>모든 알림이 분리된 폴더에 나타납니다.</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5인치</item>
@@ -908,12 +908,12 @@
         <item>메뉴 표시</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>현재 조명을 기준으로 색상 조정</item>
-        <item>항상 색상 향상</item>
-        <item>색상 보정으로 화면의 표준 색상 복원</item>
+        <item>실시간 밝기를 기준으로 색상을 조정합니다.</item>
+        <item>항상 색채를 강화합니다.</item>
+        <item>원래 채도를 유지합니다.</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>자동 (추천)</item>
+        <item>자동 (권장)</item>
         <item>높은 채도</item>
         <item>표준</item>
     </string-array>
@@ -1054,8 +1054,8 @@
         <item>MTP (미디어 전송 프로트콜)</item>
         <item>PTP (사진 전송 프로트콜)</item>
         <item>RNDIS (USB 이더넷)</item>
-        <item>오디오 장치 입력</item>
-        <item>MIDI 장치</item>
+        <item>오디오 기기 입력</item>
+        <item>MIDI 기기</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>연결할 때마다 묻기</item>
@@ -1283,12 +1283,12 @@
         <item>기기 MAC 사용</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>현재 조명을 기준으로 색상 조정</item>
-        <item>항상 색상 향상</item>
-        <item>색상 보정으로 화면 콘텐츠의 표준 색상 복원</item>
+        <item>실시간 밝기를 기준으로 색상을 조정합니다.</item>
+        <item>항상 색채를 강화합니다.</item>
+        <item>색상 보정으로 화면의 표준 색상으로 복원합니다.</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>자동 (추천)</item>
+        <item>자동 (권장)</item>
         <item>높은 채도</item>
         <item>원래 색상</item>
     </string-array>

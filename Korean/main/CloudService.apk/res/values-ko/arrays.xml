@@ -104,8 +104,8 @@
     </string-array>
     <string-array name="settings_search_sync_manage">
         <item>Xiaomi 클라우드. 모든 Mi 서비스를 한곳에서.</item>
-        <item>어디서나 사진, 연락처, 메시지 및 장치에 접근하세요.</item>
-        <item>저장 용량 부족;멤버쉽;저장공간;저장공간;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드;휴지통;삭제된 항목;보안</item>
+        <item>어디서나 사진, 연락처, 메시지 및 기기에 접근하세요.</item>
+        <item>저장공간 부족;멤버쉽;저장공간;저장공간;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드;휴지통;삭제된 항목;보안</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>기기 찾기</item>
@@ -125,7 +125,7 @@
     <string-array name="settings_search_subscribe_vip">
         <item>Xiaomi 클라우드 멤버쉽</item>
         <item>멤버쉽을 업그레이드하고 더 많은 저장공간을 확보하여 데이터를 보호하세요.</item>
-        <item>저장 용량 부족;멤버쉽;저장공간;저장공간;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드;메가;울트라;VIP;백업;백업;복원;휴지통;삭제된 항목;휴지통</item>
+        <item>저장용량 부족;멤버쉽;저장공간;저장 공간;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드;메가;울트라;VIP;백업;백업;복원;휴지통;삭제된 항목;휴지통</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
         <item>Xiaomi 클라우드에 홈 화면 백업</item>
