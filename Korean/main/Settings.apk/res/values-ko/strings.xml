@@ -703,20 +703,20 @@
     <string name="assist_flash_title">화면을 손전등으로 사용</string>
     <string name="assist_footer">어시스턴트 앱은 사용자의 앱 데이터를 참고하여 작동됩니다. 일부 앱들에서는 권한 설정이 허용될 경우 음성 인식을 사용할 수 있습니다.</string>
     <string name="assist_gesture_sensitivity_title">민감도</string>
-    <string name="assist_gesture_title">어시스트 제스처</string>
+    <string name="assist_gesture_title">어시스턴트 제스처</string>
     <string name="assistant_security_warning">어시스턴트 앱은 사용자의 정보를 읽을 수 있습니다.</string>
     <string name="assistant_security_warning_agree">동의</string>
     <string name="assistant_security_warning_disagree">거부</string>
     <string name="assistant_security_warning_title">사용자의 어시스턴트를 %s로 설정하시겠습니까?</string>
     <string name="assisted_gps">GPS 도우미 사용</string>
     <string name="assisted_gps_disabled">서버를 통해 GPS를 보조합니다. (GPS 성능을 개선하려면 켜세요.)</string>
-    <string name="assisted_gps_enabled">서버를 통해 GPS 보조합니다. (네트워크 사용량을 줄이려면 끄세요.)</string>
+    <string name="assisted_gps_enabled">서버를 통해 GPS를 보조합니다. (네트워크 사용량을 줄이려면 끄세요.)</string>
     <string name="asst_capabilities_actions_replies_summary">추천 작업 및 답장을 자동으로 표시합니다.</string>
     <string name="asst_capabilities_actions_replies_title">추천 작업 및 답장</string>
     <string name="asst_capability_prioritizer_summary">우선순위가 낮은 알림을 조용한 알림으로 자동 설정합니다.</string>
     <string name="asst_capability_prioritizer_title">적응형 알림 우선순위</string>
     <string name="asst_capability_ranking_summary">관련성에 따라 자동으로 알림 순위 지정</string>
-    <string name="asst_capability_ranking_title">적응 형 알림 순위</string>
+    <string name="asst_capability_ranking_title">적응형 알림 순위</string>
     <string name="attempt_other_network">네트워크 전환</string>
     <string name="audio_and_captions_category_title">오디오 &amp; 화면 상의 텍스트</string>
     <string name="audio_files_title">오디오 파일</string>
@@ -3143,7 +3143,7 @@
     <string name="face_lock_screen_setup_skip_dialog_text">휴대전화를 분실하거나 도난당한 경우 다른 사람이 사용할 수 없도록 화면 잠금 옵션으로 휴대전화를 보호하세요. 또한 얼굴 인증을 설정하려면 화면 잠금 옵션이 필요합니다. 취소를 탭한 다음 PIN, 패턴 또는 비밀번호를 설정하세요.</string>
     <string name="face_unlock">얼굴인식 잠금해제</string>
     <string name="face_unlock_be_on_the_screen">얼굴 앞에 기기를 고정</string>
-    <string name="face_unlock_by_notification_screen_on_msg">수신 알림을 위해 화면이 켜질 때마다 얼굴 데이터를 사용하여 기기의 잠금을 해제할 수 있습니다. 배터리가 더 빨리 소모될 수 있습니다.</string>
+    <string name="face_unlock_by_notification_screen_on_msg">수신한 알림으로 인해 화면이 켜질 때마다 얼굴 데이터를 사용하여 기기의 잠금을 해제할 수 있습니다. 배터리가 더 빨리 소모될 수 있습니다.</string>
     <string name="face_unlock_by_notification_screen_on_title">화면이 켜지면 얼굴인식 잠금해제 허용</string>
     <string name="face_unlock_category_title">잠금 화면 옵션</string>
     <string name="face_unlock_check_failed">"사용자를 인식하지 못했습니다."</string>
@@ -6863,7 +6863,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="search_handy_mode">한 손 조작 모드;한 손 조작모드;한 손 조작모드;한 손</string>
     <string name="search_hint">검색 설정</string>
     <string name="search_home_key">홈;홈 버튼;홈 키</string>
-    <string name="search_input_hint">설정에서 검색</string>
+    <string name="search_input_hint">설정 검색</string>
     <string name="search_input_txt_na">"&lt;font color = '# ff0000'> %s &lt;/font>"</string>
     <string name="search_key_settings_title">버튼;키</string>
     <string name="search_lab_functions_title">베타 기능, 실험실 기능</string>
@@ -8089,7 +8089,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="tether_over_limit_dialog_title">데이터 사용량 경고</string>
     <string name="tether_over_limit_warning_notify_message">무선 핫스팟을 비활성화하세요.</string>
     <string name="tether_over_limit_warning_notify_title">핫스팟 데이터 제한 도달</string>
-    <string name="tether_settings_disabled">개인용 핫스팟 꺼짐</string>
+    <string name="tether_settings_disabled">모바일 핫스팟 꺼짐</string>
     <string name="tether_settings_disabled_on_data_saver">데이터 절약 모드가 실행되고 있을 경우 데이터 테더링을 사용할 수 없습니다.</string>
     <string name="tether_settings_launch_title">모바일 핫스팟</string>
     <string name="tether_settings_summary_all">핫스팟, USB, 블루투스, 이더넷</string>
@@ -9475,12 +9475,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_hidden_network_warning">라우터가 네트워크 ID를 브로드캐스팅하지 않지만 나중에 연결할 때 네트워크를 숨김으로 설정할 수 있습니다. 그러면 전화가 정기적으로 브로드캐스트되므로 보안 위험이 발생할 수 있습니다. 네트워크를 찾기위한 신호(숨겨진 네트워크 설정)는 라우터 설정을 변경하지 않습니다.</string>
     <string name="wifi_hide_password">비밀번호 숨기기</string>
     <string name="wifi_hotspot_ap_band_title">AP 밴드</string>
-    <string name="wifi_hotspot_auto_off_summary">기기가 연결되어 있지 않으면 개인용 핫스팟이 꺼집니다.</string>
+    <string name="wifi_hotspot_auto_off_summary">연결된 기기가 없으면 모바일 핫스팟이 꺼집니다.</string>
     <string name="wifi_hotspot_auto_off_title">자동으로 핫스팟 끄기</string>
     <string name="wifi_hotspot_checkbox_text">Wi‑Fi 핫스팟</string>
-    <string name="wifi_hotspot_checkbox_text_summary">이동통신 연결로 Wi‑Fi 네트워크 제공</string>
+    <string name="wifi_hotspot_checkbox_text_summary">모바일 데이터 연결로 Wi‑Fi 네트워크를 제공합니다.</string>
     <string name="wifi_hotspot_configure_ap_text">Wi‑Fi 핫스팟 설정</string>
-    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK 휴대용 Wi‑Fi 핫스팟</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK 핫스팟</string>
     <string name="wifi_hotspot_connect">연결</string>
     <string name="wifi_hotspot_footer_info_local_only">앱에서 핫스팟을 만들어 주변 기기와 콘텐츠를 공유할 수 있습니다.</string>
     <string name="wifi_hotspot_footer_info_regular">다른 기기로 인터넷을 사용하려면 핫스팟을 사용하세요. 핫스팟은 사용자의 모바일 데이터로 인터넷 연결을 제공합니다. 추가 모바일 데이터 요금이 발생합니다.</string>
@@ -9762,7 +9762,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_tether_failed_subtext">모바일 핫스팟 오류</string>
     <string name="wifi_tether_first_use_message">모바일 핫스팟을 1순위로 설정</string>
     <string name="wifi_tether_setting_title">설정</string>
-    <string name="wifi_tether_settings_title">개인용 핫스팟</string>
+    <string name="wifi_tether_settings_title">모바일 핫스팟</string>
     <string name="wifi_tether_starting">핫스팟 켜는 중…</string>
     <string name="wifi_tether_stopping">핫스팟 끄는 중…</string>
     <string name="wifi_time_remaining">%1$s 남음</string>

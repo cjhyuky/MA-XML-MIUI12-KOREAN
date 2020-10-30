@@ -183,7 +183,7 @@
     <string name="c0">모바일 데이터를 계속 켜시면 다른 사람이 사용자의 모바일 데이터를 사용할 수도 있습니다.</string>
     <string name="c1">모바일 데이터 끄기</string>
     <string name="c2">Mi Drop이 사용자의 친구를 찾을 수 있도록 권한을 설정하세요.</string>
-    <string name="c3">Mi Drop이 개인용 핫스팟을 켤 수 있도록 권한을 설정하세요.</string>
+    <string name="c3">Mi Drop이 모바일 핫스팟을 켤 수 있도록 권한을 설정하세요.</string>
     <string name="c4">Mi Drop 어떠신가요?</string>
     <string name="c5">의견을 남겨주실 수 있으실까요?</string>
     <string name="c6">좋습니다! Play 스토어에서 Mi Drop의 별점을 남겨주실 수도 있으실까요?</string>
@@ -425,7 +425,7 @@
     <string name="j1">파일 수신</string>
     <string name="j2">파일 전송</string>
     <string name="j3">접속요청 : %s</string>
-    <string name="j4">개인용 핫스팟</string>
+    <string name="j4">모바일 핫스팟</string>
     <string name="j5">Wi-Fi 이름:</string>
     <string name="j6">비밀번호:</string>
     <string name="j7">Wi-Fi 상태</string>

@@ -147,7 +147,7 @@
     <string name="permgroupdesc_phone">전화걸기 및 기기 정보 접근</string>
     <string name="permgroupdesc_sensors">신체 센서 데이터 접근</string>
     <string name="permgroupdesc_recognition">건강 &amp; 운동 데이터 접근</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">전화번호 및 IMSI 접근</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">전화번호 및 IMSI를 조회합니다.</string>
     <string name="permdesc_camera">사진촬영 및 동영상 녹화</string>
     <string name="permdesc_in_calls">수신전화 모니터링</string>
     <string name="permdesc_location">위치 정보 액세스</string>

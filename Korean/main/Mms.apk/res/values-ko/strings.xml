@@ -495,8 +495,8 @@
     <string name="pref_advanced_settings_title">추가 설정</string>
     <string name="pref_allow_network_access_summary">최신 정보를 가져옵니다.</string>
     <string name="pref_cell_broadcast">긴급 재난 문자</string>
-    <string name="pref_collapse_sp_messages_summary">자동으로 SMS 알림을 그룹화합니다.</string>
-    <string name="pref_delivery_ringtone">전송음</string>
+    <string name="pref_collapse_sp_messages_summary">SMS 알림을 자동으로 묶어서 표시합니다.</string>
+    <string name="pref_delivery_ringtone">전송 알림음</string>
     <string name="pref_edit_smsc_address">짧은 메시지 서비스 센터 (SMSC)</string>
     <string name="pref_forward_title">전달</string>
     <string name="pref_hide_verification_code_summary">보안 잠금 화면에서 메시지 알림의 일회성 비밀번호를 자동으로 숨깁니다.</string>
@@ -724,7 +724,7 @@
     <string name="timed_message_expired_title_2">지금 전송하시겠습니까?</string>
     <string name="timed_message_to">받는 사람</string>
     <string name="title_allow_network_access">자동 정보 업데이트</string>
-    <string name="title_collapse_sp_messages">그룹 알림</string>
+    <string name="title_collapse_sp_messages">알림 묶기</string>
     <string name="title_hide_verification_code">잠금 화면에서 OTP 자동 숨김</string>
     <string name="title_show_blocked_messages">차단된 SMS 표시</string>
     <string name="title_show_list_avatar">프로필 사진 표시</string>
@@ -732,7 +732,7 @@
     <string name="title_show_sms_template">SMS 인증번호 확인</string>
     <string name="title_show_sms_template_in">OTP행 SMS 확인</string>
     <string name="title_timed_message_dialog">예약 메시지 설정</string>
-    <string name="title_use_gsm_alphabet">GSM alphabet 사용</string>
+    <string name="title_use_gsm_alphabet">GSM 알파벳 사용</string>
     <string name="to_address_label">"받는 사람: "</string>
     <string name="to_label">"받는 사람 "</string>
     <string name="to_send_wrapper">%s(으)로 전송합니다.</string>

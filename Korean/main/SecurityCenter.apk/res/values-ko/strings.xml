@@ -1230,7 +1230,7 @@
     <string name="first_aid_card_consume_power_button1">제한</string>
     <string name="first_aid_card_consume_power_button2">끄기</string>
     <string name="first_aid_card_consume_power_summary1">5개 이상의 앱이 자동 실행되고 있습니다. 배터리 절약을 위해 제한하세요.</string>
-    <string name="first_aid_card_consume_power_summary2">배터리를 절약하기 위해 개인용 핫스팟을 끄세요.</string>
+    <string name="first_aid_card_consume_power_summary2">배터리를 절약하기 위해 모바일 핫스팟을 끄세요.</string>
     <string name="first_aid_card_consume_power_title">배터리 사용량</string>
     <string name="first_aid_card_kadun_button1">여유 공간 확보</string>
     <string name="first_aid_card_kadun_button2">제한</string>

@@ -724,7 +724,7 @@
     <string name="dlg_ok">확인</string>
     <string name="dlg_summary_close_app">백그라운드 액티비티 및 알림 끄기</string>
     <string name="dlg_summary_close_theme">움직이는 테마 끄기</string>
-    <string name="dlg_summary_close_wifi">개인용 핫스팟, 블루투스, Wi-Fi 끄기</string>
+    <string name="dlg_summary_close_wifi">모바일 핫스팟, 블루투스, Wi-Fi 끄기</string>
     <string name="dlg_summary_nfc">NFC 끄기</string>
     <string name="dlg_summary_title">절전 모드는 앱을 종료하고 홈 화면으로 돌아가면 백그라운드 활동을 모두 중지합니다. 앱을 백그라운드에서 실행하려면 예외에 추가하세요.</string>
     <string name="dnd_is_off">방해 금지 모드 꺼짐</string>
