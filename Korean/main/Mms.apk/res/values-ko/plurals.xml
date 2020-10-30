@@ -19,7 +19,7 @@
         <item quantity="other">연락처 %d개를 전송하지 못했습니다.</item>
     </plurals>
     <plurals name="hint_search_sms">
-        <item quantity="other">%d개 메시지</item>
+        <item quantity="other">메시지 %d개</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s 메시지</item>
