@@ -64,13 +64,13 @@
         <item quantity="other">잘못된 SIM PUK 코드, SIM을 영구적으로 사용할 수 없게되기까지 남은 시도 횟수는 %d회입니다.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. 비밀번호를 확인하세요."</item>
+        <item quantity="other">"기기가 %d시간 동안 잠금해제되지 않았습니다. 비밀번호를 확인하세요."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. 잠금패턴을 확인하세요."</item>
+        <item quantity="other">"기기가 %d시간 동안 잠금해제되지 않았습니다. 잠금패턴을 확인하세요."</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">"장치가 %d시간 동안 잠금해제되지 않았습니다. PIN 코드를 확인하세요."</item>
+        <item quantity="other">"기기가 %d시간 동안 잠금해제되지 않았습니다. PIN 코드를 확인하세요."</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d개의 새로운 알림</item>

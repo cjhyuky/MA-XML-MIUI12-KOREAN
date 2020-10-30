@@ -9,8 +9,8 @@
     <item quantity="one">%s개 항목</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
-    <item quantity="other">%s개의 장치</item>
-    <item quantity="one">%s개의 장치</item>
+    <item quantity="other">%s개의 기기</item>
+    <item quantity="one">%s개의 기기</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
     <item quantity="other">구독자 %1$s명</item>
