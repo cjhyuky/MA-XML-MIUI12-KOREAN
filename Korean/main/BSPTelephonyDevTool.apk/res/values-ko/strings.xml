@@ -4,7 +4,7 @@
     <string name="no">아니요</string>
     <string name="off">끔</string>
     <string name="phone">전화</string>
-    <string name="please_wait">잠시만 기다려주세요...</string>
+    <string name="please_wait">잠시만 기다리세요...</string>
     <string name="yes">예</string>
     <string name="app_name">BSPTelephonyDevTool</string>
     <string name="default_common_phone">기본 기기</string>

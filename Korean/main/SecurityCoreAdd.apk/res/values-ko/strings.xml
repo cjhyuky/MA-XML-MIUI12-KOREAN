@@ -66,10 +66,10 @@
     <string name="goToSecondSpacce">보조 공간으로 이동</string>
     <string name="newSecondSpace">보조 공간 켜기</string>
     <string name="closeSecondSpace">보조 공간 삭제</string>
-    <string name="loading_space">잠시만 기다려주세요…</string>
+    <string name="loading_space">잠시만 기다리세요…</string>
     <string name="private_space_setting">관리</string>
     <string name="exit_private_space">전환</string>
-    <string name="wating">잠시만 기다려주세요…</string>
+    <string name="wating">잠시만 기다리세요…</string>
     <string name="Active">활성화</string>
     <string name="ok_button">확인</string>
     <string name="cancel_button">취소</string>
@@ -295,7 +295,7 @@
     <string name="same_qr_code_enter_space">업무 공간으로 이동</string>
     <string name="same_qr_code_create_space">새로 생성</string>
     <string name="not_support_air_space">이 기능은 귀하의 휴대전화에 지원되지 않습니다.</string>
-    <string name="loading">잠시만 기다려주세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="contact_us">연락처</string>
     <string name="space_deleted">이 공간은 삭제되었습니다.</string>
     <string name="function_not_support">이 기기에서는 지원되지 않습니다.</string>

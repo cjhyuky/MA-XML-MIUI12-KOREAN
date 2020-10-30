@@ -780,7 +780,7 @@
     <string name="qq_login_webview">웹 QQ 메일로 로그인 중입니다. 비밀번호를 입력하세요.</string>
     <string name="qq_next_generation_auth_toast">브라우저에서 비밀번호 보호 켜기</string>
     <string name="qq_uthentication_failed">계정 인증 실패, 다시 로그인</string>
-    <string name="qq_webview_loading">잠시 기다려주세요…</string>
+    <string name="qq_webview_loading">잠시만 기다리세요…</string>
     <string name="questionnair_body_invisibility">메시지가 표시 되지 않습니다.</string>
     <string name="questionnair_confirm_delete">제거</string>
     <string name="questionnair_instability">자주 충돌</string>
@@ -951,7 +951,7 @@
     <string name="too_large_to_attach_single">"%1$s 보다 큰 파일을 첨부할 수 없습니다."</string>
     <string name="topic_merge">이메일 표시</string>
     <string name="topic_merge_summary">스레드가 구성한 모드</string>
-    <string name="translation_loading">잠시 기다려주세요…</string>
+    <string name="translation_loading">잠시만 기다리세요…</string>
     <string name="translation_no_result">결과 없음</string>
     <string name="translation_pronunciation_am">AmE</string>
     <string name="translation_pronunciation_cn">Pinyin</string>
@@ -982,7 +982,7 @@
     <string name="upload_log_yes">전송</string>
     <string name="upload_logs">기록 업로드</string>
     <string name="upload_logs_keywords">기록 업로드</string>
-    <string name="uploading_logs">잠시 기다려 주세요…</string>
+    <string name="uploading_logs">잠시만 기다리세요…</string>
     <string name="validation_failed_prompt">계정을 확인할 수 없습니다. %s의 서버 설정을 확인하세요.</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
@@ -1172,7 +1172,7 @@
     <string name="report_rendering_improvement_desc">좋습니다.</string>
     <string name="report_rendering_problem">잘못된 메시지입니다.</string>
     <string name="report_rendering_problem_desc">잘못된 메시지입니다.</string>
-    <string name="wait_help_context">잠시만 기다려 주세요...</string>
+    <string name="wait_help_context">잠시만 기다리세요...</string>
     <string name="privacy_policy">개인정보 보호정책</string>
     <string name="chinese">중국어</string>
     <string name="notify_channel_new_mail">새 메시지 알림</string>
@@ -1199,7 +1199,7 @@
     <string name="qq_pwd_or_qq_auth_code">코드 입력</string>
     <string name="folder_empty_to_fresh">"메일이 동기화되지 않았습니다. 동기화하려면 아래로 당기세요."</string>
     <string name="folder_no_mails">이 폴더에는 이메일이 없습니다.</string>
-    <string name="toast_bar_sync_failed_mi_authority">"동기화하지 못했습니다. 잠깐 기다려 다시 시도하세요. 세부사항을 확인하세요.
+    <string name="toast_bar_sync_failed_mi_authority">"동기화하지 못했습니다. 잠시 기다려 다시 시도하세요. 세부사항을 확인하세요.
 (인증되지 않은 기기를 사용하는 경우 인트라넷에 연결하거나 인증번호를 사용하세요)"</string>
     <string name="wipe_account_fail_description_remind">데이터 사용 권한으로 인해 계정을 삭제한 후 캘린더와 주소록에 데이터가 남아있을 수 있으므로 수동으로 삭제하세요.</string>
     <string name="failed_read_write_contacts_permission">연락처 접근이 제한되었습니다.</string>

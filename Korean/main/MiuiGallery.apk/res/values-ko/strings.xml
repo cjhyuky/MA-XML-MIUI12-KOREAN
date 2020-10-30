@@ -400,7 +400,7 @@
     <string name="agreement_required_tip">(필수사항)</string>
     <string name="agreement_summary">법률 문서</string>
     <string name="ai_album_open_switch_button_title">사진분석 시작</string>
-    <string name="ai_album_requesting_title">인공 지능 알고리즘이 여전히 사진을 처리하고 있습니다. 잠시만 기다려주세요.</string>
+    <string name="ai_album_requesting_title">인공 지능 알고리즘이 여전히 사진을 처리하고 있습니다. 잠시만 기다리세요.</string>
     <string name="ai_album_setting_key_word">사진 검색</string>
     <string name="ai_album_setting_sub_title">인공 지능 알고리즘을 사용하여 사진의 인물, 장소 및 객체를 식별할 수 있으므로 더 빨리 찾을 수 있습니다.</string>
     <string name="ai_album_setting_title">사진의 개체 식별</string>
@@ -1016,7 +1016,7 @@
     <string name="hybrid_network_access_denied">네트워크 접근 거부됨</string>
     <string name="hybrid_network_unavaliable">네트워크에 연결할 수 없음</string>
     <string name="hybrid_pull_to_refresh_pull_label">당겨서 새로고침…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다려주세요…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다리세요…</string>
     <string name="hybrid_pull_to_refresh_release_label">놓아서 새로고침…</string>
     <string name="hybrid_service_unavailiable">서비스 이용 불가</string>
     <string name="hybrid_try_again">다시 시도</string>
@@ -1061,9 +1061,9 @@
     <string name="limit_width">반드시 넓이 &gt; 0이어야 합니다.</string>
     <string name="load_complete">더 이상 불러올 항목이 없습니다.</string>
     <string name="load_failed">정보를 불러올 수 없습니다. 다시 시도하려면 탭하세요.</string>
-    <string name="load_relations">잠시만 기다려주세요…</string>
-    <string name="loading">잠시만 기다려주세요.</string>
-    <string name="loading_dots">잠시만 기다려주세요…</string>
+    <string name="load_relations">잠시만 기다리세요…</string>
+    <string name="loading">잠시만 기다리세요.</string>
+    <string name="loading_dots">잠시만 기다리세요…</string>
     <string name="loading_dual_tip">듀얼 사진 로드 중…</string>
     <string name="loading_fail">다운로드할 수 없음</string>
     <string name="loading_fail_sync_off">Xiaomi 클라우드 동기화를 활성화하여 다운로드</string>
@@ -1230,7 +1230,7 @@
     <string name="open">켜기</string>
     <string name="open_public_message">URL을 만들어 친구들과 공유</string>
     <string name="open_public_title">공유</string>
-    <string name="operate_processing_file_error">사진이 작업 되는 동안 기다려주세요.</string>
+    <string name="operate_processing_file_error">사진이 작업 되는 동안 기다리세요.</string>
     <string name="operation_add_album">앨범에 추가</string>
     <string name="operation_add_picture">항목 추가</string>
     <string name="operation_add_secret">숨기기</string>
@@ -1406,7 +1406,7 @@
     <string name="play_gif_desc">GIF 재생</string>
     <string name="play_video_desc">영상 재생</string>
     <string name="pm">오후</string>
-    <string name="preparing_data">잠시 기다려 주세요…</string>
+    <string name="preparing_data">잠시만 기다리세요…</string>
     <string name="print_log">인쇄 기록</string>
     <string name="privacy_permission_request_message">갤러리가 %3$s에 접근이 필요합니다. 수집한 정보는 %1$s 과 %2$s에 따라 사용됩니다. 허용하시겠습니까?</string>
     <string name="privacy_permission_request_negative">제한</string>
@@ -1529,7 +1529,7 @@
     <string name="search_net_error">네트워크 오류, 다른 네트워크로 연결하시고 다시 시도하세요.</string>
     <string name="search_request_applied">적용됨</string>
     <string name="search_request_open">테스트 팀에 가입</string>
-    <string name="search_request_requesting">적용되었습니다. 잠시만 기다려주세요.</string>
+    <string name="search_request_requesting">적용되었습니다. 잠시만 기다리세요.</string>
     <string name="search_result_empty">아무 것도 찾지 못했습니다.</string>
     <string name="search_retry">다시 시도</string>
     <string name="search_select_network">네트워크 선택</string>
@@ -2451,7 +2451,7 @@
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다."</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T 프로</string>
@@ -2473,7 +2473,7 @@
     <string name="picker_download_progress_file_message">파일 다운로드 중…(%1$d/%2$d)</string>
     <string name="pick_people_cover_fail">오류가 발생했습니다. 다시 시도하세요.</string>
     <string name="pick_people_cover_page_title">표지 사진 선택</string>
-    <string name="pick_people_cover_processing">잠시만 기다려주세요…</string>
+    <string name="pick_people_cover_processing">잠시만 기다리세요…</string>
     <string name="pick_people_cover_success">표지 사진을 성공적으로 적용했습니다.</string>
     <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
     <string name="private_entry_lock_state_activated_text">개인 폴더 열기 해제</string>

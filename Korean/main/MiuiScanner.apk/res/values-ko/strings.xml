@@ -54,7 +54,7 @@
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다."</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="not_set">설정되지 않음</string>
     <string name="preference_copied">\"%1$s\" 클립보드 복사완료</string>
@@ -96,7 +96,7 @@
     <string name="crop__done">완료</string>
     <string name="crop__pick_error">사용 가능한 이미지 소스가 없습니다.</string>
     <string name="crop__saving">사진 저장 중…</string>
-    <string name="crop__wait">기다려주세요…</string>
+    <string name="crop__wait">기다리세요…</string>
     <string name="error_null_cursor">죄송합니다. 문제가 발생했습니다!</string>
     <string name="grant_permission">권한 부여</string>
     <string name="permission_denied_albums">기기에서 사진, 미디어 및 파일에 액세스하여 앨범을 볼 수 있도록 허용</string>

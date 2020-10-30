@@ -333,11 +333,11 @@
     <string name="less_than_10m">&lt;10m</string>
     <string name="living_room">거실</string>
     <string name="loading_brand">정보를 받는 중…</string>
-    <string name="loading_brand_info">잠시 기다려 주세요…</string>
-    <string name="loading_device_type_info">잠시 기다려 주세요…</string>
-    <string name="loading_get">잠시 기다려 주세요…</string>
-    <string name="loading_hint">잠시 기다려 주세요…</string>
-    <string name="loading_ir_data">잠시 기다려 주세요…</string>
+    <string name="loading_brand_info">잠시만 기다리세요…</string>
+    <string name="loading_device_type_info">잠시만 기다리세요…</string>
+    <string name="loading_get">잠시만 기다리세요…</string>
+    <string name="loading_hint">잠시만 기다리세요…</string>
+    <string name="loading_ir_data">잠시만 기다리세요…</string>
     <string name="locate_current_place">현재 위치 찾기</string>
     <string name="location_select">기기 이름 바꾸기</string>
     <string name="login">로그인</string>
@@ -418,7 +418,7 @@
     <string name="match_tip_stop">정지 버튼이 작동합니까?</string>
     <string name="match_tip_tvav">입력 소스가 변경됩니까?</string>
     <string name="match_top_tips">"기기 응답에 잠시 시간이 필요합니다. 
-잠시 기다려주세요."</string>
+잠시만 기다리세요."</string>
     <string name="match_total_frame">총 %1$d</string>
     <string name="match_tv_intro_ch_inc">채널이 변경되면 손을 떼세요.</string>
     <string name="match_tv_intro_source">입력 소스가 변경되면 손을 떼세요.</string>
@@ -518,7 +518,7 @@
     <string name="please_select_tv">TV 선택</string>
     <string name="pm_2.5">PM2.5:</string>
     <string name="pm_2.5_out">야외 PM2.5:</string>
-    <string name="popup_installed_app_no_app">앱 가져오는 중, 잠시 기다리신 후 다시 시도</string>
+    <string name="popup_installed_app_no_app">앱 가져오는 중, 잠시만 기다리신 후 다시 시도</string>
     <string name="popup_installed_app_title">TV에서 열고 싶으신 앱 선택</string>
     <string name="popup_select_device">Wi-Fi 리모컨 선택</string>
     <string name="power">전원</string>
@@ -675,7 +675,7 @@
     <string name="suggest_use_wifi_rc">* Wi-Fi 리모컨에는 동영상 화면 전송, 앱, 기타 등의 기능들도 포함되어 있습니다.</string>
     <string name="supported_by_kookong">Kookong의 기술 지원</string>
     <string name="supporting_soon">Coming soon</string>
-    <string name="swipe_loading">잠시만 기다려주세요...</string>
+    <string name="swipe_loading">잠시만 기다리세요...</string>
     <string name="switch_place">도시 선택</string>
     <string name="tab_live">TV 프로그램</string>
     <string name="tab_store">스토어</string>
@@ -776,7 +776,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="catalyst_element_inspector">요소 검사</string>
     <string name="catalyst_jsload_error">JS bundle을 다운로드 하지 못했습니다.</string>
     <string name="catalyst_jsload_message">JS bundle을 가져오기</string>
-    <string name="catalyst_jsload_title">기다려주세요...</string>
+    <string name="catalyst_jsload_title">기다리세요...</string>
     <string name="catalyst_reloadjs">JS를 다시 로딩</string>
     <string name="catalyst_settings">개발 설정</string>
     <string name="catalyst_settings_title">Catalyst 개발 설정</string>
@@ -818,7 +818,7 @@ TV의 전원 버튼을 길게 눌러 변경"</string>
     <string name="delete_navigate_view_cancel_button_text">취소</string>
     <string name="delete_navigate_view_delete_button_text">삭제</string>
     <string name="device_shop_detail_bottom_title2">장바구니</string>
-    <string name="device_shop_dialog_loading">잠시만 기다려주세요…</string>
+    <string name="device_shop_dialog_loading">잠시만 기다리세요…</string>
     <string name="device_shop_favor_title">즐겨찾기</string>
     <string name="device_shop_share_cancel">취소된 공유</string>
     <string name="device_shop_share_download_pic_failed">"이미지를 다운로드할 수 없습니다."</string>

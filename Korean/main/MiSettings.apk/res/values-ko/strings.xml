@@ -68,7 +68,7 @@
     <string name="usagestats_app_category_miui_travel">여행</string>
     <string name="screen_cancel">취소</string>
     <string name="screen_confirm">켜기</string>
-    <string name="screen_paper_mode_apps_loading">잠시만 기다려주세요…</string>
+    <string name="screen_paper_mode_apps_loading">잠시만 기다리세요…</string>
     <string name="usagestats_app_category_miui_financial">금융</string>
     <string name="usagestats_app_category_miui_game">게임</string>
     <string name="usagestats_app_category_miui_life">라이프 스타일</string>
@@ -220,7 +220,7 @@
     <string name="stop_app_timer_fail">화면켜짐 시간 기능 비활성화 실패</string>
     <string name="stop_app_timer_success">화면켜짐 시간 기능이 비활성화되었습니다.</string>
     <string name="stop_app_timer_tip">비활성화 후 설정 항목, 로컬 및 클라우드 데이터 등을 포함한 화면켜짐 시간 기능 관련 데이터 및 호출된 권한이 지워집니다.</string>
-    <string name="wait_tip">기다려주세요...</string>
+    <string name="wait_tip">기다리세요...</string>
     <string name="healthy_use_phone">휴대전화의 건강한 사용</string>
     <string name="special_feature">특수 기능</string>
     <string name="category_other">기타</string>

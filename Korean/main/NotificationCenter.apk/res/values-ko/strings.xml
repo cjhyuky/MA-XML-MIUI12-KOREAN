@@ -96,7 +96,7 @@
     <string name="hint_search_in_disabled_apps">"알림 표시 차단된 앱 검색"</string>
     <string name="hint_search_in_enabled_apps">알림 표시 허용된 앱 검색</string>
     <string name="list_title_disable_notification">"알림 허용되지 않음"</string>
-    <string name="loading">잠시만 기다려주세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="lock_screen_display_rules">알림 표시 방법</string>
     <string name="lock_screen_tip_toast">\"알림 표시 방법\"에서 잠금 화면 알림 허용하기</string>
     <string name="lockscreen_notifications">잠금 화면    알림</string>

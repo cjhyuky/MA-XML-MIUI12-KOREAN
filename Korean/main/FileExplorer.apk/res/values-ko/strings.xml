@@ -107,7 +107,7 @@
     <string name="favorite_photo">사진</string>
     <string name="favorite_screen_cap">스크린샷</string>
     <string name="favorite_ringtone">벨소리</string>
-    <string name="file_loading">잠시만 기다려주세요…</string>
+    <string name="file_loading">잠시만 기다리세요…</string>
     <string name="ui_main_toast_favorite_removed">즐겨찾기 해제됨</string>
     <string name="ui_main_toast_operation_failed">%1$s 항목을 즐겨찾기 해제할 수 없음</string>
     <string name="rename_failed">%1$s의 이름을 변경할 수 없습니다.</string>
@@ -115,7 +115,7 @@
     <string name="no_enough_storage_title">저장공간 부족</string>
     <string name="no_enough_storage_indication">기기의 저장공간이 꽉 찼습니다.</string>
     <string name="used">사용됨</string>
-    <string name="loading">잠시만 기다려주세요...</string>
+    <string name="loading">잠시만 기다리세요...</string>
     <string name="operation_compress">압축</string>
     <string name="compress_title">압축</string>
     <string name="compress_message">…로 압축</string>
@@ -233,11 +233,11 @@
     <string name="rlv_release_to_refresh">놓아서 새로고침</string>
     <string name="rlv_refreshing">새로고침 중...</string>
     <string name="rlv_last_refreshing_time">%1$s 업데이트됨</string>
-    <string name="rlv_loading_more">잠시 기다려 주세요…</string>
+    <string name="rlv_loading_more">잠시만 기다리세요…</string>
     <string name="notification_dialog_title">알림</string>
     <string name="notification_dialog_content">파일이 %1$s에 추가되거나 변경되면 자동으로 알리고 정리합니다.</string>
     <string name="notification_dialog_confirm">확인</string>
-    <string name="smb_loading">잠시 기다려 주세요…</string>
+    <string name="smb_loading">잠시만 기다리세요…</string>
     <string name="online_not_support">지금은 이 파일을 볼 수 없습니다.</string>
     <string name="delete_file_error">파일을 삭제하지 못했습니다.</string>
     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
@@ -417,7 +417,7 @@
     <string name="ad_download">다운로드</string>
     <string name="has_installed">설치됨</string>
     <string name="connecting">연결 중…</string>
-    <string name="ad_downloading">잠시만 기다려주세요…</string>
+    <string name="ad_downloading">잠시만 기다리세요…</string>
     <string name="install_fail">설치 실패</string>
     <string name="download_fail">다운로드 실패</string>
     <string name="installing">설치 중…</string>

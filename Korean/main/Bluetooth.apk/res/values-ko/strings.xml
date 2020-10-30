@@ -74,7 +74,7 @@
     <string name="not_exist_file">파일 없음</string>
     <string name="not_exist_file_desc">"파일이 없습니다. 
 "</string>
-    <string name="enabling_progress_title">잠시 기다려 주세요.</string>
+    <string name="enabling_progress_title">잠시만 기다리세요.</string>
     <string name="enabling_progress_content">블루투스 켜는 중...</string>
     <string name="bt_toast_1">파일이 수신됩니다. 알림 패널에서 진행률을 확인하세요.</string>
     <string name="bt_toast_2">파일을 받지 못했습니다.</string>

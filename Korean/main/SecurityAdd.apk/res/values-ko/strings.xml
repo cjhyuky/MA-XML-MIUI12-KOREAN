@@ -52,7 +52,7 @@
     <string name="search_menu_title">검색</string>
     <string name="share">공유</string>
     <string name="title_share_link">URL 공유하기</string>
-    <string name="usage_sorted_loading_text">잠깐만 기다려주세요…</string>
+    <string name="usage_sorted_loading_text">잠시만 기다리세요…</string>
     <string name="xunyou_pay_webview">Xunyou 서비스</string>
     <string name="app_select_title">자주 사용하는 앱 추가</string>
     <string name="superpower_app_add">추가</string>
@@ -92,7 +92,7 @@
     <string name="ew_share_title">공유</string>
     <string name="ew_warning_detail">경고 세부사항</string>
     <string name="ew_title_back">뒤로가기</string>
-    <string name="tool_box_active_loading">잠시만 기다려주세요...</string>
+    <string name="tool_box_active_loading">잠시만 기다리세요...</string>
     <string name="tool_box_active_no_networ">"네트워크에 연결할 수 없습니다."</string>
     <string name="tool_box_active_reload">새로 고침</string>
     <string name="gb_dialog_game_speed_close">광속 모드를 끄는 중…</string>

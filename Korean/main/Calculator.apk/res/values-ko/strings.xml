@@ -476,7 +476,7 @@
     <string name="home_loan">주택담보대출 금리</string>
     <string name="house_rent">임대료</string>
     <string name="license_host_unreachable">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
-    <string name="loading">잠깐만 기다려주세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="loading_fail_message_no_network">"네트워크에 연결할 수 없습니다. 다시 시도하려면 여기를 누르세요."</string>
     <string name="loading_fail_refresh">새로고침</string>
     <string name="loading_message">앱 불러오는 중…</string>

@@ -135,7 +135,7 @@
     <string name="permission_storage">저장공간</string>
     <string name="permission_storage_introduce">기기에 항목을 저장합니다.</string>
     <string name="permission_user_protocol">이용 약관(필수)</string>
-    <string name="public_loading_text">잠시만 기다려주세요…</string>
+    <string name="public_loading_text">잠시만 기다리세요…</string>
     <string name="public_net_error_retry">다시 시도</string>
     <string name="public_net_error_sub_title">네트워크 설정을 확인하고 다시 시도하세요.</string>
     <string name="public_net_error_title">"네트워크에 연결할 수 없습니다."</string>
@@ -159,7 +159,7 @@
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금은 여기까지입니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금은 여기까지입니다."</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드 할 수 없습니다."</string>
     <string name="share_cancel">공유 취소</string>
     <string name="share_failed">"공유할 수 없습니다."</string>

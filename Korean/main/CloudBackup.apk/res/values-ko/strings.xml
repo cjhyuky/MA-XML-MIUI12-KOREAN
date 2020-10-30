@@ -35,7 +35,7 @@
     <string name="cloud_backup_detail_manage">백업 관리</string>
     <string name="cloud_backup_detail_manage_summary">%1$s 백업, 차지하는 용량:%2$s</string>
     <string name="backup_size_summary">크기: %1$s</string>
-    <string name="cloud_back_up_opening">잠시만 기다려주세요…</string>
+    <string name="cloud_back_up_opening">잠시만 기다리세요…</string>
     <string name="cloud_back_up_no_network_warn">Wi-Fi에 연결할 수 없습니다.</string>
     <string name="cloud_back_up_ok_btn">확인</string>
     <string name="cloud_back_up_frequence_choice_title">일정 백업</string>
@@ -107,7 +107,7 @@
     <string name="remove_task_in_process">제거 중…</string>
     <string name="remove_task_unfinished">제거가 끝나지 않았음</string>
     <string name="back_up_task_unfinished">백업 실패</string>
-    <string name="about_to_recover">잠시 기다려 주세요…</string>
+    <string name="about_to_recover">잠시만 기다리세요…</string>
     <string name="success_open_cloudbackup">홈 화면 앱을 위해 백업이 켜졌습니다.</string>
     <string name="as_new_device">이전의 홈 화면과 설정 교체하기</string>
     <string name="as_new_device_summary">이전의 Xiaomi 클라우드 백업 지우기</string>
@@ -239,7 +239,7 @@
     <string name="restore_app_order_retry">다시 시도하세요.</string>
     <string name="restore_app_order_retry_desc">"네트워크 연결 실패.
 네트워크 설정 체크 후 다시 시도하세요."</string>
-    <string name="restore_app_order_loading">잠시만 기다려주세요…</string>
+    <string name="restore_app_order_loading">잠시만 기다리세요…</string>
     <string name="restore_app_order_finish">완료</string>
     <string name="provision_background_restore_more_data">백그라운드에서 더 많은 항목을 복원하세요.</string>
     <string name="provision_restore_data">항목 복원</string>

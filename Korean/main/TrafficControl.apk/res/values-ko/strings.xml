@@ -235,7 +235,7 @@
     <string name="v2_first_run_savings_item_installed">설치됨</string>
     <string name="v2_first_run_savings_msg">무료로 최대 50%까지 데이터 요금 절약</string>
     <string name="v2_first_run_savings_scan_top">많이 절약되는 앱 검색</string>
-    <string name="v2_first_run_screen_message_connecting">기다려 주세요…</string>
+    <string name="v2_first_run_screen_message_connecting">기다리세요…</string>
     <string name="v2_first_run_screen_message_geo_ip_blocked">죄송합니다. 귀하의 국가에서는 아직 Opera Max를 사용할 수 없습니다. Google⁠+에서 팔로우 하세요.</string>
     <string name="v2_first_run_screen_message_network_error">"연결할 수 없습니다.
 연결을 확인하고 다시 시도하세요."</string>
@@ -317,7 +317,7 @@
     <string name="v2_migration_done_text">새로운 Opera Max는 귀하의 데이터 기록과 설정을 안전하게 유지해드립니다. 기존 버전은 제거하셔도 됩니다.</string>
     <string name="v2_migration_failed">데이터 이동 실패.</string>
     <string name="v2_migration_label">데이터 이동</string>
-    <string name="v2_migration_please_wait">기다려 주세요…</string>
+    <string name="v2_migration_please_wait">기다리세요…</string>
     <string name="v2_migration_retry">다시 시도</string>
     <string name="v2_migration_uninstall">이전 버전 제거</string>
     <string name="v2_minutes_short">%d분</string>

@@ -68,8 +68,8 @@
     <string name="no_update_action">탭하여 업데이트 기록 보기</string>
     <string name="no_change_log">업데이트 없음</string>
     <string name="no_update_records">업데이트 기록 없음</string>
-    <string name="loading_update_list">잠시만 기다려주세요…</string>
-    <string name="loading_update_history_list">잠시만 기다려주세요…</string>
+    <string name="loading_update_list">잠시만 기다리세요…</string>
+    <string name="loading_update_history_list">잠시만 기다리세요…</string>
     <string name="install_title">설치</string>
     <string name="install_no_network_description">네트워크에 연결할 수 없습니다.</string>
     <string name="install_on_data_description_lte_2">휴대전화의 데이터 연결을 사용해서 앱을 다운로드하면 데이터 사용량이 증가합니다. %1$s 앱을 다운로드하시겠습니까?</string>

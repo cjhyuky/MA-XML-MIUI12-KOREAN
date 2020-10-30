@@ -116,7 +116,7 @@
     <string name="life_post_setting_wake_up_list_title">기상 기록</string>
     <string name="percentage_sign">%</string>
     <string name="life_post_setting_FBE_remind">시스템 제한의 영향으로 다시 시작 후 아침에 보고되는 날씨 정보가 정확하게 표시되지 않을 수 있습니다.</string>
-    <string name="install_weather_app_loading">잠시만 기다려주세요…</string>
+    <string name="install_weather_app_loading">잠시만 기다리세요…</string>
     <string name="install_weather_app_error">앱 불러오기 실패</string>
     <string name="full_wday_month_day_no_year">M월 d일 EEEE</string>
     <string name="app_label">시계</string>

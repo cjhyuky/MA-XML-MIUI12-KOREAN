@@ -19,7 +19,7 @@
     <string name="catalyst_element_inspector">요소 검사</string>
     <string name="catalyst_jsload_error">JS 번들 다운로드 불가</string>
     <string name="catalyst_jsload_message">번들 페칭중</string>
-    <string name="catalyst_jsload_title">기다려주세요...</string>
+    <string name="catalyst_jsload_title">기다리세요...</string>
     <string name="catalyst_reloadjs">JS 재로</string>
     <string name="catalyst_settings">Dev 셋</string>
     <string name="catalyst_settings_title">Dev 설정 카탈리스트</string>

@@ -44,7 +44,7 @@
     <string name="file_info_location">"위치 :"</string>
     <string name="file_info_modified">"최종 수정 :"</string>
     <string name="file_info_size">"크기 :"</string>
-    <string name="file_loading">잠시만 기다려주세요…</string>
+    <string name="file_loading">잠시만 기다리세요…</string>
     <string name="file_name_empty">이름을 입력하세요.</string>
     <string name="file_name_invalid">"/\\:*?&lt;&gt; 은 파일 이름에 포함할 수 없습니다."</string>
     <string name="file_name_too_long">입력한 파일 이름이 너무 깁니다.</string>

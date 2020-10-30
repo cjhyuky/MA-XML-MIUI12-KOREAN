@@ -6,7 +6,7 @@
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">새로고침 해제</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"지금 끝났습니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금 끝났습니다."</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="mru_setting_brief">퀵 카드에서 아래로 스와이프한 후 나타나는 빠른 앱 및 바로가기</string>
     <string name="mru_setting_brief_detail">"최근에 사용된 빠른 앱 및 바로가기"</string>
@@ -233,7 +233,7 @@
     <string name="alipay_reg_pwd_sub_title">为 度 为 6–20 位 (不能 全 是 数字)</string>
     <string name="alipay_reg_pwd_supply">6–20 位 (不能 全 是 数字)</string>
     <string name="alipay_reg_pwd_title">로그인 비밀번호 설정</string>
-    <string name="alipay_reg_read_sms_doing">휴대전화 번호를 확인하는 동안 기다려주세요.</string>
+    <string name="alipay_reg_read_sms_doing">휴대전화 번호를 확인하는 동안 기다리세요.</string>
     <string name="alipay_reg_read_sms_title">전화번호 확인</string>
     <string name="alipay_regist_now">지금 등록하세요.</string>
     <string name="alipay_regist_rds_suspect">작동 빈도가 너무 빠릅니다. 나중에 다시 시도하세요.</string>
@@ -606,10 +606,10 @@
     <string name="express_company_pricing_details">가격 정보</string>
     <string name="express_complete">취급</string>
     <string name="express_contact_address">주소 입력</string>
-    <string name="express_contact_address_finding">잠시만 기다려주세요…</string>
+    <string name="express_contact_address_finding">잠시만 기다리세요…</string>
     <string name="express_contact_label">픽업 서비스 정보</string>
     <string name="express_contact_phone">전화번호 입력</string>
-    <string name="express_contact_phone_finding">잠시만 기다려주세요…</string>
+    <string name="express_contact_phone_finding">잠시만 기다리세요…</string>
     <string name="express_contact_prefix">연락처</string>
     <string name="express_copied">운송장번호가 클립보드로 복사되었습니다.</string>
     <string name="express_copy_number">복사</string>
@@ -690,7 +690,7 @@
     <string name="express_order_succeeded">완료</string>
     <string name="express_other_app">MIUI가 다른 앱에서 주문 정보를 가져오는 것을 허용합니다.</string>
     <string name="express_phone">전화번호</string>
-    <string name="express_phone_tip">배송중, 잠시 기다려주세요.</string>
+    <string name="express_phone_tip">배송중, 잠시만 기다리세요.</string>
     <string name="express_pickup_code">코드 : %s</string>
     <string name="express_preview_order">미리보기</string>
     <string name="express_provider_banner">제공 %s</string>
@@ -1006,7 +1006,7 @@
     <string name="list_icon_drag">주문을 드래그하세요.</string>
     <string name="load_more_error">네트워크 오류가 발생했습니다. 잠시 후 다시 시도하세요.</string>
     <string name="load_no_more">더 이상 없습니다.</string>
-    <string name="loading_desktop">잠시만 기다려주세요...</string>
+    <string name="loading_desktop">잠시만 기다리세요...</string>
     <string name="locating_fail">위치를 가져올 수 없습니다.</string>
     <string name="locations">자주 가는 장소</string>
     <string name="locations_preferences">주소 목록</string>
@@ -1488,7 +1488,7 @@
     <string name="setting_football_fav">팀</string>
     <string name="setting_football_fav_null">어떤 팀도 팔로우하지 않았습니다!</string>
     <string name="setting_football_hupu">후푸 스포츠</string>
-    <string name="setting_football_loading">"잠시만 기다려주세요 ... "</string>
+    <string name="setting_football_loading">"잠시만 기다리세요 ... "</string>
     <string name="setting_football_select_title">" 팔로우할 팀을 선택하세요."</string>
     <string name="setting_football_toast_max">최대 4개의 팀을 선택할 수 있습니다.</string>
     <string name="setting_home_label">집 주소 추가</string>
@@ -1694,7 +1694,7 @@
     <string name="widget_fav_open">즐겨찾기 해놓은 카드 보기</string>
     <string name="widget_fav_setting_brief">여러 앱의 즐겨찾기를 여기에 저장하세요.</string>
     <string name="widget_fav_setting_brief_detail">즐겨찾기를 한곳에서 확인하세요.</string>
-    <string name="widget_loading">잠시만 기다려주세요...</string>
+    <string name="widget_loading">잠시만 기다리세요...</string>
     <string name="widget_more">더보기</string>
     <string name="widget_no_data">즐겨찾기에 항목이 없습니다.</string>
     <string name="widget_title">최근에 추가됨</string>

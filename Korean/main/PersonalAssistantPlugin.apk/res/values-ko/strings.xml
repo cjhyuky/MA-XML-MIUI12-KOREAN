@@ -282,10 +282,10 @@
     <string name="express_company_pricing_details">가격 정보</string>
     <string name="express_complete">취급</string>
     <string name="express_contact_address">주소 입력</string>
-    <string name="express_contact_address_finding">잠시만 기다려주세요…</string>
+    <string name="express_contact_address_finding">잠시만 기다리세요…</string>
     <string name="express_contact_label">픽업 서비스 정보</string>
     <string name="express_contact_phone">전화번호 입력</string>
-    <string name="express_contact_phone_finding">잠시만 기다려주세요…</string>
+    <string name="express_contact_phone_finding">잠시만 기다리세요…</string>
     <string name="express_contact_prefix">"연락처"</string>
     <string name="express_copied">운송장번호가 클립보드로 복사되었습니다.</string>
     <string name="express_copy_number">복사</string>
@@ -381,7 +381,7 @@
     <string name="list_icon_add">추가</string>
     <string name="list_icon_delete">삭제</string>
     <string name="list_icon_drag">주문을 드래그하세요.</string>
-    <string name="loading_desktop">잠시만 기다려주세요...</string>
+    <string name="loading_desktop">잠시만 기다리세요...</string>
     <string name="locating_fail">"위치를 가져올 수 없습니다."</string>
     <string name="locations">자주 가는 장소</string>
     <string name="locations_preferences">주소 목록</string>
@@ -668,7 +668,7 @@
     <string name="setting_football_fav">팀</string>
     <string name="setting_football_fav_null">어떤 팀도 팔로우하지 않았습니다!</string>
     <string name="setting_football_hupu">후푸 스포츠</string>
-    <string name="setting_football_loading">잠시만 기다려주세요 ... </string>
+    <string name="setting_football_loading">잠시만 기다리세요 ... </string>
     <string name="setting_football_select_title"> 팔로우 할 팀을 선택하세요.</string>
     <string name="setting_football_toast_max">최대 4개의 팀을 선택할 수 있습니다.</string>
     <string name="setting_home_label">집 주소 추가</string>
@@ -804,7 +804,7 @@
     <string name="widget_fav_open">즐겨찾기 해놓은 카드 보기</string>
     <string name="widget_fav_setting_brief">여러 앱의 즐겨찾기를 여기에 저장하세요.</string>
     <string name="widget_fav_setting_brief_detail">즐겨찾기를 한곳에서 확인하세요.</string>
-    <string name="widget_loading">잠시만 기다려주세요...</string>
+    <string name="widget_loading">잠시만 기다리세요...</string>
     <string name="widget_more">더보기</string>
     <string name="widget_no_data">즐겨찾기에 항목이 없습니다.</string>
     <string name="widget_title">최근에 추가됨</string>
@@ -936,7 +936,7 @@
     <string name="express_open_txt">열기</string>
     <string name="express_origin_prev">보낸곳</string>
     <string name="express_other_app">MIUI가 다른 앱에서 주문 정보를 가져오는 것을 허용합니다.</string>
-    <string name="express_phone_tip">배송중, 잠시 기다려주세요.</string>
+    <string name="express_phone_tip">배송중, 잠시만 기다리세요.</string>
     <string name="express_setting_authorized_number">인증된 휴대전화 번호</string>
     <string name="express_setting_authorized_number_add">추가</string>
     <string name="express_setting_authorized_number_delete">삭제</string>

@@ -80,7 +80,7 @@
 
 다음에 Wi-Fi 네트워크에 연결했을 때 다운로드하려면 %s을 터치하세요."</string>
     <string name="wifi_recommended_title">나중에 다운로드하도록 대기하시겠습니까?</string>
-    <string name="wifi_recommended_body" formatted="false">"지금 %s    크기의 파일을 다운로드하면 배터리 수명이 단축되거나 모바일 데이터 연결 사용량이 초과될 수 있습니다. 이로 인해 데이터 요금제에 따라 이동통신사에서 요금을 부과할 수 있습니다.
+    <string name="wifi_recommended_body" formatted="false">"지금 %s    크기의 파일을 다운로드하면 배터리 사용 시간이 단축되거나 모바일 데이터 연결 사용량이 초과될 수 있습니다. 이로 인해 데이터 요금제에 따라 이동통신사에서 요금을 부과할 수 있습니다.
 
 다음에 Wi-Fi 네트워크에 연결되었을 때 다운로드하려면 아래의 %s을 터치하세요."</string>
     <string name="button_queue_for_wifi">대기열</string>

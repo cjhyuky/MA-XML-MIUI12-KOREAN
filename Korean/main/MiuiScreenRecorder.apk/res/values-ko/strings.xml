@@ -82,7 +82,7 @@
     <string name="stop_by_second_space">공간을 전환하시면 녹화가 중지됩니다.</string>
     <string name="cannot_change_parames">녹화 중에는 매개 변수를 변경할 수 없습니다.</string>
     <string name="cannot_record">녹화할 수 없습니다. 나중에 다시 시도하세요.</string>
-    <string name="frequently_click_toast">서비스 설치 중, 잠시만 기다려 주세요.</string>
+    <string name="frequently_click_toast">서비스 설치 중, 잠시만 기다리세요.</string>
     <string name="no_sound">무음</string>
     <string name="mic_sound">마이크</string>
     <string name="loopback_sound">스피커</string>
@@ -97,7 +97,7 @@
     <string name="cannot_change_frames">프레임은 고정 프레임으로 녹화된 영상에서만 수정할 수 있습니다.</string>
     <string name="close_screen_record">녹화 중단됨</string>
     <string name="fixed_frame_rate">고정 프레임</string>
-    <string name="fixed_frame_rate_summary">고정 프레임으로 화면을 녹화하면 소셜 미디어 플랫폼에서의 재생이 원활하고 배터리 수명이 단축됩니다.</string>
+    <string name="fixed_frame_rate_summary">고정 프레임으로 화면을 녹화하면 소셜 미디어 플랫폼에서의 재생이 원활하고 배터리 사용 시간이 단축됩니다.</string>
     <string name="is_checked">선택됨</string>
     <string name="is_go_home">화면 녹화로 돌아가기</string>
     <string name="is_go_home_summary">"녹음을 끝내면 화면 녹화가 시작됩니다."</string>

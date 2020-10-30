@@ -396,7 +396,7 @@
     <string name="view_orders">주문 보기</string>
     <string name="pull_to_refresh_pull_label">당겨서 새로고침...</string>
     <string name="pull_to_refresh_release_label">놓아서 새로고침...</string>
-    <string name="pull_to_refresh_refreshing_label">잠시 기다려주세요…</string>
+    <string name="pull_to_refresh_refreshing_label">잠시만 기다리세요…</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">위치 접근</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">주소록을 위치 정보에 접근하도록 허용하면 검색 결과가 향상됩니다.</string>
     <string name="yellowpage_navigation_network_location_enable">허용</string>

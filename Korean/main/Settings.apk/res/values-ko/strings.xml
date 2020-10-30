@@ -842,7 +842,7 @@
     <string name="background_check_pref">백그라운드 검사</string>
     <string name="background_check_title">백그라운드 접근 권한</string>
     <string name="background_data">백그라운드 데이터</string>
-    <string name="background_data_dialog_message">백그라운드 데이터를 사용하지 않도록 설정하면 배터리 수명이 늘어나고 데이터 사용량이 줄어듭니다. 일부 앱에서는 백그라운드 데이터 연결을 계속 사용할 수도 있습니다.</string>
+    <string name="background_data_dialog_message">백그라운드 데이터를 사용하지 않도록 설정하면 배터리 사용 시간이 늘어나고 데이터 사용량이 줄어듭니다. 일부 앱에서는 백그라운드 데이터 연결을 계속 사용할 수도 있습니다.</string>
     <string name="background_data_dialog_title">백그라운드 데이터를 사용 중지하시겠습니까?</string>
     <string name="background_data_summary">앱이 언제든지 데이터를 동기화하고 보내고 받을 수 있음</string>
     <string name="background_process_stop_description">향후에 다시 필요할 경우를 위해 계속 실행 중인 이전 앱 프로세스로서 일반적으로 중지할 필요는 없습니다.</string>
@@ -957,7 +957,7 @@
     <string name="battery_detail_power_usage">배터리 사용량</string>
     <string name="battery_detail_since_full_charge">마지막 충전 완료 이후</string>
     <string name="battery_details_title">배터리 사용량</string>
-    <string name="battery_footer_summary">남은 배터리 시간은 대략적인 수치이며 사용 패턴에 따라 바뀔 수 있습니다.</string>
+    <string name="battery_footer_summary">남은 배터리 사용 시간은 대략적인 수치이며 사용 패턴에 따라 바뀔 수 있습니다.</string>
     <string name="battery_full_charge_last">충전 완료 지속</string>
     <string name="battery_history_days">%1$d일 %2$d시간 %3$d분 %4$d초</string>
     <string name="battery_history_days_no_seconds">%1$d일 %2$d시간 %3$d분</string>
@@ -1040,7 +1040,7 @@
     <string name="battery_saver_turn_on_automatically_never">사용 안 함</string>
     <string name="battery_saver_turn_on_automatically_pct">배터리가 %1$s%%일 때</string>
     <string name="battery_saver_turn_on_automatically_title">자동으로 사용 설정</string>
-    <string name="battery_saver_turn_on_summary">배터리 수명 연장</string>
+    <string name="battery_saver_turn_on_summary">배터리 사용 시간 연장</string>
     <string name="battery_screen_usage">^1 화면 사용</string>
     <string name="battery_settings">배터리</string>
     <string name="battery_settings_title">배터리</string>
@@ -2122,8 +2122,8 @@
     <string name="crypt_keeper_force_power_cycle">기기 잠금을 해제하려면 다시 시작하세요.</string>
     <string name="crypt_keeper_low_charge_text">배터리를 충전한 다음 다시 시도하세요.</string>
     <string name="crypt_keeper_settings_title">암호화</string>
-    <string name="crypt_keeper_setup_description">휴대전화를 암호화하는 동안 잠시 기다려 주세요. ^1% 완료되었습니다.</string>
-    <string name="crypt_keeper_setup_time_remaining">휴대전화를 암호화하는 동안 잠시 기다려 주세요. 남은 시간: ^1</string>
+    <string name="crypt_keeper_setup_description">휴대전화를 암호화하는 동안 잠시만 기다리세요. ^1% 완료되었습니다.</string>
+    <string name="crypt_keeper_setup_time_remaining">휴대전화를 암호화하는 동안 잠시만 기다리세요. 남은 시간: ^1</string>
     <string name="crypt_keeper_setup_title">암호화 중</string>
     <string name="crypt_keeper_switch_input_method">입력 방법 전환</string>
     <string name="crypt_keeper_switch_to_pattern">패턴 사용</string>
@@ -2183,7 +2183,7 @@
     <string name="dark_color_summary_oled">시스템 배경 및 호환되는 앱에 어두운 색을 사용합니다. 배터리 소모를 줄이고 눈의 피로를 완화시키는데 도움을 줄 수 있습니다.</string>
     <string name="dark_mode_contrast">명암 자동 조정</string>
     <string name="dark_mode_contrast_hint">밝기가 감소하면 색상을 자동으로 조정하고 대비를 낮춥니다.</string>
-    <string name="dark_theme_slice_subtitle">배터리 수명 연장에 도움</string>
+    <string name="dark_theme_slice_subtitle">배터리 사용 시간 연장에 도움</string>
     <string name="dark_theme_slice_title">어두운 테마 사용해보기</string>
     <string name="dark_ui_activation_off_auto">일몰까지 끄기</string>
     <string name="dark_ui_activation_off_custom">%1$s까지 사용 중지</string>
@@ -2211,7 +2211,7 @@
     <string name="dark_ui_summary_on_auto_mode_auto">일출에 자동으로 꺼짐</string>
     <string name="dark_ui_summary_on_auto_mode_custom">%1$s에 자동으로 꺼집니다</string>
     <string name="dark_ui_summary_on_auto_mode_never">자동으로 꺼지지 않음</string>
-    <string name="dark_ui_text">어두운 테마는 검은 색 배경을 사용하여 일부 화면에서 배터리 수명을 연장합니다. 어두운 테마 일정은 화면이 꺼질 때까지 켜질 때까지 기다립니다.</string>
+    <string name="dark_ui_text">어두운 테마는 검은 색 배경을 사용하여 일부 화면에서 배터리 사용 시간을 연장합니다. 어두운 테마 일정은 화면이 꺼질 때까지 켜질 때까지 기다립니다.</string>
     <string name="dark_ui_title">어두운 모드</string>
     <string name="dark_wallpaper_mode">배경화면을 다크 모드로 조정</string>
     <string name="dashboard_suggestion_condition_footer_content_description">축소</string>
@@ -3189,7 +3189,7 @@
     <string name="failed_to_open_app_settings_toast">%1$s 설정을 열지 못했음</string>
     <string name="failed_to_shut_down_find_device_content">기기 찾기를 끌수 없습니다. 1분에서 2분정도 기다리신 후에 다시 시도하여 주세요.</string>
     <string name="failed_to_shut_down_find_device_title">끌 수 없음</string>
-    <string name="fallback_home_title">잠시만 기다려주세요…</string>
+    <string name="fallback_home_title">잠시만 기다리세요…</string>
     <string name="fcc_equipment_id">장비 ID</string>
     <string name="feature_flags_dashboard_title">기능 플래그</string>
     <string name="feature_title_account">Mi 계정</string>
@@ -3741,7 +3741,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="icloud_need_wifi_title">Wi-Fi에 연결</string>
     <string name="icon_content_description">대화 아이콘</string>
     <string name="ignore_optimizations_off">최적화</string>
-    <string name="ignore_optimizations_off_desc">배터리 수명을 위한 권장사항</string>
+    <string name="ignore_optimizations_off_desc">배터리 사용 시간을 위한 권장사항</string>
     <string name="ignore_optimizations_on">최적화하지 않음</string>
     <string name="ignore_optimizations_on_desc">배터리 소모가 빨라질 수 있습니다.</string>
     <string name="ignore_optimizations_title">" %s 앱이 배터리 최적화를 무시하도록 설정하시겠습니까?"</string>
@@ -4114,7 +4114,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="launcher_minus_screen_title">피드</string>
     <string name="launcher_title">홈 화면 &amp; 최근</string>
     <string name="launching_cit">CIT 실행 중</string>
-    <string name="launching_pho">전화 정보 실행 중, 기다려 주세요.</string>
+    <string name="launching_pho">전화 정보 실행 중, 기다리세요.</string>
     <string name="launching_rep">보고 중…</string>
     <string name="layout_exhuge_font_take_effect_tips">XXL 글자 크기는 통화, 메시지 및 연락처에서만 작동합니다.</string>
     <string name="layout_exhuge_font_tips">추가 옵션은 %1$s에서 사용할 수 있습니다.</string>
@@ -4157,7 +4157,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="line_breaking_title">텍스트 최적화</string>
     <string name="link_speed_label">속도:</string>
     <string name="link_turbo_prompt">"이 페이지의 통계는 Wi-Fi 연결 속도를 높이기 위해 사용된 데이터의 양만 보여줍니다. 이 통계는 실제 모바일 데이터 사용량을 반영하지 않습니다."</string>
-    <string name="link_turbo_settings_all_app_display_loading">잠시만 기다려주세요…</string>
+    <string name="link_turbo_settings_all_app_display_loading">잠시만 기다리세요…</string>
     <string name="link_turbo_settings_all_app_reach_max">최대 15 개의 앱을 선택할 수 있습니다.</string>
     <string name="link_turbo_usage_state_month">이번 달</string>
     <string name="link_turbo_usage_state_month_total">이번 달</string>
@@ -4169,7 +4169,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="live_caption_summary">미디어 자막 자동 생성</string>
     <string name="live_caption_title">실시간 자막</string>
     <string name="load_networks_progress">검색 중…</string>
-    <string name="loading">잠시만 기다려주세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="loading_data">데이터 불러오는 중</string>
     <string name="loading_injected_setting_summary">불러오는 중…</string>
     <string name="loading_notification_apps">앱 로드 중...</string>
@@ -4604,13 +4604,13 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="master_clear_personal_data">개인정보를 모두 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_personal_data_application">개인정보와 다운로드한 앱을 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
     <string name="master_clear_personal_data_sdcard">개인정보와 콘텐츠를 지울까요? 이 동작은 되돌릴 수 없습니다!</string>
-    <string name="master_clear_progress_text">잠시 기다려 주세요...</string>
+    <string name="master_clear_progress_text">잠시만 기다리세요...</string>
     <string name="master_clear_progress_title">지우는 중</string>
     <string name="master_clear_short_title">모든 데이터 삭제(공장 초기화)</string>
     <string name="master_clear_summary">휴대전화의 모든 데이터 삭제</string>
     <string name="master_clear_title">공장 초기화</string>
     <string name="master_clear_title_new">초기화</string>
-    <string name="max_aspect_settings_all_app_display_loading">잠시만 기다려주세요…</string>
+    <string name="max_aspect_settings_all_app_display_loading">잠시만 기다리세요…</string>
     <string name="max_cpu10_info">"데카 코어, 최대 "</string>
     <string name="max_cpu2_info">"듀얼 코어, 최대 "</string>
     <string name="max_cpu4_info">"쿼드 코어, 최대 "</string>
@@ -5123,7 +5123,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="navigation_guide_appswitch_anim_summary">가장자리에서부터 화면을 스와이프하여 이전 앱으로 돌아가세요.</string>
     <string name="navigation_guide_appswitch_anim_title">이전 앱으로 돌아가기</string>
     <string name="navigation_guide_appswitch_click">\"이전 앱으로 돌아가기\"를 먼저 켜세요.</string>
-    <string name="navigation_guide_appswitch_summary">화면 가장자리에서 왼쪽 또는 오른쪽으로 스와이프하시고 잠시 기다리세요.</string>
+    <string name="navigation_guide_appswitch_summary">화면 가장자리에서 왼쪽 또는 오른쪽으로 스와이프하시고 잠시만 기다리세요.</string>
     <string name="navigation_guide_appswitch_title">이전 앱으로 전환</string>
     <string name="navigation_guide_back_anim_summary">화면을 스와이프하는 동안 애니메이션 표시</string>
     <string name="navigation_guide_back_anim_title">뒤로가기 제스처 애니메이션</string>
@@ -5949,7 +5949,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="power_service">서비스</string>
     <string name="power_settings_title">시스템 성능</string>
     <string name="power_suggestion_battery_run_out">배터리가 %1$s소진 될 수 있습니다.</string>
-    <string name="power_suggestion_extend_battery">%1$s 이후 배터리 수명 연장</string>
+    <string name="power_suggestion_extend_battery">%1$s 이후 배터리 사용 시간 연장</string>
     <string name="power_system">시스템</string>
     <string name="power_unaccounted">기타</string>
     <string name="power_usage_enhanced_debug">%1$s 남음 (신규 추정)</string>
@@ -6178,7 +6178,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="privacy_settings">백업 및 초기화</string>
     <string name="privacy_settings_new">백업 및 복원</string>
     <string name="privacy_settings_title">백업 및 초기화</string>
-    <string name="privacy_thumbnail_blur_progress_message">잠시만 기다려주세요…</string>
+    <string name="privacy_thumbnail_blur_progress_message">잠시만 기다리세요…</string>
     <string name="privacy_thumbnail_blur_title">앱 미리보기 흐림 효과</string>
     <string name="private_dns_broken">개인 DNS 서버에 액세스할 수 없음</string>
     <string name="private_dns_help_message">&lt;annotation id=\"url\"&gt;자세히 알아보기&lt;/annotation&gt; 개인 DNS 기능</string>
@@ -6635,7 +6635,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_locking_sounds_title">화면 잠금 소리</string>
     <string name="screen_max_aspect_ratio_desc">전체 화면 모드로 사용할 앱을 설정합니다.</string>
     <string name="screen_max_aspect_ratio_title">전체 화면 모드</string>
-    <string name="screen_monochrome_mode_apps_loading">잠시만 기다려주세요…</string>
+    <string name="screen_monochrome_mode_apps_loading">잠시만 기다리세요…</string>
     <string name="screen_monochrome_mode_apps_title">흑백 모드 사용</string>
     <string name="screen_monochrome_mode_global_summary">모든 앱에 흑백 모드 사용</string>
     <string name="screen_monochrome_mode_global_title">전체 앱</string>
@@ -6652,7 +6652,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_optimize">색상</string>
     <string name="screen_optimize_disabled">읽기 모드 사용시에는 대비를 조절할 수 없습니다.</string>
     <string name="screen_paper_mode_adjust_level">조정</string>
-    <string name="screen_paper_mode_apps_loading">잠시 기다려 주세요…</string>
+    <string name="screen_paper_mode_apps_loading">잠시만 기다리세요…</string>
     <string name="screen_paper_mode_apps_title">독서 모드 사용</string>
     <string name="screen_paper_mode_description">읽기 모드는 화면의 항목 색상과 질감을 조정하여 눈을 편안하게합니다.</string>
     <string name="screen_paper_mode_global_summary">모든 앱에 독서 모드 사용</string>
@@ -6710,7 +6710,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_resolution_dialog_title">화면 해상도 변경</string>
     <string name="screen_resolution_high_format">높음 (%1$s)</string>
     <string name="screen_resolution_normal_format">보통 (%1$s)</string>
-    <string name="screen_resolution_summary">화면의 해상도를 낮추면 배터리 수명과 시스템 성능이 향상될 수 있지만 화면상의 이미지 선명도가 떨어질 수 있습니다. 변경사항을 적용하려면 기기를 다시 시작해야 합니다.</string>
+    <string name="screen_resolution_summary">화면의 해상도를 낮추면 배터리 사용 시간과 시스템 성능이 향상될 수 있지만 화면상의 이미지 선명도가 떨어질 수 있습니다. 변경사항을 적용하려면 기기를 다시 시작해야 합니다.</string>
     <string name="screen_resolution_switch">해상도 조절</string>
     <string name="screen_resolution_title">화면 해상도</string>
     <string name="screen_resolution_ultrahigh_format">매우 높음 (%1$s)</string>
@@ -7600,7 +7600,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="status_bar_screen_key_recent_apps">최근 앱 버튼</string>
     <string name="status_bar_settings">알림 &amp; 상태 표시줄</string>
     <string name="status_bar_settings_advanced">추가 설정</string>
-    <string name="status_bar_settings_all_app_display_loading">잠시 기다려 주세요…</string>
+    <string name="status_bar_settings_all_app_display_loading">잠시만 기다리세요…</string>
     <string name="status_bar_settings_app_notification_preferences">앱 설정</string>
     <string name="status_bar_settings_basic_settings">기본 설정</string>
     <string name="status_bar_settings_custom_carrier">통신사 이름 수정</string>
@@ -7944,7 +7944,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="support_escalation_summary">저희가 모든 문제를 해결할 수 있습니다.</string>
     <string name="support_escalation_title">무엇을 도와드릴까요?</string>
     <string name="support_escalation_unavailable_summary">도움말을 검색하거나 &amp; 팁 검색</string>
-    <string name="support_estimated_wait_time">최대 %1$s정도 소요될 예정입니다. 잠시만 기다려 주세요.</string>
+    <string name="support_estimated_wait_time">최대 %1$s정도 소요될 예정입니다. 잠시만 기다리세요.</string>
     <string name="support_gesture_title">3D 패턴</string>
     <string name="support_help_feedback_title">도움말 &amp; 의견 전송</string>
     <string name="support_hour_format">%1$s - %2$s, %3$s - %4$s</string>
@@ -8213,7 +8213,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="trans_calculating_tip">%s 계산중…</string>
     <string name="trans_cancel_confirm">전송이 진행 중입니다. 중단하시겠습니까?</string>
     <string name="trans_cancel_dialog_survey_title">왜 전송을 중단했나요?</string>
-    <string name="trans_cancel_selection_message">Mi Mover를 종료하면 진행 중인 전송이 중단됩니다. 전송이 완료될 때까지 기다려주세요.</string>
+    <string name="trans_cancel_selection_message">Mi Mover를 종료하면 진행 중인 전송이 중단됩니다. 전송이 완료될 때까지 기다리세요.</string>
     <string name="trans_cancel_selection_title">Mi Mover 대기</string>
     <string name="trans_cancelling">취소 중…</string>
     <string name="trans_complete_restoring">전송 완료. 앱 데이터 복원 중...</string>
@@ -8323,11 +8323,11 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="trans_operate_new_phone_tips">설정 &gt; 추가설정 &gt; Mi Mover 이동 후 [받는 사람]을 탭하고 QR 코드를 생성하세요.</string>
     <string name="trans_operate_old_phone_tips1">1. 기존 기기에 Mi Mover 앱을 설치하세요 2. 앱을 열고 시작을 탭하세요 3. 이전 기기로 QR 코드를 스캔하세요.</string>
     <string name="trans_operate_old_phone_tips2">설정 &gt; 추가설정 &gt; Mi Mover 이동 후, [보내는 사람]을 탭하세요.</string>
-    <string name="trans_operate_reconnect_new_tips">\"새로운 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다려주세요. 그리고 \"다시 연결\"을 눌러서 QR 코드를 생성하세요.</string>
-    <string name="trans_operate_reconnect_old_tips">이전 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다려주세요. 그리고 \"다시 연결\"을 누르고 QR 코드를 스캔하세요.</string>
+    <string name="trans_operate_reconnect_new_tips">\"새로운 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다리세요. 그리고 \"다시 연결\"을 눌러서 QR 코드를 생성하세요.</string>
+    <string name="trans_operate_reconnect_old_tips">이전 기기에서 \"연결이 끊어졌습니다\"라고 뜰때까지 기다리세요. 그리고 \"다시 연결\"을 누르고 QR 코드를 스캔하세요.</string>
     <string name="trans_operate_tip_for_other_android">이전 휴대전화에서 Mi Mover를 켜고, \"시작\"을 탭하고 QR 코드를 스캔하세요.</string>
     <string name="trans_pausing">멈추는중…</string>
-    <string name="trans_please_waiting">잠시만 기다려주세요…</string>
+    <string name="trans_please_waiting">잠시만 기다리세요…</string>
     <string name="trans_progress_subdescript_br_receiver">%1$s 개 항목 복원 중, %2$s개 항목 완료됨</string>
     <string name="trans_progress_subdescript_br_sender">%1$s개 항목    백업 중, %2$s개 항목 완료됨</string>
     <string name="trans_progress_subdescript_br_sender_finish">%s 개 항목 백업됨, 전송을 기다리는 중…</string>
@@ -9121,7 +9121,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wait_for_debugger">디버거 연결을 위해 대기</string>
     <string name="wait_for_debugger_summary">디버깅된 애플리케이션이 실행되기 전에 디버거 연결을 위해 대기</string>
     <string name="wait_link">이전 기기로 이 핫스팟에 연결하세요. 연결이 완료될 때까지 이 페이지를 벗어나지 마세요.</string>
-    <string name="waiting">잠시만 기다려주세요…</string>
+    <string name="waiting">잠시만 기다리세요…</string>
     <string name="wake_suppression_summary">기기가 실수로 터치하면 반응이 좋아지지만 가장자리 주변의 대부분의 제스처 컨트롤에도 반응합니다.</string>
     <string name="wake_suppression_title">작은 범위</string>
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
@@ -9839,7 +9839,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wifi_wps_nfc_enter_password">네트워크 비밀번호 입력</string>
     <string name="wifi_wps_onstart_pbc">공유기의 Wi-Fi 보호 설정 버튼을 누르세요. 이는 \"WPS\"라 불리거나 다음 기호를 포함할 수 있습니다.</string>
     <string name="wifi_wps_onstart_pin">Wi-Fi 공유기에 %1$s PIN을 입력하세요. 설정을 완료하는 데에 최대 2분 정도 걸립니다.</string>
-    <string name="wifi_wps_overlap_error">다른 Wi-Fi를 발견했습니다. 잠시 기다리거나 다시 시도하세요.</string>
+    <string name="wifi_wps_overlap_error">다른 Wi-Fi를 발견했습니다. 잠시만 기다리거나 다시 시도하세요.</string>
     <string name="wifi_wps_setup_msg">WPS을 시작하는 중…</string>
     <string name="wifi_wps_setup_title">Wi-Fi 보호 설정</string>
     <string name="wifiap_configure_ap_text">Wi-Fi AP 사용</string>

@@ -219,11 +219,11 @@
     <string name="xiaomi_router">Mi 공유기</string>
     <string name="router_backup_hint">기기 전원 켜진 상태 유지</string>
     <string name="see_backup_files_on_router">Mi 공유기 %s에서 백업 보기</string>
-    <string name="page_loading">잠시 기다려 주세요…</string>
+    <string name="page_loading">잠시만 기다리세요…</string>
     <string name="file_uploading">업로드 중…</string>
     <string name="new_backup">백업</string>
     <string name="restore_backup">복원</string>
-    <string name="state_waiting">잠시 기다려 주세요…</string>
+    <string name="state_waiting">잠시만 기다리세요…</string>
     <string name="state_mounting">공유기 저장소에 접근하는 중…</string>
     <string name="abort_backup_confirm">백업이 완료되지 않았습니다. 무시하고 끝내시겠습니까?</string>
     <string name="abort_restore_confirm">복구하는 작업이 완료되지 않았습니다. 그래도 중지하시겠습니까?</string>
@@ -316,7 +316,7 @@
     <string name="trans_intro_desc_account">보안상의 이유로 Mi 계정, Exchange, Google 등의 계정에 먼저 로그인을 해야 합니다.</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover는 파일의 중복 생성을 방지하기 위해 듀얼 앱 정보를 이동하지 않습니다."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover가 보조 공간에 액세스할수 없습니다. 일부 정보들을 삭제한 후에 시도하세요."</string>
-    <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR 코드가 곧 생성될 예정입니다. 잠시만 기다려 주세요.."</string>
+    <string name="trans_intro_desc_new">"Tap \"I'm a recipient\".QR 코드가 곧 생성될 예정입니다. 잠시만 기다리세요.."</string>
     <string name="trans_intro_desc_old">"Tap \"I'm a sender\". 새로운 휴대전화에서 QR 코드를 스캔하시고, \"전송\" 버튼을 눌러주세요."</string>
     <string name="trans_intro_desc_private">"사진이 암호화되어 접근할 수 없습니다. 이러한 사진은 Xiaomi 클라우드에서 확인할 수 있습니다."</string>
     <string name="trans_intro_question_1">%d. iPhone에서 데이터 전송은 어떻게 하나요?</string>
@@ -361,7 +361,7 @@
     <string name="trans_native_no_space">"이 기기의 저장공간이 부족합니다.
 최소 %s만큼의 용량을 삭제하세요."</string>
     <string name="trans_calculating_app_sd_size">크기 계산 중: %s</string>
-    <string name="trans_please_waiting">잠시만 기다려주세요…</string>
+    <string name="trans_please_waiting">잠시만 기다리세요…</string>
     <string name="size_byte">B</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_giga_byte">GB</string>
@@ -598,7 +598,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="err_acquire_system_service">"시스템 서비스 시작 실패"</string> 
     <string name="trans_button_exit">종료</string>
     <string name="trans_button_stay">대기</string>
-    <string name="trans_cancel_selection_message">Mi Mover를 종료하면 진행 중인 전송이 중단됩니다. 전송이 완료될 때까지 기다려주세요.</string>
+    <string name="trans_cancel_selection_message">Mi Mover를 종료하면 진행 중인 전송이 중단됩니다. 전송이 완료될 때까지 기다리세요.</string>
     <string name="trans_cancel_selection_title">Mi Mover 대기</string>
     <string name="trans_select_notification_message">탭하여 보기</string>
     <string name="trans_select_notification_title">Mi Mover가 동작중입니다.</string>
@@ -627,7 +627,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="trans_intro_question_10">"%d. 이전 기기에서 핫스팟을 찾을 수 없나요?"</string>
     <string name="trans_intro_title_gms">Google 앱에서 생성된 데이터:</string>
     <string name="wait_link">"이전 기기에서 Mi Mover를 열고 ￦"보내는 사람￦"을 누르고 연결하려는 핫스팟을 선택하세요. 연결이 설정되기 전에 페이지를 닫지 마세요."</string>
-    <string name="waiting">잠시만 기다려주세요…</string>
+    <string name="waiting">잠시만 기다리세요…</string>
     <string name="err_no_gms">호환되지 않는 앱 버전입니다.</string>
     <string name="trans_detail_item_app_data_skip_data">"앱 데이터를 전송할 수 없습니다."</string>
     <string name="phone_title">전화 설정</string>
@@ -670,7 +670,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="local_main_date_format">yyyy/MM/dd HH:mm</string>
     <string name="local_main_encrypt_backup_summary">Mi 계정을 사용하여 백업한 항목을 암호화합니다.</string>
     <string name="local_main_encrypt_backup_title">백업 암호화</string>
-    <string name="local_main_latest_backup_time_loading">잠깐만 기다려주세요…</string>
+    <string name="local_main_latest_backup_time_loading">잠시만 기다리세요…</string>
     <string name="local_no_backup_data">아직 백업이 없습니다.</string>
     <string name="local_restore_select_activity">백업 관리</string>
     <string name="local_restore_select_data_activity">백업에서 복원</string>

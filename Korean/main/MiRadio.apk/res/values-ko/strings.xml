@@ -218,8 +218,8 @@ ID:%s
     <string name="inconsistent_pwd">"비밀번호가 같지 않습니다."</string>
     <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 됩니다.</string>
     <string name="input_new_pwd">새로운 비밀번호를 입력하세요.</string>
-    <string name="just_a_second">잠시만 기다려 주세요…</string>
-    <string name="loading">잠시만 기다려 주세요…</string>
+    <string name="just_a_second">잠시만 기다리세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="logout_account">로그아웃</string>
     <string name="look_more">더보기</string>
     <string name="miui_fm">FM 라디오</string>
@@ -336,7 +336,7 @@ ID:%s
     <string name="update_phone_notice">보안 설정 변경</string>
     <string name="upload_error_log">업로드 로그</string>
     <string name="user_avatar_update_title">프로필 사진 변경</string>
-    <string name="user_avatar_uploading">잠시 기다려 주세요…</string>
+    <string name="user_avatar_uploading">잠시만 기다리세요…</string>
     <string name="user_id_hint">이메일/전화/Mi 계정 ID</string>
     <string name="v_code_title">인증번호 입력</string>
 </resources>

@@ -314,7 +314,7 @@
     <string name="download_completed">다운로드됨</string>
     <string name="download_default_path_txt">이 선택 기억</string>
     <string name="download_dialog_default_path_invalid">선택한 다운로드 위치가 잘못되었습니다. 기본 위치에 저장 중…</string>
-    <string name="download_dialog_file_length_default_txt">잠시만 기다려 주세요…</string>
+    <string name="download_dialog_file_length_default_txt">잠시만 기다리세요…</string>
     <string name="download_dialog_file_length_lessthan1kb">1K보다 작음</string>
     <string name="download_dialog_file_length_nolength_error_txt">다운로드하지 못했습니다.</string>
     <string name="download_failed">다운로드를 완료하지 못했습니다.</string>
@@ -1108,7 +1108,7 @@
     <string name="readmode_login">로그인</string>
     <string name="readmode_login_message">더 읽으려면 로그인이 필요합니다.</string>
     <string name="readmode_page_load_error">페이지를 불러올 수 없습니다.</string>
-    <string name="readmode_page_loading">잠시 기다려주세요…</string>
+    <string name="readmode_page_loading">잠시만 기다리세요…</string>
     <string name="readmode_pay">챕터 구매</string>
     <string name="readmode_pay_message">다음 챕터를 읽으려면 결제가 필요합니다.</string>
     <string name="readmode_reach_last_page">마지막 페이지입니다.</string>
@@ -1484,7 +1484,7 @@
     <string name="load_more_footer_status_msg_error_no_network">"네트워크에 연결할 수 없습니다."</string>
     <string name="load_more_footer_status_msg_full">"지금 끝났습니다."</string>
     <string name="load_more_footer_status_msg_idle">더 많이 불러오려면 누르세요.</string>
-    <string name="load_more_footer_status_msg_loading">잠시만 기다려주세요…</string>
+    <string name="load_more_footer_status_msg_loading">잠시만 기다리세요…</string>
     <string name="nav_launch_title">다음 앱을 사용해보세요.</string>
     <string name="nav_lunch_duokan">두오칸 열기…</string>
     <string name="quicklink_add_last7day">지난 7일</string>
@@ -1525,7 +1525,7 @@
     <string name="vo_info_flow_load_more_error">네트워크 오류가 발생했습니다. 네트워크 설정을 확인하고 다시 시도하세요. ~</string>
     <string name="vo_info_flow_load_more_full">"지금 끝났습니다. 다른 채널을 확인하세요."</string>
     <string name="vo_info_flow_load_more_idle">더 불러오기</string>
-    <string name="vo_info_flow_load_more_loading">잠깐만…</string>
+    <string name="vo_info_flow_load_more_loading">잠시만…</string>
     <string name="vo_info_flow_load_more_title">더 많은 항목을 수동으로 불러오세요.</string>
     <string name="vo_info_flow_refresh_empty">현재 업데이트가 없습니다. 다른 채널을 확인하세요!</string>
     <string name="vo_info_flow_refresh_error">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>

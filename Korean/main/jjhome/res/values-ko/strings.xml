@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Jeejen 메시지</string>
     <string name="jeejen_text_cancel">취소</string>
-    <string name="jeejen_text_loading">잠시 기다려 주세요…</string>
+    <string name="jeejen_text_loading">잠시만 기다리세요…</string>
     <string name="img_des">메시지</string>
     <string name="title_def">Jeejen 알림</string>
     <string name="btn_know_txt">알겠습니다.</string>
@@ -159,7 +159,7 @@
     <string name="camera_rotate">회전</string>
     <string name="camera_focus">초점</string>
     <string name="camera_sdcard_disabled">잘못된 SD 카드</string>
-    <string name="camera_please_wait">잠시 기다려 주세요…</string>
+    <string name="camera_please_wait">잠시만 기다리세요…</string>
     <string name="camera_reading_image">이미지 읽는 중…</string>
     <string name="camera_rc_rotate">회전</string>
     <string name="camera_processing">작업 중…</string>
@@ -258,7 +258,7 @@
     <string name="contact_empty_title">추가</string>
     <string name="feedback">의견</string>
     <string name="edit_home">홈 화면 편집</string>
-    <string name="loading_home">잠시 기다려 주세요…</string>
+    <string name="loading_home">잠시만 기다리세요…</string>
     <string name="failed_to_drop">이동할 수 없음</string>
     <string name="delete_zone_title">제거</string>
     <string name="cant_delete_system_app">시스템 앱을 제거할 수 없습니다.</string>

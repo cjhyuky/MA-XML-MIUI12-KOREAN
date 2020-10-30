@@ -164,7 +164,7 @@
     <string name="find_psw">비밀번호 분실</string>
     <string name="finish">완료</string>
     <string name="for_you">사용자를 위해</string>
-    <string name="fw_loading">잠깐만 기다려주세요...</string>
+    <string name="fw_loading">잠시만 기다리세요...</string>
     <string name="fw_reload_sub_title">다시 시도할 화면 누르기</string>
     <string name="fw_reload_title">네트워크에 연결할 수 없습니다.</string>
     <string name="get_ph_ticket">코드 가져오기</string>
@@ -365,9 +365,9 @@
     <string name="ovp_home_no_data_callback">정보를 불러올 수 없습니다. 새로고침하려면 아래로 당깁니다.</string>
     <string name="ovp_home_online">온라인</string>
     <string name="ovp_home_online_content_title">온라인</string>
-    <string name="ovp_info_video_loading">잠시만 기다려주세요...</string>
+    <string name="ovp_info_video_loading">잠시만 기다리세요...</string>
     <string name="ovp_load_playinfo_failure">정보를 가져올 수 없습니다.</string>
-    <string name="ovp_loading_video_netplay_label_v5">잠시만 기다려주세요...</string>
+    <string name="ovp_loading_video_netplay_label_v5">잠시만 기다리세요...</string>
     <string name="ovp_local_videos_title">지역 동영상</string>
     <string name="ovp_navigation_category">카테고리</string>
     <string name="ovp_navigation_favorites">즐겨찾기</string>
@@ -396,7 +396,7 @@
     <string name="ovp_video_loading">%1$s 재생하는 중...</string>
     <string name="ovp_video_plugin_installation">%1$s 설치 중...</string>
     <string name="ovp_video_plugin_installation_failure">%1$s 플러그인을 설치할 수 없습니다.</string>
-    <string name="ovp_video_plugin_installation_two">잠시만 기다려주세요...</string>
+    <string name="ovp_video_plugin_installation_two">잠시만 기다리세요...</string>
     <string name="page_title_language">동영상 언어 환경 설정</string>
     <string name="passport_activate_token_expired">검증이 만료되었습니다. 다시 시도하세요.</string>
     <string name="passport_bad_authentication">사용자 이름 또는 비밀번호가 잘못되었습니다.</string>
@@ -442,10 +442,10 @@
     <string name="psw_hint">비밀번호</string>
     <string name="psw_sign_in">비밀번호를 사용하여 로그인하세요.</string>
     <string name="pull_to_refresh_from_bottom_pull_label">당겨서 새로고침하기</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">잠시 기다려주세요…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">잠시만 기다리세요…</string>
     <string name="pull_to_refresh_from_bottom_release_label">당겨서 새로고침하기</string>
     <string name="pull_to_refresh_pull_label">내려서 새로고침하기</string>
-    <string name="pull_to_refresh_refreshing_label">잠시 기다려주세요…</string>
+    <string name="pull_to_refresh_refreshing_label">잠시만 기다리세요…</string>
     <string name="pull_to_refresh_release_label">내려서 새로고침하기</string>
     <string name="push_message_switch">푸시 알림</string>
     <string name="push_message_tips">푸시 알림을 수신하도록 설정</string>
@@ -541,7 +541,7 @@
     <string name="ticket_hint">인증번호</string>
     <string name="ticket_invalid">입력 한 코드가 잘못되었습니다.</string>
     <string name="ticket_sign_in">SMS로 로그인</string>
-    <string name="toast_share_failed">공유할 수 없습니다. 잠깐 기다려 다시 시도하세요.</string>
+    <string name="toast_share_failed">공유할 수 없습니다. 잠시 기다려 다시 시도하세요.</string>
     <string name="txt_cancel_download">다운로드 취소</string>
     <string name="txt_download_complete">다운로드 완료</string>
     <string name="txt_watch_now">지금보기</string>

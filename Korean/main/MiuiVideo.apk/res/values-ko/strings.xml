@@ -211,10 +211,10 @@
     <string name="history_video">이전</string>
     <string name="history_week_video">이번 주</string>
     <string name="if_background_offline_text">파일을 백그라운드에서 계속 다운로드하시겠습니까?</string>
-    <string name="info_video_loading">잠시만 기다려주세요…</string>
+    <string name="info_video_loading">잠시만 기다리세요…</string>
     <string name="layer_gloable_search">검색</string>
     <string name="live">생방송</string>
-    <string name="loading">잠시만 기다려주세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="loading_video_netplay_label">불러오는 중…</string>
     <string name="loading_video_netplay_label_v5">불러오는 중…</string>
     <string name="local_favorite_empty_title">비어있음</string>
@@ -267,10 +267,10 @@
     <string name="products_info_error">"주문 정보를 가져올 수 없습니다. 다시 시도하세요."</string>
     <string name="provid_online_server">온라인 콘텐츠를 시청하려면 켜세요.</string>
     <string name="pull_to_refresh_from_bottom_pull_label">새로고침하려면 위로 당기세요…</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">잠시만 기다려주세요…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">잠시만 기다리세요…</string>
     <string name="pull_to_refresh_from_bottom_release_label">새로고침하려면 놓으세요…</string>
     <string name="pull_to_refresh_pull_label">새로고침하려면 아래로 당기세요…</string>
-    <string name="pull_to_refresh_refreshing_label">잠시만 기다려주세요…</string>
+    <string name="pull_to_refresh_refreshing_label">잠시만 기다리세요…</string>
     <string name="pull_to_refresh_release_label">새로고침하려면 놓으세요…</string>
     <string name="purchase_product">동영상 구매</string>
     <string name="purchase_record">구매 내역</string>
@@ -502,7 +502,7 @@
     <string name="vp_install_title">설치</string>
     <string name="vp_loading"><CDATA>다운로드 중…</CDATA></string>
     <string name="vp_loading_download"><CDATA>다운로드 중…</CDATA></string>
-    <string name="vp_loading_video">잠시만 기다려주세요…</string>
+    <string name="vp_loading_video">잠시만 기다리세요…</string>
     <string name="vp_low_definition">저화질</string>
     <string name="vp_maintitlearea">어디서든 HD 동영상 시청</string>
     <string name="vp_media_info">동영상 정보 표시</string>
@@ -559,7 +559,7 @@
     <string name="vp_video_bad_network_condition">인터넷 연결 상태가 좋지 않습니다. 나중에 다시 시도하세요.</string>
     <string name="vp_video_create_video_error_info">"플러그인을 초기화 할 수 없습니다. 잠시 후 다시 시도하세요."</string>
     <string name="vp_video_invalid_cp_info">콘텐츠 제공 업체 정보가 유효하지 않습니다. 앱을 다시 시작하세요.</string>
-    <string name="vp_video_loading"><CDATA>잠시만 기다려주세요…</CDATA></string>
+    <string name="vp_video_loading"><CDATA>잠시만 기다리세요…</CDATA></string>
     <string name="vp_video_plugin_installation">%1$s 설치 중…</string>
     <string name="common_agree">동의</string>
     <string name="common_cancel">취소</string>

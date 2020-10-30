@@ -353,7 +353,7 @@
     <string name="beauty_reset_toast">뷰티 효과 초기화 완료</string>
     <string name="beauty_tab_name_live_beauty">뷰티 효과</string>
     <string name="beauty_tab_name_live_filter">필터</string>
-    <string name="bg_replacement_message">"기기를 평평한 곳에 놓고 잠시 기다리세요."</string>
+    <string name="bg_replacement_message">"기기를 평평한 곳에 놓고 잠시만 기다리세요."</string>
     <string name="bokeh_use_hint">심도 효과</string>
     <string name="burst_shoot_exit_button_text">연속 촬영 끄기</string>
     <string name="button_fisheye_camera_title">어안렌즈</string>
@@ -1773,7 +1773,7 @@
     <string name="vv_use_hint_text_body">"브이로그 모드를 사용하면
 이동 중에도 동영상을 녹화하고 편집할 수 있습니다."</string>
     <string name="vv_use_hint_text_title">브이로그</string>
-    <string name="wait">잠시 기다려 주세요…</string>
+    <string name="wait">잠시만 기다리세요…</string>
     <string name="watermark_tab_city">도시</string>
     <string name="watermark_tab_festival">휴일</string>
     <string name="watermark_tab_general">일반</string>

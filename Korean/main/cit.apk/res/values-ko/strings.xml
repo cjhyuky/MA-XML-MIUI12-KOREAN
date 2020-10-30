@@ -496,7 +496,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cancel_test">테스트 취소됨</string>
     <string name="capacitance_test">전기 용량 테스트</string>
     <string name="checkerboard_test">체커보드 테스트</string>
-    <string name="cit_abnormal_reboot_summary">이 기기의 데이터를 읽는 중입니다. 잠시만 기다려주세요...</string>
+    <string name="cit_abnormal_reboot_summary">이 기기의 데이터를 읽는 중입니다. 잠시만 기다리세요...</string>
     <string name="cit_abnormal_reboot_title">기기 안정성 데이터</string>
     <string name="cit_accdata_sensor_check_summary">X, Y, Z값이 아래에 표시되어야 합니다.</string>
     <string name="cit_accdata_sensor_check_title">Accelerometer</string>
@@ -621,7 +621,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="run">시작</string>
     <string name="sample_data">샘플 데이터</string>
     <string name="sample_hint">%1$s 샘플 추출</string>
-    <string name="sample_progress_hint">샘플 데이터 추출중...잠시만 기다려주세요.</string>
+    <string name="sample_progress_hint">샘플 데이터 추출중...잠시만 기다리세요.</string>
     <string name="select_automatic">자동 모드 선택</string>
     <string name="select_manual">수동 모드 선택</string>
     <string name="selftest">자동진</string>
@@ -641,7 +641,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="success_to_test">테스트 성공</string>
     <string name="template_data">템플렛 데이터</string>
     <string name="template_hint">%1$s 템플렛 추출</string>
-    <string name="template_progress_hint">템플렛 데이터 추출중...잠시만 기다려주세요.</string>
+    <string name="template_progress_hint">템플렛 데이터 추출중...잠시만 기다리세요.</string>
     <string name="test_auto">자동 테스트</string>
     <string name="test_cases">사례들 테스트</string>
     <string name="test_failed">실패</string>
@@ -658,7 +658,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="title_extract_data">데이터 추출</string>
     <string name="title_farr">FAR, FRR 테스트</string>
     <string name="title_open_short_pixel">짧은 오픈 픽셀</string>
-    <string name="touch_auto">터치패널 자동진단중, 잠시만 기다려주세요....</string>
+    <string name="touch_auto">터치패널 자동진단중, 잠시만 기다리세요....</string>
     <string name="tp_color">TP 색상:</string>
     <string name="tp_version">TP 버전:</string>
     <string name="wait_test">테스트 대기 중</string>
@@ -858,7 +858,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_fast_screen_touch_check_title">빠른 터치 스크린 체크 테스트</string>
     <string name="cit_diag_chaging_summary">충전 기록 파일 SD 카드로 복사</string>
     <string name="cit_diag_chaging_title">충전 기록 읽기</string>
-    <string name="cit_diag_chaging_wait">잠시만 기다려주세요... 파일 복사중</string>
+    <string name="cit_diag_chaging_wait">잠시만 기다리세요... 파일 복사중</string>
     <string name="sar_sensor_data_check_description">센서 데이터 수집</string>
     <string name="sar_sensor_data_check_summary">"전화를 돌려 고정 기기에 놓습니다.
 고정 기기를 전화기에서 가깝게 했다 멀리 했다 하며 제어하세요"</string>
@@ -913,11 +913,11 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_tool_select_none">선택 해제</string>
     <string name="cit_tool_select_opposite">반대로 선택</string>
     <string name="cit_tool_setting_expired">설정이 만료됨, 다시 시도하세요!</string>
-    <string name="cit_tool_setting_wait">설정 중! 잠시만 기다려주세요.</string>
+    <string name="cit_tool_setting_wait">설정 중! 잠시만 기다리세요.</string>
     <string name="cit_tool_to_fetching">가져오기</string>
     <string name="cit_tool_active_mbn">활성화</string>
     <string name="cit_tool_getting_expired">만료됨!</string>
-    <string name="cit_tool_getting_wait">받아오는중! 잠시만 기다려주세요.</string>
+    <string name="cit_tool_getting_wait">받아오는중! 잠시만 기다리세요.</string>
     <string name="cit_tool_mbn_default_notfiy">기본 MBN</string>
     <string name="cit_tool_mbn_no_default_notfiy">MBN 기본값 없음</string>
     <string name="cit_tool_mbn_path_select_hit">MBN 전체경로 선택:</string>

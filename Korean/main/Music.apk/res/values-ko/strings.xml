@@ -398,8 +398,8 @@
     <string name="like">좋아함</string>
     <string name="list_item_play_all_tracks">모두 재생</string>
     <string name="load_shuffle">불러오는 중…</string>
-    <string name="loadercontainer_loading">잠시만 기다려주세요…</string>
-    <string name="loading_hint">잠시 기다려 주세요.…</string>
+    <string name="loadercontainer_loading">잠시만 기다리세요…</string>
+    <string name="loading_hint">잠시만 기다리세요.…</string>
     <string name="local_header_title">저장된 음악</string>
     <string name="local_music">오프라인</string>
     <string name="local_music_is_not_available">로컬 음악을 사용할 수 없습니다.</string>
@@ -582,8 +582,8 @@
     <string name="renew_dialog_title">ProBe Happy로 이동</string>
     <string name="repeat_all_notif">전체 음악 반복</string>
     <string name="repeat_current_notif">현재 음악 반복</string>
-    <string name="request_share_info">잠시만 기다려주세요…</string>
-    <string name="request_subscription_status">잠시만 기다려주세요…</string>
+    <string name="request_share_info">잠시만 기다리세요…</string>
+    <string name="request_subscription_status">잠시만 기다리세요…</string>
     <string name="restart_immediate">다시 시작</string>
     <string name="retry">다시 시도</string>
     <string name="retry_after_network_available">네트워크에 연결할 수 없습니다. 연결을 확인한 후 다시 시도하세요.</string>

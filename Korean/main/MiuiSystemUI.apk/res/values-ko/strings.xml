@@ -600,7 +600,7 @@
     <string name="clock_24hr_format">Hm</string>
     <string name="clock_city_name_local">로컬</string>
     <string name="clock_seconds">시계에 초 단위 표시</string>
-    <string name="clock_seconds_desc">상태 표시줄에 있는 시계에 초 단위를 표시합니다. 배터리 수명에 영항을 미칠 수 있습니다.</string>
+    <string name="clock_seconds_desc">상태 표시줄에 있는 시계에 초 단위를 표시합니다. 배터리 사용 시간에 영항을 미칠 수 있습니다.</string>
     <string name="close_torch_description_talkback">손전등 끄기</string>
     <string name="compat_mode_off">화면을 늘려 채우기</string>
     <string name="compat_mode_on">줌하여 화면 채우기</string>
@@ -905,7 +905,7 @@
     <string name="fs_gesture_left_back_ready_summary">화면 왼쪽에서 스와이프하기</string>
     <string name="fs_gesture_right_back_ready_summary">화면 오른쪽에서 스와이프하기</string>
     <string name="fs_gesture_skip">뒤로 가기</string>
-    <string name="fs_gesture_switch_recents_summary">아래에서 스와이프하고 잠시 기다리기</string>
+    <string name="fs_gesture_switch_recents_summary">아래에서 스와이프하고 잠시만 기다리기</string>
     <string name="fsg_demo_back">뒤로 가기</string>
     <string name="fsg_demo_go_on">계속</string>
     <string name="go_to_web">웹으로 이동</string>
@@ -1089,8 +1089,8 @@
     <string name="keyguard_charging_info_last_charge_today_time">오늘 %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">어제 %s</string>
     <string name="keyguard_charging_info_last_charged_time_text">마지막 충전</string>
-    <string name="keyguard_charging_info_tip_text1">배터리 수명을 위해 항상 10% 이상의 배터리를 유지하세요.</string>
-    <string name="keyguard_charging_info_tip_text2">기기를 과충전하지 마세요. 여러 번의 짧은 충전이 배터리 수명에 도움이 됩니다.</string>
+    <string name="keyguard_charging_info_tip_text1">배터리 사용 시간을 위해 항상 10% 이상의 배터리를 유지하세요.</string>
+    <string name="keyguard_charging_info_tip_text2">기기를 과충전하지 마세요. 여러 번의 짧은 충전이 배터리 사용 시간에 도움이 됩니다.</string>
     <string name="keyguard_charging_info_tip_text3">주변 환경의 온도가 0℃ 미만일 때 충전이 중지됩니다.</string>
     <string name="keyguard_charging_info_tip_text4">충전 중 사용을 삼가세요. 기기가 과열될 수 있습니다.</string>
     <string name="keyguard_charging_info_tip_text5">배터리가 과열되면 충전 속도가 평소보다 느려집니다.</string>
@@ -1502,7 +1502,7 @@ EEEE"</string>
     <string name="phone_locked_foget_password_method_next">다음</string>
     <string name="phone_locked_foget_password_ok">알겠습니다.</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;기기를 끄신 후 &lt;font color=#a5220e&gt;전원 버튼&lt;/font&gt;과 &lt;font color=#a5220e&gt;볼륨 업 버튼&lt;/font&gt;을 Mi 로고가 표시될 때까지 길게 누르세요.;&lt;/Data&gt;</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;&lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt;을 선택한 후 기기가 다시 시작될 때까지 기다려주세요.;&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;&lt;font color=#a5220e&gt;\"Wipe &amp;amp; Reset\"&lt;/font&gt;을 선택한 후 기기가 다시 시작될 때까지 기다리세요.;&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
     <string name="phone_locked_string">휴대전화가 잠겨 있습니다.</string>
     <string name="picture_color_mode">사진 모드</string>
@@ -1576,7 +1576,7 @@ EEEE"</string>
     <string name="power_save_ps_close_setting">배터리 절약을 위해 백그라운드 서비스 끄기 (동기화, GPS)</string>
     <string name="power_save_ps_freeze">백그라운드에 앱 고정</string>
     <string name="power_save_ps_limit">시스템 앱 활동 제한</string>
-    <string name="power_suggestion_extend_battery">%1$s 이후 배터리 수명 연장</string>
+    <string name="power_suggestion_extend_battery">%1$s 이후 배터리 사용 시간 연장</string>
     <string name="power_suggestion_battery_run_out">배터리가 %1$s까지 떨어질 수 있습니다.</string>
     <string name="pref_show_lunar_calendar_title">잠금 화면에 중국어 번체 달력 표시</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사됨</string>

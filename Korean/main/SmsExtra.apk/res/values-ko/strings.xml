@@ -19,7 +19,7 @@
     <string name="hybrid_network_access_denied">네트워크 엑세서 거부됨</string>
     <string name="hybrid_network_unavaliable">"네트워크에 연결할 수 없습니다."</string>
     <string name="hybrid_pull_to_refresh_pull_label">당겨서 새로고침하기</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다려주세요…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다리세요…</string>
     <string name="hybrid_pull_to_refresh_release_label">놓아 새로고침하기</string>
     <string name="hybrid_service_unavailiable">서비스 사용 불가능</string>
     <string name="hybrid_try_again">다시 시도하세요.</string>

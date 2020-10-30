@@ -51,7 +51,7 @@
     <string name="hide_system_app">시스템 앱 숨기기</string>
     <string name="high_temp_state">과열 경고</string>
     <string name="high_temp_state_message">기기가 과열되었습니다. 모바일 데이터, 개인용 핫스팟, GPS 및 카메라가 사용제한됩니다.</string>
-    <string name="hints_loading_text">잠시 기다려 주세요.…</string>
+    <string name="hints_loading_text">잠시만 기다리세요.…</string>
     <string name="important_warning">경고</string>
     <string name="lasttime_applist_cloud">앱 목록 마지막 업데이트：</string>
     <string name="lasttime_feature_cloud">기능 마지막 업데이트：</string>

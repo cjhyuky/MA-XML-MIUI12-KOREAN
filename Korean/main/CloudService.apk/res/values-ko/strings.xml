@@ -147,7 +147,7 @@
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">Xiaomi 클라우드 서비스 약관</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="loading">잠시 기다려 주세요…</string>
+    <string name="loading">잠시만 기다리세요…</string>
     <string name="license_host_unreachable">네트워크에 연결할 수 없습니다. 이 정보를 보려면 %s로 이동하세요.</string>
     <string name="user_agreement">이용 약관</string>
     <string name="activating">활성화 중…</string>
@@ -603,7 +603,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
     <string name="ks_update_fail_no_network">"네트워크에 연결할 수 없습니다. 인터넷에 연결하고 다시 시도하세요."</string>
     <string name="ks_update_fail_request_timeout">시간 초과입니다. 몇 분 후에 다시 시도하세요.</string>
     <string name="ks_update_success">업데이트 완료</string>
-    <string name="ks_update_wait">잠시만 기다려주세요...</string>
+    <string name="ks_update_wait">잠시만 기다리세요...</string>
     <string name="secret_photo">숨김처리된 사진들</string>
     <string name="sync_dspt_entrance_provision_network">이 앱이 정상적으로 작동되기 위해서는 인터넷 연결이 필요합니다.</string>
     <string name="wipe_secret_photo_dialog_title">"숨김처리된 사진들은 동기화되지 않았습니다."</string>
@@ -927,7 +927,7 @@ Xiaomi 클라우드를 사용하기 전에 우리의 "&lt;u&gt;&lt;a href="app:/
     <string name="pre_user_agreement">이용 약관</string>
     <string name="cloud_storage_already_full">클라우드 저장소 부족: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">클라우드 저장소</string>
-    <string name="cloud_storage_loading_data">잠시만 기다려주세요...</string>
+    <string name="cloud_storage_loading_data">잠시만 기다리세요...</string>
     <string name="menu_add_feedback">의견</string>
     <string name="menu_add_short_cut">홈 화면 바로가기 생성</string>
     <string name="tip_short_cut_added_success">생성을 완료했습니다.</string>

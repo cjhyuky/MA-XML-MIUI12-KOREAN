@@ -248,7 +248,7 @@
     <string name="michat_type_list_null">정보 가져오기 실패, 나중에 다시 시도</string>
     <string name="michat_type_picture">이미지</string>
     <string name="michat_user_quit">채팅을 종료했습니다.</string>
-    <string name="michat_wait_for_a_moment">잠시만 기다려주세요.</string>
+    <string name="michat_wait_for_a_moment">잠시만 기다리세요.</string>
     <string name="michat_webview_title">세부사항 보기</string>
     <string name="min_error">%1$s보다 길어야 합니다.</string>
     <string name="mobile_data_note_dialog_cancel">Wi-Fi 대기</string>

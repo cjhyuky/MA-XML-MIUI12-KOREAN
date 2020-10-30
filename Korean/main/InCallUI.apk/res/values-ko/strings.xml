@@ -123,7 +123,7 @@
 "</string>
     <string name="pause_prompt_yes">예</string>
     <string name="pause_prompt_no">아니요</string>
-    <string name="waiting_close_airplane_mode">잠시만 기다려주세요…</string>
+    <string name="waiting_close_airplane_mode">잠시만 기다리세요…</string>
     <string name="unlock_phone">기기 잠금해제</string>
     <string name="remind_unlock_message">기기가 잠겼습니다. 기기를 잠금해제한 후 \"%s\"를 사용할 수 있습니다. 지금 잠금해제하시겠습니까?</string>
     <string name="user_locked_prompt">기기를 잠금해제하여 연락처 접근</string>
@@ -258,7 +258,7 @@
     <string name="conference_call_recorder_title">회의 전화</string>
     <string name="description_message_list_title">빠른 답장 목록</string>
     <string name="volume_boost_text">볼륨 증폭 완료</string>
-    <string name="supp_service_notification_call_waiting">상대방이 통화 중입니다. 잠시만 기다려 주세요.</string>
+    <string name="supp_service_notification_call_waiting">상대방이 통화 중입니다. 잠시만 기다리세요.</string>
     <string name="call_not_support_high_frequency_click">"이 버튼을 너무 자주 탭하지 마세요"</string>
     <string name="volte_call">VoLTE 통화</string>
     <string name="sim1_heduohao_card">서브1</string>

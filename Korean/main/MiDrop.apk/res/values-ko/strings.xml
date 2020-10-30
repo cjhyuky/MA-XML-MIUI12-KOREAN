@@ -65,7 +65,7 @@
     <string name="sender_in_progress_title">전송을 취소하시겠습니까?</string>
     <string name="sender_in_progress_later">나중에 다시 시도하여 주세요.</string>
     <string name="receiver_in_progress_title">보내는 중…</string>
-    <string name="receiver_in_progress_summary">새 파일을 보내시려면 현재 전송이 끝날때까지 기다려 주세요.</string>
+    <string name="receiver_in_progress_summary">새 파일을 보내시려면 현재 전송이 끝날때까지 기다리세요.</string>
     <string name="sender_in_progress_now">취소</string>
     <string name="sender_interrupt_summary">파일을 보내고 있는 중에 Wi-Fi를 끄지 말아 주세요.</string>
     <string name="sender_scan_error">스캔 할 수 없습니다. 다시 보내주세요.</string>

@@ -234,7 +234,7 @@
     <string name="no_pay_record">구매 기록 없음</string>
     <string name="no_sdcard_no_download">저장공간이 부족합니다.</string>
     <string name="not_buy_vip">vip가 아닙니다.</string>
-    <string name="not_exist_openid">계정 정보 가져오는중, 잠시만 기다려주세요...</string>
+    <string name="not_exist_openid">계정 정보 가져오는중, 잠시만 기다리세요...</string>
     <string name="not_login">로그인 되지 않음</string>
     <string name="notification_sub_title">총 %d개의 다운로드가 완료됨</string>
     <string name="notification_ticker_text">오프라인 동영상 다운로드 완료</string>
@@ -305,7 +305,7 @@
     <string name="receive_mipush">콘텐츠 알림</string>
     <string name="receive_mipush_summary">새로운 콘텐츠가 나오면 알림으로 알려줍니다.</string>
     <string name="recentplay">최근 재생됨</string>
-    <string name="refreshing">잠시만 기다려주세요…</string>
+    <string name="refreshing">잠시만 기다리세요…</string>
     <string name="releasetorefresh">놓아서 새로고침</string>
     <string name="reload_sub_title">다시 시도</string>
     <string name="reload_title">"네트워크 접속 불가"</string>
@@ -404,7 +404,7 @@
     <string name="video_info_video_coding_label">동영상 인코딩 형식:</string>
     <string name="video_plugin">동영상 플러그인</string>
     <string name="video_plugin_downloading">(%1$s) 다운로드 중</string>
-    <string name="video_plugin_prepare">잠시만 기다려주세요…</string>
+    <string name="video_plugin_prepare">잠시만 기다리세요…</string>
     <string name="vip_package">vip 패키지</string>
     <string name="vp_VideoView_error_button">확인</string>
     <string name="vp_VideoView_error_network_not_available">네트워크에 연결할 수 없습니다.</string>
@@ -580,7 +580,7 @@
     <string name="over_load_more">더 불러오기</string>
     <string name="permission_ask_again">권한 허용</string>
     <string name="playlists">재생목록</string>
-    <string name="please_wait">잠시만 기다려주세요…</string>
+    <string name="please_wait">잠시만 기다리세요…</string>
     <string name="push">불러오기</string>
     <string name="push_load_more">더 불러오기</string>
     <string name="refresh">새로고침</string>

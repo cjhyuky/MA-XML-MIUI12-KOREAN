@@ -197,7 +197,7 @@
     <string name="mibi_deduct_order_price">가격</string>
     <string name="mibi_deduct_pay_group_title">공제 방법 선택</string>
     <string name="mibi_deduct_payment_title">자동 공제</string>
-    <string name="mibi_deduct_query_error">"갱신 계약에 서명하지 못했습니다. 잠깐 기다려 다시 시도하세요."</string>
+    <string name="mibi_deduct_query_error">"갱신 계약에 서명하지 못했습니다. 잠시 기다려 다시 시도하세요."</string>
     <string name="mibi_deduct_success">자동 결제 프로토콜 활성화 됨</string>
     <string name="mibi_deduct_success_sub">공제 방법 :%1$s</string>
     <string name="mibi_deduct_type">지불 방법</string>
@@ -437,7 +437,7 @@
     <string name="mibi_web_login">로그인</string>
     <string name="mibi_web_login_app_description">%1$s 로그인</string>
     <string name="mibi_web_login_description">로그인</string>
-    <string name="mibi_web_login_waiting">잠시만 기다려주세요…</string>
+    <string name="mibi_web_login_waiting">잠시만 기다리세요…</string>
     <string name="mibi_web_sso_login_fail">다시 로그인하세요.</string>
     <string name="mibi_button_call_frozen_service">24시간 온라인 지원</string>
     <string name="mibi_error_frozen_service_time">월요일부터 일요일까지</string>
@@ -507,7 +507,7 @@
     <string name="passport_set_password_no_phone_msg">전화번호를 추가하여 사용자의 계정을 보호하세요.</string>
     <string name="passport_sms_send_success">전송 완료</string>
     <string name="passport_sync_account_data">계정 정보 동기화 중…</string>
-    <string name="passport_sync_account_data_failed_warning">귀하의 계정 정보가 이제 동기화되었습니다. 이제 Mi 계정 ID로 로그인할 수 있습니다. 휴대전화 번호나 이메일로 로그인하고 싶으시면 완전히 동기화될 때까지 기다려주세요.</string>
+    <string name="passport_sync_account_data_failed_warning">귀하의 계정 정보가 이제 동기화되었습니다. 이제 Mi 계정 ID로 로그인할 수 있습니다. 휴대전화 번호나 이메일로 로그인하고 싶으시면 완전히 동기화될 때까지 기다리세요.</string>
     <string name="passport_user_id_notice">귀하의 Mi 계정 ID는 %s 입니다.</string>
     <string name="passport_user_reg_region">국가/지역</string>
     <string name="passport_user_reg_region_warning">"계정 생성시 설정한 국가/지역은 변경할 수 없습니다."</string>

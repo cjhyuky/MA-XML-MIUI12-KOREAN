@@ -78,7 +78,7 @@
     <string name="rcs_chatbot_normal_message">메시지를 받았습니다. 세부 정보를 보려면 탭하세요.</string>
     <string name="rcs_chatbot_notification">미니 앱 : %s</string>
     <string name="rcs_chatbot_progress_failed">"정보를로드 할 수 없습니다. 다시 시도하려면 누르세요."</string>
-    <string name="rcs_chatbot_progress_loading">잠깐만 기다려주세요…</string>
+    <string name="rcs_chatbot_progress_loading">잠시만 기다리세요…</string>
     <string name="rcs_chatbot_recommend_tab_empty">여기에 권장되는 앱이 없습니다.</string>
     <string name="rcs_chatbot_send_message">%s님과 기기의 데이터를 공유하시겠습니까?</string>
     <string name="rcs_chatbot_server_error">"데이터를 가져올 수 없습니다. 이 페이지를 다시여세요."</string>
@@ -115,7 +115,7 @@
     <string name="rcs_chatdetail_special_chabot_tip">"이 미니 앱을 차단할 수 없습니다."</string>
     <string name="rcs_chatlist_scan_error">"이 QR 코드를 읽을 수 없습니다."</string>
     <string name="rcs_conversation_rcs_tip">미니 앱: %s</string>
-    <string name="rcs_list_bottom_loading">잠시만 기다려주세요…</string>
+    <string name="rcs_list_bottom_loading">잠시만 기다리세요…</string>
     <string name="rcs_list_bottom_search">검색 중…</string>
     <string name="rcs_more_bar_title">추가 정보</string>
     <string name="rcs_my_black_chatbot_title">차단 목록</string>
@@ -307,13 +307,13 @@
     <string name="found_old_messages">%1$s - %2$s에서 메시지를 업로드하시겠습니까?</string>
     <string name="found_old_messages_title">다른 SIM 카드에서 메시지를 업로드하시겠습니까?</string>
     <string name="found_wild_messages_guide_cloud_desc">Xiaomi 클라우드와 메시지를 동기화 하기 위해 Mi 계정에 로그인 후, SMS 동기화를 켜세요.</string>
-    <string name="found_wild_messages_guide_settings_desc">Xiaomi 클라우드의 메시지 설정에서 Sms 메시지를 동기화 합니다.</string>
+    <string name="found_wild_messages_guide_settings_desc">Xiaomi 클라우드의 메시지 설정에서 SMS 메시지를 동기화합니다.</string>
     <string name="found_wild_messages_guide_sync_not_started">동기화가 아직 시작되지 않음</string>
-    <string name="found_wild_messages_title">Xiaomi 클라우드에서 메시지 동기화</string>
+    <string name="found_wild_messages_title">Xiaomi 클라우드 메시지 동기화</string>
     <string name="from_label">"보낸 사람: "</string>
     <string name="from_pkg_name">이 앱에서:</string>
     <string name="group_message">그룹 메시지</string>
-    <string name="group_resend_message">재전송(%d개)</string>
+    <string name="group_resend_message">다시 전송(%d개)</string>
     <string name="guild_add_attachments">이모티콘과 다른 항목을 추가하려면 탭하세요.</string>
     <string name="guild_add_recipients">탭하여 연락처에서 연락할 사람 추가</string>
     <string name="guild_msim_switcher">SIM 카드를 전환하려면 탭하세요.</string>
@@ -326,7 +326,7 @@
     <string name="hybrid_network_access_denied">네트워크 접근 거부됨</string>
     <string name="hybrid_network_unavaliable">네트워크에 연결할 수 없습니다.</string>
     <string name="hybrid_pull_to_refresh_pull_label">당겨서 새로고침…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다려주세요…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">잠시만 기다리세요…</string>
     <string name="hybrid_pull_to_refresh_release_label">놓아서 새로고침…</string>
     <string name="hybrid_service_unavailiable">서비스 사용 불가능</string>
     <string name="hybrid_try_again">다시 시도하세요.</string>
@@ -340,9 +340,9 @@
     <string name="invalid_recipient_message">수신자가 올바르지 않으면 메시지를 받지 못합니다.</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"슬라이드 쇼 레이아웃 "</string>
-    <string name="loading_all_messages">잠시만 기다려주세요…</string>
-    <string name="loading_conversations">잠시만 기다려 주세요…</string>
-    <string name="loading_mms">잠시 기다려 주세요…</string>
+    <string name="loading_all_messages">잠시만 기다리세요…</string>
+    <string name="loading_conversations">잠시만 기다리세요…</string>
+    <string name="loading_mms">잠시만 기다리세요…</string>
     <string name="manage_permission_app_label">기기 권한</string>
     <string name="me">나</string>
     <string name="menu_add_black">이 번호 차단</string>
