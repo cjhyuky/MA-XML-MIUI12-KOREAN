@@ -190,7 +190,7 @@
     <string name="payphone">공중전화</string>
     <string name="dialerKeyboardHintText">키보드로 번호 입력</string>
     <string name="dialerDialpadHintText">번호 입력으로 통화 추가</string>
-    <string name="simContacts_emptyLoading">SIM 카드에서 연락처 불러오는 중…</string>
+    <string name="simContacts_emptyLoading">SIM 카드에서 연락처 가져오는 중…</string>
     <string name="simContacts_title">SIM 카드 연락처</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">표시할 연락처가 없습니다(방금 계정을 추가한 경우라면 연락처 동기화에 몇 분 정도 걸릴 수 있습니다.).</string>
     <string name="noContactsHelpTextForCreateShortcut">표시할 연락처가 없습니다.</string>
@@ -1036,7 +1036,7 @@
     <string name="contact_detail_calllog_call_record_tips">녹음된 통화</string>
     <string name="contact_detail_calllog_call_note_tips">메모</string>
     <string name="contact_detail_calllog_empty">기록 없음</string>
-    <string name="import_from_onekey_migrate">Mi Mover를 사용하여 불러오기</string>
+    <string name="import_from_onekey_migrate">Mi Mover를 사용하여 가져오기</string>
     <string name="import_from_other_phone">다른 전화에서 가져오기</string>
     <string name="device_list_title">전화 선택</string>
     <string name="next">다음</string>
@@ -1050,8 +1050,8 @@
     <string name="device_pairing_dialog_message">페어링 중…</string>
     <string name="device_paired_dialog_title">연락처 페치 중…</string>
     <string name="device_paired_dialog_message">연락처 페치 중…</string>
-    <string name="no_contacts_dialog_title">연락처를 찾을 수 없습니다.</string>
-    <string name="no_contacts_dialog_message">연락처가 SIM 카드에 저장된 것 같습니다. SIM 카드에서 기기의 내부 저장소로 불러오기를 다시 실행해 보세요.</string>
+    <string name="no_contacts_dialog_title">연락처를 찾을 수 없음</string>
+    <string name="no_contacts_dialog_message">연락처가 SIM 카드에 저장된 것 같습니다. SIM 카드에서 기기의 내부 저장소로 가져오기를 다시 실행해 보세요.</string>
     <string name="cancel_import_dialog_title">중지</string>
     <string name="cancel_import_dialog_message">연락처 가져오기를 중지하시겠습니까?</string>
     <string name="title_paired_devices">페어링된 기기</string>
@@ -1072,7 +1072,7 @@
     <string name="hint_more_contact">중복 연락처 합치기</string>
     <string name="device_import_account_dialog_title">계정 선택</string>
     <string name="device_import_account_dialog_title_suffix">"
-(%1$s개의 연락처 발견)"</string>
+(연락처 %1$s개 발견)"</string>
     <string name="device_import_local_account">로컬 계정</string>
     <string name="import_name">이름</string>
     <string name="import_percent">0%</string>
@@ -1273,12 +1273,12 @@
     <string name="calllog_call_record_menu">녹음된 전화</string>
     <string name="contact_import_methods_dialog_bluetooth">블루투스</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
-    <string name="contact_import_methods_dialog_title">불러올 방법을 선택하세요.</string>
-    <string name="contacts_unavailable_import_from_old_device">이전 기기에서 불러오기</string>
-    <string name="contacts_unavailable_import_sim_contacts">SIM 연ㄹ</string>
+    <string name="contact_import_methods_dialog_title">가져올 방법 선택</string>
+    <string name="contacts_unavailable_import_from_old_device">이전 기기에서 가져오기</string>
+    <string name="contacts_unavailable_import_sim_contacts">SIM 연락처 가져오기</string>
     <string name="group_member_remove_fail_toast">그룹에서 삭제되지 않음</string>
     <string name="group_member_remove_success_toast">그룹에서 삭제됨</string>
-    <string name="import_sim_contacts_hint_title">SIM 연락처 불러오기</string>
+    <string name="import_sim_contacts_hint_title">SIM 연락처 가져오기</string>
     <string name="btn_delete_one_contact">연락처 삭제</string>
     <string name="close_dial_pad">다이얼 패드 닫기</string>
     <string name="device_import_done_toast">%1$d개의 연락처 가져옴</string>
@@ -1354,7 +1354,7 @@
     <string name="sdnContacts_empty">SDN 없음</string>
     <string name="sdnContacts_emptyLoading">SDN 불러오는 중…</string>
     <string name="special_code_security_exception">거부됨</string>
-    <string name="import_from_other_device">다른 기기에서 불러오기</string>
+    <string name="import_from_other_device">다른 기기에서 가져오기</string>
     <string name="contact_detail_entry_pay_request">금전 요구</string>
     <string name="no_setting_menu">사용 가능한 메뉴 옵션 없음</string>
     <string name="preference_show_firewall_calllog">통화 기록에서 차단된 통화 표시</string>
