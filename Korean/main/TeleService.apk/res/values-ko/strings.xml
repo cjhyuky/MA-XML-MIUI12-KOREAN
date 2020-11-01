@@ -1257,7 +1257,7 @@
     <string name="telocation_call_assistant">전화걸기 보조</string>
     <string name="telocation_contacts_countrycode">기본 국가 코드</string>
     <string name="telocation_contacts_countrycode_hint">국가 코드 입력</string>
-    <string name="telocation_contacts_countrycode_summary">연락처에 대한 기본 국가 코드는 %s</string>
+    <string name="telocation_contacts_countrycode_summary">연락처에 대한 기본 국가 코드는 %s 입니다.</string>
     <string name="telocation_auto_country_code">국가 코드 추가</string>
     <string name="telocation_auto_country_code_summary">연락처 번호로 전화하기 전에 국가 코드 자동으로 추가</string>
     <string name="telocation_countrycode_alert_message_warning">입력한 국가 코드가 잘못되었습니다.</string>

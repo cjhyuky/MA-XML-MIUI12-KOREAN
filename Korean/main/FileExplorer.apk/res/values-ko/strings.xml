@@ -412,7 +412,7 @@
     <string name="phone_storage_doc_title">문서:</string>
     <string name="phone_storage_apk_title">APKs: </string>
     <string name="phone_storage_free_title">사용 가능:</string>
-    <string name="phone_storage_clean">청소</string>
+    <string name="phone_storage_clean">정리</string>
     <string name="no_apk">탭하여 앱 얻기</string>
     <string name="ad_download">다운로드</string>
     <string name="has_installed">설치됨</string>
@@ -912,4 +912,7 @@
     <string name="private_folder_update_msg_summary">복호화는 개인 폴더에서 파일 제거를 느리게 합니다. 설정에서 암호화를 켜고 끌 수 있습니다.</string>
     <string name="private_folder_update_tips">새로운 기능</string>
     <string name="use">사용</string>
+    <string name="function_file_operation">파일 표시 또는 편집을 위해 사용합니다.</string>
+    <string name="function_set_private">파일 목록과 파일 암호화에 사용합니다.</string>
+    <string name="function_use_imei">IMEI 정보에 접근하며, 파일 암호화에 사용합니다.</string
 </resources>
