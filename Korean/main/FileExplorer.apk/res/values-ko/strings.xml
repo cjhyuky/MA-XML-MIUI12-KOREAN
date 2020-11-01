@@ -914,5 +914,5 @@
     <string name="use">사용</string>
     <string name="function_file_operation">파일 표시 또는 편집을 위해 사용합니다.</string>
     <string name="function_set_private">파일 목록과 파일 암호화에 사용합니다.</string>
-    <string name="function_use_imei">IMEI 정보에 접근하며, 파일 암호화에 사용합니다.</string
+    <string name="function_use_imei">IMEI 정보에 접근하며, 파일 암호화에 사용합니다.</string>
 </resources>
