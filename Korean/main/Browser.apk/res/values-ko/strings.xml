@@ -1478,7 +1478,7 @@
     <string name="dialog_nps_comment_cancel_text">고마워요</string>
     <string name="dialog_nps_comment_confirm_text">요금</string>
     <string name="dialog_nps_comment_slogan_text">"앱 평가
-우리의 일을 지원하기 위해 "</string>
+당사의 일을 지원하기 위해 "</string>
     <string name="dialog_scroll_up_to_more_site">더 크게 보려면 위로 스크롤하세요.</string>
     <string name="load_more_footer_status_msg_error_load">"불러올 수 없습니다. 다시 시도하세요."</string>
     <string name="load_more_footer_status_msg_error_no_network">"네트워크에 연결할 수 없습니다."</string>

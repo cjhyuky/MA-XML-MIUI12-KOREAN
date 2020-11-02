@@ -132,7 +132,7 @@
     <string name="common_signin_button_text">로그인</string>
     <string name="common_signin_button_text_long">Google로 로그인하세요.</string>
     <string name="data_empty">여기에 항목이 없습니다.</string>
-    <string name="dialog_privacy_info_new2">서비스를 이용하려면 %1$s 귀하의 개인정보를 수집, 처리 및 사용합니다. 아래의 개인정보 보호정책을 숙지하고 이에 동의를 누르면 우리의 의견을 숙지하고 이에 동의하는 것으로 간주됩니다.</string>
+    <string name="dialog_privacy_info_new2">서비스를 이용하려면 %1$s 귀하의 개인정보를 수집, 처리 및 사용합니다. 아래의 개인정보 보호정책을 숙지하고 이에 동의를 누르면 당사의 의견을 숙지하고 이에 동의하는 것으로 간주됩니다.</string>
     <string name="dialog_privacy_title">인증</string>
     <string name="dialog_revoke_privacy_info_new2">승인을 취소하면 앱에서 데이터 수집이 중지되고 모든 관련 데이터가 Google 서버에서 삭제됩니다. 이로 인해 앱을 사실상 사용할 수 없게 될 수도 있습니다. 그래도 권한을 취소하시겠습니까?</string>
     <string name="dialog_revoke_privacy_title">인증 취소</string>

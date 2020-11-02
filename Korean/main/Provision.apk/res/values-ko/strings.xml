@@ -255,7 +255,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="service_name_screen_recording">화면 녹화</string>
     <string name="service_name_security">보안</string>
     <string name="service_name_service_framework">Mi 서비스 프레임 워크</string>
-    <string name="service_policy">&lt;Data&gt;우리의 &lt;a href=%1$s&gt;개인정보 보호정책&lt;/a&gt;을 숙지하고 이에 동의해야 합니다.&lt;/Data&gt;</string>
+    <string name="service_policy">&lt;Data&gt;당사의 &lt;a href=%1$s&gt;개인정보 보호정책&lt;/a&gt;을 숙지하고 이에 동의해야 합니다.&lt;/Data&gt;</string>
     <string name="service_privacy_index">개인정보 보호정책</string>
     <string name="servicestate_title">기본 서비스에 대한 진술</string>
     <string name="user_agreement_declare">MIUI를 사용하려면 이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 상용구, 번역 서비스, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, Joyose, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치 정보에 접근합니다.</string>
