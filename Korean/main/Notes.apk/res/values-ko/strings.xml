@@ -402,7 +402,7 @@
     <string name="btn_next">다음</string>
     <string name="note_gesture_guide_step1">음성 메모를 남기려면 플러스 버튼을 누르고 있으세요.</string>
     <string name="note_gesture_guide_step2">폴더를 생성하려면 하나의 메모를 길게 눌러 다른 메모로 드래그하세요.</string>
-    <string name="note_gesture_guide_step3">하나의 메모를 길게 누르고 폴더로 드래그하시면 메모가 이동됩니다.</string>
+    <string name="note_gesture_guide_step3">하나의 메모를 길게 누르고 폴더로 드래그하면 메모가 이동됩니다.</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Xiaomi 클라우드 동기화를 이용하면 메모와 할 일이 손실되지 않습니다.</string>
     <string name="sync_all_terms">%1$s 및 %2$s , %3$s</string>
     <string name="sync_note_folder">%1$s 및 %2$s</string>

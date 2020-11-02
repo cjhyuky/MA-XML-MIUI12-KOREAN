@@ -695,7 +695,7 @@
     <string name="dessert_case">데저트 케이스</string>
     <string name="dev_logpersist_clear_warning_message">자동 감시 기능이 해제되면, 기기 데이터를 무조건 삭제해야 합니다.</string>
     <string name="dev_logpersist_clear_warning_title">삭제하시겠습니까?</string>
-    <string name="dev_settings_warning_message">이 설정은 개발자 전용입니다. 이 기능을 켜시면 기기와 앱이 정상작동하지 않을 수 있습니다.</string>
+    <string name="dev_settings_warning_message">이 설정은 개발자 전용입니다. 이 기능을 켜면 기기와 앱이 정상작동하지 않을 수 있습니다.</string>
     <string name="dev_settings_warning_title">개발자 설정을 허용하시겠습니까?</string>
     <string name="development_settings_enable">개발자 옵션 활성화</string>
     <string name="development_settings_not_available">이 사용자는 개발자 옵션을 사용할 수 없습니다.</string>
@@ -896,7 +896,7 @@
     <string name="forced_resizable_secondary_display">세컨드 디스플레이에서는 앱이 정상적으로 작동하지 않을 수 있습니다.</string>
     <string name="forget_password_string">비밀번호 분실</string>
     <string name="fs_gesture_back_home_summary">아래에서 빠르게 스와이프하기</string>
-    <string name="fs_gesture_back_ready_title">이전 페이지로 어떻게 갑니까?</string>
+    <string name="fs_gesture_back_ready_title">이전 페이지로 어떻게 가나요?</string>
     <string name="fs_gesture_final_over">확인</string>
     <string name="fs_gesture_final_restart">다시 학습하기</string>
     <string name="fs_gesture_final_summary">[설정-전체 화면]에서 초기화할 수 있습니다.</string>
@@ -1141,8 +1141,8 @@
     <string name="keyguard_torch_cover_text">손전등을 계속 켜시려면, 전원 버튼에서 손을 떼지 마세요.</string>
     <string name="keyguard_unlock">위로 밀어서 잠금해제</string>
     <string name="kg_enter_confirm_pin_hint">새 PIN 코드 확인</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 직장 프로필 및 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하시면 직장 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하면 직장 프로필 및 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user">잘못된 비밀번호를 %1$d번 입력했습니다. %2$d번 더 잘못 입력하면 직장 프로필 및 데이터가 삭제됩니다.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"잠금해제 패턴을 %d회 잘못 그렸습니다. %d회 더 실패하면 이메일 계정을 사용하여 휴대전화를 잠금해제해야 합니다.
 
  %d초 후에 다시 시도하세요."</string>
@@ -1476,7 +1476,7 @@ EEEE"</string>
     <string name="open_camera_hint_text">카메라를 열려면 아이콘을 드래그하세요.</string>
     <string name="open_extreme_power_save_mode_title">초절전 모드 켜기</string>
     <string name="open_lock_screen_magazine_hint_text">더 많은 옵션을 보시려면 오른쪽으로 스와이프하세요.</string>
-    <string name="open_remote_center_hint_text">바로가기 열기를 원하시면 오른쪽으로 스와이프하세요.</string>
+    <string name="open_remote_center_hint_text">바로가기 열기를 원하면 오른쪽으로 스와이프하세요.</string>
     <string name="open_torch_description_talkback">손전등 켜기</string>
     <string name="osu_completing_sign_up">가입 완료 중…</string>
     <string name="osu_connect_failed">연결 실패</string>
@@ -1699,7 +1699,7 @@ EEEE"</string>
     <string name="quick_settings_powermode_label">성능 모드</string>
     <string name="quick_settings_quietmode_label">방해 금지 모드</string>
     <string name="quick_settings_reset_confirmation_button">숨기기</string>
-    <string name="quick_settings_reset_confirmation_message">설정에서 켜시면 다시 표시됩니다.</string>
+    <string name="quick_settings_reset_confirmation_message">설정에서 켜면 다시 표시됩니다.</string>
     <string name="quick_settings_reset_confirmation_title">%1$s 숨기시겠습니까?</string>
     <string name="quick_settings_rotation_locked_label">회전 잠금</string>
     <string name="quick_settings_rotation_locked_landscape_label">가로방향</string>
@@ -2013,7 +2013,7 @@ EEEE"</string>
     <string name="structure_face_delete_data_dialog_msg_retry">다시 시도하세요.</string>
     <string name="structure_face_delete_data_dialog_title">카메라 로딩 실패</string>
     <string name="structure_face_hardware_abnormal_btn">확인</string>
-    <string name="structure_face_hardware_abnormal_msg">하드웨어 오류 발생. 기기를 다시 시작하세요. 그래도 안되시면 400–100–5678로 전화주세요.</string>
+    <string name="structure_face_hardware_abnormal_msg">하드웨어 오류 발생. 기기를 다시 시작하세요. 그래도 안되면 400–100–5678로 전화주세요.</string>
     <string name="structure_face_hardware_abnormal_title">하드웨어 오류</string>
     <string name="structure_face_modules_abnormal_btn">다시 시작</string>
     <string name="structure_face_modules_abnormal_msg">광학 모듈 오류가 발생하여 안면 데이터를 인식할 수 없습니다. 기기를 다시 시작하세요.</string>

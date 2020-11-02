@@ -507,7 +507,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="cit_aud_test_result">테스트 결과:</string>
     <string name="cit_audio_get_temp_fail">온도 데이터 불러오기 실패!</string>
     <string name="cit_audio_lb_frontmic_to_speaker_title">전면 마이크, 스피커 피드백 테스트</string>
-    <string name="cit_audio_lb_summary_frontmic_to_speaker">"전면 마이크 -> 스피커 피드백 테스트입니다. 전면 마이크에 대고 말씀하시면, 음성을 스피커로 들을 수 있습니다."</string>
+    <string name="cit_audio_lb_summary_frontmic_to_speaker">"전면 마이크 -> 스피커 피드백 테스트입니다. 전면 마이크에 대고 말씀하면, 음성을 스피커로 들을 수 있습니다."</string>
     <string name="cit_audio_left_caldata">"좌측 PA 캘리브레이션 데이터:"</string>
     <string name="cit_audio_left_calfail">좌측 PA 캘리브레이션 실패!</string>
     <string name="cit_audio_right_caldata">"우측 PA 캘리브레이션 데이터:"</string>

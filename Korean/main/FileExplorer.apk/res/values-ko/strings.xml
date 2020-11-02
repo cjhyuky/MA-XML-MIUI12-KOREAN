@@ -346,7 +346,7 @@
     <string name="move_icon_to_desktop_success">홈 화면에 바로가기 추가됨</string>
     <string name="clean_hint">탭하여 여유공간 확보하기</string>
     <string name="private_toast_hint2">파일을 숨기시려면, 누르시고 기다리신 다음 숨김 폴더에 추가합니다.</string>
-    <string name="encrypt_success_first_five">파일이 암호화되고 숨겨졌습니다. 파일 탐색기 시작페이지에서 당겨 내리시면 숨긴 파일을 확인할 수 있습니다.</string>
+    <string name="encrypt_success_first_five">파일이 암호화되고 숨겨졌습니다. 파일 탐색기 시작페이지에서 당겨 내리면 숨긴 파일을 확인할 수 있습니다.</string>
     <string name="add_private">지금 파일 숨김</string>
     <string name="private_folder_no_file_hints">숨겨진 파일이 없습니다.</string>
     <string name="private_folder_update">숨김 파일 업데이트 중…</string>
@@ -488,7 +488,7 @@
     <string name="user_login_dialog_title">로그인</string>
     <string name="user_login_dialog_tip">동영상을 업로드하고 랭킹과 어워드에 참여하려면 로그인하세요.</string>
     <string name="user_login_dialog_cancle">취소</string>
-    <string name="bind_phone_dialog_tip">동영상 업데이트를 통해서 인기 동영상 순위에 참여할 수 있으며 이에 따른 경품을 획득할 수도 있습니다. 휴대전화를 연결하지 않으시면 경품 당첨 정보를 전송해드릴 수 없습니다.</string>
+    <string name="bind_phone_dialog_tip">동영상 업데이트를 통해서 인기 동영상 순위에 참여할 수 있으며 이에 따른 경품을 획득할 수도 있습니다. 휴대전화를 연결하지 않으면 경품 당첨 정보를 전송해드릴 수 없습니다.</string>
     <string name="bind_phone_dialog_cancle">추가하지 마세요.</string>
     <string name="bind_phone_dialog_bind">지금 추가</string>
     <string name="user_no_video_tip">아직 동영상을 업로드하지 않았습니다.</string>
@@ -567,10 +567,10 @@
     <string name="you_liao_god_str">신사</string>
     <string name="you_liao_goddess_str">숙녀</string>
     <string name="you_liao_xunlei_str">Xunlei 호스트</string>
-    <string name="original_user_desc">원본 동영상을 업로드하시면 크리에이터 칭호를 얻게 됩니다.</string>
-    <string name="you_liao_xunlei_desc">저희와 계약을 체결하시면 호스트 칭호를 얻게 됩니다.</string>
-    <string name="you_liao_god_desc">동영상을 정기적으로 업로드하고 팬 층을 늘리시면 신사 칭호를 얻게 됩니다.</string>
-    <string name="you_liao_goddess_desc">동영상을 정기적으로 업로드하고 팬 층을 늘리시면 숙녀 칭호를 얻게 됩니다.</string>
+    <string name="original_user_desc">원본 동영상을 업로드하면 크리에이터 칭호를 얻게 됩니다.</string>
+    <string name="you_liao_xunlei_desc">저희와 계약을 체결하면 호스트 칭호를 얻게 됩니다.</string>
+    <string name="you_liao_god_desc">동영상을 정기적으로 업로드하고 팬 층을 늘리면 신사 칭호를 얻게 됩니다.</string>
+    <string name="you_liao_goddess_desc">동영상을 정기적으로 업로드하고 팬 층을 늘리면 숙녀 칭호를 얻게 됩니다.</string>
     <string name="default_user_desc">이 사용자는 아직 설명을 추가하지 않았습니다.</string>
     <string name="recommend">추천됨</string>
     <string name="message_my_received_praise">내 좋아요</string>

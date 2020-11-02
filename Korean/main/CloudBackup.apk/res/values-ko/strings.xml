@@ -212,7 +212,7 @@
     <string name="backup_stopped_title">백업이 중단됨</string>
     <string name="dialog_btn_cancel_backup">취소</string>
     <string name="dialog_btn_overwrite_backup">덮어쓰기</string>
-    <string name="dialog_msg_overwrite_backup">로컬 백업은 Xiaomi 클라우드의 백업과 다릅니다. 계속 진행하시면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
+    <string name="dialog_msg_overwrite_backup">로컬 백업은 Xiaomi 클라우드의 백업과 다릅니다. 계속 진행하면, 현재 백업으로 이전 백업을 덮어씁니다.</string>
     <string name="other_device_main_space">메인 공간</string>
     <string name="other_device_second_space">보조 공간</string>
     <string name="self_device_main_space">"이 휴대전화의 메인 공간"</string>

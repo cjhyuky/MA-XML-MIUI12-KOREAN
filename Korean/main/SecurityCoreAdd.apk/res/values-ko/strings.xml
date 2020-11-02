@@ -94,7 +94,7 @@
     <string name="xspace_install_completed">홈 화면에 아이콘 추가됨</string>
     <string name="xspace_uninstall_completed">듀얼 앱 삭제 성공</string>
     <string name="xspace_uninstall_dialog_title">듀얼 앱 삭제</string>
-    <string name="xspace_uninstall_dialog_content">듀얼 앱을 제거하시면 모든 앱 데이터가 제거됩니다.</string>
+    <string name="xspace_uninstall_dialog_content">듀얼 앱을 제거하면 모든 앱 데이터가 제거됩니다.</string>
     <string name="loading_apps">앱 불러오는 중…</string>
     <string name="loading_success">불러오기 성공</string>
     <string name="switching">이동 중…</string>
@@ -231,7 +231,7 @@
     <string name="restore_show_desc">보조 공간에서 비공개 메시지를 표시하지 않습니다. 기본 공간에서는 여전히 사용 가능합니다.</string>
     <string name="confirm_restore">표시하지 않기</string>
     <string name="restore_show_toast">비공개 메시지 표시하지 않기</string>
-    <string name="remove_second_space_msg">보조 공간을 삭제하시면 모든 앱 데이터도 삭제됩니다. 지금 삭제하시겠습니까?</string>
+    <string name="remove_second_space_msg">보조 공간을 삭제하면 모든 앱 데이터도 삭제됩니다. 지금 삭제하시겠습니까?</string>
     <string name="second_space_finger_printf_title">보조 공간 지문</string>
     <string name="second_space_finger_printf_desc">보조 공간 진입 전용 지문 추가</string>
     <string name="setting_finger_print_title">보조 공간 지문 추가</string>
@@ -419,7 +419,7 @@
     <string name="ent_activating">활성화 중...</string>
     <string name="ent_activation">활성화</string>
     <string name="ent_activation_hint">엔터프라이즈 모드를 활성화하려면 회사 코드를 라이센스 코드와 함께 입력하세요.</string>
-    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호정책을 숙지하였으며 이에 동의합니다.</string>
+    <string name="ent_activation_hint_whit_licence">"맞춤 엔터프라이즈 서비스를 사용하려면 엔터프라이즈 모드를 활성화하세요. 회사 이름이 올바른지 확인하세요. 관련 개인정보 보호정책을 숙지하고 이에 동의해야 합니다.</string>
     <string name="ent_agency_code">회사 코드</string>
     <string name="ent_agency_code_hint">회사 코드 입력</string>
     <string name="ent_agency_code_invalid">입력한 회사 코드 유효하지 않습니다.</string>

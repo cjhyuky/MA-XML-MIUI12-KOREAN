@@ -10,7 +10,7 @@
     <string name="white_noise_selector">오디오 선택</string>
     <string name="slider_text">위로 밀어서 끄기</string>
     <string name="snooze_confirm_cancel">알람 끄기</string>
-    <string name="timer_alarm_cancel_pad">화면을 탭 하시면 알람이 종료됩니다.</string>
+    <string name="timer_alarm_cancel_pad">화면을 탭하면 알람이 종료됩니다.</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="common_settings">설정</string>
     <string name="alarm_settings">알람 설정</string>
@@ -39,7 +39,7 @@
     <string name="close_alarm">끄기</string>
     <string name="timer_notify_text">타이머를 잠시 멈추거나 종료합니다.</string>
     <string name="upcoming_alarm">%s 알람이 울립니다.</string>
-    <string name="upcoming_alarm_hint">이 알람을 원하지 않으시면 끄기 버튼을 누르세요.</string>
+    <string name="upcoming_alarm_hint">이 알람을 원하지 않으면 끄기 버튼을 누르세요.</string>
     <string name="start">시작</string>
     <string name="pause">일시 중지</string>
     <string name="reset">초기화</string>
@@ -350,7 +350,7 @@
     <string name="bedtime_analysis_more">더 많은 데이터</string>
     <string name="bedtime_banner_desc">일정한 수면은 중요합니다.</string>
     <string name="bedtime_banner_guide_desc">취침 시간을 관리하세요.</string>
-    <string name="bedtime_guide_back_desc">"지금 끄시면 취침 시간 알림을 수신할 수 없습니다. 그래도 끄시겠습니까?"</string>
+    <string name="bedtime_guide_back_desc">"지금 끄면 취침 시간 알림을 수신할 수 없습니다. 그래도 끄시겠습니까?"</string>
     <string name="bedtime_manage">취침 시간 관리</string>
     <string name="bedtime_manage_desc">취침 시간 알림과 수면 추적을 설정하세요.</string>
     <string name="bedtime_manage_open">취침 시간표</string>

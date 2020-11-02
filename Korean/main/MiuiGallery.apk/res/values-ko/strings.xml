@@ -665,7 +665,7 @@
     <string name="cloud_storage_subtitle">모든 항목이 Xiaomi 클라우드에 백업되었습니다.</string>
     <string name="cloud_storage_title">Xiaomi 클라우드 저장소</string>
     <string name="cloud_storage_video_title">동영상</string>
-    <string name="cloud_storage_warn_desc">추가 공간을 원하시면 클라우드 VIP를 구매하세요.</string>
+    <string name="cloud_storage_warn_desc">추가 공간을 원하면 클라우드 VIP를 구매하세요.</string>
     <string name="cloud_storage_warn_title">Xiaomi 클라우드 저장소에 충분한 공간이 없습니다.</string>
     <string name="cloud_sync_card_description">여러 기기에서 접근할 수 있도록 사진과 동영상을 Xiaomi 클라우드와 동기화</string>
     <string name="cloud_sync_card_title">Xiaomi 클라우드 동기화 켜짐</string>
@@ -748,8 +748,8 @@
     <string name="delete_from_homepage_album">갤러리에서 앨범 표시됨</string>
     <string name="delete_from_this_album_and_cloud">Xiaomi 클라우드와 이 앨범에서</string>
     <string name="delete_from_web">웹 앨범</string>
-    <string name="delete_in_album">앨범에서 사진 또는 동영상을 삭제하시면, 다음의 위치에서도 삭제됩니다:</string>
-    <string name="delete_in_home_page">갤러리에서 사진 또는 동영상을 삭제하시면, 다음의 위치에서도 삭제됩니다:</string>
+    <string name="delete_in_album">앨범에서 사진 또는 동영상을 삭제하면, 다음의 위치에서도 삭제됩니다:</string>
+    <string name="delete_in_home_page">갤러리에서 사진 또는 동영상을 삭제하면, 다음의 위치에서도 삭제됩니다:</string>
     <string name="delete_in_process">삭제 중…</string>
     <string name="delete_origin">원본 앨범에서 항목 삭제</string>
     <string name="delete_other_shared_images">다른 사람이 공유한 사진은 삭제할 수 없습니다.</string>
@@ -842,7 +842,7 @@
     <string name="error_no_network_msg">기기를 Wi-Fi나 모바일 데이터에 연결하세요.</string>
     <string name="error_no_network_tip">네트워크에 연결할 수 없음</string>
     <string name="error_no_wifi_action">모바일 데이터 사용</string>
-    <string name="error_no_wifi_msg">기기가 Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하시면 추가 요금이 발생합니다.</string>
+    <string name="error_no_wifi_msg">기기가 Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하면 추가 요금이 발생합니다.</string>
     <string name="error_no_wifi_tip">Wi-Fi에 연결할 수 없음</string>
     <string name="error_not_acceptable">동기화가 중단되었습니다.</string>
     <string name="error_not_synced_action">지금 동기화</string>
@@ -1021,7 +1021,7 @@
     <string name="hybrid_service_unavailiable">서비스 이용 불가</string>
     <string name="hybrid_try_again">다시 시도</string>
     <string name="ignore_album">보이지 않음</string>
-    <string name="ignore_alert_title">앨범이 표시되지 않나요? 상단의 오른쪽 구석을 탭하시면 무시한 사진들을 확인할 수 있습니다.</string>
+    <string name="ignore_alert_title">앨범이 표시되지 않나요? 상단의 오른쪽 구석을 탭하면 무시한 사진들을 확인할 수 있습니다.</string>
     <string name="ignore_face">이 사람 무시</string>
     <string name="ignore_faces_title">무시됨</string>
     <string name="image_decode_failed">이미지 디코딩 실패</string>
@@ -1517,7 +1517,7 @@
     <string name="search_feedback_task_progress">미션 %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">리워드를 받지 못했습니다. 나중에 다시 시도하세요.​</string>
     <string name="search_feedback_task_requesting_award">리워드 받는 중…</string>
-    <string name="search_feedback_user_notice">%s를 모두 숙지하였으며 이에 동의했습니다.</string>
+    <string name="search_feedback_user_notice">%s를 모두 숙지하고 이에 동의합니다.</string>
     <string name="search_feedback_user_policy">MIUI 갤러리 AI 알고리즘 데이터베이스 프로그램 약관</string>
     <string name="search_hint">이미지 검색</string>
     <string name="search_image_result_title">검색 결과</string>
@@ -1584,7 +1584,7 @@
     <string name="set_as_wallpaper_description">이 이미지는 썸네일입니다. 원본을 다운로드하시겠습니까?</string>
     <string name="set_as_wallpaper_title">배경화면으로 설정</string>
     <string name="set_face_group_toast_msg_new_user">얼굴을 길게 눌러 병합 혹은 무시</string>
-    <string name="set_face_group_toast_msg_old_user">얼굴을 길게 누르시면 그룹(가족, 친구, 반친구, 기타) 으로 분류됩니다.</string>
+    <string name="set_face_group_toast_msg_old_user">얼굴을 길게 누르면 그룹(가족, 친구, 반친구, 기타) 으로 분류됩니다.</string>
     <string name="set_face_group_toast_title_new_user">제안</string>
     <string name="set_face_group_toast_title_old_user">얼굴을 바탕으로 그룹으로 정리할 수 있습니다.</string>
     <string name="set_face_image">새 프로필 사진 설정</string>
@@ -1880,11 +1880,11 @@
     <string name="empty_album_cloud_list_title">동기화 할 앨범 없음</string>
     <string name="empty_album_hidden_list_title">숨겨진 앨범 없음</string>
     <string name="remove_hidden_status_success">숨겨짐 앨범에서 %s 삭제</string>
-    <string name="remove_hidden_status_tip">이 앨범을 숨김해제하시면 다른 앨범들과 함께 표시됩니다.</string>
+    <string name="remove_hidden_status_tip">이 앨범을 숨김해제하면 다른 앨범들과 함께 표시됩니다.</string>
     <string name="remove_hidden_status_title">숨기지 않기</string>
     <string name="show_cloud_albumlist_summary">클라우드로 동기화된 앨범 관리</string>
     <string name="show_hidden_album_summary">숨겨진 앨범 관리 및 표시</string>
-    <string name="story_download_without_wifi_msg">"모바일 데이터를 사용하여 파일을 다운로드하시면 데이터 사용이 증가합니다. 추가요금이 청구될 수 있습니다."</string>
+    <string name="story_download_without_wifi_msg">"모바일 데이터를 사용하여 파일을 다운로드하면 데이터 사용이 증가합니다. 추가요금이 청구될 수 있습니다."</string>
     <string name="story_download_without_wifi_title">데이터 사용 경고</string>
     <string name="app_summary">기기 및 Xiaomi 클라우드에서 사진 및 동영상 관리 및 편집</string>
     <string name="btn_cancel">취소</string>

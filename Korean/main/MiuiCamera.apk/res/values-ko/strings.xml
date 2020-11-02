@@ -193,7 +193,7 @@
     <string name="accessibility_ultra_wide_off">초광각 모드 꺼짐</string>
     <string name="accessibility_ultra_wide_on">초광각 모드 켜짐</string>
     <string name="accessibility_video_btn_play">동영상 재생</string>
-    <string name="accessibility_video_capture_button">동영상 녹화 중 사진촬영 버튼</string>
+    <string name="accessibility_video_capture_button">동영상 녹화 중 사진 촬영 버튼</string>
     <string name="accessibility_video_pause_button">녹화 멈춤</string>
     <string name="accessibility_video_resume_button">녹화 재개</string>
     <string name="accessibility_whitebalance_custom_panel_on">수동 조정 패널</string>
@@ -498,7 +498,7 @@
     <string name="cta_perm_dec">사진 및 동영상에 위치 정보를 추가하기 위해</string>
     <string name="cta_perm_loc">위치</string>
     <string name="cta_perm_type">"선택적인 권한 (사용하는 동안 추가 기능에 사용됨)"</string>
-    <string name="cta_user_tips"><Data>사용자의 권리와 데이터 사용 방식을 완전히 이해하려면 &lt;a href =%1$s>이용 약관&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
+    <string name="cta_user_tips"><Data>사용자의 권리와 데이터 사용 방식에 관한 &lt;a href =%1$s>이용 약관&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="custom_sound_art">레트로</string>
     <string name="custom_sound_default">기본</string>
     <string name="custom_sound_modern">모던</string>
@@ -822,7 +822,7 @@
     <string name="mimoji_earring">귀걸이</string>
     <string name="mimoji_edit_abandon_alert">모든 변경사항을 취소하시겠습니까?</string>
     <string name="mimoji_edit_abandon_capture_alert">모든 변경사항을 취소하시겠습니까?</string>
-    <string name="mimoji_edit_back_alert">돌아 가시면 모든 변경사항이 삭제됩니다. 그래도 돌아가시겠습니까?</string>
+    <string name="mimoji_edit_back_alert">돌아가면 모든 변경사항이 삭제됩니다. 그래도 돌아가시겠습니까?</string>
     <string name="mimoji_edit_cancel_alert">모든 변경사항이 삭제됩니다. 그래도 취소하시겠습니까?</string>
     <string name="mimoji_edit_mimoji">그림 이모니콘 편집</string>
     <string name="mimoji_editor">편집</string>
@@ -998,7 +998,7 @@
     <string name="path_settings">시스템 앱/카메라/설정</string>
     <string name="people">사람들</string>
     <string name="photo_assistance_tips_title">라이브 팁</string>
-    <string name="photos_portrait_type_description">인물 모드를 켜시면 배경에 블러 효과가 생겨 인물이 더욱 부각되어 보입니다.</string>
+    <string name="photos_portrait_type_description">인물 모드를 켜면 배경에 블러 효과가 생겨 인물이 더욱 부각되어 보입니다.</string>
     <string name="photos_portrait_type_name">인물</string>
     <string name="pic_flaw_blink_more">프레임 안의 누군가가 눈을 감은 것 같습니다.</string>
     <string name="pic_flaw_blink_one">프레임 안의 이 사람이 눈을 감은 것 같습니다.</string>
@@ -1729,7 +1729,7 @@
     <string name="user_define_watermark_cancel">취소</string>
     <string name="user_define_watermark_save">저장</string>
     <string name="user_disagree">"동의하지 않음"</string>
-    <string name="user_notice_identify_summary_format">이 서비스를 이용하시면 저희의 %1$s와 %2$s에 동의하시는 것입니다. 인터넷 연결에 동의하십니까?</string>
+    <string name="user_notice_identify_summary_format">이 서비스를 이용하면 저희의 %1$s와 %2$s에 동의하시는 것입니다. 인터넷 연결에 동의하십니까?</string>
     <string name="user_notice_title">이용 약관</string>
     <string name="v7_preference_off">끄기</string>
     <string name="v7_preference_on">켜기</string>

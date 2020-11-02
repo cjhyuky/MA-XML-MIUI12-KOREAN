@@ -65,9 +65,9 @@
     <string name="cameraback_fail_open">카메라가 열리지 않습니다. 카메라가 올바르게 설치되었는지 확인하세요!</string>
     <string name="cameraback_name">후면카메라 + 손전등</string>
     <string name="cameraback_name_mido">후면카메라</string>
-    <string name="cameraback_takepicture">사진촬영</string>
+    <string name="cameraback_takepicture">사진 촬영</string>
     <string name="camerafront_name">전면카메라</string>
-    <string name="camerafront_takepicture">사진촬영</string>
+    <string name="camerafront_takepicture">사진 촬영</string>
     <string name="camerasubback_name">후면카메라(써브)</string>
     <string name="cancel">취소</string>
     <string name="cap_name">용량 성 센서</string>

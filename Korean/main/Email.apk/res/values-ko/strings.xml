@@ -972,7 +972,7 @@
     <string name="unsent_messages_in_outbox">%1$s개 %2$s에서 전송되지 않음</string>
     <string name="unzip_file_failed">파일의 압축을 풀지 못했습니다.</string>
     <string name="update_date_format_templete">M월 d일 aa HH:mm</string>
-    <string name="update_to_wps_mail">더 좋은 기능을 원하시면, WPS-메일로 업그레이드 하세요.</string>
+    <string name="update_to_wps_mail">더 좋은 기능을 원하면, WPS-메일로 업그레이드 하세요.</string>
     <string name="updated_at">%1$s에서 새로고침</string>
     <string name="upload_log">로그 업로드</string>
     <string name="upload_log_failed">로그를 전송할 수 없음</string>
@@ -1186,7 +1186,7 @@
     <string name="dialog_disagree">동의하지 않음</string>
     <string name="list_empty_to_fresh">메일 없음, 아래로 당겨서 새로고침하세요.</string>
     <string name="notify_channel_no_disterb">방해 금지 모드</string>
-    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 기기 정보가 들어있습니다. Xiaomi의 %2$s 사항을 숙지하였으며 이에 동의하시면 아래의 %1$s 내용을 선택하세요.</string>
+    <string name="privacy_des">로그 정보에는 이메일에서 수집한 디버깅 정보와 기기 정보가 들어있습니다. Xiaomi의 %2$s 사항을 숙지하고 이에 동의하면 아래의 %1$s 내용을 선택하세요.</string>
     <string name="notify_channel_service">백그라운드 동기화 알림</string>
     <string name="appraise_des">우리는 귀하의 만족을 위해서 제품 개발을 열심히 하고 있습니다. 의견을 보내 주시길 바랍니다.</string>
     <string name="appraise_good">칭찬과 격려</string>
@@ -1208,7 +1208,7 @@
     <string name="contact_add_options_details1">모두</string>
     <string name="contact_add_options_details2">받는 사람만</string>
     <string name="get_oauth_code">코드 가져오기</string>
-    <string name="help_weixin_title">"질문이 있으시면, 언제든지 공식 WeChat 계정에 대화를 남겨주세요: "</string>
+    <string name="help_weixin_title">"질문이 있으면, 언제든지 공식 WeChat 계정에 대화를 남겨주세요: "</string>
     <string name="login_qq_psw">코드로 로그인</string>
     <string name="mi_sync_erroe_toast">"네트워크 오류 발생: "</string>
     <string name="mi_sync_erroe_toast_other">"네트워크 오류 발생: "</string>
@@ -1448,7 +1448,7 @@
      <string name="mailbox_setting_preference_sync_summary_close">동기화: 꺼짐</string>
      <string name="mailbox_setting_preference_sync_summary_open">동기화: 켜짐</string>
      <string name="server_log">이용 약관</string>
-     <string name="user_experience_content">《사용자 경험 프로그램》을 숙지하였으며 이에 동의합니다.</string>
+     <string name="user_experience_content">《사용자 경험 프로그램》을 숙지하고 이에 동의해야 합니다.</string>
      <string name="user_experience_log">사용자 경험 프로그램</string>
      <string name="user_experience_login">참가</string>
      <string name="user_experience_logout">탈퇴</string>

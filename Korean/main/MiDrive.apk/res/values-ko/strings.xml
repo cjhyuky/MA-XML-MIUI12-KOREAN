@@ -123,7 +123,7 @@
     <string name="private_folder_name">개인 파일</string>
     <string name="quota_info">Mi Drive: %2$s 중 %1$s 사용 가능</string>
     <string name="release_enter_private">비공개 파일보기 해제</string>
-    <string name="rename_alert">"파일 확장자명을 변경하시면 파일을 열지 못할 수도 있습니다."</string>
+    <string name="rename_alert">"파일 확장자명을 변경하면 파일을 열지 못할 수도 있습니다."</string>
     <string name="rename_failed">동일한 이름의 파일이 있습니다.</string>
     <string name="request_permission_msg">Mi 드라이브가 정상적으로 작동하기 위해선 Mi 계정에 액세스 권한이 있어야 합니다.</string>
     <string name="request_permission_title">권한 필수</string>

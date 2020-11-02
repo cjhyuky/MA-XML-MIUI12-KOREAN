@@ -907,7 +907,7 @@
     <string name="ota_progress">휴대전화가 프로그래밍되는 동안 기다리세요.</string>
     <string name="ota_failure">프로그래밍 실패</string>
     <string name="ota_successful">휴대전화가 활성화되었습니다. 서비스가 시작되기까지 최대 15분 정도 걸릴 수 있습니다.</string>
-    <string name="ota_unsuccessful">"휴대전화가 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하세요. 더 많은 옵션을 원하시면 고객 센터로 문의하세요."</string>
+    <string name="ota_unsuccessful">"휴대전화가 활성화되지 않았습니다. 인터넷이 원활한 지역(창가 또는 실외) 다시 시도하세요. 더 많은 옵션을 원하면 고객 센터로 문의하세요."</string>
     <string name="ota_spc_failure">초과 SPC 실패</string>
     <string name="ota_call_end">뒤로</string>
     <string name="ota_try_again">다시 시도</string>
@@ -2197,7 +2197,7 @@
     <string name="ecc_storage_full">저장소가 가득 찼습니다.</string>
     <string name="edit_ecc_number">긴급번호 수정</string>
     <string name="enable_4G_data">4G 데이터 활성화</string>
-    <string name="enable_4G_data_summary">4G를 사용하시면 더 빠르게 인터넷을 사용할 수 있습니다.</string>
+    <string name="enable_4G_data_summary">4G를 사용하면 더 빠르게 인터넷을 사용할 수 있습니다.</string>
     <string name="ip_prefix_setting_lable">IP 접두 번호 (%s)</string>
     <string name="labelCBVideo">영상통화 거부중</string>
     <string name="labelCBVoice">음성통화 거부중</string>

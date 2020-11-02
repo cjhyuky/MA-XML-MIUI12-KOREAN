@@ -49,9 +49,9 @@
     <string name="ac_post_notification_contentText">시스템 레벨 보호 활성화</string>
     <string name="ac_post_notification_contentTitle">앱 잠금 활성화</string>
     <string name="ac_pre_notification_contentText">개인정보 보호</string>
-    <string name="ac_pre_notification_contentTitle">앱 잠금을 시도해 보세요.</string>
+    <string name="ac_pre_notification_contentTitle">앱 잠금을 사용해보세요.</string>
     <string name="ac_recommend_guide_dialog_app_content">개인정보를 보호하고 데이터 유출을 방지하기 위해 이 앱과 함께 앱 잠금을 사용하세요.</string>
-    <string name="ac_recommend_guide_dialog_content">앱 잠금을 사용하여 개인정보를 보호하고 데이터 유출을 방지 할 수 있습니다.</string>
+    <string name="ac_recommend_guide_dialog_content">앱 잠금을 사용하여 개인정보를 보호하고 데이터 유출을 방지할 수 있습니다.</string>
     <string name="ac_recommend_guide_dialog_ignore">"다시 보지 않기"</string>
     <string name="ac_recommend_guide_dialog_open">켬</string>
     <string name="ac_summaryOff">꺼짐. 앱을 열기 위해 비밀번호가 요구되지 않습니다.</string>
@@ -151,7 +151,7 @@
     <string name="antivirus_monitor_virus_advice">이 앱은 바이러스를 포함하고 있을 수 있습니다. 삭제하세요.</string>
     <string name="antivirus_monitored_app_empty">"호환 가능한 결제 앱을 찾을 수 없습니다."</string>
     <string name="antivirus_none_engine_dialog_ok">확인</string>
-    <string name="antivirus_not_wlan">Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하시면 추가 요금이 발생합니다. 그래도 계속하시겠습니까?</string>
+    <string name="antivirus_not_wlan">Wi-Fi에 연결되지 않았습니다. 모바일 데이터를 사용하면 추가 요금이 발생합니다. 그래도 계속하시겠습니까?</string>
     <string name="antivirus_privacy_dialog_cloudscan">앱 이름과 세부사항 업로드</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">온라인 바이러스 정의를 사용하여 앱 이름과 상세 정보를 업로드 및 스캔합니다.</string>
     <string name="antivirus_privacy_dialog_ok">확인</string>
@@ -362,7 +362,7 @@
     <string name="app_manager_factory_reset_dlg_msg">이 Android 시스템 앱의 모든 업데이트가 제거됩니다.</string>
     <string name="app_manager_factory_reset_dlg_title">업데이트를 제거하시겠습니까?</string>
     <string name="app_manager_find_apps">앱 찾기</string>
-    <string name="app_manager_force_stop_dlg_text">앱을 강제 종료하시면 오류가 발생할 수 있습니다.</string>
+    <string name="app_manager_force_stop_dlg_text">앱을 강제 종료하면 오류가 발생할 수 있습니다.</string>
     <string name="app_manager_force_stop_dlg_title">강제 중지하시겠습니까?</string>
     <string name="app_manager_full_screen_summary">선택한 앱에서 전체 화면 모드 허용하기</string>
     <string name="app_manager_full_screen_title">전체 화면 모드</string>
@@ -828,7 +828,7 @@
     <string name="cta_close_dialog_content">"인터넷 및 위치 정보에 대한 보안 액세스를 제한하면 지진 경고, 바이러스 정의 및 차단 목록 정보를 수신 할 수 없습니다. 기기의 보안 수준이 떨어집니다."</string>
     <string name="cta_close_dialog_ok">제한</string>
     <string name="cta_close_dialog_title">액세스 제한</string>
-    <string name="cta_dialog_msg">&lt;Data&gt;보안 앱을 사용하시기 전에 먼저 저희의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인보호 정책&amp;lt;/a&amp;gt;을 숙지하였으며 이에 동의합니다. 보안 앱은 또한 정상적으로 작동하게하고 안티바이러스 방어를 최신상태로 유지하려면 인터넷 연결, 위치 정보 접근이 필요합니다. 동의하십니까?&lt;/Data&gt;</string>
+    <string name="cta_dialog_msg">&lt;Data&gt;보안 앱을 사용하시기 전에 먼저 저희의 &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;개인보호 정책&amp;lt;/a&amp;gt;을 숙지하고 이에 동의해야 합니다. 보안 앱은 또한 정상적으로 작동하게하고 안티바이러스 방어를 최신상태로 유지하려면 인터넷 연결, 위치 정보 접근이 필요합니다. 동의하십니까?&lt;/Data&gt;</string>
     <string name="cta_dialog_negative">나가기</string>
     <string name="cta_dialog_positive">동의</string>
     <string name="cta_dialog_title">인터넷 연결</string>
@@ -874,7 +874,7 @@
     <string name="databooster_tips_title">주의</string>
     <string name="debug_open_final_tip">USB 디버깅을 켜시겠습니까?</string>
     <string name="debug_open_title">개발자를 위한 기능이며 일반 사용자가 이용하기에 불편할 수 있습니다. USB 디버깅을 켜면 다음과 같은 변화가 발생할 수 있습니다:</string>
-    <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하시면 한도를 낮게 설정하세요.</string>
+    <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하면 한도를 낮게 설정하세요.</string>
     <string name="deep_clean_disconnect_data_title">기기가 잠겼을때 모바일 데이터 끄기</string>
     <string name="deep_clean_memory_clean_title">기기가 잠겼을 때 캐시 지우기</string>
     <string name="deep_clean_never_memory_clean">하지 않음</string>
@@ -1283,7 +1283,7 @@
     <string name="fod_finger_notice_title">화면에 손가락을 올려놓으세요.</string>
     <string name="fod_finger_windows_tips">귀하의 지문을 인식합니다.</string>
     <string name="fod_tips_split_screen_more_than_half">비밀번호 입력</string>
-    <string name="forbid_autobright_summary">게임을 하는 동안 자동 밝기가 꺼졌다가 게임을 종료하시면 다시 기능이 켜질 것입니다.</string>
+    <string name="forbid_autobright_summary">게임을 하는 동안 자동 밝기가 꺼졌다가 게임을 종료하면 다시 기능이 켜질 것입니다.</string>
     <string name="forbid_autobright_title">화면 밝기 변경</string>
     <string name="foreground_traffic">포그라운드 %s</string>
     <string name="forget_password_button_text">&lt;u&gt;비밀번호 찾기&lt;/u&gt;</string>
@@ -1503,7 +1503,7 @@
     <string name="gb_xunyou_gift_type_one">Xunyou 1일 부스트</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3일 부스트</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2일 부스트</string>
-    <string name="gdpr_msg"><Data>"보안 위험을 감지하고 데이터를 보호하려면, 기기 정보를 충분히 수집해야 합니다. 서비스를 사용하기 전에 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다. 정보 수집을 허용하지 않는 경우에도 이 앱을 계속 사용할 수 있지만, 일부 기능은 사용할 수 없습니다. "</Data></string>
+    <string name="gdpr_msg"><Data>"보안 위험을 감지하고 데이터를 보호하려면, 기기 정보를 충분히 수집해야 합니다. 서비스를 사용하기 전에 &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다. 정보 수집을 허용하지 않는 경우에도 이 앱을 계속 사용할 수 있지만, 일부 기능은 사용할 수 없습니다. "</Data></string>
     <string name="ge">개</string>
     <string name="get_sys_info">정보를 가져오는 중…</string>
     <string name="give_lucky_money">빨간 봉투 배달</string>
@@ -2131,7 +2131,7 @@ SMS 전송"</string>
     <string name="optimize_result_button_to_set">설정</string>
     <string name="optimize_result_button_update_now">업데이트</string>
     <string name="optimize_result_summary_sucurity_risk">일부 보안 기능이 꺼져있습니다. 이 기능들을 켜시고 기기를 안전하게 보호하세요:</string>
-    <string name="optimize_result_summary_system_default_settings">기본 MIUI 앱을 사용하시면 시스템의 안정성과 보안 수준이 증가합니다.</string>
+    <string name="optimize_result_summary_system_default_settings">기본 MIUI 앱을 사용하면 시스템의 안정성과 보안 수준이 증가합니다.</string>
     <string name="optimize_result_title_sucurity_risk">보안 위험 발견됨</string>
     <string name="optimize_result_title_system_default_settings">기본 설정이 변경되었습니다.</string>
     <string name="optimize_result_title_uninstall_apps">앱 삭제</string>
@@ -2379,7 +2379,7 @@ SMS 전송"</string>
     <string name="power_save_mode_close_aod_display_title">Always On Display 끄기</string>
     <string name="power_save_mode_close_notification_screenon_summary">절전 모드가 켜져있을 때 작동합니다.</string>
     <string name="power_save_mode_close_notification_screenon_title">"알림 수신 시 화면 깨우지 않기"</string>
-    <string name="power_save_mode_close_warn_text">절전 모드는 백그라운드의 작업과 동기화를 제한합니다. 기기가 완전히 충전되어있을 때 사용하시면 일부 기능이 정상적으로 작동하지 않을 수 있습니다. 완전히 충전되어있는 상황에서도 배터리 절약을 사용하시겠습니까?</string>
+    <string name="power_save_mode_close_warn_text">절전 모드는 백그라운드의 작업과 동기화를 제한합니다. 기기가 완전히 충전되어있을 때 사용하면 일부 기능이 정상적으로 작동하지 않을 수 있습니다. 완전히 충전되어있는 상황에서도 배터리 절약을 사용하시겠습니까?</string>
     <string name="power_save_mode_close_warn_title">절전 모드</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">절전 모드가 켜져있을 때 작동합니다.</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
@@ -2388,7 +2388,7 @@ SMS 전송"</string>
     <string name="power_save_mode_ontime_enabled">예약 시간에 모드 전환</string>
     <string name="power_save_mode_other_optimization">추가 최적화</string>
     <string name="power_save_mode_start_time">시작</string>
-    <string name="power_save_mode_summary">절약 모드를 켜시면 백그라운드 앱을 제한하고 동기화를 종료합니다.</string>
+    <string name="power_save_mode_summary">절약 모드를 켜면 백그라운드 앱을 제한하고 동기화를 종료합니다.</string>
     <string name="power_save_on_time_end_time_summary_na">종료 시간</string>
     <string name="power_save_on_time_start_time_summary_na">시작 시간</string>
     <string name="power_save_ps_clean">화면을 끌 때마다 캐시 삭제</string>
@@ -3169,24 +3169,24 @@ SMS 전송"</string>
     <string name="system_permission_declare_agree">동의</string>
     <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 초대합니다. 서비스 개선을 위한 통계를 수집하기 위해 이 앱을 인터넷에 연결해야하며, 다음과 같은 권한이나 기능이 필요합니다. 통계 목적으로만 데이터를 수집하며, 수집한 데이터를 기반으로 사용자 개인을 식별할 수 없습니다."</string>
     <string name="system_permission_declare_disagree">동의 안 함</string>
-    <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
+    <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! 이 앱을 통해 다음과 같은 기능을 사용할 수 있습니다: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">이용 약관&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_no_say_no">필요한 권한을 부여하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
     <string name="system_permission_declare_no_say_no_analytics">이러한 권한을 부여하지 않으려면 설정에서 등록을 취소할 수 있습니다 .</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">필요한 권한을 제공하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 일부 작동하지 않습니다.</string>
     <string name="system_permission_declare_privacy_declare">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 다음 권한을 필요로 합니다.</string>
     <string name="system_permission_declare_privacy_no_network">이 앱은 정상적인 작동을 위해 다음 권한을 필요로 합니다:</string>
     <string name="system_permission_declare_privacy_no_permission">이 앱은 인터넷 연결을 필요로 하며, 정상적인 작동을 위해 필요한 개인 데이터를 수집해야 합니다.</string>
-    <string name="system_permission_declare_privacy_policy"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_revoke_system">이 앱을 종료할 수 있습니다.</string>
     <string name="system_permission_declare_revoke_uninstallable">보안 &gt; 앱 관리 &gt; 권한에서 로그아웃을 하거나 이 앱을 제거 또는 승인을 취소할 수 있습니다.</string>
     <string name="system_permission_declare_title">주의</string>
     <string name="system_permission_declare_use_network">네트워크에 연결하세요.</string>
     <string name="system_permission_declare_use_network_no_permission">네트워크 연결</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 이용 방식을 완전히 이해하려면, &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 숙지하였으며 이에 동의합니다.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &amp;lt;a href=\"%1$s\"&amp;gt;이용 약관&amp;lt;/a&amp;gt;을 숙지하고 이에 동의해야 합니다.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">통화하기</string>
     <string name="system_permission_perm_optional">"(선택 사항)"</string>
     <string name="system_permission_perm_read_mms">MMS 읽기</string>
@@ -3238,7 +3238,7 @@ SMS 전송"</string>
     <string name="tc_diagnostic_success_result">&lt;font color=\'#CC0000\'&gt;결과: 통신사 네트워크와 브랜드의 설정 올바름&lt;br/&gt;&lt;br/&gt;조정을 완료할 수 없음:&lt;br/&gt;1. 월초나 월말의 통신사 통계는 정확하지 않을 수 있습니다.&lt;br/&gt;2. 보안 앱이 업데이트되지 않았습니다.&lt;br/&gt;&lt;br/&gt;MIUI 진단 도구 개선을 위해 이 문제를 보고해 주세요.&lt;/font&gt;</string>
     <string name="tc_diagnostic_title">통신사 진단</string>
     <string name="tc_diagnostic_upload_button">보고서</string>
-    <string name="tc_diagnostic_upload_no_network">의견을 남겨주셔서 감사합니다! 네트워크에 연결하시면 보고됩니다.</string>
+    <string name="tc_diagnostic_upload_no_network">의견을 남겨주셔서 감사합니다! 네트워크에 연결하면 보고됩니다.</string>
     <string name="tc_diagnostic_upload_success">의견을 남겨주셔서 감사합니다!</string>
     <string name="tc_get_cmd_error">템플릿을 가져올 수 없습니다.</string>
     <string name="tc_parse_error">SMS를 구문 분석할 수 없습니다.</string>

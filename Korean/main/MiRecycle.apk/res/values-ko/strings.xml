@@ -59,7 +59,7 @@
     <string name="city">도시</string>
     <string name="comment_leave_us_a_comment">의견 남기기</string>
     <string name="confirm_account_no">계정 번호 확인</string>
-    <string name="cs_buy_privacy_content">Xiaomi는 더 나은 서비스를 제공하기 위해 기기의 Cashify 활성화 시간을 보냅니다. 이 서비스는 Cashify에서 제공합니다. 모든 관련 책임은 Cashify가 부담합니다. 질문이 있으시면 Cashify에 문의하세요.</string>
+    <string name="cs_buy_privacy_content">Xiaomi는 더 나은 서비스를 제공하기 위해 기기의 Cashify 활성화 시간을 보냅니다. 이 서비스는 Cashify에서 제공합니다. 모든 관련 책임은 Cashify가 부담합니다. 질문이 있으면 Cashify에 문의하세요.</string>
     <string name="cs_buy_privacy_description">&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;Xiaomi&lt;/font&gt;&lt;/a&gt;&lt;font color="#3F87EA"&gt;Cashify&lt;/font&gt;&lt;a href="https://www.cashify.in/privacy-policy"/a&gt; 약관을 보시려면 계속하기를 누르세요.</string>
     <string name="cs_buy_unsupport_content">지원되지 않는 기기 또는 루팅된 기기</string>
     <string name="customer_care">고객 지원</string>

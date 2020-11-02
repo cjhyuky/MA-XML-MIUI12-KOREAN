@@ -79,7 +79,7 @@
     <string name="hint_power">전원</string>
     <string name="hint_volume_up">볼륨 크게</string>
     <string name="hint_volume_down">볼륨 작게</string>
-    <string name="stop_by_second_space">공간을 전환하시면 녹화가 중지됩니다.</string>
+    <string name="stop_by_second_space">공간을 전환하면 녹화가 중지됩니다.</string>
     <string name="cannot_change_parames">녹화 중에는 매개 변수를 변경할 수 없습니다.</string>
     <string name="cannot_record">녹화할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="frequently_click_toast">서비스 설치 중, 잠시만 기다리세요.</string>

@@ -339,7 +339,7 @@
     <string name="use_cellular_network_summary">모바일 데이터를 이용하여 동영상을 다운로드합니다. 모바일 데이터 사용량이 증가합니다.</string>
     <string name="use_cellular_offlinedownload_summary">모바일 데이터를 이용하여 동영상을 다운로드시 알림 보기</string>
     <string name="use_cellular_offlinedownload_title">데이터 사용 알림</string>
-    <string name="use_cellular_play_summary">모바일 데이터로 동영상을 시청하면 데이터 사용량이 증가합니다. 남은 월사용량이 없으시면 추가요금이 발생합니다.</string>
+    <string name="use_cellular_play_summary">모바일 데이터로 동영상을 시청하면 데이터 사용량이 증가합니다. 남은 월사용량이 없으면 추가요금이 발생합니다.</string>
     <string name="use_cellular_play_title">모바일 데이터로 동영상 시청</string>
     <string name="v_addon">인기있는</string>
     <string name="v_agree">동의</string>

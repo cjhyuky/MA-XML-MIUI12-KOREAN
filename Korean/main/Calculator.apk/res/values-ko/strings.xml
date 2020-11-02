@@ -440,7 +440,7 @@
     <string name="preference_privacy_title">개인정보 보호정책</string>
     <string name="preference_rating_title">앱 평가하기</string>
     <string name="privacy_policy">개인정보 보호정책</string>
-    <string name="dialog_privacy_content"><Data>이 앱은 기본 계산 기능 외에도 공학 계산와 다목적 단위 변환을 지원합니다. 일부 기능은 정상 작동을 위해 인터넷 연결이 필요합니다. 계산기를 사용하려면 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
+    <string name="dialog_privacy_content"><Data>이 앱은 기본 계산 기능 외에도 공학 계산와 다목적 단위 변환을 지원합니다. 일부 기능은 정상 작동을 위해 인터넷 연결이 필요합니다. 계산기를 사용하려면 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="dialog_privacy_title">이용 약관과 정책</string>
     <string name="exit">나가기</string>
     <string name="tax_rate_provider_east_money">새로운 세금 규정으로 계산됨. East Money 제공.</string>
@@ -591,7 +591,7 @@
     <string name="common_signin_button_text">로그인</string>
     <string name="common_signin_button_text_long">Google로 로그인</string>
     <string name="convertion_unit_data">단위 변환</string>
-    <string name="currency_dialog_privacy_content"><Data>환율 계산은 최신 환율 정보를 받아오기 위해 인터넷에 연결해야 합니다. 이 기능을 사용하려면 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data></string>
+    <string name="currency_dialog_privacy_content"><Data>환율 계산은 최신 환율 정보를 받아오기 위해 인터넷에 연결해야 합니다. 이 기능을 사용하려면 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="dont_allow">"동의 안 함"</string>
     <string name="item_title_data_conversion">단위</string>
     <string name="label_powered_by">Mi 계산기 제공</string>

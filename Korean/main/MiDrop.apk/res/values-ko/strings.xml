@@ -180,7 +180,7 @@
     <string name="bx">전송 목록에서 이 파일을 삭제하시겠습니까?</string>
     <string name="by">설정하기</string>
     <string name="bz">모바일 데이터 끄기</string>
-    <string name="c0">모바일 데이터를 계속 켜시면 다른 사람이 사용자의 모바일 데이터를 사용할 수도 있습니다.</string>
+    <string name="c0">모바일 데이터를 계속 켜면 다른 사람이 사용자의 모바일 데이터를 사용할 수도 있습니다.</string>
     <string name="c1">모바일 데이터 끄기</string>
     <string name="c2">Mi Drop이 사용자의 친구를 찾을 수 있도록 권한을 설정하세요.</string>
     <string name="c3">Mi Drop이 모바일 핫스팟을 켤 수 있도록 권한을 설정하세요.</string>

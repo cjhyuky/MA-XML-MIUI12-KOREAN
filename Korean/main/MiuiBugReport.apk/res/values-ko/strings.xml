@@ -9,7 +9,7 @@
     <string name="app_search">앱 검색</string>
     <string name="btn_send">전송</string>
     <string name="bugreport_dialog_not_show_again">다시 표시하지 않기</string>
-    <string name="bugreport_dialog_submit_content"><Data>"지금 이 기기에 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 원하지 않으면 다른 사람과 로그를 공유하지 마세요. \"동의\"를 선택한다는 것은 귀하가 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"%2$s\">이용 약관&lt;/a>를 숙지하였으며 이에 동의했음을 의미합니다."</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>"지금 이 기기에 소프트웨어 로그를 저장하고 있습니다. 로그에는 개인정보와 위치 데이터가 포함될 수 있습니다. 이 정보를 원하지 않으면 다른 사람과 로그를 공유하지 마세요. \"동의\"를 선택한다는 것은 귀하가 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"%2$s\">이용 약관&lt;/a>를 숙지하고 이에 동의했음을 의미합니다."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">탭하여 보기</string>
     <string name="bugreport_dump_complete_notification_title">버그 보고서 작성됨</string>
     <string name="bugreport_dump_start_notification_summary">이 작업은 몇 분 소요됩니다.</string>
@@ -95,7 +95,7 @@
     <string name="feedback_detail_tile">진행</string>
     <string name="feedback_empty_report_list">보고서 아직 없음</string>
     <string name="feedback_guess">우리의 추측:</string>
-    <string name="feedback_history_remind_login_desc">Mi 계정으로 로그인하시면 \"내 보고서\"에서 보고서의 진행 과정과 자세한 정보를 확인할 수 있습니다.</string>
+    <string name="feedback_history_remind_login_desc">Mi 계정으로 로그인하면 \"내 보고서\"에서 보고서의 진행 과정과 자세한 정보를 확인할 수 있습니다.</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA 키: %s</string>
     <string name="feedback_package_log_failed">로그를 압축할 수 없음</string>
@@ -208,7 +208,7 @@
     <string name="michat_customer_text">고객 지원</string>
     <string name="michat_data_error">오류 발생, 나중에 다시 시도</string>
     <string name="michat_error_need_login_btn">로그인</string>
-    <string name="michat_error_need_login_text">로그인하시면 온라인 고객지원을 사용할 수 있습니다.</string>
+    <string name="michat_error_need_login_text">로그인하면 온라인 고객지원을 사용할 수 있습니다.</string>
     <string name="michat_failed_to_add_media">죄송하지만 %1$s 항목을 전송할 수 없습니다.</string>
     <string name="michat_failed_to_fetch_fql">자주하는 질문을 가져올 수 없습니다. 네트워크 연결을 확인하세요.</string>
     <string name="michat_feedback_title_name">의견 설문조사</string>
@@ -253,8 +253,8 @@
     <string name="min_error">%1$s보다 길어야 합니다.</string>
     <string name="mobile_data_note_dialog_cancel">Wi-Fi 대기</string>
     <string name="mobile_data_note_dialog_confirm">업로드</string>
-    <string name="mobile_data_note_dialog_content">모바일 데이터를 사용하여 로그를 업로드하시면 추가 요금이 부과됩니다.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">로그 업로드에 모바일 데이터 연결을 사용하시면 %sMB의 데이터가 사용됩니다.</string>
+    <string name="mobile_data_note_dialog_content">모바일 데이터를 사용하여 로그를 업로드하면 추가 요금이 부과됩니다.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">로그 업로드에 모바일 데이터 연결을 사용하면 %sMB의 데이터가 사용됩니다.</string>
     <string name="mobile_data_note_dialog_title">데이터 사용량 경고</string>
     <string name="modem_tool_log_dumping_desc">아이콘을 클릭해 멈추기</string>
     <string name="modem_tool_log_dumping_title">모뎀 로그 캡처</string>
@@ -476,7 +476,7 @@
     <string name="submit_dialog_cancel">취소</string>
     <string name="submit_dialog_confirm">전송</string>
     <string name="submit_dialog_content"><Data>"&lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 및 &lt;a href=\"%2$s\">이용 약관&lt;/a>에 동의해야 합니다. 사용자 의견 의견을 사용할 수 있습니다. 첨부한 항목과 함께보고 한 문제(개인정보 및 기기 및 네트워크에 대한 정보를 포함할 수 있음)가 MIUI 서버에 업로드됩니다. 이렇게하면 신고한 문제를 찾아 해결하는 데 도움이됩니다."</Data></string>
-    <string name="submit_dialog_content_global"><Data>"첨부 파일(있는 경우) 및 로그(업로드하지 않을 항목에 해당하는 상자를 선택 취소 할 수 있음)와 함께 의견이 MIUI 서버로 전송됩니다. 로그에 개인정보 및 위치 데이터가 포함되어있을 수 있습니다. \"동의\"를 선택하는 것은 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"%2$s\">이용 약관&lt;/a>를 숙지하였으며 이에 동의했음을 의미합니다."</Data></string>
+    <string name="submit_dialog_content_global"><Data>"첨부 파일(있는 경우) 및 로그(업로드하지 않을 항목에 해당하는 상자를 선택 취소 할 수 있음)와 함께 의견이 MIUI 서버로 전송됩니다. 로그에 개인정보 및 위치 데이터가 포함되어있을 수 있습니다. \"동의\"를 선택하는 것은 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a> 과 &lt;a href=\"%2$s\">이용 약관&lt;/a>를 숙지하고 이에 동의했음을 의미합니다."</Data></string>
     <string name="submit_dialog_title">보고서 전송</string>
     <string name="submit_feedback_info_failed">보고서를 전송하지 못했습니다.</string>
     <string name="suggestion_description">여기에 설명 추가</string>
@@ -730,8 +730,8 @@ ID : %s
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다.</string>
     <string name="passport_unknow_host_network_error">네트워크 설정을 확인하고 다시 시도하세요.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
-    <string name="passport_user_agreement_link">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하였으며 이에 동의합니다.</Data>"</string>
-    <string name="passport_user_agreement_link_more">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a>, &lt;a href=\"%4$s\">개인정보 보호정책&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>를(을) 숙지하였으며 이에 동의합니다.</Data>"</string>
+    <string name="passport_user_agreement_link">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data>"</string>
+    <string name="passport_user_agreement_link_more">"<Data>Xiaomi의 &lt;a href=\"%1$s\">이용 약관&lt;/a>, &lt;a href=\"%4$s\">개인정보 보호정책&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>를(을) 숙지하고 이에 동의해야 합니다.</Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호를 입력하세요.</string>
     <string name="passport_v_code_error">인증번호가 잘못되었습니다.</string>
     <string name="passport_wrong_voice">입력한 코드가 잘못되었습니다.</string>

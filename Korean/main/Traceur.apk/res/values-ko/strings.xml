@@ -271,7 +271,7 @@
     <string name="lb_playback_controls_shuffle_enable">셔플 사용</string>
     <string name="lb_playback_controls_skip_next">다음 건너뛰기</string>
     <string name="lb_playback_controls_skip_previous">이전 건너뛰기</string>
-    <string name="lb_playback_controls_thumb_down">엄지 손가락을 아래로 하시면 선택이 취소됩니다.</string>
+    <string name="lb_playback_controls_thumb_down">엄지 손가락을 아래로 하면 선택이 취소됩니다.</string>
     <string name="lb_playback_controls_thumb_down_outline">엄지 손가락을 아래로 선택하세요.</string>
     <string name="lb_playback_controls_thumb_up">엄지 손가락을 위로하여 선택을 취소하세요.</string>
     <string name="lb_playback_controls_thumb_up_outline">엄지 손가락을 위로 선택</string>
@@ -501,7 +501,7 @@
     <string name="wifi_wapi_user_certificate">사용자 인증서</string>
     <string name="window_animation_scale_title">창 애니메이션 스케일</string>
     <string name="zen_alarm_warning">"%1$s 다음 알람이 울리지 않습니다. "</string>
-    <string name="zen_alarm_warning_indef">이 기능을 끄지 않으시면 %1$s 다음 알람이 울리지 않습니다.</string>
+    <string name="zen_alarm_warning_indef">이 기능을 끄지 않으면 %1$s 다음 알람이 울리지 않습니다.</string>
     <string name="zen_interruption_level_priority">우선 순위만</string>
     <string name="zen_mode_duration_always_prompt_title">매번 물어보기</string>
     <string name="zen_mode_duration_settings_title">지속시간</string>

@@ -1322,7 +1322,7 @@
     <string name="launch_noapp_dialog_content">이 카드를 담당한 앱이 삭제되었습니다. 이 카드를 다른 것으로 바꿀 수 있습니다.</string>
     <string name="launch_no_dapp_dialog_content">이 카드를 담당한 듀얼 앱이 삭제되었습니다. 이 카드를 다른 것으로 바꿀 수 있습니다.</string>
     <string name="launch_no_dapp_dialog_title">듀얼 앱이 삭제되었습니다.</string>
-    <string name="like_facebook">마음에 드시면 \"%s\"님을 구독하세요!</string>
+    <string name="like_facebook">마음에 드면 \"%s\"님을 구독하세요!</string>
     <string name="live">생방송</string>
     <string name="loading">잠시만 기다리세요…</string>
     <string name="login_ola">로그인</string>

@@ -90,10 +90,10 @@
     <string name="count_ji_quan">모든 %d개 에피소드</string>
     <string name="count_qi">에피소드 %s개</string>
     <string name="data_buffering">버퍼링 중…</string>
-    <string name="datastream_alert_download">모바일 데이터로 동영상을 다운로드하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
+    <string name="datastream_alert_download">모바일 데이터로 동영상을 다운로드하면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
     <string name="datastream_alert_hint">언제든지 설정에서 모바일 데이터 스트리밍을 끌 수 있습니다.</string>
     <string name="datastream_alert_negative_button">취소</string>
-    <string name="datastream_alert_play">모바일 데이터로 동영상을 시청하시면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
+    <string name="datastream_alert_play">모바일 데이터로 동영상을 시청하면 많은 요금이 발생할 수 있습니다. 이번 달 데이터를 다 사용하셨다면, 추가요금이 발생할 수 있습니다.</string>
     <string name="datastream_alert_positive_button">계속하기</string>
     <string name="datastream_alert_title">데이터 사용 경고</string>
     <string name="day">일</string>
@@ -385,7 +385,7 @@
     <string name="use_cellular_network_summary">모바일 데이터를 이용하여 동영상을 다운로드합니다. 모바일 데이터 사용량이 증가합니다.</string>
     <string name="use_cellular_offlinedownload_summary">모바일 데이터를 이용하여 동영상을 다운로드시 알림 보기</string>
     <string name="use_cellular_offlinedownload_title">데이터 사용 알림</string>
-    <string name="use_cellular_play_summary">모바일 데이터로 동영상을 시청하면 데이터 사용량이 증가합니다. 남은 월사용량이 없으시면 추가요금이 발생합니다.</string>
+    <string name="use_cellular_play_summary">모바일 데이터로 동영상을 시청하면 데이터 사용량이 증가합니다. 남은 월사용량이 없으면 추가요금이 발생합니다.</string>
     <string name="use_cellular_play_title">모바일 데이터로 동영상 시청</string>
     <string name="user_tab">계정</string>
     <string name="version_select">버젼 선택</string>
