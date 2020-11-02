@@ -168,7 +168,7 @@
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"%s 일일 데이터 제한을 이미 모두 사용했습니다.
 
-모바일 데이터를 더 사용하시면 추가 요금이 부가됩니다."</item>
+모바일 데이터를 더 사용하면 추가 요금이 부가됩니다."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">%d개 앱 검색</item>
