@@ -114,8 +114,8 @@
         <item>이동통신사 관련 및 언어 설정과 기타 세부 정보에 접근합니다.</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>"검증되지 않은 타사 앱은 여러 문제를 유발하시스템 안정성을 저하시킬 수 있습니다."</item>
-        <item>일부 타사 앱에는 개인 데이터를 위험에 빠뜨리는 맬웨어가 포함되어있을 수 있습니다.</item>
+        <item>"검증되지 않은 타사 앱은 여러 문제를 유발하고 시스템 안정성을 저하할 수 있습니다."</item>
+        <item>일부 타사 앱에는 개인 데이터를 위협하는 맬웨어가 포함되어있을 수 있습니다.</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>내부 저장소</item>
