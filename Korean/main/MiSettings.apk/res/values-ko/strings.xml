@@ -287,7 +287,7 @@
     <string name="usage_home_premission_main_summary_new_o">"화면켜짐 시간 관리에 오신 것을 환영합니다.
 서비스를 제공하려면 화면 잠금해제 횟수, 각 앱 이름 및 화면 사용량 계산에 필요한 기간 등 화면 사용량에 대한 정보를 수집해야 합니다.
 기본 서비스를 제공하려면 인터넷에 연결하고 필요한 개인정보를 수집하기 위해 권한 또는 기능을 호출해야 합니다."</string>
-    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필요한 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 앱이 제대로 작동하지 않으면 "화면켜짐 시간 관리-> 설정-> 화면켜짐 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
+    <string name="usage_home_premission_second_summary_new">우리는 귀하의 개인정보를 보호하기 위해 관련 법률, 규정 및 개인정보 보호정책을 엄격히 준수합니다. 위의 필수 권한 또는 기능을 호출하는 데 동의하지 않거나 위의 정보를 수집 및 사용하는데 동의하지 않으면 이 앱이 제대로 작동하지 않으면 "화면켜짐 시간 관리-> 설정-> 화면켜짐 시간 관리 비활성화"를 통해 동의를 철회하거나 다른 개인정보 관련 문제가 privacy@xiaomi.com을 통해 문의 할 수 있습니다.</string>
     <string name="usage_creating_weekly_report">주간 보고서</string>
     <string name="usage_focus_new_summary">더 멋진 프로필 사진</string>
     <string name="usage_no_net_summary">네트워크 연결이 정상적인지 확인하세요.</string>
@@ -404,9 +404,9 @@
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>
     <string name="saturday_shortest">토</string>
-    <string name="screen_fps_summary_power_save">재생 빈도를 고정하여 배터리를 절약합니다.</string>
-    <string name="screen_fps_summary_smooth">지원하는 앱에서 자동으로 높은 재생 빈도를 사용하여 품질을 개선합니다.</string>
-    <string name="screen_fps_title">재생 빈도</string>
+    <string name="screen_fps_summary_power_save">화면 재생률을 고정하여 배터리를 절약합니다.</string>
+    <string name="screen_fps_summary_smooth">지원하는 앱에서 자동으로 높은 화면 재생률을 사용하여 품질을 개선합니다.</string>
+    <string name="screen_fps_title">화면 재생률</string>
     <string name="screen_fps_unit_power_save">%dHz(배터리 절약)</string>
     <string name="screen_fps_unit_smooth">%dHz(더 나은 품질)</string>
     <string name="sunday">일요일</string>
@@ -457,13 +457,13 @@
     <string name="focus_mode_custom_time">기간 설정</string>
     <string name="dc_light_hint_enable_title">주의</string>
     <string name="dc_light_hint_normal">깜박임 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_light_hint_other">깜박임 방지 모드는 재생 빈도 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_lignt_enable_hint">깜박임 방지 모드는 화면 재생 빈도를 60 Hz로 설정합니다. 깜박임 방지 모드로 전환하시겠습니까?</string>
-    <string name="fps_nature_summary">높은 재생 빈도로 모든 항목을 선명하고 명확하게 봅니다.</string>
+    <string name="dc_light_hint_other">깜박임 방지 모드는 화면 재생률 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
+    <string name="dc_lignt_enable_hint">깜박임 방지 모드는 화면 재생률을 60Hz로 설정합니다. 깜박임 방지 모드로 전환하시겠습니까?</string>
+    <string name="fps_nature_summary">높은 화면 재생률로 모든 항목을 선명하고 명확하게 봅니다.</string>
     <string name="fps_nature_title">높음</string>
-    <string name="fps_smooth_summary">중간 재생 빈도로 더 자세하게 봅니다.</string>
+    <string name="fps_smooth_summary">중간 화면 재생률로 더 자세하게 봅니다.</string>
     <string name="fps_smooth_title">중간</string>
-    <string name="fps_standard_summary">표준 재생 빈도로 배터리를 절약합니다.</string>
+    <string name="fps_standard_summary">표준 화면 재생률로 배터리를 절약합니다.</string>
     <string name="fps_standard_title">표준</string>
     <string name="fps_user_tip">이 애니메이션 예시는 참조를 위해 느린 속도로 재생됩니다. 실제 성능은 여러 요인에 의해 다르게 보일 수 있습니다.</string>
 </resources>

@@ -1144,7 +1144,7 @@
     <string name="installed_google_message_promo_content">Xiaomi는 Google 메시지 앱 사용을 권장합니다. Google 메시지로 Wi-Fi 환경에서 메시지 발신, 고품질 미디어 공유 등이 가능합니다.</string>
     <string name="installed_google_message_promo_title">메시지 사용 시작</string>
     <string name="permission_retry_deny">취소</string>
-    <string name="permission_retry_dialog_msg">메시지 앱이 정상적으로 작동하려면 권한이 필요합니다. 필요한 권한을 부여하려면, \"설정\"을 누르고 \"앱 권한\"을 선택하여, 앱에 전화, SMS, 주소록 접근을 허용하세요</string>
+    <string name="permission_retry_dialog_msg">메시지 앱이 정상적으로 작동하려면 권한이 필요합니다. 필수 권한을 부여하려면, \"설정\"을 누르고 \"앱 권한\"을 선택하여, 앱에 전화, SMS, 주소록 접근을 허용하세요</string>
     <string name="permission_retry_setting">설정</string>
     <string name="pref_summary_enable_classify">광고 및 금융 메시지를 별개의 탭으로 이동합니다.</string>
     <string name="pref_title_enable_classify">메시지 자동 묶기</string>

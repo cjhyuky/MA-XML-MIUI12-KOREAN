@@ -1013,7 +1013,7 @@
     <string name="use_photo_as_primary2">%1$s개의 연락처 사진 사용</string>
     <string name="label_custom_type">사용자 지정</string>
     <string name="loading_accounts">잠시만 기다리세요…</string>
-    <string name="pkgLabel">연락처와 다이얼</string>
+    <string name="pkgLabel">연락처 및 다이얼</string>
     <string name="contact_edit_save_error_empty">연락처가 비어 있습니다.</string>
     <string name="preference_smart_group_title">스마트 그룹</string>
     <string name="preference_smart_group_company_title">회사</string>

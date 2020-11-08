@@ -340,7 +340,7 @@
     <string name="recommend_switch_title">맞춤 추천</string>
     <string name="refresh_network">새로고침</string>
     <string name="remove">삭제</string>
-    <string name="req_permission_dis_tip">필요한 권한</string>
+    <string name="req_permission_dis_tip">필수 권한</string>
     <string name="resource_apply">적용</string>
     <string name="resource_no_network_text">네트워크에 접속할 수 없습니다.</string>
     <string name="rv_with_footer_empty">아직 아무것도 없음</string>

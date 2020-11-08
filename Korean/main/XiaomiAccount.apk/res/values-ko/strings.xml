@@ -511,12 +511,12 @@ ID:%s
     <string name="i_agree">확인</string>
     <string name="i_agree_continue">동의</string>
     <string name="kr_license_desc">Mi 계정과 Xiaomi 클라우드 서비스를 사용하려면 이용 약관과 개인정보 보호정책에 동의해야 합니다.</string>
-    <string name="kr_permission_contacts_desc">연락처 정보를 조회합니다.</string>
-    <string name="kr_permission_desc">필요한 권한</string>
+    <string name="kr_permission_contacts_desc">연락처 정보를 불러옵니다.</string>
+    <string name="kr_permission_desc">필수 권한</string>
     <string name="kr_permission_phone_desc">계정을 보호합니다.</string>
     <string name="kr_permission_sms_desc">인증번호를 자동으로 채웁니다.</string>
     <string name="kr_permission_storage_desc">진단 정보를 저장합니다.</string>
-    <string name="optional_permissions">선택적인 권한</string>
+    <string name="optional_permissions">선택 권한</string>
     <string name="passport_privacy_policy_required">개인정보 보호정책 (필수)</string>
     <string name="passport_user_agreement_required">이용 약관 (필수)</string>
     <string name="permission_group_contacts">연락처</string>
@@ -561,7 +561,7 @@ ID:%s
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="common_open_on_phone">폰에서 열기</string>
     <string name="common_signin_button_text">로그인</string>
-    <string name="common_signin_button_text_long">Google계정으로 로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
     <string name="search_menu_title">검색</string>
     <string name="two_factor_auth">이중 인증</string>
     <string name="two_factor_auth_click_confirm">로그인 확인</string>
@@ -652,8 +652,8 @@ ID:%s
     <string name="find_device_open">켜짐</string>
     <string name="find_device_play_sound">소리 재생</string>
     <string name="find_device_set_lost_model">분실 모드</string>
-    <string name="facebook_login">페이스북 계정으로 로그인</string>
-    <string name="google_login">구글 계정으로 로그인</string>
+    <string name="facebook_login">Facebook 계정으로 로그인</string>
+    <string name="google_login">Google 계정으로 로그인</string>
     <string name="passport_uplink_send_sms_hint">"작성된 메시지 화면으로 이동되면 \"보내기\"를 누르세요."</string>
     <string name="passport_uplink_sms_send_cancel">업링크 SMS 보내기 취소됨</string>
     <string name="passport_uplink_sms_send_confirm">보냄</string>

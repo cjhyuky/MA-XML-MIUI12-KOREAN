@@ -179,7 +179,7 @@
     <string name="kr_authorization_privacy_policy">개인정보 보호정책 (필수)</string>
     <string name="kr_authorization_select_all">모두 선택</string>
     <string name="kr_authorization_storage">저장소</string>
-    <string name="kr_authorization_storage_desc">저장소에 액세스하고 로그, 이미지 및 동영상을 포함하여 항목을 저장하기 위함</string>
+    <string name="kr_authorization_storage_desc">저장소에 접근하고 로그, 이미지 및 동영상을 포함하여 항목을 저장합니다.</string>
     <string name="kr_authorization_summary">법률 문서</string>
     <string name="kr_authorization_user_protocol">이용 약관 (필수)</string>
     <string name="loading_apps">목록 불러오는 중…</string>

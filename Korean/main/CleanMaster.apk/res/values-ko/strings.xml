@@ -844,7 +844,7 @@
     <string name="permission_dialog_storage_btn1">설정</string>
     <string name="permission_dialog_storage_btn2">취소</string>
     <string name="permission_dialog_storage_content">클리너가 정상적으로 작동하려면 내부 저장소 접근 권한이 필요합니다. \"설정\"을 눌러 저장소 권한을 관리하세요.</string>
-    <string name="permission_dialog_storage_title">필요 권한</string>
+    <string name="permission_dialog_storage_title">필수 권한</string>
     <string name="notification_checker_installed_apk_hint">설치한 APK 파일은 보관하지 않아도 됩니다.</string>
     <string name="notification_checker_picture_hint_a">캐시된 이미지는 많은 저장공간을 차지할 수 있습니다.</string>
     <string name="notification_checker_picture_hint_b">더 이상 필요없는 항목을 삭제하여 저장공간을 확보하세요.</string>

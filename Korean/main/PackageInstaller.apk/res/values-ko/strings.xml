@@ -753,9 +753,9 @@
     <string name="power_discharge_by">약 %1$s (%2$s) 사용 가능</string>
     <string name="power_discharge_by_enhanced">%2$s 사용으로 약 %1$s 사용 가능</string>
     <string name="power_discharge_by_only">약 %1$s 사용 가능</string>
-    <string name="power_discharge_by_only_enhanced">사용패턴상 약 %1$s 사용 가능</string>
+    <string name="power_discharge_by_only_enhanced">사용 패턴상 약 %1$s 사용 가능</string>
     <string name="power_discharging_duration_enhanced">%2$s 사용으로 약 %1$s 동안 사용 가능</string>
-    <string name="power_remaining_duration_only_enhanced">사용패턴상 약 %1$s 남음</string>
+    <string name="power_remaining_duration_only_enhanced">사용 패턴상 약 %1$s 남음</string>
     <string name="power_remaining_duration_only_shutdown_imminent">전화가 곧 꺼집니다.</string>
     <string name="power_remaining_duration_shutdown_imminent">전화가 곧 꺼집니다(%1$s)</string>
     <string name="power_remaining_less_than_duration">남은시간 : %1$s 이하(%2$s)</string>

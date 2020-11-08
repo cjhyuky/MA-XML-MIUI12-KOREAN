@@ -929,7 +929,7 @@
     <string name="express_more_service">더많은 서비스</string>
     <string name="express_no_info">정보 없음</string>
     <string name="express_not_authorized">거절됨</string>
-    <string name="express_num_setting_des">귀하의 휴대전화에 설치된 배송조회 앱에서 주문 번호를 받습니다.</string>
+    <string name="express_num_setting_des">귀하의 휴대전화에 설치된 배송 조회 앱에서 주문 번호를 받습니다.</string>
     <string name="express_num_setting_title">주문 정보에 접근</string>
     <string name="express_number_txt">주문 번호:</string>
     <string name="express_open">배송 조회 카드 열기</string>
@@ -940,9 +940,9 @@
     <string name="express_setting_authorized_number">인증된 휴대전화 번호</string>
     <string name="express_setting_authorized_number_add">추가</string>
     <string name="express_setting_authorized_number_delete">삭제</string>
-    <string name="express_setting_authorized_number_description">개인정보 상태: 귀하의 휴대전화 번호는 배송조회와 상태를 체크하는 곳에만 사용됩니다.</string>
+    <string name="express_setting_authorized_number_description">개인정보 상태: 귀하의 휴대전화 번호는 배송 조회와 상태를 체크하는 곳에만 사용됩니다.</string>
     <string name="express_setting_authorized_number_empty">"휴대전화 번호를 아직 인증받지 않았습니다."</string>
-    <string name="express_setting_brief">주문 배송조회</string>
+    <string name="express_setting_brief">주문 배송 조회</string>
     <string name="express_setting_brief_detail">귀하의 휴대전화 번호와 주문번호를 이용하여 모든 주문을 추적합니다.</string>
     <string name="express_setting_code_invalid">"올바른 코드를 입력했는지 확인하세요"</string>
     <string name="express_setting_count_down_time">%ds번째 시도. 다시 시도하세요.</string>

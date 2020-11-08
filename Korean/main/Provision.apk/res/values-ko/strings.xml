@@ -7,7 +7,7 @@
     <string name="locale_picker_other_locale_title">기타 지역</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">개인정보 보호정책</string>
     <string name="service_name_fast_pairing">Mi 링크</string>
-    <string name="skip_gesture_guide_dialog_message">이 옵션을 선택하기 전에 전체 화면 제스처 사용 방법을 숙지하세요.</string>
+    <string name="skip_gesture_guide_dialog_message">전체 화면 제스처 사용 방법을 충분히 숙지하셨나요?</string>
     <string name="skip_gesture_guide_dialog_negative_btn">취소</string>
     <string name="skip_gesture_guide_dialog_positive_btn">확인</string>
     <string name="skip_gesture_guide_dialog_title">전체 화면 제스처</string>
@@ -40,7 +40,7 @@
 2026"</string>
     <string name="other_settings">추가 설정</string>
     <string name="other_settings_location">위치</string>
-    <string name="other_settings_location_summary">앱이 위치 정보를 조회하도록 허용합니다.</string>
+    <string name="other_settings_location_summary">앱이 위치 정보를 불러오도록 허용합니다.</string>
     <string name="other_settings_user_experience">사용자 체험 프로그램</string>
     <string name="other_settings_user_experience_summary">익명의 사용량 데이터를 보내서 제품 및 서비스 개선을 도와주세요.</string>
     <string name="other_settings_upload_debug_log_title">자동으로 데이터 진단 전송</string>
@@ -75,13 +75,13 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="agree_terms">"이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다."</string>
     <string name="miui_terms_no_network">"인터넷에 연결되어 있지 않습니다. %s에서 사용자 이용 약관을 보세요."</string>
     <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인정보 보호정책을 보세요.</string>
-    <string name="locale_picker_title">지역을 선택하세요.</string>
+    <string name="locale_picker_title">지역 선택</string>
     <string name="install_preinstall_app">앱 불러오는 중…</string>
     <string name="title_fingerprint">지문 추가</string>
-    <string name="desc_fingerprint">귀하의 지문을 사용하여 기기 잠금해제, Mi Pay 거래, 앱과 서비스에 로그인하세요.</string>
+    <string name="desc_fingerprint">지문을 사용하여 기기 잠금해제, Mi Pay 거래, 앱과 서비스에 로그인하세요.</string>
     <string name="next_fingerprint">다음</string>
     <string name="desc_extra_international_fingerprint" />
-    <string name="desc_international_fingerprint">귀하의 지문을 사용하여 기기 잠금해제, 앱과 서비스에 로그인하세요.</string>
+    <string name="desc_international_fingerprint">지문을 사용하여 기기 잠금해제, 앱과 서비스에 로그인하세요.</string>
     <string name="content_description_start">시작</string>
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
@@ -277,7 +277,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="move_data_dialog_use">사용</string>
     <string name="home_settings_miui_home">클래식</string>
     <string name="home_settings_poco_launcher">앱 서랍</string>
-    <string name="home_settings_title">기본 실행기 선택</string>
+    <string name="home_settings_title">기본 홈 화면 선택</string>
     <string name="wc_dialog_agree">동의</string>
     <string name="wc_dialog_reject">"동의 안 함"</string>
     <string name="wc_dialog_summary">슬라이드형 배경화면을 통해 날마다 멋진 이미지와 흥미로운 이야기를 잠금 화면에서 만나보세요.</string>

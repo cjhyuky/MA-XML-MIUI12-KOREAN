@@ -19,7 +19,7 @@
     <string name="developer_title">통신 개발자 메뉴</string>
     <string name="duplicate_video_call_not_allowed">"더 이상 통화를 추가할 수 없습니다."</string>
     <string name="notification_channel_call_blocking">통화 차단</string>
-    <string name="outgoing_call_not_allowed_no_permission">"이 앱은 필요한 권한 없이 전화를 걸 수 없습니다."</string>
+    <string name="outgoing_call_not_allowed_no_permission">"이 앱은 필수 권한 없이 전화를 걸 수 없습니다."</string>
     <string name="phone_settings_call_blocking_txt">통화 차단</string>
     <string name="phone_settings_number_not_in_contact_summary_txt">"주소록에 없는 번호로 걸려온 통화를 차단합니다."</string>
     <string name="phone_settings_number_not_in_contact_txt">주소록에 없는 번호</string>

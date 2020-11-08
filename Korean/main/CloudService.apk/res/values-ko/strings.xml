@@ -1000,8 +1000,8 @@ Xiaomi 클라우드를 사용하기 전에 당사의 "&lt;u&gt;&lt;a href="app:/
     <string name="micloud_manual_request_permission_cancel">취소</string>
     <string name="micloud_manual_request_permission_confirm">설정</string>
     <string name="micloud_manual_request_permission_content">이 서비스를 이용하려면, 설정에서 Xiaomi 클라우드에 다음 권한을 부여하세요: \"%s\".</string>
-    <string name="micloud_manual_request_permission_content_on_provision">먼저 보안 앱에서 필요한 권한을 부여하세요.</string>
-    <string name="micloud_manual_request_permission_title">필요한 권한</string>
+    <string name="micloud_manual_request_permission_content_on_provision">먼저 보안 앱에서 필수 권한을 부여하세요.</string>
+    <string name="micloud_manual_request_permission_title">필수 권한</string>
     <string name="privacy_doc_cloudservice_global">Xiaomi 클라우드를 정상적으로 실행하려면 인터넷에 연결해야 합니다. 데이터 동기화는 모바일 데이터를 사용하거나 Wi-Fi를 켜야 합니다. Xiaomi 클라우드 서비스를 이용하려면 &lt;a href=%1$s>&lt;u>이용 약관&lt;/u>&lt;/a> 및 &lt;a href=%2$s>&lt;u>개인정보 보호정책&lt;/u>&lt;/a>을 숙지하고 이에 동의해야 합니다.</string>
     <string name="share_location_app_name">찾기</string>
     <string name="share_location_dialog_confirm">확인</string>

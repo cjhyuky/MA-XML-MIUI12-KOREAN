@@ -175,7 +175,7 @@
     <string name="mimarket_intercept_warning_msg">"이 앱은 Xiaomi에서 바이러스를 검사하지 않았습니다. 보안 위험을 피하기 위해 Mi 앱스토어에서이 앱을 설치하세요."</string>
     <string name="miui_app_danger">"이 앱은 안전하지 않으므로 설치하지 마세요."</string>
     <string name="miui_app_detail">세부 사항</string>
-    <string name="miui_app_permission_detail">필요한 권한</string>
+    <string name="miui_app_permission_detail">필수 권한</string>
     <string name="miui_app_virus">"이 앱은 바이러스이므로 설치하지 마세요."</string>
     <string name="miui_clean">지우기</string>
     <string name="miui_clear_apks">설치 패키지 및 잔여 데이터(%s) 삭제</string>

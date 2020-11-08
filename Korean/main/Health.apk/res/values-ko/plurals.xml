@@ -131,16 +131,16 @@
         <item quantity="other">"초 "</item>
     </plurals>
     <plurals name="sport_tts_goal_time">
-        <item quantity="other">목표까지 %s분 남았습니다</item>
+        <item quantity="other">목표까지 %s분 남았습니다.</item>
     </plurals>
     <plurals name="sporting_content_calories">
-        <item quantity="other">총 %1$d칼로리 소모</item>
+        <item quantity="other">총 %1$d칼로리를 소모했습니다.</item>
     </plurals>
     <plurals name="sporting_content_riding_km">
-        <item quantity="other">라이딩 시작 후 %1$skm째</item>
+        <item quantity="other">%1$skm 라이딩했습니다.</item>
     </plurals>
     <plurals name="sporting_content_running_km">
-        <item quantity="other">달리기 시작 후 %1$skm째</item>
+        <item quantity="other">%1$skm 달렸습니다.</item>
     </plurals>
     <plurals name="sporting_content_speed">
         <item quantity="other">현재 속도는 %1$d분에 %2$dkm입니다.</item>
@@ -149,10 +149,10 @@
         <item quantity="other">共用时%1$d分%2$d秒</item>
     </plurals>
     <plurals name="sporting_content_walking_km">
-        <item quantity="other">共走了%1$s千米</item>
+        <item quantity="other">%1$skm 걸었습니다.</item>
     </plurals>
     <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">您已经步行%1$d步</item>
+        <item quantity="other">%1$s보 걸었습니다.</item>
     </plurals>
     <plurals name="sporting_unit_calories">
         <item quantity="other">%1$d 칼로리</item>
@@ -161,10 +161,10 @@
         <item quantity="other">%1$s千米</item>
     </plurals>
      <plurals name="sport_tts_goal_consume">
-         <item quantity="other">목표에 도달까지 소모할 칼로리가 %s 남았습니다</item>
+         <item quantity="other">목표 도달까지 소모할 칼로리가 %s 남았습니다</item>
      </plurals>
      <plurals name="sport_tts_goal_distance">
-         <item quantity="other">목표에 도달까지 %s 킬로미터 남았습니다</item>
+         <item quantity="other">목표 도달까지 %s 킬로미터 남았습니다</item>
     </plurals>
      <plurals name="sport_tts_riding_distance">
          <item quantity="other">"%s 킬로미터를 운행했습니다."</item>
@@ -180,5 +180,11 @@
     </plurals>
     <plurals name="sporting_unit_step">
         <item quantity="other">걸음</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d분</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d초</item>
     </plurals>
 </resources>

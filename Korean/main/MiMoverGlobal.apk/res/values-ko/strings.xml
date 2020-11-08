@@ -149,7 +149,7 @@
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">Mi 계정 문제로 인해 동기화가 꺼졌습니다.</string>
     <string name="error_not_acceptable">동기화가 꺼졌습니다.</string>
-    <string name="error_permissions">"이 앱에는 캘린더에 액세스하는 데 필요한 권한이 없습니다. 계속하려면 설정으로 이동하여 권한을 확인하세요."</string>
+    <string name="error_permissions">"이 앱에는 캘린더에 액세스하는 데 필수 권한이 없습니다. 계속하려면 설정으로 이동하여 권한을 확인하세요."</string>
     <string name="error_title">"동기화할 수 없음"</string>
     <string name="error_unauthorized">로그인 시도가 너무 많아 동기화가 해제되었습니다.</string>
     <string name="err_authentication_failed">"인증할 수 없음"</string>
@@ -299,7 +299,7 @@
     <string name="international_scanner_send_dialog_message">"일부 타사 앱의 문자 메시지 및 앱 데이터는 전송할 수 없습니다. 전송 중에 Wi-Fi을 끄거나 네트워크간에 전환하지 마세요."</string>
     <string name="label">MIUI SDK</string>
     <string name="lack_perm_msg">Mi Mover가 정상적으로 작동하려면 <b>%s</b> 권한이 필요합니다.</string>
-    <string name="lack_perm_title">필요한 권한</string>
+    <string name="lack_perm_title">필수 권한</string>
     <string name="launcher">홈 화면 구성</string>
     <string name="less_than_1_minute">1분 미만</string>
     <string name="loading_data">1초…</string>
@@ -312,7 +312,7 @@
     <string name="main_chooser_item_android_others">다른 Android 휴대전화에서 가져오기</string>
     <string name="main_chooser_item_ios">iPhone에서 가져오기</string>
     <string name="main_chooser_title">이전 기기 선택</string>
-    <string name="message_request_package_stats_perm">\"계속\"을 탭하여 설정을 열고 Mi Mover에 필요한 권한을 부여하세요.</string>
+    <string name="message_request_package_stats_perm">\"계속\"을 탭하여 설정을 열고 Mi Mover에 필수 권한을 부여하세요.</string>
     <string name="midnight">오전</string>
     <string name="miui_need_location_permission_summary">"주변에 있는 기기를 찾기 위해 Mi Mover가 내 위치 정보에 접근할 수 있도록 허용합니다. 이 권한을 부여하지 않으면 Mi Mover를 사용할 수 없습니다."</string>
     <string name="miui_need_location_permission_title">위치에 대한 액세스 허용</string>
@@ -355,7 +355,7 @@
     <string name="name_password_not_consistent">"입력한 Apple ID와 비밀번호가 일치하지 않습니다."</string>
     <string name="need_location_permission_confirm">설정</string>
     <string name="need_location_permission_summary">Mi Mover가 내 위치 정보에 접근하여 주변 기기를 찾을 수 있도록 허용합니다.</string>
-    <string name="need_location_permission_title">필요한 권한</string>
+    <string name="need_location_permission_title">필수 권한</string>
     <string name="need_more_memory_cacel">취소</string>
     <string name="need_more_memory_confirm">클리너</string>
     <string name="need_more_memory_summary">"저장공간이 충분하지 않습니다. Mi Mover는 전송 전에 압축된 패키지를 생성하기 위해 %1$s의 추가 저장공간이 필요합니다 .1. 중요한 항목만 전송 해보십시오 .2. 많은 데이터 .3. Cleaner를 사용하여 저장공간을 확보하세요. "</string>
@@ -366,7 +366,7 @@
     <string name="new_trans_intro_desc_3">Mi Mover는 새 기기로 보내기 전에 이전 기기에 전송 패키지를 생성하기 위한 저장공간이 필요합니다. 계속하려면 저장공간을 확보하세요.</string>
     <string name="new_trans_intro_desc_4">일부 앱이 성공적으로 전송되지 못하게하는 기기, 시스템 및 앱 버전 호환성 문제가있을 수 있습니다.</string>
     <string name="new_trans_intro_desc_5">"일부 앱 (예 : 금융 서비스 및 결제 도구)은 보안상의 이유로 비밀번호 전송을 허용하지 않습니다."</string>
-    <string name="new_trans_intro_desc_6">새 Mi 휴대전화에 필요한 권한이 없을 수 있습니다.</string>
+    <string name="new_trans_intro_desc_6">새 Mi 휴대전화에 필수 권한이 없을 수 있습니다.</string>
     <string name="new_trans_intro_desc_7">Mi Mover는 중단 한 부분부터 다시 시작할 수 있습니다. 그러나 기기 호환성 문제로 인해 중단된 전송을 재개 할 수 없는 경우 다시 시작해야 할 수 있습니다.</string>
     <string name="new_trans_intro_desc_8">이전 기기의 WeChat 기록은 이전하는 동안 새 기기의 WeChat 기록을 덮어 씁니다.</string>
     <string name="new_trans_intro_desc_new">1. 새 기기의 Mi Mover가 최신 상태인지 확인하세요. GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 다음 링크를 사용할 수 있습니다 : %1$s.</string>
@@ -431,8 +431,8 @@
     <string name="password">비밀번호 입력</string>
     <string name="password_null">"비밀번호는 비워 둘 수 없습니다."</string>
     <string name="permdesc_sendSmsNoConfirmation">앱은 사용자의 허락없이 SMS 메시지를 보낼 수 있습니다. 이동통신사에서 이러한 메시지에 대해 요금을 청구 할 수 있습니다.</string>
-    <string name="permission_alert_message_usage_access">Mi Mover는 앱 사용 통계에 액세스해야 합니다. Mi Mover에게 설정에서 필요한 권한을 부여하세요.</string>
-    <string name="permission_alert_title">필요한 권한</string>
+    <string name="permission_alert_message_usage_access">Mi Mover는 앱 사용 통계에 액세스해야 합니다. Mi Mover에게 설정에서 필수 권한을 부여하세요.</string>
+    <string name="permission_alert_title">필수 권한</string>
     <string name="permission_bluetooth_summary">주변에서 사용 가능한 기기 찾기</string>
     <string name="permission_bluetooth_title">블루투스 켜기 및 끄기</string>
     <string name="permission_calender_summary">iCloud에서 캘린더 이벤트 전송 용</string>
@@ -634,7 +634,7 @@
     <string name="thursday_short">목</string>
     <string name="time_picker_dialog_title">시간 설정</string>
     <string name="time_spent">시간 : <g id="time">%1$s</g></string>
-    <string name="title_request_package_stats_perm">필요한 권한</string>
+    <string name="title_request_package_stats_perm">필수 권한</string>
     <string name="title_request_write_settings_perm">필요한 시스템 설정 변경 권한</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>

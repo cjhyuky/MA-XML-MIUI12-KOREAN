@@ -832,7 +832,7 @@
     <string name="failed_not_access_sd_card">우선 SD 카드 액세스를 허용하세요.</string>
     <string name="failed_obtain_permissions">"SD 카드 액세스 권한이 없습니다."</string>
     <string name="not_support_documentui">"문서 앱이 이 기기에서 지원되지 않습니다."</string>
-    <string name="request_document_permission">SD 카드의 파일을 관리하려면 파일 탐색기에 필요한 권한을 부여하세요.</string>
+    <string name="request_document_permission">SD 카드의 파일을 관리하려면 파일 탐색기에 필수 권한을 부여하세요.</string>
     <string name="request_document_permission_title">권한이 필요함</string>
     <string name="menu_set_wallpaper">배경화면으로 설정</string>
     <string name="ftp_anonymous_warning_msg">익명화 기능으로 인해 보안 위험이 발생할 수 있습니다. 그래도 이 기능을 사용하시겠습니까?</string>

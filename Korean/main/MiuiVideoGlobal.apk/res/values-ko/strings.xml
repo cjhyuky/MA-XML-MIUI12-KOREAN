@@ -434,7 +434,7 @@
     <string name="permission_info1">Mi 동영상은 다음을 수행하기 위해 기기의 IMEI 번호에 액세스해야 합니다.</string>
     <string name="permission_info2">기기에 대한 서비스를 더 잘 커스터마이징해보세요.</string>
     <string name="permission_info3">계정의 보안을 강화하세요.</string>
-    <string name="permission_title">필요한 권한</string>
+    <string name="permission_title">필수 권한</string>
     <string name="phone_bind_too_many">이 휴대전화는 단기간에 여러 개의 Mi 계정과 연결되어 있습니다. 다른 전화번호를 사용해보세요.</string>
     <string name="phone_hint">전화번호</string>
     <string name="phone_number">전화번호</string>
@@ -474,10 +474,10 @@
     <string name="pw_onlineservice_open_info">이 기능을 사용하려면 온라인 서비스를 사용하세요.</string>
     <string name="pw_onlineservice_open_title">주의</string>
     <string name="pw_people_search">인기있는</string>
-    <string name="pw_permission_content">필요한 권한없이 Mi 동영상을 사용할 수 없습니다.</string>
+    <string name="pw_permission_content">필수 권한없이 Mi 동영상을 사용할 수 없습니다.</string>
     <string name="pw_permission_refuse">그래도 제한</string>
     <string name="pw_permission_retry">허용</string>
-    <string name="pw_permission_title">필요한 권한</string>
+    <string name="pw_permission_title">필수 권한</string>
     <string name="pw_score">평점</string>
     <string name="pw_search_hint">검색할 키워드 입력</string>
     <string name="pw_search_history_clear">검색 기록 지우기</string>

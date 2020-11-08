@@ -26,7 +26,7 @@
     <string name="hint_edit_text">추적 버퍼 크기 (KB)</string>
     <string name="hint_enable_bugreport">버그 보고서 [시간 오래 걸림]</string>
     <string name="hint_enable_dumpsys">dumpsys [시간 오래 걸림]</string>
-    <string name="hint_icon_hidden">"실행기의 앱 목록에서 Perfdump 아이콘을 숨긴 다음"</string>
+    <string name="hint_icon_hidden">"홈 화면의 앱 목록에서 Perfdump 아이콘을 숨긴 다음"</string>
     <string name="hint_icon_hidden_title">Perfdump 아이콘 구성</string>
     <string name="hint_layer_option">레이어 목록 :</string>
     <string name="hint_screencap_fps_record">FPS 레코드 시작 / 중지시 화면 캡처</string>

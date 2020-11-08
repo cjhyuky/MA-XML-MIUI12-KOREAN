@@ -177,7 +177,7 @@
     <string name="perm_send_push_dspt">Mi 푸시 메시지 허용</string>
     <string name="perm_send_push_lab">푸시 메시지 전송</string>
     <string name="permdesc_manageLocationPolicy">앱이 위치 정책을 관리하고 앱 지정 규칙을 정의하도록 허용합니다.</string>
-    <string name="permlab_manageLocationPolicy">위치 정보 조회</string>
+    <string name="permlab_manageLocationPolicy">위치 정보 불러오기</string>
     <string name="picture">사진</string>
     <string name="popup_camera_calibrate_failed">"보정 실패"</string>
     <string name="popup_camera_calibrate_now">보정</string>

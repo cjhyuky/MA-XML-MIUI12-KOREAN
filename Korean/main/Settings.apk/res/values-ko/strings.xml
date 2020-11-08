@@ -384,8 +384,8 @@
     <string name="add_fingerprint_instruction_title">지문 추가</string>
     <string name="add_fingerprint_move_fast">화면에 손가락을 좀 더 오래 두세요.</string>
     <string name="add_fingerprint_name_suggest_text">지문 이름</string>
-    <string name="add_fingerprint_put_finger_edge_msg">센서 위에 올려놓은 손가락을 살짝 움직이며 지문의 모든 부분이 추가될 수 있도록 하세요.</string>
-    <string name="add_fingerprint_put_finger_msg">센서에 손가락을 올리고 진동을 느끼면 떼세요.</string>
+    <string name="add_fingerprint_put_finger_edge_msg">센서 위에 올린 손가락을 조금씩 이동하며 지문의 모든 부분을 추가하세요.</string>
+    <string name="add_fingerprint_put_finger_msg">센서에 손가락을 올리고 진동을 느껴지면 떼세요.</string>
     <string name="add_fingerprint_put_finger_title">지문 추가</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">손가락을 살짝 옮겨주세요.</string>
     <string name="add_fingerprint_success_msg">성공적으로 추가됨</string>
@@ -462,7 +462,7 @@
     <string name="alert_title_restore_from_miasist">Mi PC Suite를 사용하여 항목을 복원하시겠습니까?</string>
     <string name="all_volume_title">볼륨</string>
     <string name="allow">허용</string>
-    <string name="allow_all_rotations_title">모든 회전 허용</string>
+    <string name="allow_all_rotations_title">모든 방향 회전 허용</string>
     <string name="allow_bind_app_widget_activity_allow_bind">위젯을 만든 다음에는 %1$s에서 위젯이 표시하는 모든 데이터에 액세스할 수 있습니다.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">위젯을 만들고 액세스를 허용하시겠습니까?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s에서 위젯을 만들고 자체 데이터에 액세스할 수 있도록 항상 허용</string>
@@ -3087,7 +3087,7 @@
     <string name="error_mcc_not3">MCC는 3자리 숫자여야 합니다.</string>
     <string name="error_mnc_not23">MNC는 2~ 3자리 숫자여야 합니다.</string>
     <string name="error_name_empty">이름 입력란은 비워둘 수 없습니다.</string>
-    <string name="error_permissions">이 앱에는 캘린더에 액세스하는 데 필요한 권한이 없습니다. 계속하려면 설정으로 이동하여 권한을 확인하세요.</string>
+    <string name="error_permissions">이 앱에는 캘린더에 액세스하는 데 필수 권한이 없습니다. 계속하려면 설정으로 이동하여 권한을 확인하세요.</string>
     <string name="estimated_charging_time_left">완전 충전까지</string>
     <string name="estimated_time_description">사용 패턴에 따른 추정치</string>
     <string name="estimated_time_left">남은 사용 시간</string>
@@ -3394,7 +3394,7 @@
     <string name="force_touch">3D 터치</string>
     <string name="force_touch_demo">데모 표시</string>
     <string name="force_touch_enable">3D 터치 켜기</string>
-    <string name="force_touch_enable_tips">3D 터치가 켜져있을 때 실행기의 앱 아이콘을 눌러서 바로가기 메뉴를 볼 수 있습니다.</string>
+    <string name="force_touch_enable_tips">3D 터치가 켜져있을 때 홈 화면의 앱 아이콘을 눌러서 바로가기 메뉴를 볼 수 있습니다.</string>
     <string name="foreground_traffic">%s 메인 화면</string>
     <string name="forget">삭제</string>
     <string name="forget_passpoint_dialog_message">남은 시간 또는 데이터를 이용하지 못할 수 있습니다. 삭제하기 전에 제공업체에 확인하세요.</string>
@@ -3569,7 +3569,7 @@
     <string name="gxzw_add_fingerprint_continue">계속</string>
     <string name="gxzw_add_fingerprint_edge_message">손가락을 옮겨 지문인식 센서가 모든 지문을 인식할 수 있도록 하세요.</string>
     <string name="gxzw_add_fingerprint_edge_title">손가락을 살짝 옮겨 주세요.</string>
-    <string name="gxzw_add_fingerprint_finish">마무리</string>
+    <string name="gxzw_add_fingerprint_finish">" 추가 완료!"</string>
     <string name="gxzw_add_fingerprint_indicate">세게 누르세요.</string>
     <string name="gxzw_add_fingerprint_know">알겠습니다.</string>
     <string name="gxzw_add_fingerprint_message">화면과 손가락을 깨끗한 상태로 유지하세요.</string>
@@ -4206,7 +4206,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="location_access_off">끔</string>
     <string name="location_access_on">켬</string>
     <string name="location_access_summary">권한을 부여받은 앱이 사용자의 위치 정보를 조회할 수 있습니다.</string>
-    <string name="location_access_title">위치 정보 조회</string>
+    <string name="location_access_title">위치 정보 불러오기</string>
     <string name="location_agps_apn_choose_dialog_title">APN 유형</string>
     <string name="location_agps_apn_summary">기본 APN 유형 선택</string>
     <string name="location_agps_apn_type">APN 유형</string>
@@ -4297,7 +4297,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lock_profile_wipe_warning_content_pattern">이번에도 패턴을 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입하세요.</string>
     <string name="lock_profile_wipe_warning_content_pin">이번에도 PIN 번호를 잘못 기입할 경우, 관련 데이터가 모두 삭제됩니다. 신중히 기입하세요.</string>
     <string name="lock_profile_wipe_warning_title">마지막 기회</string>
-    <string name="lock_screen_action">잠금 화면에서 아래로 밀어 표시할 항목</string>
+    <string name="lock_screen_action">잠금 화면에서 표시할 항목</string>
     <string name="lock_screen_cells_title">홈 화면 구성 잠금</string>
     <string name="lock_screen_display_category_name">잠금 화면</string>
     <string name="lock_screen_intro_skip_dialog_text">기기 보호 서비스가 비활성화됩니다. 분실 또는 도난 등에서 사용자 기기를 보호할 수 없습니다.</string>
@@ -4379,7 +4379,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">지문을 사용하려면 PIN을 설정하세요.</string>
     <string name="lockpassword_choose_your_pin_header_second_space">보조 공간을 위한\nPIN 설정</string>
     <string name="lockpassword_choose_your_pin_message">보안을 위해 PIN을 설정하세요.</string>
-    <string name="lockpassword_choose_your_pin_title" formatted="false">%1$d-%2$d 자리수를 입력하세요.</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">%1$d-%2$d자리 숫자를 입력하세요.</string>
     <string name="lockpassword_choose_your_screen_lock_header">화면 잠금 설정</string>
     <string name="lockpassword_clear_label">지우기</string>
     <string name="lockpassword_confirm_for_second_user">보조 공간 비밀번호 승인</string>
@@ -5667,7 +5667,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="others">기타 설정</string>
     <string name="overlay_display_devices_title">보조 디스플레이 시뮬레이트</string>
     <string name="overlay_option_device_default">기기 기본값</string>
-    <string name="overlay_settings">화면 위에 표시</string>
+    <string name="overlay_settings">다른 앱 위에 표시</string>
     <string name="overlay_settings_summary">앱이 설정 앱 위에도 표시할 수 있도록 허용합니다.</string>
     <string name="overlay_settings_title">설정 앱 위에도 표시</string>
     <string name="overlay_toast_failed_to_apply">오버레이 적용 실패</string>
@@ -5766,7 +5766,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="password_unlock_title">화면 잠금</string>
     <string name="pause">멈춤</string>
     <string name="payment_summary">%1$s 이 기본 앱으로 지정됨</string>
-    <string name="peak_refresh_rate_summary">일부 콘텐츠에 대해 재생 빈도를 60 Hz에서 90 Hz까지 자동으로 올립니다. 배터리 소모량이 증가합니다.</string>
+    <string name="peak_refresh_rate_summary">일부 콘텐츠에 대해 화면 재생률을 60Hz에서 90Hz까지 자동으로 올립니다. 배터리 소모량이 증가합니다.</string>
     <string name="peak_refresh_rate_title">부드러운 디스플레이</string>
     <string name="peek_notification_icon_title">알림 수신 시 아이콘 표시</string>
     <string name="performance_category">성능</string>
@@ -5889,13 +5889,13 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="power_charging_duration_wireless">%1$d%% - %2$s 후 충전 완료(무선)</string>
     <string name="power_checker">전원 체크</string>
     <string name="power_discharge_by">약 %1$s (%2$s)동안 사용 가능</string>
-    <string name="power_discharge_by_enhanced">사용패턴(%2$s)에 따라 약 %1$s 동안 사용 가능</string>
+    <string name="power_discharge_by_enhanced">사용 패턴(%2$s)에 따라 약 %1$s 동안 사용 가능</string>
     <string name="power_discharge_by_only">약 %1$s 동안 사용 가능</string>
-    <string name="power_discharge_by_only_enhanced">사용패턴에 따라 약 %1$s 동안 사용 가능</string>
+    <string name="power_discharge_by_only_enhanced">사용 패턴에 따라 약 %1$s 동안 사용 가능</string>
     <string name="power_discharge_by_only_short">%1$s까지</string>
     <string name="power_discharge_remaining">%1$s 남음</string>
     <string name="power_discharging_duration">%1$s%% - 대략 %2$s 남음</string>
-    <string name="power_discharging_duration_enhanced">사용패턴(%2$s)에 따라 %1$s 동안 사용 가능</string>
+    <string name="power_discharging_duration_enhanced">사용 패턴(%2$s)에 따라 %1$s 동안 사용 가능</string>
     <string name="power_discharging_duration_short">%1$s - %2$s 남음</string>
     <string name="power_flashlight">손전등</string>
     <string name="power_hide_mode_summary">개별 앱의 백그라운드 프로세스, Wi-Fi, 모바일 데이터 연결, GPS를 제한하여 배터리 절약</string>
@@ -5925,7 +5925,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="power_menu_privacy_show_controls">잠겼을 때 컨트롤 표시</string>
     <string name="power_menu_setting_name">전원 메뉴</string>
     <string name="power_menu_setting_title">전원 버튼 메뉴</string>
-    <string name="power_menu_under_keyguard_summary">기기가 잠겨있을 때 전원 메뉴에 접근 허용</string>
+    <string name="power_menu_under_keyguard_summary">잠긴 상태에서 전원 메뉴 접근을 허용합니다.</string>
     <string name="power_menu_under_keyguard_title">전원 메뉴 접근</string>
     <string name="power_mgr">배터리 최적화</string>
     <string name="power_mode">전원 설정</string>
@@ -6154,7 +6154,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="privacy_password_fingerprint_dialog_title">지문 스캔</string>
     <string name="privacy_password_login_and_add_account">로그인 &amp; 추가</string>
     <string name="privacy_password_never_remind">다시 묻지 않기</string>
-    <string name="privacy_password_not_add_account">지금 안 함</string>
+    <string name="privacy_password_not_add_account">나중에</string>
     <string name="privacy_password_not_login_account">로그인되어 있지 않습니다.</string>
     <string name="privacy_password_remind_bind_notlogin_account">비밀번호를 잊었을 때 초기화할 수 있도록 Mi 계정을 추가하세요.</string>
     <string name="privacy_password_remind_bindaccount_title">Mi 계정 추가</string>
@@ -6314,7 +6314,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="radio_info_band_mode_label">무선 주파수 대역 선택</string>
     <string name="radio_info_call_redirect_label">통화 경로 재지정:</string>
     <string name="radio_info_call_status_label">통화 상태:</string>
-    <string name="radio_info_cell_info_refresh_rate">전화 정보 재생 빈도:</string>
+    <string name="radio_info_cell_info_refresh_rate">전화 정보 재생률:</string>
     <string name="radio_info_cellinfo_label">모든 셀 정보:</string>
     <string name="radio_info_current_network_label">현재 네트워크:</string>
     <string name="radio_info_data_attempts_label">데이터 시도:</string>
@@ -6381,8 +6381,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="receiver_clean">저장공간 확보</string>
     <string name="recent_app_category_title">최근 앱</string>
     <string name="recent_apps_label">최근 사용 앱</string>
-    <string name="recent_location_requests_summary">사용자 위치 정보 조회를 요청하는 앱을 확인하세요.</string>
-    <string name="recent_location_requests_title">위치 정보 조회</string>
+    <string name="recent_location_requests_summary">사용자의 위치 정보를 요청하는 앱을 확인하세요.</string>
+    <string name="recent_location_requests_title">위치 정보 불러오기</string>
     <string name="recent_notifications">최근 발송</string>
     <string name="recent_notifications_see_all_title">일주일간 내역 모두 보기</string>
     <string name="recently_installed_app">최근에 이 앱을 설치했습니다.</string>
@@ -6619,10 +6619,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_dark_mode_smart_dark_title">글로벌 다크 모드</string>
     <string name="screen_dark_mode_time_title">예약 다크 모드</string>
     <string name="screen_effect">색상 구성</string>
-    <string name="screen_fps_summary">재생 빈도가 높을수록 사진이 더 매끄럽고 재생 빈도가 낮으면 배터리가 절약됩니다.</string>
-    <string name="screen_fps_summary_power_save">재생 빈도를 고정하여 배터리를 절약합니다.</string>
-    <string name="screen_fps_summary_smooth">지원하는 앱에서 자동으로 높은 재생 빈도를 사용하여 품질을 개선합니다.</string>
-    <string name="screen_fps_title">재생 빈도</string>
+    <string name="screen_fps_summary">화면 재생률이 높을수록 사진이 더 매끄럽고 재생 빈도가 낮으면 배터리가 절약됩니다.</string>
+    <string name="screen_fps_summary_power_save">화면 재생률을 고정하여 배터리를 절약합니다.</string>
+    <string name="screen_fps_summary_smooth">지원하는 앱에서 자동으로 높은 화면 재생률을 사용하여 품질을 개선합니다.</string>
+    <string name="screen_fps_title">화면 재생률</string>
     <string name="screen_fps_unit">%dHz</string>
     <string name="screen_fps_unit_power_save">%dHz (배터리 절약 우선)</string>
     <string name="screen_fps_unit_smooth">%dHz (품질 우선)</string>
@@ -7298,7 +7298,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="show_password">비밀번호 표시</string>
     <string name="show_password_summary">입력하는 문자를 표시합니다.</string>
     <string name="show_profile_info_on_lockscreen_label">잠금 화면에 프로필 정보 표시</string>
-    <string name="show_refresh_rate">재생 빈도 표시</string>
+    <string name="show_refresh_rate">화면 재생률 표시</string>
     <string name="show_rounded_corners">둥근 모서리 표시</string>
     <string name="show_running_services">실행 중인 서비스 표시</string>
     <string name="show_screen_updates">표면 업데이트 표시</string>
@@ -7521,7 +7521,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
 연락처를 비상 연락처로 표시
 • SMS 보내기
 비상 연락처로 문자 메시지 보내기
-• 위치 정보 조회
+• 위치 정보 불러오기
 비상 연락처와 위치를 공유하기 위해
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 긴급 SOS를 끄거나 사용하지 않도록 선택할 수 있습니다.
 서비스를 사용하기 전에 %s을 숙지하고 이에 동의해야 합니다. "</string>
@@ -8471,8 +8471,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="turn_on_keyguard_password">잠금 화면 비밀번호 켜기</string>
     <string name="turn_on_keyguard_password_alert">비밀번호를 기억하세요. 비밀번호를 잊어버리면 복구할 수 없습니다.</string>
     <string name="turn_on_keyguard_password_alert_choose">비밀번호를 기억하세요. 비밀번호를 잊어버리면 기기의 모든 데이터를 삭제하고 새 기기로 설정해야 합니다.</string>
-    <string name="turn_on_keyguard_password_alert_foget_cacel">지금 안 함</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok">알겠습니다.</string>
+    <string name="turn_on_keyguard_password_alert_foget_cacel">나중에</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok">확인</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">확인 (%d초)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">잠금 화면 비밀번호를 기억하세요. 비밀번호를 잊어버리면 기기의 사진과 연락처를 포함한 모든 데이터를 삭제하고 새 기기로 설정해야 합니다.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">비밀번호를 기억하세요.</string>
@@ -8574,13 +8574,13 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="unlock_set_unlock_none_title">없음</string>
     <string name="unlock_set_unlock_off_title">없음</string>
     <string name="unlock_set_unlock_password_none">없음</string>
-    <string name="unlock_set_unlock_password_summary">4개 이상 문자나 숫자 입력하여 기기 잠금해제</string>
+    <string name="unlock_set_unlock_password_summary">4자리 이상 문자나 숫자를 입력하여 잠금해제</string>
     <string name="unlock_set_unlock_password_title">비밀번호</string>
-    <string name="unlock_set_unlock_pattern_summary">손가락으로 단순한 패턴 그려 기기 잠금해제</string>
+    <string name="unlock_set_unlock_pattern_summary">간단한 패턴을 그려 잠금해제</string>
     <string name="unlock_set_unlock_pattern_title">패턴</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">기기를 사용하려면 %1$d-%2$d자리 숫자를 입력하세요.</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">%1$d-%2$d자리 숫자를 입력하여 잠금해제</string>
     <string name="unlock_set_unlock_summary">화면 잠금 설정</string>
-    <string name="unlock_setup_wizard_fingerprint_details">화면 잠금을 설정하면 지문을 설정&gt; 보안 에서 추가할 수 있습니다.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">화면 잠금을 설정하면 지문을 설정&gt; 보안에서 추가할 수 있습니다.</string>
     <string name="unlock_type_category_title">인식 방법</string>
     <string name="unlogin_account_summary">모든 Mi 서비스를. 하나의 Mi 계정으로!</string>
     <string name="unlogin_account_title">Mi 계정 으로 로그인</string>

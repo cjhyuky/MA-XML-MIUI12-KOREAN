@@ -426,7 +426,7 @@
     <string name="mark_number_notification_title">수상한 전화번호 보고</string>
     <string name="express_cainiao_banner">Cainiao 앱 제공</string>
     <string name="express_goods_detail">주문 더보기</string>
-    <string name="express_inquiry_detail">배송조회 세부정보</string>
+    <string name="express_inquiry_detail">배송 조회 세부정보</string>
     <string name="express_install_cainiao_description">%s 앱은 Cainiao 앱 설치가 필요합니다. 지금 설치하시겠습니까?</string>
     <string name="express_install_cainiao_ok">다운로드</string>
     <string name="express_install_cainiao_title">Cainiao 앱 설치</string>

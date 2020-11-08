@@ -112,7 +112,7 @@
     <string name="dialog_ok">확인</string>
     <string name="dialog_open">허용</string>
     <string name="dialog_permission_loading_msg">확인 중...</string>
-    <string name="dialog_permission_title">필요한 권한</string>
+    <string name="dialog_permission_title">필수 권한</string>
     <string name="dialog_privacy_link">"Mi 건강에 오신 것을 환영합니다! 이 앱을 사용하여 활동을 기록하고 수면을 추적 할 수 있습니다. Mi 건강은 네트워크에 연결하고 수집, 처리 및 사용해야 합니다. 개인정보가 정상적으로 작동합니다. 귀하의 개인정보는 관련 법률 및 규정에 따라 수집, 처리 및 사용됩니다. 이용 약관 및 개인정보 보호정책의 자세한 내용은 홈페이지를 참조하세요."</string>
     <string name="dialog_privacy_policy_statement">개인정보 보호정책 설명</string>
     <string name="dialog_privacy_title">이용 약관</string>
@@ -146,7 +146,7 @@
     <string name="expand_button_title">고급</string>
     <string name="exposed_dropdown_menu_content_description">알림 창 표시</string>
     <string name="feedback_need_permission_msg">의견에 사용되는 로그를 생성할 수 있도록 Xiaomi 건강이 외부 저장소에 쓸 수 있도록 허용합니다.</string>
-    <string name="feedback_permission_denied_msg">"Xiaomi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필요한 권한을 부여하세요."</string>
+    <string name="feedback_permission_denied_msg">"Xiaomi 건강은 외부 저장소에 로그를 저장할 수 없습니다. 설정에서 Mi 건강에게 필수 권한을 부여하세요."</string>
     <string name="finish">마침</string>
     <string name="gender_female">여성</string>
     <string name="gender_male">남성</string>
@@ -188,7 +188,7 @@
     <string name="hr_in_detect">심박수 측정 중입니다. 손가락을 움직이지 마세요.</string>
     <string name="hr_measure_heart_rate">측정</string>
     <string name="hr_open_permission_desc">Xiaomi 건강이 심박수 측정을 위해 카메라 권한을 필요로 합니다. 허용할까요?</string>
-    <string name="hr_open_permission_title">필요 권한</string>
+    <string name="hr_open_permission_title">필수 권한</string>
     <string name="hr_phone_detect_records">휴대전화 측정 기록</string>
     <string name="hr_pre_detect">"카메라와 플래시를 한 손가락으로
 완전히 덮으세요."</string>
@@ -353,7 +353,7 @@
     <string name="sleep_month">월</string>
     <string name="sleep_need_auto_start">수면 데이터를 보다 정확하게하기 위해 Mi 건강이 자동 실행되도록 허용</string>
     <string name="sleep_need_background_run">수면 데이터를보다 정확하게하려면 \"제한 없음\"을 선택</string>
-    <string name="sleep_need_necessary_permissions">수면 데이터를보다 정확하게하기 위해 필요한 권한을 부여합니다.</string>
+    <string name="sleep_need_necessary_permissions">수면 데이터를보다 정확하게하기 위해 필수 권한을 부여합니다.</string>
     <string name="sleep_no_data_info">"완전한 수면 주기로 이동"</string>
     <string name="sleep_no_generate_report">"수면 데이터를 찾을 수 없습니다."</string>
     <string name="sleep_record_content">Mi 건강은 전화 사용, 활동 통계, 설정한 수면 및 기상 시간에 따라 수면을 자동으로 기록합니다.</string>
@@ -902,7 +902,7 @@
     <string name="snore_record_audio_delete_message">"이 기록은 기기에만 저장됩니다. 삭제 한 경우 복원할 수 없습니다. 그래도 삭제하시겠습니까?"</string>
     <string name="snore_record_audio_delete_title">녹음을 삭제하시겠습니까?</string>
     <string name="snore_section">코골이 %1$s</string>
-    <string name="snore_write_description">기기에 오디오 녹음을 저장하기 위함</string>
+    <string name="snore_write_description">기기에 오디오 녹음을 저장합니다.</string>
     <string name="solar_term_autumn_begins">입추</string>
     <string name="solar_term_autumn_equinox">추분</string>
     <string name="solar_term_clear_and_bright">청명</string>
@@ -1388,9 +1388,9 @@
     <string name="start_walking">걷기 시작</string>
     <string name="detail_record_pace_describe">페이스(km당 소요 시간)</string>
     <string name="detail_record_pace_title">km 페이스</string>
-    <string name="exit_running_tips_cancel">운동 끝내기</string>
-    <string name="exit_running_tips_confirm">운동 계속</string>
-    <string name="exit_running_tips_desc">운동을 시작하기도 전에 포기하지 마세요~</string>
+    <string name="exit_running_tips_cancel">예</string>
+    <string name="exit_running_tips_confirm">아니오</string>
+    <string name="exit_running_tips_desc">아직 운동을 시작하지 않은 것 같습니다. 이 운동을 종료할까요?</string>
     <string name="exit_running_tips_title">운동 끝내기 확인</string>
     <string name="gps_no_signal_hint">"현재 GPS 신호로는 운동을 추적하고 경로를 기록 할 수 없습니다. 평평하고 개방 된 야외 공간으로 이동하세요."</string>
     <string name="gps_unauthorized">GPS 권한 필요</string>
@@ -1406,19 +1406,19 @@
     <string name="location_service_ntfc_content">샤오미 건강</string>
     <string name="location_service_ntfc_title">GPS 검색 중…</string>
     <string name="placement_tips_recommend">추천</string>
-    <string name="placement_tips_recommend_1">스마트폰 수납 팔 가방</string>
-    <string name="placement_tips_recommend_2">스마트폰 수납 허리 가방</string>
-    <string name="placement_tips_title">스마트폰 보관 추천</string>
-    <string name="placement_tips_warn">피해주세요.</string>
-    <string name="placement_tips_warn_1">러닝 머신 위에 스마트폰을 놓지 마세요.</string>
+    <string name="placement_tips_recommend_1">백팩</string>
+    <string name="placement_tips_recommend_2">패니 팩</string>
+    <string name="placement_tips_title">휴대전화를 어디에 보관할까요?</string>
+    <string name="placement_tips_warn">주의</string>
+    <string name="placement_tips_warn_1">러닝 머신</string>
     <string name="sport_btn_continue">재개</string>
     <string name="sport_btn_finish">끝</string>
     <string name="sport_btn_pause">일시 중지</string>
     <string name="sport_counter_begin">지금 시작</string>
     <string name="sport_home_begin">시작</string>
     <string name="sport_home_set_goal">목표 설정</string>
-    <string name="sport_invalid_dialog_distance_content">이번 운동 거리가 너무 짧아, 지금 끝내면 기록을 할 수 없습니다. 그래도 종료할까요?</string>
-    <string name="sport_invalid_dialog_time_content">이번 운동 시간이 5초보다 짧아, 지금 끝내면 기록을 할 수 없습니다. 그래도 종료할까요?</string>
+    <string name="sport_invalid_dialog_distance_content">이번 운동 거리가 너무 짧아, 지금 끝내면 기록할 수 없습니다. 그래도 종료할까요?</string>
+    <string name="sport_invalid_dialog_time_content">이번 운동 시간이 5초보다 짧아, 지금 끝내면 기록할 수 없습니다. 그래도 종료할까요?</string>
     <string name="sport_invalid_dialog_title">운동 무효</string>
     <string name="sport_menu_share">공유</string>
     <string name="sport_pace_chart_last_km">최근 1km</string>
@@ -1430,8 +1430,8 @@
     <string name="sport_settings_title">운동 설정</string>
     <string name="sport_share_fail">공유 실패, 다시 시도하세요.</string>
     <string name="sport_share_save_local">내부 저장소에 저장</string>
-    <string name="sport_share_save_local_fail">저장 실패, 다시 시도하세요.</string>
-    <string name="sport_share_save_local_success">기록 저장 완료</string>
+    <string name="sport_share_save_local_fail">저장 실패. 다시 시도하세요.</string>
+    <string name="sport_share_save_local_success">저장 완료</string>
     <string name="sport_share_title">운동 공유</string>
     <string name="sport_step_average_frequency">평균 걷기 빈도</string>
     <string name="sport_step_max_frequency">최대 걷기 빈도</string>
@@ -1440,11 +1440,11 @@
     <string name="sport_tts_begin_riding">라이딩 시작</string>
     <string name="sport_tts_begin_running">달리기 시작</string>
     <string name="sport_tts_begin_walking">걷기 시작</string>
-    <string name="sport_tts_finish_by_user">축하합니다. 운동을 마쳤습니다!</string>
+    <string name="sport_tts_finish_by_user">좋은 운동이었습니다!</string>
     <string name="sport_tts_goal_consume">목표까지 %skcal가 남았습니다.</string>
     <string name="sport_tts_goal_distance">목표까지 %skm가 남았습니다.</string>
     <string name="sport_tts_goal_finish">목표 달성! 축하합니다!</string>
-    <string name="sport_tts_goal_finish_half">운동 목표의 절반을 달성했습니다. 대단합니다!</string>
+    <string name="sport_tts_goal_finish_half">목표 절반 달성! 계속하세요!</string>
     <string name="sport_tts_last_km_spent">최근 1km 달성에 %s시간이 걸렸습니다.</string>
     <string name="sport_tts_pause_by_user">운동 일시 중지</string>
     <string name="sport_tts_riding_distance">지금까지 %skm를 달렸습니다.</string>
@@ -1466,4 +1466,8 @@
     <string name="sporting_title_waking">걷는 중</string>
     <string name="sporting_unit_step">걸음</string>
     <string name="treadmill">러닝 머신</string>
+     <string name="please_choose">Select</string>
+     <string name="sport_no_internet_toast">"네트워크 신호가 약해 정확한 위치를 확인할 수 없습니다."</string>
+     <string name="sporting_content_speed">현재 속도: km당 %1$s %2$s</string>
+     <string name="sporting_content_time">운동 시간: %1$s %2$s</string>
 </resources>

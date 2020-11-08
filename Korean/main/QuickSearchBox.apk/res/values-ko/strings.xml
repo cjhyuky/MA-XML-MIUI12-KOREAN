@@ -22,7 +22,7 @@
     <string name="corpus_label_apps">앱</string>
     <string name="corpus_description_apps">설치된 앱</string>
     <string name="cta_declaration_title">서비스 약관</string>
-    <string name="cta_declaration">이 기능을 정상적으로 사용하려면 위치 정보, 통화 기록, 연락처를 조회하고 인터넷에 연결해야 합니다.</string>
+    <string name="cta_declaration">이 기능을 정상적으로 사용하려면 위치 정보, 통화 기록, 연락처를 불러오고 인터넷에 연결해야 합니다.</string>
     <string name="cta_declaration_ignore">다시 보지 않기</string>
     <string name="cta_declaration_positive_text">허용</string>
     <string name="cta_declaration_negative_text">나가기</string>

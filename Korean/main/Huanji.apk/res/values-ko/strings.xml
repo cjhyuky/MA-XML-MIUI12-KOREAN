@@ -95,7 +95,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="old_app_name">이전 버전</string>
     <string name="dialog_request_network_message">"Mi Mover에 오신 것을 환영합니다! 이 앱을 사용하여 기존 기기에서 새 기기로 데이터를 전송할 수 있습니다.
 당사는 관련 법률, 규정 및 개인정보 보호정책에 따라 귀하의 개인정보를 보호합니다. Mi Mover는 인터넷에 연결해야하며 개인정보를 수집하려면 Wi-Fi 켜기/끄기, 연락처 액세스 및 전송, 통화 기록, SMS, MMS, 통화 녹음 및 오디오 녹음과 같은 권한이 필요합니다."</string>
-    <string name="guest_hint_connect_new_device">연결할 새 기기를 탭하세요.</string>
+    <string name="guest_hint_connect_new_device">새 기기 선택</string>
     <string name="hsa_tip_message">"인증번호를 받을 수 없다면 Apple기기에서 아이클라우드에 로그인했는지 확인하세요."</string>
     <string name="icloud_verify_tips">iOS 기기에서 허용을 탭하고 여기에 표시되는 코드를 입력하세요.</string>
     <string name="install_app_link_text">"이전 기기를 핫스팟에 연결할 수 없는 이유는 무엇입니까?"</string>
@@ -109,7 +109,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="new_trans_intro_desc_3">Mi Mover는 새 기기로 전송하기 전에 기존 기기에서 전송 패키지를 만들려면 저장공간이 필요합니다. 계속하려면 저장공간을 확보하세요.</string>
     <string name="new_trans_intro_desc_4">기기, 시스템, 앱 버전 호환성 문제로 일부 앱은 전송에 실패할 수도 있습니다.</string>
     <string name="new_trans_intro_desc_5">"일부 앱(예:금융 서비스 및 결제 도구)은 보안상의 이유로 비밀번호 전송을 허용하지 않습니다."</string>
-    <string name="new_trans_intro_desc_6">새로운 Mi 휴대전화에 필요한 권한이 없을 수 있습니다.</string>
+    <string name="new_trans_intro_desc_6">새로운 Mi 휴대전화에 필수 권한이 없을 수 있습니다.</string>
     <string name="new_trans_intro_desc_7">Mi Mover는 중단한 곳에서 이어서 작업할 수 있습니다. 그러나 기기 호환성 문제로 인해 중단된 전송을 재개할 수 없는 경우 다시 시작해야 할 수 있습니다.</string>
     <string name="new_trans_intro_desc_new">1. 새 기기의 Mi Mover가 최신인지 확인하세요. GetApps에서 최신 버전의 Mi Mover를 다운로드하거나 %1$s 링크를 사용할 수 있습니다.</string>
     <string name="new_trans_intro_desc_old">"2. 핫스팟이 여전히 Mi Mover에 나타나지 않으면 Wi-Fi 설정을 열고 해당 위치가 표시되는지 확인하세요. 그렇다면 Mi Mover로 돌아가서 핫스팟의 이름을 탭하세요."</string>
@@ -123,7 +123,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="new_wait_link_first">"1. 기존 기기에서 Mi Mover를 엽니다.
 2. \"나는 발신자입니다\"를 누르고 잠시 기다립니다.
 3. 기존 기기에서 다음 핫스팟을 선택하세요."</string>
-    <string name="searching_for_new_device">주변의 기기 검색 중…</string>
+    <string name="searching_for_new_device">새 기기 검색 중…</string>
     <string name="switching_to_5g">고속 전송 채널로 전환 중…</string>
     <string name="trans_install_guide_old_content_first">"1. 기존 기기로 이 QR 코드를 스캔하세요.
 2. Mi Mover를 다운로드하여 설치하세요.
@@ -216,4 +216,28 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
      <string name="open_photo_and_contacts_cloud_sync_content2">%d. \"지금 동기화\"를 누르세요.</string>
      <string name="open_photo_and_contacts_cloud_sync_summary">이 기기에 주소록 및 갤러리 항목이 나타나게 하려면 동기화를 켜세요.</string>
      <string name="open_photo_and_contacts_cloud_sync_title">주소록 및 갤러리 항목 동기화</string>
+     <string name="appname_app_data_suffix">%1$s 앱 데이터</string>
+     <string name="fail_list_tips">"다음 항목은 새 기기로 전송할 수 없습니다."</string>
+     <string name="guest_connect_dialog_ensure_text">연결</string>
+     <string name="guest_connect_dialog_fail_message">"연결 실패. 다시 시도하세요."</string>
+     <string name="host_install_hint">"Mi Mover가 설치되지 않았나요?"</string>
+     <string name="main_receiver_summary">탭하여 항목 받기</string>
+     <string name="main_receiver_title">새 기기</string>
+     <string name="main_sender_summary">탭하여 항목 보내기</string>
+     <string name="main_sender_title">이전 기기</string>
+     <string name="receiver_finish_detail_button">보고서 보기</string>
+     <string name="receiver_finish_detail_fail">"전송 실패"</string>
+     <string name="receiver_finish_detail_success">전송 완료</string>
+     <string name="receiver_finish_title">"완료!"</string>
+     <string name="select_android_summary">Huawei, OPPO, vivo 등</string>
+     <string name="select_mi_summary">Xiaomi 및 Redmi</string>
+     <string name="select_old_device_title">이전 기기 모델 선택</string>
+     <string name="sender_finish_bottom_tips">"이 기기의 데이터를 지우기 전, 모든 중요한 항목을 백업했는지 잘 확인하세요."</string>
+     <string name="sender_finish_title">전송 완료</string>
+     <string name="transfer_finish_summary">%1$s (%2$s) 전송됨</string>
+     <string name="btn_install_complete">설치됨</string>
+     <string name="scanner_time_remained">예상 전송 시간: %s</string>
+     <string name="soft_ap_create_failed">"핫스팟 생성 실패. 다시 시도하세요."</string>
+     <string name="trans_main_activity_tutor_first">새 기기로 항목 전송</string>
+     <string name="trans_show_qr_code_label">이전 기기에서 Mi Mover 실행</string>
 </resources>
