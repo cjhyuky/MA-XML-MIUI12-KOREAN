@@ -1199,7 +1199,7 @@
     <string name="medication_and_treatment_hint">약물과 치료법을 설명해주세요. 천식, 고혈압 및 기타 응급 의료 요구 또는 교정기, 보철, 수술 및 기타 치료와 같은</string>
     <string name="middle">중간</string>
     <string name="modify_contact">수정</string>
-    <string name="network_not_available">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>-두 배가 될 수 있습니다 !!!
+    <string name="network_not_available">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="no_sport_delete">부정확한 기록 삭제</string>
     <string name="not_edit">설정하지 않음</string>
     <string name="not_save">변경 취소</string>
