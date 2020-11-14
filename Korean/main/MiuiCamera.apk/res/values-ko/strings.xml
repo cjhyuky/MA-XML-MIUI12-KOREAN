@@ -1518,7 +1518,7 @@
     <string name="pref_video_focusmode_entry_auto">탭</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_title">초점 모드</string>
-    <string name="pref_video_hfr_title">동영상 HFR</string>
+    <string name="pref_video_hfr_title">프레임률</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_summary">4K 동영상은 120FPS 모드를 사용할 수 없습니다.</string>
     <string name="pref_video_quality_title">동영상 품질</string>
@@ -1879,4 +1879,5 @@
     <string name="video_effect_entry_rome_describe">필터 소개</string>
     <string name="video_effect_entry_summer_day_describe">필터 소개</string>
     <string name="film_video_b_tip">어두운 곳에서 촬영하세요.</string>
+    <string name="pref_video_quality_hfr_title">프레임률 &amp; 사진 화질</string>
 </resources>

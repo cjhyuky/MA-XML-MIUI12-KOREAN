@@ -1124,4 +1124,9 @@
     <string name="txt_caldav_account_info_not_found">​​"CalDAV 계정 정보를 찾을 수 없음"</string>
     <string name="txt_password">비밀번호</string>
     <string name="txt_server_url">서버 주소</string>
+    <string name="save_to_gallery_failure_message">갤러리에 저장할 수 없습니다.</string>
+    <string name="save_to_gallery_icon_name">갤러리에 저장</string>
+    <string name="save_to_gallery_success_message">갤러리에 저장되었습니다.</string>
+    <string name="share_as_picture">사진으로 공유</string>
+    <string name="share_as_url">URL로 공유</string>
 </resources>

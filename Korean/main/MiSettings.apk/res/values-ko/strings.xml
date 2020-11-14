@@ -466,4 +466,11 @@
     <string name="fps_standard_summary">표준 화면 재생률로 배터리를 절약합니다.</string>
     <string name="fps_standard_title">표준</string>
     <string name="fps_user_tip">이 애니메이션 예시는 참조를 위해 느린 속도로 재생됩니다. 실제 성능은 여러 요인에 의해 다르게 보일 수 있습니다.</string>
+    <string name="usage_new_home_week_average_count">평균 %s</string>
+    <string name="usage_new_home_week_compare_text1_new">(지난 주보다 %s%% 증가)</string>
+    <string name="usage_new_home_week_compare_text2_new">(지난 주보다 %s%% 감소)</string>
+    <string name="usage_new_home_week_unlock_compare_decrease">(지난 주보다 %.2f 감소)</string>
+    <string name="usage_new_home_week_unlock_compare_increase">(지난 주보다 %.2f 증가)</string>
+    <string name="usage_stats_limit_time_high_accuracy_summary_new">정확도 분단위로 감소 (배터리 사용 증가)</string>
+    <string name="usage_stats_limit_time_low_accuracy_summary_new">남은 시간이 %d시간 이하일 시 정확도 분단위로 감소 (배터리 절약)</string>
 </resources>

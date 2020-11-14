@@ -693,4 +693,12 @@
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장공간을 사용할 수 없습니다. SD 카드를 확인하세요.</string>
     <string name="yesterday">어제</string>
+    <string name="provision_receiver_finish_button">다음</string>
+    <string name="location_permission_request">다른 휴대전화와의 페어링 및 연결에 사용합니다.</string>
+    <string name="summary_open_wlan">전송 과정의 안정성을 보장하기 위해, Xiaomi는 이 권한을 필요로 합니다.</string>
+    <string name="summary_request_alert_window_prem">전송 과정의 안정성을 보장하기 위해, Xiaomi는 이 권한을 필요로 합니다.</string>
+    <string name="summary_request_write_settings_prem">새 휴대전화에서 실행한 핫스팟을 검색하기 위해, Xiaomi는 Wi-Fi를 켜고 끄는 권한을 필요로 합니다.</string>
+    <string name="title_open_wlan">Wi-Fi 실행</string>
+    <string name="title_request_alert_window_perm">플로팅 창 권한 요청</string>
+    <string name="waiting_restore_aod">모든 앱을 전송한 후, 화면 표시를 복구합니다.</string>
 </resources>

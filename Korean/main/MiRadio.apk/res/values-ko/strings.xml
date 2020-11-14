@@ -150,9 +150,9 @@
     <string name="individuation_service_switch">맞춤형 추천</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s 제거</string>
     <string name="play_mode_circle_hint">지금 재생중인 한곡 반복</string>
-    <string name="play_mode_circle_title">한곡 반복</string>
+    <string name="play_mode_circle_title">반복</string>
     <string name="play_mode_normal_hint">지금 원래 순서대로 트랙 재생</string>
-    <string name="play_mode_normal_title">모두 재생</string>
+    <string name="play_mode_normal_title">목록</string>
     <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="account_bind_secure_email_title">이메일 추가</string>
     <string name="account_bind_secure_phone_title">전화번호 추가</string>
@@ -165,7 +165,7 @@
     <string name="account_error_user_birthday">입력한 생일이 올바르지 않습니다.</string>
     <string name="account_error_user_name">입력한 사용자 이름이 잘못되었습니다.</string>
     <string name="account_invalid_user_avatar">이 사진은 유효하지 않습니다. 다른 사진으로 시도해보세요.</string>
-    <string name="account_limit_update_birthday">지금 바로 생일을 업데이트 할 수 없습니다.</string>
+    <string name="account_limit_update_birthday">지금 바로 생일을 업데이트할 수 없습니다.</string>
     <string name="account_no_set">없음</string>
     <string name="account_none_binded_info">없음</string>
     <string name="account_none_user_name">없음</string>
@@ -339,4 +339,7 @@ ID:%s
     <string name="user_avatar_uploading">잠시만 기다리세요…</string>
     <string name="user_id_hint">이메일/전화/Mi 계정 ID</string>
     <string name="v_code_title">인증번호 입력</string>
+    <string name="play_mode_shuffle_title">무작위</string>
+    <string name="play_mode_single_title">반복</string>
+    <string name="talkback_mode_repeat_none">목록</string>
 </resources>
