@@ -35,10 +35,10 @@
         <item quantity="other">오늘의 화면켜짐 시간은 %1$d-일 평균보다 %2$s 많습니다.</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" 시간"</item>
+        <item quantity="other">"시간"</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" 분"</item>
+        <item quantity="other">"분"</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d회 잠금해제</item>
@@ -59,13 +59,13 @@
         <item quantity="other">%d시간</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other">" 시간"</item>
+        <item quantity="other">"시간"</item>
     </plurals>
     <plurals name="usage_state_minute">
         <item quantity="other">%d분</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
-        <item quantity="other">" 분"</item>
+        <item quantity="other">"분"</item>
     </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">알림 %d개</item>
@@ -86,10 +86,10 @@
         <item quantity="other">주중: %d시간</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
-         <item quantity="other">%s 시간</item>
+         <item quantity="other">%s시간</item>
      </plurals>
     <plurals name="usage_stats_remain_miunte">
-         <item quantity="other">%s 분</item>
+         <item quantity="other">%s분</item>
      </plurals>
     <plurals name="a_hour_ago">
          <item quantity="other">1시간 전</item>
@@ -113,7 +113,7 @@
          <item quantity="other">%d분 안에</item>
      </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-         <item quantity="other">지금 만</item>
+         <item quantity="other">방금 전</item>
      </plurals>
     <plurals name="abbrev_num_minutes_ago">
          <item quantity="other">%d분 전</item>
@@ -134,13 +134,13 @@
          <item quantity="other">%d분 안에</item>
      </plurals>
     <plurals name="less_than_one_minute_ago">
-         <item quantity="other">지금 만</item>
+         <item quantity="other">방금 전</item>
      </plurals>
     <plurals name="num_minutes_ago">
          <item quantity="other">%d분 전</item>
      </plurals>
     <plurals name="usage_new_home_avg_unlockc">
-         <item quantity="other">하루 평균 %.2f 회</item>
+         <item quantity="other">하루 평균 %.2f회</item>
      </plurals>
     <plurals name="usage_new_home_total_unlocks">
          <item quantity="other">잠금해제: %d회</item>
@@ -148,4 +148,7 @@
     <plurals name="usage_new_home_total_week_unlocks">
          <item quantity="other">잠금해제: %d회</item>
      </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">평균 %.2f회</item>
+    </plurals>
 </resources>
