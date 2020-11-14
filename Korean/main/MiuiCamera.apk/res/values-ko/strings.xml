@@ -1824,7 +1824,7 @@
     <string name="pref_hdr10plus_video_mode_description">4K/8K 동영상의 색상과 대비를 최적화합니다. 이러한 동영상은 HDR10+ 지원 기기에서만 정상적으로 재생할 수 있습니다.</string>
     <string name="auto_hibernation_enter_tip">화면이 곧 꺼집니다…</string>
     <string name="pref_camera_auto_hibernation">화면을 끄고 촬영</string>
-    <string name="pref_camera_auto_hibernation_description">배터리 절약을 위해 촬영 %d분 경과 시 화면을 끕니다.</string>
+    <string name="pref_camera_auto_hibernation_description">촬영 중 배터리 절약을 위해 %d분 경과 시 화면을 끕니다.</string>
     <string name="accessibility_dual_video_merged">합친 동영상</string>
     <string name="accessibility_dual_video_standalone">별개 동영상</string>
     <string name="accessibility_preview_expand">펼치기</string>
@@ -1880,4 +1880,5 @@
     <string name="video_effect_entry_summer_day_describe">필터 소개</string>
     <string name="film_video_b_tip">어두운 곳에서 촬영하세요.</string>
     <string name="pref_video_quality_hfr_title">프레임률 &amp; 사진 화질</string>
+   <string name="confirm_fastmotion_reset_manually_parameter_message">지금 파라미터를 초기화할까요?</string>
 </resources>
