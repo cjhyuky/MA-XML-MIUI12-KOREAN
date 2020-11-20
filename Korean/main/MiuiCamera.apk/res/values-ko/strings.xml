@@ -1881,4 +1881,9 @@
     <string name="film_video_b_tip">어두운 곳에서 촬영하세요.</string>
     <string name="pref_video_quality_hfr_title">프레임률 &amp; 사진 화질</string>
    <string name="confirm_fastmotion_reset_manually_parameter_message">지금 파라미터를 초기화할까요?</string>
+    <string name="accessibility_preview_remote">원격 미리보기</string>
+    <string name="altitude_text">고도</string>
+    <string name="latitude_text">위도</string>
+    <string name="longitude_text">경도</string>
+    <string name="pref_multi_camera_dual_video_remote">원격 카메라</string>
 </resources>
