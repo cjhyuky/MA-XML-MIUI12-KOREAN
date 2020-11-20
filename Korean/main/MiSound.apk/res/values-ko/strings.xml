@@ -211,4 +211,24 @@
     <string name="wireless_transmission_confirm">지금 열기</string>
     <string name="wireless_transmission_definition">휴대전화 마이크로 수집된 소리가 블루투스 기기로 전송되어 재생됩니다.</string>
     <string name="wireless_transmission_prompt">무선 소리 전송을 사용하려면 블루투스를 켜야합니다. 지금 켤까요?</string>
+    <string name="music_headset_effect_harman_kardon">하만카돈</string>
+    <string name="music_headset_effect_harman_kardon_summary">하만 전문 음향 인증</string>
+    <string name="sound_effect_hall">홀</string>
+    <string name="sound_effect_original">원본</string>
+    <string name="sound_effect_room">방</string>
+    <string name="sound_effect_theater">극장</string>
+    <string name="sound_transmission_cancel">취소</string>
+    <string name="sound_transmission_confirm">확인</string>
+    <string name="sound_transmission_continue">계속</string>
+    <string name="sound_transmission_device">장치</string>
+    <string name="sound_transmission_dialog_message">사운드 어시스턴트</string>
+    <string name="sound_transmission_dialog_title">블루투스 켜기</string>
+    <string name="sound_transmission_end">끝</string>
+    <string name="sound_transmission_processing">마이크</string>
+    <string name="sound_transmission_prompt">무선 마이크를 사용할 때 블루투스 기능을 켜야합니다. 켜시겠습니까?</string>
+    <string name="sound_transmission_scenes">장면 전환</string>
+    <string name="sound_transmission_start">시작</string>
+    <string name="sound_transmission_stop">일시 중지</string>
+    <string name="sound_transmission_title">무선 마이크</string>
+    <string name="transmission_volume_option_title">마이크 볼륨</string>
 </resources>
