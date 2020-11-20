@@ -2677,4 +2677,5 @@
     <string name="photo_page_lock_screen">회전 잠금</string>
     <string name="toast_orientation_locked">회전 잠금 완료</string>
     <string name="watch_all_photo">갤러리</string>
+    <string name="unsupport_type">"이 파일 형식은 지원되지 않습니다"</string>
 </resources>
