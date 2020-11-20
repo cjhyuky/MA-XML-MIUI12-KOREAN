@@ -1629,4 +1629,5 @@
      <string name="sleep_night_title">야간 수면</string>
      <string name="sleep_state_this_month">"이달의 수면"</string>
      <string name="sleep_state_this_week">"이주의 수면"</string>
+     <string name="hr_disable_in_split_screen">"분할 화면시 심장 박동수 체크 불가"</string>
 </resources>
