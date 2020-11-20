@@ -227,4 +227,7 @@
     <string name="storage_policy_notify_gallery_title">"%1$s 앱은 갤러리에 액세스 할 수 없습니다."</string>
     <string name="storage_policy_notify_sociality_title">"%1$s 앱은 소셜 미디어 앱의 메시지에 액세스 할 수 없습니다."</string>
     <string name="storage_policy_notify_title">"%1$s 앱은 갤러리에 액세스 할 수 없습니다."</string>
+    <string name="HIPS_Perm_Access_Gallery">갤러리 접근</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">이 앱이 갤러리의 항목에 액세스하도록 허용</string>
+    <string name="HIPS_SecurityPrompt_Reject_Never">"거부하고 다시 묻지 않음(%d)"</string>
 </resources>
