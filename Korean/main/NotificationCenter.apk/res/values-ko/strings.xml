@@ -130,4 +130,5 @@
     <string name="channel_name_aggregation">그룹 알림</string>
     <string name="channel_name_notification">앱 알림</string>
     <string name="channel_name_recovered">복구된 알림</string>
+    <string name="show_weather">날씨 정보 표시</string>
 </resources>
