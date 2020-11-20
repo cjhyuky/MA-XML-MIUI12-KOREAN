@@ -191,11 +191,8 @@
     <string name="HIPS_Perm_recognition_Desc">액티비티 정보에 접근합니다.</string>
     <string name="HIPS_Perm_dcimControl">갤러리 접근</string>
     <string name="HIPS_Perm_dcimControl_Desc">앱이 갤러리에 접근할 수 있습니다.</string>
-    <string name="storage_policy_notify_content">접근을 허용하려면 눌러서 설정으로 이동하세요.</string>
     <string name="HIPS_Perm_tencentControl">SNS 정보 접근</string>
     <string name="HIPS_Perm_tencentControl_Desc">SNS 정보에 접근합니다.</string>
-    <string name="storage_policy_notify_gallery_title">%1$s 앱의 갤러리 접근 차단됨</string>
-    <string name="storage_policy_notify_sociality_title">%1$s 앱의 SNS 정보 접근 차단됨</string>
     <string name="HIPS_ACTION_REJECT_CLEAR">제한 및 클립보드 비우기</string>
     <string name="HIPS_Action_Accept_This">이번만 허용</string>
     <string name="HIPS_Action_Reject_This">이번만 거부</string>
@@ -217,7 +214,6 @@
     <string name="no">아니오</string>
     <string name="perm_manager_suggest_operation">권한 관리</string>
     <string name="perm_manager_suggest_title">권한을 설정할까요?</string>
-    <string name="storage_policy_notify_title">%1$s 앱의 갤러리 사진 접근 차단됨</string>
     <string name="yes">예</string>
     <string name="grant_dialog_storage_category_title">이 앱은 소셜 미디어 앱의 갤러리 및 메시지에 액세스 할 수 있는 권한이 필요합니다.</string>
     <string name="grant_dialog_storage_gallery_title">갤러리</string>

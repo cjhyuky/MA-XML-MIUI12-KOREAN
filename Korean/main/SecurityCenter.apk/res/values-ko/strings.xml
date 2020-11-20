@@ -3905,8 +3905,6 @@ SMS 전송"</string>
     <string name="app_behavior_clipboard_single_new">이 앱이 클립보드에 복사했습니다.</string>
     <string name="app_behavior_read_clipboard">%1s 앱이 클립보드를 읽었습니다.</string>
     <string name="app_behavior_read_clipboard_bg">%1s 앱이 백그라운드에서 클립보드를 읽었습니다.</string>
-    <string name="app_manager_permission_dcimcontrol_title">갤러리 열기</string>
-    <string name="gallery_confirm_start_activity">%s 앱이 다른 앱에서 사진을 불러오려고 하며, 여기에는 접근을 차단한 갤러리가 포함될 수 있습니다. 허용할까요?</string>
     <string name="perm_list_header_title">앱 목록</string>
     <string name="permission_action_ai_prompt">자동 묻기</string>
     <string name="permission_with_read_write_clipboard">앱이 항목을 복사하거나 읽도록 허용합니다.</string>
@@ -3988,16 +3986,10 @@ SMS 전송"</string>
     <string name="notification_wechat_clean_middle_level_text_b">"WeChat 쓰레기 파일이 앱을 느리게 합니다."</string>
     <string name="HIPS_Perm_Access_Gallery">갤러리 접근</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">이 앱이 갤러리의 항목에 액세스하도록 허용</string>
-    <string name="HIPS_Perm_External_Storage">항목 액세스 및 저장소에 저장</string>
-    <string name="HIPS_Perm_External_Storage_Desc">내부 저장소에 파일 및 사진 액세스 및 저장</string>
-    <string name="HIPS_Perm_External_Storage_Group">스토리지 권한 관리</string>
-    <string name="HIPS_Perm_External_Storage_Group_Desc">앱이 액세스 할 수있는 항목 선택</string>
-    <string name="HIPS_Perm_tencentControl">소셜 미디어 앱에서 메시지에 액세스</string>
-    <string name="HIPS_Perm_tencentControl_Desc">이 앱이 WeChat 및 QQ 메시지에 액세스하도록 허용</string>
     <string name="app_manager_permission_dcimcontrol_title">갤러리 액세스</string>
     <string name="comprehensive_protection_measures">종합 보호</string>
     <string name="fully_informed_privacy">개인 정보 보호</string>
-    <string name="gallery_confirm_start_activity">%s가 다른 앱을 통해 이미지에 액세스하려고합니다. 허용 하시겠습니까?</string>
+    <string name="gallery_confirm_start_activity" formatted="false">%s가 다른 앱을 통해 이미지에 액세스하려고합니다. 허용 하시겠습니까?</string>
     <string name="image_protect_auto_del">%s가 이미지를 삭제하려고합니다</string>
     <string name="image_protect_del_pic_tips">삭제된 이미지에 대한 알림</string>
     <string name="image_protect_del_success">성공적으로 삭제됨</string>
