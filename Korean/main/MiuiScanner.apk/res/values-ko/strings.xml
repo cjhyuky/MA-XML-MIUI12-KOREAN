@@ -609,4 +609,6 @@ Mi AI로 스캔하고 싶습니다 "</string>
     <string name="picture_video_error">동영상 손상됨</string>
     <string name="picture_video_toast">동영상 미리보기 불가</string>
     <string name="picture_warning">미디어 파일이 없습니다!</string>
+    <string name="identify_the_results">결과 확인</string>
+    <string name="picture_is_being_saved">사진을 저장하는 중</string>
 </resources>
