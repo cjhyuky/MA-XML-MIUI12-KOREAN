@@ -10301,4 +10301,11 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_enhance_status_disable">끄기</string>
     <string name="screen_enhance_status_enable">켜기</string>
     <string name="tether_password_illegal_character">비밀번호에 잘못된 문자가 있습니다. 다시 입력하십시오</string>
+    <string name="audio_share_cancel">취소</string>
+    <string name="audio_share_confirm">공유</string>
+    <string name="bluetooth_audio_share_feature_notice_summary">연결된 다른 장치와 오디오를 공유 하시겠습니까?</string>
+    <string name="bluetooth_audio_share_feature_notice_title">오디오 공유</string>
+    <string name="bt_audio_share_property">공유</string>
+    <string name="bt_audio_share_switch_summary">연결된 블루투스 장치와 오디오 공유</string>
+    <string name="bt_audio_share_switch_title">오디오 공유</string>
 </resources>
