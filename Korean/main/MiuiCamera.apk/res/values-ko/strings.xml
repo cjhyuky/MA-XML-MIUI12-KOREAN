@@ -1886,4 +1886,16 @@
     <string name="latitude_text">위도</string>
     <string name="longitude_text">경도</string>
     <string name="pref_multi_camera_dual_video_remote">원격 카메라</string>
+     <string name="download_in_progress">다운로드 중…</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">선택 취소</string>
+     <string name="miuix_appcompat_action_mode_select_all">모두 선택</string>
+     <string name="miuix_appcompat_action_mode_title_empty">항목 선택</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">더보기</string>
+     <string name="miuix_appcompat_cancel_description">취소</string>
+     <string name="miuix_appcompat_confirm_description">확인</string>
+     <string name="miuix_appcompat_delete_description">삭제</string>
+     <string name="miuix_appcompat_deselect_all_description">모두 선택 취소</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
+     <string name="miuix_appcompat_search_input_description">검색</string>
+     <string name="miuix_appcompat_select_all_description">모두 선택</string>
 </resources>
