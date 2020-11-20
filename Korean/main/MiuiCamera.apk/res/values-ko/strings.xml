@@ -1828,11 +1828,11 @@
     <string name="accessibility_dual_video_merged">합친 동영상</string>
     <string name="accessibility_dual_video_standalone">별개 동영상</string>
     <string name="accessibility_preview_expand">펼치기</string>
-    <string name="accessibility_preview_front">앞서 미리보기</string>
+    <string name="accessibility_preview_front">전면 카메라 미리보기</string>
     <string name="accessibility_preview_select_tip">%1$d번째</string>
     <string name="accessibility_preview_selected">이미 선택함</string>
     <string name="accessibility_preview_shrink">접기</string>
-    <string name="accessibility_preview_zoom_tip">%1$.1f배 미리보기</string>
+    <string name="accessibility_preview_zoom_tip">%1$.1f배 줌 미리보기</string>
     <string name="film_landscape_timefreeze_hint">가로 촬영만 지원합니다.</string>
     <string name="film_timefreeze_hint">휴대전화를 움직이지 마세요. %ds</string>
     <string name="live_draft_continue">계속</string>
@@ -1898,4 +1898,5 @@
      <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
      <string name="miuix_appcompat_search_input_description">검색</string>
      <string name="miuix_appcompat_select_all_description">모두 선택</string>
+    <string name="time_stamp_date_format">yyyy/MM/dd</string>
 </resources>
