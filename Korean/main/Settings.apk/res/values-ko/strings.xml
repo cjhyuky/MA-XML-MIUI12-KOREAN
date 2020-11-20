@@ -10282,4 +10282,23 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="zen_mode_more_actions">방해 금지 모드 옵션 더보기</string>
     <string name="zen_mode_summary2">벨소리, 알림을 음소거하고 진동을 끕니다.</string>
     <string name="smart_space_clock">한눈에 보기</string>
+    <string name="accessibility_voice_access_title">음성 컨트롤</string>
+    <string name="screen_enhance_engine_ai_note">"자연스러운 시청 환경을 보장하기 위해 이미지가 기본 색상으로 구성되어 있거나 고급 조정이 포함 된 경우이 기능이 작동하지 않습니다."</string>
+    <string name="screen_enhance_engine_ai_open">이미지 향상</string>
+    <string name="screen_enhance_engine_ai_pic_summary">개체(예: 식물, 이미지, 건물)를 식별하고 디스플레이 효과를 동적으로 조정합니다. 이 기능은 전력 소비를 약간 증가시킵니다.</string>
+    <string name="screen_enhance_engine_ai_title">AI 이미지 향상</string>
+    <string name="screen_enhance_engine_memc_open">MEMC</string>
+    <string name="screen_enhance_engine_memc_pic_summary">동영상에 프레임을 추가하여 콘텐츠가 매끄럽게 나타나고 생동감있게 전환되도록합니다.</string>
+    <string name="screen_enhance_engine_memc_title">MEMC</string>
+    <string name="screen_enhance_engine_s2h_open">AI HDR 향상</string>
+    <string name="screen_enhance_engine_s2h_pic_summary">HDR 효과를 사용하여 동영상을 처리하여 더 밝은 부분과 어두운 부분을 더 세밀하게 표현하고 색상을 더욱 생생하게 만듭니다. 이 기능은 선택한 앱에서 지원됩니다.</string>
+    <string name="screen_enhance_engine_s2h_title">AI HDR 향상</string>
+    <string name="screen_enhance_engine_sr_for_pic">이미지 향상</string>
+    <string name="screen_enhance_engine_sr_for_video">동영상 향상</string>
+    <string name="screen_enhance_engine_sr_pic_summary">이미지 또는 동영상의 해상도를 최대 1440p까지 업 스케일합니다. 이 기능은 일부 앱에서 지원되며 전력 소비량을 약간 증가시킵니다.</string>
+    <string name="screen_enhance_engine_sr_title">초 고해상도</string>
+    <string name="screen_enhance_engine_title">AI 이미지 엔진</string>
+    <string name="screen_enhance_status_disable">끄기</string>
+    <string name="screen_enhance_status_enable">켜기</string>
+    <string name="tether_password_illegal_character">비밀번호에 잘못된 문자가 있습니다. 다시 입력하십시오</string>
 </resources>
