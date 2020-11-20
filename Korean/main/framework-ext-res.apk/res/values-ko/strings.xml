@@ -325,4 +325,5 @@
     <string name="wireless_charging_notification_titile">역방향 무선 충전 꺼짐</string>
     <string name="xspace_head">듀얼 앱</string>
     <string name="xspace_resolver_activity_title">앱 선택</string>
+    <string name="send_files_by">파일 공유 방법</string>
 </resources>
