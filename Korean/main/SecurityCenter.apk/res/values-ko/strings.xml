@@ -4093,7 +4093,7 @@ SMS 전송"</string>
     <string name="privacy_risk_dangerous_usage_msg">앱이 기기 활동을 추적하도록 허용</string>
     <string name="privacy_risk_detection_continue">재개</string>
     <string name="privacy_risk_detection_stop">중지</string>
-    <string name="privacy_risk_detection_stop_btn">줄이기</string>
+    <string name="privacy_risk_detection_stop_btn">중지</string>
     <string name="privacy_risk_detection_stop_msg">지금 검색을 중지하면 일부 개인정보 위험이 감지되지 않을 수 있습니다. 그래도 스캔을 중지하시겠습니까?</string>
     <string name="privacy_risk_detection_stop_title">검색 중지</string>
     <string name="privacy_risk_detection_title">개인 정보 위험 감지</string>
