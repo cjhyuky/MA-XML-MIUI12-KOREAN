@@ -548,4 +548,5 @@
  <string name="lks_logo_desc_search">매일 바뀌는 새로운 배경화면</string>
   <string name="see_detail">보기</string>
   <string name="understand_band_story">더 알아보기</string>
+    <string name="detail_menu_settingbtn_save">갤러리에 저장</string>
 </resources>
