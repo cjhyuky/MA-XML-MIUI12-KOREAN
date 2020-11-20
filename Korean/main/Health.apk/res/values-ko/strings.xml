@@ -1598,4 +1598,35 @@
     <string name="user_age_unit">세</string>
     <string name="wednesday_shortest">수</string>
     <string name="weight_unit_kg">kg</string>
+     <string name="auth_dialog_description">"권장사항을 사용하시겠습니까?
+
+권장사항을 제공하기위해 당사는 귀하의 건강 데이터를 제3자 서비스 제공업체와 공유할 것입니다. 공유할 항목에는 개인정보(연령, 성별), 건강 통계(키, 체중, 운동 루틴), 행동 데이터(기상 및 취침 시간, 운동 기간)가 포함됩니다.
+
+당사는 제3자 서비스 제공자가 수신한 데이터를 기반으로 귀하를 개인적으로 식별하지 못하도록 공유하기 전에 이러한 항목을 처리합니다.
+
+추천 수업을 받고 싶지 않은 경우에도 일반 운동을 사용할 수 있습니다."</string>
+     <string name="auth_dialog_link">사용자로서 귀하의 권리와 귀하의 데이터를 사용하는 방식을 완전히 이해하려면 사용자 약관 및 개인정보 보호정책을 확인하시기 바랍니다.</string>
+     <string name="auth_dialog_title">권장 클래스</string>
+     <string name="hr_fp_detect_principle_desc_3">테스트 결과 이 방법은 3BPM 이하의 오류로 심박수를 측정합니다.</string>
+     <string name="loading">잠시만 기다려주세요…</string>
+     <string name="miuix_appcompat_action_mode_deselect_all">선택 취소</string>
+     <string name="miuix_appcompat_action_mode_select_all">모두 선택</string>
+     <string name="miuix_appcompat_action_mode_title_empty">항목 선택</string>
+     <string name="miuix_appcompat_actionbar_immersion_button_more_description">더보기</string>
+     <string name="miuix_appcompat_cancel_description">취소</string>
+     <string name="miuix_appcompat_confirm_description">확인</string>
+     <string name="miuix_appcompat_delete_description">삭제</string>
+     <string name="miuix_appcompat_deselect_all_description">모두 선택 취소</string>
+     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
+     <string name="miuix_appcompat_select_all_description">모두 선택</string>
+     <string name="network_not_available2">"네트워크에 연결할 수 없습니다"</string>
+     <string name="personal_course_recommend_subtitle">개인 정보, 건강 통계 및 선호도를 기반으로 추천 된 수업에 액세스</string>
+     <string name="personal_course_recommend_title">추천 수업</string>
+     <string name="privacy_setting">개인 정보</string>
+     <string name="sleep_day_multi_short_title">낮잠 %1$d번</string>
+     <string name="sleep_day_single_short_title">낮잠</string>
+     <string name="sleep_day_title">낮잠</string>
+     <string name="sleep_night_title">야간 수면</string>
+     <string name="sleep_state_this_month">"이달의 수면"</string>
+     <string name="sleep_state_this_week">"이주의 수면"</string>
 </resources>
