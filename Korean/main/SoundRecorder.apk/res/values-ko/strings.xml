@@ -307,4 +307,6 @@
     <string name="trash_box_delete_all">휴지통의 모든 항목을 영구적으로 삭제하시겠습니까?</string>
     <string name="user_feedback">의견</string>
     <string name="no_network">"네트워크에 연결할 수 없음"</string>
+    <string name="uninstall_warning_content">"녹음기는 시스템 앱입니다. 설치 제거할 시 오디오 및 음성을 녹음할 수 없습니다."</string>
+    <string name="uninstall_warning_title">녹음기를 제거할까요?</string>
 </resources>

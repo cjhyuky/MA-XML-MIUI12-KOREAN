@@ -246,7 +246,7 @@
     <string name="switch_audio_device_phone_summary">이 기기에서 오디오를 재생합니다.</string>
     <string name="switch_audio_dialog_title">오디오 출력 선택</string>
     <string name="switch_audio_device_switch_hint">연결 기기 관련 알림은 설정 &gt; 블루투스 &gt; 추가 설정에서 끌 수 있습니다.</string>
-    <string name="bt_audio_share_notification_content">옵션을 보려면 탭하세요</string>
+    <string name="bt_audio_share_notification_content">옵션을 보려면 누르세요.</string>
     <string name="bt_audio_share_notification_title">오디오 공유</string>
     <string name="notice_audio_share_disconnected">연결이 끊어져 더 이상 오디오를 공유하지 않음</string>
 </resources>
