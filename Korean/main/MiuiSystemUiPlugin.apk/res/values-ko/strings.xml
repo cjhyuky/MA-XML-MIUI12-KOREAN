@@ -37,7 +37,7 @@
     <string name="controls_dismiss_dialog_confirm">설정</string>
     <string name="controls_dismiss_dialog_confirm_international">제거</string>
     <string name="controls_dismiss_dialog_message">제어 센터에서 여러 앱의 스마트 홈 기기를 관리합니다.</string>
-    <string name="controls_dismiss_dialog_message_international">"\"스마트 홈\" 카드를 제거할까요? 설정 > 제어 센터에서 복구할 수 있습니다."</string>
+    <string name="controls_dismiss_dialog_message_international">"\"스마트 홈\" 카드를 제거하시겠습니까? 설정 > 제어 센터에서 복구할 수 있습니다."</string>
     <string name="controls_dismiss_dialog_title">스마트 홈 기기</string>
     <string name="controls_dismiss_dialog_title_international">카드 제거</string>
     <string name="controls_edit_panel_not_added_title">추가 가능한 기기</string>
@@ -292,10 +292,10 @@
     <string name="volume_dialog_accessibility_dismissed_message">볼륨 컨트롤 숨김</string>
     <string name="volume_dialog_accessibility_shown_message">%s 볼륨 컨트롤이 표시됩니다. 닫으려면 위로 스 와이프하세요.</string>
     <string name="wireless_charging_connected_message">"기기가 무선으로 충전 중일 때는 역 무선 충전을 사용할 수 없습니다."</string>
-    <string name="wireless_charging_low_battery_level_message">"배터리가 30% 미만이면 역방향 무선 충전을 사용할 수 없습니다."</string>
+    <string name="wireless_charging_low_battery_level_message">"배터리가 %d%% 미만이면 역방향 무선 충전을 사용할 수 없습니다."</string>
     <string name="wireless_charging_ok">확인</string>
     <string name="wireless_charging_saver_cancel">끄기</string>
-    <string name="wireless_charging_saver_message">이제 배터리 세이버가 켜져 있습니다. 역방향 무선 충전을 계속 사용 하시겠습니까?</string>
+    <string name="wireless_charging_saver_message">이제 배터리 세이버가 켜져 있습니다. 역방향 무선 충전을 계속 사용하시겠습니까?</string>
     <string name="wireless_charging_saver_ok">유지</string>
     <string name="wireless_charging_tips_disable">"다시 표시 안함"</string>
     <string name="wireless_charging_tips_message">Qi 무선 충전을 지원하는 기기(휴대 전화, 액세서리 등)를이 기기 뒷면에 배치합니다.</string>

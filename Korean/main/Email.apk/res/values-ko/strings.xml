@@ -1373,11 +1373,11 @@
     <string name="bContact_list_search_hint">차단한 연락처 검색</string>
     <string name="b_contacts">차단 목록</string>
     <string name="b_contacts_remove">차단 목록에서 제외</string>
-    <string name="b_contacts_remove_tips">이 주소를 차단 목록에서 제거할까요?</string>
+    <string name="b_contacts_remove_tips">이 주소를 차단 목록에서 제거하시겠습니까?</string>
     <string name="choose_an_office365_provider">Office 365 서비스 공급자를 선택하세요.</string>
     <string name="conversation_report_spam">스팸 신고</string>
-    <string name="conversation_spam_dig_msg">이 메시지를 스팸으로 표시할까요? 메시지가 \"스팸\" 폴더로 이동되며 발신자가 차단 목록에 추가됩니다.</string>
-    <string name="conversation_spam_tips">이 메시지를 스팸으로 표시할까요?</string>
+    <string name="conversation_spam_dig_msg">이 메시지를 스팸으로 표시하시겠습니까? 메시지가 \"스팸\" 폴더로 이동되며 발신자가 차단 목록에 추가됩니다.</string>
+    <string name="conversation_spam_tips">이 메시지를 스팸으로 표시하시겠습니까?</string>
     <string name="filter_item_all">모든 메일</string>
     <string name="filter_item_cc">"나에게 참조"</string>
     <string name="filter_item_me">나에게 보냄</string>

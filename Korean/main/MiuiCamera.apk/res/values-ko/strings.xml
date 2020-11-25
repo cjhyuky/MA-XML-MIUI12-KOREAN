@@ -1839,14 +1839,14 @@
     <string name="live_draft_empty">임시 저장 없음</string>
     <string name="live_edit_exit_confirm_draft">저장 후 나가기</string>
     <string name="live_edit_exit_message_draft">임시 저장</string>
-    <string name="live_workspace_delete_dialog_title">%1$d 임시 저장을 삭제할까요?</string>
+    <string name="live_workspace_delete_dialog_title">%1$d 임시 저장을 삭제하시겠습니까?</string>
     <string name="live_workspace_title">임시 저장함</string>
     <string name="live_workspace_title_edit">삭제할 항목을 선택하세요.</string>
     <string name="snap_cancel_draft">저장 안 함</string>
     <string name="update_hint">다운로드 버튼을 눌러 알고리즘을 업데이트하세요.</string>
-    <string name="download_cancel_hint">%1$s 다운로드를 취소할까요?</string>
+    <string name="download_cancel_hint">%1$s 다운로드를 취소하시겠습니까?</string>
     <string name="download_confirm">다운로드</string>
-    <string name="download_hint">모바일 데이터 %1$sMB를 사용하여 항목을 다운로드합니다. 계속할까요?</string>
+    <string name="download_hint">모바일 데이터 %1$sMB를 사용하여 항목을 다운로드합니다. 계속하시겠습니까?</string>
     <string name="download_title">데이터 사용 경고</string>
     <string name="update_loading">%1$d%% 다운로드됨</string>
     <string name="update_start">%1$s 업데이트</string>
@@ -1880,7 +1880,7 @@
     <string name="video_effect_entry_summer_day_describe">필터 소개</string>
     <string name="film_video_b_tip">어두운 곳에서 촬영하세요.</string>
     <string name="pref_video_quality_hfr_title">프레임률 &amp; 사진 화질</string>
-   <string name="confirm_fastmotion_reset_manually_parameter_message">지금 파라미터를 초기화할까요?</string>
+   <string name="confirm_fastmotion_reset_manually_parameter_message">지금 파라미터를 초기화하시겠습니까?</string>
     <string name="accessibility_preview_remote">원격 미리보기</string>
     <string name="altitude_text">고도</string>
     <string name="latitude_text">위도</string>

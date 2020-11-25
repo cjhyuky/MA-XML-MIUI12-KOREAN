@@ -109,8 +109,8 @@
     <string name="current_permission_template">%2$s의 %1$s</string>
     <string name="never_ask_again">다시 묻지 않기</string>
     <string name="permission_warning_template_ask">%1$s 앱에 아래의 권한을 허용하시겠습니까？</string>
-    <string name="HIPS_Perm_UDevice_ID">기기 정보의 일부를 게임 개발자와 공유하여 게임 경험을 향상시킵니다. 허용할까요?</string>
-    <string name="HIPS_Perm_UDevice_ID_DESC">게임 개발자와 기기 정보의 일부를 공유하여 게임 경험을 향상시킵니다. 허용할까요?</string>
+    <string name="HIPS_Perm_UDevice_ID">기기 정보의 일부를 게임 개발자와 공유하여 게임 경험을 향상시킵니다. 허용하시겠습니까?</string>
+    <string name="HIPS_Perm_UDevice_ID_DESC">게임 개발자와 기기 정보의 일부를 공유하여 게임 경험을 향상시킵니다. 허용하시겠습니까?</string>
     <string name="HIPS_Perm_deamon_notification">고정 알림</string>
     <string name="HIPS_Perm_deamon_notification_Desc">고정 알림을 표시합니다.</string>
     <string name="background_location_access_reminder_notification_title">%s이(가) 현재 위치를 확인 중</string>
@@ -213,7 +213,7 @@
     <string name="go_perm_manager">권한 관리</string>
     <string name="no">아니오</string>
     <string name="perm_manager_suggest_operation">권한 관리</string>
-    <string name="perm_manager_suggest_title">권한을 설정할까요?</string>
+    <string name="perm_manager_suggest_title">권한을 설정하시겠습니까?</string>
     <string name="yes">예</string>
     <string name="grant_dialog_storage_category_title">이 앱은 소셜 미디어 앱의 갤러리 및 메시지에 액세스 할 수 있는 권한이 필요합니다.</string>
     <string name="grant_dialog_storage_gallery_title">갤러리</string>

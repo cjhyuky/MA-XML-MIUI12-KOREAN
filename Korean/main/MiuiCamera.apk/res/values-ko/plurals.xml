@@ -43,6 +43,6 @@
         <item quantity="other">%1$d초</item>
     </plurals>
     <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">임시 저장 %1$d개를 삭제할까요?</item>
+        <item quantity="other">임시 저장 %1$d개를 삭제하시겠습니까?</item>
     </plurals>
 </resources>

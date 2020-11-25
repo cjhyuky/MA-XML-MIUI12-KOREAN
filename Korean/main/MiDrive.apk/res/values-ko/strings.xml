@@ -186,7 +186,7 @@
     <string name="create_other_pdf">새 PDF</string>
     <string name="create_pdf_manual">새 PDF</string>
     <string name="delete_success">삭제 완료</string>
-    <string name="dialog_content_delete_pdf_content">이 PDF를 삭제할까요?</string>
+    <string name="dialog_content_delete_pdf_content">이 PDF를 삭제하시겠습니까?</string>
     <string name="dialog_immediately_open">열기</string>
     <string name="dialog_open_ai_recommend_ppt_to_pdf_content">클라우드에 저장된 슬라이드의 이미지를 조정하고 자동으로 PDF로 변환할 수 있습니다. 이 기능을 켤까요?</string>
     <string name="dialog_select_photo_title">이미지 출처 선택</string>

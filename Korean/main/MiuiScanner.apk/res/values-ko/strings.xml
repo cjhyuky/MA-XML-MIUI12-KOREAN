@@ -593,7 +593,7 @@ Mi AI로 스캔하고 싶습니다 "</string>
     <string name="picture_preview">미리보기</string>
     <string name="picture_preview_num">미리보기(%1$d)</string>
     <string name="picture_prompt">시도</string>
-    <string name="picture_prompt_content">사진을 저장할까요?</string>
+    <string name="picture_prompt_content">사진을 저장하시겠습니까?</string>
     <string name="picture_quit_audio">나가기</string>
     <string name="picture_record_video">동영상 촬영</string>
     <string name="picture_recording_time_is_short">녹화 시간이 너무 짧습니다.</string>

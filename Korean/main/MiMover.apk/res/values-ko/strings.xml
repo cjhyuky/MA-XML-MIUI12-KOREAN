@@ -198,7 +198,7 @@
     <string name="guest_install_app_hint_title">Mi Mover의 새 버전 다운로드</string>
     <string name="guest_unfinished_task_alert_btn_negative">다시 시작</string>
     <string name="guest_unfinished_task_alert_btn_positive">계속</string>
-    <string name="guest_unfinished_task_alert_message">완료되지 않은 전송 작업이 있는 것 같습니다. 전송을 계속 하시겠습니까?</string>
+    <string name="guest_unfinished_task_alert_message">완료되지 않은 전송 작업이 있는 것 같습니다. 전송을 계속하시겠습니까?</string>
     <string name="guest_unfinished_task_alert_title">완료되지 않은 작업</string>
     <string name="hide_password_description">비밀번호 숨기기</string>
     <string name="host_boot_installation_bottom_tips">"Mi Mover를 찾을 수 없나요? 탭하여 다운로드하세요."</string>
@@ -472,8 +472,8 @@
     <string name="scanner_permission_alert_ok">설정</string>
     <string name="scanner_quit_alert_btn_negative">종료</string>
     <string name="scanner_quit_alert_btn_positive">"종료하지 마십시오"</string>
-    <string name="scanner_quit_alert_message">"지금 Mi Mover를 종료하면 두 기기를 다시 연결해야 합니다. 종료 하시겠습니까?"</string>
-    <string name="scanner_quit_alert_title">지금 종료 하시겠습니까?</string>
+    <string name="scanner_quit_alert_message">"지금 Mi Mover를 종료하면 두 기기를 다시 연결해야 합니다. 종료하시겠습니까?"</string>
+    <string name="scanner_quit_alert_title">지금 종료하시겠습니까?</string>
     <string name="scanner_send_dialog_btn">확인</string>
     <string name="scanner_send_dialog_message">"전송 중에 Wi-Fi을 끄거나 네트워크간에 전환하지 마십시오."</string>
     <string name="scanner_size_selected">선택 : %s</string>
@@ -621,7 +621,7 @@
     <string name="transfer_multi_connect_title">여러 기기가이 핫스팟에 연결된 것 같습니다</string>
     <string name="transfer_quit_alert_btn_negative">종료</string>
     <string name="transfer_quit_alert_btn_positive">"종료하지 마십시오"</string>
-    <string name="transfer_quit_alert_message">"Mi Mover가 현재 작동 중입니다. 종료 하시겠습니까?"</string>
+    <string name="transfer_quit_alert_message">"Mi Mover가 현재 작동 중입니다. 종료하시겠습니까?"</string>
     <string name="transfer_quit_alert_message_extra">"전송 진행률이 저장됩니다. 다음에 두 기기를 연결할 때 중단 한 위치에서 전송을 재개 할 수 있습니다."</string>
     <string name="transfer_quit_alert_title">주의</string>
     <string name="transfer_snap_error">"전송할 수 없음"</string>

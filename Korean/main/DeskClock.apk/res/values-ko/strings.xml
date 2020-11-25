@@ -292,7 +292,7 @@
     <string name="module_dialog_neutral">확인</string>
     <string name="module_dialog_positive">동의</string>
     <string name="module_download_failure">"오디오를 다운로드할 수 없습니다. 네트워크를 확인하고 다시 시도하세요."</string>
-    <string name="module_weather_ringtone_download_data">날씨 알람은 날씨마다 다른 알람음을 내는 기능입니다. 작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드 하시겠습니까?</string>
+    <string name="module_weather_ringtone_download_data">날씨 알람은 날씨마다 다른 알람음을 내는 기능입니다. 작동하려면 약 30MB의 데이터가 필요합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_weather_ringtone_download_data_privacy"><Data>날씨 알람은 현재 날씨에 따라 다른 벨소리를 선택합니다. 시계 앱은 약 30MB의 오디오를 다운로드하기 위해 인터넷에 연결되어야 합니다. 또한, 시계 앱을 사용하기 전 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다. 동의하십니까?</Data></string>
     <string name="module_weather_ringtone_download_wifi">날씨 알람은 현재 날씨에 따라 다른 벨소리를 선택합니다. 작동하려면 시계 앱이 오디오를 다운로드해야 합니다. 지금 다운로드하시겠습니까?</string>
     <string name="module_weather_ringtone_download_wifi_privacy"><Data>날씨 알람은 현재 날씨에 따라 다른 벨소리를 선택합니다. 시계 앱은 오디오를 다운로드하기 위해 인터넷에 연결되어야 합니다. 또한, 시계 앱을 사용하기 전 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다. 동의하십니까?</Data></string>
@@ -360,7 +360,7 @@
     <string name="bedtime_repeat_type">스케줄</string>
     <string name="bedtime_setting_complete">안녕히 주무세요!</string>
     <string name="bedtime_setting_complete_desc">새로운 취침 시간표에 따라 최상의 몸 상태를 만들어보세요.</string>
-    <string name="bedtime_setting_no_disturbance">취침하는 동안은 방해 금지 모드로 전환할까요?</string>
+    <string name="bedtime_setting_no_disturbance">취침하는 동안은 방해 금지 모드로 전환하시겠습니까?</string>
     <string name="bedtime_setting_no_disturbance_desc">일어날 때까지 벨소리, 알림음 및 진동이 들리지 않습니다.</string>
     <string name="bedtime_setting_repeat_type">취침 시간표는 언제 적용되나요?</string>
     <string name="bedtime_setting_repeat_type_desc">"알림을 받을 요일을 선택하세요."</string>

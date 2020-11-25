@@ -81,7 +81,7 @@
     <string name="date_format_y_m_d_h_m_s">yyyy/MM/dd HH:mm:ss</string>
     <string name="day">일</string>
     <string name="deep_sleep">깊은 수면</string>
-    <string name="delete_dailog_confirm_msg_wear">지금 %1$s을 삭제 하시겠습니까?</string>
+    <string name="delete_dailog_confirm_msg_wear">지금 %1$s을 삭제하시겠습니까?</string>
     <string name="delete_menstruation_record_confirm">이 기록을 삭제하시겠습니까?</string>
     <string name="delete_wear_data_toast">"%1$s에서 제공한 데이터를 삭제할 수 없습니다."</string>
     <string name="dialog_abandon">버리기</string>
@@ -187,7 +187,7 @@
     <string name="hr_finger_permission_desc">심박수를 측정하려면 이 기능이 혈류의 변화를 감지 할 수 있도록 지문 스캐너에 액세스해야합니다. 허용하시겠습니까?</string>
     <string name="hr_in_detect">심박수 측정 중입니다. 손가락을 움직이지 마세요.</string>
     <string name="hr_measure_heart_rate">측정</string>
-    <string name="hr_open_permission_desc">Xiaomi 건강이 심박수 측정을 위해 카메라 권한을 필요로 합니다. 허용할까요?</string>
+    <string name="hr_open_permission_desc">Xiaomi 건강이 심박수 측정을 위해 카메라 권한을 필요로 합니다. 허용하시겠습니까?</string>
     <string name="hr_open_permission_title">필수 권한</string>
     <string name="hr_phone_detect_records">휴대전화 측정 기록</string>
     <string name="hr_pre_detect">"카메라와 플래시를 한 손가락으로
@@ -200,8 +200,8 @@
     <string name="improve_step_target">목표에 너무 자주 도달합니다. 더 높게 설정하세요.</string>
     <string name="improve_your_health_default_tips">건강을 유지하기 위해 운동하고 충분한 수면을 취하세요.</string>
     <string name="input_body_weight">건강 조언을 받으려면 몸무게 데이터를 입력하세요.</string>
-    <string name="inquire_recover_data">지금 건강 데이터를 복원할까요?</string>
-    <string name="inquire_recover_data_subtitle">"Mi 계정(%1$s)과 연결된 건강 데이터가 있는 것 같습니다. 지금 클라우드와 동기화하고 데이터를 복원할까요?"</string>
+    <string name="inquire_recover_data">지금 건강 데이터를 복원하시겠습니까?</string>
+    <string name="inquire_recover_data_subtitle">"Mi 계정(%1$s)과 연결된 건강 데이터가 있는 것 같습니다. 지금 클라우드와 동기화하고 데이터를 복원하시겠습니까?"</string>
     <string name="jump_over">건너뛰기</string>
     <string name="label_average_daily_sleep_duration">평균 수면 시간</string>
     <string name="label_average_daily_sleep_time">평균 수면 시간</string>
@@ -1390,7 +1390,7 @@
     <string name="detail_record_pace_title">km 페이스</string>
     <string name="exit_running_tips_cancel">예</string>
     <string name="exit_running_tips_confirm">아니오</string>
-    <string name="exit_running_tips_desc">아직 운동을 시작하지 않은 것 같습니다. 이 운동을 종료할까요?</string>
+    <string name="exit_running_tips_desc">아직 운동을 시작하지 않은 것 같습니다. 이 운동을 종료하시겠습니까?</string>
     <string name="exit_running_tips_title">운동 끝내기 확인</string>
     <string name="gps_no_signal_hint">"현재 GPS 신호로는 운동을 추적하고 경로를 기록 할 수 없습니다. 평평하고 개방 된 야외 공간으로 이동하세요."</string>
     <string name="gps_unauthorized">GPS 권한 필요</string>
@@ -1408,7 +1408,7 @@
     <string name="placement_tips_recommend">추천</string>
     <string name="placement_tips_recommend_1">백팩</string>
     <string name="placement_tips_recommend_2">패니 팩</string>
-    <string name="placement_tips_title">휴대전화를 어디에 보관할까요?</string>
+    <string name="placement_tips_title">휴대전화를 어디에 보관하시겠습니까?</string>
     <string name="placement_tips_warn">주의</string>
     <string name="placement_tips_warn_1">러닝 머신</string>
     <string name="sport_btn_continue">재개</string>
@@ -1417,8 +1417,8 @@
     <string name="sport_counter_begin">지금 시작</string>
     <string name="sport_home_begin">시작</string>
     <string name="sport_home_set_goal">목표 설정</string>
-    <string name="sport_invalid_dialog_distance_content">이번 운동 거리가 너무 짧아, 지금 끝내면 기록할 수 없습니다. 그래도 종료할까요?</string>
-    <string name="sport_invalid_dialog_time_content">이번 운동 시간이 5초보다 짧아, 지금 끝내면 기록할 수 없습니다. 그래도 종료할까요?</string>
+    <string name="sport_invalid_dialog_distance_content">이번 운동 거리가 너무 짧아, 지금 끝내면 기록할 수 없습니다. 그래도 종료하시겠습니까?</string>
+    <string name="sport_invalid_dialog_time_content">이번 운동 시간이 5초보다 짧아, 지금 끝내면 기록할 수 없습니다. 그래도 종료하시겠습니까?</string>
     <string name="sport_invalid_dialog_title">운동 무효</string>
     <string name="sport_menu_share">공유</string>
     <string name="sport_pace_chart_last_km">최근 1km</string>

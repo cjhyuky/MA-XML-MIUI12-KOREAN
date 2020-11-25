@@ -1138,7 +1138,7 @@
     <string name="banner_btn_not_now">나중에</string>
     <string name="banner_btn_open">열기</string>
     <string name="default_google_message_promo_content">"Google 메시지 앱을 기본 메시지 앱으로 설정했습니다. \"열기\"를 누르고 메시지를 시작하세요."</string>
-    <string name="enable_classify_tip_dialog_content">메시지 앱을 다시 시작합니다. 계속할까요?</string>
+    <string name="enable_classify_tip_dialog_content">메시지 앱을 다시 시작합니다. 계속하시겠습니까?</string>
     <string name="google_message_promo_content">Xiaomi는 Google 메시지 앱 사용을 권장합니다. Google 메시지로 Wi-Fi 환경에서 메시지 발신, 고품질 미디어 공유 등이 가능합니다. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">자세히 보기</a></font>.</string>
     <string name="google_message_promo_title">메시지 앱 업그레이드</string>
     <string name="installed_google_message_promo_content">Xiaomi는 Google 메시지 앱 사용을 권장합니다. Google 메시지로 Wi-Fi 환경에서 메시지 발신, 고품질 미디어 공유 등이 가능합니다.</string>

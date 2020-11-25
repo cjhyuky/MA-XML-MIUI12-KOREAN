@@ -420,7 +420,7 @@
     <string name="app_manager_uninstall_protected_dlg_title">시스템 앱 설치 제거</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">연관된 듀얼 앱이 함께 제거되며 앱 데이터 또한 삭제됩니다.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하면 모든 앱 데이터가 삭제됩니다.</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_title">듀얼 앱을 제거할까요?</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_title">듀얼 앱을 제거하시겠습니까?</string>
     <string name="app_manager_unstall_application">설치 제거</string>
     <string name="app_managere_not_have_app">없음</string>
     <string name="app_mobile">모바일</string>
@@ -3040,7 +3040,7 @@ SMS 전송"</string>
     <string name="storage_app_manager_factory_reset_dlg_msg">이 Android 시스템 앱의 모든 업데이트가 제거됩니다.</string>
     <string name="storage_app_manager_factory_reset_dlg_title">업데이트를 제거하시겠습니까?</string>
     <string name="storage_app_manager_uninstall_application">설치 제거</string>
-    <string name="storage_app_manager_uninstall_protected_dlg_msg">시스템 플러그인을 제거하면 일부 기능이 제대로 작동하지 않을 수 있습니다. 그래도 제거할까요?</string>
+    <string name="storage_app_manager_uninstall_protected_dlg_msg">시스템 플러그인을 제거하면 일부 기능이 제대로 작동하지 않을 수 있습니다. 그래도 제거하시겠습니까?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">주의</string>
     <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"이 앱의 듀얼 앱도 함께 제거됩니다."</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">이 앱을 제거 시 모든 앱 데이터도 함께 삭제됩니다.</string>
@@ -3808,7 +3808,7 @@ SMS 전송"</string>
     <string name="applock_set_complete">앱 잠금 사용</string>
     <string name="bottom_func_guide_default_text">추가 기능</string>
     <string name="exit_dialog_exit">나가기</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>클리너가 %s의 저장공간을 확보할 수 있습니다. 지금 정리 하시겠습니까?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>클리너가 %s의 저장공간을 확보할 수 있습니다. 지금 정리하시겠습니까?</Data></string>
     <string name="exit_dialog_release_memory_positive_button">닫기</string>
     <string name="exit_dialog_release_memory_title"><Data>기기 속도를 %d%% 향상</Data></string>
     <string name="menu_item_notification_optimize_text">%d%% 사용중</string>
@@ -3987,7 +3987,7 @@ SMS 전송"</string>
     <string name="app_manager_permission_dcimcontrol_title">갤러리 액세스</string>
     <string name="comprehensive_protection_measures">종합 보호</string>
     <string name="fully_informed_privacy">개인 정보 보호</string>
-    <string name="gallery_confirm_start_activity" formatted="false">%s가 다른 앱을 통해 이미지에 액세스하려고합니다. 허용 하시겠습니까?</string>
+    <string name="gallery_confirm_start_activity" formatted="false">%s가 다른 앱을 통해 이미지에 액세스하려고합니다. 허용하시겠습니까?</string>
     <string name="image_protect_auto_del">%s가 이미지를 삭제하려고합니다</string>
     <string name="image_protect_del_pic_tips">삭제된 이미지에 대한 알림</string>
     <string name="image_protect_del_success">성공적으로 삭제됨</string>
@@ -4122,8 +4122,8 @@ SMS 전송"</string>
     <string name="privacy_risk_sensitive_second_title">"민감한 권한을 부여했습니다."</string>
     <string name="privacy_risk_sensitive_storage">앱이 파일에 액세스하거나 저장하도록 허용</string>
     <string name="privacy_risk_sensitive_top_tip">"개인 정보를 보호하려면 필요한 경우에만 민감한 권한을 부여하세요."</string>
-    <string name="privacy_risk_space_uninstall_dialog_msg">듀얼 앱을 포함하여 선택한 앱을 제거 하시겠습니까?</string>
-    <string name="privacy_risk_uninstall_dialog_msg">지금 선택한 앱을 제거 하시겠습니까?</string>
+    <string name="privacy_risk_space_uninstall_dialog_msg">듀얼 앱을 포함하여 선택한 앱을 제거하시겠습니까?</string>
+    <string name="privacy_risk_uninstall_dialog_msg">지금 선택한 앱을 제거하시겠습니까?</string>
     <string name="privacy_risk_uninstall_dialog_title">확인</string>
     <string name="privacy_risk_uninstall_title">앱 제거</string>
     <string name="privacy_risk_work_encryption">"소셜 미디어 및 업무용 파일은 보호되지 않습니다."</string>

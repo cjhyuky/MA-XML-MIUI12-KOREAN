@@ -16,7 +16,7 @@
     <string name="input_method_clipboard_checkbox_cancle">취소</string>
     <string name="input_method_clipboard_checkbox_confirm">삭제</string>
     <string name="input_method_clipboard_clear_all_button">모두 삭제</string>
-    <string name="input_method_clipboard_clear_all_phrase_des">모든 클립보드 항목을 삭제할까요?</string>
+    <string name="input_method_clipboard_clear_all_phrase_des">모든 클립보드 항목을 삭제하시겠습니까?</string>
     <string name="input_method_clipboard_clear_all_phrase_title">클립보드 삭제</string>
     <string name="input_method_clipboard_copy_success">복사됨</string>
     <string name="input_method_clipboard_delete_success">삭제됨</string>

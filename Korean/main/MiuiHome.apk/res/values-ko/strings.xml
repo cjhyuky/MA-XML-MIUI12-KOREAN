@@ -612,7 +612,7 @@
     <string name="open_personal_assistant_title_synonyms">피드</string>
     <string name="alexa_notification_add">추가</string>
     <string name="alexa_notification_cancel">지금하지 않기</string>
-    <string name="alexa_notification_content">Alexa 바로가기를 제어 센터에 추가할까요?</string>
+    <string name="alexa_notification_content">Alexa 바로가기를 제어 센터에 추가하시겠습니까?</string>
     <string name="work_profile_first_content">업무용 앱에서 개인 데이터가 분리되고 숨겨져 있습니다.</string>
     <string name="work_profile_got_button">확인</string>
     <string name="work_profile_next_button">다음</string>

@@ -659,6 +659,6 @@ ID:%s
     <string name="passport_uplink_sms_send_confirm">보냄</string>
     <string name="passport_uplink_sms_send_failed">"업링크 SMS 확인 불가"</string>
     <string name="passport_uplink_sms_sending">유료 메시지를 보내는 중...</string>
-    <string name="passport_uplink_suggest_dialog_msg">"코드를 받을 수 없습니다. 대신 유료 업링크 SMS를 이용할까요?"</string>
+    <string name="passport_uplink_suggest_dialog_msg">"코드를 받을 수 없습니다. 대신 유료 업링크 SMS를 이용하시겠습니까?"</string>
     <string name="passport_uplink_suggest_dialog_title">알림</string>
 </resources>

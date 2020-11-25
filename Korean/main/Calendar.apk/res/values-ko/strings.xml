@@ -1035,8 +1035,8 @@
     <string name="time_format_12_hours_smaller_than_10">a h:mm</string>
     <string name="account_import_calendar">일정 가져오기</string>
     <string name="account_manager_delete">계정 삭제</string>
-    <string name="account_manager_delete_calendar_tips">이 계정과 연동된 일정을 삭제할까요?</string>
-    <string name="account_manager_delete_dialog">이 계정을 삭제할까요?</string>
+    <string name="account_manager_delete_calendar_tips">이 계정과 연동된 일정을 삭제하시겠습니까?</string>
+    <string name="account_manager_delete_dialog">이 계정을 삭제하시겠습니까?</string>
     <string name="account_manager_delete_events">이벤트 삭제</string>
     <string name="account_manager_install_email">시스템 이메일 클라이언트 설치</string>
     <string name="account_manager_install_email_tips">계정을 복원하고 새 계정을 추가하려면 시스템 이메일 클라이언트를 다시 설치하세요.</string>
@@ -1114,7 +1114,7 @@
     <string name="trust_certificate_issued_for">발급 대상</string>
     <string name="trust_certificate_reject">거부</string>
     <string name="trust_certificate_reset_info">앱 설정에서 모든 사용자 인증서를 초기화할 수 있습니다.</string>
-    <string name="trust_certificate_unknown_certificate_found">cert4android가 알 수 없는 인증서를 확인했습니다. 이 인증서를 신뢰할까요?</string>
+    <string name="trust_certificate_unknown_certificate_found">cert4android가 알 수 없는 인증서를 확인했습니다. 이 인증서를 신뢰하시겠습니까?</string>
     <string name="trust_certificate_validity_period">유효 기간</string>
     <string name="trust_certificate_validity_period_value">%1$s – %2$s (강제되지 않음)</string>
     <string name="trust_certificate_x509_certificate_details">X509 인증서 정보</string>
