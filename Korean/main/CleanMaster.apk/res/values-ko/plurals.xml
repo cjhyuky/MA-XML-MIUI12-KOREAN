@@ -85,7 +85,7 @@
         <item quantity="other">초당 항목 %1$d개 | 남은 시간: %2$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">항목 %1$d개를 삭제할까요?</item>
+        <item quantity="other">항목 %1$d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="other">%1$d단계를 수행하여 %2$s을(를) 확보</item>

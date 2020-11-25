@@ -25,10 +25,10 @@
         <item quantity="other">%d명에게 공유됨</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">선택한 사진이 기기에 없습니다. 모바일 데이터로 다운로드할까요?</item>
+        <item quantity="other">선택한 사진이 기기에 없습니다. 모바일 데이터로 다운로드하시겠습니까?</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">선택한 사진(%dMB)이 기기에 없습니다. 모바일 데이터로 다운로드할까요?</item>
+        <item quantity="other">선택한 사진(%dMB)이 기기에 없습니다. 모바일 데이터로 다운로드하시겠습니까?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
         <item quantity="other">선택된 사진이 기기에 없습니다. 다운로드됩니다.</item>
@@ -37,58 +37,58 @@
         <item quantity="other">이 기기에 존재하지 않는 사진 %d장을 건너뛰었습니다.</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">사진 %1$d장을 다운로드할 수 없습니다. 다시 시도할까요?</item>
+        <item quantity="other">사진 %1$d장을 다운로드할 수 없습니다. 다시 시도하시겠습니까?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">사진 %1$d장을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하세요.</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">사진 %1$d장(%2$dMB)을 다운로드할 수 없습니다. 다시 시도할까요?</item>
+        <item quantity="other">사진 %1$d장(%2$dMB)을 다운로드할 수 없습니다. 다시 시도하시겠습니까?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">"파일 %1$d개(%2$dMB)를 다운로드할 수 없습니다. 네트워크에 연결한 후 다시 시도하세요."</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">"파일 %d개가 아직 다운로드되지 않았습니다. 그래도 취소할까요?"</item>
+        <item quantity="other">"파일 %d개가 아직 다운로드되지 않았습니다. 그래도 취소하시겠습니까?"</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">추가된 사진 중 클라우드 사진 %d장이 포함되어 있습니다. \"로컬 앨범에만 표시\"를 끄고 확인할 수 있습니다.</item>
     </plurals>
     <plurals name="delete_photo_from_local">
-        <item quantity="other">사진 %d장을 삭제할까요?</item>
+        <item quantity="other">사진 %d장을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">사진 %d장을 모든 기기와 Xiaomi 클라우드에서 삭제할까요?</item>
+        <item quantity="other">사진 %d장을 모든 기기와 Xiaomi 클라우드에서 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">사진 %d장을 이 앨범과 Xiaomi 클라우드에서 삭제할까요?</item>
+        <item quantity="other">사진 %d장을 이 앨범과 Xiaomi 클라우드에서 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_video_from_local">
-        <item quantity="other">동영상 %d개를 삭제할까요?</item>
+        <item quantity="other">동영상 %d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">동영상 %d개를 모든 기기와 Xiaomi 클라우드에서 삭제할까요?</item>
+        <item quantity="other">동영상 %d개를 모든 기기와 Xiaomi 클라우드에서 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">동영상 %d개를 이 앨범과 Xiaomi 클라우드에서 삭제할까요?</item>
+        <item quantity="other">동영상 %d개를 이 앨범과 Xiaomi 클라우드에서 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">항목 %d개를 삭제할까요?</item>
+        <item quantity="other">항목 %d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">항목 %d개를 모든 기기와 Xiaomi 클라우드에서 삭제할까요?</item>
+        <item quantity="other">항목 %d개를 모든 기기와 Xiaomi 클라우드에서 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">항목 %d개를 이 앨범과 Xiaomi 클라우드에서 삭제할까요?</item>
+        <item quantity="other">항목 %d개를 이 앨범과 Xiaomi 클라우드에서 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">%2$s 사진 %1$d장을 삭제할까요?</item>
+        <item quantity="other">%2$s 사진 %1$d장을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">%2$s 동영상 %1$d개를 삭제할까요?</item>
+        <item quantity="other">%2$s 동영상 %1$d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">%2$s의 항목 %1$d개를 삭제할까요?</item>
+        <item quantity="other">%2$s의 항목 %1$d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(항목 %d개)</item>
@@ -199,7 +199,7 @@
         <item quantity="other">사진 %d장 최적화됨</item>
     </plurals>
     <plurals name="slim_exit_dialog_message">
-        <item quantity="other">"사진 %d장이 최적화되지 않았습니다. 중단할까요?"</item>
+        <item quantity="other">"사진 %d장이 최적화되지 않았습니다. 중단하시겠습니까?"</item>
     </plurals>
     <plurals name="slim_remain_photo_count">
         <item quantity="other">%d개 남음</item>
@@ -226,22 +226,22 @@
         <item quantity="other">사진 %d장</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">사진 %d장을 저장하고 나머지는 삭제할까요?</item>
+        <item quantity="other">사진 %d장을 저장하고 나머지는 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="burst_save_selected">
         <item quantity="other">%d개의 선택된 사진 저장</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Xiaomi 클라우드와 모든 동기화된 기기에서 버스트샷 %d개를 삭제할까요?</item>
+        <item quantity="other">Xiaomi 클라우드와 모든 동기화된 기기에서 버스트샷 %d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
-        <item quantity="other">버스트샷 %d개를 삭제할까요?</item>
+        <item quantity="other">버스트샷 %d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Xiaomi 클라우드와 이 기기에서 버스트샷 %d개를 삭제할까요?</item>
+        <item quantity="other">Xiaomi 클라우드와 이 기기에서 버스트샷 %d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
-        <item quantity="other">이 기기에서 버스트샷 %d개를 삭제할까요?</item>
+        <item quantity="other">이 기기에서 버스트샷 %d개를 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="photo_remain_hours">
         <item quantity="other">%d시간</item>
@@ -316,13 +316,13 @@
         <item quantity="other">%1$d초</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다. 그래도 삭제할까요?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다. 그래도 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다. 그래도 삭제할까요?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다. 그래도 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다. 그래도 삭제할까요?"</item>
+        <item quantity="other">"선택한 항목 %d개를 삭제하면 복원할 수 없습니다. 그래도 삭제하시겠습니까?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">항목을 최대 %1$d일(%2$s) 동안 여기에 저장할 수 있습니다.</item>
@@ -331,7 +331,7 @@
         <item quantity="other">항목을 최대 %1$d일 동안 여기에 저장할 수 있습니다. 이 기간을 연장하려면 요금제를 업그레이드하세요.</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"파일 %1$d개(%2$dMB)가 아직 다운로드되지 않았습니다. 모바일 데이터를 사용하여 다운로드할까요?"</item>
+        <item quantity="other">"파일 %1$d개(%2$dMB)가 아직 다운로드되지 않았습니다. 모바일 데이터를 사용하여 다운로드하시겠습니까?"</item>
     </plurals>
     <plurals name="album_member">
         <item quantity="other">%s명이 이 앨범을 볼 수 있음</item>
