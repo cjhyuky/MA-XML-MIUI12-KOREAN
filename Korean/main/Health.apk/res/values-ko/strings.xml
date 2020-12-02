@@ -886,7 +886,7 @@
     <string name="snore_detection_guide_one_description">잠자는 동안 소리가 녹음됩니다. 기계 학습을 통해 Xiaomi 건강 앱은 코골이, 말소리 및 시끄러운 소리를 감지하고 녹음 내용을 기기에 저장할 수 있습니다.</string>
     <string name="snore_detection_guide_one_title">마이크를 사용하여 오디오 녹음</string>
     <string name="snore_detection_guide_schedule_suggest">취침 시간표에 따라 마이크가 켜지고 꺼집니다. 취침 시간표를 설정하여 작동 시키세요></string>
-    <string name="snore_detection_guide_three_description">자기 전에 기기가 충분히 충전되어 있는지 확인하세요. 배터리가 부족하면 녹음이 중단 될 수 있습니다.</string>
+    <string name="snore_detection_guide_three_description">자기 전에 기기가 충분히 충전되어 있는지 확인하세요. 배터리가 부족하면 녹음이 중단될 수 있습니다.</string>
     <string name="snore_detection_guide_three_title">기기 충전 유지</string>
     <string name="snore_detection_guide_two_description">취침 시간표에 따라 마이크가 켜지고 꺼집니다.</string>
     <string name="snore_detection_guide_two_title">자동으로 소리 감지</string>
@@ -1392,7 +1392,7 @@
     <string name="exit_running_tips_confirm">아니오</string>
     <string name="exit_running_tips_desc">아직 운동을 시작하지 않은 것 같습니다. 이 운동을 종료하시겠습니까?</string>
     <string name="exit_running_tips_title">운동 끝내기 확인</string>
-    <string name="gps_no_signal_hint">"현재 GPS 신호로는 운동을 추적하고 경로를 기록 할 수 없습니다. 평평하고 개방 된 야외 공간으로 이동하세요."</string>
+    <string name="gps_no_signal_hint">"현재 GPS 신호로는 운동을 추적하고 경로를 기록 할 수 없습니다. 평평하고 개방된 야외 공간으로 이동하세요."</string>
     <string name="gps_unauthorized">GPS 권한 필요</string>
     <string name="gps_unopened">GPS가 꺼져 있습니다</string>
     <string name="location_permission_dialog_content">샤오미 건강이 \"샤오미 건강\">\"권한 관리\"에서 위치에 액세스하여 야외 운동을 추적할 수 있도록 허용합니다.</string>
@@ -1620,9 +1620,9 @@
      <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
      <string name="miuix_appcompat_select_all_description">모두 선택</string>
      <string name="network_not_available2">"네트워크에 연결할 수 없습니다"</string>
-     <string name="personal_course_recommend_subtitle">개인 정보, 건강 통계 및 선호도를 기반으로 추천 된 수업에 액세스</string>
+     <string name="personal_course_recommend_subtitle">개인정보, 건강 통계 및 선호도를 기반으로 추천된 수업에 액세스</string>
      <string name="personal_course_recommend_title">추천 수업</string>
-     <string name="privacy_setting">개인 정보</string>
+     <string name="privacy_setting">개인정보</string>
      <string name="sleep_day_multi_short_title">낮잠 %1$d번</string>
      <string name="sleep_day_single_short_title">낮잠</string>
      <string name="sleep_day_title">낮잠</string>

@@ -537,4 +537,6 @@
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
     <string name="thunder_download_speedup">Xunlei로 가속 중…</string>
+    <string name="download_description_content">다운로드 관리자는 MIUI 시스템 앱으로, 새 다운로드 작업을 생성하고 다운로드 작업의 진행 상황을 표시하는 기능을 합니다. 비활성화하면 일반적인 다운로드 작업 및 진행 상황 표시에 영향을 미칩니다.</string>
+    <string name="download_description_title">다운로드 관리자 비활성화</string>
 </resources>

@@ -2099,7 +2099,7 @@ EEEE"</string>
     <string name="screen_pinning_description_recents_invisible">"고정 해제할 때까지 계속 표시됩니다. 고정 해제하려면 뒤로 및 홈을 길게 터치하세요."</string>
     <string name="screen_pinning_description_recents_invisible_accessible">"고정 해제할 때까지 계속 표시됩니다. 고정 해제하려면 홈을 길게 터치하세요."</string>
     <string name="screen_pinning_exit">"앱 고정 해제됨"</string>
-    <string name="screen_pinning_exposes_personal_data">"개인 정보가 표시될 수 있습니다(연락처, 이메일 내용 등)."</string>
+    <string name="screen_pinning_exposes_personal_data">"개인정보가 표시될 수 있습니다(연락처, 이메일 내용 등)."</string>
     <string name="screen_pinning_negative">아니오</string>
     <string name="screen_pinning_positive">알겠습니다.</string>
     <string name="screen_pinning_start">"앱 고정됨"</string>
@@ -2574,7 +2574,7 @@ EEEE"</string>
     <string name="volume_ringer_status_normal">"벨소리"</string>
     <string name="volume_ringer_status_silent">"음소거"</string>
     <string name="volume_ringer_status_vibrate">"진동"</string>
-    <string name="volume_stream_content_description_mute">%1$s. 음소거하려면 탭하세요. 접근성 서비스가 음소거 될 수 있습니다.</string>
+    <string name="volume_stream_content_description_mute">%1$s. 음소거하려면 탭하세요. 접근성 서비스가 음소거될 수 있습니다.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. 음소거하려면 탭하세요.</string>
     <string name="volume_stream_content_description_unmute">%1$s. 음소거해제하려면 탭하세요.</string>
     <string name="volume_stream_content_description_vibrate">%1$s. 탭하여 진동 설정. 접근성 서비스가 음소거 될 수 있습니다.</string>
@@ -2587,7 +2587,7 @@ EEEE"</string>
     <string name="volume_stream_vibrate_dnd">%s 진동 — 우선순위만</string>
     <string name="volume_up_silent">볼륨업 키를 눌러서 방해 금지 모드 끝내기</string>
     <string name="volume_zen_end_now">지금 바로 끄기</string>
-    <string name="vpn_footer">네트워크가 모니터 될 수 있습니다.</string>
+    <string name="vpn_footer">네트워크가 모니터될 수 있습니다.</string>
     <string name="vpn_settings_not_available">이 사용자는 VPN 설정을 사용할 수 없습니다.</string>
     <string name="vpn_text">터치하여 설정 보기</string>
     <string name="vpn_text_long">%s에 연결됨. 자세히 보려면 탭하세요.</string>

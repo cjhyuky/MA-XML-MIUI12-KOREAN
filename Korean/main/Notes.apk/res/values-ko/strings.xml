@@ -105,7 +105,7 @@
     <string name="dialog_share_as_text">메모를 텍스트로 공유</string>
     <string name="dialog_share_as_pic">메모를 사진으로 공유</string>
     <string name="note_description_title">메모 정보</string>
-    <string name="note_description_content">메모 앱은 사용자의 아이디어를 기록할 수 있는 좋은 도구입니다. 언제 어디서나 Xiaomi 클라우드를 통해서 동기화된 항목들에 접근할 수 있으며 미리 알려드릴 수 있습니다. 앱 삭제 전 이러한 기능들을 사용할 수 없게 된다는 점을 유의하세요.</string>
+    <string name="note_description_content">메모 앱은 사용자의 아이디어를 기록할 수 있는 좋은 도구입니다. 언제 어디서나 Xiaomi 클라우드를 통해서 동기화된 항목들에 접근할 수 있으며 미리 알려드릴 수 있습니다. 앱 삭제 전 이러한 기능들을 사용할 수 없게된다는 점을 유의하세요.</string>
     <string name="db_downgrade_clear_date_reminder">MIUI 버전 전환을 위해 표기된 로컬 데이터 제거가 요구됩니다. Xiaomi 클라우드의 표기된 항목 백업 기능이 켜져있는지 확인하세요.</string>
     <string name="db_downgrade_clear_button">앱 데이터 삭제</string>
     <string name="app_name">메모</string>

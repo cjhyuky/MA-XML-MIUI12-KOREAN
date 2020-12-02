@@ -443,7 +443,7 @@
     <string name="prompt_before_transmission_message2_title">"다음 항목에 이중 앱을 사용 중입니다."</string>
     <string name="prompt_before_transmission_message3_summary">"시스템 제한으로 인해 보조 공간의 항목을 전송할 수 없습니다."</string>
     <string name="prompt_before_transmission_message3_title">"보조 공간을 사용하고 있습니다."</string>
-    <string name="prompt_before_transmission_message4_summary">"전송이 완료 될 때까지 Wi-Fi을 끄거나 네트워크간에 전환하지 마십시오."</string>
+    <string name="prompt_before_transmission_message4_summary">"전송이 완료될 때까지 Wi-Fi을 끄거나 네트워크간에 전환하지 마십시오."</string>
     <string name="prompt_before_transmission_message4_title">전송하는 동안 연결 유지</string>
     <string name="prompt_before_transmission_message5_summary">"대량의 데이터를 무선으로 전송하면 비정상적이지 않은 약간의 과열이 발생할 수 있습니다. 전송이 완료되면 곧 기기가 냉각됩니다."</string>
     <string name="prompt_before_transmission_message5_title">전송 중에 기기가 과열 될 수 있습니다.</string>
@@ -558,7 +558,7 @@
     <string name="system_app_restore_completed">복원 완료</string>
     <string name="system_app_restore_completed_detail">모든 시스템 항목을 복원했습니다.</string>
     <string name="system_app_restore_failed">오류가 발생했습니다.</string>
-    <string name="system_app_restore_failed_detail">"시스템 항목을 복원할 수 없습니다. 네트워크 설정을 확인하고 항목이 완전히 복원 될 때까지 기기를 재부팅하거나 전원을 끄지 마십시오. 다시 시도하려면 아래 버튼을 탭하세요."</string>
+    <string name="system_app_restore_failed_detail">"시스템 항목을 복원할 수 없습니다. 네트워크 설정을 확인하고 항목이 완전히 복원될 때까지 기기를 재부팅하거나 전원을 끄지 마십시오. 다시 시도하려면 아래 버튼을 탭하세요."</string>
     <string name="system_restore">항목 복원</string>
     <string name="task_backup_cancel_progress">취소 중…</string>
     <string name="task_canceled_all_local">취소됨</string>

@@ -629,7 +629,7 @@
     <string name="mw_external_payment_app_leave_incognito_warning">외부 애플리케이션을 통해 시크릿 모드로 결제하도록 합니다. 계속하시겠습니까?</string>
     <string name="mw_find_next">다음 찾기</string>
     <string name="mw_find_previous">이전 찾기</string>
-    <string name="mw_http_post_warning">찾고있는 페이지에서 사용자가 입력한 정보를 사용했습니다. 해당 페이지로 돌아가면 작업이 반복 될 수 있습니다. 계속하시겠습니까?</string>
+    <string name="mw_http_post_warning">찾고있는 페이지에서 사용자가 입력한 정보를 사용했습니다. 해당 페이지로 돌아가면 작업이 반복될 수 있습니다. 계속하시겠습니까?</string>
     <string name="mw_http_post_warning_resend">계속하기</string>
     <string name="mw_js_dialog_before_unload">%s 이 페이지를 나가시겠습니까?</string>
     <string name="mw_js_dialog_before_unload_negative_button">머무르기</string>

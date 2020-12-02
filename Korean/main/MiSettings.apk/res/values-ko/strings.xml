@@ -473,4 +473,6 @@
     <string name="usage_new_home_week_unlock_compare_increase">(지난 주보다 %.2f 증가)</string>
     <string name="usage_stats_limit_time_high_accuracy_summary_new">정확도 분단위로 감소 (배터리 사용 증가)</string>
     <string name="usage_stats_limit_time_low_accuracy_summary_new">남은 시간이 %d시간 이하일 시 정확도 분단위로 감소 (배터리 절약)</string>
+    <string name="usage_state_holiday_day_hour_minute">휴일: %1$s %2$s</string>
+    <string name="usage_state_holiday_time">휴일: %s</string>
 </resources>

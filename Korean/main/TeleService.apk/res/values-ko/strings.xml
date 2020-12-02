@@ -361,7 +361,7 @@
     <string name="callFailed_fdn_only">FDN으로 인해 발신전화가 제한됩니다.</string>
     <string name="callFailed_dialToUssd">DIAL 요청이 USSD 요청으로 수정되었습니다.</string>
     <string name="callFailed_dialToSs">DIAL 요청이 SS 요청으로 수정되었습니다.</string>
-    <string name="callFailed_dialToDial">DIAL 요청이 다른 번호로 된 DIAL 요청으로 수정되었습니다.</string>
+    <string name="callFailed_dialToDial">DIAL 요청이 다른 번호로된 DIAL 요청으로 수정되었습니다.</string>
     <string name="callFailed_cb_enabled">착발신 제한이 설정되어 있는 상태에서는 전화를 걸 수 없습니다.</string>
     <string name="callFailed_dsac_restricted">액세스 제어에 의해 통화가 제한되었습니다.</string>
     <string name="callFailed_dsac_restricted_emergency">액세스 제어에 의해 긴급 전화가 제한되었습니다.</string>

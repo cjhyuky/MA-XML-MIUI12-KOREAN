@@ -342,4 +342,6 @@ ID:%s
     <string name="play_mode_shuffle_title">무작위</string>
     <string name="play_mode_single_title">반복</string>
     <string name="talkback_mode_repeat_none">목록</string>
+    <string name="description_content">라디오는 MIUI 시스템 앱입니다. 비활성화하면 지역 FM 라디오를 통해 방송을 청취할 수 없습니다.</string>
+    <string name="description_title">\"라디오\" 비활성화</string>
 </resources>

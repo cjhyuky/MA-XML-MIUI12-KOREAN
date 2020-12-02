@@ -1070,7 +1070,7 @@
     <string name="battery_tip_dialog_message">휴대전화를 평소보다 더 많이 사용했습니다. 배터리가 예상보다 빨리 소진될 수 있습니다.\n\n배터리 사용량이 가장 많은 앱:</string>
     <string name="battery_tip_dialog_message_footer">고전력 백그라운드 활동 포함</string>
     <string name="battery_tip_dialog_summary_message">앱이 정상적인 배터리를 사용하고 있습니다. 앱이 배터리를 너무 많이 사용하면 휴대전화에서 취할 수 있는 행동을 제안합니다. 배터리가 부족한 경우 절전 모드를 항상 켤 수 있습니다.</string>
-    <string name="battery_tip_early_heads_up_done_summary">일부 기능이 제한 될 수 있습니다.</string>
+    <string name="battery_tip_early_heads_up_done_summary">일부 기능이 제한될 수 있습니다.</string>
     <string name="battery_tip_early_heads_up_done_title">절전 모드가 켜짐</string>
     <string name="battery_tip_early_heads_up_summary">배터리가 평소보다 빨리 소모될 수 있습니다.</string>
     <string name="battery_tip_early_heads_up_title">절전 모드 켜기</string>
@@ -1078,7 +1078,7 @@
     <string name="battery_tip_high_usage_title">전화가 평소보다 많이 사용되었습니다.</string>
     <string name="battery_tip_low_battery_summary">배터리가 충분한 사용시간을 제공할 수 없습니다.</string>
     <string name="battery_tip_low_battery_title">낮은 배터리 용량</string>
-    <string name="battery_tip_restrict_app_dialog_message">배터리를 절약하려면 백그라운드에서 배터리를 사용하지 못하도록 %1$s 앱을 중지하세요. 이 앱이 제대로 작동하지 않을 수 있으며 알림이 지연 될 수 있습니다.</string>
+    <string name="battery_tip_restrict_app_dialog_message">배터리를 절약하려면 백그라운드에서 배터리를 사용하지 못하도록 %1$s 앱을 중지하세요. 이 앱이 제대로 작동하지 않을 수 있으며 알림이 지연될 수 있습니다.</string>
     <string name="battery_tip_restrict_app_dialog_ok">제한</string>
     <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"배터리를 절약하려면 백그라운드에서 배터리를 사용하지 못하게 하세요. 제한된 앱이 제대로 작동하지 않고 알림이 지연될 수 있습니다. 앱 : "</string>
     <string name="battery_tip_restrict_apps_more_than_5_dialog_message">배터리를 절약하려면 백그라운드에서 배터리를 사용하지 못하게 하세요. 제한된 앱이 제대로 작동하지 않고 알림이 지연될 수 있습니다. 앱 : %1$s.</string>
@@ -4524,7 +4524,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lost_internet_access_cancel">Wi-Fi에 머무르기</string>
     <string name="lost_internet_access_persist">다시 보지 않기</string>
     <string name="lost_internet_access_switch">모바일 네트워크로 전환</string>
-    <string name="lost_internet_access_text">Wi-Fi의 연결 상태가 좋지 않으면 모바일 네트워크로 전환할 수 있습니다. 데이터 사용료가 부과 될 수 있습니다.</string>
+    <string name="lost_internet_access_text">Wi-Fi의 연결 상태가 좋지 않으면 모바일 네트워크로 전환할 수 있습니다. 데이터 사용료가 부과될 수 있습니다.</string>
     <string name="lost_internet_access_title">Wi-Fi가 인터넷에 연결되어 있지 않습니다.</string>
     <string name="low_label">낮음</string>
     <string name="low_storage_summary">저장용량이 얼마 남지 않았습니다. %1$s 사용 중 - %2$s 사용 가능</string>
@@ -5548,7 +5548,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="notification_volume_option_title">알림 볼륨</string>
     <string name="notification_volume_title">알림</string>
     <string name="notifications_bubble_setting_description">일부 대화는 다른 앱 위에 떠있는 아이콘으로 표시됩니다.</string>
-    <string name="notifications_bubble_setting_on_summary">사용 / 대화가 떠 다니는 아이콘으로 표시 될 수 있음</string>
+    <string name="notifications_bubble_setting_on_summary">사용 / 대화가 떠 다니는 아이콘으로 표시될 수 있음</string>
     <string name="notifications_bubble_setting_title">앱에서 풍선을 표시하도록 허용</string>
     <string name="notifications_disabled">차단됨</string>
     <string name="notifications_enabled">표준</string>
@@ -6490,7 +6490,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="restrict_background_blacklisted">백그라운드 데이터 꺼짐</string>
     <string name="restrict_bg_app">제한</string>
     <string name="restrict_max_aspect_ratio_title">전체 화면 비활성화 추천 앱</string>
-    <string name="restricted_app_detail_footer">이 앱은 백그라운드에서 배터리를 사용하고 있습니다. 제한된 앱이 제대로 작동하지 않고 알림이 지연 될 수 있습니다.</string>
+    <string name="restricted_app_detail_footer">이 앱은 백그라운드에서 배터리를 사용하고 있습니다. 제한된 앱이 제대로 작동하지 않고 알림이 지연될 수 있습니다.</string>
     <string name="restricted_app_time_summary">%1$s에 제한됨</string>
     <string name="restricted_app_title">제한된 앱</string>
     <string name="restricted_false_label">앱이 백그라운드에서 배터리를 사용할 수 있습니다.</string>
@@ -7075,7 +7075,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="security_settings_face_settings_context_subtitle">얼굴인식 잠금해제를 사용하여 휴대전화 잠금해제</string>
     <string name="security_settings_face_settings_enroll">새로운 얼굴인식 잠금해제 설정</string>
     <string name="security_settings_face_settings_footer">얼굴인식 잠금해제를 사용하여 기기를 잠금해제하고 앱에 로그인하거나 결제를 확인하세요.\n\n주의사항:\n휴대전화를 바라보면 의도치 않게 잠금이 해제될 수 있습니다.\n\n다른 사람이 눈을 뜨고 있는 내 얼굴에 휴대전화를 가져다 대도 잠금이 해제될 수 있습니다\n\n자녀나 일란성 쌍둥이와 같이 나와 많이 닮은 사람이 휴대전화의 잠금을 해제할 수도 있습니다.</string>
-    <string name="security_settings_face_settings_footer_attention_not_supported">"얼굴인식 잠금해제를 사용하여 기기를 잠금해제하고, 앱에 로그인하고, 결제를 확인합니다. 유의 사항 : 의도하지 않은 경우 휴대전화를 쳐다 보면 잠금이 해제 될 수 있습니다. 휴대전화를 잠금해제할 수 있습니다. 눈을 감아도 얼굴에 대고 있으면 다른 사람이 휴대전화를 잠금해제할 수 있습니다. 같은 형제 자매와 같이 나와 닮은 사람이 휴대전화를 잠금해제할 수 있습니다. "</string>
+    <string name="security_settings_face_settings_footer_attention_not_supported">"얼굴인식 잠금해제를 사용하여 기기를 잠금해제하고, 앱에 로그인하고, 결제를 확인합니다. 유의 사항 : 의도하지 않은 경우 휴대전화를 쳐다 보면 잠금이 해제될 수 있습니다. 휴대전화를 잠금해제할 수 있습니다. 눈을 감아도 얼굴에 대고 있으면 다른 사람이 휴대전화를 잠금해제할 수 있습니다. 같은 형제 자매와 같이 나와 닮은 사람이 휴대전화를 잠금해제할 수 있습니다. "</string>
     <string name="security_settings_face_settings_remove_dialog_details">얼굴인식 잠금해제에서 기록한 데이터가 완전히 삭제됩니다. 삭제 이후에 휴대전화를 잠금해제하고 앱에 로그인하고 결제를 확인하려면 PIN, 패턴 또는 비밀번호가 필요합니다.</string>
     <string name="security_settings_face_settings_remove_dialog_title">얼굴 데이터를 삭제하시겠습니까?</string>
     <string name="security_settings_face_settings_remove_face_data">얼굴 데이터 삭제</string>
@@ -7873,7 +7873,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="structure_face_unlock_model_other">기타</string>
     <string name="structure_face_unlock_model_other_msg_2d">2D 인식</string>
     <string name="structure_face_unlock_model_other_msg_3d">3D 인식</string>
-    <string name="structure_face_unlock_model_other_suggestion_2d">2D 얼굴인식은 패턴, PIN 또는 비밀번호보다 덜 안전합니다. 이 기능이 켜져 있으면 사진은 물론 사람이나 사물과 같은 기기로 기기가 잠금해제 될 수 있습니다.</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2D 얼굴인식은 패턴, PIN 또는 비밀번호보다 덜 안전합니다. 이 기능이 켜져 있으면 사진은 물론 사람이나 사물과 같은 기기로 기기가 잠금해제될 수 있습니다.</string>
     <string name="structure_face_unlock_model_other_suggestion_3d">"3D 얼굴인식은 비교적 안전합니다. 이 기능이 켜져있을 때 사진으로 기기를 잠금해제 할 가능성은 거의 없습니다. 그러나 사람이나 물체가 사람처럼 보이지 않을 수 있습니다."</string>
     <string name="structure_face_unlock_model_other_title">얼굴인식</string>
     <string name="structure_face_unlock_not_same_person">"모든 단계를 직접 완료해야 합니다. 다른 사람과 장소를 바꾸지 마세요."</string>
@@ -9919,7 +9919,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi 클라우드는 사진을 동기화하고 앱과 설정을 백업하며 기기찾기를 사용하여 휴대전화를 찾는데 도움을 줍니다.</string>
     <string name="xiaomi_cloud_service_disabled">꺼짐</string>
     <string name="xiaomi_cloud_service_unknown">알 수 없음</string>
-    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 매니저가 정상작동 중인지 확인하세요.</string>
+    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 관리자가 정상작동 중인지 확인하세요.</string>
     <string name="xiaomi_external_storage_unavailable">저장소 사용이 불가능합니다. SD 카드를 확인하세요.</string>
     <string name="xiaomi_money_service">Mi 코인</string>
     <string name="xiaomi_router">Mi 라우터</string>
@@ -10318,4 +10318,34 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="resolution_qhd_summary">3200×1440 (배터리 소모 증가)</string>
     <string name="save_battery_mode">QHD+ 모드에서 배터리 절전</string>
     <string name="save_battery_mode_summary">배터리 절전을 위해 해상도를 자동으로 변경합니다.</string>
+    <string name="headset_connectiong">연결 중...</string>
+    <string name="headset_remove_message">계정에서 이 기기를 제거하시겠습니까?</string>
+    <string name="headset_remove_message_indicate">Xiaomi 계정과 연동된 모든 기기가 제거됩니다.</string>
+    <string name="headset_unsaved_device">기기 제거</string>
+    <string name="headset_unsaved_devices">저장 안함. 계정의 다른 기기에 연결합니다.</string>
+    <string name="miheadset_Box">박스</string>
+    <string name="miheadset_LeftEar">왼쪽</string>
+    <string name="miheadset_RightEar">오른쪽</string>
+    <string name="miheadset_cancel_device">취소</string>
+    <string name="miheadset_checkUpdate">업데이트 확인</string>
+    <string name="miheadset_closeAnc">끄기</string>
+    <string name="miheadset_connectHeadsetForFw">펌웨어 버전을 확인하려면 이어폰을 연결하세요.</string>
+    <string name="miheadset_connect_play_music">이어폰이 연결되면 자동으로 재생 시작</string>
+    <string name="miheadset_disconnect">연결 해제</string>
+    <string name="miheadset_disconnect_device">이 기기의 연결을 해제하시겠습니까?</string>
+    <string name="miheadset_double_click_left">왼쪽 이어폰 두 번 두드리기</string>
+    <string name="miheadset_double_click_right">오른쪽 이어폰 두 번 두드리기</string>
+    <string name="miheadset_equalizer">이퀄라이저</string>
+    <string name="miheadset_game_mode">게임 모드</string>
+    <string name="miheadset_game_mode_summary">게임 플레이 중 소리 지연을 줄입니다.</string>
+    <string name="miheadset_ignore">이 기기 삭제</string>
+    <string name="miheadset_in_ear_check">착용 감지</string>
+    <string name="miheadset_in_ear_check_summary">이어폰을 귀에 착용하거나 제거하면 자동으로 재생 또는 일시중지합니다.</string>
+    <string name="miheadset_last_version">최신 펌웨어입니다.</string>
+    <string name="miheadset_moreSettingsInAi">추가 설정</string>
+    <string name="miheadset_ok_device">확인</string>
+    <string name="miheadset_openAnc">소음 제거</string>
+    <string name="miheadset_rename">이름 바꾸기</string>
+    <string name="miheadset_rename_device">이름 바꾸기</string>
+    <string name="miheadset_transparent">주변 소리 허용</string>
 </resources>

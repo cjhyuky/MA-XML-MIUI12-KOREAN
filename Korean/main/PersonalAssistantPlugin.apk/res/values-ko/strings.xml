@@ -654,7 +654,7 @@
     <string name="setting_didi_default_way">기본 택시 경로</string>
     <string name="setting_disable">끄기</string>
     <string name="setting_fav_authorize">기기의 모든 즐겨찾기에 액세스 허용</string>
-    <string name="setting_fav_notification">무언가가 즐겨찾기에 추가 될 때마다 알려줍니다.</string>
+    <string name="setting_fav_notification">무언가가 즐겨찾기에 추가될 때마다 알려줍니다.</string>
     <string name="setting_fav_remove_content">즐겨찾기에 대한 액세스를 제한하면 카드가 삭제됩니다. 그래도 제한하시겠습니까?</string>
     <string name="setting_fav_remove_neg">취소</string>
     <string name="setting_fav_remove_posi">제한</string>

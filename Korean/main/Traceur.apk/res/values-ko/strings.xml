@@ -303,7 +303,7 @@
     <string name="picture_color_mode_desc">SRGB 사용</string>
     <string name="pointer_location">포인터 위치</string>
     <string name="pointer_location_summary">현재 터치 데이터를 보여주는 화면 오버레이</string>
-    <string name="power_charging_duration">%1$s - %2$s 완전히 충전 될 때까지</string>
+    <string name="power_charging_duration">%1$s - %2$s 완전히 충전될 때까지</string>
     <string name="power_discharge_by">약 %1$s (%2$s)까지 사용 가능</string>
     <string name="power_discharge_by_enhanced">사용법에 따라 약 %1$s(%2$s)까지 사용 가능</string>
     <string name="power_discharge_by_only">%1$s까지 사용 가능</string>
@@ -314,8 +314,8 @@
     <string name="power_remaining_duration_only">약 %1$s 남음</string>
     <string name="power_remaining_duration_only_enhanced">사용법에 따라 약 %1$s 남음</string>
     <string name="power_remaining_duration_only_short">%1$s 남음</string>
-    <string name="power_remaining_duration_only_shutdown_imminent">곧 전화가 종료 될 수 있습니다.</string>
-    <string name="power_remaining_duration_shutdown_imminent">곧 전화가 종료 될 수 있습니다. (%1$s)</string>
+    <string name="power_remaining_duration_only_shutdown_imminent">곧 전화가 종료될 수 있습니다.</string>
+    <string name="power_remaining_duration_shutdown_imminent">곧 전화가 종료될 수 있습니다. (%1$s)</string>
     <string name="power_remaining_less_than_duration">%1$s 미만 남음 (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">%1$s 미만 남음</string>
     <string name="power_remaining_more_than_subtext">%1$s 이상 남음 (%2$s)</string>

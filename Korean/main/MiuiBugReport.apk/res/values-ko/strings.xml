@@ -572,7 +572,7 @@
 크기: %2$s"</string>
     <string name="update_dialog_content_version">지금 %1$s 버전으로 업데이트 할 수 있습니다.</string>
     <string name="update_dialog_title">업데이트 가능</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 매니저 연결에 실패했습니다. 앱 관리에서 다운로드 관리자 상태를 확인하세요.</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">다운로드 관리자 연결에 실패했습니다. 앱 관리에서 다운로드 관리자 상태를 확인하세요.</string>
     <string name="xiaomi_update_sdk_dialog_message">"버전 %1$s 소개
 크기: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$s 소개

@@ -14,7 +14,7 @@
     <string name="carousel_suggest2">바탕 화면 회전 목마 인가?</string>
     <string name="change_time">배경화면 전환</string>
     <string name="confirm">확인</string>
-    <string name="current_connection_invalid">기기는 네트워크에 연결 될 때까지 기다립니다.</string>
+    <string name="current_connection_invalid">기기는 네트워크에 연결될 때까지 기다립니다.</string>
     <string name="current_data_invalid">오류가 발생 했습니다.</string>
     <string name="current_network_invalid">먼저 네트워크에 연결</string>
     <string name="current_no_more_pictures">아니 더 많은 사진</string>

@@ -7,7 +7,7 @@
     <string name="xiaomi_update_dialog_message_diff">"%1$s 버전
 업데이트 크기: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하세요.</string>
-    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패, 다운로드 매니저가 정상 작동 중인지 확인하세요.</string>
+    <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패, 다운로드 관리자가 정상 작동 중인지 확인하세요.</string>
     <string name="app_name">백업</string>
     <string name="local_app_name">백업</string>
     <string name="local_home_title">로컬 백업</string>
@@ -507,8 +507,8 @@
     <string name="trans_select_data_too_large">"전송할 아이템을 너무 많이 선택했습니다. 전송 속도를 높이려면 중요한 항목만 선택하세요."</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite가 PC에 백업을 만들 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
     <string name="alert_message_restore_from_miasist"> Mi PC Suite가 휴대전화의 항목 복원 권한을 요청하고 있습니다. 허용하시겠습니까?</string>
-    <string name="alert_miasist_occupy_backup">Mi PC Suite를 사용하여 항목 백업 중... 백업이 완료 될 때까지 기다렸다가 다시 시도하세요.</string>
-    <string name="alert_miasist_occupy_restore">Mi PC Suite를 사용하여 항목 복원 중... 항목이 복원 될 때까지 기다렸다가 다시 시도하세요.</string>
+    <string name="alert_miasist_occupy_backup">Mi PC Suite를 사용하여 항목 백업 중... 백업이 완료될 때까지 기다렸다가 다시 시도하세요.</string>
+    <string name="alert_miasist_occupy_restore">Mi PC Suite를 사용하여 항목 복원 중... 항목이 복원될 때까지 기다렸다가 다시 시도하세요.</string>
     <string name="alert_phone_occupy_backup">"Mi PC Suite를 사용할 수 없습니다. 휴대전화에서 항목을 백업하거나 복원하고 다시 시도하세요."</string>
     <string name="alert_second_space_not_support_miasist">"보조 공간에서 Mi PC Suite를 사용할 수 없습니다. 메인 공간으로 전환하세요."</string>
     <string name="alert_title_backup_to_miasist">Mi PC Suite를 사용하여 항목을 백업하시겠습니까?</string>
@@ -719,7 +719,7 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="new_low_storage_title">저장소 공간이 부족합니다.</string>
     <string name="new_more_settings_label">추가 설정</string>
     <string name="new_pc_backup_content1">%1$d. 열기 \"%2$s\".</string>
-    <string name="new_pc_backup_content2">%d. 모든 항목이 백업 될 때까지 기다리세요.</string>
+    <string name="new_pc_backup_content2">%d. 모든 항목이 백업될 때까지 기다리세요.</string>
     <string name="new_pc_backup_content3">%d. MIUI-Backup-AllBackup에서 백업 찾기.</string>
     <string name="new_pc_backup_content4">%d. 파일을 PC에 복사.</string>
     <string name="new_pc_backup_restore_link">모바일 기기</string>
