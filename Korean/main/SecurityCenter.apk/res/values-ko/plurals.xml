@@ -533,4 +533,46 @@
     <plurals name="privacy_risk_work_encryption_msg">
         <item quantity="other">%d개의 항목에 추가 보호가 필요함</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">배터리 사용 문제 %d개</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">%d개의 항목을 최적화하여 배터리를 절약하세요.</item>
+    </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">번</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">배터리 사용 문제 %d개</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">"시간"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">"분"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">정확한 통계를 위해 최소 %2$d번 이상 충전을 완료하세요.</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">배터리 사용 문제 %d개 해결</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">배터리 사용 문제 %d개를 해결할 수 있습니다.</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d개의 항목을 최적화할 수 있습니다."</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">%d개의 항목 최적화</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">배터리 절약을 위해 %d의 항목을 최적화하세요.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">앱 %d개가 수시로 자동 실행됩니다.</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">앱 %d개가 배터리를 많이 사용합니다.</item>
+    </plurals>
 </resources>
