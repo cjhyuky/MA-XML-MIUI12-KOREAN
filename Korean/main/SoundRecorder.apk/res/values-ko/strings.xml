@@ -312,4 +312,7 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">나중에</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
     <string name="xiaomi_market_sdk_update_dialog_title">업데이트 가능</string>
+    <string name="clear_data_dialog_content">캐시된 항목, 앱 데이터 및 사용자 지정 설정은 삭제되지만 기록은 유지됩니다.</string>
+    <string name="clear_data_dialog_title">데이터를 삭제하시겠습니까?</string>
+    <string name="preference_clear_data">데이터 삭제</string>
 </resources>
