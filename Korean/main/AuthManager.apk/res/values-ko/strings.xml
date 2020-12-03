@@ -226,4 +226,12 @@
     <string name="HIPS_Perm_Access_Gallery">갤러리 접근</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">이 앱이 갤러리의 항목에 액세스하도록 허용</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">"거부하고 다시 묻지 않음(%d)"</string>
+    <string name="clipboard_ai_allow_tip">%1$s 앱이 %2$d 항목을 클립보드에서 읽도록 허가</string>
+    <string name="clipboard_data">내용：</string>
+    <string name="clipboard_read_ai_deny_once">%1$s번 시도했으나 실패</string>
+    <string name="clipboard_read_deny_dialog_title">%1$s 앱의 클립보드 접근 실패</string>
+    <string name="forbid_notice_me">알림 없음</string>
+    <string name="go_behavior_record">방문 기록 보기</string>
+    <string name="keep_notice_me">알림</string>
+    <string name="notification_click_tip">탭하여 더보기</string>
 </resources>
