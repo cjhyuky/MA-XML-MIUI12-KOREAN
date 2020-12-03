@@ -330,4 +330,5 @@
     <string name="disable_nfc_reverse">무선 충전을 위해 NFC 모드를 비활성화합니다.</string>
     <string name="enable_nfc">충전을 종료하고 NFC 모드를 활성화합니다.</string>
     <string name="enable_nfc_reverse">무선 충전을 종료하고 NFC 모드를 활성화합니다.</string>
+    <string name="bottom_bar_smallwindow_text">Release to add</string>
 </resources>
