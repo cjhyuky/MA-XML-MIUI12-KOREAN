@@ -172,4 +172,8 @@
     <string name="miui_guide_menu_privacy">개인정보 보호정책</string>
     <string name="miui_mine_repair_mode_sub_title">판매 후 유지 관리 중 데이터 보안을 보장합니다.</string>
     <string name="miui_mine_repair_mode_title">유지 관리 모드</string>
+    <string name="icon_add_description">홈 화면 바로가기 추가</string>
+    <string name="icon_remove_confirm">삭제</string>
+    <string name="icon_remove_description_content">"\"서비스 &amp; 피드백\" 는 시스템 앱입니다. 홈 화면 바로가기를 삭제한 후 설정에서 다시 활성화할 수 있습니다."</string>
+    <string name="icon_remove_description_title">\"서비스 &amp; 피드백\" 을 홈 화면에서 삭제하시겠습니까?</string>
 </resources>
