@@ -10350,4 +10350,15 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miheadset_transparent">주변 소리 허용</string>
     <string name="font_setting_weight_toast">"해당 글꼴은 상세 설정을 지원하지 않습니다."</string>
     <string name="face_unlock_prompt">얼굴 인식 시도</string>
+    <string name="adjust_font_size_answer_cn">아래 슬라이더를 사용하여 텍스트 크기와 글꼴 두께를 조정해 보세요!</string>
+    <string name="adjust_font_size_answer_global">아래 슬라이더를 사용하여 텍스트 크기를 조정해 보세요!</string>
+    <string name="font_settings_jump">접근성 > 표시 크기</string>
+    <string name="font_settings_recommend_title">"텍스트 크기가 충분히 크지 않습니까?"</string>
+    <string name="font_settings_summary_cn">글꼴 및 텍스트 크기</string>
+    <string name="how_adjust_font_size">텍스트 크기는 어떻게 조정할 수 있습니까?</string>
+    <string name="miheadset_local_ota">기기 OTA</string>
+    <string name="personalize_title">배경 화면 &amp; 사용자 설정</string>
+    <string name="title_font_settings">글꼴 설정</string>
+    <string name="toast_apply_font_fail">"글꼴을 설정할 수 없음"</string>
+    <string name="resolution_sub_title">MIUI가 해상도를 전환하는 동안 백그라운드에서 실행중인 앱을 닫을 수 있음</string>
 </resources>
