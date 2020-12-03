@@ -1519,4 +1519,8 @@
     <string name="dialog_delete_contact_title">연락처 삭제</string>
     <string name="notification_click_detail">자세히 알아보기</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi 클라우드가 일부 연락처를 삭제하려 합니다.</string>
+    <string name="call_record_user_notice_all_purpose">특정 단어가 언급된 통화 찾기</string>
+    <string name="call_record_user_notice_permission_desc_microphone">통화 저장</string>
+    <string name="call_record_user_notice_permission_desc_storage">녹음 저장</string>
+    <string name="call_record_user_notice_title">음성 통화 검색</string>
 </resources>
