@@ -32,4 +32,20 @@
     <string name="input_method_switch_settings_text">키보드 설정</string>
     <string name="input_method_tab_clipboard_text">클립보드</string>
     <string name="input_method_tab_phrase_text">상용구</string>
+    <string name="input_method_clipboard_add_to_phrase_success">상용구에 추가</string>
+    <string name="input_method_function_clipboard">클립보드 및 상용구</string>
+    <string name="input_method_function_clipboard_des">탭하여 클립보드 및 상용구 항목 보기</string>
+    <string name="input_method_function_select_guide_title">더 많은 옵션을 보려면 길게 누르기</string>
+    <string name="input_method_function_select_left_view_title">왼쪽 버튼 기능 설정</string>
+    <string name="input_method_function_select_right_view_title">오른쪽 버튼 기능 설정</string>
+    <string name="input_method_function_switch">키보드 간 전환</string>
+    <string name="input_method_function_switch_des">다른 키보드로 전환하려면 탭하세요.</string>
+    <string name="input_method_function_switch_keyboard_language">언어 전환</string>
+    <string name="input_method_function_switch_keyboard_language_des">탭하여 입력 언어 전환</string>
+    <string name="input_method_function_switch_keyboard_type">키보드 전환</string>
+    <string name="input_method_function_switch_keyboard_type_des">탭하여 다른 키보드 간 전환</string>
+    <string name="input_method_function_voice">음성 입력</string>
+    <string name="input_method_function_voice_des">탭하여 음성 입력 사용</string>
+    <string name="input_method_function_xiaoai">Mi AI 음성 입력</string>
+    <string name="input_method_function_xiaoai_des">탭하여 Mi AI 음성 입력 사용</string>
 </resources>
