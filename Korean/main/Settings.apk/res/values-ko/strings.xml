@@ -10348,4 +10348,6 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miheadset_rename">이름 바꾸기</string>
     <string name="miheadset_rename_device">이름 바꾸기</string>
     <string name="miheadset_transparent">주변 소리 허용</string>
+    <string name="font_setting_weight_toast">"해당 글꼴은 상세 설정을 지원하지 않습니다."</string>
+    <string name="face_unlock_prompt">얼굴 인식 시도</string>
 </resources>
