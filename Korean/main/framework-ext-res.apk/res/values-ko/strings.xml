@@ -326,4 +326,8 @@
     <string name="xspace_head">듀얼 앱</string>
     <string name="xspace_resolver_activity_title">앱 선택</string>
     <string name="send_files_by">파일 공유 방법</string>
+    <string name="disable_nfc">무선 충전을 위해 NFC 모드를 비활성화합니다.</string>
+    <string name="disable_nfc_reverse">무선 충전을 위해 NFC 모드를 비활성화합니다.</string>
+    <string name="enable_nfc">충전을 종료하고 NFC 모드를 활성화합니다.</string>
+    <string name="enable_nfc_reverse">무선 충전을 종료하고 NFC 모드를 활성화합니다.</string>
 </resources>
