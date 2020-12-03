@@ -4212,4 +4212,7 @@ SMS 전송"</string>
     <string name="prompt_safe">안전</string>
     <string name="prompt_unknown">알 수 없음</string>
     <string name="ai_allow_all">모든 권한이 부여되면 알림</string>
+    <string name="app_behavior_link_start">시작함</string>
+    <string name="app_behavior_share_file">파일 공유</string>
+    <string name="app_behavior_share_picture">사진 공유</string>
 </resources>
