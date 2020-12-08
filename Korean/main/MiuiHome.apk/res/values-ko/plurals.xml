@@ -25,6 +25,6 @@
         <item quantity="other">%1$s개 중 %2$s개 안읽음</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">%1$d개 앱을 제거하시겠습니까?</item>
+        <item quantity="other">홈 화면에서 %1$d개 앱을 제거하시겠습니까?</item>
     </plurals>
 </resources>
