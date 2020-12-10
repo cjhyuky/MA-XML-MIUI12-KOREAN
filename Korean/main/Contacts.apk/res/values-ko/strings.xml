@@ -1523,4 +1523,10 @@
     <string name="call_record_user_notice_permission_desc_microphone">통화 저장</string>
     <string name="call_record_user_notice_permission_desc_storage">녹음 저장</string>
     <string name="call_record_user_notice_title">음성 통화 검색</string>
+    <string name="hide_app_description_content">"주소록은 시스템 앱입니다. 홈 화면의 바로가기만 제거하고 앱은 그대로 사용할 수도 있습니다."</string>
+    <string name="hide_app_description_title">홈 화면에서 \"주소록\"을 제거하시겠습니까?</string>
+    <string name="restore_app_btn_cancel">취소</string>
+    <string name="restore_app_btn_restore">확인</string>
+    <string name="restore_app_description_content">홈 화면 바로가기를 추가하여 주소록을 빠르게 확인하세요.</string>
+    <string name="restore_app_description_title">홈 화면에 \"주소록\"을 추가하시겠습니까?</string>
 </resources>
