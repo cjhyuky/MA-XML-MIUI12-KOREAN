@@ -3171,7 +3171,7 @@ SMS 전송"</string>
     <string name="system_permission_declare_disagree">동의 안 함</string>
     <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! 이 앱을 통해 다음과 같은 기능을 사용할 수 있습니다: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> and &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> 과 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_meanwhile_privacy_policy"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_meanwhile_user_agreement"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_no_say_no">필수 권한을 부여하지 않거나 데이터 수집 및 사용을 허용하지 않으면 이 앱이 정상적으로 작동하지 않습니다.</string>
