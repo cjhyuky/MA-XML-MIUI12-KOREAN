@@ -203,7 +203,6 @@
     <string name="HIPS_SecurityPrompt_Reject_Clear_This">거부 및 클립보드 비우기 (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">이번만 거부 (%d)</string>
     <string name="clipboard_ai_allow_once">%1$s 앱의 클립보드 접근을 자동으로 허용했습니다.</string>
-    <string name="clipboard_data">클립보드 항목</string>
     <string name="clipboard_data_request">%1$s이(가) 클립보드에 접근하려 합니다.</string>
     <string name="clipboard_deny_notification_content">이 시도는 차단되었습니다. 탭하여 권한을 관리하세요.</string>
     <string name="clipboard_deny_notification_operation">관리</string>
