@@ -25,6 +25,6 @@
         <item quantity="other">"%2$s의 클립보드 접근을 이미 %1$d번 거부했습니다. %3$s의 클립보드 접근을 항상 거부하시겠습니까?"</item>
     </plurals>
     <plurals name="clipboard_read_ai_deny_more">
-        <item quantity="other">%1$s 앱이 클립보드 접근을 %2$d번 시도했으나 거절됨</item>
+        <item quantity="other">%1$s의 클립보드 접근 시도가 %2$d번 차단됨</item>
     </plurals>
 </resources>
