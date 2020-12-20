@@ -137,7 +137,7 @@
     <string name="wifi_scan_throttling">Wi‑Fi 스캔 조절</string>
     <string name="wifi_scan_throttling_summary">배터리 소모를 줄이고 네트워크 성능을 향상시킵니다.</string>
     <string name="zen_mode_forever">끄기 전까지</string>
-    <string name="fiveg_hosted_mode_summary">5G 연결신호가 취약하면 연결가능한 최상의 네트워크로 자동전환</string>
+    <string name="fiveg_hosted_mode_summary">배터리 절약을 위해 자동으로 최상의 네트워크를 선택합니다.</string>
     <string name="fiveg_hosted_mode_title">5G 스마트 전환</string>
     <string name="ai_assistant_not_installed">먼저 AI 통화 어시스턴트 설치</string>
     <string name="ai_assistant_setting_title">AI 통화 어시스턴트</string>

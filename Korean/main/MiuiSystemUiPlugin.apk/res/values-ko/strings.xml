@@ -281,7 +281,7 @@
     <string name="power_off">전원 끄기</string>
     <string name="quick_settings_pcmode_dialog_description">PC 모드는 다중 창 작업을 지원하며 키보드 및 마우스와 함께 사용할 수 있습니다. 이 모드로 전환하면 실행된 모든 앱이 닫힙니다. 일부 앱은 PC 모드를 지원하지 않을 수 있습니다.</string>
     <string name="quick_settings_wireless_label">역 무선 충전</string>
-    <string name="reboot_info_auto_boot">장치가 %s에 전원이 켜지도록 예약 됨</string>
+    <string name="reboot_info_auto_boot">예정된 알람: %s</string>
     <string name="reboot_info_shutdown_alarm">종료 경보 : %s</string>
     <string name="restart">재부팅</string>
     <string name="timer_1_hour">%d 시간</string>
@@ -299,5 +299,7 @@
     <string name="wireless_charging_saver_ok">유지</string>
     <string name="wireless_charging_tips_disable">"다시 표시 안함"</string>
     <string name="wireless_charging_tips_message">Qi 무선 충전을 지원하는 기기(휴대 전화, 액세서리 등)를이 기기 뒷면에 배치합니다.</string>
-    <string name="wireless_charging_tips_title">역 무선 충전</string>
+    <string name="wireless_charging_tips_title">역방향 무선 충전</string>
+    <string name="accessibility_back">뒤로</string>
+    <string name="slider_view_content_description">위로 밀어서 전원을 끄거나 아래로 밀어서 다시 시작하세요.</string>
 </resources>

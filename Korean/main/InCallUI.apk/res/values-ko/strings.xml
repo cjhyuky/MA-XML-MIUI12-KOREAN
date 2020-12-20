@@ -279,4 +279,5 @@
     <string name="ai_mode_auto">자동</string>
     <string name="ai_mode_manual">수동</string>
     <string name="ai_mode_subtitles">자막</string>
+    <string name="description_incoming_video">수신 전화에 대한 프로필 동영상</string>
 </resources>

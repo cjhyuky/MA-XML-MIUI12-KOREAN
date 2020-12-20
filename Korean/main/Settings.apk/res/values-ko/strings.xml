@@ -536,8 +536,8 @@
     <string name="aod_mode_turn_off">끄기</string>
     <string name="aod_mode_turn_on">켜기</string>
     <string name="aod_name_wanxiang">항상 켜짐 표시</string>
-    <string name="aod_notification_style_animation">애니메이션 표시</string>
-    <string name="aod_notification_style_none">아무것도 하지 않기</string>
+    <string name="aod_notification_style_animation">애니메이션</string>
+    <string name="aod_notification_style_none">없음</string>
     <string name="aod_notification_style_screen_on">화면 조명 켜기</string>
     <string name="aod_sample_date">5월 10일 화요일</string>
     <string name="aod_settings_category_name">Always On Display</string>
@@ -8879,7 +8879,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_exit_guest_dialog_remove">삭제</string>
     <string name="user_exit_guest_title">손님 삭제</string>
     <string name="user_experience_program">사용자 환경 개선 프로그램</string>
-    <string name="user_experience_program_summary">익명 사용 데이터를 보내 MIUI 개선을 돕습니다.</string>
+    <string name="user_experience_program_summary">제품 및 서비스 개선을 목적으로 Xiaomi가 사용자 데이터를 수집하고 분석할 수 있도록 허용합니다. 자세한 내용은 사용자 경험 프로그램의 이용 약관을 참조하세요.</string>
     <string name="user_experience_program_title">사용자 환경 개선 프로그램</string>
     <string name="user_feedback">의견</string>
     <string name="user_guest">손님</string>
@@ -8891,7 +8891,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_list_title">사용자 및 프로필</string>
     <string name="user_lockscreen_settings">잠금 화면 설정</string>
     <string name="user_name">Apple ID 또는 이메일</string>
-    <string name="user_name_null">사용자가름이 빈칸입니다.</string>
+    <string name="user_name_null">사용자 이름이 빈칸입니다.</string>
     <string name="user_need_lock_message">제한된 프로필을 만들기 전에 화면 잠금을 설정하여 앱과 개인 데이터를 보호해야 합니다.</string>
     <string name="user_new_profile_name">새 프로필</string>
     <string name="user_new_user_name">새 사용자</string>
@@ -10313,9 +10313,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="gxzw_anim_dialog_message">지문인식 애니메이션을 보려면 지문을 추가하세요. 지금 추가하시겠습니까?</string>
     <string name="gxzw_anim_dialog_title">지문 추가</string>
     <string name="resolution_fhd">FHD+ (Full HD)</string>
-    <string name="resolution_fhd_summary">2400×1080</string>
+    <string name="resolution_fhd_summary" formatted="false">%d×%d (배터리 절약)</string>
     <string name="resolution_qhd">QHD+ (Quad HD)</string>
-    <string name="resolution_qhd_summary">3200×1440 (배터리 소모 증가)</string>
+    <string name="resolution_qhd_summary" formatted="false">%d×%d (선명하게)</string>
     <string name="save_battery_mode">QHD+ 모드에서 배터리 절전</string>
     <string name="save_battery_mode_summary">배터리 절전을 위해 해상도를 자동으로 변경합니다.</string>
     <string name="headset_connectiong">연결 중...</string>
@@ -10361,4 +10361,19 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="title_font_settings">글꼴 설정</string>
     <string name="toast_apply_font_fail">"글꼴을 설정할 수 없음"</string>
     <string name="resolution_sub_title">MIUI가 해상도를 전환하는 동안 백그라운드에서 실행중인 앱을 닫을 수 있음</string>
+    <string name="intelligence_suppression_title">자동 (권장)</string>
+    <string name="screen_enhance_engine_memc_note">"초해상화가 켜져 있는 동안에는 동영상 품질을 향상할 수 없습니다. 동영상 향상을 켜면 초해상화가 꺼집니다."</string>
+    <string name="screen_enhance_engine_sr_for_video_note">"초해상화는 동영상 향상과 동시에 켤 수 없습니다. 초해상화를 켜면 동영상 향상이 꺼집니다."</string>
+    <string name="screen_enhance_engine_sr_pic_summary_video_only">동영상의 해상도를 1440p까지 향상합니다. 이 기능은 선택된 앱에서 지원되며 배터리 소모가 약간 증가할 수 있습니다.</string>
+    <string name="user_experience_open_url">사용자 경험 프로그램에 대해 더 알아보기</string>
+    <string name="aggregate_rule_group_disabled">"그룹화 안 함"</string>
+    <string name="aggregate_rule_group_enabled">그룹화</string>
+    <string name="aod_notification_style">알림 효과</string>
+    <string name="error_xcap_not_add">APN 유형은 XCAP으로 설정할 수 없습니다.</string>
+    <string name="fold_rule_default">권장</string>
+    <string name="fold_rule_important">중요도 높음</string>
+    <string name="fold_rule_unimportant">중요도 낮음</string>
+    <string name="magic_window_name">분할 화면</string>
+    <string name="truetone_summary">주변의 빛에 따라 색상을 조정합니다.</string>
+    <string name="truetone_title">적응형 색상</string>
 </resources>

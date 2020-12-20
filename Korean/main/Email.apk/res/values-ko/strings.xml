@@ -1454,4 +1454,5 @@
     <string name="user_experience_logout">탈퇴</string>
     <string name="user_experience_positive">동의 및 계속</string>
     <string name="user_experience_title">이용 약관</string>
+    <string name="open_pdf_error">PDF 파일을 열 수 없습니다. 다른 PDF 뷰어를 설치한 후 다시 시도하세요.</string>
 </resources>

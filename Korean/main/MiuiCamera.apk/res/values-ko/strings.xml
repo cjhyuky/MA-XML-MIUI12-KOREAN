@@ -1905,4 +1905,5 @@
     <string name="mimoji_download_material_title">다운로드 알림</string>
     <string name="mimoji_downloading">다운로드 중</string>
     <string name="reset_manual_picture_style_toast">사진 스타일 파라미터 설정됨</string>
+    <string name="module_name_fun_ar">스티커 아바타</string>
 </resources>

@@ -292,4 +292,5 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="wc_notice_link_announcement_summary">"이 기능을 사용하려면, 타사 콘텐츠 공급자의 <a href="%1$s">개인정보 보호정책</a> 및 <a href="%2$s">이용 약관</a>을 숙지하고 이에 동의해야 합니다."</string>
     <string name="other_settings_ad_dialog_agree">켜기</string>
     <string name="other_settings_ad_dialog_disagree">끄기</string>
+    <string name="service_security_over_r"><Data>보안 앱을 사용하기 전 당사의 &lt;a href=%1$s>개인정보 보호정책&lt;/a >을 읽고 동의해야 합니다.&lt;br/>&lt;br/>Android 11 표준에 따라서, 일회성 권한은 해당 앱의 실행이 중단된 후 5초 이내에 회수됩니다. 이 짧은 시간 내에 앱을 실행한다면, 권한이 회수되지 않습니다.</Data></string>
 </resources>

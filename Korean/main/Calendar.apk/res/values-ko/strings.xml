@@ -1129,4 +1129,8 @@
     <string name="save_to_gallery_success_message">갤러리에 저장되었습니다.</string>
     <string name="share_as_picture">사진으로 공유</string>
     <string name="share_as_url">URL로 공유</string>
+    <string name="icon_add_description">홈 화면 바로가기 추가</string>
+    <string name="icon_remove_confirm">제거</string>
+    <string name="icon_remove_description_content">"캘린더는 시스템 앱으로, 이 앱을 통해 일정을 추가하고 관리할 수 있습니다. 홈 화면 바로가기를 제거한 후에도 홈 화면 위젯이나 퀵 카드를 통해 캘린더를 사용할 수 있습니다."</string>
+    <string name="icon_remove_description_title">홈 화면에서 \"캘린더\"를 제거하시겠습니까?</string>
 </resources>
