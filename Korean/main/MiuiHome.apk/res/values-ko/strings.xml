@@ -626,4 +626,6 @@
     <string name="icon_customize_summary">스타일을 선택하고 사이즈를 조절하세요</string>
     <string name="icon_form">아이콘</string>
     <string name="icon_style">스타일</string>
+    <string name="launcher_icon_management">홈 화면 바로가기 관리</string>
+    <string name="restore_icon_successful">추가 완료</string>
 </resources>
