@@ -1418,7 +1418,7 @@
     <string name="retry">다시 시도하세요.</string>
     <string name="save">구하다</string>
     <string name="save_edit">변경사항 저장</string>
-    <string name="save_to_note">메모로 전송</string>
+    <string name="save_to_note">메모에 저장</string>
     <string name="scan">스캔</string>
     <string name="scan_app">스캐너</string>
     <string name="scan_card">명함</string>
@@ -1753,4 +1753,10 @@
     <string name="app_pa_setting_global_display_blur_summary">배경화면 흐림 처리는 밀기 반응을 느리게 합니다.</string>
     <string name="app_screen_time_auth">화면켜짐 시간</string>
     <string name="app_sports_title_all_leagues">모두 일치</string>
+    <string name="card_expand_note_dialog_message_new">퀵 카드에서 \"저장\"버튼을 누를 때마다 새 메모가 생성됩니다.</string>
+    <string name="card_expand_note_dialog_title_new">메모 저장</string>
+    <string name="card_expand_note_toast_install_new">이 기능을 사용할 수 있도록 메모장에 설치</string>
+    <string name="card_expand_note_toast_save_done_new">메모장에 저장됨</string>
+    <string name="save_to_note_new">메모에 저장</string>
+    <string name="toast_reach_text_limit_truncate_new">메모가 너무 깁니다. 초과된 내용이 잘렸습니다.</string>
 </resources>
