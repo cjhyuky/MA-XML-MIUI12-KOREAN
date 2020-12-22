@@ -62,4 +62,10 @@
         <item quantity="other">%1$s 작업</item>
         <item quantity="one">%1$s 작업</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">%1$s개의 메모를 찾았습니다</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">%1$s개의 할일을 찾았습니다</item>
+    </plurals>
 </resources>
