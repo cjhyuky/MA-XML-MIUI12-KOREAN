@@ -283,7 +283,7 @@
     <string name="quick_settings_wireless_label">역 무선 충전</string>
     <string name="reboot_info_auto_boot">예정된 알람: %s</string>
     <string name="reboot_info_shutdown_alarm">종료 경보 : %s</string>
-    <string name="restart">재부팅</string>
+    <string name="restart">다시 시작</string>
     <string name="timer_1_hour">%d 시간</string>
     <string name="timer_2_hours">%d 시간</string>
     <string name="timer_30_minutes">%d 분</string>
