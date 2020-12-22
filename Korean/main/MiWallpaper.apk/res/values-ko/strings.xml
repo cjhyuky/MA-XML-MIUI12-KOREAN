@@ -236,4 +236,27 @@ EEE"</string>
     <string name="wednesday_short">수요일</string>
     <string name="wednesday_shortest">수</string>
     <string name="yesterday">어제</string>
+    <string name="geometry_summary">기하학, 조명 및 색상</string>
+    <string name="geometry_super_wallpaper_label">기하학</string>
+    <string name="geometry_title">기하학</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">선택 취소</string>
+    <string name="miuix_appcompat_action_mode_select_all">모두 선택</string>
+    <string name="miuix_appcompat_action_mode_title_empty">항목 선택</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">더보기</string>
+    <string name="miuix_appcompat_cancel_description">취소</string>
+    <string name="miuix_appcompat_confirm_description">확인</string>
+    <string name="miuix_appcompat_delete_description">삭제</string>
+    <string name="miuix_appcompat_deselect_all_description">모두 선택 취소</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
+    <string name="miuix_appcompat_search_input_description">검색</string>
+    <string name="miuix_appcompat_select_all_description">모두 선택</string>
+    <string name="snowmountain_summary">햇빛이 비치는 산 경사면</string>
+    <string name="snowmountain_super_wallpaper_label">시구 니앙 산</string>
+    <string name="snowmountain_title">시구 니앙 산</string>
+    <string name="weather_summary">현지 날씨 정보</string>
+    <string name="weather_super_wallpaper_label">날씨</string>
+    <string name="weather_title">날씨</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">나중에</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">업데이트를 사용할 수 있습니다.</string>
 </resources>
