@@ -2059,7 +2059,7 @@ EEEE"</string>
     <string name="recents_title_garbage_cleanup">클리너</string>
     <string name="recents_title_garbage_deepclean">정밀 청소</string>
     <string name="recents_title_market">앱 찾기</string>
-    <string name="recents_title_security_scan">보안 스캔</string>
+    <string name="recents_title_security_scan">보안 검사</string>
     <string name="recorder_description_talkback">레코더</string>
     <string name="recorder_title">레코더</string>
     <string name="refresh_weather">날씨 정보를 보려면 누르세요.</string>

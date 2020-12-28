@@ -58,7 +58,7 @@
     <string name="recents_title_garbage_cleanup">클리너</string>
     <string name="recents_title_garbage_deepclean">정밀 청소</string>
     <string name="recents_title_market">앱 찾기</string>
-    <string name="recents_title_security_scan">보안 스캔</string>
+    <string name="recents_title_security_scan">보안 검사</string>
     <string name="recents_tv_small_window_text">플로팅 창</string>
     <string name="status_bar_recent_memory_info1">%1$s / %2$s 사용 가능</string>
     <string name="one_key_call_title">통화하려면 탭하세요.</string>
