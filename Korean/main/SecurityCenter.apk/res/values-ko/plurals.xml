@@ -575,4 +575,28 @@
     <plurals name="power_optimize_close_app_summary">
         <item quantity="other">앱 %d개가 배터리를 많이 사용합니다.</item>
     </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">%s개 이상의 점을 연결하세요.</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">항목 %d개 선택됨</item>
+    </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">마지막 보안 검사 이후 %d일 경과</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">설치 후 남은 APK %d개 삭제</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">%s개 이상의 점을 연결하세요.</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">%s자리 숫자를 입력하세요.</item>
+    </plurals>
+    <plurals name="simlock_set_pin_tips">
+        <item quantity="other">SIM 카드 PIN 코드를 입력하세요. %d번 시도할 수 있습니다.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_tips">
+        <item quantity="other">SIM 카드 PUK 코드를 입력하세요. %d번 시도할 수 있습니다.</item>
+    </plurals>
 </resources>
