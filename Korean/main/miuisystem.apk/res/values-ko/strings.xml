@@ -144,8 +144,8 @@
     <string name="windchime">윈드 차임벨</string>
     <string name="mihouse">Mi 일렉트로닉</string>
     <string name="mijazz">Mi 재즈</string>
-    <string name="waterdrop_preview">자연-물방울</string>
-    <string name="birdcicada_preview">자연-조류 &amp; 반딧불</string>
+    <string name="waterdrop_preview">물방울</string>
+    <string name="birdcicada_preview">새 &amp; 반딧불이</string>
     <string name="digitaluniverse">디지털 유니버스 (스테레오)</string>
     <string name="reveries">리버리스 (스테레오)</string>
     <string name="atlantis">아틀란티스 (스테레오)</string>
@@ -153,7 +153,7 @@
     <string name="miui_clock_city_name_second">로밍 시간</string>
     <string name="wallpaper_group_natural_texture_title">자연 패턴</string>
     <string name="wallpaper_group_natural_texture_subtitle">톰 헤겐 및 기타</string>
-    <string name="wallpaper_group_geometric_title">지오메트리</string>
+    <string name="wallpaper_group_geometric_title">기하학</string>
     <string name="wallpaper_group_geometric_subtitle">루트거 파우루스</string>
     <string name="wallpaper_group_dynamic_nebula_title">동적 성운</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">텐 반 데르 잠부</string>

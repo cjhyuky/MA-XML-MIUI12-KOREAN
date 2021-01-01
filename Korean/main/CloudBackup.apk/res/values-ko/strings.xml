@@ -282,4 +282,7 @@
 백업할 수 없습니다."</string>
     <string name="backup_warning_reason_no_server_response">"연결 끊김.
 다시 시도하세요."</string>
+    <string name="provision_back">뒤로</string>
+    <string name="provision_next">다음</string>
+    <string name="provision_skip_underline">건너뛰기</string>
 </resources>

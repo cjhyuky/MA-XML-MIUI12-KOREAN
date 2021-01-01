@@ -876,4 +876,6 @@
     <string name="notification_wechat_clean_middle_level_hint">쓰레기 파일을 삭제하여 지연 없이 알림을 받으세요.</string>
     <string name="notification_wechat_clean_middle_level_text_a">"WeChat 쓰레기 파일이 많은 저장공간을 차지합니다."</string>
     <string name="notification_wechat_clean_middle_level_text_b">"WeChat 쓰레기 파일이 앱을 느리게 합니다."</string>
+    <string name="gb_global_icon_ad_card_btn">얻기</string>
+    <string name="gb_global_icon_ad_card_title">사용자를 위한 추천</string>
 </resources>

@@ -237,4 +237,13 @@
     <string name="go_setting">설정</string>
     <string name="real_location_off">대략적인 위치 켜짐</string>
     <string name="real_location_on">대략적인 위치 꺼짐</string>
+    <string name="blur_location_is_on_tip">%1$s이(가) 대략적인 위치 서비스를 켰습니다. 대략적인 위치 서비스를 끌 수도 있습니다.</string>
+    <string name="blur_location_title">대략적인 위치</string>
+    <string name="gold_master_dialog_reject">거부 (%d)</string>
+    <string name="gold_master_dialog_title">%1$s이(가) 클립보드를 읽으려 합니다.</string>
+    <string name="keep_blur_location">끄지 않기</string>
+    <string name="miuix_appcompat_deselect_all">선택 해제</string>
+    <string name="miuix_appcompat_select_all">모두 선택</string>
+    <string name="miuix_appcompat_select_item">항목 선택</string>
+    <string name="stop_blur_location">끄기</string>
 </resources>

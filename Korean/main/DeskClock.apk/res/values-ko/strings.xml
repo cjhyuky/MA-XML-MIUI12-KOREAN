@@ -472,4 +472,7 @@
     <string name="action_for_restart">반복</string>
     <string name="action_for_snooze">다시 알림</string>
     <string name="action_for_stop">정지</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">나중에</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">업데이트 가능</string>
 </resources>
