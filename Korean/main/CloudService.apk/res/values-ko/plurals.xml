@@ -93,4 +93,7 @@
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">%d초 후 다시 시도</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">메모 %d개</item>
+    </plurals>
 </resources>
