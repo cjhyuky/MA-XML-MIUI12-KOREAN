@@ -158,4 +158,21 @@
         <item>기기 식별용</item>
         <item>기기를 찾고 분실 모드로 전환용</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>연락처, 메시지, 메모, 캘린더 등을 동기화하세요.</item>
+        <item>앱, 홈 화면 구성, 배경화면을 백업하세요.</item>
+        <item>Wi-Fi 및 디스플레이를 포함한 중요한 설정을 백업하세요.</item>
+        <item>기기 분실 시 원격으로 잠그세요.</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>연락처, 메시지, 메모, 캘린더 등을 동기화하세요.</item>
+        <item>앱, 홈 화면 구성, 배경화면을 백업하세요.</item>
+        <item>Wi-Fi 및 디스플레이를 포함한 중요한 설정을 백업하세요.</item>
+        <item>기기 분실 시 원격으로 잠그세요.</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi 클라우드 메모 동기화</item>
+        <item>동기화 켜기</item>
+        <item>메모;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
 </resources>
