@@ -760,6 +760,12 @@
     <string name="macro_mode_use_hint_text_body">&quot;근접 모드를 통해 작은 물체를 크게 보이게 촬영할 수 있습니다.&quot;</string>
     <string name="macro_mode_use_hint_text_title">근접 모드</string>
     <string name="maker">제작기</string>
+    <string name="makeup_effect_entry_apricot_white">알라바스터</string>
+    <string name="makeup_effect_entry_dusk_night">머크</string>
+    <string name="makeup_effect_entry_neutral">중립</string>
+    <string name="makeup_effect_entry_palm">야자수</string>
+    <string name="makeup_effect_entry_taro">타로</string>
+    <string name="makeup_effect_entry_vitality">열정</string>
     <string name="makeup_reset_toast">메이크업 효과 제거 완료</string>
     <string name="manual">수동</string>
     <string name="measure_whitebalance_button">측정</string>
@@ -1388,6 +1394,8 @@
     <string name="pref_camera_tilt_shift_entry_circle">원</string>
     <string name="pref_camera_tilt_shift_entry_parallel">평행</string>
     <string name="pref_camera_tilt_shift_title">Tilt-Shift</string>
+    <string name="pref_camera_tip_doc">서류 스캐너</string>
+    <string name="pref_camera_tip_id_card">ID 스캐너</string>
     <string name="pref_camera_touchafaec_entry_off">꺼짐</string>
     <string name="pref_camera_touchafaec_entry_on">켜짐</string>
     <string name="pref_camera_touchafaec_title">터치 AF/AEC</string>
@@ -1505,6 +1513,7 @@
     <string name="pref_skin_beautify_intelligent_title">스마트</string>
     <string name="pref_skin_beautify_slim_title">슬림 모드</string>
     <string name="pref_skin_beautify_smooth_title">피부</string>
+    <string name="pref_smart_guide_title">스마트 추천</string>
     <string name="pref_userdefine_watermark_title">사용자 지정 카메라 워터마크</string>
     <string name="pref_video_captrue_ability_title">녹화 중 이미지 캡처</string>
     <string name="pref_video_denoise_off">꺼짐</string>
@@ -1589,6 +1598,8 @@
     <string name="set_image">사진 설정</string>
     <string name="set_label_all_albums">모든 앨범</string>
     <string name="set_label_local_albums">로컬 앨범</string>
+    <string name="settings_camera_detect_card_description">AI 카메라가 ID 카드를 감지 할 때마다 바로 가기 표시</string>
+    <string name="settings_camera_detect_description_doc">AI 카메라가 문서 또는 PPT를 감지 할 때마다 바로 가기 표시</string>
     <string name="settings_camera_near_range_description">평평한 표면에 초점을 맞출 때 흐림 효과 제거</string>
     <string name="settings_camera_near_range_title">근접 초점</string>
     <string name="share">공유</string>

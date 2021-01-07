@@ -17,6 +17,7 @@
     <string name="abc_shareactionprovider_share_with">"공유 대상"</string>
     <string name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
     <string name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="accessibility_back">뒤로</string>
     <string name="accessibility_desc_close">닫기</string>
     <string name="accessibility_desc_edit">편집</string>
     <string name="accessibility_menu">메뉴</string>
@@ -26,6 +27,10 @@
     <string name="already_in_small_freeform">일부 앱이 플로팅 창으로 열려있습니다.</string>
     <string name="am">오전</string>
     <string name="app_name">시스템 UI 플러그인</string>
+    <string name="character_counter_content_description">%1$d/%2$d 입력됨</string>
+    <string name="character_counter_overflowed_content_description">%1$d/%2$d 추가입력 불가</string>
+    <string name="chip_text">텍스트 클립</string>
+    <string name="clear_text_end_icon_content_description">텍스트 초기화</string>
     <string name="clearable_edittext_clear_description">삭제</string>
     <string name="controls_confirmation_message">%s에 대한 변경 확인</string>
     <string name="controls_dialog_confirmation">컨트롤 업데이트 됨</string>
@@ -76,6 +81,8 @@
     <string name="early_morning">아침</string>
     <string name="eras_ad">서기</string>
     <string name="eras_bc">기원전</string>
+    <string name="error_icon_content_description">오류</string>
+    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 보기</string>
     <string name="evening">저녁</string>
     <string name="expand_button_title">고급</string>
     <string name="fmt_date_day">d일</string>
@@ -94,7 +101,10 @@
     <string name="friday">금요일</string>
     <string name="friday_short">금요일</string>
     <string name="friday_shortest">금</string>
+    <string name="item_view_role_description">탭</string>
     <string name="loading">알 수 없는 상태</string>
+    <string name="material_slider_range_end">범위 끝,</string>
+    <string name="material_slider_range_start">범위 시작,</string>
     <string name="midnight">밤</string>
     <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화 꺼짐</string>
     <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
@@ -108,6 +118,32 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"없음"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요...</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없음"</string>
+    <string name="mtrl_badge_numberless_content_description">새 알림</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d개 이상 새 알림 있음</string>
+    <string name="mtrl_picker_a11y_next_month">다음달로</string>
+    <string name="mtrl_picker_a11y_prev_month">이전달로</string>
+    <string name="mtrl_picker_announce_current_selection">현재 선택: %1$s</string>
+    <string name="mtrl_picker_date_header_title">현재 날짜</string>
+    <string name="mtrl_picker_date_header_unselected">날짜 선택</string>
+    <string name="mtrl_picker_day_of_week_column_header">주차: %1$s</string>
+    <string name="mtrl_picker_invalid_format">알 수 없는 형식.</string>
+    <string name="mtrl_picker_invalid_format_example">남음: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">사용: %1$s</string>
+    <string name="mtrl_picker_invalid_range">알 수 없는 범위.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s 연도 탐색</string>
+    <string name="mtrl_picker_out_of_range">범위 초과: %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 종료일</string>
+    <string name="mtrl_picker_range_header_title">기간 선택</string>
+    <string name="mtrl_picker_range_header_unselected">시작일 – 종료일</string>
+    <string name="mtrl_picker_save">젖ㅇ</string>
+    <string name="mtrl_picker_text_input_date_hint">날짜</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">종료일</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">시작일</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">달력 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_day_selection">날짜 선택으로 전환하려면 탭하세요.</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">텍스트 입력 모드로 전환</string>
+    <string name="mtrl_picker_toggle_to_year_selection">연도 선택으로 전환하려면 탭하세요.</string>
     <string name="monday">월요일</string>
     <string name="monday_short">월요일</string>
     <string name="monday_shortest">월</string>
@@ -154,6 +190,7 @@
     <string name="noon">정오</string>
     <string name="not_set">설정되지 않음</string>
     <string name="online">온라인</string>
+    <string name="password_toggle_content_description">암호 보기</string>
     <string name="pm">오후</string>
     <string name="notification_control_center">알림 &amp; 제어 센터</string>
     <string name="preference_copied">\"%1$s\"가 클립보드로 복사되었습니다.</string>
@@ -167,6 +204,8 @@
     <string name="quick_settings_pcmode_dialog_remember_text">"다시 보지 않음"</string>
     <string name="quick_settings_pcmode_label">PC 모드</string>
     <string name="quick_settings_pcmode_ok_button">확인</string>
+    <string name="quick_settings_pcmode_turn_off_description">"휴대폰의 디스플레이가 외부 모니터에 표시됩니다. PC 모드를 끌까요?"</string>
+    <string name="quick_settings_pcmode_turn_on_description">"컴퓨터의 디스플레이가 외부 모니터에 표시됩니다. PC 모드를 켤까요?"</string>
     <string name="quick_settings_scanner_label">스캐너</string>
     <string name="reset">초기화</string>
     <string name="saturday">토요일</string>
@@ -174,6 +213,7 @@
     <string name="saturday_shortest">토</string>
     <string name="save">저장</string>
     <string name="search_menu_title">검색</string>
+    <string name="slider_view_content_description">위로 밀어서 전원을 끄거나 아래로 밀어서 다시 시작하세요.</string>
     <string name="solar_term_autumn_begins">입추</string>
     <string name="solar_term_autumn_equinox">추분</string>
     <string name="solar_term_clear_and_bright">청명</string>
@@ -300,6 +340,4 @@
     <string name="wireless_charging_tips_disable">"다시 표시 안함"</string>
     <string name="wireless_charging_tips_message">Qi 무선 충전을 지원하는 기기(휴대 전화, 액세서리 등)를이 기기 뒷면에 배치합니다.</string>
     <string name="wireless_charging_tips_title">역방향 무선 충전</string>
-    <string name="accessibility_back">뒤로</string>
-    <string name="slider_view_content_description">위로 밀어서 전원을 끄거나 아래로 밀어서 다시 시작하세요.</string>
 </resources>

@@ -30,6 +30,7 @@
     <string name="passport_reg_using_other_phone"><u>대체 전화번호 사용</u></string>
     <string name="passport_reg_btn_using_other_phone">대체 전화번호 사용</string>
     <string name="passport_downlink_reg">전화번호를 사용하여 계정 생성</string>
+    <string name="passport_login_other_way">다른 방식으로 로그인/<string>
     <string name="passport_select_reg_ways_title">다른 방법으로 로그인</string>
     <string name="passport_reg_using_phone_number_prompt">전화번호를 이용하여 계정 생성</string>
     <string name="passport_reg_using_other_phone_number_prompt">새 계정을 생성하는 중…</string>

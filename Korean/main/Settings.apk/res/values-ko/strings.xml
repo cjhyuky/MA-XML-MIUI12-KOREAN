@@ -3499,6 +3499,7 @@
     <string name="game_mode_settings">게이밍 모드</string>
     <string name="game_mode_summary">게임의 성능을 향상시키는 동시에 다른 앱의 동기화 및 백그라운드 네트워크 연결을 제한합니다.</string>
     <string name="game_storage_settings">게임</string>
+    <string name="general_time">"시간: %1$d:%2$d. 긴 진동은 시간을 나타내고 짧은 진동은 분을 나타냅니다. 몇 시간과 몇 분 사이에 잠시 멈춥니다. 시도하려면 두 번 탭하세요."</string>
     <string name="gentle_notifications_also_display">다음 알림에도 표시됩니다.</string>
     <string name="gentle_notifications_display_lock">잠금 화면</string>
     <string name="gentle_notifications_display_status">상태 표시줄</string>
@@ -6392,7 +6393,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="recommend_item_3">보조배터리</string>
     <string name="recommend_item_4">이어폰</string>
     <string name="recommend_item_title">추천</string>
+    <string name="recommend_text_wakeup_xiaoai">설정</string>
     <string name="recommend_tip">다른 설정을 찾으시나요?</string>
+    <string name="recommend_tip_wakeup_xiaoai">버튼을 사용하여 Mi AI를 사용하려면 전체화면 제스처를 끄고 버튼 방식으로 변경해야 합니다.</string>
     <string name="recompute_size">크기 다시 계산 중...</string>
     <string name="reconnect">다시 연결</string>
     <string name="recreate_soft_ap_tips">아래의 버튼을 탭하여 다시 시도하세요.</string>
@@ -9921,13 +9924,17 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="xiaomi_cloud_service_unknown">알 수 없음</string>
     <string name="xiaomi_connect_download_manager_fail">다운로드 시작 실패. 다운로드 관리자가 정상작동 중인지 확인하세요.</string>
     <string name="xiaomi_external_storage_unavailable">저장소 사용이 불가능합니다. SD 카드를 확인하세요.</string>
+    <string name="xiaoai_global_shortcut">일반</string>
+    <string name="xiaoai_key_shortcut">버튼</string>
     <string name="xiaomi_money_service">Mi 코인</string>
+    <string name="xiaoai_other_shortcut">다른 방법</string>
     <string name="xiaomi_router">Mi 라우터</string>
     <string name="xiaomi_router_available_notif_summary">탭하여 더 많은 정보 보기</string>
     <string name="xiaomi_router_available_notif_title">Mi 공유기 사용 가능</string>
     <string name="xiaomi_router_location">Mi 라우터 %s</string>
     <string name="xiaomi_router_notif_summary">Mi 공유기를 사용 가능할 때 알림</string>
     <string name="xiaomi_router_notif_title">Mi 공유기 알림</string>
+    <string name="xiaoai_shortcut_settings_title">버튼과 제스처를 사용하여 Mi AI 사용</string>
     <string name="xiaomi_update_dialog_message">버전 소개 %1$s 용량: %2$s</string>
     <string name="xiaomi_update_dialog_message_diff">버전 소개 %1$s 델트 업데이트 용량: %2$s</string>
     <string name="xiaomi_update_dialog_title">업데이트가 있습니다.</string>
