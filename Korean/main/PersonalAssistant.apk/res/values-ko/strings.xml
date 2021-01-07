@@ -289,6 +289,8 @@
     <string name="announce_for_drag">한 항목 드래그</string>
     <string name="app_label">스마트 어시스턴트</string>
     <string name="app_name">miot-device-lib</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_option">배경흐림 카드</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_summary">배경에 안개 처리를 적용합니다. 이 기능은 스와이프 속도에 영향을 줄 수 있습니다.</string>
     <string name="app_setting">설정</string>
     <string name="app_setting_add_header_bg">커버 이미지</string>
     <string name="app_setting_datetime">날짜 표시</string>
@@ -1752,6 +1754,17 @@
     <string name="app_pa_setting_global_display_blur_option">배경화면 흐림 처리</string>
     <string name="app_pa_setting_global_display_blur_summary">배경화면 흐림 처리는 밀기 반응을 느리게 합니다.</string>
     <string name="app_screen_time_auth">화면켜짐 시간</string>
+    <string name="app_sports_all_club">클럽</string>
+    <string name="app_sports_all_league">리그</string>
+    <string name="app_sports_all_title">관심사 선택</string>
+    <string name="app_sports_card_settings">설정</string>
+    <string name="app_sports_dialog_msg_install_douyu">이 기능을 사용하려면 Douyu를 설치해야 합니다. 지금 설치할까요?</string>
+    <string name="app_sports_dialog_msg_install_hupu">이 기능을 사용하려면 Hupu를 설치해야 합니다. 지금 설치할까요?</string>
+    <string name="app_sports_fav_cancel_club">이 클럽 삭제</string>
+    <string name="app_sports_fav_cancel_league">이 리그 삭제</string>
+    <string name="app_sports_fav_club">관심 클럽</string>
+    <string name="app_sports_fav_league">관심 리그</string>
+    <string name="app_sports_fav_title">나의 관심</string>
     <string name="app_sports_title_all_leagues">모두 일치</string>
     <string name="card_expand_note_dialog_message_new">퀵 카드에서 \"저장\"버튼을 누를 때마다 새 메모가 생성됩니다.</string>
     <string name="card_expand_note_dialog_title_new">메모 저장</string>

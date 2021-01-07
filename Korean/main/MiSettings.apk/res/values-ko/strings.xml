@@ -532,6 +532,7 @@
     <string name="animal_branch">과</string>
     <string name="animal_class">강</string>
     <string name="animal_item">목</string>
+    <string name="animal_select_alert_info">최대 5개 항목을 선택할 수 있습니다</string>
     <string name="apply_ringtone">적용</string>
     <string name="arctic_fox">북극여우</string>
     <string name="arctic_introduction">"극한의 추위를 두려워하지 않는 아름다운 생물로 가득한 독특한 풍경입니다."</string>
@@ -568,6 +569,7 @@
     <string name="branch_platypus">오리너구리과</string>
     <string name="branch_quollidae">주머니고양이과</string>
     <string name="branch_raccoon">아메리카너구리과</string>
+    <string name="branch_ramphastos">왕부리새</string>
     <string name="branch_rhinoceros">코뿔소과</string>
     <string name="branch_seal">물범과</string>
     <string name="branch_toucan">왕부리새과</string>
@@ -608,6 +610,7 @@
     <string name="item_chick">닭목</string>
     <string name="item_crane_form">두루미목</string>
     <string name="item_hayabusa">매목</string>
+    <string name="branch_ramphastos">왕부리새</string>
     <string name="item_long_nose">장비목</string>
     <string name="item_marsupial">유대목</string>
     <string name="item_meat">식육목</string>
@@ -662,6 +665,7 @@
     <string name="polar_bear">북극곰</string>
     <string name="pomarine_jaeger">넓적꼬리도둑갈매기</string>
     <string name="puffin">코뿔바다오리</string>
+    <string name="random_play_sound_alert">"알림을 받으면 해당 지역의 동물 소리가 들립니다"</string>
     <string name="red_billed_hornbill">붉은부리코뿔새</string>
     <string name="rhinoceros_info">"흰코뿔소는 온화한 기질을 가진 강력한 초식동물입니다. 오늘날에는 아주 드물게도 멸종 위기에 처해 있습니다."</string>
     <string name="sacred_ibis">아프리카흑따오기</string>

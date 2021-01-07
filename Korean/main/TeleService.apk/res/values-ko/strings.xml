@@ -141,7 +141,7 @@
     <string name="fiveg_hosted_mode_title">5G 스마트 전환</string>
     <string name="ai_assistant_not_installed">먼저 AI 통화 어시스턴트 설치</string>
     <string name="ai_assistant_setting_title">AI 통화 어시스턴트</string>
-    <string name="fiveg_sa_switch_warning_toast">전화를 다시 시작하여 적용하세요.</string>
+    <string name="fiveg_sa_switch_warning_toast">변경사항을 적용하려면 기기를 재부팅하세요.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침</string>
