@@ -93,4 +93,12 @@
         <item>음성 메모</item>
         <item>지금 바로 음성 메모를 만들 수 있습니다. 아이콘을 탭하고 음성을 녹음한 다음 오디오 파일을 메모에 저장해보세요.</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>새로 만들기</item>
+        <item>이름 바꾸기</item>
+        <item>삭제</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>새로 만들기</item>
+    </string-array>
 </resources>
