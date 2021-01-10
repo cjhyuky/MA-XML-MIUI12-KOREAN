@@ -4266,7 +4266,6 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="version_update_title">%s 업데이트</string>
     <string name="provision_back">뒤로</string>
     <string name="provision_next">다음</string>
-    <string name="provision_skip_underline">건너뛰기</string>
     <string name="view_traffic_detail">자세히 보기</string>
     <string name="accessibility_haptic">접근성</string>
     <string name="accessibility_screen_reader_haptic_title">화면 읽어주기</string>
