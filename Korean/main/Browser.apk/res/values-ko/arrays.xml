@@ -14,6 +14,7 @@
         <item>패드</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>격자 구조로 보기</item>
         <item>세로 보기</item>
         <item>가로 보기</item>
     </string-array>
