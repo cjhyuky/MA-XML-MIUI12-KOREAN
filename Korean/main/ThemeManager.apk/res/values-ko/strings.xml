@@ -1094,4 +1094,5 @@ EEE"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">나중에</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
     <string name="xiaomi_market_sdk_update_dialog_title">업데이트 가능</string>
+    <string name="super_wallpaper_list_footer_text">새로운 배경화면을 기대하세요!</string>
 </resources>

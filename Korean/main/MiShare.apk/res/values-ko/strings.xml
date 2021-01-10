@@ -126,7 +126,7 @@
     <string name="support_device_type">지원되는 기기</string>
     <string name="throwing_print">인쇄</string>
     <string name="throwing_screen">화면 전송</string>
-    <string name="tips_prompt_enable_midrop">주변의 기기와 파일 공유</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="tile_state_active">켜기</string>
     <string name="tile_state_inactive">끄기</string>
     <string name="tile_state_unavailable">사용할 수 없음</string>
@@ -175,4 +175,7 @@
     <string name="user_instructions">주의</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
+    <string name="error_mirror_working">"화면 공유 중에는 파일을 공유할 수 없습니다."</string>
+    <string name="error_remote_mirror_working">"상대 기기가 화면을 공유 중이므로 파일을 전달할 수 없습니다."</string>
+    <string name="send_files_by">다음으로 공유</string>
 </resources>

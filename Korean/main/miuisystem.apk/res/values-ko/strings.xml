@@ -149,8 +149,8 @@
     <string name="digitaluniverse">디지털 유니버스 (스테레오)</string>
     <string name="reveries">리버리스 (스테레오)</string>
     <string name="atlantis">아틀란티스 (스테레오)</string>
-    <string name="miui_clock_city_name_local">로컬 시간</string>
-    <string name="miui_clock_city_name_second">로밍 시간</string>
+    <string name="miui_clock_city_name_local">현재 시각</string>
+    <string name="miui_clock_city_name_second">로밍 시각</string>
     <string name="wallpaper_group_natural_texture_title">자연 패턴</string>
     <string name="wallpaper_group_natural_texture_subtitle">톰 헤겐 및 기타</string>
     <string name="wallpaper_group_geometric_title">기하학</string>
@@ -174,4 +174,9 @@ EEEE"</string>
     <string name="wallpaper_group_more_system_wallpaper_title">시스템 배경화면 더보기</string>
     <string name="wallpaper_group_color_move_title">입체 색상</string>
     <string name="wallpaper_group_sgn_mountain_title">자연</string>
+    <string name="africaanimals_preview">사바나</string>
+    <string name="amazonanimals_preview">열대 우림</string>
+    <string name="australiaanimals_preview">오스트레일리아</string>
+    <string name="southwestmountain_preview">산</string>
+    <string name="stoneskimming_preview">가뿐한 걸음</string>
 </resources>

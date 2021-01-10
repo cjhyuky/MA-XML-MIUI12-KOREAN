@@ -484,6 +484,12 @@
     <string name="pc_note_edit_text_format_title_level1">제목</string>
     <string name="pc_note_edit_text_format_title_level2">제목</string>
     <string name="pc_note_trash_folder_remind">이 메모는 삭제되었습니다. 수정하려면 복원하세요.</string>
-    <string name="pc_todo_fast_create_hint">완료되지 않은 작업을 추가하려면 \"입력\"을 누르십시오.</string>
+    <string name="pc_todo_fast_create_hint">아무거나 입력하고 \"입력\"을 눌러 완료되지 않은 작업을 추가하세요.</string>
     <string name="pc_todo_set_remind_time_hint">시간 설정</string>
+    <string name="menu_new_display_open">새 창으로 열기</string>
+    <string name="menu_pc_open">PC에서 열기</string>
+    <string name="mind_note_first_enter_guide">탭하여 마인드맵을 만드세요.</string>
+    <string name="note_header_first_enter_guide">당겨내려 확장하세요.</string>
+    <string name="permission_storage_desc_v12">메모에 이미지를 추가하거나 이미지를 메모로 저장합니다.</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">메모 앱이 메모에 이미지를 추가할 수 있도록 저장소 접근 권한을 허용합니다.</string>
 </resources>

@@ -331,4 +331,6 @@
     <string name="enable_nfc">충전을 종료하고 NFC 모드를 활성화합니다.</string>
     <string name="enable_nfc_reverse">무선 충전을 종료하고 NFC 모드를 활성화합니다.</string>
     <string name="bottom_bar_smallwindow_text">놓아서 추가</string>
+    <string name="freeform_exchange_tip">놓아서 앱 실행</string>
+    <string name="freeform_exchange_tip2">모서리로 드래그해 취소</string>
 </resources>

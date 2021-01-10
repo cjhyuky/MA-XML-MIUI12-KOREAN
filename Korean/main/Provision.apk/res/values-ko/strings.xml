@@ -34,7 +34,7 @@
     <string name="multisim_settings_title">2개의 SIM 카드 발견됨</string>
     <string name="multisim_settings_category">SIM 카드 설정</string>
     <string name="sim_card_detection">SIM 카드 삽입</string>
-    <string name="sim_card_detecting_title">SIM 카드 확인</string>
+    <string name="sim_card_detecting_title">SIM 카드를 확인 중...</string>
     <string name="sim_card_detection_info">SIM 카드를 삽입하기 전에 기기와 함께 제공된 지침을 읽으세요.</string>
     <string name="sim_card_detecting">"SIM 카드 확인 중
 2026"</string>
@@ -293,4 +293,10 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="other_settings_ad_dialog_agree">켜기</string>
     <string name="other_settings_ad_dialog_disagree">끄기</string>
     <string name="service_security_over_r"><Data>보안 앱을 사용하기 전 당사의 &lt;a href=%1$s>개인정보 보호정책&lt;/a >을 읽고 동의해야 합니다.&lt;br/>&lt;br/>Android 11 표준에 따라서, 일회성 권한은 해당 앱의 실행이 중단된 후 5초 이내에 회수됩니다. 이 짧은 시간 내에 앱을 실행한다면, 권한이 회수되지 않습니다.</Data></string>
+    <string name="item_lock_screen_password_only">화면 잠금</string>
+    <string name="msim_setting_default_data">데이터 SIM</string>
+    <string name="msim_setting_default_voice">기본 통화 SIM</string>
+    <string name="provision_back">뒤로</string>
+    <string name="provision_next">다음</string>
+    <string name="provision_skip_underline">건너뛰기</string>
 </resources>

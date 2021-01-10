@@ -204,8 +204,8 @@
     <string name="quick_settings_pcmode_dialog_remember_text">"다시 보지 않음"</string>
     <string name="quick_settings_pcmode_label">PC 모드</string>
     <string name="quick_settings_pcmode_ok_button">확인</string>
-    <string name="quick_settings_pcmode_turn_off_description">"휴대폰의 디스플레이가 외부 모니터에 표시됩니다. PC 모드를 끌까요?"</string>
-    <string name="quick_settings_pcmode_turn_on_description">"컴퓨터의 디스플레이가 외부 모니터에 표시됩니다. PC 모드를 켤까요?"</string>
+    <string name="quick_settings_pcmode_turn_off_description">"PC 모드를 종료하면 외부 모니터에서 Mi 화면을 표시합니다. PC 모드를 끄시겠습니까?"</string>
+    <string name="quick_settings_pcmode_turn_on_description">"PC 모드를 시작하면 외부 모니터에서 PC 화면을 표시합니다. PC 모드를 켜시겠습니까?"</string>
     <string name="quick_settings_scanner_label">스캐너</string>
     <string name="reset">초기화</string>
     <string name="saturday">토요일</string>

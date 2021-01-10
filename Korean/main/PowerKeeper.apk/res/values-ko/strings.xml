@@ -111,4 +111,5 @@
     <string name="set_gsmcore_summary">절전 모드일 때 Google Play 서비스를 비활성화합니다.</string>
     <string name="power_tools_current">현재</string>
     <string name="power_tools_fps">FPS</string>
+    <string name="accessibility_service_description">절전 모드</string>
 </resources>

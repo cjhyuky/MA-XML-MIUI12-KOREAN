@@ -2836,8 +2836,8 @@
     <string name="smart_dual_sim_prompt">현재 연결 상태가 좋지 않은 경우 기기는 보조 SIM을 사용하여 모바일 데이터 네트워크에 연결합니다. 추가 데이터 요금이 발생할 수 있습니다. 추가 요금을 피하기 위해 데이터 사용 한도를 설정합니다.</string>
     <string name="smart_dual_sim_summary">현재 연결 상태가 좋지 않을 경우 보조 SIM 카드로 전환하고 모바일 데이터를 자동으로 사용하세요. 연결이 개선되면 원래 SIM 카드로 다시 전환하세요.</string>
     <string name="smart_dual_sim_title">스마트 듀얼 SIM</string>
-    <string name="fiveg_sa_switch_title_slot0">SIM 1 SA 모드</string>
-    <string name="fiveg_sa_switch_title_slot1">SIM 2 SA 모드</string>
+    <string name="fiveg_sa_switch_title_slot0">SIM %d SA 모드</string>
+    <string name="fiveg_sa_switch_title_slot1">SIM %d SA 모드</string>
     <string name="smart_dual_sim_prompt_ok">설정</string>
     <string name="smart_dual_sim_prompt_title">데이터 사용 경고(SIM %s)</string>
     <string name="limited_service_alert_dialog_description"><b>Wi-Fi 통화로 긴급 전화</b>"
@@ -2852,4 +2852,5 @@
     <string name="fiveg_network_mode_title">5G 네트워크 모드 선택</string>
     <string name="fiveg_sa_vice_switch_title">SIM 2 SA</string>
     <string name="preference_countrycode_title">국가 코드</string>
+    <string name="stk_name">USIM 툴킷</string>
 </resources>

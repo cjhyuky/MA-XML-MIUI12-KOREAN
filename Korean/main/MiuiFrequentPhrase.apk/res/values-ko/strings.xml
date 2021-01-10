@@ -32,7 +32,7 @@
     <string name="input_method_switch_settings_text">키보드 설정</string>
     <string name="input_method_tab_clipboard_text">클립보드</string>
     <string name="input_method_tab_phrase_text">상용구</string>
-    <string name="input_method_clipboard_add_to_phrase_success">상용구에 추가</string>
+    <string name="input_method_clipboard_add_to_phrase_success">상용구에 추가됨</string>
     <string name="input_method_function_clipboard">클립보드 및 상용구</string>
     <string name="input_method_function_clipboard_des">탭하여 클립보드 및 상용구 항목 보기</string>
     <string name="input_method_function_select_guide_title">더 많은 옵션을 보려면 길게 누르기</string>

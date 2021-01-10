@@ -662,4 +662,12 @@ ID:%s
     <string name="passport_uplink_sms_sending">유료 메시지를 보내는 중...</string>
     <string name="passport_uplink_suggest_dialog_msg">"코드를 받을 수 없습니다. 대신 유료 업링크 SMS를 이용하시겠습니까?"</string>
     <string name="passport_uplink_suggest_dialog_title">알림</string>
+    <string name="download_file">%s 다운로드 중…</string>
+    <string name="passport_login_other_phone">다른 계정 사용</string>
+    <string name="passport_provision_input_email_register_prompt">선택한 지역의 법규를 준수하여 개인 데이터를 보관합니다.</string>
+    <string name="passport_provision_password_req_notice">영문자, 숫자, 특수문자 중 최소 %3$d가지를 포함한 %1$d-%2$d자</string>
+    <string name="passport_registered_phone_num_v2">휴대전화 번호</string>
+    <string name="provision_back">뒤로</string>
+    <string name="provision_next">다음</string>
+    <string name="provision_skip_underline">건너뛰기</string>
 </resources>
