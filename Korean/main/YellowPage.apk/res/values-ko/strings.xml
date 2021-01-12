@@ -441,7 +441,7 @@
     <string name="express_setting_authorized_number_description">개인정보 보호정책 : 귀하의 전화번호는 배달 주문 상태 및 세부 사항을 확인하는 용도로만 사용됩니다.</string>
     <string name="express_setting_authorized_number_empty">"아직 전화번호가 확인되지 않았습니다."</string>
     <string name="express_setting_code_invalid">"올바른 코드를 입력했는지 확인하세요"</string>
-    <string name="express_setting_count_down_time">%ds 번째 다시 시도중입니다.</string>
+    <string name="express_setting_count_down_time">%d번째 다시 시도중입니다.</string>
     <string name="express_setting_dialog_authority_description">전화번호 확인은 옐로우 페이지에서 제공됩니다. 옐로우페이지는 정상적으로 작동하려면 네트워크에 연결해야 합니다. 동의합니까?</string>
     <string name="express_setting_dialog_delete_cancel">취소</string>
     <string name="express_setting_dialog_delete_description">"전화번호를 삭제하면 옐로우 페이지가 배달 정보를 자동으로 추적 할 수 없습니다. 삭제하시겠습니까?"</string>

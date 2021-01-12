@@ -818,7 +818,7 @@
     <string name="wallpaper_loop_title_desk_wallpaper">홈 화면 벽지 슬라이드 쇼</string>
     <string name="wallpaper_loop_title_lock_walpaper">화면 배경화면 슬라이드 쇼 잠금</string>
     <string name="audition_ringtone">재생</string>
-    <string name="count_down_tip">%ds 남음</string>
+    <string name="count_down_tip">%d초 남음</string>
     <string name="like_list">내가 좋아한 항목</string>
     <string name="playing_ringtone">재생</string>
     <string name="trial_count_empty">현재 남은 무료 항목이 없습니다. 내일 다시 오세요!</string>

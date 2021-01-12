@@ -1229,7 +1229,7 @@
     <string name="first_aid_card_airplane_title">전화를 걸거나 네트워크에 연결할 수 없습니다.</string>
     <string name="first_aid_card_consume_power_button1">제한</string>
     <string name="first_aid_card_consume_power_button2">끄기</string>
-    <string name="first_aid_card_consume_power_summary1">5개 이상의 앱이 자동 실행되고 있습니다. 배터리 절약을 위해 제한하세요.</string>
+    <string name="first_aid_card_consume_power_summary1">5개 이상의 앱이 자동 실행되고 있습니다. 배터리 절약을 위해 자동 실행을 제한하세요.</string>
     <string name="first_aid_card_consume_power_summary2">배터리를 절약하기 위해 모바일 핫스팟을 끄세요.</string>
     <string name="first_aid_card_consume_power_title">배터리 사용량</string>
     <string name="first_aid_card_kadun_button1">여유 공간 확보</string>
@@ -1256,7 +1256,7 @@
     <string name="first_aid_item4_content">배터리</string>
     <string name="first_aid_item5_content">기타 이슈</string>
     <string name="first_aid_result_feedback_button">보내기</string>
-    <string name="first_aid_result_feedback_summary">긴급 치료 스캔 결과 아무런 문제가 없었지만 일부 개선되야할 부분을 발견했습니다.</string>
+    <string name="first_aid_result_feedback_summary">확인 결과 아무런 문제가 없었지만 일부 개선되야할 부분을 발견했습니다.</string>
     <string name="first_aid_result_feedback_title">의견</string>
     <string name="first_aid_result_summary_normal">모든 상태가 좋습니다!</string>
     <string name="first_aid_result_summary_not_finished">스캔이 완료되지 않았습니다. 일부 위험은 감지되지 않을 수 있습니다.</string>

@@ -1844,7 +1844,7 @@
     <string name="accessibility_preview_shrink">접기</string>
     <string name="accessibility_preview_zoom_tip">%1$.1f배 줌 미리보기</string>
     <string name="film_landscape_timefreeze_hint">가로 촬영만 지원합니다.</string>
-    <string name="film_timefreeze_hint">휴대전화를 움직이지 마세요. %ds</string>
+    <string name="film_timefreeze_hint">휴대전화를 움직이지 마세요. %d초</string>
     <string name="live_draft_continue">계속</string>
     <string name="live_draft_empty">임시 저장 없음</string>
     <string name="live_edit_exit_confirm_draft">저장 후 나가기</string>

@@ -404,7 +404,7 @@
     <string name="hsa_input_hint">이중 보안 답변</string>
     <string name="hsa_input_tip">귀하의 Apple ID는 이중 보안설정 상태입니다. 인증번호를 입력하세요.</string>
     <string name="hsa_send_again">재전송</string>
-    <string name="hsa_send_again_countdown">재전송 (%ds)</string>
+    <string name="hsa_send_again_countdown">재전송 (%d초)</string>
     <string name="hsa_send_failed">"보안코드를 전송할 수 없습니다. 잠시 후에 다시 시도하세요."</string>
     <string name="hsa_sending">전송 중…</string>
     <string name="hsa_tip_message">"1. 인증번호를 받을 수 없다면 이미 Apple 기기에서 iCloud에 로그인했는지 확인하세요

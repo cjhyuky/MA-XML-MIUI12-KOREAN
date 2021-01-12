@@ -941,4 +941,7 @@
     <string name="operation_open">열기</string>
     <string name="operation_paste_to_folder">폴더에 붙여넣기</string>
     <string name="operation_send_to_pc">PC로 전송</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">더보기</string>
+    <string name="more">더보기</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">더보기</string>
 </resources>

@@ -605,4 +605,5 @@
     <string name="unit_data_display_data_pb">페타바이트</string>
     <string name="unit_data_display_data_tb">테라바이트</string>
     <string name="date_format">yyyy년 MMM월 dd일</string>
+    <string name="new_privacy_string"><Data>"계산기에 오신것을 환영합니다!&lt;br/>이 앱에는 다음 기능이 포함되어 있습니다.:&lt;br/>• 기본 계산기&lt;br/>• 공학용 계산기&lt;br/>• 범용 변환기(예: 통화, 측정 단위 등)&lt;br/>• 대출, 투자, EMI 등을 위한 계산 템플릿&lt;br/>계산기는 기본 서비스를 제공하기 위해 필요한 개인 정보를 수집해야 합니다. &lt;a href= \"%1$s\">개인 정보 보호 정책&lt;/a>에서 수집하는 정보를 처리하는 방법을 배울 수 있습니다. 계산기를 사용하기 전에 &lt;a href=\"%2$s\">사용자 계약&lt;/a> 및 &lt;a href=\"%3$s\">개인 정보 보호 정책&lt;/a>을 읽고 동의하십시오. 언제든지 설정에서 계산기의 개인 정보 보호 정책에 대한 동의를 취소할 수 있습니다. 개인 정보 보호 정책에 동의하지 않으면 이 앱의 일부 기능을 사용할 수 없지만 기본 기능은 계속 사용할 수 있습니다."</Data></string>
 </resources>

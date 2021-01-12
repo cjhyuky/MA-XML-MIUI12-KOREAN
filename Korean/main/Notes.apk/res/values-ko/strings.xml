@@ -492,4 +492,11 @@
     <string name="note_header_first_enter_guide">당겨내려 확장하세요.</string>
     <string name="permission_storage_desc_v12">메모에 이미지를 추가하거나 이미지를 메모로 저장합니다.</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">메모 앱이 메모에 이미지를 추가할 수 있도록 저장소 접근 권한을 허용합니다.</string>
+    <string name="pref_category_title_quick_func">빠른 기능</string>
+    <string name="pref_title_quick_note">빠른 메모</string>
+    <string name="pref_quick_note_desc">화면 가장자리의 바로 가기를 사용하여 메모와 작업을 만들고 복사된 URL, 텍스트 및 이미지를 메모에 저장합니다.</string>
+    <string name="quick_note_new_user_guide">빠른 노트를 사용하여 노트 및 발췌문 작성 가능</string>
+    <string name="note_invalid_mindnote_hint">&quot;이 버전에서는 마인드맵을 사용할 수 없습니다. 이 기능을 사용하도록 앱을 업데이트하십시오.&quot;</string>
+    <string name="note_mindnote_entrance_hint">&quot;입력&quot;</string>
+    <string name="note_mindnote_entrance_icon_text">마인드맵 만들기</string>
 </resources>

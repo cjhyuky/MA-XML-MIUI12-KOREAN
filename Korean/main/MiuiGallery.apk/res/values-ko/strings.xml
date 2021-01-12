@@ -1434,6 +1434,7 @@
     <string name="recommanded_face_abandon_tip">제안 사항에서 제거됨</string>
     <string name="recommanded_face_added_tip">\"%s\"에 추가됨</string>
     <string name="recommend_category_title">갤러리 추천</string>
+    <string name="recommend_page_label">추천</string>
     <string name="recovery_merge">합치기</string>
     <string name="recovery_merge_or_rename">앨범 합치기</string>
     <string name="recovery_merge_or_rename_message">이름이 같은 앨범이 있습니다. 합치시겠습니까?</string>
@@ -2678,7 +2679,7 @@
     <string name="toast_orientation_locked">회전 잠금 완료</string>
     <string name="watch_all_photo">갤러리</string>
     <string name="unsupport_type">"이 형식은 지원되지 않습니다."</string>
-	<string name="send_files_by">파일 공유</string>
+    <string name="send_files_by">파일 공유</string>
     <string name="album_homepage_show_all_photos">모든 사진 보기</string>
     <string name="album_lockscreen_wallpapers">잠금 화면 배경화면</string>
     <string name="miuix_appcompat_action_mode_deselect_all">선택 해제</string>

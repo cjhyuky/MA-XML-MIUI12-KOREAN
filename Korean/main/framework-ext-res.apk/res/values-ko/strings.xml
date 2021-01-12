@@ -190,7 +190,7 @@
     <string name="popup_camera_popup_falied_times_calibrate">"전면 카메라를 여러 번 열지 못했습니다. 카메라 보정을 시도해보세요."</string>
     <string name="popup_camera_remove_hid_device">기기가 게임 컨트롤러에 연결된 것 같습니다. 게임 컨트롤러가 연결되어 있으면 전면 카메라를 열지 못할 수 있습니다.</string>
     <string name="popup_camera_sure">확인</string>
-    <string name="popup_camera_sure_wait">확인(%ds)</string>
+    <string name="popup_camera_sure_wait">확인(%d초)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"전면 카메라를 여러 번 열지 못했습니다. 카메라 보정을 시도해보세요."</string>
     <string name="popup_camera_tip">주의</string>
     <string name="popup_camera_using_camera_background">%s 앱이 전면 카메라를 사용 중입니다.</string>

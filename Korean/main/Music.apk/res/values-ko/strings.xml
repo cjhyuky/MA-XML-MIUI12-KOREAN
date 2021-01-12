@@ -135,6 +135,7 @@
     <string name="current_album">현재 앨범</string>
     <string name="current_lyric">현재 가사</string>
     <string name="current_version">현재 버전</string>
+    <string name="dark_mode">다크 모드</string>
     <string name="data_usage_warning">데이터 사용량</string>
     <string name="data_usage_warning_summary">모바일 데이터 연결을 사용하여 고음질의 음악을 스트리밍하면 데이터 사용량 청구액이 늘어날 수 있습니다.</string>
     <string name="data_use_desc">법적 서류</string>
@@ -328,6 +329,7 @@
     <string name="fcm_fallback_notification_channel_label">기타</string>
     <string name="feed_back">의견</string>
     <string name="file_not_found">파일이 존재하지 않습니다.</string>
+    <string name="filter_by_MP4">MP4 파일이 있는 폴더 표시</string>
     <string name="filter_by_duration">길이로</string>
     <string name="filter_by_duration_max">%d분</string>
     <string name="filter_by_duration_min">%d초</string>
@@ -565,6 +567,7 @@
     <string name="priority_storage_summary">가능한 경우 외장 메모리 카드에 자동으로 다운로드</string>
     <string name="privacy_desc">개인정보 보호정책(필수)</string>
     <string name="privacy_policy">개인정보 보호정책</string>
+    <string name="privacy_state_revoked_switch">동의 철회</string>
     <string name="pro_member">프로 회원</string>
     <string name="project_device">Mi 휴대전화</string>
     <string name="prompt_grant_write_settings_permission">설정 권한 요청</string>
@@ -579,6 +582,7 @@
     <string name="recommended_no_file_size_download_in_mobile">모바일 데이터를 사용해서 해당 파일을 다운 받으시겠습니까?</string>
     <string name="remove">제거</string>
     <string name="remove_download">제거</string>
+    <string name="remove_user_privacy_dialog_message_canuse">스위치를 끄면 Mi Music의 개인 정보 보호 정책에 대한 동의가 취소됩니다. 귀하의 개인 정보 수집은 중지됩니다. 이미 수집 및 보존된 개인 정보는 해당 법률에서 요구하는 대로 특정 기간 내에 삭제됩니다. Mi Music은 온라인 스트리밍 서비스를 제공하기 위해 필요한 개인 정보를 수집해야 합니다. 개인 정보 보호 정책에 대한 사용자의 동의 철회는 수집된 개인 정보에 기초하여 앞서 언급한 온라인 서비스를 승인하지 않는 것으로 간주됩니다.</string>
     <string name="renew_dialog_title">ProBe Happy로 이동</string>
     <string name="repeat_all_notif">전체 음악 반복</string>
     <string name="repeat_current_notif">현재 음악 반복</string>

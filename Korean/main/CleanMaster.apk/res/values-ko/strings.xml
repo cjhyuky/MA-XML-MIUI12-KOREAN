@@ -878,4 +878,5 @@
     <string name="notification_wechat_clean_middle_level_text_b">"WeChat 쓰레기 파일이 앱을 느리게 합니다."</string>
     <string name="gb_global_icon_ad_card_btn">얻기</string>
     <string name="gb_global_icon_ad_card_title">사용자를 위한 추천</string>
+    <string name="video_clean_notification_summary">앱에서 캐시한 비디오 삭제</string>
 </resources>

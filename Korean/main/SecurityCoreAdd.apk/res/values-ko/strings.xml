@@ -406,7 +406,7 @@
     <string name="reset_password_dialog_title">"보조 공간 바로가기 숨김처리 불가능"</string>
     <string name="xspace_install_completed_global">앱 서랍에 아이콘 추가됨</string>
     <string name="remove_button">삭제</string>
-    <string name="remove_button_time">삭제(%ds)</string>
+    <string name="remove_button_time">삭제(%d초)</string>
     <string name="stop_xspace_alert_content">"모든 듀얼 앱에 연결된 계정과 앱 데이터를 삭제하시겠습니까? 이 변경을 적용하기 위해 기기가 다시 시작됩니다."</string>
     <string name="stop_xspace_alert_title">듀얼 앱 계정 삭제</string>
     <string name="msg_switch_file_second">데이터를 옮긴 후에 모든 파일들을 삭제하시겠습니까?</string>

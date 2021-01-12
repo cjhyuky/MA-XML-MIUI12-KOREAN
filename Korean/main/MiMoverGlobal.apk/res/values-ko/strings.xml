@@ -250,7 +250,7 @@
     <string name="hsa_input_tip">Apple ID는 이중 인증을 사용합니다. 인증번호를 입력하세요.</string>
     <string name="hsa_sending">보내는 중…</string>
     <string name="hsa_send_again">다시 보내기</string>
-    <string name="hsa_send_again_countdown">다시 보내기 (%ds)</string>
+    <string name="hsa_send_again_countdown">다시 보내기 (%d초)</string>
     <string name="hsa_send_failed">"인증번호를 보낼 수 없습니다. 1~2분 정도 기다린 후 다시 시도하세요."</string>
     <string name="hsa_tip_message">"인증번호를받을 수 없는 경우 Apple 기기에서 이미 iCloud에 로그인했는지 확인하세요."</string>
     <string name="hsa_tip_message_shutdown_hsa">2 단계 인증을 해제하는 방법</string>
