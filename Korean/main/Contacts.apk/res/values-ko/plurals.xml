@@ -142,6 +142,6 @@
         <item quantity="other">%1$d개 이상 선택불가</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d개</item>
+        <item quantity="other">%1$d개 항목 찾음</item>
     </plurals>
 </resources>

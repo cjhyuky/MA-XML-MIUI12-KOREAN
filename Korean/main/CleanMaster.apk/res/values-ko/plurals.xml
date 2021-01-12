@@ -64,7 +64,7 @@
         <item quantity="other">%d개 동영상을 내보낼 수 없습니다. 공간을 확보하고 다시 시도하세요.</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">(%1$d개 빈 파일) %2$s</item>
+        <item quantity="other">빈 파일 %1$d개</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d일 동안 사용되지 않음</item>
