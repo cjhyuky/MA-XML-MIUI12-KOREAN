@@ -312,10 +312,10 @@
     <string name="xl_privilege_support">다중 기기</string>
     <string name="xl_privilege_storage_info">모두 다운로드하기에 충분한 공간이 있습니다.</string>
     <string name="xl_vip_combo">요금제</string>
-    <string name="xl_vip_annual">1년: %1$s Mi 크레딧 x 12</string>
-    <string name="xl_vip_semiannual">6 달: %1$s Mi 크레딧 x 6</string>
-    <string name="xl_vip_quarter">3 달: %1$s Mi 크레딧 x 3</string>
-    <string name="xl_vip_month">1달: %1$s Mi 크레딧 x 1</string>
+    <string name="xl_vip_annual">1년: </string>
+    <string name="xl_vip_semiannual">6달: </string>
+    <string name="xl_vip_quarter">3달: </string>
+    <string name="xl_vip_month">1달: </string>
     <string name="xl_month_vip_open">월간 멤버쉽 (%1$s Mi 크레딧)</string>
     <string name="xl_annual_vip_open">연간 멤버쉽 (%1$s Mi 크레딧 또는 매월 %2$s)</string>
     <string name="xl_month_vip_renew">1개월 연장 (%1$s Mi 크레딧)</string>

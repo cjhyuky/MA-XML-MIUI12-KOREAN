@@ -779,7 +779,6 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="newinfo">새 권한</string>
     <string name="next_text">다음</string>
     <string name="no">아니요</string>
-    <string name="none">데이터 없음</string>
     <string name="nosim">SIM 카드 없음</string>
     <string name="off">끔</string>
     <string name="off_mod_info">끔</string>

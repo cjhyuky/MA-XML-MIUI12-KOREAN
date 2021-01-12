@@ -422,7 +422,6 @@
     <string name="common_name">일반 이름:</string>
     <string name="condition_provider_service_binding_label">조건 제공자</string>
     <string name="conference_call">다자간 통화</string>
-    <string name="config_optionalPackageVerifierName">seemp.service</string>
     <string name="configure_input_methods">키보드 선택</string>
     <string name="confirm_battery_saver">확인</string>
     <string name="console_running_notification_message">성능에 영향을 미쳤습니다. 사용 중지하려면 부트로더를 확인하세요.</string>
@@ -2130,7 +2129,6 @@
     <string name="serviceErased">삭제했습니다.</string>
     <string name="serviceNotProvisioned">서비스가 준비되지 않았습니다.</string>
     <string name="serviceRegistered">등록이 완료되었습니다.</string>
-    <string name="service_not_subscribed">서비스 미가입 -33-</string>
     <string name="setup_autofill">자동완성 설정...</string>
     <string name="sha1_fingerprint">SHA-1 지문:</string>
     <string name="sha256_fingerprint">SHA-256 지문:</string>
@@ -2310,7 +2308,6 @@
     <string name="usb_unsupported_audio_accessory_message">연결된 기기가 이 휴대전화와 호환되지 않습니다. 자세히 알아보려면 탭하세요.</string>
     <string name="usb_unsupported_audio_accessory_title">아날로그 오디오 액세서리가 감지됨</string>
     <string name="use_a_different_app">다른 앱 사용</string>
-    <string name="user_authentication_failed">인증 실패 -29-</string>
     <string name="user_creation_account_exists">%1$s에서 %2$s 계정으로 신규 사용자를 만들도록 허용하시겠습니까? 이 계정으로 등록된 사용자가 이미 존재합니다.</string>
     <string name="user_creation_adding">%1$s에서 %2$s 계정으로 신규 사용자를 만들도록 허용하시겠습니까?</string>
     <string name="user_encrypted_detail">사용자 데이터 잠김</string>
@@ -2427,7 +2424,7 @@
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">네트워크를 찾지 못함</string>
     <string name="wifi_disable_mac_randomization_dialog_success">설정 업데이트됨. 다시 시도하세요.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">개인정보 설정을 변경하시겠습니까?</string>
-    <string name="wifi_no_internet">%1$s이(가) 인터넷에 접근할 수 없습니다.</string>
+    <string name="wifi_no_internet">Wi-Fi에 접근할 수 없습니다.</string>
     <string name="wifi_no_internet_detailed">탭하여 옵션 보기</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">설정으로 이동하려면 터치하세요.</string>

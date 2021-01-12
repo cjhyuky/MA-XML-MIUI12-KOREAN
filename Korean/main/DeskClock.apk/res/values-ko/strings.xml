@@ -95,7 +95,6 @@
     <string name="system_time_settings_category_title">시간 설정</string>
     <string name="alarm_settings_category_title">알람 설정</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="temperature_unit">%1$s°</string>
     <string name="life_post_weather_degree_invalid">--</string>
     <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
     <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
