@@ -12,7 +12,6 @@
     <string name="skip_gesture_guide_dialog_positive_btn">확인</string>
     <string name="skip_gesture_guide_dialog_title">전체 화면 제스처</string>
     <string name="terms_of_use_ble_htmlViewer">, 통합 위치 정보 제공자, HTML 뷰어</string>
-    <string name="location_U">U+GPSnWPS</string>
     <string name="location_content">법에 따라 이동통신사는 보안 및 응급 구조 목적을 추구하는 응급 구조 기관(소방서 및 경찰)의 요구 사항을 준수하기 위해 모바일 기기의 위치 정보를 얻을 수 있습니다.</string>
     <string name="location_location">응급 구조대는 요청에 따라 현재 위치를 얻을 수 있습니다.</string>
     <string name="location_miui">MIUI를 사용하려면 위의 이용 약관에 동의해야 합니다.</string>

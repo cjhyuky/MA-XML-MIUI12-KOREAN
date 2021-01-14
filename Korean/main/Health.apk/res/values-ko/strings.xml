@@ -982,7 +982,7 @@
     <string name="tb_exercise_detail_duration_w_m_normal">매일 평균 분 : %1$d. 총 시간 : %2$d.</string>
     <string name="tb_exercise_detail_pillar">%1$s에서 %2$s까지의 단계 : %3$s.</string>
     <string name="tb_exercise_detail_pillar_cancel">선택 취소</string>
-    <string name="tb_exercise_detail_step_daily_normal">총 단계 : %1$d. 목표 : %2$d. %3$d %% 완료했습니다.</string>
+    <string name="tb_exercise_detail_step_daily_normal">총 단계 : %1$d. 목표 : %2$d. %3$d 퍼센트 완료했습니다.</string>
     <string name="tb_exercise_detail_step_daily_no_data">걸음 수 데이터가 없습니다. 목표 : %1$d.</string>
     <string name="tb_exercise_detail_step_daily_no_goal">총 단계 : %1$d</string>
     <string name="tb_exercise_detail_step_no_goal_no_data">스텝 카운트 데이터가 없습니다.</string>
@@ -999,7 +999,7 @@
     <string name="tb_exercise_list_sport_one">%1$s. 기간 : %2$s. 종료 시간 : %3$s. 데이터 소스 : %4$s. 세부 정보를 보려면 탭하세요.</string>
     <string name="tb_exercise_list_walk">걸음 수 : %1$s. 종료 시간 : %2$s. 세부 정보를 보려면 탭하세요.</string>
     <string name="tb_exercise_sport_sum">운동 보고서. %1$s. 세부 정보를 보려면 탭하세요.</string>
-    <string name="tb_exercise_steps_normal">단계 수 : %1$d. 현재 목표 : %2$d. 진행률 : %3$d %%. 탭하여 세부 정보를 봅니다.</string>
+    <string name="tb_exercise_steps_normal">단계 수 : %1$d. 현재 목표 : %2$d. 진행률 : %3$d 퍼센트. 탭하여 세부 정보를 봅니다.</string>
     <string name="tb_exercise_steps_no_data">단계 데이터가 없습니다. 현재 목표 : %1$d. 세부 정보를 보려면 탭하세요.</string>
     <string name="tb_exercise_steps_no_goal">걸음 수 : %1$d. 세부 정보를 보려면 탭하세요.</string>
     <string name="tb_exit_detection">종료</string>
