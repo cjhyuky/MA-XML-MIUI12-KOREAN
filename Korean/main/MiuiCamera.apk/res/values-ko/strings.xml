@@ -1519,7 +1519,6 @@
     <string name="pref_video_denoise_off">꺼짐</string>
     <string name="pref_video_denoise_on">켜짐</string>
     <string name="pref_video_denoise_title">노이즈 필터</string>
-    <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_encoder_entry_h264">H.264 높은 호환성</string>
     <string name="pref_video_encoder_entry_h265">H.265 높은 성능</string>
     <string name="pref_video_encoder_title">동영상 인코더</string>
@@ -1844,7 +1843,7 @@
     <string name="accessibility_preview_shrink">접기</string>
     <string name="accessibility_preview_zoom_tip">%1$.1f배 줌 미리보기</string>
     <string name="film_landscape_timefreeze_hint">가로 촬영만 지원합니다.</string>
-    <string name="film_timefreeze_hint">휴대전화를 움직이지 마세요. %d초</string>
+    <string name="film_timefreeze_hint">녹화를 시작하려면 셔터를 누르세요.</string>
     <string name="live_draft_continue">계속</string>
     <string name="live_draft_empty">임시 저장 없음</string>
     <string name="live_edit_exit_confirm_draft">저장 후 나가기</string>

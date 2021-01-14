@@ -539,7 +539,7 @@
     <string name="backup_only_in_wifi_summary">모바일 데이터를 사용하여 사진 또는 동영상을 백업하지 않습니다.</string>
     <string name="backup_only_wifi_dialog_message">모바일 데이터를 사용하여 사진과 영상을 백업하시겠습니까?</string>
     <string name="backup_pause">백업 일시 중지</string>
-    <string name="backup_pause_title">%s 백업 중</string>
+    <string name="backup_pause_title">동기화가 일시 중지됨</string>
     <string name="backup_pending">자동으로 백업됩니다.</string>
     <string name="backup_stop">백업 중지</string>
     <string name="backup_sync_dialog_confirm">활성화</string>
@@ -1330,7 +1330,7 @@
     <string name="photo_editor_miui_beauty_no_face">얼굴을 인식할 수 없습니다.</string>
     <string name="photo_editor_mosaic">모자이크</string>
     <string name="photo_editor_navigator_cancel">취소</string>
-    <string name="photo_editor_navigator_download_network_metered_msg">%s을(를) 다운로드에는 약 %2$dMB의 모바일 데이터가 소모됩니다. 다운로드하시겠습니까?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">%s 파일 다운로드에는 약 %2$dMB의 모바일 데이터가 소모됩니다. 다운로드하시겠습니까?</string>
     <string name="photo_editor_navigator_download_network_metered_title">데이터 사용 경고</string>
     <string name="photo_editor_navigator_export">완료</string>
     <string name="photo_editor_navigator_module_download_failed">%s 모듈을 다운로드할 수 없습니다.</string>

@@ -749,7 +749,7 @@
     <string name="express_setting_request_failed">요청을 보낼 수 없습니다. 오류 코드: %s.</string>
     <string name="express_setting_service_provider">서비스 제공 업체</string>
     <string name="express_setting_service_unavailable">서비스를 이용할 수 없습니다.</string>
-    <string name="express_setting_sim_card_index">심 %d</string>
+    <string name="express_setting_sim_card_index">"SIM "</string>
     <string name="express_setting_subscribe_phone_failed">전화번호 추가 실패!</string>
     <string name="express_setting_subscribe_phone_success">전화번호 추가 성공!</string>
     <string name="express_setting_supported_orders">배송 서비스는 Taobao, Tmall, Xianyu, ZTO Express, STO Express, Yunda Express, 그리고 다른 작은 배송업체들을 지원합니다. Taobao, Tmall, 그리고 Xianyu외에 SF Express로 배송되는 주문은 수동으로 확인해야 합니다. JD Express는 지원하지 않습니다.</string>

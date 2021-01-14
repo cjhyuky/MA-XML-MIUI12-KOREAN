@@ -250,7 +250,7 @@
     <string name="modify_call_option_vt_tx">동영상 전달</string>
     <string name="modify_call_prompt_no">아니오</string>
     <string name="modify_call_prompt_yes">예</string>
-    <string name="video_crbt_title">%s 컬러링 음악</string>
+    <string name="video_crbt_title">"상대방의 비디오 벨소리가 재생되고 있습니다."</string>
     <string name="crbt_second_hold_prompt">%s 님이 대기 중입니다…</string>
     <string name="crbt_second_hold_prompt_conference">회의중인 전화가 대기 중입니다…</string>
     <string name="crbt_second_hold_prompt_no_name">이전 전화가 대기 중입니다…</string>

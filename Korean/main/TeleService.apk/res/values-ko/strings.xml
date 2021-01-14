@@ -1753,7 +1753,6 @@
     <string name="charge_length_format">%1$s 전</string>
     <string name="choose_profile">프로필 선택</string>
     <string name="clear_adb_keys">USB 디버깅 인증 취소</string>
-    <string name="config_disable_cdma_activation_code">잘못됨</string>
     <string name="confirm_enable_oem_unlock_text"> 경고 : 이 설정이 켜져있는 동안에는 기기 보호 기능이 작동하지 않습니다.</string>
     <string name="confirm_enable_oem_unlock_title">OEM 잠금해제를 허용하시겠습니까?</string>
     <string name="connected_via_passpoint">%1$s로 연결되었습니다.</string>

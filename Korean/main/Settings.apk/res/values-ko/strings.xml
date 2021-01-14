@@ -1482,9 +1482,9 @@
     <string name="bootloader_status_unlocked">잠금해제됨</string>
     <string name="bootloader_status_unlocked_info">부트로더 잠금이 해제된 상태입니다.</string>
     <string name="bootloader_summary">PC USB를 통해 기기 초기화 허용</string>
-    <string name="bootloader_tips">%
+    <string name="bootloader_tips">"%s
 
-이미 위의 작업을 수행한 경우 Mi 계정을 다시 추가하세요. 그렇지 않으면 기기의 잠금을 해제할 수 없습니다.</string>
+이미 위의 작업을 수행한 경우 Mi 계정을 다시 추가하세요. 그렇지 않으면 기기의 잠금을 해제할 수 없습니다."</string>
     <string name="bootloader_tips_ok">확인</string>
     <string name="bootloader_tips_warning">네트워크 연결을 끊지마시고, Mi 계정을 로그아웃한 후에 공장 초기화 또는 시스템 데이터를 삭제하세요.</string>
     <string name="bottom_function_settings">추가 버튼 기능</string>
@@ -2775,7 +2775,7 @@
     <string name="done_button">완료</string>
     <string name="double_click_power_key">전원 버튼 두 번 누르기</string>
     <string name="double_click_volume_down_when_lock">화면이 잠겼을 때 볼륨 감소 버튼을 연달아 두 번 누르세요.</string>
-    <string name="double_knock">너클 두 번 탭</string>
+    <string name="double_knock" />
     <string name="double_tap_power_for_camera_suggestion_title">카메라 빠르게 실행</string>
     <string name="double_tap_power_for_camera_summary">카메라에 손쉽게 접근하기 위해서 전원 버튼을 두 번 눌러 카메라를 실행합니다.</string>
     <string name="double_tap_power_for_camera_title">카메라 바로가기</string>
@@ -3600,7 +3600,7 @@
     <string name="gxzw_quick_open_fast_title">빠른 스와이프(고급)</string>
     <string name="gxzw_quick_open_slow_summary">지문 아이콘을 길게 누르면 바로가기 메뉴가 열립니다. 스와이프하여 바로가기를 사용합니다.</string>
     <string name="gxzw_quick_open_slow_title">길게 누르고 있기</string>
-    <string name="gxzw_quick_open_title">바로가기</string>
+    <string name="gxzw_quick_open_title" />
     <string name="handy_mode">한 손 조작 모드</string>
     <string name="handy_mode_enable">한 손 조작 모드</string>
     <string name="handy_mode_size">화면 크기</string>
@@ -4843,7 +4843,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miui_sos_emergency_delivered_sms">%1$s(%2$s)님이 메시지를 확인했습니다.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1$s님이 메시지를 확인했습니다.</string>
     <string name="miui_sos_emergency_failed_sms">%1$s(%2$s)님에게 SOS 메시지를 보낼 수 없습니다.</string>
-    <string name="miui_sos_emergency_failed_sms_noname">%1$s님에게 SOS 메시지 전송 실패.</string>
+    <string name="miui_sos_emergency_failed_sms_noname">%1s님에게 SOS 메시지 전송 실패.</string>
     <string name="miui_sos_enable_switch_summary">신속하게 전원 버튼을 5번 눌러 해당 지역의 SOS 문자 메시지를 긴급 연락처로 보내세요.</string>
     <string name="miui_sos_enable_switch_title">긴급 SOS</string>
     <string name="miui_sos_exit_dialog_cancel">취소</string>
@@ -5168,7 +5168,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="network_connection_errorstate_dialog_message">문제가 발생했습니다. 애플리케이션에서 기기 선택 요청을 취소했습니다.</string>
     <string name="network_connection_request_dialog_showall">모두 표시</string>
     <string name="network_connection_request_dialog_summary">%1$s 앱이 임시 Wi-Fi 네트워크를 사용하여 기기에 연결하려고합니다.</string>
-    <string name="network_connection_request_dialog_title">%1$s에서 사용할 기기</string>
+    <string name="network_connection_request_dialog_title">장치에 연결</string>
     <string name="network_connection_searching_message">기기 검색 중…</string>
     <string name="network_connection_timeout_dialog_message">기기가 없습니다. 기기가 켜져 있으며 연결 가능한지 확인하세요.</string>
     <string name="network_connection_timeout_dialog_ok">다시 시도</string>

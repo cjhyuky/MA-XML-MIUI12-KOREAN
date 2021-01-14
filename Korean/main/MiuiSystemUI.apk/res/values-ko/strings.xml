@@ -1284,8 +1284,8 @@
 
  %d초 후에 다시 시도하세요."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. %d회 더 실패하면 휴대전화가 초기화되고 사용자 데이터가 모두 사라집니다.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">잘못된 비밀번호를 %1d번 입력했습니다. 개인 데이터가 삭제됩니다.</string>
-    <string name="kg_failed_attempts_now_erasing_user">잘못된 비밀번호를 %1d번 입력했습니다. 사용자 정보가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">잘못된 비밀번호를 %d번 입력했습니다. 개인 데이터가 삭제됩니다.</string>
+    <string name="kg_failed_attempts_now_erasing_user">잘못된 비밀번호를 %d번 입력했습니다. 사용자 정보가 삭제됩니다.</string>
     <string name="kg_failed_attempts_now_wiping">휴대전화를 잠금해제하려는 시도가 %d회 잘못되었습니다. 휴대전화가 초기화됩니다.</string>
     <string name="kg_fingerprint_not_recognized">"인식할 수 없음"</string>
     <string name="kg_forgot_pattern_button_text">패턴을 잊음</string>
