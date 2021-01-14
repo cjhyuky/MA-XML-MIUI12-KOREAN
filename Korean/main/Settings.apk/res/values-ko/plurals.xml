@@ -128,10 +128,10 @@
         <item quantity="other">매우 짧은 지연속도 (%1$d ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">짧은 지연속도 (%1$d ms)</item>
+        <item quantity="other">짧은 지연속도 (%1$s ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">긴 지연속도 (%1$d ms)</item>
+        <item quantity="other">긴 지연속도 (%1$s ms)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
         <item quantity="other">매우 긴 지연속도 (%1$d ms)</item>
@@ -488,7 +488,7 @@
     <item quantity="other">구독 %d개</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-    <item quantity="other">앱 %1$d개의 알림이 방해 금지 모드를 무시할 수 있음</item>
+    <item quantity="other">앱 %s개의 알림이 방해 금지 모드를 무시할 수 있음</item>
     </plurals>
     <plurals name="priority_conversation_count">
         <item quantity="other">%d개 중요 메시지</item>

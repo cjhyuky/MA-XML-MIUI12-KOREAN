@@ -16,7 +16,7 @@
         <item quantity="other">%d개 파일을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d개 다운로드 삭제됨</item>
+        <item quantity="other">%s개 다운로드 삭제됨</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d일</item>

@@ -134,7 +134,7 @@
         <item quantity="other">목표까지 %s분 남았습니다.</item>
     </plurals>
     <plurals name="sporting_content_calories">
-        <item quantity="other">총 %1$d칼로리를 소모했습니다.</item>
+        <item quantity="other">총 %1$s칼로리를 소모했습니다.</item>
     </plurals>
     <plurals name="sporting_content_riding_km">
         <item quantity="other">%1$skm 라이딩했습니다.</item>
