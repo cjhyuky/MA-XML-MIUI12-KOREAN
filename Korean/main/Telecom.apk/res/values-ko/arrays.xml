@@ -114,7 +114,10 @@
         <item>720p, 1080p (듀얼 스크린)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>없음</item>
+        <item>Off</item>
+        <item>Logcat</item>
+        <item>시스템 추적(그래픽)</item>
+        <item>glGetError의 호출 스택</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Off</item>

@@ -65,28 +65,6 @@
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>시스템 선택 사용 (기본값)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>퀄컴® aptX ™ 오디오</item>
-        <item>퀄컴® aptX ™ HD 오디오</item>
-        <item>LDAC</item>
-        <item>퀄컴® aptX ™ Adaptive 오디오</item>
-        <item>옵션 코덱 활성화</item>
-        <item>옵션 코덱 비활성화</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>시스템 선택 사용 (기본값)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>퀄컴® aptX ™ 오디오</item>
-        <item>퀄컴® aptX ™ HD 오디오</item>
-        <item>LDAC</item>
-        <item>퀄컴® aptX ™ Adaptive 오디오</item>
-        <item>옵션 코덱 활성화</item>
-        <item>옵션 코덱 비활성화</item>
-    </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
     <item />
         <item>, 켜짐</item>

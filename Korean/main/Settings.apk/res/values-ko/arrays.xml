@@ -1090,6 +1090,9 @@
         <item>사전 공유 키 및 Xauth 인증을 가진 IPSec VPN</item>
         <item>인증서 및 Xauth 인증을 가진 IPSec VPN</item>
         <item>인증서 및 하이브리드 인증을 가진 IPSec VPN</item>
+        <item>인증서 및 로그인 인증을 가진 IKEv2/IPSec VPN</item>
+        <item>사전 공유 키를 사용하는 KEv2/IPSec VPN</item>
+        <item>인증서가 있는 IKEv2/IPSec VPN</item>
     </string-array>
     <string-array name="wfd_status">
         <item>세션 시작 중…</item>
@@ -1145,11 +1148,6 @@
         <item>누름 버튼</item>
         <item>피어 기기 PIN</item>
         <item>이 기기의 PIN</item>
-    </string-array>
-    <string-array name="wifi_peap_phase2_entries">
-        <item>없음</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
         <item>없음</item>
