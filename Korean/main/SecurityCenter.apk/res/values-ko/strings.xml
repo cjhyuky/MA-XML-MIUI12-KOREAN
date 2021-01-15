@@ -877,7 +877,7 @@
     <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하면 한도를 낮게 설정하세요.</string>
     <string name="deep_clean_disconnect_data_title">기기가 잠겼을때 모바일 데이터 끄기</string>
     <string name="deep_clean_memory_clean_title">기기가 잠겼을 때 캐시 지우기</string>
-    <string name="deep_clean_never_memory_clean">하지 않음</string>
+    <string name="deep_clean_never_memory_clean">안 함</string>
     <string name="deep_power_save_item_summary_auto_brightness">배터리를 절약하려면 화면 밝기를 자동으로 변경하세요.</string>
     <string name="deep_power_save_item_summary_bluetooth">블루투스를 꺼서 배터리를 절약하세요.</string>
     <string name="deep_power_save_item_summary_lock_screen_time">배터리를 절약하기 위해 30초간 사용하지 않으면 화면이 꺼집니다.</string>
@@ -1586,7 +1586,7 @@
     <string name="handle_title_pay_env">결제 환경</string>
     <string name="handle_title_privacy">개인정보 보호 &amp; 보안</string>
     <string name="handle_title_system">시스템 배터리 사용량</string>
-    <string name="hide_mode_app_background_setting_text">앱 배터리 절약</string>
+    <string name="hide_mode_app_background_setting_text">앱 절전 모드</string>
     <string name="hide_mode_result_summary_text">개별앱의 절전 모드 사용자 맞춤 설정</string>
     <string name="hide_mode_summary_text">앱의 백그라운드 활동을 관리하여 배터리를 절약합니다.</string>
     <string name="hide_system_app">시스템 앱 숨기기</string>
@@ -2415,7 +2415,7 @@ SMS 전송"</string>
     <string name="power_save_summary_text">절전 모드를 켜서 앱의 백그라운드 활동을 줄입니다. 동기화를 중지하고 시스템 애니메이션을 최소화합니다.</string>
     <string name="power_save_title_text">절전 모드</string>
     <string name="power_screen">화면</string>
-    <string name="power_setting_background_app_save_summary">앱에 영향 없이 백그라운드 앱 제한</string>
+    <string name="power_setting_background_app_save_summary">앱의 기능에 영향 없이 백그라운드 활동을 제한합니다.</string>
     <string name="power_setting_background_app_save_title">백그라운드 절전</string>
     <string name="power_setting_category_other">추가 설정</string>
     <string name="power_setting_config_scenario_policies_title">시나리오</string>
@@ -2636,7 +2636,7 @@ SMS 전송"</string>
     <string name="privacy_show_password_summary">잠시 동안 비밀번호 표시</string>
     <string name="privacy_special_permission_summary">앱의 민감한 권한 사용 감시</string>
     <string name="privacy_special_permission_title">특별 권한</string>
-    <string name="privacy_summary">MIUI 12의 개인정보 보호 더 알아보기</string>
+    <string name="privacy_summary">MIUI의 개인정보 보호 더 알아보기</string>
     <string name="privacy_type_open">켬</string>
     <string name="privacy_using_camera">카메라 사용</string>
     <string name="privacy_using_location">위치 정보 접근</string>
@@ -4158,7 +4158,7 @@ SMS 전송"</string>
     <string name="power_center_battery_level_general">보통</string>
     <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
     <string name="power_center_battery_software">소프트웨어 %s</string>
-    <string name="power_center_battery_status">배터리 사용량</string>
+    <string name="power_center_battery_status">배터리 사용</string>
     <string name="power_center_battery_temperature">온도</string>
     <string name="power_center_battery_used_time">배터리</string>
     <string name="power_center_batteryrank_all">모든 배터리 사용</string>
@@ -4166,7 +4166,7 @@ SMS 전송"</string>
     <string name="power_center_batteryrank_software">소프트웨어 배터리 사용 %s</string>
     <string name="power_center_batteryscan_normal">"배터리 사용 문제 없음 / 결과 보기"</string>
     <string name="power_center_charge_status">충전 중</string>
-    <string name="power_center_consume_fast">배터리 사용 중</string>
+    <string name="power_center_consume_fast">배터리 과소모</string>
     <string name="power_center_list_item_haptic_feedback_summary">"제스처 및 시스템 제어에 햅틱 피드백이 발생하지 않습니다."</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">기기를 빨리 잠그고 배터리를 절약합니다.</string>
     <string name="power_center_list_item_wake_notification_summary">수신한 알림이 화면을 켰을 때만 표시됩니다.</string>
@@ -4369,4 +4369,12 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="toast_apply_font_fail">"글꼴을 설정할 수 없음"</string>
     <string name="miheadset_ignore">페어링 해제</string>
     <string name="power_usage_summary_title_new">배터리</string>
+    <string name="ad_floating_window_title">잠금 해제하려면 플로팅 창을 닫으세요.</string>
+    <string name="dlg_onlie_service_summary">온라인 서비스를 끄면 앱의 일부 기능을 사용할 수 없습니다. 그래도 끄시겠습니까?</string>
+    <string name="dlg_open_online_service_pos_text">켜기</string>
+    <string name="dlg_open_online_service_summary">"온라인 서비스가 꺼져 있으면 일부 기능을 사용할 수 없습니다. 온라인 서비스를 켜시겠습니까?"</string>
+    <string name="dlg_open_online_service_title">온라인 서비스</string>
+    <string name="in_delete">삭제 중…</string>
+    <string name="in_recover">복구 중…</string>
+    <string name="setting_online_service">온라인 서비스</string>
 </resources>

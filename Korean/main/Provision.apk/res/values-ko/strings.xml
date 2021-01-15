@@ -7,7 +7,7 @@
     <string name="locale_picker_other_locale_title">기타 지역</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">개인정보 보호정책</string>
     <string name="service_name_fast_pairing">Mi 링크</string>
-    <string name="skip_gesture_guide_dialog_message">전체 화면 제스처 사용 방법을 충분히 숙지하셨나요?</string>
+    <string name="skip_gesture_guide_dialog_message">전체 화면 제스처 사용 방법을 이해하셨나요?</string>
     <string name="skip_gesture_guide_dialog_negative_btn">취소</string>
     <string name="skip_gesture_guide_dialog_positive_btn">확인</string>
     <string name="skip_gesture_guide_dialog_title">전체 화면 제스처</string>
@@ -41,9 +41,9 @@
     <string name="other_settings_location">위치</string>
     <string name="other_settings_location_summary">앱이 위치 정보를 불러오도록 허용합니다.</string>
     <string name="other_settings_user_experience">사용자 체험 프로그램</string>
-    <string name="other_settings_user_experience_summary">익명의 사용량 데이터를 보내서 제품 및 서비스 개선을 도와주세요.</string>
-    <string name="other_settings_upload_debug_log_title">자동으로 데이터 진단 전송</string>
-    <string name="other_settings_upload_debug_log_summary">수집된 정보는 시스템의 문제를 분석하고 특정하는데 사용되고 개인정보를 포함하고 있을 수 있습니다. 개인을 특정하는데에 사용되지 않습니다.</string>
+    <string name="other_settings_user_experience_summary">익명의 사용 통계 데이터를 전송하여 제품 및 서비스 개선을 돕습니다.</string>
+    <string name="other_settings_upload_debug_log_title">자동으로 진단 데이터 전송</string>
+    <string name="other_settings_upload_debug_log_summary">문제 분석 및 해결에 이용되는 데이터에는 사용자의 개인정보가 포함될 수도 있습니다.</string>
     <string name="other_settings_auto_update">자동으로 설치</string>
     <string name="other_settings_auto_update_summary">MIUI가 가장 적합한 시간을 판단하여 업데이트합니다.</string>
     <string name="back">뒤로</string>
@@ -112,7 +112,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="system_navigation_mode">시스템 탐색 모드</string>
     <string name="sim_card_detecting_confirm_turn_on_network">모바일 데이터 네트워크에 연결하는 것을 허용하시겠습니까? 허용하면 삽입되어있는 SIM 카드를 이용하여 모바일 네트워크에 접속합니다.</string>
     <string name="other_settings_ad_enable">맞춤형 광고</string>
-    <string name="other_settings_ad_enable_summary">관심사에 맞춰 광고를 설정합니다.</string>
+    <string name="other_settings_ad_enable_summary">관심사에 맞춘 광고를 표시합니다.</string>
     <string name="other_settings_user_experience_summary_index"></string>
     <string name="sim_card_detection_mobile_not_available">"SIM 카드 네트워크 접속 실패"</string>
     <string name="sim_scard_detecting_check_mobile_not_available">"귀하의 SIM 카드로 네트워크에 접속할 수 없습니다. 확인하시고 다시 연결하세요."</string>
@@ -162,7 +162,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="application_package_introduction">이 앱은 타사 앱을 설치 설치 설치, 설치하기 전에 그들을 스캔하고, 그 후 권장 사항을 제공 할 수 있습니다.</string>
     <string name="calculator_introduction">이 앱을 사용하여 계산, 단위 및 통화 변환 및 모기지 상환 추정에 사용할 수 있습니다.</string>
     <string name="camera_introduction">카메라를 사용하여 사진을 찍고 동영상을 촬영할 수 있습니다.</string>
-    <string name="carrier_introduction">더 나은 서비스를 제공하기 위해 기기는 기기 버전 정보, 기기 식별 데이터 (IMEI/IMSI/MSISDN/MAC 주소, MEID/ICCID 포함) 및 대략적인 위치 정보 (기지국 ID 포함)를 정기적으로 보낼 수 있습니다. Wi-Fi, 모바일 데이터 네트워크 또는 무료 SMS를 통한 이동통신사. 운송 업체는 서비스 품질을 개선하거나 맞춤형 서비스 또는 기술을 제공하기 위해서만 관련 정보를 분석 할 것을 약속하며, 귀하를 개인적으로 식별하는 형태로 관련 정보를 제 3 자에게 공개하지 않습니다. 특정 운송 업체 명세서가 우선합니다. 이 서비스 사용 비용에 대해서는 이동통신사에 문의하세요.</string>
+    <string name="carrier_introduction">더 나은 서비스를 제공하기 위해 기기는 기기 버전 정보, 기기 식별 데이터 (IMEI/IMSI/MSISDN/MAC 주소, MEID/ICCID 포함) 및 대략적인 위치 정보 (기지국 ID 포함)를 정기적으로 보낼 수 있습니다. Wi-Fi, 모바일 데이터 네트워크 또는 무료 SMS를 통한 이동통신사. 운송 업체는 서비스 품질을 개선하거나 맞춤형 서비스 또는 기술을 제공하기 위해서만 관련 정보를 분석할 것을 약속하며, 귀하를 개인적으로 식별하는 형태로 관련 정보를 제3자에게 공개하지 않습니다. 특정 운송 업체 명세서가 우선합니다. 이 서비스 사용 비용에 대해서는 이동통신사에 문의하세요.</string>
     <string name="clock_introduction">이 앱을 사용하면 시간을 볼 수 있을 뿐만 아니라 타이머, 세계 시계, 스톱워치, 알람 설정 등을 사용할 수 있습니다.</string>
     <string name="close_location_service_setting">보안&gt; 설정&gt; 추가 설정&gt; 개인정보에서 위치 액세스 끄기를 선택하거나 개별 앱에 대한 권한을 제한할 수 있습니다.</string>
     <string name="compass_introduction">내비게이션, 대기압 및 고도를 볼 뿐만 아니라 내비게이션으로도 이 앱을 사용할 수 있습니다.</string>

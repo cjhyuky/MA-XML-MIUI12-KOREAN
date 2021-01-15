@@ -99,7 +99,7 @@
     <string name="wifi_unsaved_network_linking_summary">SSID 및 BSSID 부분 일치에서 현재 연결된 WPA/WPA2-PSK 2GHz SSID 자격 증명을 사용하여 새 WPA/WPA2-PSK 5GHz SSID에 대한 자동 연결 시도 활성화</string>
     <string name="wifi_whitelist_roaming">SSID 브리징-빠른 핸드 오버</string>
     <string name="wifi_whitelist_roaming_summary">동일한 MAC 주소를 사용하여 다른 SSID WPA/WPA2-PSK AP간 로밍 사용</string>
-    <string name="audio_relay_default_device_name">샤오AI 스피커</string>
+    <string name="audio_relay_default_device_name">XiaoAI 스피커</string>
     <string name="mi_audio_relay_cancel">확인</string>
     <string name="mi_audio_relay_connect_failed">실패</string>
     <string name="mi_audio_relay_localphone">전화</string>
@@ -108,4 +108,15 @@
     <string name="media_transfer_wired_usb_device_name">무선 헤드폰</string>
     <string name="power_remaining_duration_only_shutdown_imminent">기기가 곧 종료됩니다.</string>
     <string name="power_remaining_duration_shutdown_imminent">기기가 곧 종료됩니다. (%1$s)</string>
+    <string name="fast_connect_anti_lost_content">"헤드셋 분실 방지 알림이 추가되었습니다.
+설정에서 확인해보세요."</string>
+    <string name="fast_connect_new_feture_anti_lost">분실 방지</string>
+    <string name="fast_connect_new_feture_same_account">같은 계정으로 페어링 생략</string>
+    <string name="fast_connect_new_feture_sound_normalizer">소리 평준화</string>
+    <string name="fast_connect_new_feture_title">새로운 기능</string>
+    <string name="fast_connect_same_account_content">Xiaomi 계정에 로그인하면, 헤드셋이 자동으로 Xiaomi 클라우드 서비스에 저장됩니다. 이 계정으로 로그인한 다른 기기에서는 헤드셋에 페어링하는 과정을 생략하고 바로 연결할 수 있습니다.</string>
+    <string name="fast_connect_same_accout_devices_connecting">Xiaomi 클라우드 서비스에 연결 중...</string>
+    <string name="fast_connect_same_accout_devices_title">연결된 다른 기기: %1$s</string>
+    <string name="fast_connect_sound_normalizer_content">"HD 음성 통화
+고대역폭 전송 프로토콜"</string>
 </resources>

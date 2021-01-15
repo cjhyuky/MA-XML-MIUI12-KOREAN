@@ -558,7 +558,7 @@
     <string name="system_app_restore_completed">복원 완료</string>
     <string name="system_app_restore_completed_detail">모든 시스템 항목을 복원했습니다.</string>
     <string name="system_app_restore_failed">오류가 발생했습니다.</string>
-    <string name="system_app_restore_failed_detail">"시스템 항목을 복원할 수 없습니다. 네트워크 설정을 확인하고 항목이 완전히 복원될 때까지 기기를 재부팅하거나 전원을 끄지 마십시오. 다시 시도하려면 아래 버튼을 탭하세요."</string>
+    <string name="system_app_restore_failed_detail">"시스템 항목을 복원할 수 없습니다. 네트워크 설정을 확인하고 항목이 완전히 복원될 때까지 기기를 다시 시작하거나 전원을 끄지 마세요. 다시 시도하려면 아래 버튼을 탭하세요."</string>
     <string name="system_restore">항목 복원</string>
     <string name="task_backup_cancel_progress">취소 중…</string>
     <string name="task_canceled_all_local">취소됨</string>

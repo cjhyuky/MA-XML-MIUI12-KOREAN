@@ -203,4 +203,6 @@
     <string name="save_pdf">저장</string>
     <string name="saving_pdf">저장 중…</string>
     <string name="ai_ppt_to_pdf_view_all">전체 보기</string>
+    <string name="detail_download_path">"위치: "</string>
+    <string name="detail_download_time">"다운로드됨: "</string>
 </resources>

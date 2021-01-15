@@ -229,7 +229,7 @@
     <string name="sound_transmission_stop">일시중지</string>
     <string name="sound_transmission_title">무선 마이크</string>
     <string name="transmission_volume_option_title">마이크 볼륨</string>
-    <string name="sound_transmission_function_generalize">휴대전화의 소리를 블루투스 기기에서 재생할 수 있습니다.</string>
+    <string name="sound_transmission_function_generalize">휴대전화 마이크의 소리를 외부 블루투스 기기에서 재생할 수 있습니다.</string>
     <string name="music_headset_effect_harman_kardon">하만 카돈</string>
     <string name="music_headset_effect_harman_kardon_summary">인증 프로 오디오</string>
 </resources>

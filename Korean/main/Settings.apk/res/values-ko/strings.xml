@@ -1596,7 +1596,7 @@
     <string name="cached_apps_freezer_device_default">기기 기본값</string>
     <string name="cached_apps_freezer_disabled">사용 안 함</string>
     <string name="cached_apps_freezer_enabled">사용</string>
-    <string name="cached_apps_freezer_reboot_dialog_text">이 변경사항을 적용하려면 기기를 재부팅해야 합니다. 지금 재부팅하거나 취소하세요.</string>
+    <string name="cached_apps_freezer_reboot_dialog_text">이 변경사항을 적용하려면 기기를 다시 시작해야 합니다. 지금 다시 시작하거나 취소하세요.</string>
     <string name="calendar_remind">이벤트</string>
     <string name="calendar_sound_dialog_title">캘린더 소리 선택</string>
     <string name="calendar_sound_title">캘린더 소리</string>
@@ -2889,7 +2889,7 @@
     <string name="enable_adb_wireless_summary">Wi-Fi 연결 시 디버그 모드</string>
     <string name="enable_atrace">atrace 켜기</string>
     <string name="enable_atrace_summary">atrace 사용하며 발생한 커널 이벤트 캡처</string>
-    <string name="enable_blurs_on_windows_summary">합성기 수준에서 창 흐림을 활성화합니다. 기기 재부팅이 필요합니다.</string>
+    <string name="enable_blurs_on_windows_summary">합성기 수준에서 창 흐림을 활성화합니다. 기기를 다시 시작해야 합니다.</string>
     <string name="enable_blurs_on_windows_title">흐림 효과 사용</string>
     <string name="enable_compatibility">앱 확장</string>
     <string name="enable_crypt_keeper_encrypt">암호화 사용 가능</string>
@@ -6275,7 +6275,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="quick_settings_developer_tiles">빠른 설정</string>
     <string name="quick_settings_label">토글</string>
     <string name="quick_settings_media_player">미디어 재개</string>
-    <string name="quick_settings_media_player_summary">빠른 설정에서 미디어 플레이어를 표시하고 유지합니다. 재부팅이 필요합니다.</string>
+    <string name="quick_settings_media_player_summary">빠른 설정에서 미디어 플레이어를 표시하고 유지합니다. 기기를 다시 시작해야 합니다.</string>
     <string name="quick_settings_under_keyguard_summary">기기가 잠겨있을 때 빠른 설정 접근을 허용합니다.</string>
     <string name="quick_settings_under_keyguard_title">빠른 설정 접근</string>
     <string name="quiet">방해 금지 모드</string>
@@ -10383,4 +10383,5 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="magic_window_name">분할 화면</string>
     <string name="truetone_summary">주변의 빛에 따라 색상을 조정합니다.</string>
     <string name="truetone_title">적응형 색상</string>
+    <string name="miheadset_anc_indicate">헤드폰을 연결하고 착용하세요.</string>
 </resources>
