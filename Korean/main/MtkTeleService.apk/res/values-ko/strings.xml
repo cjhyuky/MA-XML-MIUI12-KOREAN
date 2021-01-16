@@ -1375,7 +1375,7 @@
     <string name="network_settings_title">모바일 네트워크</string>
     <string name="call_background_setting">백그라운드 대화</string>
     <string name="call_background_default">기본</string>
-    <string name="call_background_lock_wallpaper">잠금 화면 배경화면</string>
+    <string name="call_background_lock_wallpaper">잠금 화면 배경 화면</string>
     <string name="antispam_setting">차단 목록</string>
     <string name="call_advanced_setting_title">고급 설정</string>
     <string name="preference_data_usage_title">데이터 한도 설정</string>

@@ -2,7 +2,7 @@
 <resources>
     <string name="btn_restore_wait_china">Wi-Fi 대기 중</string>
     <string name="cloud_back_up_detail_discription_china">"이 항목은 기기가 Wi-Fi에 연결되면 Xiaomi 클라우드에 백업됩니다.
-* 앱, 홈 화면 구성 및 배경화면
+* 앱, 홈 화면 구성 및 배경 화면
 * 알람, 시계 및 시간 설정
 * 알림 설정
 * MIUI 및 시스템 설정
@@ -45,7 +45,7 @@
     <string name="cloud_back_up_subscribe_vip_discription">더 많은 저장공간 확보, 매일 백업, 더보기.</string>
     <string name="cloud_back_up_subscribe_vip_confirm">업그레이드</string>
     <string name="cloud_back_up_detail_discription">"기기가 Wi-Fi에 연결되어 있을 때 다음의 항목들이 Xiaomi 클라우드에 백업됩니다: 
-* 앱, 홈 화면 구성, 배경화면 
+* 앱, 홈 화면 구성, 배경 화면 
 * 알람, 시계, 시간 설정 
 * 알림 설정 
 * MIUI와 시스템 설정 

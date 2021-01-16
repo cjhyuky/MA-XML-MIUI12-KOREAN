@@ -499,4 +499,8 @@
     <string name="note_invalid_mindnote_hint">&quot;이 버전에서는 마인드맵을 사용할 수 없습니다. 이 기능을 사용하도록 앱을 업데이트하십시오.&quot;</string>
     <string name="note_mindnote_entrance_hint">&quot;입력&quot;</string>
     <string name="note_mindnote_entrance_icon_text">마인드맵 만들기</string>
+    <string name="blackboard_note">스마트 칠판</string>
+    <string name="default_update_documents">업데이트가 가능합니다. 진행하시겠습니까?</string>
+    <string name="note_mindnote_entrance_hint_newversion">"입력 시작 "</string>
+    <string name="note_mindnote_entrance_icon_text_newversion">마인드맵 만들기</string>
 </resources>

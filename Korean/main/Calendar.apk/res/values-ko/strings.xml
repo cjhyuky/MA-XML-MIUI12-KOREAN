@@ -553,7 +553,7 @@
     <string name="event_info_from">발신인</string>
     <string name="guide_card_hint_text">연락처에서 생일 가져오기</string>
     <string name="jump_date_full">날짜로 이동</string>
-    <string name="set_as_wallpaper">배경화면으로 설정</string>
+    <string name="set_as_wallpaper">배경 화면으로 설정</string>
     <string name="today_train_event">기차</string>
     <string name="travel_event_add_unsuccessfully">일정을 만들지 못했습니다.</string>
     <string name="travel_event_added">일정 만들어짐</string>

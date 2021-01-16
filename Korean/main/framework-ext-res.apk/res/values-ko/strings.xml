@@ -333,4 +333,9 @@
     <string name="bottom_bar_smallwindow_text">놓아서 추가</string>
     <string name="freeform_exchange_tip">놓아서 앱 실행</string>
     <string name="freeform_exchange_tip2">모서리로 드래그해 취소</string>
-</resources>
+    <string name="dock_tip_floatwindow">분할 화면으로 보려면 바를 누른 상태에서 화면의 모서리로 드래그하세요.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">두 앱의 창 위치를 서로 바꾸려면 바를 가로로 드래그하세요.</string>
+    <string name="dock_tip_splitscreen_landscape_float">플로팅 창으로 전환하려면 바를 누른 상태에서 아래로 드래그하세요.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">두 앱의 창 위치를 서로 바꾸려면 세로로 드래그하세요.</string>
+    <string name="dock_tip_splitscreen_portrait_float">플로팅 창으로 전환하려면 바를 누른 상태에서 왼쪽이나 오른쪽으로 드래그하세요.</string>
+    <string name="miui_multiwindow_not_support_split">%1$s은(는) 분할 화면을 지원하지 않습니다.</string></resources>

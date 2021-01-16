@@ -1791,7 +1791,7 @@
     <string name="click_soft_ap_to_link">연결할 핫스팟을 선택하세요.</string>
     <string name="click_to_view">탭하여 보기</string>
     <string name="close_aod">이 기능은 \"항상 켜기 모드\"와 함께 사용할 수 없습니다. \"항상 켜기 모드\"를 먼저 끄세요.</string>
-    <string name="close_app">현재앱 닫기</string>
+    <string name="close_app">현재 앱 닫기</string>
     <string name="close_demo_mode">취소</string>
     <string name="close_dialog">확인</string>
     <string name="close_fod">화면이 꺼져있을 때 지문을 사용하여 기기를 잠금해제할 수 없습니다. 지문 잠금은 화면이 켜져있을 때만 작동합니다.</string>
@@ -2213,7 +2213,7 @@
     <string name="dark_ui_summary_on_auto_mode_never">자동으로 꺼지지 않음</string>
     <string name="dark_ui_text">어두운 테마는 검은 색 배경을 사용하여 일부 화면에서 배터리 사용 시간을 연장합니다. 어두운 테마 일정은 화면이 꺼질 때까지 켜질 때까지 기다립니다.</string>
     <string name="dark_ui_title">어두운 모드</string>
-    <string name="dark_wallpaper_mode">배경화면을 다크 모드로 조정</string>
+    <string name="dark_wallpaper_mode">배경 화면을 다크 모드로 조정</string>
     <string name="dashboard_suggestion_condition_footer_content_description">축소</string>
     <string name="dashboard_title">설정</string>
     <string name="data_detail_description">세부정보</string>
@@ -2649,8 +2649,8 @@
     <string name="display_cutout_emulation_keywords">노치</string>
     <string name="display_cutout_emulation_none">없음</string>
     <string name="display_dashboard_nowallpaper_summary">절전 모드, 글꼴 크기</string>
-    <string name="display_dashboard_summary">배경화면, 잠자기, 글꼴 크기</string>
-    <string name="display_dashboard_summary_with_style">스타일, 배경화면, 화면 자동 잠금 시간, 글꼴 크기</string>
+    <string name="display_dashboard_summary">배경 화면, 잠자기, 글꼴 크기</string>
+    <string name="display_dashboard_summary_with_style">스타일, 배경 화면, 화면 자동 잠금 시간, 글꼴 크기</string>
     <string name="display_font_size_label">글꼴 크기:</string>
     <string name="display_label">화면</string>
     <string name="display_order_text">정렬 기준:</string>
@@ -3780,7 +3780,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="inactive_app_active_summary">활성화 상태입니다. 탭하여 설정 변경.</string>
     <string name="inactive_app_inactive_summary">비활성화 상태입니다. 탭하여 설정 변경.</string>
     <string name="inactive_apps_title">비활성화 상태의 앱 관리</string>
-    <string name="incall_show">전화 발신시 프로필 영상 전송</string>
+    <string name="incall_show">전화를 걸 때 프로필 영상 전송</string>
     <string name="include_app_data_title">앱 데이터 포함</string>
     <string name="incoming_call_breathing_light_color_title">통화 표시등 색상</string>
     <string name="incoming_call_breathing_light_freq_title">통화 표시등 점등 빈도</string>
@@ -3931,8 +3931,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="key_gesture_function_dialog_message">%1$s 이 %2$s 바로가기로 설정되었습니다. %3$s는 대체됩니다.</string>
     <string name="key_gesture_function_dialog_negative">취소</string>
     <string name="key_gesture_function_dialog_positive">바꾸기</string>
-    <string name="key_gesture_function_optional">선택적 제스처와 버튼</string>
-    <string name="key_gesture_function_preview">제스처와 버튼설정 미리보기</string>
+    <string name="key_gesture_function_optional">선택적 제스처 및 버튼</string>
+    <string name="key_gesture_function_preview">제스처 및 버튼 설정 미리보기</string>
     <string name="key_gesture_function_shortcut">기능 바로가기</string>
     <string name="key_none">없음</string>
     <string name="key_operation_diagram">"동작 "</string>
@@ -4495,12 +4495,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="lockscreen_glogin_password_hint">비밀번호</string>
     <string name="lockscreen_glogin_submit_button">로그인</string>
     <string name="lockscreen_label">잠금 화면</string>
-    <string name="lockscreen_magazine">슬라이드형 배경화면</string>
+    <string name="lockscreen_magazine">슬라이드형 배경 화면</string>
     <string name="lockscreen_magazine_india">Mi 요금제</string>
     <string name="lockscreen_magazine_summary">매일 멋진 이미지와 흥미로운 이야기를 제공합니다.</string>
-    <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
+    <string name="lockscreen_magazine_title">슬라이드형 배경 화면</string>
     <string name="lockscreen_remote_input">기기가 잠긴 경우 알림을 받을 수 없습니다.</string>
-    <string name="lockscreen_settings_title">잠금 화면 사용자 설정</string>
+    <string name="lockscreen_settings_title">잠금 화면 맞춤 설정</string>
     <string name="lockscreen_settings_what_to_show_category">표시 내용</string>
     <string name="lockscreen_sidepanel_shortcuts_summary">잠금 화면 사이드 패널에 표시할 앱을 선택하세요.</string>
     <string name="lockscreen_sidepanel_shortcuts_title">사이드 패널 바로가기</string>
@@ -4516,9 +4516,9 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="long_press_buttom_key">화면잠금시 버튼 길게 누르기</string>
     <string name="long_press_home_key">홈 버튼 길게 누르기</string>
     <string name="long_press_menu_key">메뉴 버튼 길게 누르기</string>
-    <string name="long_press_menu_key_when_lock">화면잠금시 메뉴 버튼 길게 누르기</string>
+    <string name="long_press_menu_key_when_lock">화면 잠금 시 메뉴 버튼 길게 누르기</string>
     <string name="long_press_power_key">전원 버튼 길게 누르기</string>
-    <string name="long_press_power_key_half_of_second">Google 어시스턴트를 켜려면 전원 버튼을 0.5초 동안 길게 누르세요.</string>
+    <string name="long_press_power_key_half_of_second">전원 버튼 0.5초 눌러 Google 어시스턴트 실행</string>
     <string name="long_press_power_key_half_second">전원 버튼을 %s초 동안 길게 누르세요.</string>
     <string name="long_press_power_key_tips">전원 버튼을 길게 누르세요. 더 빠르고 편리합니다.</string>
     <string name="long_press_volume_down">길게 눌러 볼륨 줄이기</string>
@@ -5730,10 +5730,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="page_tab_title_support">지원</string>
     <string name="palm_enabled">화면을 닫아서 끄기</string>
     <string name="paper_color_title">색상</string>
-    <string name="paper_mode_auto_twilight_summary">일몰 후 자동으로 독서 모드 전환</string>
+    <string name="paper_mode_auto_twilight_summary">일몰 후 자동으로 독서 모드로 전환합니다.</string>
     <string name="paper_mode_auto_twilight_title">일출일몰 모드</string>
-    <string name="paper_mode_customize_time_summary">사용자지정 기간 동안 독서 모드 켜기</string>
-    <string name="paper_mode_customize_time_title">사용자지정 기간</string>
+    <string name="paper_mode_customize_time_summary">설정한 시간 동안 독서 모드를 켭니다.</string>
+    <string name="paper_mode_customize_time_title">시간 설정</string>
     <string name="paper_mode_end_time_title">끄기</string>
     <string name="paper_mode_get_location_dlg_msg">일몰과 일출 시간을 계산하려면 위치 권한이 필요합니다.</string>
     <string name="paper_mode_get_location_dlg_negative_btn_text">취소</string>
@@ -5742,7 +5742,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="paper_mode_reset">기본값 복원</string>
     <string name="paper_mode_side_effect_hint">강도가 높으면 내용 표시에 영향을 줄 수 있습니다.</string>
     <string name="paper_mode_start_time_title">켜기</string>
-    <string name="paper_mode_summary">눈의 피로를 줄이기 위해 따뜻한 색으로 전환하고 배경에 종이 질감을 추가</string>
+    <string name="paper_mode_summary">눈의 피로를 줄이기 위해 따뜻한 색으로 전환하고 배경에 종이 질감을 추가합니다.</string>
     <string name="paper_mode_title">용지</string>
     <string name="papger_effect_category">모드</string>
     <string name="partial_connectivity_text">제한된 연결로 인해 일부 앱과 서비스가 작동하지 않을 수 있습니다. 계속 사용하시겠습니까?</string>
@@ -6667,8 +6667,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="screen_paper_mode_off_apps_title">독서 모드 사용 안 함</string>
     <string name="screen_paper_mode_range_title">설정</string>
     <string name="screen_paper_mode_set_apps_title">독서 모드 앱</string>
-    <string name="screen_paper_mode_summary">디스플레이를 따뜻한 색감으로 바꾸어 사용자의 눈을 좀 더 편안하게 만듭니다.</string>
-    <string name="screen_paper_mode_time_summary">예약 시간 독서 모드 시작/종료</string>
+    <string name="screen_paper_mode_summary">디스플레이의 색감을 따뜻하게 바꾸어 사용자의 눈을 편안하게 합니다.</string>
+    <string name="screen_paper_mode_time_summary">예약한 시간에 독서 모드를 시작 및 종료합니다.</string>
     <string name="screen_paper_mode_time_title">예약</string>
     <string name="screen_paper_mode_title">독서 모드</string>
     <string name="screen_paper_mode_turn_off">꺼짐</string>
@@ -6979,7 +6979,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="search_vpn_settings_password">VPN 비밀번호;VPN 보호</string>
     <string name="search_vpn_settings_title">VPN;VPN 추가;VPN 켜기</string>
     <string name="search_wakeup_for_keyguard_notification_title">잠금 화면 깨우기 알림;화면 깨우기;기기 깨우기;휴대전화 깨우기</string>
-    <string name="search_wallpaper_settings_title">배경화면;홈 화면;잠금 화면</string>
+    <string name="search_wallpaper_settings_title">배경 화면;홈 화면;잠금 화면</string>
     <string name="search_wfd_settings_title">무선 디스플레이;무선 디스플레이 켜기</string>
     <string name="search_wifi_advanced_ip_address_title">IP 주소;IP</string>
     <string name="search_wifi_advanced_mac_address_title">Wi-Fi MAC 주소;WLAN MAC 주소</string>
@@ -7529,7 +7529,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
 이러한 권한을 부여하거나 개인정보를 공유 및 업로드하는 데 동의하지 않으면 이 앱을 사용할 수 없습니다. 이러한 경우 긴급 SOS를 끄거나 사용하지 않도록 선택할 수 있습니다.
 서비스를 사용하기 전에 %s을 숙지하고 이에 동의해야 합니다. "</string>
     <string name="sos_privacy_dialog_title">이용 약관</string>
-    <string name="sound_assist_summary">사운드 설정 사용자 정의</string>
+    <string name="sound_assist_summary">사운드를 맞춤 설정하세요.</string>
     <string name="sound_assist_title">사운드 어시스턴트</string>
     <string name="sound_category_call_ringtone_vibrate_title">벨소리 &amp; 진동</string>
     <string name="sound_category_sound_title">일반</string>
@@ -7882,8 +7882,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="structure_face_unlock_not_same_person">"모든 단계를 직접 완료해야 합니다. 다른 사람과 장소를 바꾸지 마세요."</string>
     <string name="structure_face_unlock_tof_covered">"얼굴 데이터를 추가할 수 없습니다. 화면에서 더 멀리 이동하세요."</string>
     <string name="structure_manage_facerecoginition_text">3D 얼굴인식 데이터 관리</string>
-    <string name="style_and_wallpaper_settings_title">스타일 및 배경화면</string>
-    <string name="style_suggestion_summary">다른 스타일, 배경화면, 시계 등 사용해 보기</string>
+    <string name="style_and_wallpaper_settings_title">스타일 및 배경 화면</string>
+    <string name="style_suggestion_summary">다른 스타일, 배경 화면, 시계 등 사용해 보기</string>
     <string name="style_suggestion_title">Pixel 맞춤설정</string>
     <string name="sub_activate_failed">활성화 실패</string>
     <string name="sub_activate_not_supported">활성화 지원되지 않음</string>
@@ -8029,7 +8029,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="system_update_settings_list_item_title">시스템 업데이트</string>
     <string name="systemui_theme_dark">어두운</string>
     <string name="systemui_theme_light">가벼운</string>
-    <string name="systemui_theme_wallpaper">자동 (배경화면 기반)</string>
+    <string name="systemui_theme_wallpaper">자동 (배경 화면 기반)</string>
     <string name="take_call_on_title">전화 걸기</string>
     <string name="talkback_summary">시각 장애인을 위한 화면 읽기 도우미</string>
     <string name="talkback_title">토크백</string>
@@ -8135,7 +8135,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="tethering_settings_not_available">기본 공간에서 테더링 설정 변경</string>
     <string name="tethering_settings_summary">USB 테더링이나 모바일 핫스팟을 이용해 데이터 나눠쓰기</string>
     <string name="texture_adjust_temperature_title">색 온도</string>
-    <string name="the_way_of_wakeup_voice_assistant_summary">전체 화면 모드에서 음성 도우미를 사용하세요(가상 버튼 없음)</string>
+    <string name="the_way_of_wakeup_voice_assistant_summary">가상 버튼이 없는 전체 화면 모드에서 음성 도우미를 사용하세요.</string>
     <string name="theme_customization_accent_color_title">강조 색상</string>
     <string name="theme_customization_category">테마 설정</string>
     <string name="theme_customization_device_default">기기 기본값</string>
@@ -8829,7 +8829,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="user_add_user_item_summary">사용자는 자신의 앱과 콘텐츠를 보유합니다.</string>
     <string name="user_add_user_item_title">사용자</string>
     <string name="user_add_user_menu">사용자 추가</string>
-    <string name="user_add_user_message_long">추가 사용자를 만들면 이 기기를 다른 사람들과 공유할 수 있습니다. 각 사용자는 자신의 앱, 배경화면 등으로 설정할 수 있는 자기 자신의 공간이 있습니다. 사용자들은 또한 모든 사람에게 영향을 주는 Wi-Fi 같은 패드 설정을 조정할 수 있습니다.\n\n새 사용자를 만든 후에는 그 사람이 설정 프로세스를 진행해야 합니다.\n\n어떤 사용자든 모든 사용자를 대신하여 업데이트된 앱 권한을 수락할 수 있습니다.</string>
+    <string name="user_add_user_message_long">추가 사용자를 만들면 이 기기를 다른 사람들과 공유할 수 있습니다. 각 사용자는 자신의 앱, 배경 화면 등으로 설정할 수 있는 자기 자신의 공간이 있습니다. 사용자들은 또한 모든 사람에게 영향을 주는 Wi-Fi 같은 패드 설정을 조정할 수 있습니다.\n\n새 사용자를 만든 후에는 그 사람이 설정 프로세스를 진행해야 합니다.\n\n어떤 사용자든 모든 사용자를 대신하여 업데이트된 앱 권한을 수락할 수 있습니다.</string>
     <string name="user_add_user_message_short">추가된 새로운 사용자는 자신의 공간을 설정해야 합니다.\n\n모든 사용자는 다른 사용자들을 위하여 앱을 업데이트할 수 있습니다.</string>
     <string name="user_add_user_or_profile_menu">사용자 또는 프로필 추가</string>
     <string name="user_add_user_title">새 사용자를 추가하시겠습니까?</string>
@@ -9129,17 +9129,17 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="wake_suppression_title">작은 범위</string>
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
     <string name="wakeup_for_keyguard_notification_title">알림 수신 시 잠금 화면 켜기</string>
-    <string name="wallpaper_attributions">배경화면</string>
+    <string name="wallpaper_attributions">배경 화면</string>
     <string name="wallpaper_attributions_values">위성 이미지 제공업체:\n©2014 CNES / Astrium, DigitalGlobe, Bluesky</string>
     <string name="wallpaper_desktop">홈 화면</string>
-    <string name="wallpaper_live">라이브 배경화면</string>
+    <string name="wallpaper_live">라이브 배경 화면</string>
     <string name="wallpaper_lockscreen">잠금 화면</string>
-    <string name="wallpaper_settings_fragment_title">배경화면 선택</string>
+    <string name="wallpaper_settings_fragment_title">배경 화면 선택</string>
     <string name="wallpaper_settings_summary_custom">사용자 설정</string>
     <string name="wallpaper_settings_summary_default">기본값</string>
-    <string name="wallpaper_settings_title">배경화면</string>
+    <string name="wallpaper_settings_title">배경 화면</string>
     <string name="wallpaper_suggestion_summary">화면 커스터마이징</string>
-    <string name="wallpaper_suggestion_title">배경화면 변경</string>
+    <string name="wallpaper_suggestion_title">배경 화면 변경</string>
     <string name="wapi_all_sel_mode">모드 선택</string>
     <string name="wapi_auto_sel_cert">자동으로 선택</string>
     <string name="wapi_auto_sel_cert_fail">인증서를 자동으로 선택할 수 없습니다. 목록에서 리스트를 선택한 후에 네트워크에 연결하세요.</string>
@@ -10364,7 +10364,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="font_settings_summary_cn">글꼴 및 텍스트 크기</string>
     <string name="how_adjust_font_size">텍스트 크기는 어떻게 조정할 수 있습니까?</string>
     <string name="miheadset_local_ota">기기 OTA</string>
-    <string name="personalize_title">배경 화면 &amp; 사용자 설정</string>
+    <string name="personalize_title">배경 화면 &amp; 맞춤 설정</string>
     <string name="title_font_settings">글꼴 설정</string>
     <string name="toast_apply_font_fail">"글꼴을 설정할 수 없음"</string>
     <string name="resolution_sub_title">MIUI가 해상도를 전환하는 동안 백그라운드에서 실행중인 앱을 닫을 수 있음</string>
@@ -10384,4 +10384,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="truetone_summary">주변의 빛에 따라 색상을 조정합니다.</string>
     <string name="truetone_title">적응형 색상</string>
     <string name="miheadset_anc_indicate">헤드폰을 연결하고 착용하세요.</string>
+    <string name="launcher_icon_management">홈 화면 바로가기 관리</string>
+    <string name="switch_headset_anti_lost">이어폰 분실 경고</string>
+    <string name="switch_headset_anti_lost_summary">이어폰 중 하나가 귀 또는 충전 케이스에서 1분 이상 떨어져 있을 때마다 알림을 받습니다.</string>
+    <string name="switch_headset_anti_lost_title">이어폰 분실 경고</string>
+    <string name="wifi_enhanced_handover">향상된 핸드오버</string>
+    <string name="wifi_enhanced_handover_summary">같은 암호화 방식을 사용하는 AP 간에 빠르게 전환합니다.</string>
 </resources>

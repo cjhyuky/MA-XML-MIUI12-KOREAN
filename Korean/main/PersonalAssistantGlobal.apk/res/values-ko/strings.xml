@@ -192,7 +192,7 @@
     <string name="dialog_delete_delete">삭제</string>
     <string name="dialog_delete_desc">즐겨찾기에서 삭제하시겠습니까?</string>
     <string name="dialog_delete_title">즐겨찾기에서 삭제하기</string>
-    <string name="dialog_font_background">배경화면</string>
+    <string name="dialog_font_background">배경 화면</string>
     <string name="dialog_font_light">밝기</string>
     <string name="dialog_mark_like">중요 표시</string>
     <string name="dialog_report_cancel">취소</string>

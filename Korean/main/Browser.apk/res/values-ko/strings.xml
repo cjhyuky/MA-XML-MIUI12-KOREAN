@@ -239,7 +239,7 @@
     <string name="contextmenu_recognise_qr_code">QR 코드 스캔</string>
     <string name="contextmenu_savelink">링크 저장</string>
     <string name="contextmenu_send_mail">이메일 전송</string>
-    <string name="contextmenu_set_wallpaper">배경화면으로 설정</string>
+    <string name="contextmenu_set_wallpaper">배경 화면으로 설정</string>
     <string name="contextmenu_share_image">이미지 공유</string>
     <string name="contextmenu_sharelink">링크 공유</string>
     <string name="contextmenu_view_image">이미지 보기</string>
@@ -1080,7 +1080,7 @@
     <string name="pref_video_preload_value_always">항상</string>
     <string name="pref_video_preload_value_never">절대 금지</string>
     <string name="pref_volume_key_action">볼륨 버튼을 사용하여 스크롤</string>
-    <string name="progress_dialog_setting_wallpaper">배경화면 설정 중…</string>
+    <string name="progress_dialog_setting_wallpaper">배경 화면 설정 중…</string>
     <string name="pull_refresh_begin">아래로 당겨서 새로고침</string>
     <string name="pull_refresh_end">놓아서 새로고침</string>
     <string name="pull_refresh_refreshing">새로고침중</string>

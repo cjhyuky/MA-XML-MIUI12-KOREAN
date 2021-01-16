@@ -515,7 +515,7 @@
     <string name="dialog_delete_delete">삭제</string>
     <string name="dialog_delete_desc">즐겨찾기에서 삭제하시겠습니까?</string>
     <string name="dialog_delete_title">즐겨찾기에서 삭제하기</string>
-    <string name="dialog_font_background">배경화면</string>
+    <string name="dialog_font_background">배경 화면</string>
     <string name="dialog_font_light">밝기</string>
     <string name="dialog_mark_like">중요 표시</string>
     <string name="dialog_report_cancel">취소</string>
@@ -1751,8 +1751,8 @@
     <string name="cta_dialog_desc_storage">기기의 항목 보호</string>
     <string name="app_pa_setting_service_timetable_summary">탭하여 수업 예약</string>
     <string name="app_pa_setting_global_display">디스플레이</string>
-    <string name="app_pa_setting_global_display_blur_option">배경화면 흐림 처리</string>
-    <string name="app_pa_setting_global_display_blur_summary">배경화면 흐림 처리는 밀기 반응을 느리게 합니다.</string>
+    <string name="app_pa_setting_global_display_blur_option">배경 화면 흐림 처리</string>
+    <string name="app_pa_setting_global_display_blur_summary">배경 화면 흐림 처리는 밀기 반응을 느리게 합니다.</string>
     <string name="app_screen_time_auth">화면켜짐 시간</string>
     <string name="app_sports_all_club">클럽</string>
     <string name="app_sports_all_league">리그</string>

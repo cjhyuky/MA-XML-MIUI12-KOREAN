@@ -321,7 +321,7 @@
     <string name="usage_stats_no_limit">예외 앱</string>
     <string name="contact_description">홈 화면 바로가기를 탭하여 전화 걸기</string>
     <string name="contact_title">연락처 바로가기</string>
-    <string name="display_description">큰 아이콘, 큰 글자 크기로 혼란을 줄여드립니다.</string>
+    <string name="display_description">큰 아이콘, 큰 글자 크기로 시각적인 혼란을 줄이세요.</string>
     <string name="display_title">큰 글씨 모드</string>
     <string name="exit_easymode">라이트 모드 끄기</string>
     <string name="start_easymode">라이트 모드 켜기</string>
@@ -587,8 +587,8 @@
     <string name="common_ostrich">타조</string>
     <string name="crowned_hornbill">관코뿔새</string>
     <string name="dall_sheep">돌산양</string>
-    <string name="delete_first_to_add_animal">항목을 추가하려면 먼저 하나를 삭제하세요.</string>
-    <string name="dynamic_ringtone_desc">"다양한 생태계를 탐험하고 여러 생물들의 독특한 소리를 재현했습니다. 저희와 함께 자연의 소리를 탐험하세요!"</string>
+    <string name="delete_first_to_add_animal">추가하려면 먼저 하나를 삭제하세요.</string>
+    <string name="dynamic_ringtone_desc">"다양한 생태계를 탐험하며 여러 생물들의 독특한 소리를 재현했습니다. 우리 함께 자연의 소리를 탐험해요!"</string>
     <string name="eastern_grey_kangaroo">회색캥거루</string>
     <string name="eastern_grey_kangaroo_info">캥거루는 크고 강력한 뒷다리와 도약을 위한 큰 발을 가지고 있습니다.</string>
     <string name="egyptian_goose">이집트기러기</string>
@@ -623,7 +623,7 @@
     <string name="jaguar">재규어</string>
     <string name="jaguar_info">재규어는 주로 먹이 사슬의 맨 위에 위치한 고독한 추적과 매복의 포식자입니다.</string>
     <string name="kinkajou">킨카주너구리</string>
-    <string name="kinkajou_info">킨카주너구리는 야행성 습관과 완전히 원시적인 꼬리로 알려져 있다.</string>
+    <string name="kinkajou_info">킨카주너구리는 야행성 습관과 완전히 원시적인 꼬리로 알려져 있습니다.</string>
     <string name="koala">코알라</string>
     <string name="laughing_kookaburra">웃음물총새</string>
     <string name="laughing_kookaburra_info">웃음물총새는 독특한 소리로 알려져 있고 뱀과 다른 파충류를 사냥하는데 능숙합니다.</string>
@@ -697,4 +697,6 @@
     <string name="white_bellied_sea_eagle">흰꼬리수리</string>
     <string name="willow_grouse">사할린뇌조</string>
     <string name="wombat">웜뱃</string>
+    <string name="search_nature_mix">네이처 믹스;동물</string>
+    <string name="search_notification_sound">알림음;개성;독특;네이처 믹스;동물</string>
 </resources>

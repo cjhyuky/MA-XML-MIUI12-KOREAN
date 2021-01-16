@@ -27,8 +27,7 @@
     <string name="app_name">제공</string>
     <string name="input_method_setting">키보드 선택</string>
     <string name="input_method_category">이메일, 메모, 그 밖의 것을 쓸 때 사용할 기본 키보드를 선택하세요. 나중에 타사의 다른 키보드를 설치할 수 있습니다.</string>
-    <string name="provision_inputmethod_policy_description">"
-선택한 키보드의 개인정보 보호정책 보기"</string>
+    <string name="provision_inputmethod_policy_description"><Data>선택한 키보드의 &lt;a href=%1$s>개인정보 보호정책&lt;/a >을 확인하세요.</Data></string>
     <string name="provision_inputmethod_policy_description1">개인정보 보호정책</string>
     <string name="multisim_settings_title">2개의 SIM 카드 발견됨</string>
     <string name="multisim_settings_category">SIM 카드 설정</string>
@@ -279,12 +278,12 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="home_settings_title">기본 홈 화면 선택</string>
     <string name="wc_dialog_agree">동의</string>
     <string name="wc_dialog_reject">"동의 안 함"</string>
-    <string name="wc_dialog_summary">슬라이드형 배경화면을 통해 날마다 멋진 이미지와 흥미로운 이야기를 잠금 화면에서 만나보세요.</string>
+    <string name="wc_dialog_summary">슬라이드형 배경 화면을 통해 날마다 멋진 이미지와 흥미로운 이야기를 잠금 화면에서 만나보세요.</string>
     <string name="wc_dialog_title">잠금 화면의 변신</string>
     <string name="wc_double_check_agree">한 번 써볼게요.</string>
     <string name="wc_double_check_reject">괜찮아요.</string>
-    <string name="wc_double_check_summary">슬라이드형 배경화면이 취향에 맞는지 한 번 사용해볼 수 있습니다. 슬라이드형 잠금화면은 설정 > 잠금 화면에서 언제든지 켜거나 끌 수 있습니다.</string>
-    <string name="wc_double_check_title">슬라이드형 배경화면 써보기</string>
+    <string name="wc_double_check_summary">슬라이드형 배경 화면이 취향에 맞는지 한 번 사용해볼 수 있습니다. 슬라이드형 잠금화면은 설정 > 잠금 화면에서 언제든지 켜거나 끌 수 있습니다.</string>
+    <string name="wc_double_check_title">슬라이드형 배경 화면 써보기</string>
     <string name="wc_notice_link_agreement_index">이용 약관</string>
     <string name="wc_notice_link_privacy_index">개인정보 보호정책</string>
     <string name="wc_notice_link_summary">"이 기능을 사용하려면 타사 콘텐츠 공급자의 %1$s 및 %2$s을 숙지하고 이에 동의해야 합니다."</string>

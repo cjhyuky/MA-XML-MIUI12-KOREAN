@@ -1246,7 +1246,7 @@
     <string name="keyguard_left_remotecentral">캘린더</string>
     <string name="keyguard_left_smarthome">연락처</string>
     <string name="keyguard_left_torch">손전등</string>
-    <string name="keyguard_left_view_lock_wallpaper">슬라이드형 배경화면</string>
+    <string name="keyguard_left_view_lock_wallpaper">슬라이드형 배경 화면</string>
     <string name="keyguard_low_battery">충전기를 연결하세요.</string>
     <string name="keyguard_missing_sim_instructions">SIM 카드를 삽입하세요.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM 카드가 장착되어 있지 않거나 읽을 수 없습니다. SIM 카드를 삽입하세요.</string>
@@ -1397,7 +1397,7 @@ EEEE"</string>
     <string name="lock_screen_magazine_default_content">매일 달라지는 새로운 이미지</string>
     <string name="lock_screen_magazine_default_title">슬라이드형 바탕화면</string>
     <string name="lock_screen_magazine_global_button_text">더보기</string>
-    <string name="lock_screen_magazine_label">슬라이드형 배경화면 열기</string>
+    <string name="lock_screen_magazine_label">슬라이드형 배경 화면 열기</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">더보기</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">들어가기</string>
     <string name="lock_screen_no_sim_card_emergency_only">긴급 전화 전용</string>
@@ -2524,7 +2524,7 @@ EEEE"</string>
     <string name="user_add_user">사용자 추가</string>
     <string name="user_add_user_item_summary">사용자마다 별개의 앱과 콘텐츠를 소유합니다.</string>
     <string name="user_add_user_item_title">사용자</string>
-    <string name="user_add_user_message_long">"사용자를 추가해 이 기기를 다른 사람들과 공유할 수 있습니다. 사용자마다 고유한 공간을 보유하며, 앱 및 배경화면 등을 설정할 수 있습니다. 사용자는 다른 사용자들에게도 영향을 주는 Wi-Fi와 같은 기기 설정을 변경할 수 있습니다.
+    <string name="user_add_user_message_long">"사용자를 추가해 이 기기를 다른 사람들과 공유할 수 있습니다. 사용자마다 고유한 공간을 보유하며, 앱 및 배경 화면 등을 설정할 수 있습니다. 사용자는 다른 사용자들에게도 영향을 주는 Wi-Fi와 같은 기기 설정을 변경할 수 있습니다.
 
 새 사용자를 추가할 때, 그 사람이 본인의 공간을 설정해야 합니다.
 
@@ -2727,4 +2727,6 @@ EEEE"</string>
     <string name="input_lockscreen_password_hint_text">비밀번호 입력</string>
     <string name="input_lockscreen_pattern_hint_text">패턴 그리기</string>
     <string name="input_lockscreen_pin_hint_text">PIN 입력</string>
+    <string name="garbage_count">오래된 인스턴스 %1$s개가 있습니다.</string>
+    <string name="memory_leak">메모리 누수</string>
 </resources>

@@ -116,7 +116,7 @@
     <string name="chooseActivity">작업 선택</string>
     <string name="chooseUsbActivity">USB 기기에 대한 앱 선택</string>
     <string name="choose_account_label">계정 선택</string>
-    <string name="chooser_wallpaper">배경화면 변경</string>
+    <string name="chooser_wallpaper">배경 화면 변경</string>
     <string name="clearDefaultHintMsg">시스템 설정 &gt; 앱 &gt; 다운로드로 이동하여 기본 설정을 지웁니다.</string>
     <string name="common_name">일반 이름:</string>
     <string name="configure_input_methods">입력 방법 설정</string>
@@ -590,7 +590,7 @@
     <string name="permdesc_bindRemoteViews">권한을 가진 프로그램이 위젯 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindTextService">권한을 가진 프로그램이 텍스트 서비스(예: SpellCheckerService)에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindVpnService">권한을 가진 프로그램이 VPN 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
-    <string name="permdesc_bindWallpaper">권한을 가진 프로그램이 배경화면에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
+    <string name="permdesc_bindWallpaper">권한을 가진 프로그램이 배경 화면에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bluetooth">앱이 휴대전화의 블루투스 설정을 확인하고 연결된 기기에 연결하며 연결을 수락할 수 있도록 허용합니다.</string>
     <string name="permdesc_bluetoothAdmin">앱이 로컬 블루투스 휴대전화를 설정한 다음 원격 기기를 검색하여 연결할 수 있도록 허용합니다.</string>
     <string name="permdesc_brick">앱이 휴대전화를 영구적으로 사용 중지할 수 있게 허용합니다. 이 기능은 매우 위험합니다.</string>
@@ -703,8 +703,8 @@
     <string name="permdesc_setScreenCompatibility">앱이 다른 애플리케이션의 화면 호환성 모드를 제어할 수 있도록 허용합니다. 이 경우 악성 애플리케이션이 다른 애플리케이션의 동작을 멈추게 할 수 있습니다.</string>
     <string name="permdesc_setTime">앱이 휴대전화 시계의 시간을 변경할 수 있도록 허용합니다.</string>
     <string name="permdesc_setTimeZone">앱이 휴대전화의 표준시간대를 변경할 수 있도록 허용합니다.</string>
-    <string name="permdesc_setWallpaper">앱이 시스템 배경화면을 설정할 수 있도록 허용합니다.</string>
-    <string name="permdesc_setWallpaperHints">앱이 시스템 배경화면 크기 힌트를 설정할 수 있도록 허용합니다.</string>
+    <string name="permdesc_setWallpaper">앱이 시스템 배경 화면을 설정할 수 있도록 허용합니다.</string>
+    <string name="permdesc_setWallpaperHints">앱이 시스템 배경 화면 크기 힌트를 설정할 수 있도록 허용합니다.</string>
     <string name="permdesc_shutdown">작업 관리자를 종료 상태로 설정합니다. 전체 종료를 수행하지는 않습니다.</string>
     <string name="permdesc_signalPersistentProcesses">제공된 시그널을 모든 영구 프로세스로 전송하는 것을 앱이 요청할 수 있도록 허용합니다.</string>
     <string name="permdesc_startAnyActivity">권한 보호나 내보낸 상태에 관계없이 앱이 활동을 시작하도록 합니다.</string>
@@ -787,7 +787,7 @@
     <string name="permlab_bindRemoteViews">위젯 서비스와 연결</string>
     <string name="permlab_bindTextService">텍스트 서비스 연결</string>
     <string name="permlab_bindVpnService">VPN 서비스와 연결</string>
-    <string name="permlab_bindWallpaper">배경화면 연결</string>
+    <string name="permlab_bindWallpaper">배경 화면 연결</string>
     <string name="permlab_bluetooth">블루투스 기기와 연결</string>
     <string name="permlab_bluetoothAdmin">블루투스 설정에 액세스</string>
     <string name="permlab_brick">휴대전화를 영구적으로 사용 중지</string>
@@ -900,8 +900,8 @@
     <string name="permlab_setScreenCompatibility">화면 호환성 설정</string>
     <string name="permlab_setTime">시간 설정</string>
     <string name="permlab_setTimeZone">표준시간대 설정</string>
-    <string name="permlab_setWallpaper">배경화면 설정</string>
-    <string name="permlab_setWallpaperHints">배경화면 크기 조정</string>
+    <string name="permlab_setWallpaper">배경 화면 설정</string>
+    <string name="permlab_setWallpaperHints">배경 화면 크기 조정</string>
     <string name="permlab_shutdown">부분 종료</string>
     <string name="permlab_signalPersistentProcesses">앱에 Linux 시그널 보내기</string>
     <string name="permlab_startAnyActivity">원하는 활동 시작</string>
@@ -1200,7 +1200,7 @@
     <string name="vpn_title">VPN이 활성화됨</string>
     <string name="vpn_title_long">VPN이 %s에 의해 활성화됨</string>
     <string name="wait">대기</string>
-    <string name="wallpaper_binding_label">배경화면</string>
+    <string name="wallpaper_binding_label">배경 화면</string>
     <string name="wday1_date1_time1_wday2_date2_time2">%2$s %1$s %3$s ~ %5$s %4$s %6$s</string>
     <string name="wday1_date1_wday2_date2">%2$s %1$s ~ %5$s %4$s</string>
     <string name="wday_date">%3$s %2$s</string>

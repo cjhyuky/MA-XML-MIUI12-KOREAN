@@ -205,4 +205,5 @@
     <string name="ai_ppt_to_pdf_view_all">전체 보기</string>
     <string name="detail_download_path">"위치: "</string>
     <string name="detail_download_time">"다운로드됨: "</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>"&lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지했으며 이에 동의합니다."</Data></string>
 </resources>

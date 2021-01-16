@@ -1154,4 +1154,7 @@ Xiaomi 클라우드를 사용하기 전에 당사의 "&lt;u&gt;&lt;a href="app:/
     <string name="provision_skip_underline">건너뛰기</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">"MIUI의 시스템 앱이 사진, 메시지, 메모 등을 백업하려면 Xiaomi 클라우드를 필요로 합니다. Xiaomi 클라우드는 무료이며 바로 사용할 수 있습니다."</string>
     <string name="sync_dspt_entrance_provision_v2">모든 기기에서 사진, 메모 등을 동기화하세요. 아무 브라우저에서 %s을 통해 동기화한 항목에 접근할 수 있습니다.</string>
+    <string name="retain_data_high_quality_photo_waring_message">로그아웃하면 고품질 이미지가 갤러리에서 삭제됩니다. 그래도 원본 파일은 클라우드에 보관되어 있습니다. 로그아웃 전에 원본 파일을 다운로드할 수도 있습니다.</string>
+    <string name="retain_data_high_quality_photo_waring_title">"고품질 이미지 이용 불가"</string>
+    <string name="share_location_menu_create_shortcut">홈 화면 바로가기</string>
 </resources>

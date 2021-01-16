@@ -787,4 +787,10 @@ ID : %s
     <string name="passport_can_not_receive_verification_code">"인증번호를 받을 수 없나요?"</string>
     <string name="request_camera_permission_message">이 서비스는 다음 권한을 요구하며, 개인정보는 관련 법에 의거하여 엄격하게 보호됩니다: &lt;br>&lt;br>&lt;b> 카메라 접근: 아바타 설정을 위한 실시간 녹화 서비스를 제공합니다. &lt;/b>&lt;br>&lt;br> 위 권한 부여에 동의하지 않으면, 이 기능은 제대로 작동하지 않지만 앱의 기본 기능 이용에는 영향을 주지 않습니다. 동의를 철회하려면 시스템 설정에서 위 권한 부여를 해제하세요.</string>
     <string name="submit_dialog_not_show_again">"다시 보지 않기"</string>
+    <string name="close">닫기</string>
+    <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
+    <string name="miuix_appcompat_deselect_all">선택 해제</string>
+    <string name="miuix_appcompat_select_all">모두 선택</string>
+    <string name="miuix_appcompat_select_item">항목 선택</string>
+    <string name="send">보내기</string>
 </resources>

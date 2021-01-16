@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wallpapers">Android 라이브 배경화면</string>
+    <string name="wallpapers">Android 라이브 배경 화면</string>
     <string name="wallpaper_walkaround">투명</string>
     <string name="wallpaper_walkaround_author">Google</string>
     <string name="wallpaper_walkaround_desc">전화가 항상 시야에 들어오게 하여 사고를 당할 위험 없이 안전하게 돌아다니세요.</string>

@@ -119,4 +119,6 @@
     <string name="fast_connect_same_accout_devices_title">연결된 다른 기기: %1$s</string>
     <string name="fast_connect_sound_normalizer_content">"HD 음성 통화
 고대역폭 전송 프로토콜"</string>
+    <string name="headset_loss_notify_summary">이어폰 최소 한 짝이 충전 케이스에 없는 것 같습니다. 주위를 둘러보세요!</string>
+    <string name="headset_loss_notify_title">이어폰 분실 경고</string>
 </resources>
