@@ -207,7 +207,7 @@ Mi Mover는 인터넷에 연결하고 Wi-Fi 및 블루투스를 켜거나 끌 �
     <string name="not_support_data_content3">3. 보조 공간 데이터</string>
     <string name="not_support_data_content4">4. 듀얼 앱</string>
     <string name="not_support_data_link">"전송할 수 없는 항목"</string>
-    <string name="not_support_data_summary1">"테마, 배경 화면, 교통카드, 키 카드는 Mi Mover로 전송할 수 없습니다."</string>
+    <string name="not_support_data_summary1">"테마, 배경화면, 교통카드, 키 카드는 Mi Mover로 전송할 수 없습니다."</string>
     <string name="not_support_data_summary2">일부 앱은 앱 데이터 전송을 방지하기 위해 엄격한 보안 조치를 취합니다. 금융 앱이 이에 해당할 수 있습니다.</string>
     <string name="not_support_data_summary3">"시스템 제한으로 인해, 보조 공간 항목을 Mi Mover로 전송할 수 없습니다."</string>
     <string name="not_support_data_summary4">"듀얼 앱 및 데이터 또한 전송할 수 없습니다. 원본 앱은 전송이 가능합니다."</string>

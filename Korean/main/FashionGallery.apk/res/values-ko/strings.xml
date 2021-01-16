@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">슬라이드형 배경 화면</string>
+    <string name="app_name">슬라이드형 배경화면</string>
     <string name="apply">적용</string>
     <string name="at_least_one">최소 한 개 이상의 카테고리를 선택</string>
     <string name="auto_interval">자동</string>
@@ -8,11 +8,11 @@
     <string name="cancel_international">취소</string>
     <string name="cancel_lockscreen">취소</string>
     <string name="carousel_declaration_des">아름 다운 장소를 참조 하 고 벽지 회전 목마와 놀라움 흥분 얻을</string>
-    <string name="carousel_declaration_title">화려한 배경 화면 등록</string>
+    <string name="carousel_declaration_title">화려한 배경화면 등록</string>
     <string name="carousel_suggest">주의</string>
-    <string name="carousel_suggest1">무료로 매일을 사용자의 자물쇠 스크린에 (게) 똑바로 배달 새로운 배경 화면을 얻을.</string>
+    <string name="carousel_suggest1">무료로 매일을 사용자의 자물쇠 스크린에 (게) 똑바로 배달 새로운 배경화면을 얻을.</string>
     <string name="carousel_suggest2">바탕 화면 회전 목마 인가?</string>
-    <string name="change_time">배경 화면 전환</string>
+    <string name="change_time">배경화면 전환</string>
     <string name="confirm">확인</string>
     <string name="current_connection_invalid">기기는 네트워크에 연결될 때까지 기다립니다.</string>
     <string name="current_data_invalid">오류가 발생 했습니다.</string>
@@ -20,8 +20,8 @@
     <string name="current_no_more_pictures">아니 더 많은 사진</string>
     <string name="current_permission_network_denied">액세스 네트워크에 벽지 회전 목마를 허용</string>
     <string name="day">하루에 한 번</string>
-    <string name="declaration">무료로 매일 새로운 배경 화면을 잠금 화면으로 배달해드립니다.</string>
-    <string name="declaration_lockscreen_title">슬라이드형 배경 화면</string>
+    <string name="declaration">무료로 매일 새로운 배경화면을 잠금 화면으로 배달해드립니다.</string>
+    <string name="declaration_lockscreen_title">슬라이드형 배경화면</string>
     <string name="declaration_title">이용 약관</string>
     <string name="dislike">삭제</string>
     <string name="from_migallerylockscreen">MIUI 벽지 회전 목마에서</string>
@@ -35,7 +35,7 @@
     <string name="lockscreen_h5_refresh_tip">네트워크 설정을 확인 하 고 다시 시도하세요.</string>
     <string name="lockscreen_magazine_summary">카테고리</string>
     <string name="lockscreen_magazine_system_title">오프라인</string>
-    <string name="lockscreen_magazine_title">슬라이드형 배경 화면</string>
+    <string name="lockscreen_magazine_title">슬라이드형 배경화면</string>
     <string name="lockscreen_wallpaper_changed">자물쇠 스크린 벽지 업데이트</string>
     <string name="minutes_15">15분</string>
     <string name="no_long_show">다시 보지 않기</string>
@@ -60,16 +60,16 @@
     <string name="sst_favor_title">즐겨찾기</string>
     <string name="sst_grid_view_select_all">전체 선택</string>
     <string name="sst_grid_view_unselect_all">전체 선택 해제</string>
-    <string name="sst_no_favor_wallpaper_hint">즐겨 사용하는 배경 화면 없음</string>
-    <string name="sst_prov_enable_desc">정기적으로 새로운 배경 화면을 얻어 잠금 화면으로 배달합니다.</string>
-    <string name="sst_prov_enable_title">슬라이드형 배경 화면 켜기</string>
+    <string name="sst_no_favor_wallpaper_hint">즐겨 사용하는 배경화면 없음</string>
+    <string name="sst_prov_enable_desc">정기적으로 새로운 배경화면을 얻어 잠금 화면으로 배달합니다.</string>
+    <string name="sst_prov_enable_title">슬라이드형 배경화면 켜기</string>
     <string name="sst_require_one_category_hint">적어도 한 개 이상의 카테고리 선택</string>
-    <string name="sst_sti_desc">배경 화면 업데이트 빈도 설정</string>
+    <string name="sst_sti_desc">배경화면 업데이트 빈도 설정</string>
     <string name="sst_sti_title">업데이트 빈도</string>
     <string name="sst_subscribe_title">내 카테고리</string>
     <string name="sst_wifi_only_desc">모바일 데이터 절약을 위해 이 기능 끄기</string>
-    <string name="sst_wifi_only_title">모바일 데이터를 사용하여 배경 화면 업데이트</string>
-    <string name="summary">"온라인 콘텐츠를 보시려면 아래의 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하세요. 원하지 않으셔도 로컬 배경 화면은 사용 가능합니다."</string>
+    <string name="sst_wifi_only_title">모바일 데이터를 사용하여 배경화면 업데이트</string>
+    <string name="summary">"온라인 콘텐츠를 보시려면 아래의 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의하세요. 원하지 않으셔도 로컬 배경화면은 사용 가능합니다."</string>
     <string name="summary_international">"이 기능을 사용하려면, 당사의 &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>이용 약관&lt;/a>와 &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>개인정보 보호정책&lt;/a>에 동의해야 합니다. 이 기능이 제대로 작동하려면 인터넷 연결이 필요합니다.​"</string>
     <string name="theme_apply_failured">적용할 수 없습니다. 나중에 다시 시도하세요.</string>
     <string name="theme_apply_success">잠금 화면 적용됨</string>

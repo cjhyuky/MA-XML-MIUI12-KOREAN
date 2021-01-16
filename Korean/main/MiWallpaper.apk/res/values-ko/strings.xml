@@ -8,8 +8,8 @@
     <string name="no_install_permission">"이 항목을 설치할 수 있는 권한이 없습니다."</string>
     <string name="task_already_exist">이 작업은 이미 존재합니다.</string>
     <string name="update">업데이트</string>
-    <string name="mi_wallpaper_title">Mi 배경 화면</string>
-    <string name="mi_wallpaper_loading">Mi 배경 화면 불러오는 중...</string>
+    <string name="mi_wallpaper_title">Mi 배경화면</string>
+    <string name="mi_wallpaper_loading">Mi 배경화면 불러오는 중...</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더 많은 옵션</string>
@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
     <string name="abc_toolbar_collapse_description">컬랩스</string>
     <string name="actionbar_button_up_description">이전</string>
-    <string name="app_name">배경 화면</string>
+    <string name="app_name">배경화면</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="date_picker_lunar">음력</string>
     <string name="earth_summary">지구는 인류 문명의 요람입니다.</string>
@@ -68,7 +68,7 @@
     <string name="saturn_summary">토성의 고리는 태양계에서 가장 놀라운 광경입니다.</string>
     <string name="saturn_title">우주의 고리</string>
     <string name="search_menu_title">검색</string>
-    <string name="super_wallpaper_list_label">슈퍼 배경 화면</string>
+    <string name="super_wallpaper_list_label">슈퍼 배경화면</string>
     <string name="super_wallpaper_setting_apply_success_toast">적용 완료</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">적용</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">지역 선택</string>
@@ -80,15 +80,15 @@
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Always On Display</string>
-    <string name="wallpaper_setting_find_more_text">온라인 배경 화면 더보기</string>
+    <string name="wallpaper_setting_find_more_text">온라인 배경화면 더보기</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">홈 화면</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">잠금 화면</string>
-    <string name="wallpaper_setting_online_wallpaper_actionbar_title">온라인 배경 화면</string>
-    <string name="wallpaper_setting_online_wallpaper_none_title">배경 화면 탐색</string>
-    <string name="wallpaper_setting_online_wallpaper_title">온라인 배경 화면</string>
-    <string name="wallpaper_setting_super_wallpaper_banner_title">슈퍼 배경 화면</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">온라인 배경화면</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">배경화면 탐색</string>
+    <string name="wallpaper_setting_online_wallpaper_title">온라인 배경화면</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">슈퍼 배경화면</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">더보기</string>
-    <string name="wallpaper_setting_title">배경 화면</string>
+    <string name="wallpaper_setting_title">배경화면</string>
     <string name="miui_lock_screen_date_two_lines">"M월 d일
 EEEE"</string>
     <string name="miui_lock_screen_date_two_lines_12">"M월 d일
@@ -97,7 +97,7 @@ EEEE"</string>
 EEE"</string>
     <string name="miui_lock_screen_large_date_12">"MM/dd
 EEE"</string>
-    <string name="title_system_wallpaper_resource">시스템 배경 화면</string>
+    <string name="title_system_wallpaper_resource">시스템 배경화면</string>
     <string name="afternoon">오후</string>
     <string name="am">오전</string>
     <string name="eras_ad">기원후</string>

@@ -1462,7 +1462,7 @@
     <string name="gb_msg_not_shielded_summary">보기</string>
     <string name="gb_msg_quickly_answer">빠른 답장 허용</string>
     <string name="gb_msg_quickly_answer_summary">빠른 답장</string>
-    <string name="gb_msg_transparent_dispaly">투명 배경 화면에 알림 표시</string>
+    <string name="gb_msg_transparent_dispaly">투명 배경화면에 알림 표시</string>
     <string name="gb_msg_transparent_dispaly_summary">투명</string>
     <string name="gb_network_status_bad">네트워크 연결이 끊어졌습니다.</string>
     <string name="gb_new_feature">새로운 기능</string>
@@ -4345,7 +4345,7 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="muffled_text">느린 속도는 시각적 전환을 부드럽게 강조하고 제스처가 더욱 자연스럽게 느껴지게 합니다.</string>
     <string name="natural_haptic">자연스러운 터치</string>
     <string name="natural_haptic_summary">새로운 햅틱 피드백 패턴은 화면에서 보이고 터치하는 모든 항목에 반응합니다.</string>
-    <string name="personalize_title">배경 화면&amp; 맞춤 설정</string>
+    <string name="personalize_title">배경화면&amp; 맞춤 설정</string>
     <string name="provision_skip_underline">건너뛰기</string>
     <string name="screen_enhance_engine_ai_note">%d. 이 기능은 배터리 소모를 늘립니다.</string>
     <string name="screen_enhance_engine_ai_pic_summary">"물체(예: 식물, 동물, 건물)을 구별하고 화면 효과를 동적으로 조정합니다. "</string>

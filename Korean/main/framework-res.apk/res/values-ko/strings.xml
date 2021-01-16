@@ -414,7 +414,7 @@
     <string name="choose_account_label">계정 선택</string>
     <string name="chooser_all_apps_button_label">앱 목록</string>
     <string name="chooser_no_direct_share_targets">공유할 추천 사용자가 없음</string>
-    <string name="chooser_wallpaper">배경 화면 변경</string>
+    <string name="chooser_wallpaper">배경화면 변경</string>
     <string name="clearDefaultHintMsg">시스템 설정 > 앱 > 다운로드로 이동하여 기본 설정을 지웁니다.</string>
     <string name="close_button_text">닫기</string>
     <string name="color_correction_feature_name">색상 보정</string>
@@ -1284,7 +1284,7 @@
     <string name="permdesc_bindTvInput">권한을 가진 프로그램이 TV 입력에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindVoiceInteraction">권한을 가진 프로그램이 음성 상호작용 서비스의 최상위 인터페이스를 사용하도록 합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bindVpnService">권한을 가진 프로그램이 VPN 서비스에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
-    <string name="permdesc_bindWallpaper">권한을 가진 프로그램이 배경 화면에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
+    <string name="permdesc_bindWallpaper">권한을 가진 프로그램이 배경화면에 대한 최상위 인터페이스를 사용하도록 허용합니다. 일반 앱에는 필요하지 않습니다.</string>
     <string name="permdesc_bind_connection_service">앱에서 전화 서비스와 상호 작용하여 전화를 받거나 걸 수 있습니다.</string>
     <string name="permdesc_bind_incall_service">앱에서 사용자가 통화 화면을 보는 시기와 방법을 제어하도록 허용합니다.</string>
     <string name="permdesc_bind_trust_agent_service">애플리케이션이 Trust Agent 서비스에 바인딩할 수 있도록 허용합니다.</string>
@@ -1470,8 +1470,8 @@
     <string name="permdesc_setScreenCompatibility">앱이 다른 애플리케이션의 화면 호환성 모드를 제어할 수 있도록 허용합니다. 이 경우 악성 애플리케이션이 다른 애플리케이션의 동작을 멈추게 할 수 있습니다.</string>
     <string name="permdesc_setTime">앱이 휴대전화 시계의 시간을 변경할 수 있도록 허용합니다.</string>
     <string name="permdesc_setTimeZone">앱이 휴대전화의 표준시간대를 변경할 수 있도록 허용합니다.</string>
-    <string name="permdesc_setWallpaper">앱이 시스템 배경 화면을 설정할 수 있도록 허용합니다.</string>
-    <string name="permdesc_setWallpaperHints">앱이 시스템 배경 화면 크기 힌트를 설정할 수 있도록 허용합니다.</string>
+    <string name="permdesc_setWallpaper">앱이 시스템 배경화면을 설정할 수 있도록 허용합니다.</string>
+    <string name="permdesc_setWallpaperHints">앱이 시스템 배경화면 크기 힌트를 설정할 수 있도록 허용합니다.</string>
     <string name="permdesc_shutdown">작업 관리자를 종료 상태로 설정합니다. 전체 종료를 수행하지는 않습니다.</string>
     <string name="permdesc_signalPersistentProcesses">제공된 시그널을 모든 영구 프로세스로 전송하는 것을 앱이 요청할 수 있도록 허용합니다.</string>
     <string name="permdesc_sim_communication">앱이 SIM에 명령어를 전송할 수 있도록 허용합니다. 이 기능은 매우 신중히 허용해야 합니다.</string>
@@ -1556,7 +1556,7 @@
     <string name="permgroupdesc_systemClock">기기 시간 및 시간대를 변경하려고 합니다.</string>
     <string name="permgroupdesc_systemTools">시스템을 하위 수준에서 접근하고 제어하려고 합니다.</string>
     <string name="permgroupdesc_voicemail">음성사서함에 직접 접근하려고 합니다.</string>
-    <string name="permgroupdesc_wallpaper">기기 배경 화면 설정을 변경하려고 합니다.</string>
+    <string name="permgroupdesc_wallpaper">기기 배경화면 설정을 변경하려고 합니다.</string>
     <string name="permgroupdesc_writeDictionary">사용자 사전에 단어를 추가하려고 합니다.</string>
     <string name="permgrouplab_accessibilityFeatures">접근성 기능</string>
     <string name="permgrouplab_accounts">계정</string>
@@ -1594,7 +1594,7 @@
     <string name="permgrouplab_systemClock">시계</string>
     <string name="permgrouplab_systemTools">시스템 도구</string>
     <string name="permgrouplab_voicemail">음성사서함</string>
-    <string name="permgrouplab_wallpaper">배경 화면</string>
+    <string name="permgrouplab_wallpaper">배경화면</string>
     <string name="permgrouplab_writeDictionary">사용자 사전 쓰기</string>
     <string name="permgrouprequest_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; 앱이 내 신체 활동 정보를 불러오도록 허용하시겠습니까?</string>
     <string name="permgrouprequest_calendar"><b>%1$s</b> 앱이 귀하의 캘린더를 불러오도록 허용하시겠습니까?</string>
@@ -1668,7 +1668,7 @@
     <string name="permlab_bindTvInput">TV 입력 사용</string>
     <string name="permlab_bindVoiceInteraction">음성 상호작용 서비스 사용</string>
     <string name="permlab_bindVpnService">VPN 서비스와 연결</string>
-    <string name="permlab_bindWallpaper">배경 화면 연결</string>
+    <string name="permlab_bindWallpaper">배경화면 연결</string>
     <string name="permlab_bind_connection_service">전화 서비스와 상호 작용</string>
     <string name="permlab_bind_incall_service">통화 화면과 상호작용</string>
     <string name="permlab_bind_trust_agent_service">Trust Agent 서비스에 연결</string>
@@ -1854,8 +1854,8 @@
     <string name="permlab_setScreenCompatibility">화면 호환성 설정</string>
     <string name="permlab_setTime">시간 설정</string>
     <string name="permlab_setTimeZone">표준시간대 설정</string>
-    <string name="permlab_setWallpaper">배경 화면 설정</string>
-    <string name="permlab_setWallpaperHints">배경 화면 크기 조정</string>
+    <string name="permlab_setWallpaper">배경화면 설정</string>
+    <string name="permlab_setWallpaperHints">배경화면 크기 조정</string>
     <string name="permlab_shutdown">부분 종료</string>
     <string name="permlab_signalPersistentProcesses">앱에 Linux 시그널 보내기</string>
     <string name="permlab_sim_communication">SIM 카드로 명령 전송</string>
@@ -2351,7 +2351,7 @@
     <string name="vpn_title_long">VPN이 %s에 의해 활성화됨</string>
     <string name="vr_listener_binding_label">VR 리스너</string>
     <string name="wait">대기</string>
-    <string name="wallpaper_binding_label">배경 화면</string>
+    <string name="wallpaper_binding_label">배경화면</string>
     <string name="web_user_agent_target_content">"모바일 "</string>
     <string name="webpage_unresponsive">"페이지가 응답하지 않습니다.
 
