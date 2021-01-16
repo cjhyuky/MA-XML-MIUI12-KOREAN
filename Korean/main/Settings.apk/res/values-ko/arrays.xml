@@ -1070,10 +1070,10 @@
         <item>원숭이</item>
     </string-array>
     <string-array name="vip_mode_text">
-        <item>모든사람</item>
-        <item>연락처의 사람만</item>
-        <item>소장된 연락처의 사람만</item>
-        <item>미설정</item>
+        <item>모두</item>
+        <item>연락처</item>
+        <item>즐겨찾기한 연락처</item>
+        <item>없음</item>
     </string-array>
     <string-array name="vpn_states">
         <item>연결 끊김</item>

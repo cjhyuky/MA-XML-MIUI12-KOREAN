@@ -2,7 +2,7 @@
 <resources>
     <string-array name="micloud_entrance_subtitleArray_china">
         <item>연락처, 메시지, 메모, 캘린더 등을 동기화</item>
-        <item>앱, 홈 화면 구성 및 배경화면 백업</item>
+        <item>앱, 홈 화면 구성 및 배경 화면 백업</item>
         <item>Wi-Fi 및 디스플레이를 포함한 중요 설정 백업</item>
         <item>"기기를 분실한 경우 원격으로 기기 잠금"</item>
     </string-array>
@@ -13,7 +13,7 @@
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
          <item>연락처, 메시지, 메모, 캘린더, 등 동기화</item>
-         <item>앱, 홈 화면 구성, 배경화면을 백업</item>
+         <item>앱, 홈 화면 구성, 배경 화면을 백업</item>
          <item>Wi-Fi와 디스플레이 같은 중요한 설정을 백업</item>
          <item>"기기를 분실했다면 원격으로 기기 잠그기"</item>
     </string-array>
@@ -160,13 +160,13 @@
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
         <item>연락처, 메시지, 메모, 캘린더 등을 동기화하세요.</item>
-        <item>앱, 홈 화면 구성, 배경화면을 백업하세요.</item>
+        <item>앱, 홈 화면 구성, 배경 화면을 백업하세요.</item>
         <item>Wi-Fi 및 디스플레이를 포함한 중요한 설정을 백업하세요.</item>
         <item>기기 분실 시 원격으로 잠그세요.</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>연락처, 메시지, 메모, 캘린더 등을 동기화하세요.</item>
-        <item>앱, 홈 화면 구성, 배경화면을 백업하세요.</item>
+        <item>앱, 홈 화면 구성, 배경 화면을 백업하세요.</item>
         <item>Wi-Fi 및 디스플레이를 포함한 중요한 설정을 백업하세요.</item>
         <item>기기 분실 시 원격으로 잠그세요.</item>
     </string-array>

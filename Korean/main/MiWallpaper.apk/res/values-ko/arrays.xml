@@ -3,17 +3,17 @@
     <string-array name="settings_search_earth">
         <item>지구 홈</item>
         <item>벽지/슈퍼 벽지/지구 홈</item>
-        <item>지구;슈퍼 지구;슈퍼 배경화면;배경화면</item>
+        <item>지구;슈퍼 지구;슈퍼 배경 화면;배경 화면</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>붉은 화성</item>
-        <item>배경화면/슈퍼 배경화면/붉은 화성</item>
-        <item>화성; 슈퍼 화성;슈퍼 배경화면;배경화면</item>
+        <item>배경 화면/슈퍼 배경 화면/붉은 화성</item>
+        <item>화성; 슈퍼 화성;슈퍼 배경 화면;배경 화면</item>
     </string-array>
     <string-array name="settings_search_superwp">
-        <item>슈퍼 배경화면</item>
-        <item>배경화면/슈퍼 배경화면</item>
-        <item>슈퍼 배경화면;배경화면;링키지 배경화면</item>
+        <item>슈퍼 배경 화면</item>
+        <item>배경 화면/슈퍼 배경 화면</item>
+        <item>슈퍼 배경 화면;배경 화면;링키지 배경 화면</item>
     </string-array>
     <string-array name="settings_search_geometry">
         <item>기하학</item>

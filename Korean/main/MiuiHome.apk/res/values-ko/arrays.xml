@@ -51,7 +51,7 @@
         <item>아지랑이</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>배경화면</item>
+        <item>배경 화면</item>
         <item>위젯</item>
         <item>설정</item>
     </string-array>
