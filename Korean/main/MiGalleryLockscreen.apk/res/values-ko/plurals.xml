@@ -17,8 +17,8 @@
     <item quantity="one">구독자 %1$s명</item>
     </plurals>
     <plurals name="lockscreen_magazine_system_subscribe">
-    <item quantity="other">%1$s개의 배경화면</item>
-    <item quantity="one">%1$s개의 배경화면</item>
+    <item quantity="other">%1$s개의 배경 화면</item>
+    <item quantity="one">%1$s개의 배경 화면</item>
     </plurals>
     <plurals name="time_day_ago">
     <item quantity="other">%d일 전</item>
