@@ -102,4 +102,5 @@
     <string name="gb_game_speed_open">광속 모드 켜짐</string>
     <string name="gb_game_speed_open_fail">"광속 모드를 켤 수 없음"</string>
     <string name="install_success">%s 설치 성공</string>
+    <string name="gb_advance_settings_finger_up">연속 터치 민감도</string>
 </resources>

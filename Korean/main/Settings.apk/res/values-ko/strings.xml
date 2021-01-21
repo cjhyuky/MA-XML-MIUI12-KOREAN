@@ -10389,5 +10389,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="switch_headset_anti_lost_summary">이어폰 중 하나가 귀 또는 충전 케이스에서 1분 이상 떨어져 있을 때마다 알림을 받습니다.</string>
     <string name="switch_headset_anti_lost_title">이어폰 분실 경고</string>
     <string name="wifi_enhanced_handover">향상된 핸드오버</string>
-    <string name="wifi_enhanced_handover_summary">같은 암호화 방식을 사용하는 AP 간에 빠르게 전환합니다.</string>
+    <string name="wifi_enhanced_handover_summary">서로 다른 액세스 포인트 간에 빠르게 전환합니다.</string>
+    <string name="bluetooth_enable_page_scan">블루투스 연결 대기</string>
+    <string name="bluetooth_enable_page_scan_summary">블루투스 테스트를 위한 연결 대기를 켜거나 끕니다.</string>
 </resources>

@@ -102,7 +102,7 @@
     <string name="location_warning">%1$s은(는) 이 기기의 위치 서비스 공급자입니다. 위치 설정에서 위치 접근을 수정할 수 있습니다.</string>
     <string name="permission_warning_template">%1$s에서 %2$s를 허용하시겠습니까?</string>
     <string name="screen_overlay_title">화면 위에 표시 감지됨</string>
-    <string name="screen_overlay_message">권한 설정을 변경하기 위해서는 반드시 설정에서 >앱을 선택한 후 화면 위에 표시를 꺼야합니다.</string>
+    <string name="screen_overlay_message">권한 설정을 변경하기 위해서는 반드시 설정에서 >앱을 선택한 후 화면 위에 표시를 꺼야 합니다.</string>
     <string name="screen_overlay_button">설정 열기</string>
     <string name="grant_dialog_button_allow">허용</string>
     <string name="grant_dialog_button_deny">거부</string>
@@ -236,13 +236,13 @@
     <string name="go_setting">설정</string>
     <string name="real_location_off">대략적인 위치 켜짐</string>
     <string name="real_location_on">대략적인 위치 꺼짐</string>
-    <string name="blur_location_is_on_tip">%1$s이(가) 대략적인 위치 서비스를 켰습니다. 대략적인 위치 서비스를 끌 수도 있습니다.</string>
+    <string name="blur_location_is_on_tip">%1$s이(가) 대략적인 위치 서비스를 사용합니다. 정확한 위치 대신 계속 사용하시겠습니까?</string>
     <string name="blur_location_title">대략적인 위치</string>
-    <string name="gold_master_dialog_reject">거부 (%d)</string>
-    <string name="gold_master_dialog_title">%1$s이(가) 클립보드를 읽으려 합니다.</string>
-    <string name="keep_blur_location">끄지 않기</string>
+    <string name="gold_master_dialog_reject">제한 (%d)</string>
+    <string name="gold_master_dialog_title">%1$s이(가) 클립보드에 접근하려 합니다.</string>
+    <string name="keep_blur_location">아니오</string>
     <string name="miuix_appcompat_deselect_all">선택 해제</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
     <string name="miuix_appcompat_select_item">항목 선택</string>
-    <string name="stop_blur_location">끄기</string>
+    <string name="stop_blur_location">예</string>
 </resources>

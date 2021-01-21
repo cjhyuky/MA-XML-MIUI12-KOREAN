@@ -184,7 +184,7 @@
     <string name="hr_detect_state_reseting_desc">"완전히 긴장이 풀렸거나 방금 잠에서 깼습니다."</string>
     <string name="hr_disturb_detect">측정 중단</string>
     <string name="hr_disturb_detect_desc">다시 시작하세요. 측정 중 손가락을 움직이면 안 됩니다.</string>
-    <string name="hr_finger_permission_desc">심박수를 측정하려면 이 기능이 혈류의 변화를 감지 할 수 있도록 지문 스캐너에 액세스해야합니다. 허용하시겠습니까?</string>
+    <string name="hr_finger_permission_desc">심박수를 측정하려면 이 기능이 혈류의 변화를 감지 할 수 있도록 지문 스캐너에 액세스해야 합니다. 허용하시겠습니까?</string>
     <string name="hr_in_detect">심박수 측정 중입니다. 손가락을 움직이지 마세요.</string>
     <string name="hr_measure_heart_rate">측정</string>
     <string name="hr_open_permission_desc">Xiaomi 건강이 심박수 측정을 위해 카메라 권한을 필요로 합니다. 허용하시겠습니까?</string>
@@ -1373,7 +1373,7 @@
     <string name="hr_fp_detect_principle_desc">"혈액은 완전히 불투명하지 않으므로 빛이 통과할 수 있습니다. 심장 박동이있을 때마다 혈액이 손가락으로 흘러 심장 박동 사이보다 더 많은 빛을 차단합니다. 지문 스캐너 영역의 밝은 빛이 화면 아래에서 혈류의 변화를 추적하고 패턴을 분석하여 심박수 값으로 변환할 수 있습니다.
 
  테스트 결과 이 방법은 3BPM이하의 오차로 심박수를 측정합니다."</string>
-    <string name="hr_fp_detect_principle_desc_2">"참고 : 측정하는 동안 손가락이 지문 아이콘을 완전히 덮어야합니다. 힘을 가하지 마십시오. 손가락 끝의 혈류를 차단하여 결과가 부정확해질 수 있습니다. 이 측정은 제공됩니다. 참고용입니다. 의료 검사를 대체 할 수 없습니다."</string>
+    <string name="hr_fp_detect_principle_desc_2">"참고 : 측정하는 동안 손가락이 지문 아이콘을 완전히 덮어야 합니다. 힘을 가하지 마십시오. 손가락 끝의 혈류를 차단하여 결과가 부정확해질 수 있습니다. 이 측정은 제공됩니다. 참고용입니다. 의료 검사를 대체 할 수 없습니다."</string>
     <string name="hr_fp_detect_start_desc">"지문 아이콘을 가볍게 누릅니다.
  손가락을 움직이지 마십시오."</string>
     <string name="hr_fp_detecting">측정 중…</string>

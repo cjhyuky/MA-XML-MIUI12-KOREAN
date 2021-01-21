@@ -206,4 +206,21 @@
     <string name="detail_download_path">"위치: "</string>
     <string name="detail_download_time">"다운로드됨: "</string>
     <string name="user_protocol_and_privacy_protocol"><Data>"&lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지했으며 이에 동의합니다."</Data></string>
+    <string name="channel_pc_edit">PC에서 수정됨</string>
+    <string name="channel_pc_upload">PC에서 업로드됨</string>
+    <string name="channel_pc_view">PC에서 열어봄</string>
+    <string name="channel_phone_edit">휴대전화에서 수정됨</string>
+    <string name="channel_phone_upload">휴대전화에서 업로드됨</string>
+    <string name="channel_phone_view">휴대전화에서 열어봄</string>
+    <string name="channel_web_edit">브라우저에서 수정됨</string>
+    <string name="channel_web_upload">브라우저에서 업로드됨</string>
+    <string name="channel_web_view">브라우저에서 열어봄</string>
+    <string name="delete_operation_record">이 기록을 삭제하시겠습니까?</string>
+    <string name="delete_operation_record_timeout">"기록을 삭제할 수 없습니다. 1~2분 후 다시 시도하세요."</string>
+    <string name="jump_to_directory">폴더 열기</string>
+    <string name="no_recent_activity">최근 항목 없음</string>
+    <string name="operation_dialog_jump_message">폴더를 여는 중...</string>
+    <string name="operation_will_not_show_after_delete">기록을 삭제하면 더 이상 표시되지 않습니다.</string>
+    <string name="recent_file">최근</string>
+    <string name="recent_jump_to_privacy_fail_notice">이 파일은 보호되고 있습니다. 열기를 원하면 시작 페이지로 돌아가 아래로 당기세요.</string>
 </resources>

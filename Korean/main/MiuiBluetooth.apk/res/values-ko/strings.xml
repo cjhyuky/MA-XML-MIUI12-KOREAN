@@ -121,4 +121,6 @@
 고대역폭 전송 프로토콜"</string>
     <string name="headset_loss_notify_summary">이어폰 최소 한 짝이 충전 케이스에 없는 것 같습니다. 주위를 둘러보세요!</string>
     <string name="headset_loss_notify_title">이어폰 분실 경고</string>
+    <string name="bluetooth_enable_page_scan">블루투스 연결 대기</string>
+    <string name="bluetooth_enable_page_scan_summary">블루투스 테스트를 위한 연결 대기를 켜거나 끕니다.</string>
 </resources>

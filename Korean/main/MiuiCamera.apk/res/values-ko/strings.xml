@@ -1903,7 +1903,7 @@
     <string name="cam_string_remote_camera_setup_wizard_button_confirm">확인</string>
     <string name="cam_string_remote_camera_setup_wizard_button_connect">연결</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description1">멀티 카메라 녹화 기능은 두 개의 휴대폰을 지원하여 서로 다른 시야각에서 이미지를 녹화하고 하나의 비디오로 결합합니다. 이 기기를 통해 두 대의 휴대폰의 비디오 미리보기 및 촬영을 볼 수 있으며이 기기의 녹음만 지원합니다.</string>
-    <string name="cam_string_remote_camera_setup_wizard_button_description2">상대방이 드롭 다운 알림 표시 줄에서 "다단계 디렉토리"스위치를 켜야합니다. 다중 카메라 녹화는 "전면 및 후면 이중 장면" 또는 "동시에 여러장 촬영"모드가 있는 Xiaomi 및 Redmi 휴대폰만 지원합니다.</string>
+    <string name="cam_string_remote_camera_setup_wizard_button_description2">상대방이 드롭 다운 알림 표시 줄에서 "다단계 디렉토리"스위치를 켜야 합니다. 다중 카메라 녹화는 "전면 및 후면 이중 장면" 또는 "동시에 여러장 촬영"모드가 있는 Xiaomi 및 Redmi 휴대폰만 지원합니다.</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description3">SAN이 온라인 비디오 녹화를 수행하도록 초대합니다</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description4">연결하는 동안 잠시만 기다려주십시오..</string>
     <string name="cam_string_remote_camera_setup_wizard_button_find">장비 검색</string>
@@ -2028,4 +2028,9 @@
     <string name="close_night_algo_toast_thermal">노출을 설정하려면 기기 온도를 낮추세요.</string>
     <string name="pref_super_night_se_summary">빛이 적은 환경을 인식하면 자동으로 야간 모드를 켜고, 알고리즘을 통해 이미지 처리 효과를 개선합니다.</string>
     <string name="pref_super_night_se_title">자동 야간 모드</string>
+    <string name="remote_online_setup_wizard_msg_prerequisite">상대 기기에서는 제어 센터를 열어 '여러 기기 동시 녹화'를 켜야 합니다. '여러 기기 동시 녹화' 기능이 탑재된 Xiaomi 및 Redmi 휴대전화에서만 지원됩니다.</string>
+    <string name="pref_video_cast_setting_summary">여러 기기 동시 녹화를 위해 초대받을 수 있습니다.</string>
+    <string name="pref_video_cast_setting_title">여러 기기 동시 녹화</string>
+    <string name="video_cast_dialog_msg_connecting">연결 중...</string>
+    <string name="video_cast_dialog_msg_unavailable">여러 기기 동시 녹화를 사용하려면 블루투스 및 Wi-Fi를 켜세요.</string>
 </resources>
