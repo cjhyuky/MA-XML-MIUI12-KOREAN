@@ -602,7 +602,7 @@
     <string name="enhanced_4g_lte_mode_title">향상된 4G LTE 모드</string>
     <string name="enhanced_4g_lte_mode_summary">LTE 서비스를 사용하여 음성 및 기타 커뮤니케이션 향상 (권장됨)</string>
     <string name="data_enabled">모바일 데이터</string>
-    <string name="data_enable_summary">모바일 네트워크로 데이터 접근 활성화</string>
+    <string name="data_enable_summary">모바일 네트워크 사용을 허용합니다.</string>
     <string name="roaming">데이터 로밍</string>
     <string name="roaming_enable">로밍 중 데이터 서비스에 연결</string>
     <string name="roaming_disable">로밍 중 데이터 서비스에 연결</string>
@@ -1776,7 +1776,7 @@
     <string name="debug_layout">레이아웃 경계 표시</string>
     <string name="debug_layout_summary">클립 바운드, 여백 등을 표시합니다.</string>
     <string name="debug_monitoring_category">모니터링</string>
-    <string name="debug_networking_category">네트워킹</string>
+    <string name="debug_networking_category">네트워크</string>
     <string name="debug_view_attributes">보기 속성 검사 사용</string>
     <string name="description_dialpad_back">뒤로 이동</string>
     <string name="dev_logpersist_clear_warning_message">더 이상 모니터링하지 않는 경우 기기에있는 로거 데이터를 지워야 합니다.</string>
@@ -2707,9 +2707,9 @@
     <string name="wifi_call_preferred_summary">"모바일 네트워크를 선호하도록 선택하면 기본적으로 모바일 네트워크가 통화에 사용됩니다. 모바일 네트워크 신호가 없거나 매우 불량한 경우 Wi-Fi 네트워크가 대신 사용됩니다."</string>
     <string name="wifi_call_welcome_settings">Wi-Fi 통화</string>
     <string name="last_sim_callback_summary">통화 기록에서 전화를 걸 때 이 연락처와 함께 이전 통화 중에 사용된 SIM 카드를 사용합니다.</string>
-    <string name="last_sim_callback_title">SIM 카드 설정 기억하기</string>
+    <string name="last_sim_callback_title">SIM 카드 설정 기억</string>
     <string name="advanced_mobile_settings">고급 설정</string>
-    <string name="main_netcheck_summary">네트워킹 문제를 위한 테스트 연결</string>
+    <string name="main_netcheck_summary">네트워크 문제를 위한 테스트 연결</string>
     <string name="mobile_advanced_dns_server_title">DNS 서버 주소</string>
     <string name="mobile_advanced_ip_address_title">IP 주소</string>
     <string name="mobile_connection_management">모바일 네트워크 연결 관리</string>

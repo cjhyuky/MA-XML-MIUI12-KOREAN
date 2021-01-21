@@ -4145,7 +4145,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="legacy_dhcp_client_summary">Android 롤리팝 버전의 DHCP 클라이언트를 사용합니다.</string>
     <string name="legacy_navigation_summary">화면 하단의 버튼을 사용하여 뒤로 돌아가고 홈으로 이동하거나 앱을 전환합니다.</string>
     <string name="legacy_navigation_title">3버튼 탐색</string>
-    <string name="legal_information">법률정보</string>
+    <string name="legal_information">법률 정보</string>
     <string name="legal_workday">법정 근무일</string>
     <string name="legal_workday_invalidate">월-금(휴일 정보 만료됨)</string>
     <string name="legal_workday_invalidate_message">탭하여 공휴일 정보 업데이트</string>
@@ -7587,7 +7587,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="status_awake_time">무중단 가동 시간</string>
     <string name="status_bar_and_notification_bar">알림 창 및 상태 표시줄</string>
     <string name="status_bar_app_disable_notification">알림 숨겨짐</string>
-    <string name="status_bar_app_enable_floating">플로팅 알람</string>
+    <string name="status_bar_app_enable_floating">플로팅 알림</string>
     <string name="status_bar_app_enable_keyguard">잠금 화면</string>
     <string name="status_bar_app_enable_message">배지</string>
     <string name="status_bar_carrier_settings_no_sim_card">SIM 카드 없음</string>
@@ -7633,7 +7633,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="status_bar_settings_show_carrier">통신사 이름 표시</string>
     <string name="status_bar_settings_show_carrier_summary">이 기능이 꺼져 있어도 통신사 이름은 잠금 화면 및 알림 창에는 계속 표시됨</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">기기가 잠겨있을 때 이동통신사 표시</string>
-    <string name="status_bar_settings_show_floating_notification">플로팅 알람</string>
+    <string name="status_bar_settings_show_floating_notification">플로팅 알림</string>
     <string name="status_bar_settings_show_floating_notification_summary">화면 상단에 중요한 알림 표시를 허용합니다.</string>
     <string name="status_bar_settings_show_flow_info">데이터 사용량 표시</string>
     <string name="status_bar_settings_show_home_message">앱 아이콘 배지</string>
@@ -10357,12 +10357,12 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miheadset_transparent">주변 소리 허용</string>
     <string name="font_setting_weight_toast">"해당 글꼴은 상세 설정을 지원하지 않습니다."</string>
     <string name="face_unlock_prompt">얼굴 인식 시도</string>
-    <string name="adjust_font_size_answer_cn">아래 슬라이더를 사용하여 텍스트 크기와 글꼴 두께를 조정해 보세요!</string>
-    <string name="adjust_font_size_answer_global">아래 슬라이더를 사용하여 텍스트 크기를 조정해 보세요!</string>
+    <string name="adjust_font_size_answer_cn">아래 슬라이더를 움직여서 글자 크기와 굵기를 조정해보세요!</string>
+    <string name="adjust_font_size_answer_global">아래 슬라이더를 움직여서 글자 크기를 조정해보세요!</string>
     <string name="font_settings_jump">접근성 > 표시 크기</string>
-    <string name="font_settings_recommend_title">"텍스트 크기가 충분히 크지 않습니까?"</string>
-    <string name="font_settings_summary_cn">글꼴 및 텍스트 크기</string>
-    <string name="how_adjust_font_size">텍스트 크기는 어떻게 조정할 수 있습니까?</string>
+    <string name="font_settings_recommend_title">"글자 크기가 작으신가요?"</string>
+    <string name="font_settings_summary_cn">글꼴 및 글자 크기</string>
+    <string name="how_adjust_font_size">글자 크기는 어떻게 조정하나요?</string>
     <string name="miheadset_local_ota">기기 OTA</string>
     <string name="personalize_title">배경화면 &amp; 맞춤 설정</string>
     <string name="title_font_settings">글꼴 설정</string>

@@ -480,7 +480,7 @@
     <string name="pc_note_edit_lock_dialog_take_photo_by_phone">휴대 전화로 사진 찍기…</string>
     <string name="pc_note_edit_take_photo_by_phone">휴대 전화로 사진 찍기</string>
     <string name="pc_note_edit_text_format_body">본문</string>
-    <string name="pc_note_edit_text_format_des">텍스트 크기 설정</string>
+    <string name="pc_note_edit_text_format_des">글자 크기 설정</string>
     <string name="pc_note_edit_text_format_title_level1">제목</string>
     <string name="pc_note_edit_text_format_title_level2">제목</string>
     <string name="pc_note_trash_folder_remind">이 메모는 삭제되었습니다. 수정하려면 복원하세요.</string>

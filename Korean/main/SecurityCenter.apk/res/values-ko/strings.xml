@@ -554,7 +554,7 @@
     <string name="auto_task_edit_operation_summary">예를 들어, \"비행기 탑승 모드 켜기\"</string>
     <string name="auto_task_edit_task_name">이름</string>
     <string name="auto_task_main_title">자동 작업</string>
-    <string name="auto_task_mamange_activity_title">자동화된 작업</string>
+    <string name="auto_task_mamange_activity_title">자동 작업</string>
     <string name="auto_task_manage_delete_prompt">선택된 작업을 삭제하시겠습니까?</string>
     <string name="auto_task_manage_new_task">새 자동 작업</string>
     <string name="auto_task_manager_group_title">내 자동 작업</string>
@@ -875,12 +875,12 @@
     <string name="debug_open_final_tip">USB 디버깅을 켜시겠습니까?</string>
     <string name="debug_open_title">개발자를 위한 기능이며 일반 사용자가 이용하기에 불편할 수 있습니다. USB 디버깅을 켜면 다음과 같은 변화가 발생할 수 있습니다:</string>
     <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하면 한도를 낮게 설정하세요.</string>
-    <string name="deep_clean_disconnect_data_title">기기가 잠겼을때 모바일 데이터 끄기</string>
-    <string name="deep_clean_memory_clean_title">기기가 잠겼을 때 캐시 지우기</string>
+    <string name="deep_clean_disconnect_data_title">기기가 잠길 때 모바일 데이터 끄기</string>
+    <string name="deep_clean_memory_clean_title">기기가 잠길 때 캐시 지우기</string>
     <string name="deep_clean_never_memory_clean">안 함</string>
     <string name="deep_power_save_item_summary_auto_brightness">배터리를 절약하려면 화면 밝기를 자동으로 변경하세요.</string>
     <string name="deep_power_save_item_summary_bluetooth">블루투스를 꺼서 배터리를 절약하세요.</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">배터리를 절약하기 위해 30초간 사용하지 않으면 화면이 꺼집니다.</string>
+    <string name="deep_power_save_item_summary_lock_screen_time">배터리를 절약하기 위해 30초 간 사용하지 않으면 화면이 꺼집니다.</string>
     <string name="deep_power_save_item_title_auto_brightness">자동 밝기 켬</string>
     <string name="deep_power_save_item_title_bluetooth">블루투스 끔</string>
     <string name="deep_power_save_item_title_lock_screen_time">화면을 절전 모드로 설정</string>
@@ -2294,7 +2294,7 @@ SMS 전송"</string>
     <string name="power_center_5g_save_close_title">5G 절전 모드 끄기</string>
     <string name="power_center_5g_save_summary_text">특정 상황에서 5G 배터리 사용량을 줄입니다.</string>
     <string name="power_center_5g_save_title_text">5G 절전 모드</string>
-    <string name="power_center_auto_shutdown">전원 켜짐/꺼짐 예약</string>
+    <string name="power_center_auto_shutdown">전원 켜기/끄기 예약</string>
     <string name="power_center_back">역력</string>
     <string name="power_center_battery_last">%s 남음</string>
     <string name="power_center_charge_time">완전 충전까지 %1$s</string>
@@ -2385,10 +2385,10 @@ SMS 전송"</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">"음성으로 Mi AI 부르지 않기"</string>
     <string name="power_save_mode_enable">절전 모드</string>
     <string name="power_save_mode_end_time">종료</string>
-    <string name="power_save_mode_ontime_enabled">예약 시간에 모드 전환</string>
+    <string name="power_save_mode_ontime_enabled">예약 모드 전환</string>
     <string name="power_save_mode_other_optimization">추가 최적화</string>
     <string name="power_save_mode_start_time">시작</string>
-    <string name="power_save_mode_summary">절약 모드를 켜면 백그라운드 앱을 제한하고 동기화를 종료합니다.</string>
+    <string name="power_save_mode_summary">절전 모드를 켜면 백그라운드 앱을 제한하고 동기화를 중단합니다.</string>
     <string name="power_save_on_time_end_time_summary_na">종료 시간</string>
     <string name="power_save_on_time_start_time_summary_na">시작 시간</string>
     <string name="power_save_ps_clean">화면을 끌 때마다 캐시 삭제</string>
@@ -2421,9 +2421,9 @@ SMS 전송"</string>
     <string name="power_setting_config_scenario_policies_title">시나리오</string>
     <string name="power_setting_features">특징</string>
     <string name="power_setting_important_warning">주의</string>
-    <string name="power_setting_power_save_summary_text">시스템 설정을 최적화하여 배터리 사용 시간 확보</string>
+    <string name="power_setting_power_save_summary_text">시스템 설정을 최적화하여 배터리를 절약합니다.</string>
     <string name="power_setting_scenario_policies_summary">절전 모드 간 자동 전환 시나리오 식별</string>
-    <string name="power_setting_super_save_summary_text">불필요한 시스템 기능들을 제한하여 배터리 사용 시간 확보</string>
+    <string name="power_setting_super_save_summary_text">대부분의 시스템 기능을 제한하여 배터리를 절약합니다.</string>
     <string name="power_setting_warm_configure">온도 조절</string>
     <string name="power_setting_warm_performance_tip">배터리 사용량이 많은 시나리오는 기기의 온도를 기본 온도 제어 모드 수준 이상으로 올립니다.</string>
     <string name="power_setting_wireless_reverse_charging_summary">무선으로 호환되는 기기 충전</string>
@@ -2490,7 +2490,7 @@ SMS 전송"</string>
     <string name="pref_special_package_setting_summary">오프피크 데이터, 충전 패키지, 일일 데이터 한도과 사용자 지정 데이터 관리</string>
     <string name="pref_summary_upload_data_usage">"MIUI를 개선하기 위해 사용자 오류를 서버로 자동 전송합니다. "</string>
     <string name="pref_title_declaration">중요 면책 조항</string>
-    <string name="pref_title_diagnostics_show_float_notification">플로팅 알람</string>
+    <string name="pref_title_diagnostics_show_float_notification">플로팅 알림</string>
     <string name="pref_title_manual_check_virus_db_update">업데이트 확인</string>
     <string name="pref_title_over_traffic_limit_warning">초과될 시</string>
     <string name="pref_title_traffic_limit_number">크기</string>
@@ -2791,8 +2791,8 @@ SMS 전송"</string>
     <string name="setting_alarm_summary">모든 주요 플랫폼에 대한 공식 빨간 봉투 이벤트 경보 알림</string>
     <string name="setting_privacy_password">패턴 추가</string>
     <string name="settings">데이터 사용량 설정</string>
-    <string name="settings_battery_consume_abnormal_summary">배터리가 많이 사용될 때 알림 받기</string>
-    <string name="settings_battery_consume_abnormal_title">배터리 사용 알림</string>
+    <string name="settings_battery_consume_abnormal_summary">배터리 과소모 시 알림을 받습니다.</string>
+    <string name="settings_battery_consume_abnormal_title">배터리 과소모 알림</string>
     <string name="settings_camera_subtitle_no">메타 데이터 없음</string>
     <string name="settings_category_other">기타 설정</string>
     <string name="settings_category_overheat">과열</string>
@@ -4165,7 +4165,7 @@ SMS 전송"</string>
     <string name="power_center_batteryrank_hardware">하드웨어 배터리 사용 %s</string>
     <string name="power_center_batteryrank_software">소프트웨어 배터리 사용 %s</string>
     <string name="power_center_batteryscan_normal">"배터리 사용 문제 없음 / 결과 보기"</string>
-    <string name="power_center_charge_status">충전 중</string>
+    <string name="power_center_charge_status">충전</string>
     <string name="power_center_consume_fast">배터리 과소모</string>
     <string name="power_center_list_item_haptic_feedback_summary">"제스처 및 시스템 제어에 햅틱 피드백이 발생하지 않습니다."</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">기기를 빨리 잠그고 배터리를 절약합니다.</string>
