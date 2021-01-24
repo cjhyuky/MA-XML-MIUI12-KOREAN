@@ -338,7 +338,6 @@
     <string name="wireless_charging_saver_message">이제 배터리 세이버가 켜져 있습니다. 역방향 무선 충전을 계속 사용하시겠습니까?</string>
     <string name="wireless_charging_saver_ok">유지</string>
     <string name="wireless_charging_tips_disable">"다시 표시 안함"</string>
-    <string name="wireless_charging_tips_message">Qi 무선 충전을 지원하는 기기(휴대 전화, 액세서리 등)를이 기기 뒷면에 배치합니다.</string>
     <string name="wireless_charging_tips_message">무선 충전하고 싶은 기기(예: 휴대전화, 스마트워치, 이어폰)를 휴대전화의 뒷면에 맞대세요. 역방향 무선 충전을 사용하려면 이 휴대전화의 남은 배터리 잔량이 최소 %d%% 이상이어야 합니다.</string>
     <string name="wireless_charging_tips_title">역방향 무선 충전</string>
     <string name="dnd_popup_close_message">확인</string>
