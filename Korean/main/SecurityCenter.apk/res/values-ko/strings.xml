@@ -4377,4 +4377,7 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="in_delete">삭제 중…</string>
     <string name="in_recover">복구 중…</string>
     <string name="setting_online_service">온라인 서비스</string>
+    <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
+    <string name="gtb_spring_festival_egg_obtain_fail">"이 네트워크에 연결할 수 없습니다."</string>
+    <string name="send">전송</string>
 </resources>
