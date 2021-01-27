@@ -178,4 +178,6 @@
     <string name="error_mirror_working">"화면 공유 중에는 파일을 공유할 수 없습니다."</string>
     <string name="error_remote_mirror_working">"상대 기기가 화면을 공유 중이므로 파일을 전달할 수 없습니다."</string>
     <string name="send_files_by">다음으로 공유</string>
+    <string name="error_permission_denied">Mi 공유 앱에 권한을 부여해 이 기능을 사용하세요.</string>
+    <string name="nearby_share">근처 기기와 공유</string>
 </resources>
