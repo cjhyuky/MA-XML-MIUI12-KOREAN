@@ -99,4 +99,13 @@
     <string name="exit_alert_msg">저장하지 않은 모든 변경사항이 사라집니다.</string>
     <string name="exit_alert_title">변경사항을 취소하시겠습니까?</string>
     <string name="ok">확인</string>
+    <string name="doc_photo_enhance_bin_desc">흑백 복사</string>
+    <string name="doc_photo_enhance_color_desc">색상 스캔 및 보정</string>
+    <string name="doc_photo_enhance_moer">물결무늬 지우기</string>
+    <string name="doc_photo_enhance_moer_desc">물결무늬 잔상 지우기</string>
+    <string name="doc_photo_enhance_moer_toast">물결무늬 잔상을 지웁니다.</string>
+    <string name="doc_photo_enhance_undistortion">왜곡 보정</string>
+    <string name="doc_photo_enhance_undistortion_desc">사진 왜곡 보정하기</string>
+    <string name="doc_photo_toast_undistortion_close">왜곡 보정 끄기</string>
+    <string name="doc_photo_toast_undistortion_open">왜곡 보정 켜기</string>
 </resources>
