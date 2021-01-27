@@ -2852,4 +2852,6 @@
     <string name="fiveg_sa_vice_switch_title">SIM 2 SA</string>
     <string name="preference_countrycode_title">국가 코드</string>
     <string name="stk_name">USIM 툴킷</string>
+    <string name="sensor_answer_summary">기기를 귀 가까이 가져가면 자동으로 전화 수신</string>
+    <string name="sensor_answer_title">자동으로 전화 수신</string>
 </resources>
