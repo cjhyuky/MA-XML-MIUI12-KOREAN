@@ -2033,4 +2033,8 @@
     <string name="pref_video_cast_setting_title">여러 기기 동시 녹화</string>
     <string name="video_cast_dialog_msg_connecting">연결 중...</string>
     <string name="video_cast_dialog_msg_unavailable">여러 기기 동시 녹화를 사용하려면 블루투스 및 Wi-Fi를 켜세요.</string>
+    <string name="live_music_author_unknown">알 수 없는 아티스트</string>
+    <string name="live_music_cut_prompt">곡 선택</string>
+    <string name="pref_camera_predictive_shutter_description">어린이나 애완동물과 같은 피사체를 촬영할 때 모션 블러가 감소합니다.</string>
+    <string name="pref_camera_predictive_shutter_title">모션 캡처</string>
 </resources>

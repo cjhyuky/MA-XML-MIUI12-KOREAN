@@ -141,7 +141,7 @@
     <string name="settings_home">MIUI+ Beta</string>
     <string name="settings_home_device_disconnect">연결 해제</string>
     <string name="settings_home_device_group">연결된 기기</string>
-    <string name="settings_home_tips">"Screen Combo는 연결된 PC에 복제된 휴대전화 화면을 표시하여, PC에서 휴대전화와 파일을 주고 받거나 상호작용할 수 있습니다."</string>
+    <string name="settings_home_tips">"MIUI+ Beta는 연결된 PC에 복제된 휴대전화 화면을 표시하여, PC에서 휴대전화와 파일을 주고 받거나 상호작용할 수 있습니다."</string>
     <string name="settings_more_help">도움말</string>
     <string name="settings_privacy_policy">개인정보 보호정책</string>
     <string name="settings_scanner_button">스캐너</string>

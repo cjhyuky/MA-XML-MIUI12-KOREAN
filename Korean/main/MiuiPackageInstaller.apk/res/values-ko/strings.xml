@@ -50,7 +50,7 @@
     <string name="install_finished_notification_summary">지금 청소하려면 클릭하세요.</string>
     <string name="install_finished_notification_title">%1$s 앱 설치가 완료되었습니다. %2$s 휴지통을 청소하세요.</string>
     <string name="miui_install_version_3">버전: %1$s -&gt; %2$s | 크기: %3$s</string>
-    <string name="replace_app_des_text">이 앱을 덮어쓰기하기를 원하시나요?</string>
+    <string name="replace_app_des_text">이 앱을 덮어쓰시겠습니까?</string>
     <string name="untrusted_external_source_always_click">항상 허용</string>
     <string name="adb_install_no_network">"네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
     <string name="adb_install_open">열기…</string>

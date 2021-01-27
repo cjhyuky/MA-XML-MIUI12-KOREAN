@@ -83,4 +83,5 @@
     <string name="edge_mode_custom_summary">화면 가장자리 주변의 깨우기 영역 크기 조정</string>
     <string name="edge_mode_custom_title">맞춤</string>
     <string name="edge_mode_default_title">기본값</string>
+    <string name="turn_on_work_profile">켜기</string>
 </resources>

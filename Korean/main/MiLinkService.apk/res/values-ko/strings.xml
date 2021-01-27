@@ -205,5 +205,29 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="privacy_permission_wlan_desc_china">주변에서 사용 가능한 기기를 찾는 경우</string>
     <string name="privacy_positive">동의</string>
     <string name="privacy_title">주의</string>
-    <string name="synergy_casting">"Screen Combo와 화면 전송을 동시에 사용할 수 없습니다."</string>
+    <string name="synergy_casting">"MIUI+와 화면 전송을 동시에 사용할 수 없습니다."</string>
+    <string name="close">닫기</string>
+    <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
+    <string name="global_privacy">이용 약관</string>
+    <string name="global_privacy_detail"><Data>"이 앱을 사용하려면 당사의 &lt;a href=%1$s>이용 약관&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책을&lt;/a> 읽고 동의해야 합니다.&lt;br>이와 같은 서비스 이용에 동의하지 않으면, 이 앱의 기본적인 기능 외에 일부 기능을 사용할 수 없습니다."</Data></string>
+    <string name="global_privacy_explain">캐스팅에 오신 것을 환영합니다! 이 앱은 다음과 같은 서비스를 제공합니다.</string>
+    <string name="global_privacy_feature">최소화된 창 이용, 화면 끈 상태에서 캐스팅, 개인 항복 숨김</string>
+    <string name="global_privacy_main">"더 큰 외장 모니터에 휴대전화 화면을 투사합니다."</string>
+    <string name="global_privacy_negative">"동의 안 함"</string>
+    <string name="global_privacy_positive">동의</string>
+    <string name="global_privacy_tip"><Data>당사는 기본적인 서비스를 제공하고 캐스팅 과정을 최적화하기 위해 필요한 개인정보를 수집해야합니다. 당사가 수집한 정보를 처리하는 방법은 개인정보 보호정책을 통해 알 수 있습니다. 사용자는 언제든지 설정에서 개인정보 보호정책에 대한 동의를 철회할 수 있습니다.</Data></string>
+    <string name="miuix_appcompat_action_mode_deselect_all">선택 해제</string>
+    <string name="miuix_appcompat_action_mode_select_all">모두 선택</string>
+    <string name="miuix_appcompat_action_mode_title_empty">항목 선택</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">더보기</string>
+    <string name="miuix_appcompat_cancel_description">취소</string>
+    <string name="miuix_appcompat_confirm_description">확인</string>
+    <string name="miuix_appcompat_delete_description">삭제</string>
+    <string name="miuix_appcompat_deselect_all">선택 해제</string>
+    <string name="miuix_appcompat_deselect_all_description">모두 선택 해제</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
+    <string name="miuix_appcompat_search_input_description">검색</string>
+    <string name="miuix_appcompat_select_all_description">모두 선택</string>
+    <string name="miuix_appcompat_select_item">항목 선택</string>
+    <string name="send">보내기</string>
 </resources>
