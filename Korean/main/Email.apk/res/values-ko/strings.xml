@@ -1453,4 +1453,35 @@
     <string name="user_experience_positive">동의 및 계속</string>
     <string name="user_experience_title">이용 약관</string>
     <string name="open_pdf_error">PDF 파일을 열 수 없습니다. 다른 PDF 뷰어를 설치한 후 다시 시도하세요.</string>
+    <string name="choose_an_office365_provider">office365 서비스 제공 업체 선택</string>
+    <string name="conversation_report_un_spam">스팸 아님</string>
+    <string name="email_no_snippet">[이 메시지에는 본문이 없습니다.]</string>
+    <string name="general_preference_trash_contact">스팸 차단</string>
+    <string name="general_preference_trash_contact_sum">많은 수로 신고 된 발신자의 편지 처리</string>
+    <string name="meeting_allday">"
+         일시:
+         %s
+         (하루 종일)
+    "</string>
+    <string name="meeting_allday_recurring">"
+         일시:
+         %s
+         (하루 종일, 반복)
+    "</string>
+    <string name="meeting_recurring">"
+         일시:
+         %s
+         (반복)
+    "</string>
+    <string name="meeting_when">"
+         일시:
+         %s
+    "</string>
+    <string name="meeting_where">"
+         장소:
+         %s
+    "</string>
+    <string name="notification_exchange_calendar_added">Exchange 캘린더 추가됨</string>
+    <string name="ntes_login_auth_too_much">인증 코드 번호가 상한선인 5개에 도달했습니다. 웹 페이지를 사용하여 NetEase 사서함에 로그인하여 불필요한 인증 코드를 삭제하십시오.</string>
+    <string name="web_view_load_error_tip">일부 문제가 발생하여이 이메일의 본문을 제대로 표시 할 수 없습니다. 이 문제가 발생하면 QQ 그룹 952315061을 추가하여 피드백을 보내주십시오.</string>
 </resources>
