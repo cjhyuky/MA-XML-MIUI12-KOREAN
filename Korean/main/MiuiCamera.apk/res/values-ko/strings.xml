@@ -2028,7 +2028,7 @@
     <string name="close_night_algo_toast_thermal">노출을 설정하려면 기기 온도를 낮추세요.</string>
     <string name="pref_super_night_se_summary">빛이 적은 환경을 인식하면 자동으로 야간 모드를 켜고, 알고리즘을 통해 이미지 처리 효과를 개선합니다.</string>
     <string name="pref_super_night_se_title">자동 야간 모드</string>
-    <string name="remote_online_setup_wizard_msg_prerequisite">상대 기기에서는 제어 센터를 열어 \'여러 기기 동시 녹화\'를 켜야 합니다. '여러 기기 동시 녹화' 기능이 탑재된 Xiaomi 및 Redmi 휴대전화에서만 지원됩니다.</string>
+    <string name="remote_online_setup_wizard_msg_prerequisite">상대 기기에서는 제어 센터를 열어 \'여러 기기 동시 녹화\'를 켜야 합니다. \'여러 기기 동시 녹화\' 기능이 탑재된 Xiaomi 및 Redmi 휴대전화에서만 지원됩니다.</string>
     <string name="pref_video_cast_setting_summary">여러 기기 동시 녹화를 위해 초대받을 수 있습니다.</string>
     <string name="pref_video_cast_setting_title">여러 기기 동시 녹화</string>
     <string name="video_cast_dialog_msg_connecting">연결 중...</string>
