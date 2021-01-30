@@ -10326,10 +10326,10 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="save_battery_mode">QHD+ 모드에서 배터리 절전</string>
     <string name="save_battery_mode_summary">배터리 절전을 위해 해상도를 자동으로 변경합니다.</string>
     <string name="headset_connectiong">연결 중...</string>
-    <string name="headset_remove_message">계정에서 이 기기를 제거하시겠습니까?</string>
-    <string name="headset_remove_message_indicate">Xiaomi 계정과 연동된 모든 기기가 제거됩니다.</string>
+    <string name="headset_remove_message">페어링을 해제하시겠습니까?</string>
+    <string name="headset_remove_message_indicate">%1$s이(가) Mi 계정과 연동된 모든 기기와 페어링 해제됩니다.</string>
     <string name="headset_unsaved_device">기기 제거</string>
-    <string name="headset_unsaved_devices">저장 안함. 계정의 다른 기기에 연결합니다.</string>
+    <string name="headset_unsaved_devices">다른 기기에서 사용됨</string>
     <string name="miheadset_Box">박스</string>
     <string name="miheadset_LeftEar">왼쪽</string>
     <string name="miheadset_RightEar">오른쪽</string>
@@ -10383,7 +10383,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="magic_window_name">분할 화면</string>
     <string name="truetone_summary">주변의 빛에 따라 색상을 조정합니다.</string>
     <string name="truetone_title">적응형 색상</string>
-    <string name="miheadset_anc_indicate">헤드폰을 연결하고 착용하세요.</string>
+    <string name="miheadset_anc_indicate">이어폰을 연결 및 페어링하세요.</string>
     <string name="launcher_icon_management">홈 화면 바로가기 관리</string>
     <string name="switch_headset_anti_lost">이어폰 분실 경고</string>
     <string name="switch_headset_anti_lost_summary">이어폰 중 하나가 귀 또는 충전 케이스에서 1분 이상 떨어져 있을 때마다 알림을 받습니다.</string>
@@ -10394,4 +10394,19 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="bluetooth_enable_page_scan_summary">블루투스 테스트를 위한 연결 대기를 켜거나 끕니다.</string>
     <string name="mute_media_sound_summary">게임, 음악, 동영상을 포함한 여러 앱</string>
     <string name="var_font_switch_title">시스템 전체 글꼴</string>
+    <string name="bluetooth_fastConnect_key_device_id">기기 ID</string>
+    <string name="bluetooth_fastConnect_resource_load">블루투스 FastConnect 리소스 불러오기</string>
+    <string name="miheadset_audio_mode">오디오 품질</string>
+    <string name="miheadset_audio_mode_high">높음</string>
+    <string name="miheadset_audio_mode_listen">낮음</string>
+    <string name="miheadset_audio_mode_normal">표준</string>
+    <string name="miheadset_auto_ack_mode">"이어폰 착용 중에 자동으로 전화를 받습니다."</string>
+    <string name="miheadset_auto_ack_mode_summary">자동으로 전화 받기</string>
+    <string name="miheadset_double_click_key_mode">두 번 두드리기</string>
+    <string name="miheadset_double_click_right">오른쪽 이어폰 두 번 두드리기</string>
+    <string name="miheadset_minus">볼륨 감소</string>
+    <string name="miheadset_multi_connect_mode">멀티포인트</string>
+    <string name="miheadset_multi_connect_mode_summary">여러 기기를 동시에 연결합니다.</string>
+    <string name="miheadset_plus">볼륨 증가</string>
+    <string name="miheadset_triple_click_key_mode">세 번 두드리기</string>
 </resources>

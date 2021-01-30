@@ -542,35 +542,17 @@
     <string name="meeting_accepted">"
          수락됨:
 %s "</string>
-    <string name="meeting_allday">"
-         시간:
-%s (하루 종일)
-    "</string>
-    <string name="meeting_allday_recurring">"
-         시간:
-%s (하루 종일, 반복)
-    "</string>
     <string name="meeting_canceled">"
          취소됨:
 %s "</string>
     <string name="meeting_declined">"
          거부됨:
 %s "</string>
-    <string name="meeting_recurring">"
-         시간:
-%s (반복)
-    "</string>
     <string name="meeting_tentative">"
          미정:
 %s "</string>
     <string name="meeting_updated">"
          업데이트됨:
-%s "</string>
-    <string name="meeting_when">"
-         시간:
-%s "</string>
-    <string name="meeting_where">"
-         장소:
 %s "</string>
     <string name="megabytes">%sMB</string>
     <string name="menu_att_mgr">첨부 파일</string>
@@ -649,7 +631,6 @@
     <string name="notification_action_undo_archive">보관됨</string>
     <string name="notification_action_undo_delete">삭제됨</string>
     <string name="notification_action_undo_remove_label">태그 제거됨</string>
-    <string name="notification_exchange_calendar_added">Exchange 달력 추가됨</string>
     <string name="oauth_error_description">인증하지 못했습니다.</string>
     <string name="oauth_gmail_login_notify">다음 로그인 페이지에서 Google 계정의 사용자 이름과 비밀번호를 입력하세요.</string>
     <string name="oauth_login_continue">계속</string>
@@ -1372,7 +1353,7 @@
     <string name="b_contacts">차단 목록</string>
     <string name="b_contacts_remove">차단 목록에서 제외</string>
     <string name="b_contacts_remove_tips">이 주소를 차단 목록에서 제거하시겠습니까?</string>
-    <string name="choose_an_office365_provider">Office 365 서비스 공급자를 선택하세요.</string>
+    <string name="choose_an_office365_provider">Office365 서비스 공급자 선택</string>
     <string name="conversation_report_spam">스팸 신고</string>
     <string name="conversation_spam_dig_msg">이 메시지를 스팸으로 표시하시겠습니까? 메시지가 \"스팸\" 폴더로 이동되며 발신자가 차단 목록에 추가됩니다.</string>
     <string name="conversation_spam_tips">이 메시지를 스팸으로 표시하시겠습니까?</string>
@@ -1453,7 +1434,6 @@
     <string name="user_experience_positive">동의 및 계속</string>
     <string name="user_experience_title">이용 약관</string>
     <string name="open_pdf_error">PDF 파일을 열 수 없습니다. 다른 PDF 뷰어를 설치한 후 다시 시도하세요.</string>
-    <string name="choose_an_office365_provider">office365 서비스 제공 업체 선택</string>
     <string name="conversation_report_un_spam">스팸 아님</string>
     <string name="email_no_snippet">[이 메시지에는 본문이 없습니다.]</string>
     <string name="general_preference_trash_contact">스팸 차단</string>
