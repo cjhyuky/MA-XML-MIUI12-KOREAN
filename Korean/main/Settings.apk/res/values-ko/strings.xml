@@ -10393,4 +10393,5 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="bluetooth_enable_page_scan">블루투스 연결 대기</string>
     <string name="bluetooth_enable_page_scan_summary">블루투스 테스트를 위한 연결 대기를 켜거나 끕니다.</string>
     <string name="mute_media_sound_summary">게임, 음악, 동영상을 포함한 여러 앱</string>
+    <string name="var_font_switch_title">시스템 전체 글꼴</string>
 </resources>
