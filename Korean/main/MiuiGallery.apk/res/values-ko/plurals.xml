@@ -220,7 +220,7 @@
         <item quantity="other">파일 %1$d개</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">콜라주에 사진 1-%d장이 포함될 수 있습니다.</item>
+        <item quantity="other">콜라주에 사진 %1$d-%2$d장이 포함될 수 있습니다.</item>
     </plurals>
     <plurals name="burst_image_download_item_title_count">
         <item quantity="other">사진 %d장</item>
