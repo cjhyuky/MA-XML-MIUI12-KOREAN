@@ -4380,4 +4380,9 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
     <string name="gtb_spring_festival_egg_obtain_fail">"이 네트워크에 연결할 수 없습니다."</string>
     <string name="send">전송</string>
+     <string name="antivirus_third_privacy_title">타사 개인정보 정책</string>
+     <string name="gamebox_macro">콤보</string>
+     <string name="gb_game_macro_bubble_tips">콤보를 써보세요.</string>
+     <string name="gb_game_macro_toast_tips">"콤보를 써보세요!
+순서를 기록해서 언제든지 사용하세요!"</string>
 </resources>

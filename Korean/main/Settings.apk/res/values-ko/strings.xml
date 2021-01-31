@@ -10403,7 +10403,6 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miheadset_auto_ack_mode">"이어폰 착용 중에 자동으로 전화를 받습니다."</string>
     <string name="miheadset_auto_ack_mode_summary">자동으로 전화 받기</string>
     <string name="miheadset_double_click_key_mode">두 번 두드리기</string>
-    <string name="miheadset_double_click_right">오른쪽 이어폰 두 번 두드리기</string>
     <string name="miheadset_minus">볼륨 감소</string>
     <string name="miheadset_multi_connect_mode">멀티포인트</string>
     <string name="miheadset_multi_connect_mode_summary">여러 기기를 동시에 연결합니다.</string>
