@@ -2037,4 +2037,10 @@
     <string name="live_music_cut_prompt">곡 선택</string>
     <string name="pref_camera_predictive_shutter_description">어린이나 애완동물과 같은 피사체를 촬영할 때 모션 블러가 감소합니다.</string>
     <string name="pref_camera_predictive_shutter_title">모션 캡처</string>
+    <string name="beauty_skincolor_wheat">밀</string>
+    <string name="beauty_makeups_bluefemale">라이트 유럽</string>
+    <string name="beauty_makeups_gentleman">소금</string>
+    <string name="beauty_makeups_nude">우아</string>
+    <string name="beauty_makeups_pinkfemale">매력</string>
+    <string name="beauty_makeups_toughman">조직</string>
 </resources>

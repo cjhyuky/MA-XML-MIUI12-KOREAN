@@ -1772,4 +1772,6 @@
     <string name="card_expand_note_toast_save_done_new">메모장에 저장됨</string>
     <string name="save_to_note_new">메모에 저장</string>
     <string name="toast_reach_text_limit_truncate_new">메모가 너무 깁니다. 초과된 내용이 잘렸습니다.</string>
+    <string name="app_pa_setting_service_covid">코로나바이러스감염증-19 정보</string>
+    <string name="app_pa_setting_service_covid_summry">코로나바이러스감염증-19 관련 최신 정보를 확인하세요.</string>
 </resources>

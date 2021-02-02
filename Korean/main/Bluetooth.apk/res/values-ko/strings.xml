@@ -249,4 +249,5 @@
     <string name="bt_audio_share_notification_content">옵션을 보려면 누르세요.</string>
     <string name="bt_audio_share_notification_title">오디오 공유</string>
     <string name="notice_audio_share_disconnected">연결이 끊어져 더 이상 오디오를 공유하지 않음</string>
+    <string name="snapdragon_sound_notification_content">이 기기는 퀄컴® 스냅드래곤 사운드™ 기술을 지원합니다.</string>
 </resources>

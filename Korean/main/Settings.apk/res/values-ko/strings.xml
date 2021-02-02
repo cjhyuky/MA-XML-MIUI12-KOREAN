@@ -10408,4 +10408,22 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="miheadset_multi_connect_mode_summary">여러 기기를 동시에 연결합니다.</string>
     <string name="miheadset_plus">볼륨 증가</string>
     <string name="miheadset_triple_click_key_mode">세 번 두드리기</string>
+    <string name="color_game_led_applications_title">앱 선택</string>
+    <string name="color_game_led_applications_title_summary">앱별로 알림 표시등 사용을 제한할 수 있습니다.</string>
+    <string name="color_game_led_battery_title">충전 중 점등</string>
+    <string name="color_game_led_charging_summary">배터리 충전이 완료되면 꺼집니다.</string>
+    <string name="color_game_led_end_time">종료 시간</string>
+    <string name="color_game_led_game_mode_summary">게임 터보를 사용할 때 게임 효과를 표시합니다.</string>
+    <string name="color_game_led_game_mode_title">게임 터보에서 사용</string>
+    <string name="color_game_led_incall_pulse_title">전화 수신 시 사용</string>
+    <string name="color_game_led_notification_pulse_title">화면이 꺼졌을 때 알림 수신 시 점등</string>
+    <string name="color_game_led_remind_title">알림 효과</string>
+    <string name="color_game_led_special_scene_title">특수 효과</string>
+    <string name="color_game_led_start_time">시작 시간</string>
+    <string name="color_game_led_summary">"방해 금지 모드에서는 작동하지 않습니다."</string>
+    <string name="color_game_led_time_title">시간 예약</string>
+    <string name="color_game_led_title">알림 표시등</string>
+    <string name="screen_enhance_engine_memc_note_2">%d. 이 기능은 동영상 도구 상자가 켜졌을 때만 작동합니다.</string>
+    <string name="setup_password_skip">건너뛰기</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. 이 기능 사용 시 배터리 소모가 증가합니다.</string>
 </resources>

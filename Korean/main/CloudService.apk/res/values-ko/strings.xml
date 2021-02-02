@@ -1157,4 +1157,5 @@ Xiaomi 클라우드를 사용하기 전에 당사의 "&lt;u&gt;&lt;a href="app:/
     <string name="retain_data_high_quality_photo_waring_message">로그아웃하면 고품질 이미지가 갤러리에서 삭제됩니다. 그래도 원본 파일은 클라우드에 보관되어 있습니다. 로그아웃 전에 원본 파일을 다운로드할 수도 있습니다.</string>
     <string name="retain_data_high_quality_photo_waring_title">"고품질 이미지 이용 불가"</string>
     <string name="share_location_menu_create_shortcut">홈 화면 바로가기</string>
+    <string name="device_activation_card_description_china">"최초 활성화는 기기가 네트워크(Wi-Fi 및 모바일 네트워크 등)에 처음으로 연결될 때 등록됩니다. 최초 활성화 등록에는 일반적으로 시간이 약간 소요되므로, 네트워크에 연결하고 3~5일 후 활성화 상태를 확인하시기 바랍니다.&lt;br>&lt;br>기기 활성화는 당사의 연장 보증 유효 기간을 판단하는 주요 요인입니다. 자세한 정보는 &lt;a href=%1$s>교환, 환불, 수리 정책&lt;/a>을 확인하세요.&lt;br>&lt;br>문의사항은 고객 지원으로 연락주시기 바랍니다: 400-100-5678."</string>
 </resources>
