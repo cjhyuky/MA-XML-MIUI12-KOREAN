@@ -79,7 +79,7 @@
     <string name="activity_title_license_manager">권한</string>
     <string name="activity_title_networkassistants">데이터 사용량</string>
     <string name="activity_title_other_permission_manager">기타 권한</string>
-    <string name="activity_title_permission_manager">앱 권한</string>
+    <string name="activity_title_permission_manager">권한</string>
     <string name="activity_title_permissions_manager">권한</string>
     <string name="activity_title_power_manager">배터리 사용량</string>
     <string name="activity_title_risk_app_install_manager">잠재적 위험 앱</string>
@@ -428,7 +428,7 @@
     <string name="app_name_na">데이터 사용량</string>
     <string name="app_name_securitycenter">보안</string>
     <string name="app_not_installed_toast">앱이 기기에 설치되어 있지 않습니다.</string>
-    <string name="app_perm_manager_service">권한 관리 서비스</string>
+    <string name="app_perm_manager_service">권한</string>
     <string name="app_permission_use_group_calendar">캘린더</string>
     <string name="app_permission_use_group_calendar_des">캘린더 정보 읽기와 추가</string>
     <string name="app_permission_use_group_camera">카메라</string>
@@ -2791,7 +2791,7 @@ SMS 전송"</string>
     <string name="setting_alarm_summary">모든 주요 플랫폼에 대한 공식 빨간 봉투 이벤트 경보 알림</string>
     <string name="setting_privacy_password">패턴 추가</string>
     <string name="settings">데이터 사용량 설정</string>
-    <string name="settings_battery_consume_abnormal_summary">배터리 과소모 시 알림을 받습니다.</string>
+    <string name="settings_battery_consume_abnormal_summary">배터리가 과도하게 소모되면 알림을 받습니다.</string>
     <string name="settings_battery_consume_abnormal_title">배터리 과소모 알림</string>
     <string name="settings_camera_subtitle_no">메타 데이터 없음</string>
     <string name="settings_category_other">기타 설정</string>
@@ -4205,8 +4205,8 @@ SMS 전송"</string>
     <string name="power_optimize_power_save_extend_time">%s 추가</string>
     <string name="power_optimize_power_save_summary">다크 모드로 전환 및 백그라운드 활동을 제한하는 여러 시스템 최적화로 배터리 사용량을 줄입니다.</string>
     <string name="power_optimize_prohibit_app_autostart">"앱 자동 실행 제한"</string>
-    <string name="power_optimize_reduce_fps">화면 재생률 %dHZ로 낮추기</string>
-    <string name="power_optimize_reduce_fps_summary">낮은 화면 재생률은 대부분의 상황에 잘 작동합니다.</string>
+    <string name="power_optimize_reduce_fps">화면 재생률 %dhz로 낮추기</string>
+    <string name="power_optimize_reduce_fps_summary">대부분의 상황에서는 낮은 화면 재생률도 충분합니다.</string>
     <string name="prompt_danger">위험</string>
     <string name="prompt_safe">안전</string>
     <string name="prompt_unknown">알 수 없음</string>

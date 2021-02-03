@@ -474,7 +474,7 @@
     <string name="assistant_page_label">추억앨범</string>
     <string name="assistant_page_server_error">네트워크 설정 확인</string>
     <string name="associate_face_album">앨범 선택</string>
-    <string name="auto_backup_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 요구됨)</string>
+    <string name="auto_backup_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 필요)</string>
     <string name="auto_download_media_title">Xiaomi 클라우드에서 사진 자동으로 저장</string>
     <string name="auto_update_face">자동으로 사진 추가</string>
     <string name="auto_update_face_summary">자동으로 매치하여 아기 앨범으로 사진 추가</string>
@@ -803,8 +803,8 @@
     <string name="enable_auto_upload_tip">이 앨범과 Xiaomi 클라우드의 동기화를 켜시겠습니까?</string>
     <string name="enable_auto_upload_title">Xiaomi 클라우드 동기화 켜기</string>
     <string name="enable_cloud_for_sharing">공유된 사진을 보려면 Xiaomi 클라우드 앨범을 켜야 합니다.</string>
-    <string name="enable_face_album_summary">사진 속 사람들로 사진 자동 정렬</string>
-    <string name="enable_face_album_title">사람들로 정렬</string>
+    <string name="enable_face_album_summary">사진 속 인물을 기준으로 사진을 자동 정렬합니다.</string>
+    <string name="enable_face_album_title">인물별 정렬</string>
     <string name="enter_choice_mode">입력된 공유 대화 상자</string>
     <string name="enter_email_hint">이메일 주소 입력</string>
     <string name="error_album_not_exist">앨범이 존재하지 않습니다.</string>
@@ -898,7 +898,7 @@
     <string name="face_album_not_named">이름 없음</string>
     <string name="face_album_rename_hint">이름 입력</string>
     <string name="face_album_title">%s와 촬영한 사진</string>
-    <string name="face_album_use_tip">사진 속 사람들로 사진 자동 정렬</string>
+    <string name="face_album_use_tip">사진 속 사람으로 사진 자동 정렬</string>
     <string name="face_albumset_loading_data">데이터 불러오는 중…</string>
     <string name="face_choose_tip">기존 앨범에서 선택</string>
     <string name="face_confirm">동일 인물입니다.</string>
@@ -1101,7 +1101,7 @@
     <string name="menu_view_contact">연락처 보기</string>
     <string name="merge_album">합치기</string>
     <string name="merge_album_title">한 사람으로 합치기</string>
-    <string name="micloud_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 요구됨)</string>
+    <string name="micloud_introduce">사진 및 동영상이 자동으로 백업됩니다. (Mi 계정 필요)</string>
     <string name="midnight">오전</string>
     <string name="monday">월요일</string>
     <string name="month_april">4월</string>
@@ -1630,7 +1630,7 @@
     <string name="special_type_portrait">AI 라이트 페인팅 초상화</string>
     <string name="special_type_wide_angle">AI 초광각</string>
     <string name="start_debug">갤러리 디버그</string>
-    <string name="start_to_use_face_albumset">사람들로 정렬</string>
+    <string name="start_to_use_face_albumset">인물별로 정렬</string>
     <string name="sticker_ad">광고</string>
     <string name="sticker_baibai">식물</string>
     <string name="sticker_beard">수염</string>
