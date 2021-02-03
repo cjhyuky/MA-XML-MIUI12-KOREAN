@@ -4385,4 +4385,11 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
      <string name="gb_game_macro_bubble_tips">콤보를 써보세요.</string>
      <string name="gb_game_macro_toast_tips">"콤보를 써보세요!
 순서를 기록해서 언제든지 사용하세요!"</string>
+    <string name="power_center_night_charge_noti_subtitle">%s에 충전 완료합니다.</string>
+    <string name="power_center_night_charge_noti_title">스마트 충전 보호</string>
+    <string name="power_center_night_charge_protection">스마트 충전 보호</string>
+    <string name="power_center_night_charge_protection_setting">설정 - 배터리 &amp; 성능으로 이동하세요.</string>
+    <string name="power_center_night_charge_protection_summary">시스템이 충전 중 배터리를 보호합니다. 시스템은 사용자의 일상적인 충전 습관을 지능적으로 학습하고, 특정 시간에 충전을 지연하는 식으로 배터리 충전을 지능적으로 조절하여 배터리 수명을 연장합니다.</string>
+    <string name="power_dailog_night_charge_protection_done">확인</string>
+    <string name="power_dailog_night_charge_protection_summary">휴대전화 배터리 충전이 완료된 상태에서 충전을 지속하면 배터리 수명이 감소합니다. 스마트 충전 보호를 실행하여 과충전을 방지하고 배터리 수명을 연장합니다.</string>
 </resources>
