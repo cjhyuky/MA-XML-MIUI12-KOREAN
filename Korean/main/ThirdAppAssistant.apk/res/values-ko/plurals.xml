@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="er_app_update">
-        <item quantity="other">강제 종료를 방지하려면 앱 %d개를 업데이트하세요.</item>
-    </plurals>
-    <plurals name="er_app_update_more">
-        <item quantity="other">강제 종료를 방지하려면 앱 %d개를 업데이트하세요.</item>
-    </plurals>
-</resources>

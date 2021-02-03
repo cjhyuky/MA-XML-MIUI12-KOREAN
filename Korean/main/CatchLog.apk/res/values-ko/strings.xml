@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="catch_log_start_dump_charger_log">충전 기록을 sdcard/diag_logs에 저장 중…</string>
-    <string name="catch_log_stop_dump_charger_log">sdcard/diag_logs에 충전 기록 저장 완료</string>
-</resources>
