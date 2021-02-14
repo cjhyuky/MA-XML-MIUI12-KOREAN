@@ -110,7 +110,7 @@
         <item quantity="other">노래 %d곡을 업로드했습니다.</item>
     </plurals>
     <plurals name="cloud_state_view_hint_download_pause">
-        <item quantity="other">다운로드가 일시 중지되었으며 %d곡이 남았습니다.</item>
+        <item quantity="other">다운로드가 일시중지되었으며 %d곡이 남았습니다.</item>
     </plurals>
     <plurals name="local_song_empty_hint_button_sub_text">
         <item quantity="other">다운로드할 노래가 %1$d개, 총%2$.1fM입니다.</item>

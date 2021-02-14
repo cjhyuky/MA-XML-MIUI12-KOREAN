@@ -154,7 +154,7 @@
         <item quantity="other">%d개 번호</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">%d개 앱의 데이터 사용량 추적 안 함</item>
+        <item quantity="other">%d개 앱의 데이터 사용량 추적 안함</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">%d개 앱의 데이터 사용량 추적하기</item>
