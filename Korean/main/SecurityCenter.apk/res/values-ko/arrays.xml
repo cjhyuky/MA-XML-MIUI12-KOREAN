@@ -124,7 +124,7 @@
     <string-array name="roaming_network_type">
         <item>항상 허용</item>
         <item>설정된 예외 사항의 경우만 허용</item>
-        <item>허용 안 함</item>
+        <item>허용 안함</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>데이터 사용량</item>
@@ -158,7 +158,7 @@
         <item>1분 후</item>
         <item>5분 후</item>
         <item>10분 후</item>
-        <item>안 함</item>
+        <item>안함</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15초</item>
@@ -167,7 +167,7 @@
         <item>2분</item>
         <item>5분</item>
         <item>10분</item>
-        <item>안 함</item>
+        <item>안함</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>고성능</item>

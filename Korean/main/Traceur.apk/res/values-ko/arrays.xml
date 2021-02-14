@@ -99,7 +99,7 @@
         <item>GlGetError에서 스택 호출</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP 검사 사용 안 함</item>
+        <item>HDCP 검사 사용 안함</item>
         <item>DRM 콘텐츠에 대해서만 HDCP 검사 사용</item>
         <item>항상 HDCP 검사 사용</item>
     </string-array>
