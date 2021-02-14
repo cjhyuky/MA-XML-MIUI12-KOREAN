@@ -1301,7 +1301,6 @@
     <string name="keyguard_missing_sim_instructions_long">SIM 카드가 없거나 읽을 수 없는 상태입니다. SIM 카드를 삽입하세요.</string>
     <string name="keyguard_missing_sim_message">휴대전화에 SIM 카드가 없습니다.</string>
     <string name="keyguard_missing_sim_message_short">SIM 카드 없음</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">네트워크 잠김</string>
     <string name="keyguard_password_enter_password_code">잠금 해제하려면 비밀번호 입력</string>
     <string name="keyguard_password_enter_pin_code">PIN 코드 입력</string>
@@ -1838,7 +1837,6 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="plugins">플러그인</string>
     <string name="pointer_location">포인터 위치</string>
     <string name="pointer_location_summary">현재 터치 데이터 오버레이 표시</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - 충전 완료까지 %2$s 남음</string>
     <string name="power_discharge_by">대략 %1$s까지 사용 가능(%2$s)</string>
     <string name="power_discharge_by_enhanced">사용량(%2$s)을 기준으로 약 %1$s까지 사용 가능</string>
@@ -1910,7 +1908,6 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="private_dns_mode_provider">비공개 DNS 제공업체 호스트 이름</string>
     <string name="private_dns_mode_provider_failure">연결할 수 없음</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS 제공업체의 호스트 이름 입력</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">연결 중에 문제가 발생했습니다. 기기를 껐다가 다시 켜 보세요.</string>
     <string name="profile_info_settings_title">프로필 정보</string>
     <string name="profile_owned_footer">프로필이 모니터링될 수 있음</string>
