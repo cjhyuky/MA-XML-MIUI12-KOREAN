@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="font_hint_large">기본 글자 크기</string>
-    <string name="font_hint_normal">글자 크기 키우기</string>
+    <string name="font_hint_large">글자 작게</string>
+    <string name="font_hint_normal">글자 크게</string>
     <string name="ktlocation_U">(KT 서비스 센터)</string>
     <string name="ktposition_header">긴급 구조 기관과 위치 정보 공유</string>
-    <string name="locale_picker_other_locale_title">기타 지역</string>
+    <string name="locale_picker_other_locale_title">다른 지역</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">개인정보 보호정책</string>
     <string name="service_name_fast_pairing">Mi 링크</string>
     <string name="skip_gesture_guide_dialog_message">전체 화면 제스처 사용 방법을 이해하셨나요?</string>
@@ -33,9 +33,8 @@
     <string name="multisim_settings_category">SIM 카드 설정</string>
     <string name="sim_card_detection">SIM 카드 삽입</string>
     <string name="sim_card_detecting_title">SIM 카드를 확인 중...</string>
-    <string name="sim_card_detection_info">SIM 카드를 삽입하기 전에 기기와 함께 제공된 지침을 읽으세요.</string>
-    <string name="sim_card_detecting">"SIM 카드 확인 중
-2026"</string>
+    <string name="sim_card_detection_info">SIM 카드를 삽입하기 전에 기기와 함께 제공된 설명서를 읽으세요.</string>
+    <string name="sim_card_detecting">"SIM 카드를 확인 중..."</string>
     <string name="other_settings">추가 설정</string>
     <string name="other_settings_location">위치</string>
     <string name="other_settings_location_summary">앱이 위치 정보를 불러오도록 허용합니다.</string>
@@ -59,7 +58,7 @@
     <string name="ime_privacy_policy">선택한 키보드의 개인정보 보호정책</string>
     <string name="ime_privacy_policy_no_network">네트워크 연결 없음. %s에서 이 키보드의 개인정보 보호정책 보기</string>
     <string name="terms_of_use">이용 약관</string>
-    <string name="terms_of_use_label">"당사가 수집하는 정보의 종류와 이용 방법, 그리고 사용자의 선택지에 대해 알고 싶다면 당사의 이용 약관과 개인정보 보호정책을 읽어보세요.
+    <string name="terms_of_use_label">"당사가 수집하는 정보의 종류와 이용 목적, 그리고 사용자가 선택할 수 있는 사항에 대해 알고 싶다면 이용 약관과 개인정보 보호정책을 읽어보세요.
 
 MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 동의해야 합니다.
 
@@ -70,7 +69,7 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="agree">동의</string>
     <string name="disagree">취소</string>
     <string name="setting_locale">지역 설정 중…</string>
-    <string name="agree_terms">"이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다."</string>
+    <string name="agree_terms">"이용 약관 및 개인정보 보호정책을 읽었으며 이에 동의합니다."</string>
     <string name="miui_terms_no_network">"인터넷에 연결되어 있지 않습니다. %s에서 사용자 이용 약관을 보세요."</string>
     <string name="miui_privacy_policy_no_network">인터넷이 연결되지 않았습니다. %s에서 개인정보 보호정책을 보세요.</string>
     <string name="locale_picker_title">지역 선택</string>
@@ -83,7 +82,7 @@ MIUI를 사용하려면 반드시 이용 약관과 개인정보 보호정책에 
     <string name="content_description_start">시작</string>
     <string name="content_description_complete">완료</string>
     <string name="content_description_language_picker">언어 선택</string>
-    <string name="language_picker_other_languages_title">더 많은 언어</string>
+    <string name="language_picker_other_languages_title">다른 언어</string>
     <string name="enable_accessibility_dialog_message">10초 이상 두 손가락으로 화면을 눌러 TalkBack를 켰습니다. TalkBack은 시각 장애인을 위해 음성 의견을 제공합니다. 실수로 TalkBack을 켰다면 취소 버튼을 누르고 화면을 두 번 탭하세요.</string>
     <string name="enable_accessibility_dialog_positive_btn">확인</string>
     <string name="enable_accessibility_dialog_negative_btn">취소</string>
@@ -190,7 +189,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="permission_application_package_introduction">설치 패키지를 구문 분석하고 스캔하기 위해 스토리지에 액세스</string>
     <string name="permission_call_records">통화 기록에 액세스 :</string>
     <string name="permission_call_records_introduction">차단된 항목을 표시하기 위해 통화 기록에 액세스</string>
-    <string name="permission_call_state_introduction">전화 상태 액세스, 통화 녹음 및 수신 통화 중 녹음 일시 중지</string>
+    <string name="permission_call_state_introduction">전화 상태 액세스, 통화 녹음 및 수신 통화 중 녹음 일시중지</string>
     <string name="permission_clock_info_introduction">알람 데이터 저장</string>
     <string name="permission_contact">연락처에 액세스:</string>
     <string name="permission_contact_introduction">차단 목록 기능 제공 및 긴급 연락처 호출</string>
@@ -277,7 +276,7 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="home_settings_poco_launcher">앱 서랍</string>
     <string name="home_settings_title">기본 홈 화면 선택</string>
     <string name="wc_dialog_agree">동의</string>
-    <string name="wc_dialog_reject">"동의 안 함"</string>
+    <string name="wc_dialog_reject">"동의 안함"</string>
     <string name="wc_dialog_summary">슬라이드형 배경화면을 통해 날마다 멋진 이미지와 흥미로운 이야기를 잠금 화면에서 만나보세요.</string>
     <string name="wc_dialog_title">잠금 화면의 변신</string>
     <string name="wc_double_check_agree">한 번 써볼게요.</string>

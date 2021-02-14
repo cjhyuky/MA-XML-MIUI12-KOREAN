@@ -84,7 +84,7 @@
     <string name="bill_desp_top">"사용자는 무료로 영상통화를 이용중입니다:"</string>
     <string name="bind_phone_number">연결된 전화번호</string>
     <string name="black_list">차단 목록</string>
-    <string name="black_tip">"이미 차단 되었습니다, 차단목록의 연락처로부터 문자나 전화를 받지 않습니다."</string>
+    <string name="black_tip">"이미 차단 되었습니다, 차단 목록의 연락처로부터 문자나 전화를 받지 않습니다."</string>
     <string name="bomb">폭탄</string>
     <string name="bottom_add">구성원 추가</string>
     <string name="burn_mode_audio">[Burn after reading:audio]</string>
@@ -269,7 +269,7 @@
     <string name="empty_calllog_prompt">통화기록이 없습니다.</string>
     <string name="empty_contact_prompt">"연락처가 없습니다 
  무료 통화를 할 연락처를 초대하세요"</string>
-    <string name="empty_intercept_list">차단목록이 없습니다.</string>
+    <string name="empty_intercept_list">차단 목록이 없습니다.</string>
     <string name="enable_manual_connection_mode">수동모드를 열까요?</string>
     <string name="end_remote_assist_info">잠시만 기다려주세요...</string>
     <string name="engine">엔진</string>
@@ -502,7 +502,7 @@
     <string name="option_delete_calllog">삭제</string>
     <string name="original_pic">원본 사진</string>
     <string name="other_contacts">다른 연락처</string>
-    <string name="other_pause_video">다른 사용자가 화상 통화를 일시 중지</string>
+    <string name="other_pause_video">다른 사용자가 화상 통화를 일시중지</string>
     <string name="password_hint">비밀번호 입력</string>
     <string name="password_rules_msg">(8-16자리. 숫자, 기호, 문자 중 적어도 두 개이상 포함)</string>
     <string name="password_rules_msg_notification">"계정의 보안을 위해 비밀번호를 설정하세요"</string>

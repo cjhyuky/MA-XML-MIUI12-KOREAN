@@ -572,7 +572,7 @@
     <string name="accessibility_reminder_type">알림 유형</string>
     <string name="accessibility_remove_reminder">알림 삭제</string>
     <string name="acessibility_cal_notification">캘린더 알림</string>
-    <string name="acessibility_snooze_notification">알림 일시 중지</string>
+    <string name="acessibility_snooze_notification">알림 일시중지</string>
     <string name="add_account">계정 추가</string>
     <string name="attendees_label">참석자</string>
     <string name="copy_db">데이터베이스 보내기</string>
@@ -581,7 +581,7 @@
     <string name="delete_label">삭제</string>
     <string name="description_label">일정 설명</string>
     <string name="dismiss_all_label">모두 해제</string>
-    <string name="do_not_check">선택 안 함 -></string>
+    <string name="do_not_check">선택 안함 -></string>
     <string name="edit_label">수정</string>
     <string name="event_info_organizer">주최자:</string>
     <string name="goto_today">오늘</string>
@@ -616,8 +616,8 @@
     <string name="search_title">내 캘린더 검색</string>
     <string name="select_synced_calendars_button">동기화할 캘린더</string>
     <string name="select_visible_calendars_title">표시할 캘린더</string>
-    <string name="snooze_all_label">모두 일시 중지</string>
-    <string name="snooze_label">알림 일시 중지</string>
+    <string name="snooze_all_label">모두 일시중지</string>
+    <string name="snooze_label">알림 일시중지</string>
     <string name="week_view">주</string>
     <string name="what_label">내용</string>
     <string name="where_label">장소</string>

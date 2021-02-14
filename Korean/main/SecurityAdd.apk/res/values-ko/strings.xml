@@ -6,7 +6,7 @@
     <string name="abc_action_mode_done">완료</string>
     <string name="abc_activity_chooser_view_see_all">전체 보기</string>
     <string name="abc_activitychooserview_choose_application">앱 선택</string>
-    <string name="abc_capital_off">사용 안 함</string>
+    <string name="abc_capital_off">사용 안함</string>
     <string name="abc_capital_on">사용</string>
     <string name="abc_search_hint">검색...</string>
     <string name="abc_searchview_description_clear">검색어 삭제</string>

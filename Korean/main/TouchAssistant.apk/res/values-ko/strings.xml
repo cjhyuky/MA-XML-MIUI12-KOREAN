@@ -61,7 +61,7 @@
     <string name="name_wechat_scan">WeChat 스캐너</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi Pay가 활성화되지 않음</string>
     <string name="nfc_trans_card_not_in_use">교통카드가 활성화되지 않음</string>
-    <string name="not_working">%s (작동 안 함)</string>
+    <string name="not_working">%s (작동 안함)</string>
     <string name="open_panel">터치 도우미 켜기</string>
     <string name="pay_entry_dialog_title_select">앱 선택하여 열기</string>
     <string name="pay_entry_dialog_title_setting">앱 설정</string>

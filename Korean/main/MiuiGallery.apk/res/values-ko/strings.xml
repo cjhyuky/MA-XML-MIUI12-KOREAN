@@ -42,7 +42,7 @@
     <string name="already_share">공유됨</string>
     <string name="authorize_to_device_failed">"인증할 수 없음"</string>
     <string name="authorize_watch_on_tv_failed">"TV에서 볼 수 있는 권한을 부여 할 수 없습니다."</string>
-    <string name="backup_pause_dialog_title">동기화 일시 중지</string>
+    <string name="backup_pause_dialog_title">동기화 일시중지</string>
     <string name="btn_sure">확인</string>
     <string name="cancel_authorize_to_device_failed">"인증을 취소 할 수 없습니다."</string>
     <string name="cancel_authorize_watch_on_tv_failed">"TV 시청을위한 승인을 취소 할 수 없습니다."</string>
@@ -510,7 +510,7 @@
     <string name="backup_automatically_summary">모든 기기의 사진 및 동영상이 Xiaomi 클라우드로 백업됩니다. 모든 기기에서 편리하게 사진 및 동영상을 검색, 정렬, 편집, 공유할 수 있습니다.</string>
     <string name="backup_automatically_title">자동 백업</string>
     <string name="backup_battery_low_desc">아직 항목 계속 백업을 선택할 수 있습니다.</string>
-    <string name="backup_battery_low_title">배터리 부족으로 인해 백업이 일시 중지됨</string>
+    <string name="backup_battery_low_title">배터리 부족으로 인해 백업이 일시중지됨</string>
     <string name="backup_close">백업 닫기</string>
     <string name="backup_cloud_space_low_btn_text">용량 추가</string>
     <string name="backup_cloud_space_low_desc">Xiaomi 클라우드 %1$s | %2$s 사용 가능</string>
@@ -538,8 +538,8 @@
     <string name="backup_only_in_wifi">Wi‑Fi만 사용하여 사진 및 동영상 백업</string>
     <string name="backup_only_in_wifi_summary">모바일 데이터를 사용하여 사진 또는 동영상을 백업하지 않습니다.</string>
     <string name="backup_only_wifi_dialog_message">모바일 데이터를 사용하여 사진과 영상을 백업하시겠습니까?</string>
-    <string name="backup_pause">백업 일시 중지</string>
-    <string name="backup_pause_title">동기화가 일시 중지됨</string>
+    <string name="backup_pause">백업 일시중지</string>
+    <string name="backup_pause_title">동기화가 일시중지됨</string>
     <string name="backup_pending">자동으로 백업됩니다.</string>
     <string name="backup_stop">백업 중지</string>
     <string name="backup_sync_dialog_confirm">활성화</string>
@@ -1076,7 +1076,7 @@
     <string name="loading_image_thumbnail">미리보기 다운로드 중…</string>
     <string name="loading_members">멤버 불러오는 중026</string>
     <string name="loading_processing_tip">사진 작업 중…</string>
-    <string name="loading_suspend">다운로드 일시 중지됨. Wi-Fi가 사용 가능해지면 다시 시작됩니다.</string>
+    <string name="loading_suspend">다운로드 일시중지됨. Wi-Fi가 사용 가능해지면 다시 시작됩니다.</string>
     <string name="loading_video">동영상 다운로드 중…</string>
     <string name="loading_video_fail_sync_without_network">네트워크에 연결하여 메타데이터를 다운로드하세요.</string>
     <string name="loading_video_fail_syncing">메타데이터의 다운로드를 기다리신 후 다시 시도하세요.</string>

@@ -106,7 +106,7 @@
     <string name="dialog_title_check_all">모두 선택</string>
     <string name="hints_garbage_handle_item_content">%1$d개의 항목, %2$s개</string>
     <string name="hints_garbage_handle_item_empty_content">비어있음</string>
-    <string name="hints_latest_garbage_cleanup_never">청소 안 함</string>
+    <string name="hints_latest_garbage_cleanup_never">청소 안함</string>
     <string name="hints_latest_garbage_cleanup_today">최근 청소: 오늘</string>
     <string name="hints_latest_garbage_cleanup_yesterday">최근 청소: 어제</string>
     <string name="hints_latest_garbage_cleanup_date">최근 청소: %d일 전</string>
@@ -301,7 +301,7 @@
     <string name="clear_bigfiles">큰 파일, 중복 사진, 기타 사용하지 않는 항목 삭제</string>
     <string name="clear_immediately">지금 청소</string>
     <string name="clear_safe_notify">알림 창 위젯</string>
-    <string name="nb_clear_set">알림 창에서 캐시 정리와 배터리, 차단목록 정보를 볼 수 있습니다.</string>
+    <string name="nb_clear_set">알림 창에서 캐시 정리와 배터리, 차단 목록 정보를 볼 수 있습니다.</string>
     <string name="seton_immediately">켜기</string>
     <string name="notify_when">쓰레기 용량이 100MB에 도달했을때 알림을 받습니다.</string>
     <string name="goto_set">설정</string>
@@ -778,7 +778,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"지금은 여기까지입니다."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없음"</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사됨</string>
     <string name="search_menu_title">검색</string>
     <string name="storage_activity_title">저장소 공간</string>

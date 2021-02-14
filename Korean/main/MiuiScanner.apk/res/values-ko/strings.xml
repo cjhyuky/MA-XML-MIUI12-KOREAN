@@ -18,7 +18,7 @@
     <string name="monitor_unsupport_device">현재 기기가 지원되지 않습니다.</string>
     <string name="monitoringAlert_content">"넷 클래스 화면을 향하고 정상적인 앉은 자세를 유지하세요.이 전화기를 시선 바로 앞에서 30도 각도로 수직으로 놓고 카메라가 얼굴을 향하게 한 다음 시작 버튼을 클릭하세요. .
  *이 소프트웨어는 온라인 코스 기기가 아닌주의 탐지에만 사용됩니다. 시작하기 전에 식별 및 수정에 몇 초가 걸립니다. "</string>
-    <string name="monitoringCHeck_pause">일시 중지</string>
+    <string name="monitoringCHeck_pause">일시중지</string>
     <string name="monitoringCheck_alert">앉은 자세를 수정하고 네트 클래스 화면을 향하도록하세요.</string>
     <string name="monitoringCheck_alertChecking">확인 중...</string>
     <string name="monitoringCheck_checking">테스트 결과를 기다리는 중 ...</string>

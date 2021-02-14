@@ -58,7 +58,7 @@
     <string name="cancel_moving_dialog_message">지금 가져오기를 중단하시겠습니까?</string>
     <string name="cancel_moving_dialog_title">가져오기 중단</string>
     <string name="cannot_use_mi_huanji_button">확인</string>
-    <string name="cannot_use_mi_huanji_summary">MIUI가 지금 항목을 백업하는 것 같습니다. 진행 중인 백업을 중지하거나 기기를 재부팅하여 Mi Mover가 전송을 시작할 수 있도록 합니다.</string>
+    <string name="cannot_use_mi_huanji_summary">MIUI가 지금 항목을 백업하는 것 같습니다. 진행 중인 백업을 중지하거나 기기를 다시 시작하여 Mi Mover가 전송을 시작할 수 있도록 합니다.</string>
     <string name="cannot_use_mi_huanji_title">"지금 전송할 수 없음"</string>
     <string name="check_phone_error_title">동기화 꺼짐</string>
     <string name="check_phone_io_error">"네트워크에 연결할 수 없습니다."</string>

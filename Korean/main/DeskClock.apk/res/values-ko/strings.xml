@@ -41,7 +41,7 @@
     <string name="upcoming_alarm">%s 알람이 울립니다.</string>
     <string name="upcoming_alarm_hint">이 알람을 원하지 않으면 끄기 버튼을 누르세요.</string>
     <string name="start">시작</string>
-    <string name="pause">일시 중지</string>
+    <string name="pause">일시중지</string>
     <string name="reset">초기화</string>
     <string name="lap">구간</string>
     <string name="timer_continue">계속</string>
@@ -231,7 +231,7 @@
     <string name="timer_end_time_format">M월 d일 HH:mm</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_can_continue_in_timer">타이머를 열어서 계속하기</string>
-    <string name="timer_is_paused">타이머가 일시 중지중입니다.</string>
+    <string name="timer_is_paused">타이머가 일시중지중입니다.</string>
     <string name="expired_timers_dismissed">타이머 취소됨</string>
     <string name="invalid_timer_length">잘못된 타이머 길이</string>
     <string name="other_category_title">기타</string>
@@ -287,7 +287,7 @@
     <string name="life_post_setting_open_background_title">배경 이미지 표시</string>
     <string name="life_post_setting_open_summary">4시에서 10시 사이에 꺼진 첫번째 알람에 날씨정보 포함</string>
     <string name="listen_news_privacy"><Data>사용자 맞춤 서비스를 제공하고 알람에 아침 뉴스를 포함시키려면 시계 앱이 인터넷에 연결되어야 합니다. 시계를 사용하기 전에 당사의 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>에 숙지하고 이에 동의해야 합니다. 동의하십니까?</Data></string>
-    <string name="module_dialog_negative">"동의 안 함"</string>
+    <string name="module_dialog_negative">"동의 안함"</string>
     <string name="module_dialog_neutral">확인</string>
     <string name="module_dialog_positive">동의</string>
     <string name="module_download_failure">"오디오를 다운로드할 수 없습니다. 네트워크를 확인하고 다시 시도하세요."</string>
@@ -455,7 +455,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">하지 않음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사됨</string>
     <string name="reach_upper_limit">"타이머를 추가할 수 없습니다."</string>
     <string name="system_permission_agree_desc">이 앱을 인터넷에 연결하여 모든 기능에 접근하도록 허용.</string>
@@ -467,7 +467,7 @@
     <string name="worldclock_second_time">시간: %s</string>
     <string name="worldcolock_time_date">yyyy/MM/dd</string>
     <string name="action_for_continue_timer">계속</string>
-    <string name="action_for_pause_timer">일시 중지</string>
+    <string name="action_for_pause_timer">일시중지</string>
     <string name="action_for_restart">반복</string>
     <string name="action_for_snooze">다시 알림</string>
     <string name="action_for_stop">정지</string>

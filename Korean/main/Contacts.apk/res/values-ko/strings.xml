@@ -347,7 +347,7 @@
     <string name="cancel_export_confirmation_message">%s 내보내기를 취소하시겠습니까?</string>
     <string name="cancel_vcard_import_or_export_failed">vCard 가져오기/내보내기를 취소하지 못했습니다.</string>
     <string name="search_settings_description">연락처의 이름</string>
-    <string name="add_2sec_pause">2초 일시 중지 추가</string>
+    <string name="add_2sec_pause">2초 일시중지 추가</string>
     <string name="add_wait">대기 추가</string>
     <string name="call_disambig_title">번호 선택</string>
     <string name="call_settings">설정</string>
@@ -1475,7 +1475,7 @@
     <string name="month_september_short">9월</string>
     <string name="month_september_shortest">9</string>
     <string name="more">더보기</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>

@@ -110,11 +110,11 @@
     <string name="accessibility_intent_done_apply">완료</string>
     <string name="accessibility_intent_done_retry">재촬영</string>
     <string name="accessibility_item">항목</string>
-    <string name="accessibility_lighting_panel_off">스튜디오 조명 바 표시 안 함</string>
+    <string name="accessibility_lighting_panel_off">스튜디오 조명 바 표시 안함</string>
     <string name="accessibility_lighting_panel_on">스튜디오 조명 바 표시</string>
     <string name="accessibility_live_edit_exit_button">나가기</string>
     <string name="accessibility_live_music_loading_button">불러오는 중</string>
-    <string name="accessibility_live_music_pause_button">일시 중지</string>
+    <string name="accessibility_live_music_pause_button">일시중지</string>
     <string name="accessibility_live_music_play_button">재생</string>
     <string name="accessibility_live_preview_button">이전 항목 보기</string>
     <string name="accessibility_live_reverse_button">이전 클립 삭제</string>
@@ -165,7 +165,7 @@
     <string name="accessibility_shutter_complete_button">촬영 완료</string>
     <string name="accessibility_shutter_end_button">정지</string>
     <string name="accessibility_shutter_next_button">다음</string>
-    <string name="accessibility_shutter_pause_button">일시 중지</string>
+    <string name="accessibility_shutter_pause_button">일시중지</string>
     <string name="accessibility_shutter_process_button">촬영 중</string>
     <string name="accessibility_shutter_resume_button">계속</string>
     <string name="accessibility_shutter_saving_button">저장 중</string>
@@ -1847,7 +1847,7 @@
     <string name="live_workspace_delete_dialog_title">%1$d 임시 저장을 삭제하시겠습니까?</string>
     <string name="live_workspace_title">임시 저장함</string>
     <string name="live_workspace_title_edit">삭제할 항목을 선택하세요.</string>
-    <string name="snap_cancel_draft">저장 안 함</string>
+    <string name="snap_cancel_draft">저장 안함</string>
     <string name="update_hint">다운로드 버튼을 눌러 알고리즘을 업데이트하세요.</string>
     <string name="download_cancel_hint">%1$s 다운로드를 취소하시겠습니까?</string>
     <string name="download_confirm">다운로드</string>
@@ -1918,7 +1918,7 @@
     <string name="cam_string_remote_camera_setup_wizard_title3">상대방의 연결 대기 중...</string>
     <string name="cam_string_remote_camera_setup_wizard_title4">연결 대상:</string>
     <string name="cam_string_remote_camera_setup_wizard_title6">연결이 끊어졌습니다. 다시 연결하십시오.</string>
-    <string name="cam_string_video_cast_state_paused">일시 중지됨</string>
+    <string name="cam_string_video_cast_state_paused">일시중지됨</string>
     <string name="cam_strings_rcs_notification_description">원격 카메라 이미지 전송 서비스</string>
     <string name="cam_strings_rcs_wifi_dialog_button_cancel">취소</string>
     <string name="cam_strings_rcs_wifi_dialog_button_open">연결 해제</string>

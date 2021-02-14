@@ -14,7 +14,7 @@
     <string name="de_icon_text_discuss">토론</string>
     <string name="de_resource_author">저자(%1$s)</string>
     <string name="has_mamual_hide_icons">숨겨진 아이콘</string>
-    <string name="hide_free_icons">"무료 아이콘 표시 안 함"</string>
+    <string name="hide_free_icons">"무료 아이콘 표시 안함"</string>
     <string name="hide_free_miwallpaper">"무료 홈 화면 효과를 표시하지 않음"</string>
     <string name="hide_mamual_hide_icons">"수동으로 숨겨진 아이콘을 표시하지 않음"</string>
     <string name="hide_mamual_hide_miwallpaper">"숨겨진 홈 화면 효과를 표시하지 않습니다."</string>
@@ -83,7 +83,7 @@
     <string name="resource_title">세부사항</string>
     <string name="resource_download">다운로드</string>
     <string name="resource_downloading">다운로드 중</string>
-    <string name="resource_waiting_pause">일시 중지</string>
+    <string name="resource_waiting_pause">일시중지</string>
     <string name="resource_waiting_download">대기 중</string>
     <string name="resource_import_successful">완료</string>
     <string name="resource_import_failed">가져올 수 없습니다.</string>
@@ -788,7 +788,7 @@
     <string name="title_my_miwallpaper_desktop_effects">홈 화면 효과</string>
     <string name="transparency_pref_summary">배경화면의 투명도를 선택하세요.</string>
     <string name="transparency_pref_title">불투명도 레벨</string>
-    <string name="transparent_wallpaper_disable">사용 안 함</string>
+    <string name="transparent_wallpaper_disable">사용 안함</string>
     <string name="transparent_wallpaper_enable">사용 중</string>
     <string name="transparent_wallpaper_filter_pref_summary">"제한된 앱에는 투명 배경화면이 표시되지 않습니다."</string>
     <string name="transparent_wallpaper_filter_pref_title">투명 배경화면에서 작동해야하는 앱을 선택하세요.</string>

@@ -319,10 +319,10 @@
     <string name="voice_input_error_other">오류 발생. 1~2분 후 다시 시도하세요.</string>
     <string name="wifi_assistant_wifi_no_internet">이 Wi-Fi 네트워크는 인터넷에 연결되어 있지 않습니다.</string>
     <string name="wifi_assistant_wifi_no_internet_detail">탭하여 자세히 보기</string>
-    <string name="wireless_charging_notification_message1">충전할 무선 기기를 찾을 수 없습니다. 역방향 무선 충전이 꺼졌습니다.</string>
-    <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 역방향 무선 충전이 꺼졌습니다.</string>
-    <string name="wireless_charging_notification_message3">충전 중 오류가 발생했습니다. 역방향 무선 충전이 꺼졌습니다.</string>
-    <string name="wireless_charging_notification_titile">역방향 무선 충전 꺼짐</string>
+    <string name="wireless_charging_notification_message1">충전할 무선 기기를 찾을 수 없습니다. 무선 배터리 공유가 꺼졌습니다.</string>
+    <string name="wireless_charging_notification_message2">배터리가 30% 미만입니다. 무선 배터리 공유가 꺼졌습니다.</string>
+    <string name="wireless_charging_notification_message3">충전 중 오류가 발생했습니다. 무선 배터리 공유가 꺼졌습니다.</string>
+    <string name="wireless_charging_notification_titile">무선 배터리 공유 꺼짐</string>
     <string name="xspace_head">듀얼 앱</string>
     <string name="xspace_resolver_activity_title">앱 선택</string>
     <string name="send_files_by">파일 공유 방법</string>

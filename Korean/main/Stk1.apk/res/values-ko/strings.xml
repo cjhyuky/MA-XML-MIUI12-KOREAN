@@ -20,7 +20,7 @@
     <string name="default_call_setup_msg">전화 거는 중...</string>
     <string name="stk_app_state">애플리케이션 상태</string>
     <string name="enable_app">사용</string>
-    <string name="disable_app">사용 안 함</string>
+    <string name="disable_app">사용 안함</string>
     <string name="lable_display_text">텍스트 표시</string>
     <string name="lable_get_inkey">인키 불러오기</string>
     <string name="lable_get_input">입력 불러오기</string>

@@ -60,7 +60,7 @@
     <string name="mr_controller_expand_group">펼치기</string>
     <string name="mr_controller_no_info_available">사용 가능한 정보가 없습니다.</string>
     <string name="mr_controller_no_media_selected">선택된 미디어가 없습니다.</string>
-    <string name="mr_controller_pause">일시 중지</string>
+    <string name="mr_controller_pause">일시중지</string>
     <string name="mr_controller_play">재생</string>
     <string name="mr_controller_stop">중지</string>
     <string name="mr_controller_stop_casting">화면 전송 중지</string>
@@ -368,7 +368,7 @@
     <string name="callFailed_dsac_restricted_normal">액세스 제어에 의해 일반 통화가 제한되었습니다.</string>
     <string name="callFailed_unobtainable_number">잘못된 번호</string>
     <string name="incall_error_missing_voicemail_number">음성사서함 번호를 알 수 없음</string>
-    <string name="ringtone_silent">선택 안 함</string>
+    <string name="ringtone_silent">선택 안함</string>
     <string name="ringtone_unknown">알 수 없는 벨소리</string>
     <string name="label_nsdp">SIM 일부 네트워크 잠금해제 PIN</string>
     <string name="label_cdp">SIM 통합 잠금해제 PIN</string>
@@ -978,7 +978,7 @@
     <string name="alertdialogtitle">결과...</string>
     <string name="name_hint_text">이름</string>
     <string name="phone_number_hint_text">전화번호.</string>
-    <string name="search_app_name">전화;통화 녹음;리다이렉트;통화 대기;차단목록;국가 코드;지역 코드;국가코드;지역코드;녹음 통화;녹음통화;다이얼 패드;통화;전화;통신 방법;VoIP;VoLTE;부재중 통화;부재중 전화;SIP;T9;IP 통신 방식;FDN</string>
+    <string name="search_app_name">전화;통화 녹음;리다이렉트;통화 대기;차단 목록;국가 코드;지역 코드;국가코드;지역코드;녹음 통화;녹음통화;다이얼 패드;통화;전화;통신 방법;VoIP;VoLTE;부재중 통화;부재중 전화;SIP;T9;IP 통신 방식;FDN</string>
     <string name="search_antispam_setting">차단 목록</string>
     <string name="path_app_name">시스템 앱/휴대전화</string>
     <string name="path_voip_setting">시스템 앱/전화/Mi 보이스</string>
@@ -1210,7 +1210,7 @@
     <string name="preference_dial_pad_touch_tone_default">기본값</string>
     <string name="preference_dial_pad_touch_tone_piano">피아노 키</string>
     <string name="preference_dial_pad_touch_tone_off">꺼짐</string>
-    <string name="preference_telocation_summary_countrycode_off">국가코드 자동 다이얼링 안 함</string>
+    <string name="preference_telocation_summary_countrycode_off">국가코드 자동 다이얼링 안함</string>
     <string name="telephony_setting">휴대전화</string>
     <string name="msim_setting_screen_title">SIM 카드 &amp; 모바일 네트워크</string>
     <string name="msim_setting_categery_title">SIM 카드 설정</string>
@@ -1760,7 +1760,7 @@
     <string name="convert_to_file_encryption_done">이미 암호화된 파일</string>
     <string name="convert_to_file_encryption_enabled">변환중...</string>
     <string name="convert_to_file_encryption">파일 암호화로 변환</string>
-    <string name="daltonizer_mode_disabled">사용 안 함</string>
+    <string name="daltonizer_mode_disabled">사용 안함</string>
     <string name="daltonizer_type_overridden">%1$s에 의해 재정의되었습니다.</string>
     <string name="data_usage_uninstalled_apps">삭제된 앱</string>
     <string name="data_usage_uninstalled_apps_users">삭제된 앱 및 사용자</string>
@@ -1969,8 +1969,8 @@
     <string name="tts_status_ok"> %1$s는 완전히 지원됩니다.</string>
     <string name="tts_status_requires_network">%1$s에 네트워크 연결이 필요합니다.</string>
     <string name="tts_status_title">기본 언어 상태</string>
-    <string name="usb_audio_disable_routing">USB 오디오 라우팅 사용 안 함</string>
-    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 기기에 자동 라우팅 사용 안 함</string>
+    <string name="usb_audio_disable_routing">USB 오디오 라우팅 사용 안함</string>
+    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 기기에 자동 라우팅 사용 안함</string>
     <string name="user_guest">게스트</string>
     <string name="verify_apps_over_usb_summary">유해한 행동을 방지하기 위해 ADB / ADT를 통해 설치된 앱을 확인하세요.</string>
     <string name="verify_apps_over_usb_title">USB를 통해 앱 확인</string>
@@ -2001,7 +2001,7 @@
     <string name="wifi_allow_scan_with_traffic_summary">인터페이스에서 데이터 트래픽의 양에 따라 Wi-Fi 로밍 검사를 허용 / 금지합니다.</string>
     <string name="wifi_auth_password_wrong">비밀번호가 잘못되었을 수 있습니다.</string>
     <string name="wifi_connected_no_internet">인터넷에 연결되어 있지 않습니다.</string>
-    <string name="wifi_disabled_generic">사용 안 함</string>
+    <string name="wifi_disabled_generic">사용 안함</string>
     <string name="wifi_disabled_network_failure">IP 구성 실패</string>
     <string name="wifi_disabled_password_failure">인증 문제</string>
     <string name="wifi_disabled_wifi_failure">Wi-Fi 연결 실패</string>
@@ -2620,7 +2620,7 @@
     <string name="wifi_coverage_extend_summary">핫스팟을 통한 Wi-Fi 접속거리 확장을 활성화합니다.</string>
     <string name="wifi_metered_label">저장됨</string>
     <string name="wifi_p2p_allow_passive_listen">Wi-Fi P2P 수동 수신 허용</string>
-    <string name="wifi_p2p_allow_passive_listen_summary">Wi-Fi P2P 수동 수신 허용/허용 안 함, 다른 기기를 검색 할 수는 없지만 다른 기기는 현재 기기를 검색 할 수 있습니다.</string> 
+    <string name="wifi_p2p_allow_passive_listen_summary">Wi-Fi P2P 수동 수신 허용/허용 안함, 다른 기기를 검색 할 수는 없지만 다른 기기는 현재 기기를 검색 할 수 있습니다.</string> 
     <string name="wifi_status_mac_randomized">MAC 주소가 무작위로 변경되었습니다.</string>
     <string name="wifi_status_no_internet">인터넷 없음</string>
     <string name="wifi_status_sign_in_required">로그인 요구됨</string>

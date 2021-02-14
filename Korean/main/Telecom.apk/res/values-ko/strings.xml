@@ -347,7 +347,7 @@
     <string name="tts_status_requires_network">%1$s 항목은 네트워크 연결이 필요합니다.</string>
     <string name="tts_status_title">기본 언어 상태</string>
     <string name="usb_audio_disable_routing">USB 오디오 라우팅 끄기</string>
-    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 기기에 대한 자동 라우팅 사용 안 함</string>
+    <string name="usb_audio_disable_routing_summary">USB 오디오 주변 기기에 대한 자동 라우팅 사용 안함</string>
     <string name="user_guest">손님</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT를 통한 설치 시 유해한 앱인지 검사합니다.</string>
     <string name="verify_apps_over_usb_title">USB로 설치 시 앱 검증</string>
@@ -659,7 +659,7 @@
     <string name="wifi_coverage_extend_summary">핫스팟을 통한 Wi-Fi 접속거리 확장을 활성화합니다.</string>
     <string name="wifi_metered_label">저장됨</string>
     <string name="wifi_p2p_allow_passive_listen">Wi-Fi P2P 수동 수신 허용</string>
-    <string name="wifi_p2p_allow_passive_listen_summary">Wi-Fi P2P 수동 수신 허용/허용 안 함, 다른 기기를 검색 할 수는 없지만 다른 기기는 현재 기기를 검색 할 수 있습니다.</string> 
+    <string name="wifi_p2p_allow_passive_listen_summary">Wi-Fi P2P 수동 수신 허용/허용 안함, 다른 기기를 검색 할 수는 없지만 다른 기기는 현재 기기를 검색 할 수 있습니다.</string> 
     <string name="wifi_status_mac_randomized">MAC 주소가 무작위로 변경되었습니다.</string>
     <string name="wifi_status_no_internet">인터넷 없음</string>
     <string name="wifi_status_sign_in_required">로그인 요구됨</string>
@@ -712,7 +712,7 @@
     <string name="mr_controller_expand_group">확장</string>
     <string name="mr_controller_no_info_available">사용 가능한 정보가 없습니다.</string>
     <string name="mr_controller_no_media_selected">선택된 미디어가 없습니다.</string>
-    <string name="mr_controller_pause">일시 중지</string>
+    <string name="mr_controller_pause">일시중지</string>
     <string name="mr_controller_play">재생</string>
     <string name="mr_controller_stop">중지</string>
     <string name="mr_controller_stop_casting">화면 전송 중지</string>

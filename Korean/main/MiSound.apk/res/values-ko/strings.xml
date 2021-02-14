@@ -135,7 +135,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
     <string name="multi_music_coexistence_summary">"수신 알림 또는 다른 소스의 오디오가 재생되는 동안 미디어 볼륨을 조정하지 마세요."</string>
     <string name="multi_music_coexistence_title">여러 오디오 소스</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사</string>
     <string name="search_menu_title">검색</string>
     <string name="sound_assist_key_summary">여러 앱이 동시에 오디오를 재생하는 동안 개별 앱에 대한 사운드 조정</string>

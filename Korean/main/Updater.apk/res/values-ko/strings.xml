@@ -9,7 +9,7 @@
     <string name="btn_install">MD5 확인 &amp; 설치</string>
     <string name="btn_no">취소</string>
     <string name="btn_ok">확인</string>
-    <string name="btn_pause">일시 중지</string>
+    <string name="btn_pause">일시중지</string>
     <string name="btn_share">공유</string>
     <string name="btn_stop">중단</string>
     <string name="btn_yes">확인</string>
@@ -18,7 +18,7 @@
     <string name="dialog_3g_title">경고!</string>
     <string name="dialog_btn_3g">그래도 계속</string>
     <string name="dialog_btn_wifi">Wi-Fi로 전환</string>
-    <string name="dialog_stop_desc">다운로드를 일시 중지하거나 중단할 수 있습니다. 선택하세요.</string>
+    <string name="dialog_stop_desc">다운로드를 일시중지하거나 중단할 수 있습니다. 선택하세요.</string>
     <string name="dialog_stop_title">다운로드 중단?</string>
     <string name="download_done">다운로드 완료!</string>
     <string name="download_fail">다운로드 실패!</string>

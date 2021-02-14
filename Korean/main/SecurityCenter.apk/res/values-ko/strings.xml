@@ -877,7 +877,7 @@
     <string name="declaration_dialog_msg">이 기능은 사용량 추적을 도울 수 있지만 추가 요금이 들 수도 있습니다. 최고의 결과를 원하면 한도를 낮게 설정하세요.</string>
     <string name="deep_clean_disconnect_data_title">기기가 잠길 때 모바일 데이터 끄기</string>
     <string name="deep_clean_memory_clean_title">기기가 잠길 때 캐시 지우기</string>
-    <string name="deep_clean_never_memory_clean">안 함</string>
+    <string name="deep_clean_never_memory_clean">안함</string>
     <string name="deep_power_save_item_summary_auto_brightness">배터리를 절약하려면 화면 밝기를 자동으로 변경하세요.</string>
     <string name="deep_power_save_item_summary_bluetooth">블루투스를 꺼서 배터리를 절약하세요.</string>
     <string name="deep_power_save_item_summary_lock_screen_time">배터리를 절약하기 위해 30초 간 사용하지 않으면 화면이 꺼집니다.</string>
@@ -926,7 +926,7 @@
     <string name="dialog_title_stop_virus_scan">보안 검사 중지</string>
     <string name="disable_air_mode">먼저 비행기 탑승 모드 끄기</string>
     <string name="dlg_add_blacklist">이 번호를 차단하시겠습니까?</string>
-    <string name="dlg_add_blacklist_title">차단목록에 추가</string>
+    <string name="dlg_add_blacklist_title">차단 목록에 추가</string>
     <string name="dlg_add_keyword">키워드 추가</string>
     <string name="dlg_add_white">예외에 추가된 번호로부터 오는 새로운 통화 및 메시지는 통화 기록 및 메시지 수신함에 표시됩니다. 그러나 이전에 차단된 항목은 여기에 나타나지 않습니다. 선택한 번호를 예외에 추가하시겠습니까?</string>
     <string name="dlg_antispam_mode_delete_message">규칙은 삭제된 후에는 복구할 수 없습니다.</string>
@@ -2009,7 +2009,7 @@ SMS 전송"</string>
     <string name="no_lucky_money">빨간 봉투를 받지 못했습니다.</string>
     <string name="not_available">아니요</string>
     <string name="not_limited_brand">무제한</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="note">메모</string>
     <string name="note_call_none">통화 없음</string>
     <string name="note_list_none">목록이 비어 있습니다.</string>
@@ -2030,7 +2030,7 @@ SMS 전송"</string>
     <string name="notification_low_battery_need_charge">기기를 충전하세요.</string>
     <string name="notification_low_battery_open_save_mode">절전 모드 켜기</string>
     <string name="notification_low_battery_title">배터리 %s 이하 남음</string>
-    <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안 함</string>
+    <string name="notification_mask_summary">보호된 앱에 대한 알림 내용 표시 안함</string>
     <string name="notification_mask_title">알림 내용 숨기기</string>
     <string name="notification_masked_item">알림 내용을 숨기고 싶으신가요?</string>
     <string name="notification_masked_subtitle">앱 잠금을 써보세요.</string>
@@ -2460,7 +2460,7 @@ SMS 전송"</string>
     <string name="pref_daily_adjust">피크 데이터 사용량 설정</string>
     <string name="pref_daily_traffic">피크 데이터 한도</string>
     <string name="pref_data_usage_ignore_settings">데이터 사용량 무시</string>
-    <string name="pref_data_usage_ignore_settings_summary">선택한 앱의 데이터 사용량 추적 안 함</string>
+    <string name="pref_data_usage_ignore_settings_summary">선택한 앱의 데이터 사용량 추적 안함</string>
     <string name="pref_data_usage_not_set">설정하지 않음</string>
     <string name="pref_free_adjust">오프 피크 데이터 사용량 설정</string>
     <string name="pref_key_daily_package_summary">일일 데이터 한도 초기화 켜기</string>
@@ -2536,7 +2536,7 @@ SMS 전송"</string>
     <string name="privacy_apps_manage_dialog_title">숨겨진 앱 정보</string>
     <string name="privacy_apps_manager_dialog_message">이 앱의 아이콘을 홈 화면에 표시하지 않습니다. 이 앱을 숨기시겠습니까?</string>
     <string name="privacy_apps_next_stup">다음</string>
-    <string name="privacy_apps_shield_message_summary">보호된 앱 알림 표시 안 함</string>
+    <string name="privacy_apps_shield_message_summary">보호된 앱 알림 표시 안함</string>
     <string name="privacy_apps_shield_message_title">알림 보지 않음</string>
     <string name="privacy_apps_tutorial">튜토리얼</string>
     <string name="privacy_apps_tutorial_dlg_title">숨겨진 앱을 찾는 방법</string>
@@ -2567,11 +2567,11 @@ SMS 전송"</string>
     <string name="privacy_dialog_ok">확인</string>
     <string name="privacy_dialog_ok_with_num">확인 (%s초)</string>
     <string name="privacy_dialog_open">켜기</string>
-    <string name="privacy_empty_call">"오늘 통화 기록에 접근 안 함"</string>
-    <string name="privacy_empty_contact">"오늘 주소록에 접근 안 함"</string>
-    <string name="privacy_empty_location">"오늘 위치 정보에 접근 안 함"</string>
-    <string name="privacy_empty_record">"오늘 오디오를 녹음 안 함"</string>
-    <string name="privacy_empty_storage">"오늘 저장소에 접근 안 함"</string>
+    <string name="privacy_empty_call">"오늘 통화 기록에 접근 안함"</string>
+    <string name="privacy_empty_contact">"오늘 주소록에 접근 안함"</string>
+    <string name="privacy_empty_location">"오늘 위치 정보에 접근 안함"</string>
+    <string name="privacy_empty_record">"오늘 오디오를 녹음 안함"</string>
+    <string name="privacy_empty_storage">"오늘 저장소에 접근 안함"</string>
     <string name="privacy_guide_permission_guide_text">앱이 위치 정보 확인, 오디오 녹음, 사진 촬영하면 상태 표시줄에 알림을 받습니다.</string>
     <string name="privacy_guide_permission_use_text">MIUI는 앱이 위치 정보, 연락처, 통화 기록, 저장소 접근, 오디오 녹음을 포함한 민감한 권한을 사용한 횟수를 세고 표시합니다. 각 앱이 이러한 권한을 얼마나 사용했는지를 알 수 있고, 권한 설정 조정이 필요할지 판단할 수 있습니다.</string>
     <string name="privacy_informed_title">상태</string>
@@ -2919,7 +2919,7 @@ SMS 전송"</string>
     <string name="st_antispam_title_null_incoming">발신 번호 표시 제한 번호</string>
     <string name="st_antispam_title_service_sms">서비스 알림</string>
     <string name="st_antispam_title_whitelist">예외사항</string>
-    <string name="st_call_backsound_group">차단목록 소리</string>
+    <string name="st_call_backsound_group">차단 목록 소리</string>
     <string name="st_call_intercept_contacts">연락처에서 통화 차단</string>
     <string name="st_call_intercept_forwarding">착신전환 통화 차단</string>
     <string name="st_call_intercept_oversea">해외에서 수신한 전화 차단하기</string>
@@ -2962,7 +2962,7 @@ SMS 전송"</string>
     <string name="st_summary_special_numbers">차단된 전화번호</string>
     <string name="st_summary_whitelist_numbers">특정 번호와 지역에서 온 메시지와 전화를 허용</string>
     <string name="st_summary_whitelist_numbers_international">특정 번호에서 온 메시지와 전화를 허용하기</string>
-    <string name="st_title_addblacklist">차단목록에 추가</string>
+    <string name="st_title_addblacklist">차단 목록에 추가</string>
     <string name="st_title_addwhitelist">예외 사항에 추가</string>
     <string name="st_title_adress">위치 추가</string>
     <string name="st_title_adress_num">%d개 선택됨</string>
@@ -3168,7 +3168,7 @@ SMS 전송"</string>
     <string name="system_application">시스템 앱</string>
     <string name="system_permission_declare_agree">동의</string>
     <string name="system_permission_declare_analytics_declare">"사용자 경험 프로그램에 초대합니다. 서비스 개선을 위한 통계를 수집하기 위해 이 앱을 인터넷에 연결해야하며, 다음과 같은 권한이나 기능이 필요합니다. 통계 목적으로만 데이터를 수집하며, 수집한 데이터를 기반으로 사용자 개인을 식별할 수 없습니다."</string>
-    <string name="system_permission_declare_disagree">동의 안 함</string>
+    <string name="system_permission_declare_disagree">동의 안함</string>
     <string name="system_permission_declare_double_link"><Data>사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s에 오신 것을 환영합니다! 이 앱을 통해 다음과 같은 기능을 사용할 수 있습니다: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link"><Data>이와 동시에 사용자로서의 권리와 당사의 사용자 데이터 이용 방식에 관한 &lt;a href=\"%1$s\">이용 약관&lt;/a> 과 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 숙지하고 이에 동의해야 합니다.</Data></string>
@@ -3827,7 +3827,7 @@ SMS 전송"</string>
     <string name="input_celluar_data_quota_hint">데이터 한도 입력</string>
     <string name="input_cellular_data_warn_hint">데이터 사용량 경고 한도 입력</string>
     <string name="modify_cellular_type">탭하여 요금제 선택</string>
-    <string name="not_settled">설정 안 함</string>
+    <string name="not_settled">설정 안함</string>
     <string name="traffic_correction_failed_tips">"요금제를 확인할 수 없습니다. 통신사 설정이 올바른지 확인하거나 수동으로 설정하세요."</string>
     <string name="unlimited_cellular_data_monthly">무제한 요금제</string>
     <string name="privacy_revoke_dialog_content">보안 앱의 개인정보 보호정책에 대한 동의를 철회할 수 있습니다. 당사는 사용자 정보 수집을 중단하며, 이미 수집한 개인정보는 앱 약관에 명시된 기간 이후 삭제됩니다. 보안 앱은 기본 서비스 제공을 위해 필수 개인정보를 수집해야 합니다. 개인정보 보호정책에 대한 동의 철회는 수집한 개인정보에 기반한 서비스 이용을 거부하는 것으로 받아들여집니다.</string>

@@ -437,7 +437,7 @@
 
 %d초 후에 다시 시도하세요."</string>
     <string name="lockscreen_transport_next_description">다음 트랙 버튼</string>
-    <string name="lockscreen_transport_pause_description">일시 중지 버튼</string>
+    <string name="lockscreen_transport_pause_description">일시중지 버튼</string>
     <string name="lockscreen_transport_play_description">재생 버튼</string>
     <string name="lockscreen_transport_prev_description">이전 트랙 버튼</string>
     <string name="lockscreen_transport_stop_description">중지 버튼</string>
@@ -800,7 +800,7 @@
     <string name="permlab_callPrivileged">모든 전화번호 자동 연결</string>
     <string name="permlab_camera">사진과 동영상 찍기</string>
     <string name="permlab_changeBackgroundDataSetting">백그라운드 데이터 사용 설정 변경</string>
-    <string name="permlab_changeComponentState">앱 구성요소 사용 또는 사용 안 함</string>
+    <string name="permlab_changeComponentState">앱 구성요소 사용 또는 사용 안함</string>
     <string name="permlab_changeConfiguration">시스템 표시 설정 변경</string>
     <string name="permlab_changeNetworkState">네트워크 연결 변경</string>
     <string name="permlab_changeTetherState">연결 변경</string>
@@ -966,7 +966,7 @@
     <string name="policydesc_setGlobalProxy">정책이 사용 설정되어 있는 동안 사용될 기기 전체 프록시를 설정합니다. 첫 번째 기기 관리자가 설정한 전체 프록시만 유효합니다.</string>
     <string name="policydesc_watchLogin">화면 잠금해제 시 비밀번호를 잘못 입력한 횟수를 모니터링하고, 잘못된 비밀번호 입력 횟수가 너무 많은 경우 휴대전화를 잠그거나 휴대전화에 있는 데이터를 모두 지웁니다.</string>
     <string name="policydesc_wipeData">초기화를 수행하여 경고 없이 휴대전화 데이터를 지웁니다.</string>
-    <string name="policylab_disableCamera">카메라 사용 안 함</string>
+    <string name="policylab_disableCamera">카메라 사용 안함</string>
     <string name="policylab_encryptedStorage">저장소 암호화 설정</string>
     <string name="policylab_expirePassword">화면 잠금 비밀번호 만료 설정</string>
     <string name="policylab_forceLock">화면 잠금</string>
@@ -1015,10 +1015,10 @@
     <string name="ringtone_silent">무음</string>
     <string name="ringtone_unknown">알 수 없는 벨소리</string>
     <string name="roamingText0">로밍 표시기 사용</string>
-    <string name="roamingText1">로밍 표시기 사용 안 함</string>
+    <string name="roamingText1">로밍 표시기 사용 안함</string>
     <string name="roamingText10">로밍 - 부분 서비스 기능</string>
     <string name="roamingText11">로밍 배너 사용</string>
-    <string name="roamingText12">로밍 배너 사용 안 함</string>
+    <string name="roamingText12">로밍 배너 사용 안함</string>
     <string name="roamingText2">로밍 표시기 깜박임</string>
     <string name="roamingText3">인근 지역 외부</string>
     <string name="roamingText4">건물 밖</string>
@@ -1047,7 +1047,7 @@
     <string name="same_year_wday1_mdy1_wday2_mdy2">%9$s년 %2$s %3$s일 %1$s ~ %7$s %8$s일 %6$s</string>
     <string name="save_password_label">확인</string>
     <string name="save_password_message">브라우저에 이 비밀번호를 저장하시겠습니까?</string>
-    <string name="save_password_never">안 함</string>
+    <string name="save_password_never">안함</string>
     <string name="save_password_notnow">나중에</string>
     <string name="save_password_remember">저장</string>
     <string name="screen_compat_mode_hint">시스템 설정 &gt; 앱 &gt; 다운로드로 이동하여 이 모드를 다시 사용하도록 설정합니다.</string>
@@ -1172,11 +1172,11 @@
     <string name="usb_storage_message">USB를 통해 PC에 연결했습니다. PC와 Android의 USB 저장소 간에 파일을 복사하려면 아래의 버튼을 터치하세요.</string>
     <string name="usb_storage_notification_message">PC에 파일을 복사하거나 PC의 파일을 복사하려면 터치하세요.</string>
     <string name="usb_storage_notification_title">USB 연결됨</string>
-    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안 함</string>
+    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_error_message">USB 저장소를 사용하지 않도록 설정하는 동안 문제가 발생했습니다. USB 호스트를 마운트 해제했는지 확인한 다음 다시 시도하세요.</string>
     <string name="usb_storage_stop_message">USB 저장소를 사용하지 않도록 설정하기 전에 PC에서 Android의 USB 저장소를 마운트 해제(꺼내기)하세요.</string>
     <string name="usb_storage_stop_notification_message">USB 저장소를 사용 중지하려면 터치하세요.</string>
-    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안 함</string>
+    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_title">USB 저장소 사용 중</string>
     <string name="usb_storage_title">USB 연결됨</string>
     <string name="use_physical_keyboard">물리적 키보드</string>

@@ -473,7 +473,7 @@
     <string name="no_subject">(제목 없음)</string>
     <string name="no_subject_view">(제목 없음)</string>
     <string name="non_english_subject_limit">13자 제한</string>
-    <string name="nosend_message">전송 안 함</string>
+    <string name="nosend_message">전송 안함</string>
     <string name="notification_failed_multiple">%s개의 메시지를 전송하지 못했습니다.</string>
     <string name="notification_failed_multiple_title">메시지 전송 안됨</string>
     <string name="notification_multiple">[%s]</string>
@@ -1129,7 +1129,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">작업을 할 수 없습니다.</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드 복사.</string>
     <string name="system_permission_declare_privacy_declare_new">이 앱은 인터넷에 연결되어 있어야하며 정상적으로 작동하려면 다음 권한이 필요합니다:</string>
     <string name="v7_preference_off">꺼짐</string>

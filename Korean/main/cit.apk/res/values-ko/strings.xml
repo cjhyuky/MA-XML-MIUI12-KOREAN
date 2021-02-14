@@ -130,7 +130,7 @@
     <string name="cit_headset_button_fast_forward">빨리 감기</string>
     <string name="cit_headset_button_next">다음</string>
     <string name="cit_headset_button_pass">성공</string>
-    <string name="cit_headset_button_play_pause">재생/일시 중지</string>
+    <string name="cit_headset_button_play_pause">재생/일시중지</string>
     <string name="cit_headset_button_previous">이전</string>
     <string name="cit_headset_button_rewind">되감기</string>
     <string name="cit_headset_button_stop">중지</string>
@@ -356,7 +356,7 @@ SD 카드의 디렉터리에 \"music.mp3\" 파일을 넣은 후 화면을 터치
     <string name="radio_info_radio_power">라디오 전원</string>
     <string name="radio_info_roaming_label">로밍:</string>
     <string name="abc_searchview_description_submit">보내기</string>
-    <string name="abc_capital_off">사용 안 함</string>
+    <string name="abc_capital_off">사용 안함</string>
     <string name="select">선택</string>
     <string name="start">시작</string>
     <string name="radio_info_signal_strength_label">신호 강도:</string>

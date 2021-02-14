@@ -301,7 +301,7 @@
     <string name="usage_device_limit_app_prolong_time1">20분 추가</string>
     <string name="usage_device_limit_app_prolong_time2">40분 추가</string>
     <string name="usage_device_limit_app_prolong_time3">60분 추가</string>
-    <string name="usage_device_limit_app_prolong_time4">"오늘 제한 안 함"</string>
+    <string name="usage_device_limit_app_prolong_time4">"오늘 제한 안함"</string>
     <string name="usage_device_limit_app_prolong_time5">"즉시 시간 추가"</string>
     <string name="usage_device_limit_notifation_summary_start">"%1$s의 한도에 도달했습니다."</string>
     <string name="usage_device_limit_notifation_title">오늘 남은 시간</string>
@@ -485,7 +485,7 @@
     <string name="exo_controls_next_description">다음</string>
     <string name="exo_controls_overflow_hide_description">추가 설정 숨기기</string>
     <string name="exo_controls_overflow_show_description">추가 설정 표시</string>
-    <string name="exo_controls_pause_description">일시 중지</string>
+    <string name="exo_controls_pause_description">일시중지</string>
     <string name="exo_controls_play_description">재생</string>
     <string name="exo_controls_playback_speed">속도</string>
     <string name="exo_controls_playback_speed_normal">일반</string>

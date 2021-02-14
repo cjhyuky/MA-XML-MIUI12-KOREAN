@@ -213,7 +213,7 @@ Miracast를 켜야하는 경우 [MENU] 버튼을 누르고 내 앱> 전송> Mira
     <string name="global_privacy_explain">캐스팅에 오신 것을 환영합니다! 이 앱은 다음과 같은 서비스를 제공합니다.</string>
     <string name="global_privacy_feature">최소화된 창 이용, 화면 끈 상태에서 캐스팅, 개인 항복 숨김</string>
     <string name="global_privacy_main">"더 큰 외장 모니터에 휴대전화 화면을 투사합니다."</string>
-    <string name="global_privacy_negative">"동의 안 함"</string>
+    <string name="global_privacy_negative">"동의 안함"</string>
     <string name="global_privacy_positive">동의</string>
     <string name="global_privacy_tip"><Data>당사는 기본적인 서비스를 제공하고 캐스팅 과정을 최적화하기 위해 필요한 개인정보를 수집해야합니다. 당사가 수집한 정보를 처리하는 방법은 개인정보 보호정책을 통해 알 수 있습니다. 사용자는 언제든지 설정에서 개인정보 보호정책에 대한 동의를 철회할 수 있습니다.</Data></string>
     <string name="miuix_appcompat_action_mode_deselect_all">선택 해제</string>

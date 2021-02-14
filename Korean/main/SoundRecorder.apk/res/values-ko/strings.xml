@@ -53,7 +53,7 @@
     <string name="dialog_content_storage_full">기기 내부 메모리의 저장공간이 부족하여 녹음이 중단되었습니다.</string>
     <string name="status_bar_recording">녹음 중…</string>
     <string name="status_bar_back">탭하여 녹음기로 돌아가기</string>
-    <string name="status_bar_recording_pause">녹음기 일시 중지됨</string>
+    <string name="status_bar_recording_pause">녹음기 일시중지됨</string>
     <string name="low_battery_error_title">배터리 부족</string>
     <string name="low_battery_error">배터리가 5%미만 입니다. 사용을 중지하고 손실되지 않도록 작업을 저장하세요.</string>
     <string name="low_battery_error_confirm">확인</string>
@@ -75,7 +75,7 @@
     <string name="duration_format_second">%s초</string>
     <string name="toast_max_record_time">%1$s, 약 %2$s 녹음할 수 있음</string>
     <string name="message_file_size_error">녹음이 지원하는 %s의 최대 길이에 도달했습니다.</string>
-    <string name="pause">일시 중지</string>
+    <string name="pause">일시중지</string>
     <string name="back">뒤로</string>
     <string name="toast_uninstall_fileexplorer">탐색기 앱이 설치되지 않았습니다.</string>
     <string name="record_download">Xiaomi 클라우드에서 다운로드</string>
@@ -91,7 +91,7 @@
     <string name="wifi_recommended_body" formatted="false">모바일 데이터 연결을 사용하여 이 파일(%s)을 다운로드하면 데이터 사용량이 증가합니다. 계획한 데이터 사용량 한도를 초과하면 추가 요금이 청구될 수 있습니다. Wi-Fi 연결을 기다렸다 이 파일을 다운로드하려면 %s 항목을 탭하세요.</string>
     <string name="button_queue_for_wifi">대기</string>
     <string name="button_start_now">다운로드</string>
-    <string name="notification_title_all_paused">다운로드 일시 중지됨</string>
+    <string name="notification_title_all_paused">다운로드 일시중지됨</string>
     <string name="notification_message_all_paused">Wi-Fi 연결을 기다리는 중입니다.</string>
     <string name="data_connection_title">데이터 사용량 경고</string>
     <string name="data_connection_body">모바일 데이터 연결을 사용하여 이 파일을 다운로드하면 데이터 사용량이 증가합니다. 계획한 데이터 사용량 한도를 초과하면 추가 요금이 청구될 수 있습니다.</string>
@@ -107,7 +107,7 @@
     <string name="cloud_status_full_dialog_cancel">나중에 실행</string>
     <string name="cloud_status_full_dialog_ok">업그레이드</string>
     <string name="text_btn_recording">녹음</string>
-    <string name="text_btn_pause">일시 중지</string>
+    <string name="text_btn_pause">일시중지</string>
     <string name="text_btn_play">재생</string>
     <string name="text_btn_mark">표기</string>
     <string name="text_btn_list">저장소</string>

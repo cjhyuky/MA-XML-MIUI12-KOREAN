@@ -182,7 +182,7 @@
     <string name="accessibility_service_warning_description">접근성 관련 지원을 제공하는 앱에는 완벽한 제어권을 부여하는 것이 좋으나, 대부분의 앱에는 적합하지 않습니다.</string>
     <string name="accessibility_shortcut_disabling_service">볼륨 키를 길게 눌렀습니다. %1$s이(가) 사용 중지되었습니다.</string>
     <string name="accessibility_shortcut_enabling_service">볼륨 키를 길게 눌렀습니다. %1$s이(가) 사용 설정되었습니다.</string>
-    <string name="accessibility_shortcut_menu_item_status_off">사용 안 함</string>
+    <string name="accessibility_shortcut_menu_item_status_off">사용 안함</string>
     <string name="accessibility_shortcut_menu_item_status_on">사용</string>
     <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
 "</string>
@@ -192,7 +192,7 @@
 %1$s
 설정 > 접근성에서 선택한 기능을 변경할 수 있습니다."</string>
     <string name="accessibility_shortcut_multiple_service_warning_title">접근성 기능을 사용하시겠습니까?</string>
-    <string name="accessibility_shortcut_off">사용 안 함</string>
+    <string name="accessibility_shortcut_off">사용 안함</string>
     <string name="accessibility_shortcut_on">사용</string>
     <string name="accessibility_shortcut_single_service_warning">"볼륨 키 2개를 몇 초 동안 길게 누르면 %1$s 접근성 기능이 사용 설정됩니다. 이렇게 되면 기기 작동 방식이 달라질 수 있습니다.
 
@@ -315,8 +315,8 @@
     <string name="autofill_prefecture">현</string>
     <string name="autofill_province">도</string>
     <string name="autofill_save_accessibility_title">자동완성에 저장</string>
-    <string name="autofill_save_never">사용 안 함</string>
-    <string name="autofill_save_no">사용 안 함</string>
+    <string name="autofill_save_never">사용 안함</string>
+    <string name="autofill_save_no">사용 안함</string>
     <string name="autofill_save_notnow">나중에</string>
     <string name="autofill_save_title"><b>%1$s</b>에 저장하시겠습니까?</string>
     <string name="autofill_save_title_with_2types">%1$s 및 %2$s을(를) <b>%3$s</b>에 저장하시겠습니까?</string>
@@ -1033,7 +1033,7 @@
 %2$d초 후에 다시 시도하세요."</string>
     <string name="lockscreen_transport_ffw_description">빨리 감기</string>
     <string name="lockscreen_transport_next_description">다음 트랙</string>
-    <string name="lockscreen_transport_pause_description">일시 중지</string>
+    <string name="lockscreen_transport_pause_description">일시중지</string>
     <string name="lockscreen_transport_play_description">재생</string>
     <string name="lockscreen_transport_prev_description">이전 트랙</string>
     <string name="lockscreen_transport_rew_description">되감기</string>
@@ -1696,7 +1696,7 @@
     <string name="permlab_captureSecureVideoOutput">안전한 동영상 출력 캡처</string>
     <string name="permlab_captureVideoOutput">동영상 출력 캡처</string>
     <string name="permlab_changeBackgroundDataSetting">백그라운드 데이터 사용 설정 변경</string>
-    <string name="permlab_changeComponentState">앱 구성요소 사용 또는 사용 안 함</string>
+    <string name="permlab_changeComponentState">앱 구성요소 사용 또는 사용 안함</string>
     <string name="permlab_changeConfiguration">시스템 표시 설정 변경</string>
     <string name="permlab_changeNetworkState">네트워크 연결 변경</string>
     <string name="permlab_changePhoneBlacklist">단말기 블랙리스트 변경</string>
@@ -1945,7 +1945,7 @@
     <string name="policydesc_watchLogin_secondaryUser">화면 잠금해제 시 비밀번호를 잘못 입력한 횟수를 모니터링하고 잘못된 비밀번호 입력 횟수가 너무 많은 경우 휴대전화를 잠그거나 이 사용자의 데이터를 모두 삭제합니다.</string>
     <string name="policydesc_wipeData">초기화를 수행하여 경고 없이 휴대전화 데이터를 지웁니다.</string>
     <string name="policydesc_wipeData_secondaryUser">이 휴대전화에서 사용자의 데이터를 경고 없이 삭제합니다.</string>
-    <string name="policylab_disableCamera">카메라 사용 안 함</string>
+    <string name="policylab_disableCamera">카메라 사용 안함</string>
     <string name="policylab_disableKeyguardFeatures">일부 화면 잠금 기능 사용 중지</string>
     <string name="policylab_encryptedStorage">저장소 암호화 설정</string>
     <string name="policylab_expirePassword">화면 잠금 비밀번호 만료 설정</string>
@@ -2064,10 +2064,10 @@
     <string name="ringtone_silent">없음</string>
     <string name="ringtone_unknown">알 수 없음</string>
     <string name="roamingText0">로밍 표시기 사용</string>
-    <string name="roamingText1">로밍 표시기 사용 안 함</string>
+    <string name="roamingText1">로밍 표시기 사용 안함</string>
     <string name="roamingText10">로밍 - 부분 서비스 기능</string>
     <string name="roamingText11">로밍 배너 사용</string>
-    <string name="roamingText12">로밍 배너 사용 안 함</string>
+    <string name="roamingText12">로밍 배너 사용 안함</string>
     <string name="roamingText2">로밍 표시기 깜박임</string>
     <string name="roamingText3">인근 지역 외부</string>
     <string name="roamingText4">건물 밖</string>
@@ -2083,7 +2083,7 @@
 높은 볼륨으로 장시간 청취하면 청력에 손상이 올 수 있습니다."</string>
     <string name="save_password_label">확인</string>
     <string name="save_password_message">브라우저에 이 비밀번호를 저장하시겠습니까?</string>
-    <string name="save_password_never">안 함</string>
+    <string name="save_password_never">안함</string>
     <string name="save_password_notnow">나중에</string>
     <string name="save_password_remember">저장</string>
     <string name="screen_compat_mode_hint">시스템 설정 > 앱 > 다운로드로 이동하여 이 모드를 다시 사용하도록 설정합니다.</string>
@@ -2177,7 +2177,7 @@
     <string name="sms_short_code_confirm_always_allow">항상 허용</string>
     <string name="sms_short_code_confirm_deny">취소</string>
     <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> &lt;b>%2$s&lt;/b>(으)로 메시지를 보내시겠습니까?</string>
-    <string name="sms_short_code_confirm_never_allow">허용 안 함</string>
+    <string name="sms_short_code_confirm_never_allow">허용 안함</string>
     <string name="sms_short_code_details">모바일 계정에 <b>요금이 부과될 수 있습니다</b>.</string>
     <string name="sms_short_code_remember_choice">내 선택사항 기억</string>
     <string name="sms_short_code_remember_undo_instruction">나중에 설정 > 애플리케이션에서 변경할 수 있습니다.</string>
@@ -2296,11 +2296,11 @@
     <string name="usb_storage_message">USB를 통해 PC에 연결했습니다. PC와 Android의 SD 카드 간에 파일을 복사하려면 아래의 버튼을 터치하세요.</string>
     <string name="usb_storage_notification_message">PC에 파일을 복사하거나 PC의 파일을 복사하려면 터치하세요.</string>
     <string name="usb_storage_notification_title">USB 연결됨</string>
-    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안 함</string>
+    <string name="usb_storage_stop_button_mount">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_error_message">USB 저장소를 사용하지 않도록 설정하는 동안 문제가 발생했습니다. USB 호스트를 마운트 해제했는지 확인한 다음 다시 시도하세요.</string>
     <string name="usb_storage_stop_message">USB 저장소를 사용하지 않도록 설정하기 전에 PC에서 Android의 SD 카드를 마운트 해제(꺼내기)하세요.</string>
     <string name="usb_storage_stop_notification_message">USB 저장소를 사용 중지하려면 터치하세요.</string>
-    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안 함</string>
+    <string name="usb_storage_stop_notification_title">USB 저장소 사용 안함</string>
     <string name="usb_storage_stop_title">USB 저장소 사용 중</string>
     <string name="usb_storage_title">USB 연결됨</string>
     <string name="usb_supplying_notification_title">USB를 통해 연결된 기기 충전</string>

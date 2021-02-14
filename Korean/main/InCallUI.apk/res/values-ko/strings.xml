@@ -181,7 +181,7 @@
     <string name="time_left_livetalk">(%d초)</string>
     <string name="can_not_call_oneself">이 번호로 전화를 걸 수 없습니다.</string>
     <string name="miprofile_stranger_card">외국인 카드</string>
-    <string name="card_title_video_call_paused">동영상 일시 중지됨</string>
+    <string name="card_title_video_call_paused">동영상 일시중지됨</string>
     <string name="card_title_incoming_conference_call">전화 회의 수신 중</string>
     <string name="video_switch_to_voice_call_prompt">음성 통화로 전환</string>
     <string name="onscreen_change_to_voice">음성 통화</string>

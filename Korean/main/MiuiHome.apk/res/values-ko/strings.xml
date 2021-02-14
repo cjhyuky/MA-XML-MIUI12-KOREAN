@@ -63,7 +63,7 @@
     <string name="status_bar_recent_memory_info1">%1$s / %2$s 사용 가능</string>
     <string name="one_key_call_title">통화하려면 탭하세요.</string>
     <string name="category_edit_back_confirm_dialog_content">변경사항을 저장하시겠습니까?</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">"저장 안 함"</string>
+    <string name="category_edit_back_confirm_dialog_negative_button">"저장 안함"</string>
     <string name="category_edit_back_confirm_dialog_positive_button">저장</string>
     <string name="auto_add_app_shortcut">데스크톱에 새로 설치된 앱 추가</string>
     <string name="application_name">시스템 런처</string>
@@ -113,7 +113,7 @@
     <string name="permdesc_write_settings">앱이 홈의 설정과 바로가기를 변경할 수 있도록 허용합니다.</string>
     <string name="status_pending">기다리는 중</string>
     <string name="status_downloading">다운로드 중</string>
-    <string name="status_paused">일시 중지됨</string>
+    <string name="status_paused">일시중지됨</string>
     <string name="status_downloaded">다운로드 됨</string>
     <string name="status_installing">설치 중</string>
     <string name="switch_personal_assistant_app_vault">퀵 카드</string>

@@ -162,7 +162,7 @@
     <string name="hqa_nfc_company">회사:</string>
     <string name="hqa_nfc_dialog_wait_title">대기 중</string>
     <string name="hqa_nfc_dialog_warn">오류</string>
-    <string name="hqa_nfc_pause">일시 중지</string>
+    <string name="hqa_nfc_pause">일시중지</string>
     <string name="hqa_nfc_payload">페이로드:</string>
     <string name="hqa_nfc_result">결과</string>
     <string name="hqa_nfc_return">반송</string>
@@ -296,7 +296,7 @@
     <string name="radio_info_smsc_update_label">업데이트</string>
     <string name="radio_info_toggle_dns_check_label">DNS 확인 선택</string>
     <string name="reset_title">초기화</string>
-    <string name="rf_desense_button_pause">일시 중지</string>
+    <string name="rf_desense_button_pause">일시중지</string>
     <string name="rf_desense_button_start">시작</string>
     <string name="rf_desense_button_stop">중지</string>
     <string name="rf_desense_pattern">패턴</string>
@@ -696,7 +696,7 @@
     <string name="ims_reg_required_off">IMS 등록을 사용 중지해야 합니다.</string>
     <string name="ims_reg_required_on">IMS 등록을 사용해야 합니다.</string>
     <string name="lte_get">설정</string>
-    <string name="lte_ram_dump_off">lte ram 덤프 사용 안 함</string>
+    <string name="lte_ram_dump_off">lte ram 덤프 사용 안함</string>
     <string name="lte_ram_dump_on">lte ram 덤프 사용</string>
     <string name="NetworkInfo_BLK">RR BLK 정보</string>
     <string name="NetworkInfo_Ca">RR Ca 리스트</string>

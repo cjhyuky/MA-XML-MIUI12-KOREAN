@@ -117,7 +117,7 @@
 "</string>
     <string name="sync_dspt_entrance_provision">모든 기기에서 사진, 연락처, 통화 기록 및 메시지를 동기화하면 %s의 모든 기기에서 접근할 수 있습니다.</string>
     <string name="sync_dspt_entrance_provision_2">더 알아보기</string>
-    <string name="sync_dspt_entrance_provision_confirm_close">사용 안 함</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">사용 안함</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi 클라우드 사용</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Xiaomi 클라우드를 사용하지 않으시겠습니까?</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI는 앱, 사진, 연락처, 메모 등을 백업하기 위해 Xiaomi 클라우드가 필요합니다. Xiaomi 클라우드는 무료이며 즉시 사용할 수 있습니다."</string>
@@ -277,7 +277,7 @@
     <string name="micloud_unlogin_for_time_title">Xiaomi 클라우드</string>
     <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">동기화 중지됨</string>
-    <string name="micloud_main_sync_pause">동기화 일시 중지됨</string>
+    <string name="micloud_main_sync_pause">동기화 일시중지됨</string>
     <string name="micloud_main_sync_exception">동기화 오류</string>
     <string name="micloud_main_stop_sync">동기화 중지됨</string>
     <string name="micloud_main_suggest_sync">모두 동기화하지는 못했습니다.</string>
@@ -345,7 +345,7 @@
     <string name="micloud_detail_battery_low_message">배터리가 적습니다. 휴대전화를 충전하시고 동기화하세요.</string>
     <string name="micloud_detail_depend_wifi_title">Wi-Fi에 연결</string>
     <string name="micloud_detail_depend_wifi_message">Wi-Fi에 연결하시거나 동기화 설정을 확인하세요.</string>
-    <string name="micloud_detail_pause">동기화 일시 중지됨</string>
+    <string name="micloud_detail_pause">동기화 일시중지됨</string>
     <string name="micloud_detail_need_charge_or_sleep">충전기를 연결하면 화면을 끄면 동기화가 시작됩니다.</string>
     <string name="micloud_detail_battery_low">배터리 적음</string>
     <string name="micloud_check_sim_title">"SIM 카드가 교체된 것 같습니다. Mi 계정으로 로그인하여
@@ -387,7 +387,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
     <string name="buy_space_sulotion_message">%sGB 추가 저장공간 구매</string>
     <string name="buy_space_sulotion_renew_message">%s 유효</string>
     <string name="buy_space_sulotion_auto_renew">자동 갱신</string>
-    <string name="buy_space_sulotion_not_auto_renew">자동 갱신 안 함</string>
+    <string name="buy_space_sulotion_not_auto_renew">자동 갱신 안함</string>
     <string name="cloud_space_upgrade_title">Xiaomi 클라우드에 더 많은 저장공간</string>
     <string name="cloud_space_upgrade_message">탭하여 클라우드에 %sGB 추가</string>
     <string name="cloud_space_upgrade_no_quota_info">저장소 정보를 얻지 못했습니다.</string>
@@ -485,7 +485,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
     <string name="micloud_battery_low_notification_message">동기화하려면 충전기를 연결하여 주세요.</string>
     <string name="micloud_upgrade_member">업그레이드</string>
     <string name="micloud_notif_content_depend_wifi">동기화를 위해 Wi-Fi에 연결합니다.</string>
-    <string name="micloud_notif_title_master_depend_wifi">"모바일 데이터 사용 중에는 동기화가 일시 중지됩니다."</string>
+    <string name="micloud_notif_title_master_depend_wifi">"모바일 데이터 사용 중에는 동기화가 일시중지됩니다."</string>
     <string name="micloud_notif_content_master_depend_wifi">Wi-Fi에 먼저 연결하거나 동기화 설정을 변경하세요. 변경하려면 탭하세요.</string>
     <string name="micloud_notif_title_memory_low">Xiaomi 클라우드와 동기화할 수 없습니다.</string>
     <string name="micloud_notif_content_memory_low">저장공간이 충분하지 않습니다.</string>
@@ -969,7 +969,7 @@ Xiaomi 클라우드를 사용하기 전에 당사의 "&lt;u&gt;&lt;a href="app:/
     <string name="miuix_sbl_tracking_progress_labe_up_none">정보 없음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">새로고침 중</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">실패</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="preference_copied">\"%1$s\" 클립보드로 복사.</string>
     <string name="search_menu_title">검색</string>
     <string name="special_func_title">특수 기능</string>

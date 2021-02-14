@@ -357,7 +357,7 @@
     <string name="ads_summary_default_value">이 앱을 설치한 다른 사람들도 좋아합니다.</string>
     <string name="install_continue">설치</string>
     <string name="action_bar_report_link_des">앱 알림</string>
-    <string name="exit_install_button">"설치 안 함"</string>
+    <string name="exit_install_button">"설치 안함"</string>
     <string name="install_confirm_dialog_message">Google이 개발한 앱입니다. 이 앱을 정상적으로 사용하려면 Google Play 서비스를 설치하세요. 지금 이 앱을 설치하면 기기가 작동하지 않을 수 있습니다. 그래도 설치하시겠습니까?</string>
     <string name="install_confirm_dialog_negative_button">취소</string>
     <string name="install_confirm_dialog_positive_button">설치</string>

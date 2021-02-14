@@ -193,7 +193,7 @@
     <string name="download">다운로드</string>
     <string name="download_added_to_list">다운로드 목록에 추가됨</string>
     <string name="download_apk_desktop_installing">설치 중</string>
-    <string name="download_apk_desktop_pause">일시 중지됨</string>
+    <string name="download_apk_desktop_pause">일시중지됨</string>
     <string name="download_apk_desktop_pending">보류 중</string>
     <string name="download_apk_desktop_running">다운로드 중</string>
     <string name="download_auto_after_favorite_no_vip_summary">즐겨찾기한 노래 자동으로 다운로드 (유료 콘텐츠 예외)</string>
@@ -224,7 +224,7 @@
     <string name="download_manage_item_complete">완료</string>
     <string name="download_method">다운로드</string>
     <string name="download_no_application_title">파일 열기 실패</string>
-    <string name="download_paused_in_power_save_mode">절전 모드가 켜져있을 때 다운로드가 일시 중지 됩니다.</string>
+    <string name="download_paused_in_power_save_mode">절전 모드가 켜져있을 때 다운로드가 일시중지 됩니다.</string>
     <string name="download_processing">다운로드 중…</string>
     <string name="download_quality">다운로드 품질</string>
     <string name="download_quality_summary">다운로드한 음악을 위한 추가 설정</string>
@@ -288,7 +288,7 @@
     <string name="exo_controls_fastforward_description">배속</string>
     <string name="exo_controls_fullscreen_description">전체 화면 모드</string>
     <string name="exo_controls_next_description">다음 곡</string>
-    <string name="exo_controls_pause_description">일시 중지</string>
+    <string name="exo_controls_pause_description">일시중지</string>
     <string name="exo_controls_play_description">재생</string>
     <string name="exo_controls_previous_description">이전 곡</string>
     <string name="exo_controls_repeat_all_description">전체 반복</string>
@@ -305,7 +305,7 @@
     <string name="exo_download_removing">다운로드한 항목 제거</string>
     <string name="exo_track_mono">모노</string>
     <string name="exo_track_selection_auto">자동</string>
-    <string name="exo_track_selection_none">선택 안 함</string>
+    <string name="exo_track_selection_none">선택 안함</string>
     <string name="exo_track_selection_title_audio">오디오</string>
     <string name="exo_track_selection_title_text">텍스트</string>
     <string name="exo_track_selection_title_video">동영상</string>
@@ -416,7 +416,7 @@
     <string name="lyric_label">가사</string>
     <string name="lyric_open_other_connect">모바일 네트워크 사용하여 가사 다운로드</string>
     <string name="lyric_setting">가사 설정</string>
-    <string name="menu_title_pause_all">모두 일시 중지</string>
+    <string name="menu_title_pause_all">모두 일시중지</string>
     <string name="menu_title_resume_all">모두 시작</string>
     <string name="message_delete_playlist">재생 목록을 삭제하시겠습니까 %s?</string>
     <string name="metered_alert">데이터 사용량 경고</string>
@@ -522,11 +522,11 @@
     <string name="open_service">켜기</string>
     <string name="other_song_in_album">이 앨범의 다른 곡</string>
     <string name="password_toggle_content_description">토글 비밀번호 표시</string>
-    <string name="paused_by_app">일시 중지됨</string>
-    <string name="paused_in_power_save_mode">절전 모드가 켜져있을 때 일시 중지</string>
+    <string name="paused_by_app">일시중지됨</string>
+    <string name="paused_in_power_save_mode">절전 모드가 켜져있을 때 일시중지</string>
     <string name="paused_insufficient_space">대기 중</string>
     <string name="paused_queued_for_wifi">연결 기다리는 중</string>
-    <string name="paused_unknown">일시 중지됨</string>
+    <string name="paused_unknown">일시중지됨</string>
     <string name="paused_waiting_for_network">연결 기다리는 중</string>
     <string name="paused_waiting_to_retry">다시 시도를 기다리는 중</string>
     <string name="pay_now">현재 서비스</string>
@@ -702,7 +702,7 @@
     <string name="talkback_next">다음 노래</string>
     <string name="talkback_nowplaying_bar">재생 바</string>
     <string name="talkback_nowplaying_circle">재생 써클</string>
-    <string name="talkback_play">재생 / 일시 중지</string>
+    <string name="talkback_play">재생 / 일시중지</string>
     <string name="talkback_pre">이전 노래</string>
     <string name="talkback_search">검색</string>
     <string name="talkback_show_navigation_draw">서랍 표시</string>

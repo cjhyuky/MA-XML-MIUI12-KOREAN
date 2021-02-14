@@ -611,7 +611,7 @@
     <string name="dialog_allow">허용</string>
     <string name="dialog_keep">계속</string>
     <string name="dialog_user_agreement_purpose2">Xiaomi 건강 앱에 오신 것을 환영합니다! 이 앱을 사용하여 걸음 수를 계산하고, 수면을 분석하고, 기간을 추적하고, 몸무게를 기록하는 등의 작업을 수행 할 수 있습니다.</string>
-    <string name="disable">사용 안 함</string>
+    <string name="disable">사용 안함</string>
     <string name="drag_sort">재배열</string>
     <string name="dream_talk">말하는 %1$s</string>
     <string name="dream_talk_record">수면 중에 이야기했을 때 녹음되었습니다.</string>
@@ -791,7 +791,7 @@
     <string name="passable">확인</string>
     <string name="passport_oauth_actionbar_title">마이 계정</string>
     <string name="passport_oauth_sucess_tip">승인 성공</string>
-    <string name="pause">일시 중지</string>
+    <string name="pause">일시중지</string>
     <string name="per_time_minutes">분당 %d</string>
     <string name="per_time_minutes1">"분당"</string>
     <string name="phone_detection">자동 감지</string>
@@ -1042,7 +1042,7 @@
     <string name="tb_month_dialog_select_date_with_snore" formatted="false">선택된 %1$s, %s</string>
     <string name="tb_multiple_selecte_all">모두 선택</string>
     <string name="tb_not_add_list">추가되지 않음</string>
-    <string name="tb_pause_detection">일시 중지</string>
+    <string name="tb_pause_detection">일시중지</string>
     <string name="tb_picker_day">선택한 요일 : %1$d. 일을 선택하려면 세로로 스와이프하세요.</string>
     <string name="tb_picker_exercise_goal">선택된 활동 목표 : %1$s. 목표를 선택하려면 세로로 스와이프하세요.</string>
     <string name="tb_picker_height">선택된 높이 : %1$s. 높이를 선택하려면 세로로 스와이프하세요.</string>
@@ -1321,7 +1321,7 @@
     <string name="mens_guess_day_ovulation">"배란기로 보입니다."</string>
     <string name="mens_guess_menstrual_period_end">주기가 끝난 것 같습니다.</string>
     <string name="mens_guess_not_in_menstrual_period">"생리 중이지 않은 것 같습니다."</string>
-    <string name="mens_not_in_menstrual_period">생리 안 함</string>
+    <string name="mens_not_in_menstrual_period">생리 안함</string>
     <string name="mens_period_days">주기</string>
     <string name="mens_period_ovulation">배란</string>
     <string name="mens_period_start">시작</string>
@@ -1413,7 +1413,7 @@
     <string name="placement_tips_warn_1">러닝 머신</string>
     <string name="sport_btn_continue">재개</string>
     <string name="sport_btn_finish">끝</string>
-    <string name="sport_btn_pause">일시 중지</string>
+    <string name="sport_btn_pause">일시중지</string>
     <string name="sport_counter_begin">지금 시작</string>
     <string name="sport_home_begin">시작</string>
     <string name="sport_home_set_goal">목표 설정</string>
@@ -1446,7 +1446,7 @@
     <string name="sport_tts_goal_finish">목표 달성! 축하합니다!</string>
     <string name="sport_tts_goal_finish_half">목표 절반 달성! 계속하세요!</string>
     <string name="sport_tts_last_km_spent">최근 1km 달성에 %s시간이 걸렸습니다.</string>
-    <string name="sport_tts_pause_by_user">운동 일시 중지</string>
+    <string name="sport_tts_pause_by_user">운동 일시중지</string>
     <string name="sport_tts_riding_distance">지금까지 %skm를 달렸습니다.</string>
     <string name="sport_tts_running_distance">지금까지 %skm를 달렸습니다.</string>
     <string name="sport_tts_total_consume">총 %skcal를 소모했습니다.</string>
@@ -1461,7 +1461,7 @@
     <string name="sporting_key_step">걸음 수</string>
     <string name="sporting_key_time">소요 시간</string>
     <string name="sporting_title_outdoor_riding">라이딩 중</string>
-    <string name="sporting_title_pause">일시 중지됨</string>
+    <string name="sporting_title_pause">일시중지됨</string>
     <string name="sporting_title_running">달리는 중</string>
     <string name="sporting_title_waking">걷는 중</string>
     <string name="sporting_unit_step">걸음</string>
@@ -1524,7 +1524,7 @@
     <string name="high_pressure">수축기 (상부)</string>
     <string name="high2">높음</string>
     <string name="hour">시간</string>
-    <string name="hr_detect_paused">일시 중지</string>
+    <string name="hr_detect_paused">일시중지</string>
     <string name="hr_heart_rate_unit">심박수(BPM)</string>
     <string name="hr_input_heart_rate">심박수 기록</string>
     <string name="hr_state">상태</string>

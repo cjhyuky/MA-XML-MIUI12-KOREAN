@@ -100,7 +100,7 @@
     <string name="morning">아침</string>
     <string name="night">오후</string>
     <string name="noon">정오</string>
-    <string name="not_set">설정 안 함</string>
+    <string name="not_set">설정 안함</string>
     <string name="notification_channel_description_download">알림 창에 다운로드 상태를 표시합니다.</string>
     <string name="notification_channel_name_download">다운로드 상태 표시</string>
     <string name="notify_connected_action_button">연결 해제</string>
