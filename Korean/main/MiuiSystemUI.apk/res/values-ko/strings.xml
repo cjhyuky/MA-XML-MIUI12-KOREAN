@@ -1325,7 +1325,6 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM 카드 잠금 해제 중...</string>
     <string name="keyguard_torch_cover_text">손전등을 계속 켜시려면, 전원 버튼에서 손을 떼지 마세요.</string>
     <string name="keyguard_unlock">위로 스와이프하여 열기</string>
-    <string name="kg_enter_confirm_pin_hint">새 PIN 코드 확인</string>
     <string name="kg_enter_confirm_pin_hint">원하는 PIN 코드 확인</string>
     <string name="kg_face_not_recognized">인식할 수 없음</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">휴대전화 잠금 해제에 %1$d번 실패했습니다. %2$d번 더 실패하면 직장 프로필과 모든 프로필 데이터가 삭제됩니다.</string>
