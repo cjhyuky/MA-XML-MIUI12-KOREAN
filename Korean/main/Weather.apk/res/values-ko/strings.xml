@@ -414,4 +414,5 @@
     <string name="aqi_48_hours_desc">48시간 공기질지수 예보</string>
     <string name="aqi_5_days_desc">5일 공기질지수 예보</string>
     <string name="weather_main_minute_hour">2시간 예보</string>
+    <string name="weather_aqi_full_air_quality_forcast">전체 공기질지수 예보</string>
 </resources>
