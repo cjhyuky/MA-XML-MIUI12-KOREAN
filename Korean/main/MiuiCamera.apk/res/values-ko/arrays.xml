@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ai_scene_names">
         <item>없음</item>
@@ -38,5 +39,6 @@
         <item>단체 사진</item>
         <item>수중</item>
         <item>초상</item>
+        <item>신분증</item>
      </string-array>
 </resources>
