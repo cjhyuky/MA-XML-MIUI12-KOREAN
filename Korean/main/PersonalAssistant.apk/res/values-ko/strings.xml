@@ -1302,7 +1302,7 @@
     <string name="park_assistant">주차</string>
     <string name="passenger_name">승객 이름</string>
     <string name="passenger_name_example">예 :. 데비 스미스</string>
-    <string name="pay_card_pack">Mi페이</string>
+    <string name="pay_card_pack">Mi Pay</string>
     <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">지불 바로가기</string>
     <string name="paycode_sdk_parent_title">빠른 지불</string>

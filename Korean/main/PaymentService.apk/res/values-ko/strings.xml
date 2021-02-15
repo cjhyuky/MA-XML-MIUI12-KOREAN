@@ -292,7 +292,7 @@
     <string name="mibi_menu_shotcut">홈 화면에 배치</string>
     <string name="mibi_mili_center">Mi 크레딧</string>
     <string name="mibi_milicenter_title">Mi 크레딧</string>
-    <string name="mibi_mipay_error">Mi페이 실패</string>
+    <string name="mibi_mipay_error">Mi Pay 실패</string>
     <string name="mibi_msg_denomination_type">Mi 크레딧</string>
     <string name="mibi_msg_error">팝업 실패</string>
     <string name="mibi_msg_order_hint_1_1">구매 확인을 터치하면 휴대전화가</string>
@@ -339,7 +339,7 @@
     <string name="mibi_paytool_app_not_installed">"%1$s 앱을 설치하지 않았습니다. 다운로드하여 설치하시겠습니까?"</string>
     <string name="mibi_paytool_error_install">%1$s 모바일 보안 플러그인 설치 실패</string>
     <string name="mibi_paytool_error_msp">%1$s 실패</string>
-    <string name="mibi_paytool_mipay">Mi페이</string>
+    <string name="mibi_paytool_mipay">Mi Pay</string>
     <string name="mibi_paytool_msp_not_installed">%1$s 모바일 보안 플러그인을 설치하지 않았습니다. 지금 설치하시겠습니까?</string>
     <string name="mibi_paytool_paypal">페이팔</string>
     <string name="mibi_paytool_tenpay">텐페이</string>

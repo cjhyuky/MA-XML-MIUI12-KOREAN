@@ -40,7 +40,7 @@
     <string name="am">오전</string>
     <string name="app_name">시스템 UI 플러그인</string>
     <string name="character_counter_content_description">%1$d/%2$d 입력됨</string>
-    <string name="character_counter_overflowed_content_description">%1$d/%2$d 초과입력 불가</string>
+    <string name="character_counter_overflowed_content_description">글자수 제한 %2$d자 중 %1$d자 초과</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chip_text">텍스트 클립</string>
     <string name="clear_text_end_icon_content_description">텍스트 초기화</string>
@@ -188,14 +188,14 @@
     <string name="miuix_appcompat_cloud_state_finished">클라우드 동기화 완료</string>
     <string name="miuix_appcompat_cloud_state_syncing">클라우드 동기화 중...</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨내려서 새로고침</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">아래로 당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중...</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">놓아서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"데이터 없음"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"없음"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요...</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없음"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다리세요…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 불러올 수 없습니다."</string>
     <string name="monday">월요일</string>
     <string name="monday_short">월요일</string>
     <string name="monday_shortest">월</string>
