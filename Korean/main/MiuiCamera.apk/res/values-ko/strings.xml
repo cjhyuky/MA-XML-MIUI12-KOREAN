@@ -464,11 +464,6 @@
     <string name="beauty_fragment_tab_name_beauty">미화</string>
     <string name="beauty_fragment_tab_name_makeup">메이크업</string>
     <string name="beauty_fragment_tab_name_makeups">메이크업</string>
-    <string name="beauty_level_1">1</string>
-    <string name="beauty_level_2">2</string>
-    <string name="beauty_level_3">3</string>
-    <string name="beauty_level_4">4</string>
-    <string name="beauty_level_5">5</string>
     <string name="beauty_makeups_bluefemale">프로스트</string>
     <string name="beauty_makeups_gentleman">실버</string>
     <string name="beauty_makeups_nude">누드</string>
@@ -733,7 +728,6 @@
     <string name="edit_smile">스마일</string>
     <string name="edit_solid">윤곽</string>
     <string name="emoticon">스티커 팩</string>
-    <string name="empty">" "</string>
     <string name="error_fail_to_start_audio_capture">오디오 캡처를 시작하지 못했습니다.</string>
     <string name="expand_button_title">고급</string>
     <string name="extend_time_watermark_2_logo_text">SUPERMOON</string>
@@ -1240,7 +1234,6 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="pref_camera_beautify_entry_normal">중간</string>
     <string name="pref_camera_beauty">미화 기능</string>
     <string name="pref_camera_beauty_deep">고급 보정 모드</string>
-    <string name="pref_camera_coloreffect_default">없음</string>
     <string name="pref_camera_coloreffect_entry_big_face">스프레드</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">흑백</string>
     <string name="pref_camera_coloreffect_entry_fisheye">피쉬아이</string>
