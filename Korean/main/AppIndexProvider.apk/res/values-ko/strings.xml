@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string name="app_label">설정</string>
-    <string name="application_desc">애플리케이션</string>
-    <string name="search_label">설정</string>
-    <string name="settings_description">설정</string>
-</resources>
