@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="tips">
-        <item>"모든 앱을 확인하려면
- 런처 아이콘을 누르세요. @drawable/all_apps"</item>
-        <item>"홈 화면으로 앱을 드래그하려면
- 진동할 때까지 앱 아이콘을 꾹 누르세요."</item>
-        <item>"홈 화면을 재정렬하려면
- 진동할 때까지 앱 아이콘을 꾹 누르고, 원하는 위치로 드래그하세요."</item>
-        <item>"항목을 제거하려면
- 진동할 때까지 앱 아이콘을 꾹 누르고, 휴지통 아이콘으로 드래그하세요. @drawable/trash"</item>
-        <item>"여러 홈 화면을 사용하려면
- 왼쪽이나 오른쪽으로 밀어서 전환하세요. 앱 아이콘을 다른 화면으로 드래그하세요."</item>
-        <item>"이 위젯이 필요없다면
- 진동할 때까지 위젯을 꾹 누르고, 휴지통 아이콘으로 드래그하세요."</item>
-    </string-array>
     <string-array name="tips2">
         <item>"홈 화면을 꾸미려면
 빈 곳을 길게 누르고
