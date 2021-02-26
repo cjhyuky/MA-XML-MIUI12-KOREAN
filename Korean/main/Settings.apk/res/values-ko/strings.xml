@@ -2314,7 +2314,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="dev_settings_disabled_warning">먼저 개발자 옵션을 사용 설정하세요.</string>
     <string name="dev_settings_warning_message">이 설정은 개발자용으로만 설계되었습니다. 이 설정을 사용하면 기기 및 애플리케이션에 예기치 않은 중단이나 오류가 발생할 수 있습니다.</string>
     <string name="dev_settings_warning_title">개발자 설정을 허용하시겠습니까?</string>
-    <string name="developer_build">" 베타 ROM"</string>
+    <string name="developer_build">" 주간 ROM"</string>
     <string name="developer_smallest_width">최소 폭</string>
     <string name="development_enable">개발자 옵션</string>
     <string name="development_settings_enable">개발자 옵션 사용</string>
@@ -6881,7 +6881,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="ssl_ca_cert_warning_message">"기기에 신뢰할 수 있는 자격증명이 설치되어 있기 때문에
 
 제3자가 이메일, 앱, 보안 웹사이트를 포함한 네트워크 활동을 모니터링 할 수 있습니다."</string>
-    <string name="stable_build">안정 ROM</string>
+    <string name="stable_build">" 안정 ROM"</string>
     <string name="standard">무음</string>
     <string name="standard_info">통화 및 알림은 금지되어 있지만 알람, 음악은 여전히 울립니다.</string>
     <string name="standby_bucket_summary">앱 대기 상태: %s</string>
