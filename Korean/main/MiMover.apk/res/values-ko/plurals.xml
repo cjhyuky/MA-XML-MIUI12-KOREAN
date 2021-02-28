@@ -66,6 +66,9 @@
     <plurals name="minute">
         <item quantity="other"><g id="minute">%1$d</g>분</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">항목 %d개 선택됨</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d분 전</item>
     </plurals>
