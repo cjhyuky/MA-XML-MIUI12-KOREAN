@@ -503,4 +503,8 @@
     <string name="default_update_documents">업데이트가 가능합니다. 진행하시겠습니까?</string>
     <string name="note_mindnote_entrance_hint_newversion">"입력 시작 "</string>
     <string name="note_mindnote_entrance_icon_text_newversion">마인드맵 만들기</string>
+    <string name="sync_desc_state_complete">클라우드 동기화 완료</string>
+    <string name="sync_desc_state_complete_china">모든 %1$s이(가) 동기화됨</string>
+    <string name="sync_desc_state_disable">클라우드 동기화 사용 설정</string>
+    <string name="sync_desc_state_running">클라우드 동기화 중</string>
 </resources>

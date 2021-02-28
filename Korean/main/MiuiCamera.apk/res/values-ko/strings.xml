@@ -153,7 +153,7 @@
     <string name="accessibility_preview_effect_button">효과 미리보기</string>
     <string name="accessibility_preview_expand">펼치기</string>
     <string name="accessibility_preview_front">전면 카메라 미리보기</string>
-    <string name="accessibility_preview_remote">원격 미리보기</string>
+    <string name="accessibility_preview_remote">듀얼 기기 녹화 미리보기</string>
     <string name="accessibility_preview_select_tip">%1$d번째</string>
     <string name="accessibility_preview_selected">이미 선택함</string>
     <string name="accessibility_preview_shrink">접기</string>
@@ -703,8 +703,8 @@
     <string name="dual_camera_use_hint">"물체와 거리를 2m 이상 떨어지지 마세요"</string>
     <string name="dual_video_record_merged">합침</string>
     <string name="dual_video_record_standalone">별개</string>
-    <string name="dual_video_user_guide_main_content">다중 카메라 동영상을 생성하려면, 기기에서 두 개의 렌즈를 선택하고 동시에 촬영하세요. 녹화된 동영상을 각각 따로 저장할 수 있고, 또는 하나로 붙이거나 PIP 동영상으로도 합성할 수 있습니다.</string>
-    <string name="dual_video_user_guide_main_title">다중 카메라 동영상</string>
+    <string name="dual_video_user_guide_main_content">듀얼 카메라 동영상을 생성하려면, 기기에서 두 개의 렌즈를 선택하고 동시에 촬영하세요. 녹화된 동영상을 각각 따로 저장할 수 있고, 또는 하나로 붙이거나 PIP 동영상으로도 합성할 수 있습니다.</string>
+    <string name="dual_video_user_guide_main_title">듀얼 카메라 동영상</string>
     <string name="dual_video_user_guide_merge_content">동시에 두 개의 렌즈로 촬영하고, 녹화된 동영상을 하나로 붙이거나 PIP 동영상으로 합성합니다.</string>
     <string name="dual_video_user_guide_standalone_content">동시에 두 개의 렌즈로 촬영하고, 녹화된 동영상을 각각 따로 저장합니다.</string>
     <string name="edit_blusher">볼터치</string>
@@ -994,6 +994,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="mimoji_eyebrow_shape">눈썹</string>
     <string name="mimoji_eyeglass">안경</string>
     <string name="mimoji_eyelash">속눈썹</string>
+    <string name="mimoji_eyelid">눈꺼풀</string>
     <string name="mimoji_featured_face">얼굴형</string>
     <string name="mimoji_fragment_tab_name">Mi모지</string>
     <string name="mimoji_freckle">주근깨</string>
@@ -1061,7 +1062,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="module_name_fun_ar">스티커 아바타</string>
     <string name="module_name_manual">수동</string>
     <string name="module_name_more">더보기</string>
-    <string name="module_name_multi_camera">멀티 카메라</string>
+    <string name="module_name_multi_camera">듀얼 카메라</string>
     <string name="module_name_new_slow_motion">슬로우 모션</string>
     <string name="module_name_panorama">파노라마</string>
     <string name="module_name_pixel_108m">108M</string>
@@ -1088,7 +1089,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="network_access_user_notice_message_voice_caption"><Data>"카메라는 음성-문자 변환 기능을 제공하기 위해 인터넷에 연결해야 합니다.&lt;br/>&lt;br/>아래의 \"동의\"를 누르면, 당사의 &lt;a href =%1$s>이용 약관&lt;/a> 및 &lt;a href =%2$s>개인정보 보호정책&lt;/a>에 동의함은 물론, 카메라의 인터넷 연결을 허용함을 의미합니다."</Data></string>
     <string name="network_access_user_notice_title">인터넷 연결</string>
     <string name="network_connection_failed">연결 실패</string>
-    <string name="network_connection_prerequisites">다중 카메라 녹화를 사용하려면 블루투스 및 Wi-Fi를 사용 설정하세요.</string>
+    <string name="network_connection_prerequisites">듀얼 기기 녹화를 사용하려면 블루투스 및 Wi-Fi를 사용 설정하세요.</string>
     <string name="network_connection_rejected">상대 거절</string>
     <string name="network_connection_timed_out">연결 시간 초과</string>
     <string name="no_storage">카메라를 사용하기 전에 SD 카드를 삽입하세요.</string>
@@ -1543,7 +1544,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="pref_module_settings">모드</string>
     <string name="pref_more_mode_style_title">카메라 모드</string>
     <string name="pref_multi_camera_dual_video_front">전면 카메라</string>
-    <string name="pref_multi_camera_dual_video_remote">원격 카메라</string>
+    <string name="pref_multi_camera_dual_video_remote">듀얼 기기 녹화</string>
     <string name="pref_n_s_a">오디오 설정</string>
     <string name="pref_n_s_o_l">켜기</string>
     <string name="pref_n_s_o_m">끄기</string>
@@ -1645,19 +1646,20 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="recommend_soft_light_tip">플래시 켜기</string>
     <string name="recommend_super_night">야간 모드 사용</string>
     <string name="record_back_pressed_hint">다시 터치하면 녹화 멈춤</string>
-    <string name="remote_online_connecting">"연결: "</string>
+    <string name="remote_online_connecting">연결할 기기 선택</string>
     <string name="remote_online_disconnect_confirmation">%1$s에 대한 연결을 취소하시겠습니까?</string>
-    <string name="remote_online_exit_confirmation">다중 카메라 녹화를 종료하시겠습니까?</string>
-    <string name="remote_online_guide">상대방에게 알림 창의 "다중 카메라 녹화" 토글을 사용 설정하도록 요청하세요.</string>
+    <string name="remote_online_exit_confirmation">듀얼 기기 녹화를 종료하시겠습니까?</string>
+    <string name="remote_online_guide">제어 센터 토글을 사용하여 상대 기기에서 이중 기기 녹화를 사용 설정합니다.</string>
     <string name="remote_online_interrupted">연결이 끊어졌습니다. 다시 연결하세요.</string>
-    <string name="remote_online_introduction">"다중 카메라 녹화 기능은 두 대의 휴대전화를 지원하며, 서로 다른 시야각의 이미지를 녹화하여 하나의 동영상으로 결합합니다. 이 기기를 통해 두 대의 휴대전화 동영상을 미리보기 및 촬영을 볼 수 있으며, 녹음은 이 기기에서만 지원합니다.
+    <string name="remote_online_introduction">"듀얼 기기 녹화 기능은 두 대의 휴대전화를 지원하며, 서로 다른 시야각의 이미지를 녹화하여 하나의 동영상으로 결합합니다. 이 기기를 통해 두 대의 휴대전화 동영상을 미리보기 및 촬영을 볼 수 있으며, 녹음은 이 기기에서만 지원합니다.
 
-상대 기기는 알림 창에서 "다중 카메라 녹화" 토글을 사용 설정해야 합니다. "멀티 카메라 녹화" 기능을 지원하는 Xiaomi 및 Redmi 휴대전화만 지원합니다."</string>
+상대 기기는 알림 창에서 "듀얼 기기 녹화" 토글을 사용 설정해야 합니다. "듀얼 기기 녹화" 기능을 지원하는 Xiaomi 및 Redmi 휴대전화만 지원합니다."</string>
+    <string name="remote_online_introduction_ii">이 기능을 사용하려면, 상대 Mi 또는 Redmi 기기가 이중 기기 녹화를 지원해야합니다. 제어 센터 토글로 사용 설정할 수 있습니다.</string>
     <string name="remote_online_searching">기기 검색 중...</string>
-    <string name="remote_online_service_name">다중 카메라 녹화</string>
+    <string name="remote_online_service_name">듀얼 기기 녹화</string>
     <string name="remote_online_unavailable">연결 가능한 기기가 없습니다.</string>
     <string name="remote_online_waiting">상대방이 연결되기를 기다리는 중...</string>
-    <string name="remote_online_whats">다중 카메라 녹화란?</string>
+    <string name="remote_online_whats">듀얼 기기 녹화란?</string>
     <string name="reset_manual_picture_style_toast">파라미터 재설정됨</string>
     <string name="reset_manually_parameter_confirmed">확인</string>
     <string name="reset_manually_parameter_hint">초기화</string>
@@ -1754,6 +1756,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="timer_burst_manu_param_interval">시간 간격(노출 시간 제외)</string>
     <string name="timer_burst_param_interval">시간 간격</string>
     <string name="timer_burst_param_total_count">총 캡처 횟수</string>
+    <string name="timerburst_pressed_hint">탭하여 중지</string>
     <string name="title_snap_double_confirm">다시 확인</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">오디오 캡처가 켜져 있으면 버스트 샷을 사용할 수 없습니다.</string>
     <string name="toast_saving">사진 저장 중…</string>
@@ -1816,8 +1819,8 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="video_cast_exit_warning">상대 기기에서 더 이상 동영상을 받아올 수 없습니다.</string>
     <string name="video_cast_inviting">%1$s님이 온라인 녹화에 초대합니다.</string>
     <string name="video_cast_notification_content">중지하려면 탭하세요.</string>
-    <string name="video_cast_notification_title">다중 카메라 녹화 백그라운드 서비스</string>
-    <string name="video_cast_service_name">다중 카메라 녹화</string>
+    <string name="video_cast_notification_title">듀얼 기기 녹화 백그라운드 서비스</string>
+    <string name="video_cast_service_name">듀얼 기기 녹화</string>
     <string name="video_cast_state_paused">일시 중지됨</string>
     <string name="video_effect_entry_blackwhite">흑백</string>
     <string name="video_effect_entry_bygone">과거</string>

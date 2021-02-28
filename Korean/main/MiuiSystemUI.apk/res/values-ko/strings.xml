@@ -525,6 +525,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">오른쪽 보청기 페어링 중...</string>
     <string name="bluetooth_hid_profile_summary_connected">입력 장치에 연결됨</string>
     <string name="bluetooth_hid_profile_summary_use_for">입력에 사용</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">LE_AUDIO에 연결됨</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDIO에 사용</string>
     <string name="bluetooth_map_profile_summary_connected">MAP에 연결됨</string>
     <string name="bluetooth_map_profile_summary_use_for">MAP에 사용</string>
     <string name="bluetooth_opp_profile_summary_connected">파일 전송 서버에 연결됨</string>

@@ -123,4 +123,6 @@
     <string name="fast_connect_same_accout_devices_title">"다른 기기의 %1$s에 연결되었습니다."</string>
     <string name="fast_connect_sound_normalizer_content">"더 나은 음성 통화 오디오
 더 빠른 연결 프로토콜"</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">LE_AUDIO에 연결됨</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDIO에 사용</string>
 </resources>

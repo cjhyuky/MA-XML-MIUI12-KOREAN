@@ -12,6 +12,7 @@
     <string name="micloud_dspt_provision_china">Xiaomi 클라우드를 사용하여 데이터를 동기화하고 기기를 찾고 친구와 물건을 공유하세요.</string>
     <string name="micloud_dspt_provision_xms_china">Xiaomi 클라우드를 사용하여 데이터를 동기화합니다.</string>
     <string name="micloud_notif_content_depend_wifi_china">동기화하려면 Wi-Fi에 연결하세요.</string>
+    <string name="micloud_setting_bluetooth_summary">페어링된 기기 정보를 클라우드로 동기화합니다.</string>
     <string name="micloud_setting_wifi_summary_china">Wi-Fi 설정</string>
     <string name="micloud_sync_result_wifi_only_china">이 항목이 너무 큽니다. Wi-Fi에 연결되면 동기화하세요.</string>
     <string name="pref_title_sync_display_photo_on_wifi_only_china">Wi-Fi만 사용하여 사진을 동기화</string>

@@ -1160,4 +1160,5 @@
     <string name="go_to">"다음으로 열기 "</string>
     <string name="pref_summary_enable_ad_notification">이 기능을 활성화해 광고성 메세지의 알림 해제</string>
     <string name="pref_title_enable_ad_notification">광고성 메세지</string>
+    <string name="rcs_chatbot_blocked_tip">"차단된 미니 앱입니다. 대화를 시작할 수 없습니다."</string>
 </resources>

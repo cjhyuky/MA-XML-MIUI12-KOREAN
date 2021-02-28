@@ -338,4 +338,7 @@
     <string name="dock_tip_splitscreen_landscape_float">플로팅 창으로 전환하려면 바를 누른 상태에서 아래로 드래그하세요.</string>
     <string name="dock_tip_splitscreen_portrait_drag">두 앱의 창 위치를 서로 바꾸려면 세로로 드래그하세요.</string>
     <string name="dock_tip_splitscreen_portrait_float">플로팅 창으로 전환하려면 바를 누른 상태에서 왼쪽이나 오른쪽으로 드래그하세요.</string>
-    <string name="miui_multiwindow_not_support_split">%1$s은(는) 분할 화면을 지원하지 않습니다.</string></resources>
+    <string name="miui_multiwindow_not_support_split">%1$s은(는) 분할 화면을 지원하지 않습니다.</string>
+    <string name="application_cannot_open_alipay_health_code">"Alipay 헬스 코드를 열 수 없음"</string>
+    <string name="application_cannot_open_weixin_health_code">"WeChat 헬스 코드를 열 수 없음"</string>
+</resources>
