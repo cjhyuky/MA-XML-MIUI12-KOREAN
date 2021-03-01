@@ -2233,7 +2233,7 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="screenshot_feedback_txt">의견</string>
     <string name="screenshot_insert_failed">스크린샷을 불러올 수 없음. 다시 찍거나 갤러리에서 이미지를 확인하세요.</string>
     <string name="screenshot_long_screenshot">스크롤</string>
-    <string name="screenshot_preview_description">스크린샷 미리보기</string>>
+    <string name="screenshot_preview_description">스크린샷 미리보기</string>
     <string name="screenshot_saved_text">스크린샷을 확인하려면 탭하세요</string>
     <string name="screenshot_saved_title">스크린샷 저장됨</string>
     <string name="screenshot_saving_text">스크린샷 저장 중</string>
