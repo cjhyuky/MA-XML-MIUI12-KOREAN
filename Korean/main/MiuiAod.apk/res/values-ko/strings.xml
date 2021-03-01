@@ -46,7 +46,6 @@
     <string name="am">오전</string>
     <string name="ambient_display_screen_title">Always On Display</string>
     <string name="ambient_display_screen_title_sp">앰비언트 디스플레이</string>
-    <string name="animatable_view_tag">animatable_view_tag</string>>
     <string name="animation_clock_panel">물결 다이얼</string>
     <string name="aod_close_color_inversion">"이 기능은 색상 반전과 함께 사용할 수 없습니다. 먼저 색상 반전을 끄세요."</string>
     <string name="aod_component">표시 항목</string>
