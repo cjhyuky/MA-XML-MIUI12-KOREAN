@@ -1006,6 +1006,7 @@
     <string name="face_unlock_rotated_right">머리를 왼쪽으로 돌려주세요.</string>
     <string name="face_unlock_sc_status">화면을 눌러서 카메라를 켜세요.</string>
     <string name="face_unlock_stay_away_screen">화면에서 25cm-40cm 정도 유지하세요.</string>
+    <string name="face_unlock_success">잠금 해제됨</string>
     <string name="face_unlock_success_show_message_dialog_msg">잠금 화면 알림을 잠금 화면에서 볼 수 있도록 허용합니다.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">괜찮습니다.</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">허용</string>

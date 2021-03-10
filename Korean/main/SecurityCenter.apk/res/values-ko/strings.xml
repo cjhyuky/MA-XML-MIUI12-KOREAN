@@ -164,7 +164,7 @@
     <string name="antivirus_sec_network_unavailable">보안 앱이 인터넷 연결이 되어있지 않아 업데이트를 할 수 없습니다. 인터넷 연결을 허용하시겠습니까?</string>
     <string name="antivirus_toast_already_update">이미 최신 버전입니다.</string>
     <string name="antivirus_toast_network_unavailable">네트워크에 연결할 수 없음</string>
-    <string name="antivirus_toast_update_failed">업데이트 실패</string>
+    <string name="antivirus_toast_update_failed">서버가 사용 중입니다. 1~2분 후 다시 시도하세요.</string>
     <string name="antivirus_toast_update_success">업데이트 완료</string>
     <string name="antivirus_toast_updating">업데이트 중…</string>
     <string name="antivirus_update_btn_contiue">계속</string>
@@ -411,6 +411,11 @@
     <string name="app_manager_show_detail_infos">모두 보기</string>
     <string name="app_manager_start_by">%s에 의해 시작됨</string>
     <string name="app_manager_system_mobile_disable">데이터 끄기</string>
+    <string name="app_manager_tab_app">앱</string>
+    <string name="app_manager_tab_manager">관리</string>
+    <string name="app_manager_to_appstore">다른 앱 찾아보기</string>
+    <string name="app_manager_uninstall_button_text">설치 제거</string>
+    <string name="app_manager_uninstall_notify_title">거의 사용하지 않는 앱 설치 제거</string>
     <string name="app_manager_thumbnail_blur_summary">최근 앱에서 앱 미리보기를 흐리게 처리합니다.</string>
     <string name="app_manager_thumbnail_blur_title">앱 미리보기 흐림 효과</string>
     <string name="app_manager_title">앱 관리</string>
@@ -422,6 +427,8 @@
     <string name="app_manager_uninstall_xspace_app_dlg_msg">듀얼 앱을 제거하면 모든 앱 데이터가 삭제됩니다.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">듀얼 앱을 제거하시겠습니까?</string>
     <string name="app_manager_unstall_application">설치 제거</string>
+    <string name="app_manager_update">업데이트</string>
+    <string name="app_manager_updater_notify_message">앱을 업데이트하고 새로운 기능을 이용하세요.</string>
     <string name="app_managere_not_have_app">없음</string>
     <string name="app_mobile">모바일</string>
     <string name="app_name">앱 잠금</string>
@@ -549,6 +556,7 @@
     <string name="auto_task_edit_choose_new_operation">동작 추가</string>
     <string name="auto_task_edit_choose_operation_title">동작 선택</string>
     <string name="auto_task_edit_condition_summary">예를 들어, \"23시에\"</string>
+    <string name="auto_task_edit_condition_summary_new">예를 들어, \"%s시에\"</string>
     <string name="auto_task_edit_condition_title">상태 추가</string>
     <string name="auto_task_edit_my_custom_task">작업 이름 입력</string>
     <string name="auto_task_edit_operation_summary">예를 들어, \"비행기 탑승 모드 켜기\"</string>
@@ -561,6 +569,7 @@
     <string name="auto_task_notify_do_task_title">자동 작업 시작됨</string>
     <string name="auto_task_notify_exit_task_title">자동 작업 종료됨</string>
     <string name="auto_task_notify_task_cancel_count_down">5초 안에 자동 동작이 취소됩니다.</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">%d초 안에 자동 동작이 취소됩니다./string>
     <string name="auto_task_notify_task_cancel_do">취소</string>
     <string name="auto_task_notify_task_canceled_summary">전화를 걸거나 받을 수 있습니다.</string>
     <string name="auto_task_notify_task_canceled_summary2">게임을 하는중인 것 같네요.</string>
@@ -568,7 +577,8 @@
     <string name="auto_task_notify_task_canceled_summary4">기본 공간에 의해 취소됨</string>
     <string name="auto_task_notify_task_canceled_title">동작이 취소되었습니다.</string>
     <string name="auto_task_notify_task_continue_do">시작</string>
-    <string name="auto_task_notify_task_count_down">5초 안에 자동 동작이 실행됩니다.</string>
+    <string name="auto_task_notify_task_count_down">5초 후 자동 동작이 실행됩니다.</string>
+    <string name="auto_task_notify_task_count_down_new">%d초 후 자동 동작이 실행됩니다.</string>
     <string name="auto_task_notify_task_exit_task">작업 취소</string>
     <string name="auto_task_operation_airplane_mode">비행기 탑승 모드</string>
     <string name="auto_task_operation_auto_brightness">자동 밝기</string>
@@ -775,6 +785,9 @@
     <string name="card_main_xspace_summary">앱을 위한 듀얼 계정 생성</string>
     <string name="card_main_xspace_title">듀얼 앱</string>
     <string name="card_tc_failed">보정할 수 없음</string>
+    <string name="card_uninstall_button_text">관리</string>
+    <string name="card_uninstall_summary">거의 사용하지 않는 앱을 설치 제거하고 저장공간을 확보하세요.</string>
+    <string name="card_uninstall_title_1">거의 사용하지 않는 앱 설치 제거</string>
     <string name="cd_back">뒤로가기</string>
     <string name="charging_text_battery_full_time">"마지막 충전 "</string>
     <string name="charging_text_battery_nearly_full">배터리가 거의 가득찼습니다.</string>
@@ -881,6 +894,7 @@
     <string name="deep_power_save_item_summary_auto_brightness">배터리를 절약하려면 화면 밝기를 자동으로 변경하세요.</string>
     <string name="deep_power_save_item_summary_bluetooth">블루투스를 꺼서 배터리를 절약하세요.</string>
     <string name="deep_power_save_item_summary_lock_screen_time">배터리를 절약하기 위해 30초 간 사용하지 않으면 화면이 꺼집니다.</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">배터리를 절약하기 위해 %d초 간 사용하지 않으면 화면이 꺼집니다.</string>
     <string name="deep_power_save_item_title_auto_brightness">자동 밝기 켬</string>
     <string name="deep_power_save_item_title_bluetooth">블루투스 끔</string>
     <string name="deep_power_save_item_title_lock_screen_time">화면을 절전 모드로 설정</string>
@@ -1366,6 +1380,10 @@
     <string name="gamebox_immersion_tips_content">집중 모드는 데이터 연결을 제외한 모든 SIM 카드 통신 기능을 제한합니다. 통화가 자동으로 거부되며 부재중 전화에 대한 알림을 받지 않습니다. 집중 모드를 비활성화 하면 SIM 카드 기능이 복원됩니다. 집중 모드를 켜시겠습니까?</string>
     <string name="gamebox_immersion_tips_title">집중</string>
     <string name="gamebox_immerson_open">집중 모드 켜는 중... 네트워크를 전환하지 마세요.</string>
+    <string name="gamebox_macro">매크로</string>
+    <string name="gb_game_macro_bubble_tips">매크로를 사용해보세요.</string>
+    <string name="gb_game_macro_toast_tips">"매크로를 사용해보세요!
+작업을 기록하고 언제든지 사용하세요!"</string>
     <string name="gamebox_manual_record">녹화</string>
     <string name="gamebox_milink">화면 전송</string>
     <string name="gamebox_positive_button_text">확인 (%1$ds)</string>
@@ -1467,6 +1485,20 @@
     <string name="gb_network_status_bad">네트워크 연결이 끊어졌습니다.</string>
     <string name="gb_new_feature">새로운 기능</string>
     <string name="gb_operat_frequently">그다지 빠르지 않습니다!</string>
+    <string name="gb_shoulder_key">숄더 버튼</string>
+    <string name="gb_shoulder_key_add_show_btn">게임 중 가상 버튼 표시</string>
+    <string name="gb_shoulder_key_add_tips">[L] 및 [R] 버튼을 기능하는 위치로 이동시키고 숄더 버튼으로 사용하세요.</string>
+    <string name="gb_shoulder_key_btn_cancel">취소</string>
+    <string name="gb_shoulder_key_btn_save_exit">저장</string>
+    <string name="gb_shoulder_key_circle_left">L</string>
+    <string name="gb_shoulder_key_circle_right">R</string>
+    <string name="gb_shoulder_key_dialog_txt">숄더 버튼을 사용하여 게임 터보를 실행할 수 있습니다.</string>
+    <string name="gb_shoulder_key_guide_btn_done">확인</string>
+    <string name="gb_shoulder_key_guide_btn_next">다음</string>
+    <string name="gb_shoulder_key_guide_tips">숄더 버튼을 설정하여 프로게이머처럼 플레이하세요!</string>
+    <string name="gb_shoulder_key_guide_tips1">도구 상자를 열고 숄더 버튼을 설정하세요.</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">[L] 및 [R] 기능하는 위치로 이동시켜 설정을 마치세요.</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">게임 중 숄더 버튼을 사용하여 사용자가 설정한 기능을 이용하세요.</string>
     <string name="gb_shortcut_pref_title">홈 화면 바로가기</string>
     <string name="gb_sign_gift">리워드 받기</string>
     <string name="gb_sign_gift_button_text">받기</string>
@@ -2003,6 +2035,7 @@ SMS 전송"</string>
     <string name="networkchanged_exception_summary">네트워크 연결이 변경되었습니다. 다시 테스트하세요.</string>
     <string name="networkchanged_exception_title">연결 변경됨</string>
     <string name="never">한 번만</string>
+    <string name="never_new">%d번</string>
     <string name="news_change">변경</string>
     <string name="nickname">별명</string>
     <string name="no_game">게임을 찾을 수 없음</string>
@@ -2307,7 +2340,8 @@ SMS 전송"</string>
     <string name="power_center_list_item_close_bluetooth">블루투스 끄기</string>
     <string name="power_center_list_item_deep_save_title">고급 설정</string>
     <string name="power_center_list_item_haptic_feedback">햅틱 피드백 끄기</string>
-    <string name="power_center_list_item_set_lockscreen_time">30초간 사용하지 않으면 화면을 끕니다.</string>
+    <string name="power_center_list_item_set_lockscreen_time">30초 동안 사용하지 않으면 화면을 끕니다.</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">%d초 동안 사용하지 않으면 화면을 끕니다.</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">%d초 동안 활동이 없으면 기기잠금</string>
     <string name="power_center_list_item_wake_notification">"알림시 화면 켜지 않기"</string>
     <string name="power_center_one_key_save">최적화</string>
@@ -2374,6 +2408,7 @@ SMS 전송"</string>
     <string name="power_phone">음성 통화</string>
     <string name="power_save_mode">절전 모드</string>
     <string name="power_save_mode_auto_exit_summary">배터리가 60%보다 많으면 끕니다.</string>
+    <string name="power_save_mode_auto_exit_summary_new">배터리가 %s보다 많으면 끕니다.</string>
     <string name="power_save_mode_auto_exit_title">충전이 완료되었을 때 끄기</string>
     <string name="power_save_mode_close_aod_display_summary">절전 모드를 켜면 Always On Display를 끕니다.</string>
     <string name="power_save_mode_close_aod_display_title">Always On Display 끄기</string>
@@ -3087,6 +3122,7 @@ SMS 전송"</string>
     <string name="suggest_app_tolock_unmasked">알림 표시</string>
     <string name="suggest_scan_again">스캔을 완료하여 기기의 안전을 보장하세요.</string>
     <string name="summary_app_lock_disable">앱 잠금으로 데이터 보호하기</string>
+    <string name="summary_app_update_new">앱을 업데이트하여 새로운 기능 사용</string>
     <string name="summary_auto_update">MIUI가 사용되지 않는 시간에 자동으로 업데이트를 다운로드하고 설치합니다.</string>
     <string name="summary_background_connection">이 앱의 백그라운드 연결을 제한했습니다. 수정하려면 탭하세요.</string>
     <string name="summary_block_calls_from_cantacts">블랙리스트를 사용 중입니다. 수정하려면 탭하세요.</string>
@@ -3141,6 +3177,7 @@ SMS 전송"</string>
     <string name="superpower_notification_time_12">M월 d일, EEEE</string>
     <string name="superpower_notification_time_24">M월 d일, EEEE</string>
     <string name="superpower_notification_title">남은 배터리가 10% 미만입니다.</string>
+    <string name="superpower_notification_title_new">남은 배터리가 %s 미만입니다.</string>
     <string name="superpower_progress_content">초절전 모드 켜는 중…</string>
     <string name="superpower_progress_left_time">%1$d시간 %2$d분</string>
     <string name="superpower_progress_switch_home">어두운 테마로 전환하기</string>
@@ -3155,8 +3192,10 @@ SMS 전송"</string>
     <string name="superpower_savemode_limit4">선택한 앱이 정상적으로 작동하도록 허용</string>
     <string name="superpower_settings">초절전 모드</string>
     <string name="superpower_settins_autoenter_summary">배터리가 10% 남았을 때 초절전 모드를 자동으로 켭니다.</string>
+    <string name="superpower_settins_autoenter_summary_new">배터리가 %s 남았을 때 초절전 모드를 자동으로 켭니다.</string>
     <string name="superpower_settins_autoenter_title">자동으로 켜기</string>
     <string name="superpower_settins_autoleave_summary">배터리가 50% 충전되었을 때 초절전 모드를 자동으로 끕니다.</string>
+    <string name="superpower_settins_autoleave_summary_new">배터리가 %s 충전되었을 때 초절전 모드를 자동으로 끕니다.</string>
     <string name="superpower_settins_autoleave_title">자동으로 끄기</string>
     <string name="superpower_settins_other">추가 설정</string>
     <string name="superpower_settins_switch_summary">"기본 기능(예 : 통화, 메시지, 선택한 앱)을 최대한 오래 사용할 수 있도록 배터리를 사용하는 대부분의 기능을 제한합니다. "</string>
@@ -3466,6 +3505,7 @@ SMS 전송"</string>
     <string name="traffic_setting_fragment_sms_content_tips">이곳에 메시지 작성</string>
     <string name="traffic_setting_fragment_title">데이터 사용량 쿼리</string>
     <string name="traffic_setting_fragment_title_guide">통신사와 데이터 요금제</string>
+    <string name="traffic_to_limit_warning">"데이터 한도의 %s를 사용했습니다."</string>
     <string name="traffic_usage_warning_body">이미 이번 달에 %s 용량의 데이터를 사용했습니다.</string>
     <string name="traffic_usage_warning_limit">데이터 사용량 경고</string>
     <string name="traffic_usage_warning_title">데이터 사용 경고</string>
@@ -3540,6 +3580,10 @@ SMS 전송"</string>
     <string name="vb_ve_settings_pic_border_stronger">향상된 윤곽선</string>
     <string name="vb_ve_settings_picture_stronger">향상된 애니메이션</string>
     <string name="vb_video_effects_display_style">스타일</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">대화 개선</string>
+    <string name="vb_video_effects_dolby_headset">" (이어폰 전용)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos 켜짐</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">스테레오 확장</string>
     <string name="vb_video_effects_setting_black_white">흑백</string>
     <string name="vb_video_effects_setting_cinema">시네마</string>
     <string name="vb_video_effects_setting_old_movie">레트로</string>
@@ -3560,6 +3604,7 @@ SMS 전송"</string>
     <string name="videobox_settings_switch_desc">동영상 재생을 위한 특수효과 및 기능</string>
     <string name="videobox_settings_switch_title">동영상 도구 상자</string>
     <string name="videobox_settings_title">동영상 도구 상자</string>
+    <string name="view_traffic_details">데이터 사용 통계 보기</string>
     <string name="virus_auto_update_engine">자동 업데이트：%s</string>
     <string name="virus_update_tips_title">Wi-Fi에 연결하세요.</string>
     <string name="virus_wait_network_dialog_message">업데이트 용량이 큽니다. 다운로드하려면 Wi-Fi에 연결하세요.</string>
@@ -3679,6 +3724,22 @@ SMS 전송"</string>
     <string name="warningcenter_mijia_page_title">경고</string>
     <string name="warningcenter_mijia_search_keywords">Mi Home 경고</string>
     <string name="warningcenter_mijia_title">스마트 홈 기기의 경고</string>
+    <string name="warningcenter_policeassist_charge_tips">* 메시지 발신 요금이 부과될 수 있습니다. 요금에 대해 알아보려면 이동통신사에 문의하세요.</string>
+    <string name="warningcenter_policeassist_close_btn">사용 안함</string>
+    <string name="warningcenter_policeassist_flow_locating">정보 받아오는 중…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">"위치를 공유할 수 없음"</string>
+    <string name="warningcenter_policeassist_flow_privacy">개인정보 보호정책</string>
+    <string name="warningcenter_policeassist_flow_send">경찰에 위치 공유</string>
+    <string name="warningcenter_policeassist_flow_tips">위치 공유</string>
+    <string name="warningcenter_policeassist_noti_content">현재 위치를 자동으로 문자 전송</string>
+    <string name="warningcenter_policeassist_noti_privacy">탭하여 개인정보 보호정책 확인</string>
+    <string name="warningcenter_policeassist_noti_send">경찰에 위치 공유됨</string>
+    <string name="warningcenter_policeassist_noti_title">긴급 통화 시 위치 공유</string>
+    <string name="warningcenter_policeassist_open_btn">사용</string>
+    <string name="warningcenter_policeassist_open_content">"110, 120, 119, 122 또는 12122로 전화하는 동안 SMS 또는 모바일 데이터를 사용하여 위치 정보를 경찰에 자동으로 보냅니다."</string>
+    <string name="warningcenter_policeassist_open_title">긴급 통화 시 경찰에 위치 공유</string>
+    <string name="warningcenter_policeassist_privacy"><Data>"&lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 확인하였으며, 이에 동의합니다."</Data></string>
+    <string name="warningcenter_policeassist_title">긴급 위치</string>
     <string name="warningcenter_title">MIUI 경고 센터</string>
     <string name="weChat_not_found">앱 버전이 너무 낮거나 설치되지 않았습니다.</string>
     <string name="website">웹사이트</string>

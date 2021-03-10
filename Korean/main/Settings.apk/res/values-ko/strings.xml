@@ -4378,7 +4378,7 @@ PIN 설정"</string>
     <string name="miheadset_key_config_close_summary">소음 제거 및 주변 소리 허용 기능을 해제하세요.</string>
     <string name="miheadset_key_config_gesture_control">동작</string>
     <string name="miheadset_key_config_next_music">다음 곡</string>
-    <string name="miheadset_key_config_noise_control">소음 제어 모드</string>
+    <string name="miheadset_key_config_noise_control">소음 제어</string>
     <string name="miheadset_key_config_noise_control_summary">선택된 두 가지 소음 제어 모드 간에 전환하려면 길게 누르세요.</string>
     <string name="miheadset_key_config_noise_summary">외부 소리 차단</string>
     <string name="miheadset_key_config_press_left">왼쪽 이어폰을 길게 누르세요.</string>
@@ -7402,6 +7402,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="title_layout_current2_weight">글자 크기 및 글자 굵기</string>
     <string name="title_miui_music_mute_by_user">자동 모드</string>
     <string name="title_of_auto_launch_manage">자동 실행</string>
+    <string name="title_special_features_health_global">심박수</string>
     <string name="to_close">끄기</string>
     <string name="toast_apply_font_fail">"글꼴을 설정할 수 없음"</string>
     <string name="toast_lockscreen_glogin_empty_password">비밀번호 입력</string>

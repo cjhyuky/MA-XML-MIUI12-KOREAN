@@ -95,7 +95,7 @@
     <string name="activate_feature_mx_and_voip">Mi 메시지 및 음성</string>
     <string name="activate_feature_mms_sync">메시지 동기화</string>
     <string name="activate_feature_call_log_sync">통화 기록 동기화</string>
-    <string name="activate_feature_find_device">기기 찾기가 네트워크에 연결할 수 없음</string>
+    <string name="activate_feature_find_device">SMS 위치 찾기</string>
     <string name="activate_feature_register_xiaomi_account">Mi 계정 설치</string>
     <string name="activate_feature_verify_mx_token">Mi 계정 인증</string>
     <string name="activate_feature_live_talk">충전 패키지</string>

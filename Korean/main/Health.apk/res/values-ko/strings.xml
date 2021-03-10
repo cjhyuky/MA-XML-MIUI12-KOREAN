@@ -79,6 +79,7 @@
     <string name="date_format_y_m_d_h_m">yyyy/MM/dd HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">yyyy년 M월 d일 HH:mm</string>
     <string name="date_format_y_m_d_h_m_s">yyyy/MM/dd HH:mm:ss</string>
+    <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
     <string name="day">일</string>
     <string name="deep_sleep">깊은 수면</string>
     <string name="delete_dailog_confirm_msg_wear">지금 %1$s을 삭제하시겠습니까?</string>
@@ -257,6 +258,9 @@
     <string name="mesens_card_title_today_begin">생리가 오늘 시작될 수 있습니다.</string>
     <string name="mesens_card_title_tomorrow_begin">생리가 내일 시작될 수 있습니다.</string>
     <string name="mi_health">Mi 건강</string>
+    <string name="miuix_appcompat_deselect_all">선택 해제</string>
+    <string name="miuix_appcompat_select_all">모두 선택</string>
+    <string name="miuix_appcompat_select_item">항목 선택</string>
     <string name="model_card_setting">카드 설정</string>
     <string name="modify">편집</string>
     <string name="modify_end_date">종료일 변경</string>
@@ -328,6 +332,7 @@
     <string name="sedentary_toggle_content">"오랫 동안 활동이 없으면 Mi 건강에서 일어나서 걸으라고 알려줍니다."</string>
     <string name="select_menstruation_end_date">이 기간의 종료 날짜를 선택하세요.</string>
     <string name="select_null">선택되지 않음</string>
+    <string name="send">보내기</string>
     <string name="setting">설정</string>
     <string name="setting_sedentary_off">꺼짐</string>
     <string name="setting_sedentary_on">켜짐</string>

@@ -2854,4 +2854,5 @@
     <string name="stk_name">USIM 툴킷</string>
     <string name="sensor_answer_summary">기기를 귀 가까이 가져가면 자동으로 전화 수신</string>
     <string name="sensor_answer_title">자동으로 전화 수신</string>
+    <string name="select_apn_list_title">기본 APN 선택: SIM %1$s</string>
 </resources>
