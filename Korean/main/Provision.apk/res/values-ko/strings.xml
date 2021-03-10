@@ -299,5 +299,5 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="item_contents_wwarning">"기기를 분실한 경우 화면 잠금을 설정하지 않는 한 다른 사람이 기기를 사용하고 데이터에 액세스하지 못하도록 차단할 수 없습니다. 그래도 건너뛰시겠습니까?"</string>
     <string name="item_return">설정</string>
     <string name="item_skip">건너뛰기</string>
-	<string name="title_set_fingerprint">화면 잠금</string>
+    <string name="title_set_fingerprint">화면 잠금</string>
 </resources>
