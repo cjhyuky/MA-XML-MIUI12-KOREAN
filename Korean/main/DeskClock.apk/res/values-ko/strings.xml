@@ -474,4 +474,9 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">나중에</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
     <string name="xiaomi_market_sdk_update_dialog_title">업데이트 가능</string>
+    <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
+    <string name="miuix_appcompat_deselect_all">선택해제</string>
+    <string name="miuix_appcompat_select_all">전부 선택</string>
+    <string name="miuix_appcompat_select_item">항목 선택</string>
+    <string name="send">전송</string>
 </resources>
