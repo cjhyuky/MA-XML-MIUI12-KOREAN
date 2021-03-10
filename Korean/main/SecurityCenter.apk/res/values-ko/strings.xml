@@ -569,7 +569,7 @@
     <string name="auto_task_notify_do_task_title">자동 작업 시작됨</string>
     <string name="auto_task_notify_exit_task_title">자동 작업 종료됨</string>
     <string name="auto_task_notify_task_cancel_count_down">5초 안에 자동 동작이 취소됩니다.</string>
-    <string name="auto_task_notify_task_cancel_count_down_new">%d초 안에 자동 동작이 취소됩니다./string>
+    <string name="auto_task_notify_task_cancel_count_down_new">%d초 안에 자동 동작이 취소됩니다.</string>
     <string name="auto_task_notify_task_cancel_do">취소</string>
     <string name="auto_task_notify_task_canceled_summary">전화를 걸거나 받을 수 있습니다.</string>
     <string name="auto_task_notify_task_canceled_summary2">게임을 하는중인 것 같네요.</string>
@@ -4441,11 +4441,7 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
     <string name="gtb_spring_festival_egg_obtain_fail">"이 네트워크에 연결할 수 없습니다."</string>
     <string name="send">전송</string>
-     <string name="antivirus_third_privacy_title">타사 개인정보 정책</string>
-     <string name="gamebox_macro">콤보</string>
-     <string name="gb_game_macro_bubble_tips">콤보를 써보세요.</string>
-     <string name="gb_game_macro_toast_tips">"콤보를 써보세요!
-순서를 기록해서 언제든지 사용하세요!"</string>
+    <string name="antivirus_third_privacy_title">타사 개인정보 정책</string>
     <string name="power_center_night_charge_noti_subtitle">%s에 충전 완료합니다.</string>
     <string name="power_center_night_charge_noti_title">스마트 충전 보호</string>
     <string name="power_center_night_charge_protection">스마트 충전 보호</string>
