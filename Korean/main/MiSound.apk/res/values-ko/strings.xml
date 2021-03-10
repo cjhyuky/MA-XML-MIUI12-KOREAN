@@ -232,4 +232,10 @@
     <string name="sound_transmission_function_generalize">휴대전화 마이크의 소리를 외부 블루투스 기기에서 재생할 수 있습니다.</string>
     <string name="music_headset_effect_harman_kardon">하만 카돈</string>
     <string name="music_headset_effect_harman_kardon_summary">인증 프로 오디오</string>
+    <string name="dolby_dax_geq_select_title">프리셋</string>
+    <string name="dolby_dax_geq_title">그래픽 이퀄라이저</string>
+    <string name="dolby_dax_profile_dynamic">다이나믹</string>
+    <string name="dolby_dax_setting">돌비 효과</string>
+    <string name="dolby_dax_title">써라운드 사운드</string>
+	<string name="misound_effect_setting">Mi 사운드</string>
 </resources>
