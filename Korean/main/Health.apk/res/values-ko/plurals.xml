@@ -48,8 +48,11 @@
     <plurals name="minutes">
         <item quantity="other">%1$d분</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">항목 %d개 선택됨</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d개 새로운 알림</item>
+        <item quantity="other">새로운 알림 %d개</item>
     </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">목표: %1$d시간</item>
