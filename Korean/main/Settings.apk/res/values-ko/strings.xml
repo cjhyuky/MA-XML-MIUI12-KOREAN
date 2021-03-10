@@ -9186,4 +9186,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="miui_sos_pa_title">긴급 위치</string>
     <string name="miui_sos_pa_turn_off">꺼짐</string>
     <string name="miui_sos_pa_turn_on">켜짐</string>
+    <string name="headset_unsaved_device">장치 지우기</string>
+    <string name="sim_card_lock">SIM 카드 상태</string>
 </resources>
