@@ -90,4 +90,7 @@
         <item quantity="other">%s시간 후</item>
         <item quantity="one">%s시간 후</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d개 항목 선택됨</item>
+    </plurals>
 </resources>
