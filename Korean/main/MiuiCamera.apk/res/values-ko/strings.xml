@@ -1876,4 +1876,11 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="wideselfie_rotate_to_left_slowly">전화를 왼쪽으로 돌리세요.</string>
     <string name="wideselfie_rotate_to_right_slowly">전화를 오른쪽으로 돌리세요.</string>
     <string name="pref_customization_style">커스텀 스타일</string>
+    <string name="dialog_button_goto">설정으로 이동</string>
+    <string name="dual_video_record_remote">다중 녹화</string>
+    <string name="dual_video_user_guide_remote_content">멀티 카메라 녹화 기능은 두 개의 휴대폰을 지원하여 서로 다른 시야각에서 이미지를 녹화하고 하나의 비디오로 결합합니다. 이 기기를 통해 두 대의 휴대폰의 비디오 미리보기 및 촬영을 볼 수 있으며 이 기기의 녹음만 지원합니다.</string>
+    <string name="dual_video_user_guide_remote_p1">휴대전화1</string>
+    <string name="dual_video_user_guide_remote_p2">휴대전화2</string>
+    <string name="remote_device_type_phone">샤오미폰</string>
+    <string name="remote_online_permission">다중 카메라 녹화 기능을 사용하기 전에 카메라 "위치 지정"권한을 "사용중에만 허용"으로 설정해야합니다.</string>
 </resources>
