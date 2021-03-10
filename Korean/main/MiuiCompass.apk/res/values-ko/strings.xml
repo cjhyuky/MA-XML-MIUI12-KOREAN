@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="gradienter_title">레벨</string>
     <string name="dialog_body_no_network_china">Wi-Fi에 연결하거나 모바일 데이터를 켭니다.</string>
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
