@@ -631,4 +631,6 @@
     <string name="launcher_icon_management">홈 화면 바로가기 관리</string>
     <string name="restore_icon_successful">추가 완료</string>
     <string name="clearable_edittext_clear_description">삭제</string>
+    <string name="assistant_edge_gesture_summary">구글 어시스턴트를 깨우려면 왼쪽 하단 또는 오른쪽 하단에서 위로 스와이프</string>
+    <string name="assistant_edge_gesture_title">구글 어시스턴트를 위해 모서리에서 위로 스와이프</string>
 </resources>
