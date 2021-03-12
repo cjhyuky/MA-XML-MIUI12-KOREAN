@@ -636,4 +636,7 @@
     <string name="network_error">"네트워크 연결 실패. 다시 시도해주세요."</string>
     <string name="russia_preinstall_folder_name">러시아</string>
     <string name="server_error">서버 에러가 발생했습니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="deleted_system_applications">삭제된 시스템 어플</string>
+    <string name="remove_sys_app_content">"설정 &gt; 앱 &gt; 홈 화면 바로 가기에서 홈 화면 바로 가기를 다시 추가할 수 있습니다. 지금 제거하시겠습니까?"</string>
+    <string name="remove_sys_app_title">홈 화면 바로가기를 삭제하시겠습니까?</string>
 </resources>

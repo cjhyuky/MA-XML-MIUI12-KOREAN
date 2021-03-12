@@ -186,6 +186,8 @@
     <string name="idbct_opt_auto_select_main_text">자동</string>
     <string name="idbct_opt_high_def_desc_text">항상 고화질 사진 다운로드</string>
     <string name="idbct_opt_high_def_main_text">고화질</string>
+    <string name="idbct_opt_low_dev_desc_text">항상 표준 화질 사진 다운로드</string>
+    <string name="idbct_opt_low_dev_main_text">표준</string>
     <string name="idbct_title">네트워크 유형</string>
     <string name="isornot_your_mi_account">귀하의 Mi 계정입니까?</string>
     <string name="later">끄지 않기</string>
@@ -362,7 +364,7 @@
     <string name="select_picture_des">사진과 온라인 이미지를 믹스에 추가하면 슬라이드 쇼에 자동으로 나타납니다.</string>
     <string name="setting_about_item_des">버전</string>
     <string name="setting_about_item_title">슬라이드형 배경화면 정보</string>
-    <string name="setting_des">설정&gt;화면 및 비밀번호 잠금&gt;배경 슬라이드 쇼에서 슬라이드쇼를 설정할 수 있습니다.</string>
+    <string name="setting_des">슬라이드 쇼 서비스는 슬라이드형 배경화면에서 설정할 수 있습니다. 사용 가능한 모든 옵션을 보려면 설정 앱에서 \"슬라이드형 배경화면\"을 검색하세요.</string>
     <string name="setting_head">설정</string>
     <string name="setting_ok">설정</string>
     <string name="setting_tip">다시 표시하지 않음</string>
@@ -461,7 +463,7 @@
     <string name="subscribe_update_time_setting">다른 간격을 설정하세요.</string>
     <string name="summary">온라인 콘텐츠를 보려면 당사의 &lt;a href=\'%s\'&gt;개인정보 보호정책&lt;/a&gt;에 동의해야 합니다. 동의하지 않아도 로컬 배경화면을 계속 사용할 수는 있습니다.</string>
     <string name="summary_international">이 기능을 사용하면 &lt;a href =\'%1$s\'&gt;이용 약관&lt;/a&gt; 과&lt;a href=\'%2$s\'&gt;개인정보 보호정책&lt;/a&gt;에 동의해야 합니다. 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
-    <string name="summary2">이 기능을 사용하면 &lt;font color=\'#37A5FF\'&gt;&lt;a href =\'%1$s\'&gt;이용 약관&lt;/font&gt;&lt;/a&gt;과&lt;font color=\'#37A5FF\'&gt;&lt;a href=\'%2$s\'&gt;개인정보 보호정책&lt;/font&gt;&lt;/a&gt;에 동의해야 합니다. 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
+    <string name="summary2">이 기능을 사용하면 &lt;font color=\'#0D84FF\'&gt;&lt;a href =\'%1$s\'&gt;이용 약관&lt;/font&gt;&lt;/a&gt;과&lt;font color=\'#0D84FF\'&gt;&lt;a href=\'%2$s\'&gt;개인정보 보호정책&lt;/font&gt;&lt;/a&gt;에 동의해야 합니다. 정상적으로 작동하려면 인터넷 연결이 필요합니다.</string>
     <string name="sure_close_gallery">슬라이드형 배경화면을 끄시겠습니까?</string>
     <string name="sure_close_gallery_des">슬라이드형 배경화면을 끄면 홈 화면과 잠금 화면으로 신선한 이미지를 전달할 수 없습니다. 그래도 끄시겠습니까?</string>
     <string name="tab_user_title_bar_text">설정</string>
@@ -483,6 +485,8 @@
     <string name="ticket_invalid">입력한 코드가 잘못되었습니다.</string>
     <string name="ticket_sign_in">SMS로 로그인</string>
     <string name="time_current">바로 지금</string>
+    <string name="time_interval_dialog_content1">슬라이스형 배경화면을 사용하면 장치의 잠금을 해제할 때마다 새 이미지를 볼 수 있습니다.</string>
+    <string name="time_interval_dialog_content2">\"슬라이드 쇼 설정\"에서 이미지 변경 주기를 변경할 수 있습니다.</string>
     <string name="toast_ad_down_tip">"앱 다운로드 중… "</string>
     <string name="toast_ad_down_tip2">"%s 다운로드 중… "</string>
     <string name="toast_load_hd_fail">원본 이미지를 불러올 수 없습니다.</string>
