@@ -383,6 +383,9 @@
         <item quantity="other">제안사항 %1$d개</item>
         <item quantity="one">제안사항 1개</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">이어폰 중 하나가 귀 또는 충전 케이스에서 %d분 이상 떨어져있을 때마다 알림 수신</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d개 항목</item>
         <item quantity="one">1개 항목</item>
