@@ -125,4 +125,5 @@
 더 빠른 연결 프로토콜"</string>
     <string name="bluetooth_le_audio_profile_summary_connected">LE_AUDIO에 연결됨</string>
     <string name="bluetooth_le_audio_profile_summary_use_for">LE_AUDIO에 사용</string>
+    <string name="miheadset_notification_Box">케이스</string>
 </resources>

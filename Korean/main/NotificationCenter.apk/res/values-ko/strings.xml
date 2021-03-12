@@ -104,6 +104,11 @@
     <string name="notch_and_status_bar_setting">제어 센터 &amp; 상태 표시줄</string>
     <string name="notification_display_setting">알림 창</string>
     <string name="notification_display_style">알림 스타일</string>
+    <string name="notification_fold_description1">알림 폴더는 MIUI 9에서 도입되었습니다. 이 기능은 중요하지 않은 알림을 필터링하여 별도의 폴더에 배치합니다.</string>
+    <string name="notification_fold_description2">MIUI는 탭한 알림을 기억한 다음 여러 기준을 사용하여 중요한지 여부를 결정합니다.</string>
+    <string name="notification_fold_description3">"중요하다고 생각하는 알림이 여전히 알림 폴더에있는 경우 이러한 문제를 Google에 신고 해주세요. 의견을 보내주시면 감사하겠습니다."</string>
+    <string name="notification_fold_footer_icon_summary">중요하지 않은 알림이 그룹화되면 앱 아이콘 표시</string>
+    <string name="notification_fold_footer_icon_title">앱 아이콘 표시</string>
     <string name="notification_fold_summary">모든 중요하지 않은 알림은 하나의 폴더로 표시됩니다.</string>
     <string name="notification_fold_title">알림 폴더</string>
     <string name="notification_manager">앱 알림</string>

@@ -15,6 +15,7 @@
     <string name="settings_backup">시스템 설정</string>
     <string name="deskclock_backup">알람 시계</string>
     <string name="button_cancel">취소</string>
+    <string name="button_confirm">확인</string>
     <string name="button_next">다음</string>
     <string name="date_format">yyyy/MM/dd HH:mm</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
@@ -282,6 +283,7 @@
 백업할 수 없습니다."</string>
     <string name="backup_warning_reason_no_server_response">"연결 끊김.
 다시 시도하세요."</string>
+    <string name="pc_mode_not_support_restore_warning">"PC 모드에서는 항목을 복원할 수 없습니다. PC 모드를 끈 후 다시 시도하세요."</string>
     <string name="provision_back">뒤로</string>
     <string name="provision_next">다음</string>
     <string name="provision_skip_underline">건너뛰기</string>

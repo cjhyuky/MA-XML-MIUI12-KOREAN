@@ -1018,6 +1018,7 @@
     <string name="face_unlock_success_stay_screen_title">잠금해제 후 잠금 화면 유지</string>
     <string name="failed_to_open_app_settings_toast">%1$s 설정을 열지 못했음</string>
     <string name="fast_pairing_introduction">Mi 링크를 사용하면 기기가 주변의 블루투스 기기에 연결할 수 있습니다. 주변에 있는 기기를 찾으려면 Mi 링크가 인터넷에 연결할 수 있도록 권한을 부여하세요.</string>
+    <string name="finger_error_single_mode">"한 손 모드에서는 지문 스캐너를 사용할 수 없습니다. 한 손 모드를 종료하고 다시 시도하십시오."</string>
     <string name="fingerprint_add_text">지문 인터페이스가 업데이트되었습니다. 지문을 다시 추가하세요.</string>
     <string name="fingerprint_add_title">지문 추가</string>
     <string name="fingerprint_again_identified_msg">지문이 활성화되었습니다. 지문이나 비밀번호로 기기를 잠금해제할 수 있습니다.</string>

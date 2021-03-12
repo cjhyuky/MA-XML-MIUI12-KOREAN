@@ -659,6 +659,7 @@
     <string name="dialog_button_connect">연결</string>
     <string name="dialog_button_disconnect">연결 해제</string>
     <string name="dialog_button_exit">나가기</string>
+    <string name="dialog_button_goto">설정으로 이동</string>
     <string name="dialog_button_ok">확인</string>
     <string name="dialog_button_reject">거절</string>
     <string name="dialog_button_scan">기기 검색</string>
@@ -702,10 +703,15 @@
     <string name="dual_camera_too_close_toast">카메라가 물체에 너무 가까이 있습니다.</string>
     <string name="dual_camera_use_hint">"물체와 거리를 2m 이상 떨어지지 마세요"</string>
     <string name="dual_video_record_merged">합침</string>
+    <string name="dual_video_record_remote">이중 전화 녹음</string>
     <string name="dual_video_record_standalone">별개</string>
     <string name="dual_video_user_guide_main_content">듀얼 카메라 동영상을 생성하려면, 기기에서 두 개의 렌즈를 선택하고 동시에 촬영하세요. 녹화된 동영상을 각각 따로 저장할 수 있고, 또는 하나로 붙이거나 PIP 동영상으로도 합성할 수 있습니다.</string>
     <string name="dual_video_user_guide_main_title">듀얼 카메라 동영상</string>
     <string name="dual_video_user_guide_merge_content">동시에 두 개의 렌즈로 촬영하고, 녹화된 동영상을 하나로 붙이거나 PIP 동영상으로 합성합니다.</string>
+    <string name="dual_video_user_guide_remote_content">"이중 전화 녹음을 사용하면 서로 다른 두 장치의 피드를 하나의 비디오로 결합 할 수 있습니다.이 장치에서 두 피드와 최종 비디오를 모두 미리 볼 수 있습니다. 오디오는 이 장치에서만 녹음됩니다."</string>
+    <string name="dual_video_user_guide_remote_p">전화 %d</string>
+    <string name="dual_video_user_guide_remote_p1">휴대전화1</string>
+    <string name="dual_video_user_guide_remote_p2">휴대전화2</string>
     <string name="dual_video_user_guide_standalone_content">동시에 두 개의 렌즈로 촬영하고, 녹화된 동영상을 각각 따로 저장합니다.</string>
     <string name="edit_blusher">볼터치</string>
     <string name="edit_chin">피부</string>
@@ -1646,6 +1652,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="recommend_soft_light_tip">플래시 켜기</string>
     <string name="recommend_super_night">야간 모드 사용</string>
     <string name="record_back_pressed_hint">다시 터치하면 녹화 멈춤</string>
+    <string name="remote_device_type_phone">샤오미폰</string>
     <string name="remote_online_connecting">연결할 기기 선택</string>
     <string name="remote_online_disconnect_confirmation">%1$s에 대한 연결을 취소하시겠습니까?</string>
     <string name="remote_online_exit_confirmation">듀얼 기기 녹화를 종료하시겠습니까?</string>
@@ -1655,6 +1662,7 @@ A4 용지에 무선으로 출력해보세요."</string>
 
 상대 기기는 알림 창에서 "듀얼 기기 녹화" 토글을 사용 설정해야 합니다. "듀얼 기기 녹화" 기능을 지원하는 Xiaomi 및 Redmi 휴대전화만 지원합니다."</string>
     <string name="remote_online_introduction_ii">이 기능을 사용하려면, 상대 Mi 또는 Redmi 기기가 이중 기기 녹화를 지원해야합니다. 제어 센터 토글로 사용 설정할 수 있습니다.</string>
+    <string name="remote_online_permission">다중 카메라 녹화 기능을 사용하기 전에 카메라 "위치 지정"권한을 "사용중에만 허용"으로 설정해야합니다.</string>
     <string name="remote_online_searching">기기 검색 중...</string>
     <string name="remote_online_service_name">듀얼 기기 녹화</string>
     <string name="remote_online_unavailable">연결 가능한 기기가 없습니다.</string>
@@ -1875,12 +1883,4 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="wideselfie_rotate_to_front">전화를 앞으로 기울이세요.</string>
     <string name="wideselfie_rotate_to_left_slowly">전화를 왼쪽으로 돌리세요.</string>
     <string name="wideselfie_rotate_to_right_slowly">전화를 오른쪽으로 돌리세요.</string>
-    <string name="pref_customization_style">커스텀 스타일</string>
-    <string name="dialog_button_goto">설정으로 이동</string>
-    <string name="dual_video_record_remote">다중 녹화</string>
-    <string name="dual_video_user_guide_remote_content">멀티 카메라 녹화 기능은 두 개의 휴대폰을 지원하여 서로 다른 시야각에서 이미지를 녹화하고 하나의 비디오로 결합합니다. 이 기기를 통해 두 대의 휴대폰의 비디오 미리보기 및 촬영을 볼 수 있으며 이 기기의 녹음만 지원합니다.</string>
-    <string name="dual_video_user_guide_remote_p1">휴대전화1</string>
-    <string name="dual_video_user_guide_remote_p2">휴대전화2</string>
-    <string name="remote_device_type_phone">샤오미폰</string>
-    <string name="remote_online_permission">다중 카메라 녹화 기능을 사용하기 전에 카메라 "위치 지정"권한을 "사용중에만 허용"으로 설정해야합니다.</string>
 </resources>

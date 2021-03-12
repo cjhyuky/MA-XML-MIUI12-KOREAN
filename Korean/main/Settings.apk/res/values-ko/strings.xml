@@ -486,6 +486,7 @@
     <string name="allow_sound_title">소리 재생 허용</string>
     <string name="allow_vibrate_title">진동</string>
     <string name="alpha_build">" 알파"</string>
+    <string name="already_delete_system_app">제거 된 시스템 앱</string>
     <string name="always">항상</string>
     <string name="always_allow_bind_appwidgets_text">이 앱이 위젯을 만들고 자체 데이터에 액세스할 수 있도록 선택했습니다.</string>
     <string name="always_running">항상 실행(%s)</string>
@@ -1475,6 +1476,9 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="bt_ldac_open_dialog_title">LDAC를 켜시겠습니까?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">속성</string>
+    <string name="bt_leaudio_open_dialog_summary">"LC3가 켜져 있으면 여러 장치를 헤드셋에 연결할 수 없습니다.이 기능을 켜면 연결된 다른 장치의 연결이 끊어집니다. LC3를 켜시겠습니까?"</string>
+    <string name="bt_leaudio_open_dialog_title">주의</string>
+    <string name="bt_leaudio_summary">고품질 오디오 경험</string>
     <string name="bt_lhdc_declaration">블루투스 기기가 LHDC를 지원하면 자동으로 연결됩니다. LHDC는 고품질 오디오 경험을 제공하지만 배터리 소모가 많습니다. 블루투스 기기 하드웨어 문제로 인해 재생 중 장애가 발생할 수 있습니다.</string>
     <string name="bt_lhdc_dialog_summary">LHDC는 고품질 오디오 환경을 제공하지만 배터리 소모도 증가시킵니다. 설정에서 이 기능을 사용 중지할 수 있습니다.</string>
     <string name="bt_lhdc_dialog_title">현재 기기는 LHDC를 지원합니다:</string>
@@ -1729,6 +1733,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="cmcc_hardware_version">하드웨어 버전</string>
     <string name="codec_low_latency_summary">게임 오디오 및 동영상 동기화 중 지연 시간 최소화</string>
     <string name="codec_low_latency_title">낮은 지연 시간</string>
+    <string name="codec_low_latency_video_summary">게임 및 비디오에 짧은 지연 시간의 오디오 경험을 제공하여 사운드와 사진 동기화를보다 자연스럽게 만듭니다.</string>
     <string name="color_black">검은색</string>
     <string name="color_blue">파란색</string>
     <string name="color_calibration_none">이 기기</string>
@@ -2324,6 +2329,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="development_settings_summary">앱 개발 옵션 설정</string>
     <string name="development_settings_title">개발자 옵션</string>
     <string name="device_actionbar_title">전체 사양</string>
+    <string name="device_activation_info">기기 활성화</string>
     <string name="device_admin_add_title">기기 관리자</string>
     <string name="device_admin_settings_title">기기 관리자 설정</string>
     <string name="device_admin_status">이 관리자 앱은 활성 상태로, %1$s 앱에서 다음 작업을 처리할 수 있도록 합니다.</string>
@@ -2866,6 +2872,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="face_data_input_ok_title">추가되었습니다.</string>
     <string name="face_data_input_structure_title">3D 얼굴 데이터</string>
     <string name="face_data_input_title">얼굴 데이터 추가</string>
+    <string name="face_data_introduction_add">시작</string>
     <string name="face_data_introduction_msg">얼굴 데이터를 사용하여 기기를 잠금해제하거나 신원을 확인할 수 있습니다. 얼굴 데이터를 추가하기 전에 잠금 화면 비밀번호를 추가하세요.</string>
     <string name="face_data_introduction_next">다음</string>
     <string name="face_data_introduction_title">얼굴인식</string>
@@ -2878,7 +2885,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="face_data_manage_unlock_title">얼굴 데이터로 잠금해제</string>
     <string name="face_data_siggesstion_next">다음</string>
     <string name="face_data_siggesstion_next_time">다음 (%d초)</string>
-    <string name="face_data_suggesstion_first">보안 문제: 얼굴인식 잠금해제는 PIN, 비밀번호 또는 패턴보다 보안성이 떨어집니다. 사진은 물론 닮은 사람이나 물건으로 기기가 잠금해제될 수도 있습니다.</string>
+    <string name="face_data_suggesstion_first">얼굴 잠금 해제는 PIN, 비밀번호 또는 패턴보다 안전하지 않습니다. 사진은 물론 모양이 비슷한 사람이나 사물에 의해 기기가 잠금 해제 될 수 있습니다.</string>
     <string name="face_data_suggesstion_second">"얼굴의 어느 부분도 물건으로 가리지 않고 선명하게 보이는지 확인하세요. 얼굴도 밝게 비춰야 합니다."</string>
     <string name="face_intro_error_max">이미 최대 개수의 얼굴을 추가했습니다.</string>
     <string name="face_intro_error_unknown">얼굴을 추가할 수 없습니다.</string>
@@ -3327,9 +3334,12 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="header_category_wireless_networks">무선 및 네트워크</string>
     <string name="header_data_and_synchronization">데이터 및 동기화</string>
     <string name="headset_connectiong">연결 중...</string>
+    <string name="headset_notification_switch_summary">이어폰이 연결되면 알림 창 위젯에 상태 표시</string>
+    <string name="headset_notification_switch_title">알림 창 위젯</string>
     <string name="headset_remove_message">페어링을 해제하시겠습니까?</string>
     <string name="headset_remove_message_indicate">%1$s이(가) Mi 계정과 연동된 모든 기기와 페어링 해제됩니다.</string>
     <string name="headset_settings_title">이어폰</string>
+    <string name="headset_unsaved_device">장치 지우기</string>
     <string name="headset_unsaved_devices">다른 기기에서 사용됨</string>
     <string name="hearing_aids_category">보조 도구 듣기</string>
     <string name="heavy_weight_stop_description">이 앱을 안전하게 중지할 수 없습니다. 중지할 경우 현재 작업이 일부 유실될 수 있습니다.</string>
@@ -3595,6 +3605,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="keyboard_settings_title">Android 키보드</string>
     <string name="keyboard_shortcuts_helper">단축키</string>
     <string name="keyboard_shortcuts_helper_summary">사용할 수 있는 단축키 표시</string>
+    <string name="keyboard_skin_follow_system_enable">시스템과 함께 다크 모드로 전환</string>
     <string name="keyguard_advance_setting_title">고급 설정</string>
     <string name="keyguard_security_setting_others">기타 설정</string>
     <string name="keyguard_security_setting_privacy_policy">개인정보 보호정책</string>
@@ -4415,6 +4426,8 @@ PIN 설정"</string>
     <string name="miui_allow_vibrate">진동</string>
     <string name="miui_data_usage_menu_metered">모바일 핫스팟</string>
     <string name="miui_experience_optimization">MIUI 최적화 켜기</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">취소</string>
+    <string name="miui_face_enroll_risk_warning_title_text">주의</string>
     <string name="miui_face_enroll_success">"지금 얼굴 데이터를 사용하여 이 기기의 잠금을 해제할 수 있습니다.
 추가 설정에 계속 액세스하세요. "</string>
     <string name="miui_input_method_settings">입력 방법 설정</string>
@@ -4477,6 +4490,9 @@ PIN 설정"</string>
     <string name="miui_sos_menu_add">추가</string>
     <string name="miui_sos_menu_edit">편집</string>
     <string name="miui_sos_msg_call_log_prefix">최근 1시간 동안의 통화 기록은 다음과 같습니다.</string>
+    <string name="miui_sos_pa_title">긴급 위치</string>
+    <string name="miui_sos_pa_turn_off">꺼짐</string>
+    <string name="miui_sos_pa_turn_on">켜짐</string>
     <string name="miui_sos_play_voice">SOS 메시지 재생</string>
     <string name="miui_sos_remind_add">추가</string>
     <string name="miui_sos_remind_close">긴급 SOS 모드가 켜져있습니다. 관련된 모든 기능을 끄시겠습니까?</string>
@@ -6685,6 +6701,7 @@ OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다.</string>
     <string name="sim_call_back_title">기본 SIM에서 다시 전화하기</string>
     <string name="sim_calls_always_use">통화에 항상 사용</string>
     <string name="sim_calls_ask_first_prefs_title">항상 확인</string>
+    <string name="sim_card_lock">SIM 카드 상태</string>
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_card_select_title">SIM 카드 선택</string>
     <string name="sim_cards_changed_message">SIM 카드가 변경되었습니다.</string>
@@ -9182,10 +9199,4 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="zone_menu_by_region">지역별로 선택</string>
     <string name="zone_time_type_dst">일광 절약 시간</string>
     <string name="zone_time_type_standard">표준 시간</string>
-    <string name="device_activation_info">기기 활성화</string>
-    <string name="miui_sos_pa_title">긴급 위치</string>
-    <string name="miui_sos_pa_turn_off">꺼짐</string>
-    <string name="miui_sos_pa_turn_on">켜짐</string>
-    <string name="headset_unsaved_device">장치 지우기</string>
-    <string name="sim_card_lock">SIM 카드 상태</string>
 </resources>
