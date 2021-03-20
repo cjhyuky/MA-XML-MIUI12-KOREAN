@@ -1539,7 +1539,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="pref_hdr10plus_video_mode_description">4K/8K 동영상의 색상과 대비를 최적화합니다. HDR10+ 지원 기기에서만 정상적으로 작동합니다.</string>
     <string name="pref_i_n_r_b">스마트 소음 감소</string>
     <string name="pref_k_h">실시간 인이어 모니터</string>
-    <string name="pref_k_s_i">이어폰이 연결되어 있으면 녹음된 소리를 이어폰으로 재생합니다.</string>
+    <string name="pref_k_s_i">이어폰이 연결되어 있으면 녹음된 소리를 모니터합니다.</string>
     <string name="pref_lens_dirty_detect_summary">렌즈가 더러울 때 알림을 받습니다.</string>
     <string name="pref_lens_dirty_detect_title">렌즈가 더러울 때 알림</string>
     <string name="pref_live_duration_title">라이브 시간</string>

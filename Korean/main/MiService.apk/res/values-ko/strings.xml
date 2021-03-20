@@ -204,4 +204,6 @@
     <string name="miui_main_ring_title">자연에서 영감을 얻은 알림음</string>
     <string name="miui_main_update_end_title">MIUI에 오신 것을 환영합니다.</string>
     <string name="miui_main_update_success_title_12_5">MIUI 12.5에 오신 것을 환영합니다.</string>
+    <string name="close">닫기</string>
+    <string name="send">보내기</string>
 </resources>

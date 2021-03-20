@@ -4337,6 +4337,9 @@ PIN 설정"</string>
     <string name="miheadset_RightEar">오른쪽</string>
     <string name="miheadset_active">활성</string>
     <string name="miheadset_anc_indicate">이어폰을 연결 및 페어링하세요.</string>
+    <string name="miheadset_ancHigh">비행기</string>
+    <string name="miheadset_ancLow">사무실</string>
+    <string name="miheadset_ancMedium">일상</string>
     <string name="miheadset_audio_mode">오디오 품질</string>
     <string name="miheadset_audio_mode_high">높음</string>
     <string name="miheadset_audio_mode_listen">낮음</string>
@@ -4384,6 +4387,7 @@ PIN 설정"</string>
     <string name="miheadset_in_ear_check_summary">이어폰을 귀에 착용하거나 제거하면 자동으로 재생 또는 일시중지합니다.</string>
     <string name="miheadset_last_version">최신 펌웨어입니다.</string>
     <string name="miheadset_local_ota">기기 OTA</string>
+    <string name="miheadset_key_config_ANC_list_title">소음 제어</string>
     <string name="miheadset_key_config_call_ai">음성 어시스턴트</string>
     <string name="miheadset_key_config_close">사용 안함</string>
     <string name="miheadset_key_config_close_summary">소음 제거 및 주변 소리 허용 기능을 해제하세요.</string>

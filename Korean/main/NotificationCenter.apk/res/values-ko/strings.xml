@@ -136,4 +136,10 @@
     <string name="channel_name_notification">앱 알림</string>
     <string name="channel_name_recovered">복구된 알림</string>
     <string name="show_weather">날씨 정보 표시</string>
+    <string name="float_notification_snooze_strategy">잠시 숨김</string>
+    <string name="float_notification_snooze_summary">플로팅 알림을 위로 스와이프하여 예정된 알림을 일시적으로 숨깁니다.</string>
+    <string name="miui_snooze_always_float">"숨기지 않음"</string>
+    <string name="miui_snooze_cancel">취소</string>
+    <string name="miui_snooze_default_time">%d분 후</string>
+    <string name="miui_snooze_until_unlock_screen">잠길 때까지</string>
 </resources>

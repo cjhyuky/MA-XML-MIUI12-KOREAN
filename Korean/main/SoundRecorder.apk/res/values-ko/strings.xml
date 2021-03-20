@@ -315,4 +315,6 @@
     <string name="clear_data_dialog_content">캐시된 항목, 앱 데이터 및 사용자 지정 설정은 삭제되지만 기록은 유지됩니다.</string>
     <string name="clear_data_dialog_title">데이터를 삭제하시겠습니까?</string>
     <string name="preference_clear_data">데이터 삭제</string>
+    <string name="notification_save_as_complete">저장 완료</string>
+    <string name="save_as">다른 이름으로 저장</string>
 </resources>

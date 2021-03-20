@@ -701,4 +701,25 @@
     <string name="title_open_wlan">Wi-Fi 실행</string>
     <string name="title_request_alert_window_perm">플로팅 창 권한 요청</string>
     <string name="waiting_restore_aod">모든 앱을 전송한 후, 화면 표시를 복구합니다.</string>
+    <string name="dialog_rating_commit_toast">제출되었습니다. Mi Mover가 종료됩니다.</string>
+    <string name="dialog_rating_high_score_summary">매우 만족</string>
+    <string name="dialog_rating_low_score_summary">매우 불만족</string>
+    <string name="high_score_label_1">빠른 이전 기기와 새 기기 연결</string>
+    <string name="high_score_label_2">빠른 전송 속도</string>
+    <string name="high_score_label_3">다양한 데이터 전송</string>
+    <string name="high_score_label_4">완전한 정보 전송</string>
+    <string name="high_score_label_5">정확한 예상 시간</string>
+    <string name="high_score_label_6">명확한 사용 지침</string>
+    <string name="high_score_label_7">훌륭한 인터페이스</string>
+    <string name="high_score_label_8">안정적이고 원활한 전송</string>
+    <string name="high_score_label_9">한 번에 전송 선공</string>
+    <string name="low_score_label_1">이전 기기와 새 기기 연결 문제</string>
+    <string name="low_score_label_2">느린 전송 속도</string>
+    <string name="low_score_label_3">부족한 데이터 전송 범위</string>
+    <string name="low_score_label_4">전송 정보 손실</string>
+    <string name="low_score_label_5">부정확한 예상 시간</string>
+    <string name="low_score_label_6">이해하기 어려운 사용 방법</string>
+    <string name="low_score_label_7">불편한 인터페이스</string>
+    <string name="low_score_label_8">전송이 잘 안됨</string>
+    <string name="low_score_label_9">여러 번 시도 후 성공</string>
 </resources>
