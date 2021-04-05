@@ -8,7 +8,6 @@
     bradly1 - Collaborator of MIUI12 Korean translation
     xiaomiqm - Collaborator of MIUI12 Korean translation
     klasses - Collaborator of MIUI12 Korean translation
-    jjhitel - Collaborator of MIUI12 Korean translation
     
 Thanks to Xiaomistory, ruinses, ginam kim, lecahel(for bug reports and translation suggestions).
 
