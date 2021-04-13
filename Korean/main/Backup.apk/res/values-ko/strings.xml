@@ -755,4 +755,5 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="v7_preference_off">끔</string>
     <string name="v7_preference_on">켬</string>
     <string name="perm_location">위치</string>
+    <string name="feature_title_pc_mode_setting">팜 PC</string>
 </resources>
