@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add">추가</string>
-    <string name="app_name">Xiaomi.eu 확장기능</string>
+    <string name="app_name">Xiaomi.eu 부가 기능</string>
     <string name="confirm_reset">초기화 확인</string>
     <string name="confirm_reset_message">기본 앱으로 초기화하시겠습니까?</string>
-    <string name="contributors">기여자</string>
+    <string name="contributors">도움을 주신 분들</string>
     <string name="delete">삭제</string>
     <string name="hide_apps_close">표시되는 앱 아이콘</string>
     <string name="hide_apps_open">숨겨진 앱 아이콘</string>
