@@ -483,6 +483,8 @@
     <string name="item_resource_audio_optional_phone_ring">전화 벨소리</string>
     <string name="item_resource_audio_optional_alarm_ring">알람</string>
     <string name="item_resource_audio_optional_notification_ring">알림 알람</string>
+    <string name="ringtone_confirm_dialog_message">"이 벨소리는 비교적 깁니다. 사용하시겠습니까?"</string>
+    <string name="ringtone_confirm_dialog_title">주의</string>
     <string name="ringtone_set_success">설정 성공</string>
     <string name="online_precust_dreams">드림</string>
     <string name="online_precust_midnight">미드나잇</string>
@@ -1020,8 +1022,7 @@ EEE"</string>
     <string name="no_cta_agreed">"GetApps에 CTA 권한이 없습니다."</string>
     <string name="no_install_permission">"이 항목을 설치할 권한이 없습니다."</string>
     <string name="pref_lockscreen_magazine_summary">다양한 카테고리의 이미지 슬라이드 쇼로 배경화면 바꾸기</string>
-    <string name="set_wallpaper_group_success">"%1$s가 적용되었습니다.
-매 시간 새 이미지가 표시됩니다."</string>
+    <string name="set_wallpaper_group_success">\"%1$s\" 배경화면이 정상적으로 적용되었습니다.</string>
     <string name="super_wallpaper_list_label">슈퍼 배경화면</string>
     <string name="super_wallpaper_setting_apply_success_toast">성공적으로 적용됨</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">적용</string>

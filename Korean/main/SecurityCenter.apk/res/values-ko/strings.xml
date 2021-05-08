@@ -1484,6 +1484,7 @@
     <string name="gb_msg_transparent_dispaly_summary">투명</string>
     <string name="gb_network_status_bad">네트워크 연결이 끊어졌습니다.</string>
     <string name="gb_new_feature">새로운 기능</string>
+    <string name="gb_not_support_on_device">"외부 화면에서는 이 앱을 사용할 수 없습니다."</string>
     <string name="gb_operat_frequently">그다지 빠르지 않습니다!</string>
     <string name="gb_shoulder_key">숄더 버튼</string>
     <string name="gb_shoulder_key_add_show_btn">게임 중 가상 버튼 표시</string>

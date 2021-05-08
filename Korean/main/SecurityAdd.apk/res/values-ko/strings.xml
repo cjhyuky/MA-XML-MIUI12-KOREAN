@@ -34,6 +34,7 @@
     <string name="game_booster">게임 속도 향상</string>
     <string name="gamebox_no_network_btn">다시 불러오기</string>
     <string name="gb_alipays_can_not_complete">지불을 완료할 수 없습니다. 계속하려면 설치하세요.</string>
+    <string name="gb_not_support_on_device">"외부 화면에서는 이 앱을 사용할 수 없습니다."</string>
     <string name="gb_weixinpay_can_not_complete">지불을 완료할 수 없습니다. 계속하려면 설치하세요.</string>
     <string name="lucky_result_title">빨간 봉투</string>
     <string name="main_toolbar_purchase">위로 가기</string>
