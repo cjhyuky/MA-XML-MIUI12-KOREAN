@@ -601,7 +601,7 @@
     <string name="config_name_sound">오디오</string>
     <string name="config_name_straighten">수평계</string>
     <string name="config_name_super_resolution">최고 해상도</string>
-    <string name="config_name_tilt"틸트 시프트</string>
+    <string name="config_name_tilt">틸트 시프트</string>
     <string name="config_name_timer">타이머</string>
     <string name="confirm">확인</string>
     <string name="confirm_fastmotion_reset_manually_parameter_message">지금 파라미터를 초기화하시겠습니까?</string>
