@@ -79,6 +79,7 @@
     <string name="accessibility_document_blackwhite_button">문서 탐색 중. 흑백.</string>
     <string name="accessibility_document_origin_button">문서 탐색 중. 원본.</string>
     <string name="accessibility_document_strengthen_button">문서 탐색 중. 개선.</string>
+    <string name="accessibility_double_click_to_exit">종료하려면 두 번 탭하세요.</string>
     <string name="accessibility_dual_preview_change">변화 표시</string>
     <string name="accessibility_dual_preview_change_finish">변화 표시 성공</string>
     <string name="accessibility_dual_video_merged">합친 동영상</string>
@@ -129,6 +130,7 @@
     <string name="accessibility_live_preview_button">이전 항목 보기</string>
     <string name="accessibility_live_reverse_button">이전 클립 삭제</string>
     <string name="accessibility_live_speed_panel_on">속도 패널</string>
+    <string name="accessibility_lock_focus_success">초점이 성공적으로 고정되었습니다.</string>
     <string name="accessibility_manually_custom_panel_on">수동 패널</string>
     <string name="accessibility_mimoji_background_panel_on">배경 패널</string>
     <string name="accessibility_mimoji_gif_off">GIF 모드 꺼짐</string>
@@ -191,6 +193,8 @@
     <string name="accessibility_timer_burst_image_off">타임 버스트 꺼짐</string>
     <string name="accessibility_timer_burst_image_on">타임 버스트 켜짐</string>
     <string name="accessibility_timer_burst_text">타임 버스트 조정 패널</string>
+    <string name="accessibility_touch_focus_fail">"초점을 잡을 수 없습니다"</string>
+    <string name="accessibility_touch_focus_success">초점이 잡혔습니다.</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP 꺼짐</string>
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP 켜짐</string>
     <string name="accessibility_ultra_wide_off">초광각 모드 꺼짐</string>

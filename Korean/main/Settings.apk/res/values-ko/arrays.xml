@@ -1442,6 +1442,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>DHCP</item>
         <item>고정</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>보조</item>
+        <item>항상</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Wi-Fi 신호가 나쁜 경우에만 모바일 데이터를 사용하여 속도를 높입니다.</item>
+        <item>Wi-Fi와 모바일 데이터를 결합하여 연결 속도 향상</item>
+    </string-array>
     <string-array name="wifi_metered_entries">
         <item>자동 감지</item>
         <item>종량제 Wi-Fi로 취급</item>

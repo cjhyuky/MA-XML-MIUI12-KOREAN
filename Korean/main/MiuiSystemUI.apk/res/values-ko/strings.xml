@@ -1034,6 +1034,7 @@
     <string name="fingerprint_try_again_text">다시 시도</string>
     <string name="float_incall_ignore">무시</string>
     <string name="float_incall_message">메시지</string>
+    <string name="float_notification_snooze_strategy">일시적으로 플로팅 알림 숨기기</string>
     <string name="force_allow_on_external">외부에서 앱 강제 허용</string>
     <string name="force_allow_on_external_summary">매니페스트 값과 관계없이 모든 앱이 외부 저장소에 작성되도록 허용</string>
     <string name="force_hw_ui">강제 GPU 렌더링</string>
@@ -1540,6 +1541,15 @@ EEEE"</string>
     <string name="miui_ringer_total">방해 금지</string>
     <string name="miui_ringer_total_description">알람을 제외한 모든 알림을 진동 없이 무음처리합니다.</string>
     <string name="miui_screen_rotation_freeze_message">가로 모드에서 화면 회전 잠김</string>
+    <string name="miui_snooze_always_float">"숨기지 않기"</string>
+    <string name="miui_snooze_cancel">취소</string>
+    <string name="miui_snooze_default_time">%d분 동안</string>
+    <string name="miui_snooze_to_settings">설정</string>
+    <string name="miui_snooze_toast_hint_default">"다음 알림은 %d분 동안 숨겨집니다. "</string>
+    <string name="miui_snooze_toast_hint_until_unlock_screen">"장치가 잠길 때까지 다음 알림이 숨겨집니다. "</string>
+    <string name="miui_snooze_until_unlock_screen">잠길 때까지</string>
+    <string name="miui_snooze_user_set_fail">추가 옵션을 보려면 설정 > 알림 &amp; 제어 센터로 이동하십시오.</string>
+    <string name="miui_snooze_user_set_success">적용되었습니다. 추가 옵션을 보려면 설정 > 알림 &amp; 제어 센터로 이동하십시오.</string>
     <string name="miui_toast_zen_dnd_to_off">방해 금지 모드가 해제되었습니다. 소리와 진동이 정상적으로 복원되었습니다.</string>
     <string name="miui_toast_zen_standard_to_off">"무음 모드가 해제되었습니다."</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">"무음 모드가 해제되었습니다."</string>

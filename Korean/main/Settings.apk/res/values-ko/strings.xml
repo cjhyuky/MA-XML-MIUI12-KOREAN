@@ -8538,6 +8538,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="wifi_link_turbo_customize">맞춤 앱</string>
     <string name="wifi_link_turbo_customize_summary">환경 설정에 따라 Wi-Fi 지원과 작동할 앱 선택</string>
     <string name="wifi_link_turbo_list">앱</string>
+    <string name="wifi_link_turbo_mode">연결 속도 향상</string>
     <string name="wifi_link_turbo_no_app">아직 사용설정된 앱이 없습니다.</string>
     <string name="wifi_link_turbo_off">끄기</string>
     <string name="wifi_link_turbo_on">켜기</string>
