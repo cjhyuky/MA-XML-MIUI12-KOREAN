@@ -1277,7 +1277,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="pref_camera_device_watermark_title">사진 워터마크</string>
     <string name="pref_camera_dual_enable_title">듀얼 카메라 활성화</string>
     <string name="pref_camera_dual_sat_enable_title">듀얼 SAT 카메라 활성화</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">동영상 품질을 개선하기 위해 조명이 어두운 조건에서 %1$d-%2$dFPS까지 프레임 속도를 줄입니다.</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">동영상 품질을 개선하기 위해 조명이 어둡거나, 온도가 높은 환경에서 프레임률을 낮춥니다.</string>
     <string name="pref_camera_dynamic_frame_rate_title">저조도로 프레임 속도 조정</string>
     <string name="pref_camera_eis_entry_normal">손떨림 방지</string>
     <string name="pref_camera_eis_entry_off">꺼짐</string>
