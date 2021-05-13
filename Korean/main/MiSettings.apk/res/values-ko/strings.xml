@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="usage_app_limit_reach_summay_new">%d분 추가하려면 탭하세요.</string>
+    <string name="adaptive_fps_tip">상황에 따라 주사율을 자동으로 조절하여 부드러움과 배터리 성능 간의 균형이 맞도록 합니다.</string>
+	<string name="usage_app_limit_reach_summay_new">%d분 추가하려면 탭하세요.</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">%1s의 남은 화면켜짐 시간 : %2s</string>
     <string name="usage_new_home_day_category_title_new">%s의 앱 카테고리 화면켜짐 시간</string>
     <string name="usage_new_home_day_usage_title_new">%s의 화면켜짐 시간</string>
@@ -333,10 +334,10 @@
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="afternoon">오후</string>
     <string name="am">오전</string>
-    <string name="anti_flicker_mode">깜박임 방지</string>
+    <string name="anti_flicker_mode">플리커링 방지</string>
     <string name="anti_flicker_mode_categroy">모드</string>
-    <string name="anti_flicker_mode_summary">빛이 적은 환경에서 광범위한 깜박임을 줄여 눈의 피로를 덜어줍니다.</string>
-    <string name="anti_flicker_title">깜박임 방지 모드</string>
+    <string name="anti_flicker_mode_summary">빛이 적은 환경에서 화면의 깜박임을 줄여 눈의 피로를 덜어줍니다.</string>
+    <string name="anti_flicker_title">플리커링 방지 모드</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="control_center_title">오늘 화면켜짐 시간</string>
     <string name="copy">복사</string>
@@ -456,14 +457,14 @@
     <string name="control_center_title_new">오늘 사용됨</string>
     <string name="focus_mode_custom_time">기간 설정</string>
     <string name="dc_light_hint_enable_title">주의</string>
-    <string name="dc_light_hint_normal">깜박임 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_light_hint_other">깜박임 방지 모드는 화면 재생률 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
-    <string name="dc_lignt_enable_hint">깜박임 방지 모드는 화면 재생률을 60Hz로 설정합니다. 깜박임 방지 모드로 전환하시겠습니까?</string>
-    <string name="fps_nature_summary">높은 화면 재생률로 모든 항목을 선명하고 명확하게 봅니다.</string>
-    <string name="fps_nature_title">높음</string>
-    <string name="fps_smooth_summary">중간 화면 재생률로 더 자세하게 봅니다.</string>
-    <string name="fps_smooth_title">중간</string>
-    <string name="fps_standard_summary">표준 화면 재생률로 배터리를 절약합니다.</string>
+    <string name="dc_light_hint_normal">플리커링 방지 모드는 일부 항목 표시에 영향을 줄 수 있습니다.</string>
+    <string name="dc_light_hint_other">플리커링 방지 모드는 화면 주사율 및 일부 항목 표시에 영향을 줄 수 있습니다.</string>
+    <string name="dc_lignt_enable_hint">플리커링 방지 모드는 화면 주사율을 60Hz로 설정합니다. 플리커링 방지 모드로 전환하시겠습니까?</string>
+    <string name="fps_nature_summary">매우 높은 화면 주사율로 움직이는 항목이 매우 부드러워집니다..</string>
+    <string name="fps_nature_title">매우 높음</string>
+    <string name="fps_smooth_summary">높은 화면 주사율로 움직이는 항목이 더 부드러워집니다.</string>
+    <string name="fps_smooth_title">높음</string>
+    <string name="fps_standard_summary">표준 화면 주사율로 배터리를 절약합니다.</string>
     <string name="fps_standard_title">표준</string>
     <string name="fps_user_tip">이 애니메이션 예시는 참조를 위해 느린 속도로 재생됩니다. 실제 성능은 여러 요인에 의해 다르게 보일 수 있습니다.</string>
     <string name="usage_new_home_week_average_count">평균 %s</string>
