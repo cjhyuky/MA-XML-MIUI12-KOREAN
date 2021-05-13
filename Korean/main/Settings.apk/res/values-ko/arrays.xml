@@ -1249,8 +1249,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>기본값</item>
         <item>컴팩트</item>
     </string-array>
+	<string-array name="tabs_taptic_detail">
+        <item>딱딱한</item>
+        <item>부드러운</item>
+        <item>톡 튀는</item>
+    </string-array>
     <string-array name="time_format_entries">
-        <item>12시간 모드 - 1:00 오후</item>
+        <item>12시간 모드 - 오후 1:00</item>
         <item>24시간 모드 - 13:00</item>
         <item>자동(시스템 설정 언어에 따라)</item>
     </string-array>

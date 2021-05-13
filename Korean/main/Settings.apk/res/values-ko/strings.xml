@@ -3293,8 +3293,8 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="haptic_cursor_movement_07_content_description">밝기 조절</string>
     <string name="haptic_feedback_enable_title">터치 시 진동</string>
     <string name="haptic_feedback_level">진동</string>
-    <string name="haptic_feedback_progress">긴급 의견 레벨</string>
-    <string name="haptic_feedback_summary">제스처 및 시스템 제어에 대한 촉각 응답 수신</string>
+    <string name="haptic_feedback_progress">햅틱 피드백 강도</string>
+    <string name="haptic_feedback_summary">제스처 및 시스템 제어 중 촉각으로 피드백합니다.</string>
     <string name="haptic_feedback_title">햅틱 피드백</string>
     <string name="haptic_fingerprint_unlock_16_content_description">지문인식 잠금해제</string>
     <string name="haptic_generate_folder_08_content_description">새 폴더</string>
@@ -4696,7 +4696,7 @@ PIN 설정"</string>
     <string name="my_device_info_device_name_preference_title">기기 이름</string>
     <string name="n_cacrts">CA 인증서 %d개</string>
     <string name="natural_haptic">자연스러운 터치</string>
-    <string name="natural_haptic_summary">새로운 햅틱 피드백 패턴이 사용자가 화면에서 보고 만지는 모든 것에 차원을 더합니다.</string>
+    <string name="natural_haptic_summary">새로운 햅틱 피드백 효과로 사용자가 화면에서 보고 만지는 모든 것에 새로운 차원을 가져다줍니다.</string>
     <string name="nature_color">기본</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">화면 하단에서 위로 스와이프한 다음 왼쪽이나 오른쪽으로 스와이프</string>
     <string name="navigation_guide_app_quick_switch_summary">전체 화면 표시기 또는 화면 하단에서 왼쪽 또는 오른쪽으로 밀기</string>
@@ -6910,7 +6910,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="sound_category_system_title">시스템</string>
     <string name="sound_dashboard_summary">볼륨, 햅틱, 방해 금지 모드</string>
     <string name="sound_effects_enable_title">터치 소리</string>
-    <string name="sound_haptic_settings">소리 &amp; 터치</string>
+    <string name="sound_haptic_settings">소리 및 터치</string>
     <string name="sound_mode">무음 모드 및 방해 금지 모드</string>
     <string name="sound_settings">소리</string>
     <string name="sound_settings_example_summary">벨소리 및 알림 볼륨이 80%로 설정되었습니다.</string>
@@ -6918,7 +6918,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="sound_settings_summary_silent">벨소리 장치가 무음으로 설정됨</string>
     <string name="sound_settings_summary_vibrate">벨소리 장치가 진동으로 설정됨</string>
     <string name="sound_settings_tab_haptic">터치</string>
-    <string name="sound_settings_tab_sound">사운드</string>
+    <string name="sound_settings_tab_sound>소리</string>
     <string name="sound_stereo_mode_summary">스피커로만 작동합니다.</string>
     <string name="sound_stereo_mode_title">스테레오 사운드</string>
     <string name="sound_title">소리</string>
@@ -7692,7 +7692,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="usage_app_weekday_limit">주중</string>
     <string name="usage_app_weekend_limit">주말</string>
     <string name="usage_log">앱 사용 통계</string>
-    <string name="usage_state_app_timer">화면켜짐 시간</string>
+    <string name="usage_state_app_timer">스크린 타임</string>
     <string name="usage_state_app_usage_detail_title">자세한 앱 사용량</string>
     <string name="usage_state_app_usage_list_title">"앱의 화면 켜짐 시간"</string>
     <string name="usage_state_app_usage_list_week_title">"앱의 화면 켜짐 시간"</string>
