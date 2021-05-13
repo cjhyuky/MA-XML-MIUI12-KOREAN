@@ -3846,6 +3846,8 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="locale_settings">지역</string>
     <string name="location_access_off">끔</string>
     <string name="location_access_on">켬</string>
+	<string name="location_access_summary">이 권한을 가진 앱은 당신의 위치 정보를 가져올 수 있습니다.</string>
+    <string name="location_access_title">위치 접근</string>
     <string name="location_agps_apn_choose_dialog_title">APN 유형</string>
     <string name="location_agps_apn_summary">기본 APN 유형 선택</string>
     <string name="location_agps_apn_type">APN 유형</string>
@@ -4918,6 +4920,9 @@ PIN 설정"</string>
     <string name="noise_suppression">주변 소음 억제</string>
     <string name="none">없음</string>
     <string name="normal">보통</string>
+	<string name="normal_info">모든 소리가 재생됩니다.</string>
+    <string name="normal_list_text">목록</string>
+    <string name="normal_smartcover_title">플립 커버</string>
     <string name="normal_bottom_height_of_keyboard">보통</string>
     <string name="normal_date_format">기본값(%s)</string>
     <string name="not_allowed">SIM 카드에서 이 네트워크에 연결할 수 없습니다.</string>
