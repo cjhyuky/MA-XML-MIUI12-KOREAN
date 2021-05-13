@@ -6918,7 +6918,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="sound_settings_summary_silent">벨소리 장치가 무음으로 설정됨</string>
     <string name="sound_settings_summary_vibrate">벨소리 장치가 진동으로 설정됨</string>
     <string name="sound_settings_tab_haptic">터치</string>
-    <string name="sound_settings_tab_sound>소리</string>
+    <string name="sound_settings_tab_sound">소리</string>
     <string name="sound_stereo_mode_summary">스피커로만 작동합니다.</string>
     <string name="sound_stereo_mode_title">스테레오 사운드</string>
     <string name="sound_title">소리</string>
