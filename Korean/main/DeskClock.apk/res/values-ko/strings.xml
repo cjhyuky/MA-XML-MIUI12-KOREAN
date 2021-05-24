@@ -479,4 +479,10 @@
     <string name="miuix_appcompat_select_all">전부 선택</string>
     <string name="miuix_appcompat_select_item">항목 선택</string>
     <string name="send">전송</string>
+    <string name="close_alarm_new">중지</string>
+    <string name="not_set_temporarily">아니오</string>
+    <string name="set_now">설정</string>
+    <string name="slider_text_new">위로 올려 중지</string>
+    <string name="timer_got_it_new">무음 모드</string>
+    <string name="week_ringtone_recommend_desc">자연 알람은 다양한 자연음을 알람음으로 매일 지정합니다. 자연 알람을 기본 알람음으로 설정하시겠습니까?</string>
 </resources>
