@@ -507,4 +507,7 @@
     <string name="sync_desc_state_complete_china">모든 %1$s이(가) 동기화됨</string>
     <string name="sync_desc_state_disable">클라우드 동기화 사용 설정</string>
     <string name="sync_desc_state_running">클라우드 동기화 중</string>
+    <string name="data_empty_folder">표시할 폴더가 없습니다</string>
+    <string name="handwrite_description">필기 노트</string>
+    <string name="menu_add_handwrite_description">필기 노트 추가</string>
 </resources>
