@@ -640,4 +640,24 @@
     <string name="sky_dynamic">역동적</string>
     <string name="sky_static">서정적</string>
     <string name="zman_title">보안 공유</string>
+    <string name="copyright">저작권</string>
+    <string name="dark_mode_auto_time_summary">사용자 지정 시간동안 다크 모드 실행</string>
+    <string name="dark_mode_auto_time_title">사용자 지정 시간</string>
+    <string name="dark_mode_day_night_mode_summary">일몰 후 다크 모드 자동 실행</string>
+    <string name="dark_mode_day_night_mode_title">다크 모드와 함께 편히 주무세요</string>
+    <string name="dark_mode_sunrise_sunset_notify_summary">다크 모드 일출-일몰 알림 설명</string>
+    <string name="dark_mode_sunrise_sunset_notify_title">다크 모드 일출-일몰 알림 제목</string>
+    <string name="dark_mode_time_settings">다크 모드 예약 실행</string>
+    <string name="dark_mode_time_settings_summary">다크 모드 예약 실행 설명</string>
+    <string name="headphone_assisted_summary">"기기의 마이크 소리를 연결된 블루투스 이어폰으로 전송합니다."</string>
+    <string name="headphone_assisted_title">라이브 인이어 모니터</string>
+    <string name="maintenance_title">수리 모드</string>
+    <string name="miui_sos_remind_sendnow_donot_send">"전송하지 않기"</string>
+    <string name="privacy_policy">개인 정보 보호 조항</string>
+    <string name="sar">RF 노출 정보</string>
+    <string name="three_gesture_horizontal">%d개의 손가락으로 쓸어 넘기기</string>
+    <string name="three_gesture_pc_mode">PC 모드 실행</string>
+    <string name="user_agreement">이용 약관</string>
+    <string name="oaid_apps_summary">앱의 가상 ID 부여 여부 설정</string>
+    <string name="oaid_apps_title">가상 ID 권한 관리</string>
 </resources>
