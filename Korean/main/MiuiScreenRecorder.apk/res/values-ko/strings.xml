@@ -118,4 +118,5 @@
     <string name="settings_privacy">개인정보 보호정책</string>
     <string name="uninstall_warning_content">"화면 녹화는 시스템 앱입니다. 비활성화하면 화면을 영상으로 녹화할 수 없습니다."</string>
     <string name="uninstall_warning_title">화면 녹화 비활성화</string>
+    <string name="view_recorded_file">탭하여 녹음 파일 보기</string>
 </resources>
