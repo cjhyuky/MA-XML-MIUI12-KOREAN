@@ -237,5 +237,19 @@
     <string name="dolby_dax_profile_dynamic">다이나믹</string>
     <string name="dolby_dax_setting">돌비 효과</string>
     <string name="dolby_dax_title">써라운드 사운드</string>
-	<string name="misound_effect_setting">Mi 사운드</string>
+    <string name="misound_effect_setting">Mi 사운드</string>
+    <string name="hearing_assist_bluetooth_headset">블루투스 이어폰</string>
+    <string name="hearing_assist_bluetooth_headset_disconnected">연결되지 않음</string>
+    <string name="hearing_assist_bluetooth_headset_not_supported">지원되지 않음</string>
+    <string name="hearing_assist_btn_headset_choice">기기 선택</string>
+    <string name="hearing_assist_btn_start">시작</string>
+    <string name="hearing_assist_btn_stop">중단</string>
+    <string name="hearing_assist_exit_btn_continue">계속 활성화</string>
+    <string name="hearing_assist_exit_btn_stop">끄기</string>
+    <string name="hearing_assist_exit_tips_summary">라이브 인이어 모니터가 활성화되어 있습니다. 이 기능을 끄시겠습니까?</string>
+    <string name="hearing_assist_exit_tips_title">라이브 인이어 모니터 비활성화</string>
+    <string name="hearing_assist_tips_message_one">%d. 제어 센터에서 라이브 인이어 모니터 기능을 활성화하십시오.</string>
+    <string name="hearing_assist_tips_message_two">%d. 해당 기능은 일부 블루투스 이어폰 모델에서만 지원됩니다.</string>
+    <string name="hearing_assist_title">라이브 인이어 모니터</string>
+    <string name="hearing_assist_volume">"마이크 음량"</string>
 </resources>
