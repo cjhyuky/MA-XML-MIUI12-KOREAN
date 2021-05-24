@@ -1889,4 +1889,8 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="wideselfie_rotate_to_right_slowly">전화를 오른쪽으로 돌리세요.</string>
     <string name="close">닫기</string>
     <string name="send">전송</string>
+    <string name="time_freeze_action_end_tip">탭하여 종료</string>
+    <string name="time_freeze_action_start_tip">탭하여 백그라운드 멈춤</string>
+    <string name="time_freeze_adjust_button_title">보정 효과</string>
+    <string name="time_freeze_clipbox_tint">클립박스</string>
 </resources>
