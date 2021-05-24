@@ -341,4 +341,6 @@
     <string name="miui_multiwindow_not_support_split">%1$s은(는) 분할 화면을 지원하지 않습니다.</string>
     <string name="application_cannot_open_alipay_health_code">"Alipay 헬스 코드를 열 수 없음"</string>
     <string name="application_cannot_open_weixin_health_code">"WeChat 헬스 코드를 열 수 없음"</string>
+    <string name="stylus_pen_mask_screenshot">화면을 탭하여 스크린샷 촬영</string>
+    <string name="stylus_pen_mask_text">화면을 탭하여 작성 시작</string>
 </resources>
