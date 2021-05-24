@@ -756,4 +756,6 @@ Mi Mover가 마음에 드시나요?"</string>
     <string name="v7_preference_on">켬</string>
     <string name="perm_location">위치</string>
     <string name="feature_title_pc_mode_setting">팜 PC</string>
+    <string name="apps_item_desc">앱</string>
+    <string name="new_pc_restore_content1_pad">%d. 유선으로 컴퓨터에 기기를 연결해 주십시오.</string>
 </resources>
