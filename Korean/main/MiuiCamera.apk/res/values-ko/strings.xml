@@ -1887,4 +1887,6 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="wideselfie_rotate_to_front">전화를 앞으로 기울이세요.</string>
     <string name="wideselfie_rotate_to_left_slowly">전화를 왼쪽으로 돌리세요.</string>
     <string name="wideselfie_rotate_to_right_slowly">전화를 오른쪽으로 돌리세요.</string>
+    <string name="close">닫기</string>
+    <string name="send">전송</string>
 </resources>
