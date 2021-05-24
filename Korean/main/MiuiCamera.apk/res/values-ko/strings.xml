@@ -901,7 +901,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="live_sticker_updating">업데이트 중...</string>
     <string name="live_workspace_title">임시 저장함</string>
     <string name="live_workspace_title_edit">삭제할 항목을 선택하세요.</string>
-    <string name="location_access_allow">허용</string>
+    <string name="location_access_allow">동의</string>
     <string name="location_permission_des">사진 및 동영상의 위치를 기억하세요.</string>
     <string name="location_permission_not_ask_again">카메라가 설정에서 사용자의 위치 정보에 접근하도록 허용.</string>
     <string name="location_permission_not_ask_again_go_to_settings">허용</string>
