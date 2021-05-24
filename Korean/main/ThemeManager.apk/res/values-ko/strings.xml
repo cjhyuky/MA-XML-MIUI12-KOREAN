@@ -1096,4 +1096,10 @@ EEE"</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">업데이트</string>
     <string name="xiaomi_market_sdk_update_dialog_title">업데이트 가능</string>
     <string name="super_wallpaper_list_footer_text">새로운 배경화면을 기대하세요!</string>
+    <string name="multiwindow_no_support">"이 작업은 분할 화면에서 지원되지 않습니다."</string>
+    <string name="personalize_second_space_not_support_set_font">"보조 공간에서 글꼴을 변경할 수 없습니다."</string>
+    <string name="share_content_text_first_font">\"%1$s\" 글꼴은 기기에 완전히 새로운 모습을 제공합니다.</string>
+    <string name="share_content_text_first_theme">\"%1$s\" 테마는 기기에 완전히 새로운 모습을 제공합니다.</string>
+    <string name="share_content_text_first_wallpaper">\"%1$s\" 배경 화면은 기기에 완전히 새로운 모습을 제공합니다.</string>
+    <string name="share_content_text_second">"%1$s에서 당신만의 스타일을 찾아보세요!"</string>
 </resources>
