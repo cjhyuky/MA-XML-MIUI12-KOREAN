@@ -48,4 +48,10 @@
     <plurals name="confirm_delete_records">
         <item quantity="other">녹음 %d개를 삭제하시겠습니까?</item>
     </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d개의 라디오 녹음</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d개의 음성 녹음</item>
+    </plurals>
 </resources>
