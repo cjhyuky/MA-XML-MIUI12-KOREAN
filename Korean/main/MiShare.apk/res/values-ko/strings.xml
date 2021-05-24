@@ -180,4 +180,5 @@
     <string name="send_files_by">다음으로 공유</string>
     <string name="error_permission_denied">Mi 공유 앱에 권한을 부여해 이 기능을 사용하세요.</string>
     <string name="nearby_share">근처 기기와 공유</string>
+    <string name="error_remote_ap_working">상대 기기의 모바일 핫스팟을 꺼주십시오.</string>
 </resources>
