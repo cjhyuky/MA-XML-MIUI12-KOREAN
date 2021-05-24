@@ -1464,4 +1464,5 @@
     <string name="notification_exchange_calendar_added">Exchange 캘린더 추가됨</string>
     <string name="ntes_login_auth_too_much">인증 코드 번호가 상한선인 5개에 도달했습니다. 웹 페이지를 사용하여 NetEase 사서함에 로그인하여 불필요한 인증 코드를 삭제하십시오.</string>
     <string name="web_view_load_error_tip">일부 문제가 발생하여이 이메일의 본문을 제대로 표시 할 수 없습니다. 이 문제가 발생하면 QQ 그룹 952315061을 추가하여 피드백을 보내주십시오.</string>
+    <string name="settings_attachment">첨부 파일</string>
 </resources>
