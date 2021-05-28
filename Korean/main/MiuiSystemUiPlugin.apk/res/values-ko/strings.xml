@@ -412,4 +412,13 @@
     <string name="wireless_charging_tips_sub_message">상대 기기가 표준 Qi 무선 충전을 지원해야 합니다.</string>
     <string name="wireless_charging_tips_title">무선 배터리 공유</string>
     <string name="yesterday">어제</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">취소</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">켜기</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">실시간 인이어 모니터는 블루투스가 켜져있을 때 작동합니다. 지금 블루투스를 켜시겠습니까?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">블루투스 켜기</string>
+    <string name="hearing_assist_transmission_label">실시간 인이어 모니터</string>
+    <string name="hearing_assist_transmission_tips_cancel">취소</string>
+    <string name="hearing_assist_transmission_tips_continue">켜기</string>
+    <string name="hearing_assist_transmission_tips_summary">"실시간 인이어 모니터는 휴대 전화의 마이크 피드를 연결된 블루투스 이어폰으로 전송합니다. 지금 켜시겠습니까?"</string>
+    <string name="hearing_assist_transmission_tips_title">실시간 인이어 모니터</string>
 </resources>
