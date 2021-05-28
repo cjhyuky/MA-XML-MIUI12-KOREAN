@@ -1102,4 +1102,5 @@ EEE"</string>
     <string name="share_content_text_first_theme">\"%1$s\" 테마는 기기에 완전히 새로운 모습을 제공합니다.</string>
     <string name="share_content_text_first_wallpaper">\"%1$s\" 배경 화면은 기기에 완전히 새로운 모습을 제공합니다.</string>
     <string name="share_content_text_second">"%1$s에서 당신만의 스타일을 찾아보세요!"</string>
+    <string name="wallpaper_apply_pcmode">PC모드 적용</string>
 </resources>
