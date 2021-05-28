@@ -40,8 +40,8 @@
     <string name="other_settings_location_summary">앱이 위치 정보를 불러오도록 허용합니다.</string>
     <string name="other_settings_user_experience">사용자 체험 프로그램</string>
     <string name="other_settings_user_experience_summary">익명의 사용 통계 데이터를 전송하여 제품 및 서비스 개선을 돕습니다.</string>
-    <string name="other_settings_upload_debug_log_title">자동으로 진단 데이터 전송</string>
-    <string name="other_settings_upload_debug_log_summary">문제 분석 및 해결에 이용되는 데이터에는 사용자의 개인정보가 포함될 수도 있습니다.</string>
+    <string name="other_settings_upload_debug_log_summary">진단, 기기 및 앱 사용 데이터를 샤오미로 자동 전송하여 MIUI 기기 환경을 개선하는데 도움이 됩니다. 이렇게하면 배터리 수명, MIUI 시스템 및 앱 안정성 등을 개선하는데 도움이 됩니다.</string>
+    <string name="other_settings_upload_debug_log_title">사용 및 진단 데이터 보내기</string>
     <string name="other_settings_auto_update">자동으로 설치</string>
     <string name="other_settings_auto_update_summary">MIUI가 가장 적합한 시간을 판단하여 업데이트합니다.</string>
     <string name="back">뒤로</string>
@@ -300,4 +300,8 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="item_return">설정</string>
     <string name="item_skip">건너뛰기</string>
     <string name="title_set_fingerprint">화면 잠금</string>
+    <string name="other_settings_upload_debug_log_detail">"진단, 기기 및 앱 사용 데이터를 샤오미로 자동 전송하여 MIUI 기기 환경을 개선하는데 도움을 주세요. 이렇게하면 배터리 수명, MIUI 시스템 및 앱 안정성 등을 개선하는데 도움이 됩니다.
+ 전송되는 데이터에는 기기에 대한 일반 정보와 기기 사용 방법 (예: 배터리 잔량, 시스템 및 앱 활동, 오류)이 포함됩니다. 데이터는 MIUI 장치를 개선하는데 사용됩니다.
+ 이 기능을 꺼도 시스템 업데이트 및 보안과 같은 필수 서비스에 필요한 정보를 전송하는 장치의 기능에는 영향을주지 않습니다.
+ 설정>비밀번호 및 보안>개인 정보 보호>사용 및 진단에서 이 기능을 제어 할 수 있습니다."</string>
 </resources>
