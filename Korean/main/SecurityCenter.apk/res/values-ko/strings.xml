@@ -4525,4 +4525,31 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="stop_collecting_data">"키보드는 습관을 배우지 않습니다."</string>
     <string name="stop_collecting_data_detail">"키보드는 예측 입력을 개선하고 습관에 따라 자주 사용하는 문구를 제안하기위한 데이터를 수집하지 않습니다."</string>
     <string name="use_other_ime_warn">타사 키보드는 비밀번호 및 기타 민감한 정보를 포함하여 사용자가 입력하는 모든 것을 기록할 수 있습니다.</string>
+    <string name="exit_dialog_release_storage_message_new">장치에서 %s 이상의 저장 공간을 차지했습니다.  사용하지 않는 앱을 ​​제거하여 여유 공간을 확보하세요.</string>
+    <string name="vb_ve_settings_display_style_tips_new">*효과는 비디오 재생 영역에만 적용됩니다.</string>
+    <string name="ew_monitor_content">휴대 기기가 지진 조기 경보 네트워크의 일부가 될 수 있습니다. 센서가 지진파를 감지하면 AI 알고리즘에 의해 데이터가 분석되고 영향을받는 지역의 사람들에게 조기 경보가 발령됩니다.</string>
+    <string name="ew_monitor_exit">등록 취소</string>
+    <string name="ew_monitor_exit_content">안녕하세요 %s번쨰 자원 봉사자입니다! 장치는 지진 활동을 모니터링하고 조기 지진 경보를 발령하는데 도움이 되는 데이터를 수집할 수 있습니다. 그래도 등록을 취소하시겠습니까?</string>
+    <string name="ew_monitor_exit_title">주의</string>
+    <string name="ew_monitor_have_been">"자랑스럽습니다!"</string>
+    <string name="ew_monitor_info_title">어떻게 작동합니까?</string>
+    <string name="ew_monitor_join_number">자원 봉사자 수</string>
+    <string name="ew_monitor_join_path">Xiaomi 장치를 사용하여 프로그램에 참여: 보안>지진 경고>지진 모니터링 자원 봉사</string>
+    <string name="ew_monitor_my_content">휴대 기기가 지진 조기 경보 네트워크의 일부입니다. 센서가 지진파를 감지하면 AI 알고리즘에 의해 데이터가 분석되고 영향을 받는 지역의 사람들에게 조기 경보가 발령됩니다.</string>
+    <string name="ew_monitor_number_prex">%s번째</string>
+    <string name="ew_monitor_open">가입</string>
+    <string name="ew_monitor_read_privacy"><Data>"&lt;a href=\"%1$s\">개인정보 보호정책&lt;/a>을 읽고 동의했습니다."</Data></string>
+    <string name="ew_monitor_share">공유</string>
+    <string name="ew_monitor_slogan">"지진 모니터링에 동참하십시오.
+ 모니터링 프로그램"</string>
+    <string name="ew_monitor_summary1">지진 모니터링에 기기를 사용합니다.</string>
+    <string name="ew_monitor_summary2">지진 경보 관련 정보를보고합니다.</string>
+    <string name="ew_monitor_summary3">더 많은 사람들이 지진 경보를 더 빨리받을 수 있도록 도와주세요.</string>
+    <string name="ew_monitor_support">Chengdu Hi-tech Disaster Reduction Institute에서 제공하는 기술 지원</string>
+    <string name="ew_monitor_support_rom">*이 기능은 일부 Xiaomi / Redmi 기기 및 MIUI 버전에서 지원됩니다.</string>
+    <string name="ew_monitor_thanks_tips">"지진 모니터링 지원자가 되어 주셔서 감사합니다.
+%s번째 모니터링 자원자입니다!"</string>
+    <string name="ew_monitor_title">지진 모니터링 자원 봉사자</string>
+    <string name="ew_monitor_title_spilt">"지진 모니터링
+ 자원 봉사자"</string>
 </resources>
