@@ -7670,8 +7670,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="uplmn_list_setting_add_plmn">새 PLMN</string>
     <string name="uplmn_settings_summary">우선 순위에 따른 선호 PLMN 정의</string>
     <string name="uplmn_settings_title">사용자 제어 PLMN</string>
-    <string name="upload_debug_log_summary">수집하는 정보에는 귀하의 개인정보가 포함될 수 있습니다. 이 도구는 시스템의 문제를 찾아 분석하는 데 사용되며 사용자를 개인적으로 식별하는 데 사용되지 않습니다.</string>
-    <string name="upload_debug_log_title">자동으로 데이터 진단 전송</string>
+    <string name="upload_debug_log_summary">MIUI 개선을위한 데이터 공유</string>
+    <string name="upload_debug_log_title">사용 및 진단</string>
     <string name="usage">사용량</string>
     <string name="usage_access">사용 기록 액세스</string>
     <string name="usage_access_description">앱에서 사용 기록에 액세스할 수 있도록 허용하면 사용 중인 다른 앱의 종류와 사용 빈도, 이동통신사, 언어 설정, 기타 세부정보를 추적할 수 있게 됩니다.</string>
@@ -9228,4 +9228,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="zone_menu_by_region">지역별로 선택</string>
     <string name="zone_time_type_dst">일광 절약 시간</string>
     <string name="zone_time_type_standard">표준 시간</string>
+    <string name="smart_home_select_smart_device">스마트 홈 기기 관리용 앱</string>
+    <string name="upload_debug_log_detail">"진단, 기기 및 앱 사용 데이터를 샤오미로 자동 전송하여 MIUI 기기 환경을 개선하도록 도와주세요. 이렇게하면 배터리 수명, MIUI 시스템 및 앱 안정성 등을 개선하는데 도움이 됩니다.
+ 전송되는 데이터에는 기기에 대한 일반 정보와 기기 사용 방법(예: 배터리 잔량, 시스템 및 앱 활동, 오류)이 포함됩니다. 데이터는 MIUI 장치를 개선하는데 사용됩니다.
+ 이 기능을 꺼도 시스템 업데이트 및 보안과 같은 필수 서비스에 필요한 정보를 전송하는 기기의 기능에는 영향을주지 않습니다."</string>
 </resources>
