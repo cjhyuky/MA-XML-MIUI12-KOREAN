@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="authorization_btn_text">시작</string>
+    <string name="authorization_tips">필요한 권한</string>
     <string name="adaptive_fps_tip">상황에 따라 주사율을 자동으로 조절하여 부드러움과 배터리 성능 간의 균형이 맞도록 합니다.</string>
-	<string name="usage_app_limit_reach_summay_new">%d분 추가하려면 탭하세요.</string>
+    <string name="usage_app_limit_reach_summay_new">%d분 추가하려면 탭하세요.</string>
     <string name="usage_app_limit_reach_title_new" formatted="false">%1s의 남은 화면켜짐 시간 : %2s</string>
     <string name="usage_new_home_day_category_title_new">%s 카테고리별 앱 화면켜짐 시간</string>
     <string name="usage_new_home_day_usage_title_new">%s의 화면켜짐 시간</string>
