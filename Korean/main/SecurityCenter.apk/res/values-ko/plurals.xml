@@ -623,4 +623,7 @@
     <plurals name="find_leak_risk">
         <item quantity="other">%d개의 개인정보 관련 위험</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"기기의 성능점수가 %d점 미만입니다. 지금 최적화 하시겠습니까?"</item>
+    </plurals>
 </resources>
