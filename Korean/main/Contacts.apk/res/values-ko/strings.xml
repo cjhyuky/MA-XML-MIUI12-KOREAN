@@ -791,9 +791,9 @@
     <string name="callrecordview_menu_conference">전화 회의</string>
     <string name="openDialKeyboard">다이얼 패드</string>
     <string name="t9_search_guide_pinyin_title1">번호를 입력하여 연락처 찾기</string>
-    <string name="t9_search_guide_pinyin_title2">\"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"의 검색을 위해 \"9\"와 \"4\" 입력</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Debbie Smith를 검색하려면 %d 및 %d 입력</string>
     <string name="t9_search_guide_zhuyin_title1">번호를 입력하여 연락처 찾기</string>
-    <string name="t9_search_guide_zhuyin_title2">\"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"의 검색을 위해 \"5\"와 \"6\" 입력</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Jeff Max를 검색하려면 %d 및 %d 입력</string>
     <string name="date_time_set">설정</string>
     <string name="service_provider">디렉터리</string>
     <string name="service_provider_detail">디렉터리 세부사항</string>
@@ -1528,4 +1528,6 @@
     <string name="restore_app_btn_restore">확인</string>
     <string name="restore_app_description_content">홈 화면 바로가기를 추가하여 주소록을 빠르게 확인하세요.</string>
     <string name="restore_app_description_title">홈 화면에 \"주소록\"을 추가하시겠습니까?</string>
+    <string name="no_contact_selected">세부정보를 보려면 연락처를 선택하세요.</string>
+    <string name="residual_time_description">%1$s 일 %2$s 시간</string>
 </resources>
