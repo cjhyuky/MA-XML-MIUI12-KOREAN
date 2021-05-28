@@ -620,4 +620,7 @@
     <plurals name="power_20s_shutdown">
         <item quantity="other">%d초 후 기기의 전원이 꺼집니다.</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d개의 개인정보 관련 위험</item>
+    </plurals>
 </resources>
