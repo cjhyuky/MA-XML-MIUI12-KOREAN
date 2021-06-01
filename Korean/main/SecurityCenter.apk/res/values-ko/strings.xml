@@ -2096,8 +2096,10 @@ SMS 전송"</string>
     <string name="numeric_recording_intro_header">비밀번호 입력</string>
     <string name="numeric_retry_button_text">취소</string>
     <string name="numeric_settings_help_how_to_record">PIN 설정 방법</string>
+    <string name="oaid_apps_title">가상 ID 관리</string>
     <string name="oaid_reset_content_tip">지금 가상 ID 끄면, 일부 앱 데이터가 소실되거나 사용할 수 없어 앱이 정상적으로 작동하지 않을 수 있습니다.</string>
     <string name="oaid_reset_final_tip">그래도 가상 ID를 끄시겠습니까?</string>
+    <string name="oaid_tips_content">가상 ID(OAID)는 사용자를 추적하고 개인화된 광고를 제공하기 위해 사용됩니다. 원치 않는다면 가상 ID를 사용하지 않을 앱을 설정할 수 있습니다. 가상 ID 접근을 제한하면 관련없는 광고가 표시되거나 앱이 정상적으로 작동되지 않을 수 있습니다.</string>
     <string name="ok">확인</string>
     <string name="ok_button">확인</string>
     <string name="old_sdk_deny_warning">이 앱은 최신 Android 권한 요구 사항과 호환되지 않습니다. 거부된 권한은 이 앱의 작동에 영향을 줄 수 있습니다.</string>
@@ -2222,6 +2224,10 @@ SMS 전송"</string>
     <string name="pc_battery_history_rank_percent_menu_item">퍼센트</string>
     <string name="pc_battery_history_total_consumption_title">전체 배터리 사용량</string>
     <string name="pc_battery_history_usetime_title">켜짐</string>
+    <string name="pc_hidemode_normal">균형</string>
+    <string name="pc_hidemode_performance">성능</string>
+    <string name="pc_hidemode_performance_title">성능 모드</string>
+    <string name="pc_hidemode_power_save">전원</string>
     <string name="pc_install_manager">USB로 설치</string>
     <string name="pc_main_activity_back">뒤로가기</string>
     <string name="pc_main_battery_text_day">%1$s분 추가됨, 약 %2$s일 남음</string>
@@ -2233,6 +2239,8 @@ SMS 전송"</string>
     <string name="pc_main_power_manager_hour_minute">%1$s시간 %2$s분 후 완전 충전됨</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s일 %2$s시간 남음</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s시간 %2$s분 남음</string>
+    <string name="pc_performance_mode_dialog_summary">%s 에서 성능 모드를 사용하도록 설정합니다. 성능 모드를 사용하면 배터리 사용량과 발열이 증가할 수 있습니다.</string>
+    <string name="pc_performance_mode_dialog_title">성능 모드</string>
     <string name="pc_search_keywords_battery">배터리</string>
     <string name="pc_search_keywords_battery_save">절전 모드</string>
     <string name="pc_search_keywords_battery_use">배터리 사용량</string>

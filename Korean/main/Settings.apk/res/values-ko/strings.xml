@@ -1674,7 +1674,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="charge_animation_style_summary">원하시는 잠금 화면 충전 애니메이션 스타일을 선택하세요.</string>
     <string name="charge_animation_style_title">충전 애니메이션</string>
     <string name="charge_length_format">%1$s 전</string>
-    <string name="charging_sounds_title">충전 소리</string>
+    <string name="charging_sounds_title">충전 소리와 진동</string>
     <string name="check_find_device_status_failure_confirm">확인</string>
     <string name="check_update">업데이트 확인</string>
     <string name="checkbox_notification_same_as_incoming_call">전화 벨소리와 알림을 같은 볼륨으로</string>
@@ -5102,6 +5102,8 @@ PIN 설정"</string>
     <string name="notifications_title">알림</string>
     <string name="now">지금 다시 시작</string>
     <string name="number_of_device_admins_none">활성 앱 없음</string>
+    <string name="oaid_apps_summary">각 앱의 접근 허용 또는 차단</string>
+    <string name="oaid_apps_title">가상 ID 관리</string>
     <string name="oaid_string">"현재 가상 ID :
 %1s "</string>
     <string name="oem_lock_info_message">기기 보호 기능을 사용 설정하려면 기기를 다시 시작하세요.</string>
@@ -6127,8 +6129,9 @@ OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다.</string>
     <string name="screen_saturation">채도</string>
     <string name="screen_shot">스크린샷 캡처</string>
     <string name="screen_timeout">화면 자동 잠금 시간</string>
+    <string name="screen_timeout_subtitle">정지 화면을 오랜 시간동안 표시하면 화면 색상이 분균일해질 수 있습니다</string>
     <string name="screen_timeout_summary">%1$s 이상 동작이 없을 때</string>
-    <string name="screen_timeout_title">화면이 꺼짐</string>
+    <string name="screen_timeout_title">자동으로 화면 잠금</string>
     <string name="screen_usage_summary">충전 완료 후 화면이 켜진 시간</string>
     <string name="screen_zoom_big">L</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -7298,6 +7301,7 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="switch_headset_anti_lost_title">이어폰 분실 경고</string>
     <string name="switch_off_text">사용 안함</string>
     <string name="switch_on_text">사용</string>
+    <string name="switch_power_sound">충전 소리</string>
     <string name="switch_screen_button_order">버튼 위치 반전</string>
     <string name="switch_screen_button_order_desc">뒤로가기 버튼과 메뉴 버튼의 위치를 서로 바꿉니다.</string>
     <string name="switch_select_to_speak_on">말하려면 선택하세요.</string>
@@ -7423,6 +7427,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="thememanager_not_found">테마를 열 수 없습니다. 이 앱이 기기에 설치되어 있는지 확인하여 주세요.</string>
     <string name="three_gesture_down">세 손가락 쓸어내리기</string>
     <string name="three_gesture_long_press">%d개의 손가락으로 길게 누르기</string>
+    <string name="time_floating_window">플로팅 시계</string>
+    <string name="time_floating_window_summary">시계를 다른 앱 위에 플로팅 윈도우로 표시합니다.</string>
     <string name="time_format_category_title">시간 형식</string>
     <string name="time_picker_title">시간</string>
     <string name="time_spent_in_app_pref_title">기기 사용 시간</string>

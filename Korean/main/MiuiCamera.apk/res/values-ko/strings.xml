@@ -680,11 +680,12 @@
     <string name="document_mode_use_hint_text_title">문서 모드</string>
     <string name="document_origin">원본</string>
     <string name="document_strengthen">강화</string>
-    <string name="dolly_zoom_capture_tip1">프레임 안에 대상을 위치시키고 기기와의 거리를 최소 %dm를 유지하세요.</string>
-    <string name="dolly_zoom_capture_tip2">기기를 대상과 먼 쪽으로 천천히 이동시키세요.</string>
+    <string name="dolly_zoom_capture_tip1">피사체를 프레임 안에 들어오도록 해주세요</string>
+    <string name="dolly_zoom_capture_tip2">피사체를 계속 중앙에 두고, 기기가 흔들리지 않게 해주세요.</string>
     <string name="dolly_zoom_capture_tip3">대상을 놓쳤습니다. 다시 시작하세요.</string>
     <string name="dolly_zoom_capture_tip4">기기를 너무 멀리 움직였습니다. 다시 시작하세요.</string>
     <string name="dolly_zoom_capture_tip5">"동영상을 저장할 수 없습니다."</string>
+    <string name="dolly_zoom_capture_tip6">피사체를 프레임 중앙으로 이동해주세요</string>
     <string name="dolly_zoom_guide_tip1">"대상과 배경 사이에 충분한 공간이 있어야 합니다."</string>
     <string name="dolly_zoom_guide_tip10">기타 등등!</string>
     <string name="dolly_zoom_guide_tip2">단색으로 이루어진 넓은 공간은 피하세요.</string>
