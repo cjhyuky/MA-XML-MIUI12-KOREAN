@@ -1036,6 +1036,10 @@
     <string name="float_incall_ignore">무시</string>
     <string name="float_incall_message">메시지</string>
     <string name="float_notification_snooze_strategy">일시적으로 플로팅 알림 숨기기</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm a</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">hh a</string>
     <string name="force_allow_on_external">외부에서 앱 강제 허용</string>
     <string name="force_allow_on_external_summary">매니페스트 값과 관계없이 모든 앱이 외부 저장소에 작성되도록 허용</string>
     <string name="force_hw_ui">강제 GPU 렌더링</string>
