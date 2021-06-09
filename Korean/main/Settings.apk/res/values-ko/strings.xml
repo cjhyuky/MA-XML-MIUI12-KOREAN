@@ -1375,6 +1375,7 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="bluetooth_unlock_settings_devices_prompt">선택한 웨어러블 Bluetooth 기기만 지원됩니다 (예 : 피트니스 밴드 및 스마트 워치).</string>
     <string name="bluetooth_unlock_settings_toggle_title">적용</string>
     <string name="bluetooth_unlock_settings_unlock_device">기기 잠금해제</string>
+    <string name="bluetooth_unlock_settings_unlock_summary">이 기능은 일부 Xiaomi 웨어러블 기기에서만 사용할 수 있습니다.</string>
     <string name="bluetooth_unlock_state_disconnected">연결 끊김</string>
     <string name="bluetooth_unlock_state_key_error">키 오류</string>
     <string name="bluetooth_unlock_state_label">"상태: "</string>
@@ -1462,9 +1463,17 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="bt_absVolume_open_dialog_title">주의</string>
     <string name="bt_absVolume_pre_title">절대 볼륨</string>
     <string name="bt_absVolume_summary">Bluetooth 기기와 휴대전화의 볼륨의 일관성을 절대적으로 유지합니다.</string>
+    <string name="bt_audio_repair_property">오디오 오류 고치기</string>
     <string name="bt_audio_share_property">공유</string>
     <string name="bt_audio_share_switch_summary">연결된 Bluetooth 장치와 오디오 공유</string>
     <string name="bt_audio_share_switch_title">오디오 공유</string>
+    <string name="bt_audiorepair_dialog_open_success">고치기가 완료되었습니다. 기기가 다시 연결될 때까지 기다려주세요.</string>
+    <string name="bt_audiorepair_dialog_openok">고치기</string>
+    <string name="bt_audiorepair_open_dialog_summary">"MIUI가 자동으로 오디오 버벅임 문제를 발견해 고칩니다. 작업이 진행되는 동안 Bluetooth가 다시 켜집니다. 완료할 때까지 이 화면에서 나가지 말고 기다려주세요."</string>
+    <string name="bt_audiorepair_open_dialog_title">오디오 버벅임 고치기</string>
+    <string name="bt_audiorepair_pre_title">오디오 버벅임 고치기</string>
+    <string name="bt_audiorepair_summary">연결된 Bluetooth 기기의 오디오 버벅임 현상을 고칩니다</string>
+    <string name="bt_audiorepair_working">오디오 버벅임을 고치는 중…</string>
     <string name="bt_dialog_remember_choice">선택 기억하기</string>
     <string name="bt_dialog_settings">설정</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI 스누프 로그 사용</string>

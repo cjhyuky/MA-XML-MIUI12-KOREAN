@@ -457,6 +457,12 @@
     <string name="app_permission_use_neccesary">필수 권한</string>
     <string name="app_permission_use_no_neccesary">기타 권한</string>
     <string name="app_permission_use_title">권한</string>
+    <string name="app_predict_dialog_button">홈 화면에 추가</string>
+    <string name="app_predict_dialog_message">인공지능이 상황에 맞는 앱을 추천합니다</string>
+    <string name="app_predict_dialog_success">홈 화면에 추가하였습니다</string>
+    <string name="app_predict_guide_button">추가</string>
+    <string name="app_predict_guide_message">인공지능이 상황에 맞는 앱을 추천합니다</string>
+    <string name="app_predict_guide_title">스마트 앱 추천</string>
     <string name="app_right">Xiaomi 공식 제작</string>
     <string name="app_running_tip_dialog_negative">취소</string>
     <string name="app_running_tip_dialog_positive">확인</string>
@@ -1545,6 +1551,7 @@
     <string name="gmscore_support_remind">Gmail, Google 지도 및 다른 Google 앱을 사용하는데 문제가 있을 경우 이 기능을 켭니다. 배터리 사용 시간을 약간 줄어들 수 있습니다.</string>
     <string name="gmscore_support_service">기본 Google 서비스</string>
     <string name="go_to">진행</string>
+    <string name="go_to_mi_sim">탭하여 Mi SIM 사용하기</string>
     <string name="go_to_setting_fingerprint">설정</string>
     <string name="google_base_app_fail">&quot;다운로드할 수 없습니다. 보안 앱의 인터넷 연결을 허용했는지 확인하세요.&quot;</string>
     <string name="google_base_app_install_choice">앱이 정상작동하려면 Google 서비스 프레임워크가 설치되어야 합니다. 다운로드하여 설치하시겠습니까?</string>
@@ -1931,6 +1938,7 @@ SMS 전송"</string>
     <string name="mi_pay_lucky">Xiaomi 지갑</string>
     <string name="mi_service_app_detail">데이터 사용량 세부사항</string>
     <string name="mi_service_traffic_detail">프레임워크 세부사항</string>
+    <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>탭하여 Mi SIM을 여세요.&lt;/U>&lt;/font>"</string>
     <string name="mian_page_primary_txt">데이터 로밍</string>
     <string name="midrop_post_notification_contentText">50M/s 전송 속도가 가능한 Mi Drop을 사용해보세요.</string>
     <string name="midrop_post_notification_contentTitle">파일을 보내야 하나요?</string>
@@ -2470,6 +2478,7 @@ SMS 전송"</string>
     <string name="power_setting_super_save_summary_text">대부분의 시스템 기능을 제한하여 배터리를 절약합니다.</string>
     <string name="power_setting_warm_configure">온도 조절</string>
     <string name="power_setting_warm_performance_tip">배터리 사용량이 많은 시나리오는 기기의 온도를 기본 온도 제어 모드 수준 이상으로 올립니다.</string>
+    <string name="power_setting_wireless_reverse_charging_fg_control_title">배터리 공유 제한</string>
     <string name="power_setting_wireless_reverse_charging_summary">무선으로 호환되는 기기 충전</string>
     <string name="power_setting_wireless_reverse_charging_title">무선 충전</string>
     <string name="power_settings_category_title">배터리 표시기</string>
@@ -2481,6 +2490,17 @@ SMS 전송"</string>
     <string name="power_settings_top">상단 바</string>
     <string name="power_superpower_title_systemui_highpower">남은 시간</string>
     <string name="power_superpower_title_systemui_lowpower">충전기 연결</string>
+    <string name="power_wireless_need_update_text">업데이트 중…</string>
+    <string name="power_wireless_update_button_text">업데이트</string>
+    <string name="power_wireless_update_dialog_button">확인</string>
+    <string name="power_wireless_update_dialog_message">무선 충전 펌웨어를 업데이트하려면 배터리 잔량이 %s 보다 많아야합니다.</string>
+    <string name="power_wireless_update_dialog_title">배터리 부족</string>
+    <string name="power_wireless_update_driver">펌웨어 업데이트</string>
+    <string name="power_wireless_update_notification_button">보기</string>
+    <string name="power_wireless_update_notification_subtitle">펌웨어를 업데이트하여 더 안정적인 무선 충전 하기</string>
+    <string name="power_wireless_update_notification_title">무선 충전 업데이트</string>
+    <string name="power_wireless_update_text">최신 버전입니다</string>
+    <string name="power_wireless_update_tv_text">"펌웨어를 업데이트하고 있습니다. 전원을 끄지 마세요."</string>
     <string name="pref_about_traffic_title">데이터 사용량 설정</string>
     <string name="pref_adjust_data_usage">통신사 메시지 템플릿</string>
     <string name="pref_adjust_data_usage_summary">보정 템플릿을 변경하면, MIUI가 통신사에서 템플릿을 사용해 데이터 사용 상태를 가져옵니다.</string>
@@ -2834,6 +2854,8 @@ SMS 전송"</string>
     <string name="setting">설정</string>
     <string name="setting_alarm_summary">모든 주요 플랫폼에 대한 공식 빨간 봉투 이벤트 경보 알림</string>
     <string name="setting_privacy_password">패턴 추가</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">배터리 잔량이 %s일 때 무선 배터리 공유를 중지합니다</string>
+    <string name="setting_wireless_reverse_charging_summary">Qi 방식 무선 충전 지원 기기(폰, 웨어러블 기기 등)를 기기 뒷면 가운데에 놓아주세요.</string>
     <string name="settings">데이터 사용량 설정</string>
     <string name="settings_battery_consume_abnormal_summary">배터리가 과도하게 소모되면 알림을 받습니다.</string>
     <string name="settings_battery_consume_abnormal_title">배터리 과소모 알림</string>
