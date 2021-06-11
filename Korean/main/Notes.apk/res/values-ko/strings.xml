@@ -741,7 +741,7 @@
     <string name="todo_schedule_time_mdhm">MM/dd HH:mm</string>
     <string name="todo_schedule_time_repeat_day">매일</string>
     <string name="todo_schedule_time_repeat_month">매월</string>
-    <string name="todo_schedule_time_repeat_normal_workday">월요일부터 금요일까지</string>
+    <string name="todo_schedule_time_repeat_normal_workday">, 월요일부터 금요일까지</string>
     <string name="todo_schedule_time_repeat_week">, 매주</string>
     <string name="todo_schedule_time_repeat_year">, 매년</string>
     <string name="todo_schedule_time_today">오늘</string>

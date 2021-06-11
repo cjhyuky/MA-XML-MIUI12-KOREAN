@@ -581,7 +581,7 @@
     <string name="data_delete_tip">이 기기에서 건강 데이터 삭제 중…</string>
     <string name="data_details">세부 사항</string>
     <string name="data_safety_tip_details">로그아웃 한 후에 건강 데이터가 이 기기에 유지됩니다. 건강> 데이터 소스에서 건강 데이터를 삭제할 수 있습니다.</string>
-    <string name="data_safety_tip_details2">"일부 건강 데이터가 클라우드에 업로드되었습니다. 건강 데이터를 이 기기에 유지하거나 삭제하도록 선택할 수 있습니다. 아래 \"삭제 \ "를 선택하면 이 기기의 데이터만 삭제되며 동기화된 항목은 계속 클라우드에 저장됩니다. 보관하기로 선택한 후에 건강 데이터를 삭제하기로 결정한 경우 건강> 데이터 소스에서 수행 할 수 있습니다. "</string>
+    <string name="data_safety_tip_details2">"일부 건강 데이터가 클라우드에 업로드되었습니다. 건강 데이터를 이 기기에 유지하거나 삭제하도록 선택할 수 있습니다. 아래 \"삭제 \"를 선택하면 이 기기의 데이터만 삭제되며 동기화된 항목은 계속 클라우드에 저장됩니다. 보관하기로 선택한 후에 건강 데이터를 삭제하기로 결정한 경우 건강> 데이터 소스에서 수행 할 수 있습니다. "</string>
     <string name="data_safety_tip_title">건강 데이터 삭제</string>
     <string name="data_source">데이터 소스</string>
     <string name="data_source_data_updating">건강 데이터 업데이트 중…</string>
