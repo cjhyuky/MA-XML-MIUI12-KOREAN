@@ -46,7 +46,7 @@
 	<string name="disable_float_notification">"플로팅 알림 허용되지 않음"</string>
 	<string name="disable_lockscreen_notification">"잠금 화면 알림 허용되지 않음"</string>
 	<string name="disable_show_badge_notification">"알림 배지 허용되지 않음"</string>
-	<string name="early_morning">아침</string
+	<string name="early_morning">아침</string>
 	<string name="enable_float_notification">플로팅 알림 허용됨</string>
 	<string name="enable_lockscreen_notification">잠금 화면 알림 허용됨</string>
 	<string name="enable_show_badge_notification">알림 배지 허용됨</string>
@@ -255,13 +255,13 @@
 	<string name="thursday">목요일</string>
     <string name="thursday_short">목</string>
     <string name="thursday_shortest">목</string>
-	<string name="time_picker_dialog_title">시간 설정</string>
+    <string name="time_picker_dialog_title">시간 설정</string>
     <string name="time_picker_label_hour">시</string>
-    <string name="time_picker_label_minute">분<string>
-	<string name="tip_feedback_thanks">소중한 의견 감사합니다!</string>
+    <string name="time_picker_label_minute">분</string>
+    <string name="tip_feedback_thanks">소중한 의견 감사합니다!</string>
     <string name="title_aggregate_default">알림 그룹화</string>
     <string name="title_aggregate_home">"알림 그룹화 안 함"</string>
-	<string name="today">오늘</string>
+    <string name="today">오늘</string>
     <string name="tomorrow">내일</string>
     <string name="tuesday">화요일</string>
     <string name="tuesday_short">화</string>
