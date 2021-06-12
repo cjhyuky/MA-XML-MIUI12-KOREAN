@@ -196,7 +196,7 @@
     <string name="not_set">설정 안 함</string>
     <string name="notch_and_status_bar_setting">제어 센터 &amp; 상태 표시줄</string>
     <string name="notification_aggregate_description1">MIUI는 푸시 및 프로모션 알림을 자동으로 그룹화하여 알림 센터를 정리합니다.</string>
-    <string name="notification_aggregate_description2">"알고리즘이 알림 내용을 분석하지만, 중요한 알림과 인스턴트 메신저 알림에는 적용하지 않습니다. 중요한 알림이 잘못 그룹화되어 있는 경우, \ "의견 \"을 통해 신고해주시기 바랍니다."</string>
+    <string name="notification_aggregate_description2">"알고리즘이 알림 내용을 분석하지만, 중요한 알림과 인스턴트 메신저 알림에는 적용하지 않습니다. 중요한 알림이 잘못 그룹화되어 있는 경우, \"의견 \"을 통해 신고해주시기 바랍니다."</string>
     <string name="notification_aggregate_summary">MIUI가 알림을 자동으로 그룹화하도록 허용</string>
     <string name="notification_aggregate_summary_inner">자동으로 푸시 및 프로모션 알림을 그룹화하도록 설정</string>
     <string name="notification_aggregate_title">그룹 알림</string>
