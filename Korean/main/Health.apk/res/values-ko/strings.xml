@@ -1023,7 +1023,7 @@
     <string name="tb_home_exercise_card_not_set_goal">운동. %1$s. 완료 : %2$s. 열린 목표.</string>
     <string name="tb_home_exercise_card_not_supported_step">"운동.이 기기는 걸음 수를 계산하지 않습니다."</string>
     <string name="tb_home_exercise_card_speed_of_progress">운동. %1$s. 완료 : %2$s. 목표 : %3$s. 진행률 : %4$s.</string>
-    <string name="tb_home_sleep_card">수면. 오늘 %1$s. %2$s에 잠자리에 들었습니다. %3$s에서 일어났습니다. %4$s.</string>
+    <string name="tb_home_sleep_card">"오늘의 수면: %1$s, %2$s"</string>
     <string name="tb_home_sleep_card_not_open_trace">수면. 수면주기 분석이 해제되었습니다.</string>
     <string name="tb_home_sleep_card_no_data">수면. 오늘 데이터가 없습니다.</string>
     <string name="tb_home_tip_open_data_sync">Xiaomi 건강 항목을 Xiaomi 클라우드와 동기화하여 다른 기기에서 액세스할 수 있습니다. 시작하려면 두 번 탭하세요.</string>
