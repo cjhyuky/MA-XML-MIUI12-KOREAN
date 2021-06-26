@@ -280,15 +280,17 @@ MIUI를 사용하려면 이용 약관과 개인정보 보호정책에 반드시 
     <string name="terms_of_use_lable_default_input_method_mint">"
 
 이 기능을 사용하려면 민트 키보드 개인정보 보호정책에 동의해야 합니다."</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Mi 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 게임 센터, MIUI 데몬, MSA 시스템 구성 요소, 번역 서비스, MIUI SDK, 빠른실행 앱, 퀵 카드, 통계, Mi 링크</string>
     <string name="terms_of_use_lable_gms">, Google Play 서비스</string>
     <string name="terms_of_use_lable_smart_cards">, 스마트 카드</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji 개인정보 보호정책</string>
     <string name="terms_privacy_policy_input_method_kika">Kika 개인정보 보호정책</string>
-    <string name="title_fingerprint">지문 추가</string>
+    <string name="title_fingerprint">화면 잠금 설정</string>
     <string name="title_set_fingerprint">화면 잠금</string>
     <string name="two_dimensional_code_scan">QR 코드 스캔</string>
     <string name="user_agreement">이용 약관</string>
-    <string name="user_agreement_declare">MIUI를 사용하려면 이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 상용구, 번역 서비스, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, Joyose, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치 정보에 접근합니다.</string>
+    <string name="user_agreement_declare">MIUI를 사용하려면 이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 상용구, 번역 서비스, MIUI SDK, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, Joyose, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치 정보에 접근합니다.</string>
+    <string name="user_agreement_declare_wifi_device">MIUI를 사용하려면 이용 약관 및 개인정보 보호정책을 숙지하고 이에 동의해야 합니다. 기기가 활성화되는 동안 Mi SIM 활성화 서비스, Xiaomi 클라우드, 내 기기 찾기, 홈 화면, 상용구, 번역 서비스, MIUI 데몬, HTML 뷰어, AI 어시스턴트, 배터리 및 성능, 전원 감지기, Joyose, OS AI 설정, 권한 관리자와 업데이터가 네트워크에 연결됩니다. 스마트 서비스가 네트워크에 연결되어 사용자의 위치 정보에 접근합니다.</string>
     <string name="user_strayed_warning">이 페이지는 공장 테스트를 위해 설계되었으며, 종료 버튼을 클릭하여 종료합니다.</string>
     <string name="voice_assist_advice">Mi AI는 음성 컨트롤을 사용할 수 있지만 더 많은 배터리를 소모합니다 (매시간 -1%).</string>
     <string name="voice_assist_condition">"다음과 같은 경우 Mi AI를 사용할 수 있습니다:

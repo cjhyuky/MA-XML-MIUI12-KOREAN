@@ -1,5 +1,4 @@
 <resources>
-    <string name=" hide_error_from_network_text">"요청을 처리할 수 없습니다."</string>
     <string name="abc_action_bar_home_description">홈으로</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">더보기</string>
@@ -1061,6 +1060,7 @@
     <string name="hdcp_checking_dialog_title">HDCP 검사 동작 설정</string>
     <string name="hdcp_checking_title">HDCP 검사</string>
     <string name="help_feedback_label">도움말&amp;의견</string>
+    <string name="hide_error_from_network_text">"요청을 처리할 수 없습니다."</string>
     <string name="hintName">이름</string>
     <string name="hintPhonenumber">전화번호</string>
     <string name="home">설정 홈</string>

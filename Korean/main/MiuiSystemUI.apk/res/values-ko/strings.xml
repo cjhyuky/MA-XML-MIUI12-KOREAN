@@ -838,6 +838,7 @@
     <string name="development_settings_not_available">이 사용자는 개발자 옵션을 사용할 수 없습니다.</string>
     <string name="development_settings_summary">앱 개발 옵션 설정</string>
     <string name="development_settings_title">개발자 옵션</string>
+    <string name="device_locked_without_biometric">스크린 잠금 어플을 사용하고 있어서 지문 인식을 사용할 수 없습니다.</string>
     <string name="device_services">기기 서비스</string>
     <string name="direct_boot_unaware_dialog_message">참고: 다시 시작한 후 이 앱은 기기를 잠금 해제해야 시작됩니다.</string>
     <string name="disable_carrier_button_text">eSIM 사용 중지</string>
@@ -1183,7 +1184,7 @@
     <string name="input_lockscreen_password_hint_text">비밀번호 입력</string>
     <string name="input_lockscreen_pattern_hint_text">패턴 그리기</string>
     <string name="input_lockscreen_pin_hint_text">PIN 입력</string>
-    <string name="input_password_after_boot_msg">기기 잠금을 해제하려면 비밀번호를 입력하세요.</string>
+    <string name="input_password_after_boot_msg">기기를 재시작될 때 화면 잠금 확인이 필요합니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">통화 중에는 공간 간의 전환을 할 수 없습니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">자녀보호 모드에서는 보조 공간으로의 이동이 불가합니다.</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"절전 모드가 켜져 있으면 공간 전환을 할 수 없습니다."</string>
@@ -1536,10 +1537,12 @@ EEEE"</string>
     <string name="miui_notification_menu_fold">중요하지 않음</string>
     <string name="miui_notification_menu_more_setting">더보기</string>
     <string name="miui_notification_menu_msg_fold">%1$s의 모든 알림을 접을까요?</string>
+    <string name="miui_notification_menu_msg_unfold">%1$s 화면의 알림을 별도로 표시하겠습니까?</string>
     <string name="miui_notification_menu_msg_not_allow">%1$s의 모든 알림을 제한하시겠습니까?</string>
     <string name="miui_notification_menu_setting_success">완료</string>
     <string name="miui_notification_menu_snooze">다시 알림</string>
     <string name="miui_notification_menu_title_not_allow">제한</string>
+    <string name="miui_notification_menu_unfold">중요 항목 표시</string>
     <string name="miui_ringer_count_down">카운트 다운</string>
     <string name="miui_ringer_standard">무음</string>
     <string name="miui_ringer_standard_description">수신전화와 알림을 무음 벨소리로 알립니다.</string>
@@ -1561,6 +1564,7 @@ EEEE"</string>
     <string name="miui_toast_zen_to_dnd">방해 금지 모드로 전환되었습니다. 소리와 진동이 꺼집니다.</string>
     <string name="miui_toast_zen_to_standard">"무음 모드로 전환되었습니다. 벨소리 및 알림음이 음소거됩니다."</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">"무음 모드로 전환되었습니다. 벨소리, 알림음 및 미디어 사운드가 음소거됩니다."</string>
+    <string name="miui_unimportant_notifications">중요하지 않은 알림</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">당겨서 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 완료</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
@@ -2304,6 +2308,8 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="show_silently">무음으로 알림 표시</string>
     <string name="show_touches">탭한 항목 표시</string>
     <string name="show_touches_summary">탭한 항목에 대해 시각적인 피드백 표시</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Press and hold the &lt;font color=#e6e6e6>[전원]&lt;/font> 버튼을 계속 누르고, &lt;font color=#e6e6e6>[음량 +]&lt;/font> 버튼을 &lt;img src=\"\"> 가 보일때까지 누르세요.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>&lt;font color=#e6e6e6>[데이터 삭제]&lt;/font>를 선택하고 &lt;font color=#e6e6e6>[Reboot]&lt;/font>를 누르세요..</Data></string>
     <string name="sim_state_locked_dialog_title">유효하지 않은 SIM 카드</string>
     <string name="sim_state_locked_puk_dialog_message">"잘못된 PUK 코드를 %d번 이상 입력했습니다. 현재 SIM 카드가 유효하지 않습니다. 이 SIM 카드를 다른 것으로 교체하십시오."</string>
     <string name="simulate_color_space">색상 공간 시뮬레이션</string>
