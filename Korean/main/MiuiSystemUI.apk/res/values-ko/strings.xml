@@ -2945,11 +2945,7 @@ Wi‑Fi 주소(BSSID)
     <string name="pad_zen_mode_warnings_all_time_content">알림이 무음 처리됩니다</string>
     <string name="pad_zen_mode_warnings_keyguard_content">기기가 잠겨 있으면 알림이 무음으로 설정됩니다.</string>
     <string name="pm">오후</string>
-    <string name="quick_settings_tiles">기본값</string>
-    <string name="quick_settings_tiles_default">셀, 와이파이, 손전등, 음소거, 스크린샷, bt, 자동 밝기, 비행기, 화면 잠금, GPS, 회전, 독서 모드, 야간, 저소음 모드, 배터리 세이버, 익스트림 배터리 세이버, 사용자 정의(com.miui.securitycenter/com.miui.securitycenter/com. miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com. miui.screenrecorder/.service.QuickService),진동,핫스팟,동기화,스크린버튼,무선전원,nfc,편집</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,손전등,배터리 절약기,스크린샷,편집</string>
-    <string name="quick_settings_tiles_retail_mode">셀, 배터리 절약기, 전원 모드, 손전등, 회전, 위치</string>
-    <string name="quick_settings_tiles_stock">셀, 와이파이, 손전등, 음소거, 스크린샷, bt, 자동 밝기, 비행기, 화면 잠금, GPS, 회전, 독서 모드, 야간, 저소음 모드, 배터리 세이버, 극한 배터리 세이버, 전원 모드, 진동, 핫스팟, 동기화, 화면 버튼, 무선 전원,nfc,편집,드라이브 모드,작업 모드</string>
     <string name="quick_settings_tiles_super_save">셀, 와이파이, bt, GPS, 진동</string>
     <string name="quick_settings_user_label">나</string>
     <string name="saturday">토요일</string>
@@ -3034,7 +3030,6 @@ Wi‑Fi 주소(BSSID)
     <string name="tuesday">화요일</string>
     <string name="tuesday_short">화</string>
     <string name="tuesday_shortest">화</string>
-    <string name="velocity_tracker_impl">플랫폼</string>
     <string name="volume_ringer_hint_mute">음소거</string>
     <string name="volume_ringer_hint_unmute">음소거 해제</string>
     <string name="volume_ringer_hint_vibrate">진동</string>

@@ -9326,7 +9326,6 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="fingerprint_gxzw_add_fingerprint_finish">\"%s\"(으)로 저장됨</string>
     <string name="fingerprint_password_unlock">지문 및 화면 잠금</string>
     <string name="firewall_applist">앱</string>
-    <string name="firmware_title">안드로이드</string>
     <string name="freeform_guide_slide_to_small_freeform_title">플로팅 창으로 슬라이딩</string>
     <string name="friday">금요일</string>
     <string name="friday_short">금</string>
