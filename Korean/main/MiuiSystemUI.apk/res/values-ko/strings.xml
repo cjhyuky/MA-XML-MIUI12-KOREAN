@@ -2840,7 +2840,6 @@ Wi‑Fi 주소(BSSID)
     <string name="zen_priority_introduction">알람, 알림, 일정 및 지정한 발신자로부터 받은 전화를 제외한 소리와 진동을 끕니다. 음악, 동영상, 게임 등 재생하도록 선택한 소리는 정상적으로 들립니다.</string>
     <string name="zen_silence_introduction">알람, 음악, 동영상, 게임을 포함하여 모든 소리와 진동을 끕니다.</string>
     <string name="zen_silence_introduction_voice">알람, 음악, 동영상, 게임을 비롯한 모든 소리와 진동을 끕니다. 이 경우에도 전화는 걸 수 있습니다.</string>
-    <string name="accessibility_home">홈</string>
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="afternoon">오후</string>
     <string name="am">오전</string>
@@ -2852,7 +2851,6 @@ Wi‑Fi 주소(BSSID)
     <string name="control_quick_settings_tiles_super_save">gps,nfc,스크린샷,진동</string>
     <string name="date_picker_lunar">음력</string>
     <string name="date_time_picker_dialog_title">날짜 및 시간 설정</string>
-    <string name="debug_applications_category">앱</string>
     <string name="device_locked_without_biometric_face">3자 원키 화면 잠금 기능을 사용하여 생체 인식을 수행할 수 없습니다.</string>
     <string name="device_locked_without_biometric_finger">삼자 원키 화면 잠금 기능을 사용하기 때문에 생체 인식을 수행 할 수 없습니다.</string>
     <string name="early_morning">오전</string>
@@ -2871,10 +2869,6 @@ Wi‑Fi 주소(BSSID)
     <string name="fs_gesture_final_see_more">설정에서 더 많은 데모 보기 > 홈 화면 > 시스템 탐색</string>
     <string name="input_pattern_after_boot_msg">기기 재부팅 후에는 패턴을 그려야 합니다.</string>
     <string name="input_pin_after_boot_msg">기기 재부팅 후에는 PIN을 입력해야 합니다.</string>
-    <string name="keyboard_key_home">홈</string>
-    <string name="keyboard_key_move_home">홈</string>
-    <string name="keyboard_key_tab">탭</string>
-    <string name="keyboard_shortcut_group_system_home">홈</string>
     <string name="keyguard_invalid_sim_puk_hint">PUK 코드에는 %1$d자리 숫자가 포함되어야합니다.</string>
     <string name="lock_screen_access_to_5G">5G 액세스</string>
     <string name="midnight">오후</string>
@@ -2901,7 +2895,6 @@ Wi‑Fi 주소(BSSID)
     <string name="monday">월요일</string>
     <string name="monday_short">월</string>
     <string name="monday_shortest">월</string>
-    <string name="monitoring_subtitle_vpn">VPN</string>
     <string name="month_april">4월</string>
     <string name="month_april_short">4월</string>
     <string name="month_april_shortest">4월</string>
@@ -2947,7 +2940,6 @@ Wi‑Fi 주소(BSSID)
     <string name="pm">오후</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,손전등,배터리 절약기,스크린샷,편집</string>
     <string name="quick_settings_tiles_super_save">셀, 와이파이, bt, GPS, 진동</string>
-    <string name="quick_settings_user_label">나</string>
     <string name="saturday">토요일</string>
     <string name="saturday_short">토요일</string>
     <string name="saturday_shortest">토요</string>
