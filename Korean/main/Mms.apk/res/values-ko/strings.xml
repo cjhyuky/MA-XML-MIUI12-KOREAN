@@ -1161,4 +1161,19 @@
     <string name="pref_summary_enable_ad_notification">이 기능을 활성화해 광고성 메세지의 알림 해제</string>
     <string name="pref_title_enable_ad_notification">광고성 메세지</string>
     <string name="rcs_chatbot_blocked_tip">"차단된 미니 앱입니다. 대화를 시작할 수 없습니다."</string>
+	<string name="aim_show_card">카드 표시</string>
+    <string name="aim_show_original">메시지 표시</string>
+    <string name="cancel">취소</string>
+    <string name="go_close">설정</string>
+    <string name="invisible_mode_on">"시크릿 모드 사용 중"</string>
+    <string name="leave_mms_tips_context_app">메시지를 남기고 앱을 열겠습니까?</string>
+    <string name="leave_mms_tips_context_app_name">메시지를 남기고 \"%s\" 앱을 열겠습니까?</string>
+    <string name="leave_mms_tips_context_browser">메시지를 남기고 브라우저를 열겠습니까??</string>
+    <string name="leave_mms_tips_context_email">메시지를 남기고 이메일을 열겠습니까?</string>
+    <string name="leave_mms_tips_context_map">메시지를 남기고 지도를 열겠습니까?</string>
+    <string name="pref_summary_switch_aim_card">영상, 사진, 복잡한 형식을 포함하는 메시지를 카드 형식으로 표시</string>
+    <string name="pref_title_switch_aim_card">메시지를 카드로 전환</string>
+    <string name="unable_connect_camera">"시크릿 모드를 사용 중입니다. 카메라를 사용할 수 없습니다."</string>
+    <string name="unable_get_location">"시크릿 모드를 사용 중입니다. 위치 서비스를 사용할 수 없습니다."</string>
+    <string name="unable_use_microphone">"시크릿 모드를 사용 중입니다. 마이크를 사용할 수 없습니다."</string>
 </resources>

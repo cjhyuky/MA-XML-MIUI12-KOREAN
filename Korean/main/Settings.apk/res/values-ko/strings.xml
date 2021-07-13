@@ -6686,6 +6686,17 @@ OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다.</string>
     <string name="shared_data_title">공유 데이터</string>
     <string name="sharing_remote_bugreport_dialog_message">이 버그 보고서는 IT 관리자와 공유됩니다. 자세한 내용은 IT 관리자에게 문의하세요.</string>
     <string name="short_summary_font_size">텍스트를 확대 또는 축소</string>
+	<string name="shoulder_key_game_light_settings">Game scene light effect</string>
+    <string name="shoulder_key_settings">Shoulder buttons</string>
+    <string name="shoulder_key_settings_title">Lifting shoulder button</string>
+    <string name="shoulder_key_sound_settings">Shoulder button sound effect</string>
+    <string name="shoulder_key_sound_switch_title">Shoulder button sound effect</string>
+    <string name="shoulder_key_sound_text_bullet">Bullet loaded</string>
+    <string name="shoulder_key_sound_text_current">Awakening the future</string>
+    <string name="shoulder_key_sound_text_sword">Sword light</string>
+    <string name="shoulder_key_sound_text_wind">Racing engine</string>
+    <string name="shoulder_key_switch_status_close">Closed</string>
+    <string name="shoulder_key_switch_status_open">Turned on</string>
     <string name="show_all_anrs">백그라운드 ANR 표시</string>
     <string name="show_all_anrs_summary">백그라운드 앱과 관련해 \"앱 응답 없음\" 대화상자 표시</string>
     <string name="show_all_apps">전체 기기 사용 정보 표시</string>

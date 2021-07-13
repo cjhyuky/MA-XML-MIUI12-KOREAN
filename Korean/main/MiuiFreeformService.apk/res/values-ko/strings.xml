@@ -2,6 +2,8 @@
 <resources>
     <string name="app_name">플로팅 창</string>
     <string name="contentDescription">창 이동</string>
+	<string name="copy">복사</string>
+	<string name="expand_button_title">고급</string>
     <string name="freeform_demo_back">뒤로</string>
     <string name="freeform_demo_final_over">완료</string>
     <string name="freeform_demo_final_restart">다시 시작</string>
@@ -24,4 +26,8 @@
     <string name="how_to_slide_up_to_close">플로팅 창 닫기</string>
     <string name="how_to_slide_up_to_close_summary">플로팅 창의 작업 표시줄에서 위로 스와이프</string>
     <string name="how_to_use_freeform">플로팅 창 사용 방법</string>
+	<string name="not_set">설정 안 함</string>
+    <string name="preference_copied">\"%1$s\"(이)가 클립보드에 복사되었습니다.</string>
+    <string name="v7_preference_off">꺼짐</string>
+    <string name="v7_preference_on">켜짐</string>
 </resources>
