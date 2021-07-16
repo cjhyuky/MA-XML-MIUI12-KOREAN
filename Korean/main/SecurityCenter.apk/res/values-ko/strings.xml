@@ -2501,6 +2501,7 @@ SMS 전송"</string>
     <string name="power_wireless_update_notification_title">무선 충전 업데이트</string>
     <string name="power_wireless_update_text">최신 버전입니다</string>
     <string name="power_wireless_update_tv_text">"펌웨어를 업데이트하고 있습니다. 전원을 끄지 마세요."</string>
+    <string name="power_wireless_ubable_update_toast">"무선 충전 중에는 펌웨어 업데이트를 할 수 없습니다"</string>
     <string name="pref_about_traffic_title">데이터 사용량 설정</string>
     <string name="pref_adjust_data_usage">통신사 메시지 템플릿</string>
     <string name="pref_adjust_data_usage_summary">보정 템플릿을 변경하면, MIUI가 통신사에서 템플릿을 사용해 데이터 사용 상태를 가져옵니다.</string>
