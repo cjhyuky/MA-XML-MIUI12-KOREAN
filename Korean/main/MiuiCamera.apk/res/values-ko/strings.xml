@@ -1647,6 +1647,7 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="pref_watermark_title">워터마크</string>
     <string name="pref_wind_denoise_title">풍절음 필터</string>
     <string name="preference_copied">\"%1$s\" 항목 클립보드로 복사 완료</string>
+    <string name="prek_b_j_o">스테레오 서라운드 효과를 사용하려면 기능을 켜주세요. 더 나은 결과물을 위해 가로 모드로 전환 또는 이어폰 연결을 추천합니다.</string>    
     <string name="preparing_sd">SD 카드 확인 중…</string>
     <string name="preview_back_pressed_hint">다시 누르면 미리보기로 돌아갑니다.</string>
     <string name="pro_color_mode">프로 컬러 모드</string>
