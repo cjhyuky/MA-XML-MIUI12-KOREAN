@@ -82,6 +82,10 @@
     <plurals name="bt_usable_device_title">
         <item quantity="other">사용 가능한 기기 %d개</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">%d초 마다</item>
+        <item quantity="one">%d초 마다</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d개 기기</item>
     </plurals>
