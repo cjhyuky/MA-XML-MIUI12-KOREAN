@@ -281,4 +281,7 @@
     <string name="ai_mode_manual">수동</string>
     <string name="ai_mode_subtitles">자막</string>
     <string name="description_incoming_video">수신 전화에 대한 프로필 동영상</string>
+    <string name="relay_cal_from_device_name">%1$s 로부터</string>
+    <string name="relay_call">핸드오프</string>
+    <string name="relay_call_device_name">연결된 기기 (%1$s)</string> 
 </resources>
