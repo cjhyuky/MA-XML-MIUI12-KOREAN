@@ -2853,4 +2853,9 @@
     <string name="zen_mode_forever">끄기 전까지</string>
     <string name="zen_mode_settings_summary_off">하지 않음</string>
     <string name="zen_mode_settings_turn_on_dialog_title">방해 금지 모드 켜기</string>
+    <string name="relay_call_answered_by_other_devices">이 전화는 다른 기기에서 받았습니다.</string>
+    <string name="relay_call_released_due_to_connect_lost">연결이 끊겼습니다. 연결이 끊긴 기기에서 통화를 계속하세요.</string>
+    <string name="relay_connection_service_label">내장 릴레이 전화</string>
+    <string name="menu_new_display_open">새 창에서 열기</string>
+    <string name="menu_pc_open">컴퓨터로 열기</string>
 </resources>
