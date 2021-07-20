@@ -566,7 +566,7 @@
     <string name="account_crop_user_avatar">사진 자르기</string>
     <string name="account_empty_user_name">Mi 계정 사용자 이름 입력</string>
     <string name="account_error_all_space_user_name">"사용자 이름에는 공백 문자만 사용할 수 없습니다."</string>
-    <string name="account_error_invalid_user_name">"이름은 <, > 또는 /"를 포함할 수 없습니다.</string>
+    <string name="account_error_invalid_user_name">이름에 &lt;, >, / 를 포함할 수 없습니다.</string>
     <string name="account_error_longer_user_name">"이름은 20자를 초과할 수 없습니다."</string>
     <string name="account_error_shorter_user_name">이름은 2자 이상이어야 합니다.</string>
     <string name="account_error_user_birthday">입력한 생일이 잘못되었습니다.</string>
@@ -696,9 +696,9 @@
     <string name="diagnosis_log_sent_format">"로그를 성공적으로 보냈습니다.ID:%s감독자에게 이 코드를 보내십시오."</string>
     <string name="dialog_disagree_privacychange_info">"개인정보 보호정책에 동의하지 않으면 Mi Video 온라인 스트리밍 서비스를 사용할 수 없습니다. \"취소\" 돌아가거나 \"동의하지 않음\" 계속해서 Mi Video를 로컬 플레이어로만 사용하려면"</string>
     <string name="dialog_disagree_privacychange_title">"동의하지 않습니까?"</string>
-    <string name="dialog_privacy_change_info">"제공하는 서비스의 조정으로 인해 Mi Video 개인정보 보호정책을 업데이트했습니다. 사용자로서의 귀하의 권리와 당사가 귀하의 데이터를 사용하는 방식을 완전히 이해하려면 <a href=%1$s>사용자 계약</a> 및 <a href=%2$s>개인정보 보호정책</a> 앱을 사용하기 전에."</string>
+    <string name="dialog_privacy_change_info">"제공하는 서비스의 조정으로 인해 Mi Video 개인정보 보호정책을 업데이트했습니다. 사용자로서의 귀하의 권리와 당사가 귀하의 데이터를 사용하는 방식을 완전히 이해하려면 &lt;a href=%1$s>사용자 계약&lt;/a> 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 앱을 사용하기 전에."</string>
     <string name="dialog_privacy_change_title">개인정보 보호정책 업데이트</string>
-    <string name="dialog_privacy_info_new3">"이 서비스를 사용하려면 개인정보 보호정책에 따라 %1$s이(가) 귀하의 개인 정보를 수집, 처리 및 사용하도록 허용해야 합니다. \"동의\" 아래에서 귀하는 Xiaomi의 <a href=%2$s>개인정보 보호정책</a> 및 <a href=%3$s>사용자 계약</a><</string>
+    <string name="dialog_privacy_info_new3">"이 서비스를 사용하려면 개인정보 보호정책에 따라 %1$s이(가) 귀하의 개인 정보를 수집, 처리 및 사용하도록 허용해야 합니다. \"동의\" 아래에서 귀하는 Xiaomi의 &lt;a href=%2$s>개인정보 보호정책&lt;/a> 및 &lt;a href=%3$s>사용자 계약&lt;/a></string>
     <string name="dialog_privacy_revoke_cancel">취소</string>
     <string name="dialog_privacy_revoke_count_down">철회(%1$ds)</string>
     <string name="dialog_privacy_revoke_description">스위치를 끄면 Mi Video의 개인정보 보호정책에 대한 동의를 철회하는 것입니다. 우리는 귀하의 개인 정보 수집을 중단할 것입니다. 이미 수집 및 보유하고 있는 개인정보는 관계법령이 정하는 바에 따라 지정된 기간 내에 삭제합니다. 개인정보취급방침에 대한 동의 철회는 수집된 개인정보를 기반으로 온라인 서비스 이용을 거부하는 것으로 간주됩니다.</string>
@@ -1157,8 +1157,8 @@
     <string name="passport_talkback_voice_captcha">음성 인증 코드 재생</string>
     <string name="passport_trust_device">신뢰할 수 있는 장치입니다</string>
     <string name="passport_trying_read_verify_code_sms">인증 코드를 받는 중...</string>
-    <string name="passport_user_agreement_link">"<Data>저는 Xiaomi의 <a href=\"%1$s\">사용자 계약</a>을 읽었으며 이에 동의합니다. 및 <a href=\"%2$s\>개인정보 보호정책</a>.</Data>"</string>
-    <string name="passport_user_agreement_link_more">"<Data>샤오미의 <a href=\"%1$s\">사용자 계약</a> 및 <a href=\"%4$s\>개인정보 보호정책</a>, <a href=\"%2$s\">\"%3$s\ </a>을 읽었으며 이에 동의합니다.</Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>저는 Xiaomi의 &lt;a href=\"%1$s\">사용자 계약&lt;/a>을 읽었으며 이에 동의합니다. 및 &lt;a href=\"%2$s\>개인정보 보호정책&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>샤오미의 &lt;a href=\"%1$s\">사용자 계약&lt;/a> 및 &lt;a href=\"%4$s\>개인정보 보호정책&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\ &lt;/a>을 읽었으며 이에 동의합니다.&lt;/Data>"</string>
     <string name="passport_vcode_notification_title">로그인 확인이 완료되지 않았습니다.</string>
     <string name="passport_vcode_prompt_long">인증 코드 입력</string>
     <string name="passport_vcode_sms_send_prompt">%s에게 코드를 보냈습니다.</string>
@@ -1252,7 +1252,7 @@
     <string name="plus_player_subtitle_local_add_success">자막 추가 성공</string>
     <string name="plus_player_subtitle_no_file">여기에 자막이 없습니다.</string>
     <string name="plus_player_subtitle_online">온라인 자막</string>
-    <string name="plus_player_subtitle_online_declare_content">"<br/><a href=\"http://www.opensubtitles.org\">opensubtitles에서 자막을 검색하려고 합니다. 조직</a> 데이터 베이스. <br/>모든 자막은 <a href=\"http://www.opensubtitles.org\>opensubtitles.org</a>"</string>에서 제공합니다.
+    <string name="plus_player_subtitle_online_declare_content">"&lt;br/>&lt;a href=\"http://www.opensubtitles.org\">opensubtitles에서 자막을 검색하려고 합니다. 조직&lt;/a> 데이터 베이스. &lt;br/>모든 자막은 &lt;a href=\"http://www.opensubtitles.org\>opensubtitles.org&lt;/a>"에서 제공합니다.</string>
     <string name="plus_player_subtitle_online_declare_title">면책조항</string>
     <string name="plus_player_subtitle_online_download_fail">"자막을 다운로드할 수 없음"</string>
     <string name="plus_player_subtitle_online_download_start">자막 다운로드 중...</string>
