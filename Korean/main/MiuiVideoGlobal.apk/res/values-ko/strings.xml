@@ -925,8 +925,6 @@
     <string name="language_setting_tips_dialog">계정에서 콘텐츠에 대한 언어 기본 설정을 선택할 수 있습니다. > 언어.</string>
     <string name="later">나중에</string>
     <string name="library_roundedimageview_libraryDescription">Romain Guy의 원본 예제를 기반으로 둥근 모서리(및 타원 또는 원)를 지원하는 빠른 ImageView(및 Drawable).</string>
-    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
-    <string name="library_roundedimageview_libraryVersion">1.3.0</string>
     <string name="live_now">지금 라이브</string>
     <string name="live_title">라이브</string>
     <string name="live_tv_title">라이브 TV</string>
@@ -1087,7 +1085,6 @@
     <string name="off_tip_firework_recommend">"Firework에서 맞춤 콘텐츠 추천을 받지 않습니다."</string>
     <string name="on_tip_firework_recommend">"Firework에서 맞춤 콘텐츠 추천을 받게 됩니다."</string>
     <string name="open_settings">설정</string>
-    <string name="order_alphabet">AZ</string>
     <string name="order_recently_subscribe">최근 구독</string>
     <string name="order_recently_updated">최근 업데이트됨</string>
     <string name="ovp_detail_back_to_watch_more">홈페이지에서 더 많은 항목 찾기</string>
@@ -1418,7 +1415,6 @@
     <string name="srl_header_secondary">2층으로 방출</string>
     <string name="srl_header_update">"'마지막 업데이트' Md HH:mm"</string>
     <string name="start_download_tip">대기열에 추가되었습니다. 프로필 > 다운로드.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD 카드</string>
     <string name="storage_internal_sdcard">내부 저장소</string>
     <string name="submit">제출</string>
