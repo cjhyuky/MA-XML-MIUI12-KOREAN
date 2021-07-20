@@ -1806,7 +1806,6 @@
     <string name="year_month_day_all_format_en">yyyy/MM/dd HH:mm:ss</string>
     <string name="year_month_day_format">yyyy년 M월 d일</string>
     <string name="yesterday">어제</string>
-
     <string name="abc_action_bar_home_description">홈으로 이동</string>
     <string name="abc_action_bar_up_description">위로 이동</string>
     <string name="abc_action_menu_overflow_description">추가 옵션</string>
