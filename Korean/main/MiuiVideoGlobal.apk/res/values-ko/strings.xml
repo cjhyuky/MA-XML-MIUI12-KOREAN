@@ -1487,7 +1487,7 @@
     <string name="time_picker_dialog_title">시간 설정</string>
     <string name="tip_author_click">이 계정에서 더 많은 동영상을 보려면 탭하세요.</string>
     <string name="tip_auth_again">"제3자 콘텐츠 제공자의 해당 개인정보 보호정책 약관에 이전에 동의하지 않았기 때문에 Moments에 동영상 콘텐츠를 표시할 수 없습니다. 개인정보 보호정책에 동의하고 이 기능에 액세스하려면 아래 버튼을 탭하세요."</string>
-    <string name="tip_pop">Moments의 콘텐츠는 Firework에서 제공합니다. 시청 경험을 개선하고 보다 관련성 높은 콘텐츠 추천을 받으려면 Firework가 개인 정보 보호 정책에 따라 귀하의 개인 정보를 수집, 처리 및 사용하도록 허용하십시오. <a href=\"%1$s\">Firework 개인정보 보호정책</a> 서비스를 사용하기 전에.</string>
+    <string name="tip_pop">Moments의 콘텐츠는 Firework에서 제공합니다. 시청 경험을 개선하고 보다 관련성 높은 콘텐츠 추천을 받으려면 Firework가 개인 정보 보호 정책에 따라 귀하의 개인 정보를 수집, 처리 및 사용하도록 허용하십시오. &lt;a href=\"%1$s\">Firework 개인정보 보호정책&lt;/a> 서비스를 사용하기 전에.</string>
     <string name="tip_topic_click">이 주제에 대한 더 많은 동영상을 찾으려면 탭하세요.</string>
     <string name="title_firework_recommend">불꽃놀이 추천</string>
     <string name="title_publisher">제작자</string>
