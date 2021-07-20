@@ -614,9 +614,8 @@
     <string name="agree_and_continue">동의</string>
     <string name="all">모두 표시</string>
     <string name="am">오전</string>
-    <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
-    <string name="app_description_content">"Mi Video는 로컬 비디오 플레이어가 포함된 시스템 앱입니다. 홈 화면 바로가기를 제거한 후에도 동영상 파일을 계속 재생할 수 있습니다."</string>
-    <string name="app_description_title">\"Mi Video\"를 홈 화면에서 삭제하시겠습니까?</string>
+    <string name="app_description_content">"미 비디오는 로컬 비디오 플레이어가 포함된 시스템 앱입니다. 홈 화면 바로가기를 제거한 후에도 동영상 파일을 계속 재생할 수 있습니다."</string>
+    <string name="app_description_title">\"미 비디오\"를 홈 화면에서 삭제하시겠습니까?</string>
     <string name="auth_again">동의</string>
     <string name="auth_fail_warning">세션이 만료되었습니다. 다시 로그인하십시오.</string>
     <string name="auto_play_next_off">자동재생이 꺼져 있습니다</string>
