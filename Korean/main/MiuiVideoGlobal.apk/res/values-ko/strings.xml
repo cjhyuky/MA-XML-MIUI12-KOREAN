@@ -373,7 +373,6 @@
     <string name="ovp_navigation_favorites">즐겨찾기</string>
     <string name="ovp_navigation_feedback">의견</string>
     <string name="ovp_navigation_history">기록</string>
-    <string name="ovp_navigation_home">집</string>
     <string name="ovp_navigation_language">언어</string>
     <string name="ovp_navigation_localvideo">로컬</string>
     <string name="ovp_navigation_setting">설정</string>
@@ -664,7 +663,7 @@
     <string name="comment_model_reply">답글</string>
     <string name="comment_model_reply_comment">"%s님에게 답장: "</string>
     <string name="comment_model_report">보고서</string>
-    <string name="comment_model_report_fail">'보고할 수 없음'</string>
+    <string name="comment_model_report_fail">보고할 수 없음</string>
     <string name="comment_model_report_success">성공적으로 보고됨</string>
     <string name="comment_model_send_fail">"보내지 못했습니다."</string>
     <string name="comment_model_send_fail_frequently">그렇게 빠르지 않습니다! 1~2분 정도 기다렸다가 다시 시도하십시오.</string>
@@ -719,7 +718,7 @@
     <string name="download_power_off_tips">"이 기능은 지금 사용할 수 없습니다"</string>
     <string name="download_progress">%d%%</string>
     <string name="download_retry">다시 시도</string>
-    <string name="download_space_info">%s, %s</string>
+    <string name="download_space_info" formatted="false">%s, %s</string>
     <string name="download_unable_tip">"이 항목을 다운로드할 수 없습니다."</string>
     <string name="download_video">동영상 다운로드</string>
     <string name="do_not_show_again">"다시 표시하지 않음"</string>
@@ -990,7 +989,7 @@
     <string name="muix_sbl_tracking_progress_labe_up_nodata">"지금은 여기까지입니다"</string>
     <string name="muix_sbl_tracking_progress_labe_up_none">"지금은 여기까지입니다"</string>
     <string name="muix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요...</string>
-    <string name="muix_sbl_tracking_progress_labe_up_refresh_fail">'항목을 로드할 수 없음'</string>
+    <string name="muix_sbl_tracking_progress_labe_up_refresh_fail">항목을 로드할 수 없음</string>
     <string name="mnc_live_tv">라이브 TV</string>
     <string name="moment_guide_desc">확대 및 축소를 위한 제스처 사용</string>
     <string name="moment_tab_all">전체</string>
