@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="privacy_policy">개인정보 보호정책</string>
     <string name="Enhance">향상</string>
     <string name="Fullmask_mode">마스크됨</string>
     <string name="Fullmask_mode_str1">인식 과정을 제외하고 WeChat 스캐너에서 처리된 결과 표시</string>
