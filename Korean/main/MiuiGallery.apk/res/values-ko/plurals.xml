@@ -345,4 +345,32 @@
 	<plurals name="pic_to_pdf_support_max_count">
 		<item quantity="other">PDF 파일은 최대 이미지 %d개를 포함할 수 있습니다</item>
 	</plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">%d도 회전</item>
+        <item quantity="one">%d도 회전</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">사진 %d장 최적화 완료</item>
+        <item quantity="one">사진 %d장 최적화 완료</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">영상 %d개 최적화 완료</item>
+        <item quantity="one">영상 %d개 최적화 완료</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">사진 %d장</item>
+        <item quantity="one">사진 %d장</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">남은 최적화 항목 %d개</item>
+        <item quantity="one">남은 최적화 항목 %d개</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">영상 %d개</item>
+        <item quantity="one">영상 %d개</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s개 항목</item>
+        <item quantity="one">%1$s, %2$s개 항목</item>
+    </plurals>
 </resources>

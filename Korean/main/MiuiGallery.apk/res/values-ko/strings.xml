@@ -1420,7 +1420,7 @@
     <string name="pm">오후</string>
     <string name="preparing_data">잠시만 기다리세요…</string>
     <string name="print_log">인쇄 기록</string>
-    <string name="privacy_permission_request_message">갤러리가 %3$s에 접근이 필요합니다. 수집한 정보는 %1$s 과 %2$s에 따라 사용됩니다. 허용하시겠습니까?</string>
+    <string name="privacy_permission_request_message"><Data>갤러리를 사용하려면 %3$s 접근이 필요합니다. 수집한 정보는 자사 &lt;a href=\"%1$s\">\"이용 약관\"&lt;/a> and &lt;a href=\"%2$s\">\"개인 정보 정책\"&lt;/a>에 따라 처리됩니다. 동의하시겠습니까?</Data></string>
     <string name="privacy_permission_request_negative">제한</string>
     <string name="privacy_permission_request_positive">허용</string>
     <string name="privacy_permission_request_title">권한 요구됨</string>
@@ -2723,4 +2723,31 @@
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">플러그인</string>
     <string name="vlog_filter_qingcheng">라임</string>
     <string name="vlog_filter_xiari">여름</string>
+	<string name="album_screenshot_and_screen_recorder_name">스크린샷 및 화면 녹화</string>
+    <string name="assistant_page_community">커뮤니티</string>
+    <string name="exif_title_smart_fusion">이미지 향상:</string>
+    <string name="slim_action">최적화</string>
+    <string name="slim_action_auto_backup">켜기</string>
+    <string name="slim_action_auto_backup_disable_description">클라우드에 원본 화질의 사진과 영상을 보관하고, 기기에는 작은 용량의 고화질 복사본을 저장합니다.</string>
+    <string name="slim_action_auto_backup_enable_description">항목을 클라우드에 업로드 중…</string>
+    <string name="slim_action_auto_backup_sub_tip">저장공간 비우기</string>
+    <string name="slim_action_auto_backup_tip">클라우드와 동기화 켜기</string>
+    <string name="slim_complete_count">"%1$s 와 %2$s 최적화를 완료했습니다. "</string>
+    <string name="slim_complete_download_tip">원본 대신 고화질 복사본을 자동으로 다운로드합니다.</string>
+    <string name="slim_dialog_empty_message">"최적화할 항목을 찾지 못했습니다."</string>
+    <string name="slim_dialog_empty_positive">확인</string>
+    <string name="slim_dialog_empty_title">알림</string>
+    <string name="slim_dialog_message" formatted="false">"항목이 생성된지 %d일이 지나면 원본 사진과 영상을 고화질 복사본으로 대체합니다. 원본 파일은 클라우드에 저장됩니다. 기기 저장공간의 %s를 확보할 수 있습니다."</string>
+    <string name="slim_dialog_positive">최적화</string>
+    <string name="slim_dialog_title">저장공간 최적화</string>
+    <string name="slim_preference_scanning">사진 및 영상 분석 중…</string>
+    <string name="slim_preference_summery">클라우드에 원본 화질의 사진과 영상을 보관하고, 기기에는 작은 용량의 고화질 복사본을 저장합니다.항목이 생성된지 %d일이 지나면 원본 사진과 영상을 저용량 복사본으로 대체합니다.</string>
+    <string name="slim_preference_title">저장공간 최적화</string>
+    <string name="slim_stop_v2">중지</string>
+    <string name="slim_success_tip">저장공간의 %s를 비웠습니다</string>
+    <string name="widget_editor_load_fail">"사진을 불러올 수 없습니다"</string>
+    <string name="widget_talkback_custom">갤러리. 선택된 이미지.</string>
+    <string name="widget_talkback_recommend">갤러리. 추억.</string>
+	<string name="widget_custom_store_detail_desc">위젯을 추가한 뒤 탭하여 사진을 선택하세요</string>
+	<string name="widget_recommend_store_detail_desc">최근 사진과 빛나는 순간</string>
 </resources>
