@@ -19,8 +19,10 @@
     <string name="enable_find_device_error">기기 찾기를 켤 수 없습니다. %1$s</string>
     <string name="enable_find_device_success">기기 찾기 켜짐</string>
     <string name="find_device">기기 찾기</string>
-	<string name="find_device_capture_done_notification_content">i.mi.com 에서 촬영된 사진을 볼 수 있습니다.</string>
-    <string name="find_device_capture_done_notification_title">내 기기 찾기가 원격으로 사진을 촬영했습니다</string>
+	<string name="find_device_capture_done_notification_content">i.mi.com 에서 사진을 볼 수 있습니다</string>
+    <string name="find_device_capture_done_notification_title">기기 찾기가 사진을 원격으로 촬영함</string>
+    <string name="find_device_capture_notification_content">원격 사진 촬영 요청이 당신의 계정으로 제출되었습니다</string>
+    <string name="find_device_capture_notification_title">기기 찾기가 사진을 찍으려 합니다</string>
     <string name="find_device_crash">기기 찾기 기능이 예기치않게 종료되었습니다.</string>
     <string name="find_device_error_access_denied">접근 거부됨</string>
     <string name="find_device_error_account_sys_timeout">"Mi 계정에 연결할 수 없습니다. "</string>

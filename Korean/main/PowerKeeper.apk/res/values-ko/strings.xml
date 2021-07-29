@@ -49,6 +49,7 @@
     <string name="failure">실패</string>
     <string name="hide_mode_desc">앱이 백그라운드에서 실행되면 배터리 사용을 줄이기 위해 활동을 모니터링합니다. 이 함수는 %s에 따라 사용자 데이터를 가져와 사용합니다.</string>
     <string name="hide_system_app">시스템 앱 숨기기</string>
+	<string name="high_temp_benchmark_state_message">"기기가 매우 뜨거운 것 같습니다. 기기 식은 후 이 앱을 사용하세요: "</string>
     <string name="high_temp_state">과열 경고</string>
     <string name="high_temp_state_message">기기가 과열되었습니다. 모바일 데이터, 모바일 핫스팟, GPS 및 카메라가 사용제한됩니다.</string>
     <string name="hints_loading_text">잠시만 기다리세요.…</string>

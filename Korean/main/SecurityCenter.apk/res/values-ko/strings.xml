@@ -4589,4 +4589,31 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="ew_monitor_title">지진 모니터링 자원 봉사자</string>
     <string name="ew_monitor_title_spilt">"지진 모니터링
  자원 봉사자"</string>
+	<string name="antivirus_riskapp_title">위험 가능성</string>
+    <string name="apps_item_scan_risk_summary_installed">설치됨 | 위험</string>
+    <string name="apps_item_scan_risk_summary_uninstalled">APK | 위험</string>
+    <string name="apps_item_scan_virus_summary_installed">설치됨 | 바이러스</string>
+    <string name="apps_item_scan_virus_summary_uninstalled">APK | 바이러스</string>
+    <string name="apps_item_virus_ignore_text">무시</string>
+    <string name="risk_detail_app">위험 초래</string>
+    <string name="risk_detail_title">위험 가능성</string>
+    <string name="risk_info_title">설명</string>
+    <string name="risk_type_title">유형</string>
+    <string name="virus_app_delete_installed">삭제</string>
+    <string name="virus_app_delete_uninstalled">삭제</string>
+    <string name="virus_app_ignore">무시</string>
+    <string name="virus_app_size_text">크기: %s</string>
+    <string name="virus_app_type_installed">설치됨</string>
+    <string name="virus_app_type_uninstalled">APK</string>
+    <string name="virus_app_verison_text">버전: %s</string>
+    <string name="virus_clear_dialog_title">유해한 앱 삭제</string>
+    <string name="virus_detail_app">바이러스를 포함함</string>
+    <string name="virus_detail_title">바이러스</string>
+    <string name="virus_engine_choose_text">온라인 바이러스 정의</string>
+    <string name="virus_ignore_dialog_content">"앱 위험을 무시하면 더 이상 알림을 받지 않습니다."</string>
+    <string name="virus_ignore_dialog_no_remind">"다시 보지 않기"</string>
+    <string name="virus_ignore_dialog_title">위험 무시</string>
+    <string name="virus_info_title">설명</string>
+    <string name="virus_news_title">관련된 정보</string>
+    <string name="virus_type_title">유형</string>
 </resources>

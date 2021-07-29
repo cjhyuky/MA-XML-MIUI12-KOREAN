@@ -33,8 +33,8 @@
     <string name="downloading">다운로드 중…</string>
     <string name="early_morning">아침</string>
     <string name="enable_wifi_alert_cancel">취소</string>
-    <string name="enable_wifi_alert_message">MIUI+ Beta가 PC에 연결하려면 Wi-Fi가 필요합니다. 켜시겠습니까?</string>
-    <string name="enable_wifi_alert_message_china">MIUI+ Beta가 PC에 연결하려면 WLAN이 필요합니다. 켜시겠습니까?</string>
+	<string name="enable_wifi_alert_message">MIUI+가 Wi-Fi를 사용해 기기에 연결합니다. Wi-Fi를 켜시겠습니까?</string>
+    <string name="enable_wifi_alert_message_china">MIUI+가 WLAN을 사용해 기기에 연결합니다. WLAN을 켜시겠습니까?</string>
     <string name="enable_wifi_alert_ok">켜기</string>
     <string name="enable_wifi_alert_title">Wi-Fi 켜기</string>
     <string name="enable_wifi_alert_title_china">WLAN 켜기</string>
@@ -107,6 +107,7 @@
     <string name="notify_connected_message">이 PC를 통해 휴대전화와 파일을 주고 받거나 상호작용할 수 있습니다.</string>
     <string name="notify_connected_title">%1$s에 연결됨</string>
     <string name="ok">확인</string>
+	<string name="permission_access_nearby_device">주변 기기에 접근</string>
     <string name="preference_copied">\"%1$s\"이(가) 클립보드로 복사되었습니다.</string>
     <string name="privacy_all_purpose">MIUI+ Beta에 오신 것을 환영합니다! 이 앱은 휴대전화를 PC와 연결하여 하나의 작업 공간으로 결합합니다.</string>
     <string name="privacy_describe_change_wifi_state">Wi-Fi를 통해 기기를 연결하고 파일을 전송</string>
@@ -244,4 +245,18 @@
     <string name="settings_trusted_tips">블루투스와 Wi-Fi가 켜져 있고, 선택된 기기가 주변에 있으면 자동으로 연결됩니다.</string>
     <string name="worker_authorization_trusted">항상 연결</string>
     <string name="worker_authorization_trusted_only_once">이번만 연결</string>
+	<string name="clipboard_tip">%1$s에서 복사됨</string>
+    <string name="fullscreen_sink_activity_label">내 휴대전화</string>
+    <string name="settings_connect_pc_group">당신의 컴퓨터와 작동함</string>
+    <string name="settings_feature_intro">이 기능 정보</string>
+    <string name="settings_how_use">핸드오프 사용</string>
+    <string name="settings_pc_history_title">연결 기록</string>
+    <string name="settings_pc_trusted_title">자동으로 연결</string>
+    <string name="settings_pc_use_tile">이 기능 정보</string>
+    <string name="settings_scanner_summary">QR 코드를 사용해 MIUI+에 연결</string>
+    <string name="settings_trusted_tips_china">블루투스와 Wi-Fi가 켜졌을 때 자동으로 선택한 주변 기기에 연결</string>
+    <string name="softap_notification_action">연결</string>
+    <string name="softap_notification_message">사용 가능한 Wi-Fi 네트워크가 없습니다. 핫스팟에 연결하시겠습니까?</string>
+    <string name="softap_notification_message_china">사용 가능한 WLAN 네트워크가 없습니다. 핫스팟에 연결하시겠습니까?</string>
+    <string name="softap_notification_title">"%1$s의 핫스팟에 연결"</string>
 </resources>
