@@ -5211,6 +5211,7 @@ OTG는 10분 동안 사용하지 않으면 자동으로 꺼집니다.</string>
     <string name="owner_info_settings_title">잠금 화면 서명</string>
     <string name="owner_space">기본 공간</string>
     <string name="packages_subtitle">포함된 패키지</string>
+	<string name="pad_flash_drive_backup_enable">USB 드라이브를 사용해 항목 백업 또는 복구</string>
     <string name="page_layout_1">8월 16일, 일요일</string>
     <string name="page_layout_10">설정</string>
     <string name="page_layout_11">날씨</string>

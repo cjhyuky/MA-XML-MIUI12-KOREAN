@@ -59,7 +59,7 @@
     <string name="callUnanswered_forwarded">통화 응답이 없어 착신전환됨</string>
     <string name="caller_manage_header">전화 회의 %s회</string>
     <string name="incall_call_type_label_sip">인터넷 통화</string>
-    <string name="incoming_call_forwarded_title">수신 통화 착신전환</string>
+    <string name="incoming_call_forwarded_title">착신전환된 통화</string>
     <string name="call_title_redialing_with_times">%d번 재발신함</string>
     <string name="card_title_dialing">전화거는 중</string>
     <string name="card_title_conf_call">전화 회의</string>

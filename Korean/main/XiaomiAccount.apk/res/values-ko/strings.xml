@@ -104,6 +104,7 @@
     <string name="passport_error_empty_username">계정 ID를 입력하세요.</string>
     <string name="passport_error_invalid_phone_num">잘못된 전화번호</string>
     <string name="passport_error_empty_phone_num">전화번호 입력</string>
+	<string name="passport_error_user_agreement_error">먼저 이용 약관에 동의해주세요</string>
     <string name="passport_wrong_phone_number_format">입력한 전화번호의 형식이 올바르지 않습니다.</string>
     <string name="passport_error_empty_email">이메일 주소 입력</string>
     <string name="passport_error_email">입력한 이메일 주소가 올바르지 않습니다.</string>
