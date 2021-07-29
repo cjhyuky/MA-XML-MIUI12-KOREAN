@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>다시 시도</item>
+        <item></item>
+        <item></item>
+        <item>지문 스캐너에 손가락을 올리고 지그시 누르세요.</item>
+        <item></item>
+        <item>지문 스캐너에 손가락을 올리고 지그시 누르세요.</item>
+        <item>지문 스캐너를 닦고 다시 시도하세요.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>지문 스캐너에 손가락을 올리고 지그시 누르세요.</item>
+        <item>지문 스캐너에 손가락을 올리고 지그시 누르세요.</item>
+        <item>"너무 빠르게 움직였습니다. 지문을 인식할 수 없습니다."</item>
+        <item>손가락을 살짝 움직이고 다시 시도하세요.</item>
+        <item>손가락을 다시 올려두세요.</item>
+        <item>스캐너의 손가락을 조금 더 길게 유지하세요.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>손가락을 살짝 움직이세요.</item>
+        <item>이 지문이 추가되었습니다. 다른 손가락을 사용하세요.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Mi 계정으로 로그인</item>
+        <item>파일 미리보기, 업로드, 다운로드, 동기화</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Mi 계정으로 로그인</item>
+        <item>파일 미리보기, 업로드, 다운로드, 동기화</item>
+        <item>업데이트 확인</item>
+    </string-array>
+</resources>

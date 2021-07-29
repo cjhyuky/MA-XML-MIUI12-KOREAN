@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
+    <string-array name="education">
+        <item>중학교</item>
+        <item>초등학교</item>
+        <item>고등학교</item>
+        <item>직업학교</item>
+        <item>학사 학위</item>
+        <item>석사 학위</item>
+        <item>박사 학위</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>"> 12000"</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority">
+        <item>계정</item>
+        <item>타사 계정 추가 및 관리</item>
+        <item>인증;계정;Mi 계정;추가;페어링;Xiaomi;표시;SNS;Google;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>계정</item>
+        <item>타사 계정 추가 및 관리</item>
+        <item>인증;계정;Mi 계정;추가;페어링;Xiaomi;표시;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+</resources>

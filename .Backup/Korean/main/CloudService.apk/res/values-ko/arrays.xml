@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>연락처, 메시지, 메모, 캘린더 등을 동기화</item>
+        <item>앱, 홈 화면 구성 및 배경화면 백업</item>
+        <item>Wi-Fi 및 디스플레이를 포함한 중요 설정 백업</item>
+        <item>"기기를 분실한 경우 원격으로 기기 잠금"</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Wi-Fi 설정 Xiaomi 클라우드에 동기화</item>
+        <item>동기화 켜기</item>
+        <item>Wi-Fi;wifi;Wi-Fi;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+         <item>연락처, 메시지, 메모, 캘린더, 등 동기화</item>
+         <item>앱, 홈 화면 구성, 배경화면을 백업</item>
+         <item>Wi-Fi와 디스플레이 같은 중요한 설정을 백업</item>
+         <item>"기기를 분실했다면 원격으로 기기 잠그기"</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+         <item>앱 데이터 동기화</item>
+         <item>홈 화면 구성 백업</item>
+         <item>시스템 설정 백업</item>
+         <item>기기 찾기</item>
+    </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>항목 동기화 권한</item>
+        <item>메시지 동기화 권한</item>
+        <item>연락처 동기화 권한</item>
+        <item>캘린더 일정 동기화 권한</item>
+        <item>저장공간 항목 동기화 권한</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>통화</item>
+        <item>메시지</item>
+        <item>연락처</item>
+        <item>캘린더</item>
+        <item>저장공간</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Xiaomi 클라우드 연락처 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>연락처;통화 기록;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Xiaomi 클라우드 메시지 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>메시지;SMS;MMS;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Xiaomi 클라우드 갤러리 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>갤러리;사진;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Xiaomi 클라우드 통화 기록 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>통화 기록;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Xiaomi 클라우드 음성 녹음 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>음성 녹음;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Xiaomi 클라우드 음악 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>음악;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Xiaomi 클라우드 메모장 동기화</item>
+        <item>동기화 켜기/설정</item>
+        <item>메모장;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Xiaomi 클라우드 Wi-Fi 설정 동기화</item>
+        <item>동기화 켜기</item>
+        <item>WLAN;wifi;WLAN;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Xiaomi 클라우드 캘린더 동기화</item>
+        <item>동기화 켜기</item>
+        <item>캘린더;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Xiaomi 클라우드 브라우저 동기화</item>
+        <item>동기화 켜기</item>
+        <item>브라우저;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>보안 설정 클라우드 동기화</item>
+        <item>동기화 켜기</item>
+        <item>보안;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Xiaomi 클라우드 퀵 카드 동기화</item>
+        <item>동기화 켜기</item>
+        <item>퀵 카드;카드;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>빠른 답장 동기화</item>
+        <item>동기화 켜기</item>
+        <item>빠른 답장;클립보드;에디터;클라우드;동기화;클라우드 서비스</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Xiaomi 클라우드. 모든 Mi 서비스를 한곳에서.</item>
+        <item>어디서나 사진, 연락처, 메시지 및 기기에 접근하세요.</item>
+        <item>저장공간 부족;멤버쉽;저장공간;저장공간;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드;휴지통;삭제된 항목;보안</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>기기 찾기</item>
+        <item>"분실 시 기기 잠금 및 데이터 삭제"</item>
+        <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>기기 찾기</item>
+        <item>"분실 시 기기 잠금 및 데이터 삭제"</item>
+        <item>기기 찾기;분실;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Xiaomi 클라우드에서 삭제된 항목</item>
+        <item>연락처, 사진, 메시지 등을 복원하세요.</item>
+        <item>휴지통;삭제된 항목;휴지통;복원;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Xiaomi 클라우드 멤버쉽</item>
+        <item>멤버쉽을 업그레이드하고 더 많은 저장공간을 확보하여 데이터를 보호하세요.</item>
+        <item>저장용량 부족;멤버쉽;저장공간;저장 공간;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드;메가;울트라;VIP;백업;백업;복원;휴지통;삭제된 항목;휴지통</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Xiaomi 클라우드에 홈 화면 백업</item>
+        <item>홈 화면 구성, 설치된 앱 목록 및 시스템 설정 백업</item>
+        <item>클라우드;백업;백업;클라우드 서비스;Xiaomi 클라우드;홈 화면;구성;앱;설정;백업 주기;백업 관리;복원</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>백업</item>
+        <item>백업된 항목</item>
+        <item>클라우드;백업;백업;클라우드 서비스;Xiaomi 클라우드;홈 화면;구성;앱;백업 관리;복원</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Xiaomi 클라우드에서 항목 복원</item>
+        <item>백업된 항목을 기기에 다운로드</item>
+        <item>클라우드;백업;백업;복원;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+    <string-array name="user_detail_fixed_items">
+        <item>동기화된 항목 보기</item>
+        <item>저장소 세부사항</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>일정 동기화용</item>
+        <item>메시지 동기화용</item>
+        <item>메시지 동기화용</item>
+        <item>연락처 동기화용</item>
+        <item>연락처 동기화용</item>
+        <item>기기에 항목 저장용(예. 사진, 영상, 노래)</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>기기 식별용</item>
+        <item>기기를 찾고 분실 모드로 전환용</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>연락처, 메시지, 메모, 캘린더 등을 동기화하세요.</item>
+        <item>앱, 홈 화면 구성, 배경화면을 백업하세요.</item>
+        <item>Wi-Fi 및 디스플레이를 포함한 중요한 설정을 백업하세요.</item>
+        <item>기기 분실 시 원격으로 잠그세요.</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>연락처, 메시지, 메모, 캘린더 등을 동기화하세요.</item>
+        <item>앱, 홈 화면 구성, 배경화면을 백업하세요.</item>
+        <item>Wi-Fi 및 디스플레이를 포함한 중요한 설정을 백업하세요.</item>
+        <item>기기 분실 시 원격으로 잠그세요.</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Xiaomi 클라우드 메모 동기화</item>
+        <item>동기화 켜기</item>
+        <item>메모;클라우드;동기화;클라우드 서비스;Xiaomi 클라우드</item>
+    </string-array>
+</resources>

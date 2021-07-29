@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add_More_Ringtones">추가 벨소리…</string>
+    <string name="uid_label">미디어</string>
+    <string name="app_label">미디어 저장소</string>
+    <string name="upgrade_msg">미디어 데이터베이스 업그레이드 중</string>
+    <string name="artist_label">아티스트</string>
+    <string name="ringtone_default">기본 벨소리</string>
+    <string name="notification_sound_default">기본 알림 소리</string>
+    <string name="alarm_sound_default">기본 알람 소리</string>
+    <string name="root_images">이미지</string>
+    <string name="root_videos">동영상</string>
+    <string name="root_audio">오디오</string>
+    <string name="delete_ringtone_text">삭제</string>
+    <string name="sound_name_rise">올리기</string>
+    <string name="storage_description">내부 저장소</string>
+    <string name="add_ringtone_text">벨소리 추가</string>
+    <string name="sound_name_awaken">알람</string>
+    <string name="sound_name_bounce">바운스</string>
+    <string name="sound_name_drip">드립</string>
+    <string name="sound_name_gallop">갤럽</string>
+    <string name="sound_name_nudge">찌릿한</string>
+    <string name="sound_name_orbit">천체</string>
+    <string name="sound_name_sway">동요</string>
+    <string name="sound_name_wag">춤</string>
+    <string name="unable_to_add_ringtone">사용자 지정 벨소리를 추가할 수 없습니다.</string>
+    <string name="unable_to_delete_ringtone">사용자 지정 벨소리를 제거할 수 없습니다.</string>
+    <string name="add_alarm_text">알람 추가</string>
+    <string name="add_notification_text">알림 추가</string>
+    <string name="grant_dialog_button_allow">허용</string>
+    <string name="grant_dialog_button_deny">거부</string>
+    <string name="permission_audio">이 음악을 수정하거나 삭제하도록 ^1을 허용하시겠습니까?</string>
+    <string name="permission_images">이 이미지를 수정하거나 삭제할 수 있도록 ^1을 허용하시겠습니까?</string>
+    <string name="permission_required">이 항목을 수정하거나 삭제하려면 권한이 필요합니다.</string>
+    <string name="permission_required_action">계속</string>
+    <string name="permission_video">이 동영상을 수정하거나 삭제할 수 있도록 ^1을 허용하시겠습니까?</string>
+</resources>

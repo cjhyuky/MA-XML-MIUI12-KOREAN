@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_mirror">
+        <item>MIUI+ Beta</item>
+        <item>연결 &amp; 공유/MIUI+ Beta</item>
+        <item>Screen Combo;멀티스크린;화면 미러링;PC;컴퓨터;미러링;MIUI+</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. 이 기능을 사용하려면 먼저 모바일 핫스팟, Mi Share, 화면 전송을 끄세요.
+2. 모바일 기기와 PC 모두 Wi-Fi를 끕니다.
+3. 모바일 기기를 PC 가까이에 위치하세요."</item>
+        <item>PC가 블루투스를 사용하여 이전에 연결했던 모바일 기기를 검색합니다. 모바일 기기에서 블루투스가 켜져 있는지 확인하세요.</item>
+        <item>"모바일 기기의 화면이 잠겨있을 때는 PC와 데이터를 동기화할 수 없습니다. 이 앱은 모바일 기기가 PC에 연결되어 있을 시 기본적으로 화면이 잠기지 않도록 합니다. 이 옵션은 설정에서 변경할 수 있습니다."</item>
+        <item>"1. 일부 Xiaomi 휴대전화는 Android Q 이상 OS에서 MIUI+ Beta를 지원합니다. QR 코드를 스캔한 후 MIUI 웹사이트가 열린다면, 이 기기는 아직 지원 대상이 아닙니다.
+2. PC에서 MIUI+ Beta를 사용하려면 최신 버전의 Mi Smart Share를 먼저 설치하세요."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"QR 코드로 연결할 수 없나요?"</item>
+        <item>"PC에서 모바일 기기를 찾을 수 없나요?"</item>
+        <item>"모바일 기기를 잠글 수 없나요?"</item>
+        <item>호환성</item>
+    </string-array>
+</resources>

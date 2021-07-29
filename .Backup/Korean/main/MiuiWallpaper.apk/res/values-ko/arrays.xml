@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>고향</item>
+        <item>배경화면/슈퍼 배경화면/고향</item>
+        <item>지구;슈퍼 배경화면;지구 에디션;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>기하학</item>
+        <item>배경화면/슈퍼 배경화면/기하학</item>
+        <item>기하학;추상;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>붉은 행성</item>
+        <item>배경화면/슈퍼 배경화면/붉은 행성</item>
+        <item>화성;화성 에디션;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>토성 고리</item>
+        <item>배경화면/슈퍼 배경화면/토성 고리</item>
+        <item>행성;토성;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>눈 덮인 산봉우리</item>
+        <item>배경화면/슈퍼 배경화면/눈 덮인 산봉우리</item>
+        <item>지구;산;슈퍼 배경화면;배경화면</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>슈퍼 배경화면</item>
+        <item>배경화면/슈퍼 배경화면</item>
+        <item>슈퍼 배경화면;배경화면;다이내믹 배경화면;3D 배경화면</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>날씨</item>
+        <item>배경화면/슈퍼 배경화면/날씨</item>
+        <item>날씨;날씨 정보;슈퍼 배경화면;배경화면</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="add">추가</string>
+    <string name="app_name">Xiaomi.eu 부가 기능</string>
+    <string name="confirm_reset">초기화 확인</string>
+    <string name="confirm_reset_message">기본 앱으로 초기화하시겠습니까?</string>
+    <string name="contributors">도움을 주신 분들</string>
+    <string name="delete">삭제</string>
+    <string name="hide_apps_close">표시되는 앱 아이콘</string>
+    <string name="hide_apps_open">숨겨진 앱 아이콘</string>
+    <string name="home_hide_apps">앱 아이콘 숨기기</string>
+    <string name="home_search_bar_app">검색 바 제공자</string>
+    <string name="home_search_gesture_app">쓸어올려 검색 제공자</string>
+    <string name="loading">잠시만 기다리세요…</string>
+    <string name="lockscreen_side_apps">사이드 패널 바로가기</string>
+    <string name="no_apps">앱이 없습니다.</string>
+    <string name="reset">초기화</string>
+    <string name="select_app">앱을 선택하세요.</string>
+    <string name="select_apps">앱을 선택하세요.</string>
+</resources>
