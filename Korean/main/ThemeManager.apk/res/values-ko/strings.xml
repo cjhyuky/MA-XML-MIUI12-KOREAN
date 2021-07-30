@@ -1140,7 +1140,7 @@ EEE"</string>
     <string name="detail_author_works">"항목: "</string>
     <string name="detail_reward_alert">유능한 디자이너의 작업에 대한 보상</string>
     <string name="detail_reward_build_order_error">"주문을 생성할 수 없습니다. 1~2분 정도 기다렸다가 다시 시도하세요."</string>
-    <string name="detail_reward_custom_amount">맞춤 금액</string>
+    <string name="detail_reward_custom_amount">세금 양</string>
     <string name="detail_reward_duplicate_order_error">시도 횟수가 너무 많습니다. 1~2분 정도 기다렸다가 다시 시도하세요.</string>
     <string name="detail_reward_exceed_limit">보상은 최대 200CNY까지 가능합니다.</string>
     <string name="detail_reward_know_it">확인했습니다</string>
