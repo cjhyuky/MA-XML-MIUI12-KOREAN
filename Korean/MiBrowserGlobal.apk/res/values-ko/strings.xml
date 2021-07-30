@@ -166,7 +166,6 @@
     <string name="aqi_quality_index_pure">Excellent</string>
     <string name="aqi_quality_index_unhealthy">Unhealthy</string>
     <string name="articles_collection_empty">No articles here yet</string>
-    <string name="at_miui_browser">@string/mi_browser</string>
     <string name="auth_fail_warning">Session expired. Sign in again.</string>
     <string name="autoSwithcingSearchEngineTips">Switched to the frequent search engine</string>
     <string name="autologin_bar_error">"Couldn't sign in"</string>
@@ -1000,7 +999,6 @@ Send this code to the supervisor."</string>
     <string name="menu_title_open_file_management">Open File Manager</string>
     <string name="menu_title_pause_all">Pause all</string>
     <string name="menu_title_resume_all">Start all</string>
-    <string name="mi_browser">@string/application_name</string>
     <string name="midnight">Night</string>
     <string name="mint_games">Trending games</string>
     <string name="miui_autologin_bar_error">"Can't sign in"</string>
@@ -1636,7 +1634,6 @@ Leave this page now?"</string>
     <string name="pref_content_night_read_mode">Night mode</string>
     <string name="pref_content_search_engine">Search engine in address bar</string>
     <string name="pref_content_search_engine_summary">Choose a search engine</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_value_always">ALWAYS</string>
     <string name="pref_data_preload_value_never">NEVER</string>
     <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -1662,14 +1659,12 @@ Leave this page now?"</string>
     <string name="pref_force_userscalable">Force zoom</string>
     <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behavior"</string>
     <string name="pref_general_title">General</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_value_always">2</string>
     <string name="pref_images_preload_value_never">0</string>
     <string name="pref_images_preload_value_wifi_only">1</string>
     <string name="pref_js_downloader">Download images and videos</string>
     <string name="pref_js_downloader_detail">Display a download button on images and videos from social media websites</string>
     <string name="pref_key_gesture_title">Buttons &amp; gestures</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_value_always">ALWAYS</string>
     <string name="pref_link_prefetch_value_never">NEVER</string>
     <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -1781,7 +1776,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="pref_title_dns_prefetch">DNS prefetching</string>
     <string name="pref_ua_string">User agent string</string>
     <string name="pref_version_info">Version info</string>
-    <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
     <string name="pref_video_preload_value_always">ALWAYS</string>
     <string name="pref_video_preload_value_never">NEVER</string>
     <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
