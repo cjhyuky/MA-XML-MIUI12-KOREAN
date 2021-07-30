@@ -1188,7 +1188,6 @@ EEE"</string>
     <string name="font_compat_dialog_buy_content">타사 글꼴은 일부 앱에서 지원되지 않을 수 있습니다. 이 호환성 문제는 향후 시스템 업데이트로 수정될 예정입니다. 
 그래도 이 글꼴을 구입하시겠습니까?</string>
     <string name="font_compat_dialog_cancel">취소</string>
-    <string name="font_compat_dialog_download_confirm">
     <string name="font_compat_dialog_download_content">타사 글꼴은 일부 앱에서 지원되지 않을 수 있습니다. 이 호환성 문제는 향후 시스템 업데이트로 수정될 예정입니다. 
 그래도 이 글꼴을 다운로드하시겠습니까?</string>
     <string name="font_compat_dialog_title">호환성 문제</string>
