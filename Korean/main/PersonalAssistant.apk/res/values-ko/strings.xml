@@ -2355,4 +2355,10 @@
     <string name="wednesday">수요일</string>
     <string name="wednesday_short">수</string>
     <string name="wednesday_shortest">수</string>
+    <string name="app_olympic_card_service_des">실시간으로 업데이트되는 순위</string>
+    <string name="app_olympic_card_service_title">올림픽 메달 순위</string>
+    <string name="app_olympic_card_title">올림픽 메달 순위</string>
+    <string name="app_olympic_card_title_info">제3자 제공 데이터로 지연될 수 있음</string>
+    <string name="app_olympic_gold_medal_country_region">국가</string>
+    <string name="app_olympic_gold_medal_total">합계</string>
 </resources>
