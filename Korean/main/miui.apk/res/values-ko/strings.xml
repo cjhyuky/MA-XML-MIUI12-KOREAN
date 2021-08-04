@@ -290,6 +290,9 @@
     <string name="device_status_sending">전송 중…</string>
     <string name="device_status_success">전송 완료</string>
     <string name="device_status_waiting">대기 중…</string>
+	<string name="dialog_airplane_mode_button">설정</string>
+    <string name="dialog_airplane_mode_content">"비행기 모드가 켜져있으면 Mi Mover 가 작동할 수 없습니다. 먼저 비행기 모드를 꺼주세요."</string>
+    <string name="dialog_airplane_mode_title">비행기 모드 끄기</string>
     <string name="do_not_restore_temporarily">지금은 아닙니다.</string>
     <string name="download_right_now">다운로드</string>
     <string name="drag_failed_because_baby_album_cant_sort">"아기 앨범은 삭제할 수 없습니다."</string>

@@ -9610,4 +9610,12 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="yesterday">어제</string>
 	<string name="disable_quick_start">빠른 시작 끄기</string>
     <string name="enable_quick_start">빠른 시작 켜기</string>
+	<string name="headset_head_tracking_desc">머리 움직임에 따라 서라운드 사운드를 조정합니다</string>
+    <string name="headset_head_tracking_title">머리 움직임 추적</string>
+    <string name="stylus_ota_check_failed_battery">"확인할 수 없습니다. 스타일러스 배터리 잔량이 적습니다."</string>
+    <string name="stylus_ota_check_failed_info">"펌웨어 버전을 확인할 수 없습니다. 스타일러스를 다시 부착해주세요."</string>
+    <string name="surround_sound_all_desc">이어폰과 스피커 사운드에 깊이를 더합니다</string>
+    <string name="surround_sound_only_headset_desc">이어폰 사운드에 깊이를 더합니다</string>
+    <string name="surround_sound_only_speaker_desc">스피커 사운드에 깊이를 더합니다</string>
+    <string name="surround_sound_title">서라운드 사운드</string>
 </resources>

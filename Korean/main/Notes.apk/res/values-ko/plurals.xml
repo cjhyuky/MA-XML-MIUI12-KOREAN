@@ -32,40 +32,35 @@
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d일 후</item>
-        <item quantity="one">%1$d일 후</item>
     </plurals>
     <plurals name="date_calculate_days_ago">
         <item quantity="other">%1$d일 전</item>
-        <item quantity="one">%1$d일 전</item>
     </plurals>
     <plurals name="todo_N_days_after">
         <item quantity="other">%1$d일간</item>
-        <item quantity="one">%1$d일간</item>
     </plurals>
     <plurals name="todo_N_days_ago">
         <item quantity="other">%1$d일 전</item>
-        <item quantity="one">%1$d일 전</item>
     </plurals>
     <plurals name="todo_alert_message_delete">
         <item quantity="other">%1$s 작업을 삭제하시겠습니까?</item>
-        <item quantity="one">%1$s 작업을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="todo_event_description_days_ago">
         <item quantity="other">%1$d일 전</item>
-        <item quantity="one">%1$d일 전</item>
     </plurals>
     <plurals name="todo_event_description_days_later">
         <item quantity="other">%1$d일간</item>
-        <item quantity="one">%1$d일간</item>
     </plurals>
     <plurals name="todo_terms">
         <item quantity="other">%1$s 작업</item>
-        <item quantity="one">%1$s 작업</item>
     </plurals>
     <plurals name="pc_notes_search_result">
         <item quantity="other">%1$s개의 메모를 찾았습니다</item>
     </plurals>
     <plurals name="pc_todo_search_result">
         <item quantity="other">%1$s개의 할일을 찾았습니다</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">새 알림 %d개</item>
     </plurals>
 </resources>

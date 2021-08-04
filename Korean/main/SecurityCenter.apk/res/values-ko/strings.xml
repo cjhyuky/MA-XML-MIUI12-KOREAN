@@ -4616,4 +4616,13 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="virus_info_title">설명</string>
     <string name="virus_news_title">관련된 정보</string>
     <string name="virus_type_title">유형</string>
+	<string name="wireless_charging_connected_message">"기기가 무선 충전을 하는 동안 무선 전원 공유를 사용할 수 없습니다."</string>
+    <string name="wireless_charging_fg_control_cancel">취소</string>
+    <string name="wireless_charging_fg_control_messgae">"배터리 잔량이 %s보다 적어 무선 전원 공유가 꺼졌습니다. 설정에서 무선 전원 공유 허용 범위를 조정할 수 있습니다."</string>
+    <string name="wireless_charging_fg_control_ok">조정</string>
+    <string name="wireless_charging_low_battery_level_message">"배터리가 %s보다 적게 충전되었을 때 무선 전원 공유를 사용할 수 없습니다."</string>
+    <string name="wireless_charging_ok">확인</string>
+    <string name="wireless_charging_saver_cancel">끄기</string>
+    <string name="wireless_charging_saver_message">절전 모드가 켜져 있습니다. 무선 전원 공유를 사용하시겠습니까?</string>
+    <string name="wireless_charging_saver_ok">사용</string>
 </resources>

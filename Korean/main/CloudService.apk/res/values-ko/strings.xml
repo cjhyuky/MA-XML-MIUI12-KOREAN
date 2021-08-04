@@ -183,7 +183,7 @@
   <string name="find_device_service_title">기기 찾기</string>
   <string name="find_device_status_ok">i.mi.com 어디서나 기기 찾기</string>
   <string name="find_device_status_ok_international">www.mi.com/micloud에서 기기 찾기</string>
-  <string name="find_device_status_summary">기기를 찾아서 잠그고 원격으로 데이터를 지 웁니다.</string>
+  <string name="find_device_status_summary">기기의 위치를 찾고, 잠그고, 데이터를 지우고, 원격으로 사진을 촬영합니다</string>
   <string name="find_device_status_title_pad">기기 찾기</string>
   <string name="find_device_status_title_phone">기기 찾기</string>
   <string name="find_device_success_title">기기 찾기</string>
@@ -379,7 +379,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
   <string name="micloud_dspt_provision_v2">Xiaomi 클라우드를 이용해 데이터를 동기화하고, 기기 위치를 찾고, 친구와 자료를 공유하세요.</string>
   <string name="micloud_dspt_provision_xms">Xiaomi 클라우드를 사용하여 데이터 동기화</string>
   <string name="micloud_dspt_provision_xms_china">Xiaomi 클라우드를 사용하여 데이터를 동기화합니다.</string>
-  <string name="micloud_find_device_close_alert_content">"이 기능을 해제하면 기기를 분실했을 경우 위치를 찾을 수 없습니다."</string>
+  <string name="micloud_find_device_close_alert_content">"기기 찾기를 꺼짐으로 설정하면 이 기능을 사용하여 기기의 위치를 찾을 수 없게 됩니다. 위치 공유가 설정된 사람들은 더 이상 최신 위치 정보를 받을 수 없습니다."</string>
   <string name="micloud_find_device_close_alert_negtive">그래도 끄기</string>
   <string name="micloud_find_device_close_alert_positive">끄지않기</string>
   <string name="micloud_find_device_close_alert_title">기기 찾기를 끄시겠습니까?</string>
@@ -410,7 +410,7 @@ Xiaomi 클라우드를 다시 활성화하세요."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat은 기기 찾기 활성화를 권장합니다.</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay는 기기 찾기 활성화를 권장합니다.</string>
   <string name="micloud_find_device_guide_progress">기기 찾기 켜는 중…</string>
-  <string name="micloud_find_device_guide_title">기기를 찾거나 잠그거나 지우려면 i.mi.com에 로그인하세요. 분실한 경우 기기를 찾는데 도움이 될 수 있습니다.</string>
+  <string name="micloud_find_device_guide_title">&lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> 에서 Mi 계정으로 로그인해 내 기기의 위치를 찾고, 잠그고, 분실 상태로 표시하고, 데이터를 지우고, 원격으로 사진을 촬영할 수 있습니다. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>여기&lt;/a>에서 자세한 정보를 볼 수 있습니다.</string>
   <string name="micloud_find_device_open_fail">기기 찾기를 켤 수 없습니다.</string>
   <string name="micloud_find_device_opened">기기 찾기 켜짐</string>
   <string name="micloud_find_device_opened_content">%s에서 기기를 찾기</string>

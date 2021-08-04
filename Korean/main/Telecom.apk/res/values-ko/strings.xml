@@ -746,4 +746,5 @@
     <string name="zen_mode_forever">끄기 전까지</string>
     <string name="notification_incallservice_not_responding_body">기기 기본 휴대전화 앱을 사용했습니다.</string>
     <string name="notification_incallservice_not_responding_title">%s 응답 없음</string>
+	<string name="notification_channel_missed_call_DND">방해 금지</string>
 </resources>

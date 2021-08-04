@@ -28,6 +28,9 @@
     <string name="abc_shareactionprovider_share_with_application">%s과(와) 공유</string>
     <string name="abc_toolbar_collapse_description">접기</string>
     <string name="accessibility_back">뒤로</string>
+	<string name="accessibility_description_hours">시간</string>
+    <string name="accessibility_description_minutes">분</string>
+    <string name="accessibility_description_seconds">초</string>
     <string name="accessibility_desc_close">닫기</string>
     <string name="accessibility_desc_edit">편집</string>
     <string name="accessibility_menu">메뉴</string>
