@@ -9538,6 +9538,12 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="stylus_ota_serial_number">일련 번호</string>
     <string name="stylus_ota_update">업데이트</string>
     <string name="stylus_ota_updating">업데이트</string>
+	<string name="stylus_ota_completed">업데이트 완료</string>
+    <string name="stylus_ota_completed_tip">펌웨어 업데이트를 완료했습니다. 스타일러스를 부착해 연결하세요.</string>
+    <string name="stylus_ota_firmware_info">펌웨어</string>
+    <string name="stylus_ota_hava_new_version">"새 버전: "</string>
+    <string name="stylus_ota_net_error">"업데이트를 확인할 수 없습니다. 네트워크에 연결한 후 다시 시도해주세요."</string>
+    <string name="stylus_ota_demands">"업데이트가 진행되는 동안 블루투스를 끄지 말아주세요. 배터리 잔량이 %1$s 미만이 되지 않도록 해주세요."</string>
     <string name="subscreen_title">후면 디스플레이</string>
     <string name="sunday">일요일</string>
     <string name="sunday_short">일</string>

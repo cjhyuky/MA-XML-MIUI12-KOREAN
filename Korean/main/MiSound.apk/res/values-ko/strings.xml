@@ -262,4 +262,7 @@
     <string name="wireless_transmission_confirm">지금 열기</string>
     <string name="wireless_transmission_definition">휴대전화 마이크로 수집된 소리가 블루투스 기기로 전송되어 재생됩니다.</string>
     <string name="wireless_transmission_prompt">무선 소리 전송을 사용하려면 블루투스를 켜야 합니다. 켜시겠습니까?</string>
+	<string name="effect_3dsurround">서라운드 사운드</string>
+	<string name="effect_3dsurround_summary">이어폰과 스피커 사운드에 깊이를 더합니다</string>
+	<string name="effect_3dsurround_summary_headphone">이어폰 사운드에 깊이를 더합니다</string>
 </resources>
