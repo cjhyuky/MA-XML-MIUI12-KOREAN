@@ -929,4 +929,5 @@ Mi AI에게 말해보세요."</string>
     <string name="you_have_permission_to_download">탭하여 베타 버전 다운로드</string>
     <string name="you_id">"사용자의 ID: "</string>
     <string name="your_application_is_under_review">" (신청을 검토하고 있습니다.)"</string>
+    <string name="hint_no_permissions_text">설정 버튼을 클릭한 후 권한 관리로 진입하면 카메라와 휴대폰의 저장 권한을 허용하시면 정상적으로 사용 가능합니다. 스캔해보세요.</string>
 </resources>
