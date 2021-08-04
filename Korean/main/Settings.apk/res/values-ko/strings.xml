@@ -7256,7 +7256,6 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="structure_face_data_introduction_title">3D 얼굴 데이터 추가</string>
     <string name="structure_face_data_ir_input_face">머리를 약간 움직입니다.</string>
     <string name="structure_face_data_manage_delete_msg">3D 얼굴 데이터 삭제</string>
-	<string name="face_data_suggesstion_second">"얼굴의 모든 부분이 명확하게 보이도록 해주세요. 얼굴을 가릴 수 있는 액세서리를 착용하지 마세요. 얼굴에 고르게 빛을 비추고, 직사광선을 피하세요."</string>
     <string name="structure_face_data_suggestion_text">"얼굴의 모든 부분이 선명하게 보이는지 확인하세요. 3D 얼굴 데이터를 기록하는 동안 얼굴을 덮을 수 있는 모자, 선글라스 또는 기타 액세서리를 착용하지 마세요. 글쎄요. "</string>
     <string name="structure_face_data_suggestion_warning_text">참고 : 3D 얼굴 데이터를 사용하는 것이 비밀번호를 사용하는 것보다 약간 덜 안전합니다. 사람이나 사물이 많이 생겨 기기를 잠금해제할 수 있습니다.</string>
     <string name="structure_face_delete_data_dialog_msg">"카메라를 시작하고 미리보기를 할 수 없습니다. 다시 시도하세요."</string>
