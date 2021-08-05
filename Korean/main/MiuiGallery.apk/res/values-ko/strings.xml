@@ -3008,7 +3008,6 @@
     <string name="magic_value_exceed">입력한 값이 한도를 초과했습니다.</string>
     <string name="magic_video_cut_max">최대 %1$d초 선택</string>
     <string name="magic_video_cut_min">최소 %1$d초 선택</string>
-    <string name="magic_video_long_press">& 길게 눌러 추가</string>
     <string name="magic_video_make">시작</string>
     <string name="magic_video_soundtrack">배경음악</string>
     <string name="magic_video_soundtrack_is_turned_off">원본 사운드 끄기</string>
