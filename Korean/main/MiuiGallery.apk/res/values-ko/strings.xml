@@ -2884,7 +2884,6 @@
     <string name="filter_portrait_mojito">모히토</string>
     <string name="filter_portrait_waterblue">아쿠아마린</string>
     <string name="filter_sky_dynamic_text_yanhua">텍스트</string>
-    <string name="filter_sky_huanxia">꿈</string>
     <string name="filter_sky_random_download_failed">"다운로드할 수 없습니다. 오류 코드: "</string>
     <string name="filter_sky_text_yanhua">텍스트</string>
     <string name="filter_sky_xingye">별이 빛나는 밤</string>
@@ -2893,7 +2892,6 @@
     <string name="filter_travel_charlotte">샬롯</string>
     <string name="frame_color_selector_talkback_hide">색상 선택기 숨기기</string>
     <string name="frame_color_selector_talkback_show">색상 선택기 표시</string>
-    <string name="gif_tip">GIF</string>
     <string name="hello_blank_fragment">안녕하세요</string>
     <string name="hisense">하이센스</string>
     <string name="hisense_phone">하이센스</string>
@@ -3014,14 +3012,12 @@
     <string name="magic_video_soundtrack_is_turned_on">원본 사운드 켜기</string>
     <string name="magic_width">폭</string>
     <string name="magic_zidiyi">맞춤형</string>
-    <string name="mark_myself_default_name">나</string>
     <string name="meizu">메이즈</string>
     <string name="meizu_phone">메이즈</string>
     <string name="menu_detail_sort_create_date">생성됨</string>
     <string name="menu_detail_sort_name">파일 이름</string>
     <string name="menu_detail_sort_size">파일 크기</string>
     <string name="menu_detail_sort_update_date">최종 업데이트</string>
-    <string name="messagelist_sender_self">나</string>
     <string name="mishare_all_devices">모든 기기</string>
     <string name="muix_appcompat_deselect_all">선택 해제</string>
     <string name="muix_appcompat_select_all">모두 선택</string>
@@ -3042,7 +3038,6 @@
     <string name="mosaic_item_talkback_effect8">꽃</string>
     <string name="mosaic_item_talkback_effect9">별</string>
     <string name="mosaic_item_talkback_eraser">지우개</string>
-    <string name="movie_audio_dream">꿈</string>
     <string name="movie_audio_local_cd">로컬 오디오</string>
     <string name="movie_audio_no_cd">사운드트랙 없음</string>
     <string name="movie_edit_photo">사진</string>
@@ -3081,8 +3076,6 @@
     <string name="photo_editor_talkback_crop_scale_default_value">회전이 적용되기 전의 기본값은 0도입니다.</string>
     <string name="photo_editor_talkback_crop_scale_value">%d도 회전</string>
     <string name="photo_editor_talkback_crop_view">이미지 자르기</string>
-    <string name="photo_editor_talkback_doodle_circular">원</string>
-    <string name="photo_editor_talkback_doodle_line">라인</string>
     <string name="photo_editor_talkback_random_icon">랜덤 스카이 필터</string>
     <string name="photo_editor_talkback_seekbar">렌더링 효과</string>
     <string name="photo_editor_talkback_sky_add_text">텍스트 추가</string>
@@ -3108,9 +3101,8 @@
     <string name="samsung_phone">삼성폰</string>
     <string name="see_more_settings">추가 설정</string>
     <string name="send">보내기</string>
-    <string name="share_and_delete_screenshot">공유 ​​후 삭제</string>
+    <string name="share_and_delete_screenshot">공유 후 삭제</string>
     <string name="sticker_clear">지우기</string>
-    <string name="sticker_spring">봄</string>
     <string name="sticker_tab_talkback_art">아트</string>
     <string name="sticker_tab_talkback_cat">고양이</string>
     <string name="sticker_tab_talkback_children">"어린이날"</string>
@@ -3251,9 +3243,6 @@
     <string name="toast_download_with_metered_network_msg">"기기가 Wi-Fi에 연결되어 있지 않은 것 같습니다. 모바일 데이터를 사용하여 항목을 다운로드하시겠습니까?"</string>
     <string name="toast_download_with_metered_network_title">데이터 사용 경고</string>
     <string name="unsupport_image">"%s은(는) 이미지를 지원하지 않습니다."</string>
-    <string name="video_editor_filter_moon">달</string>
-    <string name="video_editor_filter_nuancha">차</string>
-    <string name="video_editor_template_sports">록</string>
     <string name="video_post_cancel_download">취소</string>
     <string name="video_post_download">다운로드</string>
     <string name="video_post_download_failed_for_notwork">"다운로드할 수 없습니다. 네트워크 설정을 확인하고 다시 시도하세요."</string>
@@ -3265,7 +3254,6 @@
     <string name="video_post_load_data_fail">'데이터를 로드할 수 없음'</string>
     <string name="video_post_module_finish">다운로드된 \"비디오 효과\" 플러그인 성공</string>
     <string name="video_post_module_loading">\"비디오 효과\" 다운로드 중 플러그인...</string>
-    <string name="vlog_audio_rumeng">꿈</string>
     <string name="vlog_audio_select_change_local_music">배경음악 변경</string>
     <string name="vlog_audio_select_range_title">클립 선택</string>
     <string name="vlog_audio_unsupport_audio_file">"이 오디오 형식은 지원되지 않습니다."</string>
@@ -3337,7 +3325,6 @@
     <string name="webview_reload">다시 시도</string>
     <string name="web_sso_login_fail">다시 로그인해야 합니다.</string>
     <string name="web_sso_login_message">로그인 중...</string>
-    <string name="widget_custom_store_detail_desc">"보고 싶은 이미지 선택"</string>
     <string name="widget_editor_confirm">완료</string>
     <string name="widget_editor_reselect">다시 선택</string>
     <string name="widget_editor_title">수정</string>
@@ -3349,7 +3336,6 @@
     <string name="widget_recommend_default_example">데모</string>
     <string name="widget_recommend_default_title_on_story">추억</string>
     <string name="widget_recommend_default_title_open_story">\"추억\" 켜기</string>
-    <string name="widget_recommend_store_detail_desc">최근 사진 및 과거의 밝은 순간</string>
     <string name="xiaomi_10_lite">미 10 라이트</string>
     <string name="xiaomi_10_lite_5g">미 10 라이트 5G</string>
     <string name="xiaomi_10_ultra">미 10 울트라</string>
