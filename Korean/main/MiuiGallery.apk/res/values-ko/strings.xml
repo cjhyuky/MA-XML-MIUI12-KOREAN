@@ -2917,7 +2917,6 @@
     <string name="id_photo_download_sdk_without_wifi_title">다운로드 \"ID\" 플러그인</string>
     <string name="id_photo_download_with_metered_network_msg">기기가 유료 네트워크에 연결된 것 같습니다. 원본 파일을 다운로드하면 추가 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
     <string name="id_photo_download_with_metered_network_title">유료 네트워크</string>
-    <string name="id_photo_load_data_fail">'데이터를 로드할 수 없음'</string>
     <string name="id_photo_module_finish">다운로드된 \"ID\" 플러그인 성공</string>
     <string name="id_photo_module_loading">\"ID\" 다운로드 중 플러그인...</string>
     <string name="keyboard_shortcut_copy">복사</string>
@@ -3251,7 +3250,6 @@
     <string name="video_post_download_sdk_without_wifi_title">\"비디오 효과\" 플러그인</string>
     <string name="video_post_download_with_metered_network_msg">기기가 유료 네트워크에 연결된 것 같습니다. 원본 파일을 다운로드하면 추가 요금이 발생할 수 있습니다. 그래도 다운로드하시겠습니까?</string>
     <string name="video_post_download_with_metered_network_title">유료 네트워크</string>
-    <string name="video_post_load_data_fail">'데이터를 로드할 수 없음'</string>
     <string name="video_post_module_finish">다운로드된 \"비디오 효과\" 플러그인 성공</string>
     <string name="video_post_module_loading">\"비디오 효과\" 다운로드 중 플러그인...</string>
     <string name="vlog_audio_select_change_local_music">배경음악 변경</string>
