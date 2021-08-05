@@ -3344,4 +3344,6 @@
     <string name="xiaomi_poco_x3">포코 X3</string>
     <string name="yuzhtiaojie">두께 조정 규모</string>
     <string name="zi_ding_yi_wenben">맞춤 크기</string>
+    <string name="id_photo_load_data_fail">데이터를 로드할 수 없음</string>
+    <string name="video_post_load_data_fail">데이터를 로드할 수 없음</string>
 </resources>
