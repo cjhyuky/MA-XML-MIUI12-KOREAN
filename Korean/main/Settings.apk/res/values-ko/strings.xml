@@ -2905,7 +2905,6 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="face_data_siggesstion_next">다음</string>
     <string name="face_data_siggesstion_next_time">다음 (%d초)</string>
     <string name="face_data_suggesstion_first">얼굴 잠금 해제는 PIN, 비밀번호 또는 패턴보다 안전하지 않습니다. 사진은 물론 모양이 비슷한 사람이나 사물에 의해 기기가 잠금 해제 될 수 있습니다.</string>
-    <string name="face_data_suggesstion_second">"얼굴의 어느 부분도 물건으로 가리지 않고 선명하게 보이는지 확인하세요. 얼굴도 밝게 비춰야 합니다."</string>
     <string name="face_intro_error_max">이미 최대 개수의 얼굴을 추가했습니다.</string>
     <string name="face_intro_error_unknown">얼굴을 추가할 수 없습니다.</string>
     <string name="face_lock_screen_setup_skip_dialog_text">휴대전화를 분실하거나 도난당한 경우 다른 사람이 사용할 수 없도록 화면 잠금 옵션으로 휴대전화를 보호하세요. 또한 얼굴인식 잠금해제를 설정하려면 화면 잠금 옵션이 필요합니다. 돌아가려면 취소를 탭하세요.</string>
@@ -9613,9 +9612,9 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="xiaomi_hp_location">고정밀 위치 사용</string>
     <string name="xiaomi_hp_location_description">고정밀 네트워크에 액세스하여 GNSS 정확도 향상</string>
     <string name="yesterday">어제</string>
-	<string name="disable_quick_start">빠른 시작 끄기</string>
+    <string name="disable_quick_start">빠른 시작 끄기</string>
     <string name="enable_quick_start">빠른 시작 켜기</string>
-	<string name="headset_head_tracking_desc">머리 움직임에 따라 서라운드 사운드를 조정합니다</string>
+    <string name="headset_head_tracking_desc">머리 움직임에 따라 서라운드 사운드를 조정합니다</string>
     <string name="headset_head_tracking_title">머리 움직임 추적</string>
     <string name="stylus_ota_check_failed_battery">"확인할 수 없습니다. 스타일러스 배터리 잔량이 적습니다."</string>
     <string name="stylus_ota_check_failed_info">"펌웨어 버전을 확인할 수 없습니다. 스타일러스를 다시 부착해주세요."</string>
