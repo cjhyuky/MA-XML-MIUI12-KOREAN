@@ -2007,15 +2007,12 @@
     <string name="cityname_106">허 티안 지역</string>
     <string name="cityname_107">허위 안</string>
     <string name="cityname_108">히제</string>
-    <string name="cityname_109">Hebi</string>
     <string name="cityname_11">안양</string>
     <string name="cityname_110">영웅</string>
     <string name="cityname_111">허 저우</string>
     <string name="cityname_112">헤이 헤어</string>
-    <string name="cityname_113">Hengshui</string>
     <string name="cityname_114">헝양</string>
     <string name="cityname_115">홍 헤이하니 이순신 자치 현</string>
-    <string name="cityname_116">Hohhot</string>
     <string name="cityname_117">후룬 부 아르</string>
     <string name="cityname_118">훌루 다오</string>
     <string name="cityname_119">후 저우</string>
@@ -2838,8 +2835,6 @@
     <string name="cloud_full_space_tip_title">클라우드 스토리지 부족</string>
     <string name="cloud_login_ok">알겠습니다</string>
     <string name="cloud_login_settings_title">동기화 설정</string>
-    <string name="collage_drawable_rect_date_year">연도</string>
-    <string name="collage_poster_global_dream_text">꿈</string>
     <string name="collage_talkback_margin_large">두꺼운 여백</string>
     <string name="collage_talkback_margin_medium">일반 여백</string>
     <string name="collage_talkback_margin_non">여백 없음</string>
@@ -2853,7 +2848,6 @@
     <string name="doodle_paint_select_talkback">획 너비</string>
     <string name="eras_ad">기원후</string>
     <string name="eras_bc">기원전</string>
-    <string name="filter_bi_tea">차</string>
     <string name="filter_category_black_white">흑백</string>
     <string name="filter_category_fresh">신선함</string>
     <string name="filter_category_nice_food">음식</string>
@@ -2871,10 +2865,8 @@
     <string name="filter_movie_quiet">고요함</string>
     <string name="filter_movie_to">티앤오</string>
     <string name="filter_night_scene">해질녘</string>
-    <string name="filter_people_tea">차</string>
     <string name="filter_popular_blackred">상그리아</string>
     <string name="filter_popular_bluedream">잠자기</string>
-    <string name="filter_popular_dream">환상</string>
     <string name="filter_popular_freshfood">미식가</string>
     <string name="filter_popular_gingertea">생강</string>
     <string name="filter_popular_icesnow">강설량</string>
@@ -2891,8 +2883,6 @@
     <string name="filter_popular_youth">유벤타스</string>
     <string name="filter_portrait_mojito">모히토</string>
     <string name="filter_portrait_waterblue">아쿠아마린</string>
-    <string name="filter_sky_dynamic_rain">비</string>
-    <string name="filter_sky_dynamic_snow">눈</string>
     <string name="filter_sky_dynamic_text_yanhua">텍스트</string>
     <string name="filter_sky_huanxia">꿈</string>
     <string name="filter_sky_random_download_failed">"다운로드할 수 없습니다. 오류 코드: "</string>
