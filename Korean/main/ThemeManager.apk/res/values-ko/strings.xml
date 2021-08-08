@@ -1112,7 +1112,7 @@ EEE"</string>
     <string name="apply_failed">"적용할 수 없음"</string>
     <string name="apply_not_support_aod">"이 기기에서는 올웨이즈 온 디스플레이가 지원되지 않습니다."</string>
     <string name="apply_not_support_in_second_space">"이 항목을 두 번째 공간에 적용할 수 없습니다."</string>
-    <string name="apply_succeed">완료적으로 적용됨</string>
+    <string name="apply_succeed">성공적으로 적용됨</string>
     <string name="author_attention">팔로우</string>
     <string name="author_attention_success">팔로우 완료</string>
     <string name="author_dialog_message">지금 이 계정을 팔로우 해제하시겠습니까?</string>
@@ -1151,7 +1151,7 @@ EEE"</string>
     <string name="detail_reward_reached_upper_limit">"오늘은 보상을 받을 수 없습니다. 내일 다시 오세요!"</string>
     <string name="detail_reward_resource_error">"오류로 인해 보상을 받을 수 없습니다."</string>
     <string name="detail_reward_server_error">서버 오류가 발생했습니다. 1~2분 정도 기다렸다가 다시 시도하세요.</string>
-    <string name="detail_reward_successed">완료적으로 리워드를 받았습니다.</string>
+    <string name="detail_reward_successed">성공적으로 리워드를 받았습니다.</string>
     <string name="detail_reward_thanks_for_fans_support">지원해주셔서 감사합니다!</string>
     <string name="detail_reward_thanks_for_your_support">지원해주셔서 감사합니다!</string>
     <string name="de_author_following">팔로잉</string>
