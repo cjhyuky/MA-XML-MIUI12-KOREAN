@@ -306,7 +306,7 @@
     <string name="muix_sbl_tracking_progress_labe_up_nodata">"결과가 더이상 없습니다"</string>
     <string name="muix_sbl_tracking_progress_labe_up_none">"결과가 더이상 없습니다"</string>
     <string name="muix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주세요...</string>
-    <string name="muix_sbl_tracking_progress_labe_up_refresh_fail">'항목을 로드할 수 없음'</string>
+    <string name="muix_sbl_tracking_progress_labe_up_refresh_fail">"항목을 로드할 수 없음"</string>
     <string name="monday">월요일</string>
     <string name="monday_short">월</string>
     <string name="monday_shortest">월</string>
