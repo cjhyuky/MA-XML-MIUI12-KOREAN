@@ -9622,4 +9622,5 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="surround_sound_only_headset_desc">이어폰 사운드에 깊이를 더합니다</string>
     <string name="surround_sound_only_speaker_desc">스피커 사운드에 깊이를 더합니다</string>
     <string name="surround_sound_title">서라운드 사운드</string>
+    <string name="face_data_suggesstion_second">"얼굴의 모든 부분이 명확하게 보이도록 해주세요. 얼굴을 가릴 수 있는 액세서리를 착용하지 마세요. 얼굴에 고르게 빛을 비추고, 직사광선을 피하세요."</string>
 </resources>
