@@ -223,4 +223,7 @@
     <string name="operation_will_not_show_after_delete">기록을 삭제하면 더 이상 표시되지 않습니다.</string>
     <string name="recent_file">최근</string>
     <string name="recent_jump_to_privacy_fail_notice">이 파일은 보호되고 있습니다. 열기를 원하면 시작 페이지로 돌아가 아래로 당기세요.</string>
+	<string name="disable_uft">Uft 끄기</string>
+    <string name="enable_uft">Uft 켜기</string>
+    <string name="sunlight_mode_summary_new">매우 밝은 환경에서 화면이 잘 보이도록 조정합니다. 주변광이 강할 때 화면 상단에 작은 태양 아이콘이 표시됩니다.</string>
 </resources>

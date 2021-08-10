@@ -2858,4 +2858,6 @@
     <string name="relay_connection_service_label">내장 릴레이 전화</string>
     <string name="menu_new_display_open">새 창에서 열기</string>
     <string name="menu_pc_open">컴퓨터로 열기</string>
+	<string name="xcap_setting_summary">전화 차단, 음성 사서함 &amp; 착신전환, 통화 중 대기</string>
+    <string name="xcap_setting_title">통화 서비스 설정</string>
 </resources>
