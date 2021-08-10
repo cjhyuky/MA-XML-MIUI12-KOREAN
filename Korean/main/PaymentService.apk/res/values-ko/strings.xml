@@ -539,7 +539,7 @@
     <string name="account_crop_user_avatar">자르기 사진</string>
     <string name="account_empty_user_name">Mi 계정 사용자 이름 입력</string>
     <string name="account_error_all_space_user_name">"사용자 이름에는 공백 문자만 사용할 수 없습니다."</string>
-    <string name="account_error_invalid_user_name">"이름은 <, > 또는 /"를 포함할 수 없습니다.</string>
+    <string name="account_error_invalid_user_name">"이름은 &lt;, &gt; 또는 /"를 포함할 수 없습니다.</string>
     <string name="account_error_longer_user_name">"이름은 20자를 초과할 수 없습니다."</string>
     <string name="account_error_shorter_user_name">이름은 2자 이상이어야 합니다.</string>
     <string name="account_error_user_birthday">입력한 생일이 잘못되었습니다.</string>
