@@ -69,5 +69,5 @@
     <string name="wifi_wakeup_onboarding_subtext">"신호 상태가 좋은 Wi-Fi 네트워크 근처에 있을 경우"</string>
     <string name="wifi_wakeup_onboarding_title">Wi-Fi가 자동으로 켜집니다.</string>
     <string name="wifi_watchdog_network_disabled">"WLAN에 연결할 수 없음"</string>
-    <string name="wifi_watchdog_network_disabled_detailed">"의 인터넷 연결이 좋지 않습니다."</string>
+    <string name="wifi_watchdog_network_disabled_detailed">"의 인터넷 연결 상태가 좋지 않습니다."</string>
 </resources>
