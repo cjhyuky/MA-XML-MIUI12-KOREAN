@@ -398,10 +398,10 @@
     <string name="app_manager_reset_app_preferences_button">앱 초기화</string>
     <string name="app_manager_reset_app_preferences_desc">"아래의 모든 환경설정이 초기화됩니다:
 
-"&lt;li&gt;사용 중지한 앱&lt;/li&gt;"
-"&lt;li&gt;비활성화한 앱 알림&lt;/li&gt;"
-"&lt;li&gt;기본 앱&lt;/li&gt;"
-"&lt;li&gt;앱의 백그라운드 데이터 제한&lt;/li&gt;"
+\"&lt;li&gt;사용 중지한 앱&lt;/li&gt;\"
+\"&lt;li&gt;비활성화한 앱 알림&lt;/li&gt;\"
+\"&lt;li&gt;기본 앱&lt;/li&gt;\"
+\"&lt;li&gt;앱의 백그라운드 데이터 제한&lt;/li&gt;\"
 
 앱 데이터는 삭제되지 않습니다.</string>
     <string name="app_manager_reset_app_preferences_title">앱 설정을 초기화하시겠습니까?</string>
@@ -4652,7 +4652,7 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="gb_performance_tips">"성능 모드를 장시간 사용하면 배터리 
 소모와 발열이 증가합니다"</string>
     <string name="gb_turbo_collimator_subtitle">조준 기기 사용</string>
-    <string name="gb_turbo_macro_subtitle">높은 수준의 동작 수행</string
+    <string name="gb_turbo_macro_subtitle">높은 수준의 동작 수행</string>
     <string name="gb_turbo_new_flag">NEW</string>
     <string name="gb_turbo_shoulder_subtitle">버튼 제어 설정</string>
     <string name="gb_turbo_time_subtitle">세션별 타이머</string>
