@@ -4640,32 +4640,36 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="app_predict_widget_experience_now">시도해보기</string>
     <string name="app_predict_widget_summary">지금 필요한 앱을 빠르게 실행</string>
     <string name="app_predict_widget_title">앱 추천</string>
-	    <string name="gamebox_brightness">밝기</string>
+	
+
+    <string name="gamebox_brightness">밝기</string>
     <string name="gamebox_mem_clean">메모리 정리</string>
     <string name="gamebox_screenrecord">화면 녹화</string>
     <string name="gamebox_screenshot">스크린샷</string>
     <string name="gb_performance_balance">균형 모드</string>
     <string name="gb_performance_high">성능 모드</string>
-    <string name="gb_performance_mode">게임 모드</string>
-    <string name="gb_performance_tips">"성능 모드는 기기 성능을 증가시킬 수 있지만,
-전력 소모와 발열도 증가시키기 때문에 장시간 사용은 추천되지 않습니다"</string>
-    <string name="gb_turbo_collimator_subtitle">자체 조준경</string>
-    <string name="gb_turbo_macro_subtitle">손쉽게 조준하기</string>
+    <string name="gb_performance_mode">게이밍 모드</string>
+    <string name="gb_performance_tips">"성능 모드를 장시간 사용하면 배터리 
+소모와 발열이 증가합니다"</string>
+    <string name="gb_turbo_collimator_subtitle">조준 기기 사용</string>
+    <string name="gb_turbo_macro_subtitle">높은 수준의 동작 수행</string
     <string name="gb_turbo_new_flag">NEW</string>
     <string name="gb_turbo_shoulder_subtitle">버튼 제어 설정</string>
-    <string name="gb_turbo_time_subtitle">게임 시간 보조 기록</string>
-    <string name="gb_turbo_voice_subtitle">목소리 변조</string>
-    <string name="gb_turbo_wonder_subtitle">하이라이트 스마트 녹화</string>
-    <string name="gb_voice_change_audition_tip">듣기만</string>
+    <string name="gb_turbo_time_subtitle">세션별 타이머</string>
+    <string name="gb_turbo_voice_subtitle">대화를 더 재미있게</string>
+    <string name="gb_turbo_wonder_subtitle">하이라이트 녹화</string>
+    <string name="gb_voice_change_audition_tip">데모</string>
     <string name="gb_voice_changer_user_vip_expired">만료됨</string>
-    <string name="gb_voice_changer_user_vip_remain_time">만료일：%s</string>
+    <string name="gb_voice_changer_user_vip_remain_time">만료일： %s</string>
     <string name="gtb_guide_finish">건너뛰기</string>
     <string name="gtb_guide_gtb_button_done">완료</string>
-    <string name="gtb_guide_gtb_community_desc">전략 정보와 멋진 순간 둘러보기</string>
-    <string name="gtb_guide_gtb_community_title">게임 커뮤니티</string>
-    <string name="gtb_guide_gtb_func_desc">게임을 더 재밌게 하기</string>
-    <string name="gtb_guide_gtb_func_title">게임 어시스턴트</string>
+    <string name="gtb_guide_gtb_community_desc">다른 게이머와 경험 나누기</string>
+    <string name="gtb_guide_gtb_community_title">커뮤니티</string>
+    <string name="gtb_guide_gtb_func_desc">더 나은 게임 경험</string>
+    <string name="gtb_guide_gtb_func_title">게임 터보</string>
+    <string name="gtb_guide_gtb_game_effected">적용됨</string>
+    <string name="gtb_guide_gtb_game_new">NEW</string>
     <string name="gtb_guide_gtb_line_new">최고의 게임을 위해 새로운 게임 터보를 사용해보세요.</string>
     <string name="gtb_guide_small_window_app_desc">앱과 게임 동시에 하기</string>
-    <string name="gtb_guide_small_window_app_title">플로팅 윈도우 앱</string>
+    <string name="gtb_guide_small_window_app_title">플로팅 윈도우</string>
 </resources>
