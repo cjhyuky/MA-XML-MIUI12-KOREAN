@@ -629,4 +629,12 @@
 	<plurals name="virus_clear_dialog_content">
         <item quantity="other">선택한 %d개 앱을 삭제하시겠습니까?</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%1$s를 포함한 %2$d 앱</item>
+        <item quantity="one">%1$s를 포함한 %2$d앱</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d번</item>
+        <item quantity="one">%d번</item>
+    </plurals>
 </resources>

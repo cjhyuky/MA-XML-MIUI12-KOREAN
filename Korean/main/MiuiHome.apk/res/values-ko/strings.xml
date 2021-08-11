@@ -630,7 +630,6 @@
     <string name="widget_gadget_player">음악</string>
     <string name="widget_global_search">검색</string>
     <string name="widget_quick_function">빠른 기능</string>
-    <string name="widgets_preview_title">위젯 추가</string>
     <string name="work_mode_off_label">알림 및 앱이 꺼져 있습니다.</string>
     <string name="work_mode_on_label">조직에서 관리</string>
     <string name="work_profile_first_content">업무용 앱에서 개인 데이터가 분리되고 숨겨져 있습니다.</string>
@@ -639,4 +638,9 @@
     <string name="work_profile_second_content">사용자의 IT 관리자가 업무용 앱 &amp; 데이터를 볼 수 있습니다.</string>
     <string name="work_profile_title">직장 프로필</string>
     <string name="work_profile_toggle_label">직장 프로필</string>
+    <string name="navigation_set_miui_home_as_default_dialog_cancel">취소</string>
+    <string name="navigation_set_miui_home_as_default_dialog_message">"서드파티 런처에서는 전체 화면 제스처를 사용할 수 없습니다. 시스템 런처로 전환하고 전체 화면 제스처를 켜시겠습니까?"</string>
+    <string name="navigation_set_miui_home_as_default_dialog_ok">확인</string>
+    <string name="navigation_set_miui_home_as_default_dialog_title">주의</string>
+    <string name="widgets_preview_title">위젯 추가</string>
 </resources>

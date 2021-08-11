@@ -79,9 +79,11 @@
         <item quantity="one">"%1$d개의 항목이 추가되지 않았습니다"</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">%d초 빨리감기</item>
+        <item quantity="other">%d초 건너뛰기</item>
+        <item quantity="one">%d초 건너뛰기</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">%d초 되감기</item>
+        <item quantity="one">%d초 되감기</item>
     </plurals>
 </resources>

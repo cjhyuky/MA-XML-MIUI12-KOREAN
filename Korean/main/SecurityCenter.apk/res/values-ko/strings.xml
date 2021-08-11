@@ -3774,7 +3774,6 @@ SMS 전송"</string>
     <string name="warningcenter_policeassist_noti_send">경찰에 위치 공유됨</string>
     <string name="warningcenter_policeassist_noti_title">긴급 통화 시 위치 공유</string>
     <string name="warningcenter_policeassist_open_btn">사용</string>
-    <string name="warningcenter_policeassist_open_content">"110, 120, 119, 122 또는 12122로 전화하는 동안 SMS 또는 모바일 데이터를 사용하여 위치 정보를 경찰에 자동으로 보냅니다."</string>
     <string name="warningcenter_policeassist_open_title">긴급 통화 시 경찰에 위치 공유</string>
     <string name="warningcenter_policeassist_privacy"><Data>"&lt;a href=\"%1$s\">이용 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인정보 보호정책&lt;/a>을 확인하였으며, 이에 동의합니다."</Data></string>
     <string name="warningcenter_policeassist_title">긴급 위치</string>
@@ -4668,4 +4667,10 @@ Xiaomi는 지진 경보 정보의 정확성, 타당성, 시의성을 보장하�
     <string name="gtb_guide_gtb_line_new">최고의 게임을 위해 새로운 게임 터보를 사용해보세요.</string>
     <string name="gtb_guide_small_window_app_desc">앱과 게임 동시에 하기</string>
     <string name="gtb_guide_small_window_app_title">플로팅 윈도우 앱</string>
+    <string name="behavior_widget_get_installed_apps">액세스한 앱</string>
+    <string name="behavior_widget_get_location">엑세스한 장소</string>
+    <string name="behavior_widget_read_clipboard">엑세스한 클립보드</string>
+    <string name="behavior_widget_read_contact">엑세스한 연락처</string>
+    <string name="behavior_widget_read_write_external_storage">엑세스한 파일</string>
+    <string name="warningcenter_policeassist_open_content">110, 120, 119 또는 122에 전화하는 동안 SMS 또는 모바일 데이터를 사용하여 자동으로 경찰에 위치 정보를 보냅니다."</string>
 </resources>

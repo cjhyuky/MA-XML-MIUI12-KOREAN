@@ -766,4 +766,9 @@
     <string name="yellow_throated_marten">노란 목 담비</string>
     <string name="yesterday">어제</string>
     <string name="yunnan_snub_nosed_monkey">검은 코 원숭이</string>
+    <string name="desktop_widget_authorization">통계를 보려면 탭하여 권한을 허용하세요</string>
+    <string name="desktop_widget_not_support">"스크린 타임 통계
+보조 공간에서는 생성되지 않음"</string>
+    <string name="desktop_widget_screen_use_time">스크린 타임</string>
+    <string name="usage_app_desktop_widget_limit">%s 남음</string>
 </resources>

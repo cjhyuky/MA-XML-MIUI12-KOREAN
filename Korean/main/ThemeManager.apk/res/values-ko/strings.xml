@@ -1067,17 +1067,7 @@ EEE"</string>
     <string name="personalize_wallpaper_title">배경화면</string>
     <string name="add">추가</string>
     <string name="create_home_icon">홈 화면 바로가기</string>
-    <string name="exo_controls_cc_disabled_description">자막 켜기</string>
-    <string name="exo_controls_cc_enabled_description">자막 끄기</string>
-    <string name="exo_controls_fullscreen_enter_description">전체 화면 모드</string>
-    <string name="exo_controls_fullscreen_exit_description">전체 화면 종료</string>
     <string name="exo_controls_hide">재생 컨트롤 숨김</string>
-    <string name="exo_controls_overflow_hide_description">추가 설정 숨김</string>
-    <string name="exo_controls_overflow_show_description">추가 설정 표시</string>
-    <string name="exo_controls_playback_speed">속도</string>
-    <string name="exo_controls_playback_speed_normal">일반</string>
-    <string name="exo_controls_seek_bar_description">재생 바</string>
-    <string name="exo_controls_settings_description">설정</string>
     <string name="exo_controls_show">재생 컨트롤 표시</string>
     <string name="exo_controls_shuffle_off_description">셔플 끄기</string>
     <string name="exo_controls_shuffle_on_description">셔플 켜기</string>
@@ -1350,4 +1340,14 @@ EEE"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하세요.</string>
     <string name="yesterday">어제</string>
+    <string name="exo_controls_cc_disabled_description">자막 켬</string>
+    <string name="exo_controls_cc_enabled_description">자막 끔</string>
+    <string name="exo_controls_fullscreen_enter_description">전체 화면</string>
+    <string name="exo_controls_fullscreen_exit_description">전체 화면 해제</string>
+    <string name="exo_controls_overflow_hide_description">추가 설정 숨김</string>
+    <string name="exo_controls_overflow_show_description">추가 설정 표시</string>
+    <string name="exo_controls_playback_speed">속도</string>
+    <string name="exo_controls_playback_speed_normal">원본</string>
+    <string name="exo_controls_seek_bar_description">재생 바</string>
+    <string name="exo_controls_settings_description">설정</string>
 </resources>
