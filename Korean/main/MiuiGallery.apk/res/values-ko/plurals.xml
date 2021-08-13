@@ -373,4 +373,94 @@
         <item quantity="other">%1$s, %2$s개 항목</item>
         <item quantity="one">%1$s, %2$s개 항목</item>
     </plurals>
+    <plurals name="album_item_msg_format_new">
+        <item quantity="other">%d개의 앨범</item>
+    </plurals>
+    <plurals name="muix_appcompat_items_selected">
+        <item quantity="other">선택된 항목 %d개</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">사진 %d장</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s의 %2$d 설치 패키지(%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d 설치 패키지(%3$s)를 받았습니다.</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d 설치 패키지(%3$s) 수신 중...</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s의 %2$d 오디오 파일(%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d 오디오 파일(%3$s) 수신</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d 오디오 파일(%3$s) 수신 중...</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s의 %2$d %3$s 파일(%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d %3$s 파일(%4$s) 수신</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d %3$s 파일(%4$s) 수신 중...</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s의 이미지 %2$d개</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d개의 이미지를 받았습니다.</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d 이미지 수신 중...</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s의 %2$d 이미지 및 비디오</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d개의 이미지와 동영상을 수신했습니다.</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d개의 이미지와 동영상 수신 중...</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s의 파일 %2$d개</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d개의 파일 수신</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d개의 파일 수신 중...</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s의 동영상 %2$d개</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d개의 동영상 수신</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d개의 동영상 수신 중...</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s의 아카이브 %2$d개(%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s에서 %2$d개의 아카이브(%3$s)를 수신했습니다.</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s에서 %2$d 아카이브(%3$s) 수신 중...</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">동기화된 사진 %d장</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">동기화된 %d개의 동영상</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">동영상 %d개</item>
+    </plurals>
 </resources>
