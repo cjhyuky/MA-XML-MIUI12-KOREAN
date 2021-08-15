@@ -1540,7 +1540,7 @@
     <string name="bh_account_balance">잔액</string>
     <string name="bh_account_binded_number">%1$s이(가) 귀하의 계정과 연결되어 있습니다.</string>
     <string name="bh_adjusting">보정 중...</string>
-    <string name="bh_adjust_failed">'보정할 수 없음'</string>
+    <string name="bh_adjust_failed">"보정할 수 없음"</string>
     <string name="bh_app_name">Mi Carrier Services</string>
     <string name="bh_app_name_short">이동통신사 서비스</string>
     <string name="bh_back">뒤로</string>
@@ -1576,7 +1576,7 @@
     <string name="bh_contact_number">연락처의 %1$s</string>
     <string name="bh_ct">차이나 텔레콤</string>
     <string name="bh_cu">차이나 유니콤</string>
-    <string name="bh_current_no_sim">'SIM 카드가 삽입되지 않았습니다.'</string>
+    <string name="bh_current_no_sim">"SIM 카드가 삽입되지 않았습니다."</string>
     <string name="bh_current_sim_number">현재 SIM 전화번호 %1$s</string>
     <string name="bh_delete">삭제</string>
     <string name="bh_delete_charged_phone_number">최근 사용한 전화번호 삭제</string>
@@ -1607,7 +1607,7 @@
     <string name="bh_notice">주의</string>
     <string name="bh_not_contact">"결과를 찾을 수 없음"</string>
     <string name="bh_no_sim">"SIM 카드가 설치되지 않았습니다."</string>
-    <string name="bh_no_sim_inserted">'SIM 카드가 설치되지 않았습니다.'</string>
+    <string name="bh_no_sim_inserted">"SIM 카드가 설치되지 않았습니다."</string>
     <string name="bh_online_service">온라인 지원</string>
     <string name="bh_option_agree_dec">Mi 통신사 서비스가 앱을 사용하기 전에 인터넷에 연결하고 필요한 권한을 부여하도록 허용합니다.</string>
     <string name="bh_order_detail">주문 세부정보</string>
