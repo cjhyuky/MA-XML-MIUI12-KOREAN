@@ -39,7 +39,7 @@
     </plurals>
     <plurals name="adblock_total_counts">
         <item quantity="other">지금까지 차단된 %d개의 광고</item>
-        <item amount="one">지금까지 차단된 %d개의 광고</item>
+        <item quantity="one">지금까지 차단된 %d개의 광고</item>
     </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d개 새 기사 확인</item>
@@ -72,7 +72,7 @@
     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">새 파일 %1$d개 발견</item>
-        <item amount="one">새 파일 %1$d개 발견</item>
+        <item quantity="one">새 파일 %1$d개 발견</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30분 전</item>
