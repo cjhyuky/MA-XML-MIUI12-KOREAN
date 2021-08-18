@@ -444,8 +444,8 @@
     <string name="download_change_dir">폴더 변경</string>
     <string name="download_complete">다운로드 성공</string>
     <string name="download_completed">다운로드됨</string>
-    <string name="download_completed_private_tips">다운로드에 성공했으며 숨김 파일에 추가되었습니다. <font color=#2dd9ce>보려면 탭하세요.</font></string>
-    <string name="download_completed_tips">다운로드에 성공했습니다. <font color=#0081ff>보려면 탭하세요.</font></string>
+    <string name="download_completed_private_tips">다운로드에 성공했으며 숨김 파일에 추가되었습니다. &lt;font color=#2dd9ce>보려면 탭하세요.&lt;/font></string>
+    <string name="download_completed_tips">다운로드에 성공했습니다. &lt;font color=#0081ff>보려면 탭하세요.&lt;/font></string>
     <string name="download_default_path_txt">이 선택 사항을 기억하십시오</string>
     <string name="download_delete_download">삭제</string>
     <string name="download_dialog_cannot_resume">다운로드가 중단되었습니다</string>
