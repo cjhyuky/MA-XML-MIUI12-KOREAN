@@ -1,193 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1시간 전</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
+        <item quantity="other">1시간 전</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">30분 전</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">1시간 후</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">30분 후</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">즉시</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
+        <item quantity="other">%d분 후</item>
+        <item quantity="one">1분 후</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">지금 바로</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">1분 전</item>
     </plurals>
     <plurals name="adblock_notification">
-        <item quantity="other">Blocked %d ads</item>
-        <item quantity="one">Blocked %d ad</item>
+        <item quantity="other">%d개의 광고 차단됨</item>
+        <item quantity="one">%d개의 광고 차단됨</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d items blocked</item>
-        <item quantity="one">%d item blocked</item>
+        <item quantity="other">차단된 항목 %d개</item>
+        <item quantity="one">차단된 항목 %d개</item>
     </plurals>
     <plurals name="adblock_total_counts">
-        <item quantity="other">Blocked %d ads so far</item>
-        <item quantity="one">Blocked %d ad so far</item>
+        <item quantity="other">지금까지 차단된 %d개의 광고</item>
+        <item amount="one">지금까지 차단된 %d개의 광고</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">Check out %1$d new articles</item>
-        <item quantity="one">Check out %1$d new article</item>
-        <item quantity="few">Check out %1$d new articles</item>
+        <item quantity="other">%1$d개 새 기사 확인</item>
+        <item quantity="one">%1$d개 새 기사 확인</item>
+        <item quantity="few">새 기사 %1$d개 확인</item>
     </plurals>
     <plurals name="auto_play_next_tips">
-        <item quantity="other">Playing next video in %d seconds</item>
-        <item quantity="one">Playing next video in %d second</item>
+        <item quantity="other">%d초 후에 다음 동영상 재생</item>
+        <item quantity="one">%d초 후 다음 동영상 재생</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d days ago</item>
-        <item quantity="one">%1$d day ago</item>
+        <item quantity="other">%1$d일 전</item>
+        <item quantity="one">%1$d일 전</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d 선택됨</item>
+        <item quantity="one">%1$d 선택됨</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
-        <item quantity="other">Delete %d tasks?</item>
-        <item quantity="one">Delete %d task?</item>
+        <item quantity="other">%d개 작업을 삭제하시겠습니까?</item>
+        <item quantity="one">%d개 작업을 삭제하시겠습니까?</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other">%1$d items</item>
-        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d개 항목</item>
+        <item quantity="one">%1$d개 항목</item>
     </plurals>
     <plurals name="find_on_page_matches">
-        <item quantity="other">%d matches</item>
-        <item quantity="one">%d match</item>
+        <item quantity="other">%d개 일치</item>
+        <item quantity="one">%d개 일치</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Found %1$d new files</item>
-        <item quantity="one">Found %1$d new file</item>
+        <item quantity="other">새 파일 %1$d개 발견</item>
+        <item amount="one">새 파일 %1$d개 발견</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">30분 전</item>
     </plurals>
     <plurals name="hashtag_followers">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d follower</item>
+        <item quantity="other">팔로워 %d명</item>
+        <item quantity="one">팔로워 %d명</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d hours ago</item>
-        <item quantity="one">%1$d hour ago</item>
+    <plurals name="시간 전">
+        <item quantity="other">%1$d시간 전</item>
+        <item quantity="one">%1$d시간 전</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+        <item quantity="other">1시간 후</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">30분 후</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">즉시</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
+        <item quantity="other">%d분 후</item>
+        <item quantity="one">1분 내</item>
     </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">Downloaded %d items successfully</item>
-        <item quantity="one">Downloaded %d item successfully</item>
+        <item quantity="other">%d개 항목을 성공적으로 다운로드했습니다.</item>
+        <item quantity="one">%d개 항목을 성공적으로 다운로드했습니다.</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">지금 바로</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d minutes ago</item>
-        <item quantity="one">%1$d minute ago</item>
+        <item quantity="other">%1$d분 전</item>
+        <item quantity="one">%1$d분 전</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+    <plurals name="muix_appcompat_items_selected">
+        <item quantity="other">선택된 항목 %d개</item>
+        <item quantity="one">선택된 항목 %d개</item>
     </plurals>
     <plurals name="mw_last_num_days">
-        <item quantity="other">Last %d days</item>
-        <item quantity="one">Last %d day</item>
+        <item quantity="other">지난 %d일</item>
+        <item quantity="one">지난 %d일</item>
     </plurals>
     <plurals name="mw_matches_found">
-        <item quantity="other">%1$d of %2$d</item>
-        <item quantity="one">%d match</item>
+        <item quantity="other">%2$d 중 %1$d</item>
+        <item quantity="one">%d 일치</item>
     </plurals>
     <plurals name="nav_screen_incognito_time">
-        <item quantity="other">After %d seconds will automatically create a new page</item>
-        <item quantity="one">After %d second will automatically create a new page</item>
+        <item quantity="other">%d초 후에 새 페이지가 자동으로 생성됩니다.</item>
+        <item quantity="one">%d초 후에 자동으로 새 페이지가 생성됩니다.</item>
     </plurals>
     <plurals name="nf_item_like">
-        <item quantity="other">%s likes</item>
-        <item quantity="one">%s like</item>
+        <item quantity="other">좋아요 %s개</item>
+        <item quantity="one">좋아요 %s개</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">선택한 %1$d개 항목</item>
+        <item quantity="one">선택된 %1$d 항목</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">1분 전</item>
     </plurals>
     <plurals name="players">
-        <item quantity="other">%d players</item>
-        <item quantity="one">%d player</item>
+        <item quantity="other">%d명의 플레이어</item>
+        <item quantity="one">%d명의 플레이어</item>
     </plurals>
     <plurals name="pref_adblock_counts">
-        <item quantity="other">Blocked %d ads</item>
-        <item quantity="one">Blocked %d ad</item>
+        <item quantity="other">차단된 %d개의 광고</item>
+        <item quantity="one">차단된 %d개의 광고</item>
     </plurals>
     <plurals name="search_trending_views">
-        <item quantity="other">%s search requests</item>
-        <item quantity="one">%s search request</item>
+        <item quantity="other">%s개 검색 요청</item>
+        <item quantity="one">%s개 검색 요청</item>
     </plurals>
     <plurals name="sku_price">
-        <item quantity="other">%2$s every %1$s months</item>
-        <item quantity="one">%2$s every %1$s month</item>
+        <item quantity="other">%1$s개월마다 %2$s</item>
+        <item quantity="one">%1$s개월마다 %2$s</item>
     </plurals>
     <plurals name="suggest_access_item_album_songs">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d곡</item>
+        <item quantity="one">%d곡</item>
     </plurals>
     <plurals name="suggest_access_item_singer_albums">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">%d album</item>
+        <item quantity="other">%d개의 앨범</item>
+        <item quantity="one">%d 앨범</item>
     </plurals>
     <plurals name="suggest_access_item_singer_pop">
-        <item quantity="other">%d popular songs</item>
-        <item quantity="one">%d popular song</item>
+        <item quantity="other">인기 노래 %d곡</item>
+        <item quantity="one">인기 노래 %d곡</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">Selected %1$d items</item>
-        <item quantity="one">Selected %1$d item</item>
+        <item quantity="other">선택한 %1$d개 항목</item>
+        <item quantity="one">선택된 %1$d 항목</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
-        <item quantity="other">"You haven't watched %d of your favorite videos in a long time."</item>
-        <item quantity="one">"You haven't watched %d favorite video in a long time."</item>
+        <item quantity="other">"오랫동안 좋아하는 동영상 %d개를 시청하지 않았습니다."</item>
+        <item quantity="one">"오랫동안 %d개의 좋아하는 동영상을 시청하지 않았습니다."</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">Check out %1$d new videos</item>
-        <item quantity="one">Check out %1$d new video</item>
+        <item quantity="other">%1$d개의 새 동영상 확인</item>
+        <item quantity="one">%1$d개의 새 동영상 확인</item>
     </plurals>
     <plurals name="view_count">
-        <item quantity="other">%1$d views</item>
-        <item quantity="one">%1$d view</item>
+        <item quantity="other">%1$d회</item>
+        <item quantity="one">%1$d회</item>
     </plurals>
     <plurals name="views">
-        <item quantity="other">%dk views</item>
-        <item quantity="one">%dk view</item>
+        <item quantity="other">%dk회</item>
+        <item quantity="one">%dk회</item>
     </plurals>
     <plurals name="vote_all_people">
-        <item quantity="other">%d people have voted</item>
-        <item quantity="one">%d person has voted</item>
-        <item quantity="few">%d people have voted</item>
+        <item quantity="other">%d명이 투표했습니다</item>
+        <item quantity="one">%d명이 투표했습니다</item>
+        <item quantity="few">%d명이 투표했습니다</item>
     </plurals>
 </resources>
