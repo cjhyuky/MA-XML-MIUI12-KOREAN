@@ -81,10 +81,6 @@
         <item quantity="other">팔로워 %d명</item>
         <item quantity="one">팔로워 %d명</item>
     </plurals>
-    <plurals name="시간 전">
-        <item quantity="other">%1$d시간 전</item>
-        <item quantity="one">%1$d시간 전</item>
-    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1시간 후</item>
     </plurals>
