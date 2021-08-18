@@ -538,7 +538,7 @@
     <string name="early_morning">아침</string>
     <string name="edit">편집</string>
     <string name="edit_bookmark">북마크 수정</string>
-    <string name="edit_bookmark_tips">북마크에 성공적으로 추가되었습니다. <font color=#247BFF>수정</font></string>
+    <string name="edit_bookmark_tips">북마크에 성공적으로 추가되었습니다. 수정</string>
     <string name="edit_quicklink">수정</string>
     <string name="empty_app_name">다른 앱</string>
     <string name="empty_bookmark">비어 있음</string>
@@ -996,7 +996,7 @@
     <string name="mw_miuichromium_error_page_btn_close">닫기</string>
     <string name="mw_miuichromium_error_page_btn_refresh">새로고침</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">문제 신고</string>
-    <string name="mw_miuichromium_error_page_description_no_connection">"신호가 약하거나 네트워크 구성이 잘못되어 네트워크에 연결할 수 없습니다. %s1네트워크 설정%s2을 확인하고 다시 시도하십시오."</string>
+    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"신호가 약하거나 네트워크 구성이 잘못되어 네트워크에 연결할 수 없습니다. %s1네트워크 설정%s2을 확인하고 다시 시도하십시오."</string>
     <string name="mw_miuichromium_error_page_diagnose">네트워크 진단</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">네트워크 진단</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"네트워크 프로토콜을 확인할 수 없음"</string>
@@ -1051,9 +1051,9 @@
     <string name="mw_miuichromium_error_page_server_error">너무 많은 장치가 연결을 시도하고 있습니다.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">기기에 설치된 프록시 앱의 설정을 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">인터넷 연결을 확인하세요.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(모바일 데이터) %s1APN 설정%s2를 재설정합니다.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(모바일 데이터) %s1APN 설정%s2를 재설정합니다.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"입력한 URL을 확인하세요."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) %s1proxy 설정%s2를 확인하세요.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1proxy 설정%s2를 확인하세요.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">캐시를 지웁니다.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">캐시 및 쿠키를 삭제합니다(계정 정보가 손실될 수 있음).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">인터넷 연결 후 새로고침</string>
@@ -1742,7 +1742,7 @@
     <string name="sign_in_failed">"로그인할 수 없음"</string>
     <string name="sign_in_progress">로그인 중...</string>
     <string name="sign_in_title">Mi 계정으로 로그인</string>
-    <string name="sign_in_to">%s1 \"%s2\"에 로그인</string>
+    <string name="sign_in_to" formatted="false">%s1 \"%s2\"에 로그인</string>
     <string name="sign_out">로그아웃</string>
     <string name="skip">건너뛰기</string>
     <string name="skip_current_version">이 버전 건너뛰기</string>
@@ -1786,7 +1786,7 @@
     <string name="speed_test_ping">지연</string>
     <string name="speed_test_upload">업로드</string>
     <string name="ssl_bad_clock_date_settings">날짜 설정</string>
-    <string name="ssl_bad_clock_warning">"기기의 날짜와 시간(%s2)이 올바르지 않기 때문에 %s1에 대한 비공개 연결을 설정할 수 없습니다."</string>
+    <string name="ssl_bad_clock_warning" formatted="false">"기기의 날짜와 시간(%s2)이 올바르지 않기 때문에 %s1에 대한 비공개 연결을 설정할 수 없습니다."</string>
     <string name="ssl_bad_expired_warning">"이 채널은 %1$s에서 제공합니다. 그러나 장치(%2$s)에 설정된 날짜 및 시간은 %1$s와의 보안 연결을 허용하지 않습니다. 정확한 날짜와 시간을 설정하거나 \"계속\" 이 채널을 계속 사용하고 싶다면"</string>
     <string name="ssl_bad_warning">"이 채널은 %1$s에서 제공합니다. 그러나 Mi Browser는 인증서가 유효하지 않거나 취소되었기 때문에 이 서버가 %1$s에 속하는지 확인할 수 없습니다. 이 문제는 잘못된 구성이나 차단된 연결로 인해 발생할 수 있습니다. \"계속\" 이 채널을 계속 사용하고 싶다면"</string>
     <string name="ssl_certificate">보안 인증서</string>
