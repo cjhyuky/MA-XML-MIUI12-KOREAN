@@ -968,7 +968,6 @@
     <string name="mw_crashes_num">충돌(%1$d)</string>
     <string name="mw_crash_label">충돌(%1$s) - [%2$s]</string>
     <string name="mw_crash_report_button_text">추가 정보 제공</string>
-    <string name="mw_crash_report_template">"중요: 충돌은 이미 자동으로 충돌 시스템에 보고되었습니다. 충돌을 재현하는 단계와 같은 추가 정보를 공유할 수 있는 경우에만 이 정보를 작성하면 됩니다.기기 이름:Android OS 버전:WebView 버전(Android LM에서는 \"Android 시스템 WebView\" 앱의 버전입니다. . Android NP의 경우 Chrome 버전일 가능성이 높습니다. 설정 > 앱 > 오른쪽 상단의 점 3개 > 시스템 표시에서 앱 버전을 찾을 수 있습니다.): 애플리케이션: (Play 스토어 페이지에 링크하세요. 링크는 Play 스토어 앱 내부에서 오른쪽 상단의 점 3개 > 공유 > 클립보드에 복사를 눌러 얻을 수 있습니다. 또는 Play 스토어 웹사이트(https://play)에서 앱을 찾을 수 있습니다. Google.
     <string name="mw_data_traffic_prompt_change">"모바일 데이터 연결을 사용하여 동영상을 스트리밍하면 데이터 사용량이 늘어납니다. 요금제의 데이터 사용 한도를 초과하면 이동통신사에서 추가 요금을 청구합니다."</string>
     <string name="mw_data_traffic_prompt_message">"모바일 데이터 연결을 사용하여 동영상을 스트리밍하면 데이터 사용량이 늘어납니다. 요금제의 데이터 사용 한도를 초과하면 이동통신사에서 추가 요금을 청구합니다."</string>
     <string name="mw_data_traffic_prompt_message_short">"모바일 데이터를 사용하여 동영상을 스트리밍하면 요금제의 데이터 사용 한도를 초과할 수 있습니다."</string>
