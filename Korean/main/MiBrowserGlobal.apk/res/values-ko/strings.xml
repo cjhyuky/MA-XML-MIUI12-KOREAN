@@ -538,7 +538,7 @@
     <string name="early_morning">아침</string>
     <string name="edit">편집</string>
     <string name="edit_bookmark">북마크 수정</string>
-    <string name="edit_bookmark_tips">북마크에 성공적으로 추가되었습니다. 수정</string>
+    <string name="edit_bookmark_tips">북마크에 성공적으로 추가되었습니다. &lt;font color=#247BFF>수정&lt;/font></string>
     <string name="edit_quicklink">수정</string>
     <string name="empty_app_name">다른 앱</string>
     <string name="empty_bookmark">비어 있음</string>
@@ -968,6 +968,7 @@
     <string name="mw_crashes_num">충돌(%1$d)</string>
     <string name="mw_crash_label">충돌(%1$s) - [%2$s]</string>
     <string name="mw_crash_report_button_text">추가 정보 제공</string>
+    <string name="mw_crash_report_template">"중요: 충돌은 이미 자동으로 충돌 시스템에 보고되었습니다. 충돌을 재현하는 단계와 같은 추가 정보를 공유할 수 있는 경우에만 이 정보를 작성하면 됩니다.기기 이름:Android OS 버전:WebView 버전(Android LM에서는 \"Android 시스템 WebView\" 앱의 버전입니다. . Android NP의 경우 Chrome 버전일 가능성이 높습니다. 설정 > 앱 > 오른쪽 상단의 점 3개 > 시스템 표시에서 앱 버전을 찾을 수 있습니다.): 애플리케이션: (Play 스토어 페이지에 링크하세요. 링크는 Play 스토어 앱 내부에서 오른쪽 상단의 점 3개 > 공유 > 클립보드에 복사를 눌러 얻을 수 있습니다. 또는 Play 스토어 웹사이트(https://play.google.com)에서 앱을 찾을 수 있습니다. </string>
     <string name="mw_data_traffic_prompt_change">"모바일 데이터 연결을 사용하여 동영상을 스트리밍하면 데이터 사용량이 늘어납니다. 요금제의 데이터 사용 한도를 초과하면 이동통신사에서 추가 요금을 청구합니다."</string>
     <string name="mw_data_traffic_prompt_message">"모바일 데이터 연결을 사용하여 동영상을 스트리밍하면 데이터 사용량이 늘어납니다. 요금제의 데이터 사용 한도를 초과하면 이동통신사에서 추가 요금을 청구합니다."</string>
     <string name="mw_data_traffic_prompt_message_short">"모바일 데이터를 사용하여 동영상을 스트리밍하면 요금제의 데이터 사용 한도를 초과할 수 있습니다."</string>
@@ -1286,6 +1287,8 @@
     <string name="passport_unknow_error">알 수 없는 오류가 발생했습니다</string>
     <string name="passport_unknow_host_network_error">네트워크 설정을 확인하고 다시 시도하십시오.</string>
     <string name="passport_unknow_network_error">네트워크 오류가 발생했습니다.</string>
+    <string name="passport_user_agreement_link">"&lt;data>나는 Xiaomi의 &lt;a href=%1$s>사용자 계약&lt;/a>을 읽었으며 이에 동의합니다. 및 &lt;a href=%2$s>개인정보 보호정책&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;data>다음 문서를 읽었으며 이에 동의합니다. Xiaomi &lt;a href=%1$s>사용자 계약&lt;/a> 및 &lt;a href=%4$s>개인정보 보호정책&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_id_intro">%1$s의 비밀번호 입력</string>
     <string name="passport_vcode_notification_title">로그인 확인이 완료되지 않았습니다.</string>
     <string name="passport_vcode_prompt_long">인증 코드 입력</string>
@@ -1482,7 +1485,7 @@
     <string name="pref_site_settings_all_sites">모든 사이트</string>
     <string name="pref_site_settings_camera">카메라</string>
     <string name="pref_site_settings_camera_ask">사이트는 카메라를 사용하기 위해 귀하의 허가를 요청하고 받아야 합니다(권장)</string>
-    <string name="pref_site_settings_camera_ask_permission">Android 설정에서 카메라 권한을 켭니다.</string>
+    <string name="pref_site_settings_camera_ask_permission">&lt;font color=#247BFF>Android 설정&lt;/font>에서 카메라 권한을 켭니다.</string>
     <string name="pref_site_settings_category_allow">허용</string>
     <string name="pref_site_settings_category_allow_except_third_party">허용(타사 제외)</string>
     <string name="pref_site_settings_category_ask">항상 질문</string>
