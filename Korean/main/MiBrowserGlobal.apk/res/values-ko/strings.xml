@@ -1482,7 +1482,7 @@
     <string name="pref_site_settings_all_sites">모든 사이트</string>
     <string name="pref_site_settings_camera">카메라</string>
     <string name="pref_site_settings_camera_ask">사이트는 카메라를 사용하기 위해 귀하의 허가를 요청하고 받아야 합니다(권장)</string>
-    <string name="pref_site_settings_camera_ask_permission"><font color=#247BFF>Android 설정</font>에서 카메라 권한을 켭니다.</string>
+    <string name="pref_site_settings_camera_ask_permission">Android 설정에서 카메라 권한을 켭니다.</string>
     <string name="pref_site_settings_category_allow">허용</string>
     <string name="pref_site_settings_category_allow_except_third_party">허용(타사 제외)</string>
     <string name="pref_site_settings_category_ask">항상 질문</string>
@@ -1499,10 +1499,10 @@
     <string name="pref_site_settings_cookie_summary">쿠키는 사용자의 기본 설정을 기억하기 위해 방문한 사이트에서 생성한 파일입니다. 타사 쿠키는 귀하가 방문하는 페이지에 표시되는 콘텐츠(예: 광고 또는 이미지)의 소유자인 다른 웹사이트에서 생성됩니다.</string>
     <string name="pref_site_settings_location">위치</string>
     <string name="pref_site_settings_location_ask">사이트는 사용자의 위치 정보에 액세스할 수 있는 권한을 요청하고 받아야 합니다(권장)</string>
-    <string name="pref_site_settings_location_permission"><font color=#247BFF>Android 설정</font>에서 위치 권한을 켭니다.</string>
+    <string name="pref_site_settings_location_permission">Android 설정에서 위치 권한을 켭니다.</string>
     <string name="pref_site_settings_mic">마이크</string>
     <string name="pref_site_settings_mic_ask">사이트는 마이크를 사용하기 위해 귀하에게 요청하고 허가를 받아야 합니다(권장)</string>
-    <string name="pref_site_settings_mic_ask_permission"><font color=#247BFF>Android 설정</font>에서 마이크 권한을 켭니다.</string>
+    <string name="pref_site_settings_mic_ask_permission">Android 설정에서 마이크 권한을 켭니다.</string>
     <string name="pref_site_settings_midi_sysex_permission">MIDI 장치를 완벽하게 제어</string>
     <string name="pref_site_settings_notificaion">알림</string>
     <string name="pref_site_settings_notificaion_ask">사이트에서 알림 수신 여부를 요청할 수 있음</string>
