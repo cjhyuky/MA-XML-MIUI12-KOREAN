@@ -2064,7 +2064,6 @@
     <string name="xiaomi_update_sdk_dialog_message_diff">"버전 %1$s델타 업데이트 크기 소개: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s 업데이트!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">저장소를 사용할 수 없습니다. SD 카드를 확인하십시오.</string>
-    <string name="year_month_day_format">yyyy MMMM dd/string>
     <string name="yes">예</string>
     <string name="yesterday">어제</string>
     <string name="ytb_added_subscription">구독 완료</string>
