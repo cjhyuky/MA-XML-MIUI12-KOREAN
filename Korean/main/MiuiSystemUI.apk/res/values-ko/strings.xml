@@ -3044,5 +3044,6 @@ Wi‑Fi 주소(BSSID)
     <string name="wifi_security_wpa_wpa2">WPA/WPA2-개인</string>
     <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-개인</string>
     <string name="yesterday">어제</string>
-	<string name="keyguard_charging_double_fast_and_level_tip">충전 속도 %s 부스트됨</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">충전 속도 %s 부스트됨</string>
+    <string name="open_xmyzl_hint_text">오른쪽으로 스와이프하여 샤오미 매직 컨트롤 열기</string>
 </resources>
