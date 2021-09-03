@@ -343,4 +343,5 @@
     <string name="wireless_charging_notification_titile">무선 배터리 공유 꺼짐</string>
     <string name="xspace_head">듀얼 앱</string>
     <string name="xspace_resolver_activity_title">앱 선택</string>
+    <string name="keyboard_connect_failed">"키보드를 연결할 수 없습니다. 다시 연결하십시오."</string>
 </resources>
