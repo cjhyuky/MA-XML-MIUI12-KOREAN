@@ -1204,6 +1204,7 @@ A4 용지에 무선으로 출력해보세요."</string>
 인물이 앞으로 나오도록 만들어줍니다."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"인물 모드를 사용해보세요.
 배경을 흐릿하게 하면서 피사체를 선명하게 유지하세요."</string>
+    <string name="pre_volume_gain_adjust">게인 조정</string>
     <string name="pref_960_watermark_title">960FPS 워터마크</string>
     <string name="pref_a_c_f">초음파 검사기</string>
     <string name="pref_advance_settings">추가 설정</string>
