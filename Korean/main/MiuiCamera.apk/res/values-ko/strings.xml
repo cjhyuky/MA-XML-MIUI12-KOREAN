@@ -1895,4 +1895,6 @@ A4 용지에 무선으로 출력해보세요."</string>
     <string name="time_freeze_action_start_tip">탭하여 백그라운드 멈춤</string>
     <string name="time_freeze_adjust_button_title">보정 효과</string>
     <string name="time_freeze_clipbox_tint">클립박스</string>
+    <string name="download_alert">"다운로드 중에는 수정할 수 없음"</string>
+    <string name="download_waiting">보류중…</string>
 </resources>
