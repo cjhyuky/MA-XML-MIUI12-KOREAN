@@ -9629,4 +9629,5 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="settings_charging_at_top_speed">초고속 충전 중</string>
     <string name="settings_charging_fully_charged">완충됨</string>
     <string name="settings_charging_not_charging">충전 중이 아님</string>
+    <string name="headset_toast_tip_disconnect_others">현재 헤드셋을 설정할 수 없습니다. 헤드셋이 다른 전화에 연결되어 있을 수 있습니다.</string>
 </resources>
