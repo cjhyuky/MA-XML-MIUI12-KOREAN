@@ -1,40 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="dialog_choice_specific_correct_as_normal">
-        <item>%s에서 온 광고 메시지</item>
-        <item>%s에서 온 통신사 메시지</item>
-        <item>%s에서 온 금융 메시지</item>
-    </string-array>
     <string-array name="contact_entries">
         <item>이름</item>
         <item>별명</item>
-        <item>전화번호</item>
+        <item>전화</item>
         <item>이메일</item>
         <item>조직</item>
         <item>IM</item>
         <item>SIP 폰</item>
         <item>생일</item>
-        <item>웹 사이트</item>
+        <item>웹사이트</item>
         <item>주소</item>
         <item>메모</item>
         <item>관계</item>
+    </string-array>
+    <string-array name="dialog_choice_specific_correct_as_normal">
+        <item>%s에서 온 광고 메시지</item>
+        <item>%s에서 온 통신사 메시지</item>
+        <item>%s에서 온 금융 메시지</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>최대</item>
         <item>2일</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>설정되지 않음</item>
+        <item>설정하지 않음</item>
         <item>1시간</item>
         <item>6시간</item>
         <item>12시간</item>
         <item>1일</item>
         <item>최대</item>
     </string-array>
+    <string-array name="message_sending_method">
+        <item>권장 메시지 서비스</item>
+        <item>SMS, MMS</item>
+        <item>RCS 채팅, RCS 파일 전송</item>
+    </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>항상</item>
-        <item>무음일 때만</item>
-        <item>안함</item>
+        <item>무음 모드에서만</item>
+        <item>안 함</item>
+    </string-array>
+    <string-array name="rcs_ft_fallback">
+        <item>묻지 않고 항상 SMS 링크로 보내기</item>
+        <item>묻지 않고 SMS 링크로 보내지 않기</item>
+        <item>항상 묻기</item>
+    </string-array>
+    <string-array name="rcs_message_fallback">
+        <item>묻지 않고 항상 SMS로 보내기</item>
+        <item>묻지 않고 SMS로 보내지 않기</item>
+        <item>항상 묻기</item>
+    </string-array>
+    <string-array name="rcs_picture_quality_setting">
+        <item>항상 묻기</item>
+        <item>원본</item>
+        <item>용량이 큰 경우 압축해서 보내기</item>
+    </string-array>
+    <string-array name="rcs_video_quality_setting">
+        <item>항상 묻기</item>
+        <item>원본</item>
+        <item>용량이 큰 경우 압축해서 보내기</item>
+    </string-array>
+    <string-array name="recv_type">
+        <item>받기 및 알리기</item>
+        <item>받기만</item>
+        <item>거부</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
@@ -60,12 +90,5 @@
     <string-array name="switch_sdk">
         <item>Mi 메시지</item>
         <item>CMCC 스마트 SMS</item>
-    </string-array>
-    <string-array name="reason_type">
-        <item>사기</item>
-        <item>음란 등 불법 콘텐츠</item>
-        <item>스팸</item>
-        <item>기타</item>
-        <item>취소</item>
     </string-array>
 </resources>
