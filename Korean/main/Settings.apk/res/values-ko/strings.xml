@@ -9525,6 +9525,11 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="solar_term_winter_begins">입춘</string>
     <string name="solar_term_winter_solstice">동지</string>
     <string name="sos_privacy_policy">개인정보 보호정책</string>
+    <string name="stylus_connect_fail">"연결할 수 없습니다. 다시 연결하십시오."</string>
+    <string name="stylus_connect_fail_no_battery">지금 스타일러스 충전</string>
+    <string name="stylus_connect_fail_no_reason">"연결할 수 없음"</string>
+    <string name="stylus_connect_fail_not_open_gps">"연결할 수 없습니다. 위치 서비스를 켜고 다시 시도하십시오."</string>
+    <string name="stylus_connecting">연결 중...</string>
     <string name="stylus_ota_check_update">확인 및 업데이트</string>
     <string name="stylus_ota_current_firmware_version">현재 펌웨어 버전</string>
     <string name="stylus_ota_downloading_firmware">펌웨어 다운로드</string>
@@ -9536,7 +9541,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="stylus_ota_serial_number">일련 번호</string>
     <string name="stylus_ota_update">업데이트</string>
     <string name="stylus_ota_updating">업데이트</string>
-	<string name="stylus_ota_completed">업데이트 완료</string>
+    <string name="stylus_ota_completed">업데이트 완료</string>
     <string name="stylus_ota_completed_tip">펌웨어 업데이트를 완료했습니다. 스타일러스를 부착해 연결하세요.</string>
     <string name="stylus_ota_firmware_info">펌웨어</string>
     <string name="stylus_ota_hava_new_version">"새 버전: "</string>
