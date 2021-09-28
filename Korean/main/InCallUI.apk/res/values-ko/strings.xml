@@ -283,5 +283,8 @@
     <string name="description_incoming_video">수신 전화에 대한 프로필 동영상</string>
     <string name="relay_cal_from_device_name">%1$s 로부터</string>
     <string name="relay_call">핸드오프</string>
-    <string name="relay_call_device_name">연결된 기기 (%1$s)</string> 
+    <string name="relay_call_device_name">연결된 기기 (%1$s)</string>
+    <string name="muix_access_state_desc">선택됨</string>
+    <string name="muix_alphabet_indexer_name">색인 막대</string>
+    <string name="muix_indexer_selected">%s개 선택됨</string>
 </resources>
