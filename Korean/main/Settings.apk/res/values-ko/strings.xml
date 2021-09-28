@@ -1261,6 +1261,9 @@
     <string name="bluetooth_phonebook_request">전화번호부 액세스 요청</string>
     <string name="bluetooth_pin_values_hint">일반적으로 0000 또는 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">16자리 숫자여야 합니다.</string>
+    <string name="bluetooth_plugins_check_summary">네트워크에 연결하여 업데이트 확인</string>
+    <string name="bluetooth_plugins_check_summary_new">업데이트가 있습니다</string>
+    <string name="bluetooth_plugins_check_title">블루투스 플러그인 업데이트</string>
     <string name="bluetooth_pref_summary">휴대전화가 주변 Bluetooth 기기와 통신하도록 허용</string>
     <string name="bluetooth_preference_connected_devices">연결된 기기들</string>
     <string name="bluetooth_preference_device_settings">기기 설정</string>
