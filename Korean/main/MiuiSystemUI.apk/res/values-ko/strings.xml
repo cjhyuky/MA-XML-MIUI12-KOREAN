@@ -2860,9 +2860,9 @@ Wi‑Fi 주소(BSSID)
     <string name="fingerprint_again_identified_msg_password">지문 기능이 복원되었습니다. 지문 또는 복잡한 암호를 사용하여 잠금을 해제할 수 있습니다.</string>
     <string name="fingerprint_again_identified_msg_pattern">지문 기능이 복원되었습니다. 지문 또는 그래픽 비밀번호로 잠금 해제 가능</string>
     <string name="fingerprint_again_identified_msg_pin">지문 기능이 복원되었습니다. 지문 또는 디지털 비밀번호로 잠금 해제 가능</string>
-    <string name="fingerprint_not_identified_msg_password">지문 인증이 최대 횟수만큼 실패했습니다. 나중에 다시 시도하거나 복잡한 암호를 사용하여 잠금을 해제하십시오.</string>
-    <string name="fingerprint_not_identified_msg_pattern">최대 횟수까지 지문 인증에 실패하십시오. 나중에 다시 시도하거나 그래픽 암호를 사용하여 수행하십시오.</string>
-    <string name="fingerprint_not_identified_msg_pin">지문 인증이 최대 횟수만큼 실패했습니다. 나중에 다시 시도하거나 디지털 비밀번호를 사용하여 잠금을 해제하십시오.</string>
+    <string name="fingerprint_not_identified_msg_password">최대 횟수까지 지문 인증에 실패했습니다. 나중에 다시 시도하거나 암호를 사용하여 잠금을 해제하십시오.</string>
+    <string name="fingerprint_not_identified_msg_pattern">최대 횟수까지 지문 인증에 실패했습니다. 나중에 다시 시도하거나 패턴을 사용하여 잠금을 해제하십시오.</string>
+    <string name="fingerprint_not_identified_msg_pin">최대 횟수까지 지문 인증에 실패했습니다. 나중에 다시 시도하거나 비밀번호를 사용하여 잠금을 해제하십시오.</string>
     <string name="friday">금요일</string>
     <string name="friday_short">금</string>
     <string name="friday_shortest">금</string>
