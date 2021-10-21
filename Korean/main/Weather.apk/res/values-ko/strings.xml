@@ -443,4 +443,25 @@
     <string name="pad_keyboard_add_city">위치 추가</string>
     <string name="pad_keyboard_left_switch">이전 위치</string>
     <string name="pad_keyboard_right_switch">다음 위치</string>
+    <string name="sunday">일요일</string>
+    <string name="sunday_short">일</string>
+    <string name="sunday_shortest">일</string>
+    <string name="monday">월요일</string>
+    <string name="monday_short">월</string>
+    <string name="monday_shortest">월</string>
+    <string name="tuesday">화요일</string>
+    <string name="tuesday_short">화</string>
+    <string name="tuesday_shortest">화</string>
+    <string name="wednesday">수요일</string>
+    <string name="wednesday_short">수</string>
+    <string name="wednesday_shortest">수</string>
+    <string name="thursday">목요일</string>
+    <string name="thursday_short">목</string>
+    <string name="thursday_shortest">목</string>
+    <string name="friday">금요일</string>
+    <string name="friday_short">금</string>
+    <string name="friday_shortest">금</string>
+    <string name="saturday">토요일</string>
+    <string name="saturday_short">토</string>
+    <string name="saturday_shortest">토</string>
 </resources>
