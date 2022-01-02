@@ -2531,8 +2531,8 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="display_vr_pref_title">기기가 VR 모드인 경우</string>
     <string name="display_white_balance_summary" />
     <string name="display_white_balance_title">디스플레이 화이트 밸런스</string>
-    <string name="diy_suppression_summary">필요에 따라 오작동 방지 영역의 크기를 조정하세요.</string>
-    <string name="diy_suppression_title">맞춤</string>
+    <string name="diy_suppression_summary">터치 오작동을 무시할 범위의 크기를 조절하세요.</string>
+    <string name="diy_suppression_title">사용자 지정</string>
     <string name="dlg_cancel">취소</string>
     <string name="dlg_confirm_unmount_text">USB 저장소를 마운트 해제하면 사용 중인 일부 앱이 중지되고 USB 저장소를 다시 마운트할 때까지 사용할 수 없게 됩니다.</string>
     <string name="dlg_confirm_unmount_title">USB 저장소를 마운트 해제하시겠습니까?</string>
@@ -2688,8 +2688,8 @@ aptX Adaptive: 코덱 모드"</string>
     <string name="edge_mode_photo_summary">카메라 앱에서 화면 가장자리를 탭해 셔터를 작동시키고 한 번 더 탭해 사진을 찍으세요.</string>
     <string name="edge_mode_screenshot">스크린샷</string>
     <string name="edge_mode_screenshot_summary">화면 양쪽 가장자리를 두 번 탭해 스크린샷을 찍으세요.</string>
-    <string name="edge_mode_state_summary">부주의 한 터치를 방지하기 위해 곡면 화면의 가장자리를 설정하세요. 이 영역의 그립 및 터치 동작에 응답하지 않습니다.</string>
-    <string name="edge_mode_state_title">가장자리의 우연한 접촉을 무시합니다.</string>
+    <string name="edge_mode_state_summary">곡면 모서리 주변 부분은 터치에 반응하지 않습니다.</string>
+    <string name="edge_mode_state_title">모서리 터치 오작동 방지</string>
     <string name="edge_to_edge_navigation_summary">홈으로 이동하려면 화면 하단에서 위로 스와이프합니다. 앱을 전환하려면 아래에서 위로 스와이프하고 잠시 기다린 다음 손가락을 뗍니다. 뒤로 돌아가려면 왼쪽 또는 오른쪽 가장자리에서 스와이프합니다.</string>
     <string name="edge_to_edge_navigation_title">동작 탐색</string>
     <string name="edit_rule">규칙 편집</string>
@@ -3550,7 +3550,7 @@ Xiaomi 클라우드를 열고 거기에서 항목을 복원하세요."</string>
     <string name="instruction_privacy_password">이 비밀번호는 다음의 항목들을 보호합니다.</string>
     <string name="instruction_title">설명서</string>
     <string name="insufficient_storage">저장공간이 충분하지 않습니다.</string>
-    <string name="intelligence_suppression_summary">그립을 기준으로 우발적인 터치가 무시되는 가장자리 부근의 크기를 동적으로 조정합니다.</string>
+    <string name="intelligence_suppression_summary">사용자가 기기를 잡는 방식에 따라 모서리 주변 터치 오작동 방지 영역이 자동으로 조절됩니다.</string>
     <string name="intelligence_suppression_title">자동 (권장)</string>
     <string name="intent_sender_account_label">계정:</string>
     <string name="intent_sender_action_label">Action:</string>
@@ -7239,8 +7239,8 @@ SOS 비상 지원 기능을 정상적으로 사용하려면 위치를 얻고 모
     <string name="storageuse_settings_title">저장공간 사용량</string>
     <string name="strict_mode">엄격 모드 사용</string>
     <string name="strict_mode_summary">앱이 기본 스레드에서 오래 작업하면 화면 깜박이기</string>
-    <string name="strong_suppression_summary">터치 실수에 반응이 둔감해지지만, 화면 모서리에서 일부 제스처 제어가 제대로 작동하지 않을 수 있습니다.</string>
-    <string name="strong_suppression_title">큰 범위</string>
+    <string name="strong_suppression_summary">터치 오작동이 줄어들지만, 일부 모서리 주변 제스처 제어가 작동하지 않을 수 있습니다.</string>
+    <string name="strong_suppression_title">넓은 범위</string>
     <string name="structure_add_facerecoginition_text">3D 얼굴 데이터 추가</string>
     <string name="structure_face_data_delete_fail">"3D 얼굴 데이터를 삭제할 수 없습니다. 다시 시도하세요."</string>
     <string name="structure_face_data_input_down">머리를 내립니다.</string>
@@ -8201,8 +8201,8 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="vr_listeners_title">VR 도우미 서비스</string>
     <string name="wait_for_debugger">디버거 연결을 위해 대기</string>
     <string name="wait_for_debugger_summary">디버깅된 애플리케이션이 실행되기 전에 디버거 연결을 위해 대기</string>
-    <string name="wake_suppression_summary">기기가 실수로 터치하면 반응이 좋아지지만 가장자리 주변의 대부분의 제스처 컨트롤에도 반응합니다.</string>
-    <string name="wake_suppression_title">작은 범위</string>
+    <string name="wake_suppression_summary">터치 오작동이 늘어나지만, 일부 모서리 주변 제스처 제어에 대한 반응이 좋아집니다.</string>
+    <string name="wake_suppression_title">좁은 범위</string>
     <string name="wakeup_and_sleep_settings_category_name">잠금 화면 설정</string>
     <string name="wakeup_for_keyguard_notification_title">알림 수신 시 잠금 화면 켜기</string>
     <string name="wallet_header_title">지갑 및 결제</string>
