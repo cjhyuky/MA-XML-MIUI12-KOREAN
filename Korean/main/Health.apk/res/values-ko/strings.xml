@@ -697,7 +697,7 @@
     <string name="last_sync_time">최종 동기화 : %1$s</string>
     <string name="late">늦음</string>
     <string name="light_sleep_duration">라이트 수면 시간</string>
-    <string name="light_sleep_duration_description">"사람이 잘 때 주기적으로 빠른 안구 운동이 발생합니다. 수면은 급속 안구 운동(REM) 수면과 비 급속 안구 운동(NREM) 수면으로 나눌 수 있습니다. 얕은 수면은 전체 수면 시간의 약 50~60%를 차지하는 NREM 수면 기간 동안 발생합니다. 얕은 수면 중에는 의식이 점차 감소하고 뇌는 상대적으로 정적이지만 여전히 쉽게 깨울 수 있습니다."</string>
+    <string name="light_sleep_duration_description">"사람이 잘 때 주기적으로 빠른 안구 운동이 발생합니다. 수면은 급속 안구 운동(REM) 수면과 비 급속 안구 운동(NREM) 수면으로 나눌 수 있습니다. 얕은 수면은 전체 수면 시간의 약 50~60%%를 차지하는 NREM 수면 기간 동안 발생합니다. 얕은 수면 중에는 의식이 점차 감소하고 뇌는 상대적으로 정적이지만 여전히 쉽게 깨울 수 있습니다."</string>
     <string name="light_sleep_time_decrease_description">약간의 수면 시간이 너무 짧습니다.</string>
     <string name="light_sleep_time_increase_description">약간의 수면 시간이 너무 깁니다.</string>
     <string name="light_sleep_time_normal_description">충분한 수면 상태입니다.</string>
