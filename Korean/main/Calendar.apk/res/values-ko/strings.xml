@@ -855,10 +855,8 @@
     <string name="service_rejected_temporarily">인증서 임시 거부됨</string>
     <string name="set_as_wallpaper">배경화면으로 설정</string>
     <string name="setting">설정</string>
-    <string name="setting_about_calendar_version">캘린더 버전: %1$s-%2$s</string>
-    <string name="setting_about_imei">IMEI: %1$s</string>
-    <string name="setting_about_miui_version">MIUI 버전: %1$s-%2$s</string>
-    <string name="setting_about_oaid">OAID: %1$s</string>
+    <string name="setting_about_calendar_version">캘린더 버전:</string>
+    <string name="setting_about_miui_version">MIUI 버전:</string>
     <string name="setting_about_summary">버전:</string>
     <string name="setting_accounts">캘린더 계정</string>
     <string name="setting_chinese_calendar">음력</string>
@@ -895,9 +893,6 @@
     <string name="snooze_all_label">모두 일시중지</string>
     <string name="snooze_label">알림 일시중지</string>
     <string name="solar_date_content_desc">그레고리력에 따른 날짜</string>
-    <string name="solar_lunar_convert_description">양력 음력 전환</string>
-    <string name="solar_lunar_convert_description_2">양력 음력 전환</string>
-    <string name="solar_lunar_convert_tab">전환</string>
     <string name="solar_term_autumn_begins">입추</string>
     <string name="solar_term_autumn_equinox">추분</string>
     <string name="solar_term_clear_and_bright">청명</string>
